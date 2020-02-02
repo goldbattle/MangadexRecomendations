@@ -11,7 +11,7 @@ from sklearn.metrics.pairwise import linear_kernel
 # files in and out and settings
 file_in = "mangas_genres.json"
 file_out = "mangas_matched.json"
-min_same_genres = 1
+min_same_genres = 2
 min_same_demographic = 1
 
 
