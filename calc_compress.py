@@ -14,7 +14,6 @@ with open(file_in) as json_file:
 
 # cleaned data file with no dups
 managa_data_out = {}
-managa_data_out["result"] = []
 
 # loop through each index page, and extract the mangas
 t0 = time.time()
@@ -22,14 +21,16 @@ for ct1, manga1 in enumerate(managa_data):
 
     # create the cleaned manga
     manga_temp = {}
-    manga_temp["id"] = manga1["id"]
-    manga_temp["title"] = manga1["title"]
-    manga_temp["matches"] = []
+    manga_temp["m_ids"] = []
+    manga_temp["m_titles"] = []
+    manga_temp["scores"] = []
     for match in manga1["matches"]:
-        manga_temp["matches"].append({"id": match["id"], "title": match["title"], "score": match["score"]})
+        manga_temp["m_ids"].append(match["id"])
+        manga_temp["m_titles"].append(match["title"])
+        manga_temp["scores"].append(round(match["score"], 3))
 
     # Append to the clean data out vector if not added
-    managa_data_out["result"].append(manga_temp)
+    managa_data_out[manga1["id"]] = manga_temp
 
 
 # finally write to file the result

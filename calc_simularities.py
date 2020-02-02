@@ -11,7 +11,7 @@ from sklearn.metrics.pairwise import linear_kernel
 # files in and out and settings
 file_in = "mangas_genres.json"
 file_out = "mangas_matched.json"
-min_same_genres = 2
+min_same_genres = 1
 min_same_demographic = 1
 
 
@@ -26,26 +26,18 @@ print("loaded " + str(len(managa_data)) + " mangas")
 # NOTE: we remove non-english words, is this really ok?
 # NOTE: should we add the genres here?? not sure..
 corpus = []
-#nltk.download('words')
-#words = set(nltk.corpus.words.words())
 printable = set(string.printable)
 for ct, manga1 in enumerate(managa_data):
-    str_raw = manga1["title"]+". "+manga1["description"]+". "
+    str_raw = manga1["title"]+". "+manga1["description"]
     str_raw = re.sub(r'http\S+', '', str_raw)
     str_raw = ''.join(filter(lambda x: x in printable, str_raw))
     #str_eng = re.sub(r'[^A-Za-z0-9 ]+', '', manga1["title"]+". "+manga1["description"])
-    #str_eng = str_eng.encode("ascii", errors="ignore").decode()
-    #for word in manga1["description"].split():
-    #    if word in words:
-    #        str_eng = str_eng + " " + word.lower()
-    #print(str_eng)
     corpus.append((ct, str_raw))
 
 
 # build a TF/IDF matrix for each paper
-# , min_df=0
 # https://markhneedham.com/blog/2016/07/27/scitkit-learn-tfidf-and-cosine-similarity-for-computer-science-papers/
-tf = TfidfVectorizer(analyzer='word', ngram_range=(1, 3), stop_words='english')
+tf = TfidfVectorizer(analyzer='word', min_df=0, ngram_range=(1, 3), stop_words='english')
 tfidf_matrix = tf.fit_transform([content for file, content in corpus])
 
 
@@ -69,15 +61,15 @@ for ct, manga1 in enumerate(managa_data):
     count_matched = 0
     manga_temp = manga1
     manga_temp["matches"] = []
-    for index, score in find_similar(tfidf_matrix, ct, 30):
+    for index, score in find_similar(tfidf_matrix, ct, 100):
 
         # skip if low score value
         if score < 0.01:
             continue
 
-        # skip if already have our top 12
-        if len(manga_temp["matches"]) >= 12:
-            continue
+        # skip if already have our top 24
+        if len(manga_temp["matches"]) > 24:
+            break
 
         # count number of genres are the same
         idx = corpus[index][0]
