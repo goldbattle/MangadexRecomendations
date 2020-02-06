@@ -12,9 +12,10 @@ from bs4 import BeautifulSoup
 # jan 20, 2020 -> 795 total pages
 # jan 24, 2020 -> 796 total pages
 # jan 25, 2020 -> 797 total pages
+# feb 2, 2020 -> 800 total pages
 url_main = "https://mangadex.org"
 file_inout = "mangas_raw.json"
-max_pages = 797
+max_pages = 800
 pull_from_website = False
 cookies = {
     'mangadex_session': 'xxxxxxx',
@@ -63,7 +64,7 @@ for i in range(0, max_pages + 1):
         url_img = links[0].find('img')['src']
         id = int(re.search(r'\d+', url).group())
         des = managa.find_all('div')[-1].getText()
-        if len(title) > 0 and len(url) > 0 and len(des) > 200 and id > 0:
+        if len(title) > 0 and len(url) > 0 and len(des) > 100 and id > 0:
             managa_data.append({'id': id, 'title': title, 'url': url_main+url, 'img': url_main+url_img, 'description': des})
             count_added = count_added + 1
 
