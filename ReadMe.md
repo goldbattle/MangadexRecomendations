@@ -5,7 +5,8 @@ This repo has both the scraping utilities and the matching utilities to find man
 
 ## Manga JSON Download
 
-* [**Latest Recommendation File**](https://github.com/goldbattle/MangadexRecomendations/releases/download/0.0.1/mangas_compressed.json)
+* [**Latest Recommendation File**](https://github.com/goldbattle/MangadexRecomendations/releases/download/0.0.2/mangas_compressed.json)
+* [link](https://github.com/goldbattle/MangadexRecomendations/releases/download/0.0.2/mangas_compressed.json) - v0.0.2 update release, Feb 5, 2020
 * [link](https://github.com/goldbattle/MangadexRecomendations/releases/download/0.0.1/mangas_compressed.json) - v0.0.1 initial release of matches, Jan 28, 2020
 
 
