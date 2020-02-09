@@ -1,8 +1,8 @@
 
 # ignore our downloaded webpages
 *.html
-pages_list/*.txt
-pages_main/*.txt
+data/pages_list/*.txt
+data/pages_main/*.txt
 
 
 # ignore our other files
@@ -36,6 +36,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+*.pyc
+__pycache__
 
 
 # ignore the idea editor files
