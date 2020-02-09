@@ -26,6 +26,7 @@ class MangaObj:
         self.genre = None
         self.theme = None
         self.matches = []
+        self.vec_xor_cached = None
 
         # if we have a json object then we should load it
         # if the json is missing things they will stay None
@@ -54,28 +55,20 @@ class MangaObj:
         if "matches" in json_obj:
             self.matches = json_obj["matches"]
 
-    def download_and_parse_labels(self, headers, cookies, pull_from_website):
+    def download_and_parse_labels(self, headers, cookies):
 
         # assert that we have at least the id and url set
         assert self.id
         assert self.url
 
         # Download the file if needed, otherwise load from disk
-        filename = "data/pages_main/html_" + format(self.id, '06') + ".txt"
-        if pull_from_website or not os.path.exists(filename):
-            print("    -> manga " + str(self.id) + " downloading " + self.url)
-            response = requests.get(self.url, cookies=cookies, headers=headers)
-            if "is not available" in response.text:
-                print("\033[93mwarning!! manga download probably failed!!\033[0m")
-            file = codecs.open(filename, "w", "utf-8")
-            file.write(response.text)
-
-        # Read the file from disk
-        file = codecs.open(filename, "r", "utf-8")
-        response_test = file.read()
+        print("    -> manga " + str(self.id) + " downloading " + self.url)
+        response = requests.get(self.url, cookies=cookies, headers=headers)
+        if "is not available" in response.text:
+            print("\033[93mwarning!! manga download probably failed!!\033[0m")
 
         # Create a BeautifulSoup object
-        soup = BeautifulSoup(response_test, 'html.parser')
+        soup = BeautifulSoup(response.text, 'html.parser')
 
         # Content
         divs_cont = soup.find_all(text=re.compile('Content:'))
@@ -99,6 +92,10 @@ class MangaObj:
 
     def compute_xor_label_vector(self, all_labels):
 
+        # return cache if we have it
+        if self.vec_xor_cached:
+            return self.vec_xor_cached
+
         # create default vector for each label
         vec = [False] * len(all_labels)
 
@@ -115,4 +112,5 @@ class MangaObj:
                 vec[id] = True
 
         # finally return the list of matches
-        return vec
+        self.vec_xor_cached = vec
+        return self.vec_xor_cached

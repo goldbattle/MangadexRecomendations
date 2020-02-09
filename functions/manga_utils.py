@@ -1,3 +1,10 @@
+import json
+import os.path
+from math import floor
+
+from functions import manga_obj
+
+
 def get_labels_from_soup_obj(divs):
     # return if we don't have any divs
     vec_strs = []
@@ -74,6 +81,10 @@ def get_compressed_representation_string(manga_data):
     # loop through each index page, and extract the mangas
     for ct1, manga1 in enumerate(manga_data):
 
+        # skip if we don't have matches
+        if len(manga1.matches) < 1:
+            continue
+
         # create the cleaned manga
         manga_temp = {}
         manga_temp["m_ids"] = []
@@ -89,3 +100,41 @@ def get_compressed_representation_string(manga_data):
 
     # return the dict
     return managa_data_out
+
+
+def read_raw_manga_data_files(path, n=10):
+    # data to return
+    manga_data = []
+    # loop through each file and append
+    for ct in range(0, n):
+        file_in = path + "mangas_raw_" + str(ct) + ".json"
+        if os.path.exists(file_in):
+            print("opening " + file_in)
+            with open(file_in) as json_file:
+                manga_data_json = json.load(json_file)
+            for manga_json in manga_data_json:
+                manga_data.append(manga_obj.MangaObj(manga_json))
+        else:
+            print("\033[93mwarning!! unable to open " + file_in + "!!\033[0m")
+    return manga_data
+
+
+def write_raw_manga_data_files(path, manga_data, n=10):
+    # create output direction if not exists
+    if not os.path.exists(os.path.dirname(path)):
+        os.makedirs(os.path.dirname(path))
+
+    # loop through each file and append
+    count_exported = 0
+    count_per_file = floor(len(manga_data) / float(n)) + 1
+    for ct in range(0, n):
+        file_out = path + "mangas_raw_" + str(ct) + ".json"
+        with open(file_out, 'w') as outfile:
+            out_data = []
+            for i in range(0, count_per_file):
+                if count_exported > len(manga_data)-1:
+                    break
+                out_data.append(manga_data[count_exported].__dict__)
+                count_exported += 1
+            json.dump(out_data, outfile, indent=4, sort_keys=True)
+    return manga_data

@@ -2,6 +2,7 @@
 import time
 import json
 import re
+import sys
 import codecs
 import requests
 import os.path
@@ -12,50 +13,41 @@ from functions import manga_obj
 from functions import manga_utils
 
 # script parameters
-# jan 20, 2020 -> 795 total pages
-# jan 24, 2020 -> 796 total pages
-# jan 25, 2020 -> 797 total pages
-# feb 2, 2020 -> 800 total pages
 url_main = "https://mangadex.org"
-file_out = "output/mangas_raw.json"
-max_pages = 800
+dir_inout = "output/"
 pull_from_website = False
-cookies = {
-    'mangadex_session': 'xxxxxxxxxxxxxxx',
-    'mangadex_rememberme_token': 'xxxxxxxxxxxxxxx'
-}
+cookies = {}
+if len(sys.argv) == 3:
+    cookies['mangadex_session'] = sys.argv[1]
+    cookies['mangadex_rememberme_token'] = sys.argv[2]
 headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.123 Safari/537.36'
+    'User-Agent': 'Mozilla/5.0 (Windows NT 6.3; WOW64)'
 }
 
-# the main json object we have
-manga_data = []
+# if we have a cache'ed old file load it in
+manga_data = manga_utils.read_raw_manga_data_files(dir_inout)
+print("loaded " + str(len(manga_data)) + " from file")
 time_start = time.time()
 
 # loop through each index page, and extract the mangas
-for i in range(0, max_pages + 1):
+page_count = 0
+count_num_times_we_had_zero_mangas = 0
+while count_num_times_we_had_zero_mangas < 2:
 
     # Download the page if we should get new ones
     t0 = time.time()
-    filename = "data/pages_list/html_" + format(i, '03') + ".txt"
-    if pull_from_website or not os.path.exists(filename):
-        urlstr = url_main + '/titles/0/' + str(i) + '/?s=2#listing'
-        print("downloading " + urlstr)
-        response = requests.get(urlstr, cookies=cookies, headers=headers)
-        file = codecs.open(filename, "w", "utf-8")
-        file.write(response.text)
-
-    # Read the file from disk
-    file = codecs.open(filename, "r", "utf-8")
-    response_test = file.read()
+    urlstr = url_main + '/titles/0/' + str(page_count) + '/?s=2#listing'
+    print("downloading " + urlstr)
+    response = requests.get(urlstr, cookies=cookies, headers=headers)
 
     # Create a BeautifulSoup object
-    soup = BeautifulSoup(response_test, 'html.parser')
+    soup = BeautifulSoup(response.text, 'html.parser')
 
     # Get all mangas on this page, and process them
     count_added = 0
     manga_list = soup.find_all(class_='manga-entry')
     for manga in manga_list:
+
         # extract from html
         links = manga.find_all('a')
 
@@ -65,9 +57,22 @@ for i in range(0, max_pages + 1):
         data.url = url_main + links[1]['href']
         data.id = int(re.search(r'\d+', data.url).group())
         data.title = links[1].getText()
-        # data.img = url_main+links[0].find('img')['src']
         data.description = manga.find_all('div')[-1].getText()
-        data.download_and_parse_labels(headers, cookies, pull_from_website)
+
+        # check if this manga has already been downloaded
+        already_downloaded = False
+        for ct, manga in enumerate(manga_data):
+            if data.id == manga.id:
+                already_downloaded = True
+                break
+
+        # if it is already downloaded and are being told not to pull
+        # then we should skip this manga so we don't need to process it!
+        if already_downloaded and not pull_from_website:
+            continue
+
+        # now lets download the labels if this is a new manga
+        data.download_and_parse_labels(headers, cookies)
 
         # nice debug for this
         t21 = time.time()
@@ -79,10 +84,15 @@ for i in range(0, max_pages + 1):
         manga_data.append(data)
         count_added = count_added + 1
 
+    # here we should how many mangas we have extracted from this page
+    # we will know we have reached the end of the listing if we have zero
+    if len(manga_list) < 1:
+        count_num_times_we_had_zero_mangas += 1
+    page_count += 1
+
     # Nice debug to the user
     t1 = time.time()
-    print(str(round(100 * float(i + 1) / (max_pages + 1), 2)) +
-          "% -> page " + str(i) + " processed " + str(count_added)
+    print("page " + str(page_count) + " processed " + str(count_added)
           + " mangas in " + str(round(t1 - t0, 2)) + " seconds")
 
 # Remove any mangas that have been added to the json with the same id/title
@@ -98,12 +108,7 @@ t1 = time.time()
 print("===========================")
 print("reduced " + str(ct_before) + " to only " + str(ct_after) + " mangas (" + str(round(t1 - t0, 2)) + " seconds)")
 
-# create output direction if not exists
-if not os.path.exists(os.path.dirname(file_out)):
-    os.makedirs(os.path.dirname(file_out))
-
 # Save our json to file!
-with open(file_out, 'w') as outfile:
-    json.dump([ob.__dict__ for ob in manga_data], outfile, indent=4, sort_keys=True)
-print("outputted to " + file_out)
+manga_utils.write_raw_manga_data_files(dir_inout, manga_data)
+print("outputted to " + dir_inout)
 print("script took " + str(round(time.time() - time_start, 2)) + " seconds")

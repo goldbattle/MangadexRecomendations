@@ -4,11 +4,6 @@
 data/pages_list/*.txt
 data/pages_main/*.txt
 
-
-# ignore our other files
-*.json
-
-
 # ignore python stuff
 .Python
 build/
