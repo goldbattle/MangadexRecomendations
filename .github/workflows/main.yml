@@ -1,6 +1,10 @@
 name: Daily Related Manga Update
 
 
+on: [push]
+#  schedule:
+#    - cron: '0 0 * * *'
+
 
 jobs:
   build:
