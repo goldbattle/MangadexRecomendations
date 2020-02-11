@@ -2,7 +2,7 @@ name: Daily Related Manga Update
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '21 2 * * *'
 
 jobs:
   build:
@@ -38,3 +38,14 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Upload The Release Asset
+        id: latest
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: "https://uploads.github.com/repos/goldbattle/MangadexRecomendations/releases/1/assets"
+          asset_path: output/mangas_compressed.json
+          asset_name: mangas_compressed.json
+          asset_content_type: application/zip
