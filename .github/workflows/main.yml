@@ -2,7 +2,7 @@ name: Daily Related Manga Update
 
 on:
   schedule:
-    - cron: '15 9 * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   build:
