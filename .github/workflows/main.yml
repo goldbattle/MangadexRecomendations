@@ -46,4 +46,4 @@ jobs:
       with:
         files: 'output/mangas_compressed.json'
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-#        release-tag: 'latest'
+        release-tag: 'v1.0.0'
