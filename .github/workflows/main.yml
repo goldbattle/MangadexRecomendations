@@ -46,7 +46,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        upload_url: "https://uploads.github.com/repos/goldbattle/MangadexRecomendations/releases/1/assets"
+        upload_url: "/repos/goldbattle/MangadexRecomendations/releases/1"
         asset_path: "output/mangas_compressed.json"
         asset_name: "mangas_compressed.json"
         asset_content_type: application/json
