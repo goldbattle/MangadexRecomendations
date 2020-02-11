@@ -42,11 +42,8 @@ jobs:
 #        github_token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Upload The Release Asset
-      uses: actions/upload-release-asset@v1
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      uses: AButler/upload-release-assets@v2.0
       with:
-        upload_url: "https://api.github.com/repos/goldbattle/MangadexRecomendations/releases/1"
-        asset_path: "output/mangas_compressed.json"
-        asset_name: "mangas_compressed.json"
-        asset_content_type: application/json
+        files: 'output/mangas_compressed.json'
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        release-tag: 'latest'
