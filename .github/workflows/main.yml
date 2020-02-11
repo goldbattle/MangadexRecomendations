@@ -26,20 +26,20 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests bs4 scikit-learn
 
-    - name: Update Master Manga List
-      run: python 01_scrape_mangas.py
-    - name: Find Related Mangas
-      run: python 02_calc_similarities.py
+#    - name: Update Master Manga List
+#      run: python 01_scrape_mangas.py
+#    - name: Find Related Mangas
+#      run: python 02_calc_similarities.py
       
-    - name: Commit files
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git commit -m "Updated Related Manga JSON" -a
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+#    - name: Commit files
+#      run: |
+#        git config --local user.email "action@github.com"
+#        git config --local user.name "GitHub Action"
+#        git commit -m "Updated Related Manga JSON" -a
+#    - name: Push changes
+#      uses: ad-m/github-push-action@master
+#      with:
+#        github_token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Upload The Release Asset
       uses: actions/upload-release-asset@v1
