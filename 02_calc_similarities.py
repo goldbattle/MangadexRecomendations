@@ -1,24 +1,22 @@
 # Import libraries
 import time
 import re
-import os
 import json
 import string
 import operator
 
 # import our specific functions
-from functions import manga_obj
 from functions import manga_utils
 from functions import manga_compator
 
 # files in and out and settings
 dir_inout = "output/"
-min_same_labels = 3
+min_same_labels = 2
 min_demographic = 1
 min_desc_chars = 50
-max_num_matches = 9
-ignore_label_score_above_this_val = 1.0
-weighting_label_score = 0.005
+max_num_matches = 18
+ignore_label_score_above_this_val = 0.05
+weighting_label_score = 0.001
 redo_all_matches = False
 
 # Open the manga json file and load

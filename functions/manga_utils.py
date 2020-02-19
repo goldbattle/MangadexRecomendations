@@ -1,6 +1,5 @@
 import json
 import os.path
-from math import floor
 
 from functions import manga_obj
 
@@ -102,12 +101,15 @@ def get_compressed_representation_string(manga_data):
     return managa_data_out
 
 
-def read_raw_manga_data_files(path, n=10):
+def read_raw_manga_data_files(path):
     # data to return
     manga_data = []
     # loop through each file and append
-    for ct in range(0, n):
+    ct = 0
+    found_file = False
+    while not found_file:
         file_in = path + "mangas_raw_" + str(ct) + ".json"
+        ct = ct + 1
         if os.path.exists(file_in):
             print("opening " + file_in)
             with open(file_in) as json_file:
@@ -116,19 +118,21 @@ def read_raw_manga_data_files(path, n=10):
                 manga_data.append(manga_obj.MangaObj(manga_json))
         else:
             print("\033[93mwarning!! unable to open " + file_in + "!!\033[0m")
+            found_file = True
     return manga_data
 
 
-def write_raw_manga_data_files(path, manga_data, n=10):
+def write_raw_manga_data_files(path, manga_data, count_per_file=5000):
     # create output direction if not exists
     if not os.path.exists(os.path.dirname(path)):
         os.makedirs(os.path.dirname(path))
 
     # loop through each file and append
+    ct = 0
     count_exported = 0
-    count_per_file = floor(len(manga_data) / float(n)) + 1
-    for ct in range(0, n):
+    while count_exported < len(manga_data):
         file_out = path + "mangas_raw_" + str(ct) + ".json"
+        ct = ct + 1
         with open(file_out, 'w') as outfile:
             out_data = []
             for i in range(0, count_per_file):
@@ -136,5 +140,6 @@ def write_raw_manga_data_files(path, manga_data, n=10):
                     break
                 out_data.append(manga_data[count_exported].__dict__)
                 count_exported += 1
-            json.dump(out_data, outfile, indent=4, sort_keys=True)
+            # json.dump(out_data, outfile, indent=2, sort_keys=False)
+            json.dump(out_data, outfile, sort_keys=False)
     return manga_data

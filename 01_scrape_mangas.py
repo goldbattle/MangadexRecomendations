@@ -1,11 +1,8 @@
 # Import general libraries
 import time
-import json
 import re
 import sys
-import codecs
 import requests
-import os.path
 from bs4 import BeautifulSoup
 
 # import our specific functions
