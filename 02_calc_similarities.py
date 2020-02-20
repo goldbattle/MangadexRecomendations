@@ -13,7 +13,7 @@ from functions import manga_compator
 dir_inout = "output/"
 min_same_labels = 2
 min_demographic = 1
-min_desc_chars = 50
+min_desc_chars = 25
 max_num_matches = 18
 ignore_label_score_above_this_val = 0.05
 weighting_label_score = 0.001
