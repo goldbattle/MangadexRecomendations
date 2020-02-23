@@ -88,11 +88,9 @@ def get_compressed_representation_string(manga_data):
         manga_temp = {}
         manga_temp["m_ids"] = []
         manga_temp["m_titles"] = []
-        manga_temp["scores"] = []
         for match in manga1.matches:
             manga_temp["m_ids"].append(match["id"])
             manga_temp["m_titles"].append(match["title"])
-            manga_temp["scores"].append(round(match["score"], 3))
 
         # Append to the clean data out vector if not added
         managa_data_out[manga1.id] = manga_temp

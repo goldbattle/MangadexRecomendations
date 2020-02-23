@@ -162,7 +162,7 @@ print("outputted to " + dir_inout)
 # Finally get the compressed representation
 dict_compressed = manga_utils.get_compressed_representation_string(manga_data)
 with open(dir_inout + "mangas_compressed.json", 'w') as outfile:
-    json.dump(dict_compressed, outfile, indent=4, sort_keys=True)
+    json.dump(dict_compressed, outfile, sort_keys=False)
 print("outputted to " + dir_inout + "mangas_compressed.json")
 print("compressed " + str(len(manga_data)) + " to only " + str(len(dict_compressed)) + " mangas")
 print("script took " + str(round(time.time() - time_start, 2)) + " seconds")
