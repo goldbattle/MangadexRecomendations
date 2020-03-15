@@ -10,6 +10,8 @@ from functions import manga_obj
 from functions import manga_utils
 
 # script parameters
+# NOTE: you will be blocked if a high thread count is chosen
+# NOTE: thus pick a reasonable one (2 seems to work ok)
 url_main = "https://mangadex.org"
 dir_inout = "output/"
 pull_from_website = False
@@ -27,7 +29,7 @@ print("loaded " + str(len(manga_data)) + " from file")
 time_start = time.time()
 
 # loop through each index page, and extract the mangas
-page_count = 0
+page_count = 1
 count_num_times_we_had_zero_mangas = 0
 while count_num_times_we_had_zero_mangas < 2:
 
@@ -35,7 +37,7 @@ while count_num_times_we_had_zero_mangas < 2:
     t0 = time.time()
     urlstr = url_main + '/titles/0/' + str(page_count) + '/?s=2#listing'
     print("downloading " + urlstr)
-    response = requests.get(urlstr, cookies=cookies, headers=headers)
+    response = requests.get(urlstr, headers=headers)
 
     # Create a BeautifulSoup object
     soup = BeautifulSoup(response.text, 'html.parser')
@@ -56,6 +58,13 @@ while count_num_times_we_had_zero_mangas < 2:
         data.title = links[1].getText()
         data.description = manga.find_all('div')[-1].getText()
 
+        # get the baysian rating of this manga
+        stats = manga.find_all('ul')
+        if stats and len(stats) > 0:
+            stats = stats[0].findAll('li')
+            if stats and len(stats) > 0:
+                data.rating = float(stats[0].find_all('span')[-1].text)
+
         # check if this manga has already been downloaded
         already_downloaded = False
         for ct, manga in enumerate(manga_data):
@@ -69,13 +78,22 @@ while count_num_times_we_had_zero_mangas < 2:
             continue
 
         # now lets download the labels if this is a new manga
-        data.download_and_parse_labels(headers, cookies)
+        # NOTE: the json api endpoint doesn't let us get the demographic
+        # NOTE: thus we recommend using the soup version of this
+        # NOTE: we fall back on the JSON API method if we can't access this manga
+        success = data.download_and_parse_labels_soup(headers, cookies)
+        if not success:
+            data.download_and_parse_labels_json(url_main, headers, cookies)
+        time.sleep(1)
 
         # nice debug for this
         t21 = time.time()
         count_labels = len(data.content) + len(data.demographic) + len(data.format) + len(data.genre) + len(data.theme)
-        print("    -> manga " + str(data.id) + " added " + str(count_labels)
-              + " labels in " + str(round(t21 - t20, 2)) + " seconds")
+        print("    -> manga " + str(data.id) + " has "
+              + str(count_labels) + " labels | "
+              + str(data.count_chapters) + " chapters | "
+              + str(round(data.rating, 2)) + " rating | "
+              + str(len(data.related)) + " related (" + str(round(t21 - t20, 2)) + " sec)")
 
         # move forward in time
         manga_data.append(data)
@@ -85,25 +103,26 @@ while count_num_times_we_had_zero_mangas < 2:
     # we will know we have reached the end of the listing if we have zero
     if len(manga_list) < 1:
         count_num_times_we_had_zero_mangas += 1
-    page_count += 1
 
     # Nice debug to the user
     t1 = time.time()
-    print("page " + str(page_count) + " processed " + str(count_added)
-          + " mangas in " + str(round(t1 - t0, 2)) + " seconds")
+    print("page " + str(page_count) + " processed " + str(count_added) + " mangas in "
+          + str(round(t1 - t0, 2)) + " seconds")
+    page_count = page_count + 1
+    time.sleep(5)
 
 # Remove any mangas that have been added to the json with the same id/title
 # This could happen if the download of the manga list takes long
 # and a new manga updated/added, thus changing what is on each manga list page.
 ct_before = len(manga_data)
-t0 = time.time()
+t01 = time.time()
 manga_data = manga_utils.remove_dups_from_manga_list(manga_data)
 ct_after = len(manga_data)
-t1 = time.time()
+t11 = time.time()
 
 # nice debug print
 print("===========================")
-print("reduced " + str(ct_before) + " to only " + str(ct_after) + " mangas (" + str(round(t1 - t0, 2)) + " seconds)")
+print("reduced " + str(ct_before) + " to only " + str(ct_after) + " mangas (" + str(round(t11 - t01, 2)) + " seconds)")
 
 # Save our json to file!
 manga_utils.write_raw_manga_data_files(dir_inout, manga_data)
