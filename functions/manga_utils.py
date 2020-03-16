@@ -153,9 +153,9 @@ def get_label_ranks(labels_vec):
         elif label in high_level3:
             labels_weights.append(0.80)
         elif label in high_level2:
-            labels_weights.append(0.60)
+            labels_weights.append(0.65)
         else:
-            labels_weights.append(0.50)
+            labels_weights.append(0.45)
 
     # return the result
     return labels_weights
@@ -191,7 +191,7 @@ def get_compressed_representation_string(manga_data):
         related_sorted = sorted(manga1.related, reverse=True,
                                 key=lambda d: map_id_to_rating[d["id"]] if d["id"] in map_id_to_rating else -1)
         for match in related_sorted:
-            if len(manga_temp["m_ids"]) >= 4:
+            if len(manga_temp["m_ids"]) >= 6:
                 break
             if match["id"] in ids_added:
                 continue

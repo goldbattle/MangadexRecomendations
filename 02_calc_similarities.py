@@ -10,10 +10,10 @@ from functions import manga_compator
 
 # files in and out and settings
 dir_inout = "output/"
-min_same_labels = 5
-min_desc_chars = 10
+min_same_labels = 4
+min_desc_chars = 25
 max_num_matches = 18
-ignore_label_score_above_this_val = 0.20
+ignore_label_score_above_this_val = 0.40
 weighting_label_score = 1.0
 redo_all_matches = False
 
@@ -147,7 +147,7 @@ for ct, manga1 in enumerate(manga_data):
 
         # skip this if it doesn't have the min number of matches
         # note that we won't skip if the current manga has less than the required
-        if count_same < min(min(min_same_labels, count_manga1), count_manga2):
+        if count_same < min(min_same_labels, count_manga1):
             continue
 
         # append this matched manga to our current manga
