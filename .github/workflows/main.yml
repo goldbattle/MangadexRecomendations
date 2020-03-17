@@ -35,11 +35,11 @@ jobs:
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        github_token: ${{ secrets.PERSONAL_TOKEN }}
     - name: Upload The Release Asset
       uses: gfreezy/upload-release-asset@5d626f0ce6d75982fd89daa9af25c5e0e621165b
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
       with:
         upload_url: 'https://uploads.github.com/repos/goldbattle/MangadexRecomendations/releases/23553711/assets?name=mangas_compressed.json'
         asset_path: './output/mangas_compressed.json'
