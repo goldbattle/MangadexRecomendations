@@ -32,7 +32,7 @@ time_start = time.time()
 page_count = 1
 count_num_times_we_had_zero_mangas = 0
 #while count_num_times_we_had_zero_mangas < 2:
-while page_count < 2:
+while page_count < 9:
 
     # Download the page if we should get new ones
     t0 = time.time()
