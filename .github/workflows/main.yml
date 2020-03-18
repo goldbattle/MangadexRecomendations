@@ -2,8 +2,11 @@ name: Daily Related Manga Update
 
 
 on:
-  schedule:
-    - cron: '0 0 * * *'
+  push:
+    branches:
+    - master
+#   schedule:
+#     - cron: '0 0 * * *'
 
 
 jobs:
