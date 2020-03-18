@@ -31,7 +31,8 @@ time_start = time.time()
 # loop through each index page, and extract the mangas
 page_count = 1
 count_num_times_we_had_zero_mangas = 0
-while count_num_times_we_had_zero_mangas < 2:
+#while count_num_times_we_had_zero_mangas < 2:
+while page_count < 2:
 
     # Download the page if we should get new ones
     t0 = time.time()
@@ -109,7 +110,7 @@ while count_num_times_we_had_zero_mangas < 2:
     print("page " + str(page_count) + " processed " + str(count_added) + " mangas in "
           + str(round(t1 - t0, 2)) + " seconds")
     page_count = page_count + 1
-    time.sleep(5)
+    #time.sleep(5)
 
 # Remove any mangas that have been added to the json with the same id/title
 # This could happen if the download of the manga list takes long
