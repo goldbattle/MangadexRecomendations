@@ -31,8 +31,7 @@ time_start = time.time()
 # loop through each index page, and extract the mangas
 page_count = 1
 count_num_times_we_had_zero_mangas = 0
-#while count_num_times_we_had_zero_mangas < 2:
-while page_count < 9:
+while count_num_times_we_had_zero_mangas < 2:
 
     # Download the page if we should get new ones
     t0 = time.time()
