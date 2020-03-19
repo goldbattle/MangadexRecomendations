@@ -37,7 +37,7 @@ while count_num_times_we_had_zero_mangas < 2:
     t0 = time.time()
     urlstr = url_main + '/titles/0/' + str(page_count) + '/?s=2#listing'
     print("downloading " + urlstr)
-    response = requests.get(urlstr, headers=headers)
+    response = requests.get(urlstr, headers=headers, cookies=cookies)
 
     # Create a BeautifulSoup object
     soup = BeautifulSoup(response.text, 'html.parser')
