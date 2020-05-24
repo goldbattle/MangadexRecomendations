@@ -123,17 +123,18 @@ def get_label_ranks(labels_vec):
                    "Gore",
                    "Sexual Violence",
                    "Smut",
-                   "4-Koma"]
+                   "4-Koma",
+                   "Wuxia"]
     high_level3 = ["Loli",
                    "Incest",
                    "Sports",
                    "Yaoi",
                    "Shoujo Ai",
                    "Yuri",
+                   "Isekai",
                    "Shounen Ai"]
     high_level2 = ["Historical",
                    "Horror",
-                   "Isekai",
                    "Mecha",
                    "Medical",
                    "Slice of Life",
