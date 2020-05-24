@@ -3,6 +3,7 @@ import time
 import json
 import string
 import operator
+import gzip
 
 # import our specific functions
 from functions import manga_utils
@@ -12,7 +13,7 @@ from functions import manga_compator
 dir_inout = "output/"
 min_same_labels = 4
 min_desc_chars = 25
-max_num_matches = 18
+max_num_matches = 25
 ignore_label_score_above_this_val = 0.40
 weighting_label_score = 1.0
 redo_all_matches = False
@@ -27,9 +28,14 @@ labels_dict = manga_utils.get_used_labels(manga_data)
 print("loaded " + str(len(labels_dict)) + " labels")
 labels_vec = []
 for label in sorted(labels_dict.keys()):
-    print("    " + str(labels_dict[label]) + " " + label + " in data")
+    # print("    " + str(labels_dict[label]) + " " + label + " in data")
     labels_vec.append(label)
 labels_weights = manga_utils.get_label_ranks(labels_vec)
+
+# print largest to smallest generes
+labels_dict_sorted = sorted(labels_dict.items(), key=operator.itemgetter(1))
+for label, num in labels_dict_sorted:
+    print("    " + str(num) + " " + label + " in data")
 
 # Loop through each manga, and create a corpus of descriptions
 # NOTE: we remove non-numeric and non-alphabetical chars
@@ -173,6 +179,9 @@ print("outputted to " + dir_inout)
 dict_compressed = manga_utils.get_compressed_representation_string(manga_data)
 with open(dir_inout + "mangas_compressed.json", 'w') as outfile:
     json.dump(dict_compressed, outfile, sort_keys=False)
+with gzip.open(dir_inout + 'mangas_compressed.json.gz', 'wb') as f:
+    out_str = json.dumps(dict_compressed, sort_keys=False)
+    f.write(out_str.encode('utf-8'))
 print("outputted to " + dir_inout + "mangas_compressed.json")
 print("compressed " + str(len(manga_data)) + " to only " + str(len(dict_compressed)) + " mangas")
 print("script took " + str(round(time.time() - time_start, 2)) + " seconds")
