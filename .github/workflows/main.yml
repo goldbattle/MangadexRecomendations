@@ -55,4 +55,4 @@ jobs:
         asset_path: './output/mangas_compressed.json.gz'
         asset_name: 'mangas_compressed.json.gz'
         release_id: '23553711'
-        asset_content_type: 'application/json'
+        asset_content_type: 'application/gzip'
