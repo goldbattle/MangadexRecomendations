@@ -36,6 +36,20 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
+
+
+    - name: Upload Release JSON GZ
+      uses: gfreezy/upload-release-asset@5d626f0ce6d75982fd89daa9af25c5e0e621165b
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: 'https://uploads.github.com/repos/goldbattle/MangadexRecomendations/releases/23553711/assets?name=mangas_compressed.json.gz'
+        asset_path: './output/mangas_compressed.json.gz'
+        asset_name: 'mangas_compressed.json.gz'
+        release_id: '23553711'
+        asset_content_type: 'binary/octet-stream'
+
+
     - name: Upload Release JSON
       uses: gfreezy/upload-release-asset@5d626f0ce6d75982fd89daa9af25c5e0e621165b
       env:
@@ -46,13 +60,3 @@ jobs:
         asset_name: 'mangas_compressed.json'
         release_id: '23553711'
         asset_content_type: 'application/json'
-    - name: Upload Release JSON GZ
-      uses: gfreezy/upload-release-asset@5d626f0ce6d75982fd89daa9af25c5e0e621165b
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        upload_url: 'https://uploads.github.com/repos/goldbattle/MangadexRecomendations/releases/23553711/assets?name=mangas_compressed.json.gz'
-        asset_path: './output/mangas_compressed.json.gz'
-        asset_name: 'mangas_compressed.json.gz'
-        release_id: '23553711'
-        asset_content_type: 'application/gzip'
