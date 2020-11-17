@@ -25,7 +25,7 @@ if len(sys.argv) == 3:
     id_end = int(sys.argv[2])
 else:
     id_start = 1
-    id_end = 5
+    id_end = 60000
 
 # Open the manga json file and load
 time_start = time.time()
