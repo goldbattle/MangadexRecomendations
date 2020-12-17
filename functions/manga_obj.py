@@ -4,7 +4,7 @@ import os
 import codecs
 import requests
 import json
-import time
+from datetime import datetime
 # from bs4 import BeautifulSoup
 
 # import our specific functions
@@ -23,6 +23,7 @@ class MangaObj:
         self.is_r18 = False
         self.count_chapters = 0
         self.last_upload = 0
+        self.last_updated = "unknown"
         self.rating = 0.0
         self.content = []
         self.demographic = []
@@ -58,6 +59,8 @@ class MangaObj:
             self.count_chapters = json_obj["count_chapters"]
         if "last_upload" in json_obj:
             self.last_upload = json_obj["last_upload"]
+        if "last_updated" in json_obj:
+            self.last_updated = json_obj["last_updated"]
         if "rating" in json_obj:
             self.rating = json_obj["rating"]
         if "content" in json_obj:
@@ -191,7 +194,7 @@ class MangaObj:
 
         # Download the page if we should get new ones or read from cache
         filename = cache_path + format(self.id, '06') + ".txt"
-        json_url = url_main + "/api/v2/manga/" + str(self.id) + "/"
+        json_url = url_main + "/api/v2/manga/" + str(self.id) + "/?include=chapters"
         if cache_files and os.path.exists(filename):
             print("    -> loading " + filename)
             file = codecs.open(filename, "r", "utf-8")
@@ -223,7 +226,10 @@ class MangaObj:
             return False
 
         # check if valid
-        if "tags" not in data or "id" not in data or "publication" not in data or "links" not in data:
+        if "manga" not in data or "chapters" not in data:
+            print("\033[93mwarning!! manga download probably failed!!\033[0m")
+            return False
+        if "tags" not in data["manga"] or "id" not in data["manga"] or "publication" not in data["manga"] or "links" not in data["manga"]:
             print("\033[93mwarning!! manga download probably failed!!\033[0m")
             return False
 
@@ -256,16 +262,16 @@ class MangaObj:
         assert len(ids_themes) == len(names_themes)
 
         # Load our manga id information
-        self.id = data["id"]
-        self.title = data["title"]
-        self.description = data["description"]
+        self.id = data["manga"]["id"]
+        self.title = data["manga"]["title"]
+        self.description = data["manga"]["description"]
 
         # Loop through each genre and parse it
         self.content.clear()
         self.format.clear()
         self.genre.clear()
         self.theme.clear()
-        for genre_id in data["tags"]:
+        for genre_id in data["manga"]["tags"]:
             if genre_id in ids_content:
                 self.content.append(names_content[ids_content.index(genre_id)])
             if genre_id in ids_format:
@@ -276,24 +282,23 @@ class MangaObj:
                 self.theme.append(names_themes[ids_themes.index(genre_id)])
 
         # Number of chapters
-        # if "chapter" in data:
-        #     self.count_chapters = len(data["chapter"])
+        self.count_chapters = len(data["chapters"])
 
         # Last upload
-        self.last_upload = data["lastUploaded"]
+        self.last_upload = data["manga"]["lastUploaded"]
 
         # is r18
-        self.is_r18 = bool(data["isHentai"])
+        self.is_r18 = bool(data["manga"]["isHentai"])
 
         # rating
-        self.rating = data["rating"]["bayesian"]
+        self.rating = data["manga"]["rating"]["bayesian"]
 
         # demographic
         ids_demographic = [1, 2, 3, 4]
         names_demographic = ["Shounen", "Shoujo", "Seinen", "Josei"]
         self.demographic.clear()
-        if data["publication"]["demographic"] in ids_demographic:
-            self.demographic.append(names_demographic[ids_demographic.index(data["publication"]["demographic"])])
+        if data["manga"]["publication"]["demographic"] in ids_demographic:
+            self.demographic.append(names_demographic[ids_demographic.index(data["manga"]["publication"]["demographic"])])
 
         # related
         ids_rec_type = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
@@ -302,7 +307,7 @@ class MangaObj:
                          "Coloured", "Monochrome", "Schared universe", "Same franchise",
                          "Pre-serialization", "Serialization"]
         self.related.clear()
-        for related in data["relations"]:
+        for related in data["manga"]["relations"]:
             self.related.append({
                 "id": related["id"],
                 "title": related["title"],
@@ -311,12 +316,15 @@ class MangaObj:
 
         # externals
         self.external = {}
-        if data["links"] and "mu" in data["links"]:
-            self.external["mu"] = data["links"]["mu"]
-        if data["links"] and "al" in data["links"]:
-            self.external["al"] = data["links"]["al"]
-        if data["links"] and "mal" in data["links"]:
-            self.external["mal"] = data["links"]["mal"]
+        if data["manga"]["links"] and "mu" in data["manga"]["links"]:
+            self.external["mu"] = data["manga"]["links"]["mu"]
+        if data["manga"]["links"] and "al" in data["manga"]["links"]:
+            self.external["al"] = data["manga"]["links"]["al"]
+        if data["manga"]["links"] and "mal" in data["manga"]["links"]:
+            self.external["mal"] = data["manga"]["links"]["mal"]
+
+        # set last updated timestamp to current time
+        self.last_updated = datetime.utcnow().strftime("%B %d, %Y %H:%M:%S") + " UTC"
 
         return True
 
@@ -424,7 +432,7 @@ class MangaObj:
                 response_text = file.read()
                 save_to_disk = False
             else:
-                print("    -> downloading " + url)
+                print("    -> downloading https://anilist.co/manga/" + str(self.external["al"]))
                 try:
                     response = requests.post(url, json={'query': query, 'variables': variables})
                     response_text = response.text

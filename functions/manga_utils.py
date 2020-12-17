@@ -395,6 +395,9 @@ def write_raw_manga_data_files(path, manga_data, count_per_file=1000):
     if not os.path.exists(os.path.dirname(path)):
         os.makedirs(os.path.dirname(path))
 
+    # sort the manga data based on the id
+    manga_data = sorted(manga_data, key=lambda d: d.id)
+
     # loop through each file and append
     ct = 0
     count_exported = 0

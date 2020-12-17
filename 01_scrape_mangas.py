@@ -1,11 +1,7 @@
 # Import general libraries
 import time
-import re
 import sys
-import os
-import codecs
-import requests
-# from bs4 import BeautifulSoup
+from datetime import datetime
 
 # import our specific functions
 from functions import manga_obj
@@ -13,10 +9,9 @@ from functions import manga_utils
 from functions import anilist_helpers
 
 # script parameters
-# NOTE: you will be blocked if a high thread count is chosen
-# NOTE: thus pick a reasonable one (2 seems to work ok)
 url_main = "https://mangadex.org"
 dir_inout = "data/jsons/"
+dir_logs = "data/logs/"
 skip_already_downloaded = False
 if len(sys.argv) == 3:
     id_start = int(sys.argv[1])
@@ -25,7 +20,7 @@ else:
     id_start = 1
     id_end = 60000
 
-assert id_end > id_start
+assert id_end >= id_start
 assert id_end > 0
 assert id_start > 0
 
@@ -42,15 +37,18 @@ print("loaded " + str(len(manga_data_old)) + " from file")
 time_start = time.time()
 
 # create output direction if not exists
-cache_files = True
+cache_files = False
 path_cache_manga_api = "data/page_manga_api/"
 path_cache_manga_ext = "data/page_manga_ext/"
-manga_utils.make_dir_if_not(path_cache_manga_api)
-manga_utils.make_dir_if_not(path_cache_manga_ext)
+if cache_files:
+    manga_utils.make_dir_if_not(path_cache_manga_api)
+    manga_utils.make_dir_if_not(path_cache_manga_ext)
 
 # loop through each index page, and extract the mangas
+manga_count_updated = 0
+manga_count_new = 0
 manga_count = id_start
-while manga_count < id_end:
+while manga_count <= id_end:
 
     # create the object
     t20 = time.time()
@@ -97,6 +95,16 @@ while manga_count < id_end:
     # move forward in time
     manga_data.append(data)
     manga_count = manga_count + 1
+    manga_count_updated = manga_count_updated + 1
+
+    # Here check to see if we have ever seen this manga before!
+    # If we have not, then this is a new managa!
+    found_before = False
+    for cmp_ct, cmp_manga in enumerate(manga_data_old):
+        if data.id == cmp_manga.id:
+            found_before = True
+    if not found_before:
+        manga_count_new = manga_count_new + 1
 
 
 # Remove any mangas that have been added to the json with the same id/title
@@ -112,6 +120,14 @@ t11 = time.time()
 print("===========================")
 print("reduced " + str(ct_before) + " to only " + str(ct_after) + " mangas (" + str(round(t11 - t01, 2)) + " seconds)")
 
+# append all the mangas which were *not* updated in this set
+count_num_appended = 0
+for ct, manga1 in enumerate(manga_data_old):
+    if id_start <= manga1.id <= id_end:
+        continue
+    manga_data.append(manga1)
+    count_num_appended = count_num_appended + 1
+print("appended " + str(count_num_appended) + " non-updated mangas (" + str(len(manga_data)) + " total now)")
 
 # build the lookup table for the anilist ids to mangadex
 # for all mangadex mangas that have linked to anilist
@@ -120,8 +136,18 @@ print("reduced " + str(ct_before) + " to only " + str(ct_after) + " mangas (" + 
 (mal2md, md2mal, md2mal_title) = anilist_helpers.build_mangadex_to_myanimelist_id_lookup(manga_data)
 manga_data = anilist_helpers.append_anilist_related_and_recs(manga_data, al2md, md2al_title, mal2md, md2mal_title)
 
-
 # Save our json to file!
 manga_utils.write_raw_manga_data_files(dir_inout, manga_data)
 print("outputted to " + dir_inout)
 print("script took " + str(round(time.time() - time_start, 2)) + " seconds")
+
+# output content to log file
+manga_utils.make_dir_if_not(dir_logs)
+with open(dir_logs+"log_scrape_manga.txt", "a") as myfile:
+    myfile.write(
+        "[" + datetime.utcnow().strftime("%B %d, %Y %H:%M:%S") + "]: " +
+        "Checked " + str(ct_after) + ", updated " + str(manga_count_updated) +
+        ", " + str(manga_count_new) + " new mangas. " +
+        "Took " + str(round((time.time() - time_start)/60.0, 2)) + " minutes to complete.\n"
+    )
+

@@ -5,6 +5,7 @@ import json
 import string
 import operator
 import gzip
+from datetime import datetime
 
 # import our specific functions
 from functions import manga_utils
@@ -12,6 +13,7 @@ from functions import manga_compator
 
 # files in and out and settings
 dir_in = "data/jsons/"
+dir_logs = "data/logs/"
 dir_out = "output/"
 min_same_labels = 4
 min_desc_chars = 100
@@ -25,7 +27,11 @@ if len(sys.argv) == 3:
     id_end = int(sys.argv[2])
 else:
     id_start = 1
-    id_end = 60000
+    id_end = 2
+
+assert id_end >= id_start
+assert id_end > 0
+assert id_start > 0
 
 # Open the manga json file and load
 time_start = time.time()
@@ -86,6 +92,8 @@ t12 = time.time()
 print("setup tf-idf in " + str(round(t12 - t02, 2)) + " seconds")
 
 # loop through each and find the top matches
+count_manga_matching = 0
+count_manga_matched_to = 0
 for ct, manga1 in enumerate(manga_data):
 
     # nice debug only a certain set of manga ids
@@ -101,6 +109,7 @@ for ct, manga1 in enumerate(manga_data):
     if len(manga1.matches) > 0 and not redo_all_matches:
         continue
     manga1.matches.clear()
+    manga_data[ct].matches.clear()
 
     # nice debug print of which one we are processing
     print(str(round(100 * float(ct) / len(manga_data), 2)) +
@@ -186,8 +195,7 @@ for ct, manga1 in enumerate(manga_data):
             continue
 
         # skip if this manga does not have any chapters
-        # if there is no latest uploaded timestamp then there are not chapters
-        if manga2.last_upload <= 0:
+        if manga2.count_chapters < 1:
             continue
 
         # calc the label vector
@@ -225,6 +233,11 @@ for ct, manga1 in enumerate(manga_data):
         print("   match " + str(manga2.id) + " (" + str(round(scores[idx] / 2.0, 4))
               + ") - " + manga2.title + " - " + manga2.url)
 
+    # if we have had some matches, then we are good
+    if count_matched > 0:
+        count_manga_matching = count_manga_matching + 1
+        count_manga_matched_to = count_manga_matched_to + count_matched
+
 
 # Save our json to file!
 manga_utils.write_raw_manga_data_files(dir_in, manga_data)
@@ -259,3 +272,14 @@ print("compressed " + str(len(manga_data)) + " to only " + str(len(dict_compress
 
 # show how long it took to run
 print("script took " + str(round(time.time() - time_start, 2)) + " seconds")
+
+# output content to log file
+manga_utils.make_dir_if_not(dir_logs)
+with open(dir_logs+"log_calc_similarities.txt", "a") as myfile:
+    myfile.write(
+        "[" + datetime.utcnow().strftime("%B %d, %Y %H:%M:%S") + "]: " +
+        "Calculated similarity for " + str(count_manga_matching) + " mangas. " +
+        "Average of " + str(round(count_manga_matched_to/count_manga_matching,2)) + " matches per manga. " +
+        "Took " + str(round((time.time() - time_start)/60.0, 2)) + " minutes to complete.\n"
+    )
+
