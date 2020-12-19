@@ -21,13 +21,14 @@ max_num_matches = 25
 ignore_label_score_above_this_val = 0.30
 ignore_label_score_below_this_val = 0.05
 weighting_label_score = 0.8
+use_labels_to_match = True
 redo_all_matches = True
 if len(sys.argv) == 3:
     id_start = int(sys.argv[1])
     id_end = int(sys.argv[2])
 else:
     id_start = 1
-    id_end = 2
+    id_end = 60000
 
 assert id_end >= id_start
 assert id_end > 0
@@ -125,7 +126,12 @@ for ct, manga1 in enumerate(manga_data):
         for tmpid, score in scores.items():
             scores_temp[corups2id[tmpid]] = score
         scores = scores_temp
-    scores_labels = manga_compator.find_similar_labels(manga1, labels_vec, labels_weights, manga_data)
+
+    # get score labels if enabled
+    if use_labels_to_match:
+        scores_labels = manga_compator.find_similar_labels(manga1, labels_vec, labels_weights, manga_data)
+    else:
+        scores_labels = {}
 
     # loop through our data, and combine our two scores
     for idx, manga in enumerate(manga_data):
@@ -262,13 +268,13 @@ with open(dir_out + "md2external.json", 'w') as outfile:
 with gzip.open(dir_out + 'md2external.json.gz', 'wb') as f:
     out_str = json.dumps(dict_compressed_v2["external"], sort_keys=False)
     f.write(out_str.encode('utf-8'))
-with open(dir_out + "mangas_compressed_v2.json", 'w') as outfile:
-    json.dump(dict_compressed_v2["data"], outfile, sort_keys=False)
-with gzip.open(dir_out + 'mangas_compressed_v2.json.gz', 'wb') as f:
-    out_str = json.dumps(dict_compressed_v2["data"], sort_keys=False)
-    f.write(out_str.encode('utf-8'))
-print("outputted to " + dir_out + "mangas_compressed_v2.json")
-print("compressed " + str(len(manga_data)) + " to only " + str(len(dict_compressed_v2["data"])) + " mangas")
+# with open(dir_out + "mangas_compressed_v2.json", 'w') as outfile:
+#     json.dump(dict_compressed_v2["data"], outfile, sort_keys=False)
+# with gzip.open(dir_out + 'mangas_compressed_v2.json.gz', 'wb') as f:
+#     out_str = json.dumps(dict_compressed_v2["data"], sort_keys=False)
+#     f.write(out_str.encode('utf-8'))
+# print("outputted to " + dir_out + "mangas_compressed_v2.json")
+# print("compressed " + str(len(manga_data)) + " to only " + str(len(dict_compressed_v2["data"])) + " mangas (v2)")
 
 # show how long it took to run
 print("script took " + str(round(time.time() - time_start, 2)) + " seconds")

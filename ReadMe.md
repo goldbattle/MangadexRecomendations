@@ -11,6 +11,7 @@ The main dependencies required by the project is a Python 3 environment and the 
 pip3 install requests
 pip3 install bs4 # no longer needed
 pip3 install scikit-learn
+pip3 install sent2vec # if using the bert model
 ```
 
 ## Scripts Descriptions
