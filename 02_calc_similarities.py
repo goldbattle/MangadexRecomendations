@@ -16,6 +16,7 @@ dir_in = "data/jsons/"
 dir_logs = "data/logs/"
 dir_out = "output/"
 min_same_labels = 4
+min_same_labels_h18 = 2
 min_desc_chars = 100
 max_num_matches = 25
 ignore_label_score_above_this_val = 0.30
@@ -99,6 +100,7 @@ for ct, manga1 in enumerate(manga_data):
 
     # nice debug only a certain set of manga ids
     # test_manga = [29557, 33691, 38917, 50727, 52297]
+    # test_manga = [40299]
     # if manga1.id not in test_manga:
     #     continue
 
@@ -223,7 +225,9 @@ for ct, manga1 in enumerate(manga_data):
 
         # skip this if it doesn't have the min number of matches
         # note that we won't skip if the current manga has less than the required
-        if count_same < min(min_same_labels, count_manga1):
+        if manga1.is_r18 and count_same < min(min_same_labels_h18, count_manga1):
+            continue
+        if not manga1.is_r18 and count_same < min(min_same_labels, count_manga1):
             continue
 
         # append this matched manga to our current manga
