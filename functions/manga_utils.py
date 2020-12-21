@@ -231,6 +231,7 @@ def get_label_ranks(labels_vec):
                    "Sexual Violence",
                    "Smut",
                    "4-Koma",
+                   "4-koma",
                    "Wuxia"]
     high_level3 = ["Loli",
                    "Incest",
@@ -303,6 +304,13 @@ def get_compressed_representation_string(manga_data):
             if len(manga_temp["m_ids"]) >= 6:
                 break
             if match["id"] in ids_added:
+                continue
+            # skip r18 if the base manga is not r18
+            if not manga1.is_r18 and match["r18"]:
+                continue
+            # skip if not interested related types
+            skip_types = ["Doujinshi"]
+            if match["type"] in skip_types:
                 continue
             ids_added.append(match["id"])
             manga_temp["m_ids"].append(match["id"])

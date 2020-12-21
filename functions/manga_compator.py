@@ -79,7 +79,7 @@ def is_exact_match(manga1, manga2):
     # exact matches we require (hard coded)
     exact_matches_content = ["Ecchi", "Gore", "Sexual Violence", "Smut"]
     exact_matches_demographic = ["Shounen", "Shoujo", "Seinen", "Josei"]
-    exact_matches_format = ["4-Koma"]
+    exact_matches_format = ["4-Koma", "4-koma"]
     exact_matches_genre = ["Yaoi", "Yuri"]
     exact_matches_theme = ["Loli", "Incest"]
 
@@ -90,12 +90,6 @@ def is_exact_match(manga1, manga2):
             exact_match = False
     for label in manga2.content:
         if label in exact_matches_content and label not in manga1.content:
-            exact_match = False
-    for label in manga1.demographic:
-        if label in exact_matches_demographic and label not in manga2.demographic:
-            exact_match = False
-    for label in manga2.demographic:
-        if label in exact_matches_demographic and label not in manga1.demographic:
             exact_match = False
     for label in manga1.format:
         if label in exact_matches_format and label not in manga2.format:
@@ -115,6 +109,15 @@ def is_exact_match(manga1, manga2):
     for label in manga2.theme:
         if label in exact_matches_theme and label not in manga1.theme:
             exact_match = False
+
+    # if we don't have a demographic, no need to enforce that the second has no demo
+    if len(manga1.demographic) > 0:
+        for label in manga1.demographic:
+            if label in exact_matches_demographic and label not in manga2.demographic:
+                exact_match = False
+        for label in manga2.demographic:
+            if label in exact_matches_demographic and label not in manga1.demographic:
+                exact_match = False
 
     # if this manga is not r18, we can't match to another r18
     # similarly, if we are r18 don't match to non-r18

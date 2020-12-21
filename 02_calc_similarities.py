@@ -172,8 +172,8 @@ for ct, manga1 in enumerate(manga_data):
         if manga1_labels[idlc]:
             count_manga1 += 1
 
-    # skip if we don't have at least one label
-    if count_manga1 < 1:
+    # skip if we don't have at least two labels
+    if count_manga1 < 2:
         continue
 
     # get the top matches, and then only select good ones
@@ -189,6 +189,11 @@ for ct, manga1 in enumerate(manga_data):
 
         # skip if the manga ids are the same
         if manga1.id == manga2.id:
+            continue
+
+        # skip if the related has (promo) in the title
+        # this are promotional items for mangas, thus are not really a true manga
+        if "(promo)" in manga2.title.lower():
             continue
 
         # skip any manga which is already a related manga

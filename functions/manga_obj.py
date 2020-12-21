@@ -239,7 +239,7 @@ class MangaObj:
         ids_content = [9, 32, 49, 50]
         names_content = ["Ecchi", "Smut", "Gore", "Sexual Violence"]
         ids_format = [1, 4, 7, 21, 36, 42, 43, 44, 45, 46, 47, 48]
-        names_format = ["4-koma", "Award Winning", "Doujinshi", "Oneshot", "Long Strip", "Adaptation", "Anthology",
+        names_format = ["4-Koma", "Award Winning", "Doujinshi", "Oneshot", "Long Strip", "Adaptation", "Anthology",
                         "Web Comic", "Full Color", "User Created", "Official Colored", "Fan Colored"]
         ids_genre = [2, 3, 5, 8, 10, 13, 14, 17, 18, 20, 22, 23, 25, 28, 30, 31, 33, 35, 37, 38, 41, 51, 51, 53, 54, 55,
                      56]
@@ -302,16 +302,17 @@ class MangaObj:
 
         # related
         ids_rec_type = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
-        name_rec_type = ["Prequel", "Sequal", "Adapted from", "Spin-off", "Side story",
+        name_rec_type = ["Prequel", "Sequel", "Adapted from", "Spin-off", "Side story",
                          "Main story", "Alternate story", "Doujinshi", "Based on",
-                         "Coloured", "Monochrome", "Schared universe", "Same franchise",
+                         "Coloured", "Monochrome", "Shared universe", "Same franchise",
                          "Pre-serialization", "Serialization"]
         self.related.clear()
         for related in data["manga"]["relations"]:
             self.related.append({
                 "id": related["id"],
                 "title": related["title"],
-                "type": name_rec_type[ids_rec_type.index(related["type"])]
+                "type": name_rec_type[ids_rec_type.index(related["type"])],
+                "r18": related["isHentai"],
             })
 
         # externals
