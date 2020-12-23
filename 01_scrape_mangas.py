@@ -73,6 +73,10 @@ while manga_count <= id_end:
         manga_count = manga_count + 1
         continue
 
+    # if it is already downloaded, then copy over the matches
+    if already_downloaded:
+        data.matches = downloaded_manga.matches
+
     # downloading the json api endpoint for this manga
     # success = data.download_and_parse_labels_soup(headers, cookies, cache_files, path_cache_manga)
     success = data.download_and_parse_labels_json(url_main, headers, cookies, cache_files, path_cache_manga_api)

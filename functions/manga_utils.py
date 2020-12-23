@@ -1,6 +1,7 @@
 import re
 import json
 import html
+import shutil
 import os.path
 from string import punctuation
 from collections import defaultdict
@@ -399,9 +400,11 @@ def read_raw_manga_data_files(path):
 
 
 def write_raw_manga_data_files(path, manga_data, count_per_file=1000):
-    # create output direction if not exists
-    if not os.path.exists(os.path.dirname(path)):
-        os.makedirs(os.path.dirname(path))
+
+    # delete old files and re-create the directory
+    if os.path.exists(path):
+        shutil.rmtree(path)
+    os.makedirs(path)
 
     # sort the manga data based on the id
     manga_data = sorted(manga_data, key=lambda d: d.id)
@@ -409,18 +412,26 @@ def write_raw_manga_data_files(path, manga_data, count_per_file=1000):
     # loop through each file and append
     ct = 0
     count_exported = 0
+    last_id_exported = 0
     while count_exported < len(manga_data):
         file_out = path + "mangas_raw_" + format(ct, '03') + ".json"
         ct = ct + 1
-        with open(file_out, 'w') as outfile:
-            out_data = []
-            for i in range(0, count_per_file):
-                if count_exported > len(manga_data) - 1:
-                    break
-                out_data.append(manga_data[count_exported].__dict__)
-                count_exported += 1
-            json.dump(out_data, outfile, indent=2, sort_keys=False)
-            # json.dump(out_data, outfile, sort_keys=False)
+        out_data = []
+        while count_exported < len(manga_data):
+            if manga_data[count_exported].id > last_id_exported + count_per_file:
+                break
+            tmp_dict = manga_data[count_exported].__dict__
+            del tmp_dict["vec_xor_cached"]
+            out_data.append(tmp_dict)
+            count_exported += 1
+        # save to file if we have data
+        if len(out_data) > 0:
+            print("saving "+str(len(out_data))+" mangas: " + file_out)
+            with open(file_out, 'w') as outfile:
+                json.dump(out_data, outfile, indent=2, sort_keys=False)
+                # json.dump(out_data, outfile, sort_keys=False)
+        # move forward in time
+        last_id_exported += count_per_file
     return manga_data
 
 
