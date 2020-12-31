@@ -45,46 +45,11 @@ class MangaObj:
             self.load_from_json(json_obj)
 
     def load_from_json(self, json_obj):
-        if "id" in json_obj:
-            self.id = json_obj["id"]
-        if "title" in json_obj:
-            self.title = json_obj["title"]
-        if "url" in json_obj:
-            self.url = json_obj["url"]
-        if "description" in json_obj:
-            self.description = json_obj["description"]
-        if "is_r18" in json_obj:
-            self.is_r18 = json_obj["is_r18"]
-        if "count_chapters" in json_obj:
-            self.count_chapters = json_obj["count_chapters"]
-        if "last_upload" in json_obj:
-            self.last_upload = json_obj["last_upload"]
-        if "last_updated" in json_obj:
-            self.last_updated = json_obj["last_updated"]
-        if "rating" in json_obj:
-            self.rating = json_obj["rating"]
-        if "content" in json_obj:
-            self.content = json_obj["content"]
-        if "demographic" in json_obj:
-            self.demographic = json_obj["demographic"]
-        if "format" in json_obj:
-            self.format = json_obj["format"]
-        if "genre" in json_obj:
-            self.genre = json_obj["genre"]
-        if "theme" in json_obj:
-            self.theme = json_obj["theme"]
-        if "related" in json_obj:
-            self.related = json_obj["related"]
-        if "matches" in json_obj:
-            self.matches = json_obj["matches"]
-        if "matches_al" in json_obj:
-            self.matches_al = json_obj["matches_al"]
-        if "vec_xor_cached" in json_obj:
-            self.vec_xor_cached = json_obj["vec_xor_cached"]
-        if "external" in json_obj:
-            self.external = json_obj["external"]
-        if "external_al" in json_obj:
-            self.external_al = json_obj["external_al"]
+        for key in json_obj:
+            if not hasattr(self, key):
+                print("ERROR: object does not have attribute: "+str(key))
+                exit(-1)
+            setattr(self, key, json_obj[key])
 
     # def download_and_parse_labels_soup(self, headers, cookies, cache_files, cache_path):
     #

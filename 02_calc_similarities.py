@@ -5,6 +5,8 @@ import json
 import string
 import operator
 import gzip
+import os
+import shutil
 from datetime import datetime
 
 # import our specific functions
@@ -240,7 +242,7 @@ for ct, manga1 in enumerate(manga_data):
             'id': manga2.id,
             'title': manga2.title,
             'url': manga2.url,
-            'score': scores[idx] / 2.0
+            'score': round(scores[idx] / 2.0, 4)
         })
 
         # nice debug print
@@ -252,7 +254,6 @@ for ct, manga1 in enumerate(manga_data):
     if count_matched > 0:
         count_manga_matching = count_manga_matching + 1
         count_manga_matched_to = count_manga_matched_to + count_matched
-
 
 # Save our json to file!
 manga_utils.write_raw_manga_data_files(dir_in, manga_data)
@@ -270,31 +271,35 @@ with gzip.open(dir_out + 'mangas_compressed.json.gz', 'wb') as f:
 print("outputted to " + dir_out + "mangas_compressed.json")
 print("compressed " + str(len(manga_data)) + " to only " + str(len(dict_compressed)) + " mangas")
 
-# Finally get the compressed representation
+# Write the relation between each mangadex id and external
 dict_compressed_v2 = manga_utils.get_compressed_representation_string_v2(manga_data)
 with open(dir_out + "md2external.json", 'w') as outfile:
     json.dump(dict_compressed_v2["external"], outfile, sort_keys=False)
 with gzip.open(dir_out + 'md2external.json.gz', 'wb') as f:
     out_str = json.dumps(dict_compressed_v2["external"], sort_keys=False)
     f.write(out_str.encode('utf-8'))
-# with open(dir_out + "mangas_compressed_v2.json", 'w') as outfile:
-#     json.dump(dict_compressed_v2["data"], outfile, sort_keys=False)
-# with gzip.open(dir_out + 'mangas_compressed_v2.json.gz', 'wb') as f:
-#     out_str = json.dumps(dict_compressed_v2["data"], sort_keys=False)
-#     f.write(out_str.encode('utf-8'))
-# print("outputted to " + dir_out + "mangas_compressed_v2.json")
-# print("compressed " + str(len(manga_data)) + " to only " + str(len(dict_compressed_v2["data"])) + " mangas (v2)")
+
+# write out the second api version format
+path_output_api = dir_out + "api/"
+if os.path.exists(path_output_api):
+    shutil.rmtree(path_output_api)
+os.makedirs(path_output_api)
+for key, manga1 in dict_compressed_v2["data"].items():
+    path_output_api_file = path_output_api + format(manga1["id"], '05') + ".json"
+    with open(path_output_api_file, 'w') as outfile:
+        json.dump(manga1, outfile, indent=2, sort_keys=False)
+print("outputted to " + path_output_api)
+print("saved " + str(len(dict_compressed_v2["data"])) + " api json endpoints (v2)")
 
 # show how long it took to run
 print("script took " + str(round(time.time() - time_start, 2)) + " seconds")
 
 # output content to log file
 manga_utils.make_dir_if_not(dir_logs)
-with open(dir_logs+"log_calc_similarities.txt", "a") as myfile:
+with open(dir_logs + "log_calc_similarities.txt", "a") as myfile:
     myfile.write(
         "[" + datetime.utcnow().strftime("%B %d, %Y %H:%M:%S") + "]: " +
         "Calculated similarity for " + str(count_manga_matching) + " mangas. " +
-        "Average of " + str(round(count_manga_matched_to/count_manga_matching,2)) + " matches per manga. " +
-        "Took " + str(round((time.time() - time_start)/60.0, 2)) + " minutes to complete.\n"
+        "Average of " + str(round(count_manga_matched_to / (count_manga_matching+1), 2)) + " matches per manga. " +
+        "Took " + str(round((time.time() - time_start) / 60.0, 2)) + " minutes to complete.\n"
     )
-

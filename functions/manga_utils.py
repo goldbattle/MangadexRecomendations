@@ -11,7 +11,6 @@ from functions import anilist_helpers
 
 
 def clean_string(str_raw, removeStopWords=False):
-
     # bbcodes that our description will have in it
     # https://github.com/CarlosEsco/Neko/blob/master/app/src/main/java/eu/kanade/tachiyomi/source/online/utils/MdUtil.kt
     descriptionLanguages = [
@@ -344,15 +343,26 @@ def get_compressed_representation_string_v2(manga_data):
             continue
 
         # create the cleaned manga
-        manga_temp = {}
+        manga_temp = {
+            "id": manga1.id,
+            "title": manga1.title,
+            "url": manga1.url,
+            "last_updated": manga1.last_updated,
+            "matches": []
+        }
         ids_added = []
 
         # append the matches (only ones not already added)
         for ct2, match in enumerate(manga1.matches):
             if match["id"] in ids_added:
                 continue
-            manga_temp.setdefault("m_ids", []).append(match["id"])
-            manga_temp.setdefault("m_titles", []).append(match["title"])
+            match_tmp = {
+                "id": match["id"],
+                "title": match["title"],
+                "score": round(match["score"], 3),
+            }
+            manga_temp["matches"].append(match_tmp)
+            ids_added.append(match["id"])
 
         # Append to the clean data out vector if not added
         managa_data_out[manga1.id] = manga_temp
@@ -400,7 +410,6 @@ def read_raw_manga_data_files(path):
 
 
 def write_raw_manga_data_files(path, manga_data, count_per_file=1000):
-
     # delete old files and re-create the directory
     if os.path.exists(path):
         shutil.rmtree(path)
@@ -426,7 +435,7 @@ def write_raw_manga_data_files(path, manga_data, count_per_file=1000):
             count_exported += 1
         # save to file if we have data
         if len(out_data) > 0:
-            print("saving "+str(len(out_data))+" mangas: " + file_out)
+            print("saving " + str(len(out_data)) + " mangas: " + file_out)
             with open(file_out, 'w') as outfile:
                 json.dump(out_data, outfile, indent=2, sort_keys=False)
                 # json.dump(out_data, outfile, sort_keys=False)
