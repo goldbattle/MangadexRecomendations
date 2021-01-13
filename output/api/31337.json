@@ -1,13 +1,18 @@
 {
   "id": 31337,
-  "title": "Oogata Shinjin no Kyouikukei",
+  "title": "Oogata Shinjin no Kyouiku Gakari",
   "url": "https://mangadex.org/manga/31337",
-  "last_updated": "December 23, 2020 12:47:40 UTC",
+  "last_updated": "January 13, 2021 12:59:59 UTC",
   "matches": [
+    {
+      "id": 15696,
+      "title": "Dreamers High",
+      "score": 0.698
+    },
     {
       "id": 58106,
       "title": "Renai no Skill",
-      "score": 0.695
+      "score": 0.696
     },
     {
       "id": 58353,
@@ -15,63 +20,78 @@
       "score": 0.695
     },
     {
-      "id": 15696,
-      "title": "Dreamers High",
-      "score": 0.694
-    },
-    {
       "id": 16040,
       "title": "Joushi to Ore no Himitsu",
       "score": 0.691
     },
     {
+      "id": 29113,
+      "title": "Yubisaki no Koi",
+      "score": 0.688
+    },
+    {
       "id": 53198,
       "title": "Kimi ga Kono Te o Hanareru nara",
+      "score": 0.688
+    },
+    {
+      "id": 13600,
+      "title": "Akihabara Fall In Love",
+      "score": 0.688
+    },
+    {
+      "id": 58208,
+      "title": "Kaerenain Da Yo",
       "score": 0.687
     },
     {
-      "id": 29113,
-      "title": "Yubisaki no Koi",
+      "id": 7386,
+      "title": "Pretty Babies",
+      "score": 0.687
+    },
+    {
+      "id": 45940,
+      "title": "Koi wa Keiyaku no Atode",
       "score": 0.687
     },
     {
       "id": 28280,
       "title": "Bitansan Ekisu",
-      "score": 0.685
-    },
-    {
-      "id": 13600,
-      "title": "Akihabara Fall In Love",
-      "score": 0.685
-    },
-    {
-      "id": 10293,
-      "title": "Omae de Nakya Dame Mitai",
-      "score": 0.684
-    },
-    {
-      "id": 58208,
-      "title": "Kaerenain Da Yo",
-      "score": 0.684
-    },
-    {
-      "id": 37280,
-      "title": "Kimi no Ai wa Mienikui",
-      "score": 0.683
-    },
-    {
-      "id": 7386,
-      "title": "Pretty Babies",
-      "score": 0.682
+      "score": 0.687
     },
     {
       "id": 8322,
       "title": "Kachou wa Kakko Ii",
-      "score": 0.682
+      "score": 0.686
+    },
+    {
+      "id": 10293,
+      "title": "Omae de Nakya Dame Mitai",
+      "score": 0.685
+    },
+    {
+      "id": 37280,
+      "title": "Kimi no Ai wa Mienikui",
+      "score": 0.684
+    },
+    {
+      "id": 4810,
+      "title": "Boku no Shiru Anata no Hanashi",
+      "score": 0.684
     },
     {
       "id": 55120,
       "title": "Usagi to Ookami no Shinshikyoutei",
+      "score": 0.684
+    },
+    {
+      "id": 27578,
+      "title": "Boku wa Boku Narini",
+      "score": 0.683
+    },
+    {
+      "id": 34315,
+      "title": "Face",
       "score": 0.682
     },
     {
@@ -80,54 +100,34 @@
       "score": 0.681
     },
     {
-      "id": 9475,
-      "title": "Tsuki ni Hoero",
+      "id": 17316,
+      "title": "Mujintou Lovers",
       "score": 0.681
-    },
-    {
-      "id": 53625,
-      "title": "Kagakushitsu e Douzo",
-      "score": 0.681
-    },
-    {
-      "id": 4810,
-      "title": "Boku no Shiru Anata no Hanashi",
-      "score": 0.681
-    },
-    {
-      "id": 34315,
-      "title": "Face",
-      "score": 0.679
-    },
-    {
-      "id": 11706,
-      "title": "Sono Kuchibiru wo Hirake",
-      "score": 0.679
-    },
-    {
-      "id": 27578,
-      "title": "Boku wa Boku Narini",
-      "score": 0.679
-    },
-    {
-      "id": 1465,
-      "title": "Merry Checker",
-      "score": 0.678
-    },
-    {
-      "id": 45940,
-      "title": "Koi wa Keiyaku no Atode",
-      "score": 0.678
     },
     {
       "id": 18352,
       "title": "Parallel Lines",
-      "score": 0.678
+      "score": 0.681
     },
     {
-      "id": 15797,
-      "title": "Hisho to Shachou no Himitsugoto",
-      "score": 0.677
+      "id": 11706,
+      "title": "Sono Kuchibiru wo Hirake",
+      "score": 0.68
+    },
+    {
+      "id": 12764,
+      "title": "Denkou Sekka Boys",
+      "score": 0.68
+    },
+    {
+      "id": 9475,
+      "title": "Tsuki ni Hoero",
+      "score": 0.68
+    },
+    {
+      "id": 55759,
+      "title": "Soshite Koi ni Naru",
+      "score": 0.679
     }
   ]
 }

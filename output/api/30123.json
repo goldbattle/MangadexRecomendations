@@ -2,12 +2,17 @@
   "id": 30123,
   "title": "Internet Explorer",
   "url": "https://mangadex.org/manga/30123",
-  "last_updated": "December 23, 2020 12:30:07 UTC",
+  "last_updated": "January 13, 2021 12:46:24 UTC",
   "matches": [
+    {
+      "id": 57003,
+      "title": "Mosquito War",
+      "score": 0.324
+    },
     {
       "id": 24572,
       "title": "Dusk Howler",
-      "score": 0.315
+      "score": 0.313
     },
     {
       "id": 45903,
@@ -28,11 +33,6 @@
       "id": 37892,
       "title": "Horizon",
       "score": 0.301
-    },
-    {
-      "id": 57003,
-      "title": "Mosquito War",
-      "score": 0.3
     },
     {
       "id": 47416,
@@ -82,11 +82,16 @@
     {
       "id": 20674,
       "title": "Nanbaka",
-      "score": 0.288
+      "score": 0.289
     },
     {
       "id": 45869,
       "title": "Godly Mobile Game",
+      "score": 0.288
+    },
+    {
+      "id": 50131,
+      "title": "Nam Goong Sae Ga Prince",
       "score": 0.288
     },
     {
@@ -105,13 +110,13 @@
       "score": 0.286
     },
     {
-      "id": 38611,
-      "title": "Dimensional Mercenary",
+      "id": 34063,
+      "title": "Uglyhood",
       "score": 0.286
     },
     {
-      "id": 34063,
-      "title": "Uglyhood",
+      "id": 38611,
+      "title": "Dimensional Mercenary",
       "score": 0.286
     },
     {
@@ -120,14 +125,9 @@
       "score": 0.285
     },
     {
-      "id": 44864,
-      "title": "Fatal Code",
+      "id": 46688,
+      "title": "The Strongest Florist",
       "score": 0.283
-    },
-    {
-      "id": 58741,
-      "title": "Hitpoint",
-      "score": 0.281
     }
   ]
 }
