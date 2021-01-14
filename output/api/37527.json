@@ -2,13 +2,8 @@
   "id": 37527,
   "title": "Adou",
   "url": "https://mangadex.org/manga/37527",
-  "last_updated": "December 24, 2020 06:33:06 UTC",
+  "last_updated": "January 14, 2021 06:59:15 UTC",
   "matches": [
-    {
-      "id": 16825,
-      "title": "Ginga Eiyuu Densetsu",
-      "score": 0.68
-    },
     {
       "id": 50085,
       "title": "Legend of the Galactic Heroes",
@@ -25,9 +20,14 @@
       "score": 0.67
     },
     {
+      "id": 16825,
+      "title": "Ginga Eiyuu Densetsu",
+      "score": 0.665
+    },
+    {
       "id": 50714,
       "title": "Legend of the Galactic Heroes - Golden Wings",
-      "score": 0.663
+      "score": 0.664
     },
     {
       "id": 21393,
@@ -57,7 +57,7 @@
     {
       "id": 23327,
       "title": "Kidou Senshi Moon Gundam",
-      "score": 0.359
+      "score": 0.36
     },
     {
       "id": 23340,
@@ -73,6 +73,11 @@
       "id": 24567,
       "title": "Kidou Senshi Gundam Senki U.C. 0081 - Suiten no Namida",
       "score": 0.328
+    },
+    {
+      "id": 59236,
+      "title": "Convention",
+      "score": 0.326
     },
     {
       "id": 19688,
@@ -92,7 +97,7 @@
     {
       "id": 7702,
       "title": "Shin Kidou Senki Gundam W - Endless Waltz: Haishatachi no Eikou",
-      "score": 0.311
+      "score": 0.312
     },
     {
       "id": 19248,
@@ -110,24 +115,19 @@
       "score": 0.294
     },
     {
-      "id": 3553,
-      "title": "Kidou Senshi Gundam MSV-R - Johnny Ridden no Kikan",
-      "score": 0.287
-    },
-    {
       "id": 47118,
       "title": "The Far East Incident",
+      "score": 0.286
+    },
+    {
+      "id": 3553,
+      "title": "Kidou Senshi Gundam MSV-R - Johnny Ridden no Kikan",
       "score": 0.286
     },
     {
       "id": 580,
       "title": "Kodoku Experiment",
       "score": 0.284
-    },
-    {
-      "id": 5899,
-      "title": "Shin Kidou Senki Gundam W",
-      "score": 0.279
     }
   ]
 }
