@@ -2,8 +2,13 @@
   "id": 6113,
   "title": "Under the Dappled Sun",
   "url": "https://mangadex.org/manga/6113",
-  "last_updated": "January 10, 2021 12:55:37 UTC",
+  "last_updated": "January 17, 2021 13:03:53 UTC",
   "matches": [
+    {
+      "id": 10801,
+      "title": "Mahoutsukai no Yome",
+      "score": 0.767
+    },
     {
       "id": 28525,
       "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo",
@@ -13,11 +18,6 @@
       "id": 6270,
       "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo (Official Colored)",
       "score": 0.763
-    },
-    {
-      "id": 10801,
-      "title": "The Ancient Magus' Bride",
-      "score": 0.761
     },
     {
       "id": 28843,
@@ -52,7 +52,7 @@
     {
       "id": 34476,
       "title": "Mahou Tsukai ni Taisetsu na Koto",
-      "score": 0.722
+      "score": 0.721
     },
     {
       "id": 9409,
@@ -75,18 +75,23 @@
       "score": 0.713
     },
     {
+      "id": 14710,
+      "title": "Happiness",
+      "score": 0.712
+    },
+    {
       "id": 21352,
       "title": "Rewrite: SIDE-TERRA",
       "score": 0.712
     },
     {
-      "id": 1720,
-      "title": "Under Prin",
+      "id": 684,
+      "title": "Kuroko no Basket",
       "score": 0.711
     },
     {
-      "id": 684,
-      "title": "Kuroko no Basket",
+      "id": 1720,
+      "title": "Under Prin",
       "score": 0.711
     },
     {
@@ -123,11 +128,6 @@
       "id": 331,
       "title": "Kamichu!",
       "score": 0.704
-    },
-    {
-      "id": 858,
-      "title": "Hikaru no Go",
-      "score": 0.702
     }
   ]
 }
