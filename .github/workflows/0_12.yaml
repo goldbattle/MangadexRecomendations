@@ -1,4 +1,4 @@
-name: mangas 4287 - 6430
+name: mangas 4645 - 6193
 'on':
   schedule:
   - cron: 0 12 * * 0
@@ -15,12 +15,12 @@ jobs:
     - name: Install dependencies
       run: python -m pip install --upgrade pip && pip install requests bs4 scikit-learn
     - name: Pull latest manga information
-      run: python 01_scrape_mangas.py 4287 6430
+      run: python 01_scrape_mangas.py 4645 6193
     - name: Calculate similar mangas
-      run: python 02_calc_similarities.py 4287 6430
+      run: python 02_calc_similarities.py 4645 6193
     - name: Commit changed files
       run: 'git config --local user.email "action@github.com" && git config --local
-        user.name "GitHub Action" && git commit -m "Updated Manga 4287 - 6430" -a '
+        user.name "GitHub Action" && git commit -m "Updated Manga 4645 - 6193" -a '
     - name: Push changes to master branch
       uses: ad-m/github-push-action@master
       with:
