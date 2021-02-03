@@ -159,7 +159,7 @@ class MangaObj:
 
         # Download the page if we should get new ones or read from cache
         filename = cache_path + format(self.id, '06') + ".txt"
-        json_url = url_main + "/api/v2/manga/" + str(self.id) + "/?include=chapters"
+        json_url = url_main + "manga/" + str(self.id) + "/?include=chapters"
         if cache_files and os.path.exists(filename):
             print("    -> loading " + filename)
             file = codecs.open(filename, "r", "utf-8")
@@ -184,19 +184,19 @@ class MangaObj:
         try:
             data = json.loads(response_text)
             if data["code"] == 404 or data["status"] == "error":
-                return False
+                return 0
             data = data["data"]
         except (KeyError, ValueError, TypeError, json.JSONDecodeError):
             print("\033[93mwarning!! manga download probably failed!!\033[0m")
-            return False
+            return 2
 
         # check if valid
         if "manga" not in data or "chapters" not in data:
             print("\033[93mwarning!! manga download probably failed!!\033[0m")
-            return False
+            return 2
         if "tags" not in data["manga"] or "id" not in data["manga"] or "publication" not in data["manga"] or "links" not in data["manga"]:
             print("\033[93mwarning!! manga download probably failed!!\033[0m")
-            return False
+            return 2
 
         # ID lookups to our types
         # Content, Format, Genre, Theme
@@ -291,8 +291,7 @@ class MangaObj:
 
         # set last updated timestamp to current time
         self.last_updated = datetime.utcnow().strftime("%B %d, %Y %H:%M:%S") + " UTC"
-
-        return True
+        return 1
 
     def download_and_parse_externals(self, headers, cookies, cache_files, cache_path):
 

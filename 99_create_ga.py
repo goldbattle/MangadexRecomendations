@@ -7,9 +7,8 @@ hours_in_a_week = 24 * 7
 export_folder = ".github/workflows/"
 
 # main parameters needed
-hours_between = 6
-max_manga_id = 60000
-# num_to_run = 4000
+hours_between = 4
+max_manga_id = 65000
 num_to_run = round(max_manga_id / (hours_in_a_week / hours_between))
 
 # assert that we will be able to get all mangas in this time period

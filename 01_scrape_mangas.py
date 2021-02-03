@@ -9,7 +9,7 @@ from functions import manga_utils
 from functions import anilist_helpers
 
 # script parameters
-url_main = "https://mangadex.org"
+url_main = "https://api.mangadex.org/v2/"
 dir_inout = "data/jsons/"
 dir_logs = "data/logs/"
 skip_already_downloaded = False
@@ -18,7 +18,7 @@ if len(sys.argv) == 3:
     id_end = int(sys.argv[2])
 else:
     id_start = 1
-    id_end = 60000
+    id_end = 65000
 
 assert id_end >= id_start
 assert id_end > 0
@@ -55,7 +55,7 @@ while manga_count <= id_end:
     print("processing manga " + str(manga_count)+":")
     data = manga_obj.MangaObj()
     data.id = manga_count
-    data.url = url_main + "/manga/" + str(manga_count)
+    data.url = url_main + "manga/" + str(manga_count)
 
     # check if this manga has already been downloaded
     already_downloaded = False
@@ -78,12 +78,16 @@ while manga_count <= id_end:
         data.matches = downloaded_manga.matches
 
     # downloading the json api endpoint for this manga
+    # codes: 0: we got a 404, 1: success, 2: server 500 errors!
     # success = data.download_and_parse_labels_soup(headers, cookies, cache_files, path_cache_manga)
     success = data.download_and_parse_labels_json(url_main, headers, cookies, cache_files, path_cache_manga_api)
-    if not success:
+    if success == 0:
         manga_count = manga_count + 1
         continue
-    data.download_and_parse_externals(headers, cookies, cache_files, path_cache_manga_ext)
+    if success == 1:
+        data.download_and_parse_externals(headers, cookies, cache_files, path_cache_manga_ext)
+    if success == 2:
+        data = downloaded_manga
 
     # nice debug for this
     t21 = time.time()
