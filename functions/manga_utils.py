@@ -356,10 +356,15 @@ def get_compressed_representation_string_v2(manga_data):
         for ct2, match in enumerate(manga1.matches):
             if match["id"] in ids_added:
                 continue
+            if "r18" in match:
+                r18 = match["r18"]
+            else:
+                r18 = False
             match_tmp = {
                 "id": match["id"],
                 "title": match["title"],
                 "score": round(match["score"], 3),
+                "r18": r18,
             }
             manga_temp["matches"].append(match_tmp)
             ids_added.append(match["id"])

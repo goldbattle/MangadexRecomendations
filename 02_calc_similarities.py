@@ -242,7 +242,8 @@ for ct, manga1 in enumerate(manga_data):
             'id': manga2.id,
             'title': manga2.title,
             'url': manga2.url,
-            'score': round(scores[idx] / 2.0, 4)
+            'score': round(scores[idx] / 2.0, 4),
+            'r18': manga2.is_r18
         })
 
         # nice debug print
