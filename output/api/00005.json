@@ -1,133 +1,158 @@
 {
   "id": 5,
   "title": "Naruto",
-  "url": "https://mangadex.org/manga/5",
-  "last_updated": "January 17, 2021 00:51:06 UTC",
+  "url": "https://api.mangadex.org/v2/manga/5",
+  "last_updated": "February 03, 2021 07:00:37 UTC",
   "matches": [
     {
       "id": 38027,
       "title": "Boruto: Naruto Next Generations (Fan Colored)",
-      "score": 0.866
+      "score": 0.866,
+      "r18": false
     },
     {
       "id": 6652,
       "title": "Utawarerumono",
-      "score": 0.756
+      "score": 0.756,
+      "r18": false
     },
     {
       "id": 2190,
       "title": "Nabari no Ou",
-      "score": 0.746
+      "score": 0.746,
+      "r18": false
     },
     {
       "id": 219,
       "title": "Akame ga KILL!",
-      "score": 0.74
+      "score": 0.74,
+      "r18": false
     },
     {
       "id": 42459,
       "title": "Akame ga Kill! 1.5",
-      "score": 0.74
+      "score": 0.74,
+      "r18": false
     },
     {
       "id": 25435,
       "title": "Madara",
-      "score": 0.74
+      "score": 0.74,
+      "r18": false
     },
     {
       "id": 15984,
       "title": "Ninja Slayer - Kills [Setsu]",
-      "score": 0.735
+      "score": 0.735,
+      "r18": false
     },
     {
       "id": 24383,
       "title": "Rurouni Kenshin Ibun: Ashitarou Zenka Ari",
-      "score": 0.734
+      "score": 0.734,
+      "r18": false
     },
     {
       "id": 23231,
       "title": "Wu Dong Qian Kun",
-      "score": 0.734
+      "score": 0.734,
+      "r18": false
     },
     {
       "id": 216,
       "title": "Rurouni Kenshin",
-      "score": 0.734
+      "score": 0.734,
+      "r18": false
     },
     {
       "id": 1417,
       "title": "Shingetsutan Tsukihime",
-      "score": 0.731
+      "score": 0.731,
+      "r18": false
     },
     {
       "id": 5573,
       "title": "Saiyuki",
-      "score": 0.729
+      "score": 0.729,
+      "r18": false
     },
     {
       "id": 21914,
       "title": "Almadianos Eiyuuden",
-      "score": 0.728
+      "score": 0.728,
+      "r18": false
     },
     {
       "id": 5683,
       "title": "Mononoke Hime",
-      "score": 0.727
+      "score": 0.727,
+      "r18": false
     },
     {
       "id": 21283,
       "title": "Persona 5",
-      "score": 0.727
+      "score": 0.727,
+      "r18": false
     },
     {
       "id": 303,
       "title": "Claymore",
-      "score": 0.726
+      "score": 0.726,
+      "r18": false
     },
     {
       "id": 2340,
       "title": "Fate/stay night",
-      "score": 0.725
+      "score": 0.725,
+      "r18": false
     },
     {
       "id": 34387,
       "title": "Lonely Attack on the Different World",
-      "score": 0.725
+      "score": 0.725,
+      "r18": false
     },
     {
       "id": 4994,
       "title": "Saint Seiya",
-      "score": 0.725
+      "score": 0.725,
+      "r18": false
     },
     {
       "id": 20354,
       "title": "Mitsukubi Condor",
-      "score": 0.725
+      "score": 0.725,
+      "r18": false
     },
     {
       "id": 4566,
       "title": "Hero Tales",
-      "score": 0.724
+      "score": 0.724,
+      "r18": false
     },
     {
       "id": 6535,
       "title": "Radiata Stories - The Epic of Jack",
-      "score": 0.724
+      "score": 0.724,
+      "r18": false
     },
     {
       "id": 54801,
       "title": "One Piece Episode A",
-      "score": 0.724
+      "score": 0.724,
+      "r18": false
     },
     {
       "id": 23195,
       "title": "The Great Ruler",
-      "score": 0.724
+      "score": 0.724,
+      "r18": false
     },
     {
       "id": 7308,
       "title": "Radiata Stories - The Song of Ridley",
-      "score": 0.724
+      "score": 0.724,
+      "r18": false
     }
   ]
 }

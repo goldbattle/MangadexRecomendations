@@ -1,133 +1,158 @@
 {
   "id": 38120,
   "title": "Rojiura Brothers",
-  "url": "https://mangadex.org/manga/38120",
-  "last_updated": "January 14, 2021 07:05:42 UTC",
+  "url": "https://api.mangadex.org/v2/manga/38120",
+  "last_updated": "February 04, 2021 00:17:48 UTC",
   "matches": [
     {
-      "id": 630,
-      "title": "Dual x Justice",
-      "score": 0.272
-    },
-    {
-      "id": 12945,
-      "title": "Slime-san to Yuusha Kenkyuubu",
-      "score": 0.272
-    },
-    {
-      "id": 14182,
-      "title": "Karasuma Zero-jou Tandai - Mahou Shoujo Taisen",
-      "score": 0.272
-    },
-    {
-      "id": 1107,
-      "title": "En Passant",
-      "score": 0.227
-    },
-    {
-      "id": 5522,
-      "title": "BLAZE",
-      "score": 0.227
-    },
-    {
-      "id": 6994,
-      "title": "Momogumi Plus Senki",
-      "score": 0.227
-    },
-    {
-      "id": 28144,
-      "title": "Kiznaiver",
-      "score": 0.227
-    },
-    {
-      "id": 4,
-      "title": "Beelzebub",
-      "score": 0.194
-    },
-    {
-      "id": 413,
-      "title": "Mahou no Iroha!",
-      "score": 0.194
-    },
-    {
-      "id": 2765,
-      "title": "Ware wa Ken-ou!!",
-      "score": 0.194
-    },
-    {
-      "id": 6214,
-      "title": "Daydream\u2605Nightmare",
-      "score": 0.194
-    },
-    {
-      "id": 6540,
-      "title": "Hells Angels",
-      "score": 0.194
-    },
-    {
-      "id": 6663,
-      "title": "Night Wizard! - Variable Witch",
-      "score": 0.194
-    },
-    {
-      "id": 15127,
-      "title": "Gaitou Alice",
-      "score": 0.194
-    },
-    {
-      "id": 22585,
-      "title": "Oni Futatsu",
-      "score": 0.194
-    },
-    {
-      "id": 23377,
-      "title": "OPM &times; Dangan Tenshi Fanclub",
-      "score": 0.194
-    },
-    {
-      "id": 23914,
-      "title": "Wedding Peach",
-      "score": 0.194
-    },
-    {
-      "id": 24319,
-      "title": "Code Name wa Sailor V",
-      "score": 0.194
-    },
-    {
-      "id": 44976,
-      "title": "Mashle: Magic and Muscles",
-      "score": 0.194
-    },
-    {
-      "id": 58510,
-      "title": "Gakuen Kishi no Level up!",
-      "score": 0.194
-    },
-    {
-      "id": 167,
-      "title": "Saint Dragon Girl Miracle",
-      "score": 0.17
+      "id": 714,
+      "title": "Onidere",
+      "score": 0.258,
+      "r18": false
     },
     {
       "id": 958,
       "title": "Binbougami ga!",
-      "score": 0.17
+      "score": 0.258,
+      "r18": false
     },
     {
-      "id": 1596,
-      "title": "Esprit",
-      "score": 0.17
+      "id": 4113,
+      "title": "Clover",
+      "score": 0.258,
+      "r18": false
     },
     {
-      "id": 3183,
-      "title": "Hyakkiyakou Juliet",
-      "score": 0.17
+      "id": 17688,
+      "title": "Bucchigiri",
+      "score": 0.258,
+      "r18": false
     },
     {
-      "id": 9650,
-      "title": "Black Haze",
-      "score": 0.17
+      "id": 43650,
+      "title": "Buttobi Itto",
+      "score": 0.258,
+      "r18": false
+    },
+    {
+      "id": 59708,
+      "title": "That Dragon (Exchange) Student Stands Out More Than Me",
+      "score": 0.258,
+      "r18": false
+    },
+    {
+      "id": 126,
+      "title": "Kyou kara Ore wa!!",
+      "score": 0.229,
+      "r18": false
+    },
+    {
+      "id": 43115,
+      "title": "Pocket Monsters",
+      "score": 0.229,
+      "r18": false
+    },
+    {
+      "id": 185,
+      "title": "Hareluya II Boy",
+      "score": 0.215,
+      "r18": false
+    },
+    {
+      "id": 385,
+      "title": "Seto no Hanayome",
+      "score": 0.215,
+      "r18": false
+    },
+    {
+      "id": 684,
+      "title": "Kuroko no Basket",
+      "score": 0.215,
+      "r18": false
+    },
+    {
+      "id": 837,
+      "title": "Yankee-kun to Megane-chan",
+      "score": 0.215,
+      "r18": false
+    },
+    {
+      "id": 1873,
+      "title": "Haikyuu!!",
+      "score": 0.215,
+      "r18": false
+    },
+    {
+      "id": 1937,
+      "title": "Tsukimi no Soba",
+      "score": 0.215,
+      "r18": false
+    },
+    {
+      "id": 3607,
+      "title": "All Around Type-Moon",
+      "score": 0.215,
+      "r18": false
+    },
+    {
+      "id": 3717,
+      "title": "Hana Michi Otome",
+      "score": 0.215,
+      "r18": false
+    },
+    {
+      "id": 5610,
+      "title": "Mashima-en",
+      "score": 0.215,
+      "r18": false
+    },
+    {
+      "id": 10553,
+      "title": "Mob Psycho 100",
+      "score": 0.215,
+      "r18": false
+    },
+    {
+      "id": 11900,
+      "title": "Kyou no Cerberus",
+      "score": 0.215,
+      "r18": false
+    },
+    {
+      "id": 12339,
+      "title": "Rock Lee no Seishun Full-Power Ninden",
+      "score": 0.215,
+      "r18": false
+    },
+    {
+      "id": 13399,
+      "title": "Mahou Tsukai no Hako - Starlit Marmalade",
+      "score": 0.215,
+      "r18": false
+    },
+    {
+      "id": 13943,
+      "title": "Sensou Gekijou",
+      "score": 0.215,
+      "r18": false
+    },
+    {
+      "id": 15732,
+      "title": "Sayu x Lily",
+      "score": 0.215,
+      "r18": false
+    },
+    {
+      "id": 15858,
+      "title": "Fukigen na Mononokean",
+      "score": 0.215,
+      "r18": false
+    },
+    {
+      "id": 16881,
+      "title": "Mahou Shoujo Lyrical Nanoha INNOCENTS",
+      "score": 0.215,
+      "r18": false
     }
   ]
 }

@@ -1,98 +1,128 @@
 {
   "id": 38256,
   "title": "White Space 2030",
-  "url": "https://mangadex.org/manga/38256",
-  "last_updated": "January 14, 2021 07:07:03 UTC",
+  "url": "https://api.mangadex.org/v2/manga/38256",
+  "last_updated": "February 04, 2021 00:19:59 UTC",
   "matches": [
     {
       "id": 32265,
       "title": "Azur Lane - A Journal (Doujinshi)",
-      "score": 0.653
+      "score": 0.652,
+      "r18": false
+    },
+    {
+      "id": 54481,
+      "title": "Nostalgic Skirt ~Memory~",
+      "score": 0.283,
+      "r18": false
     },
     {
       "id": 53384,
       "title": "Puristic",
-      "score": 0.217
+      "score": 0.217,
+      "r18": false
     },
     {
       "id": 44322,
       "title": "A Space Love Story",
-      "score": 0.209
+      "score": 0.209,
+      "r18": false
     },
     {
       "id": 56402,
       "title": "Odyssey",
-      "score": 0.186
+      "score": 0.186,
+      "r18": false
     },
     {
       "id": 55210,
       "title": "A Story in the Future",
-      "score": 0.173
+      "score": 0.173,
+      "r18": false
     },
     {
       "id": 51410,
       "title": "Can't Be Answered",
-      "score": 0.163
+      "score": 0.163,
+      "r18": false
     },
     {
       "id": 30096,
       "title": "For You, I Will Follow Obediently",
-      "score": 0.163
+      "score": 0.163,
+      "r18": false
     },
     {
       "id": 55857,
       "title": "My Own Alien",
-      "score": 0.163
+      "score": 0.163,
+      "r18": false
     },
     {
       "id": 51106,
       "title": "How Do We Fall in Love Without a Body?",
-      "score": 0.144
+      "score": 0.144,
+      "r18": false
     },
     {
       "id": 41568,
       "title": "Moon You",
-      "score": 0.144
+      "score": 0.144,
+      "r18": false
     },
     {
       "id": 40670,
       "title": "Is Love Covered by Insurance?",
-      "score": 0.13
+      "score": 0.13,
+      "r18": false
     },
     {
       "id": 9123,
       "title": "One Punch Man (Webcomic/Original)",
-      "score": 0.118
+      "score": 0.118,
+      "r18": false
     },
     {
       "id": 47105,
       "title": "Strongest Cultivation App",
-      "score": 0.108
+      "score": 0.108,
+      "r18": false
     },
     {
       "id": 51716,
       "title": "Wish Shop",
-      "score": 0.1
+      "score": 0.1,
+      "r18": false
     },
     {
       "id": 44584,
       "title": "My Universe",
-      "score": 0.1
+      "score": 0.1,
+      "r18": false
     },
     {
       "id": 25758,
       "title": "Miracle App Store",
-      "score": 0.093
+      "score": 0.093,
+      "r18": false
     },
     {
       "id": 56747,
       "title": "No Country for Zombie",
-      "score": 0.093
+      "score": 0.093,
+      "r18": false
     },
     {
       "id": 46852,
       "title": "11me",
-      "score": 0.087
+      "score": 0.087,
+      "r18": false
+    },
+    {
+      "id": 59608,
+      "title": "ELEMENTS: Users Of The Universe",
+      "score": 0.081,
+      "r18": false
     }
   ]
 }

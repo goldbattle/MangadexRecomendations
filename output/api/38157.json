@@ -1,38 +1,44 @@
 {
   "id": 38157,
   "title": "Residence ~Yuganda Negai de Shoujo ni Kawaru~",
-  "url": "https://mangadex.org/manga/38157",
-  "last_updated": "January 14, 2021 07:06:05 UTC",
+  "url": "https://api.mangadex.org/v2/manga/38157",
+  "last_updated": "February 04, 2021 00:18:26 UTC",
   "matches": [
     {
       "id": 28502,
       "title": "Sorako no Tabi",
-      "score": 0.265
+      "score": 0.265,
+      "r18": true
     },
     {
       "id": 23789,
       "title": "Vengeance",
-      "score": 0.216
+      "score": 0.217,
+      "r18": true
     },
     {
       "id": 31686,
       "title": "Hiroshi's Strange Love",
-      "score": 0.185
+      "score": 0.185,
+      "r18": true
     },
     {
       "id": 31710,
       "title": "TS Boyfriend and Bi Girlfriend",
-      "score": 0.185
+      "score": 0.185,
+      "r18": true
     },
     {
       "id": 43187,
       "title": "JK-ka Refle",
-      "score": 0.185
+      "score": 0.185,
+      "r18": true
     },
     {
       "id": 13061,
       "title": "The Orange Prince and Words of Love",
-      "score": 0.12
+      "score": 0.12,
+      "r18": true
     }
   ]
 }

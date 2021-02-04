@@ -1,73 +1,92 @@
 {
   "id": 37705,
   "title": "Konna Ore wo Suki Toka Majika",
-  "url": "https://mangadex.org/manga/37705",
-  "last_updated": "January 14, 2021 07:01:07 UTC",
+  "url": "https://api.mangadex.org/v2/manga/37705",
+  "last_updated": "February 04, 2021 00:11:16 UTC",
   "matches": [
     {
       "id": 18540,
       "title": "Nani ka Ii no Mitsuketa!",
-      "score": 0.659
+      "score": 0.659,
+      "r18": false
     },
     {
       "id": 30890,
       "title": "Nigenaide, Rinjin-kun",
-      "score": 0.455
+      "score": 0.455,
+      "r18": false
     },
     {
       "id": 16420,
       "title": "Dakaretai Otoko Ichii ni Odosarete Imasu",
-      "score": 0.39
+      "score": 0.39,
+      "r18": false
     },
     {
       "id": 14280,
       "title": "Kyoushi no Junjou Seito no Yokubou",
-      "score": 0.383
+      "score": 0.383,
+      "r18": false
     },
     {
       "id": 13676,
       "title": "Dekiru Otoko ga Suki Nanda!",
-      "score": 0.369
+      "score": 0.369,
+      "r18": false
     },
     {
       "id": 55997,
       "title": "Kawaikunai Aniki o Aegasu Houhou",
-      "score": 0.361
+      "score": 0.361,
+      "r18": false
     },
     {
       "id": 34015,
       "title": "Katsubou no Manazashi",
-      "score": 0.352
+      "score": 0.352,
+      "r18": false
     },
     {
       "id": 39004,
       "title": "Taberarechaukei Danshi",
-      "score": 0.344
+      "score": 0.344,
+      "r18": false
     },
     {
       "id": 20044,
       "title": "Ore to Joushi no Kakushikoto",
-      "score": 0.298
+      "score": 0.298,
+      "r18": false
+    },
+    {
+      "id": 8177,
+      "title": "Tsumaranai Otoko",
+      "score": 0.295,
+      "r18": false
     },
     {
       "id": 15109,
       "title": "Hanayome wa Juunanasai",
-      "score": 0.291
+      "score": 0.291,
+      "r18": false
     },
     {
       "id": 54025,
       "title": "Sex and World's End",
-      "score": 0.279
+      "score": 0.279,
+      "r18": false
     },
     {
       "id": 14650,
       "title": "Ze",
-      "score": 0.266
+      "score": 0.265,
+      "r18": false
     },
     {
       "id": 1455,
       "title": "Okane ga Nai",
-      "score": 0.185
+      "score": 0.185,
+      "r18": false
     }
   ]
 }
