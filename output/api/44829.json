@@ -1,8 +1,8 @@
 {
   "id": 44829,
   "title": "Chichi no nakushi mono",
-  "url": "https://mangadex.org/manga/44829",
-  "last_updated": "January 15, 2021 02:01:20 UTC",
+  "url": "https://api.mangadex.org/v2/manga/44829",
+  "last_updated": "February 04, 2021 16:50:54 UTC",
   "matches": [
     {
       "id": 59089,
@@ -23,12 +23,6 @@
       "r18": false
     },
     {
-      "id": 11754,
-      "title": "Highway Star",
-      "score": 0.349,
-      "r18": false
-    },
-    {
       "id": 59090,
       "title": "Kagerou Days Official Anthology Comic -REMEMBER-",
       "score": 0.34,
@@ -43,7 +37,7 @@
     {
       "id": 55,
       "title": "Wrong Soul",
-      "score": 0.317,
+      "score": 0.316,
       "r18": false
     },
     {
@@ -103,7 +97,7 @@
     {
       "id": 3859,
       "title": "Touhou - Thank You Cirno (Doujinshi)",
-      "score": 0.281,
+      "score": 0.282,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 19085,
       "title": "Children Can't Choose Their Parents",
       "score": 0.266,
+      "r18": false
+    },
+    {
+      "id": 5564,
+      "title": "Shuukan Ishikawa Masayuki",
+      "score": 0.264,
       "r18": false
     }
   ]

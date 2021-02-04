@@ -1,8 +1,8 @@
 {
   "id": 44268,
   "title": "Just give it to Me",
-  "url": "https://mangadex.org/manga/44268",
-  "last_updated": "January 15, 2021 01:56:00 UTC",
+  "url": "https://api.mangadex.org/v2/manga/44268",
+  "last_updated": "February 04, 2021 16:40:52 UTC",
   "matches": [
     {
       "id": 28422,
@@ -13,7 +13,7 @@
     {
       "id": 28853,
       "title": "The Treasured Sakura Tome",
-      "score": 0.679,
+      "score": 0.678,
       "r18": false
     },
     {
@@ -53,6 +53,12 @@
       "r18": false
     },
     {
+      "id": 52339,
+      "title": "Busted! Darklord",
+      "score": 0.652,
+      "r18": false
+    },
+    {
       "id": 49232,
       "title": "Although My Maid Has H-Cups, She Isn't H at All!",
       "score": 0.34,
@@ -61,7 +67,7 @@
     {
       "id": 47368,
       "title": "Bijutsu Tougou Kai",
-      "score": 0.327,
+      "score": 0.326,
       "r18": false
     },
     {
@@ -109,7 +115,7 @@
     {
       "id": 50785,
       "title": "I Have Twin Girlfriends",
-      "score": 0.279,
+      "score": 0.278,
       "r18": false
     },
     {
@@ -132,7 +138,7 @@
     },
     {
       "id": 45361,
-      "title": "Immortal Swordsman In The Reverse World",
+      "title": "Immortal Swordsman in the Reverse World",
       "score": 0.257,
       "r18": false
     },
@@ -146,12 +152,6 @@
       "id": 56465,
       "title": "Hahazuka-san wo &times;&times; ni Shitai",
       "score": 0.244,
-      "r18": false
-    },
-    {
-      "id": 18393,
-      "title": "Demon Spirit Seed Manual",
-      "score": 0.237,
       "r18": false
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": 43929,
   "title": "Kabuki Hime - Tenkaichi no Onna",
-  "url": "https://mangadex.org/manga/43929",
-  "last_updated": "January 15, 2021 01:52:47 UTC",
+  "url": "https://api.mangadex.org/v2/manga/43929",
+  "last_updated": "February 04, 2021 16:34:18 UTC",
   "matches": [
     {
       "id": 4121,
@@ -37,7 +37,7 @@
     {
       "id": 17889,
       "title": "Beast of East",
-      "score": 0.693,
+      "score": 0.692,
       "r18": false
     },
     {
@@ -65,12 +65,6 @@
       "r18": false
     },
     {
-      "id": 6272,
-      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
-      "score": 0.688,
-      "r18": false
-    },
-    {
       "id": 10908,
       "title": "The Strange Tale of Panorama Island",
       "score": 0.687,
@@ -79,7 +73,7 @@
     {
       "id": 3491,
       "title": "Master Keaton",
-      "score": 0.687,
+      "score": 0.686,
       "r18": false
     },
     {
@@ -113,14 +107,14 @@
       "r18": false
     },
     {
-      "id": 3142,
-      "title": "Threads of Time",
+      "id": 4242,
+      "title": "Hyouge Mono",
       "score": 0.679,
       "r18": false
     },
     {
-      "id": 4242,
-      "title": "Hyouge Mono",
+      "id": 3142,
+      "title": "Threads of Time",
       "score": 0.679,
       "r18": false
     },
@@ -151,6 +145,12 @@
     {
       "id": 41553,
       "title": "The Man who Killed Nobunaga",
+      "score": 0.674,
+      "r18": false
+    },
+    {
+      "id": 6272,
+      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
       "score": 0.674,
       "r18": false
     }

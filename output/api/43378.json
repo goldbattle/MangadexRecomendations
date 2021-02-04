@@ -1,8 +1,8 @@
 {
   "id": 43378,
   "title": "Hello To My God",
-  "url": "https://mangadex.org/manga/43378",
-  "last_updated": "January 15, 2021 01:47:02 UTC",
+  "url": "https://api.mangadex.org/v2/manga/43378",
+  "last_updated": "February 04, 2021 16:24:19 UTC",
   "matches": [
     {
       "id": 57382,
@@ -83,12 +83,6 @@
       "r18": false
     },
     {
-      "id": 47335,
-      "title": "Geesen Shoujo to Ibunka Kouryuu",
-      "score": 0.38,
-      "r18": false
-    },
-    {
       "id": 48584,
       "title": "Muaisou na Futago no Ane ga, Nazeka Ore to Naka no Yoi Futago no Imouto no Furi wo Shiteiru Hanashi",
       "score": 0.376,
@@ -101,15 +95,15 @@
       "r18": false
     },
     {
-      "id": 50350,
-      "title": "A Story About Two Brats Stopping Time to Play a Prank",
+      "id": 48786,
+      "title": "My Husband",
       "score": 0.372,
       "r18": false
     },
     {
-      "id": 48786,
-      "title": "My Husband",
-      "score": 0.371,
+      "id": 50350,
+      "title": "A Story About Two Brats Stopping Time to Play a Prank",
+      "score": 0.372,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 46580,
       "title": "A Doting Marriage Dropped from the Clouds",
       "score": 0.328,
+      "r18": false
+    },
+    {
+      "id": 44007,
+      "title": "A Happy Couple",
+      "score": 0.319,
       "r18": false
     }
   ]

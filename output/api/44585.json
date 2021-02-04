@@ -1,13 +1,19 @@
 {
   "id": 44585,
   "title": "I Just Want A Girlfriend",
-  "url": "https://mangadex.org/manga/44585",
-  "last_updated": "January 15, 2021 01:59:01 UTC",
+  "url": "https://api.mangadex.org/v2/manga/44585",
+  "last_updated": "February 04, 2021 16:46:38 UTC",
   "matches": [
     {
       "id": 44714,
       "title": "Xianzun System in the City",
-      "score": 0.288,
+      "score": 0.287,
+      "r18": false
+    },
+    {
+      "id": 57555,
+      "title": "Lurking in the City",
+      "score": 0.253,
       "r18": false
     },
     {
@@ -31,12 +37,6 @@
     {
       "id": 32259,
       "title": "My Girlfriend Is a Villain",
-      "score": 0.234,
-      "r18": false
-    },
-    {
-      "id": 57555,
-      "title": "Lurking in the City",
       "score": 0.234,
       "r18": false
     },
@@ -67,7 +67,13 @@
     {
       "id": 56205,
       "title": "Emperor-in-Law",
-      "score": 0.196,
+      "score": 0.195,
+      "r18": false
+    },
+    {
+      "id": 53430,
+      "title": "Goddess' Commoner Soldier King",
+      "score": 0.193,
       "r18": false
     },
     {
@@ -79,19 +85,7 @@
     {
       "id": 44788,
       "title": "Urban Best Medic",
-      "score": 0.189,
-      "r18": false
-    },
-    {
-      "id": 44575,
-      "title": "Reverse Villain",
-      "score": 0.187,
-      "r18": false
-    },
-    {
-      "id": 30489,
-      "title": "Ultimate Scheming System",
-      "score": 0.185,
+      "score": 0.188,
       "r18": false
     },
     {
@@ -101,9 +95,27 @@
       "r18": false
     },
     {
+      "id": 30489,
+      "title": "Ultimate Scheming System",
+      "score": 0.185,
+      "r18": false
+    },
+    {
       "id": 31196,
       "title": "I Was Trash",
       "score": 0.179,
+      "r18": false
+    },
+    {
+      "id": 44575,
+      "title": "Reverse Villain",
+      "score": 0.178,
+      "r18": false
+    },
+    {
+      "id": 59754,
+      "title": "Divine Beast System",
+      "score": 0.156,
       "r18": false
     }
   ]

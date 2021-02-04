@@ -1,8 +1,8 @@
 {
   "id": 43520,
   "title": "Yes, My Lich!",
-  "url": "https://mangadex.org/manga/43520",
-  "last_updated": "January 15, 2021 01:48:25 UTC",
+  "url": "https://api.mangadex.org/v2/manga/43520",
+  "last_updated": "February 04, 2021 16:27:09 UTC",
   "matches": [
     {
       "id": 52194,
@@ -37,6 +37,12 @@
     {
       "id": 23231,
       "title": "Wu Dong Qian Kun",
+      "score": 0.652,
+      "r18": false
+    },
+    {
+      "id": 54218,
+      "title": "The Lady and the Beast",
       "score": 0.652,
       "r18": false
     },
@@ -146,12 +152,6 @@
       "id": 51604,
       "title": "King Killer Reborn",
       "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 36345,
-      "title": "Castle Swimmer",
-      "score": 0.351,
       "r18": false
     }
   ]

@@ -1,9 +1,15 @@
 {
   "id": 43509,
   "title": "Sizzling Chop Chop",
-  "url": "https://mangadex.org/manga/43509",
-  "last_updated": "January 15, 2021 01:48:18 UTC",
+  "url": "https://api.mangadex.org/v2/manga/43509",
+  "last_updated": "February 04, 2021 16:26:55 UTC",
   "matches": [
+    {
+      "id": 50451,
+      "title": "Clementine Under the Stars",
+      "score": 0.453,
+      "r18": false
+    },
     {
       "id": 58384,
       "title": "Lazy Cooking",
@@ -59,6 +65,12 @@
       "r18": false
     },
     {
+      "id": 53532,
+      "title": "Please Call Me Red Panda",
+      "score": 0.332,
+      "r18": false
+    },
+    {
       "id": 56833,
       "title": "Lemon Soda &amp; Coffee",
       "score": 0.33,
@@ -71,8 +83,8 @@
       "r18": false
     },
     {
-      "id": 53532,
-      "title": "Please Call Me Red Panda",
+      "id": 59941,
+      "title": "Michelin Star",
       "score": 0.33,
       "r18": false
     },
@@ -140,18 +152,6 @@
       "id": 19586,
       "title": "That House Where I Live With You",
       "score": 0.299,
-      "r18": false
-    },
-    {
-      "id": 51264,
-      "title": "I Am a Small Kitten",
-      "score": 0.299,
-      "r18": false
-    },
-    {
-      "id": 27962,
-      "title": "Cat And Dog",
-      "score": 0.295,
       "r18": false
     }
   ]

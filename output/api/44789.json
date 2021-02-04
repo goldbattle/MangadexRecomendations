@@ -1,8 +1,8 @@
 {
   "id": 44789,
   "title": "SUPER Doubutsuuzu",
-  "url": "https://mangadex.org/manga/44789",
-  "last_updated": "January 15, 2021 02:00:58 UTC",
+  "url": "https://api.mangadex.org/v2/manga/44789",
+  "last_updated": "February 04, 2021 16:50:14 UTC",
   "matches": [
     {
       "id": 48567,
@@ -25,7 +25,13 @@
     {
       "id": 48885,
       "title": "Jyordy 24 Hours",
-      "score": 0.231,
+      "score": 0.23,
+      "r18": false
+    },
+    {
+      "id": 45723,
+      "title": "My Panda Boyfriend",
+      "score": 0.219,
       "r18": false
     },
     {
@@ -77,15 +83,15 @@
       "r18": false
     },
     {
-      "id": 35872,
-      "title": "DON'T HATE",
-      "score": 0.201,
+      "id": 59461,
+      "title": "Wani-san is Good At His Job",
+      "score": 0.204,
       "r18": false
     },
     {
-      "id": 45723,
-      "title": "My Panda Boyfriend",
-      "score": 0.195,
+      "id": 35872,
+      "title": "DON'T HATE",
+      "score": 0.201,
       "r18": false
     },
     {
@@ -143,15 +149,9 @@
       "r18": false
     },
     {
-      "id": 34350,
-      "title": "I Like How You Hate Me but Can't Get Rid of Me",
-      "score": 0.17,
-      "r18": false
-    },
-    {
-      "id": 43646,
-      "title": "1111 Animals",
-      "score": 0.17,
+      "id": 47224,
+      "title": "Planet Nya Nya Nya~",
+      "score": 0.171,
       "r18": false
     }
   ]

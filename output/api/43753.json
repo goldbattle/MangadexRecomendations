@@ -1,8 +1,8 @@
 {
   "id": 43753,
   "title": "The End of the World and a Witch's Love",
-  "url": "https://mangadex.org/manga/43753",
-  "last_updated": "January 15, 2021 01:51:06 UTC",
+  "url": "https://api.mangadex.org/v2/manga/43753",
+  "last_updated": "February 04, 2021 16:31:16 UTC",
   "matches": [
     {
       "id": 4056,
@@ -14,6 +14,12 @@
       "id": 44318,
       "title": "Hisokana Hana Emi",
       "score": 0.684,
+      "r18": false
+    },
+    {
+      "id": 49393,
+      "title": "Himegami no Miko",
+      "score": 0.682,
       "r18": false
     },
     {
@@ -29,9 +35,9 @@
       "r18": false
     },
     {
-      "id": 4765,
-      "title": "Kashimashi ~Girl Meets Girl~",
-      "score": 0.668,
+      "id": 59665,
+      "title": "Hi, My Lady",
+      "score": 0.66,
       "r18": false
     },
     {
@@ -74,18 +80,6 @@
       "id": 46090,
       "title": "Shoujo Kageki Revue Starlight - Maya and Claudine in Hogwarts School Of Witchcraft and Wizardry (Doujinshi)",
       "score": 0.338,
-      "r18": false
-    },
-    {
-      "id": 49393,
-      "title": "Himegami no Miko",
-      "score": 0.338,
-      "r18": false
-    },
-    {
-      "id": 52144,
-      "title": "It's Okay, Senpai",
-      "score": 0.335,
       "r18": false
     },
     {
@@ -137,20 +131,26 @@
       "r18": false
     },
     {
+      "id": 52144,
+      "title": "It's Okay, Senpai",
+      "score": 0.28,
+      "r18": false
+    },
+    {
       "id": 53734,
       "title": "Tendou Maya Erased",
       "score": 0.275,
       "r18": false
     },
     {
-      "id": 59422,
-      "title": "Shoujo Kageki Revue Starlight - Waiting for Next Spring (Doujinshi)",
-      "score": 0.263,
+      "id": 30312,
+      "title": "Winter to Summer",
+      "score": 0.254,
       "r18": false
     },
     {
-      "id": 30312,
-      "title": "Winter to Summer",
+      "id": 58318,
+      "title": "Suddenly I Like Girls!",
       "score": 0.254,
       "r18": false
     }

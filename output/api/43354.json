@@ -1,8 +1,8 @@
 {
   "id": 43354,
   "title": "The Dragon, the Hero, and the Courier",
-  "url": "https://mangadex.org/manga/43354",
-  "last_updated": "January 15, 2021 01:46:48 UTC",
+  "url": "https://api.mangadex.org/v2/manga/43354",
+  "last_updated": "February 04, 2021 16:23:52 UTC",
   "matches": [
     {
       "id": 24411,
@@ -32,12 +32,6 @@
       "id": 18059,
       "title": "Grimoire of Zero",
       "score": 0.699,
-      "r18": false
-    },
-    {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.697,
       "r18": false
     },
     {
@@ -83,6 +77,12 @@
       "r18": false
     },
     {
+      "id": 27151,
+      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
+      "score": 0.688,
+      "r18": false
+    },
+    {
       "id": 50185,
       "title": "The Most Notorious &quot;Talker&quot; Runs the World's Greatest Clan",
       "score": 0.688,
@@ -113,26 +113,20 @@
       "r18": false
     },
     {
-      "id": 1034,
-      "title": "Persona 4",
-      "score": 0.681,
-      "r18": false
-    },
-    {
       "id": 1168,
       "title": "Spice and Wolf",
       "score": 0.681,
       "r18": false
     },
     {
-      "id": 33137,
-      "title": "Blade of the Phantom Master",
+      "id": 1034,
+      "title": "Persona 4",
       "score": 0.681,
       "r18": false
     },
     {
-      "id": 6272,
-      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
+      "id": 33137,
+      "title": "Blade of the Phantom Master",
       "score": 0.681,
       "r18": false
     },
@@ -151,7 +145,13 @@
     {
       "id": 4526,
       "title": "Tentai Senshi Sanred",
-      "score": 0.679,
+      "score": 0.678,
+      "r18": false
+    },
+    {
+      "id": 12108,
+      "title": "Mushoku Tensei ~Isekai Ittara Honki Dasu~",
+      "score": 0.677,
       "r18": false
     }
   ]

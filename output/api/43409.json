@@ -1,8 +1,8 @@
 {
   "id": 43409,
   "title": "Straight or Not",
-  "url": "https://mangadex.org/manga/43409",
-  "last_updated": "January 15, 2021 01:47:20 UTC",
+  "url": "https://api.mangadex.org/v2/manga/43409",
+  "last_updated": "February 04, 2021 16:24:51 UTC",
   "matches": [
     {
       "id": 44410,
@@ -19,7 +19,7 @@
     {
       "id": 41452,
       "title": "BL Motel",
-      "score": 0.661,
+      "score": 0.662,
       "r18": false
     },
     {
@@ -32,6 +32,12 @@
       "id": 48328,
       "title": "Outburst",
       "score": 0.659,
+      "r18": false
+    },
+    {
+      "id": 48317,
+      "title": "Madman Combo",
+      "score": 0.658,
       "r18": false
     },
     {
@@ -55,7 +61,7 @@
     {
       "id": 30331,
       "title": "Antinomy",
-      "score": 0.653,
+      "score": 0.654,
       "r18": false
     },
     {
@@ -65,14 +71,14 @@
       "r18": false
     },
     {
-      "id": 48615,
-      "title": "You Don't Know Me",
+      "id": 57997,
+      "title": "An Omega's Love Affair",
       "score": 0.65,
       "r18": false
     },
     {
-      "id": 43410,
-      "title": "Angel Buddy",
+      "id": 48615,
+      "title": "You Don't Know Me",
       "score": 0.65,
       "r18": false
     },
@@ -109,7 +115,7 @@
     {
       "id": 51884,
       "title": "Stakeout",
-      "score": 0.385,
+      "score": 0.384,
       "r18": false
     },
     {
@@ -121,13 +127,19 @@
     {
       "id": 56850,
       "title": "Secondo Piatto",
-      "score": 0.381,
+      "score": 0.382,
       "r18": false
     },
     {
       "id": 52862,
       "title": "A Wicked Beast",
       "score": 0.381,
+      "r18": false
+    },
+    {
+      "id": 58957,
+      "title": "Runway Hit",
+      "score": 0.379,
       "r18": false
     },
     {
@@ -140,18 +152,6 @@
       "id": 52946,
       "title": "From Now On, I'm Your Dog",
       "score": 0.377,
-      "r18": false
-    },
-    {
-      "id": 46436,
-      "title": "Absolute Control",
-      "score": 0.374,
-      "r18": false
-    },
-    {
-      "id": 46907,
-      "title": "Zhuzhiqu",
-      "score": 0.374,
       "r18": false
     }
   ]

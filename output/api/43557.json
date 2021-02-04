@@ -1,8 +1,8 @@
 {
   "id": 43557,
   "title": "The Mermaid and...",
-  "url": "https://mangadex.org/manga/43557",
-  "last_updated": "January 15, 2021 01:48:45 UTC",
+  "url": "https://api.mangadex.org/v2/manga/43557",
+  "last_updated": "February 04, 2021 16:27:47 UTC",
   "matches": [
     {
       "id": 58930,
@@ -13,7 +13,7 @@
     {
       "id": 91,
       "title": "Dantalian no Shoka",
-      "score": 0.308,
+      "score": 0.309,
       "r18": false
     },
     {
@@ -137,12 +137,6 @@
       "r18": false
     },
     {
-      "id": 57650,
-      "title": "BIBLIOMANIA",
-      "score": 0.258,
-      "r18": false
-    },
-    {
       "id": 51557,
       "title": "The Love and Lies of a...",
       "score": 0.258,
@@ -151,6 +145,12 @@
     {
       "id": 7869,
       "title": "Arashi no Hana Murakumo no Uta",
+      "score": 0.257,
+      "r18": false
+    },
+    {
+      "id": 57650,
+      "title": "BIBLIOMANIA",
       "score": 0.257,
       "r18": false
     }

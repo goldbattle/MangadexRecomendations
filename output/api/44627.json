@@ -1,8 +1,8 @@
 {
   "id": 44627,
   "title": "Don't Mess With Me, Miss",
-  "url": "https://mangadex.org/manga/44627",
-  "last_updated": "January 15, 2021 01:59:25 UTC",
+  "url": "https://api.mangadex.org/v2/manga/44627",
+  "last_updated": "February 04, 2021 16:47:21 UTC",
   "matches": [
     {
       "id": 1417,
@@ -41,12 +41,6 @@
       "r18": false
     },
     {
-      "id": 21283,
-      "title": "Persona 5",
-      "score": 0.75,
-      "r18": false
-    },
-    {
       "id": 23231,
       "title": "Wu Dong Qian Kun",
       "score": 0.749,
@@ -71,15 +65,9 @@
       "r18": false
     },
     {
-      "id": 50672,
-      "title": "My Hero Academia - League Of Villains: Undercover (Fan Colored)",
-      "score": 0.74,
-      "r18": false
-    },
-    {
-      "id": 12714,
-      "title": "Boku no Hero Academia",
-      "score": 0.738,
+      "id": 56522,
+      "title": "Rurouni Kenshin - Digital Colored Comics",
+      "score": 0.737,
       "r18": false
     },
     {
@@ -101,21 +89,21 @@
       "r18": false
     },
     {
-      "id": 12009,
-      "title": "Soul Land",
-      "score": 0.735,
-      "r18": false
-    },
-    {
       "id": 216,
       "title": "Rurouni Kenshin",
       "score": 0.735,
       "r18": false
     },
     {
+      "id": 12009,
+      "title": "Soul Land",
+      "score": 0.735,
+      "r18": false
+    },
+    {
       "id": 48720,
       "title": "How to Fight",
-      "score": 0.735,
+      "score": 0.734,
       "r18": false
     },
     {
@@ -152,6 +140,18 @@
       "id": 34196,
       "title": "Moto Sekai Ichi'i Subchara Ikusei Nikki: Hai Player, Isekai wo Kouryakuchuu!",
       "score": 0.733,
+      "r18": false
+    },
+    {
+      "id": 8328,
+      "title": "Tales of Phantasia",
+      "score": 0.732,
+      "r18": false
+    },
+    {
+      "id": 6744,
+      "title": "Goblin Knight",
+      "score": 0.732,
       "r18": false
     }
   ]

@@ -1,9 +1,15 @@
 {
   "id": 43910,
   "title": "Neko no Te demo Yoroshikereba",
-  "url": "https://mangadex.org/manga/43910",
-  "last_updated": "January 15, 2021 01:52:35 UTC",
+  "url": "https://api.mangadex.org/v2/manga/43910",
+  "last_updated": "February 04, 2021 16:33:52 UTC",
   "matches": [
+    {
+      "id": 54218,
+      "title": "The Lady and the Beast",
+      "score": 0.678,
+      "r18": false
+    },
     {
       "id": 2797,
       "title": "Le Th&eacute;&acirc;tre de B",
@@ -14,12 +20,6 @@
       "id": 23780,
       "title": "Makai Senki Disgaea",
       "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 54218,
-      "title": "The Lady and the Beast",
-      "score": 0.663,
       "r18": false
     },
     {
@@ -55,7 +55,7 @@
     {
       "id": 57418,
       "title": "Hazure Potion ga Shouyu datta no de Ryouri suru koto ni shimashita",
-      "score": 0.42,
+      "score": 0.379,
       "r18": false
     },
     {
@@ -109,7 +109,7 @@
     {
       "id": 54086,
       "title": "Reijou Elizabeth no Kareinaru Migawari Seikatsu",
-      "score": 0.342,
+      "score": 0.341,
       "r18": false
     },
     {
@@ -120,8 +120,8 @@
     },
     {
       "id": 47568,
-      "title": "Fuyu Fenriru no Itoshigo to Natta Watashi ga, Zetsubou kara Iyasareteiku Hanashi",
-      "score": 0.339,
+      "title": "Fuyu Fenrir no Itoshigo to Natta Watashi ga, Zetsubou kara Iyasareteiku Hanashi",
+      "score": 0.338,
       "r18": false
     },
     {
@@ -137,21 +137,21 @@
       "r18": false
     },
     {
+      "id": 2817,
+      "title": "Crimson Empire - Circumstances to Serve a Noble",
+      "score": 0.33,
+      "r18": false
+    },
+    {
       "id": 46413,
       "title": "The Tyrannical Holy King Wants to Dote on the Cheat Girl, but Right Now She's Too Obsessed With Magic!!!",
-      "score": 0.329,
+      "score": 0.328,
       "r18": false
     },
     {
       "id": 52604,
       "title": "Now That I've Been Chosen to Be the Villainess, I'll Show You an Elegant Performance!",
       "score": 0.321,
-      "r18": false
-    },
-    {
-      "id": 3084,
-      "title": "Mahoutsukai no Neko",
-      "score": 0.32,
       "r18": false
     }
   ]

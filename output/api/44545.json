@@ -1,8 +1,8 @@
 {
   "id": 44545,
   "title": "Crescent",
-  "url": "https://mangadex.org/manga/44545",
-  "last_updated": "January 15, 2021 01:58:38 UTC",
+  "url": "https://api.mangadex.org/v2/manga/44545",
+  "last_updated": "February 04, 2021 16:45:51 UTC",
   "matches": [
     {
       "id": 22145,
@@ -85,7 +85,7 @@
     {
       "id": 47438,
       "title": "Forgetful River",
-      "score": 0.221,
+      "score": 0.22,
       "r18": false
     },
     {
@@ -98,6 +98,12 @@
       "id": 57853,
       "title": "Angelic Lady",
       "score": 0.217,
+      "r18": false
+    },
+    {
+      "id": 59312,
+      "title": "Holy Alice Returns",
+      "score": 0.215,
       "r18": false
     },
     {
@@ -121,7 +127,7 @@
     {
       "id": 36740,
       "title": "The Villain's Savior",
-      "score": 0.207,
+      "score": 0.208,
       "r18": false
     },
     {
@@ -145,7 +151,7 @@
     {
       "id": 45140,
       "title": "Oh My Ghost",
-      "score": 0.147,
+      "score": 0.148,
       "r18": false
     }
   ]

@@ -1,13 +1,13 @@
 {
   "id": 44167,
   "title": "Kedamono Bitch",
-  "url": "https://mangadex.org/manga/44167",
-  "last_updated": "January 15, 2021 01:55:03 UTC",
+  "url": "https://api.mangadex.org/v2/manga/44167",
+  "last_updated": "February 04, 2021 16:39:06 UTC",
   "matches": [
     {
       "id": 29020,
       "title": "Koibito wa Hatsujouki",
-      "score": 0.703,
+      "score": 0.702,
       "r18": false
     },
     {
@@ -53,6 +53,12 @@
       "r18": false
     },
     {
+      "id": 55078,
+      "title": "The Crescent Scholar",
+      "score": 0.656,
+      "r18": false
+    },
+    {
       "id": 18478,
       "title": "Kiss Shite Yowamushi-kun!",
       "score": 0.655,
@@ -73,7 +79,7 @@
     {
       "id": 37190,
       "title": "Hebi no Yomeiri",
-      "score": 0.474,
+      "score": 0.404,
       "r18": false
     },
     {
@@ -89,15 +95,27 @@
       "r18": false
     },
     {
-      "id": 51538,
-      "title": "Dream-like Lie",
-      "score": 0.325,
+      "id": 48769,
+      "title": "The Heart of Red Cloak",
+      "score": 0.287,
       "r18": false
     },
     {
       "id": 29662,
       "title": "K's Secret",
       "score": 0.255,
+      "r18": false
+    },
+    {
+      "id": 51538,
+      "title": "Dream-like Lie",
+      "score": 0.248,
+      "r18": false
+    },
+    {
+      "id": 44821,
+      "title": "Boku no Danna-sama",
+      "score": 0.233,
       "r18": false
     }
   ]

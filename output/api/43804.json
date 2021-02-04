@@ -1,8 +1,8 @@
 {
   "id": 43804,
   "title": "Immortal Mortal",
-  "url": "https://mangadex.org/manga/43804",
-  "last_updated": "January 15, 2021 01:51:35 UTC",
+  "url": "https://api.mangadex.org/v2/manga/43804",
+  "last_updated": "February 04, 2021 16:32:08 UTC",
   "matches": [
     {
       "id": 54143,
@@ -43,7 +43,7 @@
     {
       "id": 43292,
       "title": "The Duchess With an Empty Soul",
-      "score": 0.669,
+      "score": 0.67,
       "r18": false
     },
     {
@@ -55,7 +55,7 @@
     {
       "id": 40934,
       "title": "To Be or Not to Be",
-      "score": 0.667,
+      "score": 0.666,
       "r18": false
     },
     {
@@ -74,6 +74,12 @@
       "id": 43118,
       "title": "Protect My Star",
       "score": 0.653,
+      "r18": false
+    },
+    {
+      "id": 46603,
+      "title": "The Youngest Princess",
+      "score": 0.346,
       "r18": false
     },
     {
@@ -131,27 +137,21 @@
       "r18": false
     },
     {
-      "id": 46603,
-      "title": "The Youngest Princess",
-      "score": 0.317,
-      "r18": false
-    },
-    {
       "id": 57067,
       "title": "My Harem Grew So Large, I Was Forced to Ascend",
       "score": 0.313,
       "r18": false
     },
     {
-      "id": 33547,
-      "title": "The Dungeon Master",
-      "score": 0.31,
+      "id": 12009,
+      "title": "Soul Land",
+      "score": 0.311,
       "r18": false
     },
     {
-      "id": 34587,
-      "title": "Meng Shi Zai Shang",
-      "score": 0.309,
+      "id": 33547,
+      "title": "The Dungeon Master",
+      "score": 0.31,
       "r18": false
     }
   ]

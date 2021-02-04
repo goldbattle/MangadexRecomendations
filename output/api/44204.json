@@ -1,8 +1,8 @@
 {
   "id": 44204,
   "title": "Bokura wa Mada Hyougaki no Tochuu",
-  "url": "https://mangadex.org/manga/44204",
-  "last_updated": "January 15, 2021 01:55:24 UTC",
+  "url": "https://api.mangadex.org/v2/manga/44204",
+  "last_updated": "February 04, 2021 16:39:47 UTC",
   "matches": [
     {
       "id": 11058,
@@ -77,6 +77,18 @@
       "r18": false
     },
     {
+      "id": 57931,
+      "title": "Danna-sama ga Asa kara banmade Hanashitekurenai",
+      "score": 0.677,
+      "r18": false
+    },
+    {
+      "id": 57427,
+      "title": "Akuyaku Reijou wa Itto ni Dekiaisarete: Noumitsu Sex no Aitei wa Jyuuboku",
+      "score": 0.674,
+      "r18": false
+    },
+    {
       "id": 7005,
       "title": "Sensei, Mou Ichido...",
       "score": 0.674,
@@ -86,6 +98,12 @@
       "id": 36512,
       "title": "Koi wa Poker Game",
       "score": 0.674,
+      "r18": false
+    },
+    {
+      "id": 19867,
+      "title": "Game: Suit no Sukima",
+      "score": 0.673,
       "r18": false
     },
     {
@@ -131,27 +149,9 @@
       "r18": false
     },
     {
-      "id": 49279,
-      "title": "Gokudou to Omega",
-      "score": 0.67,
-      "r18": false
-    },
-    {
       "id": 3900,
       "title": "Johyou to Chuujitsu na Geboku",
       "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 4132,
-      "title": "Mitsu Iro Devil",
-      "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 53709,
-      "title": "The Gentle Goblin's Bird",
-      "score": 0.667,
       "r18": false
     }
   ]

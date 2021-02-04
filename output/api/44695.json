@@ -1,8 +1,8 @@
 {
   "id": 44695,
   "title": "Short Short Short san",
-  "url": "https://mangadex.org/manga/44695",
-  "last_updated": "January 15, 2021 02:00:04 UTC",
+  "url": "https://api.mangadex.org/v2/manga/44695",
+  "last_updated": "February 04, 2021 16:48:35 UTC",
   "matches": [
     {
       "id": 36062,
@@ -26,6 +26,12 @@
       "id": 57264,
       "title": "Don't Touch That Ballot! Higashikata Josuke!",
       "score": 0.34,
+      "r18": false
+    },
+    {
+      "id": 43924,
+      "title": "The Young Lady and Her Lackeys Are Going to Pick on the Transfer Student",
+      "score": 0.33,
       "r18": false
     },
     {
@@ -62,12 +68,6 @@
       "id": 54544,
       "title": "Guutara na Onna no Ko ni Furimawaseru Hanashi",
       "score": 0.319,
-      "r18": false
-    },
-    {
-      "id": 43924,
-      "title": "The Young Lady and Her Lackeys Are Going to Pick on the Transfer Student",
-      "score": 0.317,
       "r18": false
     },
     {
@@ -113,6 +113,18 @@
       "r18": false
     },
     {
+      "id": 59777,
+      "title": "Side Business Magical Girl",
+      "score": 0.255,
+      "r18": false
+    },
+    {
+      "id": 59775,
+      "title": "Natsu de mo Nagasode no Tougou-san",
+      "score": 0.255,
+      "r18": false
+    },
+    {
       "id": 28436,
       "title": "The Futami Twins",
       "score": 0.255,
@@ -139,18 +151,6 @@
     {
       "id": 48484,
       "title": "The Story of Her Amnesia",
-      "score": 0.255,
-      "r18": false
-    },
-    {
-      "id": 56300,
-      "title": "Maid and Skate",
-      "score": 0.255,
-      "r18": false
-    },
-    {
-      "id": 33532,
-      "title": "Arcana Famiglia - It seems that the old man is respected on the Senior Citizen&rsquo;s Day (Doujinshi)",
       "score": 0.255,
       "r18": false
     }

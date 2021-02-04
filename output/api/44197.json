@@ -1,9 +1,15 @@
 {
   "id": 44197,
   "title": "Kataomoi Limited",
-  "url": "https://mangadex.org/manga/44197",
-  "last_updated": "January 15, 2021 01:55:20 UTC",
+  "url": "https://api.mangadex.org/v2/manga/44197",
+  "last_updated": "February 04, 2021 16:39:40 UTC",
   "matches": [
+    {
+      "id": 58024,
+      "title": "Sasotta no wa Socchidesho ~Joushi to Buka, Megasametara Love Hotel deshita.~",
+      "score": 0.481,
+      "r18": false
+    },
     {
       "id": 12348,
       "title": "Natsu no Kakera",
@@ -29,6 +35,12 @@
       "r18": false
     },
     {
+      "id": 57931,
+      "title": "Danna-sama ga Asa kara banmade Hanashitekurenai",
+      "score": 0.46,
+      "r18": false
+    },
+    {
       "id": 36512,
       "title": "Koi wa Poker Game",
       "score": 0.459,
@@ -49,6 +61,12 @@
     {
       "id": 783,
       "title": "Yuuwaku no Bansan",
+      "score": 0.442,
+      "r18": false
+    },
+    {
+      "id": 59721,
+      "title": "Kekkonshiki made nan mairu?",
       "score": 0.442,
       "r18": false
     },
@@ -101,8 +119,8 @@
       "r18": false
     },
     {
-      "id": 58024,
-      "title": "Sasotta no wa sotchidesho",
+      "id": 44464,
+      "title": "S, Love &amp; Chocolate",
       "score": 0.425,
       "r18": false
     },
@@ -113,45 +131,27 @@
       "r18": false
     },
     {
+      "id": 55055,
+      "title": "Bespoke Engage",
+      "score": 0.414,
+      "r18": false
+    },
+    {
       "id": 50101,
       "title": "29-sai no Glass no Kutsu",
       "score": 0.411,
       "r18": false
     },
     {
+      "id": 46574,
+      "title": "Seifuku Danshi! Sensei no Ecchi na Tokoro Misete?",
+      "score": 0.406,
+      "r18": false
+    },
+    {
       "id": 42235,
       "title": "Idol-sama no Dekiai Kiss!",
       "score": 0.4,
-      "r18": false
-    },
-    {
-      "id": 18790,
-      "title": "Nisekon - Danna Koyou Keikaku",
-      "score": 0.399,
-      "r18": false
-    },
-    {
-      "id": 4069,
-      "title": "Kimi wo Dare nimo Watasanai",
-      "score": 0.399,
-      "r18": false
-    },
-    {
-      "id": 41058,
-      "title": "Otaku mo Koisuru Nikushoku Shinshi - Zetchou! Oji-sama Technique",
-      "score": 0.392,
-      "r18": false
-    },
-    {
-      "id": 35833,
-      "title": "The Warlord Husband Thief Is Bad. Take Advantage Of You.",
-      "score": 0.381,
-      "r18": false
-    },
-    {
-      "id": 3260,
-      "title": "Furachi na Otoko Tachi",
-      "score": 0.367,
       "r18": false
     }
   ]

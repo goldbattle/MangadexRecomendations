@@ -1,8 +1,8 @@
 {
   "id": 43457,
   "title": "Oni Blood",
-  "url": "https://mangadex.org/manga/43457",
-  "last_updated": "January 15, 2021 01:47:48 UTC",
+  "url": "https://api.mangadex.org/v2/manga/43457",
+  "last_updated": "February 04, 2021 16:25:45 UTC",
   "matches": [
     {
       "id": 36294,
@@ -125,15 +125,15 @@
       "r18": false
     },
     {
-      "id": 3132,
-      "title": "Dragon Ball",
-      "score": 0.179,
-      "r18": false
-    },
-    {
       "id": 36123,
       "title": "Isekai de Tochi o Katte Noujou o Tsukurou",
       "score": 0.178,
+      "r18": false
+    },
+    {
+      "id": 3132,
+      "title": "Dragon Ball",
+      "score": 0.172,
       "r18": false
     },
     {

@@ -1,8 +1,8 @@
 {
   "id": 44005,
   "title": "PRODUSAGA",
-  "url": "https://mangadex.org/manga/44005",
-  "last_updated": "January 15, 2021 01:53:30 UTC",
+  "url": "https://api.mangadex.org/v2/manga/44005",
+  "last_updated": "February 04, 2021 16:36:01 UTC",
   "matches": [
     {
       "id": 31002,
@@ -11,15 +11,15 @@
       "r18": false
     },
     {
-      "id": 45110,
-      "title": "I  Was Reincarnated as a Poor Farmer in a Different World, so I Decided to Make Bricks to Build a Castle",
-      "score": 0.761,
-      "r18": false
-    },
-    {
       "id": 34387,
       "title": "Lonely Attack on the Different World",
       "score": 0.757,
+      "r18": false
+    },
+    {
+      "id": 45110,
+      "title": "I  Was Reincarnated as a Poor Farmer in a Different World, so I Decided to Make Bricks to Build a Castle",
+      "score": 0.754,
       "r18": false
     },
     {
@@ -35,15 +35,9 @@
       "r18": false
     },
     {
-      "id": 303,
-      "title": "Claymore",
-      "score": 0.739,
-      "r18": false
-    },
-    {
       "id": 47326,
       "title": "Genkai Level 1 kara no Nariagari: Saijaku Level no Ore ga Isekai Saikyou ni Naru made",
-      "score": 0.738,
+      "score": 0.739,
       "r18": false
     },
     {
@@ -89,14 +83,20 @@
       "r18": false
     },
     {
+      "id": 39410,
+      "title": "While",
+      "score": 0.73,
+      "r18": false
+    },
+    {
       "id": 38291,
       "title": "Maseki Gurume: Mamono no Chikara o Tabeta Ore wa Saikyou!",
       "score": 0.73,
       "r18": false
     },
     {
-      "id": 39410,
-      "title": "While",
+      "id": 303,
+      "title": "Claymore",
       "score": 0.73,
       "r18": false
     },

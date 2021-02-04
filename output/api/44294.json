@@ -1,13 +1,19 @@
 {
   "id": 44294,
   "title": "Gyo",
-  "url": "https://mangadex.org/manga/44294",
-  "last_updated": "January 15, 2021 01:56:15 UTC",
+  "url": "https://api.mangadex.org/v2/manga/44294",
+  "last_updated": "February 04, 2021 16:41:19 UTC",
   "matches": [
     {
       "id": 52487,
       "title": "Kamakura Corona",
       "score": 0.365,
+      "r18": false
+    },
+    {
+      "id": 59777,
+      "title": "Side Business Magical Girl",
+      "score": 0.292,
       "r18": false
     },
     {
@@ -37,7 +43,7 @@
     {
       "id": 40209,
       "title": "Backcourt",
-      "score": 0.243,
+      "score": 0.244,
       "r18": false
     },
     {
@@ -143,15 +149,9 @@
       "r18": false
     },
     {
-      "id": 44714,
-      "title": "Xianzun System in the City",
+      "id": 57621,
+      "title": "Sponsor",
       "score": 0.222,
-      "r18": false
-    },
-    {
-      "id": 46112,
-      "title": "Ultimate Path Martial Arts",
-      "score": 0.221,
       "r18": false
     }
   ]
