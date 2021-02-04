@@ -1,13 +1,13 @@
 {
   "id": 45213,
   "title": "Nightwatch Guardian",
-  "url": "https://mangadex.org/manga/45213",
-  "last_updated": "January 15, 2021 06:31:03 UTC",
+  "url": "https://api.mangadex.org/v2/manga/45213",
+  "last_updated": "February 04, 2021 20:23:07 UTC",
   "matches": [
     {
       "id": 50002,
       "title": "Resurrection of the Catastrophic Hero",
-      "score": 0.666,
+      "score": 0.669,
       "r18": false
     },
     {
@@ -19,7 +19,7 @@
     {
       "id": 24374,
       "title": ".hack//Link - Tasogare no Kishidan",
-      "score": 0.651,
+      "score": 0.652,
       "r18": false
     },
     {
@@ -61,19 +61,13 @@
     {
       "id": 51923,
       "title": "The Novel's Extra",
-      "score": 0.347,
+      "score": 0.348,
       "r18": false
     },
     {
       "id": 52805,
       "title": "Dead Bug Parasitism",
       "score": 0.345,
-      "r18": false
-    },
-    {
-      "id": 58158,
-      "title": "Outta Fire",
-      "score": 0.344,
       "r18": false
     },
     {
@@ -107,14 +101,14 @@
       "r18": false
     },
     {
-      "id": 34535,
-      "title": "Rise from Ashes",
-      "score": 0.335,
+      "id": 53598,
+      "title": "The Magic Tower Librarian",
+      "score": 0.336,
       "r18": false
     },
     {
-      "id": 57555,
-      "title": "Lurking in the City",
+      "id": 34535,
+      "title": "Rise from Ashes",
       "score": 0.335,
       "r18": false
     },
@@ -125,21 +119,21 @@
       "r18": false
     },
     {
-      "id": 53598,
-      "title": "The Magic Tower Librarian",
-      "score": 0.333,
-      "r18": false
-    },
-    {
       "id": 53049,
       "title": "Find the Waves",
       "score": 0.33,
       "r18": false
     },
     {
+      "id": 59732,
+      "title": "Drake Saga",
+      "score": 0.33,
+      "r18": false
+    },
+    {
       "id": 36801,
       "title": "L.O.R.D: Legend of Ravaging Dynasties",
-      "score": 0.329,
+      "score": 0.33,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 45304,
       "title": "Furious Yama",
       "score": 0.328,
+      "r18": false
+    },
+    {
+      "id": 45931,
+      "title": "Wizard of Arsenia",
+      "score": 0.324,
       "r18": false
     }
   ]

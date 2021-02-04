@@ -1,8 +1,8 @@
 {
   "id": 45104,
   "title": "Madan no Ou to Michelia",
-  "url": "https://mangadex.org/manga/45104",
-  "last_updated": "January 15, 2021 06:30:01 UTC",
+  "url": "https://api.mangadex.org/v2/manga/45104",
+  "last_updated": "February 04, 2021 20:20:56 UTC",
   "matches": [
     {
       "id": 3581,
@@ -59,20 +59,14 @@
       "r18": false
     },
     {
-      "id": 9803,
-      "title": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka",
-      "score": 0.735,
+      "id": 21482,
+      "title": "Grancrest Senki",
+      "score": 0.733,
       "r18": false
     },
     {
       "id": 51808,
       "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
-      "score": 0.735,
-      "r18": false
-    },
-    {
-      "id": 21482,
-      "title": "Grancrest Senki",
       "score": 0.733,
       "r18": false
     },
@@ -125,14 +119,14 @@
       "r18": false
     },
     {
-      "id": 10504,
-      "title": "Magika no Kenshi to Shoukan Maou",
+      "id": 1337,
+      "title": "Knights of Sidonia",
       "score": 0.726,
       "r18": false
     },
     {
-      "id": 1337,
-      "title": "Knights of Sidonia",
+      "id": 10504,
+      "title": "Magika no Kenshi to Shoukan Maou",
       "score": 0.726,
       "r18": false
     },
@@ -152,6 +146,12 @@
       "id": 1243,
       "title": "Magikano",
       "score": 0.725,
+      "r18": false
+    },
+    {
+      "id": 794,
+      "title": "The Sacred Blacksmith",
+      "score": 0.724,
       "r18": false
     }
   ]

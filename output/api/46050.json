@@ -1,8 +1,8 @@
 {
   "id": 46050,
   "title": "I Can't Quit You",
-  "url": "https://mangadex.org/manga/46050",
-  "last_updated": "January 15, 2021 06:39:35 UTC",
+  "url": "https://api.mangadex.org/v2/manga/46050",
+  "last_updated": "February 04, 2021 20:43:19 UTC",
   "matches": [
     {
       "id": 36345,
@@ -31,7 +31,7 @@
     {
       "id": 52592,
       "title": "Play House",
-      "score": 0.686,
+      "score": 0.687,
       "r18": false
     },
     {
@@ -49,13 +49,19 @@
     {
       "id": 50852,
       "title": "99 Arrows",
-      "score": 0.669,
+      "score": 0.67,
       "r18": false
     },
     {
       "id": 56296,
       "title": "Another Happy Ending with My Jerk Friend",
-      "score": 0.668,
+      "score": 0.669,
+      "r18": false
+    },
+    {
+      "id": 59795,
+      "title": "A Casual Friend",
+      "score": 0.667,
       "r18": false
     },
     {
@@ -67,13 +73,13 @@
     {
       "id": 56299,
       "title": "This Question Is Super Difficult",
-      "score": 0.656,
+      "score": 0.657,
       "r18": false
     },
     {
       "id": 53424,
       "title": "Your Distance",
-      "score": 0.653,
+      "score": 0.654,
       "r18": false
     },
     {
@@ -103,19 +109,19 @@
     {
       "id": 56425,
       "title": "Three Lies, One Kiss",
-      "score": 0.407,
-      "r18": false
-    },
-    {
-      "id": 57921,
-      "title": "My Favorite Glasses Holder",
-      "score": 0.407,
+      "score": 0.408,
       "r18": false
     },
     {
       "id": 49093,
       "title": "Holy Junk",
       "score": 0.406,
+      "r18": false
+    },
+    {
+      "id": 57921,
+      "title": "My Favorite Glasses Holder",
+      "score": 0.404,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 47590,
       "title": "In or Out",
       "score": 0.394,
-      "r18": false
-    },
-    {
-      "id": 57719,
-      "title": "Eternal Flight of the Gull",
-      "score": 0.393,
       "r18": false
     }
   ]

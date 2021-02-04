@@ -1,9 +1,15 @@
 {
   "id": 44933,
   "title": "I Want to Be a Cute Anime Girl",
-  "url": "https://mangadex.org/manga/44933",
-  "last_updated": "January 15, 2021 02:02:21 UTC",
+  "url": "https://api.mangadex.org/v2/manga/44933",
+  "last_updated": "February 04, 2021 20:17:39 UTC",
   "matches": [
+    {
+      "id": 56181,
+      "title": "See You On Wednesday",
+      "score": 0.735,
+      "r18": false
+    },
     {
       "id": 57706,
       "title": "Isn't the Contrast Cute?",
@@ -47,14 +53,14 @@
       "r18": false
     },
     {
-      "id": 38755,
-      "title": "I Only Want To Meet You",
+      "id": 21579,
+      "title": "Star Dream Idol Project",
       "score": 0.665,
       "r18": false
     },
     {
-      "id": 21579,
-      "title": "Star Dream Idol Project",
+      "id": 38755,
+      "title": "I Only Want To Meet You",
       "score": 0.665,
       "r18": false
     },
@@ -101,12 +107,6 @@
       "r18": false
     },
     {
-      "id": 55529,
-      "title": "Actually, I Was the Real One",
-      "score": 0.66,
-      "r18": false
-    },
-    {
       "id": 39495,
       "title": "The Pet of the Villainess",
       "score": 0.658,
@@ -131,6 +131,12 @@
       "r18": false
     },
     {
+      "id": 55529,
+      "title": "Actually, I Was the Real One",
+      "score": 0.657,
+      "r18": false
+    },
+    {
       "id": 11821,
       "title": "My Beautiful World",
       "score": 0.657,
@@ -145,12 +151,6 @@
     {
       "id": 31505,
       "title": "Shine and Sweet",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 43461,
-      "title": "This Is an Obvious Fraudulent Marriage",
       "score": 0.655,
       "r18": false
     }

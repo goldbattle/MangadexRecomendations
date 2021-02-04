@@ -1,8 +1,8 @@
 {
   "id": 45177,
   "title": "Only I Shall Be Immortal",
-  "url": "https://mangadex.org/manga/45177",
-  "last_updated": "January 15, 2021 06:30:43 UTC",
+  "url": "https://api.mangadex.org/v2/manga/45177",
+  "last_updated": "February 04, 2021 20:22:16 UTC",
   "matches": [
     {
       "id": 14674,
@@ -17,6 +17,12 @@
       "r18": false
     },
     {
+      "id": 55352,
+      "title": "Invasion Of The Immortal Emperor",
+      "score": 0.762,
+      "r18": false
+    },
+    {
       "id": 23231,
       "title": "Wu Dong Qian Kun",
       "score": 0.759,
@@ -25,12 +31,6 @@
     {
       "id": 49768,
       "title": "A Will Eternal",
-      "score": 0.754,
-      "r18": false
-    },
-    {
-      "id": 43670,
-      "title": "I'm the Great Immortal",
       "score": 0.754,
       "r18": false
     },
@@ -89,12 +89,6 @@
       "r18": false
     },
     {
-      "id": 47371,
-      "title": "A Breakthrough Brought by Forbidden Master and Disciple",
-      "score": 0.736,
-      "r18": false
-    },
-    {
       "id": 23479,
       "title": "I Shall Seal the Heavens",
       "score": 0.735,
@@ -109,12 +103,6 @@
     {
       "id": 52739,
       "title": "The King's Avatar",
-      "score": 0.734,
-      "r18": false
-    },
-    {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
       "score": 0.734,
       "r18": false
     },
@@ -137,6 +125,12 @@
       "r18": false
     },
     {
+      "id": 47371,
+      "title": "A Breakthrough Brought by Forbidden Master and Disciple",
+      "score": 0.731,
+      "r18": false
+    },
+    {
       "id": 45306,
       "title": "Peerless Battle Spirit",
       "score": 0.73,
@@ -151,6 +145,12 @@
     {
       "id": 50191,
       "title": "Life and Death: The Awakening",
+      "score": 0.73,
+      "r18": false
+    },
+    {
+      "id": 49338,
+      "title": "I Just Want to Be a Useless Duke's Daughter",
       "score": 0.73,
       "r18": false
     }

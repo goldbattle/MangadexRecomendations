@@ -1,8 +1,8 @@
 {
   "id": 45892,
   "title": "King of the Gods",
-  "url": "https://mangadex.org/manga/45892",
-  "last_updated": "January 15, 2021 06:38:04 UTC",
+  "url": "https://api.mangadex.org/v2/manga/45892",
+  "last_updated": "February 04, 2021 20:38:52 UTC",
   "matches": [
     {
       "id": 23231,
@@ -31,6 +31,12 @@
     {
       "id": 14676,
       "title": "The Legendary Moonlight Sculptor",
+      "score": 0.677,
+      "r18": false
+    },
+    {
+      "id": 59999,
+      "title": "Save Me, Princess",
       "score": 0.677,
       "r18": false
     },
@@ -73,7 +79,7 @@
     {
       "id": 45167,
       "title": "Sword Sheath's Child",
-      "score": 0.667,
+      "score": 0.668,
       "r18": false
     },
     {
@@ -113,8 +119,20 @@
       "r18": false
     },
     {
+      "id": 43692,
+      "title": "Demonic Emperor",
+      "score": 0.66,
+      "r18": false
+    },
+    {
       "id": 13425,
       "title": "M&auml;rchen - The Embodiment of Tales",
+      "score": 0.659,
+      "r18": false
+    },
+    {
+      "id": 12009,
+      "title": "Soul Land",
       "score": 0.659,
       "r18": false
     },
@@ -134,24 +152,6 @@
       "id": 56397,
       "title": "Pantheon of Gods",
       "score": 0.657,
-      "r18": false
-    },
-    {
-      "id": 24134,
-      "title": "Neolith Girl",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 45306,
-      "title": "Peerless Battle Spirit",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 58713,
-      "title": "99 Ways to Become Heroes by Beauty Masters",
-      "score": 0.654,
       "r18": false
     }
   ]

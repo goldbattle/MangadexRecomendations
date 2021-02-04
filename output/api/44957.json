@@ -1,8 +1,8 @@
 {
   "id": 44957,
   "title": "Diamond",
-  "url": "https://mangadex.org/manga/44957",
-  "last_updated": "January 15, 2021 02:02:35 UTC",
+  "url": "https://api.mangadex.org/v2/manga/44957",
+  "last_updated": "February 04, 2021 20:18:08 UTC",
   "matches": [
     {
       "id": 18204,
@@ -38,6 +38,12 @@
       "id": 52655,
       "title": "J Monogatari",
       "score": 0.272,
+      "r18": false
+    },
+    {
+      "id": 883,
+      "title": "Eyeshield 21",
+      "score": 0.233,
       "r18": false
     },
     {
@@ -104,12 +110,6 @@
       "id": 43650,
       "title": "Buttobi Itto",
       "score": 0.217,
-      "r18": false
-    },
-    {
-      "id": 2059,
-      "title": "Bowling King",
-      "score": 0.2,
       "r18": false
     },
     {

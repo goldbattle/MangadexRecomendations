@@ -1,8 +1,8 @@
 {
   "id": 45747,
   "title": "The killer Can't kill BBA today either.",
-  "url": "https://mangadex.org/manga/45747",
-  "last_updated": "January 15, 2021 06:36:41 UTC",
+  "url": "https://api.mangadex.org/v2/manga/45747",
+  "last_updated": "February 04, 2021 20:35:06 UTC",
   "matches": [
     {
       "id": 41247,
@@ -44,6 +44,12 @@
       "id": 19692,
       "title": "Vigilante: Boku no Hero Academia Illegals",
       "score": 0.226,
+      "r18": false
+    },
+    {
+      "id": 49443,
+      "title": "Spy Room",
+      "score": 0.21,
       "r18": false
     }
   ]

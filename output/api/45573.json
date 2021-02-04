@@ -1,8 +1,8 @@
 {
   "id": 45573,
   "title": "Sneeze: Naoki  Story Collection",
-  "url": "https://mangadex.org/manga/45573",
-  "last_updated": "January 15, 2021 06:35:01 UTC",
+  "url": "https://api.mangadex.org/v2/manga/45573",
+  "last_updated": "February 04, 2021 20:31:09 UTC",
   "matches": [
     {
       "id": 1414,
@@ -14,12 +14,6 @@
       "id": 1714,
       "title": "Kara no Kyoukai - The Garden of Sinners",
       "score": 0.717,
-      "r18": false
-    },
-    {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.716,
       "r18": false
     },
     {
@@ -47,6 +41,12 @@
       "r18": false
     },
     {
+      "id": 27151,
+      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
+      "score": 0.707,
+      "r18": false
+    },
+    {
       "id": 1591,
       "title": "21st Century Boys",
       "score": 0.706,
@@ -61,7 +61,13 @@
     {
       "id": 4135,
       "title": "Mushishi",
-      "score": 0.702,
+      "score": 0.704,
+      "r18": false
+    },
+    {
+      "id": 398,
+      "title": "Tsumi to Batsu - A Falsified Romance",
+      "score": 0.704,
       "r18": false
     },
     {
@@ -79,12 +85,6 @@
     {
       "id": 4493,
       "title": "Kitoh Mohiro Tanpenshuu - Zansho",
-      "score": 0.699,
-      "r18": false
-    },
-    {
-      "id": 19505,
-      "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
       "score": 0.699,
       "r18": false
     },
@@ -149,8 +149,8 @@
       "r18": false
     },
     {
-      "id": 6272,
-      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
+      "id": 19505,
+      "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
       "score": 0.694,
       "r18": false
     }

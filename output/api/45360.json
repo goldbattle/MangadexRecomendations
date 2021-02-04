@@ -1,20 +1,20 @@
 {
   "id": 45360,
   "title": "Your Feelings",
-  "url": "https://mangadex.org/manga/45360",
-  "last_updated": "January 15, 2021 06:32:59 UTC",
+  "url": "https://api.mangadex.org/v2/manga/45360",
+  "last_updated": "February 04, 2021 20:26:52 UTC",
   "matches": [
     {
       "id": 46217,
       "title": "Maho Girls Precure! - Mofurun the Bear Child",
       "score": 0.24,
-      "r18": false
+      "r18": true
     },
     {
       "id": 44231,
       "title": "Time Machine Manga",
       "score": 0.157,
-      "r18": false
+      "r18": true
     }
   ]
 }

@@ -1,9 +1,15 @@
 {
   "id": 45496,
   "title": "My Boyfriend (?) Has a Secret!",
-  "url": "https://mangadex.org/manga/45496",
-  "last_updated": "January 15, 2021 06:34:17 UTC",
+  "url": "https://api.mangadex.org/v2/manga/45496",
+  "last_updated": "February 04, 2021 20:29:38 UTC",
   "matches": [
+    {
+      "id": 56812,
+      "title": "Childhood Friend and Bride",
+      "score": 0.657,
+      "r18": false
+    },
     {
       "id": 10153,
       "title": "Cherry Boy, That Girl",
@@ -145,13 +151,7 @@
     {
       "id": 23949,
       "title": "Adesugata Junjou Boy",
-      "score": 0.303,
-      "r18": false
-    },
-    {
-      "id": 40117,
-      "title": "Otokonoko ga kouhai ni kokuhaku sareru hanashi",
-      "score": 0.303,
+      "score": 0.304,
       "r18": false
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": 46258,
   "title": "Hajime Algorithm",
-  "url": "https://mangadex.org/manga/46258",
-  "last_updated": "January 15, 2021 06:41:33 UTC",
+  "url": "https://api.mangadex.org/v2/manga/46258",
+  "last_updated": "February 04, 2021 20:47:52 UTC",
   "matches": [
     {
       "id": 345,
@@ -25,7 +25,7 @@
     {
       "id": 5927,
       "title": "Subarashii Sekai",
-      "score": 0.703,
+      "score": 0.702,
       "r18": false
     },
     {
@@ -65,12 +65,6 @@
       "r18": false
     },
     {
-      "id": 12326,
-      "title": "Love Live! - School Idol Project",
-      "score": 0.691,
-      "r18": false
-    },
-    {
       "id": 21863,
       "title": "Kimi no Suizou wo Tabetai",
       "score": 0.691,
@@ -79,7 +73,7 @@
     {
       "id": 1026,
       "title": "Song of the Cloud",
-      "score": 0.691,
+      "score": 0.69,
       "r18": false
     },
     {
@@ -107,14 +101,14 @@
       "r18": false
     },
     {
-      "id": 7459,
-      "title": "NEET Onna to Shougaku Ninensei",
+      "id": 12686,
+      "title": "Hime-sama Tanuki no Koizanyou",
       "score": 0.688,
       "r18": false
     },
     {
-      "id": 12686,
-      "title": "Hime-sama Tanuki no Koizanyou",
+      "id": 7459,
+      "title": "NEET Onna to Shougaku Ninensei",
       "score": 0.688,
       "r18": false
     },
@@ -151,7 +145,13 @@
     {
       "id": 505,
       "title": "Nagato Yuki-chan no Shoushitsu",
-      "score": 0.683,
+      "score": 0.682,
+      "r18": false
+    },
+    {
+      "id": 341,
+      "title": "Boku wa Tomodachi ga Sukunai",
+      "score": 0.682,
       "r18": false
     }
   ]

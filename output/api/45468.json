@@ -1,13 +1,13 @@
 {
   "id": 45468,
   "title": "Coexistence",
-  "url": "https://mangadex.org/manga/45468",
-  "last_updated": "January 15, 2021 06:34:01 UTC",
+  "url": "https://api.mangadex.org/v2/manga/45468",
+  "last_updated": "February 04, 2021 20:28:56 UTC",
   "matches": [
     {
       "id": 45619,
       "title": "Hide &amp; Seek",
-      "score": 0.713,
+      "score": 0.714,
       "r18": false
     },
     {
@@ -30,13 +30,31 @@
     },
     {
       "id": 58528,
-      "title": "Help me, Uncle!",
-      "score": 0.683,
+      "title": "Help Me, Uncle!",
+      "score": 0.682,
+      "r18": false
+    },
+    {
+      "id": 59557,
+      "title": "The Masquerade",
+      "score": 0.678,
+      "r18": false
+    },
+    {
+      "id": 50736,
+      "title": "Willow Romance",
+      "score": 0.676,
       "r18": false
     },
     {
       "id": 29901,
       "title": "Dear Door",
+      "score": 0.676,
+      "r18": false
+    },
+    {
+      "id": 59268,
+      "title": "Santa Will Always Grant Your Wishes",
       "score": 0.676,
       "r18": false
     },
@@ -53,15 +71,21 @@
       "r18": false
     },
     {
+      "id": 51164,
+      "title": "ANTI P.T.",
+      "score": 0.667,
+      "r18": false
+    },
+    {
       "id": 33002,
       "title": "Romantic Box",
       "score": 0.667,
       "r18": false
     },
     {
-      "id": 51164,
-      "title": "Anti P.T",
-      "score": 0.665,
+      "id": 59175,
+      "title": "Love Script",
+      "score": 0.667,
       "r18": false
     },
     {
@@ -119,39 +143,15 @@
       "r18": false
     },
     {
-      "id": 51538,
-      "title": "Dream-like Lie",
+      "id": 59128,
+      "title": "Shuffle",
       "score": 0.652,
       "r18": false
     },
     {
-      "id": 59128,
-      "title": "Shuffle",
+      "id": 56675,
+      "title": "When a Yakuza falls in love",
       "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 30255,
-      "title": "App",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 39708,
-      "title": "Erotic Romantic",
-      "score": 0.496,
-      "r18": false
-    },
-    {
-      "id": 39707,
-      "title": "Anglerfish",
-      "score": 0.387,
-      "r18": false
-    },
-    {
-      "id": 51452,
-      "title": "Enthusiasm",
-      "score": 0.386,
       "r18": false
     }
   ]

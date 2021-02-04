@@ -1,8 +1,8 @@
 {
   "id": 46426,
   "title": "Duke's Private Tutor",
-  "url": "https://mangadex.org/manga/46426",
-  "last_updated": "January 15, 2021 06:43:08 UTC",
+  "url": "https://api.mangadex.org/v2/manga/46426",
+  "last_updated": "February 04, 2021 20:53:00 UTC",
   "matches": [
     {
       "id": 31208,
@@ -29,21 +29,39 @@
       "r18": false
     },
     {
+      "id": 50736,
+      "title": "Willow Romance",
+      "score": 0.665,
+      "r18": false
+    },
+    {
+      "id": 59268,
+      "title": "Santa Will Always Grant Your Wishes",
+      "score": 0.665,
+      "r18": false
+    },
+    {
+      "id": 59175,
+      "title": "Love Script",
+      "score": 0.66,
+      "r18": false
+    },
+    {
       "id": 30137,
       "title": "Welcome to the Intimate Night",
       "score": 0.657,
       "r18": false
     },
     {
-      "id": 51538,
-      "title": "Dream-like Lie",
-      "score": 0.654,
-      "r18": false
-    },
-    {
       "id": 36619,
       "title": "I Got Married With a Goblin",
       "score": 0.653,
+      "r18": false
+    },
+    {
+      "id": 51164,
+      "title": "ANTI P.T.",
+      "score": 0.652,
       "r18": false
     },
     {
@@ -65,27 +83,15 @@
       "r18": false
     },
     {
-      "id": 50851,
-      "title": "Shh, You'll Wake up the Child",
-      "score": 0.425,
-      "r18": false
-    },
-    {
       "id": 54664,
       "title": "The Knight's Unfulfilled Dreams",
-      "score": 0.413,
+      "score": 0.414,
       "r18": false
     },
     {
       "id": 23544,
       "title": "Love Is An Illusion",
       "score": 0.411,
-      "r18": false
-    },
-    {
-      "id": 59268,
-      "title": "Santa Will Always Grant Your Wishes",
-      "score": 0.407,
       "r18": false
     },
     {
@@ -97,7 +103,7 @@
     {
       "id": 58667,
       "title": "Help Me, Teacher",
-      "score": 0.393,
+      "score": 0.392,
       "r18": false
     },
     {
@@ -110,6 +116,12 @@
       "id": 56332,
       "title": "Lucky Paradise",
       "score": 0.387,
+      "r18": false
+    },
+    {
+      "id": 50851,
+      "title": "Shh, You'll Wake up the Child",
+      "score": 0.384,
       "r18": false
     },
     {
@@ -131,27 +143,15 @@
       "r18": false
     },
     {
-      "id": 59128,
-      "title": "Shuffle",
+      "id": 59557,
+      "title": "The Masquerade",
       "score": 0.38,
       "r18": false
     },
     {
-      "id": 51813,
-      "title": "Our future",
-      "score": 0.377,
-      "r18": false
-    },
-    {
-      "id": 41682,
-      "title": "Keeper of the Pearl",
-      "score": 0.375,
-      "r18": false
-    },
-    {
-      "id": 35907,
-      "title": "Restless",
-      "score": 0.374,
+      "id": 59128,
+      "title": "Shuffle",
+      "score": 0.38,
       "r18": false
     }
   ]

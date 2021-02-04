@@ -1,8 +1,8 @@
 {
   "id": 45231,
   "title": "The Striped Fungus",
-  "url": "https://mangadex.org/manga/45231",
-  "last_updated": "January 15, 2021 06:31:44 UTC",
+  "url": "https://api.mangadex.org/v2/manga/45231",
+  "last_updated": "February 04, 2021 20:23:39 UTC",
   "matches": [
     {
       "id": 14674,
@@ -43,6 +43,12 @@
     {
       "id": 57630,
       "title": "Otaku Savior",
+      "score": 0.255,
+      "r18": false
+    },
+    {
+      "id": 59486,
+      "title": "Misenchanted",
       "score": 0.255,
       "r18": false
     },
@@ -107,6 +113,12 @@
       "r18": false
     },
     {
+      "id": 59861,
+      "title": "Advent Life Revision",
+      "score": 0.227,
+      "r18": false
+    },
+    {
       "id": 40950,
       "title": "Bravery in the Depths",
       "score": 0.216,
@@ -125,6 +137,12 @@
       "r18": false
     },
     {
+      "id": 277,
+      "title": "TAL",
+      "score": 0.212,
+      "r18": false
+    },
+    {
       "id": 1491,
       "title": "Jeep and Wagon",
       "score": 0.212,
@@ -133,24 +151,6 @@
     {
       "id": 1524,
       "title": "Maid to Order Tyria",
-      "score": 0.212,
-      "r18": false
-    },
-    {
-      "id": 4837,
-      "title": "Rad and Rinpu",
-      "score": 0.212,
-      "r18": false
-    },
-    {
-      "id": 7371,
-      "title": "Amanusya",
-      "score": 0.212,
-      "r18": false
-    },
-    {
-      "id": 8240,
-      "title": "Dark Souls - Poka Poka Dark Souls Life (Doujinshi)",
       "score": 0.212,
       "r18": false
     }

@@ -1,8 +1,8 @@
 {
   "id": 46292,
   "title": "Eien Shika Hoshikunai",
-  "url": "https://mangadex.org/manga/46292",
-  "last_updated": "January 15, 2021 06:41:52 UTC",
+  "url": "https://api.mangadex.org/v2/manga/46292",
+  "last_updated": "February 04, 2021 20:48:59 UTC",
   "matches": [
     {
       "id": 53590,
@@ -79,13 +79,7 @@
     {
       "id": 6817,
       "title": "Trigger",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 50448,
-      "title": "Tonari no Metaller-san",
-      "score": 0.676,
+      "score": 0.678,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 8883,
       "title": "Sasakure Memorial",
       "score": 0.665,
+      "r18": false
+    },
+    {
+      "id": 10179,
+      "title": "K-sensei no Yajuu na Aijou",
+      "score": 0.664,
       "r18": false
     }
   ]

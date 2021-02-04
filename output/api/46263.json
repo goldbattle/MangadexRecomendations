@@ -1,8 +1,8 @@
 {
   "id": 46263,
   "title": "Live Forever",
-  "url": "https://mangadex.org/manga/46263",
-  "last_updated": "January 15, 2021 06:41:36 UTC",
+  "url": "https://api.mangadex.org/v2/manga/46263",
+  "last_updated": "February 04, 2021 20:47:58 UTC",
   "matches": [
     {
       "id": 33134,
@@ -43,7 +43,7 @@
     {
       "id": 40997,
       "title": "Umineko no Naku Koro ni Shi: Forgery of the Purple Logic",
-      "score": 0.253,
+      "score": 0.252,
       "r18": false
     },
     {
@@ -89,6 +89,18 @@
       "r18": false
     },
     {
+      "id": 59701,
+      "title": "One Operation Joker",
+      "score": 0.228,
+      "r18": false
+    },
+    {
+      "id": 59126,
+      "title": "Perfect Family",
+      "score": 0.227,
+      "r18": false
+    },
+    {
       "id": 19866,
       "title": "Satsuriku no Tenshi",
       "score": 0.219,
@@ -121,13 +133,7 @@
     {
       "id": 10856,
       "title": "Shards of Sin",
-      "score": 0.207,
-      "r18": false
-    },
-    {
-      "id": 52473,
-      "title": "The Saviour's Time",
-      "score": 0.204,
+      "score": 0.208,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 58962,
       "title": "Romantic Scenery",
       "score": 0.199,
-      "r18": false
-    },
-    {
-      "id": 2890,
-      "title": "Alice in Borderland",
-      "score": 0.198,
       "r18": false
     }
   ]

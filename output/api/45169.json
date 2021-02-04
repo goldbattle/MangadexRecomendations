@@ -1,8 +1,8 @@
 {
   "id": 45169,
   "title": "Alice no Rakuen",
-  "url": "https://mangadex.org/manga/45169",
-  "last_updated": "January 15, 2021 06:30:38 UTC",
+  "url": "https://api.mangadex.org/v2/manga/45169",
+  "last_updated": "February 04, 2021 20:22:07 UTC",
   "matches": [
     {
       "id": 2348,
@@ -137,12 +137,6 @@
       "r18": false
     },
     {
-      "id": 2711,
-      "title": "Dawn - Tsumetai Te",
-      "score": 0.128,
-      "r18": false
-    },
-    {
       "id": 16807,
       "title": "Shunkan Lyle",
       "score": 0.128,
@@ -151,6 +145,12 @@
     {
       "id": 28531,
       "title": "Ao no Haha",
+      "score": 0.128,
+      "r18": false
+    },
+    {
+      "id": 36256,
+      "title": "Iwakutsuki Bukken no Yakuro-san",
       "score": 0.128,
       "r18": false
     }

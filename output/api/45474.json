@@ -1,8 +1,8 @@
 {
   "id": 45474,
   "title": "Hoshi Akari Graphics",
-  "url": "https://mangadex.org/manga/45474",
-  "last_updated": "January 15, 2021 06:34:05 UTC",
+  "url": "https://api.mangadex.org/v2/manga/45474",
+  "last_updated": "February 04, 2021 20:29:03 UTC",
   "matches": [
     {
       "id": 875,
@@ -67,7 +67,7 @@
     {
       "id": 37498,
       "title": "Kimi wa Houkago Insomnia",
-      "score": 0.668,
+      "score": 0.669,
       "r18": false
     },
     {
@@ -89,12 +89,6 @@
       "r18": false
     },
     {
-      "id": 12326,
-      "title": "Love Live! - School Idol Project",
-      "score": 0.665,
-      "r18": false
-    },
-    {
       "id": 13610,
       "title": "Seifuku Aventure - Chemical Reaction Of High School Students",
       "score": 0.665,
@@ -103,7 +97,7 @@
     {
       "id": 7727,
       "title": "Uwagaki",
-      "score": 0.663,
+      "score": 0.664,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 36258,
       "title": "Houkago Teibou Nisshi",
       "score": 0.656,
+      "r18": false
+    },
+    {
+      "id": 1614,
+      "title": "Aa! Megami-sama!",
+      "score": 0.655,
       "r18": false
     }
   ]

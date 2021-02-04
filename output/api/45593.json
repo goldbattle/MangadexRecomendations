@@ -1,8 +1,8 @@
 {
   "id": 45593,
   "title": "This Song Is Only for You",
-  "url": "https://mangadex.org/manga/45593",
-  "last_updated": "January 15, 2021 06:35:13 UTC",
+  "url": "https://api.mangadex.org/v2/manga/45593",
+  "last_updated": "February 04, 2021 20:31:37 UTC",
   "matches": [
     {
       "id": 58617,
@@ -61,6 +61,12 @@
     {
       "id": 52697,
       "title": "A Trivial Extra in a Dating Sim",
+      "score": 0.733,
+      "r18": false
+    },
+    {
+      "id": 59476,
+      "title": "The Tyrant&rsquo;s Guardian Is an Evil Witch",
       "score": 0.733,
       "r18": false
     },
@@ -139,18 +145,12 @@
     {
       "id": 51427,
       "title": "Forget About My Husband, I'd Rather Go Make Money",
-      "score": 0.723,
+      "score": 0.722,
       "r18": false
     },
     {
       "id": 45374,
       "title": "Pupillary Master",
-      "score": 0.722,
-      "r18": false
-    },
-    {
-      "id": 53012,
-      "title": "Shadow Queen",
       "score": 0.722,
       "r18": false
     }

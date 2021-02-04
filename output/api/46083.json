@@ -1,8 +1,8 @@
 {
   "id": 46083,
   "title": "Manga Science",
-  "url": "https://mangadex.org/manga/46083",
-  "last_updated": "January 15, 2021 06:39:54 UTC",
+  "url": "https://api.mangadex.org/v2/manga/46083",
+  "last_updated": "February 04, 2021 20:44:14 UTC",
   "matches": [
     {
       "id": 6572,
@@ -35,12 +35,6 @@
       "r18": false
     },
     {
-      "id": 5861,
-      "title": "Slayers - Suiriyuuou no Kishi",
-      "score": 0.675,
-      "r18": false
-    },
-    {
       "id": 1911,
       "title": "Infinity Game",
       "score": 0.674,
@@ -49,12 +43,6 @@
     {
       "id": 8190,
       "title": "Seiken Densetsu - Legend of Mana",
-      "score": 0.674,
-      "r18": false
-    },
-    {
-      "id": 6682,
-      "title": "Slayers Light&bull;Magic",
       "score": 0.674,
       "r18": false
     },
@@ -71,20 +59,8 @@
       "r18": false
     },
     {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.673,
-      "r18": false
-    },
-    {
       "id": 4880,
       "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
-      "score": 0.672,
-      "r18": false
-    },
-    {
-      "id": 21283,
-      "title": "Persona 5",
       "score": 0.672,
       "r18": false
     },
@@ -119,12 +95,6 @@
       "r18": false
     },
     {
-      "id": 47371,
-      "title": "A Breakthrough Brought by Forbidden Master and Disciple",
-      "score": 0.67,
-      "r18": false
-    },
-    {
       "id": 13432,
       "title": "Ningen Deshita",
       "score": 0.67,
@@ -137,14 +107,14 @@
       "r18": false
     },
     {
-      "id": 28558,
-      "title": "Versatile Mage",
+      "id": 47371,
+      "title": "A Breakthrough Brought by Forbidden Master and Disciple",
       "score": 0.669,
       "r18": false
     },
     {
-      "id": 54801,
-      "title": "One Piece Episode A",
+      "id": 28558,
+      "title": "Versatile Mage",
       "score": 0.669,
       "r18": false
     },
@@ -152,6 +122,36 @@
       "id": 32790,
       "title": "Oshiete! Kirara Fantasia",
       "score": 0.668,
+      "r18": false
+    },
+    {
+      "id": 31194,
+      "title": "Hunter Age",
+      "score": 0.668,
+      "r18": false
+    },
+    {
+      "id": 20288,
+      "title": "World Teacher &ndash; Other World Style Education &amp; Agent",
+      "score": 0.668,
+      "r18": false
+    },
+    {
+      "id": 41012,
+      "title": "My Little Pony - Tomodachi wa Mahou",
+      "score": 0.667,
+      "r18": false
+    },
+    {
+      "id": 10084,
+      "title": "Senyuu. - Main Quest Part 1",
+      "score": 0.666,
+      "r18": false
+    },
+    {
+      "id": 1036,
+      "title": "Rave",
+      "score": 0.666,
       "r18": false
     }
   ]

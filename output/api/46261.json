@@ -1,8 +1,8 @@
 {
   "id": 46261,
   "title": "TPC",
-  "url": "https://mangadex.org/manga/46261",
-  "last_updated": "January 15, 2021 06:41:35 UTC",
+  "url": "https://api.mangadex.org/v2/manga/46261",
+  "last_updated": "February 04, 2021 20:47:55 UTC",
   "matches": [
     {
       "id": 49506,
@@ -35,6 +35,12 @@
       "r18": false
     },
     {
+      "id": 11260,
+      "title": "Free Draw",
+      "score": 0.376,
+      "r18": false
+    },
+    {
       "id": 43650,
       "title": "Buttobi Itto",
       "score": 0.375,
@@ -43,13 +49,13 @@
     {
       "id": 4113,
       "title": "Clover",
-      "score": 0.369,
+      "score": 0.37,
       "r18": false
     },
     {
       "id": 1728,
       "title": "Ever Green",
-      "score": 0.365,
+      "score": 0.366,
       "r18": false
     },
     {
@@ -95,21 +101,21 @@
       "r18": false
     },
     {
-      "id": 14569,
-      "title": "Ookami Shounen wa Kyou mo Uso o Kasaneru",
-      "score": 0.358,
-      "r18": false
-    },
-    {
       "id": 2296,
       "title": "Gan-Kon",
       "score": 0.358,
       "r18": false
     },
     {
-      "id": 10509,
-      "title": "Imasugu Onii-chan ni Imouto da tte Iitai!",
-      "score": 0.354,
+      "id": 14569,
+      "title": "Ookami Shounen wa Kyou mo Uso o Kasaneru",
+      "score": 0.358,
+      "r18": false
+    },
+    {
+      "id": 278,
+      "title": "Toradora!",
+      "score": 0.357,
       "r18": false
     },
     {
@@ -121,12 +127,6 @@
     {
       "id": 684,
       "title": "Kuroko no Basket",
-      "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 278,
-      "title": "Toradora!",
       "score": 0.353,
       "r18": false
     },
@@ -143,15 +143,15 @@
       "r18": false
     },
     {
-      "id": 11260,
-      "title": "Free Draw",
+      "id": 22585,
+      "title": "Oni Futatsu",
       "score": 0.351,
       "r18": false
     },
     {
-      "id": 22585,
-      "title": "Oni Futatsu",
-      "score": 0.351,
+      "id": 1992,
+      "title": "Sugarless",
+      "score": 0.35,
       "r18": false
     }
   ]

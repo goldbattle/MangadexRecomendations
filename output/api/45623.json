@@ -1,8 +1,8 @@
 {
   "id": 45623,
   "title": "Flying Ben",
-  "url": "https://mangadex.org/manga/45623",
-  "last_updated": "January 15, 2021 06:35:30 UTC",
+  "url": "https://api.mangadex.org/v2/manga/45623",
+  "last_updated": "February 04, 2021 20:32:12 UTC",
   "matches": [
     {
       "id": 23231,
@@ -47,14 +47,14 @@
       "r18": false
     },
     {
-      "id": 31002,
-      "title": "Jimi na Kensei wa Sore Demo Saikyou Desu",
+      "id": 24373,
+      "title": "Fire Emblem - Ankokuryuu to Hikari no Ken",
       "score": 0.712,
       "r18": false
     },
     {
-      "id": 24373,
-      "title": "Fire Emblem - Ankokuryuu to Hikari no Ken",
+      "id": 31002,
+      "title": "Jimi na Kensei wa Sore Demo Saikyou Desu",
       "score": 0.712,
       "r18": false
     },
@@ -89,12 +89,6 @@
       "r18": false
     },
     {
-      "id": 303,
-      "title": "Claymore",
-      "score": 0.705,
-      "r18": false
-    },
-    {
       "id": 21061,
       "title": "Tales of Berseria",
       "score": 0.705,
@@ -107,15 +101,15 @@
       "r18": false
     },
     {
-      "id": 47371,
-      "title": "A Breakthrough Brought by Forbidden Master and Disciple",
+      "id": 4994,
+      "title": "Saint Seiya",
       "score": 0.704,
       "r18": false
     },
     {
-      "id": 4994,
-      "title": "Saint Seiya",
-      "score": 0.704,
+      "id": 47371,
+      "title": "A Breakthrough Brought by Forbidden Master and Disciple",
+      "score": 0.702,
       "r18": false
     },
     {
@@ -143,14 +137,20 @@
       "r18": false
     },
     {
+      "id": 11804,
+      "title": "Fights Breaking Through The Heavens",
+      "score": 0.7,
+      "r18": false
+    },
+    {
       "id": 1751,
       "title": "D.Gray-man",
       "score": 0.7,
       "r18": false
     },
     {
-      "id": 11804,
-      "title": "Fights Breaking Through The Heavens",
+      "id": 20284,
+      "title": "X - Epoch of the Dragon",
       "score": 0.7,
       "r18": false
     }

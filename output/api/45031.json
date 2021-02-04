@@ -1,20 +1,20 @@
 {
   "id": 45031,
   "title": "Biribiri Yankee Hamerarete Masu",
-  "url": "https://mangadex.org/manga/45031",
-  "last_updated": "January 15, 2021 06:29:19 UTC",
+  "url": "https://api.mangadex.org/v2/manga/45031",
+  "last_updated": "February 04, 2021 20:19:34 UTC",
   "matches": [
     {
       "id": 16769,
       "title": "Henai",
       "score": 0.664,
-      "r18": false
+      "r18": true
     },
     {
       "id": 20171,
       "title": "Do S Obake ga Nekasetekurenai",
       "score": 0.374,
-      "r18": false
+      "r18": true
     }
   ]
 }

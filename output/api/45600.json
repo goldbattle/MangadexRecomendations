@@ -1,8 +1,8 @@
 {
   "id": 45600,
   "title": "Short/Strip",
-  "url": "https://mangadex.org/manga/45600",
-  "last_updated": "January 15, 2021 06:35:17 UTC",
+  "url": "https://api.mangadex.org/v2/manga/45600",
+  "last_updated": "February 04, 2021 20:31:46 UTC",
   "matches": [
     {
       "id": 49506,
@@ -19,7 +19,7 @@
     {
       "id": 55018,
       "title": "A square's tale",
-      "score": 0.317,
+      "score": 0.316,
       "r18": false
     },
     {
@@ -61,7 +61,7 @@
     {
       "id": 37892,
       "title": "Horizon",
-      "score": 0.231,
+      "score": 0.23,
       "r18": false
     },
     {
@@ -71,15 +71,15 @@
       "r18": false
     },
     {
-      "id": 50904,
-      "title": "One Thing I Can't Say",
-      "score": 0.224,
+      "id": 47483,
+      "title": "Dragon Tofu",
+      "score": 0.225,
       "r18": false
     },
     {
-      "id": 47483,
-      "title": "Dragon Tofu",
-      "score": 0.218,
+      "id": 50904,
+      "title": "One Thing I Can't Say",
+      "score": 0.224,
       "r18": false
     },
     {
@@ -104,6 +104,12 @@
       "id": 51273,
       "title": "My Succubus Girlfriend",
       "score": 0.204,
+      "r18": false
+    },
+    {
+      "id": 59486,
+      "title": "Misenchanted",
+      "score": 0.201,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 40189,
       "title": "Paulson Bruhs: PD",
       "score": 0.185,
-      "r18": false
-    },
-    {
-      "id": 47416,
-      "title": "Dffrnt Strks",
-      "score": 0.182,
       "r18": false
     }
   ]

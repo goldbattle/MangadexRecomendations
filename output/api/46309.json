@@ -1,8 +1,8 @@
 {
   "id": 46309,
   "title": "Aquaman",
-  "url": "https://mangadex.org/manga/46309",
-  "last_updated": "January 15, 2021 06:42:02 UTC",
+  "url": "https://api.mangadex.org/v2/manga/46309",
+  "last_updated": "February 04, 2021 20:49:24 UTC",
   "matches": [
     {
       "id": 23231,
@@ -53,8 +53,20 @@
       "r18": false
     },
     {
+      "id": 54218,
+      "title": "The Lady and the Beast",
+      "score": 0.701,
+      "r18": false
+    },
+    {
       "id": 49338,
       "title": "I Just Want to Be a Useless Duke's Daughter",
+      "score": 0.701,
+      "r18": false
+    },
+    {
+      "id": 59476,
+      "title": "The Tyrant&rsquo;s Guardian Is an Evil Witch",
       "score": 0.701,
       "r18": false
     },
@@ -121,7 +133,7 @@
     {
       "id": 46715,
       "title": "Feather Ashes",
-      "score": 0.693,
+      "score": 0.692,
       "r18": false
     },
     {
@@ -133,24 +145,12 @@
     {
       "id": 58487,
       "title": "Happy Ending for the Time-Limited Villainess",
-      "score": 0.691,
+      "score": 0.692,
       "r18": false
     },
     {
       "id": 45628,
       "title": "Heaven Official's Blessing",
-      "score": 0.691,
-      "r18": false
-    },
-    {
-      "id": 53977,
-      "title": "Dragon Raja 2",
-      "score": 0.691,
-      "r18": false
-    },
-    {
-      "id": 46073,
-      "title": "I Am the Precious Daughter of the Greatest Villain in the Fantasy World",
       "score": 0.691,
       "r18": false
     }

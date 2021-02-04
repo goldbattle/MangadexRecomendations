@@ -1,8 +1,8 @@
 {
   "id": 45417,
   "title": "Vampire Gamer Girl",
-  "url": "https://mangadex.org/manga/45417",
-  "last_updated": "January 15, 2021 06:33:32 UTC",
+  "url": "https://api.mangadex.org/v2/manga/45417",
+  "last_updated": "February 04, 2021 20:27:55 UTC",
   "matches": [
     {
       "id": 21098,
@@ -37,7 +37,7 @@
     {
       "id": 47610,
       "title": "Waikiki Vampire",
-      "score": 0.703,
+      "score": 0.702,
       "r18": false
     },
     {
@@ -72,20 +72,14 @@
     },
     {
       "id": 44898,
-      "title": "White Blood",
-      "score": 0.671,
+      "title": "Unholy Blood",
+      "score": 0.67,
       "r18": false
     },
     {
       "id": 40,
       "title": "Crepuscule",
       "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 49135,
-      "title": "Homework of the Heart",
-      "score": 0.662,
       "r18": false
     },
     {
@@ -143,14 +137,20 @@
       "r18": false
     },
     {
-      "id": 51317,
-      "title": "Becoming Human!",
-      "score": 0.351,
+      "id": 49135,
+      "title": "Homework of the Heart",
+      "score": 0.355,
       "r18": false
     },
     {
       "id": 38029,
       "title": "Meme Girls",
+      "score": 0.351,
+      "r18": false
+    },
+    {
+      "id": 51317,
+      "title": "Becoming Human!",
       "score": 0.351,
       "r18": false
     }

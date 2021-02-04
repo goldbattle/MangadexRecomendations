@@ -1,8 +1,8 @@
 {
   "id": 45212,
   "title": "Decision",
-  "url": "https://mangadex.org/manga/45212",
-  "last_updated": "January 15, 2021 06:31:03 UTC",
+  "url": "https://api.mangadex.org/v2/manga/45212",
+  "last_updated": "February 04, 2021 20:23:05 UTC",
   "matches": [
     {
       "id": 31208,
@@ -17,9 +17,9 @@
       "r18": false
     },
     {
-      "id": 51538,
-      "title": "Dream-like Lie",
-      "score": 0.705,
+      "id": 50736,
+      "title": "Willow Romance",
+      "score": 0.704,
       "r18": false
     },
     {
@@ -38,6 +38,12 @@
       "id": 22233,
       "title": "Make Me Bark",
       "score": 0.691,
+      "r18": false
+    },
+    {
+      "id": 51164,
+      "title": "ANTI P.T.",
+      "score": 0.689,
       "r18": false
     },
     {
@@ -65,14 +71,8 @@
       "r18": false
     },
     {
-      "id": 51164,
-      "title": "Anti P.T",
-      "score": 0.688,
-      "r18": false
-    },
-    {
       "id": 58528,
-      "title": "Help me, Uncle!",
+      "title": "Help Me, Uncle!",
       "score": 0.686,
       "r18": false
     },
@@ -95,6 +95,12 @@
       "r18": false
     },
     {
+      "id": 59268,
+      "title": "Santa Will Always Grant Your Wishes",
+      "score": 0.681,
+      "r18": false
+    },
+    {
       "id": 38206,
       "title": "Incidentally Living Together",
       "score": 0.678,
@@ -103,7 +109,7 @@
     {
       "id": 39457,
       "title": "Master Baek's Case Notes",
-      "score": 0.677,
+      "score": 0.676,
       "r18": false
     },
     {
@@ -125,9 +131,15 @@
       "r18": false
     },
     {
+      "id": 59175,
+      "title": "Love Script",
+      "score": 0.674,
+      "r18": false
+    },
+    {
       "id": 44078,
       "title": "The Time Between Dog and Wolf",
-      "score": 0.673,
+      "score": 0.674,
       "r18": false
     },
     {
@@ -139,18 +151,6 @@
     {
       "id": 41682,
       "title": "Keeper of the Pearl",
-      "score": 0.672,
-      "r18": false
-    },
-    {
-      "id": 45006,
-      "title": "Gorani Jeon",
-      "score": 0.672,
-      "r18": false
-    },
-    {
-      "id": 50851,
-      "title": "Shh, You'll Wake up the Child",
       "score": 0.672,
       "r18": false
     }

@@ -1,8 +1,8 @@
 {
   "id": 44994,
   "title": "Celestial Jailer",
-  "url": "https://mangadex.org/manga/44994",
-  "last_updated": "January 15, 2021 02:02:56 UTC",
+  "url": "https://api.mangadex.org/v2/manga/44994",
+  "last_updated": "February 04, 2021 20:18:52 UTC",
   "matches": [
     {
       "id": 28735,
@@ -25,7 +25,7 @@
     {
       "id": 31414,
       "title": "Against the Gods",
-      "score": 0.677,
+      "score": 0.678,
       "r18": false
     },
     {
@@ -125,6 +125,12 @@
       "r18": false
     },
     {
+      "id": 15950,
+      "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
+      "score": 0.661,
+      "r18": false
+    },
+    {
       "id": 43,
       "title": "Freezing",
       "score": 0.661,
@@ -139,19 +145,13 @@
     {
       "id": 12929,
       "title": "To Love-Ru Darkness - Digital Colored Comics",
-      "score": 0.659,
+      "score": 0.66,
       "r18": false
     },
     {
       "id": 36776,
       "title": "Maou Toubatsu Shita Ato, Medachitakunai node Guild Master ni Natta",
       "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 52743,
-      "title": "Karma na Skill de Musou suru Isekai Harem Kaitoudan",
-      "score": 0.657,
       "r18": false
     }
   ]

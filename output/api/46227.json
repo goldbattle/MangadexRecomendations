@@ -1,8 +1,8 @@
 {
   "id": 46227,
   "title": "The Girl and the Beast (Promo)",
-  "url": "https://mangadex.org/manga/46227",
-  "last_updated": "January 15, 2021 06:41:15 UTC",
+  "url": "https://api.mangadex.org/v2/manga/46227",
+  "last_updated": "February 04, 2021 20:47:20 UTC",
   "matches": [
     {
       "id": 42675,
@@ -11,15 +11,21 @@
       "r18": false
     },
     {
-      "id": 58041,
-      "title": "Aideen",
-      "score": 0.71,
-      "r18": false
-    },
-    {
       "id": 8184,
       "title": "Le Th&eacute;&acirc;tre de A",
       "score": 0.709,
+      "r18": false
+    },
+    {
+      "id": 58041,
+      "title": "Aideen",
+      "score": 0.708,
+      "r18": false
+    },
+    {
+      "id": 59440,
+      "title": "The Flower Dances and the Wind Sings",
+      "score": 0.708,
       "r18": false
     },
     {
@@ -61,7 +67,13 @@
     {
       "id": 50294,
       "title": "The Villain Demands I Love Him",
-      "score": 0.7,
+      "score": 0.699,
+      "r18": false
+    },
+    {
+      "id": 58084,
+      "title": "A Kind Goblin's Bird",
+      "score": 0.698,
       "r18": false
     },
     {
@@ -95,20 +107,32 @@
       "r18": false
     },
     {
+      "id": 50912,
+      "title": "A Villainess Is a Good Match for the Tyrant",
+      "score": 0.696,
+      "r18": false
+    },
+    {
       "id": 54052,
       "title": "It Looks Like I've Fallen into the World of a Reverse Harem Game",
       "score": 0.693,
       "r18": false
     },
     {
-      "id": 23631,
-      "title": "Seijo no Maryoku wa Bannou Desu",
+      "id": 55636,
+      "title": "My Wife Is Back",
       "score": 0.691,
       "r18": false
     },
     {
       "id": 33379,
       "title": "The Wolf Lord's Lady",
+      "score": 0.691,
+      "r18": false
+    },
+    {
+      "id": 23631,
+      "title": "Seijo no Maryoku wa Bannou Desu",
       "score": 0.691,
       "r18": false
     },
@@ -125,33 +149,9 @@
       "r18": false
     },
     {
-      "id": 58084,
-      "title": "A Kind Goblin's Bird",
-      "score": 0.69,
-      "r18": false
-    },
-    {
       "id": 52899,
       "title": "Your God Sent You",
       "score": 0.689,
-      "r18": false
-    },
-    {
-      "id": 43724,
-      "title": "Golden Time",
-      "score": 0.688,
-      "r18": false
-    },
-    {
-      "id": 52633,
-      "title": "In an Otome Game World, I&rsquo;m a Villain?! I Can&rsquo;t Accept This!",
-      "score": 0.687,
-      "r18": false
-    },
-    {
-      "id": 58463,
-      "title": "I Raised the Beast Well",
-      "score": 0.687,
       "r18": false
     }
   ]

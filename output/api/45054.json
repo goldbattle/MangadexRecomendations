@@ -1,8 +1,8 @@
 {
   "id": 45054,
   "title": "Goddess's Personal Doctor",
-  "url": "https://mangadex.org/manga/45054",
-  "last_updated": "January 15, 2021 06:29:33 UTC",
+  "url": "https://api.mangadex.org/v2/manga/45054",
+  "last_updated": "February 04, 2021 20:19:57 UTC",
   "matches": [
     {
       "id": 5552,
@@ -41,12 +41,6 @@
       "r18": false
     },
     {
-      "id": 9606,
-      "title": "Mahou Sensou",
-      "score": 0.341,
-      "r18": false
-    },
-    {
       "id": 49350,
       "title": "Cultivators in the City",
       "score": 0.327,
@@ -67,7 +61,7 @@
     {
       "id": 800,
       "title": "Triage X",
-      "score": 0.317,
+      "score": 0.316,
       "r18": false
     },
     {
@@ -107,14 +101,14 @@
       "r18": false
     },
     {
-      "id": 11615,
-      "title": "Rakudai Kishi no Eiyuutan",
-      "score": 0.307,
+      "id": 47796,
+      "title": "God-Level Takeout Man",
+      "score": 0.306,
       "r18": false
     },
     {
-      "id": 47796,
-      "title": "God-Level Takeout Man",
+      "id": 11615,
+      "title": "Rakudai Kishi no Eiyuutan",
       "score": 0.306,
       "r18": false
     },
@@ -152,6 +146,12 @@
       "id": 26342,
       "title": "Jishou! Heibon Mazoku no Eiyuu Life: B-kyuu Mazoku nano ni Cheat Dungeon wo Tsukutteshimatta Kekka",
       "score": 0.297,
+      "r18": false
+    },
+    {
+      "id": 8908,
+      "title": "Te to Kuchi",
+      "score": 0.296,
       "r18": false
     }
   ]
