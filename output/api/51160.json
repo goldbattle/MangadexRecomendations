@@ -1,8 +1,8 @@
 {
   "id": 51160,
   "title": "Intercept",
-  "url": "https://mangadex.org/manga/51160",
-  "last_updated": "January 15, 2021 19:02:57 UTC",
+  "url": "https://api.mangadex.org/v2/manga/51160",
+  "last_updated": "February 05, 2021 12:03:23 UTC",
   "matches": [
     {
       "id": 211,
@@ -83,6 +83,12 @@
       "r18": false
     },
     {
+      "id": 59620,
+      "title": "My Big Boss Calls Me Little Devil",
+      "score": 0.272,
+      "r18": false
+    },
+    {
       "id": 36634,
       "title": "Masked Woman",
       "score": 0.243,
@@ -145,12 +151,6 @@
     {
       "id": 36401,
       "title": "One Life, One Reincarnation",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 37657,
-      "title": "In the Mood for Love",
       "score": 0.227,
       "r18": false
     }

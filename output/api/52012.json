@@ -1,8 +1,8 @@
 {
   "id": 52012,
   "title": "Spiral Memory",
-  "url": "https://mangadex.org/manga/52012",
-  "last_updated": "January 16, 2021 00:53:16 UTC",
+  "url": "https://api.mangadex.org/v2/manga/52012",
+  "last_updated": "February 05, 2021 12:17:22 UTC",
   "matches": [
     {
       "id": 54439,
@@ -25,7 +25,7 @@
     {
       "id": 22954,
       "title": "This Can't Be Love",
-      "score": 0.701,
+      "score": 0.7,
       "r18": false
     },
     {
@@ -71,6 +71,12 @@
       "r18": false
     },
     {
+      "id": 59861,
+      "title": "Advent Life Revision",
+      "score": 0.691,
+      "r18": false
+    },
+    {
       "id": 14676,
       "title": "The Legendary Moonlight Sculptor",
       "score": 0.69,
@@ -89,20 +95,26 @@
       "r18": false
     },
     {
+      "id": 45938,
+      "title": "Oh! My Prince!",
+      "score": 0.689,
+      "r18": false
+    },
+    {
       "id": 47239,
       "title": "Special Bodyguard for the School's Maidens",
       "score": 0.688,
       "r18": false
     },
     {
-      "id": 11,
-      "title": "Noblesse",
+      "id": 58419,
+      "title": "Secret Of The Netherworld",
       "score": 0.688,
       "r18": false
     },
     {
-      "id": 58419,
-      "title": "Secret Of The Netherworld",
+      "id": 11,
+      "title": "Noblesse",
       "score": 0.688,
       "r18": false
     },
@@ -139,18 +151,6 @@
     {
       "id": 41564,
       "title": "She Is Still Cute Today",
-      "score": 0.684,
-      "r18": false
-    },
-    {
-      "id": 58041,
-      "title": "Aideen",
-      "score": 0.684,
-      "r18": false
-    },
-    {
-      "id": 47104,
-      "title": "We Are Not Familiar",
       "score": 0.684,
       "r18": false
     }

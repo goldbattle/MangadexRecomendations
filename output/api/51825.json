@@ -1,8 +1,8 @@
 {
   "id": 51825,
   "title": "The Chronicles of Apocalypse",
-  "url": "https://mangadex.org/manga/51825",
-  "last_updated": "January 16, 2021 00:51:33 UTC",
+  "url": "https://api.mangadex.org/v2/manga/51825",
+  "last_updated": "February 05, 2021 12:14:19 UTC",
   "matches": [
     {
       "id": 36278,
@@ -95,6 +95,12 @@
       "r18": false
     },
     {
+      "id": 59669,
+      "title": "Jungle Juice",
+      "score": 0.273,
+      "r18": false
+    },
+    {
       "id": 45605,
       "title": "Eternal Emperor",
       "score": 0.273,
@@ -133,7 +139,7 @@
     {
       "id": 35448,
       "title": "Strongest Abandoned Son",
-      "score": 0.269,
+      "score": 0.268,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 39079,
       "title": "Code Adam",
       "score": 0.266,
-      "r18": false
-    },
-    {
-      "id": 36922,
-      "title": "Pale Throne",
-      "score": 0.264,
       "r18": false
     }
   ]

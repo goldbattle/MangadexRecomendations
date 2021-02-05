@@ -1,32 +1,38 @@
 {
   "id": 51491,
   "title": "Isekai Yakuza Mofumofu no Taizaiki",
-  "url": "https://mangadex.org/manga/51491",
-  "last_updated": "January 16, 2021 00:47:58 UTC",
+  "url": "https://api.mangadex.org/v2/manga/51491",
+  "last_updated": "February 05, 2021 12:08:47 UTC",
   "matches": [
     {
       "id": 33675,
       "title": "Furachi na Keiji-san",
       "score": 0.663,
-      "r18": false
+      "r18": true
+    },
+    {
+      "id": 59990,
+      "title": "Juuyoku no Chigiri",
+      "score": 0.236,
+      "r18": true
     },
     {
       "id": 25833,
       "title": "Boku wa, Yuusha.",
       "score": 0.103,
-      "r18": false
+      "r18": true
     },
     {
       "id": 37786,
       "title": "S wa Fragile no S",
       "score": 0.103,
-      "r18": false
+      "r18": true
     },
     {
       "id": 50384,
       "title": "Kachiku Onzoushi",
       "score": 0.103,
-      "r18": false
+      "r18": true
     }
   ]
 }

@@ -1,9 +1,15 @@
 {
   "id": 52163,
   "title": "Our House is a Haunted Rental Bookstore",
-  "url": "https://mangadex.org/manga/52163",
-  "last_updated": "January 16, 2021 00:54:39 UTC",
+  "url": "https://api.mangadex.org/v2/manga/52163",
+  "last_updated": "February 05, 2021 12:19:54 UTC",
   "matches": [
+    {
+      "id": 54218,
+      "title": "The Lady and the Beast",
+      "score": 0.69,
+      "r18": false
+    },
     {
       "id": 2797,
       "title": "Le Th&eacute;&acirc;tre de B",
@@ -37,19 +43,13 @@
     {
       "id": 42675,
       "title": "Otome Game no Hametsu Flag shika nai Akuyaku Reijou ni Tensei shite shimatta... Zettai Zetsumei! Hametsu Sunzen Hen",
-      "score": 0.681,
+      "score": 0.682,
       "r18": false
     },
     {
       "id": 54052,
       "title": "It Looks Like I've Fallen into the World of a Reverse Harem Game",
       "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 54218,
-      "title": "The Lady and the Beast",
-      "score": 0.678,
       "r18": false
     },
     {
@@ -73,6 +73,12 @@
     {
       "id": 23631,
       "title": "Seijo no Maryoku wa Bannou Desu",
+      "score": 0.673,
+      "r18": false
+    },
+    {
+      "id": 59440,
+      "title": "The Flower Dances and the Wind Sings",
       "score": 0.673,
       "r18": false
     },
@@ -107,14 +113,14 @@
       "r18": false
     },
     {
-      "id": 31754,
-      "title": "Kanyou Shoujo",
+      "id": 37549,
+      "title": "Herscherik - The Epic of the Reincarnated Prince",
       "score": 0.665,
       "r18": false
     },
     {
-      "id": 37549,
-      "title": "Herscherik - The Epic of the Reincarnated Prince",
+      "id": 31754,
+      "title": "Kanyou Shoujo",
       "score": 0.665,
       "r18": false
     },
@@ -146,12 +152,6 @@
       "id": 151,
       "title": "Bokura no Kiseki",
       "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 50294,
-      "title": "The Villain Demands I Love Him",
-      "score": 0.663,
       "r18": false
     }
   ]

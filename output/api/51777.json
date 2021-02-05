@@ -1,8 +1,8 @@
 {
   "id": 51777,
   "title": "Truth Mask",
-  "url": "https://mangadex.org/manga/51777",
-  "last_updated": "January 16, 2021 00:50:37 UTC",
+  "url": "https://api.mangadex.org/v2/manga/51777",
+  "last_updated": "February 05, 2021 12:13:32 UTC",
   "matches": [
     {
       "id": 45807,
@@ -125,12 +125,6 @@
       "r18": false
     },
     {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.674,
-      "r18": false
-    },
-    {
       "id": 27634,
       "title": "MW",
       "score": 0.674,
@@ -152,6 +146,12 @@
       "id": 6226,
       "title": "Ookami Kodomo no Ame to Yuki",
       "score": 0.672,
+      "r18": false
+    },
+    {
+      "id": 4880,
+      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
+      "score": 0.671,
       "r18": false
     }
   ]

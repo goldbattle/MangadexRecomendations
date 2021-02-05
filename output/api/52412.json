@@ -1,8 +1,8 @@
 {
   "id": 52412,
   "title": "Hitodenai Ookami",
-  "url": "https://mangadex.org/manga/52412",
-  "last_updated": "January 16, 2021 00:56:54 UTC",
+  "url": "https://api.mangadex.org/v2/manga/52412",
+  "last_updated": "February 05, 2021 12:24:07 UTC",
   "matches": [
     {
       "id": 47203,
@@ -77,6 +77,12 @@
       "r18": false
     },
     {
+      "id": 58861,
+      "title": "Feel Free to Hug Me",
+      "score": 0.691,
+      "r18": false
+    },
+    {
       "id": 46492,
       "title": "Inferior Doll",
       "score": 0.685,
@@ -101,14 +107,14 @@
       "r18": false
     },
     {
-      "id": 45740,
-      "title": "White Guardian",
+      "id": 13065,
+      "title": "Maigo no Kare to Kuma no Onegai",
       "score": 0.682,
       "r18": false
     },
     {
-      "id": 13065,
-      "title": "Maigo no Kare to Kuma no Onegai",
+      "id": 45740,
+      "title": "White Guardian",
       "score": 0.682,
       "r18": false
     },
@@ -133,7 +139,7 @@
     {
       "id": 29112,
       "title": "Yami ni Tooboe, Mune ni Toge",
-      "score": 0.679,
+      "score": 0.678,
       "r18": false
     },
     {
@@ -145,12 +151,6 @@
     {
       "id": 27062,
       "title": "Flowering",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 14396,
-      "title": "Aigan Kitty",
       "score": 0.676,
       "r18": false
     }

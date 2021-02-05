@@ -1,18 +1,12 @@
 {
   "id": 51252,
   "title": "Dan X Bad",
-  "url": "https://mangadex.org/manga/51252",
-  "last_updated": "January 15, 2021 19:03:51 UTC",
+  "url": "https://api.mangadex.org/v2/manga/51252",
+  "last_updated": "February 05, 2021 12:04:51 UTC",
   "matches": [
     {
       "id": 11766,
       "title": "All Out!!",
-      "score": 0.348,
-      "r18": false
-    },
-    {
-      "id": 19434,
-      "title": "Toki",
       "score": 0.348,
       "r18": false
     },
@@ -151,6 +145,12 @@
     {
       "id": 7233,
       "title": "Watashi no Taisetsu na Tomodachi",
+      "score": 0.272,
+      "r18": false
+    },
+    {
+      "id": 9950,
+      "title": "Hanayamata",
       "score": 0.272,
       "r18": false
     }

@@ -1,8 +1,8 @@
 {
   "id": 52114,
   "title": "Shounen Racquet",
-  "url": "https://mangadex.org/manga/52114",
-  "last_updated": "January 16, 2021 00:54:12 UTC",
+  "url": "https://api.mangadex.org/v2/manga/52114",
+  "last_updated": "February 05, 2021 12:19:07 UTC",
   "matches": [
     {
       "id": 606,
@@ -61,6 +61,12 @@
     {
       "id": 881,
       "title": "Ahiru no Sora",
+      "score": 0.29,
+      "r18": false
+    },
+    {
+      "id": 883,
+      "title": "Eyeshield 21",
       "score": 0.29,
       "r18": false
     },
@@ -145,12 +151,6 @@
     {
       "id": 1014,
       "title": "Kurogane",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 1035,
-      "title": "Stand Up!",
       "score": 0.28,
       "r18": false
     }

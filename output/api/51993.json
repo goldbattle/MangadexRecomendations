@@ -1,8 +1,8 @@
 {
   "id": 51993,
   "title": "Jikyuu 300 yen no Shinigami",
-  "url": "https://mangadex.org/manga/51993",
-  "last_updated": "January 16, 2021 00:53:05 UTC",
+  "url": "https://api.mangadex.org/v2/manga/51993",
+  "last_updated": "February 05, 2021 12:17:03 UTC",
   "matches": [
     {
       "id": 191,
@@ -14,18 +14,6 @@
       "id": 4880,
       "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
       "score": 0.693,
-      "r18": false
-    },
-    {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.693,
-      "r18": false
-    },
-    {
-      "id": 14441,
-      "title": "Fate/strange Fake",
-      "score": 0.69,
       "r18": false
     },
     {
@@ -73,12 +61,6 @@
     {
       "id": 34328,
       "title": "H.P. Lovecraft's The Hound and Other Stories",
-      "score": 0.681,
-      "r18": false
-    },
-    {
-      "id": 15286,
-      "title": "Fate/stay night: Heaven's Feel",
       "score": 0.68,
       "r18": false
     },
@@ -89,20 +71,32 @@
       "r18": false
     },
     {
+      "id": 27151,
+      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
+      "score": 0.679,
+      "r18": false
+    },
+    {
+      "id": 15286,
+      "title": "Fate/stay night: Heaven's Feel",
+      "score": 0.679,
+      "r18": false
+    },
+    {
       "id": 28617,
       "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run",
       "score": 0.678,
       "r18": false
     },
     {
-      "id": 16825,
-      "title": "Ginga Eiyuu Densetsu",
+      "id": 4135,
+      "title": "Mushishi",
       "score": 0.677,
       "r18": false
     },
     {
-      "id": 4135,
-      "title": "Mushishi",
+      "id": 16825,
+      "title": "Ginga Eiyuu Densetsu",
       "score": 0.677,
       "r18": false
     },
@@ -115,6 +109,12 @@
     {
       "id": 2678,
       "title": "6000",
+      "score": 0.676,
+      "r18": false
+    },
+    {
+      "id": 19505,
+      "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
       "score": 0.676,
       "r18": false
     },

@@ -1,8 +1,8 @@
 {
   "id": 51723,
   "title": "The Pay to Win Big Shot",
-  "url": "https://mangadex.org/manga/51723",
-  "last_updated": "January 16, 2021 00:50:07 UTC",
+  "url": "https://api.mangadex.org/v2/manga/51723",
+  "last_updated": "February 05, 2021 12:12:41 UTC",
   "matches": [
     {
       "id": 53939,
@@ -125,21 +125,9 @@
       "r18": false
     },
     {
-      "id": 58316,
-      "title": "Super Income Treasure",
-      "score": 0.709,
-      "r18": false
-    },
-    {
       "id": 23195,
       "title": "The Great Ruler",
       "score": 0.707,
-      "r18": false
-    },
-    {
-      "id": 3867,
-      "title": "M&Auml;R",
-      "score": 0.706,
       "r18": false
     },
     {
@@ -149,9 +137,21 @@
       "r18": false
     },
     {
+      "id": 3867,
+      "title": "M&Auml;R",
+      "score": 0.706,
+      "r18": false
+    },
+    {
       "id": 48137,
       "title": "Welcome to the Impregnable Demon King Castle ~The Black Mage Who Got Kicked Out of the Hero Party Due to His Unnecessary Debuffs Gets Welcomed by the Top Brass of the Demon King's Army~",
       "score": 0.706,
+      "r18": false
+    },
+    {
+      "id": 42835,
+      "title": "I Will Live Freely in Another World with Equipment Manufacturing Cheat",
+      "score": 0.705,
       "r18": false
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": 52543,
   "title": "Daitai Meruko",
-  "url": "https://mangadex.org/manga/52543",
-  "last_updated": "January 16, 2021 00:58:06 UTC",
+  "url": "https://api.mangadex.org/v2/manga/52543",
+  "last_updated": "February 05, 2021 12:26:12 UTC",
   "matches": [
     {
       "id": 22491,
@@ -61,6 +61,12 @@
     {
       "id": 2728,
       "title": "Fate/kaleid liner PRISMA\u2606ILLYA",
+      "score": 0.144,
+      "r18": false
+    },
+    {
+      "id": 5499,
+      "title": "Mitsudomoe",
       "score": 0.144,
       "r18": false
     },
@@ -145,12 +151,6 @@
     {
       "id": 3745,
       "title": "Comic Studio",
-      "score": 0.12,
-      "r18": false
-    },
-    {
-      "id": 8287,
-      "title": "Necossas: Six",
       "score": 0.12,
       "r18": false
     }

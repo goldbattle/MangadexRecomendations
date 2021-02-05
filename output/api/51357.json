@@ -1,8 +1,8 @@
 {
   "id": 51357,
   "title": "Somewhere in Time",
-  "url": "https://mangadex.org/manga/51357",
-  "last_updated": "January 15, 2021 19:04:51 UTC",
+  "url": "https://api.mangadex.org/v2/manga/51357",
+  "last_updated": "February 05, 2021 12:06:36 UTC",
   "matches": [
     {
       "id": 4810,
@@ -67,7 +67,7 @@
     {
       "id": 10923,
       "title": "Kooporasu e Youkoso",
-      "score": 0.681,
+      "score": 0.682,
       "r18": false
     },
     {
@@ -86,12 +86,6 @@
       "id": 37573,
       "title": "Shitsuji wa Oose no Mama ni",
       "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 58356,
-      "title": "Finger Stinger",
-      "score": 0.677,
       "r18": false
     },
     {
@@ -151,6 +145,12 @@
     {
       "id": 24006,
       "title": "Anata wa Boku Dake no Hana",
+      "score": 0.671,
+      "r18": false
+    },
+    {
+      "id": 28093,
+      "title": "Love Mode",
       "score": 0.671,
       "r18": false
     }

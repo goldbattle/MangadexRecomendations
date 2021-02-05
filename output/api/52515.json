@@ -1,8 +1,8 @@
 {
   "id": 52515,
   "title": "4 Week Lovers",
-  "url": "https://mangadex.org/manga/52515",
-  "last_updated": "January 16, 2021 00:57:50 UTC",
+  "url": "https://api.mangadex.org/v2/manga/52515",
+  "last_updated": "February 05, 2021 12:25:45 UTC",
   "matches": [
     {
       "id": 37504,
@@ -17,12 +17,6 @@
       "r18": false
     },
     {
-      "id": 56993,
-      "title": "Business Performance",
-      "score": 0.712,
-      "r18": false
-    },
-    {
       "id": 8048,
       "title": "Kimi wa Amai Amai...",
       "score": 0.71,
@@ -31,6 +25,12 @@
     {
       "id": 4557,
       "title": "Mousou Cherry",
+      "score": 0.704,
+      "r18": false
+    },
+    {
+      "id": 59423,
+      "title": "Eunsoo's Good Day",
       "score": 0.704,
       "r18": false
     },
@@ -137,6 +137,12 @@
       "r18": false
     },
     {
+      "id": 58778,
+      "title": "Hetakuso Love Step",
+      "score": 0.683,
+      "r18": false
+    },
+    {
       "id": 51148,
       "title": "Kaikan Fortune",
       "score": 0.682,
@@ -146,12 +152,6 @@
       "id": 58895,
       "title": "Love, Line, Arrow.",
       "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 3982,
-      "title": "Only One",
-      "score": 0.679,
       "r18": false
     }
   ]

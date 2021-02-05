@@ -1,19 +1,13 @@
 {
   "id": 52487,
   "title": "Kamakura Corona",
-  "url": "https://mangadex.org/manga/52487",
-  "last_updated": "January 16, 2021 00:57:35 UTC",
+  "url": "https://api.mangadex.org/v2/manga/52487",
+  "last_updated": "February 05, 2021 12:25:18 UTC",
   "matches": [
     {
       "id": 44294,
       "title": "Gyo",
       "score": 0.365,
-      "r18": false
-    },
-    {
-      "id": 50285,
-      "title": "This Italian Girl Has Become Such a Freeloader",
-      "score": 0.344,
       "r18": false
     },
     {
@@ -23,15 +17,21 @@
       "r18": false
     },
     {
+      "id": 50285,
+      "title": "This Italian Girl Has Become Such a Freeloader",
+      "score": 0.34,
+      "r18": false
+    },
+    {
       "id": 36184,
       "title": "Azur Lane - Skeleton Commander And Enterprise (Doujinshi)",
-      "score": 0.335,
+      "score": 0.334,
       "r18": false
     },
     {
       "id": 44988,
       "title": "Poor Father and Daughter",
-      "score": 0.327,
+      "score": 0.326,
       "r18": false
     },
     {
@@ -151,7 +151,7 @@
     {
       "id": 291,
       "title": "Ryushika Ryushika",
-      "score": 0.275,
+      "score": 0.274,
       "r18": false
     }
   ]

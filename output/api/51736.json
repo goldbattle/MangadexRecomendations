@@ -1,8 +1,8 @@
 {
   "id": 51736,
   "title": "Who is a sweet cheater?",
-  "url": "https://mangadex.org/manga/51736",
-  "last_updated": "January 16, 2021 00:50:14 UTC",
+  "url": "https://api.mangadex.org/v2/manga/51736",
+  "last_updated": "February 05, 2021 12:12:53 UTC",
   "matches": [
     {
       "id": 21249,
@@ -14,12 +14,6 @@
       "id": 23731,
       "title": "My Director",
       "score": 0.438,
-      "r18": false
-    },
-    {
-      "id": 54503,
-      "title": "Our First Day",
-      "score": 0.35,
       "r18": false
     },
     {
@@ -59,6 +53,12 @@
       "r18": false
     },
     {
+      "id": 54503,
+      "title": "Our First Day",
+      "score": 0.292,
+      "r18": false
+    },
+    {
       "id": 28410,
       "title": "A Man Like You",
       "score": 0.292,
@@ -92,6 +92,12 @@
       "id": 46956,
       "title": "Why Is It You?",
       "score": 0.262,
+      "r18": false
+    },
+    {
+      "id": 57765,
+      "title": "Summer Guest",
+      "score": 0.25,
       "r18": false
     },
     {
@@ -145,12 +151,6 @@
     {
       "id": 40486,
       "title": "PAID",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 29676,
-      "title": "Please Save the Fox!",
       "score": 0.25,
       "r18": false
     }

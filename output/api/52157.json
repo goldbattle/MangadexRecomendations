@@ -1,8 +1,8 @@
 {
   "id": 52157,
   "title": "If I Love, It's Unrequited!",
-  "url": "https://mangadex.org/manga/52157",
-  "last_updated": "January 16, 2021 00:54:36 UTC",
+  "url": "https://api.mangadex.org/v2/manga/52157",
+  "last_updated": "February 05, 2021 12:19:47 UTC",
   "matches": [
     {
       "id": 31030,
@@ -13,7 +13,7 @@
     {
       "id": 50594,
       "title": "I Only Love Hana",
-      "score": 0.399,
+      "score": 0.4,
       "r18": false
     },
     {
@@ -107,12 +107,6 @@
       "r18": false
     },
     {
-      "id": 59227,
-      "title": "1cm Inexperienced Us",
-      "score": 0.365,
-      "r18": false
-    },
-    {
       "id": 57960,
       "title": "For you 99%",
       "score": 0.365,
@@ -131,8 +125,8 @@
       "r18": false
     },
     {
-      "id": 54861,
-      "title": "Uncomfortable Roommates",
+      "id": 59227,
+      "title": "1cm Inexperienced Us",
       "score": 0.362,
       "r18": false
     },
@@ -152,6 +146,12 @@
       "id": 22136,
       "title": "My Male Friend",
       "score": 0.358,
+      "r18": false
+    },
+    {
+      "id": 19893,
+      "title": "The Elementary School Student That I Love",
+      "score": 0.357,
       "r18": false
     }
   ]

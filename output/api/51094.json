@@ -1,8 +1,8 @@
 {
   "id": 51094,
   "title": "Gin no Vendetta",
-  "url": "https://mangadex.org/manga/51094",
-  "last_updated": "January 15, 2021 19:02:19 UTC",
+  "url": "https://api.mangadex.org/v2/manga/51094",
+  "last_updated": "February 05, 2021 12:02:17 UTC",
   "matches": [
     {
       "id": 2717,
@@ -32,12 +32,6 @@
       "id": 52737,
       "title": "Our Blood Oath",
       "score": 0.175,
-      "r18": false
-    },
-    {
-      "id": 416,
-      "title": "Bloody Cross",
-      "score": 0.14,
       "r18": false
     },
     {
@@ -151,6 +145,12 @@
     {
       "id": 19562,
       "title": "Ginrou Blood Bone",
+      "score": 0.1,
+      "r18": false
+    },
+    {
+      "id": 19881,
+      "title": "Chocolate Vampire",
       "score": 0.1,
       "r18": false
     }

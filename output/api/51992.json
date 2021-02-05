@@ -1,8 +1,8 @@
 {
   "id": 51992,
   "title": "Nakasete Kurenai Kamiya-san",
-  "url": "https://mangadex.org/manga/51992",
-  "last_updated": "January 16, 2021 00:53:04 UTC",
+  "url": "https://api.mangadex.org/v2/manga/51992",
+  "last_updated": "February 05, 2021 12:17:02 UTC",
   "matches": [
     {
       "id": 931,
@@ -103,6 +103,12 @@
     {
       "id": 3232,
       "title": "Yawara!",
+      "score": 0.2,
+      "r18": false
+    },
+    {
+      "id": 19434,
+      "title": "Toki",
       "score": 0.2,
       "r18": false
     },

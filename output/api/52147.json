@@ -1,66 +1,60 @@
 {
   "id": 52147,
-  "title": "Prefectural Exchange Group",
-  "url": "https://mangadex.org/manga/52147",
-  "last_updated": "January 16, 2021 00:54:30 UTC",
+  "title": "Netherworld Exchange Group",
+  "url": "https://api.mangadex.org/v2/manga/52147",
+  "last_updated": "February 05, 2021 12:19:38 UTC",
   "matches": [
     {
       "id": 23231,
       "title": "Wu Dong Qian Kun",
-      "score": 0.73,
-      "r18": false
-    },
-    {
-      "id": 45331,
-      "title": "General, Please Stay",
-      "score": 0.712,
+      "score": 0.729,
       "r18": false
     },
     {
       "id": 52819,
       "title": "The Nether World Mix of Jiang Long",
-      "score": 0.711,
+      "score": 0.712,
       "r18": false
     },
     {
       "id": 23044,
       "title": "Yuan Zun",
-      "score": 0.709,
+      "score": 0.708,
       "r18": false
     },
     {
-      "id": 46691,
-      "title": "Detective Duo",
-      "score": 0.705,
-      "r18": false
-    },
-    {
-      "id": 49089,
-      "title": "Temple of the Dragon King",
-      "score": 0.704,
-      "r18": false
-    },
-    {
-      "id": 32851,
-      "title": "The Gateway of Revolution",
-      "score": 0.703,
-      "r18": false
-    },
-    {
-      "id": 26191,
-      "title": "The Portal of Wonderland",
-      "score": 0.702,
+      "id": 45331,
+      "title": "General, Please Stay",
+      "score": 0.708,
       "r18": false
     },
     {
       "id": 58419,
       "title": "Secret Of The Netherworld",
-      "score": 0.7,
+      "score": 0.705,
       "r18": false
     },
     {
-      "id": 44714,
-      "title": "Xianzun System in the City",
+      "id": 46691,
+      "title": "Detective Duo",
+      "score": 0.703,
+      "r18": false
+    },
+    {
+      "id": 49089,
+      "title": "Temple of the Dragon King",
+      "score": 0.702,
+      "r18": false
+    },
+    {
+      "id": 26191,
+      "title": "The Portal of Wonderland",
+      "score": 0.701,
+      "r18": false
+    },
+    {
+      "id": 32851,
+      "title": "The Gateway of Revolution",
       "score": 0.699,
       "r18": false
     },
@@ -71,87 +65,93 @@
       "r18": false
     },
     {
-      "id": 52154,
-      "title": "Zhanding",
-      "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 52120,
-      "title": "Becoming the Villain's Family",
-      "score": 0.694,
+      "id": 43692,
+      "title": "Demonic Emperor",
+      "score": 0.697,
       "r18": false
     },
     {
       "id": 46789,
       "title": "Apocalyptic Super System",
-      "score": 0.693,
+      "score": 0.696,
+      "r18": false
+    },
+    {
+      "id": 52154,
+      "title": "Zhanding",
+      "score": 0.695,
+      "r18": false
+    },
+    {
+      "id": 44714,
+      "title": "Xianzun System in the City",
+      "score": 0.694,
+      "r18": false
+    },
+    {
+      "id": 52120,
+      "title": "Becoming the Villain's Family",
+      "score": 0.692,
       "r18": false
     },
     {
       "id": 47751,
       "title": "Forbidden Love Over a Thousand Years",
-      "score": 0.693,
-      "r18": false
-    },
-    {
-      "id": 43692,
-      "title": "Demonic Emperor",
-      "score": 0.692,
-      "r18": false
-    },
-    {
-      "id": 53215,
-      "title": "My Sister Picked Up the Male Lead",
       "score": 0.69,
-      "r18": false
-    },
-    {
-      "id": 8017,
-      "title": "Trump",
-      "score": 0.69,
-      "r18": false
-    },
-    {
-      "id": 56460,
-      "title": "As the Lady Wishes",
-      "score": 0.689,
-      "r18": false
-    },
-    {
-      "id": 42858,
-      "title": "Wan Gu Shen Wang",
-      "score": 0.689,
       "r18": false
     },
     {
       "id": 1021,
       "title": "Girls of the Wild's",
-      "score": 0.688,
-      "r18": false
-    },
-    {
-      "id": 45586,
-      "title": "I'm Stanning the Prince",
-      "score": 0.688,
+      "score": 0.689,
       "r18": false
     },
     {
       "id": 49338,
       "title": "I Just Want to Be a Useless Duke's Daughter",
-      "score": 0.687,
+      "score": 0.688,
       "r18": false
     },
     {
-      "id": 56299,
-      "title": "This Question Is Super Difficult",
-      "score": 0.687,
+      "id": 56460,
+      "title": "As the Lady Wishes",
+      "score": 0.688,
       "r18": false
     },
     {
-      "id": 45628,
-      "title": "Heaven Official's Blessing",
-      "score": 0.687,
+      "id": 23195,
+      "title": "The Great Ruler",
+      "score": 0.688,
+      "r18": false
+    },
+    {
+      "id": 8017,
+      "title": "Trump",
+      "score": 0.688,
+      "r18": false
+    },
+    {
+      "id": 53215,
+      "title": "My Sister Picked Up the Male Lead",
+      "score": 0.688,
+      "r18": false
+    },
+    {
+      "id": 59508,
+      "title": "Straight Girl Trap",
+      "score": 0.688,
+      "r18": false
+    },
+    {
+      "id": 42737,
+      "title": "I Was Born as the Demon Lord's Daughter",
+      "score": 0.686,
+      "r18": false
+    },
+    {
+      "id": 59476,
+      "title": "The Tyrant&rsquo;s Guardian Is an Evil Witch",
+      "score": 0.686,
       "r18": false
     }
   ]

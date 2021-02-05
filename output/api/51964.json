@@ -1,8 +1,8 @@
 {
   "id": 51964,
   "title": "Skyaway's",
-  "url": "https://mangadex.org/manga/51964",
-  "last_updated": "January 16, 2021 00:52:49 UTC",
+  "url": "https://api.mangadex.org/v2/manga/51964",
+  "last_updated": "February 05, 2021 12:16:35 UTC",
   "matches": [
     {
       "id": 838,
@@ -62,12 +62,6 @@
       "id": 9597,
       "title": "Natsuzora and Run",
       "score": 0.251,
-      "r18": false
-    },
-    {
-      "id": 2059,
-      "title": "Bowling King",
-      "score": 0.249,
       "r18": false
     },
     {
@@ -151,6 +145,12 @@
     {
       "id": 21697,
       "title": "Zenikko",
+      "score": 0.237,
+      "r18": false
+    },
+    {
+      "id": 42446,
+      "title": "SK8",
       "score": 0.237,
       "r18": false
     }

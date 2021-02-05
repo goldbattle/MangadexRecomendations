@@ -1,8 +1,8 @@
 {
   "id": 51660,
   "title": "Yancha Gal No Anjou-San (Fan Colored)",
-  "url": "https://mangadex.org/manga/51660",
-  "last_updated": "January 16, 2021 00:49:32 UTC",
+  "url": "https://api.mangadex.org/v2/manga/51660",
+  "last_updated": "February 05, 2021 12:11:38 UTC",
   "matches": [
     {
       "id": 23836,
@@ -26,6 +26,12 @@
       "id": 626,
       "title": "Ane Comi",
       "score": 0.694,
+      "r18": false
+    },
+    {
+      "id": 243,
+      "title": "Nana to Kaoru: Black Label",
+      "score": 0.685,
       "r18": false
     },
     {
@@ -145,12 +151,6 @@
     {
       "id": 8917,
       "title": "Onna no Ko ga H-na Manga Egaicha Dame Desuka?",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 475,
-      "title": "Ore no Kouhai ga Konna ni Kawaii Wake ga Nai",
       "score": 0.66,
       "r18": false
     }

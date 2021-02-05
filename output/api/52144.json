@@ -1,8 +1,8 @@
 {
   "id": 52144,
   "title": "It's Okay, Senpai",
-  "url": "https://mangadex.org/manga/52144",
-  "last_updated": "January 16, 2021 00:54:29 UTC",
+  "url": "https://api.mangadex.org/v2/manga/52144",
+  "last_updated": "February 05, 2021 12:19:35 UTC",
   "matches": [
     {
       "id": 51731,
@@ -29,9 +29,15 @@
       "r18": false
     },
     {
+      "id": 54890,
+      "title": "Sensei ni wa Mada Iwanai",
+      "score": 0.28,
+      "r18": false
+    },
+    {
       "id": 4056,
       "title": "Shuuden ni wa Kaeshimasu",
-      "score": 0.277,
+      "score": 0.276,
       "r18": false
     },
     {
@@ -55,7 +61,7 @@
     {
       "id": 57775,
       "title": "Today I'll (Make You) Confess",
-      "score": 0.258,
+      "score": 0.257,
       "r18": false
     },
     {
@@ -68,12 +74,6 @@
       "id": 57731,
       "title": "Shoujo Kageki Revue Starlight - The Rumor Has Already Spread (Doujinshi)",
       "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 4765,
-      "title": "Kashimashi ~Girl Meets Girl~",
-      "score": 0.244,
       "r18": false
     },
     {
@@ -113,6 +113,12 @@
       "r18": false
     },
     {
+      "id": 59665,
+      "title": "Hi, My Lady",
+      "score": 0.211,
+      "r18": false
+    },
+    {
       "id": 44697,
       "title": "Chun and Alice",
       "score": 0.211,
@@ -146,12 +152,6 @@
       "id": 53282,
       "title": "Maya and Claudine (MayaKuro) Short Comics Compilation",
       "score": 0.171,
-      "r18": false
-    },
-    {
-      "id": 50141,
-      "title": "Reflection (Remake)",
-      "score": 0.156,
       "r18": false
     }
   ]

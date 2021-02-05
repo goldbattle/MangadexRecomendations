@@ -1,8 +1,8 @@
 {
   "id": 52550,
   "title": "Koneko \u2642 ga Matterunode Kaerimasu.",
-  "url": "https://mangadex.org/manga/52550",
-  "last_updated": "January 16, 2021 00:58:09 UTC",
+  "url": "https://api.mangadex.org/v2/manga/52550",
+  "last_updated": "February 05, 2021 12:26:20 UTC",
   "matches": [
     {
       "id": 1188,
@@ -77,12 +77,6 @@
       "r18": false
     },
     {
-      "id": 9710,
-      "title": "Shima x Dan - Watashi to Danshi no Shima Kurashi",
-      "score": 0.23,
-      "r18": false
-    },
-    {
       "id": 9897,
       "title": "Ayakari-Zoushi",
       "score": 0.23,
@@ -151,6 +145,12 @@
     {
       "id": 6915,
       "title": "I Love You, Vampire",
+      "score": 0.197,
+      "r18": false
+    },
+    {
+      "id": 33265,
+      "title": "Kimi ga Shinu Made Ato 100 Nichi",
       "score": 0.197,
       "r18": false
     }

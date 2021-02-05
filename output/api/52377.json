@@ -1,13 +1,13 @@
 {
   "id": 52377,
   "title": "Steel Fist Attack",
-  "url": "https://mangadex.org/manga/52377",
-  "last_updated": "January 16, 2021 00:56:36 UTC",
+  "url": "https://api.mangadex.org/v2/manga/52377",
+  "last_updated": "February 05, 2021 12:23:32 UTC",
   "matches": [
     {
       "id": 23231,
       "title": "Wu Dong Qian Kun",
-      "score": 0.741,
+      "score": 0.74,
       "r18": false
     },
     {
@@ -23,9 +23,21 @@
       "r18": false
     },
     {
+      "id": 12009,
+      "title": "Soul Land",
+      "score": 0.703,
+      "r18": false
+    },
+    {
       "id": 42718,
       "title": "The Descent of the Demonic Master",
       "score": 0.703,
+      "r18": false
+    },
+    {
+      "id": 43692,
+      "title": "Demonic Emperor",
+      "score": 0.695,
       "r18": false
     },
     {
@@ -79,19 +91,13 @@
     {
       "id": 51923,
       "title": "The Novel's Extra",
-      "score": 0.688,
-      "r18": false
-    },
-    {
-      "id": 43692,
-      "title": "Demonic Emperor",
       "score": 0.687,
       "r18": false
     },
     {
       "id": 31551,
       "title": "A Returner's Magic Should Be Special",
-      "score": 0.687,
+      "score": 0.686,
       "r18": false
     },
     {
@@ -104,6 +110,12 @@
       "id": 54153,
       "title": "Cool Age",
       "score": 0.685,
+      "r18": false
+    },
+    {
+      "id": 59732,
+      "title": "Drake Saga",
+      "score": 0.684,
       "r18": false
     },
     {
@@ -140,18 +152,6 @@
       "id": 53347,
       "title": "Peerless Saint Emperor",
       "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 33141,
-      "title": "Mir's Legend - The Forgotten Ones",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 54090,
-      "title": "Capture the Golem and Escape Poverty",
-      "score": 0.678,
       "r18": false
     }
   ]
