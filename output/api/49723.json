@@ -1,8 +1,8 @@
 {
   "id": 49723,
   "title": "Sensei Zenbu Dasasete Kudasai",
-  "url": "https://mangadex.org/manga/49723",
-  "last_updated": "January 15, 2021 18:49:22 UTC",
+  "url": "https://api.mangadex.org/v2/manga/49723",
+  "last_updated": "February 05, 2021 08:12:09 UTC",
   "matches": [
     {
       "id": 53590,
@@ -37,7 +37,7 @@
     {
       "id": 29022,
       "title": "Kunshu no Ai wa Yoru ni Hana Saku",
-      "score": 0.495,
+      "score": 0.496,
       "r18": false
     },
     {
@@ -50,6 +50,12 @@
       "id": 35208,
       "title": "Sensei wa Sonna Koto Oshietenai!",
       "score": 0.493,
+      "r18": false
+    },
+    {
+      "id": 59755,
+      "title": "Usotsuki Kyoushi to Shinitagari",
+      "score": 0.492,
       "r18": false
     },
     {
@@ -67,7 +73,7 @@
     {
       "id": 15293,
       "title": "Hatsukoi Switch",
-      "score": 0.467,
+      "score": 0.468,
       "r18": false
     },
     {
@@ -121,7 +127,7 @@
     {
       "id": 52851,
       "title": "Konna no Unmei Janai Kara Kanchigai Shinaide",
-      "score": 0.451,
+      "score": 0.449,
       "r18": false
     },
     {
@@ -145,13 +151,7 @@
     {
       "id": 51117,
       "title": "Otona wo Komaraserun ja Arimasen!",
-      "score": 0.397,
-      "r18": false
-    },
-    {
-      "id": 50437,
-      "title": "Dokusenyoku",
-      "score": 0.382,
+      "score": 0.396,
       "r18": false
     }
   ]

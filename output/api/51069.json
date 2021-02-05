@@ -1,8 +1,8 @@
 {
   "id": 51069,
   "title": "Settia",
-  "url": "https://mangadex.org/manga/51069",
-  "last_updated": "January 15, 2021 19:02:05 UTC",
+  "url": "https://api.mangadex.org/v2/manga/51069",
+  "last_updated": "February 05, 2021 08:33:44 UTC",
   "matches": [
     {
       "id": 19144,
@@ -49,7 +49,7 @@
     {
       "id": 22954,
       "title": "This Can't Be Love",
-      "score": 0.657,
+      "score": 0.658,
       "r18": false
     },
     {
@@ -80,6 +80,12 @@
       "id": 40,
       "title": "Crepuscule",
       "score": 0.655,
+      "r18": false
+    },
+    {
+      "id": 55636,
+      "title": "My Wife Is Back",
+      "score": 0.653,
       "r18": false
     },
     {
@@ -137,21 +143,15 @@
       "r18": false
     },
     {
+      "id": 55362,
+      "title": "Hiyon: A Thin Red Thread",
+      "score": 0.386,
+      "r18": false
+    },
+    {
       "id": 34509,
       "title": "King's Concubine",
       "score": 0.384,
-      "r18": false
-    },
-    {
-      "id": 22783,
-      "title": "For Your Love",
-      "score": 0.383,
-      "r18": false
-    },
-    {
-      "id": 55362,
-      "title": "Hiyon: A Thin Red Thread",
-      "score": 0.38,
       "r18": false
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": 50194,
   "title": "Raion Gotoki no Kuni Kara",
-  "url": "https://mangadex.org/manga/50194",
-  "last_updated": "January 15, 2021 18:53:50 UTC",
+  "url": "https://api.mangadex.org/v2/manga/50194",
+  "last_updated": "February 05, 2021 08:19:45 UTC",
   "matches": [
     {
       "id": 33059,
@@ -97,7 +97,13 @@
     {
       "id": 12442,
       "title": "Amai Jouken",
-      "score": 0.347,
+      "score": 0.348,
+      "r18": false
+    },
+    {
+      "id": 50281,
+      "title": "Ouja ni Koishita Cinderella",
+      "score": 0.346,
       "r18": false
     },
     {
@@ -115,7 +121,7 @@
     {
       "id": 16660,
       "title": "Itoshi no Nekokke",
-      "score": 0.343,
+      "score": 0.342,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 18605,
       "title": "Kuzu de Baka ni wa Nido to Awanai",
       "score": 0.335,
-      "r18": false
-    },
-    {
-      "id": 36810,
-      "title": "Black or White",
-      "score": 0.334,
       "r18": false
     }
   ]

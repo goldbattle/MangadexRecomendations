@@ -1,8 +1,8 @@
 {
   "id": 50923,
   "title": "Super Vegeta Den",
-  "url": "https://mangadex.org/manga/50923",
-  "last_updated": "January 15, 2021 19:00:44 UTC",
+  "url": "https://api.mangadex.org/v2/manga/50923",
+  "last_updated": "February 05, 2021 08:31:16 UTC",
   "matches": [
     {
       "id": 38789,
@@ -113,12 +113,6 @@
       "r18": false
     },
     {
-      "id": 45198,
-      "title": "Boku no Hero Academia - True Hero (Doujinshi)",
-      "score": 0.651,
-      "r18": false
-    },
-    {
       "id": 40396,
       "title": "Dragon Ball - Football Friends (Doujinshi)",
       "score": 0.418,
@@ -152,6 +146,12 @@
       "id": 27355,
       "title": "Dragon Ball AF (Tablos) (Doujinshi)",
       "score": 0.39,
+      "r18": false
+    },
+    {
+      "id": 25655,
+      "title": "DB Power Level 69 (Doujinshi)",
+      "score": 0.382,
       "r18": false
     }
   ]

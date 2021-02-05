@@ -1,8 +1,8 @@
 {
   "id": 50737,
   "title": "Pale Blue Dot - Battle Athletes Daiundoukai ReSTART!",
-  "url": "https://mangadex.org/manga/50737",
-  "last_updated": "January 15, 2021 18:59:00 UTC",
+  "url": "https://api.mangadex.org/v2/manga/50737",
+  "last_updated": "February 05, 2021 08:28:18 UTC",
   "matches": [
     {
       "id": 13110,
@@ -61,6 +61,12 @@
     {
       "id": 750,
       "title": "BaggataWay",
+      "score": 0.233,
+      "r18": false
+    },
+    {
+      "id": 883,
+      "title": "Eyeshield 21",
       "score": 0.233,
       "r18": false
     },
@@ -146,12 +152,6 @@
       "id": 51976,
       "title": "Otaku Plays Basketball",
       "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 519,
-      "title": "Shiinake no Hitobito",
-      "score": 0.227,
       "r18": false
     }
   ]

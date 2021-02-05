@@ -1,8 +1,8 @@
 {
   "id": 49719,
   "title": "Hua du jipin zhan wang",
-  "url": "https://mangadex.org/manga/49719",
-  "last_updated": "January 15, 2021 18:49:19 UTC",
+  "url": "https://api.mangadex.org/v2/manga/49719",
+  "last_updated": "February 05, 2021 08:12:05 UTC",
   "matches": [
     {
       "id": 23231,
@@ -31,7 +31,7 @@
     {
       "id": 28359,
       "title": "Boku ga Utau to Kimi wa Warau kara",
-      "score": 0.699,
+      "score": 0.7,
       "r18": false
     },
     {
@@ -41,20 +41,8 @@
       "r18": false
     },
     {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.695,
-      "r18": false
-    },
-    {
       "id": 2340,
       "title": "Fate/stay night",
-      "score": 0.694,
-      "r18": false
-    },
-    {
-      "id": 50672,
-      "title": "My Hero Academia - League Of Villains: Undercover (Fan Colored)",
       "score": 0.694,
       "r18": false
     },
@@ -83,14 +71,14 @@
       "r18": false
     },
     {
-      "id": 53527,
-      "title": "These Years in Quest of Honour Mine",
+      "id": 42858,
+      "title": "Wan Gu Shen Wang",
       "score": 0.692,
       "r18": false
     },
     {
-      "id": 42858,
-      "title": "Wan Gu Shen Wang",
+      "id": 53527,
+      "title": "These Years in Quest of Honour Mine",
       "score": 0.692,
       "r18": false
     },
@@ -107,12 +95,6 @@
       "r18": false
     },
     {
-      "id": 10004,
-      "title": "One Piece - Digital Colored Comics",
-      "score": 0.691,
-      "r18": false
-    },
-    {
       "id": 55365,
       "title": "MEMORIZE",
       "score": 0.69,
@@ -121,12 +103,6 @@
     {
       "id": 951,
       "title": "Nisekoi",
-      "score": 0.69,
-      "r18": false
-    },
-    {
-      "id": 39,
-      "title": "One Piece",
       "score": 0.69,
       "r18": false
     },
@@ -143,15 +119,39 @@
       "r18": false
     },
     {
-      "id": 12714,
-      "title": "Boku no Hero Academia",
+      "id": 47146,
+      "title": "God of Blackfield",
       "score": 0.69,
       "r18": false
     },
     {
-      "id": 47146,
-      "title": "God of Blackfield",
-      "score": 0.69,
+      "id": 38892,
+      "title": "The Tyrant's Whereabouts",
+      "score": 0.689,
+      "r18": false
+    },
+    {
+      "id": 43157,
+      "title": "Lian Fei Wei Bao",
+      "score": 0.689,
+      "r18": false
+    },
+    {
+      "id": 42278,
+      "title": "Emperor and the Female Knight",
+      "score": 0.688,
+      "r18": false
+    },
+    {
+      "id": 11867,
+      "title": "Hotarubi no Mori e",
+      "score": 0.688,
+      "r18": false
+    },
+    {
+      "id": 4824,
+      "title": "Rabu Kare - Gokujou Men Dokuhon!",
+      "score": 0.688,
       "r18": false
     }
   ]

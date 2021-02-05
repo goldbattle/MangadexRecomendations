@@ -1,8 +1,8 @@
 {
   "id": 50801,
   "title": "Escandalo M",
-  "url": "https://mangadex.org/manga/50801",
-  "last_updated": "January 15, 2021 18:59:36 UTC",
+  "url": "https://api.mangadex.org/v2/manga/50801",
+  "last_updated": "February 05, 2021 08:29:18 UTC",
   "matches": [
     {
       "id": 47189,
@@ -13,7 +13,7 @@
     {
       "id": 54177,
       "title": "One Step From Hell",
-      "score": 0.687,
+      "score": 0.688,
       "r18": false
     },
     {
@@ -23,15 +23,27 @@
       "r18": false
     },
     {
-      "id": 51452,
-      "title": "Enthusiasm",
-      "score": 0.431,
+      "id": 56675,
+      "title": "When a Yakuza falls in love",
+      "score": 0.655,
+      "r18": false
+    },
+    {
+      "id": 59423,
+      "title": "Eunsoo's Good Day",
+      "score": 0.435,
       "r18": false
     },
     {
       "id": 39707,
       "title": "Anglerfish",
       "score": 0.426,
+      "r18": false
+    },
+    {
+      "id": 51452,
+      "title": "Mania",
+      "score": 0.425,
       "r18": false
     },
     {
@@ -44,6 +56,12 @@
       "id": 58217,
       "title": "Hoobae's Touch Is Healing",
       "score": 0.382,
+      "r18": false
+    },
+    {
+      "id": 59034,
+      "title": "Unholy Night",
+      "score": 0.378,
       "r18": false
     },
     {
@@ -89,6 +107,12 @@
       "r18": false
     },
     {
+      "id": 59175,
+      "title": "Love Script",
+      "score": 0.365,
+      "r18": false
+    },
+    {
       "id": 58051,
       "title": "Modernist",
       "score": 0.365,
@@ -113,21 +137,9 @@
       "r18": false
     },
     {
-      "id": 59175,
-      "title": "Love Script",
-      "score": 0.358,
-      "r18": false
-    },
-    {
       "id": 57441,
       "title": "Highest Order",
       "score": 0.358,
-      "r18": false
-    },
-    {
-      "id": 59034,
-      "title": "Unholy Night",
-      "score": 0.357,
       "r18": false
     },
     {
@@ -140,18 +152,6 @@
       "id": 51494,
       "title": "Love Me Dramatically",
       "score": 0.355,
-      "r18": false
-    },
-    {
-      "id": 39069,
-      "title": "Engineer x Fence",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 57179,
-      "title": "Hyanghyeon Text",
-      "score": 0.35,
       "r18": false
     }
   ]

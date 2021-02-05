@@ -1,8 +1,8 @@
 {
   "id": 50290,
   "title": "Knock Me Out",
-  "url": "https://mangadex.org/manga/50290",
-  "last_updated": "January 15, 2021 18:54:45 UTC",
+  "url": "https://api.mangadex.org/v2/manga/50290",
+  "last_updated": "February 05, 2021 08:21:18 UTC",
   "matches": [
     {
       "id": 55977,
@@ -20,12 +20,6 @@
       "id": 33269,
       "title": "Cat in a Cardboard Box",
       "score": 0.697,
-      "r18": false
-    },
-    {
-      "id": 50673,
-      "title": "Punto de Fusi&oacute;n",
-      "score": 0.683,
       "r18": false
     },
     {
@@ -55,7 +49,7 @@
     {
       "id": 31390,
       "title": "Blood Link",
-      "score": 0.657,
+      "score": 0.658,
       "r18": false
     },
     {
@@ -89,6 +83,18 @@
       "r18": false
     },
     {
+      "id": 59664,
+      "title": "1 vision 1",
+      "score": 0.455,
+      "r18": false
+    },
+    {
+      "id": 57997,
+      "title": "An Omega's Love Affair",
+      "score": 0.452,
+      "r18": false
+    },
+    {
       "id": 50039,
       "title": "Spinel",
       "score": 0.449,
@@ -104,6 +110,12 @@
       "id": 57440,
       "title": "Fate Between Neighbors",
       "score": 0.44,
+      "r18": false
+    },
+    {
+      "id": 59506,
+      "title": "Hotel Ojakgyo",
+      "score": 0.432,
       "r18": false
     },
     {
@@ -137,21 +149,9 @@
       "r18": false
     },
     {
-      "id": 30665,
-      "title": "Behind the Scenes",
-      "score": 0.405,
-      "r18": false
-    },
-    {
-      "id": 53161,
-      "title": "The Sound of Coral Blooming",
-      "score": 0.405,
-      "r18": false
-    },
-    {
-      "id": 45048,
-      "title": "Fu Fu Qing Cheng",
-      "score": 0.404,
+      "id": 54503,
+      "title": "Our First Day",
+      "score": 0.407,
       "r18": false
     }
   ]

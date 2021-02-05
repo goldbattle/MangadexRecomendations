@@ -1,8 +1,8 @@
 {
   "id": 49962,
   "title": "Stray Souls",
-  "url": "https://mangadex.org/manga/49962",
-  "last_updated": "January 15, 2021 18:51:35 UTC",
+  "url": "https://api.mangadex.org/v2/manga/49962",
+  "last_updated": "February 05, 2021 08:16:08 UTC",
   "matches": [
     {
       "id": 36801,
@@ -29,12 +29,6 @@
       "r18": false
     },
     {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.705,
-      "r18": false
-    },
-    {
       "id": 20540,
       "title": "God of Martial Arts",
       "score": 0.705,
@@ -49,6 +43,12 @@
     {
       "id": 37057,
       "title": "The Hidden Descendants",
+      "score": 0.704,
+      "r18": false
+    },
+    {
+      "id": 12009,
+      "title": "Soul Land",
       "score": 0.704,
       "r18": false
     },
@@ -89,6 +89,12 @@
       "r18": false
     },
     {
+      "id": 55773,
+      "title": "Isekai ni Otosareta&hellip; Jouka wa Kihon!",
+      "score": 0.696,
+      "r18": false
+    },
+    {
       "id": 25435,
       "title": "Madara",
       "score": 0.695,
@@ -115,18 +121,6 @@
     {
       "id": 50735,
       "title": "Breaking Through the Clouds",
-      "score": 0.695,
-      "r18": false
-    },
-    {
-      "id": 6272,
-      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
-      "score": 0.694,
-      "r18": false
-    },
-    {
-      "id": 55773,
-      "title": "Isekai ni Otosareta&hellip; Jouka wa Kihon!",
       "score": 0.694,
       "r18": false
     },
@@ -151,6 +145,12 @@
     {
       "id": 6269,
       "title": "JoJo's Bizarre Adventure Part 4 - Diamond is Unbreakable (Official Colored)",
+      "score": 0.693,
+      "r18": false
+    },
+    {
+      "id": 16807,
+      "title": "Shunkan Lyle",
       "score": 0.693,
       "r18": false
     }

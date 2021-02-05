@@ -1,8 +1,8 @@
 {
   "id": 50825,
   "title": "\u4e00\u7985\u5c0f\u548c\u5c1a",
-  "url": "https://mangadex.org/manga/50825",
-  "last_updated": "January 15, 2021 18:59:49 UTC",
+  "url": "https://api.mangadex.org/v2/manga/50825",
+  "last_updated": "February 05, 2021 08:29:41 UTC",
   "matches": [
     {
       "id": 50434,
@@ -41,12 +41,6 @@
       "r18": false
     },
     {
-      "id": 3038,
-      "title": "Kyou Kara Ma no Tsuku Jiyuugyou!",
-      "score": 0.262,
-      "r18": false
-    },
-    {
       "id": 36510,
       "title": "My Lord, the Wolf Queen",
       "score": 0.259,
@@ -59,6 +53,12 @@
       "r18": false
     },
     {
+      "id": 27151,
+      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
+      "score": 0.256,
+      "r18": false
+    },
+    {
       "id": 40,
       "title": "Crepuscule",
       "score": 0.255,
@@ -67,7 +67,7 @@
     {
       "id": 20231,
       "title": "Majo no Geboku to Maou no Tsuno",
-      "score": 0.255,
+      "score": 0.254,
       "r18": false
     },
     {
@@ -107,12 +107,6 @@
       "r18": false
     },
     {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.252,
-      "r18": false
-    },
-    {
       "id": 53969,
       "title": "Dragon Raja",
       "score": 0.252,
@@ -143,14 +137,20 @@
       "r18": false
     },
     {
-      "id": 20116,
-      "title": "Xuan Ji Ci",
-      "score": 0.247,
+      "id": 47924,
+      "title": "Tales of Two Souls",
+      "score": 0.248,
       "r18": false
     },
     {
-      "id": 47924,
-      "title": "Tales of Two Souls",
+      "id": 20116,
+      "title": "Xuan Ji Ci",
+      "score": 0.248,
+      "r18": false
+    },
+    {
+      "id": 33137,
+      "title": "Blade of the Phantom Master",
       "score": 0.247,
       "r18": false
     }

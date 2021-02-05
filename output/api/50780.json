@@ -1,9 +1,15 @@
 {
   "id": 50780,
   "title": "Lonely Cupid",
-  "url": "https://mangadex.org/manga/50780",
-  "last_updated": "January 15, 2021 18:59:24 UTC",
+  "url": "https://api.mangadex.org/v2/manga/50780",
+  "last_updated": "February 05, 2021 08:28:58 UTC",
   "matches": [
+    {
+      "id": 59476,
+      "title": "The Tyrant&rsquo;s Guardian Is an Evil Witch",
+      "score": 0.658,
+      "r18": false
+    },
     {
       "id": 47426,
       "title": "I'm the Ex-Girlfriend of a Soldier",
@@ -38,6 +44,12 @@
       "id": 48043,
       "title": "Fiery Enemies",
       "score": 0.421,
+      "r18": false
+    },
+    {
+      "id": 58616,
+      "title": "Midnight Blue",
+      "score": 0.42,
       "r18": false
     },
     {
@@ -140,18 +152,6 @@
       "id": 41582,
       "title": "Freaking Romance",
       "score": 0.388,
-      "r18": false
-    },
-    {
-      "id": 22217,
-      "title": "Incredible June",
-      "score": 0.388,
-      "r18": false
-    },
-    {
-      "id": 46309,
-      "title": "Aquaman",
-      "score": 0.387,
       "r18": false
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": 50070,
   "title": "Ayakashi Triangle",
-  "url": "https://mangadex.org/manga/50070",
-  "last_updated": "January 15, 2021 18:52:39 UTC",
+  "url": "https://api.mangadex.org/v2/manga/50070",
+  "last_updated": "February 05, 2021 08:17:51 UTC",
   "matches": [
     {
       "id": 795,
@@ -37,7 +37,7 @@
     {
       "id": 1062,
       "title": "Shina Dark ~Kuroki Tsuki no Ou to Souheiki no Himegimi~",
-      "score": 0.701,
+      "score": 0.7,
       "r18": false
     },
     {
@@ -83,6 +83,12 @@
       "r18": false
     },
     {
+      "id": 11026,
+      "title": "Fuuka",
+      "score": 0.691,
+      "r18": false
+    },
+    {
       "id": 28735,
       "title": "Isekai Shoukan wa Nidome Desu",
       "score": 0.691,
@@ -91,6 +97,12 @@
     {
       "id": 5121,
       "title": "Zonbicchi wa Bicchi ni Fukumaremasu ka?",
+      "score": 0.691,
+      "r18": false
+    },
+    {
+      "id": 15950,
+      "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
       "score": 0.691,
       "r18": false
     },
@@ -140,18 +152,6 @@
       "id": 6206,
       "title": "Ore ga Heroine o Tasukesugite Sekai ga Little Mokushiroku!?",
       "score": 0.686,
-      "r18": false
-    },
-    {
-      "id": 51,
-      "title": "To Love-Ru Darkness",
-      "score": 0.686,
-      "r18": false
-    },
-    {
-      "id": 12929,
-      "title": "To Love-Ru Darkness - Digital Colored Comics",
-      "score": 0.685,
       "r18": false
     }
   ]

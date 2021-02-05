@@ -1,32 +1,32 @@
 {
   "id": 49884,
   "title": "Voodoo Dummy 2015",
-  "url": "https://mangadex.org/manga/49884",
-  "last_updated": "January 15, 2021 18:50:52 UTC",
+  "url": "https://api.mangadex.org/v2/manga/49884",
+  "last_updated": "February 05, 2021 08:14:53 UTC",
   "matches": [
     {
       "id": 34622,
       "title": "Displeased Fruits",
       "score": 0.227,
-      "r18": false
+      "r18": true
     },
     {
       "id": 45025,
       "title": "MaMAmama!",
       "score": 0.136,
-      "r18": false
+      "r18": true
     },
     {
       "id": 35595,
       "title": "Dark Elf no Ninkatsu Schale",
       "score": 0.113,
-      "r18": false
+      "r18": true
     },
     {
       "id": 23265,
       "title": "Ane Naru Mono (Pochi-Goya.)",
       "score": 0.085,
-      "r18": false
+      "r18": true
     }
   ]
 }

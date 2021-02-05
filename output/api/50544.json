@@ -1,8 +1,8 @@
 {
   "id": 50544,
   "title": "Noi",
-  "url": "https://mangadex.org/manga/50544",
-  "last_updated": "January 15, 2021 18:57:10 UTC",
+  "url": "https://api.mangadex.org/v2/manga/50544",
+  "last_updated": "February 05, 2021 08:25:24 UTC",
   "matches": [
     {
       "id": 42698,
@@ -59,6 +59,12 @@
       "r18": false
     },
     {
+      "id": 59639,
+      "title": "A Grand Ambition",
+      "score": 0.355,
+      "r18": false
+    },
+    {
       "id": 22496,
       "title": "Undercover",
       "score": 0.351,
@@ -68,6 +74,12 @@
       "id": 48317,
       "title": "Madman Combo",
       "score": 0.347,
+      "r18": false
+    },
+    {
+      "id": 59927,
+      "title": "Punk Dunk Funk",
+      "score": 0.346,
       "r18": false
     },
     {
@@ -140,18 +152,6 @@
       "id": 36527,
       "title": "Boy's Love",
       "score": 0.323,
-      "r18": false
-    },
-    {
-      "id": 30650,
-      "title": "Boarding House Number 5",
-      "score": 0.323,
-      "r18": false
-    },
-    {
-      "id": 55415,
-      "title": "Dear, My Lover",
-      "score": 0.322,
       "r18": false
     }
   ]

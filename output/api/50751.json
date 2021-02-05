@@ -1,8 +1,8 @@
 {
   "id": 50751,
   "title": "Lemon Yellow",
-  "url": "https://mangadex.org/manga/50751",
-  "last_updated": "January 15, 2021 18:59:09 UTC",
+  "url": "https://api.mangadex.org/v2/manga/50751",
+  "last_updated": "February 05, 2021 08:28:31 UTC",
   "matches": [
     {
       "id": 3139,
@@ -19,12 +19,6 @@
     {
       "id": 5564,
       "title": "Shuukan Ishikawa Masayuki",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 11754,
-      "title": "Highway Star",
       "score": 0.34,
       "r18": false
     },
@@ -151,6 +145,12 @@
     {
       "id": 8777,
       "title": "Baka ga Zenra de Yattekuru",
+      "score": 0.255,
+      "r18": false
+    },
+    {
+      "id": 9131,
+      "title": "34-sai Mushoku-san",
       "score": 0.255,
       "r18": false
     }

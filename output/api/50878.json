@@ -1,8 +1,8 @@
 {
   "id": 50878,
   "title": "86 &mdash; Eighty-six &mdash; Operation High-School",
-  "url": "https://mangadex.org/manga/50878",
-  "last_updated": "January 15, 2021 19:00:19 UTC",
+  "url": "https://api.mangadex.org/v2/manga/50878",
+  "last_updated": "February 05, 2021 08:30:33 UTC",
   "matches": [
     {
       "id": 1021,
@@ -73,7 +73,7 @@
     {
       "id": 1649,
       "title": "Fortune Arterial - Character's Prelude",
-      "score": 0.651,
+      "score": 0.652,
       "r18": false
     },
     {
@@ -95,21 +95,9 @@
       "r18": false
     },
     {
-      "id": 7521,
-      "title": "Ai Ore! ~Danshikou no Hime to Joshikou no Ouji~",
-      "score": 0.65,
-      "r18": false
-    },
-    {
       "id": 3709,
       "title": "Hana Yori Dango",
       "score": 0.65,
-      "r18": false
-    },
-    {
-      "id": 44370,
-      "title": "She's the Prince and I'm the Princess?!",
-      "score": 0.405,
       "r18": false
     },
     {
@@ -152,6 +140,18 @@
       "id": 14060,
       "title": "Mayoe! Nanatsu no Taizai Gakuen!",
       "score": 0.395,
+      "r18": false
+    },
+    {
+      "id": 4074,
+      "title": "7 Jikan-me Rhapsody",
+      "score": 0.394,
+      "r18": false
+    },
+    {
+      "id": 7181,
+      "title": "Seishun Survival",
+      "score": 0.394,
       "r18": false
     }
   ]

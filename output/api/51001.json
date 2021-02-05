@@ -1,8 +1,8 @@
 {
   "id": 51001,
   "title": "Bowing!",
-  "url": "https://mangadex.org/manga/51001",
-  "last_updated": "January 15, 2021 19:01:27 UTC",
+  "url": "https://api.mangadex.org/v2/manga/51001",
+  "last_updated": "February 05, 2021 08:32:32 UTC",
   "matches": [
     {
       "id": 711,
@@ -131,27 +131,27 @@
       "r18": false
     },
     {
-      "id": 10509,
-      "title": "Imasugu Onii-chan ni Imouto da tte Iitai!",
-      "score": 0.685,
-      "r18": false
-    },
-    {
       "id": 22030,
       "title": "Araburu Kisetsu no Otomedomo yo.",
       "score": 0.685,
       "r18": false
     },
     {
-      "id": 410,
-      "title": "Hayate no Gotoku!",
-      "score": 0.682,
+      "id": 10509,
+      "title": "Imasugu Onii-chan ni Imouto da tte Iitai!",
+      "score": 0.684,
       "r18": false
     },
     {
-      "id": 2869,
-      "title": "School Rumble",
-      "score": 0.681,
+      "id": 278,
+      "title": "Toradora!",
+      "score": 0.683,
+      "r18": false
+    },
+    {
+      "id": 410,
+      "title": "Hayate no Gotoku!",
+      "score": 0.682,
       "r18": false
     }
   ]

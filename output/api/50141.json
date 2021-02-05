@@ -1,9 +1,15 @@
 {
   "id": 50141,
   "title": "Reflection (Remake)",
-  "url": "https://mangadex.org/manga/50141",
-  "last_updated": "January 15, 2021 18:53:21 UTC",
+  "url": "https://api.mangadex.org/v2/manga/50141",
+  "last_updated": "February 05, 2021 08:18:57 UTC",
   "matches": [
+    {
+      "id": 59665,
+      "title": "Hi, My Lady",
+      "score": 0.316,
+      "r18": false
+    },
     {
       "id": 57775,
       "title": "Today I'll (Make You) Confess",
@@ -101,12 +107,6 @@
       "r18": false
     },
     {
-      "id": 4765,
-      "title": "Kashimashi ~Girl Meets Girl~",
-      "score": 0.198,
-      "r18": false
-    },
-    {
       "id": 42958,
       "title": "A Goldfish's Love",
       "score": 0.198,
@@ -115,12 +115,6 @@
     {
       "id": 51731,
       "title": "Hoshizoranosita's Short Manga",
-      "score": 0.198,
-      "r18": false
-    },
-    {
-      "id": 52144,
-      "title": "It's Okay, Senpai",
       "score": 0.198,
       "r18": false
     },
@@ -152,6 +146,12 @@
       "id": 54891,
       "title": "Banchou to Shatei",
       "score": 0.196,
+      "r18": false
+    },
+    {
+      "id": 46090,
+      "title": "Shoujo Kageki Revue Starlight - Maya and Claudine in Hogwarts School Of Witchcraft and Wizardry (Doujinshi)",
+      "score": 0.162,
       "r18": false
     }
   ]

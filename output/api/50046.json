@@ -1,8 +1,8 @@
 {
   "id": 50046,
   "title": "Nano Machine",
-  "url": "https://mangadex.org/manga/50046",
-  "last_updated": "January 15, 2021 18:52:25 UTC",
+  "url": "https://api.mangadex.org/v2/manga/50046",
+  "last_updated": "February 05, 2021 08:17:30 UTC",
   "matches": [
     {
       "id": 34144,
@@ -11,9 +11,15 @@
       "r18": false
     },
     {
+      "id": 59966,
+      "title": "The Lord of Money",
+      "score": 0.69,
+      "r18": false
+    },
+    {
       "id": 57962,
       "title": "Cinderella at 2 A.M",
-      "score": 0.689,
+      "score": 0.69,
       "r18": false
     },
     {
@@ -85,7 +91,7 @@
     {
       "id": 55608,
       "title": "Heavenly Bride",
-      "score": 0.669,
+      "score": 0.668,
       "r18": false
     },
     {
@@ -113,9 +119,15 @@
       "r18": false
     },
     {
+      "id": 54218,
+      "title": "The Lady and the Beast",
+      "score": 0.666,
+      "r18": false
+    },
+    {
       "id": 56385,
       "title": "Itan Empire's Jacheongbi",
-      "score": 0.665,
+      "score": 0.664,
       "r18": false
     },
     {
@@ -125,33 +137,21 @@
       "r18": false
     },
     {
-      "id": 38543,
-      "title": "Fights Break Sphere &ndash; Return of the Beasts",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 2844,
-      "title": "Eureka Seven",
-      "score": 0.663,
+      "id": 43692,
+      "title": "Demonic Emperor",
+      "score": 0.664,
       "r18": false
     },
     {
       "id": 51000,
       "title": "I Want to Do It, Even If It Hurts",
-      "score": 0.662,
+      "score": 0.663,
       "r18": false
     },
     {
-      "id": 56460,
-      "title": "As the Lady Wishes",
-      "score": 0.662,
-      "r18": false
-    },
-    {
-      "id": 22334,
-      "title": "The Strange Story Of A Guy Next Door And A Novelist",
-      "score": 0.662,
+      "id": 38543,
+      "title": "Fights Break Sphere &ndash; Return of the Beasts",
+      "score": 0.663,
       "r18": false
     }
   ]

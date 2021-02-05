@@ -1,9 +1,15 @@
 {
   "id": 50925,
   "title": "Shoujo Kageki Revue Starlight - Last Night, Here With You (Doujinshi)",
-  "url": "https://mangadex.org/manga/50925",
-  "last_updated": "January 15, 2021 19:00:45 UTC",
+  "url": "https://api.mangadex.org/v2/manga/50925",
+  "last_updated": "February 05, 2021 08:31:18 UTC",
   "matches": [
+    {
+      "id": 59668,
+      "title": "Shoujo Kageki \u2606 Revue Starlight - To Love Is To Suffer (Doujinshi)",
+      "score": 0.836,
+      "r18": false
+    },
     {
       "id": 10903,
       "title": "Mahou Shoujo Lyrical Nanoha - Kodomo ja Nai Mon (Doujinshi)",
@@ -115,6 +121,12 @@
     {
       "id": 44024,
       "title": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui! - Untitled YoshiMako",
+      "score": 0.233,
+      "r18": false
+    },
+    {
+      "id": 56818,
+      "title": "The Girl With a Mirrored Heart",
       "score": 0.233,
       "r18": false
     }

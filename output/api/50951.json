@@ -1,8 +1,8 @@
 {
   "id": 50951,
   "title": "Gundam Build Diver Rize",
-  "url": "https://mangadex.org/manga/50951",
-  "last_updated": "January 15, 2021 19:00:59 UTC",
+  "url": "https://api.mangadex.org/v2/manga/50951",
+  "last_updated": "February 05, 2021 08:31:44 UTC",
   "matches": [
     {
       "id": 18729,
@@ -19,7 +19,7 @@
     {
       "id": 39846,
       "title": "Kidou Senshi Gundam AGE -First Evolution-",
-      "score": 0.669,
+      "score": 0.67,
       "r18": false
     },
     {
@@ -101,12 +101,6 @@
       "r18": false
     },
     {
-      "id": 7710,
-      "title": "Kidou Senshi Crossbone Gundam",
-      "score": 0.662,
-      "r18": false
-    },
-    {
       "id": 45671,
       "title": "Kidou Senshi Gundam 00I",
       "score": 0.662,
@@ -115,7 +109,7 @@
     {
       "id": 19688,
       "title": "Red Sprite",
-      "score": 0.661,
+      "score": 0.662,
       "r18": false
     },
     {
@@ -149,9 +143,15 @@
       "r18": false
     },
     {
-      "id": 189,
-      "title": "Lost Universe",
-      "score": 0.659,
+      "id": 7351,
+      "title": "Bullet Armors",
+      "score": 0.658,
+      "r18": false
+    },
+    {
+      "id": 25435,
+      "title": "Madara",
+      "score": 0.658,
       "r18": false
     }
   ]

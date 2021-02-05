@@ -1,8 +1,8 @@
 {
   "id": 50830,
   "title": "Siren's Song",
-  "url": "https://mangadex.org/manga/50830",
-  "last_updated": "January 15, 2021 18:59:52 UTC",
+  "url": "https://api.mangadex.org/v2/manga/50830",
+  "last_updated": "February 05, 2021 08:29:47 UTC",
   "matches": [
     {
       "id": 50736,
@@ -31,7 +31,7 @@
     {
       "id": 4557,
       "title": "Mousou Cherry",
-      "score": 0.659,
+      "score": 0.66,
       "r18": false
     },
     {
@@ -50,12 +50,6 @@
       "id": 10361,
       "title": "Soredemo, Yasashii Koi o Suru",
       "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 56993,
-      "title": "Business Performance",
-      "score": 0.478,
       "r18": false
     },
     {
@@ -78,7 +72,7 @@
     },
     {
       "id": 58528,
-      "title": "Help me, Uncle!",
+      "title": "Help Me, Uncle!",
       "score": 0.423,
       "r18": false
     },
@@ -133,13 +127,19 @@
     {
       "id": 40564,
       "title": "No Love Zone",
-      "score": 0.397,
+      "score": 0.398,
       "r18": false
     },
     {
       "id": 47612,
       "title": "Obscura",
       "score": 0.395,
+      "r18": false
+    },
+    {
+      "id": 59268,
+      "title": "Santa Will Always Grant Your Wishes",
+      "score": 0.392,
       "r18": false
     },
     {

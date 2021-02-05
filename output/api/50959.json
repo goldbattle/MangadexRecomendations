@@ -1,13 +1,13 @@
 {
   "id": 50959,
   "title": "Tenshi no Fukuin",
-  "url": "https://mangadex.org/manga/50959",
-  "last_updated": "January 15, 2021 19:01:04 UTC",
+  "url": "https://api.mangadex.org/v2/manga/50959",
+  "last_updated": "February 05, 2021 08:31:53 UTC",
   "matches": [
     {
       "id": 3284,
       "title": "Yasashii Ryuu no Koroshikata",
-      "score": 0.727,
+      "score": 0.726,
       "r18": false
     },
     {
@@ -56,6 +56,12 @@
       "id": 19144,
       "title": "Kashou no Tsuki",
       "score": 0.684,
+      "r18": false
+    },
+    {
+      "id": 59999,
+      "title": "Save Me, Princess",
+      "score": 0.682,
       "r18": false
     },
     {
@@ -115,7 +121,7 @@
     {
       "id": 48124,
       "title": "Spring River Flowers and Moonlight",
-      "score": 0.667,
+      "score": 0.668,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 3281,
       "title": "Kaizoku to Ningyo",
       "score": 0.662,
-      "r18": false
-    },
-    {
-      "id": 20844,
-      "title": "Harukanaru Toki no Naka de 6",
-      "score": 0.66,
       "r18": false
     }
   ]

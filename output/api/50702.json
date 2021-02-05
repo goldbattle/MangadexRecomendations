@@ -1,8 +1,8 @@
 {
   "id": 50702,
   "title": "Father Complex",
-  "url": "https://mangadex.org/manga/50702",
-  "last_updated": "January 15, 2021 18:58:40 UTC",
+  "url": "https://api.mangadex.org/v2/manga/50702",
+  "last_updated": "February 05, 2021 08:27:43 UTC",
   "matches": [
     {
       "id": 3112,
@@ -61,6 +61,12 @@
     {
       "id": 49021,
       "title": "AV Danyuu Hajimemashita",
+      "score": 0.347,
+      "r18": false
+    },
+    {
+      "id": 52824,
+      "title": "Kennel Tokorozawa",
       "score": 0.347,
       "r18": false
     },
@@ -145,12 +151,6 @@
     {
       "id": 9626,
       "title": "30-sai no Hoken Taiiku",
-      "score": 0.26,
-      "r18": false
-    },
-    {
-      "id": 11033,
-      "title": "Tsuiteru Kanojo.",
       "score": 0.26,
       "r18": false
     }
