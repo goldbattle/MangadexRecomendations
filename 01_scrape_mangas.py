@@ -86,7 +86,7 @@ while manga_count <= id_end:
         continue
     if success == 1:
         data.download_and_parse_externals(headers, cookies, cache_files, path_cache_manga_ext)
-    if success == 2:
+    if success == 2 and already_downloaded:
         data = downloaded_manga
 
     # nice debug for this
