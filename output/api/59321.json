@@ -1,15 +1,9 @@
 {
   "id": 59321,
   "title": "How Our Indifference Fades",
-  "url": "https://mangadex.org/manga/59321",
-  "last_updated": "January 16, 2021 18:59:26 UTC",
+  "url": "https://api.mangadex.org/v2/manga/59321",
+  "last_updated": "February 06, 2021 08:25:31 UTC",
   "matches": [
-    {
-      "id": 8624,
-      "title": "Mizutama Puzzle",
-      "score": 0.35,
-      "r18": false
-    },
     {
       "id": 22099,
       "title": "Dihao Laogong Tai Kuangre",
@@ -37,6 +31,12 @@
     {
       "id": 47506,
       "title": "No Filter x No Confidence",
+      "score": 0.35,
+      "r18": false
+    },
+    {
+      "id": 60058,
+      "title": "Tonight, we are having a sleepover",
       "score": 0.35,
       "r18": false
     },

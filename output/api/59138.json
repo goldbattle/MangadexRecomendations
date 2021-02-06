@@ -1,8 +1,8 @@
 {
   "id": 59138,
   "title": "Turn to Prince Charming",
-  "url": "https://mangadex.org/manga/59138",
-  "last_updated": "January 16, 2021 18:57:45 UTC",
+  "url": "https://api.mangadex.org/v2/manga/59138",
+  "last_updated": "February 06, 2021 08:22:39 UTC",
   "matches": [
     {
       "id": 35045,
@@ -19,7 +19,7 @@
     {
       "id": 14190,
       "title": "Zhan Long",
-      "score": 0.703,
+      "score": 0.702,
       "r18": false
     },
     {
@@ -119,26 +119,20 @@
       "r18": false
     },
     {
-      "id": 45322,
-      "title": "Save Me Gently",
+      "id": 24149,
+      "title": "Cultivation Chat Group",
       "score": 0.676,
       "r18": false
     },
     {
-      "id": 24149,
-      "title": "Cultivation Chat Group",
+      "id": 59481,
+      "title": "Dance of Love",
       "score": 0.675,
       "r18": false
     },
     {
       "id": 50795,
       "title": "Monster's Entertainment Guide",
-      "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 59481,
-      "title": "Dance of Love",
       "score": 0.675,
       "r18": false
     },
@@ -152,6 +146,12 @@
       "id": 52958,
       "title": "I&rsquo;m the Villainess, but the Capture Targets Are Too Abnormal",
       "score": 0.674,
+      "r18": false
+    },
+    {
+      "id": 45322,
+      "title": "Save Me Gently",
+      "score": 0.673,
       "r18": false
     }
   ]

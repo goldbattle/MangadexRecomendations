@@ -1,8 +1,8 @@
 {
   "id": 59114,
   "title": "The Valencia's Reaper's Venge",
-  "url": "https://mangadex.org/manga/59114",
-  "last_updated": "January 16, 2021 18:57:32 UTC",
+  "url": "https://api.mangadex.org/v2/manga/59114",
+  "last_updated": "February 06, 2021 08:22:17 UTC",
   "matches": [
     {
       "id": 23231,
@@ -17,12 +17,6 @@
       "r18": false
     },
     {
-      "id": 45198,
-      "title": "Boku no Hero Academia - True Hero (Doujinshi)",
-      "score": 0.713,
-      "r18": false
-    },
-    {
       "id": 45306,
       "title": "Peerless Battle Spirit",
       "score": 0.713,
@@ -32,18 +26,6 @@
       "id": 1417,
       "title": "Shingetsutan Tsukihime",
       "score": 0.712,
-      "r18": false
-    },
-    {
-      "id": 10004,
-      "title": "One Piece - Digital Colored Comics",
-      "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.711,
       "r18": false
     },
     {
@@ -61,12 +43,6 @@
     {
       "id": 4880,
       "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
-      "score": 0.71,
-      "r18": false
-    },
-    {
-      "id": 39,
-      "title": "One Piece",
       "score": 0.71,
       "r18": false
     },
@@ -98,6 +74,12 @@
       "id": 336,
       "title": "Kuroshitsuji",
       "score": 0.705,
+      "r18": false
+    },
+    {
+      "id": 27151,
+      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
+      "score": 0.704,
       "r18": false
     },
     {
@@ -143,15 +125,33 @@
       "r18": false
     },
     {
+      "id": 6831,
+      "title": "Kimi no Kakera",
+      "score": 0.701,
+      "r18": false
+    },
+    {
       "id": 42236,
       "title": "Heaven Official's Blessing (old version)",
       "score": 0.701,
       "r18": false
     },
     {
-      "id": 6831,
-      "title": "Kimi no Kakera",
-      "score": 0.701,
+      "id": 20902,
+      "title": "Spirit Blade Mountain",
+      "score": 0.7,
+      "r18": false
+    },
+    {
+      "id": 33863,
+      "title": "The Beginning After the End",
+      "score": 0.699,
+      "r18": false
+    },
+    {
+      "id": 6270,
+      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo (Official Colored)",
+      "score": 0.699,
       "r18": false
     }
   ]

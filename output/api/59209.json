@@ -1,8 +1,8 @@
 {
   "id": 59209,
   "title": "Battle/UMA",
-  "url": "https://mangadex.org/manga/59209",
-  "last_updated": "January 16, 2021 18:58:24 UTC",
+  "url": "https://api.mangadex.org/v2/manga/59209",
+  "last_updated": "February 06, 2021 08:23:46 UTC",
   "matches": [
     {
       "id": 44079,
@@ -143,15 +143,15 @@
       "r18": false
     },
     {
-      "id": 18578,
-      "title": "Mitsuboshi Colors",
-      "score": 0.236,
-      "r18": false
-    },
-    {
       "id": 32153,
       "title": "Taimashi to Akuma-chan",
       "score": 0.231,
+      "r18": false
+    },
+    {
+      "id": 43350,
+      "title": "Taimashi to Akuma-chan  (Fan Colored)",
+      "score": 0.229,
       "r18": false
     }
   ]

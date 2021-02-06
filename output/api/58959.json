@@ -1,9 +1,15 @@
 {
   "id": 58959,
   "title": "Koibito wa Tsukumogami-sama!?",
-  "url": "https://mangadex.org/manga/58959",
-  "last_updated": "January 16, 2021 18:56:07 UTC",
+  "url": "https://api.mangadex.org/v2/manga/58959",
+  "last_updated": "February 06, 2021 08:19:49 UTC",
   "matches": [
+    {
+      "id": 10696,
+      "title": "Erotic Fairy Tales - The Little Match Girl",
+      "score": 0.679,
+      "r18": false
+    },
     {
       "id": 54709,
       "title": "Tensei shitara Maou-sama ni Dekiai saremashita",
@@ -20,6 +26,12 @@
       "id": 8962,
       "title": "Erotic Fairy Tales - Bluebeard",
       "score": 0.672,
+      "r18": false
+    },
+    {
+      "id": 12567,
+      "title": "Erotic Fairy Tales - The Star Money",
+      "score": 0.669,
       "r18": false
     },
     {
@@ -59,6 +71,18 @@
       "r18": false
     },
     {
+      "id": 60321,
+      "title": "Hitogirai Koushaku wa Wakaki Niizuma ni Koi wo Suru",
+      "score": 0.402,
+      "r18": false
+    },
+    {
+      "id": 9424,
+      "title": "Erotic Fairy Tales - Red Riding Hood",
+      "score": 0.375,
+      "r18": false
+    },
+    {
       "id": 47994,
       "title": "Cinderella Did Not Leave Her Shoe",
       "score": 0.35,
@@ -68,6 +92,12 @@
       "id": 58598,
       "title": "Kamisama, Oyome ni Mairimasu!",
       "score": 0.334,
+      "r18": false
+    },
+    {
+      "id": 44256,
+      "title": "Silly Dog and Lady",
+      "score": 0.316,
       "r18": false
     },
     {
@@ -113,33 +143,15 @@
       "r18": false
     },
     {
+      "id": 59922,
+      "title": "Your Majesty Is Mine",
+      "score": 0.253,
+      "r18": false
+    },
+    {
       "id": 53753,
       "title": "Under the Oak Tree",
       "score": 0.229,
-      "r18": false
-    },
-    {
-      "id": 58074,
-      "title": "The Young Lady Can't Escape From Her Doting Husband \u2661",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 57760,
-      "title": "Totem Realm",
-      "score": 0.225,
-      "r18": false
-    },
-    {
-      "id": 59841,
-      "title": "Elixir of the Sun",
-      "score": 0.217,
-      "r18": false
-    },
-    {
-      "id": 52171,
-      "title": "Fumetsu",
-      "score": 0.183,
       "r18": false
     }
   ]
