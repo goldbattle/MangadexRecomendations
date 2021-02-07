@@ -1,8 +1,8 @@
 {
   "id": 3962,
   "title": "Hybrid Berry",
-  "url": "https://mangadex.org/manga/3962",
-  "last_updated": "January 17, 2021 06:57:43 UTC",
+  "url": "https://api.mangadex.org/v2/manga/3962",
+  "last_updated": "February 07, 2021 08:17:04 UTC",
   "matches": [
     {
       "id": 28134,
@@ -95,6 +95,12 @@
       "r18": false
     },
     {
+      "id": 4931,
+      "title": "SWAN",
+      "score": 0.684,
+      "r18": false
+    },
+    {
       "id": 204,
       "title": "Kore wa Koi no Hanashi",
       "score": 0.68,
@@ -104,12 +110,6 @@
       "id": 1692,
       "title": "Aozora Yell",
       "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 7170,
-      "title": "Billion Girl",
-      "score": 0.679,
       "r18": false
     },
     {

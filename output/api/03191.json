@@ -1,8 +1,8 @@
 {
   "id": 3191,
   "title": "Endo Hiroki Tanpenshuu",
-  "url": "https://mangadex.org/manga/3191",
-  "last_updated": "January 17, 2021 06:49:10 UTC",
+  "url": "https://api.mangadex.org/v2/manga/3191",
+  "last_updated": "February 07, 2021 08:02:54 UTC",
   "matches": [
     {
       "id": 34328,
@@ -19,7 +19,7 @@
     {
       "id": 398,
       "title": "Tsumi to Batsu - A Falsified Romance",
-      "score": 0.731,
+      "score": 0.73,
       "r18": false
     },
     {
@@ -61,6 +61,12 @@
     {
       "id": 5734,
       "title": "Moteki",
+      "score": 0.718,
+      "r18": false
+    },
+    {
+      "id": 19505,
+      "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
       "score": 0.718,
       "r18": false
     },
@@ -121,12 +127,18 @@
     {
       "id": 26355,
       "title": "Ningen Shikkaku",
-      "score": 0.711,
+      "score": 0.71,
       "r18": false
     },
     {
       "id": 5927,
       "title": "Subarashii Sekai",
+      "score": 0.71,
+      "r18": false
+    },
+    {
+      "id": 9829,
+      "title": "Immortal Hounds",
       "score": 0.71,
       "r18": false
     },
@@ -140,18 +152,6 @@
       "id": 2678,
       "title": "6000",
       "score": 0.71,
-      "r18": false
-    },
-    {
-      "id": 17623,
-      "title": "Iwaihime",
-      "score": 0.709,
-      "r18": false
-    },
-    {
-      "id": 112,
-      "title": "Trace",
-      "score": 0.709,
       "r18": false
     }
   ]

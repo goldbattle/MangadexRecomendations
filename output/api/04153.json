@@ -1,8 +1,8 @@
 {
   "id": 4153,
   "title": "Momonchi",
-  "url": "https://mangadex.org/manga/4153",
-  "last_updated": "January 17, 2021 06:59:45 UTC",
+  "url": "https://api.mangadex.org/v2/manga/4153",
+  "last_updated": "February 07, 2021 08:20:27 UTC",
   "matches": [
     {
       "id": 20879,
@@ -25,7 +25,7 @@
     {
       "id": 1026,
       "title": "Song of the Cloud",
-      "score": 0.721,
+      "score": 0.72,
       "r18": false
     },
     {
@@ -47,12 +47,6 @@
       "r18": false
     },
     {
-      "id": 12326,
-      "title": "Love Live! - School Idol Project",
-      "score": 0.717,
-      "r18": false
-    },
-    {
       "id": 12686,
       "title": "Hime-sama Tanuki no Koizanyou",
       "score": 0.716,
@@ -62,12 +56,6 @@
       "id": 24151,
       "title": "Betsu ni Houridashita Waje ja Nai n Dakedo.... - Mikan no Manga ga Aru Riyuu",
       "score": 0.715,
-      "r18": false
-    },
-    {
-      "id": 875,
-      "title": "Bokura wa Minna Kawai-sou",
-      "score": 0.714,
       "r18": false
     },
     {
@@ -137,6 +125,12 @@
       "r18": false
     },
     {
+      "id": 875,
+      "title": "Bokura wa Minna Kawai-sou",
+      "score": 0.697,
+      "r18": false
+    },
+    {
       "id": 43593,
       "title": "High Score Girl DASH",
       "score": 0.697,
@@ -152,6 +146,12 @@
       "id": 456,
       "title": "Nanika Mochigatte Masuka",
       "score": 0.695,
+      "r18": false
+    },
+    {
+      "id": 505,
+      "title": "Nagato Yuki-chan no Shoushitsu",
+      "score": 0.694,
       "r18": false
     }
   ]

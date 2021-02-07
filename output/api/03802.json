@@ -1,8 +1,8 @@
 {
   "id": 3802,
   "title": "Kiniro no Corda",
-  "url": "https://mangadex.org/manga/3802",
-  "last_updated": "January 17, 2021 06:55:55 UTC",
+  "url": "https://api.mangadex.org/v2/manga/3802",
+  "last_updated": "February 07, 2021 08:14:01 UTC",
   "matches": [
     {
       "id": 28359,
@@ -55,13 +55,19 @@
     {
       "id": 3082,
       "title": "Get Love!! ~Field no Ouji-sama~",
-      "score": 0.763,
+      "score": 0.764,
       "r18": false
     },
     {
       "id": 7181,
       "title": "Seishun Survival",
       "score": 0.761,
+      "r18": false
+    },
+    {
+      "id": 7816,
+      "title": "Folk Tail Tonakai",
+      "score": 0.76,
       "r18": false
     },
     {
@@ -133,13 +139,7 @@
     {
       "id": 5855,
       "title": "Cream Caramel",
-      "score": 0.751,
-      "r18": false
-    },
-    {
-      "id": 7170,
-      "title": "Billion Girl",
-      "score": 0.751,
+      "score": 0.752,
       "r18": false
     },
     {

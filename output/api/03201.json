@@ -1,8 +1,8 @@
 {
   "id": 3201,
   "title": "Girl x Girl x Boy",
-  "url": "https://mangadex.org/manga/3201",
-  "last_updated": "January 17, 2021 06:49:17 UTC",
+  "url": "https://api.mangadex.org/v2/manga/3201",
+  "last_updated": "February 07, 2021 08:03:04 UTC",
   "matches": [
     {
       "id": 51731,
@@ -14,12 +14,6 @@
       "id": 43753,
       "title": "The End of the World and a Witch's Love",
       "score": 0.359,
-      "r18": false
-    },
-    {
-      "id": 4765,
-      "title": "Kashimashi ~Girl Meets Girl~",
-      "score": 0.354,
       "r18": false
     },
     {
@@ -115,7 +109,7 @@
     {
       "id": 57775,
       "title": "Today I'll (Make You) Confess",
-      "score": 0.269,
+      "score": 0.268,
       "r18": false
     },
     {
@@ -139,7 +133,7 @@
     {
       "id": 54891,
       "title": "Banchou to Shatei",
-      "score": 0.249,
+      "score": 0.25,
       "r18": false
     },
     {
@@ -151,6 +145,12 @@
     {
       "id": 42958,
       "title": "A Goldfish's Love",
+      "score": 0.24,
+      "r18": false
+    },
+    {
+      "id": 54096,
+      "title": "Wish We Were",
       "score": 0.24,
       "r18": false
     }

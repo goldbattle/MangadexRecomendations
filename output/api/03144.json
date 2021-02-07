@@ -1,13 +1,13 @@
 {
   "id": 3144,
   "title": "Jiya",
-  "url": "https://mangadex.org/manga/3144",
-  "last_updated": "January 17, 2021 06:48:40 UTC",
+  "url": "https://api.mangadex.org/v2/manga/3144",
+  "last_updated": "February 07, 2021 08:02:08 UTC",
   "matches": [
     {
       "id": 281,
       "title": "Trigun Maximum",
-      "score": 0.703,
+      "score": 0.702,
       "r18": false
     },
     {
@@ -26,12 +26,6 @@
       "id": 276,
       "title": "Karate Shoukoushi Kohinata Minoru",
       "score": 0.688,
-      "r18": false
-    },
-    {
-      "id": 6272,
-      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
-      "score": 0.686,
       "r18": false
     },
     {
@@ -56,6 +50,12 @@
       "id": 52836,
       "title": "DD Fist of the North Star",
       "score": 0.677,
+      "r18": false
+    },
+    {
+      "id": 6272,
+      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
+      "score": 0.674,
       "r18": false
     },
     {
@@ -85,7 +85,7 @@
     {
       "id": 26157,
       "title": "Otokujuku Gaiden: Kurenai!! Onnajuku",
-      "score": 0.669,
+      "score": 0.668,
       "r18": false
     },
     {
@@ -137,12 +137,6 @@
       "r18": false
     },
     {
-      "id": 44119,
-      "title": "Bouryoku Tantei",
-      "score": 0.418,
-      "r18": false
-    },
-    {
       "id": 53570,
       "title": "Bone Crusher",
       "score": 0.386,
@@ -152,6 +146,12 @@
       "id": 12286,
       "title": "Levius",
       "score": 0.363,
+      "r18": false
+    },
+    {
+      "id": 3116,
+      "title": "Amanin Shoujo Azuki",
+      "score": 0.332,
       "r18": false
     }
   ]

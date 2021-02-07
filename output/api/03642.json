@@ -1,8 +1,8 @@
 {
   "id": 3642,
   "title": "Utopia",
-  "url": "https://mangadex.org/manga/3642",
-  "last_updated": "January 17, 2021 06:54:08 UTC",
+  "url": "https://api.mangadex.org/v2/manga/3642",
+  "last_updated": "February 07, 2021 08:11:05 UTC",
   "matches": [
     {
       "id": 100,
@@ -107,12 +107,6 @@
       "r18": false
     },
     {
-      "id": 11808,
-      "title": "Teenager Younghwa",
-      "score": 0.258,
-      "r18": false
-    },
-    {
       "id": 12142,
       "title": "Gojikanme no Sensou - Home, Sweet Home!",
       "score": 0.258,
@@ -151,6 +145,12 @@
     {
       "id": 27169,
       "title": "Seibetsu &quot;Mona Lisa&quot; no Kimi he.",
+      "score": 0.258,
+      "r18": false
+    },
+    {
+      "id": 31206,
+      "title": "Ijime no Jikan",
       "score": 0.258,
       "r18": false
     }

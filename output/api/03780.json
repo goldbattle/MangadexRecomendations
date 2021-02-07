@@ -1,9 +1,15 @@
 {
   "id": 3780,
   "title": "Kindan no Koi wo Shiyou",
-  "url": "https://mangadex.org/manga/3780",
-  "last_updated": "January 17, 2021 06:55:40 UTC",
+  "url": "https://api.mangadex.org/v2/manga/3780",
+  "last_updated": "February 07, 2021 08:13:35 UTC",
   "matches": [
+    {
+      "id": 18660,
+      "title": "Mitsuyokon Tsukumogami no Yomegoryou",
+      "score": 0.698,
+      "r18": false
+    },
     {
       "id": 3212,
       "title": "Love Cruise",
@@ -37,7 +43,7 @@
     {
       "id": 1310,
       "title": "Midnight Secretary",
-      "score": 0.667,
+      "score": 0.668,
       "r18": false
     },
     {
@@ -62,12 +68,6 @@
       "id": 52171,
       "title": "Fumetsu",
       "score": 0.27,
-      "r18": false
-    },
-    {
-      "id": 59841,
-      "title": "Elixir of the Sun",
-      "score": 0.265,
       "r18": false
     }
   ]

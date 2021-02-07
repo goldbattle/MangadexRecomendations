@@ -1,8 +1,8 @@
 {
   "id": 3497,
   "title": "Tenshi no Hane to Akuma no Shippo",
-  "url": "https://mangadex.org/manga/3497",
-  "last_updated": "January 17, 2021 06:52:35 UTC",
+  "url": "https://api.mangadex.org/v2/manga/3497",
+  "last_updated": "February 07, 2021 08:08:30 UTC",
   "matches": [
     {
       "id": 25435,
@@ -44,12 +44,6 @@
       "id": 22194,
       "title": "Beast Complex",
       "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 21283,
-      "title": "Persona 5",
-      "score": 0.71,
       "r18": false
     },
     {
@@ -95,12 +89,6 @@
       "r18": false
     },
     {
-      "id": 10004,
-      "title": "One Piece - Digital Colored Comics",
-      "score": 0.702,
-      "r18": false
-    },
-    {
       "id": 5573,
       "title": "Saiyuki",
       "score": 0.701,
@@ -113,15 +101,9 @@
       "r18": false
     },
     {
-      "id": 39,
-      "title": "One Piece",
-      "score": 0.699,
-      "r18": false
-    },
-    {
       "id": 9844,
       "title": "Shingeki no Kyojin - Before the Fall",
-      "score": 0.699,
+      "score": 0.698,
       "r18": false
     },
     {
@@ -152,6 +134,24 @@
       "id": 23195,
       "title": "The Great Ruler",
       "score": 0.696,
+      "r18": false
+    },
+    {
+      "id": 2340,
+      "title": "Fate/stay night",
+      "score": 0.696,
+      "r18": false
+    },
+    {
+      "id": 21946,
+      "title": "The Wrong Way to Use Healing Magic",
+      "score": 0.696,
+      "r18": false
+    },
+    {
+      "id": 37391,
+      "title": "Mahouka Koukou no Rettousei - Koto Nairan-hen",
+      "score": 0.695,
       "r18": false
     }
   ]

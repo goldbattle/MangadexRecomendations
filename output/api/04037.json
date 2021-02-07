@@ -1,8 +1,8 @@
 {
   "id": 4037,
   "title": "Coda",
-  "url": "https://mangadex.org/manga/4037",
-  "last_updated": "January 17, 2021 06:58:32 UTC",
+  "url": "https://api.mangadex.org/v2/manga/4037",
+  "last_updated": "February 07, 2021 08:18:19 UTC",
   "matches": [
     {
       "id": 3082,
@@ -25,7 +25,7 @@
     {
       "id": 3133,
       "title": "Shanimuni Go",
-      "score": 0.661,
+      "score": 0.662,
       "r18": false
     },
     {
@@ -37,7 +37,7 @@
     {
       "id": 3403,
       "title": "Seiyuu Ka-!",
-      "score": 0.659,
+      "score": 0.66,
       "r18": false
     },
     {
@@ -85,12 +85,6 @@
     {
       "id": 5530,
       "title": "Dancing Baby Karin",
-      "score": 0.65,
-      "r18": false
-    },
-    {
-      "id": 2103,
-      "title": "Boku ni Natta Watashi",
       "score": 0.65,
       "r18": false
     },
@@ -152,6 +146,12 @@
       "id": 14869,
       "title": "Mizutama Honey Boy",
       "score": 0.408,
+      "r18": false
+    },
+    {
+      "id": 5214,
+      "title": "Mint na Bokura",
+      "score": 0.403,
       "r18": false
     }
   ]

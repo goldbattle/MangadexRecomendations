@@ -1,8 +1,8 @@
 {
   "id": 4531,
   "title": "No One Knows",
-  "url": "https://mangadex.org/manga/4531",
-  "last_updated": "January 17, 2021 12:46:59 UTC",
+  "url": "https://api.mangadex.org/v2/manga/4531",
+  "last_updated": "February 07, 2021 08:27:10 UTC",
   "matches": [
     {
       "id": 11867,
@@ -37,7 +37,7 @@
     {
       "id": 26380,
       "title": "Mahoutsukai no Konyakusha",
-      "score": 0.741,
+      "score": 0.74,
       "r18": false
     },
     {
@@ -77,12 +77,6 @@
       "r18": false
     },
     {
-      "id": 3996,
-      "title": "Akatsuki no Yona",
-      "score": 0.731,
-      "r18": false
-    },
-    {
       "id": 969,
       "title": "Kamisama Hajimemashita",
       "score": 0.729,
@@ -95,12 +89,6 @@
       "r18": false
     },
     {
-      "id": 8703,
-      "title": "Uragiri wa Boku no Namae o Shitteiru",
-      "score": 0.726,
-      "r18": false
-    },
-    {
       "id": 30290,
       "title": "Nil Admirari no Tenbin: Teito Genwaku Kitan",
       "score": 0.725,
@@ -109,24 +97,24 @@
     {
       "id": 24134,
       "title": "Neolith Girl",
-      "score": 0.725,
+      "score": 0.724,
       "r18": false
     },
     {
       "id": 38755,
       "title": "I Only Want To Meet You",
-      "score": 0.717,
-      "r18": false
-    },
-    {
-      "id": 56365,
-      "title": "Why Do You Love Me When I Refuse Your Request?",
       "score": 0.716,
       "r18": false
     },
     {
       "id": 27428,
       "title": "Rosen Blood",
+      "score": 0.716,
+      "r18": false
+    },
+    {
+      "id": 56365,
+      "title": "Why Do You Love Me When I Refuse Your Request?",
       "score": 0.716,
       "r18": false
     },
@@ -152,6 +140,18 @@
       "id": 19478,
       "title": "Futari wa PreCure",
       "score": 0.714,
+      "r18": false
+    },
+    {
+      "id": 27335,
+      "title": "Bad Moon",
+      "score": 0.714,
+      "r18": false
+    },
+    {
+      "id": 6281,
+      "title": "Yashio to Mikumo",
+      "score": 0.712,
       "r18": false
     }
   ]

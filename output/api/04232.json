@@ -1,8 +1,8 @@
 {
   "id": 4232,
   "title": "Touhou - ReiMari Shringara (Doujinshi)",
-  "url": "https://mangadex.org/manga/4232",
-  "last_updated": "January 17, 2021 07:00:35 UTC",
+  "url": "https://api.mangadex.org/v2/manga/4232",
+  "last_updated": "February 07, 2021 08:21:59 UTC",
   "matches": [
     {
       "id": 7755,
@@ -89,15 +89,9 @@
       "r18": false
     },
     {
-      "id": 59650,
-      "title": "Kantai Collection -Kancolle- Countdown With You (Doujinshi)",
-      "score": 0.474,
-      "r18": false
-    },
-    {
       "id": 49292,
       "title": "Senki Zesshou Symphogear - Lil' Chris and her Merry Friends - Z (Doujinshi)",
-      "score": 0.461,
+      "score": 0.46,
       "r18": false
     },
     {
@@ -121,7 +115,7 @@
     {
       "id": 52414,
       "title": "Love Live! - Welcome Home (Doujinshi)",
-      "score": 0.434,
+      "score": 0.435,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 14271,
       "title": "Touhou - Twinkle, twinkle, little star (Doujinshi)",
       "score": 0.368,
+      "r18": false
+    },
+    {
+      "id": 43466,
+      "title": "BanG Dream! - The Aria of Beginning (Doujinshi)",
+      "score": 0.367,
       "r18": false
     }
   ]

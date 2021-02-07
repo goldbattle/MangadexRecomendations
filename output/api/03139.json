@@ -1,19 +1,13 @@
 {
   "id": 3139,
   "title": "Bengo!",
-  "url": "https://mangadex.org/manga/3139",
-  "last_updated": "January 17, 2021 06:48:37 UTC",
+  "url": "https://api.mangadex.org/v2/manga/3139",
+  "last_updated": "February 07, 2021 08:02:03 UTC",
   "matches": [
     {
       "id": 45807,
       "title": "Life Completely Ruined",
       "score": 0.718,
-      "r18": false
-    },
-    {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.704,
       "r18": false
     },
     {
@@ -37,18 +31,12 @@
     {
       "id": 28617,
       "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run",
-      "score": 0.701,
+      "score": 0.7,
       "r18": false
     },
     {
       "id": 15991,
       "title": "Koi wa Ameagari no You ni",
-      "score": 0.7,
-      "r18": false
-    },
-    {
-      "id": 12326,
-      "title": "Love Live! - School Idol Project",
       "score": 0.7,
       "r18": false
     },
@@ -59,26 +47,20 @@
       "r18": false
     },
     {
-      "id": 6272,
-      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
-      "score": 0.699,
-      "r18": false
-    },
-    {
       "id": 31194,
       "title": "Hunter Age",
       "score": 0.697,
       "r18": false
     },
     {
-      "id": 875,
-      "title": "Bokura wa Minna Kawai-sou",
-      "score": 0.697,
+      "id": 6753,
+      "title": "Salaryman Kintarou",
+      "score": 0.696,
       "r18": false
     },
     {
-      "id": 6753,
-      "title": "Salaryman Kintarou",
+      "id": 27151,
+      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
       "score": 0.696,
       "r18": false
     },
@@ -91,6 +73,12 @@
     {
       "id": 281,
       "title": "Trigun Maximum",
+      "score": 0.696,
+      "r18": false
+    },
+    {
+      "id": 11576,
+      "title": "Genso Ginekokurasy",
       "score": 0.696,
       "r18": false
     },
@@ -139,7 +127,7 @@
     {
       "id": 1193,
       "title": "Himizu",
-      "score": 0.689,
+      "score": 0.688,
       "r18": false
     },
     {
@@ -149,8 +137,20 @@
       "r18": false
     },
     {
+      "id": 6272,
+      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
+      "score": 0.688,
+      "r18": false
+    },
+    {
       "id": 6559,
       "title": "Binbou Shimai Monogatari",
+      "score": 0.688,
+      "r18": false
+    },
+    {
+      "id": 7126,
+      "title": "Dimension W",
       "score": 0.688,
       "r18": false
     }

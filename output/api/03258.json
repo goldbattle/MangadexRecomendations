@@ -1,8 +1,8 @@
 {
   "id": 3258,
   "title": "Canaria Child",
-  "url": "https://mangadex.org/manga/3258",
-  "last_updated": "January 17, 2021 06:49:53 UTC",
+  "url": "https://api.mangadex.org/v2/manga/3258",
+  "last_updated": "February 07, 2021 08:04:05 UTC",
   "matches": [
     {
       "id": 167,
@@ -41,9 +41,21 @@
       "r18": false
     },
     {
+      "id": 3941,
+      "title": "Four Daughters of Armian",
+      "score": 0.692,
+      "r18": false
+    },
+    {
       "id": 54736,
       "title": "Cheerful Countess Sisters",
       "score": 0.691,
+      "r18": false
+    },
+    {
+      "id": 7816,
+      "title": "Folk Tail Tonakai",
+      "score": 0.69,
       "r18": false
     },
     {
@@ -97,7 +109,7 @@
     {
       "id": 1869,
       "title": "Yoru wo Utau Kodomotachi",
-      "score": 0.683,
+      "score": 0.682,
       "r18": false
     },
     {
@@ -121,7 +133,7 @@
     {
       "id": 46856,
       "title": "The Careful Empress",
-      "score": 0.679,
+      "score": 0.68,
       "r18": false
     },
     {
@@ -140,18 +152,6 @@
       "id": 24016,
       "title": "Neo Angelique",
       "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 58487,
-      "title": "Happy Ending for the Time-Limited Villainess",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 47754,
-      "title": "Death Is the Only Ending for the Villainess",
-      "score": 0.676,
       "r18": false
     }
   ]

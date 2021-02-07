@@ -1,8 +1,8 @@
 {
   "id": 3761,
   "title": "Coral -Tenohira no Umi-",
-  "url": "https://mangadex.org/manga/3761",
-  "last_updated": "January 17, 2021 06:55:26 UTC",
+  "url": "https://api.mangadex.org/v2/manga/3761",
+  "last_updated": "February 07, 2021 08:13:12 UTC",
   "matches": [
     {
       "id": 2797,
@@ -32,12 +32,6 @@
       "id": 20547,
       "title": "Hanaoni Tobira no Sakaimeya-san",
       "score": 0.43,
-      "r18": false
-    },
-    {
-      "id": 9946,
-      "title": "Chijou wa Pocket no Naka no Niwa",
-      "score": 0.419,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 57418,
       "title": "Hazure Potion ga Shouyu datta no de Ryouri suru koto ni shimashita",
       "score": 0.283,
+      "r18": false
+    },
+    {
+      "id": 22484,
+      "title": "Kottou Nekoya",
+      "score": 0.278,
       "r18": false
     }
   ]

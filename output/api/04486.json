@@ -1,8 +1,8 @@
 {
   "id": 4486,
   "title": "Ouji wa Tadaima Dekasegichuu",
-  "url": "https://mangadex.org/manga/4486",
-  "last_updated": "January 17, 2021 12:46:31 UTC",
+  "url": "https://api.mangadex.org/v2/manga/4486",
+  "last_updated": "February 07, 2021 08:26:26 UTC",
   "matches": [
     {
       "id": 2428,
@@ -25,6 +25,12 @@
     {
       "id": 19144,
       "title": "Kashou no Tsuki",
+      "score": 0.678,
+      "r18": false
+    },
+    {
+      "id": 59999,
+      "title": "Save Me, Princess",
       "score": 0.678,
       "r18": false
     },
@@ -95,12 +101,6 @@
       "r18": false
     },
     {
-      "id": 3996,
-      "title": "Akatsuki no Yona",
-      "score": 0.661,
-      "r18": false
-    },
-    {
       "id": 7454,
       "title": "Yami no Matsuei",
       "score": 0.661,
@@ -125,12 +125,6 @@
       "r18": false
     },
     {
-      "id": 59999,
-      "title": "Save Me, Princess",
-      "score": 0.66,
-      "r18": false
-    },
-    {
       "id": 59228,
       "title": "In my previous life I was a saint, but now I want to cut corners.",
       "score": 0.656,
@@ -151,6 +145,12 @@
     {
       "id": 3433,
       "title": "Time Limit! Nina",
+      "score": 0.655,
+      "r18": false
+    },
+    {
+      "id": 43461,
+      "title": "This Is an Obvious Fraudulent Marriage",
       "score": 0.655,
       "r18": false
     }

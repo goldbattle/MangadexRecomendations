@@ -1,8 +1,8 @@
 {
   "id": 4550,
   "title": "Oniisamakata, Goranshin!",
-  "url": "https://mangadex.org/manga/4550",
-  "last_updated": "January 17, 2021 12:47:13 UTC",
+  "url": "https://api.mangadex.org/v2/manga/4550",
+  "last_updated": "February 07, 2021 08:27:32 UTC",
   "matches": [
     {
       "id": 28359,
@@ -25,7 +25,7 @@
     {
       "id": 174,
       "title": "Forget About Love",
-      "score": 0.741,
+      "score": 0.74,
       "r18": false
     },
     {
@@ -109,18 +109,12 @@
     {
       "id": 2037,
       "title": "Koi Ja Nai no da!",
-      "score": 0.729,
+      "score": 0.728,
       "r18": false
     },
     {
       "id": 26572,
       "title": "Hatsukoi no Yamai",
-      "score": 0.729,
-      "r18": false
-    },
-    {
-      "id": 3996,
-      "title": "Akatsuki no Yona",
       "score": 0.728,
       "r18": false
     },
@@ -152,6 +146,12 @@
       "id": 1899,
       "title": "His and Her Circumstances",
       "score": 0.725,
+      "r18": false
+    },
+    {
+      "id": 7181,
+      "title": "Seishun Survival",
+      "score": 0.724,
       "r18": false
     }
   ]

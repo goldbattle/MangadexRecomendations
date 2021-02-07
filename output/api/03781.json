@@ -1,8 +1,8 @@
 {
   "id": 3781,
   "title": "Zoku - Kindan no Koi wo Shiyou",
-  "url": "https://mangadex.org/manga/3781",
-  "last_updated": "January 17, 2021 06:55:41 UTC",
+  "url": "https://api.mangadex.org/v2/manga/3781",
+  "last_updated": "February 07, 2021 08:13:36 UTC",
   "matches": [
     {
       "id": 2170,
@@ -67,6 +67,12 @@
     {
       "id": 8025,
       "title": "Ningyo Ouji",
+      "score": 0.272,
+      "r18": false
+    },
+    {
+      "id": 9555,
+      "title": "M-shiki Princess",
       "score": 0.272,
       "r18": false
     },
@@ -145,12 +151,6 @@
     {
       "id": 32438,
       "title": "Chippai Kanojo to Bijin Kareshi",
-      "score": 0.272,
-      "r18": false
-    },
-    {
-      "id": 57563,
-      "title": "Yokujo Sakurifaisu",
       "score": 0.272,
       "r18": false
     }

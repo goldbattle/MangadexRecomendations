@@ -1,8 +1,8 @@
 {
   "id": 4594,
   "title": "Marry Max!",
-  "url": "https://mangadex.org/manga/4594",
-  "last_updated": "January 17, 2021 12:47:42 UTC",
+  "url": "https://api.mangadex.org/v2/manga/4594",
+  "last_updated": "February 07, 2021 08:28:21 UTC",
   "matches": [
     {
       "id": 12037,
@@ -14,6 +14,12 @@
       "id": 51943,
       "title": "County Princess Will Not Marry Four Times",
       "score": 0.71,
+      "r18": false
+    },
+    {
+      "id": 51318,
+      "title": "Truthfully, They Only Remembered Her",
+      "score": 0.703,
       "r18": false
     },
     {
@@ -59,8 +65,20 @@
       "r18": false
     },
     {
+      "id": 7816,
+      "title": "Folk Tail Tonakai",
+      "score": 0.69,
+      "r18": false
+    },
+    {
       "id": 1927,
       "title": "Alice in the Country of Hearts",
+      "score": 0.689,
+      "r18": false
+    },
+    {
+      "id": 8747,
+      "title": "Will o' Wisp",
       "score": 0.689,
       "r18": false
     },
@@ -89,6 +107,30 @@
       "r18": false
     },
     {
+      "id": 18400,
+      "title": "Kenka Banchou Otome - Koi no Battle Royale",
+      "score": 0.686,
+      "r18": false
+    },
+    {
+      "id": 8708,
+      "title": "Zero Count",
+      "score": 0.686,
+      "r18": false
+    },
+    {
+      "id": 13472,
+      "title": "Dorothy wa Gokigen Naname?",
+      "score": 0.685,
+      "r18": false
+    },
+    {
+      "id": 17132,
+      "title": "Hadaka no Ouji-sama - Love Kingdom",
+      "score": 0.685,
+      "r18": false
+    },
+    {
       "id": 52697,
       "title": "A Trivial Extra in a Dating Sim",
       "score": 0.685,
@@ -97,7 +139,7 @@
     {
       "id": 4032,
       "title": "Koi no Himitsu Kichi",
-      "score": 0.683,
+      "score": 0.684,
       "r18": false
     },
     {
@@ -107,51 +149,9 @@
       "r18": false
     },
     {
-      "id": 3709,
-      "title": "Hana Yori Dango",
-      "score": 0.681,
-      "r18": false
-    },
-    {
-      "id": 47722,
-      "title": "A Bellicose Lady Got Reincarnated?!",
-      "score": 0.681,
-      "r18": false
-    },
-    {
-      "id": 19128,
-      "title": "Saiouji Kyoudai ni Komarasareru no mo Warukunai",
-      "score": 0.681,
-      "r18": false
-    },
-    {
-      "id": 227,
-      "title": "Akuma to Love Song",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 3611,
-      "title": "Kyuukyoku Venus",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 19808,
-      "title": "Love, Storms, and Flower Clocks: Alice in the Country of Hearts ~ Wonderful Twin World ~",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 461,
-      "title": "Shiawase Kissa Sanchoume",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 27428,
-      "title": "Rosen Blood",
-      "score": 0.678,
+      "id": 19668,
+      "title": "Gokuraku Doumei",
+      "score": 0.683,
       "r18": false
     }
   ]

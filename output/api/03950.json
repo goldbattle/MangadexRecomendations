@@ -1,8 +1,8 @@
 {
   "id": 3950,
   "title": "Safe Again Today",
-  "url": "https://mangadex.org/manga/3950",
-  "last_updated": "January 17, 2021 06:57:35 UTC",
+  "url": "https://api.mangadex.org/v2/manga/3950",
+  "last_updated": "February 07, 2021 08:16:52 UTC",
   "matches": [
     {
       "id": 174,
@@ -67,7 +67,7 @@
     {
       "id": 9244,
       "title": "Kira Kira\u2606Labyrinth",
-      "score": 0.711,
+      "score": 0.71,
       "r18": false
     },
     {
@@ -86,12 +86,6 @@
       "id": 8472,
       "title": "Hakkenden: Touhou Hakken Ibun",
       "score": 0.708,
-      "r18": false
-    },
-    {
-      "id": 3996,
-      "title": "Akatsuki no Yona",
-      "score": 0.706,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 26606,
       "title": "Ayashi no Ceres",
       "score": 0.692,
+      "r18": false
+    },
+    {
+      "id": 6147,
+      "title": "Dangerous Share",
+      "score": 0.69,
       "r18": false
     }
   ]

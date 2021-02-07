@@ -1,8 +1,8 @@
 {
   "id": 4301,
   "title": "Akusaga",
-  "url": "https://mangadex.org/manga/4301",
-  "last_updated": "January 17, 2021 12:44:36 UTC",
+  "url": "https://api.mangadex.org/v2/manga/4301",
+  "last_updated": "February 07, 2021 08:23:10 UTC",
   "matches": [
     {
       "id": 7021,
@@ -37,19 +37,7 @@
     {
       "id": 7653,
       "title": "Poe no Ichizoku",
-      "score": 0.709,
-      "r18": false
-    },
-    {
-      "id": 10114,
-      "title": "Shingeki no Kyojin - Birth of Levi",
-      "score": 0.707,
-      "r18": false
-    },
-    {
-      "id": 8703,
-      "title": "Uragiri wa Boku no Namae o Shitteiru",
-      "score": 0.706,
+      "score": 0.708,
       "r18": false
     },
     {
@@ -121,7 +109,7 @@
     {
       "id": 13253,
       "title": "Kimi ga Kimi de Aru Tameni",
-      "score": 0.689,
+      "score": 0.688,
       "r18": false
     },
     {
@@ -131,14 +119,14 @@
       "r18": false
     },
     {
-      "id": 11017,
-      "title": "Kousha no Ura ni wa Tenshi ga Umerarete Iru",
+      "id": 47431,
+      "title": "The Werewolf Killings",
       "score": 0.685,
       "r18": false
     },
     {
-      "id": 47431,
-      "title": "The Werewolf Killings",
+      "id": 11017,
+      "title": "Kousha no Ura ni wa Tenshi ga Umerarete Iru",
       "score": 0.685,
       "r18": false
     },
@@ -152,6 +140,18 @@
       "id": 5626,
       "title": "Romeo x Juliet",
       "score": 0.677,
+      "r18": false
+    },
+    {
+      "id": 50512,
+      "title": "The Reborn",
+      "score": 0.676,
+      "r18": false
+    },
+    {
+      "id": 10841,
+      "title": "Kakei no Alice",
+      "score": 0.676,
       "r18": false
     }
   ]

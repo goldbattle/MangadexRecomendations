@@ -1,37 +1,19 @@
 {
   "id": 3311,
   "title": "Danshi Koukousei no Nichijou",
-  "url": "https://mangadex.org/manga/3311",
-  "last_updated": "January 17, 2021 06:50:28 UTC",
+  "url": "https://api.mangadex.org/v2/manga/3311",
+  "last_updated": "February 07, 2021 08:05:06 UTC",
   "matches": [
-    {
-      "id": 14876,
-      "title": "Kuroko no Basket - Replace Plus",
-      "score": 0.722,
-      "r18": false
-    },
     {
       "id": 22030,
       "title": "Araburu Kisetsu no Otomedomo yo.",
-      "score": 0.721,
-      "r18": false
-    },
-    {
-      "id": 23811,
-      "title": "Boku no Kokoro no Yabai Yatsu",
-      "score": 0.719,
-      "r18": false
-    },
-    {
-      "id": 12896,
-      "title": "Handa-kun",
-      "score": 0.719,
-      "r18": false
-    },
-    {
-      "id": 3091,
-      "title": "Suzumiya Haruhi no Yuuutsu",
       "score": 0.718,
+      "r18": false
+    },
+    {
+      "id": 14876,
+      "title": "Kuroko no Basket - Replace Plus",
+      "score": 0.714,
       "r18": false
     },
     {
@@ -41,110 +23,62 @@
       "r18": false
     },
     {
-      "id": 484,
-      "title": "Barakamon",
-      "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 711,
-      "title": "Watashitachi no Tamura-kun",
-      "score": 0.71,
-      "r18": false
-    },
-    {
-      "id": 6269,
-      "title": "JoJo's Bizarre Adventure Part 4 - Diamond is Unbreakable (Official Colored)",
-      "score": 0.709,
-      "r18": false
-    },
-    {
-      "id": 13962,
-      "title": "Nakamura Koedo to Daizu Keisuke wa Umakuikanai",
+      "id": 3091,
+      "title": "Suzumiya Haruhi no Yuuutsu",
       "score": 0.708,
+      "r18": false
+    },
+    {
+      "id": 12896,
+      "title": "Handa-kun",
+      "score": 0.708,
+      "r18": false
+    },
+    {
+      "id": 23811,
+      "title": "Boku no Kokoro no Yabai Yatsu",
+      "score": 0.707,
       "r18": false
     },
     {
       "id": 278,
       "title": "Toradora!",
-      "score": 0.708,
-      "r18": false
-    },
-    {
-      "id": 951,
-      "title": "Nisekoi",
-      "score": 0.708,
-      "r18": false
-    },
-    {
-      "id": 28843,
-      "title": "JoJo's Bizarre Adventure Part 4 - Diamond is Unbreakable",
-      "score": 0.707,
-      "r18": false
-    },
-    {
-      "id": 3607,
-      "title": "All Around Type-Moon",
-      "score": 0.707,
-      "r18": false
-    },
-    {
-      "id": 6770,
-      "title": "Horimiya",
       "score": 0.706,
       "r18": false
     },
     {
-      "id": 1291,
-      "title": "Itsumo Misora",
-      "score": 0.706,
+      "id": 13962,
+      "title": "Nakamura Koedo to Daizu Keisuke wa Umakuikanai",
+      "score": 0.705,
       "r18": false
     },
     {
-      "id": 152,
-      "title": "Kimi to Boku.",
-      "score": 0.706,
-      "r18": false
-    },
-    {
-      "id": 1284,
-      "title": "Nine",
-      "score": 0.706,
-      "r18": false
-    },
-    {
-      "id": 22194,
-      "title": "Beast Complex",
-      "score": 0.706,
+      "id": 711,
+      "title": "Watashitachi no Tamura-kun",
+      "score": 0.705,
       "r18": false
     },
     {
       "id": 4437,
       "title": "Golden Time",
-      "score": 0.706,
-      "r18": false
-    },
-    {
-      "id": 4529,
-      "title": "Koutetsu no Hanappashira",
       "score": 0.705,
       "r18": false
     },
     {
-      "id": 1390,
-      "title": "Katteni Kaizo",
+      "id": 3607,
+      "title": "All Around Type-Moon",
       "score": 0.704,
       "r18": false
     },
     {
-      "id": 1293,
-      "title": "Miyuki",
-      "score": 0.704,
+      "id": 6269,
+      "title": "JoJo's Bizarre Adventure Part 4 - Diamond is Unbreakable (Official Colored)",
+      "score": 0.703,
       "r18": false
     },
     {
-      "id": 1403,
-      "title": "Sayonara Zetsubou Sensei",
+      "id": 28843,
+      "title": "JoJo's Bizarre Adventure Part 4 - Diamond is Unbreakable",
       "score": 0.703,
       "r18": false
     },
@@ -152,6 +86,72 @@
       "id": 12983,
       "title": "Koi to Uso",
       "score": 0.703,
+      "r18": false
+    },
+    {
+      "id": 1291,
+      "title": "Itsumo Misora",
+      "score": 0.702,
+      "r18": false
+    },
+    {
+      "id": 951,
+      "title": "Nisekoi",
+      "score": 0.702,
+      "r18": false
+    },
+    {
+      "id": 1284,
+      "title": "Nine",
+      "score": 0.701,
+      "r18": false
+    },
+    {
+      "id": 21352,
+      "title": "Rewrite: SIDE-TERRA",
+      "score": 0.7,
+      "r18": false
+    },
+    {
+      "id": 152,
+      "title": "Kimi to Boku.",
+      "score": 0.699,
+      "r18": false
+    },
+    {
+      "id": 1293,
+      "title": "Miyuki",
+      "score": 0.698,
+      "r18": false
+    },
+    {
+      "id": 9497,
+      "title": "Rewrite: SIDE-R",
+      "score": 0.698,
+      "r18": false
+    },
+    {
+      "id": 22194,
+      "title": "Beast Complex",
+      "score": 0.696,
+      "r18": false
+    },
+    {
+      "id": 2869,
+      "title": "School Rumble",
+      "score": 0.696,
+      "r18": false
+    },
+    {
+      "id": 4529,
+      "title": "Koutetsu no Hanappashira",
+      "score": 0.696,
+      "r18": false
+    },
+    {
+      "id": 2492,
+      "title": "Gift - Under the Rainbow",
+      "score": 0.695,
       "r18": false
     }
   ]

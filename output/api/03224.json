@@ -1,8 +1,8 @@
 {
   "id": 3224,
   "title": "Canaan",
-  "url": "https://mangadex.org/manga/3224",
-  "last_updated": "January 17, 2021 06:49:31 UTC",
+  "url": "https://api.mangadex.org/v2/manga/3224",
+  "last_updated": "February 07, 2021 08:03:30 UTC",
   "matches": [
     {
       "id": 1417,
@@ -47,18 +47,6 @@
       "r18": false
     },
     {
-      "id": 336,
-      "title": "Kuroshitsuji",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 303,
-      "title": "Claymore",
-      "score": 0.676,
-      "r18": false
-    },
-    {
       "id": 597,
       "title": "Mardock Scramble",
       "score": 0.674,
@@ -98,6 +86,12 @@
       "id": 1510,
       "title": "Kamisama no Inai Nichiyoubi",
       "score": 0.67,
+      "r18": false
+    },
+    {
+      "id": 303,
+      "title": "Claymore",
+      "score": 0.666,
       "r18": false
     },
     {
@@ -151,6 +145,12 @@
     {
       "id": 5057,
       "title": "Apocalypse no Toride",
+      "score": 0.661,
+      "r18": false
+    },
+    {
+      "id": 2086,
+      "title": "Kingdom Hearts 358/2 Days",
       "score": 0.661,
       "r18": false
     }

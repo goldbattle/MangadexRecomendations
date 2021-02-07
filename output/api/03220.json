@@ -1,8 +1,8 @@
 {
   "id": 3220,
   "title": "Soleil",
-  "url": "https://mangadex.org/manga/3220",
-  "last_updated": "January 17, 2021 06:49:29 UTC",
+  "url": "https://api.mangadex.org/v2/manga/3220",
+  "last_updated": "February 07, 2021 08:03:25 UTC",
   "matches": [
     {
       "id": 51165,
@@ -107,6 +107,12 @@
       "r18": false
     },
     {
+      "id": 59999,
+      "title": "Save Me, Princess",
+      "score": 0.682,
+      "r18": false
+    },
+    {
       "id": 10514,
       "title": "Twin Cross",
       "score": 0.682,
@@ -146,12 +152,6 @@
       "id": 1654,
       "title": "Liselotte to Majo no Mori",
       "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 36513,
-      "title": "The Prince Is Too Dazzling, Don't Look at Him Directly!",
-      "score": 0.679,
       "r18": false
     }
   ]

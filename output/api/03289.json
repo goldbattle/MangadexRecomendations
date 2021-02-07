@@ -1,8 +1,8 @@
 {
   "id": 3289,
   "title": "Yuusha Dan",
-  "url": "https://mangadex.org/manga/3289",
-  "last_updated": "January 17, 2021 06:50:13 UTC",
+  "url": "https://api.mangadex.org/v2/manga/3289",
+  "last_updated": "February 07, 2021 08:04:44 UTC",
   "matches": [
     {
       "id": 23231,
@@ -19,7 +19,7 @@
     {
       "id": 8325,
       "title": "Tales of Innocence",
-      "score": 0.771,
+      "score": 0.77,
       "r18": false
     },
     {
@@ -53,12 +53,6 @@
       "r18": false
     },
     {
-      "id": 54801,
-      "title": "One Piece Episode A",
-      "score": 0.761,
-      "r18": false
-    },
-    {
       "id": 10207,
       "title": "Saint Seiya - Episode G",
       "score": 0.76,
@@ -67,7 +61,7 @@
     {
       "id": 5937,
       "title": "CYBER Blue",
-      "score": 0.759,
+      "score": 0.76,
       "r18": false
     },
     {
@@ -151,6 +145,12 @@
     {
       "id": 6652,
       "title": "Utawarerumono",
+      "score": 0.754,
+      "r18": false
+    },
+    {
+      "id": 28525,
+      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo",
       "score": 0.754,
       "r18": false
     }

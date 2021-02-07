@@ -1,13 +1,13 @@
 {
   "id": 4372,
   "title": "Kyousogiga",
-  "url": "https://mangadex.org/manga/4372",
-  "last_updated": "January 17, 2021 12:45:21 UTC",
+  "url": "https://api.mangadex.org/v2/manga/4372",
+  "last_updated": "February 07, 2021 08:24:26 UTC",
   "matches": [
     {
       "id": 27182,
       "title": "Blue Gender",
-      "score": 0.755,
+      "score": 0.756,
       "r18": false
     },
     {
@@ -37,7 +37,7 @@
     {
       "id": 890,
       "title": "Dogs / Bullets &amp; Carnage",
-      "score": 0.681,
+      "score": 0.68,
       "r18": false
     },
     {
@@ -53,27 +53,27 @@
       "r18": false
     },
     {
-      "id": 2578,
-      "title": "Shiroi Kumo",
-      "score": 0.676,
-      "r18": false
-    },
-    {
       "id": 6966,
       "title": "Centaur's Worries",
       "score": 0.676,
       "r18": false
     },
     {
+      "id": 2578,
+      "title": "Shiroi Kumo",
+      "score": 0.676,
+      "r18": false
+    },
+    {
       "id": 843,
       "title": "20th Century Boys",
-      "score": 0.675,
+      "score": 0.674,
       "r18": false
     },
     {
       "id": 10705,
       "title": "Asagiri no Miko",
-      "score": 0.672,
+      "score": 0.673,
       "r18": false
     },
     {
@@ -85,7 +85,7 @@
     {
       "id": 24411,
       "title": "Makai Senki Disgaea 2",
-      "score": 0.668,
+      "score": 0.667,
       "r18": false
     },
     {
@@ -97,18 +97,12 @@
     {
       "id": 2500,
       "title": "ChunRangYulJun",
-      "score": 0.666,
+      "score": 0.665,
       "r18": false
     },
     {
       "id": 19365,
       "title": "BADBOYS",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 5906,
-      "title": "Black Jack Alive",
       "score": 0.665,
       "r18": false
     },
@@ -119,9 +113,9 @@
       "r18": false
     },
     {
-      "id": 9570,
-      "title": "Ajin",
-      "score": 0.663,
+      "id": 5906,
+      "title": "Black Jack Alive",
+      "score": 0.665,
       "r18": false
     },
     {
@@ -139,19 +133,25 @@
     {
       "id": 8495,
       "title": "Persona 3",
-      "score": 0.662,
+      "score": 0.661,
       "r18": false
     },
     {
       "id": 891,
       "title": "Dogs: Stray Dogs Howling in the Dark",
-      "score": 0.661,
+      "score": 0.66,
       "r18": false
     },
     {
       "id": 22485,
       "title": "Nekurogu (Necrolog)",
-      "score": 0.661,
+      "score": 0.66,
+      "r18": false
+    },
+    {
+      "id": 470,
+      "title": "Sprite",
+      "score": 0.66,
       "r18": false
     }
   ]

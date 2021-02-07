@@ -1,8 +1,8 @@
 {
   "id": 4206,
   "title": "Gokko",
-  "url": "https://mangadex.org/manga/4206",
-  "last_updated": "January 17, 2021 07:00:18 UTC",
+  "url": "https://api.mangadex.org/v2/manga/4206",
+  "last_updated": "February 07, 2021 08:21:31 UTC",
   "matches": [
     {
       "id": 4824,
@@ -26,12 +26,6 @@
       "id": 3453,
       "title": "Hizamazuite Ai wo Chikae",
       "score": 0.702,
-      "r18": false
-    },
-    {
-      "id": 7170,
-      "title": "Billion Girl",
-      "score": 0.698,
       "r18": false
     },
     {
@@ -79,19 +73,19 @@
     {
       "id": 16007,
       "title": "Present",
-      "score": 0.69,
+      "score": 0.689,
       "r18": false
     },
     {
       "id": 6082,
       "title": "Yume Miru Happa",
-      "score": 0.689,
+      "score": 0.688,
       "r18": false
     },
     {
       "id": 2138,
       "title": "Sonan Jyanaiyo",
-      "score": 0.687,
+      "score": 0.686,
       "r18": false
     },
     {
@@ -127,7 +121,7 @@
     {
       "id": 1899,
       "title": "His and Her Circumstances",
-      "score": 0.683,
+      "score": 0.684,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 5400,
       "title": "Hot-Blooded Woman",
       "score": 0.68,
+      "r18": false
+    },
+    {
+      "id": 4387,
+      "title": "Liar x Liar",
+      "score": 0.679,
       "r18": false
     }
   ]

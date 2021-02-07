@@ -1,8 +1,8 @@
 {
   "id": 3466,
   "title": "Raqiya",
-  "url": "https://mangadex.org/manga/3466",
-  "last_updated": "January 17, 2021 06:52:12 UTC",
+  "url": "https://api.mangadex.org/v2/manga/3466",
+  "last_updated": "February 07, 2021 08:07:56 UTC",
   "matches": [
     {
       "id": 4967,
@@ -29,6 +29,12 @@
       "r18": false
     },
     {
+      "id": 1024,
+      "title": "Teizokurei Monophobia",
+      "score": 0.705,
+      "r18": false
+    },
+    {
       "id": 14333,
       "title": "Shinmai Maou no Testament Arashi!",
       "score": 0.701,
@@ -47,20 +53,14 @@
       "r18": false
     },
     {
-      "id": 10135,
-      "title": "Meiyaku no Leviathan",
-      "score": 0.699,
-      "r18": false
-    },
-    {
       "id": 13282,
       "title": "Iron Virgin Jun",
       "score": 0.699,
       "r18": false
     },
     {
-      "id": 1024,
-      "title": "Teizokurei Monophobia",
+      "id": 10135,
+      "title": "Meiyaku no Leviathan",
       "score": 0.699,
       "r18": false
     },
@@ -74,18 +74,6 @@
       "id": 6985,
       "title": "Madan no Ou to Vanadis",
       "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 9803,
-      "title": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka",
-      "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 51808,
-      "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
-      "score": 0.695,
       "r18": false
     },
     {
@@ -121,13 +109,13 @@
     {
       "id": 643,
       "title": "Maoyuu Maou Yuusha - &quot;Kono Watashi no Mono Tonare, Yuusha yo&quot; &quot;Kotowaru!&quot;",
-      "score": 0.691,
+      "score": 0.69,
       "r18": false
     },
     {
       "id": 794,
       "title": "The Sacred Blacksmith",
-      "score": 0.691,
+      "score": 0.69,
       "r18": false
     },
     {
@@ -152,6 +140,18 @@
       "id": 44412,
       "title": "The Strongest Dull Prince&rsquo;s Secret Battle for the Throne",
       "score": 0.686,
+      "r18": false
+    },
+    {
+      "id": 21482,
+      "title": "Grancrest Senki",
+      "score": 0.685,
+      "r18": false
+    },
+    {
+      "id": 15646,
+      "title": "Desert Rose",
+      "score": 0.684,
       "r18": false
     }
   ]

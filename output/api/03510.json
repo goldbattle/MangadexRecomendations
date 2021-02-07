@@ -1,8 +1,8 @@
 {
   "id": 3510,
   "title": "Tona-Gura!",
-  "url": "https://mangadex.org/manga/3510",
-  "last_updated": "January 17, 2021 06:52:44 UTC",
+  "url": "https://api.mangadex.org/v2/manga/3510",
+  "last_updated": "February 07, 2021 08:08:44 UTC",
   "matches": [
     {
       "id": 3507,
@@ -37,7 +37,7 @@
     {
       "id": 795,
       "title": "Kagami no Kuni no Harisugawa",
-      "score": 0.677,
+      "score": 0.678,
       "r18": false
     },
     {
@@ -97,7 +97,7 @@
     {
       "id": 3812,
       "title": "Pajama na Kanojo.",
-      "score": 0.671,
+      "score": 0.672,
       "r18": false
     },
     {
@@ -125,15 +125,21 @@
       "r18": false
     },
     {
+      "id": 11615,
+      "title": "Rakudai Kishi no Eiyuutan",
+      "score": 0.668,
+      "r18": false
+    },
+    {
       "id": 14741,
       "title": "Seishun Scrap!",
       "score": 0.668,
       "r18": false
     },
     {
-      "id": 11615,
-      "title": "Rakudai Kishi no Eiyuutan",
-      "score": 0.667,
+      "id": 15950,
+      "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
+      "score": 0.668,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 9175,
       "title": "Shinmai Maou no Testament",
       "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 1642,
-      "title": "Meteor-san Strike desu!",
-      "score": 0.665,
       "r18": false
     }
   ]

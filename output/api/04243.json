@@ -1,8 +1,8 @@
 {
   "id": 4243,
   "title": "Ch&auml;oS;HEAd - Blue Complex",
-  "url": "https://mangadex.org/manga/4243",
-  "last_updated": "January 17, 2021 07:00:42 UTC",
+  "url": "https://api.mangadex.org/v2/manga/4243",
+  "last_updated": "February 07, 2021 08:22:10 UTC",
   "matches": [
     {
       "id": 2712,
@@ -49,7 +49,13 @@
     {
       "id": 13506,
       "title": "Delusional Boy",
-      "score": 0.74,
+      "score": 0.739,
+      "r18": false
+    },
+    {
+      "id": 19505,
+      "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+      "score": 0.739,
       "r18": false
     },
     {
@@ -67,7 +73,7 @@
     {
       "id": 1594,
       "title": "Pluto",
-      "score": 0.737,
+      "score": 0.736,
       "r18": false
     },
     {
@@ -145,12 +151,6 @@
     {
       "id": 28617,
       "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run",
-      "score": 0.727,
-      "r18": false
-    },
-    {
-      "id": 41767,
-      "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Daiyonshou - Seiiki to Gouyoku no Majou",
       "score": 0.726,
       "r18": false
     }
