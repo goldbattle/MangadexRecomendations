@@ -1,8 +1,8 @@
 {
   "id": 1497,
   "title": "Wendy",
-  "url": "https://mangadex.org/manga/1497",
-  "last_updated": "January 17, 2021 01:09:34 UTC",
+  "url": "https://api.mangadex.org/v2/manga/1497",
+  "last_updated": "February 07, 2021 00:52:27 UTC",
   "matches": [
     {
       "id": 46498,
@@ -41,6 +41,12 @@
       "r18": false
     },
     {
+      "id": 50725,
+      "title": "Kimi wa Shinenai Hai Kaburi no Majo",
+      "score": 0.686,
+      "r18": false
+    },
+    {
       "id": 2379,
       "title": "Dorohedoro",
       "score": 0.683,
@@ -55,7 +61,7 @@
     {
       "id": 18509,
       "title": "Gakkou Gurashi! - Tomodachi (Kari) (Doujinshi)",
-      "score": 0.659,
+      "score": 0.66,
       "r18": false
     },
     {
@@ -133,7 +139,7 @@
     {
       "id": 58123,
       "title": "Culprit Hunt",
-      "score": 0.261,
+      "score": 0.26,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 58529,
       "title": "#DRCL midnight children",
       "score": 0.23,
-      "r18": false
-    },
-    {
-      "id": 43372,
-      "title": "Lockdown No Escape",
-      "score": 0.199,
       "r18": false
     }
   ]

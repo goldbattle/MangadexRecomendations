@@ -1,8 +1,8 @@
 {
   "id": 724,
   "title": "Pastel",
-  "url": "https://mangadex.org/manga/724",
-  "last_updated": "January 17, 2021 01:00:31 UTC",
+  "url": "https://api.mangadex.org/v2/manga/724",
+  "last_updated": "February 07, 2021 00:35:09 UTC",
   "matches": [
     {
       "id": 86,
@@ -14,6 +14,12 @@
       "id": 7142,
       "title": "FamiDol!",
       "score": 0.754,
+      "r18": false
+    },
+    {
+      "id": 15950,
+      "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
+      "score": 0.75,
       "r18": false
     },
     {
@@ -73,7 +79,13 @@
     {
       "id": 6,
       "title": "Shijou Saikyou no Deshi Kenichi",
-      "score": 0.739,
+      "score": 0.738,
+      "r18": false
+    },
+    {
+      "id": 11026,
+      "title": "Fuuka",
+      "score": 0.738,
       "r18": false
     },
     {
@@ -140,18 +152,6 @@
       "id": 1907,
       "title": "Kono Kanojo wa Fiction desu.",
       "score": 0.734,
-      "r18": false
-    },
-    {
-      "id": 98,
-      "title": "Pretty Face",
-      "score": 0.733,
-      "r18": false
-    },
-    {
-      "id": 5327,
-      "title": "Tora Kiss - A School Odyssey",
-      "score": 0.733,
       "r18": false
     }
   ]

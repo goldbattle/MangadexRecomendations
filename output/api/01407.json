@@ -1,19 +1,19 @@
 {
   "id": 1407,
   "title": "Young Shima Kousaku",
-  "url": "https://mangadex.org/manga/1407",
-  "last_updated": "January 17, 2021 01:08:34 UTC",
+  "url": "https://api.mangadex.org/v2/manga/1407",
+  "last_updated": "February 07, 2021 00:50:40 UTC",
   "matches": [
-    {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.764,
-      "r18": false
-    },
     {
       "id": 4880,
       "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
       "score": 0.762,
+      "r18": false
+    },
+    {
+      "id": 19505,
+      "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+      "score": 0.75,
       "r18": false
     },
     {
@@ -31,13 +31,19 @@
     {
       "id": 15991,
       "title": "Koi wa Ameagari no You ni",
-      "score": 0.743,
+      "score": 0.742,
       "r18": false
     },
     {
       "id": 602,
       "title": "Renai Kaidan Sayoko-san",
       "score": 0.74,
+      "r18": false
+    },
+    {
+      "id": 27151,
+      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
+      "score": 0.737,
       "r18": false
     },
     {
@@ -59,18 +65,6 @@
       "r18": false
     },
     {
-      "id": 875,
-      "title": "Bokura wa Minna Kawai-sou",
-      "score": 0.728,
-      "r18": false
-    },
-    {
-      "id": 19505,
-      "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
-      "score": 0.728,
-      "r18": false
-    },
-    {
       "id": 34367,
       "title": "A Tale of Royal Disturbance: Now He's Gone from Echo Valley",
       "score": 0.728,
@@ -80,6 +74,12 @@
       "id": 3055,
       "title": "Nasu",
       "score": 0.727,
+      "r18": false
+    },
+    {
+      "id": 11576,
+      "title": "Genso Ginekokurasy",
+      "score": 0.726,
       "r18": false
     },
     {

@@ -1,8 +1,8 @@
 {
   "id": 1489,
   "title": "Yume Musubi, Koi Musubi",
-  "url": "https://mangadex.org/manga/1489",
-  "last_updated": "January 17, 2021 01:09:28 UTC",
+  "url": "https://api.mangadex.org/v2/manga/1489",
+  "last_updated": "February 07, 2021 00:52:19 UTC",
   "matches": [
     {
       "id": 37280,
@@ -19,7 +19,7 @@
     {
       "id": 36148,
       "title": "Ai no Kotoba o Uragaeshi",
-      "score": 0.693,
+      "score": 0.692,
       "r18": false
     },
     {
@@ -71,6 +71,12 @@
       "r18": false
     },
     {
+      "id": 17003,
+      "title": "Canis",
+      "score": 0.682,
+      "r18": false
+    },
+    {
       "id": 7907,
       "title": "Ore ni Koishite Dousunda",
       "score": 0.681,
@@ -97,7 +103,7 @@
     {
       "id": 7385,
       "title": "After Morning Love",
-      "score": 0.677,
+      "score": 0.678,
       "r18": false
     },
     {
@@ -139,19 +145,13 @@
     {
       "id": 27578,
       "title": "Boku wa Boku Narini",
-      "score": 0.673,
+      "score": 0.674,
       "r18": false
     },
     {
       "id": 19632,
       "title": "Hitorijime My Hero",
       "score": 0.673,
-      "r18": false
-    },
-    {
-      "id": 12443,
-      "title": "Junjou Romantica",
-      "score": 0.672,
       "r18": false
     }
   ]

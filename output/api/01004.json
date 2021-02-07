@@ -1,8 +1,8 @@
 {
   "id": 1004,
   "title": "Bokura wa Minna Ikiteiru!",
-  "url": "https://mangadex.org/manga/1004",
-  "last_updated": "January 17, 2021 01:03:57 UTC",
+  "url": "https://api.mangadex.org/v2/manga/1004",
+  "last_updated": "February 07, 2021 00:41:39 UTC",
   "matches": [
     {
       "id": 13546,
@@ -29,12 +29,6 @@
       "r18": false
     },
     {
-      "id": 21283,
-      "title": "Persona 5",
-      "score": 0.759,
-      "r18": false
-    },
-    {
       "id": 29437,
       "title": "The Bones of an Invisible Person",
       "score": 0.758,
@@ -47,15 +41,15 @@
       "r18": false
     },
     {
-      "id": 21312,
-      "title": "Toaru Kagaku no Railgun Gaiden - Astral Buddy",
-      "score": 0.751,
-      "r18": false
-    },
-    {
       "id": 3607,
       "title": "All Around Type-Moon",
       "score": 0.75,
+      "r18": false
+    },
+    {
+      "id": 21312,
+      "title": "Toaru Kagaku no Railgun Gaiden - Astral Buddy",
+      "score": 0.748,
       "r18": false
     },
     {
@@ -107,14 +101,14 @@
       "r18": false
     },
     {
-      "id": 19965,
-      "title": "Ibitsu no Amalgam",
+      "id": 3820,
+      "title": "Maou - Juvenile Remix",
       "score": 0.736,
       "r18": false
     },
     {
-      "id": 3820,
-      "title": "Maou - Juvenile Remix",
+      "id": 19965,
+      "title": "Ibitsu no Amalgam",
       "score": 0.736,
       "r18": false
     },
@@ -152,6 +146,12 @@
       "id": 28843,
       "title": "JoJo's Bizarre Adventure Part 4 - Diamond is Unbreakable",
       "score": 0.734,
+      "r18": false
+    },
+    {
+      "id": 8471,
+      "title": "D.C.S.G. ~Da Capo - Second Graduation~",
+      "score": 0.733,
       "r18": false
     }
   ]

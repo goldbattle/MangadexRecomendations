@@ -1,15 +1,9 @@
 {
   "id": 596,
   "title": "Destruction Princess",
-  "url": "https://mangadex.org/manga/596",
-  "last_updated": "January 17, 2021 00:58:54 UTC",
+  "url": "https://api.mangadex.org/v2/manga/596",
+  "last_updated": "February 07, 2021 00:32:17 UTC",
   "matches": [
-    {
-      "id": 2154,
-      "title": "Fukigen Cinderella",
-      "score": 0.68,
-      "r18": false
-    },
     {
       "id": 43,
       "title": "Freezing",
@@ -107,18 +101,6 @@
       "r18": false
     },
     {
-      "id": 51808,
-      "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 9803,
-      "title": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka",
-      "score": 0.652,
-      "r18": false
-    },
-    {
       "id": 643,
       "title": "Maoyuu Maou Yuusha - &quot;Kono Watashi no Mono Tonare, Yuusha yo&quot; &quot;Kotowaru!&quot;",
       "score": 0.652,
@@ -152,6 +134,24 @@
       "id": 24528,
       "title": "Kuromori-san wa Smartphone ga Tsukaenai",
       "score": 0.419,
+      "r18": false
+    },
+    {
+      "id": 14671,
+      "title": "There's a Demon Lord on the Floor",
+      "score": 0.405,
+      "r18": false
+    },
+    {
+      "id": 29548,
+      "title": "Kitaku Tochuu de Yome to Musume ga Dekita n dakedo, Dragon datta.",
+      "score": 0.392,
+      "r18": false
+    },
+    {
+      "id": 2855,
+      "title": "Crimson Grave",
+      "score": 0.375,
       "r18": false
     }
   ]

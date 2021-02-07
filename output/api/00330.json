@@ -1,13 +1,19 @@
 {
   "id": 330,
   "title": "Tubame Syndrome",
-  "url": "https://mangadex.org/manga/330",
-  "last_updated": "January 17, 2021 00:55:33 UTC",
+  "url": "https://api.mangadex.org/v2/manga/330",
+  "last_updated": "February 07, 2021 00:26:26 UTC",
   "matches": [
     {
       "id": 3554,
       "title": "Mei no Naisho",
       "score": 0.714,
+      "r18": false
+    },
+    {
+      "id": 15950,
+      "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
+      "score": 0.711,
       "r18": false
     },
     {
@@ -67,7 +73,7 @@
     {
       "id": 38972,
       "title": "The Middle-aged Man Who Just Returned From Another World Melts His Fathercon Daughters With His Paternal Skill",
-      "score": 0.699,
+      "score": 0.698,
       "r18": false
     },
     {
@@ -145,12 +151,6 @@
     {
       "id": 598,
       "title": "Girls Saurus",
-      "score": 0.691,
-      "r18": false
-    },
-    {
-      "id": 10045,
-      "title": "Ore ga Ojou-sama Gakkou ni &quot;Shomin Sample&quot; Toshite Rachirareta Ken",
       "score": 0.691,
       "r18": false
     }

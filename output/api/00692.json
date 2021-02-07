@@ -1,13 +1,13 @@
 {
   "id": 692,
   "title": "Open Sesame",
-  "url": "https://mangadex.org/manga/692",
-  "last_updated": "January 17, 2021 01:00:07 UTC",
+  "url": "https://api.mangadex.org/v2/manga/692",
+  "last_updated": "February 07, 2021 00:34:29 UTC",
   "matches": [
     {
       "id": 3507,
       "title": "Megu Miruku",
-      "score": 0.785,
+      "score": 0.786,
       "r18": false
     },
     {
@@ -29,26 +29,26 @@
       "r18": false
     },
     {
-      "id": 18221,
-      "title": "Amano Megumi wa Suki Darake!",
-      "score": 0.765,
-      "r18": false
-    },
-    {
       "id": 7700,
       "title": "Mashiroiro Symphony",
       "score": 0.765,
       "r18": false
     },
     {
-      "id": 9855,
-      "title": "Shinigami-sama to 4-nin no Kanojo",
+      "id": 18221,
+      "title": "Amano Megumi wa Suki Darake!",
       "score": 0.765,
       "r18": false
     },
     {
       "id": 3819,
       "title": "Classmate (\u2640) to Meikyuu no Futekisetsu na Kouryakuhou",
+      "score": 0.765,
+      "r18": false
+    },
+    {
+      "id": 9855,
+      "title": "Shinigami-sama to 4-nin no Kanojo",
       "score": 0.765,
       "r18": false
     },
@@ -80,6 +80,12 @@
       "id": 433,
       "title": "Rival",
       "score": 0.755,
+      "r18": false
+    },
+    {
+      "id": 15950,
+      "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
+      "score": 0.753,
       "r18": false
     },
     {
@@ -145,12 +151,6 @@
     {
       "id": 3920,
       "title": "Hameln no Violin Hiki",
-      "score": 0.747,
-      "r18": false
-    },
-    {
-      "id": 1062,
-      "title": "Shina Dark ~Kuroki Tsuki no Ou to Souheiki no Himegimi~",
       "score": 0.747,
       "r18": false
     }

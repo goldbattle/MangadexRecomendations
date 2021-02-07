@@ -1,8 +1,8 @@
 {
   "id": 1052,
   "title": "Ratman",
-  "url": "https://mangadex.org/manga/1052",
-  "last_updated": "January 17, 2021 01:04:31 UTC",
+  "url": "https://api.mangadex.org/v2/manga/1052",
+  "last_updated": "February 07, 2021 00:42:54 UTC",
   "matches": [
     {
       "id": 3507,
@@ -26,6 +26,12 @@
       "id": 6206,
       "title": "Ore ga Heroine o Tasukesugite Sekai ga Little Mokushiroku!?",
       "score": 0.675,
+      "r18": false
+    },
+    {
+      "id": 15950,
+      "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
+      "score": 0.672,
       "r18": false
     },
     {
@@ -145,12 +151,6 @@
     {
       "id": 48401,
       "title": "Me and My 26 Year Old Female Tenants",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 692,
-      "title": "Open Sesame",
       "score": 0.658,
       "r18": false
     }

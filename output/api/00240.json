@@ -1,8 +1,8 @@
 {
   "id": 240,
   "title": "Ichinensei ni Nacchattara",
-  "url": "https://mangadex.org/manga/240",
-  "last_updated": "January 17, 2021 00:54:19 UTC",
+  "url": "https://api.mangadex.org/v2/manga/240",
+  "last_updated": "February 07, 2021 00:24:26 UTC",
   "matches": [
     {
       "id": 544,
@@ -32,6 +32,12 @@
       "id": 26310,
       "title": "Waga Itoshi no Wota Kanojo",
       "score": 0.374,
+      "r18": false
+    },
+    {
+      "id": 5499,
+      "title": "Mitsudomoe",
+      "score": 0.349,
       "r18": false
     },
     {
@@ -67,7 +73,7 @@
     {
       "id": 49639,
       "title": "Alice no Hanamuko",
-      "score": 0.267,
+      "score": 0.266,
       "r18": false
     },
     {

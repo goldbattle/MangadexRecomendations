@@ -1,9 +1,15 @@
 {
   "id": 130,
   "title": "Erementar Gerad -Aozora no Senki-",
-  "url": "https://mangadex.org/manga/130",
-  "last_updated": "January 17, 2021 00:52:53 UTC",
+  "url": "https://api.mangadex.org/v2/manga/130",
+  "last_updated": "February 07, 2021 00:21:59 UTC",
   "matches": [
+    {
+      "id": 59999,
+      "title": "Save Me, Princess",
+      "score": 0.769,
+      "r18": false
+    },
     {
       "id": 11867,
       "title": "Hotarubi no Mori e",
@@ -35,12 +41,6 @@
       "r18": false
     },
     {
-      "id": 59999,
-      "title": "Save Me, Princess",
-      "score": 0.75,
-      "r18": false
-    },
-    {
       "id": 45615,
       "title": "Please Don't Call Me Queen!",
       "score": 0.749,
@@ -59,6 +59,12 @@
       "r18": false
     },
     {
+      "id": 51318,
+      "title": "Truthfully, They Only Remembered Her",
+      "score": 0.748,
+      "r18": false
+    },
+    {
       "id": 52958,
       "title": "I&rsquo;m the Villainess, but the Capture Targets Are Too Abnormal",
       "score": 0.745,
@@ -68,6 +74,12 @@
       "id": 17253,
       "title": "Tokage Ouji",
       "score": 0.745,
+      "r18": false
+    },
+    {
+      "id": 7816,
+      "title": "Folk Tail Tonakai",
+      "score": 0.744,
       "r18": false
     },
     {
@@ -139,18 +151,6 @@
     {
       "id": 6082,
       "title": "Yume Miru Happa",
-      "score": 0.734,
-      "r18": false
-    },
-    {
-      "id": 5961,
-      "title": "Missing Piece",
-      "score": 0.734,
-      "r18": false
-    },
-    {
-      "id": 40472,
-      "title": "Tearmoon Empire Story",
       "score": 0.734,
       "r18": false
     }

@@ -1,15 +1,9 @@
 {
   "id": 666,
   "title": "Giant Killing",
-  "url": "https://mangadex.org/manga/666",
-  "last_updated": "January 17, 2021 00:59:48 UTC",
+  "url": "https://api.mangadex.org/v2/manga/666",
+  "last_updated": "February 07, 2021 00:33:54 UTC",
   "matches": [
-    {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.754,
-      "r18": false
-    },
     {
       "id": 4880,
       "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
@@ -20,6 +14,12 @@
       "id": 5734,
       "title": "Moteki",
       "score": 0.743,
+      "r18": false
+    },
+    {
+      "id": 27151,
+      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
+      "score": 0.735,
       "r18": false
     },
     {
@@ -55,13 +55,7 @@
     {
       "id": 528,
       "title": "3-gatsu no Lion",
-      "score": 0.722,
-      "r18": false
-    },
-    {
-      "id": 6272,
-      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
-      "score": 0.72,
+      "score": 0.721,
       "r18": false
     },
     {
@@ -98,6 +92,12 @@
       "id": 2498,
       "title": "REAL",
       "score": 0.709,
+      "r18": false
+    },
+    {
+      "id": 6272,
+      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
+      "score": 0.708,
       "r18": false
     },
     {

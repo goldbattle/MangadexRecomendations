@@ -1,8 +1,8 @@
 {
   "id": 194,
   "title": "Dohran",
-  "url": "https://mangadex.org/manga/194",
-  "last_updated": "January 17, 2021 00:53:44 UTC",
+  "url": "https://api.mangadex.org/v2/manga/194",
+  "last_updated": "February 07, 2021 00:23:27 UTC",
   "matches": [
     {
       "id": 28735,
@@ -65,18 +65,6 @@
       "r18": false
     },
     {
-      "id": 51808,
-      "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
-      "score": 0.673,
-      "r18": false
-    },
-    {
-      "id": 9803,
-      "title": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka",
-      "score": 0.673,
-      "r18": false
-    },
-    {
       "id": 1062,
       "title": "Shina Dark ~Kuroki Tsuki no Ou to Souheiki no Himegimi~",
       "score": 0.672,
@@ -109,12 +97,18 @@
     {
       "id": 5552,
       "title": "Campione!",
-      "score": 0.669,
+      "score": 0.67,
       "r18": false
     },
     {
       "id": 31881,
       "title": "Attack of Heaven",
+      "score": 0.669,
+      "r18": false
+    },
+    {
+      "id": 15950,
+      "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
       "score": 0.669,
       "r18": false
     },
@@ -145,12 +139,18 @@
     {
       "id": 43,
       "title": "Freezing",
-      "score": 0.665,
+      "score": 0.666,
       "r18": false
     },
     {
       "id": 9175,
       "title": "Shinmai Maou no Testament",
+      "score": 0.664,
+      "r18": false
+    },
+    {
+      "id": 45104,
+      "title": "Madan no Ou to Michelia",
       "score": 0.664,
       "r18": false
     }

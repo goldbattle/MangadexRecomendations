@@ -1,15 +1,9 @@
 {
   "id": 947,
   "title": "Cheer Cheer",
-  "url": "https://mangadex.org/manga/947",
-  "last_updated": "January 17, 2021 01:03:15 UTC",
+  "url": "https://api.mangadex.org/v2/manga/947",
+  "last_updated": "February 07, 2021 00:40:17 UTC",
   "matches": [
-    {
-      "id": 1011,
-      "title": "Prison School",
-      "score": 0.788,
-      "r18": false
-    },
     {
       "id": 609,
       "title": "Musunde Hiraite",
@@ -83,6 +77,12 @@
       "r18": false
     },
     {
+      "id": 1011,
+      "title": "Prison School",
+      "score": 0.751,
+      "r18": false
+    },
+    {
       "id": 19458,
       "title": "Aruite Ippo!!",
       "score": 0.748,
@@ -97,12 +97,6 @@
     {
       "id": 48277,
       "title": "Kujibiki Unbalance",
-      "score": 0.746,
-      "r18": false
-    },
-    {
-      "id": 712,
-      "title": "Kyou no 5 no 2",
       "score": 0.746,
       "r18": false
     },
@@ -145,12 +139,18 @@
     {
       "id": 695,
       "title": "Inu Neko Jump!",
-      "score": 0.738,
+      "score": 0.737,
       "r18": false
     },
     {
       "id": 2203,
       "title": "Sekainohate de Aimashou",
+      "score": 0.736,
+      "r18": false
+    },
+    {
+      "id": 4745,
+      "title": "Schoolmate",
       "score": 0.736,
       "r18": false
     }

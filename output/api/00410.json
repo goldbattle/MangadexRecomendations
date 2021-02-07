@@ -1,8 +1,8 @@
 {
   "id": 410,
   "title": "Hayate no Gotoku!",
-  "url": "https://mangadex.org/manga/410",
-  "last_updated": "January 17, 2021 00:56:35 UTC",
+  "url": "https://api.mangadex.org/v2/manga/410",
+  "last_updated": "February 07, 2021 00:28:12 UTC",
   "matches": [
     {
       "id": 1417,
@@ -29,12 +29,6 @@
       "r18": false
     },
     {
-      "id": 21283,
-      "title": "Persona 5",
-      "score": 0.74,
-      "r18": false
-    },
-    {
       "id": 19671,
       "title": "Sword Art Online - Project Alicization",
       "score": 0.739,
@@ -50,12 +44,6 @@
       "id": 41744,
       "title": "Shi ni Modori, Subete wo Sukuu Tame ni Saikyou he to Itaru",
       "score": 0.736,
-      "r18": false
-    },
-    {
-      "id": 219,
-      "title": "Akame ga KILL!",
-      "score": 0.734,
       "r18": false
     },
     {
@@ -127,7 +115,7 @@
     {
       "id": 24383,
       "title": "Rurouni Kenshin Ibun: Ashitarou Zenka Ari",
-      "score": 0.729,
+      "score": 0.728,
       "r18": false
     },
     {
@@ -151,6 +139,18 @@
     {
       "id": 1552,
       "title": "Melty Blood",
+      "score": 0.727,
+      "r18": false
+    },
+    {
+      "id": 5683,
+      "title": "Mononoke Hime",
+      "score": 0.727,
+      "r18": false
+    },
+    {
+      "id": 4548,
+      "title": "Rokudenashi Blues",
       "score": 0.727,
       "r18": false
     }

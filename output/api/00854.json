@@ -1,8 +1,8 @@
 {
   "id": 854,
   "title": "Ouke no Monshou",
-  "url": "https://mangadex.org/manga/854",
-  "last_updated": "January 17, 2021 01:02:05 UTC",
+  "url": "https://api.mangadex.org/v2/manga/854",
+  "last_updated": "February 07, 2021 00:38:10 UTC",
   "matches": [
     {
       "id": 5993,
@@ -53,6 +53,12 @@
       "r18": false
     },
     {
+      "id": 7853,
+      "title": "Pharaoh no Haka",
+      "score": 0.734,
+      "r18": false
+    },
+    {
       "id": 2353,
       "title": "A Million Pound Love",
       "score": 0.733,
@@ -67,12 +73,6 @@
     {
       "id": 52958,
       "title": "I&rsquo;m the Villainess, but the Capture Targets Are Too Abnormal",
-      "score": 0.73,
-      "r18": false
-    },
-    {
-      "id": 7853,
-      "title": "Pharaoh no Haka",
       "score": 0.73,
       "r18": false
     },
@@ -127,7 +127,13 @@
     {
       "id": 2118,
       "title": "NANA",
-      "score": 0.725,
+      "score": 0.724,
+      "r18": false
+    },
+    {
+      "id": 51318,
+      "title": "Truthfully, They Only Remembered Her",
+      "score": 0.723,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 1115,
       "title": "Candy Candy",
       "score": 0.722,
-      "r18": false
-    },
-    {
-      "id": 49644,
-      "title": "The Villainess Lives Twice",
-      "score": 0.721,
       "r18": false
     }
   ]

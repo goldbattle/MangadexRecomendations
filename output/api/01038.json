@@ -1,8 +1,8 @@
 {
   "id": 1038,
   "title": "Shikigami no Shiro",
-  "url": "https://mangadex.org/manga/1038",
-  "last_updated": "January 17, 2021 01:04:22 UTC",
+  "url": "https://api.mangadex.org/v2/manga/1038",
+  "last_updated": "February 07, 2021 00:42:26 UTC",
   "matches": [
     {
       "id": 281,
@@ -17,15 +17,9 @@
       "r18": false
     },
     {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.716,
-      "r18": false
-    },
-    {
       "id": 4880,
       "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
-      "score": 0.715,
+      "score": 0.714,
       "r18": false
     },
     {
@@ -37,6 +31,12 @@
     {
       "id": 1034,
       "title": "Persona 4",
+      "score": 0.704,
+      "r18": false
+    },
+    {
+      "id": 27151,
+      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
       "score": 0.704,
       "r18": false
     },
@@ -67,7 +67,7 @@
     {
       "id": 2662,
       "title": "Jumbor",
-      "score": 0.697,
+      "score": 0.696,
       "r18": false
     },
     {
@@ -91,19 +91,13 @@
     {
       "id": 42854,
       "title": "Shin Megami Tensei - If...",
-      "score": 0.693,
+      "score": 0.692,
       "r18": false
     },
     {
       "id": 15165,
       "title": "Vampire Hunter D",
       "score": 0.69,
-      "r18": false
-    },
-    {
-      "id": 6272,
-      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
-      "score": 0.687,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 28193,
       "title": "Houshin Engi Gaiden",
       "score": 0.681,
+      "r18": false
+    },
+    {
+      "id": 6272,
+      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
+      "score": 0.68,
       "r18": false
     }
   ]

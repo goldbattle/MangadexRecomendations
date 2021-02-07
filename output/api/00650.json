@@ -1,8 +1,8 @@
 {
   "id": 650,
   "title": "School Days",
-  "url": "https://mangadex.org/manga/650",
-  "last_updated": "January 17, 2021 00:59:35 UTC",
+  "url": "https://api.mangadex.org/v2/manga/650",
+  "last_updated": "February 07, 2021 00:33:31 UTC",
   "matches": [
     {
       "id": 148,
@@ -47,12 +47,6 @@
       "r18": false
     },
     {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.768,
-      "r18": false
-    },
-    {
       "id": 8495,
       "title": "Persona 3",
       "score": 0.767,
@@ -73,12 +67,6 @@
     {
       "id": 1714,
       "title": "Kara no Kyoukai - The Garden of Sinners",
-      "score": 0.766,
-      "r18": false
-    },
-    {
-      "id": 12326,
-      "title": "Love Live! - School Idol Project",
       "score": 0.766,
       "r18": false
     },
@@ -145,13 +133,25 @@
     {
       "id": 6581,
       "title": "Dr. Koto Shinryoujo",
-      "score": 0.757,
+      "score": 0.758,
       "r18": false
     },
     {
       "id": 34328,
       "title": "H.P. Lovecraft's The Hound and Other Stories",
       "score": 0.757,
+      "r18": false
+    },
+    {
+      "id": 20537,
+      "title": "Seirei Gensouki ~Konna Sekai de Deaeta Kimi ni~",
+      "score": 0.757,
+      "r18": false
+    },
+    {
+      "id": 1631,
+      "title": "Marriage Royale",
+      "score": 0.756,
       "r18": false
     }
   ]

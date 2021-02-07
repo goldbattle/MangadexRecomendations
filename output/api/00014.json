@@ -2,12 +2,12 @@
   "id": 14,
   "title": "Green Boy",
   "url": "https://api.mangadex.org/v2/manga/14",
-  "last_updated": "February 03, 2021 07:00:53 UTC",
+  "last_updated": "February 07, 2021 00:19:12 UTC",
   "matches": [
     {
       "id": 1898,
       "title": "Legend Hustle",
-      "score": 0.683,
+      "score": 0.684,
       "r18": false
     },
     {
@@ -71,12 +71,6 @@
       "r18": false
     },
     {
-      "id": 12714,
-      "title": "Boku no Hero Academia",
-      "score": 0.65,
-      "r18": false
-    },
-    {
       "id": 6270,
       "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo (Official Colored)",
       "score": 0.65,
@@ -85,12 +79,6 @@
     {
       "id": 711,
       "title": "Watashitachi no Tamura-kun",
-      "score": 0.65,
-      "r18": false
-    },
-    {
-      "id": 219,
-      "title": "Akame ga KILL!",
       "score": 0.65,
       "r18": false
     },
@@ -133,7 +121,7 @@
     {
       "id": 31889,
       "title": "Outlaws",
-      "score": 0.347,
+      "score": 0.348,
       "r18": false
     },
     {
@@ -149,9 +137,21 @@
       "r18": false
     },
     {
-      "id": 50131,
-      "title": "Nam Goong Sae Ga Prince",
-      "score": 0.341,
+      "id": 11260,
+      "title": "Free Draw",
+      "score": 0.34,
+      "r18": false
+    },
+    {
+      "id": 31392,
+      "title": "The Girl from Random Chatting!",
+      "score": 0.339,
+      "r18": false
+    },
+    {
+      "id": 38508,
+      "title": "Kingdom of Losers",
+      "score": 0.339,
       "r18": false
     }
   ]

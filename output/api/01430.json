@@ -1,8 +1,8 @@
 {
   "id": 1430,
   "title": "Umineko no Naku Koro ni Tsubasa",
-  "url": "https://mangadex.org/manga/1430",
-  "last_updated": "January 17, 2021 01:08:51 UTC",
+  "url": "https://api.mangadex.org/v2/manga/1430",
+  "last_updated": "February 07, 2021 00:51:10 UTC",
   "matches": [
     {
       "id": 1427,
@@ -41,12 +41,6 @@
       "r18": false
     },
     {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.743,
-      "r18": false
-    },
-    {
       "id": 4880,
       "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
       "score": 0.742,
@@ -73,7 +67,7 @@
     {
       "id": 4135,
       "title": "Mushishi",
-      "score": 0.728,
+      "score": 0.73,
       "r18": false
     },
     {
@@ -86,6 +80,12 @@
       "id": 2712,
       "title": "Blame!",
       "score": 0.726,
+      "r18": false
+    },
+    {
+      "id": 27151,
+      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
+      "score": 0.723,
       "r18": false
     },
     {
@@ -119,15 +119,21 @@
       "r18": false
     },
     {
+      "id": 9829,
+      "title": "Immortal Hounds",
+      "score": 0.72,
+      "r18": false
+    },
+    {
       "id": 17623,
       "title": "Iwaihime",
       "score": 0.72,
       "r18": false
     },
     {
-      "id": 9829,
-      "title": "Immortal Hounds",
-      "score": 0.717,
+      "id": 19505,
+      "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+      "score": 0.718,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 18016,
       "title": "Under Execution, Under Jailbreak",
       "score": 0.715,
-      "r18": false
-    },
-    {
-      "id": 28617,
-      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run",
-      "score": 0.714,
       "r18": false
     }
   ]

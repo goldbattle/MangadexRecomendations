@@ -1,8 +1,8 @@
 {
   "id": 1434,
   "title": "Sengoku Youko",
-  "url": "https://mangadex.org/manga/1434",
-  "last_updated": "January 17, 2021 01:08:54 UTC",
+  "url": "https://api.mangadex.org/v2/manga/1434",
+  "last_updated": "February 07, 2021 00:51:15 UTC",
   "matches": [
     {
       "id": 7956,
@@ -25,7 +25,7 @@
     {
       "id": 6831,
       "title": "Kimi no Kakera",
-      "score": 0.725,
+      "score": 0.724,
       "r18": false
     },
     {
@@ -37,12 +37,6 @@
     {
       "id": 23231,
       "title": "Wu Dong Qian Kun",
-      "score": 0.721,
-      "r18": false
-    },
-    {
-      "id": 5861,
-      "title": "Slayers - Suiriyuuou no Kishi",
       "score": 0.721,
       "r18": false
     },
@@ -127,7 +121,7 @@
     {
       "id": 10974,
       "title": "Full Metal Panic! Another",
-      "score": 0.709,
+      "score": 0.708,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 5201,
       "title": "Bloodline - Fantasy Day",
       "score": 0.708,
+      "r18": false
+    },
+    {
+      "id": 3089,
+      "title": "Corpse Party - Another Child",
+      "score": 0.707,
       "r18": false
     }
   ]

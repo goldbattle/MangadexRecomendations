@@ -1,8 +1,8 @@
 {
   "id": 380,
   "title": "Wait! Wolf",
-  "url": "https://mangadex.org/manga/380",
-  "last_updated": "January 17, 2021 00:56:12 UTC",
+  "url": "https://api.mangadex.org/v2/manga/380",
+  "last_updated": "February 07, 2021 00:27:31 UTC",
   "matches": [
     {
       "id": 2739,
@@ -20,30 +20,6 @@
       "id": 2748,
       "title": "Bodyguard",
       "score": 0.65,
-      "r18": false
-    },
-    {
-      "id": 3709,
-      "title": "Hana Yori Dango",
-      "score": 0.441,
-      "r18": false
-    },
-    {
-      "id": 4820,
-      "title": "Mei-chan no Shitsuji",
-      "score": 0.433,
-      "r18": false
-    },
-    {
-      "id": 4220,
-      "title": "Anta Nante Okotowari!",
-      "score": 0.428,
-      "r18": false
-    },
-    {
-      "id": 3082,
-      "title": "Get Love!! ~Field no Ouji-sama~",
-      "score": 0.423,
       "r18": false
     },
     {
@@ -83,12 +59,6 @@
       "r18": false
     },
     {
-      "id": 3611,
-      "title": "Kyuukyoku Venus",
-      "score": 0.4,
-      "r18": false
-    },
-    {
       "id": 3453,
       "title": "Hizamazuite Ai wo Chikae",
       "score": 0.399,
@@ -125,20 +95,8 @@
       "r18": false
     },
     {
-      "id": 12037,
-      "title": "Rockin' \u2605 Heaven",
-      "score": 0.395,
-      "r18": false
-    },
-    {
       "id": 7822,
       "title": "Koi to Gunkan",
-      "score": 0.394,
-      "r18": false
-    },
-    {
-      "id": 7170,
-      "title": "Billion Girl",
       "score": 0.394,
       "r18": false
     },
@@ -152,6 +110,48 @@
       "id": 4046,
       "title": "Hana ni Arashi",
       "score": 0.393,
+      "r18": false
+    },
+    {
+      "id": 55488,
+      "title": "Ice Ice Baby",
+      "score": 0.393,
+      "r18": false
+    },
+    {
+      "id": 2291,
+      "title": "Chocolate Cosmos",
+      "score": 0.392,
+      "r18": false
+    },
+    {
+      "id": 13685,
+      "title": "Watashi no Ookami-kun",
+      "score": 0.392,
+      "r18": false
+    },
+    {
+      "id": 2103,
+      "title": "Boku ni Natta Watashi",
+      "score": 0.391,
+      "r18": false
+    },
+    {
+      "id": 4359,
+      "title": "Himitsu Kichi",
+      "score": 0.391,
+      "r18": false
+    },
+    {
+      "id": 6328,
+      "title": "Nijiiro Days",
+      "score": 0.39,
+      "r18": false
+    },
+    {
+      "id": 28134,
+      "title": "Kareki ni Koi o Sakasemasu",
+      "score": 0.39,
       "r18": false
     }
   ]

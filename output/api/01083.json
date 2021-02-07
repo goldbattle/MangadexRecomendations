@@ -1,8 +1,8 @@
 {
   "id": 1083,
   "title": "Bamboo Blade",
-  "url": "https://mangadex.org/manga/1083",
-  "last_updated": "January 17, 2021 01:04:54 UTC",
+  "url": "https://api.mangadex.org/v2/manga/1083",
+  "last_updated": "February 07, 2021 00:43:44 UTC",
   "matches": [
     {
       "id": 52836,
@@ -131,12 +131,6 @@
       "r18": false
     },
     {
-      "id": 44119,
-      "title": "Bouryoku Tantei",
-      "score": 0.688,
-      "r18": false
-    },
-    {
       "id": 11766,
       "title": "All Out!!",
       "score": 0.686,
@@ -152,6 +146,12 @@
       "id": 48645,
       "title": "The Reincarnated &quot;Sword Saint&quot;  Wants to Take It Easy",
       "score": 0.685,
+      "r18": false
+    },
+    {
+      "id": 3232,
+      "title": "Yawara!",
+      "score": 0.684,
       "r18": false
     }
   ]

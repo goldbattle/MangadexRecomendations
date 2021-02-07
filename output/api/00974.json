@@ -1,8 +1,8 @@
 {
   "id": 974,
   "title": "Akikan!",
-  "url": "https://mangadex.org/manga/974",
-  "last_updated": "January 17, 2021 01:03:35 UTC",
+  "url": "https://api.mangadex.org/v2/manga/974",
+  "last_updated": "February 07, 2021 00:40:55 UTC",
   "matches": [
     {
       "id": 1070,
@@ -43,7 +43,7 @@
     {
       "id": 3905,
       "title": "B-Shock",
-      "score": 0.681,
+      "score": 0.68,
       "r18": false
     },
     {
@@ -71,20 +71,8 @@
       "r18": false
     },
     {
-      "id": 1011,
-      "title": "Prison School",
-      "score": 0.677,
-      "r18": false
-    },
-    {
       "id": 6980,
       "title": "Kimikiss ~Sweet Lips~",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 2154,
-      "title": "Fukigen Cinderella",
       "score": 0.677,
       "r18": false
     },
@@ -101,14 +89,14 @@
       "r18": false
     },
     {
-      "id": 10478,
-      "title": "Saenai Kanojo (Heroine) no Sodatekata - Koisuru Metronome",
+      "id": 4346,
+      "title": "Hidan no Aria AA",
       "score": 0.673,
       "r18": false
     },
     {
-      "id": 4346,
-      "title": "Hidan no Aria AA",
+      "id": 10478,
+      "title": "Saenai Kanojo (Heroine) no Sodatekata - Koisuru Metronome",
       "score": 0.673,
       "r18": false
     },
@@ -152,6 +140,18 @@
       "id": 1715,
       "title": "Oniichan dakedo Ai Sae Areba Kankeinai yo ne",
       "score": 0.67,
+      "r18": false
+    },
+    {
+      "id": 2116,
+      "title": "Cu-Cu-Cute!",
+      "score": 0.67,
+      "r18": false
+    },
+    {
+      "id": 1243,
+      "title": "Magikano",
+      "score": 0.669,
       "r18": false
     }
   ]

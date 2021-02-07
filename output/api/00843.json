@@ -1,8 +1,8 @@
 {
   "id": 843,
   "title": "20th Century Boys",
-  "url": "https://mangadex.org/manga/843",
-  "last_updated": "January 17, 2021 01:01:57 UTC",
+  "url": "https://api.mangadex.org/v2/manga/843",
+  "last_updated": "February 07, 2021 00:37:54 UTC",
   "matches": [
     {
       "id": 7574,
@@ -35,12 +35,6 @@
       "r18": false
     },
     {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.772,
-      "r18": false
-    },
-    {
       "id": 4880,
       "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
       "score": 0.772,
@@ -55,6 +49,12 @@
     {
       "id": 16825,
       "title": "Ginga Eiyuu Densetsu",
+      "score": 0.77,
+      "r18": false
+    },
+    {
+      "id": 4135,
+      "title": "Mushishi",
       "score": 0.77,
       "r18": false
     },
@@ -83,15 +83,9 @@
       "r18": false
     },
     {
-      "id": 4135,
-      "title": "Mushishi",
-      "score": 0.768,
-      "r18": false
-    },
-    {
       "id": 1120,
       "title": "Ultra Heaven",
-      "score": 0.767,
+      "score": 0.768,
       "r18": false
     },
     {
@@ -101,8 +95,20 @@
       "r18": false
     },
     {
+      "id": 9829,
+      "title": "Immortal Hounds",
+      "score": 0.765,
+      "r18": false
+    },
+    {
       "id": 5755,
       "title": "Yuunagi no Machi Sakura no Kuni",
+      "score": 0.764,
+      "r18": false
+    },
+    {
+      "id": 19505,
+      "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
       "score": 0.764,
       "r18": false
     },
@@ -116,12 +122,6 @@
       "id": 5734,
       "title": "Moteki",
       "score": 0.763,
-      "r18": false
-    },
-    {
-      "id": 9829,
-      "title": "Immortal Hounds",
-      "score": 0.762,
       "r18": false
     },
     {

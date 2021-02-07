@@ -1,8 +1,8 @@
 {
   "id": 1356,
   "title": "God's Left Hand, Devil's Right Hand",
-  "url": "https://mangadex.org/manga/1356",
-  "last_updated": "January 17, 2021 01:08:00 UTC",
+  "url": "https://api.mangadex.org/v2/manga/1356",
+  "last_updated": "February 07, 2021 00:49:32 UTC",
   "matches": [
     {
       "id": 34328,
@@ -41,21 +41,9 @@
       "r18": false
     },
     {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.711,
-      "r18": false
-    },
-    {
       "id": 4880,
       "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
       "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 14441,
-      "title": "Fate/strange Fake",
-      "score": 0.71,
       "r18": false
     },
     {
@@ -85,6 +73,12 @@
     {
       "id": 1765,
       "title": "Umineko no Naku Koro ni Chiru Episode 6: Dawn of the Golden Witch",
+      "score": 0.703,
+      "r18": false
+    },
+    {
+      "id": 4135,
+      "title": "Mushishi",
       "score": 0.703,
       "r18": false
     },
@@ -125,15 +119,15 @@
       "r18": false
     },
     {
-      "id": 4135,
-      "title": "Mushishi",
-      "score": 0.701,
-      "r18": false
-    },
-    {
       "id": 1034,
       "title": "Persona 4",
       "score": 0.7,
+      "r18": false
+    },
+    {
+      "id": 27151,
+      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
+      "score": 0.699,
       "r18": false
     },
     {
@@ -149,9 +143,15 @@
       "r18": false
     },
     {
-      "id": 6272,
-      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
-      "score": 0.696,
+      "id": 41767,
+      "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Daiyonshou - Seiiki to Gouyoku no Majou",
+      "score": 0.695,
+      "r18": false
+    },
+    {
+      "id": 13433,
+      "title": "Okitenemuru",
+      "score": 0.695,
       "r18": false
     }
   ]

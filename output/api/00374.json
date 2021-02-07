@@ -1,8 +1,8 @@
 {
   "id": 374,
   "title": "Adekan",
-  "url": "https://mangadex.org/manga/374",
-  "last_updated": "January 17, 2021 00:56:09 UTC",
+  "url": "https://api.mangadex.org/v2/manga/374",
+  "last_updated": "February 07, 2021 00:27:24 UTC",
   "matches": [
     {
       "id": 45628,
@@ -73,7 +73,7 @@
     {
       "id": 4802,
       "title": "Junketsu + Kareshi",
-      "score": 0.659,
+      "score": 0.66,
       "r18": false
     },
     {
@@ -103,7 +103,7 @@
     {
       "id": 47815,
       "title": "I'll Protect the 2nd ML's Love",
-      "score": 0.655,
+      "score": 0.656,
       "r18": false
     },
     {
@@ -125,14 +125,20 @@
       "r18": false
     },
     {
+      "id": 3865,
+      "title": "Ghost Hunt",
+      "score": 0.652,
+      "r18": false
+    },
+    {
       "id": 55205,
       "title": "Night Crying Crow",
       "score": 0.652,
       "r18": false
     },
     {
-      "id": 3865,
-      "title": "Ghost Hunt",
+      "id": 6301,
+      "title": "Akumu no Sumu Ie - Ghost Hunt",
       "score": 0.652,
       "r18": false
     },
@@ -145,13 +151,7 @@
     {
       "id": 3514,
       "title": "Nemurenu Chou",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 3284,
-      "title": "Yasashii Ryuu no Koroshikata",
-      "score": 0.651,
+      "score": 0.65,
       "r18": false
     }
   ]

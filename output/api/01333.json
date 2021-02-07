@@ -1,19 +1,13 @@
 {
   "id": 1333,
   "title": "Ann Cassandra",
-  "url": "https://mangadex.org/manga/1333",
-  "last_updated": "January 17, 2021 01:07:44 UTC",
+  "url": "https://api.mangadex.org/v2/manga/1333",
+  "last_updated": "February 07, 2021 00:49:06 UTC",
   "matches": [
-    {
-      "id": 21283,
-      "title": "Persona 5",
-      "score": 0.737,
-      "r18": false
-    },
     {
       "id": 446,
       "title": "Ushiro no Shindere-san",
-      "score": 0.737,
+      "score": 0.736,
       "r18": false
     },
     {
@@ -31,13 +25,13 @@
     {
       "id": 22236,
       "title": "Rurouni Kenshin: Hokkaido-hen",
-      "score": 0.729,
+      "score": 0.728,
       "r18": false
     },
     {
       "id": 3089,
       "title": "Corpse Party - Another Child",
-      "score": 0.726,
+      "score": 0.725,
       "r18": false
     },
     {
@@ -56,18 +50,6 @@
       "id": 3918,
       "title": "Magic Kaito",
       "score": 0.724,
-      "r18": false
-    },
-    {
-      "id": 12714,
-      "title": "Boku no Hero Academia",
-      "score": 0.723,
-      "r18": false
-    },
-    {
-      "id": 50672,
-      "title": "My Hero Academia - League Of Villains: Undercover (Fan Colored)",
-      "score": 0.722,
       "r18": false
     },
     {
@@ -121,7 +103,7 @@
     {
       "id": 28525,
       "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo",
-      "score": 0.713,
+      "score": 0.712,
       "r18": false
     },
     {
@@ -152,6 +134,24 @@
       "id": 32259,
       "title": "My Girlfriend Is a Villain",
       "score": 0.711,
+      "r18": false
+    },
+    {
+      "id": 967,
+      "title": "Tokyo ESP",
+      "score": 0.711,
+      "r18": false
+    },
+    {
+      "id": 2346,
+      "title": "Shakugan no Shana",
+      "score": 0.71,
+      "r18": false
+    },
+    {
+      "id": 2066,
+      "title": "The Living Dead!",
+      "score": 0.71,
       "r18": false
     }
   ]

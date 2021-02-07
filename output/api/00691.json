@@ -1,21 +1,9 @@
 {
   "id": 691,
   "title": "Hot Milk",
-  "url": "https://mangadex.org/manga/691",
-  "last_updated": "January 17, 2021 01:00:06 UTC",
+  "url": "https://api.mangadex.org/v2/manga/691",
+  "last_updated": "February 07, 2021 00:34:27 UTC",
   "matches": [
-    {
-      "id": 9803,
-      "title": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka",
-      "score": 0.667,
-      "r18": false
-    },
-    {
-      "id": 51808,
-      "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
-      "score": 0.667,
-      "r18": false
-    },
     {
       "id": 2466,
       "title": "Kenka Shoubai",
@@ -43,7 +31,7 @@
     {
       "id": 2588,
       "title": "Saru Lock",
-      "score": 0.655,
+      "score": 0.656,
       "r18": false
     },
     {
@@ -61,7 +49,7 @@
     {
       "id": 13282,
       "title": "Iron Virgin Jun",
-      "score": 0.651,
+      "score": 0.652,
       "r18": false
     },
     {
@@ -149,9 +137,21 @@
       "r18": false
     },
     {
-      "id": 9391,
-      "title": "Koukaku no Pandora - Ghost Urn",
-      "score": 0.382,
+      "id": 14794,
+      "title": "Duel!",
+      "score": 0.379,
+      "r18": false
+    },
+    {
+      "id": 6705,
+      "title": "Shinbashi no Miko",
+      "score": 0.376,
+      "r18": false
+    },
+    {
+      "id": 2380,
+      "title": "Battle Club",
+      "score": 0.372,
       "r18": false
     }
   ]

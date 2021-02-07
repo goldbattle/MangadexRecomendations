@@ -1,8 +1,8 @@
 {
   "id": 684,
   "title": "Kuroko no Basket",
-  "url": "https://mangadex.org/manga/684",
-  "last_updated": "January 17, 2021 01:00:01 UTC",
+  "url": "https://api.mangadex.org/v2/manga/684",
+  "last_updated": "February 07, 2021 00:34:18 UTC",
   "matches": [
     {
       "id": 4632,
@@ -31,7 +31,7 @@
     {
       "id": 33249,
       "title": "Slam Dunk (Fan Colored)",
-      "score": 0.785,
+      "score": 0.786,
       "r18": false
     },
     {
@@ -55,13 +55,13 @@
     {
       "id": 881,
       "title": "Ahiru no Sora",
-      "score": 0.757,
+      "score": 0.758,
       "r18": false
     },
     {
       "id": 49296,
       "title": "Garbage Time - Basketball Underdogs",
-      "score": 0.751,
+      "score": 0.752,
       "r18": false
     },
     {
@@ -101,12 +101,6 @@
       "r18": false
     },
     {
-      "id": 21283,
-      "title": "Persona 5",
-      "score": 0.734,
-      "r18": false
-    },
-    {
       "id": 10974,
       "title": "Full Metal Panic! Another",
       "score": 0.733,
@@ -127,13 +121,13 @@
     {
       "id": 25435,
       "title": "Madara",
-      "score": 0.731,
+      "score": 0.73,
       "r18": false
     },
     {
       "id": 1281,
       "title": "Touch",
-      "score": 0.731,
+      "score": 0.73,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 53985,
       "title": "Dragon Raja 3",
       "score": 0.726,
+      "r18": false
+    },
+    {
+      "id": 5573,
+      "title": "Saiyuki",
+      "score": 0.725,
       "r18": false
     }
   ]

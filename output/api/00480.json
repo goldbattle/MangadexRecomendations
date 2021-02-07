@@ -1,8 +1,8 @@
 {
   "id": 480,
   "title": "Those Who Chase the Ageha",
-  "url": "https://mangadex.org/manga/480",
-  "last_updated": "January 17, 2021 00:57:27 UTC",
+  "url": "https://api.mangadex.org/v2/manga/480",
+  "last_updated": "February 07, 2021 00:29:46 UTC",
   "matches": [
     {
       "id": 17000,
@@ -13,7 +13,7 @@
     {
       "id": 643,
       "title": "Maoyuu Maou Yuusha - &quot;Kono Watashi no Mono Tonare, Yuusha yo&quot; &quot;Kotowaru!&quot;",
-      "score": 0.711,
+      "score": 0.71,
       "r18": false
     },
     {
@@ -71,18 +71,6 @@
       "r18": false
     },
     {
-      "id": 9803,
-      "title": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka",
-      "score": 0.692,
-      "r18": false
-    },
-    {
-      "id": 51808,
-      "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
-      "score": 0.691,
-      "r18": false
-    },
-    {
       "id": 22004,
       "title": "Kamen Rider W: Fuuto Tantei",
       "score": 0.691,
@@ -115,7 +103,7 @@
     {
       "id": 12514,
       "title": "Uchuu Eiyuu Monogatari",
-      "score": 0.681,
+      "score": 0.682,
       "r18": false
     },
     {
@@ -152,6 +140,18 @@
       "id": 42076,
       "title": "Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life",
       "score": 0.671,
+      "r18": false
+    },
+    {
+      "id": 17812,
+      "title": "Kouritsu-Chuu Madoushi, Daini no Jinsei de Madou wo Kiwameru",
+      "score": 0.67,
+      "r18": false
+    },
+    {
+      "id": 5477,
+      "title": "Hagure Yuusha no Estetica",
+      "score": 0.67,
       "r18": false
     }
   ]

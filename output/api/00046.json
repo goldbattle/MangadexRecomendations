@@ -2,7 +2,7 @@
   "id": 46,
   "title": "Witch Craft Works",
   "url": "https://api.mangadex.org/v2/manga/46",
-  "last_updated": "February 03, 2021 07:01:37 UTC",
+  "last_updated": "February 07, 2021 00:19:59 UTC",
   "matches": [
     {
       "id": 345,
@@ -41,12 +41,6 @@
       "r18": false
     },
     {
-      "id": 12326,
-      "title": "Love Live! - School Idol Project",
-      "score": 0.758,
-      "r18": false
-    },
-    {
       "id": 1414,
       "title": "DARKER THAN BLACK -Shikkoku no Hana-",
       "score": 0.756,
@@ -68,18 +62,6 @@
       "id": 4880,
       "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
       "score": 0.752,
-      "r18": false
-    },
-    {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.752,
-      "r18": false
-    },
-    {
-      "id": 15286,
-      "title": "Fate/stay night: Heaven's Feel",
-      "score": 0.75,
       "r18": false
     },
     {
@@ -107,9 +89,9 @@
       "r18": false
     },
     {
-      "id": 875,
-      "title": "Bokura wa Minna Kawai-sou",
-      "score": 0.745,
+      "id": 15286,
+      "title": "Fate/stay night: Heaven's Feel",
+      "score": 0.744,
       "r18": false
     },
     {
@@ -152,6 +134,24 @@
       "id": 281,
       "title": "Trigun Maximum",
       "score": 0.741,
+      "r18": false
+    },
+    {
+      "id": 222,
+      "title": "Hoshi no Samidare",
+      "score": 0.741,
+      "r18": false
+    },
+    {
+      "id": 1770,
+      "title": "Klan",
+      "score": 0.74,
+      "r18": false
+    },
+    {
+      "id": 148,
+      "title": "Destroy and Revolution",
+      "score": 0.74,
       "r18": false
     }
   ]

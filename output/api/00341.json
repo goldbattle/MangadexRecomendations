@@ -1,8 +1,8 @@
 {
   "id": 341,
   "title": "Boku wa Tomodachi ga Sukunai",
-  "url": "https://mangadex.org/manga/341",
-  "last_updated": "January 17, 2021 00:55:42 UTC",
+  "url": "https://api.mangadex.org/v2/manga/341",
+  "last_updated": "February 07, 2021 00:26:42 UTC",
   "matches": [
     {
       "id": 39511,
@@ -29,12 +29,6 @@
       "r18": false
     },
     {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.741,
-      "r18": false
-    },
-    {
       "id": 4880,
       "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
       "score": 0.74,
@@ -49,12 +43,6 @@
     {
       "id": 2766,
       "title": "Cross Days",
-      "score": 0.74,
-      "r18": false
-    },
-    {
-      "id": 7938,
-      "title": "Denkigai no Honya-san",
       "score": 0.74,
       "r18": false
     },
@@ -91,12 +79,6 @@
     {
       "id": 7455,
       "title": "Bamora!",
-      "score": 0.735,
-      "r18": false
-    },
-    {
-      "id": 345,
-      "title": "5 Centimeters Per Second",
       "score": 0.734,
       "r18": false
     },
@@ -104,6 +86,12 @@
       "id": 22078,
       "title": "Saotome Senshu, Hitakakusu",
       "score": 0.734,
+      "r18": false
+    },
+    {
+      "id": 345,
+      "title": "5 Centimeters Per Second",
+      "score": 0.733,
       "r18": false
     },
     {
@@ -125,20 +113,14 @@
       "r18": false
     },
     {
-      "id": 35626,
-      "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Kenki Koiuta",
-      "score": 0.731,
-      "r18": false
-    },
-    {
       "id": 20348,
       "title": "The King's Avatar",
       "score": 0.731,
       "r18": false
     },
     {
-      "id": 46,
-      "title": "Witch Craft Works",
+      "id": 35626,
+      "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Kenki Koiuta",
       "score": 0.731,
       "r18": false
     },
@@ -149,8 +131,26 @@
       "r18": false
     },
     {
+      "id": 46,
+      "title": "Witch Craft Works",
+      "score": 0.731,
+      "r18": false
+    },
+    {
       "id": 7233,
       "title": "Watashi no Taisetsu na Tomodachi",
+      "score": 0.731,
+      "r18": false
+    },
+    {
+      "id": 99,
+      "title": "Billionaire Girl",
+      "score": 0.731,
+      "r18": false
+    },
+    {
+      "id": 49477,
+      "title": "Tantei wa Mou, Shindeiru",
       "score": 0.731,
       "r18": false
     }

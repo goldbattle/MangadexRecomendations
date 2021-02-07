@@ -1,8 +1,8 @@
 {
   "id": 676,
   "title": "Orange Marmalade",
-  "url": "https://mangadex.org/manga/676",
-  "last_updated": "January 17, 2021 00:59:55 UTC",
+  "url": "https://api.mangadex.org/v2/manga/676",
+  "last_updated": "February 07, 2021 00:34:07 UTC",
   "matches": [
     {
       "id": 5944,
@@ -49,7 +49,7 @@
     {
       "id": 1626,
       "title": "Yorugata Aijin Senmonten - Bloodhound",
-      "score": 0.71,
+      "score": 0.709,
       "r18": false
     },
     {
@@ -68,12 +68,6 @@
       "id": 2270,
       "title": "Kakumei no Hi",
       "score": 0.704,
-      "r18": false
-    },
-    {
-      "id": 3865,
-      "title": "Ghost Hunt",
-      "score": 0.703,
       "r18": false
     },
     {
@@ -109,6 +103,12 @@
     {
       "id": 24576,
       "title": "Kirameki no Lion Boy",
+      "score": 0.697,
+      "r18": false
+    },
+    {
+      "id": 3865,
+      "title": "Ghost Hunt",
       "score": 0.697,
       "r18": false
     },

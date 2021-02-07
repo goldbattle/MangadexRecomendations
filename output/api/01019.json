@@ -1,8 +1,8 @@
 {
   "id": 1019,
   "title": "Bonnouji",
-  "url": "https://mangadex.org/manga/1019",
-  "last_updated": "January 17, 2021 01:04:09 UTC",
+  "url": "https://api.mangadex.org/v2/manga/1019",
+  "last_updated": "February 07, 2021 00:42:01 UTC",
   "matches": [
     {
       "id": 4615,
@@ -20,12 +20,6 @@
       "id": 45281,
       "title": "I Love You, as a Friend",
       "score": 0.727,
-      "r18": false
-    },
-    {
-      "id": 875,
-      "title": "Bokura wa Minna Kawai-sou",
-      "score": 0.724,
       "r18": false
     },
     {
@@ -47,6 +41,12 @@
       "r18": false
     },
     {
+      "id": 875,
+      "title": "Bokura wa Minna Kawai-sou",
+      "score": 0.709,
+      "r18": false
+    },
+    {
       "id": 341,
       "title": "Boku wa Tomodachi ga Sukunai",
       "score": 0.709,
@@ -65,14 +65,20 @@
       "r18": false
     },
     {
-      "id": 22143,
-      "title": "Jikkyou!! Izumi-kun no Koi Moyou",
-      "score": 0.705,
+      "id": 19505,
+      "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+      "score": 0.706,
       "r18": false
     },
     {
       "id": 12132,
       "title": "Wanitokagegisu",
+      "score": 0.705,
+      "r18": false
+    },
+    {
+      "id": 22143,
+      "title": "Jikkyou!! Izumi-kun no Koi Moyou",
       "score": 0.705,
       "r18": false
     },
@@ -97,12 +103,6 @@
     {
       "id": 53809,
       "title": "Itonami Itonamezu",
-      "score": 0.7,
-      "r18": false
-    },
-    {
-      "id": 7938,
-      "title": "Denkigai no Honya-san",
       "score": 0.7,
       "r18": false
     },
@@ -139,7 +139,7 @@
     {
       "id": 584,
       "title": "Booking Life",
-      "score": 0.697,
+      "score": 0.696,
       "r18": false
     },
     {

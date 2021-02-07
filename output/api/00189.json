@@ -1,8 +1,8 @@
 {
   "id": 189,
   "title": "Lost Universe",
-  "url": "https://mangadex.org/manga/189",
-  "last_updated": "January 17, 2021 00:53:41 UTC",
+  "url": "https://api.mangadex.org/v2/manga/189",
+  "last_updated": "February 07, 2021 00:23:20 UTC",
   "matches": [
     {
       "id": 23231,
@@ -43,7 +43,7 @@
     {
       "id": 28542,
       "title": "JoJo's Bizarre Adventure Part 6 - Stone Ocean",
-      "score": 0.771,
+      "score": 0.77,
       "r18": false
     },
     {
@@ -85,7 +85,7 @@
     {
       "id": 28843,
       "title": "JoJo's Bizarre Adventure Part 4 - Diamond is Unbreakable",
-      "score": 0.765,
+      "score": 0.766,
       "r18": false
     },
     {
@@ -110,12 +110,6 @@
       "id": 4454,
       "title": "Fire Emblem - Hasha no Tsurugi",
       "score": 0.764,
-      "r18": false
-    },
-    {
-      "id": 45198,
-      "title": "Boku no Hero Academia - True Hero (Doujinshi)",
-      "score": 0.763,
       "r18": false
     },
     {
@@ -151,6 +145,12 @@
     {
       "id": 8334,
       "title": "Rockman ZX",
+      "score": 0.758,
+      "r18": false
+    },
+    {
+      "id": 53985,
+      "title": "Dragon Raja 3",
       "score": 0.758,
       "r18": false
     }

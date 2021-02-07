@@ -1,13 +1,13 @@
 {
   "id": 917,
   "title": "Gunka no Baltzar",
-  "url": "https://mangadex.org/manga/917",
-  "last_updated": "January 17, 2021 01:02:52 UTC",
+  "url": "https://api.mangadex.org/v2/manga/917",
+  "last_updated": "February 07, 2021 00:39:37 UTC",
   "matches": [
     {
       "id": 16825,
       "title": "Ginga Eiyuu Densetsu",
-      "score": 0.719,
+      "score": 0.718,
       "r18": false
     },
     {
@@ -25,7 +25,7 @@
     {
       "id": 6272,
       "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
-      "score": 0.682,
+      "score": 0.677,
       "r18": false
     },
     {
@@ -127,13 +127,7 @@
     {
       "id": 9692,
       "title": "Li Mu",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 9570,
-      "title": "Ajin",
-      "score": 0.66,
+      "score": 0.662,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 9578,
       "title": "Kakuriyo Monogatari",
       "score": 0.658,
+      "r18": false
+    },
+    {
+      "id": 12136,
+      "title": "Ad Astra - Scipio to Hannibal",
+      "score": 0.657,
       "r18": false
     }
   ]

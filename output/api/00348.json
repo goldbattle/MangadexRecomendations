@@ -1,8 +1,8 @@
 {
   "id": 348,
   "title": "One Outs",
-  "url": "https://mangadex.org/manga/348",
-  "last_updated": "January 17, 2021 00:55:48 UTC",
+  "url": "https://api.mangadex.org/v2/manga/348",
+  "last_updated": "February 07, 2021 00:26:50 UTC",
   "matches": [
     {
       "id": 923,
@@ -121,7 +121,7 @@
     {
       "id": 16039,
       "title": "Hanebado!",
-      "score": 0.371,
+      "score": 0.37,
       "r18": false
     },
     {
@@ -140,12 +140,6 @@
       "id": 499,
       "title": "Teppu",
       "score": 0.328,
-      "r18": false
-    },
-    {
-      "id": 4536,
-      "title": "Washizu -Enma no Touhai-",
-      "score": 0.28,
       "r18": false
     }
   ]

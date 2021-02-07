@@ -2,7 +2,7 @@
   "id": 54,
   "title": "Wrestle! The Under Ground",
   "url": "https://api.mangadex.org/v2/manga/54",
-  "last_updated": "February 03, 2021 07:01:54 UTC",
+  "last_updated": "February 07, 2021 00:20:11 UTC",
   "matches": [
     {
       "id": 1917,
@@ -59,12 +59,6 @@
       "r18": false
     },
     {
-      "id": 1011,
-      "title": "Prison School",
-      "score": 0.709,
-      "r18": false
-    },
-    {
       "id": 438,
       "title": "Sekirei",
       "score": 0.709,
@@ -89,12 +83,6 @@
       "r18": false
     },
     {
-      "id": 2154,
-      "title": "Fukigen Cinderella",
-      "score": 0.704,
-      "r18": false
-    },
-    {
       "id": 21015,
       "title": "Real no Heroine wa Irimasen!",
       "score": 0.703,
@@ -103,13 +91,13 @@
     {
       "id": 8862,
       "title": "Maou na Ore to Fushihime no Yubiwa",
-      "score": 0.703,
+      "score": 0.702,
       "r18": false
     },
     {
       "id": 577,
       "title": "Corpse Party - Musume",
-      "score": 0.703,
+      "score": 0.702,
       "r18": false
     },
     {
@@ -133,7 +121,7 @@
     {
       "id": 621,
       "title": "Shuukyuu Shoujo",
-      "score": 0.701,
+      "score": 0.7,
       "r18": false
     },
     {
@@ -152,6 +140,18 @@
       "id": 2203,
       "title": "Sekainohate de Aimashou",
       "score": 0.698,
+      "r18": false
+    },
+    {
+      "id": 809,
+      "title": "Maji Bura!?",
+      "score": 0.698,
+      "r18": false
+    },
+    {
+      "id": 6371,
+      "title": "HEN",
+      "score": 0.697,
       "r18": false
     }
   ]

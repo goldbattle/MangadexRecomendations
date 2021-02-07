@@ -1,19 +1,13 @@
 {
   "id": 107,
   "title": "Toriko",
-  "url": "https://mangadex.org/manga/107",
-  "last_updated": "January 17, 2021 00:52:35 UTC",
+  "url": "https://api.mangadex.org/v2/manga/107",
+  "last_updated": "February 07, 2021 00:21:27 UTC",
   "matches": [
     {
       "id": 23231,
       "title": "Wu Dong Qian Kun",
       "score": 0.761,
-      "r18": false
-    },
-    {
-      "id": 54801,
-      "title": "One Piece Episode A",
-      "score": 0.758,
       "r18": false
     },
     {
@@ -29,12 +23,6 @@
       "r18": false
     },
     {
-      "id": 42459,
-      "title": "Akame ga Kill! 1.5",
-      "score": 0.754,
-      "r18": false
-    },
-    {
       "id": 22236,
       "title": "Rurouni Kenshin: Hokkaido-hen",
       "score": 0.754,
@@ -44,6 +32,12 @@
       "id": 21914,
       "title": "Almadianos Eiyuuden",
       "score": 0.753,
+      "r18": false
+    },
+    {
+      "id": 42459,
+      "title": "Akame ga Kill! 1.5",
+      "score": 0.752,
       "r18": false
     },
     {
@@ -65,39 +59,9 @@
       "r18": false
     },
     {
-      "id": 10004,
-      "title": "One Piece - Digital Colored Comics",
-      "score": 0.749,
-      "r18": false
-    },
-    {
       "id": 9844,
       "title": "Shingeki no Kyojin - Before the Fall",
       "score": 0.749,
-      "r18": false
-    },
-    {
-      "id": 21283,
-      "title": "Persona 5",
-      "score": 0.748,
-      "r18": false
-    },
-    {
-      "id": 219,
-      "title": "Akame ga KILL!",
-      "score": 0.748,
-      "r18": false
-    },
-    {
-      "id": 14694,
-      "title": "One Piece Party",
-      "score": 0.748,
-      "r18": false
-    },
-    {
-      "id": 39,
-      "title": "One Piece",
-      "score": 0.747,
       "r18": false
     },
     {
@@ -119,14 +83,14 @@
       "r18": false
     },
     {
-      "id": 2340,
-      "title": "Fate/stay night",
+      "id": 216,
+      "title": "Rurouni Kenshin",
       "score": 0.746,
       "r18": false
     },
     {
-      "id": 216,
-      "title": "Rurouni Kenshin",
+      "id": 2340,
+      "title": "Fate/stay night",
       "score": 0.746,
       "r18": false
     },
@@ -152,6 +116,42 @@
       "id": 3236,
       "title": "Shirokuro Kitan",
       "score": 0.746,
+      "r18": false
+    },
+    {
+      "id": 1790,
+      "title": "Arata Kangatari",
+      "score": 0.745,
+      "r18": false
+    },
+    {
+      "id": 31002,
+      "title": "Jimi na Kensei wa Sore Demo Saikyou Desu",
+      "score": 0.745,
+      "r18": false
+    },
+    {
+      "id": 54801,
+      "title": "One Piece Episode A",
+      "score": 0.745,
+      "r18": false
+    },
+    {
+      "id": 15082,
+      "title": "Tales of Zestiria - Time of Guidance",
+      "score": 0.745,
+      "r18": false
+    },
+    {
+      "id": 23195,
+      "title": "The Great Ruler",
+      "score": 0.744,
+      "r18": false
+    },
+    {
+      "id": 3918,
+      "title": "Magic Kaito",
+      "score": 0.744,
       "r18": false
     }
   ]

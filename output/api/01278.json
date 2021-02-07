@@ -1,8 +1,8 @@
 {
   "id": 1278,
   "title": "Kid Gang",
-  "url": "https://mangadex.org/manga/1278",
-  "last_updated": "January 17, 2021 01:07:04 UTC",
+  "url": "https://api.mangadex.org/v2/manga/1278",
+  "last_updated": "February 07, 2021 00:47:57 UTC",
   "matches": [
     {
       "id": 31002,
@@ -95,12 +95,6 @@
       "r18": false
     },
     {
-      "id": 21283,
-      "title": "Persona 5",
-      "score": 0.656,
-      "r18": false
-    },
-    {
       "id": 42835,
       "title": "I Will Live Freely in Another World with Equipment Manufacturing Cheat",
       "score": 0.655,
@@ -121,7 +115,7 @@
     {
       "id": 10974,
       "title": "Full Metal Panic! Another",
-      "score": 0.655,
+      "score": 0.654,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 216,
       "title": "Rurouni Kenshin",
       "score": 0.653,
+      "r18": false
+    },
+    {
+      "id": 14025,
+      "title": "Fate/Prototype - Tribute Phantasm",
+      "score": 0.652,
       "r18": false
     }
   ]

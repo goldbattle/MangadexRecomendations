@@ -1,8 +1,8 @@
 {
   "id": 1312,
   "title": "Freesia",
-  "url": "https://mangadex.org/manga/1312",
-  "last_updated": "January 17, 2021 01:07:29 UTC",
+  "url": "https://api.mangadex.org/v2/manga/1312",
+  "last_updated": "February 07, 2021 00:48:40 UTC",
   "matches": [
     {
       "id": 31888,
@@ -61,13 +61,7 @@
     {
       "id": 5528,
       "title": "Tokage no Ou",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 9615,
-      "title": "Nejimaki Kagyu",
-      "score": 0.65,
+      "score": 0.652,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 9902,
       "title": "Akame ga KILL! Zero",
       "score": 0.297,
+      "r18": false
+    },
+    {
+      "id": 6220,
+      "title": "Ore ga Doutei wo Sutetara Shinu Ken ni Tsuite",
+      "score": 0.295,
       "r18": false
     }
   ]

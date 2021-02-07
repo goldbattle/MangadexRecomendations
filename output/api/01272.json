@@ -1,8 +1,8 @@
 {
   "id": 1272,
   "title": "Uwasaya",
-  "url": "https://mangadex.org/manga/1272",
-  "last_updated": "January 17, 2021 01:07:01 UTC",
+  "url": "https://api.mangadex.org/v2/manga/1272",
+  "last_updated": "February 07, 2021 00:47:50 UTC",
   "matches": [
     {
       "id": 4872,
@@ -13,7 +13,7 @@
     {
       "id": 151,
       "title": "Bokura no Kiseki",
-      "score": 0.681,
+      "score": 0.682,
       "r18": false
     },
     {
@@ -37,12 +37,6 @@
     {
       "id": 39722,
       "title": "Satsujin Purgatorium",
-      "score": 0.672,
-      "r18": false
-    },
-    {
-      "id": 2711,
-      "title": "Dawn - Tsumetai Te",
       "score": 0.672,
       "r18": false
     },
@@ -91,7 +85,7 @@
     {
       "id": 2668,
       "title": "Suna no Ue no Rakuen",
-      "score": 0.659,
+      "score": 0.658,
       "r18": false
     },
     {
@@ -121,7 +115,7 @@
     {
       "id": 28531,
       "title": "Ao no Haha",
-      "score": 0.651,
+      "score": 0.652,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 2100,
       "title": "[zion]",
       "score": 0.387,
+      "r18": false
+    },
+    {
+      "id": 12002,
+      "title": "Saihate no Ao",
+      "score": 0.372,
       "r18": false
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": 1257,
   "title": "Alive!",
-  "url": "https://mangadex.org/manga/1257",
-  "last_updated": "January 17, 2021 01:06:51 UTC",
+  "url": "https://api.mangadex.org/v2/manga/1257",
+  "last_updated": "February 07, 2021 00:47:32 UTC",
   "matches": [
     {
       "id": 19086,
@@ -31,7 +31,7 @@
     {
       "id": 5927,
       "title": "Subarashii Sekai",
-      "score": 0.685,
+      "score": 0.684,
       "r18": false
     },
     {
@@ -43,12 +43,6 @@
     {
       "id": 17953,
       "title": "BORDER",
-      "score": 0.684,
-      "r18": false
-    },
-    {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
       "score": 0.684,
       "r18": false
     },
@@ -119,14 +113,26 @@
       "r18": false
     },
     {
-      "id": 7574,
-      "title": "Kokushi no Shima",
-      "score": 0.673,
+      "id": 9829,
+      "title": "Immortal Hounds",
+      "score": 0.674,
+      "r18": false
+    },
+    {
+      "id": 27151,
+      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
+      "score": 0.674,
       "r18": false
     },
     {
       "id": 1085,
       "title": "Code Geass: Lelouch of the Rebellion",
+      "score": 0.673,
+      "r18": false
+    },
+    {
+      "id": 7574,
+      "title": "Kokushi no Shima",
       "score": 0.673,
       "r18": false
     },
@@ -145,12 +151,6 @@
     {
       "id": 1263,
       "title": "Death Sweeper",
-      "score": 0.671,
-      "r18": false
-    },
-    {
-      "id": 18016,
-      "title": "Under Execution, Under Jailbreak",
       "score": 0.671,
       "r18": false
     }

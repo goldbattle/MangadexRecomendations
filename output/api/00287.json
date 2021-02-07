@@ -1,8 +1,8 @@
 {
   "id": 287,
   "title": "Change 1 2 3",
-  "url": "https://mangadex.org/manga/287",
-  "last_updated": "January 17, 2021 00:54:58 UTC",
+  "url": "https://api.mangadex.org/v2/manga/287",
+  "last_updated": "February 07, 2021 00:25:31 UTC",
   "matches": [
     {
       "id": 8631,
@@ -47,12 +47,6 @@
       "r18": false
     },
     {
-      "id": 146,
-      "title": "Soul Eater",
-      "score": 0.699,
-      "r18": false
-    },
-    {
       "id": 28103,
       "title": "Kyoshirou to Towa no Sora",
       "score": 0.699,
@@ -61,7 +55,7 @@
     {
       "id": 6,
       "title": "Shijou Saikyou no Deshi Kenichi",
-      "score": 0.699,
+      "score": 0.698,
       "r18": false
     },
     {
@@ -101,14 +95,14 @@
       "r18": false
     },
     {
-      "id": 86,
-      "title": "Anedoki",
+      "id": 12928,
+      "title": "To Love-Ru - Digital Colored Comics",
       "score": 0.697,
       "r18": false
     },
     {
-      "id": 12928,
-      "title": "To Love-Ru - Digital Colored Comics",
+      "id": 86,
+      "title": "Anedoki",
       "score": 0.697,
       "r18": false
     },
@@ -128,6 +122,12 @@
       "id": 9855,
       "title": "Shinigami-sama to 4-nin no Kanojo",
       "score": 0.696,
+      "r18": false
+    },
+    {
+      "id": 11615,
+      "title": "Rakudai Kishi no Eiyuutan",
+      "score": 0.694,
       "r18": false
     },
     {
@@ -151,7 +151,7 @@
     {
       "id": 14472,
       "title": "Busou Shoujo Machiavellism",
-      "score": 0.693,
+      "score": 0.692,
       "r18": false
     }
   ]

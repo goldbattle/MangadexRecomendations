@@ -1,8 +1,8 @@
 {
   "id": 606,
   "title": "Area no Kishi",
-  "url": "https://mangadex.org/manga/606",
-  "last_updated": "January 17, 2021 00:59:01 UTC",
+  "url": "https://api.mangadex.org/v2/manga/606",
+  "last_updated": "February 07, 2021 00:32:31 UTC",
   "matches": [
     {
       "id": 4107,
@@ -23,21 +23,9 @@
       "r18": false
     },
     {
-      "id": 50672,
-      "title": "My Hero Academia - League Of Villains: Undercover (Fan Colored)",
-      "score": 0.772,
-      "r18": false
-    },
-    {
       "id": 1021,
       "title": "Girls of the Wild's",
       "score": 0.771,
-      "r18": false
-    },
-    {
-      "id": 12714,
-      "title": "Boku no Hero Academia",
-      "score": 0.769,
       "r18": false
     },
     {
@@ -65,6 +53,12 @@
       "r18": false
     },
     {
+      "id": 50672,
+      "title": "My Hero Academia - League Of Villains: Undercover (Fan Colored)",
+      "score": 0.756,
+      "r18": false
+    },
+    {
       "id": 3943,
       "title": "Slam Dunk",
       "score": 0.756,
@@ -83,6 +77,12 @@
       "r18": false
     },
     {
+      "id": 12714,
+      "title": "Boku no Hero Academia",
+      "score": 0.753,
+      "r18": false
+    },
+    {
       "id": 2597,
       "title": "Sayonara Football",
       "score": 0.753,
@@ -92,12 +92,6 @@
       "id": 1293,
       "title": "Miyuki",
       "score": 0.752,
-      "r18": false
-    },
-    {
-      "id": 484,
-      "title": "Barakamon",
-      "score": 0.75,
       "r18": false
     },
     {
@@ -151,6 +145,12 @@
     {
       "id": 52471,
       "title": "Build Up",
+      "score": 0.744,
+      "r18": false
+    },
+    {
+      "id": 5204,
+      "title": "Kanon - Honto no Omoi wa Egao no Mukougawa ni",
       "score": 0.744,
       "r18": false
     }

@@ -1,8 +1,8 @@
 {
   "id": 396,
   "title": "Mahou Shoujo Oriko\u2605Magica",
-  "url": "https://mangadex.org/manga/396",
-  "last_updated": "January 17, 2021 00:56:24 UTC",
+  "url": "https://api.mangadex.org/v2/manga/396",
+  "last_updated": "February 07, 2021 00:27:52 UTC",
   "matches": [
     {
       "id": 7934,
@@ -13,7 +13,7 @@
     {
       "id": 10806,
       "title": "Gekijouban Madoka\u2605Magica - [Shinpen] Hangyaku no Monogatari",
-      "score": 0.839,
+      "score": 0.838,
       "r18": false
     },
     {
@@ -53,12 +53,6 @@
       "r18": false
     },
     {
-      "id": 14441,
-      "title": "Fate/strange Fake",
-      "score": 0.757,
-      "r18": false
-    },
-    {
       "id": 13364,
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Daiisshou - Outo no Ichinichi Hen",
       "score": 0.756,
@@ -95,12 +89,6 @@
       "r18": false
     },
     {
-      "id": 6272,
-      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
-      "score": 0.739,
-      "r18": false
-    },
-    {
       "id": 18150,
       "title": "Dies irae ~Amantes Amentes~",
       "score": 0.739,
@@ -131,6 +119,12 @@
       "r18": false
     },
     {
+      "id": 6272,
+      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
+      "score": 0.723,
+      "r18": false
+    },
+    {
       "id": 50185,
       "title": "The Most Notorious &quot;Talker&quot; Runs the World's Greatest Clan",
       "score": 0.722,
@@ -152,6 +146,12 @@
       "id": 3853,
       "title": "Tail Star",
       "score": 0.718,
+      "r18": false
+    },
+    {
+      "id": 10785,
+      "title": "Trace 2.0",
+      "score": 0.716,
       "r18": false
     }
   ]
