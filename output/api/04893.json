@@ -1,8 +1,8 @@
 {
   "id": 4893,
   "title": "Shinkuu Yuusetsu",
-  "url": "https://mangadex.org/manga/4893",
-  "last_updated": "January 17, 2021 12:50:55 UTC",
+  "url": "https://api.mangadex.org/v2/manga/4893",
+  "last_updated": "February 07, 2021 12:27:21 UTC",
   "matches": [
     {
       "id": 11867,
@@ -37,25 +37,25 @@
     {
       "id": 14131,
       "title": "Hidamari ga Kikoeru",
-      "score": 0.409,
-      "r18": false
-    },
-    {
-      "id": 49710,
-      "title": "Hidamari no Orange",
-      "score": 0.407,
+      "score": 0.41,
       "r18": false
     },
     {
       "id": 1460,
       "title": "Maigo",
-      "score": 0.401,
+      "score": 0.4,
       "r18": false
     },
     {
       "id": 3277,
       "title": "Gakkou no Sensei",
       "score": 0.4,
+      "r18": false
+    },
+    {
+      "id": 49710,
+      "title": "Hidamari no Orange",
+      "score": 0.399,
       "r18": false
     },
     {
@@ -121,18 +121,12 @@
     {
       "id": 21565,
       "title": "Ao no Flag",
-      "score": 0.363,
+      "score": 0.364,
       "r18": false
     },
     {
       "id": 12773,
       "title": "Omi-sensei no Binetsu",
-      "score": 0.362,
-      "r18": false
-    },
-    {
-      "id": 59532,
-      "title": "Shokuinshitsu no Himegoto",
       "score": 0.362,
       "r18": false
     },
@@ -152,6 +146,12 @@
       "id": 10117,
       "title": "Tsukiyo no Toratsugumi",
       "score": 0.354,
+      "r18": false
+    },
+    {
+      "id": 6807,
+      "title": "Tsumasaki ni Kourozu",
+      "score": 0.353,
       "r18": false
     }
   ]

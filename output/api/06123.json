@@ -1,8 +1,8 @@
 {
   "id": 6123,
   "title": "Fujiiro Sky Coppo",
-  "url": "https://mangadex.org/manga/6123",
-  "last_updated": "January 17, 2021 13:03:59 UTC",
+  "url": "https://api.mangadex.org/v2/manga/6123",
+  "last_updated": "February 07, 2021 12:47:49 UTC",
   "matches": [
     {
       "id": 14536,
@@ -37,7 +37,7 @@
     {
       "id": 10042,
       "title": "The Girl on the Other Side of the Glass",
-      "score": 0.382,
+      "score": 0.381,
       "r18": false
     },
     {
@@ -79,6 +79,12 @@
     {
       "id": 11086,
       "title": "Debu to Bijin",
+      "score": 0.276,
+      "r18": false
+    },
+    {
+      "id": 15443,
+      "title": "Boku no Petto ni Narinasai.",
       "score": 0.276,
       "r18": false
     },

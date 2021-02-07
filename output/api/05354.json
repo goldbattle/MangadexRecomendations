@@ -1,19 +1,19 @@
 {
   "id": 5354,
   "title": "Setsuna no Rakuen",
-  "url": "https://mangadex.org/manga/5354",
-  "last_updated": "January 17, 2021 12:55:47 UTC",
+  "url": "https://api.mangadex.org/v2/manga/5354",
+  "last_updated": "February 07, 2021 12:34:53 UTC",
   "matches": [
     {
       "id": 27804,
       "title": "Mayu-tan no Tokimeki Note",
-      "score": 0.745,
+      "score": 0.744,
       "r18": false
     },
     {
       "id": 13850,
       "title": "Kanojo no Honnou",
-      "score": 0.729,
+      "score": 0.728,
       "r18": false
     },
     {
@@ -131,12 +131,6 @@
       "r18": false
     },
     {
-      "id": 9350,
-      "title": "Ai Wo Utau Yori Ore ni Oborero!",
-      "score": 0.685,
-      "r18": false
-    },
-    {
       "id": 2155,
       "title": "Momoiro Heaven!",
       "score": 0.681,
@@ -151,6 +145,12 @@
     {
       "id": 4294,
       "title": "Himitsu no Ai-chan",
+      "score": 0.678,
+      "r18": false
+    },
+    {
+      "id": 8236,
+      "title": "Renai Shigou Shugi",
       "score": 0.678,
       "r18": false
     }

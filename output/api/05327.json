@@ -1,8 +1,8 @@
 {
   "id": 5327,
   "title": "Tora Kiss - A School Odyssey",
-  "url": "https://mangadex.org/manga/5327",
-  "last_updated": "January 17, 2021 12:55:29 UTC",
+  "url": "https://api.mangadex.org/v2/manga/5327",
+  "last_updated": "February 07, 2021 12:34:23 UTC",
   "matches": [
     {
       "id": 28735,
@@ -37,6 +37,12 @@
     {
       "id": 564,
       "title": "Nagasarete Airantou",
+      "score": 0.769,
+      "r18": false
+    },
+    {
+      "id": 15950,
+      "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
       "score": 0.769,
       "r18": false
     },
@@ -101,12 +107,6 @@
       "r18": false
     },
     {
-      "id": 11615,
-      "title": "Rakudai Kishi no Eiyuutan",
-      "score": 0.756,
-      "r18": false
-    },
-    {
       "id": 4906,
       "title": "MuvLuv Unlimited",
       "score": 0.755,
@@ -121,7 +121,7 @@
     {
       "id": 34,
       "title": "Cage of Eden",
-      "score": 0.753,
+      "score": 0.754,
       "r18": false
     },
     {
@@ -149,8 +149,8 @@
       "r18": false
     },
     {
-      "id": 3554,
-      "title": "Mei no Naisho",
+      "id": 11615,
+      "title": "Rakudai Kishi no Eiyuutan",
       "score": 0.75,
       "r18": false
     }

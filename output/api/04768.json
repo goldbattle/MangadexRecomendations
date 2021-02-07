@@ -1,8 +1,8 @@
 {
   "id": 4768,
   "title": "Infinite Stratos - Official Anthology Comic",
-  "url": "https://mangadex.org/manga/4768",
-  "last_updated": "January 17, 2021 12:49:35 UTC",
+  "url": "https://api.mangadex.org/v2/manga/4768",
+  "last_updated": "February 07, 2021 12:25:20 UTC",
   "matches": [
     {
       "id": 3862,
@@ -20,12 +20,6 @@
       "id": 3861,
       "title": "Super Robot Taisen OG - The Inspector - Record of ATX",
       "score": 0.735,
-      "r18": false
-    },
-    {
-      "id": 54801,
-      "title": "One Piece Episode A",
-      "score": 0.733,
       "r18": false
     },
     {
@@ -50,6 +44,12 @@
       "id": 1021,
       "title": "Girls of the Wild's",
       "score": 0.724,
+      "r18": false
+    },
+    {
+      "id": 54801,
+      "title": "One Piece Episode A",
+      "score": 0.721,
       "r18": false
     },
     {
@@ -131,12 +131,6 @@
       "r18": false
     },
     {
-      "id": 7710,
-      "title": "Kidou Senshi Crossbone Gundam",
-      "score": 0.713,
-      "r18": false
-    },
-    {
       "id": 39846,
       "title": "Kidou Senshi Gundam AGE -First Evolution-",
       "score": 0.713,
@@ -149,9 +143,15 @@
       "r18": false
     },
     {
+      "id": 24123,
+      "title": "Shinka no Mi",
+      "score": 0.712,
+      "r18": false
+    },
+    {
       "id": 23709,
       "title": "Moto Saikyou no Kenshi wa, Isekai Mahou ni Akogareru",
-      "score": 0.713,
+      "score": 0.712,
       "r18": false
     }
   ]

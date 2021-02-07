@@ -1,8 +1,8 @@
 {
   "id": 5727,
   "title": "Zoku Shishunki Miman Okotowari",
-  "url": "https://mangadex.org/manga/5727",
-  "last_updated": "January 17, 2021 12:59:45 UTC",
+  "url": "https://api.mangadex.org/v2/manga/5727",
+  "last_updated": "February 07, 2021 12:41:15 UTC",
   "matches": [
     {
       "id": 28359,
@@ -71,15 +71,9 @@
       "r18": false
     },
     {
-      "id": 7170,
-      "title": "Billion Girl",
-      "score": 0.769,
-      "r18": false
-    },
-    {
       "id": 6082,
       "title": "Yume Miru Happa",
-      "score": 0.769,
+      "score": 0.768,
       "r18": false
     },
     {
@@ -145,13 +139,19 @@
     {
       "id": 7481,
       "title": "Zenbu Chodai",
-      "score": 0.761,
+      "score": 0.76,
       "r18": false
     },
     {
       "id": 6862,
       "title": "Bokura wa Itsumo",
       "score": 0.76,
+      "r18": false
+    },
+    {
+      "id": 5498,
+      "title": "Principal",
+      "score": 0.759,
       "r18": false
     }
   ]

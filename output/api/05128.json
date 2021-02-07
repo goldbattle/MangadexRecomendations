@@ -1,8 +1,8 @@
 {
   "id": 5128,
   "title": "Yozora no Sumikko de",
-  "url": "https://mangadex.org/manga/5128",
-  "last_updated": "January 17, 2021 12:53:21 UTC",
+  "url": "https://api.mangadex.org/v2/manga/5128",
+  "last_updated": "February 07, 2021 12:31:10 UTC",
   "matches": [
     {
       "id": 3824,
@@ -53,12 +53,6 @@
       "r18": false
     },
     {
-      "id": 49710,
-      "title": "Hidamari no Orange",
-      "score": 0.73,
-      "r18": false
-    },
-    {
       "id": 4498,
       "title": "Zantei, Koibito",
       "score": 0.728,
@@ -73,7 +67,7 @@
     {
       "id": 3038,
       "title": "Kyou Kara Ma no Tsuku Jiyuugyou!",
-      "score": 0.723,
+      "score": 0.722,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 14131,
       "title": "Hidamari ga Kikoeru",
       "score": 0.709,
+      "r18": false
+    },
+    {
+      "id": 17721,
+      "title": "I Love You, Black Coffee",
+      "score": 0.708,
       "r18": false
     }
   ]

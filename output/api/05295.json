@@ -1,8 +1,8 @@
 {
   "id": 5295,
   "title": "Mai-HiME",
-  "url": "https://mangadex.org/manga/5295",
-  "last_updated": "January 17, 2021 12:55:09 UTC",
+  "url": "https://api.mangadex.org/v2/manga/5295",
+  "last_updated": "February 07, 2021 12:33:54 UTC",
   "matches": [
     {
       "id": 28103,
@@ -25,7 +25,7 @@
     {
       "id": 3507,
       "title": "Megu Miruku",
-      "score": 0.699,
+      "score": 0.698,
       "r18": false
     },
     {
@@ -137,6 +137,12 @@
       "r18": false
     },
     {
+      "id": 11615,
+      "title": "Rakudai Kishi no Eiyuutan",
+      "score": 0.677,
+      "r18": false
+    },
+    {
       "id": 163,
       "title": "Countrouble",
       "score": 0.676,
@@ -145,12 +151,6 @@
     {
       "id": 8993,
       "title": "Absolute Duo",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 14455,
-      "title": "Tokiwa Kitareri!!",
       "score": 0.676,
       "r18": false
     }

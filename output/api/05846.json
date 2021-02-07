@@ -1,8 +1,8 @@
 {
   "id": 5846,
   "title": "Dekiai Paradox",
-  "url": "https://mangadex.org/manga/5846",
-  "last_updated": "January 17, 2021 13:01:02 UTC",
+  "url": "https://api.mangadex.org/v2/manga/5846",
+  "last_updated": "February 07, 2021 12:43:15 UTC",
   "matches": [
     {
       "id": 27804,
@@ -61,7 +61,7 @@
     {
       "id": 3667,
       "title": "Yurusarete Inai Watashitachi",
-      "score": 0.717,
+      "score": 0.716,
       "r18": false
     },
     {
@@ -113,12 +113,6 @@
       "r18": false
     },
     {
-      "id": 9350,
-      "title": "Ai Wo Utau Yori Ore ni Oborero!",
-      "score": 0.699,
-      "r18": false
-    },
-    {
       "id": 9444,
       "title": "Dakara Ore ni Shina yo",
       "score": 0.696,
@@ -152,6 +146,12 @@
       "id": 2911,
       "title": "Royal Seventeen",
       "score": 0.689,
+      "r18": false
+    },
+    {
+      "id": 19100,
+      "title": "Kindan Wedding",
+      "score": 0.687,
       "r18": false
     }
   ]

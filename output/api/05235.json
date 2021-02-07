@@ -1,8 +1,8 @@
 {
   "id": 5235,
   "title": "Aoki Umi no Toraware Hime",
-  "url": "https://mangadex.org/manga/5235",
-  "last_updated": "January 17, 2021 12:54:30 UTC",
+  "url": "https://api.mangadex.org/v2/manga/5235",
+  "last_updated": "February 07, 2021 12:32:55 UTC",
   "matches": [
     {
       "id": 54093,
@@ -67,7 +67,7 @@
     {
       "id": 11867,
       "title": "Hotarubi no Mori e",
-      "score": 0.711,
+      "score": 0.71,
       "r18": false
     },
     {
@@ -83,6 +83,12 @@
       "r18": false
     },
     {
+      "id": 51318,
+      "title": "Truthfully, They Only Remembered Her",
+      "score": 0.709,
+      "r18": false
+    },
+    {
       "id": 24933,
       "title": "Magic Knight Rayearth 2",
       "score": 0.709,
@@ -91,6 +97,12 @@
     {
       "id": 5563,
       "title": "Otogi Moyou Ayanishiki Futatabi",
+      "score": 0.708,
+      "r18": false
+    },
+    {
+      "id": 59999,
+      "title": "Save Me, Princess",
       "score": 0.708,
       "r18": false
     },
@@ -140,18 +152,6 @@
       "id": 23013,
       "title": "The Vengeful White Cat Lounging on the Dragon King's Lap",
       "score": 0.703,
-      "r18": false
-    },
-    {
-      "id": 24016,
-      "title": "Neo Angelique",
-      "score": 0.703,
-      "r18": false
-    },
-    {
-      "id": 10122,
-      "title": "Princess Ledalia ~The Rose Pirate~",
-      "score": 0.702,
       "r18": false
     }
   ]

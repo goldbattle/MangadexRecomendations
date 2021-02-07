@@ -1,8 +1,8 @@
 {
   "id": 5262,
   "title": "Rose Hip Rose",
-  "url": "https://mangadex.org/manga/5262",
-  "last_updated": "January 17, 2021 12:54:49 UTC",
+  "url": "https://api.mangadex.org/v2/manga/5262",
+  "last_updated": "February 07, 2021 12:33:22 UTC",
   "matches": [
     {
       "id": 22004,
@@ -14,18 +14,6 @@
       "id": 21854,
       "title": "Boku no Heya ga Dungeon no Kyuukeijo ni Natteshimatta Ken",
       "score": 0.754,
-      "r18": false
-    },
-    {
-      "id": 9803,
-      "title": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka",
-      "score": 0.75,
-      "r18": false
-    },
-    {
-      "id": 51808,
-      "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
-      "score": 0.75,
       "r18": false
     },
     {
@@ -103,7 +91,7 @@
     {
       "id": 37909,
       "title": "Asobinin wa Kenja ni Tenshoku Dekiru tte Shittemashita? ~ Yuusha Party o Tsuihou Sareta Lv 99",
-      "score": 0.711,
+      "score": 0.71,
       "r18": false
     },
     {
@@ -121,7 +109,7 @@
     {
       "id": 26077,
       "title": "S-Rank Monster no Behemoth Dakedo, Neko to Machigawarete Erufu Musume no Kishi (Pet) Toshite Kurashitemasu",
-      "score": 0.709,
+      "score": 0.708,
       "r18": false
     },
     {
@@ -134,6 +122,12 @@
       "id": 5477,
       "title": "Hagure Yuusha no Estetica",
       "score": 0.702,
+      "r18": false
+    },
+    {
+      "id": 9803,
+      "title": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka",
+      "score": 0.7,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 54008,
       "title": "The Second Life Cheat Reincarnation Mage ~If The Strongest Reincarnated After 1000 Years, Life Would Be Too Easy~",
       "score": 0.694,
+      "r18": false
+    },
+    {
+      "id": 42076,
+      "title": "Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life",
+      "score": 0.693,
       "r18": false
     }
   ]

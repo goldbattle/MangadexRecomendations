@@ -1,18 +1,18 @@
 {
   "id": 5194,
   "title": "Be Our Guest",
-  "url": "https://mangadex.org/manga/5194",
-  "last_updated": "January 17, 2021 12:54:04 UTC",
+  "url": "https://api.mangadex.org/v2/manga/5194",
+  "last_updated": "February 07, 2021 12:32:16 UTC",
   "matches": [
-    {
-      "id": 875,
-      "title": "Bokura wa Minna Kawai-sou",
-      "score": 0.712,
-      "r18": false
-    },
     {
       "id": 15991,
       "title": "Koi wa Ameagari no You ni",
+      "score": 0.702,
+      "r18": false
+    },
+    {
+      "id": 875,
+      "title": "Bokura wa Minna Kawai-sou",
       "score": 0.702,
       "r18": false
     },
@@ -25,7 +25,7 @@
     {
       "id": 13610,
       "title": "Seifuku Aventure - Chemical Reaction Of High School Students",
-      "score": 0.691,
+      "score": 0.69,
       "r18": false
     },
     {
@@ -65,12 +65,6 @@
       "r18": false
     },
     {
-      "id": 12109,
-      "title": "Miyata Shoten e Youkoso!",
-      "score": 0.681,
-      "r18": false
-    },
-    {
       "id": 33670,
       "title": "Skip to Loafer",
       "score": 0.681,
@@ -101,14 +95,14 @@
       "r18": false
     },
     {
-      "id": 2638,
-      "title": "Super Oresama Love Story",
+      "id": 23864,
+      "title": "Sensei Lock-On! 2nd",
       "score": 0.678,
       "r18": false
     },
     {
-      "id": 23864,
-      "title": "Sensei Lock-On! 2nd",
+      "id": 2638,
+      "title": "Super Oresama Love Story",
       "score": 0.678,
       "r18": false
     },
@@ -151,6 +145,12 @@
     {
       "id": 9185,
       "title": "Itsuya-san",
+      "score": 0.674,
+      "r18": false
+    },
+    {
+      "id": 3884,
+      "title": "Namiiro",
       "score": 0.674,
       "r18": false
     }

@@ -1,8 +1,8 @@
 {
   "id": 5754,
   "title": "Let's Be Perverts",
-  "url": "https://mangadex.org/manga/5754",
-  "last_updated": "January 17, 2021 13:00:02 UTC",
+  "url": "https://api.mangadex.org/v2/manga/5754",
+  "last_updated": "February 07, 2021 12:41:43 UTC",
   "matches": [
     {
       "id": 32290,
@@ -13,13 +13,19 @@
     {
       "id": 23571,
       "title": "Kimi wa 008",
-      "score": 0.726,
+      "score": 0.725,
       "r18": false
     },
     {
       "id": 9855,
       "title": "Shinigami-sama to 4-nin no Kanojo",
       "score": 0.719,
+      "r18": false
+    },
+    {
+      "id": 14204,
+      "title": "Netoge no Yome wa Onnanoko ja Nai to Omotta?",
+      "score": 0.715,
       "r18": false
     },
     {
@@ -89,6 +95,12 @@
       "r18": false
     },
     {
+      "id": 11026,
+      "title": "Fuuka",
+      "score": 0.707,
+      "r18": false
+    },
+    {
       "id": 20951,
       "title": "Eiyuu Kyoushitsu",
       "score": 0.707,
@@ -140,18 +152,6 @@
       "id": 22875,
       "title": "Goodbye! Isekai Tensei",
       "score": 0.699,
-      "r18": false
-    },
-    {
-      "id": 3672,
-      "title": "Full Metal Panic! &Sigma;",
-      "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 647,
-      "title": "Hidan no Aria",
-      "score": 0.697,
       "r18": false
     }
   ]

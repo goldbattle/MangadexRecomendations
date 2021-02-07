@@ -1,8 +1,8 @@
 {
   "id": 4765,
   "title": "Kashimashi ~Girl Meets Girl~",
-  "url": "https://mangadex.org/manga/4765",
-  "last_updated": "January 17, 2021 12:49:33 UTC",
+  "url": "https://api.mangadex.org/v2/manga/4765",
+  "last_updated": "February 07, 2021 12:25:17 UTC",
   "matches": [
     {
       "id": 204,
@@ -29,9 +29,15 @@
       "r18": false
     },
     {
+      "id": 10509,
+      "title": "Imasugu Onii-chan ni Imouto da tte Iitai!",
+      "score": 0.722,
+      "r18": false
+    },
+    {
       "id": 3082,
       "title": "Get Love!! ~Field no Ouji-sama~",
-      "score": 0.717,
+      "score": 0.716,
       "r18": false
     },
     {
@@ -65,12 +71,6 @@
       "r18": false
     },
     {
-      "id": 875,
-      "title": "Bokura wa Minna Kawai-sou",
-      "score": 0.71,
-      "r18": false
-    },
-    {
       "id": 28134,
       "title": "Kareki ni Koi o Sakasemasu",
       "score": 0.71,
@@ -79,12 +79,6 @@
     {
       "id": 992,
       "title": "Narue no Sekai",
-      "score": 0.71,
-      "r18": false
-    },
-    {
-      "id": 10509,
-      "title": "Imasugu Onii-chan ni Imouto da tte Iitai!",
       "score": 0.71,
       "r18": false
     },
@@ -152,6 +146,12 @@
       "id": 167,
       "title": "Saint Dragon Girl Miracle",
       "score": 0.702,
+      "r18": false
+    },
+    {
+      "id": 5140,
+      "title": "Houou Gakuen Misoragumi",
+      "score": 0.701,
       "r18": false
     }
   ]

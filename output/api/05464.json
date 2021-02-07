@@ -1,8 +1,8 @@
 {
   "id": 5464,
   "title": "Akkan Baby",
-  "url": "https://mangadex.org/manga/5464",
-  "last_updated": "January 17, 2021 12:56:58 UTC",
+  "url": "https://api.mangadex.org/v2/manga/5464",
+  "last_updated": "February 07, 2021 12:36:47 UTC",
   "matches": [
     {
       "id": 6068,
@@ -25,7 +25,7 @@
     {
       "id": 3331,
       "title": "17-Sai",
-      "score": 0.69,
+      "score": 0.689,
       "r18": false
     },
     {
@@ -38,12 +38,6 @@
       "id": 17139,
       "title": "Dare ni mo Himitsu no Koi Monogatari",
       "score": 0.681,
-      "r18": false
-    },
-    {
-      "id": 9350,
-      "title": "Ai Wo Utau Yori Ore ni Oborero!",
-      "score": 0.676,
       "r18": false
     },
     {
@@ -145,13 +139,19 @@
     {
       "id": 4022,
       "title": "Suki&hearts;Doki",
-      "score": 0.389,
+      "score": 0.388,
       "r18": false
     },
     {
       "id": 18723,
       "title": "Love Love Game",
       "score": 0.383,
+      "r18": false
+    },
+    {
+      "id": 28091,
+      "title": "Lovenista",
+      "score": 0.373,
       "r18": false
     }
   ]

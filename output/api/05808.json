@@ -1,8 +1,8 @@
 {
   "id": 5808,
   "title": "Kidou Senkan Nadesico",
-  "url": "https://mangadex.org/manga/5808",
-  "last_updated": "January 17, 2021 13:00:38 UTC",
+  "url": "https://api.mangadex.org/v2/manga/5808",
+  "last_updated": "February 07, 2021 12:42:37 UTC",
   "matches": [
     {
       "id": 8245,
@@ -13,19 +13,13 @@
     {
       "id": 23231,
       "title": "Wu Dong Qian Kun",
-      "score": 0.715,
+      "score": 0.714,
       "r18": false
     },
     {
       "id": 15150,
       "title": "Jitsuryokuha Elite Jin",
       "score": 0.709,
-      "r18": false
-    },
-    {
-      "id": 54801,
-      "title": "One Piece Episode A",
-      "score": 0.708,
       "r18": false
     },
     {
@@ -41,14 +35,14 @@
       "r18": false
     },
     {
-      "id": 28542,
-      "title": "JoJo's Bizarre Adventure Part 6 - Stone Ocean",
-      "score": 0.694,
+      "id": 54801,
+      "title": "One Piece Episode A",
+      "score": 0.697,
       "r18": false
     },
     {
-      "id": 10004,
-      "title": "One Piece - Digital Colored Comics",
+      "id": 28542,
+      "title": "JoJo's Bizarre Adventure Part 6 - Stone Ocean",
       "score": 0.694,
       "r18": false
     },
@@ -56,12 +50,6 @@
       "id": 23195,
       "title": "The Great Ruler",
       "score": 0.692,
-      "r18": false
-    },
-    {
-      "id": 39,
-      "title": "One Piece",
-      "score": 0.69,
       "r18": false
     },
     {
@@ -77,27 +65,15 @@
       "r18": false
     },
     {
-      "id": 7710,
-      "title": "Kidou Senshi Crossbone Gundam",
-      "score": 0.688,
-      "r18": false
-    },
-    {
       "id": 28525,
       "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo",
       "score": 0.688,
       "r18": false
     },
     {
-      "id": 7527,
-      "title": "One Piece: Strong World",
-      "score": 0.687,
-      "r18": false
-    },
-    {
       "id": 51325,
       "title": "Shoki Skill ga Benri Sugite Isekai Seikatsu ga Tanoshisugiru!",
-      "score": 0.687,
+      "score": 0.686,
       "r18": false
     },
     {
@@ -125,9 +101,9 @@
       "r18": false
     },
     {
-      "id": 6271,
-      "title": "JoJo's Bizarre Adventure Part 6 - Stone Ocean (Official Colored)",
-      "score": 0.681,
+      "id": 7710,
+      "title": "Kidou Senshi Crossbone Gundam",
+      "score": 0.683,
       "r18": false
     },
     {
@@ -137,21 +113,45 @@
       "r18": false
     },
     {
+      "id": 6271,
+      "title": "JoJo's Bizarre Adventure Part 6 - Stone Ocean (Official Colored)",
+      "score": 0.681,
+      "r18": false
+    },
+    {
       "id": 4566,
       "title": "Hero Tales",
-      "score": 0.679,
+      "score": 0.68,
       "r18": false
     },
     {
       "id": 47371,
       "title": "A Breakthrough Brought by Forbidden Master and Disciple",
-      "score": 0.679,
+      "score": 0.68,
       "r18": false
     },
     {
       "id": 189,
       "title": "Lost Universe",
       "score": 0.679,
+      "r18": false
+    },
+    {
+      "id": 22148,
+      "title": "Infinite Dendrogram",
+      "score": 0.679,
+      "r18": false
+    },
+    {
+      "id": 23417,
+      "title": "Jyuki Ningen Jumbor",
+      "score": 0.678,
+      "r18": false
+    },
+    {
+      "id": 6269,
+      "title": "JoJo's Bizarre Adventure Part 4 - Diamond is Unbreakable (Official Colored)",
+      "score": 0.678,
       "r18": false
     }
   ]

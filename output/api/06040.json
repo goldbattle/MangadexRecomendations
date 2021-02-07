@@ -1,8 +1,8 @@
 {
   "id": 6040,
   "title": "Nostalgia",
-  "url": "https://mangadex.org/manga/6040",
-  "last_updated": "January 17, 2021 13:03:07 UTC",
+  "url": "https://api.mangadex.org/v2/manga/6040",
+  "last_updated": "February 07, 2021 12:46:26 UTC",
   "matches": [
     {
       "id": 28359,
@@ -61,7 +61,7 @@
     {
       "id": 6862,
       "title": "Bokura wa Itsumo",
-      "score": 0.787,
+      "score": 0.788,
       "r18": false
     },
     {
@@ -137,6 +137,12 @@
       "r18": false
     },
     {
+      "id": 59999,
+      "title": "Save Me, Princess",
+      "score": 0.775,
+      "r18": false
+    },
+    {
       "id": 5210,
       "title": "Baby Blue",
       "score": 0.774,
@@ -146,12 +152,6 @@
       "id": 3709,
       "title": "Hana Yori Dango",
       "score": 0.774,
-      "r18": false
-    },
-    {
-      "id": 3133,
-      "title": "Shanimuni Go",
-      "score": 0.772,
       "r18": false
     }
   ]

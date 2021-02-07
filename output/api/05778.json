@@ -1,8 +1,8 @@
 {
   "id": 5778,
   "title": "Crying Freeman",
-  "url": "https://mangadex.org/manga/5778",
-  "last_updated": "January 17, 2021 13:00:18 UTC",
+  "url": "https://api.mangadex.org/v2/manga/5778",
+  "last_updated": "February 07, 2021 12:42:07 UTC",
   "matches": [
     {
       "id": 2500,
@@ -31,7 +31,7 @@
     {
       "id": 31194,
       "title": "Hunter Age",
-      "score": 0.718,
+      "score": 0.717,
       "r18": false
     },
     {
@@ -44,12 +44,6 @@
       "id": 28617,
       "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run",
       "score": 0.715,
-      "r18": false
-    },
-    {
-      "id": 15286,
-      "title": "Fate/stay night: Heaven's Feel",
-      "score": 0.713,
       "r18": false
     },
     {
@@ -71,6 +65,18 @@
       "r18": false
     },
     {
+      "id": 15286,
+      "title": "Fate/stay night: Heaven's Feel",
+      "score": 0.709,
+      "r18": false
+    },
+    {
+      "id": 9829,
+      "title": "Immortal Hounds",
+      "score": 0.708,
+      "r18": false
+    },
+    {
       "id": 22801,
       "title": "Raise wa Tanin ga Ii",
       "score": 0.708,
@@ -79,12 +85,6 @@
     {
       "id": 14676,
       "title": "The Legendary Moonlight Sculptor",
-      "score": 0.706,
-      "r18": false
-    },
-    {
-      "id": 9829,
-      "title": "Immortal Hounds",
       "score": 0.706,
       "r18": false
     },
@@ -139,18 +139,18 @@
     {
       "id": 338,
       "title": "Tough",
-      "score": 0.699,
-      "r18": false
-    },
-    {
-      "id": 44886,
-      "title": "Fushi no Sougishi",
-      "score": 0.697,
+      "score": 0.698,
       "r18": false
     },
     {
       "id": 5260,
       "title": "Saishuu Heiki Kanojo",
+      "score": 0.696,
+      "r18": false
+    },
+    {
+      "id": 13502,
+      "title": "Tokyo Ghoul:re",
       "score": 0.696,
       "r18": false
     }

@@ -1,8 +1,8 @@
 {
   "id": 6128,
   "title": "Thomas no Shinzou",
-  "url": "https://mangadex.org/manga/6128",
-  "last_updated": "January 17, 2021 13:04:02 UTC",
+  "url": "https://api.mangadex.org/v2/manga/6128",
+  "last_updated": "February 07, 2021 12:47:54 UTC",
   "matches": [
     {
       "id": 1899,
@@ -67,7 +67,7 @@
     {
       "id": 5400,
       "title": "Hot-Blooded Woman",
-      "score": 0.715,
+      "score": 0.714,
       "r18": false
     },
     {
@@ -97,12 +97,6 @@
     {
       "id": 1531,
       "title": "Marginal",
-      "score": 0.708,
-      "r18": false
-    },
-    {
-      "id": 4802,
-      "title": "Junketsu + Kareshi",
       "score": 0.708,
       "r18": false
     },
@@ -152,6 +146,12 @@
       "id": 31514,
       "title": "Sayonara Miniskirt",
       "score": 0.697,
+      "r18": false
+    },
+    {
+      "id": 5368,
+      "title": "Hyakuman Tsubu no Namida",
+      "score": 0.696,
       "r18": false
     }
   ]

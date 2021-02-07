@@ -1,8 +1,8 @@
 {
   "id": 5436,
   "title": "PositioN",
-  "url": "https://mangadex.org/manga/5436",
-  "last_updated": "January 17, 2021 12:56:40 UTC",
+  "url": "https://api.mangadex.org/v2/manga/5436",
+  "last_updated": "February 07, 2021 12:36:16 UTC",
   "matches": [
     {
       "id": 4135,
@@ -13,12 +13,18 @@
     {
       "id": 4880,
       "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
-      "score": 0.731,
+      "score": 0.73,
       "r18": false
     },
     {
       "id": 5927,
       "title": "Subarashii Sekai",
+      "score": 0.729,
+      "r18": false
+    },
+    {
+      "id": 19505,
+      "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
       "score": 0.729,
       "r18": false
     },
@@ -47,12 +53,6 @@
       "r18": false
     },
     {
-      "id": 19505,
-      "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
-      "score": 0.708,
-      "r18": false
-    },
-    {
       "id": 602,
       "title": "Renai Kaidan Sayoko-san",
       "score": 0.708,
@@ -65,6 +65,12 @@
       "r18": false
     },
     {
+      "id": 11576,
+      "title": "Genso Ginekokurasy",
+      "score": 0.702,
+      "r18": false
+    },
+    {
       "id": 1876,
       "title": "Blood Alone",
       "score": 0.702,
@@ -73,7 +79,7 @@
     {
       "id": 17393,
       "title": "The Case Records of Professor Munakata",
-      "score": 0.701,
+      "score": 0.7,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 44,
       "title": "Iris Zero",
       "score": 0.687,
-      "r18": false
-    },
-    {
-      "id": 23209,
-      "title": "Go With the Clouds to the North-Northwest",
-      "score": 0.686,
       "r18": false
     }
   ]

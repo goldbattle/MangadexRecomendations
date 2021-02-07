@@ -1,8 +1,8 @@
 {
   "id": 5392,
   "title": "Ooku Chakapon!",
-  "url": "https://mangadex.org/manga/5392",
-  "last_updated": "January 17, 2021 12:56:10 UTC",
+  "url": "https://api.mangadex.org/v2/manga/5392",
+  "last_updated": "February 07, 2021 12:35:30 UTC",
   "matches": [
     {
       "id": 22236,
@@ -13,7 +13,7 @@
     {
       "id": 23231,
       "title": "Wu Dong Qian Kun",
-      "score": 0.759,
+      "score": 0.758,
       "r18": false
     },
     {
@@ -37,7 +37,7 @@
     {
       "id": 21312,
       "title": "Toaru Kagaku no Railgun Gaiden - Astral Buddy",
-      "score": 0.744,
+      "score": 0.742,
       "r18": false
     },
     {
@@ -55,12 +55,6 @@
     {
       "id": 24383,
       "title": "Rurouni Kenshin Ibun: Ashitarou Zenka Ari",
-      "score": 0.741,
-      "r18": false
-    },
-    {
-      "id": 21283,
-      "title": "Persona 5",
       "score": 0.74,
       "r18": false
     },
@@ -89,15 +83,9 @@
       "r18": false
     },
     {
-      "id": 54801,
-      "title": "One Piece Episode A",
-      "score": 0.738,
-      "r18": false
-    },
-    {
       "id": 216,
       "title": "Rurouni Kenshin",
-      "score": 0.736,
+      "score": 0.735,
       "r18": false
     },
     {
@@ -152,6 +140,18 @@
       "id": 5176,
       "title": "Doushirou de Gozaru",
       "score": 0.732,
+      "r18": false
+    },
+    {
+      "id": 4454,
+      "title": "Fire Emblem - Hasha no Tsurugi",
+      "score": 0.732,
+      "r18": false
+    },
+    {
+      "id": 21871,
+      "title": "Yuki to Sumi",
+      "score": 0.731,
       "r18": false
     }
   ]

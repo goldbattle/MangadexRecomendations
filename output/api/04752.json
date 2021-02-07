@@ -1,8 +1,8 @@
 {
   "id": 4752,
   "title": "Oh, My Romantic Kumiho",
-  "url": "https://mangadex.org/manga/4752",
-  "last_updated": "January 17, 2021 12:49:22 UTC",
+  "url": "https://api.mangadex.org/v2/manga/4752",
+  "last_updated": "February 07, 2021 12:25:04 UTC",
   "matches": [
     {
       "id": 12998,
@@ -13,7 +13,7 @@
     {
       "id": 11867,
       "title": "Hotarubi no Mori e",
-      "score": 0.757,
+      "score": 0.758,
       "r18": false
     },
     {
@@ -61,7 +61,7 @@
     {
       "id": 3027,
       "title": "Sora Oto",
-      "score": 0.735,
+      "score": 0.734,
       "r18": false
     },
     {
@@ -97,19 +97,13 @@
     {
       "id": 2247,
       "title": "Silver",
-      "score": 0.725,
+      "score": 0.724,
       "r18": false
     },
     {
       "id": 2480,
       "title": "Makamisama no Iutoori!",
       "score": 0.723,
-      "r18": false
-    },
-    {
-      "id": 3996,
-      "title": "Akatsuki no Yona",
-      "score": 0.722,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 1858,
       "title": "Kanata Kara",
       "score": 0.718,
+      "r18": false
+    },
+    {
+      "id": 17294,
+      "title": "Kareshi wa Doberman",
+      "score": 0.717,
       "r18": false
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": 5581,
   "title": "Oshioki Shaman Musume",
-  "url": "https://mangadex.org/manga/5581",
-  "last_updated": "January 17, 2021 12:58:13 UTC",
+  "url": "https://api.mangadex.org/v2/manga/5581",
+  "last_updated": "February 07, 2021 12:38:47 UTC",
   "matches": [
     {
       "id": 3901,
@@ -49,7 +49,7 @@
     {
       "id": 15784,
       "title": "Fukushoku Joshi",
-      "score": 0.305,
+      "score": 0.306,
       "r18": false
     },
     {
@@ -83,12 +83,6 @@
       "r18": false
     },
     {
-      "id": 14203,
-      "title": "Nekonotemo",
-      "score": 0.275,
-      "r18": false
-    },
-    {
       "id": 59747,
       "title": "Lady Justice (Pilot Chapter)",
       "score": 0.259,
@@ -98,6 +92,12 @@
       "id": 8832,
       "title": "Harapeko Ouji-sama",
       "score": 0.255,
+      "r18": false
+    },
+    {
+      "id": 14203,
+      "title": "Nekonotemo",
+      "score": 0.25,
       "r18": false
     },
     {

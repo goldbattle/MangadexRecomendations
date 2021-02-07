@@ -1,8 +1,8 @@
 {
   "id": 5034,
   "title": "Hanazakari de Koi Shiteru",
-  "url": "https://mangadex.org/manga/5034",
-  "last_updated": "January 17, 2021 12:52:24 UTC",
+  "url": "https://api.mangadex.org/v2/manga/5034",
+  "last_updated": "February 07, 2021 12:29:37 UTC",
   "matches": [
     {
       "id": 27804,
@@ -13,7 +13,7 @@
     {
       "id": 17139,
       "title": "Dare ni mo Himitsu no Koi Monogatari",
-      "score": 0.775,
+      "score": 0.776,
       "r18": false
     },
     {
@@ -119,12 +119,6 @@
       "r18": false
     },
     {
-      "id": 9350,
-      "title": "Ai Wo Utau Yori Ore ni Oborero!",
-      "score": 0.717,
-      "r18": false
-    },
-    {
       "id": 624,
       "title": "Kyou, Koi wo Hajimemasu",
       "score": 0.714,
@@ -151,6 +145,12 @@
     {
       "id": 2911,
       "title": "Royal Seventeen",
+      "score": 0.707,
+      "r18": false
+    },
+    {
+      "id": 17544,
+      "title": "Yoru Koi",
       "score": 0.707,
       "r18": false
     }

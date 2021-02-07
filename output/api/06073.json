@@ -1,8 +1,8 @@
 {
   "id": 6073,
   "title": "Nadeshiko Club",
-  "url": "https://mangadex.org/manga/6073",
-  "last_updated": "January 17, 2021 13:03:28 UTC",
+  "url": "https://api.mangadex.org/v2/manga/6073",
+  "last_updated": "February 07, 2021 12:46:59 UTC",
   "matches": [
     {
       "id": 1371,
@@ -59,6 +59,12 @@
       "r18": false
     },
     {
+      "id": 51318,
+      "title": "Truthfully, They Only Remembered Her",
+      "score": 0.748,
+      "r18": false
+    },
+    {
       "id": 11867,
       "title": "Hotarubi no Mori e",
       "score": 0.748,
@@ -97,7 +103,7 @@
     {
       "id": 5362,
       "title": "Megane ~ Hazushitemo Iidesuka?",
-      "score": 0.743,
+      "score": 0.742,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 167,
       "title": "Saint Dragon Girl Miracle",
       "score": 0.737,
-      "r18": false
-    },
-    {
-      "id": 3690,
-      "title": "Ouran High School Host Club",
-      "score": 0.734,
       "r18": false
     }
   ]

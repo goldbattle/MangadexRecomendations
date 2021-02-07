@@ -1,8 +1,8 @@
 {
   "id": 5977,
   "title": "Oboretai",
-  "url": "https://mangadex.org/manga/5977",
-  "last_updated": "January 17, 2021 13:02:24 UTC",
+  "url": "https://api.mangadex.org/v2/manga/5977",
+  "last_updated": "February 07, 2021 12:45:22 UTC",
   "matches": [
     {
       "id": 7504,
@@ -95,6 +95,12 @@
       "r18": false
     },
     {
+      "id": 9555,
+      "title": "M-shiki Princess",
+      "score": 0.685,
+      "r18": false
+    },
+    {
       "id": 46221,
       "title": "Pure Love",
       "score": 0.684,
@@ -146,12 +152,6 @@
       "id": 17851,
       "title": "Arrogance and Romance",
       "score": 0.309,
-      "r18": false
-    },
-    {
-      "id": 3781,
-      "title": "Zoku - Kindan no Koi wo Shiyou",
-      "score": 0.272,
       "r18": false
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": 5537,
   "title": "Love Sick",
-  "url": "https://mangadex.org/manga/5537",
-  "last_updated": "January 17, 2021 12:57:45 UTC",
+  "url": "https://api.mangadex.org/v2/manga/5537",
+  "last_updated": "February 07, 2021 12:38:00 UTC",
   "matches": [
     {
       "id": 3082,
@@ -107,6 +107,18 @@
       "r18": false
     },
     {
+      "id": 17521,
+      "title": "So Bad!",
+      "score": 0.651,
+      "r18": false
+    },
+    {
+      "id": 8708,
+      "title": "Zero Count",
+      "score": 0.65,
+      "r18": false
+    },
+    {
       "id": 1871,
       "title": "Watashi no Cinderella",
       "score": 0.65,
@@ -116,6 +128,12 @@
       "id": 3611,
       "title": "Kyuukyoku Venus",
       "score": 0.425,
+      "r18": false
+    },
+    {
+      "id": 17132,
+      "title": "Hadaka no Ouji-sama - Love Kingdom",
+      "score": 0.422,
       "r18": false
     },
     {
@@ -134,24 +152,6 @@
       "id": 1305,
       "title": "Gekkou Teien",
       "score": 0.416,
-      "r18": false
-    },
-    {
-      "id": 14752,
-      "title": "Sekihan-chan to Sumomo-kun",
-      "score": 0.414,
-      "r18": false
-    },
-    {
-      "id": 9380,
-      "title": "Bishounen no Oheya.",
-      "score": 0.413,
-      "r18": false
-    },
-    {
-      "id": 27121,
-      "title": "Kiniro no Corda - Daigakusei Hen",
-      "score": 0.413,
       "r18": false
     }
   ]

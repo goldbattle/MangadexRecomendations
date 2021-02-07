@@ -1,8 +1,8 @@
 {
   "id": 4760,
   "title": "Chaos Attack",
-  "url": "https://mangadex.org/manga/4760",
-  "last_updated": "January 17, 2021 12:49:27 UTC",
+  "url": "https://api.mangadex.org/v2/manga/4760",
+  "last_updated": "February 07, 2021 12:25:12 UTC",
   "matches": [
     {
       "id": 1021,
@@ -107,12 +107,6 @@
       "r18": false
     },
     {
-      "id": 21312,
-      "title": "Toaru Kagaku no Railgun Gaiden - Astral Buddy",
-      "score": 0.402,
-      "r18": false
-    },
-    {
       "id": 11541,
       "title": "Kiriwo Terrible",
       "score": 0.401,
@@ -125,6 +119,12 @@
       "r18": false
     },
     {
+      "id": 21312,
+      "title": "Toaru Kagaku no Railgun Gaiden - Astral Buddy",
+      "score": 0.4,
+      "r18": false
+    },
+    {
       "id": 16415,
       "title": "Samon-kun wa Summoner",
       "score": 0.4,
@@ -133,7 +133,7 @@
     {
       "id": 3231,
       "title": "Hareluya",
-      "score": 0.4,
+      "score": 0.399,
       "r18": false
     },
     {
@@ -151,7 +151,7 @@
     {
       "id": 9926,
       "title": "Twinkle Saber Nova",
-      "score": 0.395,
+      "score": 0.394,
       "r18": false
     }
   ]

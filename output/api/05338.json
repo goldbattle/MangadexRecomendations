@@ -1,8 +1,8 @@
 {
   "id": 5338,
   "title": "01",
-  "url": "https://mangadex.org/manga/5338",
-  "last_updated": "January 17, 2021 12:55:36 UTC",
+  "url": "https://api.mangadex.org/v2/manga/5338",
+  "last_updated": "February 07, 2021 12:34:34 UTC",
   "matches": [
     {
       "id": 6563,
@@ -53,15 +53,9 @@
       "r18": false
     },
     {
-      "id": 9615,
-      "title": "Nejimaki Kagyu",
-      "score": 0.652,
-      "r18": false
-    },
-    {
       "id": 2468,
       "title": "Kakutou Bijin Wulong",
-      "score": 0.46,
+      "score": 0.459,
       "r18": false
     },
     {
@@ -74,12 +68,6 @@
       "id": 1814,
       "title": "Tsumanuda Fight Town",
       "score": 0.391,
-      "r18": false
-    },
-    {
-      "id": 4217,
-      "title": "Kamen Teacher",
-      "score": 0.379,
       "r18": false
     },
     {
@@ -97,7 +85,7 @@
     {
       "id": 9924,
       "title": "Kerberos in the Silver Rain",
-      "score": 0.339,
+      "score": 0.338,
       "r18": false
     },
     {
@@ -113,15 +101,15 @@
       "r18": false
     },
     {
-      "id": 1311,
-      "title": "B.Reaction!",
-      "score": 0.309,
+      "id": 4217,
+      "title": "Kamen Teacher",
+      "score": 0.328,
       "r18": false
     },
     {
-      "id": 17430,
-      "title": "Golosseum",
-      "score": 0.3,
+      "id": 1311,
+      "title": "B.Reaction!",
+      "score": 0.309,
       "r18": false
     },
     {
@@ -152,6 +140,18 @@
       "id": 5776,
       "title": "Tenjou Tenge",
       "score": 0.276,
+      "r18": false
+    },
+    {
+      "id": 570,
+      "title": "Kandachime",
+      "score": 0.265,
+      "r18": false
+    },
+    {
+      "id": 2168,
+      "title": "Gaia Kitan",
+      "score": 0.264,
       "r18": false
     }
   ]
