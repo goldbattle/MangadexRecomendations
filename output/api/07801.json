@@ -1,8 +1,8 @@
 {
   "id": 7801,
   "title": "Masca: The Kings",
-  "url": "https://mangadex.org/manga/7801",
-  "last_updated": "January 17, 2021 19:04:26 UTC",
+  "url": "https://api.mangadex.org/v2/manga/7801",
+  "last_updated": "February 07, 2021 20:16:07 UTC",
   "matches": [
     {
       "id": 9749,
@@ -53,14 +53,14 @@
       "r18": false
     },
     {
-      "id": 2857,
-      "title": "Cruel Fairytales",
+      "id": 11867,
+      "title": "Hotarubi no Mori e",
       "score": 0.718,
       "r18": false
     },
     {
-      "id": 11867,
-      "title": "Hotarubi no Mori e",
+      "id": 2857,
+      "title": "Cruel Fairytales",
       "score": 0.718,
       "r18": false
     },
@@ -115,7 +115,13 @@
     {
       "id": 7816,
       "title": "Folk Tail Tonakai",
-      "score": 0.707,
+      "score": 0.706,
+      "r18": false
+    },
+    {
+      "id": 6229,
+      "title": "Divine Melody",
+      "score": 0.706,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 20153,
       "title": "Tripitaka Torinique",
       "score": 0.704,
-      "r18": false
-    },
-    {
-      "id": 23013,
-      "title": "The Vengeful White Cat Lounging on the Dragon King's Lap",
-      "score": 0.702,
       "r18": false
     }
   ]

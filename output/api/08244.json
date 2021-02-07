@@ -1,8 +1,8 @@
 {
   "id": 8244,
   "title": "Kui Tan",
-  "url": "https://mangadex.org/manga/8244",
-  "last_updated": "January 17, 2021 19:09:57 UTC",
+  "url": "https://api.mangadex.org/v2/manga/8244",
+  "last_updated": "February 07, 2021 20:25:01 UTC",
   "matches": [
     {
       "id": 4880,
@@ -23,14 +23,14 @@
       "r18": false
     },
     {
-      "id": 1034,
-      "title": "Persona 4",
+      "id": 49477,
+      "title": "Tantei wa Mou, Shindeiru",
       "score": 0.722,
       "r18": false
     },
     {
-      "id": 49477,
-      "title": "Tantei wa Mou, Shindeiru",
+      "id": 1034,
+      "title": "Persona 4",
       "score": 0.722,
       "r18": false
     },
@@ -137,6 +137,12 @@
       "r18": false
     },
     {
+      "id": 19505,
+      "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+      "score": 0.692,
+      "r18": false
+    },
+    {
       "id": 18748,
       "title": "Wonderland",
       "score": 0.69,
@@ -146,12 +152,6 @@
       "id": 2070,
       "title": "Jintori Game",
       "score": 0.689,
-      "r18": false
-    },
-    {
-      "id": 534,
-      "title": "&quot;Bungaku Shoujo&quot; to Shinitagari no Pierrot",
-      "score": 0.688,
       "r18": false
     }
   ]

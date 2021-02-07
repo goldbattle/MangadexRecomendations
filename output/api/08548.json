@@ -1,8 +1,8 @@
 {
   "id": 8548,
   "title": "Nobunaga no Chef",
-  "url": "https://mangadex.org/manga/8548",
-  "last_updated": "January 17, 2021 19:13:41 UTC",
+  "url": "https://api.mangadex.org/v2/manga/8548",
+  "last_updated": "February 07, 2021 20:30:30 UTC",
   "matches": [
     {
       "id": 2124,
@@ -71,12 +71,6 @@
       "r18": false
     },
     {
-      "id": 14441,
-      "title": "Fate/strange Fake",
-      "score": 0.723,
-      "r18": false
-    },
-    {
       "id": 3586,
       "title": "Oyaji",
       "score": 0.722,
@@ -92,12 +86,6 @@
       "id": 41553,
       "title": "The Man who Killed Nobunaga",
       "score": 0.722,
-      "r18": false
-    },
-    {
-      "id": 15286,
-      "title": "Fate/stay night: Heaven's Feel",
-      "score": 0.721,
       "r18": false
     },
     {
@@ -121,7 +109,7 @@
     {
       "id": 1085,
       "title": "Code Geass: Lelouch of the Rebellion",
-      "score": 0.719,
+      "score": 0.718,
       "r18": false
     },
     {
@@ -152,6 +140,18 @@
       "id": 35626,
       "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Kenki Koiuta",
       "score": 0.716,
+      "r18": false
+    },
+    {
+      "id": 470,
+      "title": "Sprite",
+      "score": 0.715,
+      "r18": false
+    },
+    {
+      "id": 7691,
+      "title": "Skull Man",
+      "score": 0.715,
       "r18": false
     }
   ]

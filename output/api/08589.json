@@ -1,8 +1,8 @@
 {
   "id": 8589,
   "title": "Vividred Operation",
-  "url": "https://mangadex.org/manga/8589",
-  "last_updated": "January 18, 2021 01:08:44 UTC",
+  "url": "https://api.mangadex.org/v2/manga/8589",
+  "last_updated": "February 07, 2021 20:31:08 UTC",
   "matches": [
     {
       "id": 6,
@@ -37,7 +37,7 @@
     {
       "id": 31349,
       "title": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka (Fan Colored)",
-      "score": 0.729,
+      "score": 0.728,
       "r18": false
     },
     {
@@ -73,12 +73,18 @@
     {
       "id": 12514,
       "title": "Uchuu Eiyuu Monogatari",
-      "score": 0.723,
+      "score": 0.722,
       "r18": false
     },
     {
       "id": 24976,
       "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
+      "score": 0.722,
+      "r18": false
+    },
+    {
+      "id": 15950,
+      "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
       "score": 0.722,
       "r18": false
     },
@@ -107,15 +113,21 @@
       "r18": false
     },
     {
+      "id": 6681,
+      "title": "Shin Slayers - Falces no Sunadokei",
+      "score": 0.717,
+      "r18": false
+    },
+    {
       "id": 121,
       "title": "Mahou Sensei Negima!",
       "score": 0.717,
       "r18": false
     },
     {
-      "id": 6681,
-      "title": "Shin Slayers - Falces no Sunadokei",
-      "score": 0.715,
+      "id": 44159,
+      "title": "Isekai de Slow Life wo (Ganbou)",
+      "score": 0.714,
       "r18": false
     },
     {
@@ -137,21 +149,9 @@
       "r18": false
     },
     {
-      "id": 5262,
-      "title": "Rose Hip Rose",
+      "id": 4774,
+      "title": "Dragon Quest: Dai no Daibouken",
       "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 26930,
-      "title": "Mushoku Tensei ~Roxy is Serious~",
-      "score": 0.71,
-      "r18": false
-    },
-    {
-      "id": 42183,
-      "title": "Mashima HERO'S",
-      "score": 0.71,
       "r18": false
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": 9114,
   "title": "Qualia the Purple",
-  "url": "https://mangadex.org/manga/9114",
-  "last_updated": "January 18, 2021 01:14:15 UTC",
+  "url": "https://api.mangadex.org/v2/manga/9114",
+  "last_updated": "February 07, 2021 20:41:10 UTC",
   "matches": [
     {
       "id": 1417,
@@ -32,12 +32,6 @@
       "id": 10091,
       "title": "Sekai Oni",
       "score": 0.715,
-      "r18": false
-    },
-    {
-      "id": 336,
-      "title": "Kuroshitsuji",
-      "score": 0.714,
       "r18": false
     },
     {
@@ -74,12 +68,6 @@
       "id": 6270,
       "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo (Official Colored)",
       "score": 0.71,
-      "r18": false
-    },
-    {
-      "id": 219,
-      "title": "Akame ga KILL!",
-      "score": 0.709,
       "r18": false
     },
     {
@@ -151,6 +139,18 @@
     {
       "id": 48208,
       "title": "BEASTARS (Fan-Colored)",
+      "score": 0.699,
+      "r18": false
+    },
+    {
+      "id": 29437,
+      "title": "The Bones of an Invisible Person",
+      "score": 0.699,
+      "r18": false
+    },
+    {
+      "id": 33124,
+      "title": "Shouwa Otome Otogibanashi",
       "score": 0.699,
       "r18": false
     }

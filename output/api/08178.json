@@ -1,8 +1,8 @@
 {
   "id": 8178,
   "title": "Grimm Legacy",
-  "url": "https://mangadex.org/manga/8178",
-  "last_updated": "January 17, 2021 19:09:09 UTC",
+  "url": "https://api.mangadex.org/v2/manga/8178",
+  "last_updated": "February 07, 2021 20:23:50 UTC",
   "matches": [
     {
       "id": 23231,
@@ -17,21 +17,9 @@
       "r18": false
     },
     {
-      "id": 3388,
-      "title": "Fate/Zero",
-      "score": 0.754,
-      "r18": false
-    },
-    {
       "id": 8328,
       "title": "Tales of Phantasia",
       "score": 0.754,
-      "r18": false
-    },
-    {
-      "id": 21283,
-      "title": "Persona 5",
-      "score": 0.753,
       "r18": false
     },
     {
@@ -125,12 +113,6 @@
       "r18": false
     },
     {
-      "id": 14441,
-      "title": "Fate/strange Fake",
-      "score": 0.742,
-      "r18": false
-    },
-    {
       "id": 41751,
       "title": "The Boy of Death",
       "score": 0.742,
@@ -152,6 +134,24 @@
       "id": 7220,
       "title": "Gensou Suikoden V - Reimei no Shiro",
       "score": 0.741,
+      "r18": false
+    },
+    {
+      "id": 4454,
+      "title": "Fire Emblem - Hasha no Tsurugi",
+      "score": 0.74,
+      "r18": false
+    },
+    {
+      "id": 33115,
+      "title": "Tales of Vesperia - Danzaisha no Keifu",
+      "score": 0.74,
+      "r18": false
+    },
+    {
+      "id": 11146,
+      "title": "Fate/hollow ataraxia",
+      "score": 0.739,
       "r18": false
     }
   ]

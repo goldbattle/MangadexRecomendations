@@ -1,19 +1,13 @@
 {
   "id": 9141,
   "title": "The Infernal Devices",
-  "url": "https://mangadex.org/manga/9141",
-  "last_updated": "January 18, 2021 01:14:33 UTC",
+  "url": "https://api.mangadex.org/v2/manga/9141",
+  "last_updated": "February 07, 2021 20:41:42 UTC",
   "matches": [
     {
       "id": 1411,
       "title": "DARKER THAN BLACK -Kuro no Keiyakusha-",
       "score": 0.753,
-      "r18": false
-    },
-    {
-      "id": 14441,
-      "title": "Fate/strange Fake",
-      "score": 0.751,
       "r18": false
     },
     {
@@ -89,12 +83,6 @@
       "r18": false
     },
     {
-      "id": 3388,
-      "title": "Fate/Zero",
-      "score": 0.739,
-      "r18": false
-    },
-    {
       "id": 1417,
       "title": "Shingetsutan Tsukihime",
       "score": 0.738,
@@ -152,6 +140,18 @@
       "id": 6082,
       "title": "Yume Miru Happa",
       "score": 0.734,
+      "r18": false
+    },
+    {
+      "id": 25435,
+      "title": "Madara",
+      "score": 0.733,
+      "r18": false
+    },
+    {
+      "id": 2340,
+      "title": "Fate/stay night",
+      "score": 0.733,
       "r18": false
     }
   ]

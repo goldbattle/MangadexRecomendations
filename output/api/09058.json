@@ -1,8 +1,8 @@
 {
   "id": 9058,
   "title": "The Chronicle of Seven",
-  "url": "https://mangadex.org/manga/9058",
-  "last_updated": "January 18, 2021 01:13:41 UTC",
+  "url": "https://api.mangadex.org/v2/manga/9058",
+  "last_updated": "February 07, 2021 20:40:15 UTC",
   "matches": [
     {
       "id": 5573,
@@ -77,12 +77,6 @@
       "r18": false
     },
     {
-      "id": 7195,
-      "title": "Nanatsu no Taizai",
-      "score": 0.678,
-      "r18": false
-    },
-    {
       "id": 8328,
       "title": "Tales of Phantasia",
       "score": 0.678,
@@ -107,12 +101,6 @@
       "r18": false
     },
     {
-      "id": 5861,
-      "title": "Slayers - Suiriyuuou no Kishi",
-      "score": 0.676,
-      "r18": false
-    },
-    {
       "id": 1417,
       "title": "Shingetsutan Tsukihime",
       "score": 0.676,
@@ -127,13 +115,7 @@
     {
       "id": 6268,
       "title": "JoJo's Bizarre Adventure Part 3 - Stardust Crusaders (Official Colored)",
-      "score": 0.673,
-      "r18": false
-    },
-    {
-      "id": 42459,
-      "title": "Akame ga Kill! 1.5",
-      "score": 0.673,
+      "score": 0.674,
       "r18": false
     },
     {
@@ -149,9 +131,27 @@
       "r18": false
     },
     {
+      "id": 5925,
+      "title": "Tales of Destiny",
+      "score": 0.673,
+      "r18": false
+    },
+    {
       "id": 6269,
       "title": "JoJo's Bizarre Adventure Part 4 - Diamond is Unbreakable (Official Colored)",
       "score": 0.673,
+      "r18": false
+    },
+    {
+      "id": 4566,
+      "title": "Hero Tales",
+      "score": 0.672,
+      "r18": false
+    },
+    {
+      "id": 42459,
+      "title": "Akame ga Kill! 1.5",
+      "score": 0.672,
       "r18": false
     }
   ]

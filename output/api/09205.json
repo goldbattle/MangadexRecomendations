@@ -1,8 +1,8 @@
 {
   "id": 9205,
   "title": "Zen'yasai Patroller",
-  "url": "https://mangadex.org/manga/9205",
-  "last_updated": "January 18, 2021 01:15:15 UTC",
+  "url": "https://api.mangadex.org/v2/manga/9205",
+  "last_updated": "February 07, 2021 20:42:58 UTC",
   "matches": [
     {
       "id": 11867,
@@ -44,6 +44,12 @@
       "id": 2126,
       "title": "Midori no Me",
       "score": 0.708,
+      "r18": false
+    },
+    {
+      "id": 6162,
+      "title": "Moyashi Otoko to Tane Shoujo",
+      "score": 0.707,
       "r18": false
     },
     {
@@ -97,7 +103,7 @@
     {
       "id": 12539,
       "title": "The Thief and the Jewel Girl",
-      "score": 0.691,
+      "score": 0.69,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 3104,
       "title": "Birthday Presents",
       "score": 0.672,
-      "r18": false
-    },
-    {
-      "id": 3192,
-      "title": "Meikyuu Yaburi no Hananusubito",
-      "score": 0.671,
       "r18": false
     }
   ]

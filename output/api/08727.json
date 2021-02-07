@@ -1,8 +1,8 @@
 {
   "id": 8727,
   "title": "Futatabi",
-  "url": "https://mangadex.org/manga/8727",
-  "last_updated": "January 18, 2021 01:10:07 UTC",
+  "url": "https://api.mangadex.org/v2/manga/8727",
+  "last_updated": "February 07, 2021 20:33:50 UTC",
   "matches": [
     {
       "id": 10596,
@@ -43,7 +43,7 @@
     {
       "id": 1417,
       "title": "Shingetsutan Tsukihime",
-      "score": 0.707,
+      "score": 0.706,
       "r18": false
     },
     {
@@ -68,12 +68,6 @@
       "id": 30171,
       "title": "Overgeared",
       "score": 0.702,
-      "r18": false
-    },
-    {
-      "id": 45198,
-      "title": "Boku no Hero Academia - True Hero (Doujinshi)",
-      "score": 0.699,
       "r18": false
     },
     {
@@ -115,7 +109,7 @@
     {
       "id": 6535,
       "title": "Radiata Stories - The Epic of Jack",
-      "score": 0.695,
+      "score": 0.694,
       "r18": false
     },
     {
@@ -151,6 +145,12 @@
     {
       "id": 1790,
       "title": "Arata Kangatari",
+      "score": 0.694,
+      "r18": false
+    },
+    {
+      "id": 53977,
+      "title": "Dragon Raja 2",
       "score": 0.694,
       "r18": false
     }

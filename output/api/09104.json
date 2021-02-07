@@ -1,8 +1,8 @@
 {
   "id": 9104,
   "title": "Shin Kidou Senki Gundam W - Battlefield of Pacifist",
-  "url": "https://mangadex.org/manga/9104",
-  "last_updated": "January 18, 2021 01:14:09 UTC",
+  "url": "https://api.mangadex.org/v2/manga/9104",
+  "last_updated": "February 07, 2021 20:41:01 UTC",
   "matches": [
     {
       "id": 7702,
@@ -32,6 +32,12 @@
       "id": 3861,
       "title": "Super Robot Taisen OG - The Inspector - Record of ATX",
       "score": 0.77,
+      "r18": false
+    },
+    {
+      "id": 7710,
+      "title": "Kidou Senshi Crossbone Gundam",
+      "score": 0.769,
       "r18": false
     },
     {
@@ -73,12 +79,6 @@
     {
       "id": 10974,
       "title": "Full Metal Panic! Another",
-      "score": 0.756,
-      "r18": false
-    },
-    {
-      "id": 7710,
-      "title": "Kidou Senshi Crossbone Gundam",
       "score": 0.756,
       "r18": false
     },
@@ -133,7 +133,7 @@
     {
       "id": 33438,
       "title": "Kidou Senshi Gundam NT (Narrative)",
-      "score": 0.746,
+      "score": 0.745,
       "r18": false
     },
     {

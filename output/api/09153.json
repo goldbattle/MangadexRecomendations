@@ -1,8 +1,8 @@
 {
   "id": 9153,
   "title": "Hitorimi Haduki-san to.",
-  "url": "https://mangadex.org/manga/9153",
-  "last_updated": "January 18, 2021 01:14:41 UTC",
+  "url": "https://api.mangadex.org/v2/manga/9153",
+  "last_updated": "February 07, 2021 20:41:55 UTC",
   "matches": [
     {
       "id": 951,
@@ -32,6 +32,12 @@
       "id": 56367,
       "title": "Konyakuhaki Sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu",
       "score": 0.714,
+      "r18": false
+    },
+    {
+      "id": 7232,
+      "title": "Cat's Eye",
+      "score": 0.713,
       "r18": false
     },
     {
@@ -103,13 +109,13 @@
     {
       "id": 152,
       "title": "Kimi to Boku.",
-      "score": 0.697,
+      "score": 0.696,
       "r18": false
     },
     {
       "id": 7910,
       "title": "Happy\u2605Lesson",
-      "score": 0.696,
+      "score": 0.695,
       "r18": false
     },
     {
@@ -131,27 +137,21 @@
       "r18": false
     },
     {
-      "id": 23811,
-      "title": "Boku no Kokoro no Yabai Yatsu",
-      "score": 0.693,
+      "id": 33897,
+      "title": "Ossan Boukensha Kane no Zenkou",
+      "score": 0.692,
       "r18": false
     },
     {
-      "id": 33897,
-      "title": "Ossan Boukensha Kane no Zenkou",
-      "score": 0.693,
+      "id": 23811,
+      "title": "Boku no Kokoro no Yabai Yatsu",
+      "score": 0.692,
       "r18": false
     },
     {
       "id": 13108,
       "title": "Karakai Jouzu no Takagi-san",
       "score": 0.692,
-      "r18": false
-    },
-    {
-      "id": 10509,
-      "title": "Imasugu Onii-chan ni Imouto da tte Iitai!",
-      "score": 0.691,
       "r18": false
     }
   ]

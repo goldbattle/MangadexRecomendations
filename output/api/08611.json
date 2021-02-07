@@ -1,8 +1,8 @@
 {
   "id": 8611,
   "title": "Yonensei",
-  "url": "https://mangadex.org/manga/8611",
-  "last_updated": "January 18, 2021 01:08:57 UTC",
+  "url": "https://api.mangadex.org/v2/manga/8611",
+  "last_updated": "February 07, 2021 20:31:29 UTC",
   "matches": [
     {
       "id": 2342,
@@ -43,19 +43,19 @@
     {
       "id": 12686,
       "title": "Hime-sama Tanuki no Koizanyou",
-      "score": 0.713,
-      "r18": false
-    },
-    {
-      "id": 46835,
-      "title": "Oshi no Ko",
-      "score": 0.711,
+      "score": 0.712,
       "r18": false
     },
     {
       "id": 17984,
       "title": "My Bride is His Wife",
-      "score": 0.711,
+      "score": 0.71,
+      "r18": false
+    },
+    {
+      "id": 46835,
+      "title": "Oshi no Ko",
+      "score": 0.71,
       "r18": false
     },
     {
@@ -115,13 +115,13 @@
     {
       "id": 15991,
       "title": "Koi wa Ameagari no You ni",
-      "score": 0.701,
+      "score": 0.7,
       "r18": false
     },
     {
       "id": 2731,
       "title": "Yume no Atosaki",
-      "score": 0.701,
+      "score": 0.7,
       "r18": false
     },
     {
@@ -137,6 +137,12 @@
       "r18": false
     },
     {
+      "id": 19505,
+      "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+      "score": 0.699,
+      "r18": false
+    },
+    {
       "id": 13396,
       "title": "By Chance, We... and...",
       "score": 0.698,
@@ -145,12 +151,6 @@
     {
       "id": 650,
       "title": "School Days",
-      "score": 0.697,
-      "r18": false
-    },
-    {
-      "id": 4274,
-      "title": "Boku to Watashi no Henai Jijou",
       "score": 0.697,
       "r18": false
     }

@@ -1,8 +1,8 @@
 {
   "id": 9186,
   "title": "6 Hours and 5 Minutes",
-  "url": "https://mangadex.org/manga/9186",
-  "last_updated": "January 18, 2021 01:15:02 UTC",
+  "url": "https://api.mangadex.org/v2/manga/9186",
+  "last_updated": "February 07, 2021 20:42:36 UTC",
   "matches": [
     {
       "id": 52301,
@@ -25,7 +25,7 @@
     {
       "id": 18898,
       "title": "Akuma No Riddle - You're Cute (Doujinshi)",
-      "score": 0.367,
+      "score": 0.368,
       "r18": false
     },
     {
@@ -61,6 +61,12 @@
     {
       "id": 45910,
       "title": "Napping Lily",
+      "score": 0.344,
+      "r18": false
+    },
+    {
+      "id": 59100,
+      "title": "Lunch",
       "score": 0.344,
       "r18": false
     },
@@ -101,14 +107,14 @@
       "r18": false
     },
     {
-      "id": 47429,
-      "title": "BanG Dream! - Sanagi Ha Yaburete Nanininaru",
+      "id": 28582,
+      "title": "Girls und Panzer - Sevendays. (Doujinshi)",
       "score": 0.321,
       "r18": false
     },
     {
-      "id": 28582,
-      "title": "Girls und Panzer - Sevendays. (Doujinshi)",
+      "id": 47429,
+      "title": "BanG Dream! - Sanagi Ha Yaburete Nanininaru",
       "score": 0.321,
       "r18": false
     },
@@ -146,12 +152,6 @@
       "id": 57574,
       "title": "Love Live! Sunshine!! - You know... (Doujinshi)",
       "score": 0.289,
-      "r18": false
-    },
-    {
-      "id": 6312,
-      "title": "Hyakuoku Nengo no Kimi no Koe mo",
-      "score": 0.288,
       "r18": false
     }
   ]

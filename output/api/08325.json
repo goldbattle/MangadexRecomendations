@@ -1,13 +1,13 @@
 {
   "id": 8325,
   "title": "Tales of Innocence",
-  "url": "https://mangadex.org/manga/8325",
-  "last_updated": "January 17, 2021 19:10:56 UTC",
+  "url": "https://api.mangadex.org/v2/manga/8325",
+  "last_updated": "February 07, 2021 20:26:30 UTC",
   "matches": [
     {
       "id": 23231,
       "title": "Wu Dong Qian Kun",
-      "score": 0.823,
+      "score": 0.822,
       "r18": false
     },
     {
@@ -71,12 +71,6 @@
       "r18": false
     },
     {
-      "id": 54801,
-      "title": "One Piece Episode A",
-      "score": 0.793,
-      "r18": false
-    },
-    {
       "id": 2086,
       "title": "Kingdom Hearts 358/2 Days",
       "score": 0.793,
@@ -86,12 +80,6 @@
       "id": 5683,
       "title": "Mononoke Hime",
       "score": 0.792,
-      "r18": false
-    },
-    {
-      "id": 7195,
-      "title": "Nanatsu no Taizai",
-      "score": 0.791,
       "r18": false
     },
     {
@@ -152,6 +140,18 @@
       "id": 47371,
       "title": "A Breakthrough Brought by Forbidden Master and Disciple",
       "score": 0.785,
+      "r18": false
+    },
+    {
+      "id": 53985,
+      "title": "Dragon Raja 3",
+      "score": 0.784,
+      "r18": false
+    },
+    {
+      "id": 53969,
+      "title": "Dragon Raja",
+      "score": 0.784,
       "r18": false
     }
   ]

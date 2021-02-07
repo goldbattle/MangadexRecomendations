@@ -1,8 +1,8 @@
 {
   "id": 8588,
   "title": "Hatoko-san to Love Comedy",
-  "url": "https://mangadex.org/manga/8588",
-  "last_updated": "January 18, 2021 01:08:44 UTC",
+  "url": "https://api.mangadex.org/v2/manga/8588",
+  "last_updated": "February 07, 2021 20:31:07 UTC",
   "matches": [
     {
       "id": 55481,
@@ -13,13 +13,19 @@
     {
       "id": 51875,
       "title": "Arifureta Gakuen de Sekai Saikyou",
-      "score": 0.69,
+      "score": 0.689,
       "r18": false
     },
     {
       "id": 1882,
       "title": "Baka to Test to Shoukanjuu",
       "score": 0.688,
+      "r18": false
+    },
+    {
+      "id": 15950,
+      "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
+      "score": 0.687,
       "r18": false
     },
     {
@@ -89,14 +95,14 @@
       "r18": false
     },
     {
-      "id": 36123,
-      "title": "Isekai de Tochi o Katte Noujou o Tsukurou",
+      "id": 51883,
+      "title": "The Fate of the Returned Hero",
       "score": 0.669,
       "r18": false
     },
     {
-      "id": 51883,
-      "title": "The Fate of the Returned Hero",
+      "id": 36123,
+      "title": "Isekai de Tochi o Katte Noujou o Tsukurou",
       "score": 0.669,
       "r18": false
     },
@@ -125,15 +131,15 @@
       "r18": false
     },
     {
-      "id": 11139,
-      "title": "Amagi Brilliant Park",
+      "id": 50496,
+      "title": "I Summoned the Devil to Grant Me a Wish, but I Married Her Instead Since She Was Adorable ~My New Devil Wife~",
       "score": 0.659,
       "r18": false
     },
     {
-      "id": 50496,
-      "title": "I Summoned the Devil to Grant Me a Wish, but I Married Her Instead Since She Was Adorable ~My New Devil Wife~",
-      "score": 0.657,
+      "id": 11139,
+      "title": "Amagi Brilliant Park",
+      "score": 0.659,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 31032,
       "title": "The World of Otome Games Is Tough for Mobs",
       "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 2336,
-      "title": "Hitsugi no Chaika",
-      "score": 0.654,
       "r18": false
     }
   ]

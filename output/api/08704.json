@@ -1,13 +1,19 @@
 {
   "id": 8704,
   "title": "Fantastic Tales",
-  "url": "https://mangadex.org/manga/8704",
-  "last_updated": "January 18, 2021 01:09:53 UTC",
+  "url": "https://api.mangadex.org/v2/manga/8704",
+  "last_updated": "February 07, 2021 20:33:17 UTC",
   "matches": [
     {
       "id": 34587,
       "title": "Meng Shi Zai Shang",
       "score": 0.682,
+      "r18": false
+    },
+    {
+      "id": 6229,
+      "title": "Divine Melody",
+      "score": 0.675,
       "r18": false
     },
     {
@@ -61,7 +67,7 @@
     {
       "id": 39101,
       "title": "The Crazy Adventures of Mystical Doctor",
-      "score": 0.663,
+      "score": 0.664,
       "r18": false
     },
     {
@@ -92,12 +98,6 @@
       "id": 27651,
       "title": "Sei Dragon Girl",
       "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 3996,
-      "title": "Akatsuki no Yona",
-      "score": 0.658,
       "r18": false
     },
     {
@@ -133,13 +133,13 @@
     {
       "id": 51419,
       "title": "I Want to Become the Hero's Bride (\uffe3&nabla;\uffe3)\u309e",
-      "score": 0.653,
+      "score": 0.652,
       "r18": false
     },
     {
       "id": 5421,
       "title": "Kamikaze Kaitou Jeanne",
-      "score": 0.651,
+      "score": 0.652,
       "r18": false
     },
     {

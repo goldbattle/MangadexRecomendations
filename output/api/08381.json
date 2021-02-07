@@ -1,8 +1,8 @@
 {
   "id": 8381,
   "title": "Nora",
-  "url": "https://mangadex.org/manga/8381",
-  "last_updated": "January 17, 2021 19:11:39 UTC",
+  "url": "https://api.mangadex.org/v2/manga/8381",
+  "last_updated": "February 07, 2021 20:27:29 UTC",
   "matches": [
     {
       "id": 2250,
@@ -19,7 +19,7 @@
     {
       "id": 283,
       "title": "Ao no Exorcist",
-      "score": 0.717,
+      "score": 0.718,
       "r18": false
     },
     {
@@ -38,12 +38,6 @@
       "id": 5573,
       "title": "Saiyuki",
       "score": 0.715,
-      "r18": false
-    },
-    {
-      "id": 21283,
-      "title": "Persona 5",
-      "score": 0.714,
       "r18": false
     },
     {
@@ -115,7 +109,7 @@
     {
       "id": 20231,
       "title": "Majo no Geboku to Maou no Tsuno",
-      "score": 0.706,
+      "score": 0.705,
       "r18": false
     },
     {
@@ -137,21 +131,27 @@
       "r18": false
     },
     {
-      "id": 336,
-      "title": "Kuroshitsuji",
-      "score": 0.702,
-      "r18": false
-    },
-    {
       "id": 1751,
       "title": "D.Gray-man",
       "score": 0.702,
       "r18": false
     },
     {
-      "id": 39,
-      "title": "One Piece",
-      "score": 0.702,
+      "id": 6270,
+      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo (Official Colored)",
+      "score": 0.7,
+      "r18": false
+    },
+    {
+      "id": 28525,
+      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo",
+      "score": 0.7,
+      "r18": false
+    },
+    {
+      "id": 53969,
+      "title": "Dragon Raja",
+      "score": 0.7,
       "r18": false
     }
   ]
