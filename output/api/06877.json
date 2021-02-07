@@ -1,8 +1,8 @@
 {
   "id": 6877,
   "title": "Kono Mama ja Dame Mitai desu",
-  "url": "https://mangadex.org/manga/6877",
-  "last_updated": "January 17, 2021 18:52:47 UTC",
+  "url": "https://api.mangadex.org/v2/manga/6877",
+  "last_updated": "February 07, 2021 16:17:45 UTC",
   "matches": [
     {
       "id": 3082,
@@ -43,7 +43,7 @@
     {
       "id": 7481,
       "title": "Zenbu Chodai",
-      "score": 0.707,
+      "score": 0.706,
       "r18": false
     },
     {
@@ -61,7 +61,7 @@
     {
       "id": 19218,
       "title": "Kiss Me Baby",
-      "score": 0.704,
+      "score": 0.703,
       "r18": false
     },
     {
@@ -119,6 +119,12 @@
       "r18": false
     },
     {
+      "id": 4802,
+      "title": "Junketsu + Kareshi",
+      "score": 0.69,
+      "r18": false
+    },
+    {
       "id": 16432,
       "title": "Suki Nante Ienai",
       "score": 0.69,
@@ -146,12 +152,6 @@
       "id": 4824,
       "title": "Rabu Kare - Gokujou Men Dokuhon!",
       "score": 0.688,
-      "r18": false
-    },
-    {
-      "id": 4175,
-      "title": "Cream Caramel Chocolate",
-      "score": 0.687,
       "r18": false
     }
   ]

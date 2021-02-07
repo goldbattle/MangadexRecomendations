@@ -1,8 +1,8 @@
 {
   "id": 6520,
   "title": "Ninku",
-  "url": "https://mangadex.org/manga/6520",
-  "last_updated": "January 17, 2021 18:48:10 UTC",
+  "url": "https://api.mangadex.org/v2/manga/6520",
+  "last_updated": "February 07, 2021 16:10:13 UTC",
   "matches": [
     {
       "id": 23195,
@@ -23,12 +23,6 @@
       "r18": false
     },
     {
-      "id": 54801,
-      "title": "One Piece Episode A",
-      "score": 0.714,
-      "r18": false
-    },
-    {
       "id": 5573,
       "title": "Saiyuki",
       "score": 0.712,
@@ -37,12 +31,6 @@
     {
       "id": 25435,
       "title": "Madara",
-      "score": 0.712,
-      "r18": false
-    },
-    {
-      "id": 50672,
-      "title": "My Hero Academia - League Of Villains: Undercover (Fan Colored)",
       "score": 0.712,
       "r18": false
     },
@@ -61,12 +49,6 @@
     {
       "id": 6572,
       "title": "Kaiouki",
-      "score": 0.71,
-      "r18": false
-    },
-    {
-      "id": 12714,
-      "title": "Boku no Hero Academia",
       "score": 0.71,
       "r18": false
     },
@@ -125,20 +107,20 @@
       "r18": false
     },
     {
-      "id": 48220,
-      "title": "Macross Delta",
+      "id": 54801,
+      "title": "One Piece Episode A",
       "score": 0.701,
       "r18": false
     },
     {
-      "id": 39,
-      "title": "One Piece",
+      "id": 48220,
+      "title": "Macross Delta",
       "score": 0.7,
       "r18": false
     },
     {
-      "id": 10004,
-      "title": "One Piece - Digital Colored Comics",
+      "id": 7232,
+      "title": "Cat's Eye",
       "score": 0.7,
       "r18": false
     },
@@ -152,6 +134,24 @@
       "id": 23798,
       "title": "Sword Art Online - Ordinal Scale",
       "score": 0.699,
+      "r18": false
+    },
+    {
+      "id": 1890,
+      "title": "Gekka Bijin",
+      "score": 0.699,
+      "r18": false
+    },
+    {
+      "id": 21130,
+      "title": "Wortenia Senki",
+      "score": 0.699,
+      "r18": false
+    },
+    {
+      "id": 435,
+      "title": "Gamaran",
+      "score": 0.697,
       "r18": false
     }
   ]

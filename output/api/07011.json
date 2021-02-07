@@ -1,8 +1,8 @@
 {
   "id": 7011,
   "title": "My Dream, My Work",
-  "url": "https://mangadex.org/manga/7011",
-  "last_updated": "January 17, 2021 18:54:29 UTC",
+  "url": "https://api.mangadex.org/v2/manga/7011",
+  "last_updated": "February 07, 2021 16:20:21 UTC",
   "matches": [
     {
       "id": 4615,
@@ -83,6 +83,12 @@
       "r18": false
     },
     {
+      "id": 11576,
+      "title": "Genso Ginekokurasy",
+      "score": 0.701,
+      "r18": false
+    },
+    {
       "id": 47133,
       "title": "A Choice of Boyfriend and Girlfriend",
       "score": 0.7,
@@ -103,7 +109,7 @@
     {
       "id": 15976,
       "title": "Shimanami Tasogare",
-      "score": 0.697,
+      "score": 0.696,
       "r18": false
     },
     {
@@ -115,12 +121,6 @@
     {
       "id": 7126,
       "title": "Dimension W",
-      "score": 0.695,
-      "r18": false
-    },
-    {
-      "id": 7938,
-      "title": "Denkigai no Honya-san",
       "score": 0.694,
       "r18": false
     },
@@ -137,6 +137,12 @@
       "r18": false
     },
     {
+      "id": 19505,
+      "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+      "score": 0.692,
+      "r18": false
+    },
+    {
       "id": 897,
       "title": "Boku wa Beatles",
       "score": 0.691,
@@ -146,12 +152,6 @@
       "id": 32017,
       "title": "Miageru to Kimi wa",
       "score": 0.691,
-      "r18": false
-    },
-    {
-      "id": 53809,
-      "title": "Itonami Itonamezu",
-      "score": 0.69,
       "r18": false
     }
   ]

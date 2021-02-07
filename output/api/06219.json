@@ -1,8 +1,8 @@
 {
   "id": 6219,
   "title": "Chagecha",
-  "url": "https://mangadex.org/manga/6219",
-  "last_updated": "January 17, 2021 13:05:00 UTC",
+  "url": "https://api.mangadex.org/v2/manga/6219",
+  "last_updated": "February 07, 2021 16:04:08 UTC",
   "matches": [
     {
       "id": 6218,
@@ -31,7 +31,7 @@
     {
       "id": 43310,
       "title": "Marvel + JUMP Collaboration",
-      "score": 0.68,
+      "score": 0.681,
       "r18": false
     },
     {
@@ -41,39 +41,9 @@
       "r18": false
     },
     {
-      "id": 12714,
-      "title": "Boku no Hero Academia",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 39,
-      "title": "One Piece",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 7527,
-      "title": "One Piece: Strong World",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 54801,
-      "title": "One Piece Episode A",
-      "score": 0.676,
-      "r18": false
-    },
-    {
       "id": 1424,
       "title": "Worst",
       "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 50672,
-      "title": "My Hero Academia - League Of Villains: Undercover (Fan Colored)",
-      "score": 0.675,
       "r18": false
     },
     {
@@ -95,12 +65,6 @@
       "r18": false
     },
     {
-      "id": 10004,
-      "title": "One Piece - Digital Colored Comics",
-      "score": 0.673,
-      "r18": false
-    },
-    {
       "id": 22236,
       "title": "Rurouni Kenshin: Hokkaido-hen",
       "score": 0.672,
@@ -110,12 +74,6 @@
       "id": 3867,
       "title": "M&Auml;R",
       "score": 0.672,
-      "r18": false
-    },
-    {
-      "id": 21283,
-      "title": "Persona 5",
-      "score": 0.671,
       "r18": false
     },
     {
@@ -137,14 +95,14 @@
       "r18": false
     },
     {
-      "id": 2496,
-      "title": "Aoharu x Kikanjuu",
+      "id": 10974,
+      "title": "Full Metal Panic! Another",
       "score": 0.668,
       "r18": false
     },
     {
-      "id": 10974,
-      "title": "Full Metal Panic! Another",
+      "id": 2496,
+      "title": "Aoharu x Kikanjuu",
       "score": 0.668,
       "r18": false
     },
@@ -152,6 +110,48 @@
       "id": 1911,
       "title": "Infinity Game",
       "score": 0.667,
+      "r18": false
+    },
+    {
+      "id": 4548,
+      "title": "Rokudenashi Blues",
+      "score": 0.667,
+      "r18": false
+    },
+    {
+      "id": 7232,
+      "title": "Cat's Eye",
+      "score": 0.666,
+      "r18": false
+    },
+    {
+      "id": 33897,
+      "title": "Ossan Boukensha Kane no Zenkou",
+      "score": 0.666,
+      "r18": false
+    },
+    {
+      "id": 19688,
+      "title": "Red Sprite",
+      "score": 0.666,
+      "r18": false
+    },
+    {
+      "id": 8,
+      "title": "Psyren",
+      "score": 0.665,
+      "r18": false
+    },
+    {
+      "id": 1021,
+      "title": "Girls of the Wild's",
+      "score": 0.665,
+      "r18": false
+    },
+    {
+      "id": 1763,
+      "title": "Go Da Gun",
+      "score": 0.663,
       "r18": false
     }
   ]

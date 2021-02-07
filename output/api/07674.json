@@ -1,8 +1,8 @@
 {
   "id": 7674,
   "title": "Final Fantasy XII - Dream Theater (Doujinshi)",
-  "url": "https://mangadex.org/manga/7674",
-  "last_updated": "January 17, 2021 19:02:50 UTC",
+  "url": "https://api.mangadex.org/v2/manga/7674",
+  "last_updated": "February 07, 2021 16:33:59 UTC",
   "matches": [
     {
       "id": 30612,
@@ -26,6 +26,12 @@
       "id": 22453,
       "title": "Dolls - Intelligence Agent (Doujinshi)",
       "score": 0.474,
+      "r18": false
+    },
+    {
+      "id": 7545,
+      "title": "Bleach - Orange (Doujinshi)",
+      "score": 0.468,
       "r18": false
     },
     {
@@ -59,12 +65,6 @@
       "r18": false
     },
     {
-      "id": 7545,
-      "title": "Bleach - Orange (Doujinshi)",
-      "score": 0.461,
-      "r18": false
-    },
-    {
       "id": 28678,
       "title": "Gensou Suikoden III - Big Brother (Doujinshi)",
       "score": 0.461,
@@ -95,12 +95,6 @@
       "r18": false
     },
     {
-      "id": 12298,
-      "title": "Suzumiya Haruhi - nyoro-n Churuya-san (Doujinshi)",
-      "score": 0.452,
-      "r18": false
-    },
-    {
       "id": 28676,
       "title": "Gensou Suikoden II - Bee &amp; Spider (Doujinshi)",
       "score": 0.45,
@@ -115,7 +109,7 @@
     {
       "id": 7663,
       "title": "Doraemon - Doranote (Doujinshi)",
-      "score": 0.447,
+      "score": 0.446,
       "r18": false
     },
     {
@@ -151,6 +145,12 @@
     {
       "id": 45552,
       "title": "Toaru Majutsu no Index - Misaka-san Stealing Underwear (Doujinshi)",
+      "score": 0.44,
+      "r18": false
+    },
+    {
+      "id": 13869,
+      "title": "Touhou - Indigo. (Doujinshi)",
       "score": 0.44,
       "r18": false
     }

@@ -1,8 +1,8 @@
 {
   "id": 7436,
   "title": "Hoozuki no Reitetsu",
-  "url": "https://mangadex.org/manga/7436",
-  "last_updated": "January 17, 2021 18:59:49 UTC",
+  "url": "https://api.mangadex.org/v2/manga/7436",
+  "last_updated": "February 07, 2021 16:29:05 UTC",
   "matches": [
     {
       "id": 4880,
@@ -71,6 +71,12 @@
       "r18": false
     },
     {
+      "id": 11576,
+      "title": "Genso Ginekokurasy",
+      "score": 0.74,
+      "r18": false
+    },
+    {
       "id": 52836,
       "title": "DD Fist of the North Star",
       "score": 0.738,
@@ -86,6 +92,12 @@
       "id": 1034,
       "title": "Persona 4",
       "score": 0.731,
+      "r18": false
+    },
+    {
+      "id": 19505,
+      "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+      "score": 0.729,
       "r18": false
     },
     {
@@ -127,7 +139,7 @@
     {
       "id": 1388,
       "title": "Superior",
-      "score": 0.723,
+      "score": 0.724,
       "r18": false
     },
     {
@@ -140,18 +152,6 @@
       "id": 13952,
       "title": "Dare ga Tame ni Hagane wa Naru",
       "score": 0.722,
-      "r18": false
-    },
-    {
-      "id": 6272,
-      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
-      "score": 0.721,
-      "r18": false
-    },
-    {
-      "id": 18296,
-      "title": "My Sect's Senior Disciple Has a Hole in His Brain",
-      "score": 0.72,
       "r18": false
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": 6691,
   "title": "Barcode Geass: Hanbai no Lelouch",
-  "url": "https://mangadex.org/manga/6691",
-  "last_updated": "January 17, 2021 18:50:22 UTC",
+  "url": "https://api.mangadex.org/v2/manga/6691",
+  "last_updated": "February 07, 2021 16:13:39 UTC",
   "matches": [
     {
       "id": 44511,
@@ -19,13 +19,7 @@
     {
       "id": 22236,
       "title": "Rurouni Kenshin: Hokkaido-hen",
-      "score": 0.751,
-      "r18": false
-    },
-    {
-      "id": 21283,
-      "title": "Persona 5",
-      "score": 0.748,
+      "score": 0.75,
       "r18": false
     },
     {
@@ -59,12 +53,6 @@
       "r18": false
     },
     {
-      "id": 50672,
-      "title": "My Hero Academia - League Of Villains: Undercover (Fan Colored)",
-      "score": 0.742,
-      "r18": false
-    },
-    {
       "id": 1021,
       "title": "Girls of the Wild's",
       "score": 0.74,
@@ -86,12 +74,6 @@
       "id": 216,
       "title": "Rurouni Kenshin",
       "score": 0.738,
-      "r18": false
-    },
-    {
-      "id": 12714,
-      "title": "Boku no Hero Academia",
-      "score": 0.737,
       "r18": false
     },
     {
@@ -131,12 +113,6 @@
       "r18": false
     },
     {
-      "id": 5861,
-      "title": "Slayers - Suiriyuuou no Kishi",
-      "score": 0.733,
-      "r18": false
-    },
-    {
       "id": 13432,
       "title": "Ningen Deshita",
       "score": 0.732,
@@ -152,6 +128,30 @@
       "id": 1226,
       "title": "C.M.B.",
       "score": 0.729,
+      "r18": false
+    },
+    {
+      "id": 48220,
+      "title": "Macross Delta",
+      "score": 0.727,
+      "r18": false
+    },
+    {
+      "id": 1890,
+      "title": "Gekka Bijin",
+      "score": 0.727,
+      "r18": false
+    },
+    {
+      "id": 2329,
+      "title": "Samurai Champloo",
+      "score": 0.726,
+      "r18": false
+    },
+    {
+      "id": 3607,
+      "title": "All Around Type-Moon",
+      "score": 0.726,
       "r18": false
     }
   ]

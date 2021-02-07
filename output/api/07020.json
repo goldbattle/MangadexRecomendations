@@ -1,8 +1,8 @@
 {
   "id": 7020,
   "title": "Dragon Pearl Boy",
-  "url": "https://mangadex.org/manga/7020",
-  "last_updated": "January 17, 2021 18:54:36 UTC",
+  "url": "https://api.mangadex.org/v2/manga/7020",
+  "last_updated": "February 07, 2021 16:20:31 UTC",
   "matches": [
     {
       "id": 10483,
@@ -119,6 +119,12 @@
       "r18": false
     },
     {
+      "id": 59999,
+      "title": "Save Me, Princess",
+      "score": 0.669,
+      "r18": false
+    },
+    {
       "id": 784,
       "title": "Zenbu Shiritai",
       "score": 0.669,
@@ -145,12 +151,6 @@
     {
       "id": 204,
       "title": "Kore wa Koi no Hanashi",
-      "score": 0.668,
-      "r18": false
-    },
-    {
-      "id": 45586,
-      "title": "I'm Stanning the Prince",
       "score": 0.668,
       "r18": false
     }

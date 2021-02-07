@@ -1,8 +1,8 @@
 {
   "id": 6988,
   "title": "Over Image",
-  "url": "https://mangadex.org/manga/6988",
-  "last_updated": "January 17, 2021 18:54:12 UTC",
+  "url": "https://api.mangadex.org/v2/manga/6988",
+  "last_updated": "February 07, 2021 16:19:55 UTC",
   "matches": [
     {
       "id": 8495,
@@ -11,21 +11,9 @@
       "r18": false
     },
     {
-      "id": 14441,
-      "title": "Fate/strange Fake",
-      "score": 0.738,
-      "r18": false
-    },
-    {
       "id": 51803,
       "title": "A Villainess? No, a Heinous Young Lady",
       "score": 0.732,
-      "r18": false
-    },
-    {
-      "id": 15286,
-      "title": "Fate/stay night: Heaven's Feel",
-      "score": 0.731,
       "r18": false
     },
     {
@@ -38,6 +26,12 @@
       "id": 46,
       "title": "Witch Craft Works",
       "score": 0.728,
+      "r18": false
+    },
+    {
+      "id": 15286,
+      "title": "Fate/stay night: Heaven's Feel",
+      "score": 0.726,
       "r18": false
     },
     {
@@ -97,7 +91,7 @@
     {
       "id": 16805,
       "title": "Brave Star \u2606 Romantics",
-      "score": 0.713,
+      "score": 0.712,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 28158,
       "title": "Shin Megami Tensei DSJ Another Report",
       "score": 0.697,
+      "r18": false
+    },
+    {
+      "id": 52850,
+      "title": "Meccha Shoukan Sareta Ken",
+      "score": 0.696,
       "r18": false
     }
   ]

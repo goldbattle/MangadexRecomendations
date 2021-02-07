@@ -1,8 +1,8 @@
 {
   "id": 7633,
   "title": "Square (apricot+)",
-  "url": "https://mangadex.org/manga/7633",
-  "last_updated": "January 17, 2021 19:02:18 UTC",
+  "url": "https://api.mangadex.org/v2/manga/7633",
+  "last_updated": "February 07, 2021 16:33:12 UTC",
   "matches": [
     {
       "id": 5788,
@@ -55,6 +55,12 @@
     {
       "id": 10217,
       "title": "Tiger & Bunny - Dragon Kid no Renai Douchuu Hizakurige (Doujinshi)",
+      "score": 0.34,
+      "r18": false
+    },
+    {
+      "id": 14365,
+      "title": "Kantai Collection -KanColle- Mutsu Bomb -Mucchan's Explosive Episode- (Doujinshi)",
       "score": 0.34,
       "r18": false
     },
@@ -145,12 +151,6 @@
     {
       "id": 21215,
       "title": "Touhou - I\u2019m Happy that You\u2019re Here (doujinshi)",
-      "score": 0.255,
-      "r18": false
-    },
-    {
-      "id": 21712,
-      "title": "Shin Seiki Evangelion - Epilogue of Evangelion (Doujinshi)",
       "score": 0.255,
       "r18": false
     }

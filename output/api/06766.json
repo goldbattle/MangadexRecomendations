@@ -1,8 +1,8 @@
 {
   "id": 6766,
   "title": "Half &amp; Half",
-  "url": "https://mangadex.org/manga/6766",
-  "last_updated": "January 17, 2021 18:51:20 UTC",
+  "url": "https://api.mangadex.org/v2/manga/6766",
+  "last_updated": "February 07, 2021 16:15:14 UTC",
   "matches": [
     {
       "id": 3507,
@@ -41,6 +41,12 @@
       "r18": false
     },
     {
+      "id": 15950,
+      "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
+      "score": 0.742,
+      "r18": false
+    },
+    {
       "id": 23571,
       "title": "Kimi wa 008",
       "score": 0.74,
@@ -49,7 +55,7 @@
     {
       "id": 11615,
       "title": "Rakudai Kishi no Eiyuutan",
-      "score": 0.738,
+      "score": 0.739,
       "r18": false
     },
     {
@@ -79,7 +85,7 @@
     {
       "id": 9855,
       "title": "Shinigami-sama to 4-nin no Kanojo",
-      "score": 0.732,
+      "score": 0.731,
       "r18": false
     },
     {
@@ -145,12 +151,6 @@
     {
       "id": 86,
       "title": "Anedoki",
-      "score": 0.725,
-      "r18": false
-    },
-    {
-      "id": 905,
-      "title": "Yotsunoha",
       "score": 0.725,
       "r18": false
     }

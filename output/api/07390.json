@@ -1,8 +1,8 @@
 {
   "id": 7390,
   "title": "Happy Summer Dream",
-  "url": "https://mangadex.org/manga/7390",
-  "last_updated": "January 17, 2021 18:59:16 UTC",
+  "url": "https://api.mangadex.org/v2/manga/7390",
+  "last_updated": "February 07, 2021 16:28:12 UTC",
   "matches": [
     {
       "id": 440,
@@ -113,6 +113,12 @@
       "r18": false
     },
     {
+      "id": 5428,
+      "title": "Violin",
+      "score": 0.233,
+      "r18": false
+    },
+    {
       "id": 5502,
       "title": "Neko no Machi no Ko",
       "score": 0.233,
@@ -145,12 +151,6 @@
     {
       "id": 9184,
       "title": "Bokutachi no Tabi",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 9333,
-      "title": "Kyou mo Uchi de Machi Awase",
       "score": 0.233,
       "r18": false
     }

@@ -1,8 +1,8 @@
 {
   "id": 6599,
   "title": "Dragon Quest Monsters+",
-  "url": "https://mangadex.org/manga/6599",
-  "last_updated": "January 17, 2021 18:49:10 UTC",
+  "url": "https://api.mangadex.org/v2/manga/6599",
+  "last_updated": "February 07, 2021 16:11:50 UTC",
   "matches": [
     {
       "id": 11923,
@@ -35,21 +35,15 @@
       "r18": false
     },
     {
-      "id": 4774,
-      "title": "Dragon Quest: Dai no Daibouken",
-      "score": 0.737,
-      "r18": false
-    },
-    {
       "id": 43205,
       "title": "Garbage Hero's Revenge: Story of a Hero, That Was Summoned to Another World and Was Thrown Away",
-      "score": 0.729,
+      "score": 0.728,
       "r18": false
     },
     {
       "id": 33141,
       "title": "Mir's Legend - The Forgotten Ones",
-      "score": 0.729,
+      "score": 0.728,
       "r18": false
     },
     {
@@ -83,14 +77,14 @@
       "r18": false
     },
     {
-      "id": 7757,
-      "title": ".hack//G.U.+",
+      "id": 19963,
+      "title": "Digimon Universe: Appli Monsters",
       "score": 0.724,
       "r18": false
     },
     {
-      "id": 19963,
-      "title": "Digimon Universe: Appli Monsters",
+      "id": 7757,
+      "title": ".hack//G.U.+",
       "score": 0.724,
       "r18": false
     },
@@ -149,9 +143,15 @@
       "r18": false
     },
     {
-      "id": 54801,
-      "title": "One Piece Episode A",
-      "score": 0.715,
+      "id": 4454,
+      "title": "Fire Emblem - Hasha no Tsurugi",
+      "score": 0.714,
+      "r18": false
+    },
+    {
+      "id": 7759,
+      "title": ".hack//XXXX",
+      "score": 0.714,
       "r18": false
     }
   ]

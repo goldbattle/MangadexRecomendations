@@ -1,8 +1,8 @@
 {
   "id": 6286,
   "title": "Aoi Shiro - Aoi Shiro no Enbukyoku",
-  "url": "https://mangadex.org/manga/6286",
-  "last_updated": "January 17, 2021 13:05:46 UTC",
+  "url": "https://api.mangadex.org/v2/manga/6286",
+  "last_updated": "February 07, 2021 16:05:28 UTC",
   "matches": [
     {
       "id": 18294,
@@ -47,6 +47,12 @@
       "r18": false
     },
     {
+      "id": 6162,
+      "title": "Moyashi Otoko to Tane Shoujo",
+      "score": 0.708,
+      "r18": false
+    },
+    {
       "id": 7559,
       "title": "Otome Cake",
       "score": 0.706,
@@ -73,7 +79,7 @@
     {
       "id": 6276,
       "title": "Nijipuri",
-      "score": 0.701,
+      "score": 0.7,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 27127,
       "title": "A Violet at Zero Degrees Kelvin",
       "score": 0.687,
-      "r18": false
-    },
-    {
-      "id": 7541,
-      "title": "Sayonara Folklore",
-      "score": 0.686,
       "r18": false
     }
   ]

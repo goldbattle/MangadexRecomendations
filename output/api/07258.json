@@ -1,8 +1,8 @@
 {
   "id": 7258,
   "title": "Touhou - Yukari vs. Ran (Doujinshi)",
-  "url": "https://mangadex.org/manga/7258",
-  "last_updated": "January 17, 2021 18:57:35 UTC",
+  "url": "https://api.mangadex.org/v2/manga/7258",
+  "last_updated": "February 07, 2021 16:25:24 UTC",
   "matches": [
     {
       "id": 3368,
@@ -107,12 +107,6 @@
       "r18": false
     },
     {
-      "id": 336,
-      "title": "Kuroshitsuji",
-      "score": 0.673,
-      "r18": false
-    },
-    {
       "id": 3584,
       "title": "Type-Moon - T-Moon Complex X (Doujinshi)",
       "score": 0.673,
@@ -152,6 +146,12 @@
       "id": 1764,
       "title": "Umineko no Naku Koro ni Chiru Episode 5: End of the Golden Witch",
       "score": 0.665,
+      "r18": false
+    },
+    {
+      "id": 6272,
+      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
+      "score": 0.663,
       "r18": false
     }
   ]

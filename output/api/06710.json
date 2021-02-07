@@ -1,8 +1,8 @@
 {
   "id": 6710,
   "title": "Inakami",
-  "url": "https://mangadex.org/manga/6710",
-  "last_updated": "January 17, 2021 18:50:37 UTC",
+  "url": "https://api.mangadex.org/v2/manga/6710",
+  "last_updated": "February 07, 2021 16:14:03 UTC",
   "matches": [
     {
       "id": 9855,
@@ -89,6 +89,12 @@
       "r18": false
     },
     {
+      "id": 15950,
+      "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
+      "score": 0.67,
+      "r18": false
+    },
+    {
       "id": 1062,
       "title": "Shina Dark ~Kuroki Tsuki no Ou to Souheiki no Himegimi~",
       "score": 0.67,
@@ -145,12 +151,6 @@
     {
       "id": 3901,
       "title": "Miniature",
-      "score": 0.667,
-      "r18": false
-    },
-    {
-      "id": 692,
-      "title": "Open Sesame",
       "score": 0.667,
       "r18": false
     }

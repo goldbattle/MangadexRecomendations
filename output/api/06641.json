@@ -1,8 +1,8 @@
 {
   "id": 6641,
   "title": "Iinazuke Kyoutei",
-  "url": "https://mangadex.org/manga/6641",
-  "last_updated": "January 17, 2021 18:49:43 UTC",
+  "url": "https://api.mangadex.org/v2/manga/6641",
+  "last_updated": "February 07, 2021 16:12:39 UTC",
   "matches": [
     {
       "id": 32290,
@@ -44,12 +44,6 @@
       "id": 3848,
       "title": "Love Yume Mix",
       "score": 0.705,
-      "r18": false
-    },
-    {
-      "id": 1011,
-      "title": "Prison School",
-      "score": 0.702,
       "r18": false
     },
     {
@@ -97,7 +91,7 @@
     {
       "id": 2841,
       "title": "Happy World!",
-      "score": 0.695,
+      "score": 0.694,
       "r18": false
     },
     {
@@ -143,14 +137,20 @@
       "r18": false
     },
     {
-      "id": 51808,
-      "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
+      "id": 609,
+      "title": "Musunde Hiraite",
       "score": 0.69,
       "r18": false
     },
     {
-      "id": 609,
-      "title": "Musunde Hiraite",
+      "id": 9693,
+      "title": "Love Theory",
+      "score": 0.69,
+      "r18": false
+    },
+    {
+      "id": 27522,
+      "title": "Joshikousei",
       "score": 0.69,
       "r18": false
     }

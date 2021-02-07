@@ -1,8 +1,8 @@
 {
   "id": 6281,
   "title": "Yashio to Mikumo",
-  "url": "https://mangadex.org/manga/6281",
-  "last_updated": "January 17, 2021 13:05:43 UTC",
+  "url": "https://api.mangadex.org/v2/manga/6281",
+  "last_updated": "February 07, 2021 16:05:23 UTC",
   "matches": [
     {
       "id": 6082,
@@ -20,6 +20,12 @@
       "id": 11867,
       "title": "Hotarubi no Mori e",
       "score": 0.746,
+      "r18": false
+    },
+    {
+      "id": 7816,
+      "title": "Folk Tail Tonakai",
+      "score": 0.731,
       "r18": false
     },
     {
@@ -97,7 +103,7 @@
     {
       "id": 2211,
       "title": "Shibariya Komachi",
-      "score": 0.715,
+      "score": 0.714,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 4867,
       "title": "Tokimeki Tonight",
       "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 16508,
-      "title": "Mori no Takuma-san",
-      "score": 0.71,
       "r18": false
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": 7574,
   "title": "Kokushi no Shima",
-  "url": "https://mangadex.org/manga/7574",
-  "last_updated": "January 17, 2021 19:01:35 UTC",
+  "url": "https://api.mangadex.org/v2/manga/7574",
+  "last_updated": "February 07, 2021 16:31:55 UTC",
   "matches": [
     {
       "id": 1714,
@@ -73,12 +73,6 @@
     {
       "id": 13992,
       "title": "Fukushuu Kyoushitsu",
-      "score": 0.771,
-      "r18": false
-    },
-    {
-      "id": 27634,
-      "title": "MW",
       "score": 0.77,
       "r18": false
     },
@@ -89,20 +83,32 @@
       "r18": false
     },
     {
+      "id": 27634,
+      "title": "MW",
+      "score": 0.77,
+      "r18": false
+    },
+    {
       "id": 398,
       "title": "Tsumi to Batsu - A Falsified Romance",
-      "score": 0.769,
+      "score": 0.77,
       "r18": false
     },
     {
       "id": 2712,
       "title": "Blame!",
-      "score": 0.769,
+      "score": 0.77,
       "r18": false
     },
     {
       "id": 28617,
       "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run",
+      "score": 0.769,
+      "r18": false
+    },
+    {
+      "id": 19505,
+      "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
       "score": 0.769,
       "r18": false
     },
@@ -115,7 +121,7 @@
     {
       "id": 17953,
       "title": "BORDER",
-      "score": 0.765,
+      "score": 0.766,
       "r18": false
     },
     {
@@ -133,7 +139,7 @@
     {
       "id": 104,
       "title": "Liar Game",
-      "score": 0.763,
+      "score": 0.762,
       "r18": false
     },
     {
@@ -143,15 +149,9 @@
       "r18": false
     },
     {
-      "id": 3917,
-      "title": "Waltz",
-      "score": 0.76,
-      "r18": false
-    },
-    {
-      "id": 3056,
-      "title": "Tokyo Ghoul",
-      "score": 0.76,
+      "id": 9829,
+      "title": "Immortal Hounds",
+      "score": 0.761,
       "r18": false
     }
   ]

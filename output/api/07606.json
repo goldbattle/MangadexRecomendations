@@ -1,8 +1,8 @@
 {
   "id": 7606,
   "title": "17 Years Old, That Summer Day's Miracle",
-  "url": "https://mangadex.org/manga/7606",
-  "last_updated": "January 17, 2021 19:01:59 UTC",
+  "url": "https://api.mangadex.org/v2/manga/7606",
+  "last_updated": "February 07, 2021 16:32:35 UTC",
   "matches": [
     {
       "id": 43405,
@@ -101,12 +101,6 @@
       "r18": false
     },
     {
-      "id": 11260,
-      "title": "Free Draw",
-      "score": 0.313,
-      "r18": false
-    },
-    {
       "id": 1293,
       "title": "Miyuki",
       "score": 0.311,
@@ -145,13 +139,19 @@
     {
       "id": 1728,
       "title": "Ever Green",
-      "score": 0.299,
+      "score": 0.3,
       "r18": false
     },
     {
       "id": 14838,
       "title": "The Moon at Daybreak",
       "score": 0.299,
+      "r18": false
+    },
+    {
+      "id": 15962,
+      "title": "Back Alley Life",
+      "score": 0.297,
       "r18": false
     }
   ]

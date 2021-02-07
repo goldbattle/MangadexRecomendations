@@ -1,8 +1,8 @@
 {
   "id": 6806,
   "title": "Touhou - Gensokyo Escape (Doujinshi)",
-  "url": "https://mangadex.org/manga/6806",
-  "last_updated": "January 17, 2021 18:51:51 UTC",
+  "url": "https://api.mangadex.org/v2/manga/6806",
+  "last_updated": "February 07, 2021 16:16:13 UTC",
   "matches": [
     {
       "id": 4868,
@@ -59,12 +59,6 @@
       "r18": false
     },
     {
-      "id": 12316,
-      "title": "\u25cfREC",
-      "score": 0.345,
-      "r18": false
-    },
-    {
       "id": 45071,
       "title": "Fullmetal Alchemist - A Father's Feeling (Doujinshi)",
       "score": 0.332,
@@ -85,7 +79,7 @@
     {
       "id": 48627,
       "title": "Ensemble Stars! - SCOUT! (Doujinshi)",
-      "score": 0.267,
+      "score": 0.266,
       "r18": false
     },
     {
@@ -151,6 +145,12 @@
     {
       "id": 54013,
       "title": "Dream Maker Hatsune Miku",
+      "score": 0.217,
+      "r18": false
+    },
+    {
+      "id": 26196,
+      "title": "Mirio no Sora",
       "score": 0.217,
       "r18": false
     }

@@ -1,8 +1,8 @@
 {
   "id": 7110,
   "title": "Haunted Junction",
-  "url": "https://mangadex.org/manga/7110",
-  "last_updated": "January 17, 2021 18:55:42 UTC",
+  "url": "https://api.mangadex.org/v2/manga/7110",
+  "last_updated": "February 07, 2021 16:22:20 UTC",
   "matches": [
     {
       "id": 5171,
@@ -19,19 +19,13 @@
     {
       "id": 6269,
       "title": "JoJo's Bizarre Adventure Part 4 - Diamond is Unbreakable (Official Colored)",
-      "score": 0.741,
+      "score": 0.74,
       "r18": false
     },
     {
       "id": 28843,
       "title": "JoJo's Bizarre Adventure Part 4 - Diamond is Unbreakable",
       "score": 0.739,
-      "r18": false
-    },
-    {
-      "id": 336,
-      "title": "Kuroshitsuji",
-      "score": 0.728,
       "r18": false
     },
     {
@@ -43,7 +37,7 @@
     {
       "id": 50636,
       "title": "Kuchi ga Saketemo Kimi ni wa (2020 Short)",
-      "score": 0.715,
+      "score": 0.716,
       "r18": false
     },
     {
@@ -59,14 +53,14 @@
       "r18": false
     },
     {
-      "id": 24083,
-      "title": "Cowa",
+      "id": 7855,
+      "title": "Yuuyami Tokkoutai",
       "score": 0.707,
       "r18": false
     },
     {
-      "id": 7855,
-      "title": "Yuuyami Tokkoutai",
+      "id": 24083,
+      "title": "Cowa",
       "score": 0.707,
       "r18": false
     },
@@ -80,6 +74,12 @@
       "id": 16792,
       "title": "Vanilla Spider",
       "score": 0.703,
+      "r18": false
+    },
+    {
+      "id": 336,
+      "title": "Kuroshitsuji",
+      "score": 0.702,
       "r18": false
     },
     {
@@ -131,12 +131,6 @@
       "r18": false
     },
     {
-      "id": 1057,
-      "title": "Pandora Hearts",
-      "score": 0.681,
-      "r18": false
-    },
-    {
       "id": 56476,
       "title": "Higurashi no Naku Koro ni Gou",
       "score": 0.681,
@@ -146,6 +140,12 @@
       "id": 27152,
       "title": "JoJo's Bizarre Adventure Part 2 - Battle Tendency (Official Colored)",
       "score": 0.68,
+      "r18": false
+    },
+    {
+      "id": 1057,
+      "title": "Pandora Hearts",
+      "score": 0.679,
       "r18": false
     },
     {

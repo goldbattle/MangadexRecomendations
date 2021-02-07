@@ -1,8 +1,8 @@
 {
   "id": 6745,
   "title": "Gakuen Utopia Manabi Straight!",
-  "url": "https://mangadex.org/manga/6745",
-  "last_updated": "January 17, 2021 18:51:04 UTC",
+  "url": "https://api.mangadex.org/v2/manga/6745",
+  "last_updated": "February 07, 2021 16:14:49 UTC",
   "matches": [
     {
       "id": 15937,
@@ -35,12 +35,6 @@
       "r18": false
     },
     {
-      "id": 50672,
-      "title": "My Hero Academia - League Of Villains: Undercover (Fan Colored)",
-      "score": 0.701,
-      "r18": false
-    },
-    {
       "id": 1021,
       "title": "Girls of the Wild's",
       "score": 0.698,
@@ -53,15 +47,15 @@
       "r18": false
     },
     {
-      "id": 12714,
-      "title": "Boku no Hero Academia",
-      "score": 0.698,
-      "r18": false
-    },
-    {
       "id": 606,
       "title": "Area no Kishi",
       "score": 0.697,
+      "r18": false
+    },
+    {
+      "id": 6056,
+      "title": "Shigatsu wa Kimi no Uso",
+      "score": 0.696,
       "r18": false
     },
     {
@@ -131,12 +125,6 @@
       "r18": false
     },
     {
-      "id": 6056,
-      "title": "Shigatsu wa Kimi no Uso",
-      "score": 0.688,
-      "r18": false
-    },
-    {
       "id": 43650,
       "title": "Buttobi Itto",
       "score": 0.688,
@@ -152,6 +140,18 @@
       "id": 6269,
       "title": "JoJo's Bizarre Adventure Part 4 - Diamond is Unbreakable (Official Colored)",
       "score": 0.686,
+      "r18": false
+    },
+    {
+      "id": 20523,
+      "title": "BEASTARS",
+      "score": 0.686,
+      "r18": false
+    },
+    {
+      "id": 3829,
+      "title": "Shindere Shoujo to Kodoku na Shinigami",
+      "score": 0.685,
       "r18": false
     }
   ]

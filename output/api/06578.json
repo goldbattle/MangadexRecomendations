@@ -1,8 +1,8 @@
 {
   "id": 6578,
   "title": "Chikyuu Misaki",
-  "url": "https://mangadex.org/manga/6578",
-  "last_updated": "January 17, 2021 18:48:54 UTC",
+  "url": "https://api.mangadex.org/v2/manga/6578",
+  "last_updated": "February 07, 2021 16:11:24 UTC",
   "matches": [
     {
       "id": 1417,
@@ -26,12 +26,6 @@
       "id": 6521,
       "title": "Nishi no Yoki Majo",
       "score": 0.743,
-      "r18": false
-    },
-    {
-      "id": 336,
-      "title": "Kuroshitsuji",
-      "score": 0.731,
       "r18": false
     },
     {
@@ -67,18 +61,18 @@
     {
       "id": 4780,
       "title": "Umineko no Naku Koro ni Chiru Episode 8: Twilight of the Golden Witch",
-      "score": 0.725,
-      "r18": false
-    },
-    {
-      "id": 19597,
-      "title": "Evil Crusher Maya",
       "score": 0.724,
       "r18": false
     },
     {
       "id": 22194,
       "title": "Beast Complex",
+      "score": 0.724,
+      "r18": false
+    },
+    {
+      "id": 19597,
+      "title": "Evil Crusher Maya",
       "score": 0.724,
       "r18": false
     },
@@ -107,15 +101,15 @@
       "r18": false
     },
     {
-      "id": 303,
-      "title": "Claymore",
-      "score": 0.722,
+      "id": 5607,
+      "title": "Shin Megami Tensei: Devil Summoner - Kuzunoha Raidou Tai Kodokuno Marebito",
+      "score": 0.718,
       "r18": false
     },
     {
-      "id": 5607,
-      "title": "Shin Megami Tensei: Devil Summoner - Kuzunoha Raidou Tai Kodokuno Marebito",
-      "score": 0.719,
+      "id": 303,
+      "title": "Claymore",
+      "score": 0.717,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 1426,
       "title": "Umineko no Naku Koro ni Episode 1: Legend of the Golden Witch",
       "score": 0.71,
+      "r18": false
+    },
+    {
+      "id": 41850,
+      "title": "Ihoujin, Dungeon ni Moguru",
+      "score": 0.709,
       "r18": false
     }
   ]

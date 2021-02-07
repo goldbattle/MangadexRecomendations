@@ -1,21 +1,9 @@
 {
   "id": 7517,
   "title": "Mouhitsu Hallucination",
-  "url": "https://mangadex.org/manga/7517",
-  "last_updated": "January 17, 2021 19:00:52 UTC",
+  "url": "https://api.mangadex.org/v2/manga/7517",
+  "last_updated": "February 07, 2021 16:30:44 UTC",
   "matches": [
-    {
-      "id": 51808,
-      "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
-      "score": 0.695,
-      "r18": false
-    },
-    {
-      "id": 9803,
-      "title": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka",
-      "score": 0.695,
-      "r18": false
-    },
     {
       "id": 3659,
       "title": "Ghost Writer",
@@ -145,12 +133,24 @@
     {
       "id": 43,
       "title": "Freezing",
-      "score": 0.673,
+      "score": 0.672,
       "r18": false
     },
     {
       "id": 656,
       "title": "Nogizaka Haruka no Himitsu",
+      "score": 0.672,
+      "r18": false
+    },
+    {
+      "id": 49351,
+      "title": "Lord, It Doesn't Matter",
+      "score": 0.672,
+      "r18": false
+    },
+    {
+      "id": 3848,
+      "title": "Love Yume Mix",
       "score": 0.672,
       "r18": false
     }

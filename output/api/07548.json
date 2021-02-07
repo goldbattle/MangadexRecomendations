@@ -1,8 +1,8 @@
 {
   "id": 7548,
   "title": "Devil's Bride",
-  "url": "https://mangadex.org/manga/7548",
-  "last_updated": "January 17, 2021 19:01:17 UTC",
+  "url": "https://api.mangadex.org/v2/manga/7548",
+  "last_updated": "February 07, 2021 16:31:22 UTC",
   "matches": [
     {
       "id": 5140,
@@ -13,13 +13,7 @@
     {
       "id": 18400,
       "title": "Kenka Banchou Otome - Koi no Battle Royale",
-      "score": 0.671,
-      "r18": false
-    },
-    {
-      "id": 7521,
-      "title": "Ai Ore! ~Danshikou no Hime to Joshikou no Ouji~",
-      "score": 0.668,
+      "score": 0.672,
       "r18": false
     },
     {
@@ -37,7 +31,7 @@
     {
       "id": 326,
       "title": "Boy of the Female Wolf",
-      "score": 0.665,
+      "score": 0.666,
       "r18": false
     },
     {
@@ -151,6 +145,12 @@
     {
       "id": 730,
       "title": "Shouri no Akuma",
+      "score": 0.416,
+      "r18": false
+    },
+    {
+      "id": 45298,
+      "title": "Reverse x Rebirth",
       "score": 0.416,
       "r18": false
     }

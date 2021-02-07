@@ -1,8 +1,8 @@
 {
   "id": 6753,
   "title": "Salaryman Kintarou",
-  "url": "https://mangadex.org/manga/6753",
-  "last_updated": "January 17, 2021 18:51:10 UTC",
+  "url": "https://api.mangadex.org/v2/manga/6753",
+  "last_updated": "February 07, 2021 16:14:57 UTC",
   "matches": [
     {
       "id": 281,
@@ -65,6 +65,12 @@
       "r18": false
     },
     {
+      "id": 11576,
+      "title": "Genso Ginekokurasy",
+      "score": 0.73,
+      "r18": false
+    },
+    {
       "id": 22485,
       "title": "Nekurogu (Necrolog)",
       "score": 0.73,
@@ -107,15 +113,15 @@
       "r18": false
     },
     {
-      "id": 1389,
-      "title": "Superior Cross",
+      "id": 1388,
+      "title": "Superior",
       "score": 0.723,
       "r18": false
     },
     {
-      "id": 1388,
-      "title": "Superior",
-      "score": 0.723,
+      "id": 1389,
+      "title": "Superior Cross",
+      "score": 0.722,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 95,
       "title": "OZ (TOKIYA Seigo)",
       "score": 0.718,
-      "r18": false
-    },
-    {
-      "id": 6074,
-      "title": "R.O.D - Read or Dream",
-      "score": 0.717,
       "r18": false
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": 7433,
   "title": "Tiger Books",
-  "url": "https://mangadex.org/manga/7433",
-  "last_updated": "January 17, 2021 18:59:46 UTC",
+  "url": "https://api.mangadex.org/v2/manga/7433",
+  "last_updated": "February 07, 2021 16:29:02 UTC",
   "matches": [
     {
       "id": 91,
@@ -35,6 +35,12 @@
       "r18": false
     },
     {
+      "id": 11314,
+      "title": "Bungo Stray Dogs",
+      "score": 0.684,
+      "r18": false
+    },
+    {
       "id": 13641,
       "title": "Dating was the Easiest",
       "score": 0.684,
@@ -44,6 +50,12 @@
       "id": 22194,
       "title": "Beast Complex",
       "score": 0.684,
+      "r18": false
+    },
+    {
+      "id": 7232,
+      "title": "Cat's Eye",
+      "score": 0.683,
       "r18": false
     },
     {
@@ -61,12 +73,6 @@
     {
       "id": 7816,
       "title": "Folk Tail Tonakai",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 21283,
-      "title": "Persona 5",
       "score": 0.68,
       "r18": false
     },
@@ -133,12 +139,6 @@
     {
       "id": 1448,
       "title": "Patalliro!",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 3388,
-      "title": "Fate/Zero",
       "score": 0.677,
       "r18": false
     },

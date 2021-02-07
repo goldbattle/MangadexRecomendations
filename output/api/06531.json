@@ -1,8 +1,8 @@
 {
   "id": 6531,
   "title": "Jade",
-  "url": "https://mangadex.org/manga/6531",
-  "last_updated": "January 17, 2021 18:48:19 UTC",
+  "url": "https://api.mangadex.org/v2/manga/6531",
+  "last_updated": "February 07, 2021 16:10:27 UTC",
   "matches": [
     {
       "id": 1531,
@@ -47,12 +47,6 @@
       "r18": false
     },
     {
-      "id": 4802,
-      "title": "Junketsu + Kareshi",
-      "score": 0.68,
-      "r18": false
-    },
-    {
       "id": 205,
       "title": "Barajou no Kiss",
       "score": 0.679,
@@ -61,12 +55,6 @@
     {
       "id": 36622,
       "title": "Stay Awake All Night",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 3996,
-      "title": "Akatsuki no Yona",
       "score": 0.676,
       "r18": false
     },
@@ -113,6 +101,12 @@
       "r18": false
     },
     {
+      "id": 3996,
+      "title": "Akatsuki no Yona",
+      "score": 0.668,
+      "r18": false
+    },
+    {
       "id": 44388,
       "title": "Amina of the Lamp",
       "score": 0.667,
@@ -151,6 +145,12 @@
     {
       "id": 24134,
       "title": "Neolith Girl",
+      "score": 0.663,
+      "r18": false
+    },
+    {
+      "id": 44636,
+      "title": "The Undying Engagement Seal of the Doomed Witch and the Young Master Who Leapt Through Time",
       "score": 0.663,
       "r18": false
     }

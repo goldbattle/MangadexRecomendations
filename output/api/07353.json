@@ -1,8 +1,8 @@
 {
   "id": 7353,
   "title": "Chuu x2 Trap",
-  "url": "https://mangadex.org/manga/7353",
-  "last_updated": "January 17, 2021 18:58:48 UTC",
+  "url": "https://api.mangadex.org/v2/manga/7353",
+  "last_updated": "February 07, 2021 16:27:25 UTC",
   "matches": [
     {
       "id": 3554,
@@ -32,6 +32,12 @@
       "id": 36647,
       "title": "Ponkotsu-chan Kenshouchuu",
       "score": 0.68,
+      "r18": false
+    },
+    {
+      "id": 11026,
+      "title": "Fuuka",
+      "score": 0.679,
       "r18": false
     },
     {
@@ -145,12 +151,6 @@
     {
       "id": 795,
       "title": "Kagami no Kuni no Harisugawa",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 625,
-      "title": "Idol Pretender",
       "score": 0.666,
       "r18": false
     }

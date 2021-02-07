@@ -1,8 +1,8 @@
 {
   "id": 6289,
   "title": "Raiders",
-  "url": "https://mangadex.org/manga/6289",
-  "last_updated": "January 17, 2021 13:05:48 UTC",
+  "url": "https://api.mangadex.org/v2/manga/6289",
+  "last_updated": "February 07, 2021 16:05:32 UTC",
   "matches": [
     {
       "id": 6204,
@@ -23,20 +23,8 @@
       "r18": false
     },
     {
-      "id": 219,
-      "title": "Akame ga KILL!",
-      "score": 0.744,
-      "r18": false
-    },
-    {
       "id": 4994,
       "title": "Saint Seiya",
-      "score": 0.743,
-      "r18": false
-    },
-    {
-      "id": 21283,
-      "title": "Persona 5",
       "score": 0.743,
       "r18": false
     },
@@ -127,7 +115,7 @@
     {
       "id": 3374,
       "title": "Kidou Senshi Gundam - Gihren Ansatsu Keikaku",
-      "score": 0.73,
+      "score": 0.729,
       "r18": false
     },
     {
@@ -137,9 +125,15 @@
       "r18": false
     },
     {
+      "id": 219,
+      "title": "Akame ga KILL!",
+      "score": 0.729,
+      "r18": false
+    },
+    {
       "id": 391,
       "title": "Shiki",
-      "score": 0.729,
+      "score": 0.728,
       "r18": false
     },
     {
@@ -151,6 +145,12 @@
     {
       "id": 6572,
       "title": "Kaiouki",
+      "score": 0.727,
+      "r18": false
+    },
+    {
+      "id": 10526,
+      "title": "Iron Knight",
       "score": 0.727,
       "r18": false
     }

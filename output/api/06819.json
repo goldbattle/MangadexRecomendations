@@ -1,8 +1,8 @@
 {
   "id": 6819,
   "title": "Togainu no Chi ~ Zero",
-  "url": "https://mangadex.org/manga/6819",
-  "last_updated": "January 17, 2021 18:52:01 UTC",
+  "url": "https://api.mangadex.org/v2/manga/6819",
+  "last_updated": "February 07, 2021 16:16:29 UTC",
   "matches": [
     {
       "id": 1531,
@@ -17,21 +17,9 @@
       "r18": false
     },
     {
-      "id": 10114,
-      "title": "Shingeki no Kyojin - Birth of Levi",
-      "score": 0.741,
-      "r18": false
-    },
-    {
       "id": 3038,
       "title": "Kyou Kara Ma no Tsuku Jiyuugyou!",
       "score": 0.734,
-      "r18": false
-    },
-    {
-      "id": 4802,
-      "title": "Junketsu + Kareshi",
-      "score": 0.732,
       "r18": false
     },
     {
@@ -49,7 +37,7 @@
     {
       "id": 7653,
       "title": "Poe no Ichizoku",
-      "score": 0.723,
+      "score": 0.722,
       "r18": false
     },
     {
@@ -91,12 +79,6 @@
     {
       "id": 3284,
       "title": "Yasashii Ryuu no Koroshikata",
-      "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 8703,
-      "title": "Uragiri wa Boku no Namae o Shitteiru",
       "score": 0.711,
       "r18": false
     },
@@ -143,15 +125,33 @@
       "r18": false
     },
     {
+      "id": 23905,
+      "title": "A, A Prime",
+      "score": 0.693,
+      "r18": false
+    },
+    {
       "id": 14357,
       "title": "Toukaidou HISAME -Kagerou-",
       "score": 0.693,
       "r18": false
     },
     {
-      "id": 23905,
-      "title": "A, A Prime",
-      "score": 0.693,
+      "id": 19866,
+      "title": "Satsuriku no Tenshi",
+      "score": 0.692,
+      "r18": false
+    },
+    {
+      "id": 24396,
+      "title": "Cowboy Bebop Shooting Star",
+      "score": 0.692,
+      "r18": false
+    },
+    {
+      "id": 37037,
+      "title": "Chou ni Naru Hi",
+      "score": 0.691,
       "r18": false
     }
   ]

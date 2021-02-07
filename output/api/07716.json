@@ -1,8 +1,8 @@
 {
   "id": 7716,
   "title": "Sis Plus",
-  "url": "https://mangadex.org/manga/7716",
-  "last_updated": "January 17, 2021 19:03:21 UTC",
+  "url": "https://api.mangadex.org/v2/manga/7716",
+  "last_updated": "February 07, 2021 16:34:44 UTC",
   "matches": [
     {
       "id": 1851,
@@ -47,14 +47,14 @@
       "r18": false
     },
     {
-      "id": 626,
-      "title": "Ane Comi",
+      "id": 4497,
+      "title": "Amaenaideyo!!",
       "score": 0.682,
       "r18": false
     },
     {
-      "id": 4497,
-      "title": "Amaenaideyo!!",
+      "id": 626,
+      "title": "Ane Comi",
       "score": 0.682,
       "r18": false
     },
@@ -71,14 +71,14 @@
       "r18": false
     },
     {
-      "id": 35724,
-      "title": "Sekirara Hime to Minus Ouji",
+      "id": 4280,
+      "title": "Monster Musume no Iru Nichijou",
       "score": 0.679,
       "r18": false
     },
     {
-      "id": 4280,
-      "title": "Monster Musume no Iru Nichijou",
+      "id": 35724,
+      "title": "Sekirara Hime to Minus Ouji",
       "score": 0.679,
       "r18": false
     },
@@ -137,12 +137,6 @@
       "r18": false
     },
     {
-      "id": 712,
-      "title": "Kyou no 5 no 2",
-      "score": 0.669,
-      "r18": false
-    },
-    {
       "id": 19920,
       "title": "Imouto Sae Ireba Ii. @comic",
       "score": 0.669,
@@ -152,6 +146,12 @@
       "id": 7289,
       "title": "Kuzu no Honkai",
       "score": 0.669,
+      "r18": false
+    },
+    {
+      "id": 5838,
+      "title": "Akihabara@DEEP",
+      "score": 0.668,
       "r18": false
     }
   ]

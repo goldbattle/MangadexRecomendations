@@ -1,15 +1,9 @@
 {
   "id": 6730,
   "title": "Tantei Gishiki",
-  "url": "https://mangadex.org/manga/6730",
-  "last_updated": "January 17, 2021 18:50:52 UTC",
+  "url": "https://api.mangadex.org/v2/manga/6730",
+  "last_updated": "February 07, 2021 16:14:30 UTC",
   "matches": [
-    {
-      "id": 43429,
-      "title": "Bungou Stray Dogs Beast",
-      "score": 0.735,
-      "r18": false
-    },
     {
       "id": 2589,
       "title": "Tantei Gakuen Q",
@@ -31,13 +25,13 @@
     {
       "id": 3089,
       "title": "Corpse Party - Another Child",
-      "score": 0.717,
+      "score": 0.716,
       "r18": false
     },
     {
       "id": 5840,
       "title": "BLOOD+",
-      "score": 0.717,
+      "score": 0.716,
       "r18": false
     },
     {
@@ -139,7 +133,7 @@
     {
       "id": 6572,
       "title": "Kaiouki",
-      "score": 0.704,
+      "score": 0.703,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 2679,
       "title": "Spiral Alive",
       "score": 0.703,
+      "r18": false
+    },
+    {
+      "id": 7232,
+      "title": "Cat's Eye",
+      "score": 0.7,
       "r18": false
     }
   ]

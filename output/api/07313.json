@@ -1,8 +1,8 @@
 {
   "id": 7313,
   "title": "Hoshi no Sabaku",
-  "url": "https://mangadex.org/manga/7313",
-  "last_updated": "January 17, 2021 18:58:18 UTC",
+  "url": "https://api.mangadex.org/v2/manga/7313",
+  "last_updated": "February 07, 2021 16:26:36 UTC",
   "matches": [
     {
       "id": 6146,
@@ -89,12 +89,6 @@
       "r18": false
     },
     {
-      "id": 3996,
-      "title": "Akatsuki no Yona",
-      "score": 0.733,
-      "r18": false
-    },
-    {
       "id": 2298,
       "title": "Yumenara Samenaide",
       "score": 0.732,
@@ -121,7 +115,7 @@
     {
       "id": 4802,
       "title": "Junketsu + Kareshi",
-      "score": 0.729,
+      "score": 0.727,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 39093,
       "title": "Zoku 11-nin Iru!: Higashi no Chihei, Nishi no Towa",
       "score": 0.722,
+      "r18": false
+    },
+    {
+      "id": 4011,
+      "title": "12 Nin no Yasashii Koroshiya - Leo Murder Case",
+      "score": 0.721,
       "r18": false
     }
   ]

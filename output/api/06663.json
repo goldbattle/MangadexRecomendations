@@ -1,8 +1,8 @@
 {
   "id": 6663,
   "title": "Night Wizard! - Variable Witch",
-  "url": "https://mangadex.org/manga/6663",
-  "last_updated": "January 17, 2021 18:50:00 UTC",
+  "url": "https://api.mangadex.org/v2/manga/6663",
+  "last_updated": "February 07, 2021 16:13:06 UTC",
   "matches": [
     {
       "id": 11444,
@@ -47,15 +47,15 @@
       "r18": false
     },
     {
-      "id": 18534,
-      "title": "Wizardly Tower",
-      "score": 0.657,
-      "r18": false
-    },
-    {
       "id": 3084,
       "title": "Mahoutsukai no Neko",
       "score": 0.655,
+      "r18": false
+    },
+    {
+      "id": 18534,
+      "title": "Wizardly Tower",
+      "score": 0.652,
       "r18": false
     },
     {
@@ -137,12 +137,6 @@
       "r18": false
     },
     {
-      "id": 21283,
-      "title": "Persona 5",
-      "score": 0.361,
-      "r18": false
-    },
-    {
       "id": 28193,
       "title": "Houshin Engi Gaiden",
       "score": 0.361,
@@ -152,6 +146,12 @@
       "id": 3666,
       "title": "Ryuugan",
       "score": 0.359,
+      "r18": false
+    },
+    {
+      "id": 28424,
+      "title": "Tale of Otaku and Demons",
+      "score": 0.356,
       "r18": false
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": 6850,
   "title": "Manyuu Hikenchou",
-  "url": "https://mangadex.org/manga/6850",
-  "last_updated": "January 17, 2021 18:52:26 UTC",
+  "url": "https://api.mangadex.org/v2/manga/6850",
+  "last_updated": "February 07, 2021 16:17:09 UTC",
   "matches": [
     {
       "id": 643,
@@ -49,7 +49,7 @@
     {
       "id": 14333,
       "title": "Shinmai Maou no Testament Arashi!",
-      "score": 0.709,
+      "score": 0.708,
       "r18": false
     },
     {
@@ -74,18 +74,6 @@
       "id": 24976,
       "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
       "score": 0.704,
-      "r18": false
-    },
-    {
-      "id": 9803,
-      "title": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka",
-      "score": 0.703,
-      "r18": false
-    },
-    {
-      "id": 51808,
-      "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
-      "score": 0.702,
       "r18": false
     },
     {
@@ -127,7 +115,7 @@
     {
       "id": 1337,
       "title": "Knights of Sidonia",
-      "score": 0.697,
+      "score": 0.696,
       "r18": false
     },
     {
@@ -137,21 +125,33 @@
       "r18": false
     },
     {
-      "id": 9615,
-      "title": "Nejimaki Kagyu",
-      "score": 0.695,
-      "r18": false
-    },
-    {
       "id": 6985,
       "title": "Madan no Ou to Vanadis",
       "score": 0.694,
       "r18": false
     },
     {
+      "id": 561,
+      "title": "Onihime VS",
+      "score": 0.693,
+      "r18": false
+    },
+    {
       "id": 43,
       "title": "Freezing",
       "score": 0.693,
+      "r18": false
+    },
+    {
+      "id": 44253,
+      "title": "SLASH/DOG",
+      "score": 0.692,
+      "r18": false
+    },
+    {
+      "id": 1421,
+      "title": "Zero no Tsukaima Chevalier",
+      "score": 0.692,
       "r18": false
     }
   ]
