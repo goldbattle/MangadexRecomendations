@@ -2,13 +2,13 @@
   {
     "id": 17001,
     "title": "Survival",
-    "url": "https://mangadex.org/manga/17001",
+    "url": "https://api.mangadex.org/v2/manga/17001",
     "description": "An inexplicable catastrophe plunges Japan to the bottom of the ocean. A boy survives the misfortune, but he has been abandoned in a land surrounded by sea on all sides. His effort to stay alive compels him to sharpen his wit, as he finds that nothing he learned in school is useful for staying alive.",
     "is_r18": false,
     "count_chapters": 111,
     "last_upload": 1521340870,
-    "last_updated": "January 18, 2021 19:02:49 UTC",
-    "rating": 8.04,
+    "last_updated": "February 08, 2021 16:57:00 UTC",
+    "rating": 8.05,
     "content": [],
     "demographic": [
       "Shounen"
@@ -45,154 +45,179 @@
     ],
     "matches": [
       {
+        "id": 44375,
+        "title": "Survival Story of a Sword King in a Fantasy World",
+        "url": "https://api.mangadex.org/v2/manga/44375",
+        "score": 0.7262,
+        "r18": false
+      },
+      {
         "id": 20929,
         "title": "Hadashi no Gen",
         "url": "https://mangadex.org/manga/20929",
-        "score": 0.7258
+        "score": 0.7258,
+        "r18": false
       },
       {
         "id": 16476,
         "title": "Platinum End",
-        "url": "https://mangadex.org/manga/16476",
-        "score": 0.7244
+        "url": "https://api.mangadex.org/v2/manga/16476",
+        "score": 0.7244,
+        "r18": false
       },
       {
         "id": 1417,
         "title": "Shingetsutan Tsukihime",
-        "url": "https://mangadex.org/manga/1417",
-        "score": 0.7239
-      },
-      {
-        "id": 44375,
-        "title": "Survival Story of a Sword King in a Fantasy World",
-        "url": "https://mangadex.org/manga/44375",
-        "score": 0.7193
+        "url": "https://api.mangadex.org/v2/manga/1417",
+        "score": 0.7239,
+        "r18": false
       },
       {
         "id": 19671,
         "title": "Sword Art Online - Project Alicization",
         "url": "https://mangadex.org/manga/19671",
-        "score": 0.7169
+        "score": 0.7169,
+        "r18": false
       },
       {
         "id": 391,
         "title": "Shiki",
-        "url": "https://mangadex.org/manga/391",
-        "score": 0.7166
+        "url": "https://api.mangadex.org/v2/manga/391",
+        "score": 0.7166,
+        "r18": false
       },
       {
         "id": 5683,
         "title": "Mononoke Hime",
-        "url": "https://mangadex.org/manga/5683",
-        "score": 0.7158
+        "url": "https://api.mangadex.org/v2/manga/5683",
+        "score": 0.7158,
+        "r18": false
       },
       {
         "id": 53969,
         "title": "Dragon Raja",
         "url": "https://mangadex.org/manga/53969",
-        "score": 0.7147
+        "score": 0.7147,
+        "r18": false
       },
       {
         "id": 53977,
         "title": "Dragon Raja 2",
         "url": "https://mangadex.org/manga/53977",
-        "score": 0.7141
-      },
-      {
-        "id": 336,
-        "title": "Kuroshitsuji",
-        "url": "https://mangadex.org/manga/336",
-        "score": 0.7139
+        "score": 0.7141,
+        "r18": false
       },
       {
         "id": 8401,
         "title": "Sword Art Online - Fairy Dance",
-        "url": "https://mangadex.org/manga/8401",
-        "score": 0.7138
+        "url": "https://api.mangadex.org/v2/manga/8401",
+        "score": 0.7138,
+        "r18": false
       },
       {
         "id": 3089,
         "title": "Corpse Party - Another Child",
         "url": "https://mangadex.org/manga/3089",
-        "score": 0.7136
+        "score": 0.7135,
+        "r18": false
       },
       {
         "id": 6963,
         "title": "Ryuu no Michi",
-        "url": "https://mangadex.org/manga/6963",
-        "score": 0.7122
-      },
-      {
-        "id": 54801,
-        "title": "One Piece Episode A",
-        "url": "https://mangadex.org/manga/54801",
-        "score": 0.711
+        "url": "https://api.mangadex.org/v2/manga/6963",
+        "score": 0.7122,
+        "r18": false
       },
       {
         "id": 30171,
         "title": "Overgeared",
         "url": "https://mangadex.org/manga/30171",
-        "score": 0.7109
+        "score": 0.7109,
+        "r18": false
       },
       {
         "id": 1790,
         "title": "Arata Kangatari",
         "url": "https://mangadex.org/manga/1790",
-        "score": 0.7109
+        "score": 0.7108,
+        "r18": false
+      },
+      {
+        "id": 6270,
+        "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo (Official Colored)",
+        "url": "https://api.mangadex.org/v2/manga/6270",
+        "score": 0.7107,
+        "r18": false
       },
       {
         "id": 25435,
         "title": "Madara",
         "url": "https://mangadex.org/manga/25435",
-        "score": 0.7107
-      },
-      {
-        "id": 6270,
-        "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo (Official Colored)",
-        "url": "https://mangadex.org/manga/6270",
-        "score": 0.7107
+        "score": 0.7107,
+        "r18": false
       },
       {
         "id": 28525,
         "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo",
         "url": "https://mangadex.org/manga/28525",
-        "score": 0.7106
+        "score": 0.7106,
+        "r18": false
       },
       {
         "id": 19688,
         "title": "Red Sprite",
         "url": "https://mangadex.org/manga/19688",
-        "score": 0.7101
-      },
-      {
-        "id": 53985,
-        "title": "Dragon Raja 3",
-        "url": "https://mangadex.org/manga/53985",
-        "score": 0.7101
+        "score": 0.7101,
+        "r18": false
       },
       {
         "id": 2190,
         "title": "Nabari no Ou",
         "url": "https://mangadex.org/manga/2190",
-        "score": 0.7101
+        "score": 0.7101,
+        "r18": false
+      },
+      {
+        "id": 53985,
+        "title": "Dragon Raja 3",
+        "url": "https://mangadex.org/manga/53985",
+        "score": 0.7101,
+        "r18": false
       },
       {
         "id": 6831,
         "title": "Kimi no Kakera",
-        "url": "https://mangadex.org/manga/6831",
-        "score": 0.7099
+        "url": "https://api.mangadex.org/v2/manga/6831",
+        "score": 0.7099,
+        "r18": false
       },
       {
         "id": 20131,
         "title": "Fumetsu no Anata e",
         "url": "https://mangadex.org/manga/20131",
-        "score": 0.7098
+        "score": 0.7098,
+        "r18": false
+      },
+      {
+        "id": 9844,
+        "title": "Shingeki no Kyojin - Before the Fall",
+        "url": "https://mangadex.org/manga/9844",
+        "score": 0.7095,
+        "r18": false
       },
       {
         "id": 17916,
         "title": "Hachinan tte, Sore wa Nai Deshou!",
         "url": "https://mangadex.org/manga/17916",
-        "score": 0.7095
+        "score": 0.7095,
+        "r18": false
+      },
+      {
+        "id": 28542,
+        "title": "JoJo's Bizarre Adventure Part 6 - Stone Ocean",
+        "url": "https://mangadex.org/manga/28542",
+        "score": 0.7089,
+        "r18": false
       }
     ],
     "matches_al": [],
@@ -218,12 +243,12 @@
   {
     "id": 17002,
     "title": "Demon City Hunter",
-    "url": "https://mangadex.org/manga/17002",
+    "url": "https://api.mangadex.org/v2/manga/17002",
     "description": "God's come down to earth and all hell is breaking loose! Enter a world where demons seen only in dreams are real, oceans swallow cities, and the powers of the mind are preferable to guns.\r\n\r\nIt is here in the &quot;Demon City&quot; that Kyoya Izayoi, master of the rare martial art of nenpo, wields the mythical sword Ashura in defense of beautiful Sayaka Katagiri. As the evil Dark Order and the Super Soldiers of the Special Abilities Task Force clash in a race to find the one believed to be God, Kyoya saves a member of the SATF&mdash;and lands himself smack in the middle of a mess. Meanwhile, members of the Dark Order ambush Sayaka. Can Kyoya slay the beasts and save the girl? Will Kyoya help the SATF defeat the Dark Order and their plan to destroy the world?\r\n\r\nIt's nature versus the supernatural!",
     "is_r18": false,
     "count_chapters": 5,
     "last_upload": 1598445101,
-    "last_updated": "January 18, 2021 19:02:49 UTC",
+    "last_updated": "February 08, 2021 16:57:01 UTC",
     "rating": 8.04,
     "content": [],
     "demographic": [
@@ -243,152 +268,177 @@
       {
         "id": 4994,
         "title": "Saint Seiya",
-        "url": "https://mangadex.org/manga/4994",
-        "score": 0.7488
+        "url": "https://api.mangadex.org/v2/manga/4994",
+        "score": 0.7487,
+        "r18": false
       },
       {
         "id": 23231,
         "title": "Wu Dong Qian Kun",
         "url": "https://mangadex.org/manga/23231",
-        "score": 0.7452
+        "score": 0.7452,
+        "r18": false
       },
       {
         "id": 23195,
         "title": "The Great Ruler",
         "url": "https://mangadex.org/manga/23195",
-        "score": 0.7398
+        "score": 0.7398,
+        "r18": false
       },
       {
         "id": 38543,
         "title": "Fights Break Sphere &ndash; Return of the Beasts",
-        "url": "https://mangadex.org/manga/38543",
-        "score": 0.7395
+        "url": "https://api.mangadex.org/v2/manga/38543",
+        "score": 0.7395,
+        "r18": false
       },
       {
         "id": 47371,
         "title": "A Breakthrough Brought by Forbidden Master and Disciple",
         "url": "https://mangadex.org/manga/47371",
-        "score": 0.7315
+        "score": 0.7315,
+        "r18": false
       },
       {
         "id": 6572,
         "title": "Kaiouki",
-        "url": "https://mangadex.org/manga/6572",
-        "score": 0.7315
+        "url": "https://api.mangadex.org/v2/manga/6572",
+        "score": 0.7315,
+        "r18": false
       },
       {
         "id": 46134,
         "title": "The Peerless Sword God",
-        "url": "https://mangadex.org/manga/46134",
-        "score": 0.7297
+        "url": "https://api.mangadex.org/v2/manga/46134",
+        "score": 0.7296,
+        "r18": false
       },
       {
         "id": 9844,
         "title": "Shingeki no Kyojin - Before the Fall",
         "url": "https://mangadex.org/manga/9844",
-        "score": 0.7278
+        "score": 0.7278,
+        "r18": false
       },
       {
         "id": 4454,
         "title": "Fire Emblem - Hasha no Tsurugi",
-        "url": "https://mangadex.org/manga/4454",
-        "score": 0.7257
+        "url": "https://api.mangadex.org/v2/manga/4454",
+        "score": 0.7257,
+        "r18": false
       },
       {
         "id": 9637,
         "title": "Saint Seiya - Saintia Shou",
         "url": "https://mangadex.org/manga/9637",
-        "score": 0.7256
+        "score": 0.7256,
+        "r18": false
       },
       {
         "id": 1417,
         "title": "Shingetsutan Tsukihime",
-        "url": "https://mangadex.org/manga/1417",
-        "score": 0.7214
+        "url": "https://api.mangadex.org/v2/manga/1417",
+        "score": 0.7213,
+        "r18": false
       },
       {
         "id": 10341,
         "title": "Kokushi Musou!!",
         "url": "https://mangadex.org/manga/10341",
-        "score": 0.7212
-      },
-      {
-        "id": 219,
-        "title": "Akame ga KILL!",
-        "url": "https://mangadex.org/manga/219",
-        "score": 0.7198
+        "score": 0.7212,
+        "r18": false
       },
       {
         "id": 12009,
         "title": "Soul Land",
         "url": "https://mangadex.org/manga/12009",
-        "score": 0.7173
-      },
-      {
-        "id": 336,
-        "title": "Kuroshitsuji",
-        "url": "https://mangadex.org/manga/336",
-        "score": 0.7136
+        "score": 0.7173,
+        "r18": false
       },
       {
         "id": 4566,
         "title": "Hero Tales",
-        "url": "https://mangadex.org/manga/4566",
-        "score": 0.7131
+        "url": "https://api.mangadex.org/v2/manga/4566",
+        "score": 0.7131,
+        "r18": false
       },
       {
         "id": 12548,
         "title": "Mad God",
-        "url": "https://mangadex.org/manga/12548",
-        "score": 0.7127
+        "url": "https://api.mangadex.org/v2/manga/12548",
+        "score": 0.7126,
+        "r18": false
       },
       {
         "id": 6582,
         "title": "Chronicles of the Cursed Sword",
-        "url": "https://mangadex.org/manga/6582",
-        "score": 0.7121
+        "url": "https://api.mangadex.org/v2/manga/6582",
+        "score": 0.712,
+        "r18": false
       },
       {
         "id": 22647,
         "title": "Toji no Miko",
         "url": "https://mangadex.org/manga/22647",
-        "score": 0.7105
+        "score": 0.7105,
+        "r18": false
       },
       {
         "id": 23709,
         "title": "Moto Saikyou no Kenshi wa, Isekai Mahou ni Akogareru",
         "url": "https://mangadex.org/manga/23709",
-        "score": 0.71
+        "score": 0.7099,
+        "r18": false
       },
       {
         "id": 31551,
         "title": "A Returner's Magic Should Be Special",
         "url": "https://mangadex.org/manga/31551",
-        "score": 0.7099
+        "score": 0.7098,
+        "r18": false
       },
       {
         "id": 4780,
         "title": "Umineko no Naku Koro ni Chiru Episode 8: Twilight of the Golden Witch",
-        "url": "https://mangadex.org/manga/4780",
-        "score": 0.7084
+        "url": "https://api.mangadex.org/v2/manga/4780",
+        "score": 0.7083,
+        "r18": false
       },
       {
         "id": 21130,
         "title": "Wortenia Senki",
         "url": "https://mangadex.org/manga/21130",
-        "score": 0.7063
+        "score": 0.7063,
+        "r18": false
       },
       {
         "id": 2013,
         "title": "King of Hell",
         "url": "https://mangadex.org/manga/2013",
-        "score": 0.7054
+        "score": 0.7054,
+        "r18": false
       },
       {
         "id": 14674,
         "title": "Desolate Era",
-        "url": "https://mangadex.org/manga/14674",
-        "score": 0.7048
+        "url": "https://api.mangadex.org/v2/manga/14674",
+        "score": 0.7048,
+        "r18": false
+      },
+      {
+        "id": 33141,
+        "title": "Mir's Legend - The Forgotten Ones",
+        "url": "https://mangadex.org/manga/33141",
+        "score": 0.7046,
+        "r18": false
+      },
+      {
+        "id": 5274,
+        "title": "Nijiiro Togarashi",
+        "url": "https://api.mangadex.org/v2/manga/5274",
+        "score": 0.7045,
+        "r18": false
       }
     ],
     "matches_al": [],
@@ -406,12 +456,12 @@
   {
     "id": 17003,
     "title": "Canis",
-    "url": "https://mangadex.org/manga/17003",
+    "url": "https://api.mangadex.org/v2/manga/17003",
     "description": "Kutsuna Satoru, a hatter, picks up a man collapsed by the side of the road. This man, Kashiba Ryou, has come to Japan to die...",
     "is_r18": false,
     "count_chapters": 32,
     "last_upload": 1598972204,
-    "last_updated": "January 18, 2021 19:02:50 UTC",
+    "last_updated": "February 08, 2021 16:57:02 UTC",
     "rating": 8.42,
     "content": [],
     "demographic": [],
@@ -433,152 +483,177 @@
       {
         "id": 16544,
         "title": "ULTRAS",
-        "url": "https://mangadex.org/manga/16544",
-        "score": 0.7553
+        "url": "https://api.mangadex.org/v2/manga/16544",
+        "score": 0.759,
+        "r18": false
       },
       {
         "id": 55064,
         "title": "Ore-sama na Aitsu",
         "url": "https://mangadex.org/manga/55064",
-        "score": 0.7452
+        "score": 0.7452,
+        "r18": false
       },
       {
         "id": 40981,
         "title": "Dare ga Omae wo Suki da to Itta",
         "url": "https://mangadex.org/manga/40981",
-        "score": 0.7452
+        "score": 0.7451,
+        "r18": false
       },
       {
         "id": 57844,
         "title": "Kaibutsu Ouji",
         "url": "https://mangadex.org/manga/57844",
-        "score": 0.7439
+        "score": 0.7439,
+        "r18": false
       },
       {
         "id": 26915,
         "title": "Shinu hodo Suki",
         "url": "https://mangadex.org/manga/26915",
-        "score": 0.7417
+        "score": 0.7416,
+        "r18": false
       },
       {
         "id": 8007,
         "title": "Itsuka Ame ga Furu You ni",
-        "url": "https://mangadex.org/manga/8007",
-        "score": 0.7413
+        "url": "https://api.mangadex.org/v2/manga/8007",
+        "score": 0.7413,
+        "r18": false
       },
       {
         "id": 37280,
         "title": "Kimi no Ai wa Mienikui",
-        "url": "https://mangadex.org/manga/37280",
-        "score": 0.7386
+        "url": "https://api.mangadex.org/v2/manga/37280",
+        "score": 0.7385,
+        "r18": false
       },
       {
         "id": 55120,
         "title": "Usagi to Ookami no Shinshikyoutei",
         "url": "https://mangadex.org/manga/55120",
-        "score": 0.7382
+        "score": 0.7381,
+        "r18": false
       },
       {
         "id": 17966,
         "title": "Paradise View",
         "url": "https://mangadex.org/manga/17966",
-        "score": 0.7374
+        "score": 0.7374,
+        "r18": false
       },
       {
         "id": 58208,
         "title": "Kaerenain Da Yo",
         "url": "https://mangadex.org/manga/58208",
-        "score": 0.7362
+        "score": 0.7361,
+        "r18": false
       },
       {
         "id": 7922,
         "title": "Doushitemo Furetakunai",
-        "url": "https://mangadex.org/manga/7922",
-        "score": 0.7344
+        "url": "https://api.mangadex.org/v2/manga/7922",
+        "score": 0.7343,
+        "r18": false
       },
       {
         "id": 18352,
         "title": "Parallel Lines",
         "url": "https://mangadex.org/manga/18352",
-        "score": 0.7334
+        "score": 0.7334,
+        "r18": false
       },
       {
         "id": 7385,
         "title": "After Morning Love",
-        "url": "https://mangadex.org/manga/7385",
-        "score": 0.7317
+        "url": "https://api.mangadex.org/v2/manga/7385",
+        "score": 0.7316,
+        "r18": false
       },
       {
         "id": 25475,
         "title": "Tanbishugi",
         "url": "https://mangadex.org/manga/25475",
-        "score": 0.7315
+        "score": 0.7315,
+        "r18": false
       },
       {
         "id": 8268,
         "title": "Hatsukoi no Atosaki",
-        "url": "https://mangadex.org/manga/8268",
-        "score": 0.7302
+        "url": "https://api.mangadex.org/v2/manga/8268",
+        "score": 0.7302,
+        "r18": false
       },
       {
         "id": 58353,
         "title": "Kiss to Kirai no Hantai",
         "url": "https://mangadex.org/manga/58353",
-        "score": 0.7281
+        "score": 0.7281,
+        "r18": false
       },
       {
         "id": 53625,
         "title": "Kagakushitsu e Douzo",
         "url": "https://mangadex.org/manga/53625",
-        "score": 0.7275
+        "score": 0.7275,
+        "r18": false
       },
       {
         "id": 5270,
         "title": "Hana no Mizo Shiru",
-        "url": "https://mangadex.org/manga/5270",
-        "score": 0.7256
+        "url": "https://api.mangadex.org/v2/manga/5270",
+        "score": 0.7256,
+        "r18": false
       },
       {
         "id": 12443,
         "title": "Junjou Romantica",
-        "url": "https://mangadex.org/manga/12443",
-        "score": 0.725
+        "url": "https://api.mangadex.org/v2/manga/12443",
+        "score": 0.7249,
+        "r18": false
       },
       {
         "id": 57008,
         "title": "Ai ga Areba Toshinosa Nante",
         "url": "https://mangadex.org/manga/57008",
-        "score": 0.7238
+        "score": 0.7238,
+        "r18": false
       },
       {
         "id": 16040,
         "title": "Joushi to Ore no Himitsu",
-        "url": "https://mangadex.org/manga/16040",
-        "score": 0.7236
+        "url": "https://api.mangadex.org/v2/manga/16040",
+        "score": 0.7236,
+        "r18": false
       },
       {
         "id": 27578,
         "title": "Boku wa Boku Narini",
         "url": "https://mangadex.org/manga/27578",
-        "score": 0.7233
+        "score": 0.7233,
+        "r18": false
       },
       {
         "id": 12492,
         "title": "Papa\u2605I Love You",
-        "url": "https://mangadex.org/manga/12492",
-        "score": 0.7233
-      },
-      {
-        "id": 7907,
-        "title": "Ore ni Koishite Dousunda",
-        "url": "https://mangadex.org/manga/7907",
-        "score": 0.7226
+        "url": "https://api.mangadex.org/v2/manga/12492",
+        "score": 0.7233,
+        "r18": false
       },
       {
         "id": 11201,
         "title": "Itoko Doushi",
         "url": "https://mangadex.org/manga/11201",
-        "score": 0.7226
+        "score": 0.7226,
+        "r18": false
+      },
+      {
+        "id": 7907,
+        "title": "Ore ni Koishite Dousunda",
+        "url": "https://api.mangadex.org/v2/manga/7907",
+        "score": 0.7226,
+        "r18": false
       }
     ],
     "matches_al": [],
@@ -602,12 +677,12 @@
   {
     "id": 17004,
     "title": "Fling Girls",
-    "url": "https://mangadex.org/manga/17004",
+    "url": "https://api.mangadex.org/v2/manga/17004",
     "description": "Satoru Hasegawa, a young real estate agent, lives together with his equally young wife, Aya, and their daughter. Five years into their marriage, he's not particularly dissatisfied with anything, but he's got a secret that he can't tell a soul! Satoru is helpless before Sayaka, an escort, and Eri, his boss at work, and he's been carrying on lively affairs with both of them. But then he meets a woman with the faint aura of first love... This is a romantic suspense story about a man who can't tear his eyes away from that sweet but dangerous trap.",
     "is_r18": false,
     "count_chapters": 86,
     "last_upload": 1589893669,
-    "last_updated": "January 18, 2021 19:02:51 UTC",
+    "last_updated": "February 08, 2021 16:57:03 UTC",
     "rating": 7.33,
     "content": [
       "Ecchi"
@@ -628,152 +703,177 @@
       {
         "id": 438,
         "title": "Sekirei",
-        "url": "https://mangadex.org/manga/438",
-        "score": 0.7338
+        "url": "https://api.mangadex.org/v2/manga/438",
+        "score": 0.7338,
+        "r18": false
       },
       {
         "id": 43,
         "title": "Freezing",
-        "url": "https://mangadex.org/manga/43",
-        "score": 0.7243
-      },
-      {
-        "id": 51808,
-        "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
-        "url": "https://mangadex.org/manga/51808",
-        "score": 0.7206
+        "url": "https://api.mangadex.org/v2/manga/43",
+        "score": 0.7243,
+        "r18": false
       },
       {
         "id": 12850,
         "title": "Watari-kun no &times;&times; ga Houkai Sunzen",
-        "url": "https://mangadex.org/manga/12850",
-        "score": 0.7183
+        "url": "https://api.mangadex.org/v2/manga/12850",
+        "score": 0.7183,
+        "r18": false
       },
       {
         "id": 105,
         "title": "Unbalance X Unbalance",
-        "url": "https://mangadex.org/manga/105",
-        "score": 0.7158
+        "url": "https://api.mangadex.org/v2/manga/105",
+        "score": 0.7158,
+        "r18": false
       },
       {
         "id": 9537,
         "title": "Rescue Me!",
         "url": "https://mangadex.org/manga/9537",
-        "score": 0.7156
+        "score": 0.7156,
+        "r18": false
       },
       {
         "id": 21015,
         "title": "Real no Heroine wa Irimasen!",
         "url": "https://mangadex.org/manga/21015",
-        "score": 0.7108
+        "score": 0.7107,
+        "r18": false
       },
       {
         "id": 28422,
         "title": "Unbalance x2: After Story",
         "url": "https://mangadex.org/manga/28422",
-        "score": 0.7101
+        "score": 0.7101,
+        "r18": false
       },
       {
         "id": 13428,
         "title": "Life Alive! The Student Council Elections I Started with You",
-        "url": "https://mangadex.org/manga/13428",
-        "score": 0.7093
+        "url": "https://api.mangadex.org/v2/manga/13428",
+        "score": 0.7093,
+        "r18": false
       },
       {
         "id": 454,
         "title": "Gou-dere Bishoujo Nagihara Sora",
-        "url": "https://mangadex.org/manga/454",
-        "score": 0.7088
+        "url": "https://api.mangadex.org/v2/manga/454",
+        "score": 0.7088,
+        "r18": false
       },
       {
         "id": 11521,
         "title": "Kekkon Yubiwa Monogatari",
         "url": "https://mangadex.org/manga/11521",
-        "score": 0.7066
+        "score": 0.7066,
+        "r18": false
       },
       {
         "id": 1337,
         "title": "Knights of Sidonia",
-        "url": "https://mangadex.org/manga/1337",
-        "score": 0.7041
+        "url": "https://api.mangadex.org/v2/manga/1337",
+        "score": 0.7041,
+        "r18": false
       },
       {
         "id": 8862,
         "title": "Maou na Ore to Fushihime no Yubiwa",
-        "url": "https://mangadex.org/manga/8862",
-        "score": 0.7027
+        "url": "https://api.mangadex.org/v2/manga/8862",
+        "score": 0.7027,
+        "r18": false
       },
       {
         "id": 6203,
         "title": "Hantsu x Trash",
-        "url": "https://mangadex.org/manga/6203",
-        "score": 0.7009
+        "url": "https://api.mangadex.org/v2/manga/6203",
+        "score": 0.7009,
+        "r18": false
       },
       {
         "id": 10504,
         "title": "Magika no Kenshi to Shoukan Maou",
         "url": "https://mangadex.org/manga/10504",
-        "score": 0.6978
+        "score": 0.6978,
+        "r18": false
       },
       {
         "id": 6985,
         "title": "Madan no Ou to Vanadis",
-        "url": "https://mangadex.org/manga/6985",
-        "score": 0.6977
+        "url": "https://api.mangadex.org/v2/manga/6985",
+        "score": 0.6976,
+        "r18": false
       },
       {
         "id": 24662,
         "title": "Sakura Tsuushin",
         "url": "https://mangadex.org/manga/24662",
-        "score": 0.696
+        "score": 0.696,
+        "r18": false
       },
       {
         "id": 3113,
         "title": "Maoyuu Maou Yuusha - Oka no Mukou e",
-        "url": "https://mangadex.org/manga/3113",
-        "score": 0.6957
+        "url": "https://api.mangadex.org/v2/manga/3113",
+        "score": 0.6956,
+        "r18": false
       },
       {
         "id": 13093,
         "title": "Union!",
-        "url": "https://mangadex.org/manga/13093",
-        "score": 0.6943
+        "url": "https://api.mangadex.org/v2/manga/13093",
+        "score": 0.6943,
+        "r18": false
       },
       {
         "id": 9803,
         "title": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka",
         "url": "https://mangadex.org/manga/9803",
-        "score": 0.6934
+        "score": 0.6933,
+        "r18": false
       },
       {
         "id": 523,
         "title": "Unbreakable Machine-Doll",
-        "url": "https://mangadex.org/manga/523",
-        "score": 0.6932
+        "url": "https://api.mangadex.org/v2/manga/523",
+        "score": 0.6932,
+        "r18": false
       },
       {
         "id": 621,
         "title": "Shuukyuu Shoujo",
-        "url": "https://mangadex.org/manga/621",
-        "score": 0.6929
+        "url": "https://api.mangadex.org/v2/manga/621",
+        "score": 0.6929,
+        "r18": false
       },
       {
         "id": 643,
         "title": "Maoyuu Maou Yuusha - &quot;Kono Watashi no Mono Tonare, Yuusha yo&quot; &quot;Kotowaru!&quot;",
-        "url": "https://mangadex.org/manga/643",
-        "score": 0.6903
+        "url": "https://api.mangadex.org/v2/manga/643",
+        "score": 0.6903,
+        "r18": false
       },
       {
         "id": 736,
         "title": "Ai Yori Aoshi",
-        "url": "https://mangadex.org/manga/736",
-        "score": 0.6898
+        "url": "https://api.mangadex.org/v2/manga/736",
+        "score": 0.6898,
+        "r18": false
       },
       {
         "id": 3594,
         "title": "Gokukoku no Brynhildr",
-        "url": "https://mangadex.org/manga/3594",
-        "score": 0.6875
+        "url": "https://api.mangadex.org/v2/manga/3594",
+        "score": 0.6875,
+        "r18": false
+      },
+      {
+        "id": 728,
+        "title": "Ore no Kanojo to Osananajimi ga Shuraba Sugiru",
+        "url": "https://api.mangadex.org/v2/manga/728",
+        "score": 0.6874,
+        "r18": false
       }
     ],
     "matches_al": [],
@@ -789,12 +889,12 @@
   {
     "id": 17005,
     "title": "Kiitarou Shounen no Youkai Enikki",
-    "url": "https://mangadex.org/manga/17005",
+    "url": "https://api.mangadex.org/v2/manga/17005",
     "description": "This is the visual diary of Kiitarou's experience with youkai. He's a boy with a very strong spirit sense, but when he entered a forbidden storehouse, he was kicked out of his home. He soon found a new place to live, where he met a zashiki warashi (house spirit) named Suzu. He and Suzu soon began to attract all kinds of spirit creatures, starting with a nurikabe (appears as a wall that impedes travelers) and mokumokuren (appears as eyes in a torn paper wall). What kind of folkloric creature will he meet next?",
     "is_r18": false,
     "count_chapters": 2,
     "last_upload": 1583196337,
-    "last_updated": "January 18, 2021 19:02:51 UTC",
+    "last_updated": "February 08, 2021 16:57:04 UTC",
     "rating": 8.05,
     "content": [],
     "demographic": [
@@ -815,151 +915,176 @@
         "id": 22236,
         "title": "Rurouni Kenshin: Hokkaido-hen",
         "url": "https://mangadex.org/manga/22236",
-        "score": 0.7282
+        "score": 0.7282,
+        "r18": false
       },
       {
         "id": 6075,
         "title": "Busou Renkin",
-        "url": "https://mangadex.org/manga/6075",
-        "score": 0.7074
+        "url": "https://api.mangadex.org/v2/manga/6075",
+        "score": 0.7074,
+        "r18": false
       },
       {
         "id": 1552,
         "title": "Melty Blood",
         "url": "https://mangadex.org/manga/1552",
-        "score": 0.7068
+        "score": 0.7068,
+        "r18": false
       },
       {
         "id": 13961,
         "title": "Youkai no Oisha-san",
-        "url": "https://mangadex.org/manga/13961",
-        "score": 0.7061
+        "url": "https://api.mangadex.org/v2/manga/13961",
+        "score": 0.7061,
+        "r18": false
       },
       {
         "id": 32081,
         "title": "Bokutachi no Remake",
         "url": "https://mangadex.org/manga/32081",
-        "score": 0.7049
+        "score": 0.7049,
+        "r18": false
       },
       {
         "id": 23195,
         "title": "The Great Ruler",
         "url": "https://mangadex.org/manga/23195",
-        "score": 0.7016
+        "score": 0.7015,
+        "r18": false
       },
       {
         "id": 50542,
         "title": "Ako and Bambi",
-        "url": "https://mangadex.org/manga/50542",
-        "score": 0.701
+        "url": "https://api.mangadex.org/v2/manga/50542",
+        "score": 0.701,
+        "r18": false
       },
       {
         "id": 3757,
         "title": "Youkai Apaato no Yuuga na Nichijou",
-        "url": "https://mangadex.org/manga/3757",
-        "score": 0.7006
+        "url": "https://api.mangadex.org/v2/manga/3757",
+        "score": 0.7006,
+        "r18": false
       },
       {
         "id": 6004,
         "title": "Matantei Loki",
-        "url": "https://mangadex.org/manga/6004",
-        "score": 0.7003
+        "url": "https://api.mangadex.org/v2/manga/6004",
+        "score": 0.7003,
+        "r18": false
       },
       {
         "id": 10801,
         "title": "Mahoutsukai no Yome",
         "url": "https://mangadex.org/manga/10801",
-        "score": 0.6991
+        "score": 0.6991,
+        "r18": false
       },
       {
         "id": 5204,
         "title": "Kanon - Honto no Omoi wa Egao no Mukougawa ni",
-        "url": "https://mangadex.org/manga/5204",
-        "score": 0.6985
+        "url": "https://api.mangadex.org/v2/manga/5204",
+        "score": 0.6985,
+        "r18": false
       },
       {
         "id": 353,
         "title": "Shibatora",
-        "url": "https://mangadex.org/manga/353",
-        "score": 0.6978
+        "url": "https://api.mangadex.org/v2/manga/353",
+        "score": 0.6978,
+        "r18": false
       },
       {
         "id": 55576,
         "title": "Ikemen ni Tensei Shita kedo Cheat wa Dekimasen Deshita",
         "url": "https://mangadex.org/manga/55576",
-        "score": 0.6968
+        "score": 0.6968,
+        "r18": false
       },
       {
         "id": 56535,
         "title": "Makai Kaeri no Rettou Nouryokusha",
         "url": "https://mangadex.org/manga/56535",
-        "score": 0.6957
+        "score": 0.6957,
+        "r18": false
       },
       {
         "id": 3607,
         "title": "All Around Type-Moon",
-        "url": "https://mangadex.org/manga/3607",
-        "score": 0.695
+        "url": "https://api.mangadex.org/v2/manga/3607",
+        "score": 0.695,
+        "r18": false
       },
       {
         "id": 6270,
         "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo (Official Colored)",
-        "url": "https://mangadex.org/manga/6270",
-        "score": 0.6942
+        "url": "https://api.mangadex.org/v2/manga/6270",
+        "score": 0.6943,
+        "r18": false
       },
       {
         "id": 6133,
         "title": "The Time of Cherry Blossoms",
-        "url": "https://mangadex.org/manga/6133",
-        "score": 0.6935
+        "url": "https://api.mangadex.org/v2/manga/6133",
+        "score": 0.6935,
+        "r18": false
       },
       {
         "id": 16753,
         "title": "Kami to Yobareta Kyuuketsuki",
-        "url": "https://mangadex.org/manga/16753",
-        "score": 0.6933
+        "url": "https://api.mangadex.org/v2/manga/16753",
+        "score": 0.6933,
+        "r18": false
       },
       {
         "id": 53985,
         "title": "Dragon Raja 3",
         "url": "https://mangadex.org/manga/53985",
-        "score": 0.693
+        "score": 0.693,
+        "r18": false
       },
       {
         "id": 951,
         "title": "Nisekoi",
-        "url": "https://mangadex.org/manga/951",
-        "score": 0.6928
+        "url": "https://api.mangadex.org/v2/manga/951",
+        "score": 0.6927,
+        "r18": false
       },
       {
         "id": 28525,
         "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo",
         "url": "https://mangadex.org/manga/28525",
-        "score": 0.6926
+        "score": 0.6926,
+        "r18": false
       },
       {
         "id": 1390,
         "title": "Katteni Kaizo",
-        "url": "https://mangadex.org/manga/1390",
-        "score": 0.6924
+        "url": "https://api.mangadex.org/v2/manga/1390",
+        "score": 0.6924,
+        "r18": false
       },
       {
         "id": 1790,
         "title": "Arata Kangatari",
         "url": "https://mangadex.org/manga/1790",
-        "score": 0.6921
+        "score": 0.6921,
+        "r18": false
       },
       {
         "id": 1293,
         "title": "Miyuki",
-        "url": "https://mangadex.org/manga/1293",
-        "score": 0.6915
+        "url": "https://api.mangadex.org/v2/manga/1293",
+        "score": 0.6915,
+        "r18": false
       },
       {
         "id": 810,
         "title": "Rewrite: SIDE-B",
-        "url": "https://mangadex.org/manga/810",
-        "score": 0.6912
+        "url": "https://api.mangadex.org/v2/manga/810",
+        "score": 0.6912,
+        "r18": false
       }
     ],
     "matches_al": [],
@@ -977,12 +1102,12 @@
   {
     "id": 17006,
     "title": "Atagoul Monogatari",
-    "url": "https://mangadex.org/manga/17006",
+    "url": "https://api.mangadex.org/v2/manga/17006",
     "description": "Atagoul Monogatari takes place in a fantasy world where humans and cats can talk to each other. The story revolves around the adventures of the protagonist, Hideyoshi, and his friends.",
     "is_r18": false,
     "count_chapters": 0,
     "last_upload": 0,
-    "last_updated": "January 18, 2021 19:02:52 UTC",
+    "last_updated": "February 08, 2021 16:57:05 UTC",
     "rating": 0,
     "content": [],
     "demographic": [],
@@ -1000,116 +1125,135 @@
       {
         "id": 50434,
         "title": "Monster Bar",
-        "url": "https://mangadex.org/manga/50434",
-        "score": 0.6619
+        "url": "https://api.mangadex.org/v2/manga/50434",
+        "score": 0.6619,
+        "r18": false
       },
       {
         "id": 20081,
         "title": "Minato Machi Neko Machi",
         "url": "https://mangadex.org/manga/20081",
-        "score": 0.4226
+        "score": 0.4226,
+        "r18": false
       },
       {
         "id": 22484,
         "title": "Kottou Nekoya",
         "url": "https://mangadex.org/manga/22484",
-        "score": 0.3802
+        "score": 0.3802,
+        "r18": false
       },
       {
         "id": 23537,
         "title": "Watashi to Sensei no Genjuu Shinryouroku",
         "url": "https://mangadex.org/manga/23537",
-        "score": 0.2989
+        "score": 0.2988,
+        "r18": false
       },
       {
         "id": 46345,
         "title": "Aria of Beech Forest",
-        "url": "https://mangadex.org/manga/46345",
-        "score": 0.295
+        "url": "https://api.mangadex.org/v2/manga/46345",
+        "score": 0.2949,
+        "r18": false
       },
       {
         "id": 1168,
         "title": "Spice and Wolf",
-        "url": "https://mangadex.org/manga/1168",
-        "score": 0.284
+        "url": "https://api.mangadex.org/v2/manga/1168",
+        "score": 0.284,
+        "r18": false
       },
       {
         "id": 32817,
         "title": "Haru no Hitoe",
         "url": "https://mangadex.org/manga/32817",
-        "score": 0.281
+        "score": 0.281,
+        "r18": false
       },
       {
         "id": 8472,
         "title": "Hakkenden: Touhou Hakken Ibun",
-        "url": "https://mangadex.org/manga/8472",
-        "score": 0.2599
+        "url": "https://api.mangadex.org/v2/manga/8472",
+        "score": 0.2599,
+        "r18": false
       },
       {
         "id": 22723,
         "title": "Sewayaki Kitsune no Senko-san",
         "url": "https://mangadex.org/manga/22723",
-        "score": 0.2468
+        "score": 0.2467,
+        "r18": false
       },
       {
         "id": 59943,
         "title": "Forbidden City &middot; Impurrial Cat Room",
-        "url": "https://mangadex.org/manga/59943",
-        "score": 0.2461
+        "url": "https://api.mangadex.org/v2/manga/59943",
+        "score": 0.246,
+        "r18": false
       },
       {
         "id": 969,
         "title": "Kamisama Hajimemashita",
-        "url": "https://mangadex.org/manga/969",
-        "score": 0.2361
+        "url": "https://api.mangadex.org/v2/manga/969",
+        "score": 0.2361,
+        "r18": false
       },
       {
         "id": 13193,
         "title": "Atagoul Tamatebako",
-        "url": "https://mangadex.org/manga/13193",
-        "score": 0.23
+        "url": "https://api.mangadex.org/v2/manga/13193",
+        "score": 0.23,
+        "r18": false
       },
       {
         "id": 15648,
         "title": "First District Back Alley",
-        "url": "https://mangadex.org/manga/15648",
-        "score": 0.23
+        "url": "https://api.mangadex.org/v2/manga/15648",
+        "score": 0.23,
+        "r18": false
       },
       {
         "id": 43362,
         "title": "The Legend of Luoxiaohei",
-        "url": "https://mangadex.org/manga/43362",
-        "score": 0.2287
+        "url": "https://api.mangadex.org/v2/manga/43362",
+        "score": 0.2287,
+        "r18": false
       },
       {
         "id": 36510,
         "title": "My Lord, the Wolf Queen",
         "url": "https://mangadex.org/manga/36510",
-        "score": 0.2285
+        "score": 0.2284,
+        "r18": false
       },
       {
         "id": 59058,
         "title": "A Little Story about a Fish Thief who Steals with Impunity",
-        "url": "https://mangadex.org/manga/59058",
-        "score": 0.2111
+        "url": "https://api.mangadex.org/v2/manga/59058",
+        "score": 0.2111,
+        "r18": false
       },
       {
         "id": 18937,
         "title": "The Dragon's School is on the Top of the Mountain",
         "url": "https://mangadex.org/manga/18937",
-        "score": 0.2108
+        "score": 0.2108,
+        "r18": false
       },
       {
         "id": 26688,
         "title": "Panda Tanteisha",
         "url": "https://mangadex.org/manga/26688",
-        "score": 0.1971
+        "score": 0.1971,
+        "r18": false
       },
       {
         "id": 51842,
         "title": "Kitsune-chan Won't Give in to Such a Despicable Curse",
-        "url": "https://mangadex.org/manga/51842",
-        "score": 0.1679
+        "url": "https://api.mangadex.org/v2/manga/51842",
+        "score": 0.1679,
+        "r18": false
       }
     ],
     "matches_al": [],
@@ -1131,12 +1275,12 @@
   {
     "id": 17007,
     "title": "Owarinaki Gogo",
-    "url": "https://mangadex.org/manga/17007",
+    "url": "https://api.mangadex.org/v2/manga/17007",
     "description": "Oneshot from Garo 1967-11.\r\nA short story about time travel in a post-apocalyptic world.",
     "is_r18": false,
     "count_chapters": 2,
     "last_upload": 1516735827,
-    "last_updated": "January 18, 2021 19:02:53 UTC",
+    "last_updated": "February 08, 2021 16:57:06 UTC",
     "rating": 7.91,
     "content": [],
     "demographic": [],
@@ -1153,151 +1297,176 @@
         "id": 27336,
         "title": "Yowamushi Mont Blanc",
         "url": "https://mangadex.org/manga/27336",
-        "score": 0.34
+        "score": 0.34,
+        "r18": false
       },
       {
         "id": 31543,
         "title": "Muffled Message",
         "url": "https://mangadex.org/manga/31543",
-        "score": 0.34
+        "score": 0.34,
+        "r18": false
       },
       {
         "id": 36111,
         "title": "Sensei wa Mada Yume no Tochuu",
         "url": "https://mangadex.org/manga/36111",
-        "score": 0.34
+        "score": 0.34,
+        "r18": false
       },
       {
         "id": 36180,
         "title": "Present",
         "url": "https://mangadex.org/manga/36180",
-        "score": 0.34
+        "score": 0.34,
+        "r18": false
       },
       {
         "id": 50301,
         "title": "Watashi, Idol Yamemasu",
-        "url": "https://mangadex.org/manga/50301",
-        "score": 0.34
+        "url": "https://api.mangadex.org/v2/manga/50301",
+        "score": 0.34,
+        "r18": false
       },
       {
         "id": 1533,
         "title": "Cut the Angel with a Scythe",
-        "url": "https://mangadex.org/manga/1533",
-        "score": 0.2267
+        "url": "https://api.mangadex.org/v2/manga/1533",
+        "score": 0.2267,
+        "r18": false
       },
       {
         "id": 1632,
         "title": "Door to Heaven",
         "url": "https://mangadex.org/manga/1632",
-        "score": 0.2267
+        "score": 0.2267,
+        "r18": false
       },
       {
         "id": 3107,
         "title": "God's in His Heaven",
-        "url": "https://mangadex.org/manga/3107",
-        "score": 0.2267
+        "url": "https://api.mangadex.org/v2/manga/3107",
+        "score": 0.2267,
+        "r18": false
       },
       {
         "id": 4746,
         "title": "ECO",
-        "url": "https://mangadex.org/manga/4746",
-        "score": 0.2267
+        "url": "https://api.mangadex.org/v2/manga/4746",
+        "score": 0.2267,
+        "r18": false
       },
       {
         "id": 6136,
         "title": "THE iDOLM@STER - The Golden Adagio (Doujinshi)",
-        "url": "https://mangadex.org/manga/6136",
-        "score": 0.2267
+        "url": "https://api.mangadex.org/v2/manga/6136",
+        "score": 0.2267,
+        "r18": false
       },
       {
         "id": 7077,
         "title": "Pai o Agemasho, Anata ni Pai o ne",
-        "url": "https://mangadex.org/manga/7077",
-        "score": 0.2267
+        "url": "https://api.mangadex.org/v2/manga/7077",
+        "score": 0.2267,
+        "r18": false
       },
       {
         "id": 8053,
         "title": "Touhou - Horohoro to, Sakura Fubuki. (Doujinshi)",
-        "url": "https://mangadex.org/manga/8053",
-        "score": 0.2267
+        "url": "https://api.mangadex.org/v2/manga/8053",
+        "score": 0.2267,
+        "r18": false
       },
       {
         "id": 9069,
         "title": "Touhou - Nakanai Kimi ni (Doujinshi)",
-        "url": "https://mangadex.org/manga/9069",
-        "score": 0.2267
+        "url": "https://api.mangadex.org/v2/manga/9069",
+        "score": 0.2267,
+        "r18": false
       },
       {
         "id": 9255,
         "title": "Touhou - Ohayou to Iwasete. (Doujinshi)",
-        "url": "https://mangadex.org/manga/9255",
-        "score": 0.2267
+        "url": "https://api.mangadex.org/v2/manga/9255",
+        "score": 0.2267,
+        "r18": false
       },
       {
         "id": 9464,
         "title": "Eternal Moment",
         "url": "https://mangadex.org/manga/9464",
-        "score": 0.2267
+        "score": 0.2267,
+        "r18": false
       },
       {
         "id": 10236,
         "title": "OCEAN",
         "url": "https://mangadex.org/manga/10236",
-        "score": 0.2267
+        "score": 0.2267,
+        "r18": false
       },
       {
         "id": 10799,
         "title": "The Dream of an Elephant",
         "url": "https://mangadex.org/manga/10799",
-        "score": 0.2267
+        "score": 0.2267,
+        "r18": false
       },
       {
         "id": 10952,
         "title": "Hakanakumo",
         "url": "https://mangadex.org/manga/10952",
-        "score": 0.2267
+        "score": 0.2267,
+        "r18": false
       },
       {
         "id": 11843,
         "title": "Chocolate-Covered Almonds",
         "url": "https://mangadex.org/manga/11843",
-        "score": 0.2267
+        "score": 0.2267,
+        "r18": false
       },
       {
         "id": 15677,
         "title": "Uncontrol",
-        "url": "https://mangadex.org/manga/15677",
-        "score": 0.2267
+        "url": "https://api.mangadex.org/v2/manga/15677",
+        "score": 0.2267,
+        "r18": false
       },
       {
         "id": 16804,
         "title": "Tokyo",
-        "url": "https://mangadex.org/manga/16804",
-        "score": 0.2267
+        "url": "https://api.mangadex.org/v2/manga/16804",
+        "score": 0.2267,
+        "r18": false
       },
       {
         "id": 18505,
         "title": "Kantai Collection - Gift and Promises",
         "url": "https://mangadex.org/manga/18505",
-        "score": 0.2267
+        "score": 0.2267,
+        "r18": false
       },
       {
         "id": 18636,
         "title": "Hana no Shinzou",
         "url": "https://mangadex.org/manga/18636",
-        "score": 0.2267
+        "score": 0.2267,
+        "r18": false
       },
       {
         "id": 19056,
         "title": "Talking Arrogantly",
         "url": "https://mangadex.org/manga/19056",
-        "score": 0.2267
+        "score": 0.2267,
+        "r18": false
       },
       {
         "id": 19367,
         "title": "Kikagaku Ehon",
         "url": "https://mangadex.org/manga/19367",
-        "score": 0.2267
+        "score": 0.2267,
+        "r18": false
       }
     ],
     "matches_al": [],
@@ -1311,12 +1480,12 @@
   {
     "id": 17008,
     "title": "Raising A Bat",
-    "url": "https://mangadex.org/manga/17008",
+    "url": "https://api.mangadex.org/v2/manga/17008",
     "description": "Park Min Gyeom is a human with a disease that makes him produce excess blood. Kim Chun Sam is a half-vampire who needs blood to live. So begins an unusual symbiotic relationship between &quot;predator&quot; and &quot;prey.&quot;\r\n\r\n[b][u]Polish / Polski:[/u][/b]\r\n[spoiler]Park Min Gyeom jest cz\u0142owiekiem cierpi\u0105cym na chorob\u0119, przez kt&oacute;r\u0105 jego cia\u0142o produkuje nadmierne ilo\u015bci krwi. Kim Chun Sam jest dhampirem, kt&oacute;ry potrzebuje krwi by prze\u017cy\u0107. Tak rozpoczyna si\u0119 niezwyk\u0142a symbioza pomi\u0119dzy &quot;drapie\u017cnikiem&quot; i &quot;ofiar\u0105&quot;.[/spoiler]",
     "is_r18": false,
     "count_chapters": 195,
     "last_upload": 1598879457,
-    "last_updated": "January 18, 2021 19:02:54 UTC",
+    "last_updated": "February 08, 2021 16:57:08 UTC",
     "rating": 8.05,
     "content": [],
     "demographic": [],
@@ -1338,151 +1507,176 @@
         "id": 2006,
         "title": "Karin",
         "url": "https://mangadex.org/manga/2006",
-        "score": 0.6703
+        "score": 0.6703,
+        "r18": false
       },
       {
         "id": 53948,
         "title": "Daikirai!",
         "url": "https://mangadex.org/manga/53948",
-        "score": 0.4047
+        "score": 0.4047,
+        "r18": false
       },
       {
         "id": 15520,
         "title": "Kuro Ookami to Kin Kitsune",
-        "url": "https://mangadex.org/manga/15520",
-        "score": 0.3855
+        "url": "https://api.mangadex.org/v2/manga/15520",
+        "score": 0.3855,
+        "r18": false
       },
       {
         "id": 2458,
         "title": "Crepuscule (Best Challenge version)",
         "url": "https://mangadex.org/manga/2458",
-        "score": 0.3732
+        "score": 0.3732,
+        "r18": false
       },
       {
         "id": 24619,
         "title": "Amai Kimi ga Suki",
         "url": "https://mangadex.org/manga/24619",
-        "score": 0.3729
+        "score": 0.3729,
+        "r18": false
       },
       {
         "id": 27458,
         "title": "Bingo!",
         "url": "https://mangadex.org/manga/27458",
-        "score": 0.3641
+        "score": 0.3641,
+        "r18": false
       },
       {
         "id": 24834,
         "title": "Saikou no Kimi",
         "url": "https://mangadex.org/manga/24834",
-        "score": 0.3592
+        "score": 0.3592,
+        "r18": false
       },
       {
         "id": 5970,
         "title": "Love Making",
-        "url": "https://mangadex.org/manga/5970",
-        "score": 0.3568
+        "url": "https://api.mangadex.org/v2/manga/5970",
+        "score": 0.3568,
+        "r18": false
       },
       {
         "id": 6164,
         "title": "69",
-        "url": "https://mangadex.org/manga/6164",
-        "score": 0.3554
+        "url": "https://api.mangadex.org/v2/manga/6164",
+        "score": 0.3554,
+        "r18": false
       },
       {
         "id": 51317,
         "title": "Becoming Human!",
-        "url": "https://mangadex.org/manga/51317",
-        "score": 0.3542
+        "url": "https://api.mangadex.org/v2/manga/51317",
+        "score": 0.3542,
+        "r18": false
       },
       {
         "id": 3824,
         "title": "Bokura ni Matsuwaru Et Cetera",
-        "url": "https://mangadex.org/manga/3824",
-        "score": 0.3541
+        "url": "https://api.mangadex.org/v2/manga/3824",
+        "score": 0.3541,
+        "r18": false
       },
       {
         "id": 43793,
         "title": "Stalemate",
-        "url": "https://mangadex.org/manga/43793",
-        "score": 0.3504
+        "url": "https://api.mangadex.org/v2/manga/43793",
+        "score": 0.3504,
+        "r18": false
       },
       {
         "id": 9897,
         "title": "Ayakari-Zoushi",
         "url": "https://mangadex.org/manga/9897",
-        "score": 0.3495
+        "score": 0.3495,
+        "r18": false
       },
       {
         "id": 29077,
         "title": "Gengetsurou Kitan",
         "url": "https://mangadex.org/manga/29077",
-        "score": 0.3491
+        "score": 0.3491,
+        "r18": false
       },
       {
         "id": 34402,
         "title": "Film Emperor's Reincarnation Script",
         "url": "https://mangadex.org/manga/34402",
-        "score": 0.3485
+        "score": 0.3485,
+        "r18": false
       },
       {
         "id": 10681,
         "title": "Usotsuki Boyfriend",
         "url": "https://mangadex.org/manga/10681",
-        "score": 0.346
+        "score": 0.346,
+        "r18": false
       },
       {
         "id": 22031,
         "title": "Dasadanan",
         "url": "https://mangadex.org/manga/22031",
-        "score": 0.3436
+        "score": 0.3436,
+        "r18": false
       },
       {
         "id": 9927,
         "title": "Mister Mermaid",
         "url": "https://mangadex.org/manga/9927",
-        "score": 0.3418
+        "score": 0.3418,
+        "r18": false
       },
       {
         "id": 4268,
         "title": "Amayadori wa Basu-tei de",
-        "url": "https://mangadex.org/manga/4268",
-        "score": 0.3408
+        "url": "https://api.mangadex.org/v2/manga/4268",
+        "score": 0.3408,
+        "r18": false
       },
       {
         "id": 3307,
         "title": "School in the Wild",
-        "url": "https://mangadex.org/manga/3307",
-        "score": 0.3404
+        "url": "https://api.mangadex.org/v2/manga/3307",
+        "score": 0.3404,
+        "r18": false
       },
       {
         "id": 33245,
         "title": "Kimi ni wa Todokanai",
         "url": "https://mangadex.org/manga/33245",
-        "score": 0.3403
+        "score": 0.3403,
+        "r18": false
       },
       {
         "id": 30927,
         "title": "To Earn Your Trust",
         "url": "https://mangadex.org/manga/30927",
-        "score": 0.3379
+        "score": 0.3379,
+        "r18": false
       },
       {
         "id": 6807,
         "title": "Tsumasaki ni Kourozu",
-        "url": "https://mangadex.org/manga/6807",
-        "score": 0.3371
+        "url": "https://api.mangadex.org/v2/manga/6807",
+        "score": 0.3371,
+        "r18": false
       },
       {
         "id": 36924,
         "title": "Love Potion Brewing",
         "url": "https://mangadex.org/manga/36924",
-        "score": 0.337
+        "score": 0.337,
+        "r18": false
       },
       {
         "id": 53443,
         "title": "Sore wa Tabetewa Ikemasen",
         "url": "https://mangadex.org/manga/53443",
-        "score": 0.3361
+        "score": 0.3361,
+        "r18": false
       }
     ],
     "matches_al": [],
@@ -1497,12 +1691,12 @@
   {
     "id": 17009,
     "title": "Puppeteer",
-    "url": "https://mangadex.org/manga/17009",
+    "url": "https://api.mangadex.org/v2/manga/17009",
     "description": "Garo oneshot from 1982-07.",
     "is_r18": false,
     "count_chapters": 1,
     "last_upload": 1516822796,
-    "last_updated": "January 18, 2021 19:02:54 UTC",
+    "last_updated": "February 08, 2021 16:57:09 UTC",
     "rating": 7.89,
     "content": [],
     "demographic": [],
@@ -1520,14 +1714,16 @@
       {
         "id": 15787,
         "title": "Dhaldot no Akujiki Musume",
-        "url": "https://mangadex.org/manga/15787",
-        "score": 0.34
+        "url": "https://api.mangadex.org/v2/manga/15787",
+        "score": 0.34,
+        "r18": false
       },
       {
         "id": 19112,
         "title": "Pok&eacute;mon - We're The Mew Detective Team",
         "url": "https://mangadex.org/manga/19112",
-        "score": 0.2267
+        "score": 0.2267,
+        "r18": false
       }
     ],
     "matches_al": [],
@@ -1542,12 +1738,12 @@
   {
     "id": 17011,
     "title": "Pokemon Special BW - Do Not Go (Doujinshi)",
-    "url": "https://mangadex.org/manga/17011",
+    "url": "https://api.mangadex.org/v2/manga/17011",
     "description": "Short alternate story to Black leaving the BW Agency.",
     "is_r18": false,
     "count_chapters": 0,
     "last_upload": 0,
-    "last_updated": "January 18, 2021 19:02:56 UTC",
+    "last_updated": "February 08, 2021 16:57:12 UTC",
     "rating": 0,
     "content": [],
     "demographic": [],
@@ -1562,152 +1758,177 @@
       {
         "id": 3873,
         "title": "Strike Witches - True?xTrue!? (Doujinshi)",
-        "url": "https://mangadex.org/manga/3873",
-        "score": 0.34
+        "url": "https://api.mangadex.org/v2/manga/3873",
+        "score": 0.34,
+        "r18": false
       },
       {
         "id": 4692,
         "title": "Touhou - 365 End Roll (Doujinshi)",
-        "url": "https://mangadex.org/manga/4692",
-        "score": 0.34
+        "url": "https://api.mangadex.org/v2/manga/4692",
+        "score": 0.34,
+        "r18": false
       },
       {
         "id": 5613,
         "title": "THE iDOLM@STER - Lovely dress that suits you...? (Doujinshi)",
-        "url": "https://mangadex.org/manga/5613",
-        "score": 0.34
+        "url": "https://api.mangadex.org/v2/manga/5613",
+        "score": 0.34,
+        "r18": false
       },
       {
         "id": 5635,
         "title": "THE iDOLM@STER - Yayoi's Birthday memories (Doujinshi)",
-        "url": "https://mangadex.org/manga/5635",
-        "score": 0.34
+        "url": "https://api.mangadex.org/v2/manga/5635",
+        "score": 0.34,
+        "r18": false
       },
       {
         "id": 5640,
         "title": "THE iDOLM@STER - BLUSHER (Doujinshi)",
-        "url": "https://mangadex.org/manga/5640",
-        "score": 0.34
+        "url": "https://api.mangadex.org/v2/manga/5640",
+        "score": 0.34,
+        "r18": false
       },
       {
         "id": 7366,
         "title": "THE iDOLM@STER - Step Up! (Doujinshi)",
-        "url": "https://mangadex.org/manga/7366",
-        "score": 0.34
+        "url": "https://api.mangadex.org/v2/manga/7366",
+        "score": 0.34,
+        "r18": false
       },
       {
         "id": 7373,
         "title": "THE iDOLM@STER - My first stage (Doujinshi)",
-        "url": "https://mangadex.org/manga/7373",
-        "score": 0.34
+        "url": "https://api.mangadex.org/v2/manga/7373",
+        "score": 0.34,
+        "r18": false
       },
       {
         "id": 7377,
         "title": "THE iDOLM@STER - Aru Hi no Fuukei: Afu~ Kei (Doujinshi)",
-        "url": "https://mangadex.org/manga/7377",
-        "score": 0.34
+        "url": "https://api.mangadex.org/v2/manga/7377",
+        "score": 0.34,
+        "r18": false
       },
       {
         "id": 7597,
         "title": "Infinite Stratos - Indigo Algorithm:REMASTER ~ Quantum Mechanics Rainbow (Doujinshi)",
-        "url": "https://mangadex.org/manga/7597",
-        "score": 0.34
+        "url": "https://api.mangadex.org/v2/manga/7597",
+        "score": 0.34,
+        "r18": false
       },
       {
         "id": 7935,
         "title": "Touhou - Daybreak Sisters (Doujinshi)",
-        "url": "https://mangadex.org/manga/7935",
-        "score": 0.34
+        "url": "https://api.mangadex.org/v2/manga/7935",
+        "score": 0.34,
+        "r18": false
       },
       {
         "id": 8340,
         "title": "Touhou - Kurai Tokoro de Machiawase (Doujinshi)",
-        "url": "https://mangadex.org/manga/8340",
-        "score": 0.34
+        "url": "https://api.mangadex.org/v2/manga/8340",
+        "score": 0.34,
+        "r18": false
       },
       {
         "id": 9111,
         "title": "Fate/hollow ataraxia - CHILD PLAY (Doujinshi)",
-        "url": "https://mangadex.org/manga/9111",
-        "score": 0.34
+        "url": "https://api.mangadex.org/v2/manga/9111",
+        "score": 0.34,
+        "r18": false
       },
       {
         "id": 9588,
         "title": "THE iDOLM@STER - A white doll (Doujinshi)",
         "url": "https://mangadex.org/manga/9588",
-        "score": 0.34
+        "score": 0.34,
+        "r18": false
       },
       {
         "id": 9592,
         "title": "THE iDOLM@STER - GANAHA Style (Doujinshi)",
         "url": "https://mangadex.org/manga/9592",
-        "score": 0.34
+        "score": 0.34,
+        "r18": false
       },
       {
         "id": 10629,
         "title": "Sword Art Online - Asuna ga Solo kara Botthi de Ijimerarekko? (Doujinshi)",
         "url": "https://mangadex.org/manga/10629",
-        "score": 0.34
+        "score": 0.34,
+        "r18": false
       },
       {
         "id": 11082,
         "title": "Touhou - Kokoro's Smile Is Priceless (Doujinshi)",
         "url": "https://mangadex.org/manga/11082",
-        "score": 0.34
+        "score": 0.34,
+        "r18": false
       },
       {
         "id": 11210,
         "title": "Kantai Collection -KanColle- Orange Compile ~ Quantum Mechanics Rainbow (Doujinshi)",
         "url": "https://mangadex.org/manga/11210",
-        "score": 0.34
+        "score": 0.34,
+        "r18": false
       },
       {
         "id": 12305,
         "title": "Tales of the Abyss - Kanata no Hikari Kagayaite (Doujinshi)",
         "url": "https://mangadex.org/manga/12305",
-        "score": 0.34
+        "score": 0.34,
+        "r18": false
       },
       {
         "id": 12319,
         "title": "Bokurano &amp; Higurashi no Naku Koro ni - Okirakugaki (Doujinshi)",
         "url": "https://mangadex.org/manga/12319",
-        "score": 0.34
+        "score": 0.34,
+        "r18": false
       },
       {
         "id": 12320,
         "title": "Ai toka koi toka etcetera.",
         "url": "https://mangadex.org/manga/12320",
-        "score": 0.34
+        "score": 0.34,
+        "r18": false
       },
       {
         "id": 12389,
         "title": "THE iDOLM@STER - Until your color up/// (Doujinshi)",
-        "url": "https://mangadex.org/manga/12389",
-        "score": 0.34
+        "url": "https://api.mangadex.org/v2/manga/12389",
+        "score": 0.34,
+        "r18": false
       },
       {
         "id": 12463,
         "title": "Touhou - Toughguy (Doujinshi)",
-        "url": "https://mangadex.org/manga/12463",
-        "score": 0.34
+        "url": "https://api.mangadex.org/v2/manga/12463",
+        "score": 0.34,
+        "r18": false
       },
       {
         "id": 12464,
         "title": "Touhou - Imogai (Doujinshi)",
-        "url": "https://mangadex.org/manga/12464",
-        "score": 0.34
+        "url": "https://api.mangadex.org/v2/manga/12464",
+        "score": 0.34,
+        "r18": false
       },
       {
         "id": 12465,
         "title": "Touhou - Acguy (Doujinshi)",
-        "url": "https://mangadex.org/manga/12465",
-        "score": 0.34
+        "url": "https://api.mangadex.org/v2/manga/12465",
+        "score": 0.34,
+        "r18": false
       },
       {
         "id": 12466,
         "title": "Touhou - Onegai (Doujinshi)",
-        "url": "https://mangadex.org/manga/12466",
-        "score": 0.34
+        "url": "https://api.mangadex.org/v2/manga/12466",
+        "score": 0.34,
+        "r18": false
       }
     ],
     "matches_al": [],
@@ -1717,12 +1938,12 @@
   {
     "id": 17012,
     "title": "Inu Catalog",
-    "url": "https://mangadex.org/manga/17012",
+    "url": "https://api.mangadex.org/v2/manga/17012",
     "description": "The school public-health doctor, Ren, is often called a &quot;small pet&quot; by the students. Then one day he was shocked dead when he bumped into two students who were about to do some kind of &quot;impure&quot; association in the school's backyard! Not to mention, one of those two was the charismatic model Midori whom Ren had always been longing for. Ren was even more shocked when Midori made him grab his &quot;certain something&quot; then came right in Ren's hands. After that, when Midori confessed that he liked him, Ren felt so pissed-off thinking that Midori took the word &quot;like&quot; too lightly, he punched Midori with his own fits. Midori was so moved by that hit that the following day he began to seduce Ren happily and relentlessly... Sweet lovemelody between the indulged beautiful model and the tough public-health doctor.",
     "is_r18": false,
     "count_chapters": 6,
     "last_upload": 1597912125,
-    "last_updated": "January 18, 2021 19:02:56 UTC",
+    "last_updated": "February 08, 2021 16:57:12 UTC",
     "rating": 7.95,
     "content": [],
     "demographic": [],
@@ -1737,154 +1958,179 @@
     "related": [],
     "matches": [
       {
-        "id": 4810,
-        "title": "Boku no Shiru Anata no Hanashi",
-        "url": "https://mangadex.org/manga/4810",
-        "score": 0.7444
-      },
-      {
         "id": 16544,
         "title": "ULTRAS",
-        "url": "https://mangadex.org/manga/16544",
-        "score": 0.7404
+        "url": "https://api.mangadex.org/v2/manga/16544",
+        "score": 0.7468,
+        "r18": false
+      },
+      {
+        "id": 4810,
+        "title": "Boku no Shiru Anata no Hanashi",
+        "url": "https://api.mangadex.org/v2/manga/4810",
+        "score": 0.7444,
+        "r18": false
       },
       {
         "id": 37573,
         "title": "Shitsuji wa Oose no Mama ni",
-        "url": "https://mangadex.org/manga/37573",
-        "score": 0.7356
+        "url": "https://api.mangadex.org/v2/manga/37573",
+        "score": 0.7356,
+        "r18": false
       },
       {
         "id": 37280,
         "title": "Kimi no Ai wa Mienikui",
-        "url": "https://mangadex.org/manga/37280",
-        "score": 0.7276
+        "url": "https://api.mangadex.org/v2/manga/37280",
+        "score": 0.7275,
+        "r18": false
       },
       {
         "id": 9475,
         "title": "Tsuki ni Hoero",
         "url": "https://mangadex.org/manga/9475",
-        "score": 0.7233
+        "score": 0.7232,
+        "r18": false
       },
       {
         "id": 58353,
         "title": "Kiss to Kirai no Hantai",
         "url": "https://mangadex.org/manga/58353",
-        "score": 0.7228
+        "score": 0.7228,
+        "r18": false
       },
       {
         "id": 53198,
         "title": "Kimi ga Kono Te o Hanareru nara",
         "url": "https://mangadex.org/manga/53198",
-        "score": 0.7224
+        "score": 0.7224,
+        "r18": false
       },
       {
         "id": 10923,
         "title": "Kooporasu e Youkoso",
         "url": "https://mangadex.org/manga/10923",
-        "score": 0.7193
+        "score": 0.7193,
+        "r18": false
       },
       {
         "id": 55064,
         "title": "Ore-sama na Aitsu",
         "url": "https://mangadex.org/manga/55064",
-        "score": 0.716
+        "score": 0.7159,
+        "r18": false
       },
       {
         "id": 26915,
         "title": "Shinu hodo Suki",
         "url": "https://mangadex.org/manga/26915",
-        "score": 0.7156
+        "score": 0.7156,
+        "r18": false
       },
       {
         "id": 12443,
         "title": "Junjou Romantica",
-        "url": "https://mangadex.org/manga/12443",
-        "score": 0.7151
+        "url": "https://api.mangadex.org/v2/manga/12443",
+        "score": 0.7151,
+        "r18": false
       },
       {
         "id": 29113,
         "title": "Yubisaki no Koi",
         "url": "https://mangadex.org/manga/29113",
-        "score": 0.715
+        "score": 0.715,
+        "r18": false
       },
       {
         "id": 4673,
         "title": "From Yesterday",
-        "url": "https://mangadex.org/manga/4673",
-        "score": 0.7129
+        "url": "https://api.mangadex.org/v2/manga/4673",
+        "score": 0.7129,
+        "r18": false
       },
       {
         "id": 28093,
         "title": "Love Mode",
         "url": "https://mangadex.org/manga/28093",
-        "score": 0.7124
+        "score": 0.7123,
+        "r18": false
       },
       {
         "id": 55072,
         "title": "Gekkou no Rankan ni Kuchinashi no Nioi",
         "url": "https://mangadex.org/manga/55072",
-        "score": 0.712
+        "score": 0.712,
+        "r18": false
       },
       {
         "id": 18632,
         "title": "Harukaze no &Eacute;tranger",
         "url": "https://mangadex.org/manga/18632",
-        "score": 0.7108
+        "score": 0.7107,
+        "r18": false
       },
       {
         "id": 55120,
         "title": "Usagi to Ookami no Shinshikyoutei",
         "url": "https://mangadex.org/manga/55120",
-        "score": 0.7106
+        "score": 0.7105,
+        "r18": false
       },
       {
         "id": 58208,
         "title": "Kaerenain Da Yo",
         "url": "https://mangadex.org/manga/58208",
-        "score": 0.7105
+        "score": 0.7104,
+        "r18": false
       },
       {
         "id": 24006,
         "title": "Anata wa Boku Dake no Hana",
         "url": "https://mangadex.org/manga/24006",
-        "score": 0.7102
-      },
-      {
-        "id": 36782,
-        "title": "Namida mo Tooku -Aonibi no Nemuri-",
-        "url": "https://mangadex.org/manga/36782",
-        "score": 0.7101
+        "score": 0.7102,
+        "r18": false
       },
       {
         "id": 27578,
         "title": "Boku wa Boku Narini",
         "url": "https://mangadex.org/manga/27578",
-        "score": 0.7101
+        "score": 0.7101,
+        "r18": false
+      },
+      {
+        "id": 36782,
+        "title": "Namida mo Tooku -Aonibi no Nemuri-",
+        "url": "https://mangadex.org/manga/36782",
+        "score": 0.7101,
+        "r18": false
       },
       {
         "id": 53625,
         "title": "Kagakushitsu e Douzo",
         "url": "https://mangadex.org/manga/53625",
-        "score": 0.709
+        "score": 0.709,
+        "r18": false
       },
       {
         "id": 12505,
         "title": "Dog Style",
-        "url": "https://mangadex.org/manga/12505",
-        "score": 0.7088
+        "url": "https://api.mangadex.org/v2/manga/12505",
+        "score": 0.7088,
+        "r18": false
       },
       {
         "id": 36148,
         "title": "Ai no Kotoba o Uragaeshi",
         "url": "https://mangadex.org/manga/36148",
-        "score": 0.7068
+        "score": 0.7068,
+        "r18": false
       },
       {
         "id": 40984,
         "title": "Chiisana Garasu no Sora",
         "url": "https://mangadex.org/manga/40984",
-        "score": 0.7066
+        "score": 0.7066,
+        "r18": false
       }
     ],
     "matches_al": [],
@@ -1900,13 +2146,13 @@
   {
     "id": 17013,
     "title": "Yondaime Ooyamato Tatsuyuki",
-    "url": "https://mangadex.org/manga/17013",
+    "url": "https://api.mangadex.org/v2/manga/17013",
     "description": "Completely disarmed by Minori, gang leader Tatsuyuki Oyamato is sent down to Fukuoka to expand the family's territory in Kyushu, with the hidden intention of revitalizing himself. However, after arriving in Fukuoka, the dismayed Tatsuyuki is still distraught. Completely drunk and lying in a park, he's taken home by someone and treated to an evening of his wildest desires.",
     "is_r18": false,
     "count_chapters": 36,
     "last_upload": 1581509481,
-    "last_updated": "January 18, 2021 19:02:57 UTC",
-    "rating": 8.22,
+    "last_updated": "February 08, 2021 16:57:14 UTC",
+    "rating": 8.23,
     "content": [
       "Smut"
     ],
@@ -1941,151 +2187,176 @@
         "id": 27684,
         "title": "Yokubou Shounen",
         "url": "https://mangadex.org/manga/27684",
-        "score": 0.7473
+        "score": 0.7473,
+        "r18": false
       },
       {
         "id": 37504,
         "title": "Hide and Seek",
-        "url": "https://mangadex.org/manga/37504",
-        "score": 0.7413
+        "url": "https://api.mangadex.org/v2/manga/37504",
+        "score": 0.7413,
+        "r18": false
       },
       {
         "id": 36814,
         "title": "Oyasumi Darling",
         "url": "https://mangadex.org/manga/36814",
-        "score": 0.7376
+        "score": 0.7376,
+        "r18": false
       },
       {
         "id": 29909,
         "title": "Glamorous Lip",
         "url": "https://mangadex.org/manga/29909",
-        "score": 0.7308
+        "score": 0.7308,
+        "r18": false
       },
       {
         "id": 15274,
         "title": "Chikan Diary",
-        "url": "https://mangadex.org/manga/15274",
-        "score": 0.73
+        "url": "https://api.mangadex.org/v2/manga/15274",
+        "score": 0.73,
+        "r18": false
       },
       {
         "id": 36264,
         "title": "Hisho no Territory",
         "url": "https://mangadex.org/manga/36264",
-        "score": 0.7259
+        "score": 0.7259,
+        "r18": false
       },
       {
         "id": 7975,
         "title": "Koisuru Boukun",
-        "url": "https://mangadex.org/manga/7975",
-        "score": 0.7233
+        "url": "https://api.mangadex.org/v2/manga/7975",
+        "score": 0.7233,
+        "r18": false
       },
       {
         "id": 25950,
         "title": "Mayou Otoko",
         "url": "https://mangadex.org/manga/25950",
-        "score": 0.7194
+        "score": 0.7193,
+        "r18": false
       },
       {
         "id": 29023,
         "title": "Mitsu no Tsumatta Joushi",
         "url": "https://mangadex.org/manga/29023",
-        "score": 0.7185
+        "score": 0.7185,
+        "r18": false
       },
       {
         "id": 6817,
         "title": "Trigger",
-        "url": "https://mangadex.org/manga/6817",
-        "score": 0.7184
+        "url": "https://api.mangadex.org/v2/manga/6817",
+        "score": 0.7184,
+        "r18": false
       },
       {
         "id": 4557,
         "title": "Mousou Cherry",
-        "url": "https://mangadex.org/manga/4557",
-        "score": 0.717
+        "url": "https://api.mangadex.org/v2/manga/4557",
+        "score": 0.717,
+        "r18": false
       },
       {
         "id": 10465,
         "title": "Dame BL (Anthology)",
         "url": "https://mangadex.org/manga/10465",
-        "score": 0.7152
+        "score": 0.7152,
+        "r18": false
       },
       {
         "id": 4563,
         "title": "Kuchibiru wa Uso o Tsuku",
-        "url": "https://mangadex.org/manga/4563",
-        "score": 0.7143
+        "url": "https://api.mangadex.org/v2/manga/4563",
+        "score": 0.7143,
+        "r18": false
       },
       {
         "id": 4118,
         "title": "Kimi Note",
-        "url": "https://mangadex.org/manga/4118",
-        "score": 0.712
+        "url": "https://api.mangadex.org/v2/manga/4118",
+        "score": 0.712,
+        "r18": false
       },
       {
         "id": 18378,
         "title": "Crystal Harem",
         "url": "https://mangadex.org/manga/18378",
-        "score": 0.712
+        "score": 0.7119,
+        "r18": false
       },
       {
         "id": 29080,
         "title": "Dakishimetakunai",
         "url": "https://mangadex.org/manga/29080",
-        "score": 0.7116
+        "score": 0.7116,
+        "r18": false
       },
       {
         "id": 35460,
         "title": "Nouka no Muko",
         "url": "https://mangadex.org/manga/35460",
-        "score": 0.7111
+        "score": 0.711,
+        "r18": false
       },
       {
         "id": 25009,
         "title": "Nessa no Kusari",
         "url": "https://mangadex.org/manga/25009",
-        "score": 0.7045
+        "score": 0.7045,
+        "r18": false
       },
       {
         "id": 13269,
         "title": "Koi Made Hyakurin",
-        "url": "https://mangadex.org/manga/13269",
-        "score": 0.7022
+        "url": "https://api.mangadex.org/v2/manga/13269",
+        "score": 0.7022,
+        "r18": false
       },
       {
         "id": 56166,
         "title": "Sunao ni Narenai Otokotachi",
         "url": "https://mangadex.org/manga/56166",
-        "score": 0.7005
+        "score": 0.7005,
+        "r18": false
       },
       {
         "id": 57774,
         "title": "Hisho Ikuseichuu.",
         "url": "https://mangadex.org/manga/57774",
-        "score": 0.697
+        "score": 0.697,
+        "r18": false
       },
       {
         "id": 27823,
         "title": "Uchi no Darling Gaikokujin",
         "url": "https://mangadex.org/manga/27823",
-        "score": 0.6968
+        "score": 0.6968,
+        "r18": false
       },
       {
         "id": 441,
         "title": "Finder",
-        "url": "https://mangadex.org/manga/441",
-        "score": 0.6964
+        "url": "https://api.mangadex.org/v2/manga/441",
+        "score": 0.6964,
+        "r18": false
       },
       {
         "id": 8048,
         "title": "Kimi wa Amai Amai...",
-        "url": "https://mangadex.org/manga/8048",
-        "score": 0.6959
+        "url": "https://api.mangadex.org/v2/manga/8048",
+        "score": 0.6959,
+        "r18": false
       },
       {
         "id": 32887,
         "title": "Yuki to Matsu",
         "url": "https://mangadex.org/manga/32887",
-        "score": 0.6954
+        "score": 0.6953,
+        "r18": false
       }
     ],
     "matches_al": [],
@@ -2109,20 +2380,20 @@
         97092
       ],
       "rec_score": [
-        1
+        2
       ]
     }
   },
   {
     "id": 17014,
     "title": "H-Mate",
-    "url": "https://mangadex.org/manga/17014",
+    "url": "https://api.mangadex.org/v2/manga/17014",
     "description": "Jang-Mi and Taebong's long time friendship is put to the test after they both sleep together for one night.",
     "is_r18": true,
     "count_chapters": 172,
     "last_upload": 1610789252,
-    "last_updated": "January 18, 2021 19:02:58 UTC",
-    "rating": 7.08,
+    "last_updated": "February 08, 2021 16:57:15 UTC",
+    "rating": 7.11,
     "content": [
       "Ecchi",
       "Smut"
@@ -2153,151 +2424,176 @@
         "id": 34597,
         "title": "Noraneko Shoujo to no Kurashikata",
         "url": "https://mangadex.org/manga/34597",
-        "score": 0.6579
+        "score": 0.6579,
+        "r18": true
       },
       {
         "id": 57038,
         "title": "Boarding Diary",
         "url": "https://mangadex.org/manga/57038",
-        "score": 0.4779
+        "score": 0.4779,
+        "r18": true
       },
       {
         "id": 48386,
         "title": "Stepmother's Friends",
         "url": "https://mangadex.org/manga/48386",
-        "score": 0.4661
+        "score": 0.4661,
+        "r18": true
       },
       {
         "id": 37903,
         "title": "Landlord's Little Girl",
-        "url": "https://mangadex.org/manga/37903",
-        "score": 0.4026
+        "url": "https://api.mangadex.org/v2/manga/37903",
+        "score": 0.4025,
+        "r18": true
       },
       {
         "id": 49711,
         "title": "Up &amp; Down",
-        "url": "https://mangadex.org/manga/49711",
-        "score": 0.3978
+        "url": "https://api.mangadex.org/v2/manga/49711",
+        "score": 0.3978,
+        "r18": true
       },
       {
         "id": 58979,
         "title": "Suspicious Job",
-        "url": "https://mangadex.org/manga/58979",
-        "score": 0.3889
+        "url": "https://api.mangadex.org/v2/manga/58979",
+        "score": 0.3888,
+        "r18": true
       },
       {
         "id": 49346,
         "title": "Siblings",
         "url": "https://mangadex.org/manga/49346",
-        "score": 0.3801
+        "score": 0.3801,
+        "r18": true
       },
       {
         "id": 50718,
         "title": "Craving",
-        "url": "https://mangadex.org/manga/50718",
-        "score": 0.3682
+        "url": "https://api.mangadex.org/v2/manga/50718",
+        "score": 0.3681,
+        "r18": true
       },
       {
         "id": 19165,
         "title": "Do It One More Time",
         "url": "https://mangadex.org/manga/19165",
-        "score": 0.3672
+        "score": 0.3672,
+        "r18": true
       },
       {
         "id": 51082,
         "title": "Teaching Practice",
-        "url": "https://mangadex.org/manga/51082",
-        "score": 0.355
+        "url": "https://api.mangadex.org/v2/manga/51082",
+        "score": 0.3549,
+        "r18": true
       },
       {
         "id": 16071,
         "title": "Sweet Guy",
-        "url": "https://mangadex.org/manga/16071",
-        "score": 0.35
+        "url": "https://api.mangadex.org/v2/manga/16071",
+        "score": 0.35,
+        "r18": true
       },
       {
         "id": 36406,
         "title": "A Pervert's Daily Life",
         "url": "https://mangadex.org/manga/36406",
-        "score": 0.3475
+        "score": 0.3475,
+        "r18": true
       },
       {
         "id": 58503,
         "title": "The Savory Girl",
         "url": "https://mangadex.org/manga/58503",
-        "score": 0.3382
+        "score": 0.3382,
+        "r18": true
       },
       {
         "id": 50606,
         "title": "Oriental Clinic Miracles",
-        "url": "https://mangadex.org/manga/50606",
-        "score": 0.3329
+        "url": "https://api.mangadex.org/v2/manga/50606",
+        "score": 0.3353,
+        "r18": true
       },
       {
         "id": 23319,
         "title": "Perfect Half",
         "url": "https://mangadex.org/manga/23319",
-        "score": 0.3317
-      },
-      {
-        "id": 59748,
-        "title": "Is There an Empty Room?",
-        "url": "https://mangadex.org/manga/59748",
-        "score": 0.3302
+        "score": 0.3317,
+        "r18": true
       },
       {
         "id": 18843,
         "title": "Ghost Love",
         "url": "https://mangadex.org/manga/18843",
-        "score": 0.325
+        "score": 0.325,
+        "r18": true
       },
       {
         "id": 49991,
         "title": "Fitness",
-        "url": "https://mangadex.org/manga/49991",
-        "score": 0.3248
+        "url": "https://api.mangadex.org/v2/manga/49991",
+        "score": 0.3249,
+        "r18": true
       },
       {
         "id": 58012,
         "title": "The Woman Who Lives in My Room",
         "url": "https://mangadex.org/manga/58012",
-        "score": 0.3164
+        "score": 0.3163,
+        "r18": true
       },
       {
         "id": 12808,
         "title": "Ojou-sama wa Nigedashita",
-        "url": "https://mangadex.org/manga/12808",
-        "score": 0.3119
+        "url": "https://api.mangadex.org/v2/manga/12808",
+        "score": 0.3119,
+        "r18": true
       },
       {
         "id": 56830,
         "title": "Panty Note",
         "url": "https://mangadex.org/manga/56830",
-        "score": 0.3117
+        "score": 0.3117,
+        "r18": true
       },
       {
         "id": 23501,
         "title": "Coneco!!",
         "url": "https://mangadex.org/manga/23501",
-        "score": 0.3099
+        "score": 0.3099,
+        "r18": true
       },
       {
         "id": 22826,
         "title": "Pervert Club",
         "url": "https://mangadex.org/manga/22826",
-        "score": 0.3095
+        "score": 0.3094,
+        "r18": true
       },
       {
         "id": 27951,
         "title": "Making AV: A Sneak Peek",
         "url": "https://mangadex.org/manga/27951",
-        "score": 0.3034
+        "score": 0.3033,
+        "r18": true
       },
       {
         "id": 17755,
         "title": "Brawling GO!",
         "url": "https://mangadex.org/manga/17755",
-        "score": 0.3022
+        "score": 0.3022,
+        "r18": true
+      },
+      {
+        "id": 18138,
+        "title": "Love Parameter",
+        "url": "https://mangadex.org/manga/18138",
+        "score": 0.2959,
+        "r18": true
       }
     ],
     "matches_al": [],
@@ -2309,12 +2605,12 @@
   {
     "id": 17015,
     "title": "J-Boy",
-    "url": "https://mangadex.org/manga/17015",
+    "url": "https://api.mangadex.org/v2/manga/17015",
     "description": "Collection of one-shots",
     "is_r18": false,
     "count_chapters": 0,
     "last_upload": 0,
-    "last_updated": "January 18, 2021 19:02:58 UTC",
+    "last_updated": "February 08, 2021 16:57:16 UTC",
     "rating": 0,
     "content": [],
     "demographic": [],
@@ -2339,151 +2635,176 @@
         "id": 18517,
         "title": "Joshi BL (Anthology)",
         "url": "https://mangadex.org/manga/18517",
-        "score": 0.2733
+        "score": 0.2733,
+        "r18": false
       },
       {
         "id": 5185,
         "title": "Slow Starter",
-        "url": "https://mangadex.org/manga/5185",
-        "score": 0.2356
+        "url": "https://api.mangadex.org/v2/manga/5185",
+        "score": 0.2356,
+        "r18": false
       },
       {
         "id": 7189,
         "title": "Tobu, Kokoro",
-        "url": "https://mangadex.org/manga/7189",
-        "score": 0.2356
+        "url": "https://api.mangadex.org/v2/manga/7189",
+        "score": 0.2356,
+        "r18": false
       },
       {
         "id": 7319,
         "title": "Demian Shoukougun",
-        "url": "https://mangadex.org/manga/7319",
-        "score": 0.2356
+        "url": "https://api.mangadex.org/v2/manga/7319",
+        "score": 0.2356,
+        "r18": false
       },
       {
         "id": 9419,
         "title": "Sayonara Note",
         "url": "https://mangadex.org/manga/9419",
-        "score": 0.2356
+        "score": 0.2356,
+        "r18": false
       },
       {
         "id": 11706,
         "title": "Sono Kuchibiru wo Hirake",
         "url": "https://mangadex.org/manga/11706",
-        "score": 0.2356
+        "score": 0.2356,
+        "r18": false
       },
       {
         "id": 12059,
         "title": "Breakfast Club",
         "url": "https://mangadex.org/manga/12059",
-        "score": 0.2356
+        "score": 0.2356,
+        "r18": false
       },
       {
         "id": 13951,
         "title": "Boys Love",
-        "url": "https://mangadex.org/manga/13951",
-        "score": 0.2356
+        "url": "https://api.mangadex.org/v2/manga/13951",
+        "score": 0.2356,
+        "r18": false
       },
       {
         "id": 14963,
         "title": "Kitto Kiss o Suru Toki",
-        "url": "https://mangadex.org/manga/14963",
-        "score": 0.2356
+        "url": "https://api.mangadex.org/v2/manga/14963",
+        "score": 0.2356,
+        "r18": false
       },
       {
         "id": 15262,
         "title": "Glow!",
-        "url": "https://mangadex.org/manga/15262",
-        "score": 0.2356
+        "url": "https://api.mangadex.org/v2/manga/15262",
+        "score": 0.2356,
+        "r18": false
       },
       {
         "id": 19632,
         "title": "Hitorijime My Hero",
         "url": "https://mangadex.org/manga/19632",
-        "score": 0.2356
+        "score": 0.2356,
+        "r18": false
       },
       {
         "id": 20223,
         "title": "Kataomoi to Parade",
         "url": "https://mangadex.org/manga/20223",
-        "score": 0.2356
+        "score": 0.2356,
+        "r18": false
       },
       {
         "id": 20898,
         "title": "Oko-sama Star",
         "url": "https://mangadex.org/manga/20898",
-        "score": 0.2356
+        "score": 0.2356,
+        "r18": false
       },
       {
         "id": 22210,
         "title": "Haikyuu!! - Shisseishou Oikawa Tooru no Hanashi (Doujinshi)",
         "url": "https://mangadex.org/manga/22210",
-        "score": 0.2356
+        "score": 0.2356,
+        "r18": false
       },
       {
         "id": 24797,
         "title": "Plastic Romantic",
         "url": "https://mangadex.org/manga/24797",
-        "score": 0.2356
+        "score": 0.2356,
+        "r18": false
       },
       {
         "id": 56120,
         "title": "Gosan no Katachi",
         "url": "https://mangadex.org/manga/56120",
-        "score": 0.2356
+        "score": 0.2356,
+        "r18": false
       },
       {
         "id": 12505,
         "title": "Dog Style",
-        "url": "https://mangadex.org/manga/12505",
-        "score": 0.2311
+        "url": "https://api.mangadex.org/v2/manga/12505",
+        "score": 0.2311,
+        "r18": false
       },
       {
         "id": 16208,
         "title": "Kyouken Breeder",
-        "url": "https://mangadex.org/manga/16208",
-        "score": 0.2311
+        "url": "https://api.mangadex.org/v2/manga/16208",
+        "score": 0.2311,
+        "r18": false
       },
       {
         "id": 27056,
         "title": "Devil x Devil",
         "url": "https://mangadex.org/manga/27056",
-        "score": 0.2311
+        "score": 0.2311,
+        "r18": false
       },
       {
         "id": 35452,
         "title": "Close Your Eyes",
         "url": "https://mangadex.org/manga/35452",
-        "score": 0.2311
+        "score": 0.2311,
+        "r18": false
       },
       {
         "id": 40984,
         "title": "Chiisana Garasu no Sora",
         "url": "https://mangadex.org/manga/40984",
-        "score": 0.2311
+        "score": 0.2311,
+        "r18": false
       },
       {
         "id": 55763,
         "title": "Hashire! Ouji-sama",
         "url": "https://mangadex.org/manga/55763",
-        "score": 0.2311
+        "score": 0.2311,
+        "r18": false
       },
       {
         "id": 55045,
         "title": "MisMatched",
         "url": "https://mangadex.org/manga/55045",
-        "score": 0.212
+        "score": 0.212,
+        "r18": false
       },
       {
         "id": 7329,
         "title": "Natsu, Kimi ga Saku.",
-        "url": "https://mangadex.org/manga/7329",
-        "score": 0.208
+        "url": "https://api.mangadex.org/v2/manga/7329",
+        "score": 0.208,
+        "r18": false
       },
       {
         "id": 4617,
         "title": "Edith (Anthology)",
-        "url": "https://mangadex.org/manga/4617",
-        "score": 0.1978
+        "url": "https://api.mangadex.org/v2/manga/4617",
+        "score": 0.1978,
+        "r18": false
       }
     ],
     "matches_al": [],
@@ -2495,12 +2816,12 @@
   {
     "id": 17016,
     "title": "Kakusei Shigansha",
-    "url": "https://mangadex.org/manga/17016",
+    "url": "https://api.mangadex.org/v2/manga/17016",
     "description": "Mizutani never wanted a normal life, but that&rsquo;s what he has. And he loathes it. When he runs into Tamaki again, the small boy he bullied in the past and now a gorgeous television hero, he realizes Tamaki is everything he is not. But Tamaki hasn&rsquo;t forgiven Mizutani&rsquo;s past cruelties, and suddenly, &ldquo;normal&rdquo; is a lifeline.",
     "is_r18": false,
     "count_chapters": 0,
     "last_upload": 0,
-    "last_updated": "January 18, 2021 19:02:59 UTC",
+    "last_updated": "February 08, 2021 16:57:17 UTC",
     "rating": 0,
     "content": [],
     "demographic": [],
@@ -2517,152 +2838,177 @@
       {
         "id": 15141,
         "title": "Bronze",
-        "url": "https://mangadex.org/manga/15141",
-        "score": 0.7149
+        "url": "https://api.mangadex.org/v2/manga/15141",
+        "score": 0.7149,
+        "r18": false
       },
       {
         "id": 7331,
         "title": "Kare no Niwa ni Saku Hana",
-        "url": "https://mangadex.org/manga/7331",
-        "score": 0.7125
+        "url": "https://api.mangadex.org/v2/manga/7331",
+        "score": 0.7125,
+        "r18": false
       },
       {
         "id": 36782,
         "title": "Namida mo Tooku -Aonibi no Nemuri-",
         "url": "https://mangadex.org/manga/36782",
-        "score": 0.706
+        "score": 0.706,
+        "r18": false
       },
       {
         "id": 28093,
         "title": "Love Mode",
         "url": "https://mangadex.org/manga/28093",
-        "score": 0.7048
+        "score": 0.7048,
+        "r18": false
       },
       {
         "id": 53625,
         "title": "Kagakushitsu e Douzo",
         "url": "https://mangadex.org/manga/53625",
-        "score": 0.7037
+        "score": 0.7036,
+        "r18": false
       },
       {
         "id": 25475,
         "title": "Tanbishugi",
         "url": "https://mangadex.org/manga/25475",
-        "score": 0.6934
+        "score": 0.6934,
+        "r18": false
       },
       {
         "id": 36041,
         "title": "Zombie Hide Sex",
         "url": "https://mangadex.org/manga/36041",
-        "score": 0.6912
+        "score": 0.6913,
+        "r18": false
       },
       {
         "id": 7922,
         "title": "Doushitemo Furetakunai",
-        "url": "https://mangadex.org/manga/7922",
-        "score": 0.6907
+        "url": "https://api.mangadex.org/v2/manga/7922",
+        "score": 0.6907,
+        "r18": false
       },
       {
         "id": 17966,
         "title": "Paradise View",
         "url": "https://mangadex.org/manga/17966",
-        "score": 0.6895
+        "score": 0.6894,
+        "r18": false
       },
       {
         "id": 28549,
         "title": "Beautiful Days",
         "url": "https://mangadex.org/manga/28549",
-        "score": 0.6873
+        "score": 0.6873,
+        "r18": false
       },
       {
         "id": 16208,
         "title": "Kyouken Breeder",
-        "url": "https://mangadex.org/manga/16208",
-        "score": 0.6815
+        "url": "https://api.mangadex.org/v2/manga/16208",
+        "score": 0.6815,
+        "r18": false
       },
       {
         "id": 57333,
         "title": "Nigai Kajitsu",
         "url": "https://mangadex.org/manga/57333",
-        "score": 0.6791
+        "score": 0.6791,
+        "r18": false
       },
       {
         "id": 25997,
         "title": "Koinegau Horizonte",
         "url": "https://mangadex.org/manga/25997",
-        "score": 0.6716
+        "score": 0.6716,
+        "r18": false
       },
       {
         "id": 7329,
         "title": "Natsu, Kimi ga Saku.",
-        "url": "https://mangadex.org/manga/7329",
-        "score": 0.6701
+        "url": "https://api.mangadex.org/v2/manga/7329",
+        "score": 0.6701,
+        "r18": false
       },
       {
         "id": 14252,
         "title": "Maria Boy",
-        "url": "https://mangadex.org/manga/14252",
-        "score": 0.66
+        "url": "https://api.mangadex.org/v2/manga/14252",
+        "score": 0.66,
+        "r18": false
       },
       {
         "id": 13496,
         "title": "Koi no Kawaki",
-        "url": "https://mangadex.org/manga/13496",
-        "score": 0.659
+        "url": "https://api.mangadex.org/v2/manga/13496",
+        "score": 0.659,
+        "r18": false
       },
       {
         "id": 16919,
         "title": "Allure",
-        "url": "https://mangadex.org/manga/16919",
-        "score": 0.6588
+        "url": "https://api.mangadex.org/v2/manga/16919",
+        "score": 0.6588,
+        "r18": false
       },
       {
         "id": 17335,
         "title": "Karera wa Yoru ka Ame no Naka",
         "url": "https://mangadex.org/manga/17335",
-        "score": 0.6582
+        "score": 0.6582,
+        "r18": false
       },
       {
         "id": 16421,
         "title": "Hana to Ryuu",
-        "url": "https://mangadex.org/manga/16421",
-        "score": 0.6514
+        "url": "https://api.mangadex.org/v2/manga/16421",
+        "score": 0.6513,
+        "r18": false
       },
       {
         "id": 51595,
         "title": "Nakanai Hibari",
-        "url": "https://mangadex.org/manga/51595",
-        "score": 0.4893
+        "url": "https://api.mangadex.org/v2/manga/51595",
+        "score": 0.4893,
+        "r18": false
       },
       {
         "id": 28169,
         "title": "Dakedo, Ashita no Hanashi o Shiyou",
         "url": "https://mangadex.org/manga/28169",
-        "score": 0.4891
+        "score": 0.4891,
+        "r18": false
       },
       {
         "id": 55891,
         "title": "Tsuki no Hikari mo Todokudarou",
         "url": "https://mangadex.org/manga/55891",
-        "score": 0.4876
+        "score": 0.4876,
+        "r18": false
       },
       {
         "id": 58649,
         "title": "Boku-tachi Futari ga Koisuru Riyuu",
         "url": "https://mangadex.org/manga/58649",
-        "score": 0.4788
+        "score": 0.4788,
+        "r18": false
       },
       {
         "id": 19987,
         "title": "I: Episode 0",
         "url": "https://mangadex.org/manga/19987",
-        "score": 0.478
+        "score": 0.478,
+        "r18": false
       },
       {
         "id": 3777,
         "title": "Boys Love",
-        "url": "https://mangadex.org/manga/3777",
-        "score": 0.4713
+        "url": "https://api.mangadex.org/v2/manga/3777",
+        "score": 0.4713,
+        "r18": false
       }
     ],
     "matches_al": [],
@@ -2678,12 +3024,12 @@
   {
     "id": 17017,
     "title": "Rampage",
-    "url": "https://mangadex.org/manga/17017",
+    "url": "https://api.mangadex.org/v2/manga/17017",
     "description": "China: 184 A.D., a time of great turmoil. A young drifter named Zhang Fei stumbles upon a slaughtered village and encounters the volunteer army of Liu Bei. He joins them in time to help in the defense of a walled city. But later, while attempting to save the life of a little girl, he's struck by an arrow and thrown off a cliff. Rescued by two wizards, he is revived and given great powers. But the price could cost him his very soul!",
     "is_r18": false,
     "count_chapters": 0,
     "last_upload": 0,
-    "last_updated": "January 18, 2021 19:02:59 UTC",
+    "last_updated": "February 08, 2021 16:57:18 UTC",
     "rating": 0,
     "content": [],
     "demographic": [
@@ -2704,152 +3050,177 @@
       {
         "id": 4880,
         "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
-        "url": "https://mangadex.org/manga/4880",
-        "score": 0.7123
+        "url": "https://api.mangadex.org/v2/manga/4880",
+        "score": 0.7123,
+        "r18": false
       },
       {
         "id": 15165,
         "title": "Vampire Hunter D",
-        "url": "https://mangadex.org/manga/15165",
-        "score": 0.7122
+        "url": "https://api.mangadex.org/v2/manga/15165",
+        "score": 0.7122,
+        "r18": false
       },
       {
         "id": 4121,
         "title": "Shura Yukihime",
-        "url": "https://mangadex.org/manga/4121",
-        "score": 0.7108
+        "url": "https://api.mangadex.org/v2/manga/4121",
+        "score": 0.7107,
+        "r18": false
       },
       {
         "id": 28617,
         "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run",
         "url": "https://mangadex.org/manga/28617",
-        "score": 0.7042
+        "score": 0.7042,
+        "r18": false
       },
       {
         "id": 281,
         "title": "Trigun Maximum",
-        "url": "https://mangadex.org/manga/281",
-        "score": 0.7036
+        "url": "https://api.mangadex.org/v2/manga/281",
+        "score": 0.7036,
+        "r18": false
       },
       {
         "id": 42965,
         "title": "This Village Sim NPC Could Only Be Human",
         "url": "https://mangadex.org/manga/42965",
-        "score": 0.7035
+        "score": 0.7035,
+        "r18": false
       },
       {
         "id": 2500,
         "title": "ChunRangYulJun",
         "url": "https://mangadex.org/manga/2500",
-        "score": 0.7014
+        "score": 0.7014,
+        "r18": false
       },
       {
         "id": 8495,
         "title": "Persona 3",
-        "url": "https://mangadex.org/manga/8495",
-        "score": 0.7
-      },
-      {
-        "id": 3388,
-        "title": "Fate/Zero",
-        "url": "https://mangadex.org/manga/3388",
-        "score": 0.6998
+        "url": "https://api.mangadex.org/v2/manga/8495",
+        "score": 0.7,
+        "r18": false
       },
       {
         "id": 20537,
         "title": "Seirei Gensouki ~Konna Sekai de Deaeta Kimi ni~",
         "url": "https://mangadex.org/manga/20537",
-        "score": 0.6993
+        "score": 0.6993,
+        "r18": false
       },
       {
         "id": 5055,
         "title": "Souten Kouro",
-        "url": "https://mangadex.org/manga/5055",
-        "score": 0.6987
+        "url": "https://api.mangadex.org/v2/manga/5055",
+        "score": 0.6986,
+        "r18": false
       },
       {
         "id": 27151,
         "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
         "url": "https://mangadex.org/manga/27151",
-        "score": 0.6974
+        "score": 0.6974,
+        "r18": false
       },
       {
         "id": 14676,
         "title": "The Legendary Moonlight Sculptor",
-        "url": "https://mangadex.org/manga/14676",
-        "score": 0.6954
+        "url": "https://api.mangadex.org/v2/manga/14676",
+        "score": 0.6952,
+        "r18": false
       },
       {
         "id": 2110,
         "title": "Souten no Ken",
         "url": "https://mangadex.org/manga/2110",
-        "score": 0.6922
+        "score": 0.6922,
+        "r18": false
       },
       {
         "id": 309,
         "title": "Until Death Do Us Part",
-        "url": "https://mangadex.org/manga/309",
-        "score": 0.6922
+        "url": "https://api.mangadex.org/v2/manga/309",
+        "score": 0.6922,
+        "r18": false
       },
       {
         "id": 1714,
         "title": "Kara no Kyoukai - The Garden of Sinners",
         "url": "https://mangadex.org/manga/1714",
-        "score": 0.6915
+        "score": 0.6915,
+        "r18": false
       },
       {
         "id": 1985,
         "title": "Hellsing - The Dawn",
         "url": "https://mangadex.org/manga/1985",
-        "score": 0.6913
+        "score": 0.6913,
+        "r18": false
       },
       {
         "id": 9140,
         "title": "Gensou Suikoden III - Unmei no Keishousha",
-        "url": "https://mangadex.org/manga/9140",
-        "score": 0.6887
+        "url": "https://api.mangadex.org/v2/manga/9140",
+        "score": 0.6887,
+        "r18": false
       },
       {
         "id": 43914,
         "title": "The Second Coming of Gluttony",
-        "url": "https://mangadex.org/manga/43914",
-        "score": 0.6884
+        "url": "https://api.mangadex.org/v2/manga/43914",
+        "score": 0.6884,
+        "r18": false
       },
       {
         "id": 7869,
         "title": "Arashi no Hana Murakumo no Uta",
-        "url": "https://mangadex.org/manga/7869",
-        "score": 0.6875
+        "url": "https://api.mangadex.org/v2/manga/7869",
+        "score": 0.6875,
+        "r18": false
       },
       {
         "id": 17889,
         "title": "Beast of East",
         "url": "https://mangadex.org/manga/17889",
-        "score": 0.6873
+        "score": 0.6873,
+        "r18": false
       },
       {
         "id": 2662,
         "title": "Jumbor",
         "url": "https://mangadex.org/manga/2662",
-        "score": 0.6866
+        "score": 0.6865,
+        "r18": false
       },
       {
         "id": 1389,
         "title": "Superior Cross",
-        "url": "https://mangadex.org/manga/1389",
-        "score": 0.6861
+        "url": "https://api.mangadex.org/v2/manga/1389",
+        "score": 0.686,
+        "r18": false
       },
       {
         "id": 1388,
         "title": "Superior",
-        "url": "https://mangadex.org/manga/1388",
-        "score": 0.6847
+        "url": "https://api.mangadex.org/v2/manga/1388",
+        "score": 0.6849,
+        "r18": false
       },
       {
         "id": 38632,
         "title": "Vengeance of the Heavenly Demon",
-        "url": "https://mangadex.org/manga/38632",
-        "score": 0.684
+        "url": "https://api.mangadex.org/v2/manga/38632",
+        "score": 0.684,
+        "r18": false
+      },
+      {
+        "id": 3388,
+        "title": "Fate/Zero",
+        "url": "https://api.mangadex.org/v2/manga/3388",
+        "score": 0.6828,
+        "r18": false
       }
     ],
     "matches_al": [],
@@ -2865,13 +3236,13 @@
   {
     "id": 17019,
     "title": "Kakushigoto",
-    "url": "https://mangadex.org/manga/17019",
+    "url": "https://api.mangadex.org/v2/manga/17019",
     "description": "This story is about Gotou Kakushi, an artist who draws a somewhat vulgar manga, and tries to hide it for the sake of his daughter, Hime. \r\nA father-daughter tale of love and laughter.\r\n\r\n[u][b]Spanish / Espa&ntilde;ol:[/b][/u]  [spoiler]Esta historia es sobre Gotou Kakushi, un artista que dibuja un manga un tanto vulgar, e intenta ocultarlo por el bien de su hija, Hime. Un cuento de amor y risas entre padre e hija.[/spoiler]",
     "is_r18": false,
-    "count_chapters": 163,
-    "last_upload": 1603841836,
-    "last_updated": "January 18, 2021 19:03:01 UTC",
-    "rating": 8.52,
+    "count_chapters": 173,
+    "last_upload": 1611915240,
+    "last_updated": "February 08, 2021 16:57:20 UTC",
+    "rating": 8.5,
     "content": [],
     "demographic": [
       "Shounen"
@@ -2888,152 +3259,177 @@
       {
         "id": 6133,
         "title": "The Time of Cherry Blossoms",
-        "url": "https://mangadex.org/manga/6133",
-        "score": 0.6764
+        "url": "https://api.mangadex.org/v2/manga/6133",
+        "score": 0.6764,
+        "r18": false
       },
       {
         "id": 951,
         "title": "Nisekoi",
-        "url": "https://mangadex.org/manga/951",
-        "score": 0.6648
+        "url": "https://api.mangadex.org/v2/manga/951",
+        "score": 0.6648,
+        "r18": false
+      },
+      {
+        "id": 7232,
+        "title": "Cat's Eye",
+        "url": "https://api.mangadex.org/v2/manga/7232",
+        "score": 0.6505,
+        "r18": false
       },
       {
         "id": 43256,
         "title": "Let's La Gon",
         "url": "https://mangadex.org/manga/43256",
-        "score": 0.4783
+        "score": 0.4782,
+        "r18": false
       },
       {
         "id": 18526,
         "title": "Koneko Hiroimashita",
         "url": "https://mangadex.org/manga/18526",
-        "score": 0.4689
+        "score": 0.4689,
+        "r18": false
       },
       {
         "id": 10986,
         "title": "Samurai Flamenco - Another Days",
         "url": "https://mangadex.org/manga/10986",
-        "score": 0.459
+        "score": 0.459,
+        "r18": false
       },
       {
         "id": 10291,
         "title": "Koetama",
         "url": "https://mangadex.org/manga/10291",
-        "score": 0.4531
-      },
-      {
-        "id": 484,
-        "title": "Barakamon",
-        "url": "https://mangadex.org/manga/484",
-        "score": 0.3977
+        "score": 0.4531,
+        "r18": false
       },
       {
         "id": 4529,
         "title": "Koutetsu no Hanappashira",
-        "url": "https://mangadex.org/manga/4529",
-        "score": 0.3956
+        "url": "https://api.mangadex.org/v2/manga/4529",
+        "score": 0.3956,
+        "r18": false
       },
       {
         "id": 1054,
         "title": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!",
-        "url": "https://mangadex.org/manga/1054",
-        "score": 0.3913
+        "url": "https://api.mangadex.org/v2/manga/1054",
+        "score": 0.3913,
+        "r18": false
       },
       {
         "id": 5205,
         "title": "Kunimitsu no Matsuri",
-        "url": "https://mangadex.org/manga/5205",
-        "score": 0.381
+        "url": "https://api.mangadex.org/v2/manga/5205",
+        "score": 0.381,
+        "r18": false
       },
       {
         "id": 14104,
         "title": "Sakura Discord",
-        "url": "https://mangadex.org/manga/14104",
-        "score": 0.3782
+        "url": "https://api.mangadex.org/v2/manga/14104",
+        "score": 0.3782,
+        "r18": false
       },
       {
         "id": 17883,
         "title": "Taishou Otome Otogibanashi",
         "url": "https://mangadex.org/manga/17883",
-        "score": 0.3768
+        "score": 0.3768,
+        "r18": false
       },
       {
         "id": 23986,
         "title": "Urami-san wa Kyou mo Ayaui",
         "url": "https://mangadex.org/manga/23986",
-        "score": 0.3764
+        "score": 0.3764,
+        "r18": false
       },
       {
         "id": 37300,
         "title": "That Time I Rented a Little Sister",
-        "url": "https://mangadex.org/manga/37300",
-        "score": 0.3742
+        "url": "https://api.mangadex.org/v2/manga/37300",
+        "score": 0.3742,
+        "r18": false
       },
       {
         "id": 5144,
         "title": "Himawari Youchien Monogatari Aiko Desho!",
-        "url": "https://mangadex.org/manga/5144",
-        "score": 0.3716
+        "url": "https://api.mangadex.org/v2/manga/5144",
+        "score": 0.3716,
+        "r18": false
       },
       {
         "id": 13765,
         "title": "Ore to Kanojo no Moe yo Pen",
-        "url": "https://mangadex.org/manga/13765",
-        "score": 0.3715
+        "url": "https://api.mangadex.org/v2/manga/13765",
+        "score": 0.3715,
+        "r18": false
       },
       {
         "id": 9398,
         "title": "Sakurasaku Shoukougun",
         "url": "https://mangadex.org/manga/9398",
-        "score": 0.3696
+        "score": 0.3696,
+        "r18": false
+      },
+      {
+        "id": 484,
+        "title": "Barakamon",
+        "url": "https://api.mangadex.org/v2/manga/484",
+        "score": 0.3685,
+        "r18": false
       },
       {
         "id": 2869,
         "title": "School Rumble",
         "url": "https://mangadex.org/manga/2869",
-        "score": 0.3667
+        "score": 0.3666,
+        "r18": false
       },
       {
         "id": 9851,
         "title": "Hayachine!",
         "url": "https://mangadex.org/manga/9851",
-        "score": 0.366
+        "score": 0.3659,
+        "r18": false
       },
       {
         "id": 32070,
         "title": "Shounen A to Naisho no 7-ka kan.",
         "url": "https://mangadex.org/manga/32070",
-        "score": 0.3632
+        "score": 0.3632,
+        "r18": false
       },
       {
         "id": 51001,
         "title": "Bowing!",
-        "url": "https://mangadex.org/manga/51001",
-        "score": 0.3628
+        "url": "https://api.mangadex.org/v2/manga/51001",
+        "score": 0.3628,
+        "r18": false
       },
       {
         "id": 3952,
         "title": "Wood Stock",
-        "url": "https://mangadex.org/manga/3952",
-        "score": 0.3614
+        "url": "https://api.mangadex.org/v2/manga/3952",
+        "score": 0.3614,
+        "r18": false
       },
       {
         "id": 12838,
         "title": "The Royal Tutor",
-        "url": "https://mangadex.org/manga/12838",
-        "score": 0.3574
-      },
-      {
-        "id": 12983,
-        "title": "Koi to Uso",
-        "url": "https://mangadex.org/manga/12983",
-        "score": 0.3554
+        "url": "https://api.mangadex.org/v2/manga/12838",
+        "score": 0.3574,
+        "r18": false
       },
       {
         "id": 45082,
         "title": "Sennou Shitsuji",
-        "url": "https://mangadex.org/manga/45082",
-        "score": 0.3551
+        "url": "https://api.mangadex.org/v2/manga/45082",
+        "score": 0.3551,
+        "r18": false
       }
     ],
     "matches_al": [],
@@ -3061,10 +3457,10 @@
         72581
       ],
       "rec_score": [
-        19,
-        5,
+        20,
+        6,
         2,
-        5,
+        7,
         1
       ]
     }
@@ -3072,13 +3468,13 @@
   {
     "id": 17020,
     "title": "Chimamire Sukeban Chainsaw",
-    "url": "https://mangadex.org/manga/17020",
+    "url": "https://api.mangadex.org/v2/manga/17020",
     "description": "Geeko's weird, creepy, friendless classmate Nero has destroyed all of their mutual classmates, perverting them into her grotesque, monstrous minions. Now she's sending them after Geeko, the only survivor. However, Geeko is setting out, dressed in her skimpy school uniform and armed with a big chainsaw, to end Nero's mad science, no matter how many undead former friends she has to saw down on the way.\r\n\r\nInspired two live action films.",
     "is_r18": false,
     "count_chapters": 181,
     "last_upload": 1563747007,
-    "last_updated": "January 18, 2021 19:03:01 UTC",
-    "rating": 8.05,
+    "last_updated": "February 08, 2021 16:57:21 UTC",
+    "rating": 8.03,
     "content": [
       "Ecchi"
     ],
@@ -3107,154 +3503,179 @@
     ],
     "matches": [
       {
+        "id": 1024,
+        "title": "Teizokurei Monophobia",
+        "url": "https://api.mangadex.org/v2/manga/1024",
+        "score": 0.7076,
+        "r18": false
+      },
+      {
         "id": 5593,
         "title": "Kagome Kagome",
-        "url": "https://mangadex.org/manga/5593",
-        "score": 0.7032
+        "url": "https://api.mangadex.org/v2/manga/5593",
+        "score": 0.7032,
+        "r18": false
       },
       {
         "id": 13989,
         "title": "Chio-chan no Tsuugakuro",
-        "url": "https://mangadex.org/manga/13989",
-        "score": 0.6982
-      },
-      {
-        "id": 1024,
-        "title": "Teizokurei Monophobia",
-        "url": "https://mangadex.org/manga/1024",
-        "score": 0.6977
+        "url": "https://api.mangadex.org/v2/manga/13989",
+        "score": 0.6982,
+        "r18": false
       },
       {
         "id": 438,
         "title": "Sekirei",
-        "url": "https://mangadex.org/manga/438",
-        "score": 0.6977
+        "url": "https://api.mangadex.org/v2/manga/438",
+        "score": 0.6977,
+        "r18": false
       },
       {
         "id": 3594,
         "title": "Gokukoku no Brynhildr",
-        "url": "https://mangadex.org/manga/3594",
-        "score": 0.6949
+        "url": "https://api.mangadex.org/v2/manga/3594",
+        "score": 0.6949,
+        "r18": false
       },
       {
         "id": 3672,
         "title": "Full Metal Panic! &Sigma;",
-        "url": "https://mangadex.org/manga/3672",
-        "score": 0.6942
+        "url": "https://api.mangadex.org/v2/manga/3672",
+        "score": 0.6942,
+        "r18": false
       },
       {
         "id": 609,
         "title": "Musunde Hiraite",
-        "url": "https://mangadex.org/manga/609",
-        "score": 0.6938
+        "url": "https://api.mangadex.org/v2/manga/609",
+        "score": 0.6938,
+        "r18": false
       },
       {
         "id": 43,
         "title": "Freezing",
-        "url": "https://mangadex.org/manga/43",
-        "score": 0.691
+        "url": "https://api.mangadex.org/v2/manga/43",
+        "score": 0.691,
+        "r18": false
       },
       {
         "id": 537,
         "title": "Hentai Ouji to Warawanai Neko.",
-        "url": "https://mangadex.org/manga/537",
-        "score": 0.6904
+        "url": "https://api.mangadex.org/v2/manga/537",
+        "score": 0.6904,
+        "r18": false
       },
       {
         "id": 12850,
         "title": "Watari-kun no &times;&times; ga Houkai Sunzen",
-        "url": "https://mangadex.org/manga/12850",
-        "score": 0.6888
+        "url": "https://api.mangadex.org/v2/manga/12850",
+        "score": 0.6888,
+        "r18": false
       },
       {
         "id": 160,
         "title": "Saki",
-        "url": "https://mangadex.org/manga/160",
-        "score": 0.6879
+        "url": "https://api.mangadex.org/v2/manga/160",
+        "score": 0.6879,
+        "r18": false
       },
       {
         "id": 1337,
         "title": "Knights of Sidonia",
-        "url": "https://mangadex.org/manga/1337",
-        "score": 0.6875
+        "url": "https://api.mangadex.org/v2/manga/1337",
+        "score": 0.6875,
+        "r18": false
       },
       {
         "id": 577,
         "title": "Corpse Party - Musume",
-        "url": "https://mangadex.org/manga/577",
-        "score": 0.6873
+        "url": "https://api.mangadex.org/v2/manga/577",
+        "score": 0.6873,
+        "r18": false
       },
       {
         "id": 11982,
         "title": "Kenkouki - Hinokuni Daiteikokugun Kurenai Ikkitousentai",
         "url": "https://mangadex.org/manga/11982",
-        "score": 0.6863
+        "score": 0.6863,
+        "r18": false
       },
       {
         "id": 10504,
         "title": "Magika no Kenshi to Shoukan Maou",
         "url": "https://mangadex.org/manga/10504",
-        "score": 0.6861
+        "score": 0.6861,
+        "r18": false
       },
       {
         "id": 3113,
         "title": "Maoyuu Maou Yuusha - Oka no Mukou e",
-        "url": "https://mangadex.org/manga/3113",
-        "score": 0.6857
+        "url": "https://api.mangadex.org/v2/manga/3113",
+        "score": 0.6857,
+        "r18": false
       },
       {
         "id": 4967,
         "title": "Baketeriya",
-        "url": "https://mangadex.org/manga/4967",
-        "score": 0.6849
+        "url": "https://api.mangadex.org/v2/manga/4967",
+        "score": 0.6849,
+        "r18": false
       },
       {
         "id": 6985,
         "title": "Madan no Ou to Vanadis",
-        "url": "https://mangadex.org/manga/6985",
-        "score": 0.6838
+        "url": "https://api.mangadex.org/v2/manga/6985",
+        "score": 0.6838,
+        "r18": false
       },
       {
         "id": 21015,
         "title": "Real no Heroine wa Irimasen!",
         "url": "https://mangadex.org/manga/21015",
-        "score": 0.6837
+        "score": 0.6837,
+        "r18": false
       },
       {
         "id": 523,
         "title": "Unbreakable Machine-Doll",
-        "url": "https://mangadex.org/manga/523",
-        "score": 0.6836
+        "url": "https://api.mangadex.org/v2/manga/523",
+        "score": 0.6836,
+        "r18": false
       },
       {
         "id": 643,
         "title": "Maoyuu Maou Yuusha - &quot;Kono Watashi no Mono Tonare, Yuusha yo&quot; &quot;Kotowaru!&quot;",
-        "url": "https://mangadex.org/manga/643",
-        "score": 0.6836
+        "url": "https://api.mangadex.org/v2/manga/643",
+        "score": 0.6835,
+        "r18": false
       },
       {
         "id": 14333,
         "title": "Shinmai Maou no Testament Arashi!",
-        "url": "https://mangadex.org/manga/14333",
-        "score": 0.6835
+        "url": "https://api.mangadex.org/v2/manga/14333",
+        "score": 0.6835,
+        "r18": false
       },
       {
         "id": 1421,
         "title": "Zero no Tsukaima Chevalier",
-        "url": "https://mangadex.org/manga/1421",
-        "score": 0.6826
+        "url": "https://api.mangadex.org/v2/manga/1421",
+        "score": 0.6827,
+        "r18": false
       },
       {
         "id": 32290,
         "title": "High Position",
         "url": "https://mangadex.org/manga/32290",
-        "score": 0.6807
+        "score": 0.6807,
+        "r18": false
       },
       {
         "id": 22004,
         "title": "Kamen Rider W: Fuuto Tantei",
         "url": "https://mangadex.org/manga/22004",
-        "score": 0.6794
+        "score": 0.6794,
+        "r18": false
       }
     ],
     "matches_al": [],
@@ -3276,12 +3697,12 @@
   {
     "id": 17021,
     "title": "Waratte Goran",
-    "url": "https://mangadex.org/manga/17021",
+    "url": "https://api.mangadex.org/v2/manga/17021",
     "description": "An odd collection of his Monthly Jump illustrations.\r\n\r\nC'mon, smile more!",
     "is_r18": false,
     "count_chapters": 2,
     "last_upload": 1520194880,
-    "last_updated": "January 18, 2021 19:03:02 UTC",
+    "last_updated": "February 08, 2021 16:57:22 UTC",
     "rating": 7.97,
     "content": [],
     "demographic": [],
@@ -3301,12 +3722,12 @@
   {
     "id": 17022,
     "title": "Witch of the Old World",
-    "url": "https://mangadex.org/manga/17022",
+    "url": "https://api.mangadex.org/v2/manga/17022",
     "description": "A 64-page fantasy/sci-fi one-shot that ran in Afternoon. Winner of the Four Seasons Award but didn't get serialized.",
     "is_r18": false,
     "count_chapters": 1,
     "last_upload": 1517071924,
-    "last_updated": "January 18, 2021 19:03:02 UTC",
+    "last_updated": "February 08, 2021 16:57:24 UTC",
     "rating": 8.08,
     "content": [],
     "demographic": [],
@@ -3334,12 +3755,12 @@
   {
     "id": 17023,
     "title": "Ebisu Yoshikazu Collection SF &amp; Mystery Hen - Utsukushiki Shitai",
-    "url": "https://mangadex.org/manga/17023",
+    "url": "https://api.mangadex.org/v2/manga/17023",
     "description": "Collection of stories, full of absurd scenarios and dry humor.",
     "is_r18": false,
     "count_chapters": 2,
     "last_upload": 1534093729,
-    "last_updated": "January 18, 2021 19:03:03 UTC",
+    "last_updated": "February 08, 2021 16:57:25 UTC",
     "rating": 8,
     "content": [],
     "demographic": [
@@ -3358,152 +3779,177 @@
       {
         "id": 569,
         "title": "Reinouryokusha Odagiri Kyouko no Uso",
-        "url": "https://mangadex.org/manga/569",
-        "score": 0.272
+        "url": "https://api.mangadex.org/v2/manga/569",
+        "score": 0.272,
+        "r18": false
       },
       {
         "id": 5312,
         "title": "Akumu no Elevator",
-        "url": "https://mangadex.org/manga/5312",
-        "score": 0.272
+        "url": "https://api.mangadex.org/v2/manga/5312",
+        "score": 0.272,
+        "r18": false
       },
       {
         "id": 8059,
         "title": "Super Danganronpa 2 - Chou Koukoukyuu no Kouun to Kibou to Zetsubou",
-        "url": "https://mangadex.org/manga/8059",
-        "score": 0.272
+        "url": "https://api.mangadex.org/v2/manga/8059",
+        "score": 0.272,
+        "r18": false
       },
       {
         "id": 11851,
         "title": "Dorobou Night Trick",
         "url": "https://mangadex.org/manga/11851",
-        "score": 0.272
+        "score": 0.272,
+        "r18": false
       },
       {
         "id": 15270,
         "title": "Sekisei Inko",
-        "url": "https://mangadex.org/manga/15270",
-        "score": 0.272
+        "url": "https://api.mangadex.org/v2/manga/15270",
+        "score": 0.272,
+        "r18": false
       },
       {
         "id": 21273,
         "title": "Warau Salesman",
         "url": "https://mangadex.org/manga/21273",
-        "score": 0.272
+        "score": 0.272,
+        "r18": false
       },
       {
         "id": 36091,
         "title": "Uncharted Walker",
         "url": "https://mangadex.org/manga/36091",
-        "score": 0.272
+        "score": 0.272,
+        "r18": false
       },
       {
         "id": 51749,
         "title": "Dementia 21",
-        "url": "https://mangadex.org/manga/51749",
-        "score": 0.272
+        "url": "https://api.mangadex.org/v2/manga/51749",
+        "score": 0.272,
+        "r18": false
       },
       {
         "id": 4429,
         "title": "xxxHoLic",
-        "url": "https://mangadex.org/manga/4429",
-        "score": 0.2429
+        "url": "https://api.mangadex.org/v2/manga/4429",
+        "score": 0.2429,
+        "r18": false
       },
       {
         "id": 8478,
         "title": "xxxHOLiC Rei",
-        "url": "https://mangadex.org/manga/8478",
-        "score": 0.2429
+        "url": "https://api.mangadex.org/v2/manga/8478",
+        "score": 0.2429,
+        "r18": false
       },
       {
         "id": 6617,
         "title": "Joshikousei Kagishi Saki",
-        "url": "https://mangadex.org/manga/6617",
-        "score": 0.2267
+        "url": "https://api.mangadex.org/v2/manga/6617",
+        "score": 0.2267,
+        "r18": false
       },
       {
         "id": 10429,
         "title": "Sousouki Reginald",
         "url": "https://mangadex.org/manga/10429",
-        "score": 0.2267
+        "score": 0.2267,
+        "r18": false
       },
       {
         "id": 14523,
         "title": "selector infected WIXOSS - Re/verse -",
-        "url": "https://mangadex.org/manga/14523",
-        "score": 0.2267
+        "url": "https://api.mangadex.org/v2/manga/14523",
+        "score": 0.2267,
+        "r18": false
       },
       {
         "id": 15101,
         "title": "Heroes",
-        "url": "https://mangadex.org/manga/15101",
-        "score": 0.2267
+        "url": "https://api.mangadex.org/v2/manga/15101",
+        "score": 0.2267,
+        "r18": false
       },
       {
         "id": 19856,
         "title": "Isekai Houtei -Rebuttal Barrister-",
         "url": "https://mangadex.org/manga/19856",
-        "score": 0.2267
+        "score": 0.2267,
+        "r18": false
       },
       {
         "id": 28327,
         "title": "Hobgoblin - Majo to Futari",
         "url": "https://mangadex.org/manga/28327",
-        "score": 0.2267
+        "score": 0.2267,
+        "r18": false
       },
       {
         "id": 31109,
         "title": "Black Terror",
         "url": "https://mangadex.org/manga/31109",
-        "score": 0.2267
+        "score": 0.2267,
+        "r18": false
       },
       {
         "id": 1427,
         "title": "Umineko no Naku Koro ni Episode 2: Turn of the Golden Witch",
-        "url": "https://mangadex.org/manga/1427",
-        "score": 0.1943
+        "url": "https://api.mangadex.org/v2/manga/1427",
+        "score": 0.1943,
+        "r18": false
       },
       {
         "id": 1428,
         "title": "Umineko no Naku Koro ni Episode 3: Banquet of the Golden Witch",
-        "url": "https://mangadex.org/manga/1428",
-        "score": 0.1943
+        "url": "https://api.mangadex.org/v2/manga/1428",
+        "score": 0.1943,
+        "r18": false
       },
       {
         "id": 1782,
         "title": "Umineko no Naku Koro ni Episode X",
         "url": "https://mangadex.org/manga/1782",
-        "score": 0.1943
+        "score": 0.1943,
+        "r18": false
       },
       {
         "id": 2054,
         "title": "Totsugami",
         "url": "https://mangadex.org/manga/2054",
-        "score": 0.1943
+        "score": 0.1943,
+        "r18": false
       },
       {
         "id": 3646,
         "title": "Dainana Joshikai Houkou",
-        "url": "https://mangadex.org/manga/3646",
-        "score": 0.1943
+        "url": "https://api.mangadex.org/v2/manga/3646",
+        "score": 0.1943,
+        "r18": false
       },
       {
         "id": 12132,
         "title": "Wanitokagegisu",
         "url": "https://mangadex.org/manga/12132",
-        "score": 0.1943
+        "score": 0.1943,
+        "r18": false
       },
       {
         "id": 12903,
         "title": "ACCA - 13-ku Kansatsuka",
-        "url": "https://mangadex.org/manga/12903",
-        "score": 0.1943
+        "url": "https://api.mangadex.org/v2/manga/12903",
+        "score": 0.1943,
+        "r18": false
       },
       {
         "id": 14457,
         "title": "Black Out",
-        "url": "https://mangadex.org/manga/14457",
-        "score": 0.1943
+        "url": "https://api.mangadex.org/v2/manga/14457",
+        "score": 0.1943,
+        "r18": false
       }
     ],
     "matches_al": [],
@@ -3515,12 +3961,12 @@
   {
     "id": 17024,
     "title": "Ano Ko no Himitsu",
-    "url": "https://mangadex.org/manga/17024",
+    "url": "https://api.mangadex.org/v2/manga/17024",
     "description": "Moe and Natsumi have been best friends since high school. This year, during the spring, the two of them start living together! However, ever since Moe has gotten a boyfriend, Natsumi has been conducting herself in a strange manner. Suddenly, her friend's mails fill up Moe&rsquo;s cell phone screen, and she&rsquo;s pushing Moe&rsquo;s boyfriend away. Why is she doing these things&hellip;?\r\n\r\nLength:\r\nStory 1 - Ano Ko no Himitsu (Her Secret)\r\nStory 2 - Haru ga Kuru (Spring Is Coming)\r\nStory 3 - Goma no Kimochi. (Goma's Feelings.)\r\nStory 4 - Nee, Mai Da-rin (Hey, My Darling)",
     "is_r18": false,
     "count_chapters": 2,
     "last_upload": 1568519176,
-    "last_updated": "January 18, 2021 19:03:04 UTC",
+    "last_updated": "February 08, 2021 16:57:26 UTC",
     "rating": 7.95,
     "content": [],
     "demographic": [
@@ -3544,152 +3990,177 @@
       {
         "id": 784,
         "title": "Zenbu Shiritai",
-        "url": "https://mangadex.org/manga/784",
-        "score": 0.7946
+        "url": "https://api.mangadex.org/v2/manga/784",
+        "score": 0.7946,
+        "r18": false
       },
       {
         "id": 4824,
         "title": "Rabu Kare - Gokujou Men Dokuhon!",
-        "url": "https://mangadex.org/manga/4824",
-        "score": 0.7905
+        "url": "https://api.mangadex.org/v2/manga/4824",
+        "score": 0.7905,
+        "r18": false
       },
       {
         "id": 3082,
         "title": "Get Love!! ~Field no Ouji-sama~",
         "url": "https://mangadex.org/manga/3082",
-        "score": 0.7847
+        "score": 0.7847,
+        "r18": false
       },
       {
         "id": 6082,
         "title": "Yume Miru Happa",
-        "url": "https://mangadex.org/manga/6082",
-        "score": 0.7834
+        "url": "https://api.mangadex.org/v2/manga/6082",
+        "score": 0.7834,
+        "r18": false
       },
       {
         "id": 10418,
         "title": "Sonna no Koi ja Nai",
         "url": "https://mangadex.org/manga/10418",
-        "score": 0.7815
+        "score": 0.7815,
+        "r18": false
       },
       {
         "id": 11867,
         "title": "Hotarubi no Mori e",
         "url": "https://mangadex.org/manga/11867",
-        "score": 0.7795
+        "score": 0.7795,
+        "r18": false
       },
       {
         "id": 2163,
         "title": "Ninohime no Monogatari",
         "url": "https://mangadex.org/manga/2163",
-        "score": 0.7773
+        "score": 0.7772,
+        "r18": false
       },
       {
         "id": 12998,
         "title": "Fushigi na Hito",
-        "url": "https://mangadex.org/manga/12998",
-        "score": 0.7761
+        "url": "https://api.mangadex.org/v2/manga/12998",
+        "score": 0.7761,
+        "r18": false
       },
       {
         "id": 2217,
         "title": "Barairo no Ashita",
         "url": "https://mangadex.org/manga/2217",
-        "score": 0.7735
+        "score": 0.7734,
+        "r18": false
       },
       {
         "id": 5961,
         "title": "Missing Piece",
-        "url": "https://mangadex.org/manga/5961",
-        "score": 0.7703
+        "url": "https://api.mangadex.org/v2/manga/5961",
+        "score": 0.7703,
+        "r18": false
       },
       {
         "id": 8502,
         "title": "Ohimesama no Recipe",
-        "url": "https://mangadex.org/manga/8502",
-        "score": 0.7689
+        "url": "https://api.mangadex.org/v2/manga/8502",
+        "score": 0.7688,
+        "r18": false
       },
       {
         "id": 28359,
         "title": "Boku ga Utau to Kimi wa Warau kara",
         "url": "https://mangadex.org/manga/28359",
-        "score": 0.7681
+        "score": 0.768,
+        "r18": false
       },
       {
         "id": 2201,
         "title": "Onnanoko wa Koi o Suru to Mousou Shichaun Desu",
         "url": "https://mangadex.org/manga/2201",
-        "score": 0.7622
+        "score": 0.7622,
+        "r18": false
       },
       {
         "id": 3453,
         "title": "Hizamazuite Ai wo Chikae",
-        "url": "https://mangadex.org/manga/3453",
-        "score": 0.7618
+        "url": "https://api.mangadex.org/v2/manga/3453",
+        "score": 0.7618,
+        "r18": false
       },
       {
         "id": 5567,
         "title": "Guuzen ka Unmei ka",
-        "url": "https://mangadex.org/manga/5567",
-        "score": 0.7614
+        "url": "https://api.mangadex.org/v2/manga/5567",
+        "score": 0.7614,
+        "r18": false
       },
       {
         "id": 1700,
         "title": "Kono Koi wo Wasurenai",
         "url": "https://mangadex.org/manga/1700",
-        "score": 0.7613
+        "score": 0.7613,
+        "r18": false
       },
       {
         "id": 1899,
         "title": "His and Her Circumstances",
         "url": "https://mangadex.org/manga/1899",
-        "score": 0.7611
+        "score": 0.7611,
+        "r18": false
       },
       {
         "id": 490,
         "title": "Boku no Hatsukoi o Kimi ni Sasagu",
-        "url": "https://mangadex.org/manga/490",
-        "score": 0.7602
+        "url": "https://api.mangadex.org/v2/manga/490",
+        "score": 0.7602,
+        "r18": false
       },
       {
         "id": 12037,
         "title": "Rockin' \u2605 Heaven",
         "url": "https://mangadex.org/manga/12037",
-        "score": 0.7599
+        "score": 0.7598,
+        "r18": false
       },
       {
         "id": 2683,
         "title": "Hatsumei Princess",
         "url": "https://mangadex.org/manga/2683",
-        "score": 0.7595
+        "score": 0.7595,
+        "r18": false
       },
       {
         "id": 3352,
         "title": "Kimi ga Suki",
-        "url": "https://mangadex.org/manga/3352",
-        "score": 0.7591
+        "url": "https://api.mangadex.org/v2/manga/3352",
+        "score": 0.759,
+        "r18": false
       },
       {
         "id": 11788,
         "title": "Kimi to Kiss Shite Sono Ato de",
         "url": "https://mangadex.org/manga/11788",
-        "score": 0.7581
+        "score": 0.7581,
+        "r18": false
       },
       {
         "id": 4357,
         "title": "Lemon no Himegoto",
-        "url": "https://mangadex.org/manga/4357",
-        "score": 0.7578
-      },
-      {
-        "id": 10327,
-        "title": "Caramel Milk Tea",
-        "url": "https://mangadex.org/manga/10327",
-        "score": 0.7575
+        "url": "https://api.mangadex.org/v2/manga/4357",
+        "score": 0.7577,
+        "r18": false
       },
       {
         "id": 36290,
         "title": "Yasashii Te (Sakurakouji Kanoko)",
         "url": "https://mangadex.org/manga/36290",
-        "score": 0.7575
+        "score": 0.7575,
+        "r18": false
+      },
+      {
+        "id": 10327,
+        "title": "Caramel Milk Tea",
+        "url": "https://mangadex.org/manga/10327",
+        "score": 0.7575,
+        "r18": false
       }
     ],
     "matches_al": [],
@@ -3705,12 +4176,12 @@
   {
     "id": 17025,
     "title": "Kin no Angel",
-    "url": "https://mangadex.org/manga/17025",
+    "url": "https://api.mangadex.org/v2/manga/17025",
     "description": "Kogane's grandmother, who she's lived with all her life, has just passed away. With no place to go, she's sent to live with a family friend - a woman who has three sons. It turns out that Kogane is to pick one of those sons to become engaged to?!",
     "is_r18": false,
     "count_chapters": 3,
     "last_upload": 1553370369,
-    "last_updated": "January 18, 2021 19:03:04 UTC",
+    "last_updated": "February 08, 2021 16:57:28 UTC",
     "rating": 7.93,
     "content": [],
     "demographic": [
@@ -3729,152 +4200,177 @@
       {
         "id": 7816,
         "title": "Folk Tail Tonakai",
-        "url": "https://mangadex.org/manga/7816",
-        "score": 0.723
+        "url": "https://api.mangadex.org/v2/manga/7816",
+        "score": 0.7229,
+        "r18": false
       },
       {
         "id": 12037,
         "title": "Rockin' \u2605 Heaven",
         "url": "https://mangadex.org/manga/12037",
-        "score": 0.7076
+        "score": 0.7076,
+        "r18": false
       },
       {
         "id": 52958,
         "title": "I&rsquo;m the Villainess, but the Capture Targets Are Too Abnormal",
         "url": "https://mangadex.org/manga/52958",
-        "score": 0.7054
+        "score": 0.7053,
+        "r18": false
       },
       {
         "id": 24016,
         "title": "Neo Angelique",
         "url": "https://mangadex.org/manga/24016",
-        "score": 0.7049
+        "score": 0.7049,
+        "r18": false
       },
       {
         "id": 3082,
         "title": "Get Love!! ~Field no Ouji-sama~",
         "url": "https://mangadex.org/manga/3082",
-        "score": 0.7047
+        "score": 0.7047,
+        "r18": false
       },
       {
         "id": 28057,
         "title": "Hanasakeru Seishounen",
         "url": "https://mangadex.org/manga/28057",
-        "score": 0.7008
+        "score": 0.7007,
+        "r18": false
       },
       {
         "id": 6399,
         "title": "Fushigi Yuugi - Genbu Kaiden",
-        "url": "https://mangadex.org/manga/6399",
-        "score": 0.699
+        "url": "https://api.mangadex.org/v2/manga/6399",
+        "score": 0.699,
+        "r18": false
       },
       {
         "id": 1927,
         "title": "Alice in the Country of Hearts",
         "url": "https://mangadex.org/manga/1927",
-        "score": 0.6989
+        "score": 0.6988,
+        "r18": false
+      },
+      {
+        "id": 17521,
+        "title": "So Bad!",
+        "url": "https://mangadex.org/manga/17521",
+        "score": 0.6977,
+        "r18": false
       },
       {
         "id": 47165,
         "title": "When You're Targeted by the Bully",
         "url": "https://mangadex.org/manga/47165",
-        "score": 0.6973
+        "score": 0.6973,
+        "r18": false
       },
       {
         "id": 8708,
         "title": "Zero Count",
-        "url": "https://mangadex.org/manga/8708",
-        "score": 0.697
+        "url": "https://api.mangadex.org/v2/manga/8708",
+        "score": 0.6969,
+        "r18": false
+      },
+      {
+        "id": 51318,
+        "title": "Truthfully, They Only Remembered Her",
+        "url": "https://api.mangadex.org/v2/manga/51318",
+        "score": 0.6925,
+        "r18": false
       },
       {
         "id": 5140,
         "title": "Houou Gakuen Misoragumi",
-        "url": "https://mangadex.org/manga/5140",
-        "score": 0.6902
+        "url": "https://api.mangadex.org/v2/manga/5140",
+        "score": 0.6901,
+        "r18": false
       },
       {
         "id": 461,
         "title": "Shiawase Kissa Sanchoume",
-        "url": "https://mangadex.org/manga/461",
-        "score": 0.6896
+        "url": "https://api.mangadex.org/v2/manga/461",
+        "score": 0.6895,
+        "r18": false
       },
       {
         "id": 47722,
         "title": "A Bellicose Lady Got Reincarnated?!",
         "url": "https://mangadex.org/manga/47722",
-        "score": 0.6887
+        "score": 0.6887,
+        "r18": false
       },
       {
         "id": 3709,
         "title": "Hana Yori Dango",
-        "url": "https://mangadex.org/manga/3709",
-        "score": 0.6868
+        "url": "https://api.mangadex.org/v2/manga/3709",
+        "score": 0.6867,
+        "r18": false
+      },
+      {
+        "id": 17165,
+        "title": "Bara Kangoku no Kemono-tachi",
+        "url": "https://mangadex.org/manga/17165",
+        "score": 0.6866,
+        "r18": false
       },
       {
         "id": 4931,
         "title": "SWAN",
-        "url": "https://mangadex.org/manga/4931",
-        "score": 0.6825
+        "url": "https://api.mangadex.org/v2/manga/4931",
+        "score": 0.6825,
+        "r18": false
       },
       {
         "id": 11945,
         "title": "Okobore Hime to Entaku no Kishi",
         "url": "https://mangadex.org/manga/11945",
-        "score": 0.6818
+        "score": 0.6818,
+        "r18": false
       },
       {
         "id": 227,
         "title": "Akuma to Love Song",
-        "url": "https://mangadex.org/manga/227",
-        "score": 0.681
+        "url": "https://api.mangadex.org/v2/manga/227",
+        "score": 0.681,
+        "r18": false
+      },
+      {
+        "id": 17353,
+        "title": "Dakedo Happy Paradise",
+        "url": "https://mangadex.org/manga/17353",
+        "score": 0.6784,
+        "r18": false
       },
       {
         "id": 3611,
         "title": "Kyuukyoku Venus",
-        "url": "https://mangadex.org/manga/3611",
-        "score": 0.6779
+        "url": "https://api.mangadex.org/v2/manga/3611",
+        "score": 0.6778,
+        "r18": false
       },
       {
         "id": 4938,
         "title": "Midnight Children",
-        "url": "https://mangadex.org/manga/4938",
-        "score": 0.6774
+        "url": "https://api.mangadex.org/v2/manga/4938",
+        "score": 0.6773,
+        "r18": false
       },
       {
-        "id": 51318,
-        "title": "Truthfully, They Only Remembered Her",
-        "url": "https://mangadex.org/manga/51318",
-        "score": 0.6741
+        "id": 4802,
+        "title": "Junketsu + Kareshi",
+        "url": "https://api.mangadex.org/v2/manga/4802",
+        "score": 0.6682,
+        "r18": false
       },
       {
         "id": 205,
         "title": "Barajou no Kiss",
-        "url": "https://mangadex.org/manga/205",
-        "score": 0.6654
-      },
-      {
-        "id": 3649,
-        "title": "Tsuki no Shippo",
-        "url": "https://mangadex.org/manga/3649",
-        "score": 0.6651
-      },
-      {
-        "id": 50943,
-        "title": "World's End Harem ~Britannia Lumie\u0300re~",
-        "url": "https://mangadex.org/manga/50943",
-        "score": 0.6647
-      },
-      {
-        "id": 38505,
-        "title": "Master of the Divine Beasts",
-        "url": "https://mangadex.org/manga/38505",
-        "score": 0.6625
-      },
-      {
-        "id": 35281,
-        "title": "The Reincarnated Princess Strikes Down Flags Today as Well",
-        "url": "https://mangadex.org/manga/35281",
-        "score": 0.6594
+        "url": "https://api.mangadex.org/v2/manga/205",
+        "score": 0.6653,
+        "r18": false
       }
     ],
     "matches_al": [],
@@ -3890,12 +4386,12 @@
   {
     "id": 17027,
     "title": "Bikou Root",
-    "url": "https://mangadex.org/manga/17027",
+    "url": "https://api.mangadex.org/v2/manga/17027",
     "description": "Ichiko has idolized Arashi-sempai from a far, ever since she saw him play in his band a year ago.\r\n\r\nWhen she accidentally damages his right hand, she promises to become his right hand and do everything he needs until he recovers. Will this be the chance she's always wanted to get close to him, or will it prove to be more than she can handle?",
     "is_r18": false,
     "count_chapters": 1,
     "last_upload": 1527799428,
-    "last_updated": "January 18, 2021 19:03:05 UTC",
+    "last_updated": "February 08, 2021 16:57:30 UTC",
     "rating": 7.85,
     "content": [],
     "demographic": [
@@ -3918,151 +4414,176 @@
         "id": 28359,
         "title": "Boku ga Utau to Kimi wa Warau kara",
         "url": "https://mangadex.org/manga/28359",
-        "score": 0.764
+        "score": 0.764,
+        "r18": false
       },
       {
         "id": 1371,
         "title": "Penguin Prince",
-        "url": "https://mangadex.org/manga/1371",
-        "score": 0.757
+        "url": "https://api.mangadex.org/v2/manga/1371",
+        "score": 0.757,
+        "r18": false
       },
       {
         "id": 174,
         "title": "Forget About Love",
-        "url": "https://mangadex.org/manga/174",
-        "score": 0.7559
+        "url": "https://api.mangadex.org/v2/manga/174",
+        "score": 0.7559,
+        "r18": false
       },
       {
         "id": 4824,
         "title": "Rabu Kare - Gokujou Men Dokuhon!",
-        "url": "https://mangadex.org/manga/4824",
-        "score": 0.7534
+        "url": "https://api.mangadex.org/v2/manga/4824",
+        "score": 0.7534,
+        "r18": false
       },
       {
         "id": 3381,
         "title": "Koi ni Naru Made",
-        "url": "https://mangadex.org/manga/3381",
-        "score": 0.751
+        "url": "https://api.mangadex.org/v2/manga/3381",
+        "score": 0.751,
+        "r18": false
       },
       {
         "id": 784,
         "title": "Zenbu Shiritai",
-        "url": "https://mangadex.org/manga/784",
-        "score": 0.7495
+        "url": "https://api.mangadex.org/v2/manga/784",
+        "score": 0.7495,
+        "r18": false
       },
       {
         "id": 12998,
         "title": "Fushigi na Hito",
-        "url": "https://mangadex.org/manga/12998",
-        "score": 0.7493
+        "url": "https://api.mangadex.org/v2/manga/12998",
+        "score": 0.7493,
+        "r18": false
       },
       {
         "id": 3076,
         "title": "Kanchigai Musume to Buchigire Ouji",
         "url": "https://mangadex.org/manga/3076",
-        "score": 0.7488
+        "score": 0.7488,
+        "r18": false
       },
       {
         "id": 3480,
         "title": "Sweet 16",
-        "url": "https://mangadex.org/manga/3480",
-        "score": 0.7487
+        "url": "https://api.mangadex.org/v2/manga/3480",
+        "score": 0.7487,
+        "r18": false
       },
       {
         "id": 204,
         "title": "Kore wa Koi no Hanashi",
-        "url": "https://mangadex.org/manga/204",
-        "score": 0.7388
+        "url": "https://api.mangadex.org/v2/manga/204",
+        "score": 0.7387,
+        "r18": false
       },
       {
         "id": 3082,
         "title": "Get Love!! ~Field no Ouji-sama~",
         "url": "https://mangadex.org/manga/3082",
-        "score": 0.7361
+        "score": 0.7361,
+        "r18": false
       },
       {
         "id": 6862,
         "title": "Bokura wa Itsumo",
-        "url": "https://mangadex.org/manga/6862",
-        "score": 0.735
+        "url": "https://api.mangadex.org/v2/manga/6862",
+        "score": 0.735,
+        "r18": false
       },
       {
         "id": 44432,
         "title": "Just a Girl He Knows",
-        "url": "https://mangadex.org/manga/44432",
-        "score": 0.734
+        "url": "https://api.mangadex.org/v2/manga/44432",
+        "score": 0.734,
+        "r18": false
       },
       {
         "id": 2683,
         "title": "Hatsumei Princess",
         "url": "https://mangadex.org/manga/2683",
-        "score": 0.7335
+        "score": 0.7334,
+        "r18": false
       },
       {
         "id": 16007,
         "title": "Present",
-        "url": "https://mangadex.org/manga/16007",
-        "score": 0.732
+        "url": "https://api.mangadex.org/v2/manga/16007",
+        "score": 0.732,
+        "r18": false
       },
       {
         "id": 6515,
         "title": "Himikoi",
-        "url": "https://mangadex.org/manga/6515",
-        "score": 0.732
+        "url": "https://api.mangadex.org/v2/manga/6515",
+        "score": 0.732,
+        "r18": false
       },
       {
         "id": 4843,
         "title": "Hanjuku Hime",
-        "url": "https://mangadex.org/manga/4843",
-        "score": 0.7314
+        "url": "https://api.mangadex.org/v2/manga/4843",
+        "score": 0.7314,
+        "r18": false
       },
       {
         "id": 7481,
         "title": "Zenbu Chodai",
-        "url": "https://mangadex.org/manga/7481",
-        "score": 0.7313
+        "url": "https://api.mangadex.org/v2/manga/7481",
+        "score": 0.7313,
+        "r18": false
       },
       {
         "id": 491,
         "title": "Ao Haru Ride",
-        "url": "https://mangadex.org/manga/491",
-        "score": 0.7303
+        "url": "https://api.mangadex.org/v2/manga/491",
+        "score": 0.7303,
+        "r18": false
       },
       {
         "id": 5988,
         "title": "Itazura na Kiss",
-        "url": "https://mangadex.org/manga/5988",
-        "score": 0.7298
+        "url": "https://api.mangadex.org/v2/manga/5988",
+        "score": 0.7298,
+        "r18": false
       },
       {
         "id": 2139,
         "title": "I Love Her",
         "url": "https://mangadex.org/manga/2139",
-        "score": 0.7295
+        "score": 0.7295,
+        "r18": false
       },
       {
         "id": 5855,
         "title": "Cream Caramel",
-        "url": "https://mangadex.org/manga/5855",
-        "score": 0.7292
+        "url": "https://api.mangadex.org/v2/manga/5855",
+        "score": 0.7292,
+        "r18": false
       },
       {
         "id": 7181,
         "title": "Seishun Survival",
-        "url": "https://mangadex.org/manga/7181",
-        "score": 0.7288
+        "url": "https://api.mangadex.org/v2/manga/7181",
+        "score": 0.7288,
+        "r18": false
       },
       {
         "id": 2201,
         "title": "Onnanoko wa Koi o Suru to Mousou Shichaun Desu",
         "url": "https://mangadex.org/manga/2201",
-        "score": 0.7285
+        "score": 0.7285,
+        "r18": false
       },
       {
         "id": 6082,
         "title": "Yume Miru Happa",
-        "url": "https://mangadex.org/manga/6082",
-        "score": 0.7283
+        "url": "https://api.mangadex.org/v2/manga/6082",
+        "score": 0.7283,
+        "r18": false
       }
     ],
     "matches_al": [],
@@ -4090,12 +4611,12 @@
   {
     "id": 17028,
     "title": "Girl Crazy",
-    "url": "https://mangadex.org/manga/17028",
+    "url": "https://api.mangadex.org/v2/manga/17028",
     "description": "Miku is on the same tennis team as her childhood crush, Tomo-nii.\r\nNot only can this guy kick ass in tennis, he's also good-looking and super nice! The only thing that Miku doesn't like about him is his brother, Natsume. Completely opposite from his older brother, Natsume is known to play girls, and be a basic cocky pain in the neck.\r\nBut one day, Miku finds out something about him that ends up shocking her to no end...!!",
     "is_r18": false,
     "count_chapters": 0,
     "last_upload": 0,
-    "last_updated": "January 18, 2021 19:03:06 UTC",
+    "last_updated": "February 08, 2021 16:57:31 UTC",
     "rating": 0,
     "content": [],
     "demographic": [
@@ -4117,151 +4638,176 @@
         "id": 3076,
         "title": "Kanchigai Musume to Buchigire Ouji",
         "url": "https://mangadex.org/manga/3076",
-        "score": 0.7358
+        "score": 0.7358,
+        "r18": false
       },
       {
         "id": 12998,
         "title": "Fushigi na Hito",
-        "url": "https://mangadex.org/manga/12998",
-        "score": 0.7337
+        "url": "https://api.mangadex.org/v2/manga/12998",
+        "score": 0.7337,
+        "r18": false
       },
       {
         "id": 6009,
         "title": "Tennen Bitter Chocolate",
-        "url": "https://mangadex.org/manga/6009",
-        "score": 0.7319
+        "url": "https://api.mangadex.org/v2/manga/6009",
+        "score": 0.7319,
+        "r18": false
       },
       {
         "id": 1371,
         "title": "Penguin Prince",
-        "url": "https://mangadex.org/manga/1371",
-        "score": 0.7315
+        "url": "https://api.mangadex.org/v2/manga/1371",
+        "score": 0.7315,
+        "r18": false
       },
       {
         "id": 784,
         "title": "Zenbu Shiritai",
-        "url": "https://mangadex.org/manga/784",
-        "score": 0.7305
+        "url": "https://api.mangadex.org/v2/manga/784",
+        "score": 0.7305,
+        "r18": false
       },
       {
         "id": 28359,
         "title": "Boku ga Utau to Kimi wa Warau kara",
         "url": "https://mangadex.org/manga/28359",
-        "score": 0.729
+        "score": 0.729,
+        "r18": false
       },
       {
         "id": 3453,
         "title": "Hizamazuite Ai wo Chikae",
-        "url": "https://mangadex.org/manga/3453",
-        "score": 0.7276
+        "url": "https://api.mangadex.org/v2/manga/3453",
+        "score": 0.7276,
+        "r18": false
       },
       {
         "id": 3133,
         "title": "Shanimuni Go",
-        "url": "https://mangadex.org/manga/3133",
-        "score": 0.726
+        "url": "https://api.mangadex.org/v2/manga/3133",
+        "score": 0.726,
+        "r18": false
       },
       {
         "id": 7481,
         "title": "Zenbu Chodai",
-        "url": "https://mangadex.org/manga/7481",
-        "score": 0.7259
+        "url": "https://api.mangadex.org/v2/manga/7481",
+        "score": 0.7259,
+        "r18": false
       },
       {
         "id": 7181,
         "title": "Seishun Survival",
-        "url": "https://mangadex.org/manga/7181",
-        "score": 0.7256
+        "url": "https://api.mangadex.org/v2/manga/7181",
+        "score": 0.7256,
+        "r18": false
       },
       {
         "id": 5961,
         "title": "Missing Piece",
-        "url": "https://mangadex.org/manga/5961",
-        "score": 0.7255
+        "url": "https://api.mangadex.org/v2/manga/5961",
+        "score": 0.7255,
+        "r18": false
       },
       {
         "id": 731,
         "title": "Stardust Wink",
-        "url": "https://mangadex.org/manga/731",
-        "score": 0.725
+        "url": "https://api.mangadex.org/v2/manga/731",
+        "score": 0.725,
+        "r18": false
       },
       {
         "id": 3159,
         "title": "Kataomoi no Mukougawa",
-        "url": "https://mangadex.org/manga/3159",
-        "score": 0.7249
+        "url": "https://api.mangadex.org/v2/manga/3159",
+        "score": 0.7249,
+        "r18": false
       },
       {
         "id": 490,
         "title": "Boku no Hatsukoi o Kimi ni Sasagu",
-        "url": "https://mangadex.org/manga/490",
-        "score": 0.7231
+        "url": "https://api.mangadex.org/v2/manga/490",
+        "score": 0.7231,
+        "r18": false
       },
       {
         "id": 6862,
         "title": "Bokura wa Itsumo",
-        "url": "https://mangadex.org/manga/6862",
-        "score": 0.7229
+        "url": "https://api.mangadex.org/v2/manga/6862",
+        "score": 0.7229,
+        "r18": false
       },
       {
         "id": 28134,
         "title": "Kareki ni Koi o Sakasemasu",
         "url": "https://mangadex.org/manga/28134",
-        "score": 0.7226
+        "score": 0.7226,
+        "r18": false
       },
       {
         "id": 4353,
         "title": "Sprout",
-        "url": "https://mangadex.org/manga/4353",
-        "score": 0.7224
+        "url": "https://api.mangadex.org/v2/manga/4353",
+        "score": 0.7223,
+        "r18": false
       },
       {
         "id": 11421,
         "title": "Pii Natsu ga Ippai",
         "url": "https://mangadex.org/manga/11421",
-        "score": 0.7219
+        "score": 0.7219,
+        "r18": false
       },
       {
         "id": 204,
         "title": "Kore wa Koi no Hanashi",
-        "url": "https://mangadex.org/manga/204",
-        "score": 0.7198
+        "url": "https://api.mangadex.org/v2/manga/204",
+        "score": 0.7198,
+        "r18": false
       },
       {
         "id": 1973,
         "title": "otona&hearts;pink",
         "url": "https://mangadex.org/manga/1973",
-        "score": 0.7197
+        "score": 0.7197,
+        "r18": false
       },
       {
         "id": 17501,
         "title": "Taranta Ranta",
         "url": "https://mangadex.org/manga/17501",
-        "score": 0.719
+        "score": 0.719,
+        "r18": false
       },
       {
         "id": 5362,
         "title": "Megane ~ Hazushitemo Iidesuka?",
-        "url": "https://mangadex.org/manga/5362",
-        "score": 0.7178
+        "url": "https://api.mangadex.org/v2/manga/5362",
+        "score": 0.7178,
+        "r18": false
       },
       {
         "id": 6082,
         "title": "Yume Miru Happa",
-        "url": "https://mangadex.org/manga/6082",
-        "score": 0.7167
+        "url": "https://api.mangadex.org/v2/manga/6082",
+        "score": 0.7167,
+        "r18": false
       },
       {
         "id": 2139,
         "title": "I Love Her",
         "url": "https://mangadex.org/manga/2139",
-        "score": 0.7165
+        "score": 0.7165,
+        "r18": false
       },
       {
         "id": 4824,
         "title": "Rabu Kare - Gokujou Men Dokuhon!",
-        "url": "https://mangadex.org/manga/4824",
-        "score": 0.7165
+        "url": "https://api.mangadex.org/v2/manga/4824",
+        "score": 0.7165,
+        "r18": false
       }
     ],
     "matches_al": [],
@@ -4273,12 +4819,12 @@
   {
     "id": 17029,
     "title": "Boku no Himitsu wo Oshiete Ageru",
-    "url": "https://mangadex.org/manga/17029",
+    "url": "https://api.mangadex.org/v2/manga/17029",
     "description": "From Shogakukan:\r\n\r\n- I Tell You My Secret\r\n\r\nNaho Amatsuki, a seventeen-year-old girl, went to see a live performance of &quot;Brash&quot; for the first time, and she loved &quot;Gaku&quot; at first sight. &quot;Gaku&quot; is known as a man who takes out girls. Naho was literally taken out by him. What the true character of &quot;Gaku&quot;? Lovely, cute short-piece stories written by Kaori for Monthly Cheese are collected.\r\n\r\n- Summer Flower Magic",
     "is_r18": false,
     "count_chapters": 0,
     "last_upload": 0,
-    "last_updated": "January 18, 2021 19:03:06 UTC",
+    "last_updated": "February 08, 2021 16:57:32 UTC",
     "rating": 7.88,
     "content": [
       "Smut"
@@ -4300,151 +4846,176 @@
         "id": 27804,
         "title": "Mayu-tan no Tokimeki Note",
         "url": "https://mangadex.org/manga/27804",
-        "score": 0.6773
+        "score": 0.6773,
+        "r18": false
       },
       {
         "id": 13850,
         "title": "Kanojo no Honnou",
-        "url": "https://mangadex.org/manga/13850",
-        "score": 0.6759
+        "url": "https://api.mangadex.org/v2/manga/13850",
+        "score": 0.6759,
+        "r18": false
       },
       {
         "id": 17139,
         "title": "Dare ni mo Himitsu no Koi Monogatari",
         "url": "https://mangadex.org/manga/17139",
-        "score": 0.675
+        "score": 0.675,
+        "r18": false
       },
       {
         "id": 3331,
         "title": "17-Sai",
-        "url": "https://mangadex.org/manga/3331",
-        "score": 0.6669
+        "url": "https://api.mangadex.org/v2/manga/3331",
+        "score": 0.6669,
+        "r18": false
       },
       {
         "id": 7488,
         "title": "Houkago, Seifuku o Nui de",
-        "url": "https://mangadex.org/manga/7488",
-        "score": 0.6664
+        "url": "https://api.mangadex.org/v2/manga/7488",
+        "score": 0.6664,
+        "r18": false
       },
       {
         "id": 27742,
         "title": "Pink no Idenshi",
         "url": "https://mangadex.org/manga/27742",
-        "score": 0.6591
+        "score": 0.6591,
+        "r18": false
       },
       {
         "id": 2912,
         "title": "Uwasa no Midori-kun!!",
         "url": "https://mangadex.org/manga/2912",
-        "score": 0.6582
+        "score": 0.6581,
+        "r18": false
       },
       {
         "id": 15954,
         "title": "Motokare&larr;Retry",
-        "url": "https://mangadex.org/manga/15954",
-        "score": 0.6563
+        "url": "https://api.mangadex.org/v2/manga/15954",
+        "score": 0.6563,
+        "r18": false
       },
       {
         "id": 6068,
         "title": "Dokyusei H Kara Hajimaru Koi",
-        "url": "https://mangadex.org/manga/6068",
-        "score": 0.6536
+        "url": "https://api.mangadex.org/v2/manga/6068",
+        "score": 0.6535,
+        "r18": false
       },
       {
         "id": 3667,
         "title": "Yurusarete Inai Watashitachi",
-        "url": "https://mangadex.org/manga/3667",
-        "score": 0.6512
+        "url": "https://api.mangadex.org/v2/manga/3667",
+        "score": 0.6512,
+        "r18": false
       },
       {
         "id": 28074,
         "title": "Hoshigari Love Dollar",
         "url": "https://mangadex.org/manga/28074",
-        "score": 0.6503
+        "score": 0.6503,
+        "r18": false
       },
       {
         "id": 5863,
         "title": "Biyaku Kyoushi",
-        "url": "https://mangadex.org/manga/5863",
-        "score": 0.4825
+        "url": "https://api.mangadex.org/v2/manga/5863",
+        "score": 0.4825,
+        "r18": false
       },
       {
         "id": 5846,
         "title": "Dekiai Paradox",
-        "url": "https://mangadex.org/manga/5846",
-        "score": 0.4777
+        "url": "https://api.mangadex.org/v2/manga/5846",
+        "score": 0.4777,
+        "r18": false
       },
       {
         "id": 3044,
         "title": "Otona no Jikan",
         "url": "https://mangadex.org/manga/3044",
-        "score": 0.4742
+        "score": 0.4741,
+        "r18": false
       },
       {
         "id": 17544,
         "title": "Yoru Koi",
         "url": "https://mangadex.org/manga/17544",
-        "score": 0.4718
+        "score": 0.4717,
+        "r18": false
       },
       {
         "id": 11545,
         "title": "17-Sai Natsu - Seifuku no Jouji",
         "url": "https://mangadex.org/manga/11545",
-        "score": 0.4696
+        "score": 0.4695,
+        "r18": false
       },
       {
         "id": 9444,
         "title": "Dakara Ore ni Shina yo",
         "url": "https://mangadex.org/manga/9444",
-        "score": 0.4651
+        "score": 0.4651,
+        "r18": false
       },
       {
         "id": 27769,
         "title": "Sex=Love&sup2;",
         "url": "https://mangadex.org/manga/27769",
-        "score": 0.4322
+        "score": 0.4321,
+        "r18": false
       },
       {
         "id": 9438,
         "title": "Katsuai - Dakaretai",
         "url": "https://mangadex.org/manga/9438",
-        "score": 0.4182
+        "score": 0.4182,
+        "r18": false
       },
       {
         "id": 2155,
         "title": "Momoiro Heaven!",
         "url": "https://mangadex.org/manga/2155",
-        "score": 0.4169
+        "score": 0.4169,
+        "r18": false
       },
       {
         "id": 9214,
         "title": "Yoru Made Matenai.",
-        "url": "https://mangadex.org/manga/9214",
-        "score": 0.413
+        "url": "https://api.mangadex.org/v2/manga/9214",
+        "score": 0.4129,
+        "r18": false
       },
       {
         "id": 2911,
         "title": "Royal Seventeen",
         "url": "https://mangadex.org/manga/2911",
-        "score": 0.4073
+        "score": 0.4072,
+        "r18": false
       },
       {
         "id": 17306,
         "title": "Shite Wagamama H",
         "url": "https://mangadex.org/manga/17306",
-        "score": 0.4051
+        "score": 0.4051,
+        "r18": false
       },
       {
         "id": 14944,
         "title": "Choukyouai",
-        "url": "https://mangadex.org/manga/14944",
-        "score": 0.4036
+        "url": "https://api.mangadex.org/v2/manga/14944",
+        "score": 0.4036,
+        "r18": false
       },
       {
         "id": 9016,
         "title": "Rabu Ho na Kankei  ~ Limited Lovers ~",
-        "url": "https://mangadex.org/manga/9016",
-        "score": 0.4019
+        "url": "https://api.mangadex.org/v2/manga/9016",
+        "score": 0.4019,
+        "r18": false
       }
     ],
     "matches_al": [],

@@ -1,8 +1,8 @@
 {
   "id": 16649,
   "title": "1F - An Account of the Cleanup at Fukushima Daiichi Nuclear Power Plant",
-  "url": "https://mangadex.org/manga/16649",
-  "last_updated": "January 18, 2021 18:59:17 UTC",
+  "url": "https://api.mangadex.org/v2/manga/16649",
+  "last_updated": "February 08, 2021 16:50:22 UTC",
   "matches": [
     {
       "id": 9247,
@@ -79,7 +79,13 @@
     {
       "id": 14974,
       "title": "Kono Sekai no Katasumini",
-      "score": 0.329,
+      "score": 0.328,
+      "r18": false
+    },
+    {
+      "id": 8763,
+      "title": "Adolf ni Tsugu",
+      "score": 0.326,
       "r18": false
     },
     {
@@ -97,7 +103,7 @@
     {
       "id": 897,
       "title": "Boku wa Beatles",
-      "score": 0.279,
+      "score": 0.278,
       "r18": false
     },
     {
@@ -133,25 +139,19 @@
     {
       "id": 4242,
       "title": "Hyouge Mono",
-      "score": 0.239,
+      "score": 0.24,
       "r18": false
     },
     {
       "id": 57459,
       "title": "Tensei! Takenaka hanbei \u301c maina bushou ni tensei shita nakama-tachi to sengokuranse wo ikinuku \u301c",
-      "score": 0.237,
+      "score": 0.238,
       "r18": false
     },
     {
       "id": 21562,
       "title": "Kusuriya no Hitorigoto",
       "score": 0.23,
-      "r18": false
-    },
-    {
-      "id": 45499,
-      "title": "Jeong-Nyeon",
-      "score": 0.228,
       "r18": false
     }
   ]

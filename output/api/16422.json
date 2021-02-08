@@ -1,8 +1,8 @@
 {
   "id": 16422,
   "title": "Atlantid",
-  "url": "https://mangadex.org/manga/16422",
-  "last_updated": "January 18, 2021 18:57:00 UTC",
+  "url": "https://api.mangadex.org/v2/manga/16422",
+  "last_updated": "February 08, 2021 16:46:27 UTC",
   "matches": [
     {
       "id": 5258,
@@ -47,12 +47,6 @@
       "r18": false
     },
     {
-      "id": 336,
-      "title": "Kuroshitsuji",
-      "score": 0.709,
-      "r18": false
-    },
-    {
       "id": 18729,
       "title": "Kidou Senshi Gundam - Tekketsu no Orphans Gekkou",
       "score": 0.707,
@@ -67,7 +61,7 @@
     {
       "id": 5274,
       "title": "Nijiiro Togarashi",
-      "score": 0.703,
+      "score": 0.702,
       "r18": false
     },
     {
@@ -110,6 +104,12 @@
       "id": 29067,
       "title": "Stop The World",
       "score": 0.689,
+      "r18": false
+    },
+    {
+      "id": 336,
+      "title": "Kuroshitsuji",
+      "score": 0.686,
       "r18": false
     },
     {

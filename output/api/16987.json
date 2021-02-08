@@ -1,8 +1,8 @@
 {
   "id": 16987,
   "title": "Stellar Transformations",
-  "url": "https://mangadex.org/manga/16987",
-  "last_updated": "January 18, 2021 19:02:39 UTC",
+  "url": "https://api.mangadex.org/v2/manga/16987",
+  "last_updated": "February 08, 2021 16:56:41 UTC",
   "matches": [
     {
       "id": 59732,
@@ -35,12 +35,6 @@
       "r18": false
     },
     {
-      "id": 3388,
-      "title": "Fate/Zero",
-      "score": 0.758,
-      "r18": false
-    },
-    {
       "id": 2340,
       "title": "Fate/stay night",
       "score": 0.755,
@@ -55,7 +49,7 @@
     {
       "id": 19671,
       "title": "Sword Art Online - Project Alicization",
-      "score": 0.753,
+      "score": 0.754,
       "r18": false
     },
     {
@@ -121,7 +115,7 @@
     {
       "id": 38835,
       "title": "Negawakuba no Konote ni Koufuku Wo",
-      "score": 0.743,
+      "score": 0.742,
       "r18": false
     },
     {
@@ -131,14 +125,14 @@
       "r18": false
     },
     {
-      "id": 16807,
-      "title": "Shunkan Lyle",
+      "id": 55365,
+      "title": "MEMORIZE",
       "score": 0.742,
       "r18": false
     },
     {
-      "id": 55365,
-      "title": "MEMORIZE",
+      "id": 16807,
+      "title": "Shunkan Lyle",
       "score": 0.742,
       "r18": false
     },
@@ -152,6 +146,12 @@
       "id": 20288,
       "title": "World Teacher &ndash; Other World Style Education &amp; Agent",
       "score": 0.742,
+      "r18": false
+    },
+    {
+      "id": 17916,
+      "title": "Hachinan tte, Sore wa Nai Deshou!",
+      "score": 0.741,
       "r18": false
     }
   ]

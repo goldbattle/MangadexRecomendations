@@ -1,8 +1,8 @@
 {
   "id": 16530,
   "title": "Senpai, Oshiete Kudasai",
-  "url": "https://mangadex.org/manga/16530",
-  "last_updated": "January 18, 2021 18:58:07 UTC",
+  "url": "https://api.mangadex.org/v2/manga/16530",
+  "last_updated": "February 08, 2021 16:48:23 UTC",
   "matches": [
     {
       "id": 27780,
@@ -25,6 +25,12 @@
     {
       "id": 44107,
       "title": "The Great Prophet Is Running From Her Previous Life",
+      "score": 0.747,
+      "r18": false
+    },
+    {
+      "id": 59999,
+      "title": "Save Me, Princess",
       "score": 0.747,
       "r18": false
     },
@@ -113,6 +119,12 @@
       "r18": false
     },
     {
+      "id": 51318,
+      "title": "Truthfully, They Only Remembered Her",
+      "score": 0.734,
+      "r18": false
+    },
+    {
       "id": 10418,
       "title": "Sonna no Koi ja Nai",
       "score": 0.734,
@@ -140,18 +152,6 @@
       "id": 40835,
       "title": "I Became the Emperor's Daughter One Day",
       "score": 0.732,
-      "r18": false
-    },
-    {
-      "id": 8689,
-      "title": "Hoshizora no Karasu",
-      "score": 0.732,
-      "r18": false
-    },
-    {
-      "id": 8003,
-      "title": "Sakurahime Kaden",
-      "score": 0.731,
       "r18": false
     }
   ]

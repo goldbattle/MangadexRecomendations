@@ -1,15 +1,9 @@
 {
   "id": 16751,
   "title": "Kao ni Dasenai Yoshizawa-kun",
-  "url": "https://mangadex.org/manga/16751",
-  "last_updated": "January 18, 2021 19:00:18 UTC",
+  "url": "https://api.mangadex.org/v2/manga/16751",
+  "last_updated": "February 08, 2021 16:52:11 UTC",
   "matches": [
-    {
-      "id": 12896,
-      "title": "Handa-kun",
-      "score": 0.701,
-      "r18": false
-    },
     {
       "id": 1293,
       "title": "Miyuki",
@@ -31,7 +25,7 @@
     {
       "id": 18,
       "title": "Prunus Girl",
-      "score": 0.679,
+      "score": 0.68,
       "r18": false
     },
     {
@@ -49,7 +43,7 @@
     {
       "id": 32081,
       "title": "Bokutachi no Remake",
-      "score": 0.677,
+      "score": 0.678,
       "r18": false
     },
     {
@@ -61,12 +55,6 @@
     {
       "id": 278,
       "title": "Toradora!",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 484,
-      "title": "Barakamon",
       "score": 0.676,
       "r18": false
     },
@@ -143,15 +131,27 @@
       "r18": false
     },
     {
-      "id": 6056,
-      "title": "Shigatsu wa Kimi no Uso",
-      "score": 0.669,
-      "r18": false
-    },
-    {
       "id": 14104,
       "title": "Sakura Discord",
       "score": 0.668,
+      "r18": false
+    },
+    {
+      "id": 711,
+      "title": "Watashitachi no Tamura-kun",
+      "score": 0.668,
+      "r18": false
+    },
+    {
+      "id": 34895,
+      "title": "The Gutsy Frog",
+      "score": 0.667,
+      "r18": false
+    },
+    {
+      "id": 13962,
+      "title": "Nakamura Koedo to Daizu Keisuke wa Umakuikanai",
+      "score": 0.667,
       "r18": false
     }
   ]

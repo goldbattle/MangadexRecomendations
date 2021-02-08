@@ -1,8 +1,8 @@
 {
   "id": 15577,
   "title": "Koi o Kataranai Kuchibiru",
-  "url": "https://mangadex.org/manga/15577",
-  "last_updated": "January 18, 2021 18:48:23 UTC",
+  "url": "https://api.mangadex.org/v2/manga/15577",
+  "last_updated": "February 08, 2021 16:30:40 UTC",
   "matches": [
     {
       "id": 3824,
@@ -19,7 +19,7 @@
     {
       "id": 14131,
       "title": "Hidamari ga Kikoeru",
-      "score": 0.679,
+      "score": 0.68,
       "r18": false
     },
     {
@@ -59,14 +59,14 @@
       "r18": false
     },
     {
-      "id": 18697,
-      "title": "Nanashi no Asterism",
-      "score": 0.656,
+      "id": 49710,
+      "title": "Hidamari no Orange",
+      "score": 0.659,
       "r18": false
     },
     {
-      "id": 49710,
-      "title": "Hidamari no Orange",
+      "id": 18697,
+      "title": "Nanashi no Asterism",
       "score": 0.656,
       "r18": false
     },
@@ -125,12 +125,6 @@
       "r18": false
     },
     {
-      "id": 59532,
-      "title": "Shokuinshitsu no Himegoto",
-      "score": 0.403,
-      "r18": false
-    },
-    {
       "id": 24841,
       "title": "My Precious",
       "score": 0.402,
@@ -139,7 +133,7 @@
     {
       "id": 12773,
       "title": "Omi-sensei no Binetsu",
-      "score": 0.395,
+      "score": 0.394,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 11879,
       "title": "Ameiro no Toge",
       "score": 0.367,
+      "r18": false
+    },
+    {
+      "id": 3277,
+      "title": "Gakkou no Sensei",
+      "score": 0.366,
       "r18": false
     }
   ]

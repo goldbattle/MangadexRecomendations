@@ -1,8 +1,8 @@
 {
   "id": 15673,
   "title": "Ivory Dark",
-  "url": "https://mangadex.org/manga/15673",
-  "last_updated": "January 18, 2021 18:49:24 UTC",
+  "url": "https://api.mangadex.org/v2/manga/15673",
+  "last_updated": "February 08, 2021 16:32:17 UTC",
   "matches": [
     {
       "id": 20678,
@@ -62,12 +62,6 @@
       "id": 5149,
       "title": "Karakuri Zoushi Ayatsuri Sakon",
       "score": 0.326,
-      "r18": false
-    },
-    {
-      "id": 391,
-      "title": "Shiki",
-      "score": 0.305,
       "r18": false
     },
     {
@@ -140,6 +134,12 @@
       "id": 14936,
       "title": "Warau Ishi",
       "score": 0.285,
+      "r18": false
+    },
+    {
+      "id": 391,
+      "title": "Shiki",
+      "score": 0.281,
       "r18": false
     },
     {

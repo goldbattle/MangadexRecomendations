@@ -1,15 +1,9 @@
 {
   "id": 16147,
   "title": "Yu-Gi-Oh! Arc-V",
-  "url": "https://mangadex.org/manga/16147",
-  "last_updated": "January 18, 2021 18:54:12 UTC",
+  "url": "https://api.mangadex.org/v2/manga/16147",
+  "last_updated": "February 08, 2021 16:41:09 UTC",
   "matches": [
-    {
-      "id": 21283,
-      "title": "Persona 5",
-      "score": 0.793,
-      "r18": false
-    },
     {
       "id": 3918,
       "title": "Magic Kaito",
@@ -43,13 +37,13 @@
     {
       "id": 25155,
       "title": "To Heart",
-      "score": 0.761,
+      "score": 0.762,
       "r18": false
     },
     {
       "id": 21061,
       "title": "Tales of Berseria",
-      "score": 0.761,
+      "score": 0.762,
       "r18": false
     },
     {
@@ -151,6 +145,12 @@
     {
       "id": 2089,
       "title": "Kingdom Hearts II",
+      "score": 0.752,
+      "r18": false
+    },
+    {
+      "id": 28542,
+      "title": "JoJo's Bizarre Adventure Part 6 - Stone Ocean",
       "score": 0.751,
       "r18": false
     }

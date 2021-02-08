@@ -1,8 +1,8 @@
 {
   "id": 16513,
   "title": "Lady &amp; Oldman",
-  "url": "https://mangadex.org/manga/16513",
-  "last_updated": "January 18, 2021 18:57:56 UTC",
+  "url": "https://api.mangadex.org/v2/manga/16513",
+  "last_updated": "February 08, 2021 16:48:05 UTC",
   "matches": [
     {
       "id": 2500,
@@ -14,12 +14,6 @@
       "id": 4880,
       "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
       "score": 0.674,
-      "r18": false
-    },
-    {
-      "id": 3388,
-      "title": "Fate/Zero",
-      "score": 0.673,
       "r18": false
     },
     {
@@ -37,7 +31,7 @@
     {
       "id": 7869,
       "title": "Arashi no Hana Murakumo no Uta",
-      "score": 0.669,
+      "score": 0.668,
       "r18": false
     },
     {
@@ -71,9 +65,15 @@
       "r18": false
     },
     {
+      "id": 19505,
+      "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+      "score": 0.664,
+      "r18": false
+    },
+    {
       "id": 3447,
       "title": "Memories of Emanon",
-      "score": 0.663,
+      "score": 0.664,
       "r18": false
     },
     {
@@ -149,9 +149,9 @@
       "r18": false
     },
     {
-      "id": 19505,
-      "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
-      "score": 0.655,
+      "id": 1766,
+      "title": "Umineko no Naku Koro ni Chiru Episode 7: Requiem of the Golden Witch",
+      "score": 0.654,
       "r18": false
     }
   ]

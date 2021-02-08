@@ -1,8 +1,8 @@
 {
   "id": 16400,
   "title": "We On - Be the Shield",
-  "url": "https://mangadex.org/manga/16400",
-  "last_updated": "January 18, 2021 18:56:45 UTC",
+  "url": "https://api.mangadex.org/v2/manga/16400",
+  "last_updated": "February 08, 2021 16:46:04 UTC",
   "matches": [
     {
       "id": 21368,
@@ -13,7 +13,7 @@
     {
       "id": 20604,
       "title": "B Group no Shounen X",
-      "score": 0.679,
+      "score": 0.68,
       "r18": false
     },
     {
@@ -85,19 +85,13 @@
     {
       "id": 5201,
       "title": "Bloodline - Fantasy Day",
-      "score": 0.659,
+      "score": 0.66,
       "r18": false
     },
     {
       "id": 1417,
       "title": "Shingetsutan Tsukihime",
       "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 21283,
-      "title": "Persona 5",
-      "score": 0.657,
       "r18": false
     },
     {
@@ -137,20 +131,26 @@
       "r18": false
     },
     {
-      "id": 49543,
-      "title": "Usotsuki",
-      "score": 0.652,
-      "r18": false
-    },
-    {
       "id": 467,
       "title": "Aphorism",
       "score": 0.652,
       "r18": false
     },
     {
+      "id": 49543,
+      "title": "Usotsuki",
+      "score": 0.652,
+      "r18": false
+    },
+    {
       "id": 24123,
       "title": "Shinka no Mi",
+      "score": 0.652,
+      "r18": false
+    },
+    {
+      "id": 22816,
+      "title": "Class ga Isekai Shoukan sareta Naka Ore dake Nokotta n desu ga",
       "score": 0.652,
       "r18": false
     }

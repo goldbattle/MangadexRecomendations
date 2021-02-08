@@ -1,8 +1,8 @@
 {
   "id": 16490,
   "title": "Bocchan to Maid",
-  "url": "https://mangadex.org/manga/16490",
-  "last_updated": "January 18, 2021 18:57:42 UTC",
+  "url": "https://api.mangadex.org/v2/manga/16490",
+  "last_updated": "February 08, 2021 16:47:41 UTC",
   "matches": [
     {
       "id": 39796,
@@ -95,6 +95,12 @@
       "r18": false
     },
     {
+      "id": 43830,
+      "title": "The Lady's Spaceship",
+      "score": 0.69,
+      "r18": false
+    },
+    {
       "id": 1858,
       "title": "Kanata Kara",
       "score": 0.689,
@@ -113,14 +119,14 @@
       "r18": false
     },
     {
-      "id": 15795,
-      "title": "Momokuri",
+      "id": 52697,
+      "title": "A Trivial Extra in a Dating Sim",
       "score": 0.686,
       "r18": false
     },
     {
-      "id": 52697,
-      "title": "A Trivial Extra in a Dating Sim",
+      "id": 15795,
+      "title": "Momokuri",
       "score": 0.686,
       "r18": false
     },
@@ -131,14 +137,14 @@
       "r18": false
     },
     {
-      "id": 51419,
-      "title": "I Want to Become the Hero's Bride (\uffe3&nabla;\uffe3)\u309e",
+      "id": 43461,
+      "title": "This Is an Obvious Fraudulent Marriage",
       "score": 0.684,
       "r18": false
     },
     {
-      "id": 43461,
-      "title": "This Is an Obvious Fraudulent Marriage",
+      "id": 51419,
+      "title": "I Want to Become the Hero's Bride (\uffe3&nabla;\uffe3)\u309e",
       "score": 0.684,
       "r18": false
     },
@@ -146,12 +152,6 @@
       "id": 52958,
       "title": "I&rsquo;m the Villainess, but the Capture Targets Are Too Abnormal",
       "score": 0.684,
-      "r18": false
-    },
-    {
-      "id": 19808,
-      "title": "Love, Storms, and Flower Clocks: Alice in the Country of Hearts ~ Wonderful Twin World ~",
-      "score": 0.683,
       "r18": false
     }
   ]

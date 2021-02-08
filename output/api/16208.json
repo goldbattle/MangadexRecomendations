@@ -1,8 +1,8 @@
 {
   "id": 16208,
   "title": "Kyouken Breeder",
-  "url": "https://mangadex.org/manga/16208",
-  "last_updated": "January 18, 2021 18:54:50 UTC",
+  "url": "https://api.mangadex.org/v2/manga/16208",
+  "last_updated": "February 08, 2021 16:42:19 UTC",
   "matches": [
     {
       "id": 7331,
@@ -77,9 +77,15 @@
       "r18": false
     },
     {
+      "id": 16544,
+      "title": "ULTRAS",
+      "score": 0.752,
+      "r18": false
+    },
+    {
       "id": 57333,
       "title": "Nigai Kajitsu",
-      "score": 0.751,
+      "score": 0.752,
       "r18": false
     },
     {
@@ -115,7 +121,7 @@
     {
       "id": 4673,
       "title": "From Yesterday",
-      "score": 0.749,
+      "score": 0.748,
       "r18": false
     },
     {
@@ -145,12 +151,6 @@
     {
       "id": 55745,
       "title": "Gensou Shounen Koimonogatari",
-      "score": 0.746,
-      "r18": false
-    },
-    {
-      "id": 58356,
-      "title": "Finger Stinger",
       "score": 0.746,
       "r18": false
     }

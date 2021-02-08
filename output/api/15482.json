@@ -1,13 +1,13 @@
 {
   "id": 15482,
   "title": "Mozuku, Walking!",
-  "url": "https://mangadex.org/manga/15482",
-  "last_updated": "January 18, 2021 18:47:27 UTC",
+  "url": "https://api.mangadex.org/v2/manga/15482",
+  "last_updated": "February 08, 2021 16:29:04 UTC",
   "matches": [
     {
       "id": 10049,
       "title": "Mozuya-san Goes on a Rampage",
-      "score": 0.705,
+      "score": 0.704,
       "r18": false
     },
     {
@@ -32,12 +32,6 @@
       "id": 5734,
       "title": "Moteki",
       "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 875,
-      "title": "Bokura wa Minna Kawai-sou",
-      "score": 0.671,
       "r18": false
     },
     {
@@ -119,6 +113,12 @@
       "r18": false
     },
     {
+      "id": 19505,
+      "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+      "score": 0.662,
+      "r18": false
+    },
+    {
       "id": 505,
       "title": "Nagato Yuki-chan no Shoushitsu",
       "score": 0.661,
@@ -128,6 +128,12 @@
       "id": 15991,
       "title": "Koi wa Ameagari no You ni",
       "score": 0.661,
+      "r18": false
+    },
+    {
+      "id": 875,
+      "title": "Bokura wa Minna Kawai-sou",
+      "score": 0.66,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 2576,
       "title": "Ran to Haiiro no Sekai",
       "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 9496,
-      "title": "Love Calendar",
-      "score": 0.659,
       "r18": false
     }
   ]

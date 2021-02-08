@@ -1,8 +1,8 @@
 {
   "id": 16342,
   "title": "Caramel Kiss",
-  "url": "https://mangadex.org/manga/16342",
-  "last_updated": "January 18, 2021 18:56:10 UTC",
+  "url": "https://api.mangadex.org/v2/manga/16342",
+  "last_updated": "February 08, 2021 16:45:06 UTC",
   "matches": [
     {
       "id": 45898,
@@ -44,6 +44,12 @@
       "id": 7816,
       "title": "Folk Tail Tonakai",
       "score": 0.743,
+      "r18": false
+    },
+    {
+      "id": 51318,
+      "title": "Truthfully, They Only Remembered Her",
+      "score": 0.742,
       "r18": false
     },
     {
@@ -109,7 +115,13 @@
     {
       "id": 6361,
       "title": "Ultra Maniac",
-      "score": 0.727,
+      "score": 0.726,
+      "r18": false
+    },
+    {
+      "id": 59999,
+      "title": "Save Me, Princess",
+      "score": 0.726,
       "r18": false
     },
     {
@@ -140,18 +152,6 @@
       "id": 49644,
       "title": "The Villainess Lives Twice",
       "score": 0.722,
-      "r18": false
-    },
-    {
-      "id": 50813,
-      "title": "Alissa and the Magic Diary",
-      "score": 0.721,
-      "r18": false
-    },
-    {
-      "id": 52036,
-      "title": "The Story of the Hated Mule",
-      "score": 0.72,
       "r18": false
     }
   ]
