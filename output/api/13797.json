@@ -1,13 +1,19 @@
 {
   "id": 13797,
   "title": "Tori Kissa!",
-  "url": "https://mangadex.org/manga/13797",
-  "last_updated": "January 18, 2021 12:37:37 UTC",
+  "url": "https://api.mangadex.org/v2/manga/13797",
+  "last_updated": "February 08, 2021 08:39:46 UTC",
   "matches": [
     {
       "id": 29338,
       "title": "We Want to Talk About Kaguya",
       "score": 0.691,
+      "r18": false
+    },
+    {
+      "id": 12619,
+      "title": "Ojojojo",
+      "score": 0.689,
       "r18": false
     },
     {
@@ -20,12 +26,6 @@
       "id": 24067,
       "title": "K-ON! High School",
       "score": 0.681,
-      "r18": false
-    },
-    {
-      "id": 12619,
-      "title": "Ojojojo",
-      "score": 0.68,
       "r18": false
     },
     {
@@ -97,7 +97,7 @@
     {
       "id": 13731,
       "title": "Boku Koi Conductor",
-      "score": 0.663,
+      "score": 0.664,
       "r18": false
     },
     {

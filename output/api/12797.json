@@ -1,8 +1,8 @@
 {
   "id": 12797,
   "title": "Dororon Enbi-chan",
-  "url": "https://mangadex.org/manga/12797",
-  "last_updated": "January 18, 2021 07:13:13 UTC",
+  "url": "https://api.mangadex.org/v2/manga/12797",
+  "last_updated": "February 08, 2021 08:22:07 UTC",
   "matches": [
     {
       "id": 56288,
@@ -115,6 +115,12 @@
     {
       "id": 9406,
       "title": "Wallman",
+      "score": 0.113,
+      "r18": false
+    },
+    {
+      "id": 17430,
+      "title": "Golosseum",
       "score": 0.113,
       "r18": false
     },

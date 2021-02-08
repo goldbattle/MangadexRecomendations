@@ -1,8 +1,8 @@
 {
   "id": 13543,
   "title": "Gokurakuchou Dead End",
-  "url": "https://mangadex.org/manga/13543",
-  "last_updated": "January 18, 2021 12:34:16 UTC",
+  "url": "https://api.mangadex.org/v2/manga/13543",
+  "last_updated": "February 08, 2021 08:35:20 UTC",
   "matches": [
     {
       "id": 10989,
@@ -31,7 +31,7 @@
     {
       "id": 27971,
       "title": "Choushinri Genshou Nouryokusha Nanaki",
-      "score": 0.355,
+      "score": 0.356,
       "r18": false
     },
     {
@@ -125,6 +125,12 @@
       "r18": false
     },
     {
+      "id": 8797,
+      "title": "Yukarism",
+      "score": 0.28,
+      "r18": false
+    },
+    {
       "id": 18987,
       "title": "Cardcaptor Sakura - Clear Card Arc",
       "score": 0.277,
@@ -146,12 +152,6 @@
       "id": 1858,
       "title": "Kanata Kara",
       "score": 0.273,
-      "r18": false
-    },
-    {
-      "id": 3255,
-      "title": "B-EYES",
-      "score": 0.269,
       "r18": false
     }
   ]

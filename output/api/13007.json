@@ -1,8 +1,8 @@
 {
   "id": 13007,
   "title": "Docca",
-  "url": "https://mangadex.org/manga/13007",
-  "last_updated": "January 18, 2021 12:27:35 UTC",
+  "url": "https://api.mangadex.org/v2/manga/13007",
+  "last_updated": "February 08, 2021 08:25:51 UTC",
   "matches": [
     {
       "id": 2211,
@@ -37,7 +37,7 @@
     {
       "id": 35063,
       "title": "Dragon Knights",
-      "score": 0.72,
+      "score": 0.719,
       "r18": false
     },
     {
@@ -53,9 +53,15 @@
       "r18": false
     },
     {
+      "id": 59999,
+      "title": "Save Me, Princess",
+      "score": 0.717,
+      "r18": false
+    },
+    {
       "id": 5660,
       "title": "Harlem Beat wa Yoake Made",
-      "score": 0.714,
+      "score": 0.713,
       "r18": false
     },
     {
@@ -92,12 +98,6 @@
       "id": 18085,
       "title": "Mahou Tsukai to Hoshi Furu Niwa",
       "score": 0.708,
-      "r18": false
-    },
-    {
-      "id": 3996,
-      "title": "Akatsuki no Yona",
-      "score": 0.707,
       "r18": false
     },
     {

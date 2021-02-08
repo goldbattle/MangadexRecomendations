@@ -1,8 +1,8 @@
 {
   "id": 12509,
   "title": "Unchanging Days",
-  "url": "https://mangadex.org/manga/12509",
-  "last_updated": "January 18, 2021 07:10:13 UTC",
+  "url": "https://api.mangadex.org/v2/manga/12509",
+  "last_updated": "February 08, 2021 08:16:56 UTC",
   "matches": [
     {
       "id": 22392,
@@ -55,7 +55,7 @@
     {
       "id": 26757,
       "title": "Girls Monochrome",
-      "score": 0.329,
+      "score": 0.328,
       "r18": false
     },
     {
@@ -119,6 +119,12 @@
       "r18": false
     },
     {
+      "id": 43556,
+      "title": "Yamitsuki",
+      "score": 0.302,
+      "r18": false
+    },
+    {
       "id": 5487,
       "title": "Oniyuri-san and Himeyuri-san",
       "score": 0.298,
@@ -146,12 +152,6 @@
       "id": 5772,
       "title": "Clover",
       "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 7826,
-      "title": "Kuroyome",
-      "score": 0.289,
       "r18": false
     }
   ]

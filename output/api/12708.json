@@ -1,15 +1,9 @@
 {
   "id": 12708,
   "title": "Dengeki Pikachu",
-  "url": "https://mangadex.org/manga/12708",
-  "last_updated": "January 18, 2021 07:12:16 UTC",
+  "url": "https://api.mangadex.org/v2/manga/12708",
+  "last_updated": "February 08, 2021 08:20:31 UTC",
   "matches": [
-    {
-      "id": 54801,
-      "title": "One Piece Episode A",
-      "score": 0.743,
-      "r18": false
-    },
     {
       "id": 23231,
       "title": "Wu Dong Qian Kun",
@@ -44,6 +38,12 @@
       "id": 31002,
       "title": "Jimi na Kensei wa Sore Demo Saikyou Desu",
       "score": 0.732,
+      "r18": false
+    },
+    {
+      "id": 54801,
+      "title": "One Piece Episode A",
+      "score": 0.731,
       "r18": false
     },
     {
@@ -95,26 +95,20 @@
       "r18": false
     },
     {
-      "id": 52958,
-      "title": "I&rsquo;m the Villainess, but the Capture Targets Are Too Abnormal",
-      "score": 0.718,
-      "r18": false
-    },
-    {
       "id": 22148,
       "title": "Infinite Dendrogram",
       "score": 0.718,
       "r18": false
     },
     {
-      "id": 1911,
-      "title": "Infinity Game",
-      "score": 0.717,
+      "id": 52958,
+      "title": "I&rsquo;m the Villainess, but the Capture Targets Are Too Abnormal",
+      "score": 0.718,
       "r18": false
     },
     {
-      "id": 15374,
-      "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Dainishou - Yashiki no Shuukan Hen",
+      "id": 1911,
+      "title": "Infinity Game",
       "score": 0.717,
       "r18": false
     },
@@ -145,6 +139,12 @@
     {
       "id": 39184,
       "title": "Miracle Nikki",
+      "score": 0.713,
+      "r18": false
+    },
+    {
+      "id": 15374,
+      "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Dainishou - Yashiki no Shuukan Hen",
       "score": 0.713,
       "r18": false
     },

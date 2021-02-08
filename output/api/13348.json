@@ -1,8 +1,8 @@
 {
   "id": 13348,
   "title": "Kanata no Togabito ga Tatakau Riyuu",
-  "url": "https://mangadex.org/manga/13348",
-  "last_updated": "January 18, 2021 12:31:46 UTC",
+  "url": "https://api.mangadex.org/v2/manga/13348",
+  "last_updated": "February 08, 2021 08:31:50 UTC",
   "matches": [
     {
       "id": 13432,
@@ -35,12 +35,6 @@
       "r18": false
     },
     {
-      "id": 1036,
-      "title": "Rave",
-      "score": 0.676,
-      "r18": false
-    },
-    {
       "id": 2086,
       "title": "Kingdom Hearts 358/2 Days",
       "score": 0.674,
@@ -49,7 +43,13 @@
     {
       "id": 848,
       "title": "Konjiki no Gash!!",
-      "score": 0.673,
+      "score": 0.674,
+      "r18": false
+    },
+    {
+      "id": 1036,
+      "title": "Rave",
+      "score": 0.672,
       "r18": false
     },
     {
@@ -61,7 +61,7 @@
     {
       "id": 22194,
       "title": "Beast Complex",
-      "score": 0.669,
+      "score": 0.67,
       "r18": false
     },
     {
@@ -119,12 +119,6 @@
       "r18": false
     },
     {
-      "id": 336,
-      "title": "Kuroshitsuji",
-      "score": 0.658,
-      "r18": false
-    },
-    {
       "id": 9497,
       "title": "Rewrite: SIDE-R",
       "score": 0.657,
@@ -152,6 +146,12 @@
       "id": 494,
       "title": "Suashi no Meteorite",
       "score": 0.655,
+      "r18": false
+    },
+    {
+      "id": 107,
+      "title": "Toriko",
+      "score": 0.654,
       "r18": false
     }
   ]

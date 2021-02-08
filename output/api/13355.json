@@ -1,8 +1,8 @@
 {
   "id": 13355,
   "title": "Ousama Game - Shuukyoku",
-  "url": "https://mangadex.org/manga/13355",
-  "last_updated": "January 18, 2021 12:31:52 UTC",
+  "url": "https://api.mangadex.org/v2/manga/13355",
+  "last_updated": "February 08, 2021 08:31:58 UTC",
   "matches": [
     {
       "id": 46498,
@@ -19,13 +19,7 @@
     {
       "id": 9934,
       "title": "Ichi (Yamamoto Hideo)",
-      "score": 0.735,
-      "r18": false
-    },
-    {
-      "id": 114,
-      "title": "Hellsing",
-      "score": 0.728,
+      "score": 0.734,
       "r18": false
     },
     {
@@ -56,6 +50,12 @@
       "id": 1207,
       "title": "Jigokusei Lemina",
       "score": 0.721,
+      "r18": false
+    },
+    {
+      "id": 12588,
+      "title": "Gunjou Senki",
+      "score": 0.714,
       "r18": false
     },
     {
@@ -101,6 +101,12 @@
       "r18": false
     },
     {
+      "id": 13502,
+      "title": "Tokyo Ghoul:re",
+      "score": 0.704,
+      "r18": false
+    },
+    {
       "id": 2379,
       "title": "Dorohedoro",
       "score": 0.702,
@@ -137,21 +143,15 @@
       "r18": false
     },
     {
-      "id": 1018,
-      "title": "Parasyte",
+      "id": 50725,
+      "title": "Kimi wa Shinenai Hai Kaburi no Majo",
       "score": 0.695,
       "r18": false
     },
     {
-      "id": 40874,
-      "title": "Mad Summer School",
+      "id": 1018,
+      "title": "Parasyte",
       "score": 0.694,
-      "r18": false
-    },
-    {
-      "id": 18289,
-      "title": "Shibito no Koe wo Kiku ga Yoi",
-      "score": 0.693,
       "r18": false
     }
   ]

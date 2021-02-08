@@ -1,8 +1,8 @@
 {
   "id": 12893,
   "title": "La Republique du Catch",
-  "url": "https://mangadex.org/manga/12893",
-  "last_updated": "January 18, 2021 12:26:17 UTC",
+  "url": "https://api.mangadex.org/v2/manga/12893",
+  "last_updated": "February 08, 2021 08:23:47 UTC",
   "matches": [
     {
       "id": 27156,
@@ -59,12 +59,6 @@
       "r18": false
     },
     {
-      "id": 3388,
-      "title": "Fate/Zero",
-      "score": 0.344,
-      "r18": false
-    },
-    {
       "id": 30124,
       "title": "I Am a Hero in Ibaraki",
       "score": 0.342,
@@ -109,7 +103,7 @@
     {
       "id": 5964,
       "title": "Guilty Gear Xtra",
-      "score": 0.339,
+      "score": 0.338,
       "r18": false
     },
     {
@@ -125,14 +119,14 @@
       "r18": false
     },
     {
-      "id": 1089,
-      "title": "Zetman",
+      "id": 2564,
+      "title": "Kimi to Boku no Ashiato ~Time Travel Kasuga Kenkyuusho~",
       "score": 0.338,
       "r18": false
     },
     {
-      "id": 2564,
-      "title": "Kimi to Boku no Ashiato ~Time Travel Kasuga Kenkyuusho~",
+      "id": 1089,
+      "title": "Zetman",
       "score": 0.338,
       "r18": false
     },
@@ -152,6 +146,12 @@
       "id": 27738,
       "title": "Phantom - Requiem for the Phantom",
       "score": 0.337,
+      "r18": false
+    },
+    {
+      "id": 14726,
+      "title": "Devils' Line",
+      "score": 0.336,
       "r18": false
     }
   ]

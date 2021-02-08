@@ -1,19 +1,13 @@
 {
   "id": 12704,
   "title": "Dog Soldier",
-  "url": "https://mangadex.org/manga/12704",
-  "last_updated": "January 18, 2021 07:12:14 UTC",
+  "url": "https://api.mangadex.org/v2/manga/12704",
+  "last_updated": "February 08, 2021 08:20:27 UTC",
   "matches": [
     {
       "id": 31928,
       "title": "Getter Robo High",
       "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 759,
-      "title": "Drifters",
-      "score": 0.692,
       "r18": false
     },
     {
@@ -50,6 +44,12 @@
       "id": 7531,
       "title": "Black Joke",
       "score": 0.282,
+      "r18": false
+    },
+    {
+      "id": 759,
+      "title": "Drifters",
+      "score": 0.216,
       "r18": false
     }
   ]

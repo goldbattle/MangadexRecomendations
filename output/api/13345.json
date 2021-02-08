@@ -1,8 +1,8 @@
 {
   "id": 13345,
   "title": "Yousuke no Kimyou na Sekai",
-  "url": "https://mangadex.org/manga/13345",
-  "last_updated": "January 18, 2021 12:31:44 UTC",
+  "url": "https://api.mangadex.org/v2/manga/13345",
+  "last_updated": "February 08, 2021 08:31:47 UTC",
   "matches": [
     {
       "id": 610,
@@ -53,12 +53,6 @@
       "r18": false
     },
     {
-      "id": 15374,
-      "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Dainishou - Yashiki no Shuukan Hen",
-      "score": 0.335,
-      "r18": false
-    },
-    {
       "id": 46735,
       "title": "Dead Company",
       "score": 0.331,
@@ -67,6 +61,12 @@
     {
       "id": 530,
       "title": "Kyousou no Simulacra",
+      "score": 0.33,
+      "r18": false
+    },
+    {
+      "id": 15374,
+      "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Dainishou - Yashiki no Shuukan Hen",
       "score": 0.33,
       "r18": false
     },
@@ -127,7 +127,7 @@
     {
       "id": 4429,
       "title": "xxxHoLic",
-      "score": 0.311,
+      "score": 0.312,
       "r18": false
     },
     {
@@ -149,8 +149,8 @@
       "r18": false
     },
     {
-      "id": 21142,
-      "title": "Kasouba no Nai Machi ni Kane ga Naru Toki",
+      "id": 13992,
+      "title": "Fukushuu Kyoushitsu",
       "score": 0.308,
       "r18": false
     }

@@ -1,13 +1,19 @@
 {
   "id": 13318,
   "title": "Dagashi Kashi",
-  "url": "https://mangadex.org/manga/13318",
-  "last_updated": "January 18, 2021 12:31:24 UTC",
+  "url": "https://api.mangadex.org/v2/manga/13318",
+  "last_updated": "February 08, 2021 08:31:18 UTC",
   "matches": [
     {
       "id": 86,
       "title": "Anedoki",
-      "score": 0.699,
+      "score": 0.698,
+      "r18": false
+    },
+    {
+      "id": 15950,
+      "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
+      "score": 0.682,
       "r18": false
     },
     {
@@ -133,7 +139,7 @@
     {
       "id": 51647,
       "title": "Just a Story About Miyamoto Sakura Being Cute",
-      "score": 0.657,
+      "score": 0.658,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 564,
       "title": "Nagasarete Airantou",
       "score": 0.657,
-      "r18": false
-    },
-    {
-      "id": 26336,
-      "title": "Iinari",
-      "score": 0.656,
       "r18": false
     }
   ]

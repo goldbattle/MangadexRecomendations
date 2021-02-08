@@ -1,8 +1,8 @@
 {
   "id": 12903,
   "title": "ACCA - 13-ku Kansatsuka",
-  "url": "https://mangadex.org/manga/12903",
-  "last_updated": "January 18, 2021 12:26:24 UTC",
+  "url": "https://api.mangadex.org/v2/manga/12903",
+  "last_updated": "February 08, 2021 08:23:58 UTC",
   "matches": [
     {
       "id": 4880,
@@ -77,12 +77,6 @@
       "r18": false
     },
     {
-      "id": 3388,
-      "title": "Fate/Zero",
-      "score": 0.703,
-      "r18": false
-    },
-    {
       "id": 1500,
       "title": "Golgo 13",
       "score": 0.702,
@@ -103,7 +97,7 @@
     {
       "id": 1034,
       "title": "Persona 4",
-      "score": 0.699,
+      "score": 0.698,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 1117,
       "title": "Adventure Boys",
       "score": 0.695,
+      "r18": false
+    },
+    {
+      "id": 1766,
+      "title": "Umineko no Naku Koro ni Chiru Episode 7: Requiem of the Golden Witch",
+      "score": 0.694,
       "r18": false
     }
   ]

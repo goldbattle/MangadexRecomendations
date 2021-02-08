@@ -1,15 +1,9 @@
 {
   "id": 13018,
   "title": "Maro Maro",
-  "url": "https://mangadex.org/manga/13018",
-  "last_updated": "January 18, 2021 12:27:43 UTC",
+  "url": "https://api.mangadex.org/v2/manga/13018",
+  "last_updated": "February 08, 2021 08:26:03 UTC",
   "matches": [
-    {
-      "id": 3388,
-      "title": "Fate/Zero",
-      "score": 0.761,
-      "r18": false
-    },
     {
       "id": 396,
       "title": "Mahou Shoujo Oriko\u2605Magica",
@@ -91,7 +85,13 @@
     {
       "id": 52836,
       "title": "DD Fist of the North Star",
-      "score": 0.741,
+      "score": 0.74,
+      "r18": false
+    },
+    {
+      "id": 3388,
+      "title": "Fate/Zero",
+      "score": 0.736,
       "r18": false
     },
     {
@@ -121,7 +121,7 @@
     {
       "id": 28617,
       "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run",
-      "score": 0.731,
+      "score": 0.73,
       "r18": false
     },
     {
@@ -133,7 +133,7 @@
     {
       "id": 20348,
       "title": "The King's Avatar",
-      "score": 0.729,
+      "score": 0.728,
       "r18": false
     },
     {
