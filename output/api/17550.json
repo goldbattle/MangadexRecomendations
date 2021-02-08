@@ -1,8 +1,8 @@
 {
   "id": 17550,
   "title": "Nekogahara",
-  "url": "https://mangadex.org/manga/17550",
-  "last_updated": "January 19, 2021 00:39:42 UTC",
+  "url": "https://api.mangadex.org/v2/manga/17550",
+  "last_updated": "February 08, 2021 20:30:18 UTC",
   "matches": [
     {
       "id": 56522,
@@ -35,12 +35,6 @@
       "r18": false
     },
     {
-      "id": 336,
-      "title": "Kuroshitsuji",
-      "score": 0.691,
-      "r18": false
-    },
-    {
       "id": 14562,
       "title": "Rose Guns Days Season 2",
       "score": 0.69,
@@ -67,7 +61,7 @@
     {
       "id": 14885,
       "title": "Rose Guns Days Season 3",
-      "score": 0.69,
+      "score": 0.689,
       "r18": false
     },
     {
@@ -134,6 +128,12 @@
       "id": 12684,
       "title": "Shadow Warrior: Tokugawa Ieyasu",
       "score": 0.658,
+      "r18": false
+    },
+    {
+      "id": 336,
+      "title": "Kuroshitsuji",
+      "score": 0.656,
       "r18": false
     },
     {

@@ -1,13 +1,13 @@
 {
   "id": 17647,
   "title": "Private Aroma",
-  "url": "https://mangadex.org/manga/17647",
-  "last_updated": "January 19, 2021 00:40:41 UTC",
+  "url": "https://api.mangadex.org/v2/manga/17647",
+  "last_updated": "February 08, 2021 20:31:54 UTC",
   "matches": [
     {
       "id": 5333,
       "title": "Miyasaka Kaho Kessakushuu",
-      "score": 0.661,
+      "score": 0.66,
       "r18": false
     },
     {
@@ -43,7 +43,7 @@
     {
       "id": 7136,
       "title": "Tsumi Koi",
-      "score": 0.473,
+      "score": 0.474,
       "r18": false
     },
     {
@@ -107,6 +107,12 @@
       "r18": false
     },
     {
+      "id": 15380,
+      "title": "Gozen 0-ji, Kiss Shi ni Kite yo",
+      "score": 0.461,
+      "r18": false
+    },
+    {
       "id": 17582,
       "title": "Kojin Jugyou",
       "score": 0.46,
@@ -125,8 +131,8 @@
       "r18": false
     },
     {
-      "id": 24752,
-      "title": "1-ko Shita kara, Kiss Sasete.",
+      "id": 13661,
+      "title": "Ore Yome. &ndash; Ore no Yome ni Nare yo",
       "score": 0.458,
       "r18": false
     },
@@ -137,20 +143,14 @@
       "r18": false
     },
     {
-      "id": 13661,
-      "title": "Ore Yome. &ndash; Ore no Yome ni Nare yo",
+      "id": 24752,
+      "title": "1-ko Shita kara, Kiss Sasete.",
       "score": 0.458,
       "r18": false
     },
     {
       "id": 26508,
       "title": "Ikenai Koto, Shiyo?",
-      "score": 0.458,
-      "r18": false
-    },
-    {
-      "id": 2090,
-      "title": "Sensei ni, Ageru.",
       "score": 0.458,
       "r18": false
     }

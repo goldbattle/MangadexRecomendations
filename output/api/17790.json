@@ -1,8 +1,8 @@
 {
   "id": 17790,
   "title": "P Angel",
-  "url": "https://mangadex.org/manga/17790",
-  "last_updated": "January 19, 2021 00:42:09 UTC",
+  "url": "https://api.mangadex.org/v2/manga/17790",
+  "last_updated": "February 08, 2021 20:34:22 UTC",
   "matches": [
     {
       "id": 2353,
@@ -62,6 +62,12 @@
       "id": 44107,
       "title": "The Great Prophet Is Running From Her Previous Life",
       "score": 0.652,
+      "r18": false
+    },
+    {
+      "id": 51318,
+      "title": "Truthfully, They Only Remembered Her",
+      "score": 0.651,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 1883,
       "title": "Lunatic Honey",
       "score": 0.452,
-      "r18": false
-    },
-    {
-      "id": 12743,
-      "title": "Last Wish",
-      "score": 0.451,
       "r18": false
     }
   ]

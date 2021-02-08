@@ -1,8 +1,8 @@
 {
   "id": 17251,
   "title": "Dansan Joshi",
-  "url": "https://mangadex.org/manga/17251",
-  "last_updated": "January 19, 2021 00:36:36 UTC",
+  "url": "https://api.mangadex.org/v2/manga/17251",
+  "last_updated": "February 08, 2021 20:25:08 UTC",
   "matches": [
     {
       "id": 86,
@@ -83,12 +83,6 @@
       "r18": false
     },
     {
-      "id": 3770,
-      "title": "Yamada-kun to 7-nin no Majo",
-      "score": 0.665,
-      "r18": false
-    },
-    {
       "id": 11040,
       "title": "Yuri Seijin Naoko-san",
       "score": 0.665,
@@ -151,6 +145,12 @@
     {
       "id": 30,
       "title": "Sora no Otoshimono",
+      "score": 0.653,
+      "r18": false
+    },
+    {
+      "id": 3252,
+      "title": "Majimoji Rurumo",
       "score": 0.653,
       "r18": false
     }

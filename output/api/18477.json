@@ -1,12 +1,18 @@
 {
   "id": 18477,
   "title": "Let's Return to the Forest",
-  "url": "https://mangadex.org/manga/18477",
-  "last_updated": "January 19, 2021 00:49:02 UTC",
+  "url": "https://api.mangadex.org/v2/manga/18477",
+  "last_updated": "February 08, 2021 20:45:54 UTC",
   "matches": [
     {
       "id": 7380,
       "title": "Suzuran Techou",
+      "score": 0.36,
+      "r18": false
+    },
+    {
+      "id": 8253,
+      "title": "Swear",
       "score": 0.36,
       "r18": false
     },
@@ -107,8 +113,26 @@
       "r18": false
     },
     {
+      "id": 45426,
+      "title": "@Around Kabuki-cho, Shinjuku, Midnight",
+      "score": 0.36,
+      "r18": false
+    },
+    {
       "id": 46855,
       "title": "The Girls Become good Friends Little by Little",
+      "score": 0.36,
+      "r18": false
+    },
+    {
+      "id": 50613,
+      "title": "Tender Night",
+      "score": 0.36,
+      "r18": false
+    },
+    {
+      "id": 59910,
+      "title": "Stealing Candy From My Friend",
       "score": 0.36,
       "r18": false
     },
@@ -127,30 +151,6 @@
     {
       "id": 5576,
       "title": "The Wife-to-Be",
-      "score": 0.24,
-      "r18": false
-    },
-    {
-      "id": 7077,
-      "title": "Pai o Agemasho, Anata ni Pai o ne",
-      "score": 0.24,
-      "r18": false
-    },
-    {
-      "id": 7627,
-      "title": "EtceterA",
-      "score": 0.24,
-      "r18": false
-    },
-    {
-      "id": 8599,
-      "title": "Sleeping Beauty no Mita Yume",
-      "score": 0.24,
-      "r18": false
-    },
-    {
-      "id": 8603,
-      "title": "Touhou - Jutaikokuchi (Doujinshi)",
       "score": 0.24,
       "r18": false
     }

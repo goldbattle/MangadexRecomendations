@@ -1,8 +1,8 @@
 {
   "id": 17250,
   "title": "Ore no 100 Hanashime!!",
-  "url": "https://mangadex.org/manga/17250",
-  "last_updated": "January 19, 2021 00:36:35 UTC",
+  "url": "https://api.mangadex.org/v2/manga/17250",
+  "last_updated": "February 08, 2021 20:25:07 UTC",
   "matches": [
     {
       "id": 929,
@@ -19,7 +19,7 @@
     {
       "id": 4761,
       "title": "M&Oslash;USE",
-      "score": 0.677,
+      "score": 0.676,
       "r18": false
     },
     {
@@ -50,12 +50,6 @@
       "id": 2251,
       "title": "Oretama",
       "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 455,
-      "title": "My Lovely Ghost Kana",
-      "score": 0.663,
       "r18": false
     },
     {
@@ -109,13 +103,7 @@
     {
       "id": 1449,
       "title": "Hajimete Datteba!",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 4483,
-      "title": "Iketeru Keiji",
-      "score": 0.651,
+      "score": 0.652,
       "r18": false
     },
     {
@@ -151,7 +139,19 @@
     {
       "id": 1475,
       "title": "Glamorous",
-      "score": 0.313,
+      "score": 0.312,
+      "r18": false
+    },
+    {
+      "id": 21193,
+      "title": "HadaCamera",
+      "score": 0.312,
+      "r18": false
+    },
+    {
+      "id": 617,
+      "title": "Aiki",
+      "score": 0.309,
       "r18": false
     }
   ]

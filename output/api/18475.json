@@ -1,8 +1,8 @@
 {
   "id": 18475,
   "title": "Seishun Occult Teen!",
-  "url": "https://mangadex.org/manga/18475",
-  "last_updated": "January 19, 2021 00:49:01 UTC",
+  "url": "https://api.mangadex.org/v2/manga/18475",
+  "last_updated": "February 08, 2021 20:45:52 UTC",
   "matches": [
     {
       "id": 28804,
@@ -56,6 +56,12 @@
       "id": 9873,
       "title": "Doronkyu",
       "score": 0.66,
+      "r18": false
+    },
+    {
+      "id": 12619,
+      "title": "Ojojojo",
+      "score": 0.658,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 16591,
       "title": "Futsuu no Joshikousei ga Locodol yatte mita.",
       "score": 0.416,
-      "r18": false
-    },
-    {
-      "id": 1732,
-      "title": "Kiniro Mosaic",
-      "score": 0.415,
       "r18": false
     }
   ]

@@ -1,19 +1,13 @@
 {
   "id": 18341,
   "title": "Double Bullet",
-  "url": "https://mangadex.org/manga/18341",
-  "last_updated": "January 19, 2021 00:47:42 UTC",
+  "url": "https://api.mangadex.org/v2/manga/18341",
+  "last_updated": "February 08, 2021 20:43:41 UTC",
   "matches": [
     {
       "id": 28739,
       "title": "Rurouni Kenshin: Haru ni Sakura",
       "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 7527,
-      "title": "One Piece: Strong World",
-      "score": 0.691,
       "r18": false
     },
     {
@@ -26,6 +20,12 @@
       "id": 3933,
       "title": "CROSS",
       "score": 0.683,
+      "r18": false
+    },
+    {
+      "id": 7527,
+      "title": "One Piece: Strong World",
+      "score": 0.679,
       "r18": false
     },
     {
@@ -127,7 +127,7 @@
     {
       "id": 6607,
       "title": "Ane Pani",
-      "score": 0.413,
+      "score": 0.414,
       "r18": false
     },
     {

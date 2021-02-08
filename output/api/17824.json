@@ -1,8 +1,8 @@
 {
   "id": 17824,
   "title": "Princess Lover!",
-  "url": "https://mangadex.org/manga/17824",
-  "last_updated": "January 19, 2021 00:42:29 UTC",
+  "url": "https://api.mangadex.org/v2/manga/17824",
+  "last_updated": "February 08, 2021 20:34:57 UTC",
   "matches": [
     {
       "id": 14333,
@@ -13,7 +13,7 @@
     {
       "id": 32290,
       "title": "High Position",
-      "score": 0.709,
+      "score": 0.708,
       "r18": false
     },
     {
@@ -44,12 +44,6 @@
       "id": 1070,
       "title": "Ladies versus Butlers!",
       "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 1011,
-      "title": "Prison School",
-      "score": 0.697,
       "r18": false
     },
     {
@@ -107,15 +101,15 @@
       "r18": false
     },
     {
-      "id": 947,
-      "title": "Cheer Cheer",
-      "score": 0.691,
+      "id": 31459,
+      "title": "Arakure Ojousama wa Monmon Shiteiru",
+      "score": 0.69,
       "r18": false
     },
     {
-      "id": 31459,
-      "title": "Arakure Ojousama wa Monmon Shiteiru",
-      "score": 0.691,
+      "id": 947,
+      "title": "Cheer Cheer",
+      "score": 0.69,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 12850,
       "title": "Watari-kun no &times;&times; ga Houkai Sunzen",
       "score": 0.687,
+      "r18": false
+    },
+    {
+      "id": 656,
+      "title": "Nogizaka Haruka no Himitsu",
+      "score": 0.686,
       "r18": false
     }
   ]

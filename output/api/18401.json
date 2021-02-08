@@ -1,8 +1,8 @@
 {
   "id": 18401,
   "title": "Freaks' Squeele : Funerailles",
-  "url": "https://mangadex.org/manga/18401",
-  "last_updated": "January 19, 2021 00:48:18 UTC",
+  "url": "https://api.mangadex.org/v2/manga/18401",
+  "last_updated": "February 08, 2021 20:44:41 UTC",
   "matches": [
     {
       "id": 43,
@@ -89,12 +89,6 @@
       "r18": false
     },
     {
-      "id": 51808,
-      "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
-      "score": 0.672,
-      "r18": false
-    },
-    {
       "id": 15771,
       "title": "4 Cut Hero",
       "score": 0.671,
@@ -145,13 +139,19 @@
     {
       "id": 9175,
       "title": "Shinmai Maou no Testament",
-      "score": 0.665,
+      "score": 0.666,
       "r18": false
     },
     {
       "id": 5238,
       "title": "Samurai Deeper Kyo",
       "score": 0.664,
+      "r18": false
+    },
+    {
+      "id": 33797,
+      "title": "Lv2 kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life",
+      "score": 0.663,
       "r18": false
     }
   ]

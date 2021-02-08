@@ -1,8 +1,8 @@
 {
   "id": 18526,
   "title": "Koneko Hiroimashita",
-  "url": "https://mangadex.org/manga/18526",
-  "last_updated": "January 19, 2021 00:49:32 UTC",
+  "url": "https://api.mangadex.org/v2/manga/18526",
+  "last_updated": "February 08, 2021 20:46:45 UTC",
   "matches": [
     {
       "id": 1293,
@@ -29,6 +29,12 @@
       "r18": false
     },
     {
+      "id": 6056,
+      "title": "Shigatsu wa Kimi no Uso",
+      "score": 0.707,
+      "r18": false
+    },
+    {
       "id": 33897,
       "title": "Ossan Boukensha Kane no Zenkou",
       "score": 0.703,
@@ -41,15 +47,15 @@
       "r18": false
     },
     {
-      "id": 6056,
-      "title": "Shigatsu wa Kimi no Uso",
-      "score": 0.7,
-      "r18": false
-    },
-    {
       "id": 15728,
       "title": "Kanojo wa Rokurokubi",
       "score": 0.697,
+      "r18": false
+    },
+    {
+      "id": 7232,
+      "title": "Cat's Eye",
+      "score": 0.692,
       "r18": false
     },
     {
@@ -71,14 +77,14 @@
       "r18": false
     },
     {
-      "id": 14104,
-      "title": "Sakura Discord",
+      "id": 28525,
+      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo",
       "score": 0.684,
       "r18": false
     },
     {
-      "id": 28525,
-      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo",
+      "id": 14104,
+      "title": "Sakura Discord",
       "score": 0.684,
       "r18": false
     },
@@ -140,12 +146,6 @@
       "id": 1283,
       "title": "Rough",
       "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 7232,
-      "title": "Cat's Eye",
-      "score": 0.675,
       "r18": false
     },
     {

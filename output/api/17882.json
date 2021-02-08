@@ -1,8 +1,8 @@
 {
   "id": 17882,
   "title": "Osomatsu-kun",
-  "url": "https://mangadex.org/manga/17882",
-  "last_updated": "January 19, 2021 00:43:05 UTC",
+  "url": "https://api.mangadex.org/v2/manga/17882",
+  "last_updated": "February 08, 2021 20:35:57 UTC",
   "matches": [
     {
       "id": 1293,
@@ -13,7 +13,7 @@
     {
       "id": 1281,
       "title": "Touch",
-      "score": 0.717,
+      "score": 0.716,
       "r18": false
     },
     {
@@ -38,12 +38,6 @@
       "id": 3943,
       "title": "Slam Dunk",
       "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 39,
-      "title": "One Piece",
-      "score": 0.694,
       "r18": false
     },
     {
@@ -101,6 +95,12 @@
       "r18": false
     },
     {
+      "id": 6056,
+      "title": "Shigatsu wa Kimi no Uso",
+      "score": 0.684,
+      "r18": false
+    },
+    {
       "id": 28126,
       "title": "Kaitou Joker",
       "score": 0.683,
@@ -119,12 +119,6 @@
       "r18": false
     },
     {
-      "id": 6056,
-      "title": "Shigatsu wa Kimi no Uso",
-      "score": 0.681,
-      "r18": false
-    },
-    {
       "id": 20523,
       "title": "BEASTARS",
       "score": 0.681,
@@ -133,7 +127,7 @@
     {
       "id": 153,
       "title": "Detective Conan",
-      "score": 0.679,
+      "score": 0.68,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 48208,
       "title": "BEASTARS (Fan-Colored)",
       "score": 0.677,
+      "r18": false
+    },
+    {
+      "id": 13108,
+      "title": "Karakai Jouzu no Takagi-san",
+      "score": 0.676,
       "r18": false
     }
   ]
