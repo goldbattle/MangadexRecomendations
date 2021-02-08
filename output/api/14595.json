@@ -1,8 +1,8 @@
 {
   "id": 14595,
   "title": "Kare no Shousou to Koi ni Tsuite",
-  "url": "https://mangadex.org/manga/14595",
-  "last_updated": "January 18, 2021 12:48:27 UTC",
+  "url": "https://api.mangadex.org/v2/manga/14595",
+  "last_updated": "February 08, 2021 12:18:07 UTC",
   "matches": [
     {
       "id": 53590,
@@ -77,6 +77,12 @@
       "r18": false
     },
     {
+      "id": 1464,
+      "title": "Sangen Tonari no Tooi Hito",
+      "score": 0.726,
+      "r18": false
+    },
+    {
       "id": 15274,
       "title": "Chikan Diary",
       "score": 0.725,
@@ -113,6 +119,12 @@
       "r18": false
     },
     {
+      "id": 14999,
+      "title": "Hatsukoi no Kanata",
+      "score": 0.722,
+      "r18": false
+    },
+    {
       "id": 29909,
       "title": "Glamorous Lip",
       "score": 0.721,
@@ -140,18 +152,6 @@
       "id": 25950,
       "title": "Mayou Otoko",
       "score": 0.717,
-      "r18": false
-    },
-    {
-      "id": 46075,
-      "title": "Hydrangea Cage",
-      "score": 0.716,
-      "r18": false
-    },
-    {
-      "id": 15364,
-      "title": "Kawaigatte Kudasai",
-      "score": 0.714,
       "r18": false
     }
   ]

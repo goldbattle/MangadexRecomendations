@@ -1,8 +1,8 @@
 {
   "id": 14788,
   "title": "Abyss",
-  "url": "https://mangadex.org/manga/14788",
-  "last_updated": "January 18, 2021 12:51:00 UTC",
+  "url": "https://api.mangadex.org/v2/manga/14788",
+  "last_updated": "February 08, 2021 12:21:10 UTC",
   "matches": [
     {
       "id": 1417,
@@ -25,7 +25,7 @@
     {
       "id": 1706,
       "title": "Hanako to Guuwa no Tera",
-      "score": 0.69,
+      "score": 0.689,
       "r18": false
     },
     {
@@ -44,12 +44,6 @@
       "id": 14296,
       "title": "Hiniiru",
       "score": 0.684,
-      "r18": false
-    },
-    {
-      "id": 219,
-      "title": "Akame ga KILL!",
-      "score": 0.681,
       "r18": false
     },
     {
@@ -97,7 +91,7 @@
     {
       "id": 9839,
       "title": "Mortal Metal Shibagane",
-      "score": 0.671,
+      "score": 0.67,
       "r18": false
     },
     {
@@ -121,12 +115,6 @@
     {
       "id": 19727,
       "title": "Kuhime",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 336,
-      "title": "Kuroshitsuji",
       "score": 0.664,
       "r18": false
     },
@@ -139,7 +127,7 @@
     {
       "id": 31352,
       "title": "Shingeki no Kyojin (Fan Colored)",
-      "score": 0.664,
+      "score": 0.663,
       "r18": false
     },
     {
@@ -152,6 +140,18 @@
       "id": 7435,
       "title": "A Midnight Opera",
       "score": 0.662,
+      "r18": false
+    },
+    {
+      "id": 14776,
+      "title": "Inukai x Tribe",
+      "score": 0.661,
+      "r18": false
+    },
+    {
+      "id": 2541,
+      "title": "Doubt",
+      "score": 0.661,
       "r18": false
     }
   ]

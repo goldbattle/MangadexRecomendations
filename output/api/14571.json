@@ -1,8 +1,8 @@
 {
   "id": 14571,
   "title": "Shen Yin Wang Zuo",
-  "url": "https://mangadex.org/manga/14571",
-  "last_updated": "January 18, 2021 12:48:08 UTC",
+  "url": "https://api.mangadex.org/v2/manga/14571",
+  "last_updated": "February 08, 2021 12:17:44 UTC",
   "matches": [
     {
       "id": 14674,
@@ -11,14 +11,14 @@
       "r18": false
     },
     {
-      "id": 23231,
-      "title": "Wu Dong Qian Kun",
+      "id": 10526,
+      "title": "Iron Knight",
       "score": 0.729,
       "r18": false
     },
     {
-      "id": 10526,
-      "title": "Iron Knight",
+      "id": 23231,
+      "title": "Wu Dong Qian Kun",
       "score": 0.729,
       "r18": false
     },
@@ -67,7 +67,7 @@
     {
       "id": 7308,
       "title": "Radiata Stories - The Song of Ridley",
-      "score": 0.713,
+      "score": 0.714,
       "r18": false
     },
     {
@@ -103,7 +103,13 @@
     {
       "id": 28525,
       "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo",
-      "score": 0.709,
+      "score": 0.708,
+      "r18": false
+    },
+    {
+      "id": 42459,
+      "title": "Akame ga Kill! 1.5",
+      "score": 0.708,
       "r18": false
     },
     {
@@ -115,12 +121,6 @@
     {
       "id": 31917,
       "title": "Honzuki no Gekokujou ~Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen~ Dai 3-bu \u300cRyouchi ni Hon o Hirogeyou!\u300d",
-      "score": 0.708,
-      "r18": false
-    },
-    {
-      "id": 42459,
-      "title": "Akame ga Kill! 1.5",
       "score": 0.708,
       "r18": false
     },
@@ -143,14 +143,14 @@
       "r18": false
     },
     {
-      "id": 21283,
-      "title": "Persona 5",
+      "id": 12329,
+      "title": "Tsuyokute New Saga",
       "score": 0.707,
       "r18": false
     },
     {
-      "id": 12329,
-      "title": "Tsuyokute New Saga",
+      "id": 30467,
+      "title": "Lodoss Tousenki - Haiiro no Majo",
       "score": 0.707,
       "r18": false
     }

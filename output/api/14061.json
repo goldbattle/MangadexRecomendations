@@ -1,13 +1,13 @@
 {
   "id": 14061,
   "title": "Salty Road",
-  "url": "https://mangadex.org/manga/14061",
-  "last_updated": "January 18, 2021 12:41:20 UTC",
+  "url": "https://api.mangadex.org/v2/manga/14061",
+  "last_updated": "February 08, 2021 12:09:42 UTC",
   "matches": [
     {
       "id": 281,
       "title": "Trigun Maximum",
-      "score": 0.709,
+      "score": 0.708,
       "r18": false
     },
     {
@@ -73,7 +73,7 @@
     {
       "id": 11576,
       "title": "Genso Ginekokurasy",
-      "score": 0.683,
+      "score": 0.684,
       "r18": false
     },
     {
@@ -86,12 +86,6 @@
       "id": 22485,
       "title": "Nekurogu (Necrolog)",
       "score": 0.681,
-      "r18": false
-    },
-    {
-      "id": 15374,
-      "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Dainishou - Yashiki no Shuukan Hen",
-      "score": 0.68,
       "r18": false
     },
     {
@@ -151,6 +145,12 @@
     {
       "id": 7126,
       "title": "Dimension W",
+      "score": 0.673,
+      "r18": false
+    },
+    {
+      "id": 95,
+      "title": "OZ (TOKIYA Seigo)",
       "score": 0.673,
       "r18": false
     }

@@ -1,8 +1,8 @@
 {
   "id": 14729,
   "title": "Yoru ga Aketemo",
-  "url": "https://mangadex.org/manga/14729",
-  "last_updated": "January 18, 2021 12:50:12 UTC",
+  "url": "https://api.mangadex.org/v2/manga/14729",
+  "last_updated": "February 08, 2021 12:20:13 UTC",
   "matches": [
     {
       "id": 25950,
@@ -121,7 +121,7 @@
     {
       "id": 45657,
       "title": "Adam no Rokkotsu",
-      "score": 0.449,
+      "score": 0.446,
       "r18": false
     },
     {
@@ -137,6 +137,12 @@
       "r18": false
     },
     {
+      "id": 14999,
+      "title": "Hatsukoi no Kanata",
+      "score": 0.429,
+      "r18": false
+    },
+    {
       "id": 19694,
       "title": "First Thing I Do When I Wake Up",
       "score": 0.429,
@@ -145,12 +151,6 @@
     {
       "id": 14117,
       "title": "Oboreru Hitomi",
-      "score": 0.428,
-      "r18": false
-    },
-    {
-      "id": 57206,
-      "title": "Kumo no Ue de Kiss o Shiyou",
       "score": 0.428,
       "r18": false
     }

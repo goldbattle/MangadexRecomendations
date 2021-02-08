@@ -1,8 +1,8 @@
 {
   "id": 14702,
   "title": "Panlong",
-  "url": "https://mangadex.org/manga/14702",
-  "last_updated": "January 18, 2021 12:49:49 UTC",
+  "url": "https://api.mangadex.org/v2/manga/14702",
+  "last_updated": "February 08, 2021 12:19:49 UTC",
   "matches": [
     {
       "id": 23231,
@@ -19,12 +19,6 @@
     {
       "id": 7956,
       "title": "Derayd - Kaikyoutenbin no Tsuki",
-      "score": 0.729,
-      "r18": false
-    },
-    {
-      "id": 21283,
-      "title": "Persona 5",
       "score": 0.729,
       "r18": false
     },
@@ -55,7 +49,7 @@
     {
       "id": 5068,
       "title": "Breath of Fire - Ryuu no Senshi",
-      "score": 0.725,
+      "score": 0.724,
       "r18": false
     },
     {
@@ -79,13 +73,13 @@
     {
       "id": 53969,
       "title": "Dragon Raja",
-      "score": 0.721,
+      "score": 0.72,
       "r18": false
     },
     {
       "id": 20426,
       "title": "Sunset Rose",
-      "score": 0.721,
+      "score": 0.72,
       "r18": false
     },
     {
@@ -103,7 +97,7 @@
     {
       "id": 31002,
       "title": "Jimi na Kensei wa Sore Demo Saikyou Desu",
-      "score": 0.72,
+      "score": 0.719,
       "r18": false
     },
     {
@@ -140,6 +134,12 @@
       "id": 6677,
       "title": "Slayers REVOLUTION",
       "score": 0.716,
+      "r18": false
+    },
+    {
+      "id": 283,
+      "title": "Ao no Exorcist",
+      "score": 0.715,
       "r18": false
     },
     {

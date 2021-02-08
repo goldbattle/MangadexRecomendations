@@ -1,8 +1,8 @@
 {
   "id": 13993,
   "title": "Fate/hollow ataraxia Comic a la carte",
-  "url": "https://mangadex.org/manga/13993",
-  "last_updated": "January 18, 2021 12:40:23 UTC",
+  "url": "https://api.mangadex.org/v2/manga/13993",
+  "last_updated": "February 08, 2021 12:08:42 UTC",
   "matches": [
     {
       "id": 10977,
@@ -25,7 +25,7 @@
     {
       "id": 1083,
       "title": "Bamboo Blade",
-      "score": 0.373,
+      "score": 0.374,
       "r18": false
     },
     {
@@ -37,12 +37,6 @@
     {
       "id": 11766,
       "title": "All Out!!",
-      "score": 0.367,
-      "r18": false
-    },
-    {
-      "id": 19434,
-      "title": "Toki",
       "score": 0.367,
       "r18": false
     },
@@ -67,7 +61,7 @@
     {
       "id": 19007,
       "title": "Shakunetsu no Takkyuu Musume",
-      "score": 0.343,
+      "score": 0.342,
       "r18": false
     },
     {
@@ -127,7 +121,7 @@
     {
       "id": 9683,
       "title": "Shinohayu - The Dawn of Age",
-      "score": 0.31,
+      "score": 0.311,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 6596,
       "title": "Rubbers 7",
       "score": 0.296,
+      "r18": false
+    },
+    {
+      "id": 22078,
+      "title": "Saotome Senshu, Hitakakusu",
+      "score": 0.295,
       "r18": false
     }
   ]

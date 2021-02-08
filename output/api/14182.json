@@ -1,8 +1,8 @@
 {
   "id": 14182,
   "title": "Karasuma Zero-jou Tandai - Mahou Shoujo Taisen",
-  "url": "https://mangadex.org/manga/14182",
-  "last_updated": "January 18, 2021 12:42:52 UTC",
+  "url": "https://api.mangadex.org/v2/manga/14182",
+  "last_updated": "February 08, 2021 12:11:42 UTC",
   "matches": [
     {
       "id": 12720,
@@ -65,12 +65,6 @@
       "r18": false
     },
     {
-      "id": 44976,
-      "title": "Mashle: Magic and Muscles",
-      "score": 0.665,
-      "r18": false
-    },
-    {
       "id": 12432,
       "title": "Ore to Kawazu-san no Isekai Hourouki",
       "score": 0.663,
@@ -119,20 +113,32 @@
       "r18": false
     },
     {
-      "id": 4880,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
-      "score": 0.658,
-      "r18": false
-    },
-    {
       "id": 22194,
       "title": "Beast Complex",
       "score": 0.658,
       "r18": false
     },
     {
+      "id": 4880,
+      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
+      "score": 0.658,
+      "r18": false
+    },
+    {
       "id": 9578,
       "title": "Kakuriyo Monogatari",
+      "score": 0.658,
+      "r18": false
+    },
+    {
+      "id": 44529,
+      "title": "JK Musou - Owaru Sekai no Sukuikata",
+      "score": 0.658,
+      "r18": false
+    },
+    {
+      "id": 44976,
+      "title": "Mashle: Magic and Muscles",
       "score": 0.658,
       "r18": false
     },
@@ -146,12 +152,6 @@
       "id": 10888,
       "title": "Dream Saga",
       "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 511,
-      "title": "Ga-rei",
-      "score": 0.657,
       "r18": false
     }
   ]

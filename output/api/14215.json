@@ -1,8 +1,8 @@
 {
   "id": 14215,
   "title": "Gewalt",
-  "url": "https://mangadex.org/manga/14215",
-  "last_updated": "January 18, 2021 12:43:19 UTC",
+  "url": "https://api.mangadex.org/v2/manga/14215",
+  "last_updated": "February 08, 2021 12:12:11 UTC",
   "matches": [
     {
       "id": 281,
@@ -19,7 +19,7 @@
     {
       "id": 16825,
       "title": "Ginga Eiyuu Densetsu",
-      "score": 0.719,
+      "score": 0.718,
       "r18": false
     },
     {
@@ -67,7 +67,7 @@
     {
       "id": 8495,
       "title": "Persona 3",
-      "score": 0.711,
+      "score": 0.71,
       "r18": false
     },
     {
@@ -86,12 +86,6 @@
       "id": 36651,
       "title": "Nageki no Bourei wa Intai Shitai - Saijiyaku Hanta ni Yoru Saikiyou Patei Ikusei Jutsu",
       "score": 0.71,
-      "r18": false
-    },
-    {
-      "id": 3388,
-      "title": "Fate/Zero",
-      "score": 0.708,
       "r18": false
     },
     {
@@ -143,15 +137,21 @@
       "r18": false
     },
     {
-      "id": 14676,
-      "title": "The Legendary Moonlight Sculptor",
+      "id": 12396,
+      "title": "Soukoku no Garou - Hokuto no Ken: Rei Gaiden",
       "score": 0.705,
       "r18": false
     },
     {
-      "id": 12396,
-      "title": "Soukoku no Garou - Hokuto no Ken: Rei Gaiden",
-      "score": 0.705,
+      "id": 14676,
+      "title": "The Legendary Moonlight Sculptor",
+      "score": 0.704,
+      "r18": false
+    },
+    {
+      "id": 24096,
+      "title": "Saraiya Goyou",
+      "score": 0.704,
       "r18": false
     }
   ]

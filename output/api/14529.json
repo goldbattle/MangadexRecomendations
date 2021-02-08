@@ -1,8 +1,8 @@
 {
   "id": 14529,
   "title": "Gilgamesh",
-  "url": "https://mangadex.org/manga/14529",
-  "last_updated": "January 18, 2021 12:47:35 UTC",
+  "url": "https://api.mangadex.org/v2/manga/14529",
+  "last_updated": "February 08, 2021 12:17:04 UTC",
   "matches": [
     {
       "id": 1765,
@@ -43,7 +43,7 @@
     {
       "id": 6531,
       "title": "Jade",
-      "score": 0.321,
+      "score": 0.322,
       "r18": false
     },
     {
@@ -85,13 +85,19 @@
     {
       "id": 15134,
       "title": "Kimi ni Yoseru Blue",
-      "score": 0.283,
+      "score": 0.284,
       "r18": false
     },
     {
       "id": 6945,
       "title": "BAROQUE - Ketsuraku no Paradigm",
       "score": 0.275,
+      "r18": false
+    },
+    {
+      "id": 6352,
+      "title": "Daten no Tsuki",
+      "score": 0.274,
       "r18": false
     },
     {
@@ -103,7 +109,7 @@
     {
       "id": 56124,
       "title": "Kagami no Kojou",
-      "score": 0.273,
+      "score": 0.272,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 15270,
       "title": "Sekisei Inko",
       "score": 0.262,
-      "r18": false
-    },
-    {
-      "id": 3285,
-      "title": "Angel no Oka",
-      "score": 0.257,
       "r18": false
     }
   ]

@@ -1,19 +1,13 @@
 {
   "id": 15354,
   "title": "Butsu Rock",
-  "url": "https://mangadex.org/manga/15354",
-  "last_updated": "January 18, 2021 18:46:09 UTC",
+  "url": "https://api.mangadex.org/v2/manga/15354",
+  "last_updated": "February 08, 2021 12:30:20 UTC",
   "matches": [
     {
       "id": 7344,
       "title": "Shin Sekai Yori",
       "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 21283,
-      "title": "Persona 5",
-      "score": 0.657,
       "r18": false
     },
     {
@@ -59,6 +53,12 @@
       "r18": false
     },
     {
+      "id": 42459,
+      "title": "Akame ga Kill! 1.5",
+      "score": 0.651,
+      "r18": false
+    },
+    {
       "id": 43551,
       "title": "Is It Tough Being a Friend?",
       "score": 0.651,
@@ -67,18 +67,6 @@
     {
       "id": 219,
       "title": "Akame ga KILL!",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 42459,
-      "title": "Akame ga Kill! 1.5",
-      "score": 0.65,
-      "r18": false
-    },
-    {
-      "id": 1107,
-      "title": "En Passant",
       "score": 0.65,
       "r18": false
     },
@@ -107,15 +95,15 @@
       "r18": false
     },
     {
-      "id": 15202,
-      "title": "Naruto Gaiden: Nanadaime Hokage to Akairo no Hanatsuzuki",
-      "score": 0.412,
-      "r18": false
-    },
-    {
       "id": 32137,
       "title": "Dong Gun",
       "score": 0.41,
+      "r18": false
+    },
+    {
+      "id": 1107,
+      "title": "En Passant",
+      "score": 0.405,
       "r18": false
     },
     {
@@ -137,12 +125,6 @@
       "r18": false
     },
     {
-      "id": 39,
-      "title": "One Piece",
-      "score": 0.394,
-      "r18": false
-    },
-    {
       "id": 511,
       "title": "Ga-rei",
       "score": 0.389,
@@ -151,7 +133,25 @@
     {
       "id": 14241,
       "title": "Doonggule Tea!",
-      "score": 0.389,
+      "score": 0.388,
+      "r18": false
+    },
+    {
+      "id": 4566,
+      "title": "Hero Tales",
+      "score": 0.386,
+      "r18": false
+    },
+    {
+      "id": 283,
+      "title": "Ao no Exorcist",
+      "score": 0.381,
+      "r18": false
+    },
+    {
+      "id": 39,
+      "title": "One Piece",
+      "score": 0.379,
       "r18": false
     }
   ]

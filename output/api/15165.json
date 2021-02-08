@@ -1,8 +1,8 @@
 {
   "id": 15165,
   "title": "Vampire Hunter D",
-  "url": "https://mangadex.org/manga/15165",
-  "last_updated": "January 18, 2021 18:44:15 UTC",
+  "url": "https://api.mangadex.org/v2/manga/15165",
+  "last_updated": "February 08, 2021 12:27:20 UTC",
   "matches": [
     {
       "id": 10571,
@@ -41,12 +41,6 @@
       "r18": false
     },
     {
-      "id": 3388,
-      "title": "Fate/Zero",
-      "score": 0.766,
-      "r18": false
-    },
-    {
       "id": 8339,
       "title": "Tales of the World - Radiant Mythology",
       "score": 0.766,
@@ -73,7 +67,7 @@
     {
       "id": 14676,
       "title": "The Legendary Moonlight Sculptor",
-      "score": 0.757,
+      "score": 0.756,
       "r18": false
     },
     {
@@ -151,6 +145,12 @@
     {
       "id": 6961,
       "title": "March Story",
+      "score": 0.746,
+      "r18": false
+    },
+    {
+      "id": 17889,
+      "title": "Beast of East",
       "score": 0.746,
       "r18": false
     }

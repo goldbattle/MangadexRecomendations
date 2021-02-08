@@ -1,8 +1,8 @@
 {
   "id": 15057,
   "title": "Mei Company",
-  "url": "https://mangadex.org/manga/15057",
-  "last_updated": "January 18, 2021 18:43:10 UTC",
+  "url": "https://api.mangadex.org/v2/manga/15057",
+  "last_updated": "February 08, 2021 12:25:32 UTC",
   "matches": [
     {
       "id": 4880,
@@ -83,12 +83,6 @@
       "r18": false
     },
     {
-      "id": 444,
-      "title": "D-Frag!",
-      "score": 0.709,
-      "r18": false
-    },
-    {
       "id": 14676,
       "title": "The Legendary Moonlight Sculptor",
       "score": 0.707,
@@ -116,6 +110,12 @@
       "id": 6272,
       "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
       "score": 0.701,
+      "r18": false
+    },
+    {
+      "id": 444,
+      "title": "D-Frag!",
+      "score": 0.7,
       "r18": false
     },
     {
@@ -151,7 +151,7 @@
     {
       "id": 10697,
       "title": "Suberuwo Itowazu",
-      "score": 0.695,
+      "score": 0.694,
       "r18": false
     }
   ]

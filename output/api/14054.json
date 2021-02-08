@@ -1,8 +1,8 @@
 {
   "id": 14054,
   "title": "Double-J",
-  "url": "https://mangadex.org/manga/14054",
-  "last_updated": "January 18, 2021 12:41:11 UTC",
+  "url": "https://api.mangadex.org/v2/manga/14054",
+  "last_updated": "February 08, 2021 12:09:35 UTC",
   "matches": [
     {
       "id": 1728,
@@ -23,12 +23,6 @@
       "r18": false
     },
     {
-      "id": 12896,
-      "title": "Handa-kun",
-      "score": 0.698,
-      "r18": false
-    },
-    {
       "id": 9497,
       "title": "Rewrite: SIDE-R",
       "score": 0.696,
@@ -38,12 +32,6 @@
       "id": 3091,
       "title": "Suzumiya Haruhi no Yuuutsu",
       "score": 0.695,
-      "r18": false
-    },
-    {
-      "id": 484,
-      "title": "Barakamon",
-      "score": 0.694,
       "r18": false
     },
     {
@@ -152,6 +140,18 @@
       "id": 14876,
       "title": "Kuroko no Basket - Replace Plus",
       "score": 0.677,
+      "r18": false
+    },
+    {
+      "id": 1281,
+      "title": "Touch",
+      "score": 0.676,
+      "r18": false
+    },
+    {
+      "id": 4437,
+      "title": "Golden Time",
+      "score": 0.675,
       "r18": false
     }
   ]

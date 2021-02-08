@@ -1,19 +1,19 @@
 {
   "id": 14801,
   "title": "Santa",
-  "url": "https://mangadex.org/manga/14801",
-  "last_updated": "January 18, 2021 12:51:12 UTC",
+  "url": "https://api.mangadex.org/v2/manga/14801",
+  "last_updated": "February 08, 2021 12:21:24 UTC",
   "matches": [
+    {
+      "id": 51318,
+      "title": "Truthfully, They Only Remembered Her",
+      "score": 0.678,
+      "r18": false
+    },
     {
       "id": 54736,
       "title": "Cheerful Countess Sisters",
       "score": 0.673,
-      "r18": false
-    },
-    {
-      "id": 51318,
-      "title": "Truthfully, They Only Remembered Her",
-      "score": 0.668,
       "r18": false
     },
     {
@@ -26,12 +26,6 @@
       "id": 28022,
       "title": "Sita Wihayeo",
       "score": 0.431,
-      "r18": false
-    },
-    {
-      "id": 59481,
-      "title": "Dance of Love",
-      "score": 0.394,
       "r18": false
     },
     {
@@ -68,6 +62,12 @@
       "id": 44057,
       "title": "The Tyrant's First Love",
       "score": 0.318,
+      "r18": false
+    },
+    {
+      "id": 59481,
+      "title": "Dance of Love",
+      "score": 0.316,
       "r18": false
     },
     {
@@ -121,7 +121,7 @@
     {
       "id": 59440,
       "title": "The Flower Dances and the Wind Sings",
-      "score": 0.299,
+      "score": 0.3,
       "r18": false
     },
     {

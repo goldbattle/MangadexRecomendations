@@ -1,19 +1,13 @@
 {
   "id": 14027,
   "title": "Panorama of Hell",
-  "url": "https://mangadex.org/manga/14027",
-  "last_updated": "January 18, 2021 12:40:50 UTC",
+  "url": "https://api.mangadex.org/v2/manga/14027",
+  "last_updated": "February 08, 2021 12:09:11 UTC",
   "matches": [
     {
       "id": 11898,
       "title": "Rohan at the Louvre",
       "score": 0.695,
-      "r18": false
-    },
-    {
-      "id": 336,
-      "title": "Kuroshitsuji",
-      "score": 0.69,
       "r18": false
     },
     {
@@ -41,12 +35,6 @@
       "r18": false
     },
     {
-      "id": 219,
-      "title": "Akame ga KILL!",
-      "score": 0.682,
-      "r18": false
-    },
-    {
       "id": 28843,
       "title": "JoJo's Bizarre Adventure Part 4 - Diamond is Unbreakable",
       "score": 0.682,
@@ -61,6 +49,12 @@
     {
       "id": 2712,
       "title": "Blame!",
+      "score": 0.682,
+      "r18": false
+    },
+    {
+      "id": 219,
+      "title": "Akame ga KILL!",
       "score": 0.682,
       "r18": false
     },
@@ -115,7 +109,7 @@
     {
       "id": 19086,
       "title": "Ushiro - The Somber God of Death",
-      "score": 0.673,
+      "score": 0.674,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 33688,
       "title": "Kiriko Kill",
       "score": 0.671,
+      "r18": false
+    },
+    {
+      "id": 22194,
+      "title": "Beast Complex",
+      "score": 0.67,
       "r18": false
     }
   ]

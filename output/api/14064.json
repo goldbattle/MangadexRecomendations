@@ -1,8 +1,8 @@
 {
   "id": 14064,
   "title": "Tsukimizuki Rikai no Tantei Satsujin",
-  "url": "https://mangadex.org/manga/14064",
-  "last_updated": "January 18, 2021 12:41:21 UTC",
+  "url": "https://api.mangadex.org/v2/manga/14064",
+  "last_updated": "February 08, 2021 12:09:45 UTC",
   "matches": [
     {
       "id": 1417,
@@ -47,12 +47,6 @@
       "r18": false
     },
     {
-      "id": 43429,
-      "title": "Bungou Stray Dogs Beast",
-      "score": 0.746,
-      "r18": false
-    },
-    {
       "id": 3089,
       "title": "Corpse Party - Another Child",
       "score": 0.745,
@@ -79,13 +73,13 @@
     {
       "id": 22583,
       "title": "Sensei no Yasashii Koroshikata",
-      "score": 0.739,
+      "score": 0.738,
       "r18": false
     },
     {
       "id": 5171,
       "title": "Goth",
-      "score": 0.739,
+      "score": 0.738,
       "r18": false
     },
     {
@@ -119,12 +113,6 @@
       "r18": false
     },
     {
-      "id": 219,
-      "title": "Akame ga KILL!",
-      "score": 0.733,
-      "r18": false
-    },
-    {
       "id": 436,
       "title": "Aku no Hana",
       "score": 0.733,
@@ -143,15 +131,27 @@
       "r18": false
     },
     {
+      "id": 3091,
+      "title": "Suzumiya Haruhi no Yuuutsu",
+      "score": 0.73,
+      "r18": false
+    },
+    {
       "id": 2679,
       "title": "Spiral Alive",
       "score": 0.73,
       "r18": false
     },
     {
-      "id": 3091,
-      "title": "Suzumiya Haruhi no Yuuutsu",
-      "score": 0.73,
+      "id": 1352,
+      "title": "Teiichi no Kuni",
+      "score": 0.729,
+      "r18": false
+    },
+    {
+      "id": 4773,
+      "title": "Clannad",
+      "score": 0.728,
       "r18": false
     }
   ]
