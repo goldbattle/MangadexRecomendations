@@ -1,8 +1,8 @@
 {
   "id": 27642,
   "title": "Otona ni Nuts",
-  "url": "https://mangadex.org/manga/27642",
-  "last_updated": "January 13, 2021 01:09:19 UTC",
+  "url": "https://api.mangadex.org/v2/manga/27642",
+  "last_updated": "February 09, 2021 20:33:52 UTC",
   "matches": [
     {
       "id": 529,
@@ -13,7 +13,7 @@
     {
       "id": 6082,
       "title": "Yume Miru Happa",
-      "score": 0.728,
+      "score": 0.727,
       "r18": false
     },
     {
@@ -43,12 +43,6 @@
     {
       "id": 7012,
       "title": "Joousama no Inu",
-      "score": 0.717,
-      "r18": false
-    },
-    {
-      "id": 3865,
-      "title": "Ghost Hunt",
       "score": 0.716,
       "r18": false
     },
@@ -83,15 +77,21 @@
       "r18": false
     },
     {
+      "id": 58487,
+      "title": "Happy Ending for the Time-Limited Villainess",
+      "score": 0.711,
+      "r18": false
+    },
+    {
       "id": 8499,
       "title": "Siesta",
       "score": 0.711,
       "r18": false
     },
     {
-      "id": 58487,
-      "title": "Happy Ending for the Time-Limited Villainess",
-      "score": 0.711,
+      "id": 3865,
+      "title": "Ghost Hunt",
+      "score": 0.708,
       "r18": false
     },
     {
@@ -131,8 +131,20 @@
       "r18": false
     },
     {
+      "id": 4802,
+      "title": "Junketsu + Kareshi",
+      "score": 0.704,
+      "r18": false
+    },
+    {
       "id": 426,
       "title": "Dark City",
+      "score": 0.703,
+      "r18": false
+    },
+    {
+      "id": 40508,
+      "title": "Please, Ms. Gem!",
       "score": 0.703,
       "r18": false
     },
@@ -140,18 +152,6 @@
       "id": 3542,
       "title": "Dou Nannyo?!",
       "score": 0.703,
-      "r18": false
-    },
-    {
-      "id": 40508,
-      "title": "Please, Ms. Gem!",
-      "score": 0.702,
-      "r18": false
-    },
-    {
-      "id": 5421,
-      "title": "Kamikaze Kaitou Jeanne",
-      "score": 0.702,
       "r18": false
     }
   ]

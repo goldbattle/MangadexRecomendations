@@ -1,13 +1,19 @@
 {
   "id": 26595,
   "title": "Kantai Collection -KanColle- Suiheisen no, Fumizuki",
-  "url": "https://mangadex.org/manga/26595",
-  "last_updated": "January 13, 2021 00:56:52 UTC",
+  "url": "https://api.mangadex.org/v2/manga/26595",
+  "last_updated": "February 09, 2021 20:16:57 UTC",
   "matches": [
     {
       "id": 24151,
       "title": "Betsu ni Houridashita Waje ja Nai n Dakedo.... - Mikan no Manga ga Aru Riyuu",
-      "score": 0.655,
+      "score": 0.656,
+      "r18": false
+    },
+    {
+      "id": 49819,
+      "title": "Sono otaku, moto koroshi-ya.",
+      "score": 0.408,
       "r18": false
     },
     {
@@ -23,15 +29,9 @@
       "r18": false
     },
     {
-      "id": 58601,
-      "title": "Nina wa Papa o Koroshitai",
-      "score": 0.363,
-      "r18": false
-    },
-    {
       "id": 11852,
       "title": "Taiho Shichau zo",
-      "score": 0.357,
+      "score": 0.356,
       "r18": false
     },
     {
@@ -68,6 +68,12 @@
       "id": 34640,
       "title": "SSSS.GRIDMAN ANTHOLOGY",
       "score": 0.318,
+      "r18": false
+    },
+    {
+      "id": 11576,
+      "title": "Genso Ginekokurasy",
+      "score": 0.317,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 23457,
       "title": "The iDOLM@STER Cinderella Girls - WILD WIND GIRL",
       "score": 0.282,
-      "r18": false
-    },
-    {
-      "id": 23851,
-      "title": "Retired Heroes",
-      "score": 0.281,
       "r18": false
     }
   ]

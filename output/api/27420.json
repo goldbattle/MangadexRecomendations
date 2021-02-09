@@ -1,19 +1,25 @@
 {
   "id": 27420,
   "title": "Mikansei Girl",
-  "url": "https://mangadex.org/manga/27420",
-  "last_updated": "January 13, 2021 01:06:32 UTC",
+  "url": "https://api.mangadex.org/v2/manga/27420",
+  "last_updated": "February 09, 2021 20:30:03 UTC",
   "matches": [
     {
       "id": 18294,
       "title": "Black Yagi to Gekiyaku Madeleine",
-      "score": 0.677,
+      "score": 0.678,
       "r18": false
     },
     {
       "id": 35229,
       "title": "Kimi no Tame ni Sekai wa Aru",
       "score": 0.67,
+      "r18": false
+    },
+    {
+      "id": 6162,
+      "title": "Moyashi Otoko to Tane Shoujo",
+      "score": 0.653,
       "r18": false
     },
     {
@@ -59,14 +65,14 @@
       "r18": false
     },
     {
-      "id": 26219,
-      "title": "Friends",
+      "id": 54286,
+      "title": "P=NP?",
       "score": 0.35,
       "r18": false
     },
     {
-      "id": 54286,
-      "title": "P=NP?",
+      "id": 58547,
+      "title": "A Girl Who Wants To Get Close With the Girl She Likes",
       "score": 0.35,
       "r18": false
     },
@@ -145,12 +151,6 @@
     {
       "id": 35356,
       "title": "GAE GAE",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 37959,
-      "title": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui! - You'll Be My Tailwind (Doujinshi)",
       "score": 0.233,
       "r18": false
     }

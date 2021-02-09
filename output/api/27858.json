@@ -1,8 +1,8 @@
 {
   "id": 27858,
   "title": "Witchblade",
-  "url": "https://mangadex.org/manga/27858",
-  "last_updated": "January 13, 2021 01:12:11 UTC",
+  "url": "https://api.mangadex.org/v2/manga/27858",
+  "last_updated": "February 09, 2021 20:37:25 UTC",
   "matches": [
     {
       "id": 6,
@@ -23,14 +23,14 @@
       "r18": false
     },
     {
-      "id": 3920,
-      "title": "Hameln no Violin Hiki",
+      "id": 11615,
+      "title": "Rakudai Kishi no Eiyuutan",
       "score": 0.72,
       "r18": false
     },
     {
-      "id": 11615,
-      "title": "Rakudai Kishi no Eiyuutan",
+      "id": 3920,
+      "title": "Hameln no Violin Hiki",
       "score": 0.72,
       "r18": false
     },
@@ -65,6 +65,12 @@
       "r18": false
     },
     {
+      "id": 732,
+      "title": "To Love-Ru",
+      "score": 0.711,
+      "r18": false
+    },
+    {
       "id": 3252,
       "title": "Majimoji Rurumo",
       "score": 0.71,
@@ -74,6 +80,12 @@
       "id": 8044,
       "title": "Kami-sama no Iutoori 2",
       "score": 0.71,
+      "r18": false
+    },
+    {
+      "id": 887,
+      "title": "Mahou Shoujo Lyrical Nanoha ViVid",
+      "score": 0.709,
       "r18": false
     },
     {
@@ -91,7 +103,7 @@
     {
       "id": 3819,
       "title": "Classmate (\u2640) to Meikyuu no Futekisetsu na Kouryakuhou",
-      "score": 0.707,
+      "score": 0.708,
       "r18": false
     },
     {
@@ -139,18 +151,6 @@
     {
       "id": 13354,
       "title": "7th Garden",
-      "score": 0.7,
-      "r18": false
-    },
-    {
-      "id": 6138,
-      "title": "Full Metal Panic!",
-      "score": 0.7,
-      "r18": false
-    },
-    {
-      "id": 31349,
-      "title": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka (Fan Colored)",
       "score": 0.7,
       "r18": false
     }

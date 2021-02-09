@@ -1,8 +1,8 @@
 {
   "id": 27589,
   "title": "Danza",
-  "url": "https://mangadex.org/manga/27589",
-  "last_updated": "January 13, 2021 01:08:38 UTC",
+  "url": "https://api.mangadex.org/v2/manga/27589",
+  "last_updated": "February 09, 2021 20:32:57 UTC",
   "matches": [
     {
       "id": 5927,
@@ -67,7 +67,7 @@
     {
       "id": 2076,
       "title": "Ame no Furu Basho",
-      "score": 0.381,
+      "score": 0.38,
       "r18": false
     },
     {
@@ -91,12 +91,6 @@
     {
       "id": 15519,
       "title": "Coffee Mou Ippai",
-      "score": 0.351,
-      "r18": false
-    },
-    {
-      "id": 58011,
-      "title": "Gokko",
       "score": 0.351,
       "r18": false
     },
@@ -152,6 +146,12 @@
       "id": 18293,
       "title": "Mitsuami no Kamisama",
       "score": 0.341,
+      "r18": false
+    },
+    {
+      "id": 23339,
+      "title": "Sekai no Aikotoba wa Mizu",
+      "score": 0.338,
       "r18": false
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": 27776,
   "title": "Shinshikyoutei wo Musubou!",
-  "url": "https://mangadex.org/manga/27776",
-  "last_updated": "January 13, 2021 01:11:04 UTC",
+  "url": "https://api.mangadex.org/v2/manga/27776",
+  "last_updated": "February 09, 2021 20:36:02 UTC",
   "matches": [
     {
       "id": 26022,
@@ -19,13 +19,13 @@
     {
       "id": 29090,
       "title": "Mawaru Sekai no Kimi to Boku",
-      "score": 0.692,
+      "score": 0.691,
       "r18": false
     },
     {
       "id": 55268,
       "title": "Suki da Nante Ienai",
-      "score": 0.691,
+      "score": 0.69,
       "r18": false
     },
     {
@@ -65,12 +65,6 @@
       "r18": false
     },
     {
-      "id": 46031,
-      "title": "Himitsu de, Hanazono.",
-      "score": 0.668,
-      "r18": false
-    },
-    {
       "id": 7329,
       "title": "Natsu, Kimi ga Saku.",
       "score": 0.665,
@@ -79,6 +73,12 @@
     {
       "id": 7135,
       "title": "Anata no Tame Nara Doko Made mo",
+      "score": 0.665,
+      "r18": false
+    },
+    {
+      "id": 46031,
+      "title": "Himitsu de, Hanazono.",
       "score": 0.665,
       "r18": false
     },
@@ -109,7 +109,7 @@
     {
       "id": 54985,
       "title": "Irokoi Comedy",
-      "score": 0.429,
+      "score": 0.43,
       "r18": false
     },
     {
@@ -121,7 +121,7 @@
     {
       "id": 18984,
       "title": "Hana to Junketsu",
-      "score": 0.415,
+      "score": 0.414,
       "r18": false
     },
     {
@@ -151,7 +151,7 @@
     {
       "id": 23563,
       "title": "Beware of Demons",
-      "score": 0.355,
+      "score": 0.354,
       "r18": false
     }
   ]

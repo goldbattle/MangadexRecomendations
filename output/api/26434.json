@@ -1,19 +1,13 @@
 {
   "id": 26434,
   "title": "Tsumikuibito",
-  "url": "https://mangadex.org/manga/26434",
-  "last_updated": "January 13, 2021 00:54:58 UTC",
+  "url": "https://api.mangadex.org/v2/manga/26434",
+  "last_updated": "February 09, 2021 20:14:21 UTC",
   "matches": [
-    {
-      "id": 4802,
-      "title": "Junketsu + Kareshi",
-      "score": 0.709,
-      "r18": false
-    },
     {
       "id": 5696,
       "title": "Tenshi Kinryouku",
-      "score": 0.705,
+      "score": 0.704,
       "r18": false
     },
     {
@@ -23,26 +17,14 @@
       "r18": false
     },
     {
-      "id": 10114,
-      "title": "Shingeki no Kyojin - Birth of Levi",
-      "score": 0.698,
-      "r18": false
-    },
-    {
       "id": 39416,
       "title": "Dokebi Bride",
-      "score": 0.693,
+      "score": 0.692,
       "r18": false
     },
     {
       "id": 27550,
       "title": "Akuma no Ororon",
-      "score": 0.685,
-      "r18": false
-    },
-    {
-      "id": 37071,
-      "title": "Inso's Law",
       "score": 0.684,
       "r18": false
     },
@@ -77,12 +59,6 @@
       "r18": false
     },
     {
-      "id": 2770,
-      "title": "Saiunkoku Monogatari",
-      "score": 0.67,
-      "r18": false
-    },
-    {
       "id": 21955,
       "title": "The Closer",
       "score": 0.663,
@@ -97,6 +73,12 @@
     {
       "id": 8612,
       "title": "Heart no Kuni de Tea Party",
+      "score": 0.653,
+      "r18": false
+    },
+    {
+      "id": 37071,
+      "title": "Inso's Law",
       "score": 0.653,
       "r18": false
     },
@@ -133,7 +115,7 @@
     {
       "id": 6481,
       "title": "Heavenly Match",
-      "score": 0.24,
+      "score": 0.241,
       "r18": false
     },
     {
@@ -152,6 +134,24 @@
       "id": 1887,
       "title": "Angel Hunt",
       "score": 0.213,
+      "r18": false
+    },
+    {
+      "id": 38542,
+      "title": "Ghost Marriage",
+      "score": 0.2,
+      "r18": false
+    },
+    {
+      "id": 50471,
+      "title": "Kami no Kora no Regret",
+      "score": 0.171,
+      "r18": false
+    },
+    {
+      "id": 6507,
+      "title": "Shoujotachi no Kaidan",
+      "score": 0.17,
       "r18": false
     }
   ]

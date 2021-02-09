@@ -1,8 +1,8 @@
 {
   "id": 27577,
   "title": "Boku to Miraiya no Natsu",
-  "url": "https://mangadex.org/manga/27577",
-  "last_updated": "January 13, 2021 01:08:29 UTC",
+  "url": "https://api.mangadex.org/v2/manga/27577",
+  "last_updated": "February 09, 2021 20:32:45 UTC",
   "matches": [
     {
       "id": 6270,
@@ -19,7 +19,7 @@
     {
       "id": 810,
       "title": "Rewrite: SIDE-B",
-      "score": 0.727,
+      "score": 0.726,
       "r18": false
     },
     {
@@ -44,6 +44,12 @@
       "id": 28843,
       "title": "JoJo's Bizarre Adventure Part 4 - Diamond is Unbreakable",
       "score": 0.721,
+      "r18": false
+    },
+    {
+      "id": 7232,
+      "title": "Cat's Eye",
+      "score": 0.72,
       "r18": false
     },
     {
@@ -115,12 +121,6 @@
     {
       "id": 684,
       "title": "Kuroko no Basket",
-      "score": 0.695,
-      "r18": false
-    },
-    {
-      "id": 7232,
-      "title": "Cat's Eye",
       "score": 0.695,
       "r18": false
     },

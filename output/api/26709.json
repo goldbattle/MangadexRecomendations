@@ -1,8 +1,8 @@
 {
   "id": 26709,
   "title": "San Musume ~ Girl's Battle Bootlog",
-  "url": "https://mangadex.org/manga/26709",
-  "last_updated": "January 13, 2021 00:58:12 UTC",
+  "url": "https://api.mangadex.org/v2/manga/26709",
+  "last_updated": "February 09, 2021 20:18:45 UTC",
   "matches": [
     {
       "id": 2221,
@@ -29,26 +29,20 @@
       "r18": false
     },
     {
-      "id": 6872,
-      "title": "Tales of Vesperia",
-      "score": 0.703,
+      "id": 43453,
+      "title": "Nanatsu no Maken ga Shihai Suru",
+      "score": 0.702,
       "r18": false
     },
     {
-      "id": 43453,
-      "title": "Nanatsu no Maken ga Shihai Suru",
-      "score": 0.703,
+      "id": 6872,
+      "title": "Tales of Vesperia",
+      "score": 0.702,
       "r18": false
     },
     {
       "id": 9637,
       "title": "Saint Seiya - Saintia Shou",
-      "score": 0.701,
-      "r18": false
-    },
-    {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
       "score": 0.701,
       "r18": false
     },
@@ -71,12 +65,6 @@
       "r18": false
     },
     {
-      "id": 21283,
-      "title": "Persona 5",
-      "score": 0.699,
-      "r18": false
-    },
-    {
       "id": 3023,
       "title": "Hungry Joker",
       "score": 0.698,
@@ -92,12 +80,6 @@
       "id": 7220,
       "title": "Gensou Suikoden V - Reimei no Shiro",
       "score": 0.697,
-      "r18": false
-    },
-    {
-      "id": 3388,
-      "title": "Fate/Zero",
-      "score": 0.695,
       "r18": false
     },
     {
@@ -131,6 +113,12 @@
       "r18": false
     },
     {
+      "id": 1890,
+      "title": "Gekka Bijin",
+      "score": 0.693,
+      "r18": false
+    },
+    {
       "id": 9287,
       "title": "Yami no Naka no Crown",
       "score": 0.693,
@@ -143,15 +131,27 @@
       "r18": false
     },
     {
-      "id": 29138,
-      "title": "Peach Boy Riverside",
+      "id": 6613,
+      "title": "Brave Story ~Shinsetsu~",
       "score": 0.692,
       "r18": false
     },
     {
-      "id": 6613,
-      "title": "Brave Story ~Shinsetsu~",
-      "score": 0.692,
+      "id": 53724,
+      "title": "Trash of the Count's Family",
+      "score": 0.691,
+      "r18": false
+    },
+    {
+      "id": 167,
+      "title": "Saint Dragon Girl Miracle",
+      "score": 0.691,
+      "r18": false
+    },
+    {
+      "id": 9136,
+      "title": "Evil Eater",
+      "score": 0.691,
       "r18": false
     }
   ]

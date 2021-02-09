@@ -1,19 +1,13 @@
 {
   "id": 27174,
   "title": "Mahira ga kuru",
-  "url": "https://mangadex.org/manga/27174",
-  "last_updated": "January 13, 2021 01:03:41 UTC",
+  "url": "https://api.mangadex.org/v2/manga/27174",
+  "last_updated": "February 09, 2021 20:26:18 UTC",
   "matches": [
     {
       "id": 22236,
       "title": "Rurouni Kenshin: Hokkaido-hen",
       "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 21283,
-      "title": "Persona 5",
-      "score": 0.658,
       "r18": false
     },
     {
@@ -29,15 +23,15 @@
       "r18": false
     },
     {
-      "id": 51329,
-      "title": "Yumemi ga oka Wonderland",
-      "score": 0.651,
+      "id": 54801,
+      "title": "One Piece Episode A",
+      "score": 0.654,
       "r18": false
     },
     {
-      "id": 54801,
-      "title": "One Piece Episode A",
-      "score": 0.65,
+      "id": 51329,
+      "title": "Yumemi ga oka Wonderland",
+      "score": 0.653,
       "r18": false
     },
     {
@@ -67,7 +61,7 @@
     {
       "id": 400,
       "title": "Blast",
-      "score": 0.449,
+      "score": 0.448,
       "r18": false
     },
     {
@@ -125,21 +119,21 @@
       "r18": false
     },
     {
-      "id": 21312,
-      "title": "Toaru Kagaku no Railgun Gaiden - Astral Buddy",
-      "score": 0.406,
-      "r18": false
-    },
-    {
       "id": 24761,
       "title": "K - Return of Kings",
-      "score": 0.405,
+      "score": 0.404,
       "r18": false
     },
     {
       "id": 31571,
       "title": "Black Clover Gaiden: Quartet Knights",
       "score": 0.404,
+      "r18": false
+    },
+    {
+      "id": 21312,
+      "title": "Toaru Kagaku no Railgun Gaiden - Astral Buddy",
+      "score": 0.403,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 6204,
       "title": "Devil Devil",
       "score": 0.401,
+      "r18": false
+    },
+    {
+      "id": 10555,
+      "title": "FANTASMA",
+      "score": 0.4,
       "r18": false
     }
   ]

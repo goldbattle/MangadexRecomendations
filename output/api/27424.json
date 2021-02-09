@@ -1,44 +1,44 @@
 {
   "id": 27424,
   "title": "Mister Enkou",
-  "url": "https://mangadex.org/manga/27424",
-  "last_updated": "January 13, 2021 01:06:35 UTC",
+  "url": "https://api.mangadex.org/v2/manga/27424",
+  "last_updated": "February 09, 2021 20:30:07 UTC",
   "matches": [
     {
       "id": 36490,
       "title": "Harem Tune",
       "score": 0.358,
-      "r18": false
+      "r18": true
     },
     {
       "id": 35164,
       "title": "My Ideal Isekai Life",
       "score": 0.191,
-      "r18": false
+      "r18": true
     },
     {
       "id": 36562,
       "title": "Shall We Game?",
       "score": 0.18,
-      "r18": false
+      "r18": true
     },
     {
       "id": 56222,
       "title": "Tsundere Kanojo ga Sunao ni Naru Made Ecchi",
       "score": 0.18,
-      "r18": false
+      "r18": true
     },
     {
       "id": 52208,
       "title": "Lilith Spa!",
-      "score": 0.179,
-      "r18": false
+      "score": 0.178,
+      "r18": true
     },
     {
       "id": 51067,
       "title": "Run in the Rain!",
       "score": 0.123,
-      "r18": false
+      "r18": true
     }
   ]
 }

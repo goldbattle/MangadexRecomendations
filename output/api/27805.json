@@ -1,8 +1,8 @@
 {
   "id": 27805,
   "title": "Tadaima Shugyouchuu",
-  "url": "https://mangadex.org/manga/27805",
-  "last_updated": "January 13, 2021 01:11:25 UTC",
+  "url": "https://api.mangadex.org/v2/manga/27805",
+  "last_updated": "February 09, 2021 20:36:31 UTC",
   "matches": [
     {
       "id": 36782,
@@ -67,7 +67,7 @@
     {
       "id": 11633,
       "title": "Ikenai Mousou Fudanshi",
-      "score": 0.463,
+      "score": 0.462,
       "r18": false
     },
     {
@@ -137,6 +137,12 @@
       "r18": false
     },
     {
+      "id": 59703,
+      "title": "Neko niwa Inu wo",
+      "score": 0.446,
+      "r18": false
+    },
+    {
       "id": 55985,
       "title": "Oshigoto no Jikan!?",
       "score": 0.446,
@@ -145,13 +151,7 @@
     {
       "id": 57879,
       "title": "Your Highness, Please!",
-      "score": 0.443,
-      "r18": false
-    },
-    {
-      "id": 14883,
-      "title": "Daiji na Koto Nano de, Nido",
-      "score": 0.44,
+      "score": 0.442,
       "r18": false
     }
   ]

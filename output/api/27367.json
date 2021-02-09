@@ -1,9 +1,15 @@
 {
   "id": 27367,
   "title": "Mei-chan no Shitsuji DX",
-  "url": "https://mangadex.org/manga/27367",
-  "last_updated": "January 13, 2021 01:05:55 UTC",
+  "url": "https://api.mangadex.org/v2/manga/27367",
+  "last_updated": "February 09, 2021 20:29:14 UTC",
   "matches": [
+    {
+      "id": 5821,
+      "title": "Hot Gimmick",
+      "score": 0.294,
+      "r18": false
+    },
     {
       "id": 16527,
       "title": "Kurohyou to 16-sai",
@@ -11,8 +17,20 @@
       "r18": false
     },
     {
+      "id": 5419,
+      "title": "Rakuen Danshi - Beast Harem",
+      "score": 0.287,
+      "r18": false
+    },
+    {
       "id": 10140,
       "title": "Amai Akuma ga Warau",
+      "score": 0.287,
+      "r18": false
+    },
+    {
+      "id": 13166,
+      "title": "B-men Kazoku",
       "score": 0.287,
       "r18": false
     },
@@ -89,12 +107,6 @@
       "r18": false
     },
     {
-      "id": 9350,
-      "title": "Ai Wo Utau Yori Ore ni Oborero!",
-      "score": 0.283,
-      "r18": false
-    },
-    {
       "id": 14554,
       "title": "Kaichou-sama ga Fianc&eacute; de",
       "score": 0.283,
@@ -139,18 +151,6 @@
     {
       "id": 19100,
       "title": "Kindan Wedding",
-      "score": 0.283,
-      "r18": false
-    },
-    {
-      "id": 21939,
-      "title": "Namete, Kajitte, Tokidoki Medete",
-      "score": 0.283,
-      "r18": false
-    },
-    {
-      "id": 27742,
-      "title": "Pink no Idenshi",
       "score": 0.283,
       "r18": false
     }

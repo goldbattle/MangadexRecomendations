@@ -1,8 +1,8 @@
 {
   "id": 27426,
   "title": "QUARK",
-  "url": "https://mangadex.org/manga/27426",
-  "last_updated": "January 13, 2021 01:06:37 UTC",
+  "url": "https://api.mangadex.org/v2/manga/27426",
+  "last_updated": "February 09, 2021 20:30:09 UTC",
   "matches": [
     {
       "id": 31485,
@@ -13,7 +13,7 @@
     {
       "id": 45353,
       "title": "Bliss In Another World",
-      "score": 0.669,
+      "score": 0.67,
       "r18": false
     },
     {
@@ -25,7 +25,13 @@
     {
       "id": 18993,
       "title": "San Yan Xiao Tian Lu",
-      "score": 0.667,
+      "score": 0.668,
+      "r18": false
+    },
+    {
+      "id": 27151,
+      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
+      "score": 0.666,
       "r18": false
     },
     {
@@ -41,14 +47,14 @@
       "r18": false
     },
     {
-      "id": 336,
-      "title": "Kuroshitsuji",
+      "id": 19572,
+      "title": "Soul Contract",
       "score": 0.661,
       "r18": false
     },
     {
-      "id": 19572,
-      "title": "Soul Contract",
+      "id": 1890,
+      "title": "Gekka Bijin",
       "score": 0.661,
       "r18": false
     },
@@ -67,24 +73,18 @@
     {
       "id": 6610,
       "title": "Jinjuu Houretsuden",
-      "score": 0.658,
+      "score": 0.659,
       "r18": false
     },
     {
       "id": 4988,
       "title": "Silver Diamond",
-      "score": 0.658,
+      "score": 0.659,
       "r18": false
     },
     {
       "id": 2797,
       "title": "Le Th&eacute;&acirc;tre de B",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
       "score": 0.658,
       "r18": false
     },
@@ -97,12 +97,6 @@
     {
       "id": 6270,
       "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo (Official Colored)",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 21283,
-      "title": "Persona 5",
       "score": 0.655,
       "r18": false
     },
@@ -151,6 +145,12 @@
     {
       "id": 31002,
       "title": "Jimi na Kensei wa Sore Demo Saikyou Desu",
+      "score": 0.653,
+      "r18": false
+    },
+    {
+      "id": 848,
+      "title": "Konjiki no Gash!!",
       "score": 0.653,
       "r18": false
     }

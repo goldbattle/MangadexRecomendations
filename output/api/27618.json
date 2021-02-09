@@ -1,8 +1,8 @@
 {
   "id": 27618,
   "title": "Keep Out",
-  "url": "https://mangadex.org/manga/27618",
-  "last_updated": "January 13, 2021 01:09:00 UTC",
+  "url": "https://api.mangadex.org/v2/manga/27618",
+  "last_updated": "February 09, 2021 20:33:27 UTC",
   "matches": [
     {
       "id": 42641,
@@ -61,7 +61,7 @@
     {
       "id": 16040,
       "title": "Joushi to Ore no Himitsu",
-      "score": 0.688,
+      "score": 0.687,
       "r18": false
     },
     {
@@ -107,6 +107,12 @@
       "r18": false
     },
     {
+      "id": 16544,
+      "title": "ULTRAS",
+      "score": 0.68,
+      "r18": false
+    },
+    {
       "id": 55801,
       "title": "Koibito no Namae",
       "score": 0.679,
@@ -139,18 +145,12 @@
     {
       "id": 25475,
       "title": "Tanbishugi",
-      "score": 0.677,
+      "score": 0.676,
       "r18": false
     },
     {
       "id": 53787,
       "title": "Orangenia na Hibi",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 25115,
-      "title": "Koi Cha no Osahou",
       "score": 0.676,
       "r18": false
     }

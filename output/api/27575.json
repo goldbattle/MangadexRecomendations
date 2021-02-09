@@ -1,8 +1,8 @@
 {
   "id": 27575,
   "title": "BMI",
-  "url": "https://mangadex.org/manga/27575",
-  "last_updated": "January 13, 2021 01:08:27 UTC",
+  "url": "https://api.mangadex.org/v2/manga/27575",
+  "last_updated": "February 09, 2021 20:32:43 UTC",
   "matches": [
     {
       "id": 2480,
@@ -19,7 +19,7 @@
     {
       "id": 1301,
       "title": "Another Kingdom",
-      "score": 0.367,
+      "score": 0.366,
       "r18": false
     },
     {
@@ -43,7 +43,7 @@
     {
       "id": 24171,
       "title": "Hakka Haien no Shujin to Shitsuji",
-      "score": 0.353,
+      "score": 0.352,
       "r18": false
     },
     {
@@ -65,12 +65,6 @@
       "r18": false
     },
     {
-      "id": 17711,
-      "title": "Nobody Knows",
-      "score": 0.34,
-      "r18": false
-    },
-    {
       "id": 5639,
       "title": "Hitoyuri Touge",
       "score": 0.339,
@@ -86,6 +80,12 @@
       "id": 12998,
       "title": "Fushigi na Hito",
       "score": 0.336,
+      "r18": false
+    },
+    {
+      "id": 22081,
+      "title": "RH Plus",
+      "score": 0.335,
       "r18": false
     },
     {
@@ -113,6 +113,12 @@
       "r18": false
     },
     {
+      "id": 50472,
+      "title": "Monster and Parent",
+      "score": 0.33,
+      "r18": false
+    },
+    {
       "id": 2705,
       "title": "Vartrag Tale",
       "score": 0.329,
@@ -133,7 +139,7 @@
     {
       "id": 6301,
       "title": "Akumu no Sumu Ie - Ghost Hunt",
-      "score": 0.323,
+      "score": 0.324,
       "r18": false
     },
     {
@@ -145,12 +151,6 @@
     {
       "id": 18953,
       "title": "Heian Koi Emaki - Ayanashi no Kimi",
-      "score": 0.321,
-      "r18": false
-    },
-    {
-      "id": 2871,
-      "title": "Ghost Only",
       "score": 0.321,
       "r18": false
     }

@@ -1,8 +1,8 @@
 {
   "id": 26483,
   "title": "Bandai Kaname wa Asobitai",
-  "url": "https://mangadex.org/manga/26483",
-  "last_updated": "January 13, 2021 00:55:32 UTC",
+  "url": "https://api.mangadex.org/v2/manga/26483",
+  "last_updated": "February 09, 2021 20:15:05 UTC",
   "matches": [
     {
       "id": 39255,
@@ -101,12 +101,6 @@
       "r18": false
     },
     {
-      "id": 1011,
-      "title": "Prison School",
-      "score": 0.68,
-      "r18": false
-    },
-    {
       "id": 41679,
       "title": "I, Who Possessed a Trash Skill &quot;Thermal Operator,&quot; Became Unrivaled",
       "score": 0.679,
@@ -127,7 +121,7 @@
     {
       "id": 12069,
       "title": "Mousou Shoujo Otaku-kei",
-      "score": 0.677,
+      "score": 0.678,
       "r18": false
     },
     {
@@ -151,6 +145,12 @@
     {
       "id": 34501,
       "title": "HEN - Suzuki &amp; Satou",
+      "score": 0.675,
+      "r18": false
+    },
+    {
+      "id": 1011,
+      "title": "Prison School",
       "score": 0.675,
       "r18": false
     }

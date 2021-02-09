@@ -1,26 +1,26 @@
 {
   "id": 26537,
   "title": "YOUR DOG",
-  "url": "https://mangadex.org/manga/26537",
-  "last_updated": "January 13, 2021 00:56:11 UTC",
+  "url": "https://api.mangadex.org/v2/manga/26537",
+  "last_updated": "February 09, 2021 20:15:59 UTC",
   "matches": [
     {
       "id": 26203,
       "title": "Itsu no Manika Shoujo wa",
       "score": 0.247,
-      "r18": false
+      "r18": true
     },
     {
       "id": 48486,
       "title": "Hatachi no Oiwai",
       "score": 0.148,
-      "r18": false
+      "r18": true
     },
     {
       "id": 49989,
       "title": "Okosama ni mo Osusume Odoroku Hodo Kimochi Ii Kyoui no Diet Jutsu",
       "score": 0.148,
-      "r18": false
+      "r18": true
     }
   ]
 }

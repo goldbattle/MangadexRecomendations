@@ -1,8 +1,8 @@
 {
   "id": 27253,
   "title": "Daigo Tokusou",
-  "url": "https://mangadex.org/manga/27253",
-  "last_updated": "January 13, 2021 01:04:36 UTC",
+  "url": "https://api.mangadex.org/v2/manga/27253",
+  "last_updated": "February 09, 2021 20:27:31 UTC",
   "matches": [
     {
       "id": 10596,
@@ -14,12 +14,6 @@
       "id": 3862,
       "title": "Super Robot Taisen OG - Divine Wars - Record of ATX",
       "score": 0.733,
-      "r18": false
-    },
-    {
-      "id": 45198,
-      "title": "Boku no Hero Academia - True Hero (Doujinshi)",
-      "score": 0.732,
       "r18": false
     },
     {
@@ -37,7 +31,7 @@
     {
       "id": 25435,
       "title": "Madara",
-      "score": 0.725,
+      "score": 0.726,
       "r18": false
     },
     {
@@ -83,15 +77,15 @@
       "r18": false
     },
     {
-      "id": 27594,
-      "title": "Dominion",
+      "id": 45198,
+      "title": "Boku no Hero Academia - True Hero (Doujinshi)",
       "score": 0.714,
       "r18": false
     },
     {
-      "id": 661,
-      "title": "Toaru Kagaku no Railgun",
-      "score": 0.713,
+      "id": 27594,
+      "title": "Dominion",
+      "score": 0.714,
       "r18": false
     },
     {
@@ -115,12 +109,6 @@
     {
       "id": 15886,
       "title": "The Isolator: Realization of Absolute Solitude",
-      "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 30171,
-      "title": "Overgeared",
       "score": 0.71,
       "r18": false
     },
@@ -152,6 +140,18 @@
       "id": 17280,
       "title": "Choujin Locke",
       "score": 0.708,
+      "r18": false
+    },
+    {
+      "id": 53977,
+      "title": "Dragon Raja 2",
+      "score": 0.707,
+      "r18": false
+    },
+    {
+      "id": 53969,
+      "title": "Dragon Raja",
+      "score": 0.707,
       "r18": false
     }
   ]

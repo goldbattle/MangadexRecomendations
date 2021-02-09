@@ -1,25 +1,13 @@
 {
   "id": 27835,
   "title": "Utsukushii Otoko",
-  "url": "https://mangadex.org/manga/27835",
-  "last_updated": "January 13, 2021 01:11:52 UTC",
+  "url": "https://api.mangadex.org/v2/manga/27835",
+  "last_updated": "February 09, 2021 20:37:00 UTC",
   "matches": [
-    {
-      "id": 50085,
-      "title": "Legend of the Galactic Heroes",
-      "score": 0.761,
-      "r18": false
-    },
     {
       "id": 1531,
       "title": "Marginal",
       "score": 0.752,
-      "r18": false
-    },
-    {
-      "id": 50714,
-      "title": "Legend of the Galactic Heroes - Golden Wings",
-      "score": 0.749,
       "r18": false
     },
     {
@@ -59,6 +47,12 @@
       "r18": false
     },
     {
+      "id": 50085,
+      "title": "Legend of the Galactic Heroes",
+      "score": 0.724,
+      "r18": false
+    },
+    {
       "id": 38525,
       "title": "Psycho-Pass: Sinners of the System Case 2 - First Guardian",
       "score": 0.718,
@@ -77,12 +71,6 @@
       "r18": false
     },
     {
-      "id": 9570,
-      "title": "Ajin",
-      "score": 0.714,
-      "r18": false
-    },
-    {
       "id": 23905,
       "title": "A, A Prime",
       "score": 0.714,
@@ -97,13 +85,13 @@
     {
       "id": 1240,
       "title": "Stigma",
-      "score": 0.711,
+      "score": 0.71,
       "r18": false
     },
     {
       "id": 25314,
       "title": "Skull Man (SHIMAMOTO Kazuhiko)",
-      "score": 0.707,
+      "score": 0.706,
       "r18": false
     },
     {
@@ -151,7 +139,19 @@
     {
       "id": 40277,
       "title": "The Chronicle of Seven Cities",
-      "score": 0.683,
+      "score": 0.682,
+      "r18": false
+    },
+    {
+      "id": 13231,
+      "title": "Uncanny Brains",
+      "score": 0.682,
+      "r18": false
+    },
+    {
+      "id": 9570,
+      "title": "Ajin",
+      "score": 0.68,
       "r18": false
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": 27477,
   "title": "Kutsunashi Hime",
-  "url": "https://mangadex.org/manga/27477",
-  "last_updated": "January 13, 2021 01:07:13 UTC",
+  "url": "https://api.mangadex.org/v2/manga/27477",
+  "last_updated": "February 09, 2021 20:30:58 UTC",
   "matches": [
     {
       "id": 4070,
@@ -20,6 +20,12 @@
       "id": 10023,
       "title": "Shinigami x Doctor",
       "score": 0.375,
+      "r18": false
+    },
+    {
+      "id": 35539,
+      "title": "Midnight Blue",
+      "score": 0.364,
       "r18": false
     },
     {
@@ -56,12 +62,6 @@
       "id": 57479,
       "title": "Ghost Speaker",
       "score": 0.347,
-      "r18": false
-    },
-    {
-      "id": 35539,
-      "title": "Midnight Blue",
-      "score": 0.346,
       "r18": false
     },
     {
@@ -103,7 +103,7 @@
     {
       "id": 2668,
       "title": "Suna no Ue no Rakuen",
-      "score": 0.328,
+      "score": 0.327,
       "r18": false
     },
     {

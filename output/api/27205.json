@@ -1,8 +1,8 @@
 {
   "id": 27205,
   "title": "Tetsuwan Adam",
-  "url": "https://mangadex.org/manga/27205",
-  "last_updated": "January 13, 2021 01:04:03 UTC",
+  "url": "https://api.mangadex.org/v2/manga/27205",
+  "last_updated": "February 09, 2021 20:26:47 UTC",
   "matches": [
     {
       "id": 52065,
@@ -65,14 +65,14 @@
       "r18": false
     },
     {
-      "id": 31068,
-      "title": "Love Fighter Shuravan",
+      "id": 44046,
+      "title": "White World",
       "score": 0.261,
       "r18": false
     },
     {
-      "id": 44046,
-      "title": "White World",
+      "id": 31068,
+      "title": "Love Fighter Shuravan",
       "score": 0.261,
       "r18": false
     },
@@ -91,19 +91,13 @@
     {
       "id": 31070,
       "title": "Cyborg Kuro-chan",
-      "score": 0.237,
+      "score": 0.236,
       "r18": false
     },
     {
       "id": 43781,
       "title": "Star Children (Oneshot)",
       "score": 0.23,
-      "r18": false
-    },
-    {
-      "id": 57567,
-      "title": "Android A Special Mission",
-      "score": 0.214,
       "r18": false
     },
     {
@@ -121,13 +115,7 @@
     {
       "id": 9409,
       "title": "Hitoribocchi no Chikyuu Shinryaku",
-      "score": 0.207,
-      "r18": false
-    },
-    {
-      "id": 57500,
-      "title": "Change Squadron Car Robots",
-      "score": 0.202,
+      "score": 0.206,
       "r18": false
     },
     {
@@ -152,6 +140,18 @@
       "id": 34063,
       "title": "Uglyhood",
       "score": 0.183,
+      "r18": false
+    },
+    {
+      "id": 59608,
+      "title": "ELEMENTS: Users Of The Universe",
+      "score": 0.168,
+      "r18": false
+    },
+    {
+      "id": 4411,
+      "title": "Tengen Toppa Gurren Lagann",
+      "score": 0.158,
       "r18": false
     }
   ]

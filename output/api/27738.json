@@ -1,8 +1,8 @@
 {
   "id": 27738,
   "title": "Phantom - Requiem for the Phantom",
-  "url": "https://mangadex.org/manga/27738",
-  "last_updated": "January 13, 2021 01:10:35 UTC",
+  "url": "https://api.mangadex.org/v2/manga/27738",
+  "last_updated": "February 09, 2021 20:35:27 UTC",
   "matches": [
     {
       "id": 1714,
@@ -25,7 +25,7 @@
     {
       "id": 14676,
       "title": "The Legendary Moonlight Sculptor",
-      "score": 0.701,
+      "score": 0.7,
       "r18": false
     },
     {
@@ -61,7 +61,7 @@
     {
       "id": 309,
       "title": "Until Death Do Us Part",
-      "score": 0.693,
+      "score": 0.692,
       "r18": false
     },
     {
@@ -77,33 +77,15 @@
       "r18": false
     },
     {
-      "id": 41767,
-      "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Daiyonshou - Seiiki to Gouyoku no Majou",
-      "score": 0.69,
-      "r18": false
-    },
-    {
-      "id": 44886,
-      "title": "Fushi no Sougishi",
-      "score": 0.689,
-      "r18": false
-    },
-    {
       "id": 9829,
       "title": "Immortal Hounds",
-      "score": 0.689,
+      "score": 0.69,
       "r18": false
     },
     {
       "id": 1770,
       "title": "Klan",
       "score": 0.688,
-      "r18": false
-    },
-    {
-      "id": 13502,
-      "title": "Tokyo Ghoul:re",
-      "score": 0.687,
       "r18": false
     },
     {
@@ -114,8 +96,8 @@
     },
     {
       "id": 22485,
-      "title": "Nekurogu (Necrolog)",
-      "score": 0.685,
+      "title": "Necrologue",
+      "score": 0.686,
       "r18": false
     },
     {
@@ -139,7 +121,7 @@
     {
       "id": 816,
       "title": "World Embryo",
-      "score": 0.683,
+      "score": 0.684,
       "r18": false
     },
     {
@@ -149,9 +131,27 @@
       "r18": false
     },
     {
+      "id": 41767,
+      "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Daiyonshou - Seiiki to Gouyoku no Majou",
+      "score": 0.682,
+      "r18": false
+    },
+    {
       "id": 12108,
       "title": "Mushoku Tensei ~Isekai Ittara Honki Dasu~",
       "score": 0.682,
+      "r18": false
+    },
+    {
+      "id": 46,
+      "title": "Witch Craft Works",
+      "score": 0.681,
+      "r18": false
+    },
+    {
+      "id": 3853,
+      "title": "Tail Star",
+      "score": 0.681,
       "r18": false
     }
   ]

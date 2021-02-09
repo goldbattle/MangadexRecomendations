@@ -1,18 +1,12 @@
 {
   "id": 27724,
   "title": "Ore-tachi o Tenshi to Yobu na",
-  "url": "https://mangadex.org/manga/27724",
-  "last_updated": "January 13, 2021 01:10:25 UTC",
+  "url": "https://api.mangadex.org/v2/manga/27724",
+  "last_updated": "February 09, 2021 20:35:14 UTC",
   "matches": [
     {
       "id": 6401,
       "title": "Mekakushi no Kuni",
-      "score": 0.693,
-      "r18": false
-    },
-    {
-      "id": 4802,
-      "title": "Junketsu + Kareshi",
       "score": 0.693,
       "r18": false
     },
@@ -91,7 +85,7 @@
     {
       "id": 13250,
       "title": "From a Different Dimension",
-      "score": 0.675,
+      "score": 0.674,
       "r18": false
     },
     {
@@ -109,7 +103,7 @@
     {
       "id": 14844,
       "title": "Ugly Duckling",
-      "score": 0.671,
+      "score": 0.672,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 3160,
       "title": "Miunohri to Swan",
       "score": 0.653,
+      "r18": false
+    },
+    {
+      "id": 9359,
+      "title": "Kaijidou Mokuroku",
+      "score": 0.389,
       "r18": false
     }
   ]

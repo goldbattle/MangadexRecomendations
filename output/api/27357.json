@@ -1,8 +1,8 @@
 {
   "id": 27357,
   "title": "Grisaia - Phantom Trigger",
-  "url": "https://mangadex.org/manga/27357",
-  "last_updated": "January 13, 2021 01:05:47 UTC",
+  "url": "https://api.mangadex.org/v2/manga/27357",
+  "last_updated": "February 09, 2021 20:29:04 UTC",
   "matches": [
     {
       "id": 1009,
@@ -20,12 +20,6 @@
       "id": 11864,
       "title": "Inou Battle wa Nichijoukei no Naka de",
       "score": 0.743,
-      "r18": false
-    },
-    {
-      "id": 146,
-      "title": "Soul Eater",
-      "score": 0.74,
       "r18": false
     },
     {
@@ -47,15 +41,27 @@
       "r18": false
     },
     {
+      "id": 15439,
+      "title": "Lady Justice",
+      "score": 0.712,
+      "r18": false
+    },
+    {
       "id": 1932,
       "title": "Kami-sama no Iutoori",
       "score": 0.71,
       "r18": false
     },
     {
+      "id": 146,
+      "title": "Soul Eater",
+      "score": 0.695,
+      "r18": false
+    },
+    {
       "id": 2021,
       "title": "Shikabane Hime",
-      "score": 0.692,
+      "score": 0.691,
       "r18": false
     },
     {
@@ -71,12 +77,6 @@
       "r18": false
     },
     {
-      "id": 15439,
-      "title": "Lady Justice",
-      "score": 0.667,
-      "r18": false
-    },
-    {
       "id": 18922,
       "title": "Black Kanojo",
       "score": 0.663,
@@ -85,7 +85,7 @@
     {
       "id": 2588,
       "title": "Saru Lock",
-      "score": 0.331,
+      "score": 0.33,
       "r18": false
     }
   ]

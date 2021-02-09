@@ -1,8 +1,8 @@
 {
   "id": 27734,
   "title": "Pahanjip",
-  "url": "https://mangadex.org/manga/27734",
-  "last_updated": "January 13, 2021 01:10:32 UTC",
+  "url": "https://api.mangadex.org/v2/manga/27734",
+  "last_updated": "February 09, 2021 20:35:23 UTC",
   "matches": [
     {
       "id": 10514,
@@ -32,6 +32,12 @@
       "id": 10141,
       "title": "Elhanburg no Tenshi",
       "score": 0.699,
+      "r18": false
+    },
+    {
+      "id": 59476,
+      "title": "The Tyrant&rsquo;s Guardian Is an Evil Witch",
+      "score": 0.698,
       "r18": false
     },
     {
@@ -102,8 +108,8 @@
     },
     {
       "id": 22485,
-      "title": "Nekurogu (Necrolog)",
-      "score": 0.681,
+      "title": "Necrologue",
+      "score": 0.682,
       "r18": false
     },
     {
@@ -125,33 +131,27 @@
       "r18": false
     },
     {
-      "id": 4066,
-      "title": "Song of the Doll",
-      "score": 0.675,
-      "r18": false
-    },
-    {
       "id": 43950,
       "title": "The Goddess of Healing",
       "score": 0.675,
       "r18": false
     },
     {
-      "id": 8003,
-      "title": "Sakurahime Kaden",
+      "id": 4066,
+      "title": "Song of the Doll",
       "score": 0.675,
       "r18": false
     },
     {
-      "id": 20153,
-      "title": "Tripitaka Torinique",
-      "score": 0.672,
+      "id": 59999,
+      "title": "Save Me, Princess",
+      "score": 0.674,
       "r18": false
     },
     {
-      "id": 2659,
-      "title": "Omae ga Sekai wo Kowashitai nara",
-      "score": 0.669,
+      "id": 8003,
+      "title": "Sakurahime Kaden",
+      "score": 0.674,
       "r18": false
     }
   ]

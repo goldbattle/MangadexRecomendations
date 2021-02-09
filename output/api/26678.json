@@ -1,8 +1,8 @@
 {
   "id": 26678,
   "title": "Dorokei",
-  "url": "https://mangadex.org/manga/26678",
-  "last_updated": "January 13, 2021 00:57:51 UTC",
+  "url": "https://api.mangadex.org/v2/manga/26678",
+  "last_updated": "February 09, 2021 20:18:17 UTC",
   "matches": [
     {
       "id": 29189,
@@ -41,15 +41,15 @@
       "r18": false
     },
     {
-      "id": 9570,
-      "title": "Ajin",
-      "score": 0.248,
-      "r18": false
-    },
-    {
       "id": 25314,
       "title": "Skull Man (SHIMAMOTO Kazuhiko)",
       "score": 0.245,
+      "r18": false
+    },
+    {
+      "id": 9570,
+      "title": "Ajin",
+      "score": 0.226,
       "r18": false
     }
   ]
