@@ -1,8 +1,8 @@
 {
   "id": 19211,
   "title": "Nika",
-  "url": "https://mangadex.org/manga/19211",
-  "last_updated": "January 19, 2021 00:56:27 UTC",
+  "url": "https://api.mangadex.org/v2/manga/19211",
+  "last_updated": "February 09, 2021 00:17:29 UTC",
   "matches": [
     {
       "id": 27426,
@@ -89,20 +89,26 @@
       "r18": false
     },
     {
+      "id": 8702,
+      "title": "Rental Magica from SOLOMON",
+      "score": 0.348,
+      "r18": false
+    },
+    {
       "id": 20578,
       "title": "Black Torch",
       "score": 0.347,
       "r18": false
     },
     {
-      "id": 10207,
-      "title": "Saint Seiya - Episode G",
+      "id": 10555,
+      "title": "FANTASMA",
       "score": 0.345,
       "r18": false
     },
     {
-      "id": 10555,
-      "title": "FANTASMA",
+      "id": 10207,
+      "title": "Saint Seiya - Episode G",
       "score": 0.345,
       "r18": false
     },
@@ -146,12 +152,6 @@
       "id": 3314,
       "title": "Juhou Kaikin!! Hyde &amp; Closer",
       "score": 0.342,
-      "r18": false
-    },
-    {
-      "id": 25450,
-      "title": "Zelda no Densetsu - Mugen no Sunadokei",
-      "score": 0.341,
       "r18": false
     }
   ]

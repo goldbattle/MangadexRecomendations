@@ -1,8 +1,8 @@
 {
   "id": 18997,
   "title": "Kin no Tamago",
-  "url": "https://mangadex.org/manga/18997",
-  "last_updated": "January 19, 2021 00:54:15 UTC",
+  "url": "https://api.mangadex.org/v2/manga/18997",
+  "last_updated": "February 09, 2021 00:13:05 UTC",
   "matches": [
     {
       "id": 1880,
@@ -37,7 +37,7 @@
     {
       "id": 14508,
       "title": "Hitoribocchi no \u25cb\u25cb Seikatsu",
-      "score": 0.425,
+      "score": 0.426,
       "r18": false
     },
     {
@@ -49,7 +49,7 @@
     {
       "id": 41354,
       "title": "Strike Witches - 501 Butai Hasshinshimasu!",
-      "score": 0.405,
+      "score": 0.404,
       "r18": false
     },
     {
@@ -101,12 +101,6 @@
       "r18": false
     },
     {
-      "id": 16786,
-      "title": "Toaru Idol no Accelerator-sama",
-      "score": 0.359,
-      "r18": false
-    },
-    {
       "id": 37389,
       "title": "Shinozaki Himeno's Love Q&amp;A",
       "score": 0.358,
@@ -152,6 +146,12 @@
       "id": 13277,
       "title": "Marine Corps Yumi",
       "score": 0.329,
+      "r18": false
+    },
+    {
+      "id": 22790,
+      "title": "Manabi Ikiru wa Fuufu no Tsutome",
+      "score": 0.328,
       "r18": false
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": 19065,
   "title": "Super Ninja Dan",
-  "url": "https://mangadex.org/manga/19065",
-  "last_updated": "January 19, 2021 00:54:57 UTC",
+  "url": "https://api.mangadex.org/v2/manga/19065",
+  "last_updated": "February 09, 2021 00:14:33 UTC",
   "matches": [
     {
       "id": 186,
@@ -13,6 +13,12 @@
     {
       "id": 4177,
       "title": "Family of Brahman",
+      "score": 0.34,
+      "r18": false
+    },
+    {
+      "id": 12452,
+      "title": "Fuuma no Kojiro",
       "score": 0.34,
       "r18": false
     },
@@ -145,12 +151,6 @@
     {
       "id": 21247,
       "title": "Street Fighter ZERO",
-      "score": 0.255,
-      "r18": false
-    },
-    {
-      "id": 21624,
-      "title": "777",
       "score": 0.255,
       "r18": false
     }

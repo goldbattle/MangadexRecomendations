@@ -1,8 +1,8 @@
 {
   "id": 18717,
   "title": "Destinies Cross",
-  "url": "https://mangadex.org/manga/18717",
-  "last_updated": "January 19, 2021 00:51:28 UTC",
+  "url": "https://api.mangadex.org/v2/manga/18717",
+  "last_updated": "February 09, 2021 00:06:21 UTC",
   "matches": [
     {
       "id": 26568,
@@ -49,6 +49,12 @@
     {
       "id": 20544,
       "title": "Kazoku ni Narouyo",
+      "score": 0.661,
+      "r18": false
+    },
+    {
+      "id": 16544,
+      "title": "ULTRAS",
       "score": 0.661,
       "r18": false
     },
@@ -109,7 +115,7 @@
     {
       "id": 11880,
       "title": "Kimi to Asa Gohan!",
-      "score": 0.655,
+      "score": 0.654,
       "r18": false
     },
     {
@@ -145,12 +151,6 @@
     {
       "id": 24006,
       "title": "Anata wa Boku Dake no Hana",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 55255,
-      "title": "Senaka kara Daite",
       "score": 0.653,
       "r18": false
     }

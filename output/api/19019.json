@@ -1,8 +1,8 @@
 {
   "id": 19019,
   "title": "Mother 2: Giygas Strikes Back - Ness's Adventure Memoirs",
-  "url": "https://mangadex.org/manga/19019",
-  "last_updated": "January 19, 2021 00:54:30 UTC",
+  "url": "https://api.mangadex.org/v2/manga/19019",
+  "last_updated": "February 09, 2021 00:13:33 UTC",
   "matches": [
     {
       "id": 28542,
@@ -101,12 +101,6 @@
       "r18": false
     },
     {
-      "id": 39,
-      "title": "One Piece",
-      "score": 0.685,
-      "r18": false
-    },
-    {
       "id": 6075,
       "title": "Busou Renkin",
       "score": 0.684,
@@ -152,6 +146,12 @@
       "id": 25435,
       "title": "Madara",
       "score": 0.681,
+      "r18": false
+    },
+    {
+      "id": 16269,
+      "title": "Toriko - Digital Colored Comics",
+      "score": 0.68,
       "r18": false
     }
   ]

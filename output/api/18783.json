@@ -1,8 +1,8 @@
 {
   "id": 18783,
   "title": "Beet the Vandel Buster",
-  "url": "https://mangadex.org/manga/18783",
-  "last_updated": "January 19, 2021 00:52:07 UTC",
+  "url": "https://api.mangadex.org/v2/manga/18783",
+  "last_updated": "February 09, 2021 00:08:22 UTC",
   "matches": [
     {
       "id": 21061,
@@ -35,12 +35,6 @@
       "r18": false
     },
     {
-      "id": 4774,
-      "title": "Dragon Quest: Dai no Daibouken",
-      "score": 0.716,
-      "r18": false
-    },
-    {
       "id": 31455,
       "title": "Godhorn Tech and the 11 Destroyers",
       "score": 0.715,
@@ -49,12 +43,6 @@
     {
       "id": 20875,
       "title": "Ayanashi",
-      "score": 0.715,
-      "r18": false
-    },
-    {
-      "id": 54801,
-      "title": "One Piece Episode A",
       "score": 0.714,
       "r18": false
     },
@@ -97,7 +85,7 @@
     {
       "id": 1756,
       "title": "Buster Keel!",
-      "score": 0.713,
+      "score": 0.712,
       "r18": false
     },
     {
@@ -151,6 +139,18 @@
     {
       "id": 20426,
       "title": "Sunset Rose",
+      "score": 0.706,
+      "r18": false
+    },
+    {
+      "id": 6572,
+      "title": "Kaiouki",
+      "score": 0.706,
+      "r18": false
+    },
+    {
+      "id": 7308,
+      "title": "Radiata Stories - The Song of Ridley",
       "score": 0.706,
       "r18": false
     }

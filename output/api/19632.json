@@ -1,8 +1,8 @@
 {
   "id": 19632,
   "title": "Hitorijime My Hero",
-  "url": "https://mangadex.org/manga/19632",
-  "last_updated": "January 19, 2021 06:47:13 UTC",
+  "url": "https://api.mangadex.org/v2/manga/19632",
+  "last_updated": "February 09, 2021 00:26:55 UTC",
   "matches": [
     {
       "id": 37573,
@@ -13,7 +13,7 @@
     {
       "id": 53625,
       "title": "Kagakushitsu e Douzo",
-      "score": 0.795,
+      "score": 0.796,
       "r18": false
     },
     {
@@ -83,6 +83,12 @@
       "r18": false
     },
     {
+      "id": 16544,
+      "title": "ULTRAS",
+      "score": 0.77,
+      "r18": false
+    },
+    {
       "id": 12747,
       "title": "Electric Hands",
       "score": 0.768,
@@ -122,12 +128,6 @@
       "id": 50448,
       "title": "Tonari no Metaller-san",
       "score": 0.764,
-      "r18": false
-    },
-    {
-      "id": 16544,
-      "title": "ULTRAS",
-      "score": 0.763,
       "r18": false
     },
     {

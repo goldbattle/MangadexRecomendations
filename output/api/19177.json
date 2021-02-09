@@ -1,8 +1,8 @@
 {
   "id": 19177,
   "title": "Usurai ni Saku",
-  "url": "https://mangadex.org/manga/19177",
-  "last_updated": "January 19, 2021 00:56:06 UTC",
+  "url": "https://api.mangadex.org/v2/manga/19177",
+  "last_updated": "February 09, 2021 00:16:51 UTC",
   "matches": [
     {
       "id": 53018,
@@ -29,6 +29,12 @@
       "r18": false
     },
     {
+      "id": 59999,
+      "title": "Save Me, Princess",
+      "score": 0.667,
+      "r18": false
+    },
+    {
       "id": 2163,
       "title": "Ninohime no Monogatari",
       "score": 0.667,
@@ -43,7 +49,7 @@
     {
       "id": 53232,
       "title": "It's Time to Look for a New Family",
-      "score": 0.663,
+      "score": 0.664,
       "r18": false
     },
     {
@@ -145,12 +151,6 @@
     {
       "id": 3030,
       "title": "Dream of Loulan Kingdom",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 2118,
-      "title": "NANA",
       "score": 0.651,
       "r18": false
     }

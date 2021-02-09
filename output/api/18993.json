@@ -1,8 +1,8 @@
 {
   "id": 18993,
   "title": "San Yan Xiao Tian Lu",
-  "url": "https://mangadex.org/manga/18993",
-  "last_updated": "January 19, 2021 00:54:13 UTC",
+  "url": "https://api.mangadex.org/v2/manga/18993",
+  "last_updated": "February 09, 2021 00:13:00 UTC",
   "matches": [
     {
       "id": 28359,
@@ -44,6 +44,12 @@
       "id": 7012,
       "title": "Joousama no Inu",
       "score": 0.75,
+      "r18": false
+    },
+    {
+      "id": 6229,
+      "title": "Divine Melody",
+      "score": 0.748,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 33099,
       "title": "This Girl Is a Little Wild",
       "score": 0.737,
-      "r18": false
-    },
-    {
-      "id": 45898,
-      "title": "Revenge Wedding",
-      "score": 0.736,
       "r18": false
     }
   ]

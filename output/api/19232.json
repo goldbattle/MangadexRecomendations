@@ -1,8 +1,8 @@
 {
   "id": 19232,
   "title": "Monsters, Inc.",
-  "url": "https://mangadex.org/manga/19232",
-  "last_updated": "January 19, 2021 00:56:39 UTC",
+  "url": "https://api.mangadex.org/v2/manga/19232",
+  "last_updated": "February 09, 2021 00:17:52 UTC",
   "matches": [
     {
       "id": 11923,
@@ -101,12 +101,6 @@
       "r18": false
     },
     {
-      "id": 54801,
-      "title": "One Piece Episode A",
-      "score": 0.675,
-      "r18": false
-    },
-    {
       "id": 53969,
       "title": "Dragon Raja",
       "score": 0.675,
@@ -151,6 +145,12 @@
     {
       "id": 48602,
       "title": "Re:Zero Kara Hajimeru Isekai Seikatsu &ndash; Hyouketsu no Kizuna",
+      "score": 0.67,
+      "r18": false
+    },
+    {
+      "id": 23706,
+      "title": "Kamitachi ni Hirowareta Otoko",
       "score": 0.67,
       "r18": false
     }

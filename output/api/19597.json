@@ -1,8 +1,8 @@
 {
   "id": 19597,
   "title": "Evil Crusher Maya",
-  "url": "https://mangadex.org/manga/19597",
-  "last_updated": "January 19, 2021 06:46:51 UTC",
+  "url": "https://api.mangadex.org/v2/manga/19597",
+  "last_updated": "February 09, 2021 00:26:07 UTC",
   "matches": [
     {
       "id": 391,
@@ -125,12 +125,6 @@
       "r18": false
     },
     {
-      "id": 303,
-      "title": "Claymore",
-      "score": 0.759,
-      "r18": false
-    },
-    {
       "id": 5573,
       "title": "Saiyuki",
       "score": 0.759,
@@ -149,9 +143,15 @@
       "r18": false
     },
     {
-      "id": 219,
-      "title": "Akame ga KILL!",
+      "id": 6572,
+      "title": "Kaiouki",
       "score": 0.757,
+      "r18": false
+    },
+    {
+      "id": 10341,
+      "title": "Kokushi Musou!!",
+      "score": 0.756,
       "r18": false
     }
   ]

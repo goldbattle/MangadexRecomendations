@@ -1,8 +1,8 @@
 {
   "id": 19247,
   "title": "Asobi Asobase",
-  "url": "https://mangadex.org/manga/19247",
-  "last_updated": "January 19, 2021 00:56:48 UTC",
+  "url": "https://api.mangadex.org/v2/manga/19247",
+  "last_updated": "February 09, 2021 00:18:07 UTC",
   "matches": [
     {
       "id": 30761,
@@ -119,6 +119,12 @@
       "r18": false
     },
     {
+      "id": 8496,
+      "title": "Sakamoto desu ga?",
+      "score": 0.359,
+      "r18": false
+    },
+    {
       "id": 13610,
       "title": "Seifuku Aventure - Chemical Reaction Of High School Students",
       "score": 0.357,
@@ -146,12 +152,6 @@
       "id": 2824,
       "title": "Saki: Achiga-hen - episode of side-A",
       "score": 0.356,
-      "r18": false
-    },
-    {
-      "id": 9496,
-      "title": "Love Calendar",
-      "score": 0.355,
       "r18": false
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": 18684,
   "title": "Hana o Meshimase",
-  "url": "https://mangadex.org/manga/18684",
-  "last_updated": "January 19, 2021 00:51:08 UTC",
+  "url": "https://api.mangadex.org/v2/manga/18684",
+  "last_updated": "February 09, 2021 00:04:51 UTC",
   "matches": [
     {
       "id": 9512,
@@ -25,7 +25,7 @@
     {
       "id": 28359,
       "title": "Boku ga Utau to Kimi wa Warau kara",
-      "score": 0.717,
+      "score": 0.716,
       "r18": false
     },
     {
@@ -37,12 +37,6 @@
     {
       "id": 4824,
       "title": "Rabu Kare - Gokujou Men Dokuhon!",
-      "score": 0.714,
-      "r18": false
-    },
-    {
-      "id": 3297,
-      "title": "Kingyo Sou",
       "score": 0.714,
       "r18": false
     },
@@ -61,7 +55,7 @@
     {
       "id": 41053,
       "title": "Kirakira to Yoru ni Furu",
-      "score": 0.711,
+      "score": 0.71,
       "r18": false
     },
     {
@@ -85,7 +79,7 @@
     {
       "id": 6082,
       "title": "Yume Miru Happa",
-      "score": 0.709,
+      "score": 0.708,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 622,
       "title": "Love So Life",
       "score": 0.699,
+      "r18": false
+    },
+    {
+      "id": 3303,
+      "title": "Onegai, Sensei",
+      "score": 0.698,
       "r18": false
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": 18729,
   "title": "Kidou Senshi Gundam - Tekketsu no Orphans Gekkou",
-  "url": "https://mangadex.org/manga/18729",
-  "last_updated": "January 19, 2021 00:51:35 UTC",
+  "url": "https://api.mangadex.org/v2/manga/18729",
+  "last_updated": "February 09, 2021 00:06:40 UTC",
   "matches": [
     {
       "id": 41769,
@@ -25,7 +25,7 @@
     {
       "id": 25120,
       "title": "Kidou Senshi Gundam 00F",
-      "score": 0.783,
+      "score": 0.782,
       "r18": false
     },
     {
@@ -43,7 +43,13 @@
     {
       "id": 42556,
       "title": "Kidou Senshi Gundam AGE -Final Evolution-",
-      "score": 0.777,
+      "score": 0.776,
+      "r18": false
+    },
+    {
+      "id": 7710,
+      "title": "Kidou Senshi Crossbone Gundam",
+      "score": 0.775,
       "r18": false
     },
     {
@@ -131,9 +137,9 @@
       "r18": false
     },
     {
-      "id": 7710,
-      "title": "Kidou Senshi Crossbone Gundam",
-      "score": 0.752,
+      "id": 5595,
+      "title": "Kidou Senshi Gundam F90",
+      "score": 0.75,
       "r18": false
     },
     {
@@ -143,15 +149,9 @@
       "r18": false
     },
     {
-      "id": 5595,
-      "title": "Kidou Senshi Gundam F90",
-      "score": 0.75,
-      "r18": false
-    },
-    {
       "id": 13760,
       "title": "Gundam Legacy",
-      "score": 0.749,
+      "score": 0.748,
       "r18": false
     }
   ]

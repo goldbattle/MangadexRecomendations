@@ -1,8 +1,8 @@
 {
   "id": 18930,
   "title": "Hajimete no Gal",
-  "url": "https://mangadex.org/manga/18930",
-  "last_updated": "January 19, 2021 00:53:35 UTC",
+  "url": "https://api.mangadex.org/v2/manga/18930",
+  "last_updated": "February 09, 2021 00:11:38 UTC",
   "matches": [
     {
       "id": 37447,
@@ -71,12 +71,6 @@
       "r18": false
     },
     {
-      "id": 13720,
-      "title": "Kono Subarashii Sekai ni Shukufuku wo!",
-      "score": 0.69,
-      "r18": false
-    },
-    {
       "id": 299,
       "title": "Maken-Ki!",
       "score": 0.689,
@@ -109,12 +103,6 @@
     {
       "id": 11026,
       "title": "Fuuka",
-      "score": 0.686,
-      "r18": false
-    },
-    {
-      "id": 15950,
-      "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
       "score": 0.686,
       "r18": false
     },
@@ -152,6 +140,18 @@
       "id": 10,
       "title": "GE ~Good Ending~",
       "score": 0.683,
+      "r18": false
+    },
+    {
+      "id": 23992,
+      "title": "Yuragi-sou no Yuuna-san - Digital Colored Comics",
+      "score": 0.682,
+      "r18": false
+    },
+    {
+      "id": 5199,
+      "title": "Otome wa Boku ni Koishiteru - Futari no Elder",
+      "score": 0.682,
       "r18": false
     }
   ]
