@@ -1,8 +1,8 @@
 {
   "id": 25254,
   "title": "Arthur Bright",
-  "url": "https://mangadex.org/manga/25254",
-  "last_updated": "January 12, 2021 19:02:13 UTC",
+  "url": "https://api.mangadex.org/v2/manga/25254",
+  "last_updated": "February 09, 2021 16:24:43 UTC",
   "matches": [
     {
       "id": 2329,
@@ -29,15 +29,15 @@
       "r18": false
     },
     {
-      "id": 14676,
-      "title": "The Legendary Moonlight Sculptor",
+      "id": 216,
+      "title": "Rurouni Kenshin",
       "score": 0.662,
       "r18": false
     },
     {
-      "id": 216,
-      "title": "Rurouni Kenshin",
-      "score": 0.662,
+      "id": 14676,
+      "title": "The Legendary Moonlight Sculptor",
+      "score": 0.661,
       "r18": false
     },
     {
@@ -50,12 +50,6 @@
       "id": 2500,
       "title": "ChunRangYulJun",
       "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 2110,
-      "title": "Souten no Ken",
-      "score": 0.654,
       "r18": false
     },
     {
@@ -74,6 +68,12 @@
       "id": 934,
       "title": "Blood and Steel",
       "score": 0.387,
+      "r18": false
+    },
+    {
+      "id": 2110,
+      "title": "Souten no Ken",
+      "score": 0.38,
       "r18": false
     },
     {
@@ -119,12 +119,6 @@
       "r18": false
     },
     {
-      "id": 26191,
-      "title": "The Portal of Wonderland",
-      "score": 0.362,
-      "r18": false
-    },
-    {
       "id": 25445,
       "title": "Tenka Musou",
       "score": 0.362,
@@ -151,6 +145,12 @@
     {
       "id": 5055,
       "title": "Souten Kouro",
+      "score": 0.356,
+      "r18": false
+    },
+    {
+      "id": 15933,
+      "title": "Kamui Den",
       "score": 0.356,
       "r18": false
     }

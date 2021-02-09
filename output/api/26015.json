@@ -1,8 +1,8 @@
 {
   "id": 26015,
   "title": "Miraiken de Ai o Tsumugeba",
-  "url": "https://mangadex.org/manga/26015",
-  "last_updated": "January 13, 2021 00:49:50 UTC",
+  "url": "https://api.mangadex.org/v2/manga/26015",
+  "last_updated": "February 09, 2021 16:38:47 UTC",
   "matches": [
     {
       "id": 4810,
@@ -37,7 +37,7 @@
     {
       "id": 37280,
       "title": "Kimi no Ai wa Mienikui",
-      "score": 0.712,
+      "score": 0.711,
       "r18": false
     },
     {
@@ -49,12 +49,6 @@
     {
       "id": 58353,
       "title": "Kiss to Kirai no Hantai",
-      "score": 0.71,
-      "r18": false
-    },
-    {
-      "id": 58356,
-      "title": "Finger Stinger",
       "score": 0.71,
       "r18": false
     },
@@ -101,14 +95,14 @@
       "r18": false
     },
     {
-      "id": 27828,
-      "title": "Uminari",
+      "id": 16544,
+      "title": "ULTRAS",
       "score": 0.699,
       "r18": false
     },
     {
-      "id": 1464,
-      "title": "Sangen Tonari no Tooi Hito",
+      "id": 27828,
+      "title": "Uminari",
       "score": 0.699,
       "r18": false
     },
@@ -137,12 +131,6 @@
       "r18": false
     },
     {
-      "id": 16544,
-      "title": "ULTRAS",
-      "score": 0.697,
-      "r18": false
-    },
-    {
       "id": 14649,
       "title": "Omowaseburi na Kimi no Tonari",
       "score": 0.695,
@@ -152,6 +140,18 @@
       "id": 37641,
       "title": "Hizamazuite Ai ni Kogarero",
       "score": 0.695,
+      "r18": false
+    },
+    {
+      "id": 55072,
+      "title": "Gekkou no Rankan ni Kuchinashi no Nioi",
+      "score": 0.695,
+      "r18": false
+    },
+    {
+      "id": 58356,
+      "title": "Finger Stinger",
+      "score": 0.694,
       "r18": false
     }
   ]

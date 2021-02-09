@@ -1,8 +1,8 @@
 {
   "id": 25738,
   "title": "Haru wo Daiteita Alive",
-  "url": "https://mangadex.org/manga/25738",
-  "last_updated": "January 13, 2021 00:46:35 UTC",
+  "url": "https://api.mangadex.org/v2/manga/25738",
+  "last_updated": "February 09, 2021 16:33:36 UTC",
   "matches": [
     {
       "id": 24621,
@@ -55,12 +55,6 @@
     {
       "id": 29080,
       "title": "Dakishimetakunai",
-      "score": 0.701,
-      "r18": false
-    },
-    {
-      "id": 441,
-      "title": "Finder",
       "score": 0.7,
       "r18": false
     },
@@ -109,7 +103,7 @@
     {
       "id": 25950,
       "title": "Mayou Otoko",
-      "score": 0.692,
+      "score": 0.691,
       "r18": false
     },
     {
@@ -133,12 +127,18 @@
     {
       "id": 58895,
       "title": "Love, Line, Arrow.",
-      "score": 0.685,
+      "score": 0.684,
       "r18": false
     },
     {
       "id": 28911,
       "title": "Love Romance Sweet Kiss",
+      "score": 0.684,
+      "r18": false
+    },
+    {
+      "id": 3982,
+      "title": "Only One",
       "score": 0.684,
       "r18": false
     },
@@ -149,9 +149,9 @@
       "r18": false
     },
     {
-      "id": 3982,
-      "title": "Only One",
-      "score": 0.684,
+      "id": 1444,
+      "title": "NightS",
+      "score": 0.681,
       "r18": false
     }
   ]

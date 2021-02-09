@@ -1,8 +1,8 @@
 {
   "id": 25958,
   "title": "Downtown Tokyo",
-  "url": "https://mangadex.org/manga/25958",
-  "last_updated": "January 13, 2021 00:49:09 UTC",
+  "url": "https://api.mangadex.org/v2/manga/25958",
+  "last_updated": "February 09, 2021 16:37:42 UTC",
   "matches": [
     {
       "id": 51122,
@@ -77,6 +77,12 @@
       "r18": false
     },
     {
+      "id": 15443,
+      "title": "Boku no Petto ni Narinasai.",
+      "score": 0.276,
+      "r18": false
+    },
+    {
       "id": 17404,
       "title": "Spicy Recipe",
       "score": 0.276,
@@ -145,12 +151,6 @@
     {
       "id": 46246,
       "title": "The Wife Who Can Read Her Husband's Mind",
-      "score": 0.276,
-      "r18": false
-    },
-    {
-      "id": 47446,
-      "title": "Height Gap x Age Gap",
       "score": 0.276,
       "r18": false
     }

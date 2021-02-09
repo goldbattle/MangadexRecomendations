@@ -1,19 +1,13 @@
 {
   "id": 26023,
   "title": "Nigatsu no Eden",
-  "url": "https://mangadex.org/manga/26023",
-  "last_updated": "January 13, 2021 00:49:56 UTC",
+  "url": "https://api.mangadex.org/v2/manga/26023",
+  "last_updated": "February 09, 2021 16:38:56 UTC",
   "matches": [
     {
       "id": 27828,
       "title": "Uminari",
       "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 16544,
-      "title": "ULTRAS",
-      "score": 0.651,
       "r18": false
     },
     {
@@ -59,14 +53,14 @@
       "r18": false
     },
     {
-      "id": 32788,
-      "title": "Passion Fruit no Kaori Tsuki",
+      "id": 45171,
+      "title": "Kajitsu",
       "score": 0.416,
       "r18": false
     },
     {
-      "id": 45171,
-      "title": "Kajitsu",
+      "id": 32788,
+      "title": "Passion Fruit no Kaori Tsuki",
       "score": 0.416,
       "r18": false
     },
@@ -151,6 +145,12 @@
     {
       "id": 45973,
       "title": "Koukyuu no Arika",
+      "score": 0.406,
+      "r18": false
+    },
+    {
+      "id": 40982,
+      "title": "Picnic",
       "score": 0.406,
       "r18": false
     }

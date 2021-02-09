@@ -1,8 +1,8 @@
 {
   "id": 25311,
   "title": "Tales of Xillia 2 - Soukyoku no Crossroad",
-  "url": "https://mangadex.org/manga/25311",
-  "last_updated": "January 12, 2021 19:02:47 UTC",
+  "url": "https://api.mangadex.org/v2/manga/25311",
+  "last_updated": "February 09, 2021 16:25:48 UTC",
   "matches": [
     {
       "id": 8401,
@@ -47,12 +47,6 @@
       "r18": false
     },
     {
-      "id": 54801,
-      "title": "One Piece Episode A",
-      "score": 0.703,
-      "r18": false
-    },
-    {
       "id": 20537,
       "title": "Seirei Gensouki ~Konna Sekai de Deaeta Kimi ni~",
       "score": 0.703,
@@ -65,14 +59,14 @@
       "r18": false
     },
     {
-      "id": 1714,
-      "title": "Kara no Kyoukai - The Garden of Sinners",
+      "id": 48137,
+      "title": "Welcome to the Impregnable Demon King Castle ~The Black Mage Who Got Kicked Out of the Hero Party Due to His Unnecessary Debuffs Gets Welcomed by the Top Brass of the Demon King's Army~",
       "score": 0.701,
       "r18": false
     },
     {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
+      "id": 1714,
+      "title": "Kara no Kyoukai - The Garden of Sinners",
       "score": 0.7,
       "r18": false
     },
@@ -83,20 +77,8 @@
       "r18": false
     },
     {
-      "id": 6875,
-      "title": "Tales of the Abyss",
-      "score": 0.699,
-      "r18": false
-    },
-    {
       "id": 4880,
       "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
-      "score": 0.699,
-      "r18": false
-    },
-    {
-      "id": 48137,
-      "title": "Welcome to the Impregnable Demon King Castle ~The Black Mage Who Got Kicked Out of the Hero Party Due to His Unnecessary Debuffs Gets Welcomed by the Top Brass of the Demon King's Army~",
       "score": 0.699,
       "r18": false
     },
@@ -119,6 +101,12 @@
       "r18": false
     },
     {
+      "id": 283,
+      "title": "Ao no Exorcist",
+      "score": 0.698,
+      "r18": false
+    },
+    {
       "id": 3038,
       "title": "Kyou Kara Ma no Tsuku Jiyuugyou!",
       "score": 0.698,
@@ -137,6 +125,12 @@
       "r18": false
     },
     {
+      "id": 54801,
+      "title": "One Piece Episode A",
+      "score": 0.697,
+      "r18": false
+    },
+    {
       "id": 1790,
       "title": "Arata Kangatari",
       "score": 0.697,
@@ -152,6 +146,12 @@
       "id": 14190,
       "title": "Zhan Long",
       "score": 0.696,
+      "r18": false
+    },
+    {
+      "id": 6875,
+      "title": "Tales of the Abyss",
+      "score": 0.695,
       "r18": false
     }
   ]

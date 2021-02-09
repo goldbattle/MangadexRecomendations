@@ -1,8 +1,8 @@
 {
   "id": 24899,
   "title": "Cutie Honey '90",
-  "url": "https://mangadex.org/manga/24899",
-  "last_updated": "January 12, 2021 18:58:17 UTC",
+  "url": "https://api.mangadex.org/v2/manga/24899",
+  "last_updated": "February 09, 2021 16:18:23 UTC",
   "matches": [
     {
       "id": 585,
@@ -13,13 +13,7 @@
     {
       "id": 19620,
       "title": "Devilman vs. Hades",
-      "score": 0.703,
-      "r18": false
-    },
-    {
-      "id": 14048,
-      "title": "Overlord",
-      "score": 0.69,
+      "score": 0.702,
       "r18": false
     },
     {
@@ -35,9 +29,9 @@
       "r18": false
     },
     {
-      "id": 759,
-      "title": "Drifters",
-      "score": 0.677,
+      "id": 14048,
+      "title": "Overlord",
+      "score": 0.68,
       "r18": false
     },
     {
@@ -49,7 +43,7 @@
     {
       "id": 31928,
       "title": "Getter Robo High",
-      "score": 0.673,
+      "score": 0.672,
       "r18": false
     },
     {
@@ -85,7 +79,7 @@
     {
       "id": 18789,
       "title": "EX-ARM",
-      "score": 0.657,
+      "score": 0.656,
       "r18": false
     },
     {
@@ -119,6 +113,12 @@
       "r18": false
     },
     {
+      "id": 17430,
+      "title": "Golosseum",
+      "score": 0.297,
+      "r18": false
+    },
+    {
       "id": 38821,
       "title": "Chronicle of the Searing Winds of Tianzhu",
       "score": 0.281,
@@ -128,6 +128,12 @@
       "id": 56288,
       "title": "Dead Maximum",
       "score": 0.278,
+      "r18": false
+    },
+    {
+      "id": 45930,
+      "title": "Bastard!! Complete Edition",
+      "score": 0.275,
       "r18": false
     },
     {
@@ -143,15 +149,9 @@
       "r18": false
     },
     {
-      "id": 12797,
-      "title": "Dororon Enbi-chan",
-      "score": 0.17,
-      "r18": false
-    },
-    {
-      "id": 41462,
-      "title": "Pink Royal",
-      "score": 0.136,
+      "id": 759,
+      "title": "Drifters",
+      "score": 0.253,
       "r18": false
     }
   ]

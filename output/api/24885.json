@@ -1,8 +1,8 @@
 {
   "id": 24885,
   "title": "Warcraft: The Sunwell Trilogy",
-  "url": "https://mangadex.org/manga/24885",
-  "last_updated": "January 12, 2021 18:58:09 UTC",
+  "url": "https://api.mangadex.org/v2/manga/24885",
+  "last_updated": "February 09, 2021 16:18:09 UTC",
   "matches": [
     {
       "id": 8339,
@@ -20,6 +20,12 @@
       "id": 53985,
       "title": "Dragon Raja 3",
       "score": 0.745,
+      "r18": false
+    },
+    {
+      "id": 51318,
+      "title": "Truthfully, They Only Remembered Her",
+      "score": 0.744,
       "r18": false
     },
     {
@@ -77,12 +83,6 @@
       "r18": false
     },
     {
-      "id": 3388,
-      "title": "Fate/Zero",
-      "score": 0.738,
-      "r18": false
-    },
-    {
       "id": 34664,
       "title": "Tales of Hearts",
       "score": 0.737,
@@ -91,12 +91,6 @@
     {
       "id": 2639,
       "title": "Abide in the Wind",
-      "score": 0.737,
-      "r18": false
-    },
-    {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
       "score": 0.737,
       "r18": false
     },
@@ -143,15 +137,21 @@
       "r18": false
     },
     {
-      "id": 29138,
-      "title": "Peach Boy Riverside",
+      "id": 31194,
+      "title": "Hunter Age",
       "score": 0.733,
       "r18": false
     },
     {
-      "id": 31194,
-      "title": "Hunter Age",
-      "score": 0.733,
+      "id": 19069,
+      "title": "Soul Land III - The Legend of the Dragon King",
+      "score": 0.732,
+      "r18": false
+    },
+    {
+      "id": 2086,
+      "title": "Kingdom Hearts 358/2 Days",
+      "score": 0.732,
       "r18": false
     }
   ]

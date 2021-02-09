@@ -1,19 +1,19 @@
 {
   "id": 25253,
   "title": "Young-kun",
-  "url": "https://mangadex.org/manga/25253",
-  "last_updated": "January 12, 2021 19:02:13 UTC",
+  "url": "https://api.mangadex.org/v2/manga/25253",
+  "last_updated": "February 09, 2021 16:24:41 UTC",
   "matches": [
     {
       "id": 16044,
       "title": "Sore ga Seiyuu!",
-      "score": 0.683,
+      "score": 0.684,
       "r18": false
     },
     {
       "id": 52055,
       "title": "Futari ga Kiss suru made",
-      "score": 0.683,
+      "score": 0.682,
       "r18": false
     },
     {
@@ -53,12 +53,6 @@
       "r18": false
     },
     {
-      "id": 13025,
-      "title": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka 4koma - Kami-sama no Nichijou",
-      "score": 0.663,
-      "r18": false
-    },
-    {
       "id": 39357,
       "title": "Secret x Siblings",
       "score": 0.663,
@@ -67,7 +61,13 @@
     {
       "id": 19431,
       "title": "Danganronpa - The Academy of Hope and the High School Students of Despair 4-koma Kings",
-      "score": 0.663,
+      "score": 0.662,
+      "r18": false
+    },
+    {
+      "id": 13025,
+      "title": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka 4koma - Kami-sama no Nichijou",
+      "score": 0.662,
       "r18": false
     },
     {
@@ -125,6 +125,12 @@
       "r18": false
     },
     {
+      "id": 12619,
+      "title": "Ojojojo",
+      "score": 0.653,
+      "r18": false
+    },
+    {
       "id": 15941,
       "title": "Tsurezure Children",
       "score": 0.653,
@@ -139,19 +145,13 @@
     {
       "id": 14052,
       "title": "Sensei Lock-On!",
-      "score": 0.651,
+      "score": 0.652,
       "r18": false
     },
     {
       "id": 23112,
       "title": "Aspe-chan",
       "score": 0.466,
-      "r18": false
-    },
-    {
-      "id": 19795,
-      "title": "Roots Beer",
-      "score": 0.38,
       "r18": false
     }
   ]

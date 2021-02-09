@@ -1,68 +1,62 @@
 {
   "id": 25691,
   "title": "FARFALLA",
-  "url": "https://mangadex.org/manga/25691",
-  "last_updated": "January 12, 2021 19:06:31 UTC",
+  "url": "https://api.mangadex.org/v2/manga/25691",
+  "last_updated": "February 09, 2021 16:32:43 UTC",
   "matches": [
     {
       "id": 11362,
       "title": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai - Min, Min, Min. (Doujinshi)",
       "score": 0.253,
-      "r18": false
+      "r18": true
     },
     {
       "id": 25479,
       "title": "Shingeki no Kyojin - Hanji &frac12; (Doujinshi)",
       "score": 0.247,
-      "r18": false
+      "r18": true
     },
     {
       "id": 26938,
       "title": "Sword Art Online - Honey Punishment (Doujinshi)",
       "score": 0.247,
-      "r18": false
+      "r18": true
     },
     {
       "id": 25087,
       "title": "Touhou - YouReimu: Phantom Limb and Ghostly Sense (Doujinshi)",
       "score": 0.185,
-      "r18": false
+      "r18": true
     },
     {
       "id": 29703,
       "title": "Kobayashi-san Chi no Maid Dragon - Ano Kanna no Hon Dewanai yo (Doujinshi)",
       "score": 0.185,
-      "r18": false
+      "r18": true
     },
     {
       "id": 29875,
       "title": "Touhou - Touhou Garden Story (Doujinshi)",
       "score": 0.185,
-      "r18": false
-    },
-    {
-      "id": 32166,
-      "title": "Yu-Gi-Oh! ZEXAL - Ultimate Eden (Doujinshi)",
-      "score": 0.185,
-      "r18": false
+      "r18": true
     },
     {
       "id": 31271,
       "title": "Touhou - Hiroukan (Doujinshi)",
       "score": 0.148,
-      "r18": false
+      "r18": true
     },
     {
       "id": 35932,
       "title": "Fate/Grand Order - Jack-kun wa Okaa-san to Issho (Doujinshi)",
       "score": 0.148,
-      "r18": false
+      "r18": true
     },
     {
       "id": 39855,
       "title": "Betsumono",
       "score": 0.148,
-      "r18": false
+      "r18": true
     }
   ]
 }

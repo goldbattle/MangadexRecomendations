@@ -1,8 +1,8 @@
 {
   "id": 25282,
   "title": "Bambi",
-  "url": "https://mangadex.org/manga/25282",
-  "last_updated": "January 12, 2021 19:02:30 UTC",
+  "url": "https://api.mangadex.org/v2/manga/25282",
+  "last_updated": "February 09, 2021 16:25:17 UTC",
   "matches": [
     {
       "id": 1654,
@@ -55,7 +55,13 @@
     {
       "id": 49338,
       "title": "I Just Want to Be a Useless Duke's Daughter",
-      "score": 0.723,
+      "score": 0.722,
+      "r18": false
+    },
+    {
+      "id": 59999,
+      "title": "Save Me, Princess",
+      "score": 0.722,
       "r18": false
     },
     {
@@ -91,19 +97,13 @@
     {
       "id": 19802,
       "title": "Wedding",
-      "score": 0.719,
+      "score": 0.718,
       "r18": false
     },
     {
       "id": 58143,
       "title": "The Provincial Commander's Self-Cultivation",
       "score": 0.717,
-      "r18": false
-    },
-    {
-      "id": 59296,
-      "title": "Answer Me, My Prince",
-      "score": 0.715,
       "r18": false
     },
     {
@@ -127,7 +127,7 @@
     {
       "id": 41020,
       "title": "Contract Concubine",
-      "score": 0.713,
+      "score": 0.712,
       "r18": false
     },
     {

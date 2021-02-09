@@ -1,8 +1,8 @@
 {
   "id": 26161,
   "title": "Flowerpot",
-  "url": "https://mangadex.org/manga/26161",
-  "last_updated": "January 13, 2021 00:51:36 UTC",
+  "url": "https://api.mangadex.org/v2/manga/26161",
+  "last_updated": "February 09, 2021 16:41:40 UTC",
   "matches": [
     {
       "id": 15976,
@@ -25,7 +25,7 @@
     {
       "id": 15822,
       "title": "Let Dai",
-      "score": 0.673,
+      "score": 0.674,
       "r18": false
     },
     {
@@ -41,14 +41,14 @@
       "r18": false
     },
     {
-      "id": 17721,
-      "title": "I Love You, Black Coffee",
+      "id": 31985,
+      "title": "Nemureru Mori no Binan",
       "score": 0.663,
       "r18": false
     },
     {
-      "id": 31985,
-      "title": "Nemureru Mori no Binan",
+      "id": 17721,
+      "title": "I Love You, Black Coffee",
       "score": 0.663,
       "r18": false
     },
@@ -73,7 +73,7 @@
     {
       "id": 51962,
       "title": "Fools Remaster",
-      "score": 0.651,
+      "score": 0.652,
       "r18": false
     },
     {
@@ -113,12 +113,6 @@
       "r18": false
     },
     {
-      "id": 49710,
-      "title": "Hidamari no Orange",
-      "score": 0.428,
-      "r18": false
-    },
-    {
       "id": 7096,
       "title": "Tsuki to Mizu no Yoru",
       "score": 0.421,
@@ -137,6 +131,12 @@
       "r18": false
     },
     {
+      "id": 49710,
+      "title": "Hidamari no Orange",
+      "score": 0.416,
+      "r18": false
+    },
+    {
       "id": 28912,
       "title": "7 Nenme no Dou Kyonin",
       "score": 0.411,
@@ -149,9 +149,9 @@
       "r18": false
     },
     {
-      "id": 14406,
-      "title": "Warui Ko no Tame no Wasuremono Techou",
-      "score": 0.387,
+      "id": 59501,
+      "title": "Minato Shoji Koinrandori",
+      "score": 0.398,
       "r18": false
     }
   ]

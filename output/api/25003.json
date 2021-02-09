@@ -1,8 +1,8 @@
 {
   "id": 25003,
   "title": "Tokusen Sukimono BL (Anthology)",
-  "url": "https://mangadex.org/manga/25003",
-  "last_updated": "January 12, 2021 18:59:18 UTC",
+  "url": "https://api.mangadex.org/v2/manga/25003",
+  "last_updated": "February 09, 2021 16:20:15 UTC",
   "matches": [
     {
       "id": 10465,
@@ -67,7 +67,7 @@
     {
       "id": 42710,
       "title": "Jingai x Kinniku BL",
-      "score": 0.669,
+      "score": 0.668,
       "r18": false
     },
     {
@@ -95,6 +95,12 @@
       "r18": false
     },
     {
+      "id": 29901,
+      "title": "Dear Door",
+      "score": 0.656,
+      "r18": false
+    },
+    {
       "id": 51610,
       "title": "Wadatsumi no Yometori",
       "score": 0.656,
@@ -103,7 +109,7 @@
     {
       "id": 18641,
       "title": "Kaidan BL (Anthology)",
-      "score": 0.65,
+      "score": 0.651,
       "r18": false
     },
     {
@@ -145,12 +151,6 @@
     {
       "id": 29662,
       "title": "K's Secret",
-      "score": 0.264,
-      "r18": false
-    },
-    {
-      "id": 29901,
-      "title": "Dear Door",
       "score": 0.264,
       "r18": false
     }

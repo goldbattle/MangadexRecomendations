@@ -1,18 +1,12 @@
 {
   "id": 24993,
   "title": "Usagi-moku Shachiku-ka",
-  "url": "https://mangadex.org/manga/24993",
-  "last_updated": "January 12, 2021 18:59:12 UTC",
+  "url": "https://api.mangadex.org/v2/manga/24993",
+  "last_updated": "February 09, 2021 16:20:04 UTC",
   "matches": [
     {
       "id": 4880,
       "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
-      "score": 0.713,
-      "r18": false
-    },
-    {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
       "score": 0.713,
       "r18": false
     },
@@ -29,9 +23,15 @@
       "r18": false
     },
     {
+      "id": 27151,
+      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
+      "score": 0.688,
+      "r18": false
+    },
+    {
       "id": 7436,
       "title": "Hoozuki no Reitetsu",
-      "score": 0.687,
+      "score": 0.686,
       "r18": false
     },
     {
@@ -53,9 +53,9 @@
       "r18": false
     },
     {
-      "id": 19505,
-      "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
-      "score": 0.677,
+      "id": 11576,
+      "title": "Genso Ginekokurasy",
+      "score": 0.679,
       "r18": false
     },
     {
@@ -113,12 +113,6 @@
       "r18": false
     },
     {
-      "id": 12109,
-      "title": "Miyata Shoten e Youkoso!",
-      "score": 0.662,
-      "r18": false
-    },
-    {
       "id": 79,
       "title": "Mizukami Satoshi Tanpenshuu",
       "score": 0.661,
@@ -145,13 +139,19 @@
     {
       "id": 21372,
       "title": "Nicola's Leisurely Demon World Travelogue",
-      "score": 0.657,
+      "score": 0.658,
       "r18": false
     },
     {
       "id": 28664,
       "title": "Ano Hito no I ni wa Boku ga Tarinai",
       "score": 0.657,
+      "r18": false
+    },
+    {
+      "id": 24667,
+      "title": "Tadashi Ore wa Heroine Toshite",
+      "score": 0.656,
       "r18": false
     }
   ]

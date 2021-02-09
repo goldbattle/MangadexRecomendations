@@ -1,8 +1,8 @@
 {
   "id": 25942,
   "title": "Dragon Dance",
-  "url": "https://mangadex.org/manga/25942",
-  "last_updated": "January 13, 2021 00:48:58 UTC",
+  "url": "https://api.mangadex.org/v2/manga/25942",
+  "last_updated": "February 09, 2021 16:37:25 UTC",
   "matches": [
     {
       "id": 29678,
@@ -26,6 +26,12 @@
       "id": 50434,
       "title": "Monster Bar",
       "score": 0.692,
+      "r18": false
+    },
+    {
+      "id": 59732,
+      "title": "Drake Saga",
+      "score": 0.688,
       "r18": false
     },
     {
@@ -83,9 +89,15 @@
       "r18": false
     },
     {
+      "id": 33141,
+      "title": "Mir's Legend - The Forgotten Ones",
+      "score": 0.662,
+      "r18": false
+    },
+    {
       "id": 46134,
       "title": "The Peerless Sword God",
-      "score": 0.661,
+      "score": 0.66,
       "r18": false
     },
     {
@@ -97,7 +109,7 @@
     {
       "id": 42737,
       "title": "I Was Born as the Demon Lord's Daughter",
-      "score": 0.659,
+      "score": 0.658,
       "r18": false
     },
     {
@@ -107,8 +119,8 @@
       "r18": false
     },
     {
-      "id": 19069,
-      "title": "Soul Land III - The Legend of the Dragon King",
+      "id": 37397,
+      "title": "Child of Light",
       "score": 0.654,
       "r18": false
     },
@@ -119,39 +131,27 @@
       "r18": false
     },
     {
-      "id": 37397,
-      "title": "Child of Light",
+      "id": 19069,
+      "title": "Soul Land III - The Legend of the Dragon King",
       "score": 0.654,
       "r18": false
     },
     {
       "id": 59248,
       "title": "Dragon's Savior",
-      "score": 0.653,
+      "score": 0.652,
+      "r18": false
+    },
+    {
+      "id": 56146,
+      "title": "Heaven Defying God of War",
+      "score": 0.652,
       "r18": false
     },
     {
       "id": 33863,
       "title": "The Beginning After the End",
       "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 56146,
-      "title": "God of War Against The Sky",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 20284,
-      "title": "X - Epoch of the Dragon",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 36442,
-      "title": "Young Sorcerer Master",
-      "score": 0.43,
       "r18": false
     }
   ]

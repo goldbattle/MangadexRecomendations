@@ -1,8 +1,8 @@
 {
   "id": 24963,
   "title": "Sonic the Hedgehog Story Comic",
-  "url": "https://mangadex.org/manga/24963",
-  "last_updated": "January 12, 2021 18:58:55 UTC",
+  "url": "https://api.mangadex.org/v2/manga/24963",
+  "last_updated": "February 09, 2021 16:19:30 UTC",
   "matches": [
     {
       "id": 20348,
@@ -103,7 +103,7 @@
     {
       "id": 14408,
       "title": "I Am the Only One Who Knows This World Is a Game",
-      "score": 0.673,
+      "score": 0.672,
       "r18": false
     },
     {
@@ -119,6 +119,12 @@
       "r18": false
     },
     {
+      "id": 48217,
+      "title": "Leveling Up, by Only Eating!",
+      "score": 0.666,
+      "r18": false
+    },
+    {
       "id": 39816,
       "title": "Fantasy Sister!",
       "score": 0.665,
@@ -127,7 +133,7 @@
     {
       "id": 25180,
       "title": "Metroid (E-Manga)",
-      "score": 0.659,
+      "score": 0.66,
       "r18": false
     },
     {
@@ -139,19 +145,13 @@
     {
       "id": 29303,
       "title": "Donkey Kong",
-      "score": 0.653,
+      "score": 0.652,
       "r18": false
     },
     {
       "id": 30035,
       "title": "Mahou Daisakusen",
-      "score": 0.479,
-      "r18": false
-    },
-    {
-      "id": 38776,
-      "title": "Zelda Encyclopedia",
-      "score": 0.396,
+      "score": 0.48,
       "r18": false
     }
   ]

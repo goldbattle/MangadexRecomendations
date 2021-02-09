@@ -1,13 +1,19 @@
 {
   "id": 24978,
   "title": "Siren (LEE Do-go)",
-  "url": "https://mangadex.org/manga/24978",
-  "last_updated": "January 12, 2021 18:59:03 UTC",
+  "url": "https://api.mangadex.org/v2/manga/24978",
+  "last_updated": "February 09, 2021 16:19:45 UTC",
   "matches": [
     {
       "id": 23195,
       "title": "The Great Ruler",
-      "score": 0.657,
+      "score": 0.658,
+      "r18": false
+    },
+    {
+      "id": 51318,
+      "title": "Truthfully, They Only Remembered Her",
+      "score": 0.656,
       "r18": false
     },
     {
@@ -23,21 +29,9 @@
       "r18": false
     },
     {
-      "id": 3388,
-      "title": "Fate/Zero",
-      "score": 0.653,
-      "r18": false
-    },
-    {
       "id": 3387,
       "title": "Twelfth Night",
       "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 13364,
-      "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Daiisshou - Outo no Ichinichi Hen",
-      "score": 0.651,
       "r18": false
     },
     {
@@ -91,13 +85,13 @@
     {
       "id": 208,
       "title": "Magician",
-      "score": 0.353,
+      "score": 0.354,
       "r18": false
     },
     {
       "id": 9096,
       "title": "Magdala de Nemure",
-      "score": 0.351,
+      "score": 0.352,
       "r18": false
     },
     {
@@ -107,9 +101,15 @@
       "r18": false
     },
     {
+      "id": 4135,
+      "title": "Mushishi",
+      "score": 0.35,
+      "r18": false
+    },
+    {
       "id": 1766,
       "title": "Umineko no Naku Koro ni Chiru Episode 7: Requiem of the Golden Witch",
-      "score": 0.349,
+      "score": 0.35,
       "r18": false
     },
     {
@@ -125,21 +125,9 @@
       "r18": false
     },
     {
-      "id": 4135,
-      "title": "Mushishi",
-      "score": 0.348,
-      "r18": false
-    },
-    {
       "id": 1146,
       "title": "Inugami",
       "score": 0.347,
-      "r18": false
-    },
-    {
-      "id": 3865,
-      "title": "Ghost Hunt",
-      "score": 0.346,
       "r18": false
     },
     {
@@ -152,6 +140,18 @@
       "id": 590,
       "title": "Mahou Shoujo Madoka\u2605Magica",
       "score": 0.345,
+      "r18": false
+    },
+    {
+      "id": 283,
+      "title": "Ao no Exorcist",
+      "score": 0.344,
+      "r18": false
+    },
+    {
+      "id": 30290,
+      "title": "Nil Admirari no Tenbin: Teito Genwaku Kitan",
+      "score": 0.344,
       "r18": false
     }
   ]

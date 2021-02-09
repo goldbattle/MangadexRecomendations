@@ -1,8 +1,8 @@
 {
   "id": 24843,
   "title": "Toumei Shounen",
-  "url": "https://mangadex.org/manga/24843",
-  "last_updated": "January 12, 2021 18:57:42 UTC",
+  "url": "https://api.mangadex.org/v2/manga/24843",
+  "last_updated": "February 09, 2021 16:17:23 UTC",
   "matches": [
     {
       "id": 4469,
@@ -47,21 +47,15 @@
       "r18": false
     },
     {
-      "id": 37407,
-      "title": "Ogus's Law",
-      "score": 0.741,
-      "r18": false
-    },
-    {
       "id": 27806,
       "title": "Taiyou ni Nurete",
-      "score": 0.74,
+      "score": 0.742,
       "r18": false
     },
     {
-      "id": 35738,
-      "title": "Aitsu to Ore.",
-      "score": 0.739,
+      "id": 37407,
+      "title": "Ogus's Law",
+      "score": 0.74,
       "r18": false
     },
     {
@@ -71,9 +65,9 @@
       "r18": false
     },
     {
-      "id": 49710,
-      "title": "Hidamari no Orange",
-      "score": 0.736,
+      "id": 35738,
+      "title": "Aitsu to Ore.",
+      "score": 0.738,
       "r18": false
     },
     {
@@ -83,14 +77,14 @@
       "r18": false
     },
     {
-      "id": 37037,
-      "title": "Chou ni Naru Hi",
+      "id": 21565,
+      "title": "Ao no Flag",
       "score": 0.734,
       "r18": false
     },
     {
-      "id": 21565,
-      "title": "Ao no Flag",
+      "id": 37037,
+      "title": "Chou ni Naru Hi",
       "score": 0.734,
       "r18": false
     },
@@ -152,6 +146,12 @@
       "id": 25765,
       "title": "Bashing Renai",
       "score": 0.72,
+      "r18": false
+    },
+    {
+      "id": 28122,
+      "title": "Junjou de Wagamama na Kare",
+      "score": 0.719,
       "r18": false
     }
   ]

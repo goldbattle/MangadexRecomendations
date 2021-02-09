@@ -1,8 +1,8 @@
 {
   "id": 24861,
   "title": "Color of the Far East",
-  "url": "https://mangadex.org/manga/24861",
-  "last_updated": "January 12, 2021 18:57:54 UTC",
+  "url": "https://api.mangadex.org/v2/manga/24861",
+  "last_updated": "February 09, 2021 16:17:43 UTC",
   "matches": [
     {
       "id": 26377,
@@ -14,6 +14,12 @@
       "id": 34825,
       "title": "Walking Stick",
       "score": 0.312,
+      "r18": false
+    },
+    {
+      "id": 59882,
+      "title": "Koufuku wa Ice Cream Mitai ni Tokeyasui",
+      "score": 0.31,
       "r18": false
     },
     {

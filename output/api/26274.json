@@ -1,8 +1,8 @@
 {
   "id": 26274,
   "title": "Harry Potter - Popover (Doujinshi)",
-  "url": "https://mangadex.org/manga/26274",
-  "last_updated": "January 13, 2021 00:52:58 UTC",
+  "url": "https://api.mangadex.org/v2/manga/26274",
+  "last_updated": "February 09, 2021 16:44:23 UTC",
   "matches": [
     {
       "id": 4892,
@@ -23,15 +23,15 @@
       "r18": false
     },
     {
-      "id": 51125,
-      "title": "Boku no Hero Academia - &amp;-and- (Doujinshi)",
-      "score": 0.676,
-      "r18": false
-    },
-    {
       "id": 9593,
       "title": "Fate/Zero - Ou-sama no Namida (Doujinshi)",
       "score": 0.674,
+      "r18": false
+    },
+    {
+      "id": 23237,
+      "title": "Toaru Kagaku no Railgun - Level Kemoner (Doujinshi)",
+      "score": 0.668,
       "r18": false
     },
     {
@@ -41,9 +41,9 @@
       "r18": false
     },
     {
-      "id": 23237,
-      "title": "Toaru Kagaku no Railgun - Level Kemoner (Doujinshi)",
-      "score": 0.667,
+      "id": 51125,
+      "title": "Boku no Hero Academia - &amp;-and- (Doujinshi)",
+      "score": 0.666,
       "r18": false
     },
     {
@@ -137,12 +137,6 @@
       "r18": false
     },
     {
-      "id": 34074,
-      "title": "Sengoku Basara - Revaival (Doujinshi)",
-      "score": 0.651,
-      "r18": false
-    },
-    {
       "id": 22459,
       "title": "[switch] - Pandora (Doujinshi)",
       "score": 0.487,
@@ -152,6 +146,12 @@
       "id": 10878,
       "title": "Slayers - Strahl (Doujinshi)",
       "score": 0.469,
+      "r18": false
+    },
+    {
+      "id": 6805,
+      "title": "Touhou - Magical Heart (Doujinshi)",
+      "score": 0.46,
       "r18": false
     }
   ]

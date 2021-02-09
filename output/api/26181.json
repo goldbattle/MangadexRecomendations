@@ -1,9 +1,15 @@
 {
   "id": 26181,
   "title": "The Cat Immortal",
-  "url": "https://mangadex.org/manga/26181",
-  "last_updated": "January 13, 2021 00:51:52 UTC",
+  "url": "https://api.mangadex.org/v2/manga/26181",
+  "last_updated": "February 09, 2021 16:42:05 UTC",
   "matches": [
+    {
+      "id": 59476,
+      "title": "The Tyrant&rsquo;s Guardian Is an Evil Witch",
+      "score": 0.71,
+      "r18": false
+    },
     {
       "id": 47815,
       "title": "I'll Protect the 2nd ML's Love",
@@ -19,7 +25,7 @@
     {
       "id": 42236,
       "title": "Heaven Official's Blessing (old version)",
-      "score": 0.709,
+      "score": 0.708,
       "r18": false
     },
     {
@@ -38,6 +44,12 @@
       "id": 23231,
       "title": "Wu Dong Qian Kun",
       "score": 0.702,
+      "r18": false
+    },
+    {
+      "id": 59592,
+      "title": "Wandering Dream",
+      "score": 0.701,
       "r18": false
     },
     {
@@ -67,7 +79,7 @@
     {
       "id": 53653,
       "title": "Alongside Demons and Deities",
-      "score": 0.699,
+      "score": 0.698,
       "r18": false
     },
     {
@@ -140,18 +152,6 @@
       "id": 31551,
       "title": "A Returner's Magic Should Be Special",
       "score": 0.689,
-      "r18": false
-    },
-    {
-      "id": 52739,
-      "title": "The King's Avatar",
-      "score": 0.689,
-      "r18": false
-    },
-    {
-      "id": 49332,
-      "title": "I Became a Maid in a TL Novel",
-      "score": 0.687,
       "r18": false
     }
   ]

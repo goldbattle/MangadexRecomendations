@@ -1,8 +1,8 @@
 {
   "id": 24863,
   "title": "Xenogears Comic Anthology",
-  "url": "https://mangadex.org/manga/24863",
-  "last_updated": "January 12, 2021 18:57:55 UTC",
+  "url": "https://api.mangadex.org/v2/manga/24863",
+  "last_updated": "February 09, 2021 16:17:46 UTC",
   "matches": [
     {
       "id": 33397,
@@ -13,7 +13,7 @@
     {
       "id": 28020,
       "title": "Five Star Monogatari",
-      "score": 0.393,
+      "score": 0.392,
       "r18": false
     },
     {
@@ -91,7 +91,7 @@
     {
       "id": 1071,
       "title": "Double Arts",
-      "score": 0.343,
+      "score": 0.342,
       "r18": false
     },
     {
@@ -131,12 +131,6 @@
       "r18": false
     },
     {
-      "id": 54801,
-      "title": "One Piece Episode A",
-      "score": 0.336,
-      "r18": false
-    },
-    {
       "id": 13764,
       "title": "Guren Five",
       "score": 0.335,
@@ -152,6 +146,12 @@
       "id": 39036,
       "title": "That Inferior Knight, Lv. 999",
       "score": 0.33,
+      "r18": false
+    },
+    {
+      "id": 54801,
+      "title": "One Piece Episode A",
+      "score": 0.329,
       "r18": false
     }
   ]

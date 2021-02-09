@@ -1,8 +1,8 @@
 {
   "id": 25848,
   "title": "A Scary Story",
-  "url": "https://mangadex.org/manga/25848",
-  "last_updated": "January 13, 2021 00:47:53 UTC",
+  "url": "https://api.mangadex.org/v2/manga/25848",
+  "last_updated": "February 09, 2021 16:35:41 UTC",
   "matches": [
     {
       "id": 32510,
@@ -11,9 +11,15 @@
       "r18": false
     },
     {
+      "id": 38399,
+      "title": "Spirited Away by the Rain Woman Youkai",
+      "score": 0.657,
+      "r18": false
+    },
+    {
       "id": 52557,
       "title": "Perfect Mine",
-      "score": 0.657,
+      "score": 0.656,
       "r18": false
     },
     {
@@ -133,12 +139,6 @@
     {
       "id": 5810,
       "title": "Normal City",
-      "score": 0.312,
-      "r18": false
-    },
-    {
-      "id": 2711,
-      "title": "Dawn - Tsumetai Te",
       "score": 0.312,
       "r18": false
     },
