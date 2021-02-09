@@ -1,8 +1,8 @@
 {
   "id": 23033,
   "title": "Liv",
-  "url": "https://mangadex.org/manga/23033",
-  "last_updated": "January 12, 2021 12:36:25 UTC",
+  "url": "https://api.mangadex.org/v2/manga/23033",
+  "last_updated": "February 09, 2021 08:33:17 UTC",
   "matches": [
     {
       "id": 31152,
@@ -37,7 +37,7 @@
     {
       "id": 1417,
       "title": "Shingetsutan Tsukihime",
-      "score": 0.681,
+      "score": 0.682,
       "r18": false
     },
     {
@@ -65,6 +65,12 @@
       "r18": false
     },
     {
+      "id": 283,
+      "title": "Ao no Exorcist",
+      "score": 0.678,
+      "r18": false
+    },
+    {
       "id": 2922,
       "title": "Shinyaku Ookami ga Kuru!",
       "score": 0.678,
@@ -77,26 +83,20 @@
       "r18": false
     },
     {
-      "id": 283,
-      "title": "Ao no Exorcist",
-      "score": 0.677,
-      "r18": false
-    },
-    {
       "id": 366,
       "title": "Choujin Gakuen - Konton Mouryou Seishun Jihen",
       "score": 0.677,
       "r18": false
     },
     {
-      "id": 5840,
-      "title": "BLOOD+",
+      "id": 6004,
+      "title": "Matantei Loki",
       "score": 0.677,
       "r18": false
     },
     {
-      "id": 6004,
-      "title": "Matantei Loki",
+      "id": 5840,
+      "title": "BLOOD+",
       "score": 0.677,
       "r18": false
     },
@@ -115,19 +115,19 @@
     {
       "id": 2086,
       "title": "Kingdom Hearts 358/2 Days",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 47371,
-      "title": "A Breakthrough Brought by Forbidden Master and Disciple",
-      "score": 0.675,
+      "score": 0.677,
       "r18": false
     },
     {
       "id": 25155,
       "title": "To Heart",
       "score": 0.675,
+      "r18": false
+    },
+    {
+      "id": 47371,
+      "title": "A Breakthrough Brought by Forbidden Master and Disciple",
+      "score": 0.674,
       "r18": false
     },
     {

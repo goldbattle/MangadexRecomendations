@@ -1,8 +1,8 @@
 {
   "id": 22496,
   "title": "Undercover",
-  "url": "https://mangadex.org/manga/22496",
-  "last_updated": "January 12, 2021 12:30:20 UTC",
+  "url": "https://api.mangadex.org/v2/manga/22496",
+  "last_updated": "February 09, 2021 08:23:36 UTC",
   "matches": [
     {
       "id": 14257,
@@ -23,6 +23,18 @@
       "r18": false
     },
     {
+      "id": 59359,
+      "title": "Daehyun's Laundry~ I wash everything~",
+      "score": 0.38,
+      "r18": false
+    },
+    {
+      "id": 59927,
+      "title": "Punk Dunk Funk",
+      "score": 0.375,
+      "r18": false
+    },
+    {
       "id": 50643,
       "title": "I Have Money!",
       "score": 0.368,
@@ -37,7 +49,13 @@
     {
       "id": 57323,
       "title": "Dangerous Convenience Store",
-      "score": 0.361,
+      "score": 0.362,
+      "r18": false
+    },
+    {
+      "id": 59639,
+      "title": "A Grand Ambition",
+      "score": 0.359,
       "r18": false
     },
     {
@@ -50,6 +68,12 @@
       "id": 42487,
       "title": "Biting the Tiger",
       "score": 0.357,
+      "r18": false
+    },
+    {
+      "id": 48317,
+      "title": "Madman Combo",
+      "score": 0.356,
       "r18": false
     },
     {
@@ -67,6 +91,12 @@
     {
       "id": 56850,
       "title": "Secondo Piatto",
+      "score": 0.345,
+      "r18": false
+    },
+    {
+      "id": 57997,
+      "title": "An Omega's Love Affair",
       "score": 0.344,
       "r18": false
     },
@@ -79,7 +109,7 @@
     {
       "id": 51884,
       "title": "Stakeout",
-      "score": 0.343,
+      "score": 0.342,
       "r18": false
     },
     {
@@ -89,26 +119,26 @@
       "r18": false
     },
     {
-      "id": 48317,
-      "title": "Madman Combo",
-      "score": 0.336,
-      "r18": false
-    },
-    {
       "id": 31390,
       "title": "Blood Link",
       "score": 0.336,
       "r18": false
     },
     {
-      "id": 50645,
-      "title": "Whatever the Start May Be",
-      "score": 0.333,
+      "id": 50850,
+      "title": "No More Innocence",
+      "score": 0.335,
       "r18": false
     },
     {
       "id": 50353,
       "title": "Hidden Hobbies",
+      "score": 0.333,
+      "r18": false
+    },
+    {
+      "id": 50645,
+      "title": "Whatever the Start May Be",
       "score": 0.333,
       "r18": false
     },
@@ -122,36 +152,6 @@
       "id": 27423,
       "title": "Naive",
       "score": 0.33,
-      "r18": false
-    },
-    {
-      "id": 58017,
-      "title": "It's Been Awhile, Shall We?",
-      "score": 0.33,
-      "r18": false
-    },
-    {
-      "id": 48149,
-      "title": "Pharmacy Back Room (In Pharmacy)",
-      "score": 0.33,
-      "r18": false
-    },
-    {
-      "id": 43471,
-      "title": "Baby, Punk Kid",
-      "score": 0.329,
-      "r18": false
-    },
-    {
-      "id": 33269,
-      "title": "Cat in a Cardboard Box",
-      "score": 0.328,
-      "r18": false
-    },
-    {
-      "id": 51379,
-      "title": "Nagano Hymns",
-      "score": 0.327,
       "r18": false
     }
   ]

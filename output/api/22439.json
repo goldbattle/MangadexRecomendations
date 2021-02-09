@@ -1,8 +1,8 @@
 {
   "id": 22439,
   "title": "Escape Devildom",
-  "url": "https://mangadex.org/manga/22439",
-  "last_updated": "January 12, 2021 12:29:45 UTC",
+  "url": "https://api.mangadex.org/v2/manga/22439",
+  "last_updated": "February 09, 2021 08:22:35 UTC",
   "matches": [
     {
       "id": 23231,
@@ -13,6 +13,12 @@
     {
       "id": 31551,
       "title": "A Returner's Magic Should Be Special",
+      "score": 0.718,
+      "r18": false
+    },
+    {
+      "id": 43692,
+      "title": "Demonic Emperor",
       "score": 0.718,
       "r18": false
     },
@@ -59,15 +65,15 @@
       "r18": false
     },
     {
-      "id": 43692,
-      "title": "Demonic Emperor",
-      "score": 0.703,
-      "r18": false
-    },
-    {
       "id": 38255,
       "title": "I Am the Sorcerer King",
       "score": 0.698,
+      "r18": false
+    },
+    {
+      "id": 12009,
+      "title": "Soul Land",
+      "score": 0.697,
       "r18": false
     },
     {
@@ -107,15 +113,15 @@
       "r18": false
     },
     {
-      "id": 34287,
-      "title": "Master of Legendary Realms",
-      "score": 0.689,
+      "id": 59732,
+      "title": "Drake Saga",
+      "score": 0.688,
       "r18": false
     },
     {
       "id": 44627,
       "title": "Don't Mess With Me, Miss",
-      "score": 0.689,
+      "score": 0.688,
       "r18": false
     },
     {
@@ -125,26 +131,20 @@
       "r18": false
     },
     {
-      "id": 49396,
-      "title": "Against The Heaven's Destiny",
-      "score": 0.687,
-      "r18": false
-    },
-    {
       "id": 32851,
       "title": "The Gateway of Revolution",
       "score": 0.687,
       "r18": false
     },
     {
-      "id": 54090,
-      "title": "Capture the Golem and Escape Poverty",
+      "id": 49396,
+      "title": "Against The Heaven's Destiny",
       "score": 0.687,
       "r18": false
     },
     {
-      "id": 33141,
-      "title": "Mir's Legend - The Forgotten Ones",
+      "id": 54090,
+      "title": "Capture the Golem and Escape Poverty",
       "score": 0.686,
       "r18": false
     },

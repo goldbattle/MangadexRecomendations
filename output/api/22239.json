@@ -1,13 +1,19 @@
 {
   "id": 22239,
   "title": "Isekai Yuusha No Satsujin Yuugi",
-  "url": "https://mangadex.org/manga/22239",
-  "last_updated": "January 12, 2021 12:27:41 UTC",
+  "url": "https://api.mangadex.org/v2/manga/22239",
+  "last_updated": "February 09, 2021 08:18:56 UTC",
   "matches": [
     {
       "id": 43540,
       "title": "Fantasy Bishoujo Juniku Ojisan to",
       "score": 0.698,
+      "r18": false
+    },
+    {
+      "id": 59999,
+      "title": "Save Me, Princess",
+      "score": 0.683,
       "r18": false
     },
     {
@@ -29,14 +35,14 @@
       "r18": false
     },
     {
-      "id": 48137,
-      "title": "Welcome to the Impregnable Demon King Castle ~The Black Mage Who Got Kicked Out of the Hero Party Due to His Unnecessary Debuffs Gets Welcomed by the Top Brass of the Demon King's Army~",
-      "score": 0.678,
+      "id": 1790,
+      "title": "Arata Kangatari",
+      "score": 0.676,
       "r18": false
     },
     {
-      "id": 1790,
-      "title": "Arata Kangatari",
+      "id": 48137,
+      "title": "Welcome to the Impregnable Demon King Castle ~The Black Mage Who Got Kicked Out of the Hero Party Due to His Unnecessary Debuffs Gets Welcomed by the Top Brass of the Demon King's Army~",
       "score": 0.676,
       "r18": false
     },
@@ -53,12 +59,6 @@
       "r18": false
     },
     {
-      "id": 41767,
-      "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Daiyonshou - Seiiki to Gouyoku no Majou",
-      "score": 0.67,
-      "r18": false
-    },
-    {
       "id": 40,
       "title": "Crepuscule",
       "score": 0.67,
@@ -67,12 +67,6 @@
     {
       "id": 47371,
       "title": "A Breakthrough Brought by Forbidden Master and Disciple",
-      "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 13364,
-      "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Daiisshou - Outo no Ichinichi Hen",
       "score": 0.668,
       "r18": false
     },
@@ -89,14 +83,14 @@
       "r18": false
     },
     {
-      "id": 52095,
-      "title": "Kage no Eiyuu no Nichijou-tan",
+      "id": 41767,
+      "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Daiyonshou - Seiiki to Gouyoku no Majou",
       "score": 0.666,
       "r18": false
     },
     {
-      "id": 18663,
-      "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Daisanshou - Truth of Zero",
+      "id": 52095,
+      "title": "Kage no Eiyuu no Nichijou-tan",
       "score": 0.666,
       "r18": false
     },
@@ -113,20 +107,26 @@
       "r18": false
     },
     {
-      "id": 3038,
-      "title": "Kyou Kara Ma no Tsuku Jiyuugyou!",
+      "id": 51318,
+      "title": "Truthfully, They Only Remembered Her",
       "score": 0.665,
       "r18": false
     },
     {
-      "id": 22816,
-      "title": "Class ga Isekai Shoukan sareta Naka Ore dake Nokotta n desu ga",
-      "score": 0.663,
+      "id": 3038,
+      "title": "Kyou Kara Ma no Tsuku Jiyuugyou!",
+      "score": 0.664,
       "r18": false
     },
     {
       "id": 1858,
       "title": "Kanata Kara",
+      "score": 0.663,
+      "r18": false
+    },
+    {
+      "id": 22816,
+      "title": "Class ga Isekai Shoukan sareta Naka Ore dake Nokotta n desu ga",
       "score": 0.663,
       "r18": false
     },
@@ -149,8 +149,8 @@
       "r18": false
     },
     {
-      "id": 33863,
-      "title": "The Beginning After the End",
+      "id": 13364,
+      "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Daiisshou - Outo no Ichinichi Hen",
       "score": 0.662,
       "r18": false
     }

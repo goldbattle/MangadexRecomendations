@@ -1,8 +1,8 @@
 {
   "id": 22580,
   "title": "Sweet Home",
-  "url": "https://mangadex.org/manga/22580",
-  "last_updated": "January 12, 2021 12:31:45 UTC",
+  "url": "https://api.mangadex.org/v2/manga/22580",
+  "last_updated": "February 09, 2021 08:25:05 UTC",
   "matches": [
     {
       "id": 6146,
@@ -23,8 +23,26 @@
       "r18": false
     },
     {
+      "id": 33141,
+      "title": "Mir's Legend - The Forgotten Ones",
+      "score": 0.674,
+      "r18": false
+    },
+    {
+      "id": 676,
+      "title": "Orange Marmalade",
+      "score": 0.672,
+      "r18": false
+    },
+    {
       "id": 1240,
       "title": "Stigma",
+      "score": 0.672,
+      "r18": false
+    },
+    {
+      "id": 59326,
+      "title": "Legend of Mir: Gold Armored Dragon",
       "score": 0.672,
       "r18": false
     },
@@ -37,13 +55,13 @@
     {
       "id": 45807,
       "title": "Life Completely Ruined",
-      "score": 0.671,
+      "score": 0.672,
       "r18": false
     },
     {
-      "id": 19212,
-      "title": "Nano List",
-      "score": 0.667,
+      "id": 398,
+      "title": "Tsumi to Batsu - A Falsified Romance",
+      "score": 0.668,
       "r18": false
     },
     {
@@ -53,9 +71,9 @@
       "r18": false
     },
     {
-      "id": 50085,
-      "title": "Legend of the Galactic Heroes",
-      "score": 0.665,
+      "id": 19212,
+      "title": "Nano List",
+      "score": 0.667,
       "r18": false
     },
     {
@@ -83,14 +101,14 @@
       "r18": false
     },
     {
-      "id": 50714,
-      "title": "Legend of the Galactic Heroes - Golden Wings",
-      "score": 0.663,
+      "id": 6270,
+      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo (Official Colored)",
+      "score": 0.664,
       "r18": false
     },
     {
-      "id": 6270,
-      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo (Official Colored)",
+      "id": 46402,
+      "title": "In the Dark",
       "score": 0.663,
       "r18": false
     },
@@ -98,12 +116,6 @@
       "id": 20173,
       "title": "Freezing Colour Edition",
       "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 46402,
-      "title": "In the Dark",
-      "score": 0.662,
       "r18": false
     },
     {
@@ -125,8 +137,8 @@
       "r18": false
     },
     {
-      "id": 38922,
-      "title": "Ragnarok: Requiem for the Lost Ones",
+      "id": 2888,
+      "title": "Trace 1.5",
       "score": 0.66,
       "r18": false
     },
@@ -137,21 +149,9 @@
       "r18": false
     },
     {
-      "id": 2888,
-      "title": "Trace 1.5",
+      "id": 51000,
+      "title": "I Want to Do It, Even If It Hurts",
       "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 30171,
-      "title": "Overgeared",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 857,
-      "title": "Kiba no Tabishounin - The Arms Peddler",
-      "score": 0.659,
       "r18": false
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": 22421,
   "title": "Ashita no Koto wa Wakaranai",
-  "url": "https://mangadex.org/manga/22421",
-  "last_updated": "January 12, 2021 12:29:33 UTC",
+  "url": "https://api.mangadex.org/v2/manga/22421",
+  "last_updated": "February 09, 2021 08:22:14 UTC",
   "matches": [
     {
       "id": 3027,
@@ -55,7 +55,7 @@
     {
       "id": 6082,
       "title": "Yume Miru Happa",
-      "score": 0.711,
+      "score": 0.71,
       "r18": false
     },
     {
@@ -73,12 +73,18 @@
     {
       "id": 3460,
       "title": "Nante Zurui Otoko",
-      "score": 0.7,
+      "score": 0.699,
       "r18": false
     },
     {
       "id": 17656,
       "title": "Kyoukasho wa Oshiete Kurenai",
+      "score": 0.698,
+      "r18": false
+    },
+    {
+      "id": 24845,
+      "title": "DOLO's Destiny Pill",
       "score": 0.698,
       "r18": false
     },
@@ -97,12 +103,6 @@
     {
       "id": 13685,
       "title": "Watashi no Ookami-kun",
-      "score": 0.695,
-      "r18": false
-    },
-    {
-      "id": 2126,
-      "title": "Midori no Me",
       "score": 0.694,
       "r18": false
     },
@@ -113,9 +113,15 @@
       "r18": false
     },
     {
+      "id": 2126,
+      "title": "Midori no Me",
+      "score": 0.694,
+      "r18": false
+    },
+    {
       "id": 5482,
       "title": "In the Chocolate",
-      "score": 0.694,
+      "score": 0.693,
       "r18": false
     },
     {
@@ -127,7 +133,7 @@
     {
       "id": 4359,
       "title": "Himitsu Kichi",
-      "score": 0.693,
+      "score": 0.692,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 8302,
       "title": "Love Graduation",
       "score": 0.691,
-      "r18": false
-    },
-    {
-      "id": 2247,
-      "title": "Silver",
-      "score": 0.69,
       "r18": false
     }
   ]

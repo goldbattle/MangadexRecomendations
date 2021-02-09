@@ -1,8 +1,8 @@
 {
   "id": 23028,
   "title": "Dokunie Cooking",
-  "url": "https://mangadex.org/manga/23028",
-  "last_updated": "January 12, 2021 12:36:22 UTC",
+  "url": "https://api.mangadex.org/v2/manga/23028",
+  "last_updated": "February 09, 2021 08:33:12 UTC",
   "matches": [
     {
       "id": 5593,
@@ -95,18 +95,6 @@
       "r18": false
     },
     {
-      "id": 9803,
-      "title": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka",
-      "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 51808,
-      "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
-      "score": 0.697,
-      "r18": false
-    },
-    {
       "id": 13282,
       "title": "Iron Virgin Jun",
       "score": 0.696,
@@ -131,14 +119,14 @@
       "r18": false
     },
     {
-      "id": 809,
-      "title": "Maji Bura!?",
+      "id": 37909,
+      "title": "Asobinin wa Kenja ni Tenshoku Dekiru tte Shittemashita? ~ Yuusha Party o Tsuihou Sareta Lv 99",
       "score": 0.692,
       "r18": false
     },
     {
-      "id": 37909,
-      "title": "Asobinin wa Kenja ni Tenshoku Dekiru tte Shittemashita? ~ Yuusha Party o Tsuihou Sareta Lv 99",
+      "id": 809,
+      "title": "Maji Bura!?",
       "score": 0.692,
       "r18": false
     },
@@ -152,6 +140,18 @@
       "id": 1243,
       "title": "Magikano",
       "score": 0.691,
+      "r18": false
+    },
+    {
+      "id": 22004,
+      "title": "Kamen Rider W: Fuuto Tantei",
+      "score": 0.691,
+      "r18": false
+    },
+    {
+      "id": 45104,
+      "title": "Madan no Ou to Michelia",
+      "score": 0.69,
       "r18": false
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": 21947,
   "title": "Val x Love",
-  "url": "https://mangadex.org/manga/21947",
-  "last_updated": "January 12, 2021 12:24:43 UTC",
+  "url": "https://api.mangadex.org/v2/manga/21947",
+  "last_updated": "February 09, 2021 08:13:45 UTC",
   "matches": [
     {
       "id": 1917,
@@ -38,6 +38,12 @@
       "id": 1070,
       "title": "Ladies versus Butlers!",
       "score": 0.687,
+      "r18": false
+    },
+    {
+      "id": 318,
+      "title": "Blood Lad",
+      "score": 0.685,
       "r18": false
     },
     {
@@ -119,20 +125,14 @@
       "r18": false
     },
     {
-      "id": 4280,
-      "title": "Monster Musume no Iru Nichijou",
-      "score": 0.681,
-      "r18": false
-    },
-    {
       "id": 24528,
       "title": "Kuromori-san wa Smartphone ga Tsukaenai",
       "score": 0.681,
       "r18": false
     },
     {
-      "id": 10135,
-      "title": "Meiyaku no Leviathan",
+      "id": 4280,
+      "title": "Monster Musume no Iru Nichijou",
       "score": 0.681,
       "r18": false
     },
@@ -143,14 +143,14 @@
       "r18": false
     },
     {
-      "id": 4967,
-      "title": "Baketeriya",
+      "id": 10135,
+      "title": "Meiyaku no Leviathan",
       "score": 0.681,
       "r18": false
     },
     {
-      "id": 6705,
-      "title": "Shinbashi no Miko",
+      "id": 4967,
+      "title": "Baketeriya",
       "score": 0.681,
       "r18": false
     }

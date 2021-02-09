@@ -1,13 +1,13 @@
 {
   "id": 22771,
   "title": "Hone ga Kusaru Made",
-  "url": "https://mangadex.org/manga/22771",
-  "last_updated": "January 12, 2021 12:33:43 UTC",
+  "url": "https://api.mangadex.org/v2/manga/22771",
+  "last_updated": "February 09, 2021 08:28:28 UTC",
   "matches": [
     {
       "id": 17623,
       "title": "Iwaihime",
-      "score": 0.706,
+      "score": 0.705,
       "r18": false
     },
     {
@@ -53,18 +53,6 @@
       "r18": false
     },
     {
-      "id": 41767,
-      "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Daiyonshou - Seiiki to Gouyoku no Majou",
-      "score": 0.693,
-      "r18": false
-    },
-    {
-      "id": 18663,
-      "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Daisanshou - Truth of Zero",
-      "score": 0.692,
-      "r18": false
-    },
-    {
       "id": 27156,
       "title": "Hiru",
       "score": 0.691,
@@ -95,6 +83,12 @@
       "r18": false
     },
     {
+      "id": 41767,
+      "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Daiyonshou - Seiiki to Gouyoku no Majou",
+      "score": 0.688,
+      "r18": false
+    },
+    {
       "id": 28617,
       "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run",
       "score": 0.688,
@@ -107,8 +101,8 @@
       "r18": false
     },
     {
-      "id": 15286,
-      "title": "Fate/stay night: Heaven's Feel",
+      "id": 18663,
+      "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Daisanshou - Truth of Zero",
       "score": 0.686,
       "r18": false
     },
@@ -121,6 +115,12 @@
     {
       "id": 1569,
       "title": "HE&forall;DS",
+      "score": 0.684,
+      "r18": false
+    },
+    {
+      "id": 15286,
+      "title": "Fate/stay night: Heaven's Feel",
       "score": 0.684,
       "r18": false
     },
@@ -149,8 +149,8 @@
       "r18": false
     },
     {
-      "id": 6272,
-      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
+      "id": 5927,
+      "title": "Subarashii Sekai",
       "score": 0.679,
       "r18": false
     }

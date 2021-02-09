@@ -1,13 +1,13 @@
 {
   "id": 22107,
   "title": "Hakase no Kimagure Homunculus",
-  "url": "https://mangadex.org/manga/22107",
-  "last_updated": "January 12, 2021 12:26:19 UTC",
+  "url": "https://api.mangadex.org/v2/manga/22107",
+  "last_updated": "February 09, 2021 08:16:31 UTC",
   "matches": [
     {
       "id": 278,
       "title": "Toradora!",
-      "score": 0.651,
+      "score": 0.655,
       "r18": false
     },
     {
@@ -53,21 +53,21 @@
       "r18": false
     },
     {
-      "id": 484,
-      "title": "Barakamon",
-      "score": 0.358,
-      "r18": false
-    },
-    {
       "id": 10509,
       "title": "Imasugu Onii-chan ni Imouto da tte Iitai!",
-      "score": 0.357,
+      "score": 0.358,
       "r18": false
     },
     {
       "id": 56367,
       "title": "Konyakuhaki Sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu",
       "score": 0.357,
+      "r18": false
+    },
+    {
+      "id": 31917,
+      "title": "Honzuki no Gekokujou ~Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen~ Dai 3-bu \u300cRyouchi ni Hon o Hirogeyou!\u300d",
+      "score": 0.354,
       "r18": false
     },
     {
@@ -107,6 +107,12 @@
       "r18": false
     },
     {
+      "id": 1890,
+      "title": "Gekka Bijin",
+      "score": 0.347,
+      "r18": false
+    },
+    {
       "id": 10818,
       "title": "Clockwork Planet",
       "score": 0.345,
@@ -137,21 +143,15 @@
       "r18": false
     },
     {
-      "id": 14104,
-      "title": "Sakura Discord",
-      "score": 0.342,
-      "r18": false
-    },
-    {
       "id": 21815,
       "title": "Poppy no Negai",
       "score": 0.342,
       "r18": false
     },
     {
-      "id": 5443,
-      "title": "Pita-Ten",
-      "score": 0.341,
+      "id": 14104,
+      "title": "Sakura Discord",
+      "score": 0.342,
       "r18": false
     }
   ]

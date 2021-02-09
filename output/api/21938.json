@@ -1,13 +1,19 @@
 {
   "id": 21938,
   "title": "Kani ni Sasowarete",
-  "url": "https://mangadex.org/manga/21938",
-  "last_updated": "January 12, 2021 12:24:36 UTC",
+  "url": "https://api.mangadex.org/v2/manga/21938",
+  "last_updated": "February 09, 2021 08:13:35 UTC",
   "matches": [
     {
       "id": 5927,
       "title": "Subarashii Sekai",
       "score": 0.72,
+      "r18": false
+    },
+    {
+      "id": 4135,
+      "title": "Mushishi",
+      "score": 0.71,
       "r18": false
     },
     {
@@ -29,20 +35,8 @@
       "r18": false
     },
     {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.707,
-      "r18": false
-    },
-    {
       "id": 4880,
       "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
-      "score": 0.707,
-      "r18": false
-    },
-    {
-      "id": 4135,
-      "title": "Mushishi",
       "score": 0.707,
       "r18": false
     },
@@ -67,7 +61,7 @@
     {
       "id": 11867,
       "title": "Hotarubi no Mori e",
-      "score": 0.699,
+      "score": 0.698,
       "r18": false
     },
     {
@@ -101,6 +95,12 @@
       "r18": false
     },
     {
+      "id": 27151,
+      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
+      "score": 0.693,
+      "r18": false
+    },
+    {
       "id": 4531,
       "title": "No One Knows",
       "score": 0.692,
@@ -110,6 +110,12 @@
       "id": 6429,
       "title": "Kiiroi Hon - Jacques Thibault to Iu na no Yuujin",
       "score": 0.692,
+      "r18": false
+    },
+    {
+      "id": 47816,
+      "title": "Kara no Kioku",
+      "score": 0.691,
       "r18": false
     },
     {
@@ -145,12 +151,6 @@
     {
       "id": 1614,
       "title": "Aa! Megami-sama!",
-      "score": 0.689,
-      "r18": false
-    },
-    {
-      "id": 19505,
-      "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
       "score": 0.688,
       "r18": false
     }

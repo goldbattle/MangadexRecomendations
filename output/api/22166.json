@@ -1,8 +1,8 @@
 {
   "id": 22166,
   "title": "Curse Blood",
-  "url": "https://mangadex.org/manga/22166",
-  "last_updated": "January 12, 2021 12:26:56 UTC",
+  "url": "https://api.mangadex.org/v2/manga/22166",
+  "last_updated": "February 09, 2021 08:17:38 UTC",
   "matches": [
     {
       "id": 8339,
@@ -13,13 +13,7 @@
     {
       "id": 36222,
       "title": "Okashi na Tensei",
-      "score": 0.77,
-      "r18": false
-    },
-    {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.767,
+      "score": 0.771,
       "r18": false
     },
     {
@@ -29,27 +23,15 @@
       "r18": false
     },
     {
-      "id": 3388,
-      "title": "Fate/Zero",
-      "score": 0.766,
-      "r18": false
-    },
-    {
-      "id": 281,
-      "title": "Trigun Maximum",
-      "score": 0.761,
-      "r18": false
-    },
-    {
       "id": 2500,
       "title": "ChunRangYulJun",
       "score": 0.761,
       "r18": false
     },
     {
-      "id": 50085,
-      "title": "Legend of the Galactic Heroes",
-      "score": 0.756,
+      "id": 281,
+      "title": "Trigun Maximum",
+      "score": 0.761,
       "r18": false
     },
     {
@@ -83,21 +65,9 @@
       "r18": false
     },
     {
-      "id": 14441,
-      "title": "Fate/strange Fake",
-      "score": 0.75,
-      "r18": false
-    },
-    {
       "id": 1714,
       "title": "Kara no Kyoukai - The Garden of Sinners",
       "score": 0.749,
-      "r18": false
-    },
-    {
-      "id": 15374,
-      "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Dainishou - Yashiki no Shuukan Hen",
-      "score": 0.748,
       "r18": false
     },
     {
@@ -119,14 +89,14 @@
       "r18": false
     },
     {
-      "id": 20540,
-      "title": "God of Martial Arts",
+      "id": 36651,
+      "title": "Nageki no Bourei wa Intai Shitai - Saijiyaku Hanta ni Yoru Saikiyou Patei Ikusei Jutsu",
       "score": 0.746,
       "r18": false
     },
     {
-      "id": 36651,
-      "title": "Nageki no Bourei wa Intai Shitai - Saijiyaku Hanta ni Yoru Saikiyou Patei Ikusei Jutsu",
+      "id": 20540,
+      "title": "God of Martial Arts",
       "score": 0.746,
       "r18": false
     },
@@ -137,14 +107,14 @@
       "r18": false
     },
     {
-      "id": 17709,
-      "title": "Kumo Desu ga, Nani ka?",
+      "id": 20348,
+      "title": "The King's Avatar",
       "score": 0.745,
       "r18": false
     },
     {
-      "id": 20348,
-      "title": "The King's Avatar",
+      "id": 17709,
+      "title": "Kumo Desu ga, Nani ka?",
       "score": 0.745,
       "r18": false
     },
@@ -152,6 +122,36 @@
       "id": 41780,
       "title": "Kirara Fantasia",
       "score": 0.745,
+      "r18": false
+    },
+    {
+      "id": 843,
+      "title": "20th Century Boys",
+      "score": 0.745,
+      "r18": false
+    },
+    {
+      "id": 8111,
+      "title": "Magic: The Gathering - Moe Tsukinu Honoo",
+      "score": 0.744,
+      "r18": false
+    },
+    {
+      "id": 42735,
+      "title": "Eirun Last Code",
+      "score": 0.743,
+      "r18": false
+    },
+    {
+      "id": 19086,
+      "title": "Ushiro - The Somber God of Death",
+      "score": 0.743,
+      "r18": false
+    },
+    {
+      "id": 17720,
+      "title": "Koushaku Reijou no Tashinami",
+      "score": 0.742,
       "r18": false
     }
   ]

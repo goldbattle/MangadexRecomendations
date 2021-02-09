@@ -1,8 +1,8 @@
 {
   "id": 22385,
   "title": "Happy Birthday",
-  "url": "https://mangadex.org/manga/22385",
-  "last_updated": "January 12, 2021 12:29:12 UTC",
+  "url": "https://api.mangadex.org/v2/manga/22385",
+  "last_updated": "February 09, 2021 08:21:36 UTC",
   "matches": [
     {
       "id": 4337,
@@ -14,6 +14,12 @@
       "id": 27682,
       "title": "Yes It's Me",
       "score": 0.706,
+      "r18": false
+    },
+    {
+      "id": 31107,
+      "title": "Yuujin ga Yuusha",
+      "score": 0.702,
       "r18": false
     },
     {
@@ -37,7 +43,7 @@
     {
       "id": 17721,
       "title": "I Love You, Black Coffee",
-      "score": 0.691,
+      "score": 0.69,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 10985,
       "title": "Itsuka Tomodachi ja Nakunaru to Shite mo",
       "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 1460,
-      "title": "Maigo",
-      "score": 0.665,
       "r18": false
     }
   ]

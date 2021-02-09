@@ -1,8 +1,8 @@
 {
   "id": 22609,
   "title": "Kimi Dake no Shirushi.",
-  "url": "https://mangadex.org/manga/22609",
-  "last_updated": "January 12, 2021 12:32:03 UTC",
+  "url": "https://api.mangadex.org/v2/manga/22609",
+  "last_updated": "February 09, 2021 08:25:37 UTC",
   "matches": [
     {
       "id": 3076,
@@ -125,6 +125,12 @@
       "r18": false
     },
     {
+      "id": 6162,
+      "title": "Moyashi Otoko to Tane Shoujo",
+      "score": 0.652,
+      "r18": false
+    },
+    {
       "id": 3467,
       "title": "Oikaketemo Chikazuitemo",
       "score": 0.652,
@@ -145,12 +151,6 @@
     {
       "id": 41506,
       "title": "Hirahira to Gunjou",
-      "score": 0.487,
-      "r18": false
-    },
-    {
-      "id": 10373,
-      "title": "Himitsu no Shitsuji-kun",
       "score": 0.487,
       "r18": false
     }

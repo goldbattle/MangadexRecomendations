@@ -1,8 +1,8 @@
 {
   "id": 22726,
   "title": "Secret Order",
-  "url": "https://mangadex.org/manga/22726",
-  "last_updated": "January 12, 2021 12:33:15 UTC",
+  "url": "https://api.mangadex.org/v2/manga/22726",
+  "last_updated": "February 09, 2021 08:27:40 UTC",
   "matches": [
     {
       "id": 20537,
@@ -37,7 +37,7 @@
     {
       "id": 14676,
       "title": "The Legendary Moonlight Sculptor",
-      "score": 0.692,
+      "score": 0.691,
       "r18": false
     },
     {
@@ -50,12 +50,6 @@
       "id": 4121,
       "title": "Shura Yukihime",
       "score": 0.69,
-      "r18": false
-    },
-    {
-      "id": 6272,
-      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
-      "score": 0.686,
       "r18": false
     },
     {
@@ -85,7 +79,13 @@
     {
       "id": 973,
       "title": "Shamo",
-      "score": 0.671,
+      "score": 0.67,
+      "r18": false
+    },
+    {
+      "id": 6272,
+      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
+      "score": 0.668,
       "r18": false
     },
     {

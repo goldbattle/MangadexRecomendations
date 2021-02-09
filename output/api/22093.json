@@ -1,8 +1,8 @@
 {
   "id": 22093,
   "title": "Ecstas Online",
-  "url": "https://mangadex.org/manga/22093",
-  "last_updated": "January 12, 2021 12:26:11 UTC",
+  "url": "https://api.mangadex.org/v2/manga/22093",
+  "last_updated": "February 09, 2021 08:16:18 UTC",
   "matches": [
     {
       "id": 4906,
@@ -14,6 +14,12 @@
       "id": 1882,
       "title": "Baka to Test to Shoukanjuu",
       "score": 0.735,
+      "r18": false
+    },
+    {
+      "id": 15950,
+      "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
+      "score": 0.732,
       "r18": false
     },
     {
@@ -37,7 +43,7 @@
     {
       "id": 8631,
       "title": "Strike Witches - Tenkou no Otometachi",
-      "score": 0.723,
+      "score": 0.722,
       "r18": false
     },
     {
@@ -89,12 +95,6 @@
       "r18": false
     },
     {
-      "id": 732,
-      "title": "To Love-Ru",
-      "score": 0.715,
-      "r18": false
-    },
-    {
       "id": 6138,
       "title": "Full Metal Panic!",
       "score": 0.715,
@@ -103,13 +103,7 @@
     {
       "id": 55481,
       "title": "A Sword Master Childhood Friend Power Harassed Me Harshly, so I Broke off Our Relationship and Made a Fresh Start at the Frontier as a Magic Swordsman",
-      "score": 0.715,
-      "r18": false
-    },
-    {
-      "id": 13720,
-      "title": "Kono Subarashii Sekai ni Shukufuku wo!",
-      "score": 0.713,
+      "score": 0.714,
       "r18": false
     },
     {
@@ -131,14 +125,14 @@
       "r18": false
     },
     {
-      "id": 11615,
-      "title": "Rakudai Kishi no Eiyuutan",
-      "score": 0.709,
+      "id": 4380,
+      "title": "Joujuu Senjin!! Mushibugyo",
+      "score": 0.708,
       "r18": false
     },
     {
-      "id": 4380,
-      "title": "Joujuu Senjin!! Mushibugyo",
+      "id": 11615,
+      "title": "Rakudai Kishi no Eiyuutan",
       "score": 0.708,
       "r18": false
     },
@@ -152,6 +146,12 @@
       "id": 9061,
       "title": "Maken-Ki! -Kai!!-",
       "score": 0.707,
+      "r18": false
+    },
+    {
+      "id": 3920,
+      "title": "Hameln no Violin Hiki",
+      "score": 0.706,
       "r18": false
     }
   ]

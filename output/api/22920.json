@@ -1,9 +1,15 @@
 {
   "id": 22920,
   "title": "Blue Glass",
-  "url": "https://mangadex.org/manga/22920",
-  "last_updated": "January 12, 2021 12:35:14 UTC",
+  "url": "https://api.mangadex.org/v2/manga/22920",
+  "last_updated": "February 09, 2021 08:31:11 UTC",
   "matches": [
+    {
+      "id": 59999,
+      "title": "Save Me, Princess",
+      "score": 0.738,
+      "r18": false
+    },
     {
       "id": 2163,
       "title": "Ninohime no Monogatari",
@@ -37,12 +43,6 @@
     {
       "id": 6165,
       "title": "Gu Fang Bu Zi Shang",
-      "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 45087,
-      "title": "The Making of a Princess",
       "score": 0.698,
       "r18": false
     },
@@ -89,12 +89,6 @@
       "r18": false
     },
     {
-      "id": 59296,
-      "title": "Answer Me, My Prince",
-      "score": 0.688,
-      "r18": false
-    },
-    {
       "id": 21268,
       "title": "Kagehime no Konrei",
       "score": 0.688,
@@ -131,9 +125,21 @@
       "r18": false
     },
     {
+      "id": 59476,
+      "title": "The Tyrant&rsquo;s Guardian Is an Evil Witch",
+      "score": 0.683,
+      "r18": false
+    },
+    {
       "id": 6399,
       "title": "Fushigi Yuugi - Genbu Kaiden",
       "score": 0.683,
+      "r18": false
+    },
+    {
+      "id": 45087,
+      "title": "The Making of a Princess",
+      "score": 0.682,
       "r18": false
     },
     {
@@ -145,12 +151,6 @@
     {
       "id": 53611,
       "title": "Queen of Hearts in Wonderland",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 33243,
-      "title": "The End of the Royal Family",
       "score": 0.68,
       "r18": false
     }

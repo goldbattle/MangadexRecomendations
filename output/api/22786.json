@@ -1,8 +1,8 @@
 {
   "id": 22786,
   "title": "Love Deathster",
-  "url": "https://mangadex.org/manga/22786",
-  "last_updated": "January 12, 2021 12:33:54 UTC",
+  "url": "https://api.mangadex.org/v2/manga/22786",
+  "last_updated": "February 09, 2021 08:28:46 UTC",
   "matches": [
     {
       "id": 9844,
@@ -23,12 +23,6 @@
       "r18": false
     },
     {
-      "id": 10004,
-      "title": "One Piece - Digital Colored Comics",
-      "score": 0.713,
-      "r18": false
-    },
-    {
       "id": 22236,
       "title": "Rurouni Kenshin: Hokkaido-hen",
       "score": 0.713,
@@ -37,12 +31,6 @@
     {
       "id": 6270,
       "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo (Official Colored)",
-      "score": 0.713,
-      "r18": false
-    },
-    {
-      "id": 21283,
-      "title": "Persona 5",
       "score": 0.713,
       "r18": false
     },
@@ -65,12 +53,6 @@
       "r18": false
     },
     {
-      "id": 39,
-      "title": "One Piece",
-      "score": 0.711,
-      "r18": false
-    },
-    {
       "id": 53977,
       "title": "Dragon Raja 2",
       "score": 0.71,
@@ -79,12 +61,6 @@
     {
       "id": 6831,
       "title": "Kimi no Kakera",
-      "score": 0.709,
-      "r18": false
-    },
-    {
-      "id": 47371,
-      "title": "A Breakthrough Brought by Forbidden Master and Disciple",
       "score": 0.709,
       "r18": false
     },
@@ -101,14 +77,8 @@
       "r18": false
     },
     {
-      "id": 50672,
-      "title": "My Hero Academia - League Of Villains: Undercover (Fan Colored)",
-      "score": 0.707,
-      "r18": false
-    },
-    {
-      "id": 12983,
-      "title": "Koi to Uso",
+      "id": 47371,
+      "title": "A Breakthrough Brought by Forbidden Master and Disciple",
       "score": 0.706,
       "r18": false
     },
@@ -137,14 +107,20 @@
       "r18": false
     },
     {
+      "id": 28542,
+      "title": "JoJo's Bizarre Adventure Part 6 - Stone Ocean",
+      "score": 0.703,
+      "r18": false
+    },
+    {
       "id": 53985,
       "title": "Dragon Raja 3",
       "score": 0.703,
       "r18": false
     },
     {
-      "id": 28542,
-      "title": "JoJo's Bizarre Adventure Part 6 - Stone Ocean",
+      "id": 10801,
+      "title": "Mahoutsukai no Yome",
       "score": 0.703,
       "r18": false
     },
@@ -152,6 +128,30 @@
       "id": 13546,
       "title": "Gesu to Kami-sama",
       "score": 0.703,
+      "r18": false
+    },
+    {
+      "id": 6269,
+      "title": "JoJo's Bizarre Adventure Part 4 - Diamond is Unbreakable (Official Colored)",
+      "score": 0.702,
+      "r18": false
+    },
+    {
+      "id": 5840,
+      "title": "BLOOD+",
+      "score": 0.701,
+      "r18": false
+    },
+    {
+      "id": 28843,
+      "title": "JoJo's Bizarre Adventure Part 4 - Diamond is Unbreakable",
+      "score": 0.701,
+      "r18": false
+    },
+    {
+      "id": 3089,
+      "title": "Corpse Party - Another Child",
+      "score": 0.701,
       "r18": false
     }
   ]

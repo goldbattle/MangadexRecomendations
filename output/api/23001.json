@@ -1,8 +1,8 @@
 {
   "id": 23001,
   "title": "Apotheosis &ndash; Ascension to Godhood",
-  "url": "https://mangadex.org/manga/23001",
-  "last_updated": "January 12, 2021 12:36:05 UTC",
+  "url": "https://api.mangadex.org/v2/manga/23001",
+  "last_updated": "February 09, 2021 08:32:40 UTC",
   "matches": [
     {
       "id": 23231,
@@ -29,14 +29,20 @@
       "r18": false
     },
     {
+      "id": 59732,
+      "title": "Drake Saga",
+      "score": 0.722,
+      "r18": false
+    },
+    {
       "id": 4454,
       "title": "Fire Emblem - Hasha no Tsurugi",
       "score": 0.717,
       "r18": false
     },
     {
-      "id": 56535,
-      "title": "Makai Kaeri no Rettou Nouryokusha",
+      "id": 43692,
+      "title": "Demonic Emperor",
       "score": 0.716,
       "r18": false
     },
@@ -56,12 +62,6 @@
       "id": 33863,
       "title": "The Beginning After the End",
       "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 43692,
-      "title": "Demonic Emperor",
-      "score": 0.71,
       "r18": false
     },
     {
@@ -107,12 +107,6 @@
       "r18": false
     },
     {
-      "id": 33141,
-      "title": "Mir's Legend - The Forgotten Ones",
-      "score": 0.703,
-      "r18": false
-    },
-    {
       "id": 20284,
       "title": "X - Epoch of the Dragon",
       "score": 0.701,
@@ -121,7 +115,7 @@
     {
       "id": 34535,
       "title": "Rise from Ashes",
-      "score": 0.701,
+      "score": 0.7,
       "r18": false
     },
     {
@@ -137,12 +131,6 @@
       "r18": false
     },
     {
-      "id": 10004,
-      "title": "One Piece - Digital Colored Comics",
-      "score": 0.7,
-      "r18": false
-    },
-    {
       "id": 12009,
       "title": "Soul Land",
       "score": 0.699,
@@ -152,6 +140,18 @@
       "id": 53347,
       "title": "Peerless Saint Emperor",
       "score": 0.698,
+      "r18": false
+    },
+    {
+      "id": 41850,
+      "title": "Ihoujin, Dungeon ni Moguru",
+      "score": 0.697,
+      "r18": false
+    },
+    {
+      "id": 43803,
+      "title": "Martial Arts Reigns",
+      "score": 0.697,
       "r18": false
     }
   ]

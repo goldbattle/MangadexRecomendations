@@ -1,9 +1,15 @@
 {
   "id": 22838,
   "title": "Star x Fanboy",
-  "url": "https://mangadex.org/manga/22838",
-  "last_updated": "January 12, 2021 12:34:26 UTC",
+  "url": "https://api.mangadex.org/v2/manga/22838",
+  "last_updated": "February 09, 2021 08:29:45 UTC",
   "matches": [
+    {
+      "id": 59815,
+      "title": "The Winning Actor Wants Divorce",
+      "score": 0.672,
+      "r18": false
+    },
     {
       "id": 33690,
       "title": "The Emperor's Strategy",
@@ -146,12 +152,6 @@
       "id": 23308,
       "title": "Voice of Love",
       "score": 0.264,
-      "r18": false
-    },
-    {
-      "id": 23719,
-      "title": "Angel Love",
-      "score": 0.262,
       "r18": false
     }
   ]

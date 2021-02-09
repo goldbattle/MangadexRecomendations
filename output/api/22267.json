@@ -1,8 +1,8 @@
 {
   "id": 22267,
   "title": "Koji Koi",
-  "url": "https://mangadex.org/manga/22267",
-  "last_updated": "January 12, 2021 12:28:00 UTC",
+  "url": "https://api.mangadex.org/v2/manga/22267",
+  "last_updated": "February 09, 2021 08:19:26 UTC",
   "matches": [
     {
       "id": 4605,
@@ -11,20 +11,26 @@
       "r18": false
     },
     {
-      "id": 8783,
-      "title": "Giri Koi",
-      "score": 0.765,
+      "id": 6425,
+      "title": "Suki ni Natte mo Ii no?",
+      "score": 0.77,
       "r18": false
     },
     {
-      "id": 7487,
-      "title": "Akuma de Junai",
-      "score": 0.762,
+      "id": 8783,
+      "title": "Giri Koi",
+      "score": 0.764,
       "r18": false
     },
     {
       "id": 28359,
       "title": "Boku ga Utau to Kimi wa Warau kara",
+      "score": 0.762,
+      "r18": false
+    },
+    {
+      "id": 7487,
+      "title": "Akuma de Junai",
       "score": 0.762,
       "r18": false
     },
@@ -38,6 +44,12 @@
       "id": 751,
       "title": "Himitsu no Hanazono",
       "score": 0.757,
+      "r18": false
+    },
+    {
+      "id": 1760,
+      "title": "Yappari Yoru Made Matenai.",
+      "score": 0.756,
       "r18": false
     },
     {
@@ -65,14 +77,14 @@
       "r18": false
     },
     {
-      "id": 8833,
-      "title": "Fujoshi Kanojo",
+      "id": 2037,
+      "title": "Koi Ja Nai no da!",
       "score": 0.75,
       "r18": false
     },
     {
-      "id": 2037,
-      "title": "Koi Ja Nai no da!",
+      "id": 8833,
+      "title": "Fujoshi Kanojo",
       "score": 0.75,
       "r18": false
     },
@@ -115,7 +127,7 @@
     {
       "id": 204,
       "title": "Kore wa Koi no Hanashi",
-      "score": 0.741,
+      "score": 0.742,
       "r18": false
     },
     {
@@ -140,18 +152,6 @@
       "id": 17437,
       "title": "Koi o Kanaderu Kisetsu",
       "score": 0.739,
-      "r18": false
-    },
-    {
-      "id": 7181,
-      "title": "Seishun Survival",
-      "score": 0.738,
-      "r18": false
-    },
-    {
-      "id": 3453,
-      "title": "Hizamazuite Ai wo Chikae",
-      "score": 0.738,
       "r18": false
     }
   ]

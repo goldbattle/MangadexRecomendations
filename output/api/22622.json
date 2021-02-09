@@ -1,8 +1,8 @@
 {
   "id": 22622,
   "title": "Paramour",
-  "url": "https://mangadex.org/manga/22622",
-  "last_updated": "January 12, 2021 12:32:11 UTC",
+  "url": "https://api.mangadex.org/v2/manga/22622",
+  "last_updated": "February 09, 2021 08:25:50 UTC",
   "matches": [
     {
       "id": 55977,
@@ -19,7 +19,7 @@
     {
       "id": 56201,
       "title": "Por mi cuenta",
-      "score": 0.665,
+      "score": 0.666,
       "r18": false
     },
     {
@@ -59,15 +59,9 @@
       "r18": false
     },
     {
-      "id": 59359,
-      "title": "Daehyun Laundry~ We wash everything~",
-      "score": 0.36,
-      "r18": false
-    },
-    {
       "id": 55359,
       "title": "Mariposa Esperando Flores",
-      "score": 0.333,
+      "score": 0.334,
       "r18": false
     },
     {
@@ -113,12 +107,6 @@
       "r18": false
     },
     {
-      "id": 58957,
-      "title": "Runway Hit",
-      "score": 0.295,
-      "r18": false
-    },
-    {
       "id": 29773,
       "title": "2013 - Dawn of the World",
       "score": 0.294,
@@ -152,6 +140,18 @@
       "id": 31390,
       "title": "Blood Link",
       "score": 0.258,
+      "r18": false
+    },
+    {
+      "id": 50290,
+      "title": "Knock Me Out",
+      "score": 0.256,
+      "r18": false
+    },
+    {
+      "id": 56125,
+      "title": "Meet me beneath the mask",
+      "score": 0.254,
       "r18": false
     }
   ]

@@ -1,13 +1,19 @@
 {
   "id": 22034,
   "title": "Red Witch",
-  "url": "https://mangadex.org/manga/22034",
-  "last_updated": "January 12, 2021 12:25:36 UTC",
+  "url": "https://api.mangadex.org/v2/manga/22034",
+  "last_updated": "February 09, 2021 08:15:14 UTC",
   "matches": [
     {
       "id": 55733,
       "title": "Hardcore Leveling Warrior: World of Tanks",
       "score": 0.685,
+      "r18": false
+    },
+    {
+      "id": 33141,
+      "title": "Mir's Legend - The Forgotten Ones",
+      "score": 0.671,
       "r18": false
     },
     {
@@ -19,7 +25,13 @@
     {
       "id": 31551,
       "title": "A Returner's Magic Should Be Special",
-      "score": 0.661,
+      "score": 0.662,
+      "r18": false
+    },
+    {
+      "id": 12009,
+      "title": "Soul Land",
+      "score": 0.658,
       "r18": false
     },
     {
@@ -38,12 +50,6 @@
       "id": 33277,
       "title": "Raid",
       "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 50131,
-      "title": "Nam Goong Sae Ga Prince",
-      "score": 0.65,
       "r18": false
     },
     {
@@ -67,7 +73,7 @@
     {
       "id": 50921,
       "title": "School Foolishness",
-      "score": 0.369,
+      "score": 0.37,
       "r18": false
     },
     {
@@ -89,27 +95,21 @@
       "r18": false
     },
     {
+      "id": 37464,
+      "title": "Burning Effect",
+      "score": 0.334,
+      "r18": false
+    },
+    {
       "id": 14793,
       "title": "Cheating Craft",
       "score": 0.331,
       "r18": false
     },
     {
-      "id": 37464,
-      "title": "Burning Effect",
-      "score": 0.326,
-      "r18": false
-    },
-    {
       "id": 48720,
       "title": "How to Fight",
-      "score": 0.315,
-      "r18": false
-    },
-    {
-      "id": 59445,
-      "title": "Terror Man vs Revival Man",
-      "score": 0.306,
+      "score": 0.314,
       "r18": false
     },
     {
@@ -149,9 +149,9 @@
       "r18": false
     },
     {
-      "id": 7121,
-      "title": "I Don't Want This Kind of Hero",
-      "score": 0.28,
+      "id": 59491,
+      "title": "Gods reborn",
+      "score": 0.283,
       "r18": false
     }
   ]

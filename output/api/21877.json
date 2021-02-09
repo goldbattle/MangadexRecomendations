@@ -1,13 +1,13 @@
 {
   "id": 21877,
   "title": "Meikyuu Black Company",
-  "url": "https://mangadex.org/manga/21877",
-  "last_updated": "January 12, 2021 12:23:58 UTC",
+  "url": "https://api.mangadex.org/v2/manga/21877",
+  "last_updated": "February 09, 2021 08:12:30 UTC",
   "matches": [
     {
       "id": 1553,
       "title": "Kanojo no Kagi wo Akeru Houhou",
-      "score": 0.665,
+      "score": 0.666,
       "r18": false
     },
     {
@@ -67,7 +67,7 @@
     {
       "id": 13529,
       "title": "Kudamimi no Neko",
-      "score": 0.301,
+      "score": 0.3,
       "r18": false
     },
     {
@@ -119,6 +119,12 @@
       "r18": false
     },
     {
+      "id": 35468,
+      "title": "Night Bound \u25c6 Aubade",
+      "score": 0.24,
+      "r18": false
+    },
+    {
       "id": 45433,
       "title": "Shou5 na Kanojo to Otona no Ai",
       "score": 0.239,
@@ -137,21 +143,15 @@
       "r18": false
     },
     {
+      "id": 55950,
+      "title": "Tsumuji Magari x Spring",
+      "score": 0.214,
+      "r18": false
+    },
+    {
       "id": 25662,
       "title": "Kyou Kara Ore wa Loli no Himo!",
       "score": 0.211,
-      "r18": false
-    },
-    {
-      "id": 700,
-      "title": "Ro-Kyu-Bu!",
-      "score": 0.207,
-      "r18": false
-    },
-    {
-      "id": 8077,
-      "title": "Joshi Shougakusei Hajimemashita",
-      "score": 0.193,
       "r18": false
     }
   ]

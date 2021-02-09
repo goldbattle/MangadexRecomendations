@@ -1,8 +1,8 @@
 {
   "id": 22333,
   "title": "Batsu Game",
-  "url": "https://mangadex.org/manga/22333",
-  "last_updated": "January 12, 2021 12:28:40 UTC",
+  "url": "https://api.mangadex.org/v2/manga/22333",
+  "last_updated": "February 09, 2021 08:20:41 UTC",
   "matches": [
     {
       "id": 53590,
@@ -29,12 +29,6 @@
       "r18": false
     },
     {
-      "id": 9746,
-      "title": "Stay Gold ~Koi no Lesson A to Z~",
-      "score": 0.694,
-      "r18": false
-    },
-    {
       "id": 25954,
       "title": "Natsukoi",
       "score": 0.69,
@@ -53,14 +47,14 @@
       "r18": false
     },
     {
-      "id": 4118,
-      "title": "Kimi Note",
-      "score": 0.681,
+      "id": 35741,
+      "title": "Chouhatsu - Denkou Sekka Boys",
+      "score": 0.682,
       "r18": false
     },
     {
-      "id": 35741,
-      "title": "Chouhatsu - Denkou Sekka Boys",
+      "id": 4118,
+      "title": "Kimi Note",
       "score": 0.681,
       "r18": false
     },
@@ -91,7 +85,7 @@
     {
       "id": 15140,
       "title": "Kimi no Karada ni Koishiteru!?",
-      "score": 0.665,
+      "score": 0.666,
       "r18": false
     },
     {
@@ -109,7 +103,7 @@
     {
       "id": 24070,
       "title": "Shijin wa Ichinichi ni Shite Narazu",
-      "score": 0.659,
+      "score": 0.658,
       "r18": false
     },
     {
@@ -149,9 +143,15 @@
       "r18": false
     },
     {
-      "id": 52888,
-      "title": "Hello, Green Days",
-      "score": 0.652,
+      "id": 8048,
+      "title": "Kimi wa Amai Amai...",
+      "score": 0.651,
+      "r18": false
+    },
+    {
+      "id": 6502,
+      "title": "Abiru Junjou",
+      "score": 0.65,
       "r18": false
     }
   ]

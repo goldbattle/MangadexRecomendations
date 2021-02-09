@@ -1,13 +1,19 @@
 {
   "id": 22687,
   "title": "GIGANT",
-  "url": "https://mangadex.org/manga/22687",
-  "last_updated": "January 12, 2021 12:32:51 UTC",
+  "url": "https://api.mangadex.org/v2/manga/22687",
+  "last_updated": "February 09, 2021 08:27:00 UTC",
   "matches": [
     {
       "id": 12798,
       "title": "Zetsurin!",
       "score": 0.712,
+      "r18": false
+    },
+    {
+      "id": 19317,
+      "title": "Sundome!! Milky Way",
+      "score": 0.704,
       "r18": false
     },
     {
@@ -23,21 +29,15 @@
       "r18": false
     },
     {
-      "id": 929,
-      "title": "Sakuranbo Syndrome",
+      "id": 31126,
+      "title": "Lust Geass",
       "score": 0.687,
       "r18": false
     },
     {
-      "id": 31126,
-      "title": "Lust Geass",
-      "score": 0.686,
-      "r18": false
-    },
-    {
-      "id": 19317,
-      "title": "Sundome!! Milky Way",
-      "score": 0.685,
+      "id": 929,
+      "title": "Sakuranbo Syndrome",
+      "score": 0.687,
       "r18": false
     },
     {
@@ -65,21 +65,9 @@
       "r18": false
     },
     {
-      "id": 11981,
-      "title": "Red Blood Red Legacy",
-      "score": 0.668,
-      "r18": false
-    },
-    {
       "id": 727,
       "title": "Ashita Dorobou",
       "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 17230,
-      "title": "Gantz:G",
-      "score": 0.663,
       "r18": false
     },
     {
@@ -125,9 +113,9 @@
       "r18": false
     },
     {
-      "id": 455,
-      "title": "My Lovely Ghost Kana",
-      "score": 0.329,
+      "id": 17230,
+      "title": "Gantz:G",
+      "score": 0.281,
       "r18": false
     },
     {

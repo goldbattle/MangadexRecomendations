@@ -1,8 +1,8 @@
 {
   "id": 22642,
   "title": "Ice Cream",
-  "url": "https://mangadex.org/manga/22642",
-  "last_updated": "January 12, 2021 12:32:24 UTC",
+  "url": "https://api.mangadex.org/v2/manga/22642",
+  "last_updated": "February 09, 2021 08:26:13 UTC",
   "matches": [
     {
       "id": 2818,
@@ -101,12 +101,6 @@
       "r18": false
     },
     {
-      "id": 39431,
-      "title": "Magic Can't Buy Cigarettes",
-      "score": 0.34,
-      "r18": false
-    },
-    {
       "id": 41178,
       "title": "The Princess is Delicious When Made Into a Pork Cutlet",
       "score": 0.34,
@@ -151,6 +145,12 @@
     {
       "id": 3404,
       "title": "Onna no Buki ga Tsukaete Koso Otoko no Ko Desu.",
+      "score": 0.227,
+      "r18": false
+    },
+    {
+      "id": 3681,
+      "title": "Touhou - Izayoi Scramble (Doujinshi)",
       "score": 0.227,
       "r18": false
     }

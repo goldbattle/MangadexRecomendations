@@ -1,9 +1,15 @@
 {
   "id": 22722,
   "title": "I-aru Fan Club",
-  "url": "https://mangadex.org/manga/22722",
-  "last_updated": "January 12, 2021 12:33:12 UTC",
+  "url": "https://api.mangadex.org/v2/manga/22722",
+  "last_updated": "February 09, 2021 08:27:35 UTC",
   "matches": [
+    {
+      "id": 45077,
+      "title": "e&times;COM Haruoka gakuen game joshibu",
+      "score": 0.658,
+      "r18": false
+    },
     {
       "id": 9926,
       "title": "Twinkle Saber Nova",
@@ -23,12 +29,6 @@
       "r18": false
     },
     {
-      "id": 45077,
-      "title": "e&times;COM Haruoka gakuen game joshibu",
-      "score": 0.652,
-      "r18": false
-    },
-    {
       "id": 24030,
       "title": "Host Man",
       "score": 0.446,
@@ -43,7 +43,7 @@
     {
       "id": 3731,
       "title": "Go Go! Pudding Empire",
-      "score": 0.429,
+      "score": 0.43,
       "r18": false
     },
     {
@@ -77,12 +77,6 @@
       "r18": false
     },
     {
-      "id": 7913,
-      "title": "One Piece Omake",
-      "score": 0.421,
-      "r18": false
-    },
-    {
       "id": 23927,
       "title": "Neko Ramen",
       "score": 0.419,
@@ -107,9 +101,9 @@
       "r18": false
     },
     {
-      "id": 26925,
-      "title": "Ahmen's Life",
-      "score": 0.413,
+      "id": 7913,
+      "title": "One Piece Omake",
+      "score": 0.411,
       "r18": false
     },
     {
@@ -151,6 +145,12 @@
     {
       "id": 24101,
       "title": "Yaoyoro!",
+      "score": 0.388,
+      "r18": false
+    },
+    {
+      "id": 22914,
+      "title": "Tokyo Kari-niku Teppoutai",
       "score": 0.388,
       "r18": false
     }

@@ -1,8 +1,8 @@
 {
   "id": 22863,
   "title": "Kenshi wo Mezashite Nyuugaku shita no ni Mahou Tekisei 9999 nan desu kedo!?",
-  "url": "https://mangadex.org/manga/22863",
-  "last_updated": "January 12, 2021 12:34:41 UTC",
+  "url": "https://api.mangadex.org/v2/manga/22863",
+  "last_updated": "February 09, 2021 08:30:11 UTC",
   "matches": [
     {
       "id": 40246,
@@ -67,7 +67,13 @@
     {
       "id": 57280,
       "title": "Maou no Jinji",
-      "score": 0.325,
+      "score": 0.324,
+      "r18": false
+    },
+    {
+      "id": 58601,
+      "title": "Nina is plotting my death!",
+      "score": 0.321,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 48016,
       "title": "The Night God",
       "score": 0.219,
-      "r18": false
-    },
-    {
-      "id": 41825,
-      "title": "My Bodyguard Is 4 Feet Tall",
-      "score": 0.214,
       "r18": false
     }
   ]

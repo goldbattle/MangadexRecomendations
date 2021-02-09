@@ -1,8 +1,8 @@
 {
   "id": 22952,
   "title": "Musashi",
-  "url": "https://mangadex.org/manga/22952",
-  "last_updated": "January 12, 2021 12:35:35 UTC",
+  "url": "https://api.mangadex.org/v2/manga/22952",
+  "last_updated": "February 09, 2021 08:31:47 UTC",
   "matches": [
     {
       "id": 2183,
@@ -77,6 +77,12 @@
       "r18": false
     },
     {
+      "id": 59869,
+      "title": "Tenkaichi - Nihon Saikyou Mononofu Ketteisen",
+      "score": 0.233,
+      "r18": false
+    },
+    {
       "id": 342,
       "title": "Date Ningen",
       "score": 0.175,
@@ -145,12 +151,6 @@
     {
       "id": 6153,
       "title": "Dorothea - Majo no Tetsutsui",
-      "score": 0.175,
-      "r18": false
-    },
-    {
-      "id": 6627,
-      "title": "Kuroki Le Voleur ~Kamen no Kaitou Shoujo~",
       "score": 0.175,
       "r18": false
     }

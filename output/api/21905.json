@@ -1,8 +1,8 @@
 {
   "id": 21905,
   "title": "Dennou Kakugi Mephisto Waltz",
-  "url": "https://mangadex.org/manga/21905",
-  "last_updated": "January 12, 2021 12:24:16 UTC",
+  "url": "https://api.mangadex.org/v2/manga/21905",
+  "last_updated": "February 09, 2021 08:13:02 UTC",
   "matches": [
     {
       "id": 14676,
@@ -26,6 +26,12 @@
       "id": 13800,
       "title": "The New Gate",
       "score": 0.687,
+      "r18": false
+    },
+    {
+      "id": 44924,
+      "title": "Cube Arts",
+      "score": 0.666,
       "r18": false
     },
     {

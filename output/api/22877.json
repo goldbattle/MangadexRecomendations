@@ -1,13 +1,13 @@
 {
   "id": 22877,
   "title": "Comic Maplestory Offline RPG",
-  "url": "https://mangadex.org/manga/22877",
-  "last_updated": "January 12, 2021 12:34:49 UTC",
+  "url": "https://api.mangadex.org/v2/manga/22877",
+  "last_updated": "February 09, 2021 08:30:27 UTC",
   "matches": [
     {
       "id": 8401,
       "title": "Sword Art Online - Fairy Dance",
-      "score": 0.698,
+      "score": 0.697,
       "r18": false
     },
     {
@@ -23,26 +23,14 @@
       "r18": false
     },
     {
-      "id": 22194,
-      "title": "Beast Complex",
-      "score": 0.69,
-      "r18": false
-    },
-    {
       "id": 7759,
       "title": ".hack//XXXX",
-      "score": 0.69,
+      "score": 0.689,
       "r18": false
     },
     {
       "id": 7344,
       "title": "Shin Sekai Yori",
-      "score": 0.689,
-      "r18": false
-    },
-    {
-      "id": 42459,
-      "title": "Akame ga Kill! 1.5",
       "score": 0.688,
       "r18": false
     },
@@ -53,20 +41,14 @@
       "r18": false
     },
     {
-      "id": 7527,
-      "title": "One Piece: Strong World",
+      "id": 42459,
+      "title": "Akame ga Kill! 1.5",
       "score": 0.687,
       "r18": false
     },
     {
       "id": 20354,
       "title": "Mitsukubi Condor",
-      "score": 0.687,
-      "r18": false
-    },
-    {
-      "id": 23231,
-      "title": "Wu Dong Qian Kun",
       "score": 0.686,
       "r18": false
     },
@@ -77,15 +59,21 @@
       "r18": false
     },
     {
+      "id": 23231,
+      "title": "Wu Dong Qian Kun",
+      "score": 0.686,
+      "r18": false
+    },
+    {
       "id": 1360,
       "title": "Sword Art Online - Aincrad",
-      "score": 0.686,
+      "score": 0.685,
       "r18": false
     },
     {
       "id": 9844,
       "title": "Shingeki no Kyojin - Before the Fall",
-      "score": 0.686,
+      "score": 0.685,
       "r18": false
     },
     {
@@ -109,13 +97,13 @@
     {
       "id": 7956,
       "title": "Derayd - Kaikyoutenbin no Tsuki",
-      "score": 0.685,
+      "score": 0.684,
       "r18": false
     },
     {
       "id": 6872,
       "title": "Tales of Vesperia",
-      "score": 0.685,
+      "score": 0.684,
       "r18": false
     },
     {
@@ -127,31 +115,43 @@
     {
       "id": 22236,
       "title": "Rurouni Kenshin: Hokkaido-hen",
-      "score": 0.684,
-      "r18": false
-    },
-    {
-      "id": 35,
-      "title": "Bleach",
-      "score": 0.684,
+      "score": 0.683,
       "r18": false
     },
     {
       "id": 24383,
       "title": "Rurouni Kenshin Ibun: Ashitarou Zenka Ari",
-      "score": 0.684,
+      "score": 0.683,
       "r18": false
     },
     {
       "id": 8190,
       "title": "Seiken Densetsu - Legend of Mana",
-      "score": 0.684,
+      "score": 0.683,
       "r18": false
     },
     {
-      "id": 21283,
-      "title": "Persona 5",
-      "score": 0.684,
+      "id": 181,
+      "title": "Id - The Greatest Fusion Fantasy",
+      "score": 0.682,
+      "r18": false
+    },
+    {
+      "id": 2869,
+      "title": "School Rumble",
+      "score": 0.682,
+      "r18": false
+    },
+    {
+      "id": 9474,
+      "title": "Mahoujin Guru Guru",
+      "score": 0.682,
+      "r18": false
+    },
+    {
+      "id": 10526,
+      "title": "Iron Knight",
+      "score": 0.682,
       "r18": false
     }
   ]

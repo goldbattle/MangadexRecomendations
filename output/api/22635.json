@@ -1,8 +1,8 @@
 {
   "id": 22635,
   "title": "Holders: Prologue",
-  "url": "https://mangadex.org/manga/22635",
-  "last_updated": "January 12, 2021 12:32:19 UTC",
+  "url": "https://api.mangadex.org/v2/manga/22635",
+  "last_updated": "February 09, 2021 08:26:06 UTC",
   "matches": [
     {
       "id": 21914,
@@ -41,18 +41,6 @@
       "r18": false
     },
     {
-      "id": 283,
-      "title": "Ao no Exorcist",
-      "score": 0.734,
-      "r18": false
-    },
-    {
-      "id": 21283,
-      "title": "Persona 5",
-      "score": 0.734,
-      "r18": false
-    },
-    {
       "id": 4994,
       "title": "Saint Seiya",
       "score": 0.733,
@@ -61,7 +49,7 @@
     {
       "id": 14674,
       "title": "Desolate Era",
-      "score": 0.733,
+      "score": 0.732,
       "r18": false
     },
     {
@@ -95,15 +83,15 @@
       "r18": false
     },
     {
-      "id": 2089,
-      "title": "Kingdom Hearts II",
+      "id": 24373,
+      "title": "Fire Emblem - Ankokuryuu to Hikari no Ken",
       "score": 0.728,
       "r18": false
     },
     {
-      "id": 24373,
-      "title": "Fire Emblem - Ankokuryuu to Hikari no Ken",
-      "score": 0.727,
+      "id": 2089,
+      "title": "Kingdom Hearts II",
+      "score": 0.728,
       "r18": false
     },
     {
@@ -152,6 +140,18 @@
       "id": 33863,
       "title": "The Beginning After the End",
       "score": 0.724,
+      "r18": false
+    },
+    {
+      "id": 283,
+      "title": "Ao no Exorcist",
+      "score": 0.724,
+      "r18": false
+    },
+    {
+      "id": 8401,
+      "title": "Sword Art Online - Fairy Dance",
+      "score": 0.723,
       "r18": false
     }
   ]
