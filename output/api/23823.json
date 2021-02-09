@@ -1,8 +1,8 @@
 {
   "id": 23823,
   "title": "Inubaka",
-  "url": "https://mangadex.org/manga/23823",
-  "last_updated": "January 12, 2021 18:46:53 UTC",
+  "url": "https://api.mangadex.org/v2/manga/23823",
+  "last_updated": "February 09, 2021 12:18:20 UTC",
   "matches": [
     {
       "id": 5734,
@@ -19,7 +19,7 @@
     {
       "id": 345,
       "title": "5 Centimeters Per Second",
-      "score": 0.667,
+      "score": 0.666,
       "r18": false
     },
     {
@@ -31,19 +31,13 @@
     {
       "id": 17199,
       "title": "Higashi no Kurume to Tonari no Meguru",
-      "score": 0.659,
+      "score": 0.66,
       "r18": false
     },
     {
       "id": 323,
       "title": "Moon",
       "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.658,
       "r18": false
     },
     {
@@ -85,19 +79,19 @@
     {
       "id": 12108,
       "title": "Mushoku Tensei ~Isekai Ittara Honki Dasu~",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 7938,
-      "title": "Denkigai no Honya-san",
-      "score": 0.653,
+      "score": 0.654,
       "r18": false
     },
     {
       "id": 1016,
       "title": "Emma",
       "score": 0.653,
+      "r18": false
+    },
+    {
+      "id": 27151,
+      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
+      "score": 0.652,
       "r18": false
     },
     {
@@ -115,12 +109,6 @@
     {
       "id": 31509,
       "title": "Kaguya-sama: Love Is War - Digital Colored Comics",
-      "score": 0.65,
-      "r18": false
-    },
-    {
-      "id": 12326,
-      "title": "Love Live! - School Idol Project",
       "score": 0.65,
       "r18": false
     },
@@ -152,6 +140,18 @@
       "id": 6632,
       "title": "Ja Ja Uma Grooming\u2605UP!",
       "score": 0.48,
+      "r18": false
+    },
+    {
+      "id": 26667,
+      "title": "Ai to Ao no Kyoukai",
+      "score": 0.47,
+      "r18": false
+    },
+    {
+      "id": 11493,
+      "title": "Senaka Gurashi",
+      "score": 0.468,
       "r18": false
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": 23771,
   "title": "Trapped",
-  "url": "https://mangadex.org/manga/23771",
-  "last_updated": "January 12, 2021 18:46:18 UTC",
+  "url": "https://api.mangadex.org/v2/manga/23771",
+  "last_updated": "February 09, 2021 12:17:31 UTC",
   "matches": [
     {
       "id": 49326,
@@ -14,6 +14,12 @@
       "id": 28424,
       "title": "Tale of Otaku and Demons",
       "score": 0.25,
+      "r18": false
+    },
+    {
+      "id": 59546,
+      "title": "Ikiri Yuusha wa Sukuenai!",
+      "score": 0.247,
       "r18": false
     },
     {
@@ -41,20 +47,14 @@
       "r18": false
     },
     {
-      "id": 47299,
-      "title": "Heroic Complex",
-      "score": 0.226,
+      "id": 29885,
+      "title": "Her Summon",
+      "score": 0.223,
       "r18": false
     },
     {
       "id": 42804,
       "title": "Rules for Peddling in Another World",
-      "score": 0.225,
-      "r18": false
-    },
-    {
-      "id": 29885,
-      "title": "Her Summon",
       "score": 0.223,
       "r18": false
     },
@@ -73,7 +73,7 @@
     {
       "id": 37892,
       "title": "Horizon",
-      "score": 0.217,
+      "score": 0.216,
       "r18": false
     },
     {
@@ -86,12 +86,6 @@
       "id": 56160,
       "title": "Galaxy Customer Service Department",
       "score": 0.214,
-      "r18": false
-    },
-    {
-      "id": 46364,
-      "title": "Turned Into a Grass in the Fantasy World",
-      "score": 0.212,
       "r18": false
     },
     {
@@ -121,6 +115,12 @@
     {
       "id": 18296,
       "title": "My Sect's Senior Disciple Has a Hole in His Brain",
+      "score": 0.206,
+      "r18": false
+    },
+    {
+      "id": 46623,
+      "title": "Global Martial Arts",
       "score": 0.206,
       "r18": false
     },

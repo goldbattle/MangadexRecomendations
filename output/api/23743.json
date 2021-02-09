@@ -1,8 +1,8 @@
 {
   "id": 23743,
   "title": "Mikarun X",
-  "url": "https://mangadex.org/manga/23743",
-  "last_updated": "January 12, 2021 18:46:00 UTC",
+  "url": "https://api.mangadex.org/v2/manga/23743",
+  "last_updated": "February 09, 2021 12:17:05 UTC",
   "matches": [
     {
       "id": 19880,
@@ -50,6 +50,12 @@
       "id": 47761,
       "title": "Sorry, but I'm Not Into Yuri",
       "score": 0.655,
+      "r18": false
+    },
+    {
+      "id": 53325,
+      "title": "Jyoshikou Dakara Safe",
+      "score": 0.652,
       "r18": false
     },
     {
@@ -109,7 +115,7 @@
     {
       "id": 6255,
       "title": "Oddman 11",
-      "score": 0.279,
+      "score": 0.278,
       "r18": false
     }
   ]

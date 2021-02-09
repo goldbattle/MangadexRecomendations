@@ -1,9 +1,15 @@
 {
   "id": 24241,
   "title": "Aoi Spice",
-  "url": "https://mangadex.org/manga/24241",
-  "last_updated": "January 12, 2021 18:51:29 UTC",
+  "url": "https://api.mangadex.org/v2/manga/24241",
+  "last_updated": "February 09, 2021 12:25:01 UTC",
   "matches": [
+    {
+      "id": 461,
+      "title": "Shiawase Kissa Sanchoume",
+      "score": 0.697,
+      "r18": false
+    },
     {
       "id": 22963,
       "title": "Hokago wa Kissaten De",
@@ -83,14 +89,14 @@
       "r18": false
     },
     {
-      "id": 30257,
-      "title": "Tonari wa Nani o Kuu Hito zo - Horoyoi",
+      "id": 50012,
+      "title": "Mr. Devil Rejoiced When I Made Parfait",
       "score": 0.653,
       "r18": false
     },
     {
-      "id": 50012,
-      "title": "Mr. Devil Rejoiced When I Made Parfait",
+      "id": 30257,
+      "title": "Tonari wa Nani o Kuu Hito zo - Horoyoi",
       "score": 0.653,
       "r18": false
     },
@@ -146,12 +152,6 @@
       "id": 50359,
       "title": "I'm Not the Saint, so I'll Just Leisurely Make Food at the Royal Palace",
       "score": 0.31,
-      "r18": false
-    },
-    {
-      "id": 26180,
-      "title": "Korabo Mijikashi Tsudoeyo Otome",
-      "score": 0.304,
       "r18": false
     }
   ]

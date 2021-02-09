@@ -1,8 +1,8 @@
 {
   "id": 23231,
   "title": "Wu Dong Qian Kun",
-  "url": "https://mangadex.org/manga/23231",
-  "last_updated": "January 12, 2021 12:38:27 UTC",
+  "url": "https://api.mangadex.org/v2/manga/23231",
+  "last_updated": "February 09, 2021 12:08:58 UTC",
   "matches": [
     {
       "id": 22236,
@@ -19,7 +19,7 @@
     {
       "id": 8325,
       "title": "Tales of Innocence",
-      "score": 0.823,
+      "score": 0.822,
       "r18": false
     },
     {
@@ -47,12 +47,6 @@
       "r18": false
     },
     {
-      "id": 21283,
-      "title": "Persona 5",
-      "score": 0.815,
-      "r18": false
-    },
-    {
       "id": 2340,
       "title": "Fate/stay night",
       "score": 0.814,
@@ -73,7 +67,7 @@
     {
       "id": 1417,
       "title": "Shingetsutan Tsukihime",
-      "score": 0.813,
+      "score": 0.814,
       "r18": false
     },
     {
@@ -101,21 +95,9 @@
       "r18": false
     },
     {
-      "id": 50672,
-      "title": "My Hero Academia - League Of Villains: Undercover (Fan Colored)",
-      "score": 0.811,
-      "r18": false
-    },
-    {
       "id": 33863,
       "title": "The Beginning After the End",
       "score": 0.811,
-      "r18": false
-    },
-    {
-      "id": 54801,
-      "title": "One Piece Episode A",
-      "score": 0.81,
       "r18": false
     },
     {
@@ -145,13 +127,31 @@
     {
       "id": 8396,
       "title": "Tales of the Abyss - Another Story",
-      "score": 0.807,
+      "score": 0.808,
       "r18": false
     },
     {
       "id": 1021,
       "title": "Girls of the Wild's",
       "score": 0.807,
+      "r18": false
+    },
+    {
+      "id": 20426,
+      "title": "Sunset Rose",
+      "score": 0.805,
+      "r18": false
+    },
+    {
+      "id": 7956,
+      "title": "Derayd - Kaikyoutenbin no Tsuki",
+      "score": 0.805,
+      "r18": false
+    },
+    {
+      "id": 3918,
+      "title": "Magic Kaito",
+      "score": 0.805,
       "r18": false
     }
   ]

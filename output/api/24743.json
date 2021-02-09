@@ -1,8 +1,8 @@
 {
   "id": 24743,
   "title": "Six Sex",
-  "url": "https://mangadex.org/manga/24743",
-  "last_updated": "January 12, 2021 18:56:43 UTC",
+  "url": "https://api.mangadex.org/v2/manga/24743",
+  "last_updated": "February 09, 2021 12:32:51 UTC",
   "matches": [
     {
       "id": 37504,
@@ -95,12 +95,6 @@
       "r18": false
     },
     {
-      "id": 50448,
-      "title": "Tonari no Metaller-san",
-      "score": 0.675,
-      "r18": false
-    },
-    {
       "id": 45720,
       "title": "Seito no Shuchou Kyoushi no Honbun",
       "score": 0.674,
@@ -125,14 +119,14 @@
       "r18": false
     },
     {
-      "id": 15470,
-      "title": "Tourou no Ori",
+      "id": 6817,
+      "title": "Trigger",
       "score": 0.67,
       "r18": false
     },
     {
-      "id": 6817,
-      "title": "Trigger",
+      "id": 15470,
+      "title": "Tourou no Ori",
       "score": 0.67,
       "r18": false
     },
@@ -151,6 +145,12 @@
     {
       "id": 8883,
       "title": "Sasakure Memorial",
+      "score": 0.67,
+      "r18": false
+    },
+    {
+      "id": 10725,
+      "title": "Ookami no Ketsuzoku",
       "score": 0.67,
       "r18": false
     }

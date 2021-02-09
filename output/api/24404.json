@@ -1,15 +1,9 @@
 {
   "id": 24404,
   "title": "Giratina to Sora no Hanataba Shaymin",
-  "url": "https://mangadex.org/manga/24404",
-  "last_updated": "January 12, 2021 18:53:13 UTC",
+  "url": "https://api.mangadex.org/v2/manga/24404",
+  "last_updated": "February 09, 2021 12:27:41 UTC",
   "matches": [
-    {
-      "id": 303,
-      "title": "Claymore",
-      "score": 0.712,
-      "r18": false
-    },
     {
       "id": 15845,
       "title": "Pok&eacute;mon The Movie XY - The Archdjinni of the Rings: Hoopa (Doujinshi)",
@@ -25,7 +19,13 @@
     {
       "id": 7643,
       "title": "W Mission Story: Pok&eacute;mon Ranger - the Comic",
-      "score": 0.704,
+      "score": 0.703,
+      "r18": false
+    },
+    {
+      "id": 303,
+      "title": "Claymore",
+      "score": 0.697,
       "r18": false
     },
     {
@@ -44,12 +44,6 @@
       "id": 23231,
       "title": "Wu Dong Qian Kun",
       "score": 0.695,
-      "r18": false
-    },
-    {
-      "id": 29138,
-      "title": "Peach Boy Riverside",
-      "score": 0.686,
       "r18": false
     },
     {
@@ -77,14 +71,14 @@
       "r18": false
     },
     {
-      "id": 3918,
-      "title": "Magic Kaito",
+      "id": 8325,
+      "title": "Tales of Innocence",
       "score": 0.681,
       "r18": false
     },
     {
-      "id": 8325,
-      "title": "Tales of Innocence",
+      "id": 3918,
+      "title": "Magic Kaito",
       "score": 0.681,
       "r18": false
     },
@@ -115,25 +109,19 @@
     {
       "id": 10526,
       "title": "Iron Knight",
-      "score": 0.677,
+      "score": 0.678,
       "r18": false
     },
     {
       "id": 21061,
       "title": "Tales of Berseria",
-      "score": 0.677,
+      "score": 0.678,
       "r18": false
     },
     {
       "id": 20426,
       "title": "Sunset Rose",
       "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 4774,
-      "title": "Dragon Quest: Dai no Daibouken",
-      "score": 0.676,
       "r18": false
     },
     {
@@ -152,6 +140,18 @@
       "id": 8328,
       "title": "Tales of Phantasia",
       "score": 0.676,
+      "r18": false
+    },
+    {
+      "id": 5937,
+      "title": "CYBER Blue",
+      "score": 0.676,
+      "r18": false
+    },
+    {
+      "id": 6754,
+      "title": "Persona - Tsumi to Bachi",
+      "score": 0.675,
       "r18": false
     }
   ]

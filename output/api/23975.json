@@ -1,8 +1,8 @@
 {
   "id": 23975,
   "title": "Ashinaga Ojisama",
-  "url": "https://mangadex.org/manga/23975",
-  "last_updated": "January 12, 2021 18:48:35 UTC",
+  "url": "https://api.mangadex.org/v2/manga/23975",
+  "last_updated": "February 09, 2021 12:20:48 UTC",
   "matches": [
     {
       "id": 10923,
@@ -59,6 +59,12 @@
       "r18": false
     },
     {
+      "id": 16544,
+      "title": "ULTRAS",
+      "score": 0.711,
+      "r18": false
+    },
+    {
       "id": 37280,
       "title": "Kimi no Ai wa Mienikui",
       "score": 0.71,
@@ -67,12 +73,6 @@
     {
       "id": 53198,
       "title": "Kimi ga Kono Te o Hanareru nara",
-      "score": 0.71,
-      "r18": false
-    },
-    {
-      "id": 16544,
-      "title": "ULTRAS",
       "score": 0.71,
       "r18": false
     },
@@ -113,15 +113,15 @@
       "r18": false
     },
     {
-      "id": 29113,
-      "title": "Yubisaki no Koi",
-      "score": 0.701,
+      "id": 1465,
+      "title": "Merry Checker",
+      "score": 0.7,
       "r18": false
     },
     {
-      "id": 1465,
-      "title": "Merry Checker",
-      "score": 0.701,
+      "id": 29113,
+      "title": "Yubisaki no Koi",
+      "score": 0.7,
       "r18": false
     },
     {
@@ -137,21 +137,21 @@
       "r18": false
     },
     {
-      "id": 58356,
-      "title": "Finger Stinger",
-      "score": 0.699,
-      "r18": false
-    },
-    {
       "id": 14013,
       "title": "Kaze no Yukue",
-      "score": 0.699,
+      "score": 0.698,
       "r18": false
     },
     {
       "id": 50971,
       "title": "Koiyami Archive",
-      "score": 0.699,
+      "score": 0.698,
+      "r18": false
+    },
+    {
+      "id": 58208,
+      "title": "Kaerenain Da Yo",
+      "score": 0.697,
       "r18": false
     }
   ]

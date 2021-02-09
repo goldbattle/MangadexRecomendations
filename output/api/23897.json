@@ -1,8 +1,8 @@
 {
   "id": 23897,
   "title": "Acid Flower",
-  "url": "https://mangadex.org/manga/23897",
-  "last_updated": "January 12, 2021 18:47:44 UTC",
+  "url": "https://api.mangadex.org/v2/manga/23897",
+  "last_updated": "February 09, 2021 12:19:33 UTC",
   "matches": [
     {
       "id": 27684,
@@ -23,15 +23,21 @@
       "r18": false
     },
     {
-      "id": 36264,
-      "title": "Hisho no Territory",
-      "score": 0.668,
+      "id": 1464,
+      "title": "Sangen Tonari no Tooi Hito",
+      "score": 0.679,
       "r18": false
     },
     {
       "id": 27242,
       "title": "Touch Me Again",
-      "score": 0.667,
+      "score": 0.669,
+      "r18": false
+    },
+    {
+      "id": 36264,
+      "title": "Hisho no Territory",
+      "score": 0.668,
       "r18": false
     },
     {

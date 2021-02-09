@@ -1,15 +1,9 @@
 {
   "id": 24250,
   "title": "Touhou Bunka Shinpou ~ Alternative Facts in Eastern Utopia.",
-  "url": "https://mangadex.org/manga/24250",
-  "last_updated": "January 12, 2021 18:51:35 UTC",
+  "url": "https://api.mangadex.org/v2/manga/24250",
+  "last_updated": "February 09, 2021 12:25:11 UTC",
   "matches": [
-    {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.713,
-      "r18": false
-    },
     {
       "id": 4880,
       "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
@@ -29,9 +23,21 @@
       "r18": false
     },
     {
+      "id": 27151,
+      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
+      "score": 0.699,
+      "r18": false
+    },
+    {
       "id": 21352,
       "title": "Rewrite: SIDE-TERRA",
       "score": 0.693,
+      "r18": false
+    },
+    {
+      "id": 47275,
+      "title": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta",
+      "score": 0.692,
       "r18": false
     },
     {
@@ -47,12 +53,6 @@
       "r18": false
     },
     {
-      "id": 47275,
-      "title": "I Reincarnated Into an Otome Game as a Villainess With Only Destruction Flags...&nbsp;Comic Anthology",
-      "score": 0.689,
-      "r18": false
-    },
-    {
       "id": 9497,
       "title": "Rewrite: SIDE-R",
       "score": 0.689,
@@ -61,7 +61,7 @@
     {
       "id": 2797,
       "title": "Le Th&eacute;&acirc;tre de B",
-      "score": 0.689,
+      "score": 0.688,
       "r18": false
     },
     {
@@ -95,12 +95,6 @@
       "r18": false
     },
     {
-      "id": 336,
-      "title": "Kuroshitsuji",
-      "score": 0.683,
-      "r18": false
-    },
-    {
       "id": 28843,
       "title": "JoJo's Bizarre Adventure Part 4 - Diamond is Unbreakable",
       "score": 0.683,
@@ -113,12 +107,6 @@
       "r18": false
     },
     {
-      "id": 6272,
-      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
-      "score": 0.682,
-      "r18": false
-    },
-    {
       "id": 28617,
       "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run",
       "score": 0.682,
@@ -127,7 +115,7 @@
     {
       "id": 969,
       "title": "Kamisama Hajimemashita",
-      "score": 0.681,
+      "score": 0.682,
       "r18": false
     },
     {
@@ -149,9 +137,21 @@
       "r18": false
     },
     {
-      "id": 22194,
-      "title": "Beast Complex",
-      "score": 0.68,
+      "id": 42675,
+      "title": "Otome Game no Hametsu Flag shika nai Akuyaku Reijou ni Tensei shite shimatta... Zettai Zetsumei! Hametsu Sunzen Hen",
+      "score": 0.679,
+      "r18": false
+    },
+    {
+      "id": 999,
+      "title": "Akagami no Shirayukihime",
+      "score": 0.678,
+      "r18": false
+    },
+    {
+      "id": 1654,
+      "title": "Liselotte to Majo no Mori",
+      "score": 0.675,
       "r18": false
     }
   ]

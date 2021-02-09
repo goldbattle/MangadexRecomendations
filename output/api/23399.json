@@ -1,15 +1,9 @@
 {
   "id": 23399,
   "title": "Zankyou",
-  "url": "https://mangadex.org/manga/23399",
-  "last_updated": "January 12, 2021 12:40:13 UTC",
+  "url": "https://api.mangadex.org/v2/manga/23399",
+  "last_updated": "February 09, 2021 12:11:39 UTC",
   "matches": [
-    {
-      "id": 50085,
-      "title": "Legend of the Galactic Heroes",
-      "score": 0.696,
-      "r18": false
-    },
     {
       "id": 104,
       "title": "Liar Game",
@@ -61,12 +55,6 @@
     {
       "id": 6580,
       "title": "Taiyou no Mokishiroku",
-      "score": 0.685,
-      "r18": false
-    },
-    {
-      "id": 50714,
-      "title": "Legend of the Galactic Heroes - Golden Wings",
       "score": 0.684,
       "r18": false
     },
@@ -85,7 +73,7 @@
     {
       "id": 2554,
       "title": "Saikyou Densetsu Kurosawa",
-      "score": 0.683,
+      "score": 0.684,
       "r18": false
     },
     {
@@ -95,9 +83,9 @@
       "r18": false
     },
     {
-      "id": 14441,
-      "title": "Fate/strange Fake",
-      "score": 0.681,
+      "id": 50085,
+      "title": "Legend of the Galactic Heroes",
+      "score": 0.682,
       "r18": false
     },
     {
@@ -131,15 +119,15 @@
       "r18": false
     },
     {
-      "id": 41767,
-      "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Daiyonshou - Seiiki to Gouyoku no Majou",
+      "id": 27156,
+      "title": "Hiru",
       "score": 0.679,
       "r18": false
     },
     {
-      "id": 27156,
-      "title": "Hiru",
-      "score": 0.679,
+      "id": 843,
+      "title": "20th Century Boys",
+      "score": 0.678,
       "r18": false
     },
     {
@@ -149,9 +137,21 @@
       "r18": false
     },
     {
-      "id": 843,
-      "title": "20th Century Boys",
-      "score": 0.678,
+      "id": 3917,
+      "title": "Waltz",
+      "score": 0.677,
+      "r18": false
+    },
+    {
+      "id": 1591,
+      "title": "21st Century Boys",
+      "score": 0.677,
+      "r18": false
+    },
+    {
+      "id": 5170,
+      "title": "Hoshi no Koe",
+      "score": 0.677,
       "r18": false
     }
   ]

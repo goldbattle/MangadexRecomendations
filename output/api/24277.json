@@ -1,8 +1,8 @@
 {
   "id": 24277,
   "title": "Zelda no Densetsu",
-  "url": "https://mangadex.org/manga/24277",
-  "last_updated": "January 12, 2021 18:51:52 UTC",
+  "url": "https://api.mangadex.org/v2/manga/24277",
+  "last_updated": "February 09, 2021 12:25:36 UTC",
   "matches": [
     {
       "id": 3452,
@@ -14,12 +14,6 @@
       "id": 24284,
       "title": "Zelda no Densetsu - Yume o Miru Shima",
       "score": 0.722,
-      "r18": false
-    },
-    {
-      "id": 29138,
-      "title": "Peach Boy Riverside",
-      "score": 0.667,
       "r18": false
     },
     {
@@ -109,7 +103,7 @@
     {
       "id": 5708,
       "title": "Lodoss Tousenki - Eiyuu Kishiden",
-      "score": 0.467,
+      "score": 0.466,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 24275,
       "title": "Ys Taiyou no Kamen",
       "score": 0.453,
+      "r18": false
+    },
+    {
+      "id": 5165,
+      "title": "Dragon Drive",
+      "score": 0.451,
       "r18": false
     }
   ]

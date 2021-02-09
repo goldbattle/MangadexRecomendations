@@ -1,8 +1,8 @@
 {
   "id": 23360,
   "title": "Kafka - Classics in Comics",
-  "url": "https://mangadex.org/manga/23360",
-  "last_updated": "January 12, 2021 12:39:49 UTC",
+  "url": "https://api.mangadex.org/v2/manga/23360",
+  "last_updated": "February 09, 2021 12:11:02 UTC",
   "matches": [
     {
       "id": 18471,
@@ -25,7 +25,7 @@
     {
       "id": 2723,
       "title": "Rozen Maiden",
-      "score": 0.378,
+      "score": 0.377,
       "r18": false
     },
     {
@@ -37,13 +37,19 @@
     {
       "id": 14523,
       "title": "selector infected WIXOSS - Re/verse -",
-      "score": 0.315,
+      "score": 0.314,
       "r18": false
     },
     {
       "id": 6064,
       "title": "Shiro Ame",
       "score": 0.309,
+      "r18": false
+    },
+    {
+      "id": 1499,
+      "title": "Kono Sekai no Owari e no Tabi",
+      "score": 0.302,
       "r18": false
     },
     {
@@ -55,7 +61,7 @@
     {
       "id": 610,
       "title": "Mahou Shoujo Kazumi\u2605Magica ~The Innocent Malice~",
-      "score": 0.3,
+      "score": 0.299,
       "r18": false
     },
     {
@@ -89,12 +95,6 @@
       "r18": false
     },
     {
-      "id": 1499,
-      "title": "Kono Sekai no Owari e no Tabi",
-      "score": 0.275,
-      "r18": false
-    },
-    {
       "id": 14457,
       "title": "Black Out",
       "score": 0.271,
@@ -113,15 +113,9 @@
       "r18": false
     },
     {
-      "id": 15374,
-      "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Dainishou - Yashiki no Shuukan Hen",
-      "score": 0.265,
-      "r18": false
-    },
-    {
       "id": 222,
       "title": "Hoshi no Samidare",
-      "score": 0.265,
+      "score": 0.264,
       "r18": false
     },
     {
@@ -139,7 +133,7 @@
     {
       "id": 6283,
       "title": "Vandemieru no Tsubasa",
-      "score": 0.252,
+      "score": 0.251,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 39510,
       "title": "Isekai Meikyuu no Saishinbu o Mezasou",
       "score": 0.251,
+      "r18": false
+    },
+    {
+      "id": 15374,
+      "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Dainishou - Yashiki no Shuukan Hen",
+      "score": 0.245,
       "r18": false
     }
   ]

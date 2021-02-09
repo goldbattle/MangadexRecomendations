@@ -1,12 +1,12 @@
 {
   "id": 23383,
   "title": "Anne Happy",
-  "url": "https://mangadex.org/manga/23383",
-  "last_updated": "January 12, 2021 12:40:03 UTC",
+  "url": "https://api.mangadex.org/v2/manga/23383",
+  "last_updated": "February 09, 2021 12:11:23 UTC",
   "matches": [
     {
-      "id": 12326,
-      "title": "Love Live! - School Idol Project",
+      "id": 37562,
+      "title": "Reiwa Hanamaru Gakuen",
       "score": 0.712,
       "r18": false
     },
@@ -23,12 +23,6 @@
       "r18": false
     },
     {
-      "id": 37562,
-      "title": "Reiwa Hanamaru Gakuen",
-      "score": 0.706,
-      "r18": false
-    },
-    {
       "id": 8495,
       "title": "Persona 3",
       "score": 0.705,
@@ -38,12 +32,6 @@
       "id": 1690,
       "title": "Yashikoh Shodai Seitokai",
       "score": 0.704,
-      "r18": false
-    },
-    {
-      "id": 875,
-      "title": "Bokura wa Minna Kawai-sou",
-      "score": 0.703,
       "r18": false
     },
     {
@@ -73,7 +61,7 @@
     {
       "id": 17199,
       "title": "Higashi no Kurume to Tonari no Meguru",
-      "score": 0.696,
+      "score": 0.695,
       "r18": false
     },
     {
@@ -85,7 +73,7 @@
     {
       "id": 34367,
       "title": "A Tale of Royal Disturbance: Now He's Gone from Echo Valley",
-      "score": 0.693,
+      "score": 0.692,
       "r18": false
     },
     {
@@ -104,6 +92,12 @@
       "id": 6966,
       "title": "Centaur's Worries",
       "score": 0.691,
+      "r18": false
+    },
+    {
+      "id": 875,
+      "title": "Bokura wa Minna Kawai-sou",
+      "score": 0.69,
       "r18": false
     },
     {
@@ -145,6 +139,12 @@
     {
       "id": 1023,
       "title": "Inari, Konkon, Koi Iroha.",
+      "score": 0.678,
+      "r18": false
+    },
+    {
+      "id": 8496,
+      "title": "Sakamoto desu ga?",
       "score": 0.678,
       "r18": false
     },

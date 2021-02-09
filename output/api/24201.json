@@ -1,8 +1,8 @@
 {
   "id": 24201,
   "title": "December's Heartbeat",
-  "url": "https://mangadex.org/manga/24201",
-  "last_updated": "January 12, 2021 18:51:03 UTC",
+  "url": "https://api.mangadex.org/v2/manga/24201",
+  "last_updated": "February 09, 2021 12:24:20 UTC",
   "matches": [
     {
       "id": 6676,
@@ -13,6 +13,12 @@
     {
       "id": 31989,
       "title": "Fuu &amp; Mei's Birthday Day",
+      "score": 0.37,
+      "r18": false
+    },
+    {
+      "id": 52027,
+      "title": "Futari Escape",
       "score": 0.37,
       "r18": false
     },
@@ -145,12 +151,6 @@
     {
       "id": 22608,
       "title": "Yume yori Suteki na",
-      "score": 0.247,
-      "r18": false
-    },
-    {
-      "id": 22624,
-      "title": "Watashi Baka",
       "score": 0.247,
       "r18": false
     }

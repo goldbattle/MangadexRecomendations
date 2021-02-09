@@ -1,8 +1,8 @@
 {
   "id": 24350,
   "title": "Toaru Majutsu no Virtual-On",
-  "url": "https://mangadex.org/manga/24350",
-  "last_updated": "January 12, 2021 18:52:40 UTC",
+  "url": "https://api.mangadex.org/v2/manga/24350",
+  "last_updated": "February 09, 2021 12:26:48 UTC",
   "matches": [
     {
       "id": 1977,
@@ -65,12 +65,6 @@
       "r18": false
     },
     {
-      "id": 24267,
-      "title": "Rockman &amp; Forte",
-      "score": 0.276,
-      "r18": false
-    },
-    {
       "id": 24568,
       "title": "Kidou Senshi Gundam in U.C. 0099 - Moon Crisis",
       "score": 0.276,
@@ -97,6 +91,12 @@
     {
       "id": 30000,
       "title": "Fight! Super Robot Lifeform Transformers: The Comics",
+      "score": 0.276,
+      "r18": false
+    },
+    {
+      "id": 30837,
+      "title": "Hakaiou ~GaoGaiGar vs Betterman~ the COMIC",
       "score": 0.276,
       "r18": false
     },
@@ -131,8 +131,14 @@
       "r18": false
     },
     {
+      "id": 59959,
+      "title": "Electroid Zaborger",
+      "score": 0.276,
+      "r18": false
+    },
+    {
       "id": 55074,
-      "title": "Rockman Dr Wily's Revenge",
+      "title": "Rockman -Dr Wily's Revenge-",
       "score": 0.246,
       "r18": false
     },
@@ -145,12 +151,6 @@
     {
       "id": 7817,
       "title": "Kidou Senshi Gundam U.C. 0094 - Across The Sky",
-      "score": 0.23,
-      "r18": false
-    },
-    {
-      "id": 22527,
-      "title": "Irregular Hunter Rockman X",
       "score": 0.23,
       "r18": false
     }

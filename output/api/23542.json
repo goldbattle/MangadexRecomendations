@@ -1,44 +1,44 @@
 {
   "id": 23542,
   "title": "Loser",
-  "url": "https://mangadex.org/manga/23542",
-  "last_updated": "January 12, 2021 12:41:44 UTC",
+  "url": "https://api.mangadex.org/v2/manga/23542",
+  "last_updated": "February 09, 2021 12:13:57 UTC",
   "matches": [
     {
       "id": 56684,
       "title": "I Live With Sister-in-Law",
       "score": 0.329,
-      "r18": false
+      "r18": true
     },
     {
       "id": 43197,
       "title": "A Wonderful New World",
       "score": 0.286,
-      "r18": false
+      "r18": true
     },
     {
       "id": 52997,
       "title": "Boss Reverse",
       "score": 0.269,
-      "r18": false
+      "r18": true
     },
     {
       "id": 53760,
       "title": "Golden Scale",
       "score": 0.198,
-      "r18": false
+      "r18": true
     },
     {
       "id": 18173,
       "title": "Aharoo",
-      "score": 0.193,
-      "r18": false
+      "score": 0.194,
+      "r18": true
     },
     {
       "id": 40033,
       "title": "Ingrid-san no (Taimanin Asagi Kessen Arena)",
       "score": 0.14,
-      "r18": false
+      "r18": true
     }
   ]
 }

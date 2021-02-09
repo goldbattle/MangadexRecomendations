@@ -1,15 +1,9 @@
 {
   "id": 23581,
   "title": "Nihao Retro",
-  "url": "https://mangadex.org/manga/23581",
-  "last_updated": "January 12, 2021 18:44:20 UTC",
+  "url": "https://api.mangadex.org/v2/manga/23581",
+  "last_updated": "February 09, 2021 12:14:36 UTC",
   "matches": [
-    {
-      "id": 29917,
-      "title": "Slow Loop",
-      "score": 0.346,
-      "r18": false
-    },
     {
       "id": 9143,
       "title": "Little Forest",
@@ -25,7 +19,7 @@
     {
       "id": 12908,
       "title": "Wakako-Zake",
-      "score": 0.325,
+      "score": 0.326,
       "r18": false
     },
     {
@@ -109,7 +103,7 @@
     {
       "id": 2205,
       "title": "Shinya Shokudou",
-      "score": 0.276,
+      "score": 0.275,
       "r18": false
     },
     {
@@ -127,7 +121,7 @@
     {
       "id": 50102,
       "title": "Aki wa Haru to Gohan wo Tabetai",
-      "score": 0.273,
+      "score": 0.272,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 15018,
       "title": "Shiawase Shokutaku",
       "score": 0.268,
+      "r18": false
+    },
+    {
+      "id": 21973,
+      "title": "Hokusai to Meshi Saeareba",
+      "score": 0.267,
       "r18": false
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": 24420,
   "title": "Ys",
-  "url": "https://mangadex.org/manga/24420",
-  "last_updated": "January 12, 2021 18:53:23 UTC",
+  "url": "https://api.mangadex.org/v2/manga/24420",
+  "last_updated": "February 09, 2021 12:27:58 UTC",
   "matches": [
     {
       "id": 6872,
@@ -44,12 +44,6 @@
       "id": 6572,
       "title": "Kaiouki",
       "score": 0.75,
-      "r18": false
-    },
-    {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.749,
       "r18": false
     },
     {
@@ -101,12 +95,6 @@
       "r18": false
     },
     {
-      "id": 6875,
-      "title": "Tales of the Abyss",
-      "score": 0.737,
-      "r18": false
-    },
-    {
       "id": 5710,
       "title": "Lodoss Tousenki - Deedlit Monogatari",
       "score": 0.736,
@@ -137,6 +125,18 @@
       "r18": false
     },
     {
+      "id": 27151,
+      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
+      "score": 0.735,
+      "r18": false
+    },
+    {
+      "id": 6875,
+      "title": "Tales of the Abyss",
+      "score": 0.734,
+      "r18": false
+    },
+    {
       "id": 8328,
       "title": "Tales of Phantasia",
       "score": 0.734,
@@ -151,7 +151,7 @@
     {
       "id": 8111,
       "title": "Magic: The Gathering - Moe Tsukinu Honoo",
-      "score": 0.733,
+      "score": 0.732,
       "r18": false
     }
   ]

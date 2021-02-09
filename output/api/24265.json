@@ -1,12 +1,18 @@
 {
   "id": 24265,
   "title": "Rockman X3",
-  "url": "https://mangadex.org/manga/24265",
-  "last_updated": "January 12, 2021 18:51:44 UTC",
+  "url": "https://api.mangadex.org/v2/manga/24265",
+  "last_updated": "February 09, 2021 12:25:26 UTC",
   "matches": [
     {
       "id": 22527,
       "title": "Irregular Hunter Rockman X",
+      "score": 0.343,
+      "r18": false
+    },
+    {
+      "id": 24267,
+      "title": "Rockman &amp; Forte",
       "score": 0.343,
       "r18": false
     },
@@ -89,12 +95,6 @@
       "r18": false
     },
     {
-      "id": 24267,
-      "title": "Rockman &amp; Forte",
-      "score": 0.287,
-      "r18": false
-    },
-    {
       "id": 24568,
       "title": "Kidou Senshi Gundam in U.C. 0099 - Moon Crisis",
       "score": 0.287,
@@ -109,6 +109,12 @@
     {
       "id": 27490,
       "title": "Kidou Senshi Gundam: &Eacute;cole du Ciel",
+      "score": 0.287,
+      "r18": false
+    },
+    {
+      "id": 30837,
+      "title": "Hakaiou ~GaoGaiGar vs Betterman~ the COMIC",
       "score": 0.287,
       "r18": false
     },
@@ -145,12 +151,6 @@
     {
       "id": 9442,
       "title": "Kidou Senshi Gundam 0083 REBELLION",
-      "score": 0.258,
-      "r18": false
-    },
-    {
-      "id": 10974,
-      "title": "Full Metal Panic! Another",
       "score": 0.258,
       "r18": false
     }

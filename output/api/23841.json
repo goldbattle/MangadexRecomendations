@@ -1,8 +1,8 @@
 {
   "id": 23841,
   "title": "Yamase wa Doko e Itta?",
-  "url": "https://mangadex.org/manga/23841",
-  "last_updated": "January 12, 2021 18:47:06 UTC",
+  "url": "https://api.mangadex.org/v2/manga/23841",
+  "last_updated": "February 09, 2021 12:18:39 UTC",
   "matches": [
     {
       "id": 1899,
@@ -14,12 +14,6 @@
       "id": 5400,
       "title": "Hot-Blooded Woman",
       "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 4802,
-      "title": "Junketsu + Kareshi",
-      "score": 0.652,
       "r18": false
     },
     {
@@ -49,7 +43,7 @@
     {
       "id": 10608,
       "title": "Nanoka no Kare",
-      "score": 0.407,
+      "score": 0.408,
       "r18": false
     },
     {
@@ -131,12 +125,6 @@
       "r18": false
     },
     {
-      "id": 20508,
-      "title": "Inuwashi Momo wa Yuruganai",
-      "score": 0.322,
-      "r18": false
-    },
-    {
       "id": 6401,
       "title": "Mekakushi no Kuni",
       "score": 0.32,
@@ -152,6 +140,18 @@
       "id": 7815,
       "title": "Miyuki no Ori",
       "score": 0.316,
+      "r18": false
+    },
+    {
+      "id": 1580,
+      "title": "The Day She Jumped",
+      "score": 0.31,
+      "r18": false
+    },
+    {
+      "id": 3942,
+      "title": "Inochi",
+      "score": 0.308,
       "r18": false
     }
   ]

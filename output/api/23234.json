@@ -1,13 +1,19 @@
 {
   "id": 23234,
   "title": "About Good Boys",
-  "url": "https://mangadex.org/manga/23234",
-  "last_updated": "January 12, 2021 12:38:30 UTC",
+  "url": "https://api.mangadex.org/v2/manga/23234",
+  "last_updated": "February 09, 2021 12:09:01 UTC",
   "matches": [
+    {
+      "id": 45816,
+      "title": "Love or Die",
+      "score": 0.72,
+      "r18": false
+    },
     {
       "id": 36287,
       "title": "I Was XXX By My Idol",
-      "score": 0.715,
+      "score": 0.716,
       "r18": false
     },
     {
@@ -23,15 +29,9 @@
       "r18": false
     },
     {
-      "id": 37071,
-      "title": "Inso's Law",
-      "score": 0.71,
-      "r18": false
-    },
-    {
       "id": 48407,
       "title": "Miss Time",
-      "score": 0.705,
+      "score": 0.704,
       "r18": false
     },
     {
@@ -55,19 +55,19 @@
     {
       "id": 52677,
       "title": "Kisses x Kiss x Kisses",
-      "score": 0.693,
-      "r18": false
-    },
-    {
-      "id": 53532,
-      "title": "Please Call Me Red Panda",
-      "score": 0.693,
+      "score": 0.692,
       "r18": false
     },
     {
       "id": 42236,
       "title": "Heaven Official's Blessing (old version)",
       "score": 0.692,
+      "r18": false
+    },
+    {
+      "id": 22520,
+      "title": "Itaewon Class",
+      "score": 0.691,
       "r18": false
     },
     {
@@ -80,6 +80,12 @@
       "id": 53527,
       "title": "These Years in Quest of Honour Mine",
       "score": 0.683,
+      "r18": false
+    },
+    {
+      "id": 25758,
+      "title": "Miracle App Store",
+      "score": 0.682,
       "r18": false
     },
     {
@@ -113,6 +119,12 @@
       "r18": false
     },
     {
+      "id": 41154,
+      "title": "Indulged in Your Light",
+      "score": 0.676,
+      "r18": false
+    },
+    {
       "id": 55902,
       "title": "How Small and Innocent",
       "score": 0.675,
@@ -137,20 +149,8 @@
       "r18": false
     },
     {
-      "id": 24134,
-      "title": "Neolith Girl",
-      "score": 0.673,
-      "r18": false
-    },
-    {
       "id": 51165,
       "title": "Rebirth: The Turnabout of a Mistreated Concubine",
-      "score": 0.672,
-      "r18": false
-    },
-    {
-      "id": 14844,
-      "title": "Ugly Duckling",
       "score": 0.672,
       "r18": false
     }

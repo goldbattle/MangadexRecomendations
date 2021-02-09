@@ -1,8 +1,8 @@
 {
   "id": 24162,
   "title": "Haiiro no Umi",
-  "url": "https://mangadex.org/manga/24162",
-  "last_updated": "January 12, 2021 18:50:38 UTC",
+  "url": "https://api.mangadex.org/v2/manga/24162",
+  "last_updated": "February 09, 2021 12:23:46 UTC",
   "matches": [
     {
       "id": 26915,
@@ -37,7 +37,7 @@
     {
       "id": 25119,
       "title": "Yuuutsu na Asa",
-      "score": 0.404,
+      "score": 0.403,
       "r18": false
     },
     {
@@ -125,6 +125,12 @@
       "r18": false
     },
     {
+      "id": 50448,
+      "title": "Tonari no Metaller-san",
+      "score": 0.376,
+      "r18": false
+    },
+    {
       "id": 8905,
       "title": "Hana no Miyako de",
       "score": 0.376,
@@ -146,12 +152,6 @@
       "id": 29090,
       "title": "Mawaru Sekai no Kimi to Boku",
       "score": 0.375,
-      "r18": false
-    },
-    {
-      "id": 37280,
-      "title": "Kimi no Ai wa Mienikui",
-      "score": 0.373,
       "r18": false
     }
   ]

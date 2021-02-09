@@ -1,8 +1,8 @@
 {
   "id": 23612,
   "title": "Umareru Seibetsu wo Machigaeta!",
-  "url": "https://mangadex.org/manga/23612",
-  "last_updated": "January 12, 2021 18:44:40 UTC",
+  "url": "https://api.mangadex.org/v2/manga/23612",
+  "last_updated": "February 09, 2021 12:15:05 UTC",
   "matches": [
     {
       "id": 1614,
@@ -11,15 +11,9 @@
       "r18": false
     },
     {
-      "id": 12326,
-      "title": "Love Live! - School Idol Project",
-      "score": 0.661,
-      "r18": false
-    },
-    {
       "id": 4615,
       "title": "Itou-san",
-      "score": 0.66,
+      "score": 0.661,
       "r18": false
     },
     {
@@ -32,12 +26,6 @@
       "id": 19185,
       "title": "Ohikkoshi",
       "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.658,
       "r18": false
     },
     {
@@ -65,6 +53,12 @@
       "r18": false
     },
     {
+      "id": 11576,
+      "title": "Genso Ginekokurasy",
+      "score": 0.656,
+      "r18": false
+    },
+    {
       "id": 8495,
       "title": "Persona 3",
       "score": 0.656,
@@ -77,9 +71,21 @@
       "r18": false
     },
     {
+      "id": 16671,
+      "title": "Radiation House",
+      "score": 0.656,
+      "r18": false
+    },
+    {
       "id": 602,
       "title": "Renai Kaidan Sayoko-san",
-      "score": 0.655,
+      "score": 0.656,
+      "r18": false
+    },
+    {
+      "id": 27151,
+      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
+      "score": 0.654,
       "r18": false
     },
     {
@@ -121,7 +127,7 @@
     {
       "id": 25873,
       "title": "NEW GAME! Anthology Comic",
-      "score": 0.471,
+      "score": 0.472,
       "r18": false
     },
     {
@@ -137,21 +143,15 @@
       "r18": false
     },
     {
-      "id": 52093,
-      "title": "Tonari no Seki-kun Junior",
-      "score": 0.464,
-      "r18": false
-    },
-    {
       "id": 797,
       "title": "Yurumates",
       "score": 0.464,
       "r18": false
     },
     {
-      "id": 57653,
-      "title": "Famiresu Iko.",
-      "score": 0.462,
+      "id": 52093,
+      "title": "Tonari no Seki-kun Junior",
+      "score": 0.464,
       "r18": false
     }
   ]

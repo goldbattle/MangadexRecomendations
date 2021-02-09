@@ -1,8 +1,8 @@
 {
   "id": 23318,
   "title": "Sado no Otoko o Otosu Houhou",
-  "url": "https://mangadex.org/manga/23318",
-  "last_updated": "January 12, 2021 12:39:23 UTC",
+  "url": "https://api.mangadex.org/v2/manga/23318",
+  "last_updated": "February 09, 2021 12:10:24 UTC",
   "matches": [
     {
       "id": 27828,
@@ -19,6 +19,12 @@
     {
       "id": 42641,
       "title": "Subarashii Shitsuren",
+      "score": 0.722,
+      "r18": false
+    },
+    {
+      "id": 16544,
+      "title": "ULTRAS",
       "score": 0.722,
       "r18": false
     },
@@ -47,26 +53,26 @@
       "r18": false
     },
     {
-      "id": 17966,
-      "title": "Paradise View",
-      "score": 0.717,
-      "r18": false
-    },
-    {
       "id": 58208,
       "title": "Kaerenain Da Yo",
       "score": 0.717,
       "r18": false
     },
     {
-      "id": 56171,
-      "title": "My Bodyguard",
+      "id": 17966,
+      "title": "Paradise View",
       "score": 0.717,
       "r18": false
     },
     {
-      "id": 16544,
-      "title": "ULTRAS",
+      "id": 50448,
+      "title": "Tonari no Metaller-san",
+      "score": 0.717,
+      "r18": false
+    },
+    {
+      "id": 56171,
+      "title": "My Bodyguard",
       "score": 0.716,
       "r18": false
     },
@@ -91,7 +97,7 @@
     {
       "id": 8905,
       "title": "Hana no Miyako de",
-      "score": 0.713,
+      "score": 0.712,
       "r18": false
     },
     {
@@ -115,7 +121,7 @@
     {
       "id": 37280,
       "title": "Kimi no Ai wa Mienikui",
-      "score": 0.711,
+      "score": 0.71,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 14013,
       "title": "Kaze no Yukue",
       "score": 0.708,
-      "r18": false
-    },
-    {
-      "id": 7792,
-      "title": "Kimi to Parade",
-      "score": 0.707,
       "r18": false
     }
   ]
