@@ -1,8 +1,8 @@
 {
   "id": 31545,
   "title": "Cacoethes Nurse",
-  "url": "https://mangadex.org/manga/31545",
-  "last_updated": "January 13, 2021 13:02:21 UTC",
+  "url": "https://api.mangadex.org/v2/manga/31545",
+  "last_updated": "February 10, 2021 08:21:45 UTC",
   "matches": [
     {
       "id": 1586,
@@ -107,12 +107,6 @@
       "r18": false
     },
     {
-      "id": 10090,
-      "title": "A Holy Night to the Lost Lamb",
-      "score": 0.34,
-      "r18": false
-    },
-    {
       "id": 10688,
       "title": "And twinkle",
       "score": 0.34,
@@ -151,6 +145,12 @@
     {
       "id": 13677,
       "title": "Together During Summer, Too",
+      "score": 0.34,
+      "r18": false
+    },
+    {
+      "id": 13679,
+      "title": "Shoujo Ningyo",
       "score": 0.34,
       "r18": false
     }

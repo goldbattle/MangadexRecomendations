@@ -1,8 +1,8 @@
 {
   "id": 31677,
   "title": "Made In Abyss (Fan Colored)",
-  "url": "https://mangadex.org/manga/31677",
-  "last_updated": "January 13, 2021 13:03:49 UTC",
+  "url": "https://api.mangadex.org/v2/manga/31677",
+  "last_updated": "February 10, 2021 08:23:50 UTC",
   "matches": [
     {
       "id": 54487,
@@ -25,13 +25,13 @@
     {
       "id": 36223,
       "title": "Witch of the Fire Scene",
-      "score": 0.71,
+      "score": 0.709,
       "r18": false
     },
     {
       "id": 18803,
       "title": "Youjo Senki",
-      "score": 0.689,
+      "score": 0.688,
       "r18": false
     },
     {
@@ -49,13 +49,19 @@
     {
       "id": 12568,
       "title": "Kidou Senshi Gundam - Gyakushuu no Char: Beltorchika Children",
-      "score": 0.673,
+      "score": 0.672,
       "r18": false
     },
     {
       "id": 19472,
       "title": "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai",
       "score": 0.665,
+      "r18": false
+    },
+    {
+      "id": 58215,
+      "title": "Hone Dragon no Mana Musume",
+      "score": 0.664,
       "r18": false
     },
     {
@@ -92,12 +98,6 @@
       "id": 41215,
       "title": "Duranki",
       "score": 0.208,
-      "r18": false
-    },
-    {
-      "id": 58215,
-      "title": "Hone Dragon no Mana Musume",
-      "score": 0.174,
       "r18": false
     }
   ]

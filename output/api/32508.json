@@ -1,8 +1,8 @@
 {
   "id": 32508,
   "title": "Samejima-san wa kamishimetai",
-  "url": "https://mangadex.org/manga/32508",
-  "last_updated": "January 13, 2021 19:06:55 UTC",
+  "url": "https://api.mangadex.org/v2/manga/32508",
+  "last_updated": "February 10, 2021 08:36:36 UTC",
   "matches": [
     {
       "id": 51740,
@@ -49,6 +49,12 @@
     {
       "id": 43922,
       "title": "Brothers and Sisters",
+      "score": 0.294,
+      "r18": false
+    },
+    {
+      "id": 44859,
+      "title": "I Can't Say No to Him",
       "score": 0.294,
       "r18": false
     },
@@ -145,12 +151,6 @@
     {
       "id": 35420,
       "title": "Flat Lay",
-      "score": 0.287,
-      "r18": false
-    },
-    {
-      "id": 35445,
-      "title": "Give Me Your Hands",
       "score": 0.287,
       "r18": false
     }

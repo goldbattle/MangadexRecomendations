@@ -1,8 +1,8 @@
 {
   "id": 32029,
   "title": "The Ugly Prince",
-  "url": "https://mangadex.org/manga/32029",
-  "last_updated": "January 13, 2021 13:07:42 UTC",
+  "url": "https://api.mangadex.org/v2/manga/32029",
+  "last_updated": "February 10, 2021 08:29:16 UTC",
   "matches": [
     {
       "id": 15501,
@@ -59,14 +59,14 @@
       "r18": false
     },
     {
-      "id": 34688,
-      "title": "Mugen Garan",
+      "id": 13516,
+      "title": "From Eroica with Love",
       "score": 0.66,
       "r18": false
     },
     {
-      "id": 13516,
-      "title": "From Eroica with Love",
+      "id": 34688,
+      "title": "Mugen Garan",
       "score": 0.66,
       "r18": false
     },
@@ -79,12 +79,6 @@
     {
       "id": 25475,
       "title": "Tanbishugi",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 54097,
-      "title": "An Abyss",
       "score": 0.656,
       "r18": false
     },
@@ -103,7 +97,7 @@
     {
       "id": 22515,
       "title": "Shitsuji Game",
-      "score": 0.651,
+      "score": 0.652,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 23947,
       "title": "Adekoi Typhoon",
       "score": 0.469,
+      "r18": false
+    },
+    {
+      "id": 56732,
+      "title": "Ou to Hiyaku",
+      "score": 0.466,
       "r18": false
     }
   ]

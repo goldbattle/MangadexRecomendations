@@ -1,8 +1,8 @@
 {
   "id": 31116,
   "title": "A Strange Joke",
-  "url": "https://mangadex.org/manga/31116",
-  "last_updated": "January 13, 2021 12:57:39 UTC",
+  "url": "https://api.mangadex.org/v2/manga/31116",
+  "last_updated": "February 10, 2021 08:15:04 UTC",
   "matches": [
     {
       "id": 42128,
@@ -14,18 +14,6 @@
       "id": 22334,
       "title": "The Strange Story Of A Guy Next Door And A Novelist",
       "score": 0.72,
-      "r18": false
-    },
-    {
-      "id": 37071,
-      "title": "Inso's Law",
-      "score": 0.719,
-      "r18": false
-    },
-    {
-      "id": 44537,
-      "title": "Love Your Enemies",
-      "score": 0.719,
       "r18": false
     },
     {
@@ -41,6 +29,12 @@
       "r18": false
     },
     {
+      "id": 45938,
+      "title": "Oh! My Prince!",
+      "score": 0.709,
+      "r18": false
+    },
+    {
       "id": 23231,
       "title": "Wu Dong Qian Kun",
       "score": 0.707,
@@ -50,6 +44,12 @@
       "id": 38934,
       "title": "Mire's Corridor",
       "score": 0.707,
+      "r18": false
+    },
+    {
+      "id": 59861,
+      "title": "Memoirs of Kanglim",
+      "score": 0.706,
       "r18": false
     },
     {
@@ -77,12 +77,6 @@
       "r18": false
     },
     {
-      "id": 19012,
-      "title": "KAKAO 79%",
-      "score": 0.701,
-      "r18": false
-    },
-    {
       "id": 51165,
       "title": "Rebirth: The Turnabout of a Mistreated Concubine",
       "score": 0.701,
@@ -101,8 +95,20 @@
       "r18": false
     },
     {
+      "id": 32484,
+      "title": "Mismatched Love",
+      "score": 0.7,
+      "r18": false
+    },
+    {
       "id": 28359,
       "title": "Boku ga Utau to Kimi wa Warau kara",
+      "score": 0.7,
+      "r18": false
+    },
+    {
+      "id": 47616,
+      "title": "Beware of the Red Thread",
       "score": 0.7,
       "r18": false
     },
@@ -113,14 +119,20 @@
       "r18": false
     },
     {
-      "id": 18959,
-      "title": "My Boo",
+      "id": 51318,
+      "title": "Truthfully, They Only Remembered Her",
       "score": 0.699,
       "r18": false
     },
     {
       "id": 20288,
       "title": "World Teacher &ndash; Other World Style Education &amp; Agent",
+      "score": 0.699,
+      "r18": false
+    },
+    {
+      "id": 18959,
+      "title": "My Boo",
       "score": 0.699,
       "r18": false
     },
@@ -133,25 +145,13 @@
     {
       "id": 44961,
       "title": "Tianbao Fuyao Lu",
-      "score": 0.699,
+      "score": 0.698,
       "r18": false
     },
     {
       "id": 4824,
       "title": "Rabu Kare - Gokujou Men Dokuhon!",
       "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 45957,
-      "title": "Give Me a Flower, and I'll Give You All of Me",
-      "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 21700,
-      "title": "Zero Point Idol",
-      "score": 0.697,
       "r18": false
     }
   ]

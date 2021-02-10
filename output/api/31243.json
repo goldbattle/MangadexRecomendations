@@ -1,8 +1,8 @@
 {
   "id": 31243,
   "title": "Let Me Eat You",
-  "url": "https://mangadex.org/manga/31243",
-  "last_updated": "January 13, 2021 12:59:03 UTC",
+  "url": "https://api.mangadex.org/v2/manga/31243",
+  "last_updated": "February 10, 2021 08:17:09 UTC",
   "matches": [
     {
       "id": 16269,
@@ -14,18 +14,6 @@
       "id": 57433,
       "title": "Sharing a Pillow With a Rabbit",
       "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 35973,
-      "title": "Secret Love",
-      "score": 0.65,
-      "r18": false
-    },
-    {
-      "id": 33547,
-      "title": "The Dungeon Master",
-      "score": 0.326,
       "r18": false
     },
     {
@@ -44,6 +32,12 @@
       "id": 34535,
       "title": "Rise from Ashes",
       "score": 0.315,
+      "r18": false
+    },
+    {
+      "id": 33547,
+      "title": "The Dungeon Master",
+      "score": 0.311,
       "r18": false
     },
     {
@@ -77,21 +71,27 @@
       "r18": false
     },
     {
+      "id": 35973,
+      "title": "Secret Love",
+      "score": 0.305,
+      "r18": false
+    },
+    {
       "id": 30193,
       "title": "Whose Baby Is It?",
       "score": 0.305,
       "r18": false
     },
     {
-      "id": 29130,
-      "title": "Peerless Dad",
+      "id": 26096,
+      "title": "Elqueeness",
       "score": 0.304,
       "r18": false
     },
     {
-      "id": 26096,
-      "title": "Elqueeness",
-      "score": 0.302,
+      "id": 29130,
+      "title": "Peerless Dad",
+      "score": 0.304,
       "r18": false
     },
     {
@@ -121,7 +121,7 @@
     {
       "id": 54161,
       "title": "The Strongest Fate System",
-      "score": 0.297,
+      "score": 0.298,
       "r18": false
     },
     {
@@ -143,14 +143,14 @@
       "r18": false
     },
     {
-      "id": 52297,
-      "title": "The Young Lady Is a Royal Chef",
-      "score": 0.296,
+      "id": 54218,
+      "title": "The Lady and the Beast",
+      "score": 0.297,
       "r18": false
     },
     {
-      "id": 31880,
-      "title": "The Hunter",
+      "id": 52297,
+      "title": "The Young Lady Is a Royal Chef",
       "score": 0.296,
       "r18": false
     }

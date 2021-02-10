@@ -1,8 +1,8 @@
 {
   "id": 31393,
   "title": "Blue Striker",
-  "url": "https://mangadex.org/manga/31393",
-  "last_updated": "January 13, 2021 13:00:41 UTC",
+  "url": "https://api.mangadex.org/v2/manga/31393",
+  "last_updated": "February 10, 2021 08:19:28 UTC",
   "matches": [
     {
       "id": 35733,
@@ -83,12 +83,6 @@
       "r18": false
     },
     {
-      "id": 58626,
-      "title": "My disciples are super gods",
-      "score": 0.255,
-      "r18": false
-    },
-    {
       "id": 431,
       "title": "BB Project",
       "score": 0.204,
@@ -151,6 +145,12 @@
     {
       "id": 8199,
       "title": "Sengoku Basara 3 -Roar of Dragon-",
+      "score": 0.204,
+      "r18": false
+    },
+    {
+      "id": 8827,
+      "title": "Star-Stealing Girl",
       "score": 0.204,
       "r18": false
     }

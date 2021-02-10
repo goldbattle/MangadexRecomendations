@@ -1,8 +1,8 @@
 {
   "id": 31234,
   "title": "Senjou Manga Series",
-  "url": "https://mangadex.org/manga/31234",
-  "last_updated": "January 13, 2021 12:58:57 UTC",
+  "url": "https://api.mangadex.org/v2/manga/31234",
+  "last_updated": "February 10, 2021 08:17:00 UTC",
   "matches": [
     {
       "id": 13478,
@@ -20,12 +20,6 @@
       "id": 665,
       "title": "Zipang",
       "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 9558,
-      "title": "Arslan Senki",
-      "score": 0.65,
       "r18": false
     },
     {
@@ -61,7 +55,7 @@
     {
       "id": 41814,
       "title": "Ushinawareta Toki o Motomete",
-      "score": 0.353,
+      "score": 0.354,
       "r18": false
     },
     {
@@ -115,7 +109,7 @@
     {
       "id": 27263,
       "title": "&Eacute;cole de Platon",
-      "score": 0.317,
+      "score": 0.316,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 14786,
       "title": "Les Miserables (ARAI Takahiro)",
       "score": 0.302,
+      "r18": false
+    },
+    {
+      "id": 6165,
+      "title": "Gu Fang Bu Zi Shang",
+      "score": 0.301,
       "r18": false
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": 31567,
   "title": "Sunflower",
-  "url": "https://mangadex.org/manga/31567",
-  "last_updated": "January 13, 2021 13:02:35 UTC",
+  "url": "https://api.mangadex.org/v2/manga/31567",
+  "last_updated": "February 10, 2021 08:22:06 UTC",
   "matches": [
     {
       "id": 11867,
@@ -17,6 +17,12 @@
       "r18": false
     },
     {
+      "id": 7816,
+      "title": "Folk Tail Tonakai",
+      "score": 0.652,
+      "r18": false
+    },
+    {
       "id": 7723,
       "title": "Until You Fall Asleep",
       "score": 0.388,
@@ -25,13 +31,13 @@
     {
       "id": 13549,
       "title": "Chikyuu Umare no Anata e",
-      "score": 0.382,
+      "score": 0.376,
       "r18": false
     },
     {
       "id": 4686,
       "title": "A Midsummer Night's Dream",
-      "score": 0.372,
+      "score": 0.373,
       "r18": false
     },
     {
@@ -65,14 +71,14 @@
       "r18": false
     },
     {
-      "id": 10490,
-      "title": "The Animal Sacrifice",
+      "id": 28373,
+      "title": "Tsuki no Kanon",
       "score": 0.353,
       "r18": false
     },
     {
-      "id": 28373,
-      "title": "Tsuki no Kanon",
+      "id": 10490,
+      "title": "The Animal Sacrifice",
       "score": 0.353,
       "r18": false
     },
@@ -86,12 +92,6 @@
       "id": 20829,
       "title": "Hokusou Shinsengumi",
       "score": 0.352,
-      "r18": false
-    },
-    {
-      "id": 10114,
-      "title": "Shingeki no Kyojin - Birth of Levi",
-      "score": 0.338,
       "r18": false
     },
     {

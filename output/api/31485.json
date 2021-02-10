@@ -1,8 +1,8 @@
 {
   "id": 31485,
   "title": "VRMMO de Summoner Hajimemashita",
-  "url": "https://mangadex.org/manga/31485",
-  "last_updated": "January 13, 2021 13:01:42 UTC",
+  "url": "https://api.mangadex.org/v2/manga/31485",
+  "last_updated": "February 10, 2021 08:20:52 UTC",
   "matches": [
     {
       "id": 8401,
@@ -35,6 +35,12 @@
       "r18": false
     },
     {
+      "id": 27151,
+      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
+      "score": 0.718,
+      "r18": false
+    },
+    {
       "id": 22148,
       "title": "Infinite Dendrogram",
       "score": 0.715,
@@ -43,7 +49,7 @@
     {
       "id": 46219,
       "title": "Sword Art Online - Kiss and Fly",
-      "score": 0.711,
+      "score": 0.712,
       "r18": false
     },
     {
@@ -59,26 +65,14 @@
       "r18": false
     },
     {
-      "id": 30171,
-      "title": "Overgeared",
-      "score": 0.709,
-      "r18": false
-    },
-    {
-      "id": 13364,
-      "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Daiisshou - Outo no Ichinichi Hen",
-      "score": 0.709,
-      "r18": false
-    },
-    {
-      "id": 15374,
-      "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Dainishou - Yashiki no Shuukan Hen",
+      "id": 36653,
+      "title": "Crow Record: Infinite Dendrogram Another",
       "score": 0.708,
       "r18": false
     },
     {
-      "id": 36653,
-      "title": "Crow Record: Infinite Dendrogram Another",
+      "id": 6272,
+      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
       "score": 0.708,
       "r18": false
     },
@@ -107,27 +101,27 @@
       "r18": false
     },
     {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
+      "id": 54961,
+      "title": "Trapped in a Webnovel as a Good-for-Nothing",
       "score": 0.707,
       "r18": false
     },
     {
       "id": 48137,
       "title": "Welcome to the Impregnable Demon King Castle ~The Black Mage Who Got Kicked Out of the Hero Party Due to His Unnecessary Debuffs Gets Welcomed by the Top Brass of the Demon King's Army~",
-      "score": 0.706,
+      "score": 0.707,
+      "r18": false
+    },
+    {
+      "id": 30171,
+      "title": "Overgeared",
+      "score": 0.707,
       "r18": false
     },
     {
       "id": 4880,
       "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
       "score": 0.706,
-      "r18": false
-    },
-    {
-      "id": 45307,
-      "title": "Azure Legacy",
-      "score": 0.705,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 6270,
       "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo (Official Colored)",
       "score": 0.704,
+      "r18": false
+    },
+    {
+      "id": 28525,
+      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo",
+      "score": 0.703,
       "r18": false
     }
   ]

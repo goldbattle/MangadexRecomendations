@@ -1,8 +1,8 @@
 {
   "id": 31494,
   "title": "Kamikuji Mura",
-  "url": "https://mangadex.org/manga/31494",
-  "last_updated": "January 13, 2021 13:01:48 UTC",
+  "url": "https://api.mangadex.org/v2/manga/31494",
+  "last_updated": "February 10, 2021 08:21:00 UTC",
   "matches": [
     {
       "id": 8862,
@@ -53,18 +53,6 @@
       "r18": false
     },
     {
-      "id": 9803,
-      "title": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka",
-      "score": 0.278,
-      "r18": false
-    },
-    {
-      "id": 51808,
-      "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
-      "score": 0.277,
-      "r18": false
-    },
-    {
       "id": 9687,
       "title": "Otogi Taisen Fantasma",
       "score": 0.275,
@@ -101,6 +89,12 @@
       "r18": false
     },
     {
+      "id": 9803,
+      "title": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka",
+      "score": 0.248,
+      "r18": false
+    },
+    {
       "id": 47193,
       "title": "Maou Gakuen no Hangyakusha",
       "score": 0.244,
@@ -116,6 +110,12 @@
       "id": 643,
       "title": "Maoyuu Maou Yuusha - &quot;Kono Watashi no Mono Tonare, Yuusha yo&quot; &quot;Kotowaru!&quot;",
       "score": 0.216,
+      "r18": false
+    },
+    {
+      "id": 51808,
+      "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
+      "score": 0.197,
       "r18": false
     },
     {

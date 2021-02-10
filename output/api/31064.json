@@ -1,15 +1,9 @@
 {
   "id": 31064,
   "title": "The Girl Who Will Let You Do What You Want",
-  "url": "https://mangadex.org/manga/31064",
-  "last_updated": "January 13, 2021 12:57:03 UTC",
+  "url": "https://api.mangadex.org/v2/manga/31064",
+  "last_updated": "February 10, 2021 08:14:14 UTC",
   "matches": [
-    {
-      "id": 37071,
-      "title": "Inso's Law",
-      "score": 0.666,
-      "r18": false
-    },
     {
       "id": 38755,
       "title": "I Only Want To Meet You",
@@ -17,21 +11,9 @@
       "r18": false
     },
     {
-      "id": 47831,
-      "title": "Kono Subarashii Sekai ni Shukufuku wo! - KazuMegu will get married in 100 days (Doujinshi)",
-      "score": 0.66,
-      "r18": false
-    },
-    {
       "id": 39517,
       "title": "Seiseidoudou Futamata suru Hanashi",
       "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 25849,
-      "title": "Boku no Hero Academia - Bakugo-kun and Ochako-chan (Doujinshi)",
-      "score": 0.659,
       "r18": false
     },
     {
@@ -47,9 +29,15 @@
       "r18": false
     },
     {
+      "id": 47831,
+      "title": "Kono Subarashii Sekai ni Shukufuku wo! - KazuMegu will get married in 100 days (Doujinshi)",
+      "score": 0.657,
+      "r18": false
+    },
+    {
       "id": 45824,
       "title": "First Comes Love, Then Comes Marriage",
-      "score": 0.655,
+      "score": 0.656,
       "r18": false
     },
     {
@@ -61,7 +49,7 @@
     {
       "id": 45928,
       "title": "Dazzlingly Bright",
-      "score": 0.653,
+      "score": 0.654,
       "r18": false
     },
     {
@@ -101,15 +89,21 @@
       "r18": false
     },
     {
-      "id": 40738,
-      "title": "Prospective Marriage",
-      "score": 0.381,
+      "id": 34158,
+      "title": "Touhou - Mamange",
+      "score": 0.387,
       "r18": false
     },
     {
-      "id": 44270,
-      "title": "Confessing To My Childhood Friend Who's Worried She's Plain",
-      "score": 0.38,
+      "id": 59666,
+      "title": "Touhou - Mamange Eternal",
+      "score": 0.386,
+      "r18": false
+    },
+    {
+      "id": 40738,
+      "title": "Prospective Marriage",
+      "score": 0.381,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 34104,
       "title": "The Skinny Girl and the Chubby Boy",
       "score": 0.37,
+      "r18": false
+    },
+    {
+      "id": 44270,
+      "title": "Confessing To My Childhood Friend Who's Worried She's Plain",
+      "score": 0.369,
       "r18": false
     }
   ]

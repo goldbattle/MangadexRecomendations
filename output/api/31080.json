@@ -1,9 +1,15 @@
 {
   "id": 31080,
   "title": "Love&hearts;Master X",
-  "url": "https://mangadex.org/manga/31080",
-  "last_updated": "January 13, 2021 12:57:14 UTC",
+  "url": "https://api.mangadex.org/v2/manga/31080",
+  "last_updated": "February 10, 2021 08:14:28 UTC",
   "matches": [
+    {
+      "id": 55338,
+      "title": "Chijou no Seppun",
+      "score": 0.698,
+      "r18": false
+    },
     {
       "id": 22542,
       "title": "Koi to Yobu Niwa Kimochi Warui",
@@ -17,12 +23,6 @@
       "r18": false
     },
     {
-      "id": 55338,
-      "title": "Chijou no Seppun",
-      "score": 0.692,
-      "r18": false
-    },
-    {
       "id": 3300,
       "title": "Kuraku Naru Made Matenai",
       "score": 0.686,
@@ -31,13 +31,19 @@
     {
       "id": 8184,
       "title": "Le Th&eacute;&acirc;tre de A",
-      "score": 0.683,
+      "score": 0.684,
       "r18": false
     },
     {
       "id": 54052,
       "title": "It Looks Like I've Fallen into the World of a Reverse Harem Game",
       "score": 0.682,
+      "r18": false
+    },
+    {
+      "id": 54218,
+      "title": "The Lady and the Beast",
+      "score": 0.681,
       "r18": false
     },
     {
@@ -68,6 +74,12 @@
       "id": 12756,
       "title": "Totsuzen Desu ga, Ashita Kekkon Shimasu",
       "score": 0.675,
+      "r18": false
+    },
+    {
+      "id": 54016,
+      "title": "Karen Ichijou Tempts Him",
+      "score": 0.674,
       "r18": false
     },
     {
@@ -109,19 +121,7 @@
     {
       "id": 18090,
       "title": "Chocolate Junkie",
-      "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 54016,
-      "title": "Karen Ichijou Tempts Him",
-      "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 54218,
-      "title": "The Lady and the Beast",
-      "score": 0.669,
+      "score": 0.67,
       "r18": false
     },
     {
@@ -145,7 +145,7 @@
     {
       "id": 42675,
       "title": "Otome Game no Hametsu Flag shika nai Akuyaku Reijou ni Tensei shite shimatta... Zettai Zetsumei! Hametsu Sunzen Hen",
-      "score": 0.667,
+      "score": 0.666,
       "r18": false
     },
     {

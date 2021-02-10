@@ -1,8 +1,8 @@
 {
   "id": 31528,
   "title": "Tarintaran",
-  "url": "https://mangadex.org/manga/31528",
-  "last_updated": "January 13, 2021 13:02:10 UTC",
+  "url": "https://api.mangadex.org/v2/manga/31528",
+  "last_updated": "February 10, 2021 08:21:30 UTC",
   "matches": [
     {
       "id": 951,
@@ -41,21 +41,15 @@
       "r18": false
     },
     {
+      "id": 22594,
+      "title": "Misanthrope na Kanojo",
+      "score": 0.471,
+      "r18": false
+    },
+    {
       "id": 1390,
       "title": "Katteni Kaizo",
       "score": 0.47,
-      "r18": false
-    },
-    {
-      "id": 13108,
-      "title": "Karakai Jouzu no Takagi-san",
-      "score": 0.47,
-      "r18": false
-    },
-    {
-      "id": 22594,
-      "title": "Misanthrope na Kanojo",
-      "score": 0.469,
       "r18": false
     },
     {
@@ -97,7 +91,7 @@
     {
       "id": 19084,
       "title": "Blue Flame",
-      "score": 0.455,
+      "score": 0.454,
       "r18": false
     },
     {
@@ -121,7 +115,7 @@
     {
       "id": 54718,
       "title": "Houjou Urara no Ren'ai Shousetsu Okakinasai!",
-      "score": 0.449,
+      "score": 0.448,
       "r18": false
     },
     {
@@ -151,6 +145,12 @@
     {
       "id": 29472,
       "title": "Himedore",
+      "score": 0.443,
+      "r18": false
+    },
+    {
+      "id": 40646,
+      "title": "Nega-kun and Posi-chan",
       "score": 0.443,
       "r18": false
     }

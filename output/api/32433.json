@@ -1,8 +1,8 @@
 {
   "id": 32433,
   "title": "Tengoku no Shima Season 2",
-  "url": "https://mangadex.org/manga/32433",
-  "last_updated": "January 13, 2021 19:06:04 UTC",
+  "url": "https://api.mangadex.org/v2/manga/32433",
+  "last_updated": "February 10, 2021 08:35:23 UTC",
   "matches": [
     {
       "id": 4265,
@@ -89,12 +89,6 @@
       "r18": false
     },
     {
-      "id": 38042,
-      "title": "Nightmare World",
-      "score": 0.17,
-      "r18": false
-    },
-    {
       "id": 43005,
       "title": "One Day in the Life of Ivan Dejavu",
       "score": 0.151,
@@ -152,6 +146,12 @@
       "id": 25314,
       "title": "Skull Man (SHIMAMOTO Kazuhiko)",
       "score": 0.097,
+      "r18": false
+    },
+    {
+      "id": 27321,
+      "title": "Prototype:Zero",
+      "score": 0.091,
       "r18": false
     }
   ]

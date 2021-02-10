@@ -1,8 +1,8 @@
 {
   "id": 31114,
   "title": "Martial Legacy",
-  "url": "https://mangadex.org/manga/31114",
-  "last_updated": "January 13, 2021 12:57:38 UTC",
+  "url": "https://api.mangadex.org/v2/manga/31114",
+  "last_updated": "February 10, 2021 08:15:02 UTC",
   "matches": [
     {
       "id": 20540,
@@ -23,12 +23,6 @@
       "r18": false
     },
     {
-      "id": 2110,
-      "title": "Souten no Ken",
-      "score": 0.711,
-      "r18": false
-    },
-    {
       "id": 1389,
       "title": "Superior Cross",
       "score": 0.708,
@@ -44,6 +38,12 @@
       "id": 1388,
       "title": "Superior",
       "score": 0.703,
+      "r18": false
+    },
+    {
+      "id": 42462,
+      "title": "Devil and Song",
+      "score": 0.702,
       "r18": false
     },
     {
@@ -83,26 +83,20 @@
       "r18": false
     },
     {
-      "id": 14441,
-      "title": "Fate/strange Fake",
-      "score": 0.694,
-      "r18": false
-    },
-    {
       "id": 9136,
       "title": "Evil Eater",
       "score": 0.693,
       "r18": false
     },
     {
-      "id": 52836,
-      "title": "DD Fist of the North Star",
-      "score": 0.693,
+      "id": 1093,
+      "title": "Yamikagishi",
+      "score": 0.692,
       "r18": false
     },
     {
-      "id": 1093,
-      "title": "Yamikagishi",
+      "id": 52836,
+      "title": "DD Fist of the North Star",
       "score": 0.692,
       "r18": false
     },
@@ -125,21 +119,15 @@
       "r18": false
     },
     {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.69,
-      "r18": false
-    },
-    {
-      "id": 3388,
-      "title": "Fate/Zero",
-      "score": 0.69,
-      "r18": false
-    },
-    {
       "id": 45265,
       "title": "Greatest Boss System",
       "score": 0.69,
+      "r18": false
+    },
+    {
+      "id": 2110,
+      "title": "Souten no Ken",
+      "score": 0.689,
       "r18": false
     },
     {
@@ -152,6 +140,18 @@
       "id": 21314,
       "title": "Tang Yin in Another Realm",
       "score": 0.688,
+      "r18": false
+    },
+    {
+      "id": 55365,
+      "title": "MEMORIZE",
+      "score": 0.687,
+      "r18": false
+    },
+    {
+      "id": 10568,
+      "title": "LESSA - The Crimson Knight",
+      "score": 0.686,
       "r18": false
     }
   ]

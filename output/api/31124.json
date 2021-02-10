@@ -1,9 +1,15 @@
 {
   "id": 31124,
   "title": "Chaoji Shenyi Xitong",
-  "url": "https://mangadex.org/manga/31124",
-  "last_updated": "January 13, 2021 12:57:45 UTC",
+  "url": "https://api.mangadex.org/v2/manga/31124",
+  "last_updated": "February 10, 2021 08:15:11 UTC",
   "matches": [
+    {
+      "id": 19104,
+      "title": "Murenase! Shiiton Gakuen",
+      "score": 0.689,
+      "r18": false
+    },
     {
       "id": 19674,
       "title": "Love Rush!",
@@ -11,21 +17,15 @@
       "r18": false
     },
     {
-      "id": 19104,
-      "title": "Murenase! Shiiton Gakuen",
-      "score": 0.675,
+      "id": 12929,
+      "title": "To Love-Ru Darkness - Digital Colored Comics",
+      "score": 0.669,
       "r18": false
     },
     {
       "id": 11615,
       "title": "Rakudai Kishi no Eiyuutan",
-      "score": 0.67,
-      "r18": false
-    },
-    {
-      "id": 12929,
-      "title": "To Love-Ru Darkness - Digital Colored Comics",
-      "score": 0.669,
+      "score": 0.668,
       "r18": false
     },
     {
@@ -43,25 +43,13 @@
     {
       "id": 732,
       "title": "To Love-Ru",
-      "score": 0.663,
+      "score": 0.664,
       "r18": false
     },
     {
       "id": 36633,
       "title": "To Love-Ru - Kentaro Yabuki 20th Anniversary",
       "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 51875,
-      "title": "Arifureta Gakuen de Sekai Saikyou",
-      "score": 0.41,
-      "r18": false
-    },
-    {
-      "id": 13720,
-      "title": "Kono Subarashii Sekai ni Shukufuku wo!",
-      "score": 0.389,
       "r18": false
     },
     {
@@ -79,7 +67,7 @@
     {
       "id": 31583,
       "title": "Dorei Shounin shika Sentakushi ga Nai desu yo? Harem? Nani Sore Oishii no?",
-      "score": 0.376,
+      "score": 0.377,
       "r18": false
     },
     {
@@ -97,6 +85,12 @@
     {
       "id": 9175,
       "title": "Shinmai Maou no Testament",
+      "score": 0.37,
+      "r18": false
+    },
+    {
+      "id": 13720,
+      "title": "Kono Subarashii Sekai ni Shukufuku wo!",
       "score": 0.37,
       "r18": false
     },
@@ -131,14 +125,14 @@
       "r18": false
     },
     {
-      "id": 60,
-      "title": "Enchanter",
+      "id": 3351,
+      "title": "She's Gon",
       "score": 0.355,
       "r18": false
     },
     {
-      "id": 3351,
-      "title": "She's Gon",
+      "id": 60,
+      "title": "Enchanter",
       "score": 0.355,
       "r18": false
     },
@@ -152,6 +146,12 @@
       "id": 24320,
       "title": "Kusoge Online (Kari)",
       "score": 0.351,
+      "r18": false
+    },
+    {
+      "id": 2303,
+      "title": "Tick! Tack! - Never Say Goodbye",
+      "score": 0.35,
       "r18": false
     }
   ]

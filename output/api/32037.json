@@ -1,15 +1,9 @@
 {
   "id": 32037,
   "title": "Kitty Hawker",
-  "url": "https://mangadex.org/manga/32037",
-  "last_updated": "January 13, 2021 13:07:48 UTC",
+  "url": "https://api.mangadex.org/v2/manga/32037",
+  "last_updated": "February 10, 2021 08:29:23 UTC",
   "matches": [
-    {
-      "id": 58937,
-      "title": "$1,000,000,000,000 Game",
-      "score": 0.675,
-      "r18": false
-    },
     {
       "id": 281,
       "title": "Trigun Maximum",
@@ -29,21 +23,15 @@
       "r18": false
     },
     {
-      "id": 2110,
-      "title": "Souten no Ken",
-      "score": 0.66,
-      "r18": false
-    },
-    {
       "id": 2134,
       "title": "Last Exile - Fam, The Silver Wing",
-      "score": 0.659,
+      "score": 0.658,
       "r18": false
     },
     {
       "id": 7292,
       "title": "009 RE:CYBORG",
-      "score": 0.659,
+      "score": 0.658,
       "r18": false
     },
     {
@@ -55,13 +43,13 @@
     {
       "id": 38670,
       "title": "&forall; Gundam",
-      "score": 0.656,
+      "score": 0.655,
       "r18": false
     },
     {
       "id": 2500,
       "title": "ChunRangYulJun",
-      "score": 0.652,
+      "score": 0.651,
       "r18": false
     },
     {
@@ -85,13 +73,19 @@
     {
       "id": 36006,
       "title": "Placebo",
-      "score": 0.459,
+      "score": 0.458,
+      "r18": false
+    },
+    {
+      "id": 6124,
+      "title": "Gunsmith Cats Burst",
+      "score": 0.457,
       "r18": false
     },
     {
       "id": 5852,
       "title": "Genocyber",
-      "score": 0.447,
+      "score": 0.446,
       "r18": false
     },
     {
@@ -103,7 +97,7 @@
     {
       "id": 2451,
       "title": "E.D.D - Eliminate Dangerous Doctors",
-      "score": 0.441,
+      "score": 0.44,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 12655,
       "title": "Urthotics",
       "score": 0.388,
+      "r18": false
+    },
+    {
+      "id": 1468,
+      "title": "Rakuda Laughs",
+      "score": 0.386,
       "r18": false
     }
   ]

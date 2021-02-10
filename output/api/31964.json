@@ -1,8 +1,8 @@
 {
   "id": 31964,
   "title": "Shutoko SPL",
-  "url": "https://mangadex.org/manga/31964",
-  "last_updated": "January 13, 2021 13:07:00 UTC",
+  "url": "https://api.mangadex.org/v2/manga/31964",
+  "last_updated": "February 10, 2021 08:28:17 UTC",
   "matches": [
     {
       "id": 826,
@@ -137,6 +137,12 @@
       "r18": false
     },
     {
+      "id": 51303,
+      "title": "Mabataki yori Hayaku!!",
+      "score": 0.24,
+      "r18": false
+    },
+    {
       "id": 53860,
       "title": "Medalist",
       "score": 0.24,
@@ -145,12 +151,6 @@
     {
       "id": 54111,
       "title": "Double Bull",
-      "score": 0.24,
-      "r18": false
-    },
-    {
-      "id": 56746,
-      "title": "STRAIGHT",
       "score": 0.24,
       "r18": false
     }

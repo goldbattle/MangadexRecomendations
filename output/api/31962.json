@@ -1,8 +1,8 @@
 {
   "id": 31962,
   "title": "Maou Gakuin no Futekigousha",
-  "url": "https://mangadex.org/manga/31962",
-  "last_updated": "January 13, 2021 13:06:59 UTC",
+  "url": "https://api.mangadex.org/v2/manga/31962",
+  "last_updated": "February 10, 2021 08:28:15 UTC",
   "matches": [
     {
       "id": 12329,
@@ -31,7 +31,7 @@
     {
       "id": 54507,
       "title": "Ningen Dakedo Maougun Shitennnou ni Sodaterareta Ore wa, Maou no Musume ni Aisare Shihaizokusei no Kennnou wo Ataeraremashita",
-      "score": 0.777,
+      "score": 0.778,
       "r18": false
     },
     {
@@ -55,7 +55,13 @@
     {
       "id": 48759,
       "title": "Kimetsu no Yaiba: Rengoku Kyoujurou Gaiden",
-      "score": 0.775,
+      "score": 0.774,
+      "r18": false
+    },
+    {
+      "id": 43692,
+      "title": "Demonic Emperor",
+      "score": 0.773,
       "r18": false
     },
     {
@@ -71,14 +77,8 @@
       "r18": false
     },
     {
-      "id": 4774,
-      "title": "Dragon Quest: Dai no Daibouken",
-      "score": 0.769,
-      "r18": false
-    },
-    {
-      "id": 50672,
-      "title": "My Hero Academia - League Of Villains: Undercover (Fan Colored)",
+      "id": 47371,
+      "title": "A Breakthrough Brought by Forbidden Master and Disciple",
       "score": 0.767,
       "r18": false
     },
@@ -86,12 +86,6 @@
       "id": 848,
       "title": "Konjiki no Gash!!",
       "score": 0.766,
-      "r18": false
-    },
-    {
-      "id": 47371,
-      "title": "A Breakthrough Brought by Forbidden Master and Disciple",
-      "score": 0.765,
       "r18": false
     },
     {
@@ -125,12 +119,6 @@
       "r18": false
     },
     {
-      "id": 12714,
-      "title": "Boku no Hero Academia",
-      "score": 0.763,
-      "r18": false
-    },
-    {
       "id": 25435,
       "title": "Madara",
       "score": 0.763,
@@ -149,9 +137,21 @@
       "r18": false
     },
     {
-      "id": 283,
-      "title": "Ao no Exorcist",
-      "score": 0.763,
+      "id": 38543,
+      "title": "Fights Break Sphere &ndash; Return of the Beasts",
+      "score": 0.762,
+      "r18": false
+    },
+    {
+      "id": 8325,
+      "title": "Tales of Innocence",
+      "score": 0.762,
+      "r18": false
+    },
+    {
+      "id": 5683,
+      "title": "Mononoke Hime",
+      "score": 0.762,
       "r18": false
     }
   ]

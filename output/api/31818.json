@@ -1,8 +1,8 @@
 {
   "id": 31818,
   "title": "Arigatights!",
-  "url": "https://mangadex.org/manga/31818",
-  "last_updated": "January 13, 2021 13:05:21 UTC",
+  "url": "https://api.mangadex.org/v2/manga/31818",
+  "last_updated": "February 10, 2021 08:25:59 UTC",
   "matches": [
     {
       "id": 3507,
@@ -47,14 +47,14 @@
       "r18": false
     },
     {
-      "id": 8993,
-      "title": "Absolute Duo",
-      "score": 0.652,
+      "id": 11615,
+      "title": "Rakudai Kishi no Eiyuutan",
+      "score": 0.654,
       "r18": false
     },
     {
-      "id": 11615,
-      "title": "Rakudai Kishi no Eiyuutan",
+      "id": 8993,
+      "title": "Absolute Duo",
       "score": 0.652,
       "r18": false
     },
@@ -85,19 +85,13 @@
     {
       "id": 21204,
       "title": "Koi to Utatane",
-      "score": 0.455,
+      "score": 0.454,
       "r18": false
     },
     {
       "id": 26293,
       "title": "Uzaki-chan wa Asobitai!",
       "score": 0.453,
-      "r18": false
-    },
-    {
-      "id": 38498,
-      "title": "JK Shachiku wo Kau",
-      "score": 0.442,
       "r18": false
     },
     {
@@ -145,13 +139,19 @@
     {
       "id": 40507,
       "title": "Shuukan Brick",
-      "score": 0.415,
+      "score": 0.416,
       "r18": false
     },
     {
       "id": 34191,
       "title": "Shoujotachi wa Kouya wo Mezasu Yukidoke no Oto",
       "score": 0.415,
+      "r18": false
+    },
+    {
+      "id": 8916,
+      "title": "Imouto wa America-jin!?",
+      "score": 0.414,
       "r18": false
     }
   ]

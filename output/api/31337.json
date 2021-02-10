@@ -1,8 +1,8 @@
 {
   "id": 31337,
   "title": "Oogata Shinjin no Kyouiku Gakari",
-  "url": "https://mangadex.org/manga/31337",
-  "last_updated": "January 13, 2021 12:59:59 UTC",
+  "url": "https://api.mangadex.org/v2/manga/31337",
+  "last_updated": "February 10, 2021 08:18:36 UTC",
   "matches": [
     {
       "id": 15696,
@@ -31,13 +31,13 @@
     {
       "id": 29113,
       "title": "Yubisaki no Koi",
-      "score": 0.689,
+      "score": 0.688,
       "r18": false
     },
     {
       "id": 53198,
       "title": "Kimi ga Kono Te o Hanareru nara",
-      "score": 0.689,
+      "score": 0.688,
       "r18": false
     },
     {
@@ -53,14 +53,14 @@
       "r18": false
     },
     {
-      "id": 7386,
-      "title": "Pretty Babies",
+      "id": 45940,
+      "title": "Koi wa Keiyaku no Atode",
       "score": 0.687,
       "r18": false
     },
     {
-      "id": 45940,
-      "title": "Koi wa Keiyaku no Atode",
+      "id": 7386,
+      "title": "Pretty Babies",
       "score": 0.687,
       "r18": false
     },
@@ -97,7 +97,7 @@
     {
       "id": 55120,
       "title": "Usagi to Ookami no Shinshikyoutei",
-      "score": 0.683,
+      "score": 0.684,
       "r18": false
     },
     {
@@ -125,6 +125,12 @@
       "r18": false
     },
     {
+      "id": 16544,
+      "title": "ULTRAS",
+      "score": 0.681,
+      "r18": false
+    },
+    {
       "id": 18352,
       "title": "Parallel Lines",
       "score": 0.681,
@@ -137,21 +143,15 @@
       "r18": false
     },
     {
-      "id": 12764,
-      "title": "Denkou Sekka Boys",
-      "score": 0.68,
-      "r18": false
-    },
-    {
       "id": 9475,
       "title": "Tsuki ni Hoero",
       "score": 0.68,
       "r18": false
     },
     {
-      "id": 55759,
-      "title": "Soshite Koi ni Naru",
-      "score": 0.679,
+      "id": 12764,
+      "title": "Denkou Sekka Boys",
+      "score": 0.68,
       "r18": false
     }
   ]

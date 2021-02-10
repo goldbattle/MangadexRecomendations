@@ -1,8 +1,8 @@
 {
   "id": 31363,
   "title": "Hummingbird Effect",
-  "url": "https://mangadex.org/manga/31363",
-  "last_updated": "January 13, 2021 13:00:16 UTC",
+  "url": "https://api.mangadex.org/v2/manga/31363",
+  "last_updated": "February 10, 2021 08:18:59 UTC",
   "matches": [
     {
       "id": 4154,
@@ -59,6 +59,12 @@
       "r18": false
     },
     {
+      "id": 25897,
+      "title": "Strawberry Panic!",
+      "score": 0.67,
+      "r18": false
+    },
+    {
       "id": 117,
       "title": "Girl Friends",
       "score": 0.67,
@@ -74,6 +80,18 @@
       "id": 5762,
       "title": "Junsui Adolescence",
       "score": 0.665,
+      "r18": false
+    },
+    {
+      "id": 50658,
+      "title": "Moshi, Koi ga Mieta Nara",
+      "score": 0.664,
+      "r18": false
+    },
+    {
+      "id": 56148,
+      "title": "I'm the Villainess, but I'm Being Captured by the Heroine?! Anthology",
+      "score": 0.664,
       "r18": false
     },
     {
@@ -101,14 +119,14 @@
       "r18": false
     },
     {
-      "id": 6837,
-      "title": "Sorairo Girlfriend",
+      "id": 26042,
+      "title": "I Decided to Fake a Marriage with My Junior to Shut My Parents Up",
       "score": 0.656,
       "r18": false
     },
     {
-      "id": 26042,
-      "title": "I Decided to Fake a Marriage with My Junior to Shut My Parents Up",
+      "id": 6837,
+      "title": "Sorairo Girlfriend",
       "score": 0.656,
       "r18": false
     },
@@ -134,24 +152,6 @@
       "id": 30201,
       "title": "Kago no Shoujo wa Koi wo suru",
       "score": 0.65,
-      "r18": false
-    },
-    {
-      "id": 58830,
-      "title": "That Time I Was Blackmailed By the Class's Green Tea Bitch",
-      "score": 0.429,
-      "r18": false
-    },
-    {
-      "id": 19436,
-      "title": "Ouji-sama Nante Iranai",
-      "score": 0.396,
-      "r18": false
-    },
-    {
-      "id": 45544,
-      "title": "APPROXIMATE",
-      "score": 0.391,
       "r18": false
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": 31383,
   "title": "Yokai Hunter - A Voice from Yomi",
-  "url": "https://mangadex.org/manga/31383",
-  "last_updated": "January 13, 2021 13:00:28 UTC",
+  "url": "https://api.mangadex.org/v2/manga/31383",
+  "last_updated": "February 10, 2021 08:19:19 UTC",
   "matches": [
     {
       "id": 1714,
@@ -35,12 +35,6 @@
       "r18": false
     },
     {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.683,
-      "r18": false
-    },
-    {
       "id": 18016,
       "title": "Under Execution, Under Jailbreak",
       "score": 0.683,
@@ -55,7 +49,7 @@
     {
       "id": 29740,
       "title": "Parasyte Reversi",
-      "score": 0.681,
+      "score": 0.68,
       "r18": false
     },
     {
@@ -65,15 +59,9 @@
       "r18": false
     },
     {
-      "id": 9570,
-      "title": "Ajin",
-      "score": 0.679,
-      "r18": false
-    },
-    {
       "id": 16920,
       "title": "Shinano River",
-      "score": 0.679,
+      "score": 0.678,
       "r18": false
     },
     {
@@ -95,6 +83,12 @@
       "r18": false
     },
     {
+      "id": 25236,
+      "title": "Hannya Haramita",
+      "score": 0.674,
+      "r18": false
+    },
+    {
       "id": 5769,
       "title": "Secret Comics Japan: Underground Comics Now",
       "score": 0.674,
@@ -113,14 +107,8 @@
       "r18": false
     },
     {
-      "id": 41767,
-      "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Daiyonshou - Seiiki to Gouyoku no Majou",
-      "score": 0.672,
-      "r18": false
-    },
-    {
-      "id": 25236,
-      "title": "Hannya Haramita",
+      "id": 9829,
+      "title": "Immortal Hounds",
       "score": 0.671,
       "r18": false
     },
@@ -143,6 +131,12 @@
       "r18": false
     },
     {
+      "id": 27151,
+      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
+      "score": 0.67,
+      "r18": false
+    },
+    {
       "id": 24368,
       "title": "Shin Megami Tensei - Kahn",
       "score": 0.669,
@@ -151,6 +145,12 @@
     {
       "id": 1146,
       "title": "Inugami",
+      "score": 0.669,
+      "r18": false
+    },
+    {
+      "id": 7691,
+      "title": "Skull Man",
       "score": 0.669,
       "r18": false
     }

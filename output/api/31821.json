@@ -1,8 +1,8 @@
 {
   "id": 31821,
   "title": "Half-Life A Place in the West",
-  "url": "https://mangadex.org/manga/31821",
-  "last_updated": "January 13, 2021 13:05:23 UTC",
+  "url": "https://api.mangadex.org/v2/manga/31821",
+  "last_updated": "February 10, 2021 08:26:03 UTC",
   "matches": [
     {
       "id": 23798,
@@ -23,14 +23,14 @@
       "r18": false
     },
     {
-      "id": 30171,
-      "title": "Overgeared",
-      "score": 0.659,
+      "id": 22148,
+      "title": "Infinite Dendrogram",
+      "score": 0.654,
       "r18": false
     },
     {
-      "id": 22148,
-      "title": "Infinite Dendrogram",
+      "id": 30171,
+      "title": "Overgeared",
       "score": 0.654,
       "r18": false
     },
@@ -77,6 +77,12 @@
       "r18": false
     },
     {
+      "id": 17939,
+      "title": "Hyakumanjou Labyrinth",
+      "score": 0.263,
+      "r18": false
+    },
+    {
       "id": 1911,
       "title": "Infinity Game",
       "score": 0.261,
@@ -103,7 +109,7 @@
     {
       "id": 3105,
       "title": "EXEcutional",
-      "score": 0.225,
+      "score": 0.224,
       "r18": false
     },
     {
@@ -113,15 +119,15 @@
       "r18": false
     },
     {
-      "id": 55074,
-      "title": "Rockman Dr Wily's Revenge",
-      "score": 0.219,
-      "r18": false
-    },
-    {
       "id": 50951,
       "title": "Gundam Build Diver Rize",
       "score": 0.218,
+      "r18": false
+    },
+    {
+      "id": 55074,
+      "title": "Rockman -Dr Wily's Revenge-",
+      "score": 0.216,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 59186,
       "title": "World's Apocalypse Online",
       "score": 0.189,
-      "r18": false
-    },
-    {
-      "id": 54348,
-      "title": "Success Rate",
-      "score": 0.162,
       "r18": false
     }
   ]

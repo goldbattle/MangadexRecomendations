@@ -1,8 +1,8 @@
 {
   "id": 31495,
   "title": "Game",
-  "url": "https://mangadex.org/manga/31495",
-  "last_updated": "January 13, 2021 13:01:49 UTC",
+  "url": "https://api.mangadex.org/v2/manga/31495",
+  "last_updated": "February 10, 2021 08:21:01 UTC",
   "matches": [
     {
       "id": 30331,
@@ -29,15 +29,15 @@
       "r18": false
     },
     {
-      "id": 53161,
-      "title": "The Sound of Coral Blooming",
-      "score": 0.299,
+      "id": 31390,
+      "title": "Blood Link",
+      "score": 0.302,
       "r18": false
     },
     {
-      "id": 31390,
-      "title": "Blood Link",
-      "score": 0.292,
+      "id": 53161,
+      "title": "The Sound of Coral Blooming",
+      "score": 0.299,
       "r18": false
     },
     {
@@ -107,14 +107,8 @@
       "r18": false
     },
     {
-      "id": 58590,
-      "title": "The Sales Department's Cupid",
-      "score": 0.258,
-      "r18": false
-    },
-    {
       "id": 39308,
-      "title": "Chess And Rawin",
+      "title": "Chess and Rawin",
       "score": 0.256,
       "r18": false
     },
@@ -152,6 +146,12 @@
       "id": 32803,
       "title": "Scent",
       "score": 0.238,
+      "r18": false
+    },
+    {
+      "id": 40002,
+      "title": "Sit, Wait, Kiss Me",
+      "score": 0.232,
       "r18": false
     }
   ]

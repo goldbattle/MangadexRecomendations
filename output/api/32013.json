@@ -1,8 +1,8 @@
 {
   "id": 32013,
   "title": "Hen na Chishiki ni Kuwashii Kanojo Takayukashiki Souko-san (webcomic)",
-  "url": "https://mangadex.org/manga/32013",
-  "last_updated": "January 13, 2021 13:07:31 UTC",
+  "url": "https://api.mangadex.org/v2/manga/32013",
+  "last_updated": "February 10, 2021 08:29:00 UTC",
   "matches": [
     {
       "id": 45779,
@@ -61,7 +61,7 @@
     {
       "id": 56465,
       "title": "Hahazuka-san wo &times;&times; ni Shitai",
-      "score": 0.266,
+      "score": 0.265,
       "r18": false
     },
     {
@@ -90,8 +90,14 @@
     },
     {
       "id": 45361,
-      "title": "Immortal Swordsman In The Reverse World",
+      "title": "Immortal Swordsman in the Reverse World",
       "score": 0.201,
+      "r18": false
+    },
+    {
+      "id": 52339,
+      "title": "Busted! Darklord",
+      "score": 0.187,
       "r18": false
     }
   ]
