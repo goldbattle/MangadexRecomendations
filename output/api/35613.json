@@ -1,8 +1,8 @@
 {
   "id": 35613,
   "title": "Sitting Down",
-  "url": "https://mangadex.org/manga/35613",
-  "last_updated": "January 14, 2021 00:46:55 UTC",
+  "url": "https://api.mangadex.org/v2/manga/35613",
+  "last_updated": "February 10, 2021 20:24:23 UTC",
   "matches": [
     {
       "id": 587,
@@ -137,12 +137,6 @@
       "r18": false
     },
     {
-      "id": 44119,
-      "title": "Bouryoku Tantei",
-      "score": 0.272,
-      "r18": false
-    },
-    {
       "id": 45366,
       "title": "Zettai Osananajimi Sengen",
       "score": 0.272,
@@ -152,6 +146,12 @@
       "id": 56748,
       "title": "Tokurei Compliance",
       "score": 0.272,
+      "r18": false
+    },
+    {
+      "id": 23159,
+      "title": "Tokurei Sochi Dantai Stella Jogakuin Chuutouka C&sup3; Bu VS Anime Tenchou",
+      "score": 0.243,
       "r18": false
     }
   ]

@@ -1,26 +1,26 @@
 {
   "id": 36562,
   "title": "Shall We Game?",
-  "url": "https://mangadex.org/manga/36562",
-  "last_updated": "January 14, 2021 06:49:43 UTC",
+  "url": "https://api.mangadex.org/v2/manga/36562",
+  "last_updated": "February 10, 2021 20:39:23 UTC",
   "matches": [
     {
       "id": 36490,
       "title": "Harem Tune",
       "score": 0.24,
-      "r18": false
+      "r18": true
     },
     {
       "id": 27424,
       "title": "Mister Enkou",
       "score": 0.18,
-      "r18": false
+      "r18": true
     },
     {
       "id": 56222,
       "title": "Tsundere Kanojo ga Sunao ni Naru Made Ecchi",
       "score": 0.18,
-      "r18": false
+      "r18": true
     }
   ]
 }

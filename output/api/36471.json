@@ -1,15 +1,9 @@
 {
   "id": 36471,
   "title": "Tenro no Avalon",
-  "url": "https://mangadex.org/manga/36471",
-  "last_updated": "January 14, 2021 06:48:49 UTC",
+  "url": "https://api.mangadex.org/v2/manga/36471",
+  "last_updated": "February 10, 2021 20:37:58 UTC",
   "matches": [
-    {
-      "id": 114,
-      "title": "Hellsing",
-      "score": 0.694,
-      "r18": false
-    },
     {
       "id": 1111,
       "title": "Stardust Memories",
@@ -43,7 +37,7 @@
     {
       "id": 13414,
       "title": "No Guns Life",
-      "score": 0.663,
+      "score": 0.661,
       "r18": false
     },
     {
@@ -55,12 +49,6 @@
     {
       "id": 40770,
       "title": "Shinigami ni Sodaterareta Shoujo wa Shikkoku no Tsurugi wo Mune ni Idaku",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 35838,
-      "title": "Mukurozumi no Borute",
       "score": 0.66,
       "r18": false
     },
@@ -79,6 +67,12 @@
     {
       "id": 10854,
       "title": "All You Need Is Kill",
+      "score": 0.658,
+      "r18": false
+    },
+    {
+      "id": 35838,
+      "title": "Slayer Volte",
       "score": 0.658,
       "r18": false
     },
@@ -125,6 +119,12 @@
       "r18": false
     },
     {
+      "id": 34888,
+      "title": "Messiah's Hammer",
+      "score": 0.27,
+      "r18": false
+    },
+    {
       "id": 7042,
       "title": "Ultraman",
       "score": 0.252,
@@ -151,7 +151,7 @@
     {
       "id": 6248,
       "title": "Koukoku no Shugosha",
-      "score": 0.237,
+      "score": 0.238,
       "r18": false
     }
   ]

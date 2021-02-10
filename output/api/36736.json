@@ -1,26 +1,26 @@
 {
   "id": 36736,
   "title": "Bing! Kang! Virgin",
-  "url": "https://mangadex.org/manga/36736",
-  "last_updated": "January 14, 2021 06:51:27 UTC",
+  "url": "https://api.mangadex.org/v2/manga/36736",
+  "last_updated": "February 10, 2021 20:42:08 UTC",
   "matches": [
     {
       "id": 45994,
       "title": "Chitose",
       "score": 0.227,
-      "r18": false
+      "r18": true
     },
     {
       "id": 18205,
       "title": "One-Room Hero",
       "score": 0.113,
-      "r18": false
+      "r18": true
     },
     {
       "id": 58497,
       "title": "ILJINNYEO TUTORING",
       "score": 0.113,
-      "r18": false
+      "r18": true
     }
   ]
 }

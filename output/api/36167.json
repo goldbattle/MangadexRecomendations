@@ -1,8 +1,8 @@
 {
   "id": 36167,
   "title": "Kowamote Kawamote",
-  "url": "https://mangadex.org/manga/36167",
-  "last_updated": "January 14, 2021 00:52:20 UTC",
+  "url": "https://api.mangadex.org/v2/manga/36167",
+  "last_updated": "February 10, 2021 20:33:08 UTC",
   "matches": [
     {
       "id": 5734,
@@ -26,6 +26,12 @@
       "id": 14122,
       "title": "Stop!! Hibari-kun!",
       "score": 0.702,
+      "r18": false
+    },
+    {
+      "id": 59849,
+      "title": "Unreachable Girl",
+      "score": 0.701,
       "r18": false
     },
     {
@@ -89,6 +95,12 @@
       "r18": false
     },
     {
+      "id": 55338,
+      "title": "Chijou no Seppun",
+      "score": 0.689,
+      "r18": false
+    },
+    {
       "id": 5429,
       "title": "Game Over",
       "score": 0.689,
@@ -119,14 +131,14 @@
       "r18": false
     },
     {
-      "id": 42055,
-      "title": "Uchuu Toka to Kurabetara Chippoke na Mondai desu ga",
+      "id": 3717,
+      "title": "Hana Michi Otome",
       "score": 0.687,
       "r18": false
     },
     {
-      "id": 3717,
-      "title": "Hana Michi Otome",
+      "id": 42055,
+      "title": "Uchuu Toka to Kurabetara Chippoke na Mondai desu ga",
       "score": 0.687,
       "r18": false
     },
@@ -140,18 +152,6 @@
       "id": 810,
       "title": "Rewrite: SIDE-B",
       "score": 0.686,
-      "r18": false
-    },
-    {
-      "id": 875,
-      "title": "Bokura wa Minna Kawai-sou",
-      "score": 0.686,
-      "r18": false
-    },
-    {
-      "id": 3607,
-      "title": "All Around Type-Moon",
-      "score": 0.685,
       "r18": false
     }
   ]

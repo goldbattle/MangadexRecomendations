@@ -1,8 +1,8 @@
 {
   "id": 36122,
   "title": "Chi no Soko no Mahoutsukai",
-  "url": "https://mangadex.org/manga/36122",
-  "last_updated": "January 14, 2021 00:51:48 UTC",
+  "url": "https://api.mangadex.org/v2/manga/36122",
+  "last_updated": "February 10, 2021 20:32:26 UTC",
   "matches": [
     {
       "id": 21061,
@@ -13,7 +13,7 @@
     {
       "id": 25435,
       "title": "Madara",
-      "score": 0.732,
+      "score": 0.731,
       "r18": false
     },
     {
@@ -35,18 +35,6 @@
       "r18": false
     },
     {
-      "id": 54801,
-      "title": "One Piece Episode A",
-      "score": 0.722,
-      "r18": false
-    },
-    {
-      "id": 47371,
-      "title": "A Breakthrough Brought by Forbidden Master and Disciple",
-      "score": 0.722,
-      "r18": false
-    },
-    {
       "id": 5274,
       "title": "Nijiiro Togarashi",
       "score": 0.721,
@@ -55,7 +43,13 @@
     {
       "id": 20288,
       "title": "World Teacher &ndash; Other World Style Education &amp; Agent",
-      "score": 0.721,
+      "score": 0.72,
+      "r18": false
+    },
+    {
+      "id": 1890,
+      "title": "Gekka Bijin",
+      "score": 0.72,
       "r18": false
     },
     {
@@ -83,21 +77,15 @@
       "r18": false
     },
     {
+      "id": 47371,
+      "title": "A Breakthrough Brought by Forbidden Master and Disciple",
+      "score": 0.717,
+      "r18": false
+    },
+    {
       "id": 41744,
       "title": "Shi ni Modori, Subete wo Sukuu Tame ni Saikyou he to Itaru",
       "score": 0.716,
-      "r18": false
-    },
-    {
-      "id": 39,
-      "title": "One Piece",
-      "score": 0.716,
-      "r18": false
-    },
-    {
-      "id": 10004,
-      "title": "One Piece - Digital Colored Comics",
-      "score": 0.715,
       "r18": false
     },
     {
@@ -151,7 +139,19 @@
     {
       "id": 5721,
       "title": "Isekai no Seikishi Monogatari",
-      "score": 0.709,
+      "score": 0.708,
+      "r18": false
+    },
+    {
+      "id": 15112,
+      "title": "Bravely Default - Flying Fairy",
+      "score": 0.708,
+      "r18": false
+    },
+    {
+      "id": 24123,
+      "title": "Shinka no Mi",
+      "score": 0.708,
       "r18": false
     }
   ]

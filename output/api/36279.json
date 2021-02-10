@@ -1,19 +1,13 @@
 {
   "id": 36279,
   "title": "Peleliu: Guernica of Paradise",
-  "url": "https://mangadex.org/manga/36279",
-  "last_updated": "January 14, 2021 00:53:25 UTC",
+  "url": "https://api.mangadex.org/v2/manga/36279",
+  "last_updated": "February 10, 2021 20:35:05 UTC",
   "matches": [
     {
       "id": 345,
       "title": "5 Centimeters Per Second",
       "score": 0.708,
-      "r18": false
-    },
-    {
-      "id": 50085,
-      "title": "Legend of the Galactic Heroes",
-      "score": 0.7,
       "r18": false
     },
     {
@@ -29,12 +23,6 @@
       "r18": false
     },
     {
-      "id": 50714,
-      "title": "Legend of the Galactic Heroes - Golden Wings",
-      "score": 0.687,
-      "r18": false
-    },
-    {
       "id": 7691,
       "title": "Skull Man",
       "score": 0.687,
@@ -47,14 +35,14 @@
       "r18": false
     },
     {
-      "id": 6272,
-      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
-      "score": 0.685,
+      "id": 16825,
+      "title": "Ginga Eiyuu Densetsu",
+      "score": 0.683,
       "r18": false
     },
     {
-      "id": 16825,
-      "title": "Ginga Eiyuu Densetsu",
+      "id": 50085,
+      "title": "Legend of the Galactic Heroes",
       "score": 0.683,
       "r18": false
     },
@@ -68,6 +56,12 @@
       "id": 3409,
       "title": "Otoyomegatari",
       "score": 0.682,
+      "r18": false
+    },
+    {
+      "id": 6272,
+      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
+      "score": 0.681,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 5260,
       "title": "Saishuu Heiki Kanojo",
       "score": 0.672,
+      "r18": false
+    },
+    {
+      "id": 6226,
+      "title": "Ookami Kodomo no Ame to Yuki",
+      "score": 0.67,
       "r18": false
     }
   ]

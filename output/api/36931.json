@@ -1,8 +1,8 @@
 {
   "id": 36931,
   "title": "Kao ni Denai Ko",
-  "url": "https://mangadex.org/manga/36931",
-  "last_updated": "January 14, 2021 06:53:25 UTC",
+  "url": "https://api.mangadex.org/v2/manga/36931",
+  "last_updated": "February 10, 2021 20:45:14 UTC",
   "matches": [
     {
       "id": 4347,
@@ -25,7 +25,7 @@
     {
       "id": 1390,
       "title": "Katteni Kaizo",
-      "score": 0.657,
+      "score": 0.658,
       "r18": false
     },
     {
@@ -43,12 +43,6 @@
     {
       "id": 56612,
       "title": "Hana to Kuchizuke",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 7938,
-      "title": "Denkigai no Honya-san",
       "score": 0.652,
       "r18": false
     },
@@ -101,12 +95,6 @@
       "r18": false
     },
     {
-      "id": 49819,
-      "title": "Sono otaku, moto koroshi-ya.",
-      "score": 0.43,
-      "r18": false
-    },
-    {
       "id": 26277,
       "title": "Selector infected WIXOSS ~Mayu's Room~",
       "score": 0.426,
@@ -121,19 +109,13 @@
     {
       "id": 23575,
       "title": "Futoukou no Nichijou",
-      "score": 0.423,
+      "score": 0.422,
       "r18": false
     },
     {
       "id": 15077,
       "title": "Kemo's 24 Hours",
       "score": 0.419,
-      "r18": false
-    },
-    {
-      "id": 50377,
-      "title": "Gay Fuuzoku no Mochigi-san - Sexuality Is Life -",
-      "score": 0.408,
       "r18": false
     },
     {
@@ -152,6 +134,24 @@
       "id": 20314,
       "title": "THE iDOLM@STER Cinderella Girls - U149",
       "score": 0.392,
+      "r18": false
+    },
+    {
+      "id": 26595,
+      "title": "Kantai Collection -KanColle- Suiheisen no, Fumizuki",
+      "score": 0.37,
+      "r18": false
+    },
+    {
+      "id": 17828,
+      "title": "Sentou Hawaii",
+      "score": 0.369,
+      "r18": false
+    },
+    {
+      "id": 938,
+      "title": "Yuru Yuru",
+      "score": 0.365,
       "r18": false
     }
   ]

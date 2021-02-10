@@ -1,8 +1,8 @@
 {
   "id": 36266,
   "title": "Reki Yomi",
-  "url": "https://mangadex.org/manga/36266",
-  "last_updated": "January 14, 2021 00:53:17 UTC",
+  "url": "https://api.mangadex.org/v2/manga/36266",
+  "last_updated": "February 10, 2021 20:34:52 UTC",
   "matches": [
     {
       "id": 7436,
@@ -17,14 +17,14 @@
       "r18": false
     },
     {
-      "id": 9422,
-      "title": "Fate/stay night - Did she become smaller!? (Doujinshi)",
+      "id": 20764,
+      "title": "Maou no Hisho",
       "score": 0.389,
       "r18": false
     },
     {
-      "id": 20764,
-      "title": "Maou no Hisho",
+      "id": 9422,
+      "title": "Fate/stay night - Did she become smaller!? (Doujinshi)",
       "score": 0.389,
       "r18": false
     },
@@ -55,7 +55,7 @@
     {
       "id": 33632,
       "title": "ENDRO!",
-      "score": 0.368,
+      "score": 0.369,
       "r18": false
     },
     {
@@ -67,7 +67,7 @@
     {
       "id": 21333,
       "title": "Ayakashiko",
-      "score": 0.361,
+      "score": 0.362,
       "r18": false
     },
     {
@@ -131,9 +131,15 @@
       "r18": false
     },
     {
+      "id": 51280,
+      "title": "Dancin' Respawn",
+      "score": 0.335,
+      "r18": false
+    },
+    {
       "id": 41439,
       "title": "Dekoboko Majo no Oyako Jijou",
-      "score": 0.321,
+      "score": 0.32,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 9472,
       "title": "Maousama Chotto Sore Totte!!",
       "score": 0.316,
-      "r18": false
-    },
-    {
-      "id": 6841,
-      "title": "Nekogami Yaoyorozu",
-      "score": 0.314,
       "r18": false
     }
   ]

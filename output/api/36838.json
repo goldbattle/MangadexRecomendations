@@ -1,8 +1,8 @@
 {
   "id": 36838,
   "title": "Boxer's Blast",
-  "url": "https://mangadex.org/manga/36838",
-  "last_updated": "January 14, 2021 06:52:30 UTC",
+  "url": "https://api.mangadex.org/v2/manga/36838",
+  "last_updated": "February 10, 2021 20:43:46 UTC",
   "matches": [
     {
       "id": 4548,
@@ -13,7 +13,7 @@
     {
       "id": 2056,
       "title": "Ganbare Genki",
-      "score": 0.663,
+      "score": 0.664,
       "r18": false
     },
     {
@@ -59,21 +59,21 @@
       "r18": false
     },
     {
+      "id": 883,
+      "title": "Eyeshield 21",
+      "score": 0.332,
+      "r18": false
+    },
+    {
       "id": 13110,
       "title": "Hinomaru Zumou",
-      "score": 0.323,
+      "score": 0.322,
       "r18": false
     },
     {
       "id": 13953,
       "title": "B't X",
       "score": 0.322,
-      "r18": false
-    },
-    {
-      "id": 45630,
-      "title": "The Boxer",
-      "score": 0.297,
       "r18": false
     },
     {
@@ -107,12 +107,6 @@
       "r18": false
     },
     {
-      "id": 2059,
-      "title": "Bowling King",
-      "score": 0.259,
-      "r18": false
-    },
-    {
       "id": 50215,
       "title": "Kuroko No Basket - Digital Colored Comics",
       "score": 0.259,
@@ -122,6 +116,12 @@
       "id": 18543,
       "title": "Tenohira no Netsu wo",
       "score": 0.256,
+      "r18": false
+    },
+    {
+      "id": 45783,
+      "title": "Kami-sama wa Racket o Furanai",
+      "score": 0.254,
       "r18": false
     },
     {
@@ -137,12 +137,6 @@
       "r18": false
     },
     {
-      "id": 45783,
-      "title": "Kami-sama wa Racket o Furanai",
-      "score": 0.25,
-      "r18": false
-    },
-    {
       "id": 16241,
       "title": "Ashita Aozora",
       "score": 0.248,
@@ -151,6 +145,12 @@
     {
       "id": 45269,
       "title": "Ping Kong",
+      "score": 0.233,
+      "r18": false
+    },
+    {
+      "id": 51964,
+      "title": "Skyaway's",
       "score": 0.233,
       "r18": false
     }

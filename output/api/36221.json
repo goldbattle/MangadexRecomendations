@@ -1,18 +1,18 @@
 {
   "id": 36221,
   "title": "Gun Blaze West",
-  "url": "https://mangadex.org/manga/36221",
-  "last_updated": "January 14, 2021 00:52:51 UTC",
+  "url": "https://api.mangadex.org/v2/manga/36221",
+  "last_updated": "February 10, 2021 20:34:09 UTC",
   "matches": [
     {
-      "id": 8325,
-      "title": "Tales of Innocence",
+      "id": 23231,
+      "title": "Wu Dong Qian Kun",
       "score": 0.722,
       "r18": false
     },
     {
-      "id": 23231,
-      "title": "Wu Dong Qian Kun",
+      "id": 8325,
+      "title": "Tales of Innocence",
       "score": 0.722,
       "r18": false
     },
@@ -65,18 +65,6 @@
       "r18": false
     },
     {
-      "id": 39,
-      "title": "One Piece",
-      "score": 0.71,
-      "r18": false
-    },
-    {
-      "id": 54801,
-      "title": "One Piece Episode A",
-      "score": 0.71,
-      "r18": false
-    },
-    {
       "id": 28525,
       "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo",
       "score": 0.71,
@@ -97,12 +85,6 @@
     {
       "id": 7710,
       "title": "Kidou Senshi Crossbone Gundam",
-      "score": 0.708,
-      "r18": false
-    },
-    {
-      "id": 10004,
-      "title": "One Piece - Digital Colored Comics",
       "score": 0.708,
       "r18": false
     },
@@ -133,7 +115,7 @@
     {
       "id": 21914,
       "title": "Almadianos Eiyuuden",
-      "score": 0.707,
+      "score": 0.706,
       "r18": false
     },
     {
@@ -152,6 +134,24 @@
       "id": 25435,
       "title": "Madara",
       "score": 0.705,
+      "r18": false
+    },
+    {
+      "id": 12630,
+      "title": "Tales of Symphonia - Ratatosk no Kishi - Onshuu no Richter",
+      "score": 0.704,
+      "r18": false
+    },
+    {
+      "id": 53969,
+      "title": "Dragon Raja",
+      "score": 0.703,
+      "r18": false
+    },
+    {
+      "id": 53977,
+      "title": "Dragon Raja 2",
+      "score": 0.703,
       "r18": false
     }
   ]

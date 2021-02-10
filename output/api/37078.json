@@ -1,8 +1,8 @@
 {
   "id": 37078,
   "title": "Crouching Tiger, Hidden Dragon",
-  "url": "https://mangadex.org/manga/37078",
-  "last_updated": "January 14, 2021 06:54:53 UTC",
+  "url": "https://api.mangadex.org/v2/manga/37078",
+  "last_updated": "February 10, 2021 20:47:34 UTC",
   "matches": [
     {
       "id": 19069,
@@ -53,6 +53,12 @@
       "r18": false
     },
     {
+      "id": 59190,
+      "title": "Soaring Heavenly Dragon",
+      "score": 0.284,
+      "r18": false
+    },
+    {
       "id": 44638,
       "title": "Dragon Pulse",
       "score": 0.28,
@@ -68,6 +74,12 @@
       "id": 42718,
       "title": "The Descent of the Demonic Master",
       "score": 0.272,
+      "r18": false
+    },
+    {
+      "id": 50679,
+      "title": "Divine Spirit Martial Emperor",
+      "score": 0.27,
       "r18": false
     },
     {
@@ -89,14 +101,14 @@
       "r18": false
     },
     {
-      "id": 30816,
-      "title": "Qin Si",
+      "id": 21410,
+      "title": "Yong Heng Zhi Zun",
       "score": 0.264,
       "r18": false
     },
     {
-      "id": 21410,
-      "title": "Yong Heng Zhi Zun",
+      "id": 30816,
+      "title": "Qin Si",
       "score": 0.264,
       "r18": false
     },
@@ -119,9 +131,9 @@
       "r18": false
     },
     {
-      "id": 34866,
-      "title": "The Deer and the Cauldron (Phoenix Entertainment)",
-      "score": 0.256,
+      "id": 51140,
+      "title": "The Undefeatable Swordsman",
+      "score": 0.255,
       "r18": false
     },
     {
@@ -140,18 +152,6 @@
       "id": 16069,
       "title": "Tales of Demons and Gods",
       "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 59190,
-      "title": "Soaring Heavenly Dragon",
-      "score": 0.248,
-      "r18": false
-    },
-    {
-      "id": 34625,
-      "title": "Rebirth of the Urban Immortal Cultivator",
-      "score": 0.245,
       "r18": false
     }
   ]

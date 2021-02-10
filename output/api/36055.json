@@ -1,8 +1,8 @@
 {
   "id": 36055,
   "title": "The Drifting Classroom",
-  "url": "https://mangadex.org/manga/36055",
-  "last_updated": "January 14, 2021 00:51:10 UTC",
+  "url": "https://api.mangadex.org/v2/manga/36055",
+  "last_updated": "February 10, 2021 20:31:22 UTC",
   "matches": [
     {
       "id": 40550,
@@ -55,7 +55,7 @@
     {
       "id": 45046,
       "title": "Ghost Emperor",
-      "score": 0.662,
+      "score": 0.663,
       "r18": false
     },
     {
@@ -113,9 +113,15 @@
       "r18": false
     },
     {
+      "id": 59861,
+      "title": "Memoirs of Kanglim",
+      "score": 0.3,
+      "r18": false
+    },
+    {
       "id": 59248,
       "title": "Dragon's Savior",
-      "score": 0.292,
+      "score": 0.294,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 36396,
       "title": "Uriah",
       "score": 0.268,
-      "r18": false
-    },
-    {
-      "id": 30777,
-      "title": "Timing",
-      "score": 0.259,
       "r18": false
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": 35614,
   "title": "Small World",
-  "url": "https://mangadex.org/manga/35614",
-  "last_updated": "January 14, 2021 00:46:56 UTC",
+  "url": "https://api.mangadex.org/v2/manga/35614",
+  "last_updated": "February 10, 2021 20:24:23 UTC",
   "matches": [
     {
       "id": 19502,
@@ -59,12 +59,6 @@
       "r18": false
     },
     {
-      "id": 50736,
-      "title": "Willow Romance",
-      "score": 0.237,
-      "r18": false
-    },
-    {
       "id": 26571,
       "title": "Lock You up",
       "score": 0.203,
@@ -97,6 +91,12 @@
     {
       "id": 40323,
       "title": "More Than Just &quot;Like&quot;",
+      "score": 0.203,
+      "r18": false
+    },
+    {
+      "id": 44859,
+      "title": "I Can't Say No to Him",
       "score": 0.203,
       "r18": false
     },

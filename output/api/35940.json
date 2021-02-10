@@ -1,13 +1,13 @@
 {
   "id": 35940,
   "title": "It's Time for &quot;Interrogation,&quot; Princess!",
-  "url": "https://mangadex.org/manga/35940",
-  "last_updated": "January 14, 2021 00:50:05 UTC",
+  "url": "https://api.mangadex.org/v2/manga/35940",
+  "last_updated": "February 10, 2021 20:29:33 UTC",
   "matches": [
     {
       "id": 23197,
       "title": "Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita",
-      "score": 0.765,
+      "score": 0.764,
       "r18": false
     },
     {
@@ -26,12 +26,6 @@
       "id": 1720,
       "title": "Under Prin",
       "score": 0.668,
-      "r18": false
-    },
-    {
-      "id": 25495,
-      "title": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba ii?",
-      "score": 0.664,
       "r18": false
     },
     {
@@ -59,15 +53,9 @@
       "r18": false
     },
     {
-      "id": 22194,
-      "title": "Beast Complex",
-      "score": 0.659,
-      "r18": false
-    },
-    {
       "id": 19193,
       "title": "Maou-jou de Oyasumi",
-      "score": 0.656,
+      "score": 0.657,
       "r18": false
     },
     {
@@ -79,13 +67,7 @@
     {
       "id": 21063,
       "title": "Mairimashita! Iruma-kun",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 47371,
-      "title": "A Breakthrough Brought by Forbidden Master and Disciple",
-      "score": 0.655,
+      "score": 0.656,
       "r18": false
     },
     {
@@ -97,13 +79,19 @@
     {
       "id": 20231,
       "title": "Majo no Geboku to Maou no Tsuno",
+      "score": 0.654,
+      "r18": false
+    },
+    {
+      "id": 47371,
+      "title": "A Breakthrough Brought by Forbidden Master and Disciple",
       "score": 0.653,
       "r18": false
     },
     {
       "id": 810,
       "title": "Rewrite: SIDE-B",
-      "score": 0.652,
+      "score": 0.653,
       "r18": false
     },
     {
@@ -115,19 +103,13 @@
     {
       "id": 56367,
       "title": "Konyakuhaki Sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu",
-      "score": 0.651,
+      "score": 0.652,
       "r18": false
     },
     {
       "id": 21851,
       "title": "Garden Sphere",
       "score": 0.418,
-      "r18": false
-    },
-    {
-      "id": 43546,
-      "title": "Tapris Sugar Step",
-      "score": 0.415,
       "r18": false
     },
     {
@@ -143,6 +125,12 @@
       "r18": false
     },
     {
+      "id": 43546,
+      "title": "Tapris Sugar Step",
+      "score": 0.397,
+      "r18": false
+    },
+    {
       "id": 21513,
       "title": "Sodatechi Maou!",
       "score": 0.395,
@@ -152,6 +140,18 @@
       "id": 15732,
       "title": "Sayu x Lily",
       "score": 0.392,
+      "r18": false
+    },
+    {
+      "id": 19423,
+      "title": "Gendai Majo no Shuushoku Jijou",
+      "score": 0.389,
+      "r18": false
+    },
+    {
+      "id": 1838,
+      "title": "Tetsunagi Kooni",
+      "score": 0.386,
       "r18": false
     }
   ]

@@ -1,13 +1,19 @@
 {
   "id": 37059,
   "title": "Poker Face Cross-dresser",
-  "url": "https://mangadex.org/manga/37059",
-  "last_updated": "January 14, 2021 06:54:41 UTC",
+  "url": "https://api.mangadex.org/v2/manga/37059",
+  "last_updated": "February 10, 2021 20:47:15 UTC",
   "matches": [
+    {
+      "id": 7836,
+      "title": "Miki no Houkago",
+      "score": 0.678,
+      "r18": false
+    },
     {
       "id": 17736,
       "title": "Houkago Edge",
-      "score": 0.505,
+      "score": 0.65,
       "r18": false
     },
     {
@@ -26,12 +32,6 @@
       "id": 16397,
       "title": "Himegoto Comic Anthology",
       "score": 0.43,
-      "r18": false
-    },
-    {
-      "id": 7836,
-      "title": "Miki no Houkago",
-      "score": 0.424,
       "r18": false
     },
     {
@@ -61,7 +61,7 @@
     {
       "id": 10169,
       "title": "Goshujinsama ni Ki wo Tsukete",
-      "score": 0.351,
+      "score": 0.352,
       "r18": false
     },
     {
@@ -115,7 +115,7 @@
     {
       "id": 52101,
       "title": "Plug in",
-      "score": 0.234,
+      "score": 0.255,
       "r18": false
     }
   ]

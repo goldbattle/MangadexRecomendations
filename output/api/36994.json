@@ -1,8 +1,8 @@
 {
   "id": 36994,
   "title": "Fate Makes No Mistakes",
-  "url": "https://mangadex.org/manga/36994",
-  "last_updated": "January 14, 2021 06:54:02 UTC",
+  "url": "https://api.mangadex.org/v2/manga/36994",
+  "last_updated": "February 10, 2021 20:46:15 UTC",
   "matches": [
     {
       "id": 53590,
@@ -35,9 +35,39 @@
       "r18": false
     },
     {
+      "id": 59268,
+      "title": "Santa Will Always Grant Your Wishes",
+      "score": 0.719,
+      "r18": false
+    },
+    {
+      "id": 1464,
+      "title": "Sangen Tonari no Tooi Hito",
+      "score": 0.716,
+      "r18": false
+    },
+    {
+      "id": 59175,
+      "title": "Love Script",
+      "score": 0.708,
+      "r18": false
+    },
+    {
+      "id": 50736,
+      "title": "Willow Romance",
+      "score": 0.705,
+      "r18": false
+    },
+    {
       "id": 31208,
       "title": "Hot and Cold",
       "score": 0.703,
+      "r18": false
+    },
+    {
+      "id": 27119,
+      "title": "Nightmare Building",
+      "score": 0.7,
       "r18": false
     },
     {
@@ -66,8 +96,8 @@
     },
     {
       "id": 51164,
-      "title": "Anti P.T",
-      "score": 0.69,
+      "title": "ANTI P.T.",
+      "score": 0.692,
       "r18": false
     },
     {
@@ -95,12 +125,6 @@
       "r18": false
     },
     {
-      "id": 51538,
-      "title": "Dream-like Lie",
-      "score": 0.685,
-      "r18": false
-    },
-    {
       "id": 41682,
       "title": "Keeper of the Pearl",
       "score": 0.685,
@@ -120,38 +144,14 @@
     },
     {
       "id": 58528,
-      "title": "Help me, Uncle!",
+      "title": "Help Me, Uncle!",
       "score": 0.682,
       "r18": false
     },
     {
-      "id": 59175,
-      "title": "Love Script",
+      "id": 59423,
+      "title": "Eunsoo's Good Day",
       "score": 0.681,
-      "r18": false
-    },
-    {
-      "id": 35907,
-      "title": "Restless",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 33002,
-      "title": "Romantic Box",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 45006,
-      "title": "Gorani Jeon",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 22233,
-      "title": "Make Me Bark",
-      "score": 0.676,
       "r18": false
     }
   ]

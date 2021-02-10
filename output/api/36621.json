@@ -1,8 +1,8 @@
 {
   "id": 36621,
   "title": "Super X-Ray Eyes",
-  "url": "https://mangadex.org/manga/36621",
-  "last_updated": "January 14, 2021 06:50:17 UTC",
+  "url": "https://api.mangadex.org/v2/manga/36621",
+  "last_updated": "February 10, 2021 20:40:19 UTC",
   "matches": [
     {
       "id": 5573,
@@ -41,12 +41,6 @@
       "r18": false
     },
     {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.673,
-      "r18": false
-    },
-    {
       "id": 4880,
       "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
       "score": 0.672,
@@ -65,6 +59,12 @@
       "r18": false
     },
     {
+      "id": 4135,
+      "title": "Mushishi",
+      "score": 0.668,
+      "r18": false
+    },
+    {
       "id": 25435,
       "title": "Madara",
       "score": 0.668,
@@ -77,15 +77,9 @@
       "r18": false
     },
     {
-      "id": 4135,
-      "title": "Mushishi",
-      "score": 0.666,
-      "r18": false
-    },
-    {
       "id": 53969,
       "title": "Dragon Raja",
-      "score": 0.663,
+      "score": 0.664,
       "r18": false
     },
     {
@@ -98,12 +92,6 @@
       "id": 53913,
       "title": "My Noble Family Is Headed for Ruin, so I May as Well Study Magic in My Free Time",
       "score": 0.662,
-      "r18": false
-    },
-    {
-      "id": 39,
-      "title": "One Piece",
-      "score": 0.661,
       "r18": false
     },
     {
@@ -131,18 +119,6 @@
       "r18": false
     },
     {
-      "id": 10004,
-      "title": "One Piece - Digital Colored Comics",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 3996,
-      "title": "Akatsuki no Yona",
-      "score": 0.658,
-      "r18": false
-    },
-    {
       "id": 6270,
       "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo (Official Colored)",
       "score": 0.658,
@@ -151,7 +127,31 @@
     {
       "id": 28525,
       "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo",
+      "score": 0.658,
+      "r18": false
+    },
+    {
+      "id": 17398,
+      "title": "Daidai Boshi",
       "score": 0.657,
+      "r18": false
+    },
+    {
+      "id": 1918,
+      "title": "Saiyuki RELOAD BLAST",
+      "score": 0.657,
+      "r18": false
+    },
+    {
+      "id": 8495,
+      "title": "Persona 3",
+      "score": 0.656,
+      "r18": false
+    },
+    {
+      "id": 28617,
+      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run",
+      "score": 0.656,
       "r18": false
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": 36867,
   "title": "Sunny Side Skies",
-  "url": "https://mangadex.org/manga/36867",
-  "last_updated": "January 14, 2021 06:52:48 UTC",
+  "url": "https://api.mangadex.org/v2/manga/36867",
+  "last_updated": "February 10, 2021 20:44:14 UTC",
   "matches": [
     {
       "id": 32081,
@@ -73,7 +73,7 @@
     {
       "id": 24106,
       "title": "Raika Days",
-      "score": 0.438,
+      "score": 0.437,
       "r18": false
     },
     {
@@ -109,7 +109,7 @@
     {
       "id": 30896,
       "title": "Crazy neighbors",
-      "score": 0.417,
+      "score": 0.418,
       "r18": false
     },
     {
@@ -137,12 +137,6 @@
       "r18": false
     },
     {
-      "id": 12896,
-      "title": "Handa-kun",
-      "score": 0.401,
-      "r18": false
-    },
-    {
       "id": 21021,
       "title": "Wow Toilet",
       "score": 0.397,
@@ -152,6 +146,12 @@
       "id": 583,
       "title": "Paradise Residence",
       "score": 0.395,
+      "r18": false
+    },
+    {
+      "id": 188,
+      "title": "Nichijou",
+      "score": 0.389,
       "r18": false
     }
   ]

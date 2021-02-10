@@ -1,8 +1,8 @@
 {
   "id": 36262,
   "title": "Bluehole Marriage",
-  "url": "https://mangadex.org/manga/36262",
-  "last_updated": "January 14, 2021 00:53:15 UTC",
+  "url": "https://api.mangadex.org/v2/manga/36262",
+  "last_updated": "February 10, 2021 20:34:47 UTC",
   "matches": [
     {
       "id": 32047,
@@ -41,8 +41,20 @@
       "r18": false
     },
     {
+      "id": 59705,
+      "title": "This Man Is a Little Mischievous",
+      "score": 0.675,
+      "r18": false
+    },
+    {
       "id": 44472,
       "title": "Bring the Love",
+      "score": 0.674,
+      "r18": false
+    },
+    {
+      "id": 50912,
+      "title": "A Villainess Is a Good Match for the Tyrant",
       "score": 0.674,
       "r18": false
     },
@@ -56,6 +68,12 @@
       "id": 5026,
       "title": "Bara no Tame ni",
       "score": 0.672,
+      "r18": false
+    },
+    {
+      "id": 55338,
+      "title": "Chijou no Seppun",
+      "score": 0.671,
       "r18": false
     },
     {
@@ -74,12 +92,6 @@
       "id": 4573,
       "title": "Paradise Kiss",
       "score": 0.667,
-      "r18": false
-    },
-    {
-      "id": 22238,
-      "title": "Toge ni Kuchizuke",
-      "score": 0.664,
       "r18": false
     },
     {
@@ -104,6 +116,12 @@
       "id": 58625,
       "title": "Kon'ya, Shousetsuka Sensei to Naisho de",
       "score": 0.659,
+      "r18": false
+    },
+    {
+      "id": 6478,
+      "title": "Umimachi Diary",
+      "score": 0.657,
       "r18": false
     },
     {
@@ -134,24 +152,6 @@
       "id": 58387,
       "title": "His 10,000 Romantic Traps",
       "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 18090,
-      "title": "Chocolate Junkie",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 39294,
-      "title": "Celebgram",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 55338,
-      "title": "Chijou no Seppun",
-      "score": 0.652,
       "r18": false
     }
   ]

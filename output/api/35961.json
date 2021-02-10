@@ -1,8 +1,8 @@
 {
   "id": 35961,
   "title": "Saint Seiya: Origin",
-  "url": "https://mangadex.org/manga/35961",
-  "last_updated": "January 14, 2021 00:50:17 UTC",
+  "url": "https://api.mangadex.org/v2/manga/35961",
+  "last_updated": "February 10, 2021 20:29:50 UTC",
   "matches": [
     {
       "id": 9637,
@@ -37,7 +37,7 @@
     {
       "id": 9623,
       "title": "Saint Seiya - The Lost Canvas Gaiden",
-      "score": 0.775,
+      "score": 0.774,
       "r18": false
     },
     {
@@ -50,12 +50,6 @@
       "id": 6872,
       "title": "Tales of Vesperia",
       "score": 0.724,
-      "r18": false
-    },
-    {
-      "id": 39477,
-      "title": "Arifureta Shokugyou de Sekai Saikyou Zero",
-      "score": 0.722,
       "r18": false
     },
     {
@@ -73,13 +67,13 @@
     {
       "id": 48631,
       "title": "Saint Seiya - Golden Age",
-      "score": 0.721,
+      "score": 0.72,
       "r18": false
     },
     {
       "id": 23231,
       "title": "Wu Dong Qian Kun",
-      "score": 0.719,
+      "score": 0.718,
       "r18": false
     },
     {
@@ -103,7 +97,7 @@
     {
       "id": 21061,
       "title": "Tales of Berseria",
-      "score": 0.718,
+      "score": 0.717,
       "r18": false
     },
     {
@@ -119,14 +113,14 @@
       "r18": false
     },
     {
-      "id": 46608,
-      "title": "Sword Art Online - Lycoris",
+      "id": 31002,
+      "title": "Jimi na Kensei wa Sore Demo Saikyou Desu",
       "score": 0.714,
       "r18": false
     },
     {
-      "id": 31002,
-      "title": "Jimi na Kensei wa Sore Demo Saikyou Desu",
+      "id": 46608,
+      "title": "Sword Art Online - Lycoris",
       "score": 0.714,
       "r18": false
     },
@@ -152,6 +146,12 @@
       "id": 5573,
       "title": "Saiyuki",
       "score": 0.708,
+      "r18": false
+    },
+    {
+      "id": 38543,
+      "title": "Fights Break Sphere &ndash; Return of the Beasts",
+      "score": 0.707,
       "r18": false
     }
   ]

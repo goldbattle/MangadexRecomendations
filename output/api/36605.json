@@ -1,13 +1,13 @@
 {
   "id": 36605,
   "title": "Dungeon Tuber!!!",
-  "url": "https://mangadex.org/manga/36605",
-  "last_updated": "January 14, 2021 06:50:08 UTC",
+  "url": "https://api.mangadex.org/v2/manga/36605",
+  "last_updated": "February 10, 2021 20:40:04 UTC",
   "matches": [
     {
       "id": 12581,
       "title": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka Gaiden - Sword Oratoria",
-      "score": 0.76,
+      "score": 0.765,
       "r18": false
     },
     {
@@ -19,7 +19,7 @@
     {
       "id": 19671,
       "title": "Sword Art Online - Project Alicization",
-      "score": 0.753,
+      "score": 0.754,
       "r18": false
     },
     {
@@ -67,7 +67,7 @@
     {
       "id": 47371,
       "title": "A Breakthrough Brought by Forbidden Master and Disciple",
-      "score": 0.733,
+      "score": 0.732,
       "r18": false
     },
     {
@@ -77,26 +77,14 @@
       "r18": false
     },
     {
-      "id": 54801,
-      "title": "One Piece Episode A",
-      "score": 0.731,
-      "r18": false
-    },
-    {
       "id": 19589,
       "title": "Hiraheishi wa Kako wo Yumemiru",
-      "score": 0.731,
+      "score": 0.73,
       "r18": false
     },
     {
       "id": 24374,
       "title": ".hack//Link - Tasogare no Kishidan",
-      "score": 0.729,
-      "r18": false
-    },
-    {
-      "id": 45903,
-      "title": "Dungeon Reset",
       "score": 0.728,
       "r18": false
     },
@@ -107,9 +95,15 @@
       "r18": false
     },
     {
+      "id": 45903,
+      "title": "Dungeon Reset",
+      "score": 0.728,
+      "r18": false
+    },
+    {
       "id": 12009,
       "title": "Soul Land",
-      "score": 0.727,
+      "score": 0.726,
       "r18": false
     },
     {
@@ -125,14 +119,26 @@
       "r18": false
     },
     {
-      "id": 21914,
-      "title": "Almadianos Eiyuuden",
-      "score": 0.723,
+      "id": 54801,
+      "title": "One Piece Episode A",
+      "score": 0.725,
+      "r18": false
+    },
+    {
+      "id": 56362,
+      "title": "Unnamed Memory",
+      "score": 0.725,
       "r18": false
     },
     {
       "id": 283,
       "title": "Ao no Exorcist",
+      "score": 0.724,
+      "r18": false
+    },
+    {
+      "id": 21914,
+      "title": "Almadianos Eiyuuden",
       "score": 0.723,
       "r18": false
     },
@@ -146,12 +152,6 @@
       "id": 58492,
       "title": "The Dark Empress",
       "score": 0.72,
-      "r18": false
-    },
-    {
-      "id": 6652,
-      "title": "Utawarerumono",
-      "score": 0.719,
       "r18": false
     }
   ]

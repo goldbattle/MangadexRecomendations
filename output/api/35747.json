@@ -1,8 +1,8 @@
 {
   "id": 35747,
   "title": "Ouka Ryou Wars",
-  "url": "https://mangadex.org/manga/35747",
-  "last_updated": "January 14, 2021 00:48:14 UTC",
+  "url": "https://api.mangadex.org/v2/manga/35747",
+  "last_updated": "February 10, 2021 20:26:33 UTC",
   "matches": [
     {
       "id": 24842,
@@ -29,6 +29,12 @@
       "r18": false
     },
     {
+      "id": 43219,
+      "title": "Kieta Hatsukoi",
+      "score": 0.401,
+      "r18": false
+    },
+    {
       "id": 27574,
       "title": "Blue Wars",
       "score": 0.401,
@@ -37,7 +43,7 @@
     {
       "id": 6214,
       "title": "Daydream\u2605Nightmare",
-      "score": 0.347,
+      "score": 0.346,
       "r18": false
     },
     {
@@ -71,6 +77,12 @@
       "r18": false
     },
     {
+      "id": 52101,
+      "title": "Plug in",
+      "score": 0.288,
+      "r18": false
+    },
+    {
       "id": 18993,
       "title": "San Yan Xiao Tian Lu",
       "score": 0.254,
@@ -85,19 +97,13 @@
     {
       "id": 53425,
       "title": "Falling to  Where I Belong",
-      "score": 0.237,
+      "score": 0.238,
       "r18": false
     },
     {
       "id": 57783,
       "title": "Stop Bothering Me, Emperor!",
-      "score": 0.224,
-      "r18": false
-    },
-    {
-      "id": 52101,
-      "title": "Plug in",
-      "score": 0.211,
+      "score": 0.214,
       "r18": false
     }
   ]

@@ -1,15 +1,9 @@
 {
   "id": 35834,
   "title": "FTS!",
-  "url": "https://mangadex.org/manga/35834",
-  "last_updated": "January 14, 2021 00:49:04 UTC",
+  "url": "https://api.mangadex.org/v2/manga/35834",
+  "last_updated": "February 10, 2021 20:27:55 UTC",
   "matches": [
-    {
-      "id": 1036,
-      "title": "Rave",
-      "score": 0.349,
-      "r18": false
-    },
     {
       "id": 552,
       "title": "Megami Ibunroku - Persona",
@@ -41,6 +35,12 @@
       "r18": false
     },
     {
+      "id": 1036,
+      "title": "Rave",
+      "score": 0.34,
+      "r18": false
+    },
+    {
       "id": 25977,
       "title": "Can You Become A Magical Girl?",
       "score": 0.339,
@@ -65,6 +65,12 @@
       "r18": false
     },
     {
+      "id": 4135,
+      "title": "Mushishi",
+      "score": 0.337,
+      "r18": false
+    },
+    {
       "id": 8814,
       "title": "Shintetsu no Agartha",
       "score": 0.336,
@@ -79,12 +85,6 @@
     {
       "id": 1047,
       "title": "Chaser",
-      "score": 0.334,
-      "r18": false
-    },
-    {
-      "id": 4135,
-      "title": "Mushishi",
       "score": 0.334,
       "r18": false
     },
@@ -149,8 +149,8 @@
       "r18": false
     },
     {
-      "id": 5219,
-      "title": "Out Code - Choujou Hanzai Tokumu Sousakan",
+      "id": 22226,
+      "title": "Fate/Grand Order -mortalis:stella-",
       "score": 0.32,
       "r18": false
     }

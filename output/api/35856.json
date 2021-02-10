@@ -1,8 +1,8 @@
 {
   "id": 35856,
   "title": "Katsugeki / Touken Ranbu",
-  "url": "https://mangadex.org/manga/35856",
-  "last_updated": "January 14, 2021 00:49:17 UTC",
+  "url": "https://api.mangadex.org/v2/manga/35856",
+  "last_updated": "February 10, 2021 20:28:16 UTC",
   "matches": [
     {
       "id": 23231,
@@ -55,7 +55,7 @@
     {
       "id": 3862,
       "title": "Super Robot Taisen OG - Divine Wars - Record of ATX",
-      "score": 0.749,
+      "score": 0.748,
       "r18": false
     },
     {
@@ -101,18 +101,6 @@
       "r18": false
     },
     {
-      "id": 47371,
-      "title": "A Breakthrough Brought by Forbidden Master and Disciple",
-      "score": 0.738,
-      "r18": false
-    },
-    {
-      "id": 5256,
-      "title": "Shana oh Yoshitsune",
-      "score": 0.738,
-      "r18": false
-    },
-    {
       "id": 6572,
       "title": "Kaiouki",
       "score": 0.737,
@@ -122,6 +110,12 @@
       "id": 23798,
       "title": "Sword Art Online - Ordinal Scale",
       "score": 0.737,
+      "r18": false
+    },
+    {
+      "id": 47371,
+      "title": "A Breakthrough Brought by Forbidden Master and Disciple",
+      "score": 0.736,
       "r18": false
     },
     {
@@ -137,21 +131,27 @@
       "r18": false
     },
     {
-      "id": 54801,
-      "title": "One Piece Episode A",
-      "score": 0.732,
-      "r18": false
-    },
-    {
       "id": 36646,
       "title": "The Swordsman Called the Countless Swords&rsquo; Sorcerer",
       "score": 0.732,
       "r18": false
     },
     {
-      "id": 45198,
-      "title": "Boku no Hero Academia - True Hero (Doujinshi)",
+      "id": 5256,
+      "title": "Shana oh Yoshitsune",
       "score": 0.732,
+      "r18": false
+    },
+    {
+      "id": 24408,
+      "title": "Rockman EXE",
+      "score": 0.732,
+      "r18": false
+    },
+    {
+      "id": 58327,
+      "title": "The Runaway Tanker",
+      "score": 0.73,
       "r18": false
     }
   ]

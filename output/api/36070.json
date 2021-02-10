@@ -1,8 +1,8 @@
 {
   "id": 36070,
   "title": "Silent M&ouml;bius",
-  "url": "https://mangadex.org/manga/36070",
-  "last_updated": "January 14, 2021 00:51:19 UTC",
+  "url": "https://api.mangadex.org/v2/manga/36070",
+  "last_updated": "February 10, 2021 20:31:35 UTC",
   "matches": [
     {
       "id": 38049,
@@ -23,21 +23,21 @@
       "r18": false
     },
     {
+      "id": 37015,
+      "title": "The Kingdoms of Ruin",
+      "score": 0.673,
+      "r18": false
+    },
+    {
       "id": 184,
       "title": "Ushio to Tora",
-      "score": 0.67,
+      "score": 0.672,
       "r18": false
     },
     {
       "id": 21629,
       "title": "Ren'ai Harem Game Shuuryou no Oshirase ga Kuru Koro ni",
       "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 37015,
-      "title": "The Kingdoms of Ruin",
-      "score": 0.663,
       "r18": false
     },
     {
@@ -103,19 +103,13 @@
     {
       "id": 1264,
       "title": "Highschool of the Dead",
-      "score": 0.255,
+      "score": 0.254,
       "r18": false
     },
     {
       "id": 11986,
       "title": "Tenkuu Shinpan",
       "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 27044,
-      "title": "Ore no Genjitsu wa Ren&rsquo;ai Game?? ka to Omottara Inochigake no Game datta",
-      "score": 0.248,
       "r18": false
     },
     {
@@ -133,13 +127,13 @@
     {
       "id": 9905,
       "title": "UQ Holder!",
-      "score": 0.238,
+      "score": 0.243,
       "r18": false
     },
     {
       "id": 18391,
       "title": "Ninja Slayer",
-      "score": 0.237,
+      "score": 0.238,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 17562,
       "title": "Infection",
       "score": 0.235,
+      "r18": false
+    },
+    {
+      "id": 49440,
+      "title": "Deathdeus: Hero of the Dead",
+      "score": 0.224,
       "r18": false
     }
   ]
