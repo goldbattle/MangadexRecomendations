@@ -1,8 +1,8 @@
 {
   "id": 34848,
   "title": "Wagging the Tail",
-  "url": "https://mangadex.org/manga/34848",
-  "last_updated": "January 14, 2021 00:39:34 UTC",
+  "url": "https://api.mangadex.org/v2/manga/34848",
+  "last_updated": "February 10, 2021 16:34:53 UTC",
   "matches": [
     {
       "id": 52515,
@@ -13,7 +13,7 @@
     {
       "id": 52199,
       "title": "Affectionately",
-      "score": 0.417,
+      "score": 0.424,
       "r18": false
     },
     {
@@ -41,6 +41,12 @@
       "r18": false
     },
     {
+      "id": 59743,
+      "title": "My Childhood Friend Is Too Provocative for Me",
+      "score": 0.383,
+      "r18": false
+    },
+    {
       "id": 58667,
       "title": "Help Me, Teacher",
       "score": 0.382,
@@ -56,6 +62,12 @@
       "id": 31208,
       "title": "Hot and Cold",
       "score": 0.374,
+      "r18": false
+    },
+    {
+      "id": 59423,
+      "title": "Eunsoo's Good Day",
+      "score": 0.372,
       "r18": false
     },
     {
@@ -97,13 +109,31 @@
     {
       "id": 23544,
       "title": "Love Is An Illusion",
-      "score": 0.357,
+      "score": 0.358,
+      "r18": false
+    },
+    {
+      "id": 59268,
+      "title": "Santa Will Always Grant Your Wishes",
+      "score": 0.355,
       "r18": false
     },
     {
       "id": 38206,
       "title": "Incidentally Living Together",
       "score": 0.354,
+      "r18": false
+    },
+    {
+      "id": 59175,
+      "title": "Love Script",
+      "score": 0.354,
+      "r18": false
+    },
+    {
+      "id": 27119,
+      "title": "Nightmare Building",
+      "score": 0.352,
       "r18": false
     },
     {
@@ -122,36 +152,6 @@
       "id": 23594,
       "title": "A Week of Lust",
       "score": 0.348,
-      "r18": false
-    },
-    {
-      "id": 50851,
-      "title": "Shh, You'll Wake up the Child",
-      "score": 0.348,
-      "r18": false
-    },
-    {
-      "id": 49859,
-      "title": "In Secret",
-      "score": 0.346,
-      "r18": false
-    },
-    {
-      "id": 55778,
-      "title": "Vanilla Soda Sky",
-      "score": 0.346,
-      "r18": false
-    },
-    {
-      "id": 54007,
-      "title": "Pleasure Principle",
-      "score": 0.345,
-      "r18": false
-    },
-    {
-      "id": 40966,
-      "title": "Falling",
-      "score": 0.344,
       "r18": false
     }
   ]

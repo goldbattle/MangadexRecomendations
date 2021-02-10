@@ -1,8 +1,8 @@
 {
   "id": 34476,
   "title": "Mahou Tsukai ni Taisetsu na Koto",
-  "url": "https://mangadex.org/manga/34476",
-  "last_updated": "January 14, 2021 00:35:56 UTC",
+  "url": "https://api.mangadex.org/v2/manga/34476",
+  "last_updated": "February 10, 2021 16:29:13 UTC",
   "matches": [
     {
       "id": 10801,
@@ -95,9 +95,9 @@
       "r18": false
     },
     {
-      "id": 39,
-      "title": "One Piece",
-      "score": 0.723,
+      "id": 31917,
+      "title": "Honzuki no Gekokujou ~Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen~ Dai 3-bu \u300cRyouchi ni Hon o Hirogeyou!\u300d",
+      "score": 0.722,
       "r18": false
     },
     {
@@ -107,15 +107,9 @@
       "r18": false
     },
     {
-      "id": 10004,
-      "title": "One Piece - Digital Colored Comics",
-      "score": 0.721,
-      "r18": false
-    },
-    {
       "id": 9844,
       "title": "Shingeki no Kyojin - Before the Fall",
-      "score": 0.721,
+      "score": 0.72,
       "r18": false
     },
     {
@@ -128,12 +122,6 @@
       "id": 1790,
       "title": "Arata Kangatari",
       "score": 0.718,
-      "r18": false
-    },
-    {
-      "id": 31917,
-      "title": "Honzuki no Gekokujou ~Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen~ Dai 3-bu \u300cRyouchi ni Hon o Hirogeyou!\u300d",
-      "score": 0.717,
       "r18": false
     },
     {
@@ -152,6 +140,18 @@
       "id": 45249,
       "title": "Mahouka Koukou no Rettousei - Shiba Tatsuya Ansatsu Keikaku",
       "score": 0.713,
+      "r18": false
+    },
+    {
+      "id": 2280,
+      "title": "Shaman King",
+      "score": 0.711,
+      "r18": false
+    },
+    {
+      "id": 53985,
+      "title": "Dragon Raja 3",
+      "score": 0.711,
       "r18": false
     }
   ]

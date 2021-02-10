@@ -1,8 +1,8 @@
 {
   "id": 34649,
   "title": "Danshi Koukousei wa Kyou mo Onaka ga Suiteiru",
-  "url": "https://mangadex.org/manga/34649",
-  "last_updated": "January 14, 2021 00:37:39 UTC",
+  "url": "https://api.mangadex.org/v2/manga/34649",
+  "last_updated": "February 10, 2021 16:31:52 UTC",
   "matches": [
     {
       "id": 4824,
@@ -61,12 +61,6 @@
     {
       "id": 6082,
       "title": "Yume Miru Happa",
-      "score": 0.706,
-      "r18": false
-    },
-    {
-      "id": 5140,
-      "title": "Houou Gakuen Misoragumi",
       "score": 0.706,
       "r18": false
     },
@@ -151,6 +145,12 @@
     {
       "id": 3032,
       "title": "Ardour",
+      "score": 0.688,
+      "r18": false
+    },
+    {
+      "id": 4092,
+      "title": "Men's Kou",
       "score": 0.688,
       "r18": false
     }

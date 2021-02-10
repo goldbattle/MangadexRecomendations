@@ -1,8 +1,8 @@
 {
   "id": 34853,
   "title": "Abyss Rage",
-  "url": "https://mangadex.org/manga/34853",
-  "last_updated": "January 14, 2021 00:39:38 UTC",
+  "url": "https://api.mangadex.org/v2/manga/34853",
+  "last_updated": "February 10, 2021 16:34:59 UTC",
   "matches": [
     {
       "id": 10341,
@@ -23,12 +23,6 @@
       "r18": false
     },
     {
-      "id": 50672,
-      "title": "My Hero Academia - League Of Villains: Undercover (Fan Colored)",
-      "score": 0.67,
-      "r18": false
-    },
-    {
       "id": 1021,
       "title": "Girls of the Wild's",
       "score": 0.669,
@@ -38,12 +32,6 @@
       "id": 12009,
       "title": "Soul Land",
       "score": 0.668,
-      "r18": false
-    },
-    {
-      "id": 12714,
-      "title": "Boku no Hero Academia",
-      "score": 0.667,
       "r18": false
     },
     {
@@ -65,14 +53,14 @@
       "r18": false
     },
     {
-      "id": 30171,
-      "title": "Overgeared",
-      "score": 0.659,
+      "id": 23798,
+      "title": "Sword Art Online - Ordinal Scale",
+      "score": 0.656,
       "r18": false
     },
     {
-      "id": 23798,
-      "title": "Sword Art Online - Ordinal Scale",
+      "id": 50672,
+      "title": "My Hero Academia - League Of Villains: Undercover (Fan Colored)",
       "score": 0.656,
       "r18": false
     },
@@ -101,15 +89,21 @@
       "r18": false
     },
     {
-      "id": 47371,
-      "title": "A Breakthrough Brought by Forbidden Master and Disciple",
+      "id": 216,
+      "title": "Rurouni Kenshin",
       "score": 0.653,
       "r18": false
     },
     {
-      "id": 216,
-      "title": "Rurouni Kenshin",
-      "score": 0.653,
+      "id": 12714,
+      "title": "Boku no Hero Academia",
+      "score": 0.651,
+      "r18": false
+    },
+    {
+      "id": 47371,
+      "title": "A Breakthrough Brought by Forbidden Master and Disciple",
+      "score": 0.651,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 1958,
       "title": "Hajime no Ippo",
       "score": 0.35,
+      "r18": false
+    },
+    {
+      "id": 46111,
+      "title": "BLACK999",
+      "score": 0.348,
       "r18": false
     }
   ]

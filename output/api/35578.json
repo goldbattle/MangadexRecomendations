@@ -1,8 +1,8 @@
 {
   "id": 35578,
   "title": "Key Ring Lock",
-  "url": "https://mangadex.org/manga/35578",
-  "last_updated": "January 14, 2021 00:46:35 UTC",
+  "url": "https://api.mangadex.org/v2/manga/35578",
+  "last_updated": "February 10, 2021 16:45:50 UTC",
   "matches": [
     {
       "id": 27458,
@@ -25,7 +25,7 @@
     {
       "id": 3824,
       "title": "Bokura ni Matsuwaru Et Cetera",
-      "score": 0.686,
+      "score": 0.687,
       "r18": false
     },
     {
@@ -89,15 +89,9 @@
       "r18": false
     },
     {
-      "id": 49710,
-      "title": "Hidamari no Orange",
-      "score": 0.667,
-      "r18": false
-    },
-    {
       "id": 55566,
       "title": "California Monogatari",
-      "score": 0.663,
+      "score": 0.664,
       "r18": false
     },
     {
@@ -121,7 +115,7 @@
     {
       "id": 11801,
       "title": "Koi no Hanashi ga Shitai",
-      "score": 0.66,
+      "score": 0.661,
       "r18": false
     },
     {
@@ -151,6 +145,12 @@
     {
       "id": 29038,
       "title": "Kodomo wa Tomaranai",
+      "score": 0.657,
+      "r18": false
+    },
+    {
+      "id": 21543,
+      "title": "Guang Xiang",
       "score": 0.657,
       "r18": false
     }

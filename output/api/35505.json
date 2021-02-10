@@ -1,15 +1,9 @@
 {
   "id": 35505,
   "title": "Super Metroid",
-  "url": "https://mangadex.org/manga/35505",
-  "last_updated": "January 14, 2021 00:45:52 UTC",
+  "url": "https://api.mangadex.org/v2/manga/35505",
+  "last_updated": "February 10, 2021 16:44:42 UTC",
   "matches": [
-    {
-      "id": 50085,
-      "title": "Legend of the Galactic Heroes",
-      "score": 0.684,
-      "r18": false
-    },
     {
       "id": 16825,
       "title": "Ginga Eiyuu Densetsu",
@@ -29,14 +23,14 @@
       "r18": false
     },
     {
-      "id": 57567,
-      "title": "Android A Special Mission",
+      "id": 40194,
+      "title": "Rebuild World",
       "score": 0.664,
       "r18": false
     },
     {
-      "id": 40194,
-      "title": "Rebuild World",
+      "id": 54813,
+      "title": "Lost Universe Special",
       "score": 0.664,
       "r18": false
     },
@@ -47,15 +41,15 @@
       "r18": false
     },
     {
-      "id": 189,
-      "title": "Lost Universe",
-      "score": 0.662,
-      "r18": false
-    },
-    {
       "id": 53985,
       "title": "Dragon Raja 3",
       "score": 0.661,
+      "r18": false
+    },
+    {
+      "id": 189,
+      "title": "Lost Universe",
+      "score": 0.659,
       "r18": false
     },
     {
@@ -74,6 +68,12 @@
       "id": 53969,
       "title": "Dragon Raja",
       "score": 0.658,
+      "r18": false
+    },
+    {
+      "id": 50085,
+      "title": "Legend of the Galactic Heroes",
+      "score": 0.657,
       "r18": false
     },
     {
@@ -97,7 +97,7 @@
     {
       "id": 2844,
       "title": "Eureka Seven",
-      "score": 0.655,
+      "score": 0.656,
       "r18": false
     },
     {
@@ -143,14 +143,14 @@
       "r18": false
     },
     {
-      "id": 36572,
-      "title": "Cookie Run: Hanja Run",
-      "score": 0.307,
+      "id": 42751,
+      "title": "Chitei Ryokou",
+      "score": 0.309,
       "r18": false
     },
     {
-      "id": 42751,
-      "title": "Chitei Ryokou",
+      "id": 36572,
+      "title": "Cookie Run: Hanja Run",
       "score": 0.307,
       "r18": false
     }

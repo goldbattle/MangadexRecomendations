@@ -1,13 +1,19 @@
 {
   "id": 34944,
   "title": "Soredemo Ayumu wa Yosetekuru",
-  "url": "https://mangadex.org/manga/34944",
-  "last_updated": "January 14, 2021 00:40:30 UTC",
+  "url": "https://api.mangadex.org/v2/manga/34944",
+  "last_updated": "February 10, 2021 16:36:18 UTC",
   "matches": [
     {
       "id": 436,
       "title": "Aku no Hana",
       "score": 0.75,
+      "r18": false
+    },
+    {
+      "id": 10509,
+      "title": "Imasugu Onii-chan ni Imouto da tte Iitai!",
+      "score": 0.741,
       "r18": false
     },
     {
@@ -43,12 +49,6 @@
     {
       "id": 992,
       "title": "Narue no Sekai",
-      "score": 0.735,
-      "r18": false
-    },
-    {
-      "id": 10509,
-      "title": "Imasugu Onii-chan ni Imouto da tte Iitai!",
       "score": 0.734,
       "r18": false
     },
@@ -125,14 +125,14 @@
       "r18": false
     },
     {
-      "id": 11842,
-      "title": "Mashiroiro Symphony -Twinkle Moon-",
+      "id": 1021,
+      "title": "Girls of the Wild's",
       "score": 0.719,
       "r18": false
     },
     {
-      "id": 1021,
-      "title": "Girls of the Wild's",
+      "id": 11842,
+      "title": "Mashiroiro Symphony -Twinkle Moon-",
       "score": 0.719,
       "r18": false
     },

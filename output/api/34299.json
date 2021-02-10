@@ -1,8 +1,8 @@
 {
   "id": 34299,
   "title": "Koi, Irodorumade",
-  "url": "https://mangadex.org/manga/34299",
-  "last_updated": "January 14, 2021 00:34:12 UTC",
+  "url": "https://api.mangadex.org/v2/manga/34299",
+  "last_updated": "February 10, 2021 16:26:31 UTC",
   "matches": [
     {
       "id": 19073,
@@ -13,6 +13,12 @@
     {
       "id": 50938,
       "title": "Midnight Juice and Witchpie",
+      "score": 0.156,
+      "r18": false
+    },
+    {
+      "id": 59564,
+      "title": "Mountain Demon",
       "score": 0.156,
       "r18": false
     }

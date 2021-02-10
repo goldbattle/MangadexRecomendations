@@ -1,8 +1,8 @@
 {
   "id": 34464,
   "title": "Star Red",
-  "url": "https://mangadex.org/manga/34464",
-  "last_updated": "January 14, 2021 00:35:49 UTC",
+  "url": "https://api.mangadex.org/v2/manga/34464",
+  "last_updated": "February 10, 2021 16:29:01 UTC",
   "matches": [
     {
       "id": 13289,
@@ -13,13 +13,13 @@
     {
       "id": 1531,
       "title": "Marginal",
-      "score": 0.671,
+      "score": 0.67,
       "r18": false
     },
     {
       "id": 31906,
       "title": "11-nin Iru!",
-      "score": 0.665,
+      "score": 0.664,
       "r18": false
     },
     {
@@ -43,7 +43,7 @@
     {
       "id": 34329,
       "title": "Magic",
-      "score": 0.651,
+      "score": 0.65,
       "r18": false
     },
     {
@@ -61,7 +61,7 @@
     {
       "id": 23905,
       "title": "A, A Prime",
-      "score": 0.361,
+      "score": 0.36,
       "r18": false
     },
     {
@@ -89,9 +89,15 @@
       "r18": false
     },
     {
+      "id": 6381,
+      "title": "Kaguya Hime",
+      "score": 0.27,
+      "r18": false
+    },
+    {
       "id": 26606,
       "title": "Ayashi no Ceres",
-      "score": 0.266,
+      "score": 0.254,
       "r18": false
     },
     {

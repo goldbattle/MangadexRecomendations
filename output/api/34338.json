@@ -1,8 +1,8 @@
 {
   "id": 34338,
   "title": "Koi no Kekkai",
-  "url": "https://mangadex.org/manga/34338",
-  "last_updated": "January 14, 2021 00:34:35 UTC",
+  "url": "https://api.mangadex.org/v2/manga/34338",
+  "last_updated": "February 10, 2021 16:27:08 UTC",
   "matches": [
     {
       "id": 8011,
@@ -14,6 +14,12 @@
       "id": 12856,
       "title": "Aisaretaino",
       "score": 0.674,
+      "r18": false
+    },
+    {
+      "id": 26609,
+      "title": "Momo to Manji",
+      "score": 0.65,
       "r18": false
     },
     {
@@ -41,21 +47,21 @@
       "r18": false
     },
     {
-      "id": 12635,
-      "title": "Ubawarerukoto Marugoto Zenbu",
-      "score": 0.3,
+      "id": 48564,
+      "title": "Hitsuji no Kawa wo Kita Kemono",
+      "score": 0.303,
       "r18": false
     },
     {
-      "id": 26609,
-      "title": "Momo to Manji",
-      "score": 0.294,
+      "id": 12635,
+      "title": "Ubawarerukoto Marugoto Zenbu",
+      "score": 0.301,
       "r18": false
     },
     {
       "id": 39465,
       "title": "Ore no Tenshi wa Mayonaka Akuma",
-      "score": 0.288,
+      "score": 0.286,
       "r18": false
     },
     {
@@ -73,7 +79,7 @@
     {
       "id": 1144,
       "title": "Double Mints",
-      "score": 0.262,
+      "score": 0.261,
       "r18": false
     },
     {

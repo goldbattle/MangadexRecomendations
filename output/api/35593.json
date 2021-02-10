@@ -1,8 +1,8 @@
 {
   "id": 35593,
   "title": "Choppiri Toshiue Demo Kanojo ni Shite Kuremasu ka?",
-  "url": "https://mangadex.org/manga/35593",
-  "last_updated": "January 14, 2021 00:46:43 UTC",
+  "url": "https://api.mangadex.org/v2/manga/35593",
+  "last_updated": "February 10, 2021 16:46:05 UTC",
   "matches": [
     {
       "id": 32290,
@@ -37,7 +37,13 @@
     {
       "id": 728,
       "title": "Ore no Kanojo to Osananajimi ga Shuraba Sugiru",
-      "score": 0.667,
+      "score": 0.668,
+      "r18": false
+    },
+    {
+      "id": 243,
+      "title": "Nana to Kaoru: Black Label",
+      "score": 0.66,
       "r18": false
     },
     {
@@ -49,12 +55,6 @@
     {
       "id": 2339,
       "title": "Kyoukasho ni Nai!",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 34386,
-      "title": "Aida ni Hatachi",
       "score": 0.658,
       "r18": false
     },
@@ -119,12 +119,6 @@
       "r18": false
     },
     {
-      "id": 1011,
-      "title": "Prison School",
-      "score": 0.653,
-      "r18": false
-    },
-    {
       "id": 105,
       "title": "Unbalance X Unbalance",
       "score": 0.652,
@@ -151,6 +145,12 @@
     {
       "id": 28422,
       "title": "Unbalance x2: After Story",
+      "score": 0.651,
+      "r18": false
+    },
+    {
+      "id": 6242,
+      "title": "Hataraku Maou-sama! High School!",
       "score": 0.651,
       "r18": false
     }

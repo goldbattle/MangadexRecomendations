@@ -1,8 +1,8 @@
 {
   "id": 35190,
   "title": "Dareka no Sekai",
-  "url": "https://mangadex.org/manga/35190",
-  "last_updated": "January 14, 2021 00:42:51 UTC",
+  "url": "https://api.mangadex.org/v2/manga/35190",
+  "last_updated": "February 10, 2021 16:40:03 UTC",
   "matches": [
     {
       "id": 8495,
@@ -29,21 +29,15 @@
       "r18": false
     },
     {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.699,
-      "r18": false
-    },
-    {
       "id": 13433,
       "title": "Okitenemuru",
       "score": 0.693,
       "r18": false
     },
     {
-      "id": 33453,
-      "title": "Bungou Stray Dogs Gaiden: Ayatsuji Yukito VS. Kyougoku Natsuhiko",
-      "score": 0.69,
+      "id": 27151,
+      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
+      "score": 0.689,
       "r18": false
     },
     {
@@ -91,12 +85,6 @@
     {
       "id": 281,
       "title": "Trigun Maximum",
-      "score": 0.685,
-      "r18": false
-    },
-    {
-      "id": 14441,
-      "title": "Fate/strange Fake",
       "score": 0.685,
       "r18": false
     },
@@ -152,6 +140,18 @@
       "id": 1034,
       "title": "Persona 4",
       "score": 0.679,
+      "r18": false
+    },
+    {
+      "id": 1985,
+      "title": "Hellsing - The Dawn",
+      "score": 0.677,
+      "r18": false
+    },
+    {
+      "id": 1089,
+      "title": "Zetman",
+      "score": 0.676,
       "r18": false
     }
   ]

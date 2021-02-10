@@ -1,13 +1,13 @@
 {
   "id": 34895,
   "title": "The Gutsy Frog",
-  "url": "https://mangadex.org/manga/34895",
-  "last_updated": "January 14, 2021 00:40:02 UTC",
+  "url": "https://api.mangadex.org/v2/manga/34895",
+  "last_updated": "February 10, 2021 16:35:37 UTC",
   "matches": [
     {
       "id": 1293,
       "title": "Miyuki",
-      "score": 0.718,
+      "score": 0.717,
       "r18": false
     },
     {
@@ -25,25 +25,31 @@
     {
       "id": 48036,
       "title": "I Don't Know What My Little Sister's Friend Is Thinking!",
-      "score": 0.697,
+      "score": 0.696,
       "r18": false
     },
     {
       "id": 23811,
       "title": "Boku no Kokoro no Yabai Yatsu",
-      "score": 0.695,
+      "score": 0.694,
       "r18": false
     },
     {
       "id": 3091,
       "title": "Suzumiya Haruhi no Yuuutsu",
-      "score": 0.694,
+      "score": 0.693,
       "r18": false
     },
     {
       "id": 496,
       "title": "Silver Spoon",
-      "score": 0.693,
+      "score": 0.692,
+      "r18": false
+    },
+    {
+      "id": 6056,
+      "title": "Shigatsu wa Kimi no Uso",
+      "score": 0.689,
       "r18": false
     },
     {
@@ -53,14 +59,14 @@
       "r18": false
     },
     {
-      "id": 4529,
-      "title": "Koutetsu no Hanappashira",
+      "id": 89,
+      "title": "Akaneiro ni Somaru Saka",
       "score": 0.688,
       "r18": false
     },
     {
-      "id": 89,
-      "title": "Akaneiro ni Somaru Saka",
+      "id": 4529,
+      "title": "Koutetsu no Hanappashira",
       "score": 0.688,
       "r18": false
     },
@@ -77,21 +83,9 @@
       "r18": false
     },
     {
-      "id": 6056,
-      "title": "Shigatsu wa Kimi no Uso",
-      "score": 0.686,
-      "r18": false
-    },
-    {
       "id": 4437,
       "title": "Golden Time",
       "score": 0.685,
-      "r18": false
-    },
-    {
-      "id": 12896,
-      "title": "Handa-kun",
-      "score": 0.684,
       "r18": false
     },
     {
@@ -101,15 +95,15 @@
       "r18": false
     },
     {
-      "id": 34627,
-      "title": "Masamune-kun no Re \u25cb\u25cb\u25cb",
-      "score": 0.683,
+      "id": 14876,
+      "title": "Kuroko no Basket - Replace Plus",
+      "score": 0.682,
       "r18": false
     },
     {
-      "id": 14876,
-      "title": "Kuroko no Basket - Replace Plus",
-      "score": 0.683,
+      "id": 34627,
+      "title": "Masamune-kun no Re \u25cb\u25cb\u25cb",
+      "score": 0.682,
       "r18": false
     },
     {
@@ -131,6 +125,12 @@
       "r18": false
     },
     {
+      "id": 278,
+      "title": "Toradora!",
+      "score": 0.682,
+      "r18": false
+    },
+    {
       "id": 3607,
       "title": "All Around Type-Moon",
       "score": 0.682,
@@ -143,15 +143,15 @@
       "r18": false
     },
     {
-      "id": 10509,
-      "title": "Imasugu Onii-chan ni Imouto da tte Iitai!",
+      "id": 1390,
+      "title": "Katteni Kaizo",
       "score": 0.68,
       "r18": false
     },
     {
-      "id": 12983,
-      "title": "Koi to Uso",
-      "score": 0.68,
+      "id": 810,
+      "title": "Rewrite: SIDE-B",
+      "score": 0.678,
       "r18": false
     }
   ]

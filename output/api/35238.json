@@ -1,8 +1,8 @@
 {
   "id": 35238,
   "title": "Bocchi the Rock!",
-  "url": "https://mangadex.org/manga/35238",
-  "last_updated": "January 14, 2021 00:43:19 UTC",
+  "url": "https://api.mangadex.org/v2/manga/35238",
+  "last_updated": "February 10, 2021 16:40:44 UTC",
   "matches": [
     {
       "id": 3619,
@@ -23,6 +23,12 @@
       "r18": false
     },
     {
+      "id": 12619,
+      "title": "Ojojojo",
+      "score": 0.707,
+      "r18": false
+    },
+    {
       "id": 24067,
       "title": "K-ON! High School",
       "score": 0.699,
@@ -35,12 +41,6 @@
       "r18": false
     },
     {
-      "id": 12619,
-      "title": "Ojojojo",
-      "score": 0.696,
-      "r18": false
-    },
-    {
       "id": 24065,
       "title": "K-ON! College",
       "score": 0.695,
@@ -49,7 +49,7 @@
     {
       "id": 11435,
       "title": "Pocha Pocha Suieibu",
-      "score": 0.693,
+      "score": 0.694,
       "r18": false
     },
     {
@@ -77,14 +77,14 @@
       "r18": false
     },
     {
-      "id": 384,
-      "title": "Morita-san wa Mukuchi",
-      "score": 0.681,
+      "id": 24212,
+      "title": "My Home",
+      "score": 0.682,
       "r18": false
     },
     {
-      "id": 24212,
-      "title": "My Home",
+      "id": 384,
+      "title": "Morita-san wa Mukuchi",
       "score": 0.681,
       "r18": false
     },
@@ -107,14 +107,14 @@
       "r18": false
     },
     {
-      "id": 5344,
-      "title": "Sora no Shita Yane no Naka",
+      "id": 44132,
+      "title": "Hatsuharu ga Saku",
       "score": 0.674,
       "r18": false
     },
     {
-      "id": 44132,
-      "title": "Hatsuharu ga Saku",
+      "id": 5344,
+      "title": "Sora no Shita Yane no Naka",
       "score": 0.674,
       "r18": false
     },
@@ -122,12 +122,6 @@
       "id": 40675,
       "title": "Stardust Telepath",
       "score": 0.673,
-      "r18": false
-    },
-    {
-      "id": 13025,
-      "title": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka 4koma - Kami-sama no Nichijou",
-      "score": 0.672,
       "r18": false
     },
     {
@@ -139,6 +133,12 @@
     {
       "id": 24387,
       "title": "Ganbare! Memeko-chan",
+      "score": 0.671,
+      "r18": false
+    },
+    {
+      "id": 13025,
+      "title": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka 4koma - Kami-sama no Nichijou",
       "score": 0.671,
       "r18": false
     },

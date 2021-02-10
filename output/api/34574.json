@@ -1,8 +1,8 @@
 {
   "id": 34574,
   "title": "Jazz for Two",
-  "url": "https://mangadex.org/manga/34574",
-  "last_updated": "January 14, 2021 00:36:52 UTC",
+  "url": "https://api.mangadex.org/v2/manga/34574",
+  "last_updated": "February 10, 2021 16:30:44 UTC",
   "matches": [
     {
       "id": 38891,
@@ -25,18 +25,18 @@
     {
       "id": 4334,
       "title": "Sakamichi no Apollon",
-      "score": 0.697,
-      "r18": false
-    },
-    {
-      "id": 1063,
-      "title": "Chihayafuru",
-      "score": 0.686,
+      "score": 0.696,
       "r18": false
     },
     {
       "id": 15822,
       "title": "Let Dai",
+      "score": 0.686,
+      "r18": false
+    },
+    {
+      "id": 1063,
+      "title": "Chihayafuru",
       "score": 0.686,
       "r18": false
     },
@@ -55,7 +55,7 @@
     {
       "id": 1936,
       "title": "Usagi Drop",
-      "score": 0.673,
+      "score": 0.674,
       "r18": false
     },
     {
@@ -65,14 +65,14 @@
       "r18": false
     },
     {
-      "id": 18090,
-      "title": "Chocolate Junkie",
+      "id": 22542,
+      "title": "Koi to Yobu Niwa Kimochi Warui",
       "score": 0.672,
       "r18": false
     },
     {
-      "id": 22542,
-      "title": "Koi to Yobu Niwa Kimochi Warui",
+      "id": 18090,
+      "title": "Chocolate Junkie",
       "score": 0.672,
       "r18": false
     },
@@ -83,15 +83,15 @@
       "r18": false
     },
     {
-      "id": 151,
-      "title": "Bokura no Kiseki",
-      "score": 0.667,
+      "id": 44537,
+      "title": "Love Your Enemies",
+      "score": 0.671,
       "r18": false
     },
     {
-      "id": 44537,
-      "title": "Love Your Enemies",
-      "score": 0.664,
+      "id": 151,
+      "title": "Bokura no Kiseki",
+      "score": 0.667,
       "r18": false
     },
     {
@@ -116,6 +116,12 @@
       "id": 5967,
       "title": "Aria at Dawn",
       "score": 0.656,
+      "r18": false
+    },
+    {
+      "id": 51980,
+      "title": "A Trace of You",
+      "score": 0.655,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 1857,
       "title": "Hachimitsu to Clover",
       "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 6304,
-      "title": "IS - Otoko demo Onna demo Nai Sei",
-      "score": 0.65,
       "r18": false
     }
   ]

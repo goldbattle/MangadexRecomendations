@@ -1,18 +1,12 @@
 {
   "id": 34480,
   "title": "Dread-noT",
-  "url": "https://mangadex.org/manga/34480",
-  "last_updated": "January 14, 2021 00:35:58 UTC",
+  "url": "https://api.mangadex.org/v2/manga/34480",
+  "last_updated": "February 10, 2021 16:29:17 UTC",
   "matches": [
     {
       "id": 4880,
       "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
-      "score": 0.699,
-      "r18": false
-    },
-    {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
       "score": 0.699,
       "r18": false
     },
@@ -25,12 +19,18 @@
     {
       "id": 602,
       "title": "Renai Kaidan Sayoko-san",
-      "score": 0.685,
+      "score": 0.686,
       "r18": false
     },
     {
       "id": 5927,
       "title": "Subarashii Sekai",
+      "score": 0.681,
+      "r18": false
+    },
+    {
+      "id": 27151,
+      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
       "score": 0.681,
       "r18": false
     },
@@ -103,7 +103,7 @@
     {
       "id": 30630,
       "title": "Mieru Ko-chan (pixiv)",
-      "score": 0.665,
+      "score": 0.666,
       "r18": false
     },
     {
@@ -131,9 +131,9 @@
       "r18": false
     },
     {
-      "id": 12109,
-      "title": "Miyata Shoten e Youkoso!",
-      "score": 0.661,
+      "id": 4135,
+      "title": "Mushishi",
+      "score": 0.663,
       "r18": false
     },
     {
@@ -143,14 +143,14 @@
       "r18": false
     },
     {
-      "id": 37351,
-      "title": "Manaka no Mori",
+      "id": 3447,
+      "title": "Memories of Emanon",
       "score": 0.661,
       "r18": false
     },
     {
-      "id": 534,
-      "title": "&quot;Bungaku Shoujo&quot; to Shinitagari no Pierrot",
+      "id": 37351,
+      "title": "Manaka no Mori",
       "score": 0.661,
       "r18": false
     }

@@ -1,8 +1,8 @@
 {
   "id": 34657,
   "title": "Valentine's Day Yuri",
-  "url": "https://mangadex.org/manga/34657",
-  "last_updated": "January 14, 2021 00:37:43 UTC",
+  "url": "https://api.mangadex.org/v2/manga/34657",
+  "last_updated": "February 10, 2021 16:31:58 UTC",
   "matches": [
     {
       "id": 15999,
@@ -92,6 +92,12 @@
       "id": 58678,
       "title": "I want to eat you (FGO one page dj)",
       "score": 0.133,
+      "r18": false
+    },
+    {
+      "id": 59564,
+      "title": "Mountain Demon",
+      "score": 0.118,
       "r18": false
     }
   ]

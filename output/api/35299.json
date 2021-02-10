@@ -1,8 +1,8 @@
 {
   "id": 35299,
   "title": "Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyou Shu Nekomimi Shojo to Deau",
-  "url": "https://mangadex.org/manga/35299",
-  "last_updated": "January 14, 2021 00:43:55 UTC",
+  "url": "https://api.mangadex.org/v2/manga/35299",
+  "last_updated": "February 10, 2021 16:41:38 UTC",
   "matches": [
     {
       "id": 24660,
@@ -14,12 +14,6 @@
       "id": 4880,
       "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
       "score": 0.708,
-      "r18": false
-    },
-    {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.707,
       "r18": false
     },
     {
@@ -35,12 +29,6 @@
       "r18": false
     },
     {
-      "id": 3388,
-      "title": "Fate/Zero",
-      "score": 0.706,
-      "r18": false
-    },
-    {
       "id": 8339,
       "title": "Tales of the World - Radiant Mythology",
       "score": 0.694,
@@ -50,6 +38,18 @@
       "id": 28617,
       "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run",
       "score": 0.693,
+      "r18": false
+    },
+    {
+      "id": 27151,
+      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
+      "score": 0.692,
+      "r18": false
+    },
+    {
+      "id": 39550,
+      "title": "A Mild Noble's Vacation Suggestion",
+      "score": 0.691,
       "r18": false
     },
     {
@@ -89,15 +89,21 @@
       "r18": false
     },
     {
+      "id": 55773,
+      "title": "Isekai ni Otosareta&hellip; Jouka wa Kihon!",
+      "score": 0.688,
+      "r18": false
+    },
+    {
       "id": 46861,
       "title": "Saiyouki",
       "score": 0.687,
       "r18": false
     },
     {
-      "id": 15374,
-      "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Dainishou - Yashiki no Shuukan Hen",
-      "score": 0.687,
+      "id": 4135,
+      "title": "Mushishi",
+      "score": 0.686,
       "r18": false
     },
     {
@@ -113,33 +119,9 @@
       "r18": false
     },
     {
-      "id": 55773,
-      "title": "Isekai ni Otosareta&hellip; Jouka wa Kihon!",
-      "score": 0.686,
-      "r18": false
-    },
-    {
       "id": 281,
       "title": "Trigun Maximum",
       "score": 0.686,
-      "r18": false
-    },
-    {
-      "id": 2110,
-      "title": "Souten no Ken",
-      "score": 0.685,
-      "r18": false
-    },
-    {
-      "id": 13364,
-      "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Daiisshou - Outo no Ichinichi Hen",
-      "score": 0.685,
-      "r18": false
-    },
-    {
-      "id": 4135,
-      "title": "Mushishi",
-      "score": 0.685,
       "r18": false
     },
     {
@@ -152,6 +134,24 @@
       "id": 35448,
       "title": "Strongest Abandoned Son",
       "score": 0.684,
+      "r18": false
+    },
+    {
+      "id": 50185,
+      "title": "The Most Notorious &quot;Talker&quot; Runs the World's Greatest Clan",
+      "score": 0.684,
+      "r18": false
+    },
+    {
+      "id": 36222,
+      "title": "Okashi na Tensei",
+      "score": 0.684,
+      "r18": false
+    },
+    {
+      "id": 22485,
+      "title": "Necrologue",
+      "score": 0.683,
       "r18": false
     }
   ]

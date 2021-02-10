@@ -1,8 +1,8 @@
 {
   "id": 35223,
   "title": "6th Bullets",
-  "url": "https://mangadex.org/manga/35223",
-  "last_updated": "January 14, 2021 00:43:10 UTC",
+  "url": "https://api.mangadex.org/v2/manga/35223",
+  "last_updated": "February 10, 2021 16:40:32 UTC",
   "matches": [
     {
       "id": 19657,
@@ -35,12 +35,6 @@
       "r18": false
     },
     {
-      "id": 3132,
-      "title": "Dragon Ball",
-      "score": 0.194,
-      "r18": false
-    },
-    {
       "id": 23368,
       "title": "Hero? I Quit a Long Time Ago",
       "score": 0.185,
@@ -50,6 +44,12 @@
       "id": 6838,
       "title": "Keroro Gunsou",
       "score": 0.183,
+      "r18": false
+    },
+    {
+      "id": 3132,
+      "title": "Dragon Ball",
+      "score": 0.181,
       "r18": false
     },
     {
@@ -95,6 +95,18 @@
       "r18": false
     },
     {
+      "id": 732,
+      "title": "To Love-Ru",
+      "score": 0.17,
+      "r18": false
+    },
+    {
+      "id": 887,
+      "title": "Mahou Shoujo Lyrical Nanoha ViVid",
+      "score": 0.17,
+      "r18": false
+    },
+    {
       "id": 922,
       "title": "Dororon Enma-kun",
       "score": 0.17,
@@ -131,26 +143,14 @@
       "r18": false
     },
     {
+      "id": 8764,
+      "title": "Cutey Honey",
+      "score": 0.17,
+      "r18": false
+    },
+    {
       "id": 8993,
       "title": "Absolute Duo",
-      "score": 0.17,
-      "r18": false
-    },
-    {
-      "id": 10825,
-      "title": "Occult Maiden - Hishou - Oni o Tsugu Shounen",
-      "score": 0.17,
-      "r18": false
-    },
-    {
-      "id": 12928,
-      "title": "To Love-Ru - Digital Colored Comics",
-      "score": 0.17,
-      "r18": false
-    },
-    {
-      "id": 12929,
-      "title": "To Love-Ru Darkness - Digital Colored Comics",
       "score": 0.17,
       "r18": false
     }

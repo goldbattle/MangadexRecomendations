@@ -1,13 +1,13 @@
 {
   "id": 35526,
   "title": "Monster Lord Loves a Priestess",
-  "url": "https://mangadex.org/manga/35526",
-  "last_updated": "January 14, 2021 00:46:05 UTC",
+  "url": "https://api.mangadex.org/v2/manga/35526",
+  "last_updated": "February 10, 2021 16:45:03 UTC",
   "matches": [
     {
       "id": 54218,
       "title": "The Lady and the Beast",
-      "score": 0.729,
+      "score": 0.741,
       "r18": false
     },
     {
@@ -71,6 +71,12 @@
       "r18": false
     },
     {
+      "id": 59999,
+      "title": "Save Me, Princess",
+      "score": 0.71,
+      "r18": false
+    },
+    {
       "id": 10252,
       "title": "Outbreak Company - Moeru Shinryakusha",
       "score": 0.71,
@@ -101,12 +107,6 @@
       "r18": false
     },
     {
-      "id": 56535,
-      "title": "Makai Kaeri no Rettou Nouryokusha",
-      "score": 0.706,
-      "r18": false
-    },
-    {
       "id": 27651,
       "title": "Sei Dragon Girl",
       "score": 0.705,
@@ -125,12 +125,6 @@
       "r18": false
     },
     {
-      "id": 3996,
-      "title": "Akatsuki no Yona",
-      "score": 0.703,
-      "r18": false
-    },
-    {
       "id": 4867,
       "title": "Tokimeki Tonight",
       "score": 0.702,
@@ -145,12 +139,18 @@
     {
       "id": 969,
       "title": "Kamisama Hajimemashita",
-      "score": 0.701,
+      "score": 0.7,
       "r18": false
     },
     {
       "id": 20153,
       "title": "Tripitaka Torinique",
+      "score": 0.7,
+      "r18": false
+    },
+    {
+      "id": 2888,
+      "title": "Trace 1.5",
       "score": 0.7,
       "r18": false
     }

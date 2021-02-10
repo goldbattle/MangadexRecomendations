@@ -1,9 +1,15 @@
 {
   "id": 34545,
   "title": "Sna-Live! Snake idol project",
-  "url": "https://mangadex.org/manga/34545",
-  "last_updated": "January 14, 2021 00:36:35 UTC",
+  "url": "https://api.mangadex.org/v2/manga/34545",
+  "last_updated": "February 10, 2021 16:30:18 UTC",
   "matches": [
+    {
+      "id": 59891,
+      "title": "Love Live! Sunshine!! - Aqours talk Watanabe You the Beloved Entertainer (Doujinshi)",
+      "score": 0.404,
+      "r18": false
+    },
     {
       "id": 14918,
       "title": "Love Live! School Idol Diary",
@@ -13,7 +19,13 @@
     {
       "id": 51099,
       "title": "Boku no Hero Academia - Boku no Takahide Youchien (Doujinshi)",
-      "score": 0.348,
+      "score": 0.35,
+      "r18": false
+    },
+    {
+      "id": 59497,
+      "title": "Love Live! Nijigasaki - Nakanenata's Lanzhu Comics",
+      "score": 0.341,
       "r18": false
     },
     {
@@ -26,12 +38,6 @@
       "id": 6799,
       "title": "Touhou - Private Touhou Academy -COMPLETE- (Doujinshi)",
       "score": 0.31,
-      "r18": false
-    },
-    {
-      "id": 12326,
-      "title": "Love Live! - School Idol Project",
-      "score": 0.303,
       "r18": false
     },
     {
@@ -62,6 +68,12 @@
       "id": 38969,
       "title": "Shingeki no Kyojin - Fake Lovers (Doujinshi)",
       "score": 0.297,
+      "r18": false
+    },
+    {
+      "id": 59775,
+      "title": "Natsu de mo Nagasode no Tougou-san",
+      "score": 0.296,
       "r18": false
     },
     {
@@ -103,6 +115,18 @@
     {
       "id": 25849,
       "title": "Boku no Hero Academia - Bakugo-kun and Ochako-chan (Doujinshi)",
+      "score": 0.289,
+      "r18": false
+    },
+    {
+      "id": 51125,
+      "title": "Boku no Hero Academia - &amp;-and- (Doujinshi)",
+      "score": 0.289,
+      "r18": false
+    },
+    {
+      "id": 1172,
+      "title": "Hadaka Muffler",
       "score": 0.288,
       "r18": false
     },
@@ -125,32 +149,8 @@
       "r18": false
     },
     {
-      "id": 1172,
-      "title": "Hadaka Muffler",
-      "score": 0.287,
-      "r18": false
-    },
-    {
-      "id": 51125,
-      "title": "Boku no Hero Academia - &amp;-and- (Doujinshi)",
-      "score": 0.287,
-      "r18": false
-    },
-    {
       "id": 9285,
       "title": "Asagao to Kase-san. - Chocolate to Kase-san (Doujinshi)",
-      "score": 0.287,
-      "r18": false
-    },
-    {
-      "id": 48141,
-      "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
-      "score": 0.287,
-      "r18": false
-    },
-    {
-      "id": 32999,
-      "title": "Kill Me Baby - Yasunatte (Doujinshi)",
       "score": 0.287,
       "r18": false
     }
