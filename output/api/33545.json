@@ -1,8 +1,8 @@
 {
   "id": 33545,
   "title": "Watashi to Watashi",
-  "url": "https://mangadex.org/manga/33545",
-  "last_updated": "January 13, 2021 19:18:09 UTC",
+  "url": "https://api.mangadex.org/v2/manga/33545",
+  "last_updated": "February 10, 2021 12:39:49 UTC",
   "matches": [
     {
       "id": 191,
@@ -38,12 +38,6 @@
       "id": 15991,
       "title": "Koi wa Ameagari no You ni",
       "score": 0.722,
-      "r18": false
-    },
-    {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.721,
       "r18": false
     },
     {
@@ -85,7 +79,7 @@
     {
       "id": 345,
       "title": "5 Centimeters Per Second",
-      "score": 0.719,
+      "score": 0.718,
       "r18": false
     },
     {
@@ -107,14 +101,14 @@
       "r18": false
     },
     {
-      "id": 470,
-      "title": "Sprite",
+      "id": 2412,
+      "title": "Taiyou no Ijiwaru",
       "score": 0.715,
       "r18": false
     },
     {
-      "id": 2412,
-      "title": "Taiyou no Ijiwaru",
+      "id": 470,
+      "title": "Sprite",
       "score": 0.715,
       "r18": false
     },
@@ -137,14 +131,14 @@
       "r18": false
     },
     {
-      "id": 19505,
-      "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
-      "score": 0.712,
+      "id": 20346,
+      "title": "Watashi no Shounen",
+      "score": 0.711,
       "r18": false
     },
     {
-      "id": 20346,
-      "title": "Watashi no Shounen",
+      "id": 4135,
+      "title": "Mushishi",
       "score": 0.711,
       "r18": false
     },
@@ -152,6 +146,12 @@
       "id": 32017,
       "title": "Miageru to Kimi wa",
       "score": 0.711,
+      "r18": false
+    },
+    {
+      "id": 645,
+      "title": "Hatsukanezumi no Jikan",
+      "score": 0.71,
       "r18": false
     }
   ]

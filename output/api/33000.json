@@ -1,8 +1,8 @@
 {
   "id": 33000,
   "title": "Like That Winter Flower",
-  "url": "https://mangadex.org/manga/33000",
-  "last_updated": "January 13, 2021 19:11:58 UTC",
+  "url": "https://api.mangadex.org/v2/manga/33000",
+  "last_updated": "February 10, 2021 12:30:43 UTC",
   "matches": [
     {
       "id": 52014,
@@ -11,9 +11,15 @@
       "r18": false
     },
     {
+      "id": 59795,
+      "title": "A Casual Friend",
+      "score": 0.701,
+      "r18": false
+    },
+    {
       "id": 37597,
       "title": "Emergency! How to Deal With Love",
-      "score": 0.702,
+      "score": 0.701,
       "r18": false
     },
     {
@@ -26,6 +32,12 @@
       "id": 33983,
       "title": "Vending Machine",
       "score": 0.694,
+      "r18": false
+    },
+    {
+      "id": 44473,
+      "title": "To Be You, Even Just for a Day",
+      "score": 0.692,
       "r18": false
     },
     {
@@ -43,19 +55,13 @@
     {
       "id": 51962,
       "title": "Fools Remaster",
-      "score": 0.69,
-      "r18": false
-    },
-    {
-      "id": 44473,
-      "title": "To Be You, Even Just for a Day",
-      "score": 0.69,
+      "score": 0.689,
       "r18": false
     },
     {
       "id": 34446,
       "title": "The Monsoon In June",
-      "score": 0.687,
+      "score": 0.686,
       "r18": false
     },
     {
@@ -77,9 +83,21 @@
       "r18": false
     },
     {
+      "id": 58084,
+      "title": "A Kind Goblin's Bird",
+      "score": 0.677,
+      "r18": false
+    },
+    {
       "id": 20846,
       "title": "Fools",
       "score": 0.676,
+      "r18": false
+    },
+    {
+      "id": 59476,
+      "title": "The Tyrant&rsquo;s Guardian Is an Evil Witch",
+      "score": 0.675,
       "r18": false
     },
     {
@@ -97,13 +115,13 @@
     {
       "id": 29067,
       "title": "Stop The World",
-      "score": 0.673,
+      "score": 0.674,
       "r18": false
     },
     {
       "id": 22954,
       "title": "This Can't Be Love",
-      "score": 0.673,
+      "score": 0.674,
       "r18": false
     },
     {
@@ -134,24 +152,6 @@
       "id": 1021,
       "title": "Girls of the Wild's",
       "score": 0.671,
-      "r18": false
-    },
-    {
-      "id": 58255,
-      "title": "Starry Night",
-      "score": 0.671,
-      "r18": false
-    },
-    {
-      "id": 57929,
-      "title": "A Hunter's Courtship Method",
-      "score": 0.67,
-      "r18": false
-    },
-    {
-      "id": 56460,
-      "title": "As the Lady Wishes",
-      "score": 0.67,
       "r18": false
     }
   ]

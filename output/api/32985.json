@@ -1,8 +1,8 @@
 {
   "id": 32985,
   "title": "Light Snowfall",
-  "url": "https://mangadex.org/manga/32985",
-  "last_updated": "January 13, 2021 19:11:49 UTC",
+  "url": "https://api.mangadex.org/v2/manga/32985",
+  "last_updated": "February 10, 2021 12:30:26 UTC",
   "matches": [
     {
       "id": 23604,
@@ -41,6 +41,12 @@
       "r18": false
     },
     {
+      "id": 16647,
+      "title": "Narisumasu.",
+      "score": 0.272,
+      "r18": false
+    },
+    {
       "id": 20899,
       "title": "Gakusou",
       "score": 0.272,
@@ -67,6 +73,12 @@
     {
       "id": 48007,
       "title": "The Blossoms Are Still Beautiful Even If They Fall",
+      "score": 0.272,
+      "r18": false
+    },
+    {
+      "id": 57319,
+      "title": "Mukuchi na Kare ga Zangyousuru Riyuu",
       "score": 0.272,
       "r18": false
     },
@@ -139,18 +151,6 @@
     {
       "id": 43522,
       "title": "Queen",
-      "score": 0.194,
-      "r18": false
-    },
-    {
-      "id": 54034,
-      "title": "Kuu Nomu Tokoro ni Taberu Toko",
-      "score": 0.194,
-      "r18": false
-    },
-    {
-      "id": 55266,
-      "title": "A Bittersweet Couple",
       "score": 0.194,
       "r18": false
     }

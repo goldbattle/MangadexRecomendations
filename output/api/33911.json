@@ -1,8 +1,8 @@
 {
   "id": 33911,
   "title": "Red Zone",
-  "url": "https://mangadex.org/manga/33911",
-  "last_updated": "January 13, 2021 19:21:50 UTC",
+  "url": "https://api.mangadex.org/v2/manga/33911",
+  "last_updated": "February 10, 2021 12:45:51 UTC",
   "matches": [
     {
       "id": 22018,
@@ -31,12 +31,6 @@
     {
       "id": 57599,
       "title": "Tempters",
-      "score": 0.36,
-      "r18": false
-    },
-    {
-      "id": 59359,
-      "title": "Daehyun Laundry~ We wash everything~",
       "score": 0.36,
       "r18": false
     },
@@ -125,12 +119,6 @@
       "r18": false
     },
     {
-      "id": 58957,
-      "title": "Runway Hit",
-      "score": 0.24,
-      "r18": false
-    },
-    {
       "id": 20193,
       "title": "Blood Bank",
       "score": 0.18,
@@ -151,6 +139,18 @@
     {
       "id": 21332,
       "title": "Similar Terms",
+      "score": 0.18,
+      "r18": false
+    },
+    {
+      "id": 23731,
+      "title": "My Director",
+      "score": 0.18,
+      "r18": false
+    },
+    {
+      "id": 26272,
+      "title": "Young Lad's Wool Shop",
       "score": 0.18,
       "r18": false
     }

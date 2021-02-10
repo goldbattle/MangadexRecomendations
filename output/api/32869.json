@@ -1,8 +1,8 @@
 {
   "id": 32869,
   "title": "Qi Youji",
-  "url": "https://mangadex.org/manga/32869",
-  "last_updated": "January 13, 2021 19:10:36 UTC",
+  "url": "https://api.mangadex.org/v2/manga/32869",
+  "last_updated": "February 10, 2021 12:28:28 UTC",
   "matches": [
     {
       "id": 6377,
@@ -19,12 +19,6 @@
     {
       "id": 1397,
       "title": "Jabberwocky",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 1604,
-      "title": "ChunChu",
       "score": 0.227,
       "r18": false
     },
@@ -151,6 +145,12 @@
     {
       "id": 6873,
       "title": "Tales of Symphonia",
+      "score": 0.227,
+      "r18": false
+    },
+    {
+      "id": 6902,
+      "title": "Tales of the Abyss - Senketsu no Asch",
       "score": 0.227,
       "r18": false
     }

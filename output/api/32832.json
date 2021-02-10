@@ -1,8 +1,8 @@
 {
   "id": 32832,
   "title": "Ryouchou wa Ryouri Jouzu",
-  "url": "https://mangadex.org/manga/32832",
-  "last_updated": "January 13, 2021 19:10:14 UTC",
+  "url": "https://api.mangadex.org/v2/manga/32832",
+  "last_updated": "February 10, 2021 12:27:52 UTC",
   "matches": [
     {
       "id": 384,
@@ -49,12 +49,6 @@
     {
       "id": 6687,
       "title": "A-Channel",
-      "score": 0.356,
-      "r18": false
-    },
-    {
-      "id": 9553,
-      "title": "Yuyushiki",
       "score": 0.356,
       "r18": false
     },
@@ -151,6 +145,12 @@
     {
       "id": 2846,
       "title": "Saki-Biyori - Otona no Maki",
+      "score": 0.297,
+      "r18": false
+    },
+    {
+      "id": 7269,
+      "title": "Echo-Pun",
       "score": 0.297,
       "r18": false
     }

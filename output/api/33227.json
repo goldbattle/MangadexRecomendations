@@ -1,8 +1,8 @@
 {
   "id": 33227,
   "title": "Screw Girl Comedy",
-  "url": "https://mangadex.org/manga/33227",
-  "last_updated": "January 13, 2021 19:14:52 UTC",
+  "url": "https://api.mangadex.org/v2/manga/33227",
+  "last_updated": "February 10, 2021 12:34:39 UTC",
   "matches": [
     {
       "id": 11917,
@@ -41,12 +41,6 @@
       "r18": false
     },
     {
-      "id": 4168,
-      "title": "Koi to Senkyo to Chocolate",
-      "score": 0.274,
-      "r18": false
-    },
-    {
       "id": 16041,
       "title": "Ore ga Ojou-sama Gakkou ni &quot;Shomin Sample&quot; Toshite Spinoff Sareta Ken",
       "score": 0.272,
@@ -55,7 +49,7 @@
     {
       "id": 575,
       "title": "Sore ga Kanojo no Seigi nara",
-      "score": 0.269,
+      "score": 0.27,
       "r18": false
     },
     {
@@ -77,14 +71,14 @@
       "r18": false
     },
     {
-      "id": 35964,
-      "title": "Boku no Kanojo Sensei",
+      "id": 19703,
+      "title": "Yomekura",
       "score": 0.263,
       "r18": false
     },
     {
-      "id": 19703,
-      "title": "Yomekura",
+      "id": 35964,
+      "title": "Boku no Kanojo Sensei",
       "score": 0.263,
       "r18": false
     },
@@ -113,8 +107,8 @@
       "r18": false
     },
     {
-      "id": 51703,
-      "title": "Onegai, Nugashite.",
+      "id": 598,
+      "title": "Girls Saurus",
       "score": 0.26,
       "r18": false
     },
@@ -131,12 +125,6 @@
       "r18": false
     },
     {
-      "id": 598,
-      "title": "Girls Saurus",
-      "score": 0.26,
-      "r18": false
-    },
-    {
       "id": 656,
       "title": "Nogizaka Haruka no Himitsu",
       "score": 0.26,
@@ -149,9 +137,21 @@
       "r18": false
     },
     {
+      "id": 4168,
+      "title": "Koi to Senkyo to Chocolate",
+      "score": 0.259,
+      "r18": false
+    },
+    {
       "id": 7731,
       "title": "Ikebukuro Hatsu, Zensekai Yuki!",
       "score": 0.259,
+      "r18": false
+    },
+    {
+      "id": 786,
+      "title": "Hoken no Sensei",
+      "score": 0.258,
       "r18": false
     }
   ]

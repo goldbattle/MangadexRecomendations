@@ -1,19 +1,13 @@
 {
   "id": 33877,
   "title": "Gozen 3-ji no Iede",
-  "url": "https://mangadex.org/manga/33877",
-  "last_updated": "January 13, 2021 19:21:29 UTC",
+  "url": "https://api.mangadex.org/v2/manga/33877",
+  "last_updated": "February 10, 2021 12:45:15 UTC",
   "matches": [
     {
       "id": 15125,
       "title": "Doutei Hitsuji to Abazure Ookami",
       "score": 0.713,
-      "r18": false
-    },
-    {
-      "id": 50448,
-      "title": "Tonari no Metaller-san",
-      "score": 0.707,
       "r18": false
     },
     {
@@ -83,12 +77,6 @@
       "r18": false
     },
     {
-      "id": 441,
-      "title": "Finder",
-      "score": 0.671,
-      "r18": false
-    },
-    {
       "id": 28911,
       "title": "Love Romance Sweet Kiss",
       "score": 0.669,
@@ -149,9 +137,21 @@
       "r18": false
     },
     {
+      "id": 14999,
+      "title": "Hatsukoi no Kanata",
+      "score": 0.659,
+      "r18": false
+    },
+    {
       "id": 36810,
       "title": "Black or White",
       "score": 0.653,
+      "r18": false
+    },
+    {
+      "id": 57206,
+      "title": "Kumo no Ue de Kiss o Shiyou",
+      "score": 0.652,
       "r18": false
     }
   ]

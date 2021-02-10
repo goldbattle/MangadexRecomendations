@@ -1,8 +1,8 @@
 {
   "id": 32573,
   "title": "Sennetsu",
-  "url": "https://mangadex.org/manga/32573",
-  "last_updated": "January 13, 2021 19:07:35 UTC",
+  "url": "https://api.mangadex.org/v2/manga/32573",
+  "last_updated": "February 10, 2021 12:23:33 UTC",
   "matches": [
     {
       "id": 17961,
@@ -35,15 +35,15 @@
       "r18": false
     },
     {
-      "id": 17384,
-      "title": "Holiday Love - Fuufukan Renai",
-      "score": 0.695,
+      "id": 57319,
+      "title": "Mukuchi na Kare ga Zangyousuru Riyuu",
+      "score": 0.697,
       "r18": false
     },
     {
-      "id": 44026,
-      "title": "No Youna",
-      "score": 0.694,
+      "id": 17384,
+      "title": "Holiday Love - Fuufukan Renai",
+      "score": 0.695,
       "r18": false
     },
     {
@@ -53,14 +53,20 @@
       "r18": false
     },
     {
-      "id": 12879,
-      "title": "Bread &amp; Butter",
-      "score": 0.693,
+      "id": 44026,
+      "title": "No, Youna.",
+      "score": 0.694,
       "r18": false
     },
     {
       "id": 4473,
       "title": "Toribako House",
+      "score": 0.693,
+      "r18": false
+    },
+    {
+      "id": 12879,
+      "title": "Bread &amp; Butter",
       "score": 0.693,
       "r18": false
     },
@@ -79,7 +85,13 @@
     {
       "id": 19059,
       "title": "Yuku Yuku",
-      "score": 0.691,
+      "score": 0.692,
+      "r18": false
+    },
+    {
+      "id": 51000,
+      "title": "I Want to Do It, Even If It Hurts",
+      "score": 0.692,
       "r18": false
     },
     {
@@ -140,18 +152,6 @@
       "id": 13407,
       "title": "Nigeru wa Haji da ga Yaku ni Tatsu",
       "score": 0.689,
-      "r18": false
-    },
-    {
-      "id": 2966,
-      "title": "Kimi wa Petto",
-      "score": 0.686,
-      "r18": false
-    },
-    {
-      "id": 1358,
-      "title": "Lady Masquerade",
-      "score": 0.685,
       "r18": false
     }
   ]

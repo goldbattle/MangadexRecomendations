@@ -1,9 +1,15 @@
 {
   "id": 32834,
   "title": "Oversimplified SCP",
-  "url": "https://mangadex.org/manga/32834",
-  "last_updated": "January 13, 2021 19:10:16 UTC",
+  "url": "https://api.mangadex.org/v2/manga/32834",
+  "last_updated": "February 10, 2021 12:27:54 UTC",
   "matches": [
+    {
+      "id": 37391,
+      "title": "Mahouka Koukou no Rettousei - Koto Nairan-hen",
+      "score": 0.67,
+      "r18": false
+    },
     {
       "id": 11354,
       "title": "Kamen Rider ZO",
@@ -13,12 +19,6 @@
     {
       "id": 14776,
       "title": "Inukai x Tribe",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 303,
-      "title": "Claymore",
       "score": 0.66,
       "r18": false
     },
@@ -38,12 +38,6 @@
       "id": 8881,
       "title": "Suisei no Gargantia",
       "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 45198,
-      "title": "Boku no Hero Academia - True Hero (Doujinshi)",
-      "score": 0.654,
       "r18": false
     },
     {
@@ -71,6 +65,12 @@
       "r18": false
     },
     {
+      "id": 3861,
+      "title": "Super Robot Taisen OG - The Inspector - Record of ATX",
+      "score": 0.65,
+      "r18": false
+    },
+    {
       "id": 3091,
       "title": "Suzumiya Haruhi no Yuuutsu",
       "score": 0.65,
@@ -83,21 +83,9 @@
       "r18": false
     },
     {
-      "id": 3861,
-      "title": "Super Robot Taisen OG - The Inspector - Record of ATX",
-      "score": 0.65,
-      "r18": false
-    },
-    {
       "id": 5258,
       "title": "Kamen Rider Black",
       "score": 0.315,
-      "r18": false
-    },
-    {
-      "id": 336,
-      "title": "Kuroshitsuji",
-      "score": 0.292,
       "r18": false
     },
     {
@@ -107,20 +95,26 @@
       "r18": false
     },
     {
+      "id": 303,
+      "title": "Claymore",
+      "score": 0.29,
+      "r18": false
+    },
+    {
       "id": 28843,
       "title": "JoJo's Bizarre Adventure Part 4 - Diamond is Unbreakable",
       "score": 0.283,
       "r18": false
     },
     {
-      "id": 53977,
-      "title": "Dragon Raja 2",
+      "id": 15839,
+      "title": "Corpse Party",
       "score": 0.279,
       "r18": false
     },
     {
-      "id": 15839,
-      "title": "Corpse Party",
+      "id": 53977,
+      "title": "Dragon Raja 2",
       "score": 0.279,
       "r18": false
     },
@@ -133,7 +127,13 @@
     {
       "id": 53969,
       "title": "Dragon Raja",
-      "score": 0.277,
+      "score": 0.276,
+      "r18": false
+    },
+    {
+      "id": 336,
+      "title": "Kuroshitsuji",
+      "score": 0.276,
       "r18": false
     },
     {
@@ -151,7 +151,7 @@
     {
       "id": 1426,
       "title": "Umineko no Naku Koro ni Episode 1: Legend of the Golden Witch",
-      "score": 0.276,
+      "score": 0.275,
       "r18": false
     }
   ]

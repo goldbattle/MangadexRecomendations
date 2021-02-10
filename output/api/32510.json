@@ -1,8 +1,8 @@
 {
   "id": 32510,
   "title": "Shiawase wo Anata ni",
-  "url": "https://mangadex.org/manga/32510",
-  "last_updated": "January 13, 2021 19:06:56 UTC",
+  "url": "https://api.mangadex.org/v2/manga/32510",
+  "last_updated": "February 10, 2021 12:22:31 UTC",
   "matches": [
     {
       "id": 25848,
@@ -13,7 +13,7 @@
     {
       "id": 56102,
       "title": "The Story of a Noble Lady Raising a Boy Into a Noble Lady",
-      "score": 0.391,
+      "score": 0.392,
       "r18": false
     },
     {
@@ -56,6 +56,12 @@
       "id": 49326,
       "title": "Inverse Hero",
       "score": 0.197,
+      "r18": false
+    },
+    {
+      "id": 59608,
+      "title": "ELEMENTS: Users Of The Universe",
+      "score": 0.133,
       "r18": false
     }
   ]

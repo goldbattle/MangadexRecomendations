@@ -1,8 +1,8 @@
 {
   "id": 33549,
   "title": "Breakdown",
-  "url": "https://mangadex.org/manga/33549",
-  "last_updated": "January 13, 2021 19:18:12 UTC",
+  "url": "https://api.mangadex.org/v2/manga/33549",
+  "last_updated": "February 10, 2021 12:39:54 UTC",
   "matches": [
     {
       "id": 17709,
@@ -20,6 +20,12 @@
       "id": 580,
       "title": "Kodoku Experiment",
       "score": 0.694,
+      "r18": false
+    },
+    {
+      "id": 36276,
+      "title": "The Blue Hole",
+      "score": 0.692,
       "r18": false
     },
     {
@@ -43,7 +49,7 @@
     {
       "id": 55773,
       "title": "Isekai ni Otosareta&hellip; Jouka wa Kihon!",
-      "score": 0.67,
+      "score": 0.673,
       "r18": false
     },
     {
@@ -67,7 +73,7 @@
     {
       "id": 6420,
       "title": "Cat Shit One",
-      "score": 0.661,
+      "score": 0.662,
       "r18": false
     },
     {
@@ -115,7 +121,7 @@
     {
       "id": 42965,
       "title": "This Village Sim NPC Could Only Be Human",
-      "score": 0.655,
+      "score": 0.656,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 17119,
       "title": "Gaikotsu Shotenin Honda-san",
       "score": 0.296,
-      "r18": false
-    },
-    {
-      "id": 46820,
-      "title": "T-Dragon",
-      "score": 0.276,
       "r18": false
     }
   ]

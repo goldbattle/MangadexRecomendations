@@ -1,13 +1,19 @@
 {
   "id": 32965,
   "title": "Hajimari wa Naka Kara",
-  "url": "https://mangadex.org/manga/32965",
-  "last_updated": "January 13, 2021 19:11:35 UTC",
+  "url": "https://api.mangadex.org/v2/manga/32965",
+  "last_updated": "February 10, 2021 12:30:05 UTC",
   "matches": [
     {
       "id": 10361,
       "title": "Soredemo, Yasashii Koi o Suru",
       "score": 0.679,
+      "r18": false
+    },
+    {
+      "id": 1464,
+      "title": "Sangen Tonari no Tooi Hito",
+      "score": 0.677,
       "r18": false
     },
     {
@@ -38,6 +44,12 @@
       "id": 1444,
       "title": "NightS",
       "score": 0.661,
+      "r18": false
+    },
+    {
+      "id": 17135,
+      "title": "Eigyou Nika!",
+      "score": 0.66,
       "r18": false
     },
     {
@@ -97,13 +109,7 @@
     {
       "id": 24817,
       "title": "Joker Trap",
-      "score": 0.371,
-      "r18": false
-    },
-    {
-      "id": 42842,
-      "title": "Senpai, Danjite Koidewa!",
-      "score": 0.363,
+      "score": 0.372,
       "r18": false
     },
     {
@@ -119,9 +125,21 @@
       "r18": false
     },
     {
+      "id": 50281,
+      "title": "Ouja ni Koishita Cinderella",
+      "score": 0.301,
+      "r18": false
+    },
+    {
       "id": 8863,
       "title": "Aiyoku no Canon",
       "score": 0.296,
+      "r18": false
+    },
+    {
+      "id": 59484,
+      "title": "Nee, Onnanoko ni Shite Ageru",
+      "score": 0.289,
       "r18": false
     },
     {
@@ -134,24 +152,6 @@
       "id": 50084,
       "title": "1.5 Meters From Love",
       "score": 0.27,
-      "r18": false
-    },
-    {
-      "id": 50281,
-      "title": "Ouja ni Koishita Cinderella",
-      "score": 0.265,
-      "r18": false
-    },
-    {
-      "id": 55341,
-      "title": "Please Teach Me",
-      "score": 0.264,
-      "r18": false
-    },
-    {
-      "id": 35907,
-      "title": "Restless",
-      "score": 0.264,
       "r18": false
     }
   ]

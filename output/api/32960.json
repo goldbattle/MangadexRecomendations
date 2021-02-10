@@ -1,19 +1,25 @@
 {
   "id": 32960,
   "title": "Gray to Blue no Ai Made",
-  "url": "https://mangadex.org/manga/32960",
-  "last_updated": "January 13, 2021 19:11:32 UTC",
+  "url": "https://api.mangadex.org/v2/manga/32960",
+  "last_updated": "February 10, 2021 12:30:00 UTC",
   "matches": [
     {
       "id": 4810,
       "title": "Boku no Shiru Anata no Hanashi",
-      "score": 0.713,
+      "score": 0.712,
       "r18": false
     },
     {
       "id": 53198,
       "title": "Kimi ga Kono Te o Hanareru nara",
-      "score": 0.705,
+      "score": 0.704,
+      "r18": false
+    },
+    {
+      "id": 16544,
+      "title": "ULTRAS",
+      "score": 0.703,
       "r18": false
     },
     {
@@ -25,7 +31,7 @@
     {
       "id": 19632,
       "title": "Hitorijime My Hero",
-      "score": 0.701,
+      "score": 0.7,
       "r18": false
     },
     {
@@ -44,12 +50,6 @@
       "id": 55801,
       "title": "Koibito no Namae",
       "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 16544,
-      "title": "ULTRAS",
-      "score": 0.695,
       "r18": false
     },
     {
@@ -107,14 +107,14 @@
       "r18": false
     },
     {
-      "id": 58208,
-      "title": "Kaerenain Da Yo",
+      "id": 10512,
+      "title": "Dounimo Nannai Soushi Souai",
       "score": 0.688,
       "r18": false
     },
     {
-      "id": 10512,
-      "title": "Dounimo Nannai Soushi Souai",
+      "id": 58208,
+      "title": "Kaerenain Da Yo",
       "score": 0.688,
       "r18": false
     },
@@ -131,14 +131,14 @@
       "r18": false
     },
     {
-      "id": 36148,
-      "title": "Ai no Kotoba o Uragaeshi",
+      "id": 37604,
+      "title": "Kafe Kara Hajimaru Love Life",
       "score": 0.684,
       "r18": false
     },
     {
-      "id": 37604,
-      "title": "Kafe Kara Hajimaru Love Life",
+      "id": 36148,
+      "title": "Ai no Kotoba o Uragaeshi",
       "score": 0.684,
       "r18": false
     },
@@ -151,7 +151,7 @@
     {
       "id": 27658,
       "title": "Takaramono",
-      "score": 0.683,
+      "score": 0.682,
       "r18": false
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": 33275,
   "title": "She Doesn't Know Why She Lives.",
-  "url": "https://mangadex.org/manga/33275",
-  "last_updated": "January 13, 2021 19:15:23 UTC",
+  "url": "https://api.mangadex.org/v2/manga/33275",
+  "last_updated": "February 10, 2021 12:35:24 UTC",
   "matches": [
     {
       "id": 9968,
@@ -50,12 +50,6 @@
       "id": 21778,
       "title": "Haru to Bonkura",
       "score": 0.358,
-      "r18": false
-    },
-    {
-      "id": 58011,
-      "title": "Gokko",
-      "score": 0.357,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 38175,
       "title": "Asuperu Kanojo",
       "score": 0.321,
+      "r18": false
+    },
+    {
+      "id": 28150,
+      "title": "Kotonoha no Niwa",
+      "score": 0.32,
       "r18": false
     }
   ]

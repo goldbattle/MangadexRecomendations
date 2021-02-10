@@ -1,13 +1,19 @@
 {
   "id": 32945,
   "title": "Parasite in Love",
-  "url": "https://mangadex.org/manga/32945",
-  "last_updated": "January 13, 2021 19:11:23 UTC",
+  "url": "https://api.mangadex.org/v2/manga/32945",
+  "last_updated": "February 10, 2021 12:29:45 UTC",
   "matches": [
     {
       "id": 3089,
       "title": "Corpse Party - Another Child",
       "score": 0.72,
+      "r18": false
+    },
+    {
+      "id": 31917,
+      "title": "Honzuki no Gekokujou ~Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen~ Dai 3-bu \u300cRyouchi ni Hon o Hirogeyou!\u300d",
+      "score": 0.709,
       "r18": false
     },
     {
@@ -31,13 +37,7 @@
     {
       "id": 28525,
       "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo",
-      "score": 0.703,
-      "r18": false
-    },
-    {
-      "id": 12983,
-      "title": "Koi to Uso",
-      "score": 0.701,
+      "score": 0.702,
       "r18": false
     },
     {
@@ -61,12 +61,6 @@
     {
       "id": 3820,
       "title": "Maou - Juvenile Remix",
-      "score": 0.7,
-      "r18": false
-    },
-    {
-      "id": 31917,
-      "title": "Honzuki no Gekokujou ~Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen~ Dai 3-bu \u300cRyouchi ni Hon o Hirogeyou!\u300d",
       "score": 0.7,
       "r18": false
     },
@@ -107,6 +101,12 @@
       "r18": false
     },
     {
+      "id": 7232,
+      "title": "Cat's Eye",
+      "score": 0.696,
+      "r18": false
+    },
+    {
       "id": 13002,
       "title": "Lo-Fi After School",
       "score": 0.695,
@@ -137,6 +137,12 @@
       "r18": false
     },
     {
+      "id": 219,
+      "title": "Akame ga KILL!",
+      "score": 0.694,
+      "r18": false
+    },
+    {
       "id": 353,
       "title": "Shibatora",
       "score": 0.694,
@@ -145,12 +151,6 @@
     {
       "id": 23195,
       "title": "The Great Ruler",
-      "score": 0.693,
-      "r18": false
-    },
-    {
-      "id": 219,
-      "title": "Akame ga KILL!",
       "score": 0.693,
       "r18": false
     }

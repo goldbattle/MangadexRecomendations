@@ -1,8 +1,8 @@
 {
   "id": 33006,
   "title": "Usami-san wa Kamawaretai!",
-  "url": "https://mangadex.org/manga/33006",
-  "last_updated": "January 13, 2021 19:12:02 UTC",
+  "url": "https://api.mangadex.org/v2/manga/33006",
+  "last_updated": "February 10, 2021 12:30:49 UTC",
   "matches": [
     {
       "id": 500,
@@ -13,7 +13,7 @@
     {
       "id": 4804,
       "title": "4-koma Koushiki Anthology - Toaru Kagaku no Railgun x Toaru Majutsu no Index",
-      "score": 0.67,
+      "score": 0.666,
       "r18": false
     },
     {
@@ -43,7 +43,7 @@
     {
       "id": 45151,
       "title": "Ichijouma Mankitsu Gurashi",
-      "score": 0.395,
+      "score": 0.394,
       "r18": false
     },
     {
@@ -65,9 +65,21 @@
       "r18": false
     },
     {
+      "id": 24701,
+      "title": "Peta Girl",
+      "score": 0.368,
+      "r18": false
+    },
+    {
       "id": 258,
       "title": "Mangaka-san to Assistant-san to",
-      "score": 0.37,
+      "score": 0.368,
+      "r18": false
+    },
+    {
+      "id": 32775,
+      "title": "Fechippuru ~Our Innocent Love~",
+      "score": 0.368,
       "r18": false
     },
     {
@@ -113,12 +125,6 @@
       "r18": false
     },
     {
-      "id": 24701,
-      "title": "Peta Girl",
-      "score": 0.288,
-      "r18": false
-    },
-    {
       "id": 21817,
       "title": "Arifureta Nichijou de Sekai Saikyou",
       "score": 0.27,
@@ -146,12 +152,6 @@
       "id": 58839,
       "title": "My Orc CEO",
       "score": 0.18,
-      "r18": false
-    },
-    {
-      "id": 17933,
-      "title": "Trinity Seven - 7-nin no Mahoutsukai Comic Anthology",
-      "score": 0.177,
       "r18": false
     }
   ]
