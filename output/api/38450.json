@@ -2,18 +2,18 @@
   "id": 38450,
   "title": "Shuumatsu no Nosferatu",
   "url": "https://api.mangadex.org/v2/manga/38450",
-  "last_updated": "February 04, 2021 00:22:55 UTC",
+  "last_updated": "February 11, 2021 00:23:09 UTC",
   "matches": [
-    {
-      "id": 114,
-      "title": "Hellsing",
-      "score": 0.719,
-      "r18": false
-    },
     {
       "id": 46498,
       "title": "Kemono Giga",
       "score": 0.711,
+      "r18": false
+    },
+    {
+      "id": 114,
+      "title": "Hellsing",
+      "score": 0.697,
       "r18": false
     },
     {
@@ -35,27 +35,27 @@
       "r18": false
     },
     {
-      "id": 38115,
-      "title": "One Punch-Man (Fan Colored)",
-      "score": 0.682,
-      "r18": false
-    },
-    {
-      "id": 7139,
-      "title": "One Punch-Man",
-      "score": 0.682,
-      "r18": false
-    },
-    {
       "id": 52602,
       "title": "Her Majesty&rsquo;s Swarm",
       "score": 0.675,
       "r18": false
     },
     {
+      "id": 38115,
+      "title": "One Punch-Man (Fan Colored)",
+      "score": 0.668,
+      "r18": false
+    },
+    {
       "id": 247,
       "title": "Gangsta",
       "score": 0.667,
+      "r18": false
+    },
+    {
+      "id": 7139,
+      "title": "One Punch-Man",
+      "score": 0.666,
       "r18": false
     },
     {
@@ -119,6 +119,12 @@
       "r18": false
     },
     {
+      "id": 31885,
+      "title": "Noah of the Blood Sea",
+      "score": 0.285,
+      "r18": false
+    },
+    {
       "id": 17945,
       "title": "Adu of Hades",
       "score": 0.284,
@@ -131,6 +137,12 @@
       "r18": false
     },
     {
+      "id": 44532,
+      "title": "Kyosei Tensei",
+      "score": 0.24,
+      "r18": false
+    },
+    {
       "id": 25334,
       "title": "Buchimaru Chaos",
       "score": 0.234,
@@ -140,18 +152,6 @@
       "id": 4533,
       "title": "Otome Youkai Zakuro",
       "score": 0.223,
-      "r18": false
-    },
-    {
-      "id": 31534,
-      "title": "Batuque",
-      "score": 0.223,
-      "r18": false
-    },
-    {
-      "id": 42473,
-      "title": "Haunted (\u30db\u30fc\u30f3\u30c6\u30c3\u30c9)",
-      "score": 0.211,
       "r18": false
     }
   ]

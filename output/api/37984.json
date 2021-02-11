@@ -2,7 +2,7 @@
   "id": 37984,
   "title": "Perfect Fit",
   "url": "https://api.mangadex.org/v2/manga/37984",
-  "last_updated": "February 04, 2021 00:15:40 UTC",
+  "last_updated": "February 11, 2021 00:15:46 UTC",
   "matches": [
     {
       "id": 7609,
@@ -13,6 +13,12 @@
     {
       "id": 9119,
       "title": "Irome",
+      "score": 0.355,
+      "r18": false
+    },
+    {
+      "id": 12440,
+      "title": "Ai no Kotodama",
       "score": 0.355,
       "r18": false
     },
@@ -145,12 +151,6 @@
     {
       "id": 9199,
       "title": "Seinen wa Ai o Kou",
-      "score": 0.284,
-      "r18": false
-    },
-    {
-      "id": 9508,
-      "title": "Ouji no Hakoniwa",
       "score": 0.284,
       "r18": false
     }

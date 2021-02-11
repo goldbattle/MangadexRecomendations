@@ -2,7 +2,7 @@
   "id": 37783,
   "title": "The King's App",
   "url": "https://api.mangadex.org/v2/manga/37783",
-  "last_updated": "February 04, 2021 00:12:32 UTC",
+  "last_updated": "February 11, 2021 00:12:36 UTC",
   "matches": [
     {
       "id": 45103,
@@ -43,7 +43,7 @@
     {
       "id": 38103,
       "title": "Pure Days",
-      "score": 0.336,
+      "score": 0.335,
       "r18": true
     },
     {
@@ -55,7 +55,7 @@
     {
       "id": 33125,
       "title": "Haeteru Watashi to Tsuiteru Kanojo",
-      "score": 0.319,
+      "score": 0.318,
       "r18": true
     },
     {
@@ -91,7 +91,7 @@
     {
       "id": 31055,
       "title": "Short Pants to Iroiro",
-      "score": 0.285,
+      "score": 0.284,
       "r18": true
     },
     {
@@ -119,6 +119,12 @@
       "r18": true
     },
     {
+      "id": 33145,
+      "title": "Shiricon - Hipsoul",
+      "score": 0.276,
+      "r18": true
+    },
+    {
       "id": 49907,
       "title": "Mesukko Daisuki\u2661",
       "score": 0.275,
@@ -137,21 +143,15 @@
       "r18": true
     },
     {
-      "id": 50477,
-      "title": "Watashi o Ariake e Tsuretette!",
+      "id": 33094,
+      "title": "Daisuki! Goshujin-sama",
       "score": 0.272,
       "r18": true
     },
     {
-      "id": 33425,
-      "title": "Mokkai suru no?",
-      "score": 0.271,
-      "r18": true
-    },
-    {
-      "id": 33127,
-      "title": "XS!",
-      "score": 0.271,
+      "id": 50477,
+      "title": "Watashi o Ariake e Tsuretette!",
+      "score": 0.272,
       "r18": true
     }
   ]

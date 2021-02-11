@@ -2,7 +2,7 @@
   "id": 38258,
   "title": "Tensei shitara Slime datta Ken Ibun: Makoku Gurashi no Trinity",
   "url": "https://api.mangadex.org/v2/manga/38258",
-  "last_updated": "February 04, 2021 00:20:00 UTC",
+  "last_updated": "February 11, 2021 00:20:03 UTC",
   "matches": [
     {
       "id": 36964,
@@ -119,12 +119,6 @@
       "r18": false
     },
     {
-      "id": 303,
-      "title": "Claymore",
-      "score": 0.733,
-      "r18": false
-    },
-    {
       "id": 51325,
       "title": "Shoki Skill ga Benri Sugite Isekai Seikatsu ga Tanoshisugiru!",
       "score": 0.733,
@@ -133,7 +127,13 @@
     {
       "id": 38291,
       "title": "Maseki Gurume: Mamono no Chikara o Tabeta Ore wa Saikyou!",
-      "score": 0.733,
+      "score": 0.732,
+      "r18": false
+    },
+    {
+      "id": 303,
+      "title": "Claymore",
+      "score": 0.731,
       "r18": false
     },
     {
@@ -149,8 +149,8 @@
       "r18": false
     },
     {
-      "id": 21124,
-      "title": "Oretachi no Party wa Machigatteiru",
+      "id": 12329,
+      "title": "Tsuyokute New Saga",
       "score": 0.73,
       "r18": false
     }

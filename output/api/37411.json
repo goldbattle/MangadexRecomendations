@@ -2,7 +2,7 @@
   "id": 37411,
   "title": "Nweho",
   "url": "https://api.mangadex.org/v2/manga/37411",
-  "last_updated": "February 04, 2021 00:06:29 UTC",
+  "last_updated": "February 11, 2021 00:06:31 UTC",
   "matches": [
     {
       "id": 1288,
@@ -119,6 +119,12 @@
       "r18": false
     },
     {
+      "id": 52506,
+      "title": "Mind Reading",
+      "score": 0.278,
+      "r18": false
+    },
+    {
       "id": 55608,
       "title": "Heavenly Bride",
       "score": 0.278,
@@ -146,12 +152,6 @@
       "id": 51541,
       "title": "Together with Shinsun",
       "score": 0.249,
-      "r18": false
-    },
-    {
-      "id": 860,
-      "title": "Gyon-Woo &amp; Jik-Nyu",
-      "score": 0.247,
       "r18": false
     }
   ]

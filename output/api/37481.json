@@ -2,14 +2,8 @@
   "id": 37481,
   "title": "Arafoo Shachiku no Golem Master",
   "url": "https://api.mangadex.org/v2/manga/37481",
-  "last_updated": "February 04, 2021 00:07:35 UTC",
+  "last_updated": "February 11, 2021 00:07:38 UTC",
   "matches": [
-    {
-      "id": 3388,
-      "title": "Fate/Zero",
-      "score": 0.734,
-      "r18": false
-    },
     {
       "id": 14676,
       "title": "The Legendary Moonlight Sculptor",
@@ -109,25 +103,13 @@
     {
       "id": 42686,
       "title": "Yuusha Shoukan ni Makikomareta kedo, Isekai wa Heiwa deshita",
-      "score": 0.713,
+      "score": 0.712,
       "r18": false
     },
     {
       "id": 1625,
       "title": "Sentou Jousai Masurawo",
-      "score": 0.713,
-      "r18": false
-    },
-    {
-      "id": 35626,
-      "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Kenki Koiuta",
-      "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 15374,
-      "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Dainishou - Yashiki no Shuukan Hen",
-      "score": 0.71,
+      "score": 0.712,
       "r18": false
     },
     {
@@ -137,8 +119,20 @@
       "r18": false
     },
     {
+      "id": 3388,
+      "title": "Fate/Zero",
+      "score": 0.708,
+      "r18": false
+    },
+    {
       "id": 20537,
       "title": "Seirei Gensouki ~Konna Sekai de Deaeta Kimi ni~",
+      "score": 0.706,
+      "r18": false
+    },
+    {
+      "id": 52836,
+      "title": "DD Fist of the North Star",
       "score": 0.706,
       "r18": false
     },
@@ -149,9 +143,15 @@
       "r18": false
     },
     {
-      "id": 52836,
-      "title": "DD Fist of the North Star",
+      "id": 18059,
+      "title": "Grimoire of Zero",
       "score": 0.706,
+      "r18": false
+    },
+    {
+      "id": 54655,
+      "title": "Senmetsumadou no Saikyou Kenja: Musai no Kenja, Madou wo Kiwame Saikyou e Itaru",
+      "score": 0.705,
       "r18": false
     }
   ]

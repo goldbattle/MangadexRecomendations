@@ -2,18 +2,12 @@
   "id": 38027,
   "title": "Boruto: Naruto Next Generations (Fan Colored)",
   "url": "https://api.mangadex.org/v2/manga/38027",
-  "last_updated": "February 04, 2021 00:16:22 UTC",
+  "last_updated": "February 11, 2021 00:16:27 UTC",
   "matches": [
-    {
-      "id": 15202,
-      "title": "Naruto Gaiden: Nanadaime Hokage to Akairo no Hanatsuzuki",
-      "score": 0.828,
-      "r18": false
-    },
     {
       "id": 16931,
       "title": "Naruto - Digital Colored Comics",
-      "score": 0.811,
+      "score": 0.81,
       "r18": false
     },
     {
@@ -25,7 +19,13 @@
     {
       "id": 12339,
       "title": "Rock Lee no Seishun Full-Power Ninden",
-      "score": 0.773,
+      "score": 0.772,
+      "r18": false
+    },
+    {
+      "id": 15202,
+      "title": "Naruto Gaiden: Nanadaime Hokage to Akairo no Hanatsuzuki",
+      "score": 0.743,
       "r18": false
     },
     {
@@ -53,15 +53,9 @@
       "r18": false
     },
     {
-      "id": 219,
-      "title": "Akame ga KILL!",
-      "score": 0.694,
-      "r18": false
-    },
-    {
       "id": 42459,
       "title": "Akame ga Kill! 1.5",
-      "score": 0.691,
+      "score": 0.69,
       "r18": false
     },
     {
@@ -139,7 +133,7 @@
     {
       "id": 28542,
       "title": "JoJo's Bizarre Adventure Part 6 - Stone Ocean",
-      "score": 0.679,
+      "score": 0.68,
       "r18": false
     },
     {
@@ -151,6 +145,12 @@
     {
       "id": 8396,
       "title": "Tales of the Abyss - Another Story",
+      "score": 0.679,
+      "r18": false
+    },
+    {
+      "id": 219,
+      "title": "Akame ga KILL!",
       "score": 0.679,
       "r18": false
     }

@@ -2,7 +2,7 @@
   "id": 37860,
   "title": "City of the Famished",
   "url": "https://api.mangadex.org/v2/manga/37860",
-  "last_updated": "February 04, 2021 00:13:44 UTC",
+  "last_updated": "February 11, 2021 00:13:51 UTC",
   "matches": [
     {
       "id": 58129,
@@ -17,9 +17,27 @@
       "r18": false
     },
     {
+      "id": 33390,
+      "title": "Studying Emperor",
+      "score": 0.697,
+      "r18": false
+    },
+    {
+      "id": 45816,
+      "title": "Love or Die",
+      "score": 0.692,
+      "r18": false
+    },
+    {
       "id": 32117,
       "title": "Dead Life",
       "score": 0.679,
+      "r18": false
+    },
+    {
+      "id": 18685,
+      "title": "Lovely Bokhee-ssi",
+      "score": 0.678,
       "r18": false
     },
     {
@@ -37,13 +55,7 @@
     {
       "id": 22362,
       "title": "The Best Smell",
-      "score": 0.673,
-      "r18": false
-    },
-    {
-      "id": 18685,
-      "title": "Lovely Bokhee-ssi",
-      "score": 0.67,
+      "score": 0.672,
       "r18": false
     },
     {
@@ -77,14 +89,14 @@
       "r18": false
     },
     {
-      "id": 57003,
-      "title": "Mosquito War",
+      "id": 30975,
+      "title": "Lost in Zombie City",
       "score": 0.655,
       "r18": false
     },
     {
-      "id": 30975,
-      "title": "Lost in Zombie City",
+      "id": 57003,
+      "title": "Mosquito War",
       "score": 0.655,
       "r18": false
     },
@@ -97,7 +109,7 @@
     {
       "id": 46847,
       "title": "Return Survival",
-      "score": 0.359,
+      "score": 0.36,
       "r18": false
     },
     {
@@ -109,7 +121,7 @@
     {
       "id": 48469,
       "title": "The First Hunter",
-      "score": 0.324,
+      "score": 0.325,
       "r18": false
     },
     {
@@ -121,7 +133,7 @@
     {
       "id": 9501,
       "title": "The Vampire and the Bachelor Next Door",
-      "score": 0.312,
+      "score": 0.313,
       "r18": false
     },
     {
@@ -140,18 +152,6 @@
       "id": 46579,
       "title": "Liar, Where Are Vampires!",
       "score": 0.297,
-      "r18": false
-    },
-    {
-      "id": 18422,
-      "title": "Boys Be Zombitious",
-      "score": 0.294,
-      "r18": false
-    },
-    {
-      "id": 11,
-      "title": "Noblesse",
-      "score": 0.294,
       "r18": false
     }
   ]

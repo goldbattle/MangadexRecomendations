@@ -2,7 +2,7 @@
   "id": 38405,
   "title": "Adventure in Warring States",
   "url": "https://api.mangadex.org/v2/manga/38405",
-  "last_updated": "February 04, 2021 00:22:13 UTC",
+  "last_updated": "February 11, 2021 00:22:26 UTC",
   "matches": [
     {
       "id": 23231,
@@ -67,7 +67,13 @@
     {
       "id": 20284,
       "title": "X - Epoch of the Dragon",
-      "score": 0.695,
+      "score": 0.694,
+      "r18": false
+    },
+    {
+      "id": 51318,
+      "title": "Truthfully, They Only Remembered Her",
+      "score": 0.694,
       "r18": false
     },
     {
@@ -85,7 +91,7 @@
     {
       "id": 14674,
       "title": "Desolate Era",
-      "score": 0.693,
+      "score": 0.692,
       "r18": false
     },
     {
@@ -145,12 +151,6 @@
     {
       "id": 20540,
       "title": "God of Martial Arts",
-      "score": 0.686,
-      "r18": false
-    },
-    {
-      "id": 29203,
-      "title": "My Phoenix Is on Top",
       "score": 0.686,
       "r18": false
     }

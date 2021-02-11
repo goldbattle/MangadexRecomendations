@@ -2,7 +2,7 @@
   "id": 37570,
   "title": "Utsukushii",
   "url": "https://api.mangadex.org/v2/manga/37570",
-  "last_updated": "February 04, 2021 00:09:05 UTC",
+  "last_updated": "February 11, 2021 00:09:07 UTC",
   "matches": [
     {
       "id": 15681,
@@ -119,6 +119,12 @@
       "r18": false
     },
     {
+      "id": 12440,
+      "title": "Ai no Kotodama",
+      "score": 0.27,
+      "r18": false
+    },
+    {
       "id": 12712,
       "title": "Furueru Yoru no Himitsugoto",
       "score": 0.27,
@@ -145,12 +151,6 @@
     {
       "id": 17138,
       "title": "Sky Link",
-      "score": 0.27,
-      "r18": false
-    },
-    {
-      "id": 17325,
-      "title": "Sonoki ni Sasenaide",
       "score": 0.27,
       "r18": false
     }

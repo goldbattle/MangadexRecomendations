@@ -2,7 +2,7 @@
   "id": 38295,
   "title": "Bakejo!",
   "url": "https://api.mangadex.org/v2/manga/38295",
-  "last_updated": "February 04, 2021 00:20:35 UTC",
+  "last_updated": "February 11, 2021 00:20:41 UTC",
   "matches": [
     {
       "id": 45406,
@@ -32,6 +32,12 @@
       "id": 13790,
       "title": "Mahou Ineko to Ibarahime",
       "score": 0.29,
+      "r18": false
+    },
+    {
+      "id": 876,
+      "title": "Mononokemono",
+      "score": 0.287,
       "r18": false
     },
     {
@@ -89,6 +95,12 @@
       "r18": false
     },
     {
+      "id": 34752,
+      "title": "Robot Izonkei Joshi no Meiwaku na Nichijou",
+      "score": 0.251,
+      "r18": false
+    },
+    {
       "id": 331,
       "title": "Kamichu!",
       "score": 0.246,
@@ -139,18 +151,6 @@
     {
       "id": 24566,
       "title": "Mahou Shounen Natsuki x Loveits",
-      "score": 0.246,
-      "r18": false
-    },
-    {
-      "id": 27925,
-      "title": "Jun and Kaoru",
-      "score": 0.246,
-      "r18": false
-    },
-    {
-      "id": 36230,
-      "title": "Kimagure Orange Road (Colored)",
       "score": 0.246,
       "r18": false
     }

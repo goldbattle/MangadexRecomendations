@@ -2,7 +2,7 @@
   "id": 38370,
   "title": "Daisuki Dakara Ijimetai!",
   "url": "https://api.mangadex.org/v2/manga/38370",
-  "last_updated": "February 04, 2021 00:21:40 UTC",
+  "last_updated": "February 11, 2021 00:21:51 UTC",
   "matches": [
     {
       "id": 54984,
@@ -19,12 +19,18 @@
     {
       "id": 36482,
       "title": "Sweet: Kare no Amai Amai Aji",
-      "score": 0.679,
+      "score": 0.68,
       "r18": true
     },
     {
       "id": 19726,
       "title": "Jackass! - Sawatte Ii tte Dare ga Itta yo?",
+      "score": 0.679,
+      "r18": true
+    },
+    {
+      "id": 31361,
+      "title": "Choukyou Kakusei BL",
       "score": 0.679,
       "r18": true
     },
@@ -91,7 +97,7 @@
     {
       "id": 26559,
       "title": "Barairo no Kenkyuu to Hanakurafu Kimi",
-      "score": 0.662,
+      "score": 0.663,
       "r18": true
     },
     {
@@ -103,13 +109,13 @@
     {
       "id": 50041,
       "title": "Kirei na Onii-san ga Ore no Pet ni Narimashita",
-      "score": 0.66,
+      "score": 0.661,
       "r18": true
     },
     {
       "id": 11279,
       "title": "Shiawase Cook",
-      "score": 0.66,
+      "score": 0.661,
       "r18": true
     },
     {
@@ -146,12 +152,6 @@
       "id": 53790,
       "title": "Kimi ga Ichiban Soba ni Iru",
       "score": 0.654,
-      "r18": true
-    },
-    {
-      "id": 11679,
-      "title": "Paradise Baby",
-      "score": 0.652,
       "r18": true
     }
   ]

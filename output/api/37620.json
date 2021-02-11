@@ -2,8 +2,14 @@
   "id": 37620,
   "title": "Love Joto!",
   "url": "https://api.mangadex.org/v2/manga/37620",
-  "last_updated": "February 04, 2021 00:09:54 UTC",
+  "last_updated": "February 11, 2021 00:09:53 UTC",
   "matches": [
+    {
+      "id": 16544,
+      "title": "ULTRAS",
+      "score": 0.72,
+      "r18": false
+    },
     {
       "id": 4810,
       "title": "Boku no Shiru Anata no Hanashi",
@@ -14,12 +20,6 @@
       "id": 12095,
       "title": "Marude Hajimete no Koi Mitai ni",
       "score": 0.715,
-      "r18": false
-    },
-    {
-      "id": 16544,
-      "title": "ULTRAS",
-      "score": 0.714,
       "r18": false
     },
     {
@@ -55,7 +55,7 @@
     {
       "id": 37280,
       "title": "Kimi no Ai wa Mienikui",
-      "score": 0.705,
+      "score": 0.704,
       "r18": false
     },
     {
@@ -133,13 +133,13 @@
     {
       "id": 1483,
       "title": "Abarenbou Kareshi",
-      "score": 0.699,
+      "score": 0.698,
       "r18": false
     },
     {
       "id": 55745,
       "title": "Gensou Shounen Koimonogatari",
-      "score": 0.699,
+      "score": 0.698,
       "r18": false
     },
     {

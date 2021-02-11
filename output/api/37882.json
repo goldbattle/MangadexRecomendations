@@ -2,7 +2,7 @@
   "id": 37882,
   "title": "Petit Hame!!",
   "url": "https://api.mangadex.org/v2/manga/37882",
-  "last_updated": "February 04, 2021 00:14:03 UTC",
+  "last_updated": "February 11, 2021 00:14:12 UTC",
   "matches": [
     {
       "id": 34486,
@@ -77,27 +77,33 @@
       "r18": true
     },
     {
-      "id": 48398,
-      "title": "Clarus",
-      "score": 0.529,
-      "r18": true
-    },
-    {
       "id": 48172,
       "title": "I Can't Tell Anyone",
       "score": 0.529,
       "r18": true
     },
     {
+      "id": 48398,
+      "title": "Clarus",
+      "score": 0.529,
+      "r18": true
+    },
+    {
       "id": 42089,
       "title": "Himitsu no Roshutsu Kids",
-      "score": 0.523,
+      "score": 0.524,
       "r18": true
     },
     {
       "id": 38063,
       "title": "Attakaku, Shite.",
-      "score": 0.523,
+      "score": 0.524,
+      "r18": true
+    },
+    {
+      "id": 33145,
+      "title": "Shiricon - Hipsoul",
+      "score": 0.522,
       "r18": true
     },
     {
@@ -146,12 +152,6 @@
       "id": 36675,
       "title": "Dokidoki Lolix",
       "score": 0.509,
-      "r18": true
-    },
-    {
-      "id": 33053,
-      "title": "Ah! Little Flower",
-      "score": 0.506,
       "r18": true
     }
   ]

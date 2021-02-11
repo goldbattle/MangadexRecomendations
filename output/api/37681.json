@@ -2,7 +2,7 @@
   "id": 37681,
   "title": "Sekiro Side Story: Hanbei the Undying",
   "url": "https://api.mangadex.org/v2/manga/37681",
-  "last_updated": "February 04, 2021 00:10:54 UTC",
+  "last_updated": "February 11, 2021 00:10:54 UTC",
   "matches": [
     {
       "id": 44636,
@@ -101,12 +101,6 @@
       "r18": false
     },
     {
-      "id": 337,
-      "title": "Habaegui Sinbu",
-      "score": 0.307,
-      "r18": false
-    },
-    {
       "id": 2287,
       "title": "Sengoku Danshi Hana no Ran",
       "score": 0.307,
@@ -149,9 +143,15 @@
       "r18": false
     },
     {
-      "id": 24309,
-      "title": "Shin Angyo Onshi Gaiden",
-      "score": 0.293,
+      "id": 337,
+      "title": "Habaegui Sinbu",
+      "score": 0.295,
+      "r18": false
+    },
+    {
+      "id": 59592,
+      "title": "Wandering Dream",
+      "score": 0.294,
       "r18": false
     }
   ]

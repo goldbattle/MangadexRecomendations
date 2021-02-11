@@ -2,14 +2,8 @@
   "id": 38099,
   "title": "Vicious Luck",
   "url": "https://api.mangadex.org/v2/manga/38099",
-  "last_updated": "February 04, 2021 00:17:30 UTC",
+  "last_updated": "February 11, 2021 00:17:35 UTC",
   "matches": [
-    {
-      "id": 875,
-      "title": "Bokura wa Minna Kawai-sou",
-      "score": 0.713,
-      "r18": false
-    },
     {
       "id": 4615,
       "title": "Itou-san",
@@ -44,6 +38,12 @@
       "id": 602,
       "title": "Renai Kaidan Sayoko-san",
       "score": 0.702,
+      "r18": false
+    },
+    {
+      "id": 875,
+      "title": "Bokura wa Minna Kawai-sou",
+      "score": 0.697,
       "r18": false
     },
     {
@@ -95,6 +95,12 @@
       "r18": false
     },
     {
+      "id": 33670,
+      "title": "Skip to Loafer",
+      "score": 0.689,
+      "r18": false
+    },
+    {
       "id": 9185,
       "title": "Itsuya-san",
       "score": 0.687,
@@ -139,18 +145,12 @@
     {
       "id": 1023,
       "title": "Inari, Konkon, Koi Iroha.",
-      "score": 0.683,
+      "score": 0.684,
       "r18": false
     },
     {
       "id": 5260,
       "title": "Saishuu Heiki Kanojo",
-      "score": 0.683,
-      "r18": false
-    },
-    {
-      "id": 2518,
-      "title": "Ten yori Takaku",
       "score": 0.683,
       "r18": false
     }

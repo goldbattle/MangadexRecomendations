@@ -2,7 +2,7 @@
   "id": 38591,
   "title": "Mirror Ball Flashing Magic",
   "url": "https://api.mangadex.org/v2/manga/38591",
-  "last_updated": "February 04, 2021 00:25:04 UTC",
+  "last_updated": "February 11, 2021 00:25:17 UTC",
   "matches": [
     {
       "id": 1234,
@@ -67,6 +67,12 @@
     {
       "id": 21910,
       "title": "Otona to Kodomo, Anata to Watashi.",
+      "score": 0.276,
+      "r18": false
+    },
+    {
+      "id": 25481,
+      "title": "Hikari to Tomo ni...: Jiheishouji wo Kakaete",
       "score": 0.276,
       "r18": false
     },
@@ -145,12 +151,6 @@
     {
       "id": 15822,
       "title": "Let Dai",
-      "score": 0.172,
-      "r18": false
-    },
-    {
-      "id": 26134,
-      "title": "Shuuseki Kairo no Himawari",
       "score": 0.172,
       "r18": false
     }

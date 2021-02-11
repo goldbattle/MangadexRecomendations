@@ -2,7 +2,7 @@
   "id": 37998,
   "title": "Getsumen to Heiki Miina",
   "url": "https://api.mangadex.org/v2/manga/37998",
-  "last_updated": "February 04, 2021 00:15:52 UTC",
+  "last_updated": "February 11, 2021 00:15:58 UTC",
   "matches": [
     {
       "id": 8631,
@@ -59,12 +59,6 @@
       "r18": false
     },
     {
-      "id": 13720,
-      "title": "Kono Subarashii Sekai ni Shukufuku wo!",
-      "score": 0.713,
-      "r18": false
-    },
-    {
       "id": 2646,
       "title": "Mushibugyo",
       "score": 0.711,
@@ -107,6 +101,12 @@
       "r18": false
     },
     {
+      "id": 6681,
+      "title": "Shin Slayers - Falces no Sunadokei",
+      "score": 0.707,
+      "r18": false
+    },
+    {
       "id": 22526,
       "title": "Succubus ni Tensei Shita Node Milk wo Shiborimasu",
       "score": 0.707,
@@ -122,12 +122,6 @@
       "id": 29717,
       "title": "Mighty Heart",
       "score": 0.706,
-      "r18": false
-    },
-    {
-      "id": 6681,
-      "title": "Shin Slayers - Falces no Sunadokei",
-      "score": 0.705,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 24412,
       "title": "Makai Senki Disgaea 3: School of Devils",
       "score": 0.7,
+      "r18": false
+    },
+    {
+      "id": 9175,
+      "title": "Shinmai Maou no Testament",
+      "score": 0.699,
       "r18": false
     }
   ]

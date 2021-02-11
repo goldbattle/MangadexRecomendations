@@ -2,7 +2,7 @@
   "id": 37161,
   "title": "Ookami Rise",
   "url": "https://api.mangadex.org/v2/manga/37161",
-  "last_updated": "February 04, 2021 00:02:31 UTC",
+  "last_updated": "February 11, 2021 00:02:38 UTC",
   "matches": [
     {
       "id": 1271,
@@ -67,12 +67,6 @@
     {
       "id": 13381,
       "title": "Dolly Kill Kill",
-      "score": 0.156,
-      "r18": false
-    },
-    {
-      "id": 14704,
-      "title": "Kyomu Senki",
       "score": 0.156,
       "r18": false
     },
@@ -152,6 +146,12 @@
       "id": 40363,
       "title": "Wilderness Hut",
       "score": 0.14,
+      "r18": false
+    },
+    {
+      "id": 6645,
+      "title": "Ragouden",
+      "score": 0.132,
       "r18": false
     }
   ]

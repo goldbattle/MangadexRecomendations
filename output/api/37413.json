@@ -2,7 +2,7 @@
   "id": 37413,
   "title": "Springtime for Blossom",
   "url": "https://api.mangadex.org/v2/manga/37413",
-  "last_updated": "February 04, 2021 00:06:31 UTC",
+  "last_updated": "February 11, 2021 00:06:33 UTC",
   "matches": [
     {
       "id": 20271,
@@ -50,6 +50,12 @@
       "id": 6082,
       "title": "Yume Miru Happa",
       "score": 0.661,
+      "r18": false
+    },
+    {
+      "id": 59999,
+      "title": "Save Me, Princess",
+      "score": 0.66,
       "r18": false
     },
     {
@@ -145,12 +151,6 @@
     {
       "id": 345,
       "title": "5 Centimeters Per Second",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 50429,
-      "title": "The Heart Will Break, but Broken Live on",
       "score": 0.653,
       "r18": false
     }

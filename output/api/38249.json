@@ -2,7 +2,7 @@
   "id": 38249,
   "title": "Bukyousouha",
   "url": "https://api.mangadex.org/v2/manga/38249",
-  "last_updated": "February 04, 2021 00:19:52 UTC",
+  "last_updated": "February 11, 2021 00:19:54 UTC",
   "matches": [
     {
       "id": 4629,
@@ -25,7 +25,7 @@
     {
       "id": 350,
       "title": "Vinland Saga",
-      "score": 0.339,
+      "score": 0.327,
       "r18": false
     },
     {
@@ -44,6 +44,12 @@
       "id": 1111,
       "title": "Stardust Memories",
       "score": 0.253,
+      "r18": false
+    },
+    {
+      "id": 34888,
+      "title": "Messiah's Hammer",
+      "score": 0.246,
       "r18": false
     },
     {
@@ -73,13 +79,7 @@
     {
       "id": 42419,
       "title": "Player",
-      "score": 0.193,
-      "r18": false
-    },
-    {
-      "id": 34888,
-      "title": "Messiah's Hammer",
-      "score": 0.113,
+      "score": 0.192,
       "r18": false
     }
   ]

@@ -2,7 +2,7 @@
   "id": 37766,
   "title": "Benkyou Shinasai!",
   "url": "https://api.mangadex.org/v2/manga/37766",
-  "last_updated": "February 04, 2021 00:12:15 UTC",
+  "last_updated": "February 11, 2021 00:12:19 UTC",
   "matches": [
     {
       "id": 8678,
@@ -83,9 +83,15 @@
       "r18": false
     },
     {
+      "id": 16544,
+      "title": "ULTRAS",
+      "score": 0.656,
+      "r18": false
+    },
+    {
       "id": 56073,
       "title": "Gouin Dakedo Yasashikute",
-      "score": 0.655,
+      "score": 0.656,
       "r18": false
     },
     {
@@ -145,12 +151,6 @@
     {
       "id": 58356,
       "title": "Finger Stinger",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 10293,
-      "title": "Omae de Nakya Dame Mitai",
       "score": 0.652,
       "r18": false
     }

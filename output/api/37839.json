@@ -2,7 +2,7 @@
   "id": 37839,
   "title": "Rainbow",
   "url": "https://api.mangadex.org/v2/manga/37839",
-  "last_updated": "February 04, 2021 00:13:24 UTC",
+  "last_updated": "February 11, 2021 00:13:31 UTC",
   "matches": [
     {
       "id": 35440,
@@ -31,6 +31,12 @@
     {
       "id": 55937,
       "title": "Hajimete Kisu Shita Toki no Onnanoko Futari no Hannou.",
+      "score": 0.28,
+      "r18": false
+    },
+    {
+      "id": 59821,
+      "title": "The Taste of Chocolate",
       "score": 0.28,
       "r18": false
     },
@@ -73,12 +79,6 @@
     {
       "id": 42054,
       "title": "Touhou - Keine-Mokou Cellphone Comic (Doujinshi)",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 49816,
-      "title": "Afterschool Adventure",
       "score": 0.233,
       "r18": false
     },

@@ -2,12 +2,18 @@
   "id": 37449,
   "title": "PIGPEN",
   "url": "https://api.mangadex.org/v2/manga/37449",
-  "last_updated": "February 04, 2021 00:07:06 UTC",
+  "last_updated": "February 11, 2021 00:07:09 UTC",
   "matches": [
     {
       "id": 21656,
       "title": "The Law of the Yama",
       "score": 0.358,
+      "r18": false
+    },
+    {
+      "id": 49856,
+      "title": "Ex vs. Stalker",
+      "score": 0.341,
       "r18": false
     },
     {
@@ -71,6 +77,12 @@
       "r18": false
     },
     {
+      "id": 59638,
+      "title": "The End Of A Relationship",
+      "score": 0.303,
+      "r18": false
+    },
+    {
       "id": 13433,
       "title": "Okitenemuru",
       "score": 0.303,
@@ -85,7 +97,7 @@
     {
       "id": 88,
       "title": "Covertly Gloriously",
-      "score": 0.301,
+      "score": 0.302,
       "r18": false
     },
     {
@@ -127,7 +139,7 @@
     {
       "id": 2678,
       "title": "6000",
-      "score": 0.287,
+      "score": 0.286,
       "r18": false
     },
     {
@@ -140,18 +152,6 @@
       "id": 1765,
       "title": "Umineko no Naku Koro ni Chiru Episode 6: Dawn of the Golden Witch",
       "score": 0.286,
-      "r18": false
-    },
-    {
-      "id": 470,
-      "title": "Sprite",
-      "score": 0.285,
-      "r18": false
-    },
-    {
-      "id": 51777,
-      "title": "Truth Mask",
-      "score": 0.284,
       "r18": false
     }
   ]
