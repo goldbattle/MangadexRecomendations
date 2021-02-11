@@ -1,8 +1,8 @@
 {
   "id": 42858,
   "title": "Wan Gu Shen Wang",
-  "url": "https://mangadex.org/manga/42858",
-  "last_updated": "January 14, 2021 19:10:21 UTC",
+  "url": "https://api.mangadex.org/v2/manga/42858",
+  "last_updated": "February 11, 2021 12:31:39 UTC",
   "matches": [
     {
       "id": 23231,
@@ -14,6 +14,12 @@
       "id": 16069,
       "title": "Tales of Demons and Gods",
       "score": 0.796,
+      "r18": false
+    },
+    {
+      "id": 59908,
+      "title": "Rebirth Of The Earth Immortal Venerable",
+      "score": 0.795,
       "r18": false
     },
     {
@@ -77,15 +83,27 @@
       "r18": false
     },
     {
+      "id": 1021,
+      "title": "Girls of the Wild's",
+      "score": 0.78,
+      "r18": false
+    },
+    {
       "id": 14676,
       "title": "The Legendary Moonlight Sculptor",
       "score": 0.78,
       "r18": false
     },
     {
-      "id": 1021,
-      "title": "Girls of the Wild's",
-      "score": 0.78,
+      "id": 54218,
+      "title": "The Lady and the Beast",
+      "score": 0.779,
+      "r18": false
+    },
+    {
+      "id": 45938,
+      "title": "Oh! My Prince!",
+      "score": 0.779,
       "r18": false
     },
     {
@@ -113,6 +131,18 @@
       "r18": false
     },
     {
+      "id": 51318,
+      "title": "Truthfully, They Only Remembered Her",
+      "score": 0.773,
+      "r18": false
+    },
+    {
+      "id": 55352,
+      "title": "Invasion Of The Immortal Emperor",
+      "score": 0.773,
+      "r18": false
+    },
+    {
       "id": 45628,
       "title": "Heaven Official's Blessing",
       "score": 0.772,
@@ -122,36 +152,6 @@
       "id": 44910,
       "title": "Starvation and Reincarnation",
       "score": 0.771,
-      "r18": false
-    },
-    {
-      "id": 33099,
-      "title": "This Girl Is a Little Wild",
-      "score": 0.771,
-      "r18": false
-    },
-    {
-      "id": 53969,
-      "title": "Dragon Raja",
-      "score": 0.77,
-      "r18": false
-    },
-    {
-      "id": 53977,
-      "title": "Dragon Raja 2",
-      "score": 0.769,
-      "r18": false
-    },
-    {
-      "id": 42236,
-      "title": "Heaven Official's Blessing (old version)",
-      "score": 0.769,
-      "r18": false
-    },
-    {
-      "id": 49338,
-      "title": "I Just Want to Be a Useless Duke's Daughter",
-      "score": 0.769,
       "r18": false
     }
   ]

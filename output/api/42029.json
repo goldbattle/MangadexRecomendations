@@ -1,8 +1,8 @@
 {
   "id": 42029,
   "title": "K-ON! - Valentine's Day Manga  (Doujinshi)",
-  "url": "https://mangadex.org/manga/42029",
-  "last_updated": "January 14, 2021 19:00:41 UTC",
+  "url": "https://api.mangadex.org/v2/manga/42029",
+  "last_updated": "February 11, 2021 12:19:20 UTC",
   "matches": [
     {
       "id": 13995,
@@ -37,6 +37,12 @@
     {
       "id": 42054,
       "title": "Touhou - Keine-Mokou Cellphone Comic (Doujinshi)",
+      "score": 0.29,
+      "r18": false
+    },
+    {
+      "id": 59547,
+      "title": "BanG Dream! - Dense As We Are (Doujinshi)",
       "score": 0.29,
       "r18": false
     },
@@ -145,12 +151,6 @@
     {
       "id": 10260,
       "title": "Touhou - Shoujo Reset (Doujinshi)",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 10636,
-      "title": "YuruYuri - Akari Complete! (Doujinshi)",
       "score": 0.233,
       "r18": false
     }

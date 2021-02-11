@@ -1,8 +1,8 @@
 {
   "id": 43095,
   "title": "Playing Opposite You",
-  "url": "https://mangadex.org/manga/43095",
-  "last_updated": "January 15, 2021 01:44:20 UTC",
+  "url": "https://api.mangadex.org/v2/manga/43095",
+  "last_updated": "February 11, 2021 12:35:07 UTC",
   "matches": [
     {
       "id": 12645,
@@ -26,6 +26,12 @@
       "id": 11867,
       "title": "Hotarubi no Mori e",
       "score": 0.712,
+      "r18": false
+    },
+    {
+      "id": 59476,
+      "title": "The Tyrant&rsquo;s Guardian Is an Evil Witch",
+      "score": 0.711,
       "r18": false
     },
     {
@@ -79,7 +85,7 @@
     {
       "id": 16007,
       "title": "Present",
-      "score": 0.706,
+      "score": 0.705,
       "r18": false
     },
     {
@@ -107,8 +113,8 @@
       "r18": false
     },
     {
-      "id": 52120,
-      "title": "Becoming the Villain's Family",
+      "id": 51318,
+      "title": "Truthfully, They Only Remembered Her",
       "score": 0.702,
       "r18": false
     },
@@ -145,12 +151,6 @@
     {
       "id": 42278,
       "title": "Emperor and the Female Knight",
-      "score": 0.7,
-      "r18": false
-    },
-    {
-      "id": 5426,
-      "title": "Kodomo no Omocha",
       "score": 0.7,
       "r18": false
     }

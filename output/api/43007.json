@@ -1,8 +1,8 @@
 {
   "id": 43007,
   "title": "By a Deity's Side",
-  "url": "https://mangadex.org/manga/43007",
-  "last_updated": "January 15, 2021 01:43:30 UTC",
+  "url": "https://api.mangadex.org/v2/manga/43007",
+  "last_updated": "February 11, 2021 12:33:53 UTC",
   "matches": [
     {
       "id": 47120,
@@ -32,12 +32,6 @@
       "id": 33099,
       "title": "This Girl Is a Little Wild",
       "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 52120,
-      "title": "Becoming the Villain's Family",
-      "score": 0.709,
       "r18": false
     },
     {
@@ -151,6 +145,12 @@
     {
       "id": 41039,
       "title": "The Great Wish",
+      "score": 0.685,
+      "r18": false
+    },
+    {
+      "id": 51938,
+      "title": "The Young Lady I Served Became a Young Master",
       "score": 0.685,
       "r18": false
     }

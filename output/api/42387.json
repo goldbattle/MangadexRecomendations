@@ -1,13 +1,13 @@
 {
   "id": 42387,
   "title": "Voice",
-  "url": "https://mangadex.org/manga/42387",
-  "last_updated": "January 14, 2021 19:04:48 UTC",
+  "url": "https://api.mangadex.org/v2/manga/42387",
+  "last_updated": "February 11, 2021 12:24:35 UTC",
   "matches": [
     {
       "id": 42415,
       "title": "I Have a Happy Dream",
-      "score": 0.898,
+      "score": 0.897,
       "r18": false
     },
     {
@@ -71,6 +71,12 @@
       "r18": false
     },
     {
+      "id": 52068,
+      "title": "The Girl Who Wants Love and the Girl Who Won't Give It To Her",
+      "score": 0.255,
+      "r18": false
+    },
+    {
       "id": 54930,
       "title": "City of Morals",
       "score": 0.255,
@@ -89,6 +95,18 @@
       "r18": false
     },
     {
+      "id": 56673,
+      "title": "I Liked Your Bad Sides",
+      "score": 0.212,
+      "r18": false
+    },
+    {
+      "id": 33980,
+      "title": "Itoshikute Oishii",
+      "score": 0.212,
+      "r18": false
+    },
+    {
       "id": 51504,
       "title": "The End of the World as We Know It",
       "score": 0.204,
@@ -97,6 +115,12 @@
     {
       "id": 52361,
       "title": "Ohi-sama ni tsutsumarete",
+      "score": 0.204,
+      "r18": false
+    },
+    {
+      "id": 59095,
+      "title": "Tomurai no Tou",
       "score": 0.204,
       "r18": false
     },
@@ -114,7 +138,7 @@
     },
     {
       "id": 56429,
-      "title": "Remote work is over, Chihiro-san!",
+      "title": "Remote Work is Over, Chihiro-san!",
       "score": 0.17,
       "r18": false
     },
@@ -128,30 +152,6 @@
       "id": 53713,
       "title": "The Journey of the Hero and the Wolf",
       "score": 0.161,
-      "r18": false
-    },
-    {
-      "id": 47438,
-      "title": "Forgetful River",
-      "score": 0.159,
-      "r18": false
-    },
-    {
-      "id": 44572,
-      "title": "Mermaid's Voice",
-      "score": 0.146,
-      "r18": false
-    },
-    {
-      "id": 52966,
-      "title": "El Funeral de Romani",
-      "score": 0.146,
-      "r18": false
-    },
-    {
-      "id": 53915,
-      "title": "Manga About A Cheater in Fall Guys",
-      "score": 0.146,
       "r18": false
     }
   ]

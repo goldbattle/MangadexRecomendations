@@ -1,8 +1,8 @@
 {
   "id": 42236,
   "title": "Heaven Official's Blessing (old version)",
-  "url": "https://mangadex.org/manga/42236",
-  "last_updated": "January 14, 2021 19:03:06 UTC",
+  "url": "https://api.mangadex.org/v2/manga/42236",
+  "last_updated": "February 11, 2021 12:22:20 UTC",
   "matches": [
     {
       "id": 23231,
@@ -47,6 +47,12 @@
       "r18": false
     },
     {
+      "id": 56522,
+      "title": "Rurouni Kenshin - Digital Colored Comics",
+      "score": 0.788,
+      "r18": false
+    },
+    {
       "id": 11867,
       "title": "Hotarubi no Mori e",
       "score": 0.786,
@@ -61,7 +67,7 @@
     {
       "id": 23273,
       "title": "Soul Land - Legend of The Gods' Realm",
-      "score": 0.783,
+      "score": 0.782,
       "r18": false
     },
     {
@@ -79,7 +85,7 @@
     {
       "id": 1531,
       "title": "Marginal",
-      "score": 0.781,
+      "score": 0.782,
       "r18": false
     },
     {
@@ -97,12 +103,6 @@
     {
       "id": 1552,
       "title": "Melty Blood",
-      "score": 0.78,
-      "r18": false
-    },
-    {
-      "id": 21283,
-      "title": "Persona 5",
       "score": 0.78,
       "r18": false
     },

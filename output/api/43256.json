@@ -1,8 +1,8 @@
 {
   "id": 43256,
   "title": "Let's La Gon",
-  "url": "https://mangadex.org/manga/43256",
-  "last_updated": "January 15, 2021 01:45:51 UTC",
+  "url": "https://api.mangadex.org/v2/manga/43256",
+  "last_updated": "February 11, 2021 12:37:29 UTC",
   "matches": [
     {
       "id": 28525,
@@ -25,7 +25,7 @@
     {
       "id": 1293,
       "title": "Miyuki",
-      "score": 0.715,
+      "score": 0.714,
       "r18": false
     },
     {
@@ -35,15 +35,9 @@
       "r18": false
     },
     {
-      "id": 22194,
-      "title": "Beast Complex",
-      "score": 0.702,
-      "r18": false
-    },
-    {
       "id": 2086,
       "title": "Kingdom Hearts 358/2 Days",
-      "score": 0.701,
+      "score": 0.7,
       "r18": false
     },
     {
@@ -65,6 +59,12 @@
       "r18": false
     },
     {
+      "id": 7232,
+      "title": "Cat's Eye",
+      "score": 0.697,
+      "r18": false
+    },
+    {
       "id": 4437,
       "title": "Golden Time",
       "score": 0.693,
@@ -77,6 +77,12 @@
       "r18": false
     },
     {
+      "id": 278,
+      "title": "Toradora!",
+      "score": 0.691,
+      "r18": false
+    },
+    {
       "id": 2869,
       "title": "School Rumble",
       "score": 0.69,
@@ -86,18 +92,6 @@
       "id": 858,
       "title": "Hikaru no Go",
       "score": 0.69,
-      "r18": false
-    },
-    {
-      "id": 484,
-      "title": "Barakamon",
-      "score": 0.69,
-      "r18": false
-    },
-    {
-      "id": 278,
-      "title": "Toradora!",
-      "score": 0.689,
       "r18": false
     },
     {
@@ -137,15 +131,21 @@
       "r18": false
     },
     {
-      "id": 6056,
-      "title": "Shigatsu wa Kimi no Uso",
-      "score": 0.683,
-      "r18": false
-    },
-    {
       "id": 810,
       "title": "Rewrite: SIDE-B",
       "score": 0.682,
+      "r18": false
+    },
+    {
+      "id": 6056,
+      "title": "Shigatsu wa Kimi no Uso",
+      "score": 0.682,
+      "r18": false
+    },
+    {
+      "id": 20512,
+      "title": "Danganronpa 3: The End of Hope's Peak Academy - Future Arc &amp; Despair Arc Comic Anthology (DNA Media)",
+      "score": 0.681,
       "r18": false
     },
     {

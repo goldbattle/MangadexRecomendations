@@ -1,8 +1,8 @@
 {
   "id": 42366,
   "title": "Tea Cup Toy Boy",
-  "url": "https://mangadex.org/manga/42366",
-  "last_updated": "January 14, 2021 19:04:35 UTC",
+  "url": "https://api.mangadex.org/v2/manga/42366",
+  "last_updated": "February 11, 2021 12:24:16 UTC",
   "matches": [
     {
       "id": 11867,
@@ -95,12 +95,6 @@
       "r18": false
     },
     {
-      "id": 22194,
-      "title": "Beast Complex",
-      "score": 0.699,
-      "r18": false
-    },
-    {
       "id": 31107,
       "title": "Yuujin ga Yuusha",
       "score": 0.698,
@@ -152,6 +146,12 @@
       "id": 48208,
       "title": "BEASTARS (Fan-Colored)",
       "score": 0.69,
+      "r18": false
+    },
+    {
+      "id": 34367,
+      "title": "A Tale of Royal Disturbance: Now He's Gone from Echo Valley",
+      "score": 0.689,
       "r18": false
     }
   ]

@@ -1,13 +1,13 @@
 {
   "id": 42473,
   "title": "Haunted (\u30db\u30fc\u30f3\u30c6\u30c3\u30c9)",
-  "url": "https://mangadex.org/manga/42473",
-  "last_updated": "January 14, 2021 19:05:48 UTC",
+  "url": "https://api.mangadex.org/v2/manga/42473",
+  "last_updated": "February 11, 2021 12:25:52 UTC",
   "matches": [
     {
       "id": 51132,
       "title": "The Devil of the Gods",
-      "score": 0.339,
+      "score": 0.338,
       "r18": false
     },
     {
@@ -19,7 +19,7 @@
     {
       "id": 18289,
       "title": "Shibito no Koe wo Kiku ga Yoi",
-      "score": 0.297,
+      "score": 0.298,
       "r18": false
     },
     {
@@ -35,15 +35,15 @@
       "r18": false
     },
     {
-      "id": 114,
-      "title": "Hellsing",
-      "score": 0.279,
-      "r18": false
-    },
-    {
       "id": 49649,
       "title": "Pumpkin Night Gaiden - Naoko",
       "score": 0.265,
+      "r18": false
+    },
+    {
+      "id": 114,
+      "title": "Hellsing",
+      "score": 0.264,
       "r18": false
     },
     {
@@ -61,7 +61,7 @@
     {
       "id": 46498,
       "title": "Kemono Giga",
-      "score": 0.257,
+      "score": 0.256,
       "r18": false
     },
     {
@@ -74,6 +74,18 @@
       "id": 40874,
       "title": "Mad Summer School",
       "score": 0.254,
+      "r18": false
+    },
+    {
+      "id": 44532,
+      "title": "Kyosei Tensei",
+      "score": 0.253,
+      "r18": false
+    },
+    {
+      "id": 46631,
+      "title": "Signal 100",
+      "score": 0.251,
       "r18": false
     },
     {
@@ -107,6 +119,12 @@
       "r18": false
     },
     {
+      "id": 31885,
+      "title": "Noah of the Blood Sea",
+      "score": 0.232,
+      "r18": false
+    },
+    {
       "id": 24539,
       "title": "Rule - Annihilation Classroom -",
       "score": 0.231,
@@ -115,6 +133,12 @@
     {
       "id": 52602,
       "title": "Her Majesty&rsquo;s Swarm",
+      "score": 0.229,
+      "r18": false
+    },
+    {
+      "id": 13502,
+      "title": "Tokyo Ghoul:re",
       "score": 0.229,
       "r18": false
     },
@@ -128,30 +152,6 @@
       "id": 22343,
       "title": "Killing Morph",
       "score": 0.224,
-      "r18": false
-    },
-    {
-      "id": 42211,
-      "title": "Disease",
-      "score": 0.223,
-      "r18": false
-    },
-    {
-      "id": 13781,
-      "title": "Kimi Shi ni Tamafu Koto Nakare",
-      "score": 0.22,
-      "r18": false
-    },
-    {
-      "id": 58123,
-      "title": "Culprit Hunt",
-      "score": 0.219,
-      "r18": false
-    },
-    {
-      "id": 39947,
-      "title": "Pursuit: Blind Man Blues",
-      "score": 0.219,
       "r18": false
     }
   ]

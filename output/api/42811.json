@@ -1,8 +1,8 @@
 {
   "id": 42811,
   "title": "Sukina Kare no Papa Hajimemasu",
-  "url": "https://mangadex.org/manga/42811",
-  "last_updated": "January 14, 2021 19:09:46 UTC",
+  "url": "https://api.mangadex.org/v2/manga/42811",
+  "last_updated": "February 11, 2021 12:30:59 UTC",
   "matches": [
     {
       "id": 4615,
@@ -20,12 +20,6 @@
       "id": 15991,
       "title": "Koi wa Ameagari no You ni",
       "score": 0.689,
-      "r18": false
-    },
-    {
-      "id": 875,
-      "title": "Bokura wa Minna Kawai-sou",
-      "score": 0.685,
       "r18": false
     },
     {
@@ -50,12 +44,6 @@
       "id": 12686,
       "title": "Hime-sama Tanuki no Koizanyou",
       "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 7938,
-      "title": "Denkigai no Honya-san",
-      "score": 0.677,
       "r18": false
     },
     {
@@ -143,15 +131,27 @@
       "r18": false
     },
     {
-      "id": 19505,
-      "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+      "id": 23484,
+      "title": "Why not go to JUSCO with me, Valkyrie?",
       "score": 0.666,
       "r18": false
     },
     {
-      "id": 23484,
-      "title": "Why not go to JUSCO with me, Valkyrie?",
+      "id": 7455,
+      "title": "Bamora!",
       "score": 0.666,
+      "r18": false
+    },
+    {
+      "id": 51497,
+      "title": "Akuyaku Reijou, Shomin ni Ochiru",
+      "score": 0.666,
+      "r18": false
+    },
+    {
+      "id": 4835,
+      "title": "Ore to Ichino no Game Doukoukai Katsudou Nisshi",
+      "score": 0.664,
       "r18": false
     }
   ]

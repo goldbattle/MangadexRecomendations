@@ -1,8 +1,8 @@
 {
   "id": 42390,
   "title": "Kubo-san wa Boku (Mobu) wo Yurusanai",
-  "url": "https://mangadex.org/manga/42390",
-  "last_updated": "January 14, 2021 19:04:51 UTC",
+  "url": "https://api.mangadex.org/v2/manga/42390",
+  "last_updated": "February 11, 2021 12:24:38 UTC",
   "matches": [
     {
       "id": 51464,
@@ -77,12 +77,6 @@
       "r18": false
     },
     {
-      "id": 36258,
-      "title": "Houkago Teibou Nisshi",
-      "score": 0.658,
-      "r18": false
-    },
-    {
       "id": 534,
       "title": "&quot;Bungaku Shoujo&quot; to Shinitagari no Pierrot",
       "score": 0.658,
@@ -97,13 +91,7 @@
     {
       "id": 31762,
       "title": "Ao no Shima to Neko Ippiki",
-      "score": 0.657,
-      "r18": false
-    },
-    {
-      "id": 875,
-      "title": "Bokura wa Minna Kawai-sou",
-      "score": 0.657,
+      "score": 0.658,
       "r18": false
     },
     {
@@ -127,12 +115,18 @@
     {
       "id": 29751,
       "title": "Kagaku Chop",
-      "score": 0.655,
+      "score": 0.656,
       "r18": false
     },
     {
       "id": 5009,
       "title": "Tonari no Seki-kun",
+      "score": 0.655,
+      "r18": false
+    },
+    {
+      "id": 36258,
+      "title": "Houkago Teibou Nisshi",
       "score": 0.655,
       "r18": false
     },
@@ -145,13 +139,19 @@
     {
       "id": 3005,
       "title": "Working!! Secret Memories",
-      "score": 0.653,
+      "score": 0.654,
       "r18": false
     },
     {
       "id": 17199,
       "title": "Higashi no Kurume to Tonari no Meguru",
       "score": 0.653,
+      "r18": false
+    },
+    {
+      "id": 42686,
+      "title": "Yuusha Shoukan ni Makikomareta kedo, Isekai wa Heiwa deshita",
+      "score": 0.651,
       "r18": false
     }
   ]

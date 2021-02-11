@@ -1,13 +1,19 @@
 {
   "id": 42977,
   "title": "Sweet Seduction",
-  "url": "https://mangadex.org/manga/42977",
-  "last_updated": "January 15, 2021 01:43:12 UTC",
+  "url": "https://api.mangadex.org/v2/manga/42977",
+  "last_updated": "February 11, 2021 12:33:24 UTC",
   "matches": [
     {
       "id": 12756,
       "title": "Totsuzen Desu ga, Ashita Kekkon Shimasu",
       "score": 0.71,
+      "r18": false
+    },
+    {
+      "id": 55338,
+      "title": "Chijou no Seppun",
+      "score": 0.703,
       "r18": false
     },
     {
@@ -53,21 +59,9 @@
       "r18": false
     },
     {
-      "id": 42675,
-      "title": "Otome Game no Hametsu Flag shika nai Akuyaku Reijou ni Tensei shite shimatta... Zettai Zetsumei! Hametsu Sunzen Hen",
-      "score": 0.698,
-      "r18": false
-    },
-    {
       "id": 4316,
       "title": "Haru Koi",
       "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 22238,
-      "title": "Toge ni Kuchizuke",
-      "score": 0.697,
       "r18": false
     },
     {
@@ -107,6 +101,12 @@
       "r18": false
     },
     {
+      "id": 51000,
+      "title": "I Want to Do It, Even If It Hurts",
+      "score": 0.693,
+      "r18": false
+    },
+    {
       "id": 3979,
       "title": "Do Da Dancin'!",
       "score": 0.691,
@@ -120,20 +120,14 @@
     },
     {
       "id": 44026,
-      "title": "No Youna",
+      "title": "No, Youna.",
       "score": 0.69,
       "r18": false
     },
     {
       "id": 8184,
       "title": "Le Th&eacute;&acirc;tre de A",
-      "score": 0.688,
-      "r18": false
-    },
-    {
-      "id": 55338,
-      "title": "Chijou no Seppun",
-      "score": 0.687,
+      "score": 0.689,
       "r18": false
     },
     {
@@ -145,13 +139,19 @@
     {
       "id": 20463,
       "title": "Dame na Watashi ni Koishite Kudasai R",
-      "score": 0.685,
+      "score": 0.686,
       "r18": false
     },
     {
       "id": 50321,
       "title": "Totsuzen desu ga, Kyou Ai ni Kite",
       "score": 0.685,
+      "r18": false
+    },
+    {
+      "id": 56053,
+      "title": "Portrait of Queen Berta",
+      "score": 0.684,
       "r18": false
     }
   ]

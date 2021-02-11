@@ -1,8 +1,8 @@
 {
   "id": 42223,
   "title": "King Bomba",
-  "url": "https://mangadex.org/manga/42223",
-  "last_updated": "January 14, 2021 19:02:56 UTC",
+  "url": "https://api.mangadex.org/v2/manga/42223",
+  "last_updated": "February 11, 2021 12:22:09 UTC",
   "matches": [
     {
       "id": 58327,
@@ -89,6 +89,12 @@
       "r18": false
     },
     {
+      "id": 48994,
+      "title": "Strongest Caveman",
+      "score": 0.684,
+      "r18": false
+    },
+    {
       "id": 45778,
       "title": "Spellcross",
       "score": 0.684,
@@ -101,8 +107,8 @@
       "r18": false
     },
     {
-      "id": 48994,
-      "title": "Strongest Caveman",
+      "id": 59195,
+      "title": "Rooster Fighter",
       "score": 0.682,
       "r18": false
     },
@@ -116,12 +122,6 @@
       "id": 46789,
       "title": "Apocalyptic Super System",
       "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 50131,
-      "title": "Nam Goong Sae Ga Prince",
-      "score": 0.674,
       "r18": false
     },
     {
@@ -151,7 +151,7 @@
     {
       "id": 58931,
       "title": "GUARDIAN DOGS",
-      "score": 0.663,
+      "score": 0.666,
       "r18": false
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": 42641,
   "title": "Subarashii Shitsuren",
-  "url": "https://mangadex.org/manga/42641",
-  "last_updated": "January 14, 2021 19:07:47 UTC",
+  "url": "https://api.mangadex.org/v2/manga/42641",
+  "last_updated": "February 11, 2021 12:28:23 UTC",
   "matches": [
     {
       "id": 37280,
@@ -35,6 +35,12 @@
       "r18": false
     },
     {
+      "id": 16544,
+      "title": "ULTRAS",
+      "score": 0.791,
+      "r18": false
+    },
+    {
       "id": 24004,
       "title": "Renai Sousa",
       "score": 0.788,
@@ -43,19 +49,13 @@
     {
       "id": 22033,
       "title": "Sakuhin Number 20",
-      "score": 0.786,
+      "score": 0.785,
       "r18": false
     },
     {
       "id": 53530,
       "title": "Ai ga Aru kara",
       "score": 0.784,
-      "r18": false
-    },
-    {
-      "id": 16544,
-      "title": "ULTRAS",
-      "score": 0.783,
       "r18": false
     },
     {
@@ -109,7 +109,7 @@
     {
       "id": 26922,
       "title": "Sweet Bitter Candy",
-      "score": 0.773,
+      "score": 0.774,
       "r18": false
     },
     {

@@ -1,8 +1,8 @@
 {
   "id": 42676,
   "title": "Shishidou-san ni Shikararetai.",
-  "url": "https://mangadex.org/manga/42676",
-  "last_updated": "January 14, 2021 19:08:11 UTC",
+  "url": "https://api.mangadex.org/v2/manga/42676",
+  "last_updated": "February 11, 2021 12:28:54 UTC",
   "matches": [
     {
       "id": 34105,
@@ -32,6 +32,12 @@
       "id": 12850,
       "title": "Watari-kun no &times;&times; ga Houkai Sunzen",
       "score": 0.706,
+      "r18": false
+    },
+    {
+      "id": 243,
+      "title": "Nana to Kaoru: Black Label",
+      "score": 0.703,
       "r18": false
     },
     {
@@ -97,7 +103,7 @@
     {
       "id": 9702,
       "title": "Mangaka-san to Assistant-san to 2",
-      "score": 0.689,
+      "score": 0.688,
       "r18": false
     },
     {
@@ -139,18 +145,12 @@
     {
       "id": 9195,
       "title": "Inugamihime ni Kuchizuke",
-      "score": 0.685,
+      "score": 0.684,
       "r18": false
     },
     {
       "id": 1773,
       "title": "Ressentiment",
-      "score": 0.683,
-      "r18": false
-    },
-    {
-      "id": 1031,
-      "title": "Denpa Onna to Seishun Otoko",
       "score": 0.683,
       "r18": false
     }

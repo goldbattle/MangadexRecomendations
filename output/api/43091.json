@@ -1,8 +1,8 @@
 {
   "id": 43091,
   "title": "Isekai demo fuuzoku jou yatte mita",
-  "url": "https://mangadex.org/manga/43091",
-  "last_updated": "January 15, 2021 01:44:17 UTC",
+  "url": "https://api.mangadex.org/v2/manga/43091",
+  "last_updated": "February 11, 2021 12:35:04 UTC",
   "matches": [
     {
       "id": 20393,
@@ -50,18 +50,6 @@
       "id": 24211,
       "title": "NEET dakedo Hello Work ni Ittara Isekai ni Tsuretekareta",
       "score": 0.729,
-      "r18": false
-    },
-    {
-      "id": 51808,
-      "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
-      "score": 0.725,
-      "r18": false
-    },
-    {
-      "id": 9803,
-      "title": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka",
-      "score": 0.725,
       "r18": false
     },
     {
@@ -119,14 +107,14 @@
       "r18": false
     },
     {
-      "id": 6242,
-      "title": "Hataraku Maou-sama! High School!",
+      "id": 49426,
+      "title": "Soukyuu no Shihai-sha ~ Isekai Oppai Musouden",
       "score": 0.708,
       "r18": false
     },
     {
-      "id": 49426,
-      "title": "Soukyuu no Shihai-sha ~ Isekai Oppai Musouden",
+      "id": 6242,
+      "title": "Hataraku Maou-sama! High School!",
       "score": 0.708,
       "r18": false
     },
@@ -152,6 +140,18 @@
       "id": 27467,
       "title": "Ore no Ie ga Maryoku Spot datta Ken &ndash; Sundeiru dake de Sekai Saikyou",
       "score": 0.703,
+      "r18": false
+    },
+    {
+      "id": 36199,
+      "title": "Taberu Dake de Level-Up! Damegami to Issho ni Isekai Musou",
+      "score": 0.702,
+      "r18": false
+    },
+    {
+      "id": 43615,
+      "title": "Yuru Fuwa Noka No Moji Bake Skill",
+      "score": 0.699,
       "r18": false
     }
   ]

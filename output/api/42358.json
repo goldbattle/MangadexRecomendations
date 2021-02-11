@@ -1,8 +1,8 @@
 {
   "id": 42358,
   "title": "Sealed Lips",
-  "url": "https://mangadex.org/manga/42358",
-  "last_updated": "January 14, 2021 19:04:29 UTC",
+  "url": "https://api.mangadex.org/v2/manga/42358",
+  "last_updated": "February 11, 2021 12:24:09 UTC",
   "matches": [
     {
       "id": 50183,
@@ -35,12 +35,6 @@
       "r18": false
     },
     {
-      "id": 52120,
-      "title": "Becoming the Villain's Family",
-      "score": 0.757,
-      "r18": false
-    },
-    {
       "id": 58617,
       "title": "I Became the Ugly Lady",
       "score": 0.757,
@@ -53,9 +47,15 @@
       "r18": false
     },
     {
+      "id": 59440,
+      "title": "The Flower Dances and the Wind Sings",
+      "score": 0.754,
+      "r18": false
+    },
+    {
       "id": 43950,
       "title": "The Goddess of Healing",
-      "score": 0.753,
+      "score": 0.754,
       "r18": false
     },
     {
@@ -68,6 +68,12 @@
       "id": 54736,
       "title": "Cheerful Countess Sisters",
       "score": 0.752,
+      "r18": false
+    },
+    {
+      "id": 54218,
+      "title": "The Lady and the Beast",
+      "score": 0.75,
       "r18": false
     },
     {
@@ -101,26 +107,20 @@
       "r18": false
     },
     {
-      "id": 58041,
-      "title": "Aideen",
-      "score": 0.746,
-      "r18": false
-    },
-    {
       "id": 46277,
       "title": "Schemes of a Beauty",
-      "score": 0.745,
-      "r18": false
-    },
-    {
-      "id": 41743,
-      "title": "Charlotte and Her 5 Disciples",
-      "score": 0.745,
+      "score": 0.746,
       "r18": false
     },
     {
       "id": 49644,
       "title": "The Villainess Lives Twice",
+      "score": 0.745,
+      "r18": false
+    },
+    {
+      "id": 51000,
+      "title": "I Want to Do It, Even If It Hurts",
       "score": 0.745,
       "r18": false
     },
@@ -143,15 +143,15 @@
       "r18": false
     },
     {
-      "id": 44432,
-      "title": "Just a Girl He Knows",
+      "id": 58041,
+      "title": "Aideen",
       "score": 0.744,
       "r18": false
     },
     {
-      "id": 51000,
-      "title": "I Want to Do It, Even If It Hurts",
-      "score": 0.743,
+      "id": 44432,
+      "title": "Just a Girl He Knows",
+      "score": 0.744,
       "r18": false
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": 42700,
   "title": "In An Empty Classroom",
-  "url": "https://mangadex.org/manga/42700",
-  "last_updated": "January 14, 2021 19:08:28 UTC",
+  "url": "https://api.mangadex.org/v2/manga/42700",
+  "last_updated": "February 11, 2021 12:29:15 UTC",
   "matches": [
     {
       "id": 24621,
@@ -13,7 +13,7 @@
     {
       "id": 49112,
       "title": "Romantic Bitch",
-      "score": 0.485,
+      "score": 0.486,
       "r18": false
     },
     {
@@ -26,6 +26,12 @@
       "id": 22551,
       "title": "Namae mo Shiranai Machiawase",
       "score": 0.469,
+      "r18": false
+    },
+    {
+      "id": 49905,
+      "title": "Daisy Jealousy",
+      "score": 0.468,
       "r18": false
     },
     {
@@ -53,6 +59,12 @@
       "r18": false
     },
     {
+      "id": 17735,
+      "title": "Koori ga Tokeru no o Matteru",
+      "score": 0.371,
+      "r18": false
+    },
+    {
       "id": 18368,
       "title": "Kareshi to Ore to Ore no Kouhai",
       "score": 0.37,
@@ -65,8 +77,8 @@
       "r18": false
     },
     {
-      "id": 49905,
-      "title": "Daisy Jealousy",
+      "id": 59278,
+      "title": "Bara to Tanpopo",
       "score": 0.37,
       "r18": false
     },
@@ -140,18 +152,6 @@
       "id": 29154,
       "title": "Iyaya Iyaya mo Suki no Uchi?",
       "score": 0.336,
-      "r18": false
-    },
-    {
-      "id": 22972,
-      "title": "Sense Zero",
-      "score": 0.333,
-      "r18": false
-    },
-    {
-      "id": 16731,
-      "title": "Kimi no Nioi ga Suki",
-      "score": 0.333,
       "r18": false
     }
   ]

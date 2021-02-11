@@ -1,8 +1,8 @@
 {
   "id": 41876,
   "title": "Alma",
-  "url": "https://mangadex.org/manga/41876",
-  "last_updated": "January 14, 2021 18:58:53 UTC",
+  "url": "https://api.mangadex.org/v2/manga/41876",
+  "last_updated": "February 11, 2021 12:16:56 UTC",
   "matches": [
     {
       "id": 12707,
@@ -59,15 +59,9 @@
       "r18": false
     },
     {
-      "id": 50714,
-      "title": "Legend of the Galactic Heroes - Golden Wings",
-      "score": 0.307,
-      "r18": false
-    },
-    {
       "id": 6014,
       "title": "Milk Closet",
-      "score": 0.301,
+      "score": 0.302,
       "r18": false
     },
     {
@@ -89,12 +83,6 @@
       "r18": false
     },
     {
-      "id": 50085,
-      "title": "Legend of the Galactic Heroes",
-      "score": 0.282,
-      "r18": false
-    },
-    {
       "id": 35793,
       "title": "Zeus no Te",
       "score": 0.281,
@@ -103,7 +91,7 @@
     {
       "id": 48861,
       "title": "A Land Without Humans",
-      "score": 0.281,
+      "score": 0.28,
       "r18": false
     },
     {
@@ -125,6 +113,12 @@
       "r18": false
     },
     {
+      "id": 50085,
+      "title": "Legend of the Galactic Heroes",
+      "score": 0.26,
+      "r18": false
+    },
+    {
       "id": 36698,
       "title": "Nine Lives Man",
       "score": 0.26,
@@ -139,7 +133,7 @@
     {
       "id": 49314,
       "title": "Shindorim",
-      "score": 0.255,
+      "score": 0.254,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 23332,
       "title": "Kidou Senshi Gundam Twilight Axis",
       "score": 0.252,
+      "r18": false
+    },
+    {
+      "id": 52836,
+      "title": "DD Fist of the North Star",
+      "score": 0.25,
       "r18": false
     }
   ]

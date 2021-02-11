@@ -1,8 +1,8 @@
 {
   "id": 42231,
   "title": "The Love's Oath",
-  "url": "https://mangadex.org/manga/42231",
-  "last_updated": "January 14, 2021 19:03:02 UTC",
+  "url": "https://api.mangadex.org/v2/manga/42231",
+  "last_updated": "February 11, 2021 12:22:16 UTC",
   "matches": [
     {
       "id": 47521,
@@ -26,6 +26,12 @@
       "id": 44387,
       "title": "Living as the Tyrant's Older Sister",
       "score": 0.691,
+      "r18": false
+    },
+    {
+      "id": 59476,
+      "title": "The Tyrant&rsquo;s Guardian Is an Evil Witch",
+      "score": 0.688,
       "r18": false
     },
     {
@@ -119,6 +125,12 @@
       "r18": false
     },
     {
+      "id": 59857,
+      "title": "I Tamed a Tyrant and Ran Away",
+      "score": 0.674,
+      "r18": false
+    },
+    {
       "id": 54052,
       "title": "It Looks Like I've Fallen into the World of a Reverse Harem Game",
       "score": 0.674,
@@ -127,7 +139,7 @@
     {
       "id": 58323,
       "title": "I Became the Hero's Mom",
-      "score": 0.674,
+      "score": 0.673,
       "r18": false
     },
     {
@@ -140,18 +152,6 @@
       "id": 53724,
       "title": "Trash of the Count's Family",
       "score": 0.672,
-      "r18": false
-    },
-    {
-      "id": 50316,
-      "title": "The Planned First Kiss",
-      "score": 0.672,
-      "r18": false
-    },
-    {
-      "id": 45957,
-      "title": "Give Me a Flower, and I'll Give You All of Me",
-      "score": 0.671,
       "r18": false
     }
   ]

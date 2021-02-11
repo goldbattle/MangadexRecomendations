@@ -1,12 +1,18 @@
 {
   "id": 43121,
   "title": "Assassin ROSE",
-  "url": "https://mangadex.org/manga/43121",
-  "last_updated": "January 15, 2021 01:44:34 UTC",
+  "url": "https://api.mangadex.org/v2/manga/43121",
+  "last_updated": "February 11, 2021 12:35:29 UTC",
   "matches": [
     {
       "id": 38712,
       "title": "Hakata Tonkotsu Ramens",
+      "score": 0.227,
+      "r18": false
+    },
+    {
+      "id": 59701,
+      "title": "One Operation Joker",
       "score": 0.227,
       "r18": false
     },
@@ -68,6 +74,12 @@
       "id": 58461,
       "title": "Midoriyama Police Gang",
       "score": 0.189,
+      "r18": false
+    },
+    {
+      "id": 49443,
+      "title": "Spy Room",
+      "score": 0.185,
       "r18": false
     },
     {
@@ -139,18 +151,6 @@
     {
       "id": 219,
       "title": "Akame ga KILL!",
-      "score": 0.151,
-      "r18": false
-    },
-    {
-      "id": 358,
-      "title": "C&Oslash;DE:BREAKER",
-      "score": 0.151,
-      "r18": false
-    },
-    {
-      "id": 442,
-      "title": "Bloody Monday 2",
       "score": 0.151,
       "r18": false
     }

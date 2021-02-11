@@ -1,8 +1,8 @@
 {
   "id": 41849,
   "title": "Psycho-Pass 3",
-  "url": "https://mangadex.org/manga/41849",
-  "last_updated": "January 14, 2021 18:58:29 UTC",
+  "url": "https://api.mangadex.org/v2/manga/41849",
+  "last_updated": "February 11, 2021 12:16:32 UTC",
   "matches": [
     {
       "id": 18750,
@@ -95,12 +95,6 @@
       "r18": false
     },
     {
-      "id": 42015,
-      "title": "CODE VEIN -Memory Echoes-",
-      "score": 0.255,
-      "r18": false
-    },
-    {
       "id": 44232,
       "title": "Wa no Kage",
       "score": 0.255,
@@ -115,6 +109,12 @@
     {
       "id": 57056,
       "title": "Death Hunter",
+      "score": 0.255,
+      "r18": false
+    },
+    {
+      "id": 59912,
+      "title": "Tesla Note",
       "score": 0.255,
       "r18": false
     },

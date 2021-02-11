@@ -1,8 +1,8 @@
 {
   "id": 43043,
   "title": "Shitsuji-dono no Ai Neko",
-  "url": "https://mangadex.org/manga/43043",
-  "last_updated": "January 15, 2021 01:43:50 UTC",
+  "url": "https://api.mangadex.org/v2/manga/43043",
+  "last_updated": "February 11, 2021 12:34:25 UTC",
   "matches": [
     {
       "id": 19377,
@@ -59,6 +59,12 @@
       "r18": false
     },
     {
+      "id": 3941,
+      "title": "Four Daughters of Armian",
+      "score": 0.653,
+      "r18": false
+    },
+    {
       "id": 3098,
       "title": "Migawari Hakushaku no Bouken",
       "score": 0.652,
@@ -85,7 +91,7 @@
     {
       "id": 2319,
       "title": "A Fairy Tale For You",
-      "score": 0.651,
+      "score": 0.652,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 16529,
       "title": "Hakushaku-sama wa Amai Yoru ga Osuki",
       "score": 0.419,
-      "r18": false
-    },
-    {
-      "id": 3244,
-      "title": "Niji no Ikusa",
-      "score": 0.413,
       "r18": false
     }
   ]

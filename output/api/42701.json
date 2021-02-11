@@ -1,19 +1,25 @@
 {
   "id": 42701,
   "title": "Ack! Its A Toy!",
-  "url": "https://mangadex.org/manga/42701",
-  "last_updated": "January 14, 2021 19:08:29 UTC",
+  "url": "https://api.mangadex.org/v2/manga/42701",
+  "last_updated": "February 11, 2021 12:29:16 UTC",
   "matches": [
     {
       "id": 29901,
       "title": "Dear Door",
-      "score": 0.651,
+      "score": 0.652,
       "r18": false
     },
     {
       "id": 51494,
       "title": "Love Me Dramatically",
       "score": 0.378,
+      "r18": false
+    },
+    {
+      "id": 59268,
+      "title": "Santa Will Always Grant Your Wishes",
+      "score": 0.374,
       "r18": false
     },
     {
@@ -31,19 +37,7 @@
     {
       "id": 49862,
       "title": "The Devil&rsquo;s Temptation",
-      "score": 0.36,
-      "r18": false
-    },
-    {
-      "id": 50851,
-      "title": "Shh, You'll Wake up the Child",
-      "score": 0.343,
-      "r18": false
-    },
-    {
-      "id": 59268,
-      "title": "Santa Will Always Grant Your Wishes",
-      "score": 0.341,
+      "score": 0.361,
       "r18": false
     },
     {
@@ -61,13 +55,25 @@
     {
       "id": 52515,
       "title": "4 Week Lovers",
-      "score": 0.338,
+      "score": 0.339,
       "r18": false
     },
     {
       "id": 58667,
       "title": "Help Me, Teacher",
       "score": 0.331,
+      "r18": false
+    },
+    {
+      "id": 42487,
+      "title": "Biting the Tiger",
+      "score": 0.331,
+      "r18": false
+    },
+    {
+      "id": 52523,
+      "title": "Youthful Obscenity in the Kitchen",
+      "score": 0.329,
       "r18": false
     },
     {
@@ -89,15 +95,15 @@
       "r18": false
     },
     {
-      "id": 44804,
-      "title": "Be Sweet to Me",
-      "score": 0.306,
+      "id": 50851,
+      "title": "Shh, You'll Wake up the Child",
+      "score": 0.309,
       "r18": false
     },
     {
-      "id": 52523,
-      "title": "Youthful Obscenity in the Kitchen",
-      "score": 0.295,
+      "id": 44804,
+      "title": "Be Sweet to Me",
+      "score": 0.306,
       "r18": false
     },
     {
@@ -119,9 +125,15 @@
       "r18": false
     },
     {
+      "id": 56675,
+      "title": "When a Yakuza falls in love",
+      "score": 0.286,
+      "r18": false
+    },
+    {
       "id": 52648,
       "title": "Chasing Mr. CEO",
-      "score": 0.279,
+      "score": 0.28,
       "r18": false
     },
     {
@@ -140,18 +152,6 @@
       "id": 28854,
       "title": "Snow White BL",
       "score": 0.267,
-      "r18": false
-    },
-    {
-      "id": 40546,
-      "title": "Isaac's Sheep",
-      "score": 0.26,
-      "r18": false
-    },
-    {
-      "id": 42592,
-      "title": "Body Complex",
-      "score": 0.256,
       "r18": false
     }
   ]

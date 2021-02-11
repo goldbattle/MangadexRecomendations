@@ -1,13 +1,13 @@
 {
   "id": 42233,
   "title": "Split Lover",
-  "url": "https://mangadex.org/manga/42233",
-  "last_updated": "January 14, 2021 19:03:04 UTC",
+  "url": "https://api.mangadex.org/v2/manga/42233",
+  "last_updated": "February 11, 2021 12:22:18 UTC",
   "matches": [
     {
       "id": 795,
       "title": "Kagami no Kuni no Harisugawa",
-      "score": 0.715,
+      "score": 0.714,
       "r18": false
     },
     {
@@ -137,21 +137,21 @@
       "r18": false
     },
     {
-      "id": 44621,
-      "title": "EroManga-Sensei: Yamada Elf-daisensei no Koi suru Junshin Gohan",
-      "score": 0.697,
-      "r18": false
-    },
-    {
-      "id": 9606,
-      "title": "Mahou Sensou",
-      "score": 0.697,
-      "r18": false
-    },
-    {
       "id": 3819,
       "title": "Classmate (\u2640) to Meikyuu no Futekisetsu na Kouryakuhou",
       "score": 0.696,
+      "r18": false
+    },
+    {
+      "id": 9175,
+      "title": "Shinmai Maou no Testament",
+      "score": 0.695,
+      "r18": false
+    },
+    {
+      "id": 1907,
+      "title": "Kono Kanojo wa Fiction desu.",
+      "score": 0.695,
       "r18": false
     }
   ]
