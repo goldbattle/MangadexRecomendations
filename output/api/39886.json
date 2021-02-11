@@ -1,8 +1,8 @@
 {
   "id": 39886,
   "title": "Nani mo Iwanai",
-  "url": "https://mangadex.org/manga/39886",
-  "last_updated": "January 14, 2021 12:50:32 UTC",
+  "url": "https://api.mangadex.org/v2/manga/39886",
+  "last_updated": "February 11, 2021 04:31:22 UTC",
   "matches": [
     {
       "id": 33018,
@@ -49,6 +49,12 @@
     {
       "id": 43072,
       "title": "Dear My Mister",
+      "score": 0.28,
+      "r18": false
+    },
+    {
+      "id": 59559,
+      "title": "Nidome no Yakusoku",
       "score": 0.28,
       "r18": false
     },

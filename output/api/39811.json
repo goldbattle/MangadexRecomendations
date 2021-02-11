@@ -1,8 +1,8 @@
 {
   "id": 39811,
   "title": "Rakuen wa Te no Naka ni",
-  "url": "https://mangadex.org/manga/39811",
-  "last_updated": "January 14, 2021 12:49:41 UTC",
+  "url": "https://api.mangadex.org/v2/manga/39811",
+  "last_updated": "February 11, 2021 04:30:16 UTC",
   "matches": [
     {
       "id": 7312,
@@ -37,6 +37,12 @@
     {
       "id": 15395,
       "title": "Koishite Hoshii",
+      "score": 0.36,
+      "r18": false
+    },
+    {
+      "id": 16472,
+      "title": "Yuuwaku Recipe",
       "score": 0.36,
       "r18": false
     },
@@ -145,12 +151,6 @@
     {
       "id": 24989,
       "title": "Chicken Stalker",
-      "score": 0.36,
-      "r18": false
-    },
-    {
-      "id": 24994,
-      "title": "Hetare Wanko to Fudanshi Senpai",
       "score": 0.36,
       "r18": false
     }

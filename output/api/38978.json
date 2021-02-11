@@ -1,8 +1,8 @@
 {
   "id": 38978,
   "title": "Majosama to Kyoudai",
-  "url": "https://mangadex.org/manga/38978",
-  "last_updated": "January 14, 2021 12:40:20 UTC",
+  "url": "https://api.mangadex.org/v2/manga/38978",
+  "last_updated": "February 11, 2021 04:17:31 UTC",
   "matches": [
     {
       "id": 50114,
@@ -43,6 +43,12 @@
     {
       "id": 51831,
       "title": "One Plus One",
+      "score": 0.149,
+      "r18": false
+    },
+    {
+      "id": 59181,
+      "title": "I Do Livestreams in Another World",
       "score": 0.149,
       "r18": false
     },
@@ -113,12 +119,6 @@
       "r18": false
     },
     {
-      "id": 19160,
-      "title": "I Am My Wife",
-      "score": 0.104,
-      "r18": false
-    },
-    {
       "id": 29484,
       "title": "My Girlfriend Is a Real Man",
       "score": 0.104,
@@ -149,8 +149,8 @@
       "r18": false
     },
     {
-      "id": 53953,
-      "title": "Dinner at Night",
+      "id": 45335,
+      "title": "Princess Silver and the Raven",
       "score": 0.104,
       "r18": false
     }

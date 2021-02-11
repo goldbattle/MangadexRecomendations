@@ -1,8 +1,8 @@
 {
   "id": 39191,
   "title": "Akku",
-  "url": "https://mangadex.org/manga/39191",
-  "last_updated": "January 14, 2021 12:42:48 UTC",
+  "url": "https://api.mangadex.org/v2/manga/39191",
+  "last_updated": "February 11, 2021 04:20:46 UTC",
   "matches": [
     {
       "id": 42021,
@@ -43,7 +43,7 @@
     {
       "id": 53911,
       "title": "My Chubby Princess",
-      "score": 0.691,
+      "score": 0.69,
       "r18": false
     },
     {
@@ -77,12 +77,6 @@
       "r18": false
     },
     {
-      "id": 35089,
-      "title": "Lady Beast",
-      "score": 0.677,
-      "r18": false
-    },
-    {
       "id": 46715,
       "title": "Feather Ashes",
       "score": 0.676,
@@ -95,20 +89,32 @@
       "r18": false
     },
     {
-      "id": 37513,
-      "title": "Mejaz - Regulus in the World",
-      "score": 0.674,
-      "r18": false
-    },
-    {
       "id": 16453,
       "title": "Qishi Huanxiang Ye",
       "score": 0.674,
       "r18": false
     },
     {
+      "id": 37513,
+      "title": "Mejaz - Regulus in the World",
+      "score": 0.674,
+      "r18": false
+    },
+    {
+      "id": 43830,
+      "title": "The Lady's Spaceship",
+      "score": 0.674,
+      "r18": false
+    },
+    {
       "id": 36345,
       "title": "Castle Swimmer",
+      "score": 0.673,
+      "r18": false
+    },
+    {
+      "id": 59669,
+      "title": "Jungle Juice",
       "score": 0.673,
       "r18": false
     },
@@ -131,27 +137,21 @@
       "r18": false
     },
     {
+      "id": 57905,
+      "title": "Your Majesty, Please Be Dignified",
+      "score": 0.672,
+      "r18": false
+    },
+    {
       "id": 56839,
       "title": "The Anti-Destiny Girl",
       "score": 0.671,
       "r18": false
     },
     {
-      "id": 41783,
-      "title": "You Are My Destiny",
-      "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 41142,
-      "title": "One Million Gold",
-      "score": 0.668,
-      "r18": false
-    },
-    {
-      "id": 52838,
-      "title": "I've Become the Villainous Empress of a Novel",
-      "score": 0.668,
+      "id": 54218,
+      "title": "The Lady and the Beast",
+      "score": 0.671,
       "r18": false
     }
   ]

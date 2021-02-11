@@ -1,8 +1,8 @@
 {
   "id": 38994,
   "title": "Ojisan to Ore no Koiwazurai",
-  "url": "https://mangadex.org/manga/38994",
-  "last_updated": "January 14, 2021 12:40:31 UTC",
+  "url": "https://api.mangadex.org/v2/manga/38994",
+  "last_updated": "February 11, 2021 04:17:46 UTC",
   "matches": [
     {
       "id": 1577,
@@ -38,6 +38,12 @@
       "id": 19451,
       "title": "Soukyoku",
       "score": 0.67,
+      "r18": false
+    },
+    {
+      "id": 51981,
+      "title": "Blue, Black, Sky",
+      "score": 0.43,
       "r18": false
     },
     {

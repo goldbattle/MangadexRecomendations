@@ -1,8 +1,8 @@
 {
   "id": 38915,
   "title": "To Kill a Mirror",
-  "url": "https://mangadex.org/manga/38915",
-  "last_updated": "January 14, 2021 12:39:36 UTC",
+  "url": "https://api.mangadex.org/v2/manga/38915",
+  "last_updated": "February 11, 2021 04:16:36 UTC",
   "matches": [
     {
       "id": 19778,
@@ -113,6 +113,12 @@
       "r18": false
     },
     {
+      "id": 33558,
+      "title": "The Daily Lives of Ghosts",
+      "score": 0.227,
+      "r18": false
+    },
+    {
       "id": 33959,
       "title": "Delivery Knight",
       "score": 0.227,
@@ -145,12 +151,6 @@
     {
       "id": 41576,
       "title": "Good Doctor",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 43031,
-      "title": "Get Back",
       "score": 0.227,
       "r18": false
     }

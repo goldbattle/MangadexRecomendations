@@ -1,8 +1,8 @@
 {
   "id": 38930,
   "title": "Nakimushi na Little",
-  "url": "https://mangadex.org/manga/38930",
-  "last_updated": "January 14, 2021 12:39:46 UTC",
+  "url": "https://api.mangadex.org/v2/manga/38930",
+  "last_updated": "February 11, 2021 04:16:50 UTC",
   "matches": [
     {
       "id": 27828,
@@ -131,6 +131,12 @@
       "r18": false
     },
     {
+      "id": 42633,
+      "title": "Kimi no Te wa Boku no Mono",
+      "score": 0.697,
+      "r18": false
+    },
+    {
       "id": 20223,
       "title": "Kataomoi to Parade",
       "score": 0.697,
@@ -146,12 +152,6 @@
       "id": 19632,
       "title": "Hitorijime My Hero",
       "score": 0.697,
-      "r18": false
-    },
-    {
-      "id": 15696,
-      "title": "Dreamers High",
-      "score": 0.696,
       "r18": false
     }
   ]

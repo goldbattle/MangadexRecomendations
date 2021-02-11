@@ -1,8 +1,8 @@
 {
   "id": 39365,
   "title": "Stop at the Red Light",
-  "url": "https://mangadex.org/manga/39365",
-  "last_updated": "January 14, 2021 12:44:47 UTC",
+  "url": "https://api.mangadex.org/v2/manga/39365",
+  "last_updated": "February 11, 2021 04:23:28 UTC",
   "matches": [
     {
       "id": 22233,
@@ -19,7 +19,7 @@
     {
       "id": 52653,
       "title": "It's Not Like That",
-      "score": 0.679,
+      "score": 0.68,
       "r18": false
     },
     {
@@ -32,6 +32,12 @@
       "id": 50851,
       "title": "Shh, You'll Wake up the Child",
       "score": 0.674,
+      "r18": false
+    },
+    {
+      "id": 59268,
+      "title": "Santa Will Always Grant Your Wishes",
+      "score": 0.673,
       "r18": false
     },
     {
@@ -67,7 +73,7 @@
     {
       "id": 52299,
       "title": "Trap You In My Trap",
-      "score": 0.655,
+      "score": 0.656,
       "r18": false
     },
     {
@@ -80,12 +86,6 @@
       "id": 46540,
       "title": "Come here, I&rsquo;ll carry you to play",
       "score": 0.383,
-      "r18": false
-    },
-    {
-      "id": 59268,
-      "title": "Santa Will Always Grant Your Wishes",
-      "score": 0.369,
       "r18": false
     },
     {
@@ -109,7 +109,13 @@
     {
       "id": 58790,
       "title": "Can&rsquo;t Help It",
-      "score": 0.277,
+      "score": 0.278,
+      "r18": false
+    },
+    {
+      "id": 56351,
+      "title": "Cabbage Under Radish",
+      "score": 0.247,
       "r18": false
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": 39005,
   "title": "Yami no Naka no Crown",
-  "url": "https://mangadex.org/manga/39005",
-  "last_updated": "January 14, 2021 12:40:38 UTC",
+  "url": "https://api.mangadex.org/v2/manga/39005",
+  "last_updated": "February 11, 2021 04:17:58 UTC",
   "matches": [
     {
       "id": 10526,
@@ -32,12 +32,6 @@
       "id": 53969,
       "title": "Dragon Raja",
       "score": 0.755,
-      "r18": false
-    },
-    {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.754,
       "r18": false
     },
     {
@@ -127,7 +121,7 @@
     {
       "id": 2797,
       "title": "Le Th&eacute;&acirc;tre de B",
-      "score": 0.747,
+      "score": 0.746,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 20537,
       "title": "Seirei Gensouki ~Konna Sekai de Deaeta Kimi ni~",
       "score": 0.742,
+      "r18": false
+    },
+    {
+      "id": 25435,
+      "title": "Madara",
+      "score": 0.74,
       "r18": false
     }
   ]

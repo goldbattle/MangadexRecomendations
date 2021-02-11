@@ -1,8 +1,8 @@
 {
   "id": 38756,
   "title": "A Round Trip to Love",
-  "url": "https://mangadex.org/manga/38756",
-  "last_updated": "January 14, 2021 12:37:53 UTC",
+  "url": "https://api.mangadex.org/v2/manga/38756",
+  "last_updated": "February 11, 2021 04:14:13 UTC",
   "matches": [
     {
       "id": 27497,
@@ -49,6 +49,12 @@
     {
       "id": 55977,
       "title": "Ways of Parting",
+      "score": 0.271,
+      "r18": false
+    },
+    {
+      "id": 57765,
+      "title": "Summer Guest",
       "score": 0.271,
       "r18": false
     },
@@ -125,6 +131,12 @@
       "r18": false
     },
     {
+      "id": 39270,
+      "title": "Behind the Desks",
+      "score": 0.233,
+      "r18": false
+    },
+    {
       "id": 49852,
       "title": "My Father-in-Law Is My Wife",
       "score": 0.233,
@@ -139,18 +151,6 @@
     {
       "id": 56502,
       "title": "One Photo (BL)",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 56987,
-      "title": "More and more",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 58077,
-      "title": "Even Though I Don't Know Him Well",
       "score": 0.233,
       "r18": false
     }

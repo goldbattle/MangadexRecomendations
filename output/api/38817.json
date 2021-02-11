@@ -1,8 +1,8 @@
 {
   "id": 38817,
   "title": "Hina Change",
-  "url": "https://mangadex.org/manga/38817",
-  "last_updated": "January 14, 2021 12:38:32 UTC",
+  "url": "https://api.mangadex.org/v2/manga/38817",
+  "last_updated": "February 11, 2021 04:15:09 UTC",
   "matches": [
     {
       "id": 31848,
@@ -11,15 +11,15 @@
       "r18": false
     },
     {
-      "id": 555,
-      "title": "Mirai Nikki",
-      "score": 0.669,
-      "r18": false
-    },
-    {
       "id": 24570,
       "title": "1-nen A-gumi no Monster",
       "score": 0.657,
+      "r18": false
+    },
+    {
+      "id": 555,
+      "title": "Mirai Nikki",
+      "score": 0.654,
       "r18": false
     }
   ]

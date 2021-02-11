@@ -1,8 +1,8 @@
 {
   "id": 38987,
   "title": "Almight Network",
-  "url": "https://mangadex.org/manga/38987",
-  "last_updated": "January 14, 2021 12:40:26 UTC",
+  "url": "https://api.mangadex.org/v2/manga/38987",
+  "last_updated": "February 11, 2021 04:17:40 UTC",
   "matches": [
     {
       "id": 42236,
@@ -23,14 +23,14 @@
       "r18": false
     },
     {
-      "id": 23195,
-      "title": "The Great Ruler",
+      "id": 23231,
+      "title": "Wu Dong Qian Kun",
       "score": 0.658,
       "r18": false
     },
     {
-      "id": 23231,
-      "title": "Wu Dong Qian Kun",
+      "id": 23195,
+      "title": "The Great Ruler",
       "score": 0.658,
       "r18": false
     },
@@ -95,6 +95,12 @@
       "r18": false
     },
     {
+      "id": 52147,
+      "title": "Netherworld Exchange Group",
+      "score": 0.378,
+      "r18": false
+    },
+    {
       "id": 39783,
       "title": "Ocean Memories",
       "score": 0.376,
@@ -137,21 +143,15 @@
       "r18": false
     },
     {
+      "id": 59845,
+      "title": "Demon X Angel, Can&rsquo;t Get Along!",
+      "score": 0.361,
+      "r18": false
+    },
+    {
       "id": 26181,
       "title": "The Cat Immortal",
       "score": 0.36,
-      "r18": false
-    },
-    {
-      "id": 54035,
-      "title": "Kim Star Observation Diary",
-      "score": 0.358,
-      "r18": false
-    },
-    {
-      "id": 50624,
-      "title": "Down To Earth",
-      "score": 0.358,
       "r18": false
     }
   ]
