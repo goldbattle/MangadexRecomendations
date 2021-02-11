@@ -2,7 +2,7 @@
   "id": 46178,
   "title": "Xianzhou",
   "url": "https://api.mangadex.org/v2/manga/46178",
-  "last_updated": "February 04, 2021 20:46:21 UTC",
+  "last_updated": "February 11, 2021 20:37:44 UTC",
   "matches": [
     {
       "id": 23195,
@@ -61,7 +61,7 @@
     {
       "id": 20426,
       "title": "Sunset Rose",
-      "score": 0.705,
+      "score": 0.704,
       "r18": false
     },
     {
@@ -113,12 +113,6 @@
       "r18": false
     },
     {
-      "id": 21773,
-      "title": "Kekkai Sensen: Back 2 Back",
-      "score": 0.699,
-      "r18": false
-    },
-    {
       "id": 23798,
       "title": "Sword Art Online - Ordinal Scale",
       "score": 0.699,
@@ -131,8 +125,20 @@
       "r18": false
     },
     {
+      "id": 21773,
+      "title": "Kekkai Sensen: Back 2 Back",
+      "score": 0.699,
+      "r18": false
+    },
+    {
       "id": 6270,
       "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo (Official Colored)",
+      "score": 0.698,
+      "r18": false
+    },
+    {
+      "id": 283,
+      "title": "Ao no Exorcist",
       "score": 0.698,
       "r18": false
     },
@@ -146,12 +152,6 @@
       "id": 14674,
       "title": "Desolate Era",
       "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 5683,
-      "title": "Mononoke Hime",
-      "score": 0.697,
       "r18": false
     }
   ]

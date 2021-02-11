@@ -2,12 +2,18 @@
   "id": 46256,
   "title": "Planet Guardian",
   "url": "https://api.mangadex.org/v2/manga/46256",
-  "last_updated": "February 04, 2021 20:47:50 UTC",
+  "last_updated": "February 11, 2021 20:38:56 UTC",
   "matches": [
     {
       "id": 45898,
       "title": "Revenge Wedding",
       "score": 0.7,
+      "r18": false
+    },
+    {
+      "id": 59999,
+      "title": "Save Me, Princess",
+      "score": 0.697,
       "r18": false
     },
     {
@@ -47,14 +53,14 @@
       "r18": false
     },
     {
-      "id": 35063,
-      "title": "Dragon Knights",
+      "id": 53810,
+      "title": "My Secretly Hot Husband",
       "score": 0.678,
       "r18": false
     },
     {
-      "id": 53810,
-      "title": "My Secretly Hot Husband",
+      "id": 35063,
+      "title": "Dragon Knights",
       "score": 0.678,
       "r18": false
     },
@@ -92,12 +98,6 @@
       "id": 59228,
       "title": "In my previous life I was a saint, but now I want to cut corners.",
       "score": 0.673,
-      "r18": false
-    },
-    {
-      "id": 59999,
-      "title": "Save Me, Princess",
-      "score": 0.672,
       "r18": false
     },
     {

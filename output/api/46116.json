@@ -2,7 +2,7 @@
   "id": 46116,
   "title": "Nine Songs",
   "url": "https://api.mangadex.org/v2/manga/46116",
-  "last_updated": "February 04, 2021 20:45:01 UTC",
+  "last_updated": "February 11, 2021 20:36:46 UTC",
   "matches": [
     {
       "id": 39208,
@@ -55,6 +55,12 @@
     {
       "id": 58084,
       "title": "A Kind Goblin's Bird",
+      "score": 0.258,
+      "r18": false
+    },
+    {
+      "id": 59841,
+      "title": "Elixir of the Sun",
       "score": 0.258,
       "r18": false
     },
@@ -146,12 +152,6 @@
       "id": 58836,
       "title": "Rebirth of the Cute Tiger: Great General wants to Hug",
       "score": 0.229,
-      "r18": false
-    },
-    {
-      "id": 58412,
-      "title": "Elegy of the Heavens",
-      "score": 0.222,
       "r18": false
     }
   ]

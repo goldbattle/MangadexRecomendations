@@ -2,14 +2,8 @@
   "id": 44978,
   "title": "Deep Insanity",
   "url": "https://api.mangadex.org/v2/manga/44978",
-  "last_updated": "February 04, 2021 20:18:36 UTC",
+  "last_updated": "February 11, 2021 20:18:19 UTC",
   "matches": [
-    {
-      "id": 7139,
-      "title": "One Punch-Man",
-      "score": 0.701,
-      "r18": false
-    },
     {
       "id": 46498,
       "title": "Kemono Giga",
@@ -17,15 +11,15 @@
       "r18": false
     },
     {
-      "id": 114,
-      "title": "Hellsing",
+      "id": 1207,
+      "title": "Jigokusei Lemina",
       "score": 0.683,
       "r18": false
     },
     {
-      "id": 1207,
-      "title": "Jigokusei Lemina",
-      "score": 0.683,
+      "id": 7139,
+      "title": "One Punch-Man",
+      "score": 0.677,
       "r18": false
     },
     {
@@ -74,6 +68,12 @@
       "id": 17945,
       "title": "Adu of Hades",
       "score": 0.655,
+      "r18": false
+    },
+    {
+      "id": 114,
+      "title": "Hellsing",
+      "score": 0.654,
       "r18": false
     },
     {
@@ -149,9 +149,9 @@
       "r18": false
     },
     {
-      "id": 52064,
-      "title": "Ramia - Hero &amp; Demon Lord Chronicles",
-      "score": 0.229,
+      "id": 34888,
+      "title": "Messiah's Hammer",
+      "score": 0.239,
       "r18": false
     }
   ]

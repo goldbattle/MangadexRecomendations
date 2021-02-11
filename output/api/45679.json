@@ -2,7 +2,7 @@
   "id": 45679,
   "title": "Dear X",
   "url": "https://api.mangadex.org/v2/manga/45679",
-  "last_updated": "February 04, 2021 20:33:36 UTC",
+  "last_updated": "February 11, 2021 20:29:36 UTC",
   "matches": [
     {
       "id": 26507,
@@ -89,6 +89,12 @@
       "r18": false
     },
     {
+      "id": 15695,
+      "title": "Usemono Yado",
+      "score": 0.212,
+      "r18": false
+    },
+    {
       "id": 16670,
       "title": "Kizu darake no Akuma",
       "score": 0.212,
@@ -145,12 +151,6 @@
     {
       "id": 26178,
       "title": "The Lady and Her Butler",
-      "score": 0.212,
-      "r18": false
-    },
-    {
-      "id": 27039,
-      "title": "Unmei no Onnanoko",
       "score": 0.212,
       "r18": false
     }

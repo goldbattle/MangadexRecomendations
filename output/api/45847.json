@@ -2,12 +2,18 @@
   "id": 45847,
   "title": "Focus 10",
   "url": "https://api.mangadex.org/v2/manga/45847",
-  "last_updated": "February 04, 2021 20:37:25 UTC",
+  "last_updated": "February 11, 2021 20:32:24 UTC",
   "matches": [
+    {
+      "id": 36431,
+      "title": "Prey",
+      "score": 0.276,
+      "r18": false
+    },
     {
       "id": 59669,
       "title": "Jungle Juice",
-      "score": 0.251,
+      "score": 0.26,
       "r18": false
     },
     {
@@ -79,12 +85,6 @@
     {
       "id": 36083,
       "title": "SCP Comic Anthology - KI",
-      "score": 0.138,
-      "r18": false
-    },
-    {
-      "id": 36431,
-      "title": "Prey",
       "score": 0.138,
       "r18": false
     }

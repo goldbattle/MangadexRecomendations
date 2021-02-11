@@ -2,7 +2,7 @@
   "id": 45774,
   "title": "Bamboo Forest",
   "url": "https://api.mangadex.org/v2/manga/45774",
-  "last_updated": "February 04, 2021 20:35:35 UTC",
+  "last_updated": "February 11, 2021 20:31:09 UTC",
   "matches": [
     {
       "id": 54685,
@@ -50,6 +50,12 @@
       "id": 59215,
       "title": "Akunin no Jouken",
       "score": 0.291,
+      "r18": false
+    },
+    {
+      "id": 59638,
+      "title": "The End Of A Relationship",
+      "score": 0.288,
       "r18": false
     },
     {
@@ -109,12 +115,18 @@
     {
       "id": 38958,
       "title": "Haunted Electronics Shop",
-      "score": 0.257,
+      "score": 0.256,
       "r18": false
     },
     {
       "id": 55365,
       "title": "MEMORIZE",
+      "score": 0.253,
+      "r18": false
+    },
+    {
+      "id": 49856,
+      "title": "Ex vs. Stalker",
       "score": 0.253,
       "r18": false
     },
@@ -137,21 +149,9 @@
       "r18": false
     },
     {
-      "id": 59766,
-      "title": "Desire Diary",
-      "score": 0.246,
-      "r18": false
-    },
-    {
-      "id": 33126,
-      "title": "Vigilante",
-      "score": 0.246,
-      "r18": false
-    },
-    {
-      "id": 37264,
-      "title": "Veggie Hot Bun's School Spring Holiday",
-      "score": 0.245,
+      "id": 42211,
+      "title": "Disease",
+      "score": 0.248,
       "r18": false
     }
   ]

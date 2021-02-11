@@ -2,7 +2,7 @@
   "id": 46136,
   "title": "Shitabashiri",
   "url": "https://api.mangadex.org/v2/manga/46136",
-  "last_updated": "February 04, 2021 20:45:31 UTC",
+  "last_updated": "February 11, 2021 20:37:05 UTC",
   "matches": [
     {
       "id": 137,
@@ -107,12 +107,6 @@
       "r18": false
     },
     {
-      "id": 1036,
-      "title": "Rave",
-      "score": 0.333,
-      "r18": false
-    },
-    {
       "id": 29318,
       "title": "Detective Conan Special",
       "score": 0.333,
@@ -125,21 +119,21 @@
       "r18": false
     },
     {
+      "id": 1036,
+      "title": "Rave",
+      "score": 0.329,
+      "r18": false
+    },
+    {
       "id": 16700,
       "title": "Shijou Saikyou no Gaiden",
       "score": 0.329,
       "r18": false
     },
     {
-      "id": 391,
-      "title": "Shiki",
-      "score": 0.328,
-      "r18": false
-    },
-    {
       "id": 1426,
       "title": "Umineko no Naku Koro ni Episode 1: Legend of the Golden Witch",
-      "score": 0.327,
+      "score": 0.326,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 552,
       "title": "Megami Ibunroku - Persona",
       "score": 0.325,
+      "r18": false
+    },
+    {
+      "id": 11041,
+      "title": "Stealth Symphony",
+      "score": 0.322,
       "r18": false
     }
   ]

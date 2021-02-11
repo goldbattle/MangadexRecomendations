@@ -2,7 +2,7 @@
   "id": 46010,
   "title": "Kono Kaisha ni Suki na Hito ga Imasu",
   "url": "https://api.mangadex.org/v2/manga/46010",
-  "last_updated": "February 04, 2021 20:41:51 UTC",
+  "last_updated": "February 11, 2021 20:35:03 UTC",
   "matches": [
     {
       "id": 15991,
@@ -20,6 +20,12 @@
       "id": 31227,
       "title": "Mado Kara Madoka-chan",
       "score": 0.668,
+      "r18": false
+    },
+    {
+      "id": 51574,
+      "title": "Kono nakani Sekuyuou ga Imasu",
+      "score": 0.657,
       "r18": false
     },
     {
@@ -77,6 +83,12 @@
       "r18": false
     },
     {
+      "id": 32261,
+      "title": "Kojinsa Arimasu",
+      "score": 0.338,
+      "r18": false
+    },
+    {
       "id": 20628,
       "title": "The Traveler",
       "score": 0.332,
@@ -107,15 +119,15 @@
       "r18": false
     },
     {
-      "id": 22723,
-      "title": "Sewayaki Kitsune no Senko-san",
-      "score": 0.265,
+      "id": 42846,
+      "title": "Kowloon Generic Romance",
+      "score": 0.268,
       "r18": false
     },
     {
-      "id": 42846,
-      "title": "Kowloon Generic Romance",
-      "score": 0.263,
+      "id": 22723,
+      "title": "Sewayaki Kitsune no Senko-san",
+      "score": 0.265,
       "r18": false
     }
   ]

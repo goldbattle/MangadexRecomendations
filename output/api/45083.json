@@ -2,14 +2,8 @@
   "id": 45083,
   "title": "Nightmare Busters",
   "url": "https://api.mangadex.org/v2/manga/45083",
-  "last_updated": "February 04, 2021 20:20:32 UTC",
+  "last_updated": "February 11, 2021 20:20:04 UTC",
   "matches": [
-    {
-      "id": 42291,
-      "title": "Dr. STONE reboot: Byakuya",
-      "score": 0.283,
-      "r18": false
-    },
     {
       "id": 24698,
       "title": "Lagoon Engine Einsatz",
@@ -41,8 +35,20 @@
       "r18": false
     },
     {
+      "id": 43314,
+      "title": "Ultima: The Terror of Exodus",
+      "score": 0.283,
+      "r18": false
+    },
+    {
       "id": 40501,
       "title": "Hatsune Miku: Future Delivery - Little Asimov and the Green Thing Left Behind",
+      "score": 0.283,
+      "r18": false
+    },
+    {
+      "id": 42291,
+      "title": "Dr. STONE reboot: Byakuya",
       "score": 0.283,
       "r18": false
     },
@@ -145,13 +151,7 @@
     {
       "id": 26804,
       "title": "Honkai Impact 3rd - Mystery of Stigmata",
-      "score": 0.193,
-      "r18": false
-    },
-    {
-      "id": 57268,
-      "title": "Nanji no Na wa Ai",
-      "score": 0.183,
+      "score": 0.194,
       "r18": false
     }
   ]

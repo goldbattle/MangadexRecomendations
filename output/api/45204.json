@@ -2,7 +2,7 @@
   "id": 45204,
   "title": "Path To You",
   "url": "https://api.mangadex.org/v2/manga/45204",
-  "last_updated": "February 04, 2021 20:22:55 UTC",
+  "last_updated": "February 11, 2021 20:21:58 UTC",
   "matches": [
     {
       "id": 58000,
@@ -89,12 +89,6 @@
       "r18": false
     },
     {
-      "id": 39270,
-      "title": "Behind the Desks",
-      "score": 0.296,
-      "r18": false
-    },
-    {
       "id": 49468,
       "title": "Stalker's Game",
       "score": 0.294,
@@ -127,13 +121,13 @@
     {
       "id": 31605,
       "title": "Midnightmare",
-      "score": 0.279,
+      "score": 0.278,
       "r18": false
     },
     {
       "id": 57440,
       "title": "Fate Between Neighbors",
-      "score": 0.268,
+      "score": 0.267,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 52946,
       "title": "From Now On, I'm Your Dog",
       "score": 0.266,
+      "r18": false
+    },
+    {
+      "id": 53161,
+      "title": "The Sound of Coral Blooming",
+      "score": 0.265,
       "r18": false
     }
   ]

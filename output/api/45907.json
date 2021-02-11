@@ -2,7 +2,7 @@
   "id": 45907,
   "title": "Roman Club",
   "url": "https://api.mangadex.org/v2/manga/45907",
-  "last_updated": "February 04, 2021 20:39:17 UTC",
+  "last_updated": "February 11, 2021 20:33:23 UTC",
   "matches": [
     {
       "id": 810,
@@ -131,6 +131,12 @@
       "r18": false
     },
     {
+      "id": 876,
+      "title": "Mononokemono",
+      "score": 0.36,
+      "r18": false
+    },
+    {
       "id": 22695,
       "title": "Curiosity Killed the Schoolgirl",
       "score": 0.359,
@@ -139,12 +145,6 @@
     {
       "id": 73,
       "title": "Ginen Shounen",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 36413,
-      "title": "Houkago Shounen Hanako-kun",
       "score": 0.35,
       "r18": false
     },

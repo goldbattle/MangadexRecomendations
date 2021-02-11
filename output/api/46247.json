@@ -2,7 +2,7 @@
   "id": 46247,
   "title": "Shinigami Saikoro Game",
   "url": "https://api.mangadex.org/v2/manga/46247",
-  "last_updated": "February 04, 2021 20:47:40 UTC",
+  "last_updated": "February 11, 2021 20:38:49 UTC",
   "matches": [
     {
       "id": 2679,
@@ -19,6 +19,12 @@
     {
       "id": 6300,
       "title": "Aoi Shiro - Kaeishou",
+      "score": 0.255,
+      "r18": false
+    },
+    {
+      "id": 12664,
+      "title": "Kuro no Tantei",
       "score": 0.255,
       "r18": false
     },
@@ -145,12 +151,6 @@
     {
       "id": 23050,
       "title": "Detective Xeno and the Seven Locked Murder Rooms",
-      "score": 0.204,
-      "r18": false
-    },
-    {
-      "id": 23283,
-      "title": "I Am Sherlock",
       "score": 0.204,
       "r18": false
     }

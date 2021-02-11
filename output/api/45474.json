@@ -2,18 +2,18 @@
   "id": 45474,
   "title": "Hoshi Akari Graphics",
   "url": "https://api.mangadex.org/v2/manga/45474",
-  "last_updated": "February 04, 2021 20:29:03 UTC",
+  "last_updated": "February 11, 2021 20:26:24 UTC",
   "matches": [
-    {
-      "id": 875,
-      "title": "Bokura wa Minna Kawai-sou",
-      "score": 0.696,
-      "r18": false
-    },
     {
       "id": 583,
       "title": "Paradise Residence",
       "score": 0.681,
+      "r18": false
+    },
+    {
+      "id": 875,
+      "title": "Bokura wa Minna Kawai-sou",
+      "score": 0.68,
       "r18": false
     },
     {
@@ -97,7 +97,7 @@
     {
       "id": 7727,
       "title": "Uwagaki",
-      "score": 0.663,
+      "score": 0.664,
       "r18": false
     },
     {
@@ -143,15 +143,15 @@
       "r18": false
     },
     {
-      "id": 36258,
-      "title": "Houkago Teibou Nisshi",
-      "score": 0.656,
-      "r18": false
-    },
-    {
       "id": 1614,
       "title": "Aa! Megami-sama!",
       "score": 0.655,
+      "r18": false
+    },
+    {
+      "id": 8496,
+      "title": "Sakamoto desu ga?",
+      "score": 0.654,
       "r18": false
     }
   ]

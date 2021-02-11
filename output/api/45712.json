@@ -2,7 +2,7 @@
   "id": 45712,
   "title": "Fujimi no Tokkouhei: Ikitoshi Ikeru Monotachi e",
   "url": "https://api.mangadex.org/v2/manga/45712",
-  "last_updated": "February 04, 2021 20:34:16 UTC",
+  "last_updated": "February 11, 2021 20:30:06 UTC",
   "matches": [
     {
       "id": 917,
@@ -55,6 +55,12 @@
     {
       "id": 26303,
       "title": "Shinsengumi Jingishou Asagi",
+      "score": 0.373,
+      "r18": false
+    },
+    {
+      "id": 16650,
+      "title": "Kuubo Ibuki",
       "score": 0.373,
       "r18": false
     },
@@ -146,12 +152,6 @@
       "id": 10078,
       "title": "Meng Wu and Chu Zi",
       "score": 0.354,
-      "r18": false
-    },
-    {
-      "id": 10343,
-      "title": "Oldman",
-      "score": 0.351,
       "r18": false
     }
   ]

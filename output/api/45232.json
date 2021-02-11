@@ -2,7 +2,7 @@
   "id": 45232,
   "title": "Bushizawa Receive",
   "url": "https://api.mangadex.org/v2/manga/45232",
-  "last_updated": "February 04, 2021 20:23:40 UTC",
+  "last_updated": "February 11, 2021 20:22:26 UTC",
   "matches": [
     {
       "id": 34056,
@@ -77,6 +77,12 @@
       "r18": false
     },
     {
+      "id": 876,
+      "title": "Mononokemono",
+      "score": 0.276,
+      "r18": false
+    },
+    {
       "id": 1054,
       "title": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!",
       "score": 0.276,
@@ -145,12 +151,6 @@
     {
       "id": 5013,
       "title": "Riko to Haru to Onsen to Iruka",
-      "score": 0.276,
-      "r18": false
-    },
-    {
-      "id": 5205,
-      "title": "Kunimitsu no Matsuri",
       "score": 0.276,
       "r18": false
     }

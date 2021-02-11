@@ -2,17 +2,11 @@
   "id": 45806,
   "title": "Foxtail",
   "url": "https://api.mangadex.org/v2/manga/45806",
-  "last_updated": "February 04, 2021 20:36:12 UTC",
+  "last_updated": "February 11, 2021 20:31:43 UTC",
   "matches": [
     {
       "id": 49507,
       "title": "Rettou Gan no Tensei Majutsushi ~ Shiitage Rareta Saikyou no Minashigo ga Isekai de Musou Suru",
-      "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 25495,
-      "title": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba ii?",
       "score": 0.711,
       "r18": false
     },
@@ -89,12 +83,6 @@
       "r18": false
     },
     {
-      "id": 303,
-      "title": "Claymore",
-      "score": 0.684,
-      "r18": false
-    },
-    {
       "id": 28525,
       "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo",
       "score": 0.684,
@@ -113,14 +101,14 @@
       "r18": false
     },
     {
-      "id": 21061,
-      "title": "Tales of Berseria",
+      "id": 2958,
+      "title": "Star Ocean - Till the End of Time",
       "score": 0.683,
       "r18": false
     },
     {
-      "id": 2958,
-      "title": "Star Ocean - Till the End of Time",
+      "id": 21061,
+      "title": "Tales of Berseria",
       "score": 0.683,
       "r18": false
     },
@@ -152,6 +140,18 @@
       "id": 176,
       "title": "Monster Hunter Orage",
       "score": 0.679,
+      "r18": false
+    },
+    {
+      "id": 24373,
+      "title": "Fire Emblem - Ankokuryuu to Hikari no Ken",
+      "score": 0.678,
+      "r18": false
+    },
+    {
+      "id": 20426,
+      "title": "Sunset Rose",
+      "score": 0.677,
       "r18": false
     }
   ]

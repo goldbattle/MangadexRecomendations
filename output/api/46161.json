@@ -2,7 +2,7 @@
   "id": 46161,
   "title": "Comment &ccedil;a va?",
   "url": "https://api.mangadex.org/v2/manga/46161",
-  "last_updated": "February 04, 2021 20:46:01 UTC",
+  "last_updated": "February 11, 2021 20:37:29 UTC",
   "matches": [
     {
       "id": 23315,
@@ -137,6 +137,12 @@
       "r18": true
     },
     {
+      "id": 50066,
+      "title": "Hibike! Euphonium -- Daisuki no xxx",
+      "score": 0.18,
+      "r18": true
+    },
+    {
       "id": 50706,
       "title": "Yuri to Isshoni Obenkyou",
       "score": 0.18,
@@ -146,12 +152,6 @@
       "id": 53315,
       "title": "YuruYuri - A Book Where Minamino-sensei and Yui Have Sex",
       "score": 0.18,
-      "r18": true
-    },
-    {
-      "id": 30417,
-      "title": "World of Yuri",
-      "score": 0.151,
       "r18": true
     }
   ]

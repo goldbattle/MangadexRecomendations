@@ -2,7 +2,7 @@
   "id": 46170,
   "title": "Pure Shadow",
   "url": "https://api.mangadex.org/v2/manga/46170",
-  "last_updated": "February 04, 2021 20:46:11 UTC",
+  "last_updated": "February 11, 2021 20:37:37 UTC",
   "matches": [
     {
       "id": 56488,
@@ -77,12 +77,6 @@
       "r18": false
     },
     {
-      "id": 26219,
-      "title": "Friends",
-      "score": 0.28,
-      "r18": false
-    },
-    {
       "id": 27420,
       "title": "Mikansei Girl",
       "score": 0.28,
@@ -152,6 +146,12 @@
       "id": 21289,
       "title": "Blood in the Field",
       "score": 0.272,
+      "r18": false
+    },
+    {
+      "id": 27159,
+      "title": "Happy End for You",
+      "score": 0.249,
       "r18": false
     }
   ]

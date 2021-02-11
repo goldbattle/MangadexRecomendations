@@ -2,23 +2,17 @@
   "id": 46371,
   "title": "Fiery Consort",
   "url": "https://api.mangadex.org/v2/manga/46371",
-  "last_updated": "February 04, 2021 20:51:14 UTC",
+  "last_updated": "February 11, 2021 20:40:45 UTC",
   "matches": [
     {
       "id": 34664,
       "title": "Tales of Hearts",
-      "score": 0.705,
+      "score": 0.704,
       "r18": false
     },
     {
       "id": 26380,
       "title": "Mahoutsukai no Konyakusha",
-      "score": 0.703,
-      "r18": false
-    },
-    {
-      "id": 35626,
-      "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Kenki Koiuta",
       "score": 0.703,
       "r18": false
     },
@@ -73,7 +67,7 @@
     {
       "id": 49768,
       "title": "A Will Eternal",
-      "score": 0.693,
+      "score": 0.692,
       "r18": false
     },
     {
@@ -113,12 +107,6 @@
       "r18": false
     },
     {
-      "id": 283,
-      "title": "Ao no Exorcist",
-      "score": 0.687,
-      "r18": false
-    },
-    {
       "id": 12009,
       "title": "Soul Land",
       "score": 0.686,
@@ -152,6 +140,18 @@
       "id": 11945,
       "title": "Okobore Hime to Entaku no Kishi",
       "score": 0.684,
+      "r18": false
+    },
+    {
+      "id": 1389,
+      "title": "Superior Cross",
+      "score": 0.683,
+      "r18": false
+    },
+    {
+      "id": 40570,
+      "title": "The Evil Lady Will Change",
+      "score": 0.683,
       "r18": false
     }
   ]

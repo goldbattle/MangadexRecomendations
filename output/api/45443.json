@@ -2,14 +2,8 @@
   "id": 45443,
   "title": "No Doubt in Us",
   "url": "https://api.mangadex.org/v2/manga/45443",
-  "last_updated": "February 04, 2021 20:28:26 UTC",
+  "last_updated": "February 11, 2021 20:25:54 UTC",
   "matches": [
-    {
-      "id": 39237,
-      "title": "Lady to Queen",
-      "score": 0.764,
-      "r18": false
-    },
     {
       "id": 2163,
       "title": "Ninohime no Monogatari",
@@ -32,6 +26,12 @@
       "id": 42278,
       "title": "Emperor and the Female Knight",
       "score": 0.757,
+      "r18": false
+    },
+    {
+      "id": 51318,
+      "title": "Truthfully, They Only Remembered Her",
+      "score": 0.753,
       "r18": false
     },
     {
@@ -113,21 +113,27 @@
       "r18": false
     },
     {
+      "id": 59606,
+      "title": "I Gave Birth to the Tyrant's Child",
+      "score": 0.736,
+      "r18": false
+    },
+    {
+      "id": 39237,
+      "title": "Lady to Queen",
+      "score": 0.735,
+      "r18": false
+    },
+    {
       "id": 4049,
       "title": "Joou no Hana",
-      "score": 0.735,
+      "score": 0.734,
       "r18": false
     },
     {
       "id": 2789,
       "title": "GIRL",
       "score": 0.734,
-      "r18": false
-    },
-    {
-      "id": 35089,
-      "title": "Lady Beast",
-      "score": 0.733,
       "r18": false
     },
     {
@@ -145,12 +151,6 @@
     {
       "id": 45628,
       "title": "Heaven Official's Blessing",
-      "score": 0.733,
-      "r18": false
-    },
-    {
-      "id": 28369,
-      "title": "A Lonesome Fragrance Waiting to Be Appreciated",
       "score": 0.732,
       "r18": false
     }

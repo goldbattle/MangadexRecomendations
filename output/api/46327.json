@@ -2,7 +2,7 @@
   "id": 46327,
   "title": "Human Use",
   "url": "https://api.mangadex.org/v2/manga/46327",
-  "last_updated": "February 04, 2021 20:49:54 UTC",
+  "last_updated": "February 11, 2021 20:40:06 UTC",
   "matches": [
     {
       "id": 19688,
@@ -83,12 +83,6 @@
       "r18": false
     },
     {
-      "id": 7710,
-      "title": "Kidou Senshi Crossbone Gundam",
-      "score": 0.709,
-      "r18": false
-    },
-    {
       "id": 23332,
       "title": "Kidou Senshi Gundam Twilight Axis",
       "score": 0.707,
@@ -97,7 +91,13 @@
     {
       "id": 51520,
       "title": "Dark Blood Age",
-      "score": 0.707,
+      "score": 0.706,
+      "r18": false
+    },
+    {
+      "id": 7710,
+      "title": "Kidou Senshi Crossbone Gundam",
+      "score": 0.706,
       "r18": false
     },
     {
