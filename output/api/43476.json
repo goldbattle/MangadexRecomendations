@@ -2,7 +2,7 @@
   "id": 43476,
   "title": "Yakuza Reincarnation",
   "url": "https://api.mangadex.org/v2/manga/43476",
-  "last_updated": "February 04, 2021 16:26:11 UTC",
+  "last_updated": "February 11, 2021 16:25:28 UTC",
   "matches": [
     {
       "id": 42975,
@@ -25,13 +25,13 @@
     {
       "id": 38115,
       "title": "One Punch-Man (Fan Colored)",
-      "score": 0.663,
+      "score": 0.654,
       "r18": false
     },
     {
       "id": 7139,
       "title": "One Punch-Man",
-      "score": 0.66,
+      "score": 0.653,
       "r18": false
     },
     {
@@ -71,21 +71,27 @@
       "r18": false
     },
     {
-      "id": 114,
-      "title": "Hellsing",
-      "score": 0.295,
-      "r18": false
-    },
-    {
       "id": 4629,
       "title": "Burning Hell",
       "score": 0.293,
       "r18": false
     },
     {
+      "id": 114,
+      "title": "Hellsing",
+      "score": 0.278,
+      "r18": false
+    },
+    {
       "id": 6248,
       "title": "Koukoku no Shugosha",
       "score": 0.271,
+      "r18": false
+    },
+    {
+      "id": 50725,
+      "title": "Kimi wa Shinenai Hai Kaburi no Majo",
+      "score": 0.268,
       "r18": false
     },
     {
@@ -113,15 +119,15 @@
       "r18": false
     },
     {
-      "id": 31534,
-      "title": "Batuque",
-      "score": 0.246,
+      "id": 12588,
+      "title": "Gunjou Senki",
+      "score": 0.249,
       "r18": false
     },
     {
-      "id": 50725,
-      "title": "Kimi wa Shinenai Hai Kaburi no Majo",
-      "score": 0.244,
+      "id": 31534,
+      "title": "Batuque",
+      "score": 0.246,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 16663,
       "title": "Golden Kamuy",
       "score": 0.239,
-      "r18": false
-    },
-    {
-      "id": 5397,
-      "title": "Kozure Ookami",
-      "score": 0.238,
       "r18": false
     }
   ]

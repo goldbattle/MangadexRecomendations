@@ -2,7 +2,7 @@
   "id": 43737,
   "title": "Koisuru Daigo-sensei",
   "url": "https://api.mangadex.org/v2/manga/43737",
-  "last_updated": "February 04, 2021 16:30:56 UTC",
+  "last_updated": "February 11, 2021 16:29:46 UTC",
   "matches": [
     {
       "id": 55255,
@@ -43,7 +43,13 @@
     {
       "id": 58208,
       "title": "Kaerenain Da Yo",
-      "score": 0.745,
+      "score": 0.744,
+      "r18": false
+    },
+    {
+      "id": 16544,
+      "title": "ULTRAS",
+      "score": 0.742,
       "r18": false
     },
     {
@@ -74,12 +80,6 @@
       "id": 18352,
       "title": "Parallel Lines",
       "score": 0.737,
-      "r18": false
-    },
-    {
-      "id": 16544,
-      "title": "ULTRAS",
-      "score": 0.736,
       "r18": false
     },
     {
@@ -145,7 +145,7 @@
     {
       "id": 53625,
       "title": "Kagakushitsu e Douzo",
-      "score": 0.729,
+      "score": 0.728,
       "r18": false
     },
     {

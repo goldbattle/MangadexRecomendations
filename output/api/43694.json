@@ -2,18 +2,12 @@
   "id": 43694,
   "title": "Bishounen Club no Himitsu",
   "url": "https://api.mangadex.org/v2/manga/43694",
-  "last_updated": "February 04, 2021 16:30:11 UTC",
+  "last_updated": "February 11, 2021 16:29:03 UTC",
   "matches": [
     {
       "id": 534,
       "title": "&quot;Bungaku Shoujo&quot; to Shinitagari no Pierrot",
       "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 36258,
-      "title": "Houkago Teibou Nisshi",
-      "score": 0.67,
       "r18": false
     },
     {
@@ -35,9 +29,15 @@
       "r18": false
     },
     {
+      "id": 36258,
+      "title": "Houkago Teibou Nisshi",
+      "score": 0.66,
+      "r18": false
+    },
+    {
       "id": 505,
       "title": "Nagato Yuki-chan no Shoushitsu",
-      "score": 0.659,
+      "score": 0.658,
       "r18": false
     },
     {
@@ -77,6 +77,12 @@
       "r18": false
     },
     {
+      "id": 8496,
+      "title": "Sakamoto desu ga?",
+      "score": 0.419,
+      "r18": false
+    },
+    {
       "id": 23203,
       "title": "Futari no Jikan",
       "score": 0.418,
@@ -98,6 +104,12 @@
       "id": 48139,
       "title": "Otonari Voice Chat",
       "score": 0.414,
+      "r18": false
+    },
+    {
+      "id": 33670,
+      "title": "Skip to Loafer",
+      "score": 0.409,
       "r18": false
     },
     {
@@ -140,18 +152,6 @@
       "id": 9496,
       "title": "Love Calendar",
       "score": 0.393,
-      "r18": false
-    },
-    {
-      "id": 2824,
-      "title": "Saki: Achiga-hen - episode of side-A",
-      "score": 0.393,
-      "r18": false
-    },
-    {
-      "id": 28556,
-      "title": "Joshikousei no Mudazukai",
-      "score": 0.392,
       "r18": false
     }
   ]

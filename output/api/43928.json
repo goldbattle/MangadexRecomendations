@@ -2,7 +2,7 @@
   "id": 43928,
   "title": "Orc Henshuusha to Onna Kishi Mangaka-san",
   "url": "https://api.mangadex.org/v2/manga/43928",
-  "last_updated": "February 04, 2021 16:34:16 UTC",
+  "last_updated": "February 11, 2021 16:32:56 UTC",
   "matches": [
     {
       "id": 55481,
@@ -43,12 +43,6 @@
     {
       "id": 564,
       "title": "Nagasarete Airantou",
-      "score": 0.682,
-      "r18": false
-    },
-    {
-      "id": 27243,
-      "title": "Orient",
       "score": 0.682,
       "r18": false
     },
@@ -107,6 +101,12 @@
       "r18": false
     },
     {
+      "id": 27243,
+      "title": "Orient",
+      "score": 0.313,
+      "r18": false
+    },
+    {
       "id": 36294,
       "title": "Sekai de Tadahitori no Mamono Tsukai ~Tenshoku Shitara Maou ni Machigawa Remashita~",
       "score": 0.302,
@@ -131,6 +131,12 @@
       "r18": false
     },
     {
+      "id": 50741,
+      "title": "The Keeper Wants to Build a Zoo in Another World, So He Tames Monsters",
+      "score": 0.275,
+      "r18": false
+    },
+    {
       "id": 25447,
       "title": "Orc ga Okashite Kurenai!",
       "score": 0.272,
@@ -146,12 +152,6 @@
       "id": 3132,
       "title": "Dragon Ball",
       "score": 0.234,
-      "r18": false
-    },
-    {
-      "id": 15946,
-      "title": "Gun-Ota ga Mahou Sekai ni Tensei shitara, Gendai Heiki de Guntai Harem wo Tsukucchaimashita!?",
-      "score": 0.215,
       "r18": false
     }
   ]

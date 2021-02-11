@@ -2,18 +2,12 @@
   "id": 43457,
   "title": "Oni Blood",
   "url": "https://api.mangadex.org/v2/manga/43457",
-  "last_updated": "February 04, 2021 16:25:45 UTC",
+  "last_updated": "February 11, 2021 16:25:11 UTC",
   "matches": [
     {
       "id": 36294,
       "title": "Sekai de Tadahitori no Mamono Tsukai ~Tenshoku Shitara Maou ni Machigawa Remashita~",
       "score": 0.299,
-      "r18": false
-    },
-    {
-      "id": 27243,
-      "title": "Orient",
-      "score": 0.273,
       "r18": false
     },
     {
@@ -29,9 +23,21 @@
       "r18": false
     },
     {
+      "id": 27243,
+      "title": "Orient",
+      "score": 0.237,
+      "r18": false
+    },
+    {
+      "id": 4774,
+      "title": "Dragon Quest: Dai no Daibouken",
+      "score": 0.235,
+      "r18": false
+    },
+    {
       "id": 42885,
       "title": "Kyuubo: Suterareteta Dragon Hirotta",
-      "score": 0.223,
+      "score": 0.224,
       "r18": false
     },
     {
@@ -115,19 +121,19 @@
     {
       "id": 50833,
       "title": "Zettai ni Damage wo Ukenai Skill wo Moratta node, Boukensha to shite Musou shite miru",
-      "score": 0.187,
-      "r18": false
-    },
-    {
-      "id": 40956,
-      "title": "Necromance",
-      "score": 0.182,
+      "score": 0.186,
       "r18": false
     },
     {
       "id": 36123,
       "title": "Isekai de Tochi o Katte Noujou o Tsukurou",
-      "score": 0.178,
+      "score": 0.186,
+      "r18": false
+    },
+    {
+      "id": 40956,
+      "title": "Necromance",
+      "score": 0.185,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 35794,
       "title": "The Hero Who Returned Remains the Strongest in the Modern World",
       "score": 0.165,
-      "r18": false
-    },
-    {
-      "id": 24288,
-      "title": "Sentouin, Hakenshimasu!",
-      "score": 0.161,
       "r18": false
     }
   ]

@@ -2,7 +2,7 @@
   "id": 44864,
   "title": "Fatal Code",
   "url": "https://api.mangadex.org/v2/manga/44864",
-  "last_updated": "February 04, 2021 16:51:31 UTC",
+  "last_updated": "February 11, 2021 16:48:03 UTC",
   "matches": [
     {
       "id": 8401,
@@ -101,12 +101,6 @@
       "r18": false
     },
     {
-      "id": 219,
-      "title": "Akame ga KILL!",
-      "score": 0.679,
-      "r18": false
-    },
-    {
       "id": 56522,
       "title": "Rurouni Kenshin - Digital Colored Comics",
       "score": 0.679,
@@ -151,6 +145,12 @@
     {
       "id": 41850,
       "title": "Ihoujin, Dungeon ni Moguru",
+      "score": 0.674,
+      "r18": false
+    },
+    {
+      "id": 219,
+      "title": "Akame ga KILL!",
       "score": 0.674,
       "r18": false
     }

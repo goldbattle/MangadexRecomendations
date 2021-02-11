@@ -2,7 +2,7 @@
   "id": 44848,
   "title": "PhD: Phantasy Degree",
   "url": "https://api.mangadex.org/v2/manga/44848",
-  "last_updated": "February 04, 2021 16:51:14 UTC",
+  "last_updated": "February 11, 2021 16:47:48 UTC",
   "matches": [
     {
       "id": 1911,
@@ -59,9 +59,15 @@
       "r18": false
     },
     {
+      "id": 9057,
+      "title": "Kai Pilgrim",
+      "score": 0.692,
+      "r18": false
+    },
+    {
       "id": 6872,
       "title": "Tales of Vesperia",
-      "score": 0.691,
+      "score": 0.692,
       "r18": false
     },
     {
@@ -125,6 +131,12 @@
       "r18": false
     },
     {
+      "id": 5861,
+      "title": "Slayers - Suiriyuuou no Kishi",
+      "score": 0.688,
+      "r18": false
+    },
+    {
       "id": 1756,
       "title": "Buster Keel!",
       "score": 0.687,
@@ -140,18 +152,6 @@
       "id": 20231,
       "title": "Majo no Geboku to Maou no Tsuno",
       "score": 0.687,
-      "r18": false
-    },
-    {
-      "id": 11923,
-      "title": "Monster X Monster",
-      "score": 0.687,
-      "r18": false
-    },
-    {
-      "id": 54182,
-      "title": "Ore wa Mada, Honki o Dashite Inai",
-      "score": 0.686,
       "r18": false
     }
   ]

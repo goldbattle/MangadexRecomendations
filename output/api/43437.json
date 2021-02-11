@@ -2,7 +2,7 @@
   "id": 43437,
   "title": "Yobidasareta Satsurikusha",
   "url": "https://api.mangadex.org/v2/manga/43437",
-  "last_updated": "February 04, 2021 16:25:24 UTC",
+  "last_updated": "February 11, 2021 16:24:52 UTC",
   "matches": [
     {
       "id": 3779,
@@ -23,6 +23,12 @@
       "r18": false
     },
     {
+      "id": 40712,
+      "title": "Yajin Tensei: Karate Survivor in Another World",
+      "score": 0.695,
+      "r18": false
+    },
+    {
       "id": 23551,
       "title": "Nidome no Yuusha",
       "score": 0.694,
@@ -32,6 +38,12 @@
       "id": 56197,
       "title": "Baki Gaiden - Retsu Kaioh Isekai Tensei Shitemo Ikk\u014d Kamawan!",
       "score": 0.689,
+      "r18": false
+    },
+    {
+      "id": 50725,
+      "title": "Kimi wa Shinenai Hai Kaburi no Majo",
+      "score": 0.688,
       "r18": false
     },
     {
@@ -61,7 +73,7 @@
     {
       "id": 429,
       "title": "Shingeki no Kyojin",
-      "score": 0.681,
+      "score": 0.682,
       "r18": false
     },
     {
@@ -89,9 +101,21 @@
       "r18": false
     },
     {
+      "id": 12588,
+      "title": "Gunjou Senki",
+      "score": 0.669,
+      "r18": false
+    },
+    {
       "id": 28595,
       "title": "Bestia",
       "score": 0.665,
+      "r18": false
+    },
+    {
+      "id": 34888,
+      "title": "Messiah's Hammer",
+      "score": 0.659,
       "r18": false
     },
     {
@@ -128,30 +152,6 @@
       "id": 7163,
       "title": "Henshin Ninja Arashi",
       "score": 0.319,
-      "r18": false
-    },
-    {
-      "id": 44205,
-      "title": "Yuwakashi Yuusha no Fukushuutan",
-      "score": 0.318,
-      "r18": false
-    },
-    {
-      "id": 40712,
-      "title": "Yajin Tensei: Karate Survivor in Another World",
-      "score": 0.298,
-      "r18": false
-    },
-    {
-      "id": 9676,
-      "title": "Azumi",
-      "score": 0.292,
-      "r18": false
-    },
-    {
-      "id": 53891,
-      "title": "From the Red Fog",
-      "score": 0.269,
       "r18": false
     }
   ]

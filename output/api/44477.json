@@ -2,12 +2,18 @@
   "id": 44477,
   "title": "Koi Uta Unlock",
   "url": "https://api.mangadex.org/v2/manga/44477",
-  "last_updated": "February 04, 2021 16:44:35 UTC",
+  "last_updated": "February 11, 2021 16:41:49 UTC",
   "matches": [
     {
       "id": 4810,
       "title": "Boku no Shiru Anata no Hanashi",
       "score": 0.776,
+      "r18": false
+    },
+    {
+      "id": 16544,
+      "title": "ULTRAS",
+      "score": 0.76,
       "r18": false
     },
     {
@@ -20,12 +26,6 @@
       "id": 13600,
       "title": "Akihabara Fall In Love",
       "score": 0.757,
-      "r18": false
-    },
-    {
-      "id": 16544,
-      "title": "ULTRAS",
-      "score": 0.755,
       "r18": false
     },
     {
@@ -121,7 +121,7 @@
     {
       "id": 36903,
       "title": "Himitsu no Love Sensation",
-      "score": 0.743,
+      "score": 0.742,
       "r18": false
     },
     {

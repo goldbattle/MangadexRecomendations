@@ -2,7 +2,7 @@
   "id": 44681,
   "title": "Monster Kingdom",
   "url": "https://api.mangadex.org/v2/manga/44681",
-  "last_updated": "February 04, 2021 16:48:21 UTC",
+  "last_updated": "February 11, 2021 16:45:06 UTC",
   "matches": [
     {
       "id": 48343,
@@ -14,6 +14,12 @@
       "id": 52739,
       "title": "The King's Avatar",
       "score": 0.699,
+      "r18": false
+    },
+    {
+      "id": 59999,
+      "title": "Save Me, Princess",
+      "score": 0.696,
       "r18": false
     },
     {
@@ -43,7 +49,7 @@
     {
       "id": 2267,
       "title": "UnderCity",
-      "score": 0.689,
+      "score": 0.688,
       "r18": false
     },
     {
@@ -55,13 +61,7 @@
     {
       "id": 44507,
       "title": "The Song of Theodor",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 59999,
-      "title": "Save Me, Princess",
-      "score": 0.677,
+      "score": 0.68,
       "r18": false
     },
     {
@@ -77,6 +77,12 @@
       "r18": false
     },
     {
+      "id": 42684,
+      "title": "The Strongest Cheat Player",
+      "score": 0.672,
+      "r18": false
+    },
+    {
       "id": 53985,
       "title": "Dragon Raja 3",
       "score": 0.672,
@@ -89,15 +95,15 @@
       "r18": false
     },
     {
-      "id": 208,
-      "title": "Magician",
-      "score": 0.671,
+      "id": 40819,
+      "title": "The Comic Changes My Destiny",
+      "score": 0.672,
       "r18": false
     },
     {
-      "id": 40819,
-      "title": "The Comic Changes My Destiny",
-      "score": 0.671,
+      "id": 208,
+      "title": "Magician",
+      "score": 0.672,
       "r18": false
     },
     {
@@ -107,8 +113,8 @@
       "r18": false
     },
     {
-      "id": 42684,
-      "title": "The Strongest Cheat Player",
+      "id": 51318,
+      "title": "Truthfully, They Only Remembered Her",
       "score": 0.671,
       "r18": false
     },
@@ -127,13 +133,13 @@
     {
       "id": 42236,
       "title": "Heaven Official's Blessing (old version)",
-      "score": 0.669,
+      "score": 0.67,
       "r18": false
     },
     {
       "id": 26158,
       "title": "Martial Peak",
-      "score": 0.669,
+      "score": 0.67,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 31194,
       "title": "Hunter Age",
       "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 38543,
-      "title": "Fights Break Sphere &ndash; Return of the Beasts",
-      "score": 0.668,
       "r18": false
     }
   ]

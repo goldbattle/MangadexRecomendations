@@ -2,7 +2,7 @@
   "id": 43794,
   "title": "From points of three",
   "url": "https://api.mangadex.org/v2/manga/43794",
-  "last_updated": "February 04, 2021 16:31:56 UTC",
+  "last_updated": "February 11, 2021 16:30:39 UTC",
   "matches": [
     {
       "id": 34185,
@@ -49,6 +49,12 @@
     {
       "id": 39707,
       "title": "Anglerfish",
+      "score": 0.18,
+      "r18": false
+    },
+    {
+      "id": 39993,
+      "title": "BJ Alex",
       "score": 0.18,
       "r18": false
     },
@@ -137,20 +143,14 @@
       "r18": false
     },
     {
+      "id": 41171,
+      "title": "The Boss Is Too Much!!!",
+      "score": 0.144,
+      "r18": false
+    },
+    {
       "id": 42002,
       "title": "Virus",
-      "score": 0.144,
-      "r18": false
-    },
-    {
-      "id": 43916,
-      "title": "Marry You? Yes, I Will!",
-      "score": 0.144,
-      "r18": false
-    },
-    {
-      "id": 44078,
-      "title": "The Time Between Dog and Wolf",
       "score": 0.144,
       "r18": false
     }

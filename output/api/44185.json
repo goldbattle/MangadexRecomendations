@@ -2,7 +2,7 @@
   "id": 44185,
   "title": "Kiss The Bride",
   "url": "https://api.mangadex.org/v2/manga/44185",
-  "last_updated": "February 04, 2021 16:39:27 UTC",
+  "last_updated": "February 11, 2021 16:37:09 UTC",
   "matches": [
     {
       "id": 41682,
@@ -23,6 +23,12 @@
       "r18": false
     },
     {
+      "id": 52037,
+      "title": "Holding Room",
+      "score": 0.671,
+      "r18": false
+    },
+    {
       "id": 52515,
       "title": "4 Week Lovers",
       "score": 0.67,
@@ -32,12 +38,6 @@
       "id": 59175,
       "title": "Love Script",
       "score": 0.667,
-      "r18": false
-    },
-    {
-      "id": 52037,
-      "title": "Holding Room",
-      "score": 0.666,
       "r18": false
     },
     {
@@ -127,24 +127,24 @@
     {
       "id": 47612,
       "title": "Obscura",
-      "score": 0.42,
+      "score": 0.421,
       "r18": false
     },
     {
       "id": 36997,
       "title": "Hyperventilation",
-      "score": 0.411,
-      "r18": false
-    },
-    {
-      "id": 59770,
-      "title": "XX Partner",
-      "score": 0.41,
+      "score": 0.412,
       "r18": false
     },
     {
       "id": 50830,
       "title": "Siren's Song",
+      "score": 0.41,
+      "r18": false
+    },
+    {
+      "id": 59770,
+      "title": "XX Partner",
       "score": 0.41,
       "r18": false
     },

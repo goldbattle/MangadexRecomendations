@@ -2,7 +2,7 @@
   "id": 43578,
   "title": "O Feriadao",
   "url": "https://api.mangadex.org/v2/manga/43578",
-  "last_updated": "February 04, 2021 16:28:11 UTC",
+  "last_updated": "February 11, 2021 16:27:07 UTC",
   "matches": [
     {
       "id": 23785,
@@ -119,12 +119,6 @@
       "r18": false
     },
     {
-      "id": 27243,
-      "title": "Orient",
-      "score": 0.293,
-      "r18": false
-    },
-    {
       "id": 10570,
       "title": "Keijo!!!!!!!!",
       "score": 0.29,
@@ -152,6 +146,12 @@
       "id": 22969,
       "title": "Soul Anomaly",
       "score": 0.284,
+      "r18": false
+    },
+    {
+      "id": 14401,
+      "title": "The Strongest Virus",
+      "score": 0.283,
       "r18": false
     }
   ]

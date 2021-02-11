@@ -2,7 +2,7 @@
   "id": 43639,
   "title": "Aluna Vein",
   "url": "https://api.mangadex.org/v2/manga/43639",
-  "last_updated": "February 04, 2021 16:29:16 UTC",
+  "last_updated": "February 11, 2021 16:28:07 UTC",
   "matches": [
     {
       "id": 51923,
@@ -14,6 +14,12 @@
       "id": 23231,
       "title": "Wu Dong Qian Kun",
       "score": 0.699,
+      "r18": false
+    },
+    {
+      "id": 32574,
+      "title": "Martial King's Retired Life",
+      "score": 0.685,
       "r18": false
     },
     {
@@ -133,7 +139,7 @@
     {
       "id": 31392,
       "title": "The Girl from Random Chatting!",
-      "score": 0.286,
+      "score": 0.287,
       "r18": false
     },
     {
@@ -145,13 +151,7 @@
     {
       "id": 42230,
       "title": "Metropolitan Supremacy System",
-      "score": 0.283,
-      "r18": false
-    },
-    {
-      "id": 40789,
-      "title": "Universal X System",
-      "score": 0.277,
+      "score": 0.282,
       "r18": false
     }
   ]

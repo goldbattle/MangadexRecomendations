@@ -2,7 +2,7 @@
   "id": 44005,
   "title": "PRODUSAGA",
   "url": "https://api.mangadex.org/v2/manga/44005",
-  "last_updated": "February 04, 2021 16:36:01 UTC",
+  "last_updated": "February 11, 2021 16:34:08 UTC",
   "matches": [
     {
       "id": 31002,
@@ -95,12 +95,6 @@
       "r18": false
     },
     {
-      "id": 303,
-      "title": "Claymore",
-      "score": 0.73,
-      "r18": false
-    },
-    {
       "id": 17916,
       "title": "Hachinan tte, Sore wa Nai Deshou!",
       "score": 0.728,
@@ -152,6 +146,12 @@
       "id": 52695,
       "title": "Isekai Kenja no Tensei Musou ~Geemu no Chishiki de Isekai Saikyou~",
       "score": 0.72,
+      "r18": false
+    },
+    {
+      "id": 303,
+      "title": "Claymore",
+      "score": 0.716,
       "r18": false
     }
   ]
