@@ -1,8 +1,8 @@
 {
   "id": 40596,
   "title": "Kimi ga Inakeriya Iki mo Dekinai",
-  "url": "https://mangadex.org/manga/40596",
-  "last_updated": "January 14, 2021 12:58:11 UTC",
+  "url": "https://api.mangadex.org/v2/manga/40596",
+  "last_updated": "February 11, 2021 08:26:01 UTC",
   "matches": [
     {
       "id": 37280,
@@ -43,7 +43,7 @@
     {
       "id": 23980,
       "title": "Ashita wa Joutenki",
-      "score": 0.707,
+      "score": 0.706,
       "r18": false
     },
     {
@@ -79,7 +79,7 @@
     {
       "id": 58208,
       "title": "Kaerenain Da Yo",
-      "score": 0.699,
+      "score": 0.7,
       "r18": false
     },
     {
@@ -113,20 +113,26 @@
       "r18": false
     },
     {
+      "id": 16544,
+      "title": "ULTRAS",
+      "score": 0.696,
+      "r18": false
+    },
+    {
       "id": 7792,
       "title": "Kimi to Parade",
       "score": 0.696,
       "r18": false
     },
     {
-      "id": 28093,
-      "title": "Love Mode",
+      "id": 23998,
+      "title": "Anata no Kiss mo Kokoro mo Zenbu",
       "score": 0.694,
       "r18": false
     },
     {
-      "id": 23998,
-      "title": "Anata no Kiss mo Kokoro mo Zenbu",
+      "id": 28093,
+      "title": "Love Mode",
       "score": 0.694,
       "r18": false
     },
@@ -145,12 +151,6 @@
     {
       "id": 7922,
       "title": "Doushitemo Furetakunai",
-      "score": 0.692,
-      "r18": false
-    },
-    {
-      "id": 7090,
-      "title": "Illumination",
       "score": 0.692,
       "r18": false
     }

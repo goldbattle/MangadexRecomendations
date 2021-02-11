@@ -1,8 +1,8 @@
 {
   "id": 40768,
   "title": "Yorokobi wa Ude no Naka",
-  "url": "https://mangadex.org/manga/40768",
-  "last_updated": "January 14, 2021 18:45:59 UTC",
+  "url": "https://api.mangadex.org/v2/manga/40768",
+  "last_updated": "February 11, 2021 08:28:41 UTC",
   "matches": [
     {
       "id": 17966,
@@ -19,7 +19,7 @@
     {
       "id": 53196,
       "title": "Love Together",
-      "score": 0.717,
+      "score": 0.716,
       "r18": false
     },
     {
@@ -37,7 +37,7 @@
     {
       "id": 4810,
       "title": "Boku no Shiru Anata no Hanashi",
-      "score": 0.713,
+      "score": 0.712,
       "r18": false
     },
     {
@@ -47,15 +47,15 @@
       "r18": false
     },
     {
-      "id": 7792,
-      "title": "Kimi to Parade",
-      "score": 0.708,
+      "id": 16544,
+      "title": "ULTRAS",
+      "score": 0.709,
       "r18": false
     },
     {
-      "id": 1464,
-      "title": "Sangen Tonari no Tooi Hito",
-      "score": 0.706,
+      "id": 7792,
+      "title": "Kimi to Parade",
+      "score": 0.708,
       "r18": false
     },
     {
@@ -67,12 +67,6 @@
     {
       "id": 27828,
       "title": "Uminari",
-      "score": 0.703,
-      "r18": false
-    },
-    {
-      "id": 16544,
-      "title": "ULTRAS",
       "score": 0.703,
       "r18": false
     },
@@ -109,7 +103,7 @@
     {
       "id": 13263,
       "title": "Trompe-l'&oelig;il no Yubisaki",
-      "score": 0.701,
+      "score": 0.7,
       "r18": false
     },
     {
@@ -151,7 +145,13 @@
     {
       "id": 36950,
       "title": "Koi wa Maiorita",
-      "score": 0.695,
+      "score": 0.694,
+      "r18": false
+    },
+    {
+      "id": 10293,
+      "title": "Omae de Nakya Dame Mitai",
+      "score": 0.694,
       "r18": false
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": 41108,
   "title": "Kamvret Lyfe",
-  "url": "https://mangadex.org/manga/41108",
-  "last_updated": "January 14, 2021 18:49:56 UTC",
+  "url": "https://api.mangadex.org/v2/manga/41108",
+  "last_updated": "February 11, 2021 08:33:57 UTC",
   "matches": [
     {
       "id": 49338,
@@ -59,6 +59,12 @@
       "r18": false
     },
     {
+      "id": 50745,
+      "title": "Botanic Romance",
+      "score": 0.381,
+      "r18": false
+    },
+    {
       "id": 54234,
       "title": "GOGO Art Student!",
       "score": 0.378,
@@ -74,6 +80,12 @@
       "id": 27853,
       "title": "Why Did Men Stop Wearing High Heels?",
       "score": 0.376,
+      "r18": false
+    },
+    {
+      "id": 59941,
+      "title": "Michelin Star",
+      "score": 0.373,
       "r18": false
     },
     {
@@ -115,7 +127,7 @@
     {
       "id": 43889,
       "title": "Being the World's Second Best is Alright",
-      "score": 0.365,
+      "score": 0.366,
       "r18": false
     },
     {
@@ -140,18 +152,6 @@
       "id": 41153,
       "title": "J'adore",
       "score": 0.36,
-      "r18": false
-    },
-    {
-      "id": 45824,
-      "title": "First Comes Love, Then Comes Marriage",
-      "score": 0.358,
-      "r18": false
-    },
-    {
-      "id": 36821,
-      "title": "Yi'An High School: After Class",
-      "score": 0.358,
       "r18": false
     }
   ]

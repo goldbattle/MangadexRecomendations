@@ -1,19 +1,13 @@
 {
   "id": 41611,
   "title": "hello (rom-com) world",
-  "url": "https://mangadex.org/manga/41611",
-  "last_updated": "January 14, 2021 18:55:46 UTC",
+  "url": "https://api.mangadex.org/v2/manga/41611",
+  "last_updated": "February 11, 2021 08:41:37 UTC",
   "matches": [
     {
       "id": 22236,
       "title": "Rurouni Kenshin: Hokkaido-hen",
       "score": 0.724,
-      "r18": false
-    },
-    {
-      "id": 21283,
-      "title": "Persona 5",
-      "score": 0.719,
       "r18": false
     },
     {
@@ -50,6 +44,12 @@
       "id": 13546,
       "title": "Gesu to Kami-sama",
       "score": 0.704,
+      "r18": false
+    },
+    {
+      "id": 7232,
+      "title": "Cat's Eye",
+      "score": 0.703,
       "r18": false
     },
     {
@@ -95,14 +95,14 @@
       "r18": false
     },
     {
-      "id": 23195,
-      "title": "The Great Ruler",
+      "id": 6270,
+      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo (Official Colored)",
       "score": 0.698,
       "r18": false
     },
     {
-      "id": 6270,
-      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo (Official Colored)",
+      "id": 23195,
+      "title": "The Great Ruler",
       "score": 0.698,
       "r18": false
     },
@@ -119,21 +119,15 @@
       "r18": false
     },
     {
-      "id": 1293,
-      "title": "Miyuki",
-      "score": 0.697,
-      "r18": false
-    },
-    {
       "id": 10801,
       "title": "Mahoutsukai no Yome",
       "score": 0.697,
       "r18": false
     },
     {
-      "id": 6056,
-      "title": "Shigatsu wa Kimi no Uso",
-      "score": 0.696,
+      "id": 1293,
+      "title": "Miyuki",
+      "score": 0.697,
       "r18": false
     },
     {
@@ -151,6 +145,12 @@
     {
       "id": 8165,
       "title": "Sakura no Uta - The Fear Flows Because of Tenderness.",
+      "score": 0.695,
+      "r18": false
+    },
+    {
+      "id": 4773,
+      "title": "Clannad",
       "score": 0.695,
       "r18": false
     }

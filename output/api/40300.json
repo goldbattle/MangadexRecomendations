@@ -1,8 +1,8 @@
 {
   "id": 40300,
   "title": "SHY",
-  "url": "https://mangadex.org/manga/40300",
-  "last_updated": "January 14, 2021 12:55:03 UTC",
+  "url": "https://api.mangadex.org/v2/manga/40300",
+  "last_updated": "February 11, 2021 08:21:31 UTC",
   "matches": [
     {
       "id": 23195,
@@ -13,7 +13,7 @@
     {
       "id": 7344,
       "title": "Shin Sekai Yori",
-      "score": 0.713,
+      "score": 0.712,
       "r18": false
     },
     {
@@ -41,9 +41,15 @@
       "r18": false
     },
     {
+      "id": 7232,
+      "title": "Cat's Eye",
+      "score": 0.697,
+      "r18": false
+    },
+    {
       "id": 2340,
       "title": "Fate/stay night",
-      "score": 0.697,
+      "score": 0.696,
       "r18": false
     },
     {
@@ -53,27 +59,9 @@
       "r18": false
     },
     {
-      "id": 50672,
-      "title": "My Hero Academia - League Of Villains: Undercover (Fan Colored)",
-      "score": 0.696,
-      "r18": false
-    },
-    {
       "id": 2086,
       "title": "Kingdom Hearts 358/2 Days",
       "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 12714,
-      "title": "Boku no Hero Academia",
-      "score": 0.695,
-      "r18": false
-    },
-    {
-      "id": 45198,
-      "title": "Boku no Hero Academia - True Hero (Doujinshi)",
-      "score": 0.694,
       "r18": false
     },
     {
@@ -95,14 +83,14 @@
       "r18": false
     },
     {
-      "id": 30802,
-      "title": "Cyborg 009",
+      "id": 22461,
+      "title": "Yasha",
       "score": 0.691,
       "r18": false
     },
     {
-      "id": 22461,
-      "title": "Yasha",
+      "id": 30802,
+      "title": "Cyborg 009",
       "score": 0.691,
       "r18": false
     },
@@ -143,14 +131,26 @@
       "r18": false
     },
     {
+      "id": 28542,
+      "title": "JoJo's Bizarre Adventure Part 6 - Stone Ocean",
+      "score": 0.687,
+      "r18": false
+    },
+    {
       "id": 28526,
       "title": "JoJo's Bizarre Adventure Part 3 - Stardust Crusaders",
       "score": 0.687,
       "r18": false
     },
     {
-      "id": 28542,
-      "title": "JoJo's Bizarre Adventure Part 6 - Stone Ocean",
+      "id": 10974,
+      "title": "Full Metal Panic! Another",
+      "score": 0.687,
+      "r18": false
+    },
+    {
+      "id": 19597,
+      "title": "Evil Crusher Maya",
       "score": 0.687,
       "r18": false
     }

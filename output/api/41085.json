@@ -1,18 +1,12 @@
 {
   "id": 41085,
   "title": "Hazukashigariya no Salamanko-san",
-  "url": "https://mangadex.org/manga/41085",
-  "last_updated": "January 14, 2021 18:49:40 UTC",
+  "url": "https://api.mangadex.org/v2/manga/41085",
+  "last_updated": "February 11, 2021 08:33:36 UTC",
   "matches": [
     {
       "id": 32673,
       "title": "Ore no Nounai Sentakushi ga, Gakuen Rabukome o Zenryoku de Jama Shite Iru H",
-      "score": 0.43,
-      "r18": false
-    },
-    {
-      "id": 51703,
-      "title": "Onegai, Nugashite.",
       "score": 0.43,
       "r18": false
     },
@@ -119,12 +113,6 @@
       "r18": false
     },
     {
-      "id": 25332,
-      "title": "Hiota no Kanojo ga Ore no Motteru Eroge ni Kyoumi Shinshin Nanda ga......",
-      "score": 0.344,
-      "r18": false
-    },
-    {
       "id": 5121,
       "title": "Zonbicchi wa Bicchi ni Fukumaremasu ka?",
       "score": 0.34,
@@ -152,6 +140,18 @@
       "id": 7899,
       "title": "Imouto LoveRu",
       "score": 0.34,
+      "r18": false
+    },
+    {
+      "id": 1328,
+      "title": "Iinari! Aibu-ration",
+      "score": 0.329,
+      "r18": false
+    },
+    {
+      "id": 2926,
+      "title": "Maburaho",
+      "score": 0.323,
       "r18": false
     }
   ]

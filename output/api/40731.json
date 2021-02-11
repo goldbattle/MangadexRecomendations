@@ -1,13 +1,19 @@
 {
   "id": 40731,
   "title": "The Strongest God King",
-  "url": "https://mangadex.org/manga/40731",
-  "last_updated": "January 14, 2021 18:45:32 UTC",
+  "url": "https://api.mangadex.org/v2/manga/40731",
+  "last_updated": "February 11, 2021 08:28:08 UTC",
   "matches": [
     {
       "id": 23231,
       "title": "Wu Dong Qian Kun",
       "score": 0.728,
+      "r18": false
+    },
+    {
+      "id": 55352,
+      "title": "Invasion Of The Immortal Emperor",
+      "score": 0.722,
       "r18": false
     },
     {
@@ -19,7 +25,7 @@
     {
       "id": 41652,
       "title": "FFF-Class Trashero",
-      "score": 0.717,
+      "score": 0.718,
       "r18": false
     },
     {
@@ -37,18 +43,12 @@
     {
       "id": 38892,
       "title": "The Tyrant's Whereabouts",
-      "score": 0.715,
+      "score": 0.716,
       "r18": false
     },
     {
       "id": 38543,
       "title": "Fights Break Sphere &ndash; Return of the Beasts",
-      "score": 0.714,
-      "r18": false
-    },
-    {
-      "id": 43670,
-      "title": "I'm the Great Immortal",
       "score": 0.714,
       "r18": false
     },
@@ -71,9 +71,21 @@
       "r18": false
     },
     {
+      "id": 59592,
+      "title": "Wandering Dream",
+      "score": 0.712,
+      "r18": false
+    },
+    {
+      "id": 51318,
+      "title": "Truthfully, They Only Remembered Her",
+      "score": 0.711,
+      "r18": false
+    },
+    {
       "id": 31551,
       "title": "A Returner's Magic Should Be Special",
-      "score": 0.711,
+      "score": 0.71,
       "r18": false
     },
     {
@@ -109,12 +121,6 @@
     {
       "id": 52297,
       "title": "The Young Lady Is a Royal Chef",
-      "score": 0.707,
-      "r18": false
-    },
-    {
-      "id": 58041,
-      "title": "Aideen",
       "score": 0.706,
       "r18": false
     },
@@ -137,21 +143,15 @@
       "r18": false
     },
     {
-      "id": 46715,
-      "title": "Feather Ashes",
+      "id": 58041,
+      "title": "Aideen",
       "score": 0.705,
       "r18": false
     },
     {
-      "id": 43519,
-      "title": "Different Kings",
-      "score": 0.704,
-      "r18": false
-    },
-    {
-      "id": 49960,
-      "title": "A Record of a Mortal's Journey to Immortality",
-      "score": 0.704,
+      "id": 46715,
+      "title": "Feather Ashes",
+      "score": 0.705,
       "r18": false
     }
   ]

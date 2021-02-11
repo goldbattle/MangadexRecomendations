@@ -1,12 +1,18 @@
 {
   "id": 40397,
   "title": "Shimeji Simulation (Oneshot)",
-  "url": "https://mangadex.org/manga/40397",
-  "last_updated": "January 14, 2021 12:56:03 UTC",
+  "url": "https://api.mangadex.org/v2/manga/40397",
+  "last_updated": "February 11, 2021 08:22:59 UTC",
   "matches": [
     {
       "id": 32033,
       "title": "Us Right Now",
+      "score": 0.28,
+      "r18": false
+    },
+    {
+      "id": 59483,
+      "title": "The Christmas Private Tutor",
       "score": 0.28,
       "r18": false
     },
@@ -44,6 +50,12 @@
       "id": 16076,
       "title": "What Does the Fox Say?",
       "score": 0.156,
+      "r18": false
+    },
+    {
+      "id": 27640,
+      "title": "On a Leash",
+      "score": 0.127,
       "r18": false
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": 41088,
   "title": "Koibito wa Oni no Hime",
-  "url": "https://mangadex.org/manga/41088",
-  "last_updated": "January 14, 2021 18:49:43 UTC",
+  "url": "https://api.mangadex.org/v2/manga/41088",
+  "last_updated": "February 11, 2021 08:33:39 UTC",
   "matches": [
     {
       "id": 5593,
@@ -67,12 +67,6 @@
     {
       "id": 537,
       "title": "Hentai Ouji to Warawanai Neko.",
-      "score": 0.715,
-      "r18": false
-    },
-    {
-      "id": 2154,
-      "title": "Fukigen Cinderella",
       "score": 0.715,
       "r18": false
     },
@@ -152,6 +146,12 @@
       "id": 21015,
       "title": "Real no Heroine wa Irimasen!",
       "score": 0.705,
+      "r18": false
+    },
+    {
+      "id": 6490,
+      "title": "Renai Boukun",
+      "score": 0.702,
       "r18": false
     }
   ]

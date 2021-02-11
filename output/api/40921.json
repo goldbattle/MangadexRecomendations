@@ -1,8 +1,8 @@
 {
   "id": 40921,
   "title": "Inazuma Eleven GO: Baku Gaidenshuu",
-  "url": "https://mangadex.org/manga/40921",
-  "last_updated": "January 14, 2021 18:47:45 UTC",
+  "url": "https://api.mangadex.org/v2/manga/40921",
+  "last_updated": "February 11, 2021 08:31:02 UTC",
   "matches": [
     {
       "id": 47385,
@@ -11,15 +11,9 @@
       "r18": false
     },
     {
-      "id": 21283,
-      "title": "Persona 5",
-      "score": 0.689,
-      "r18": false
-    },
-    {
       "id": 6572,
       "title": "Kaiouki",
-      "score": 0.689,
+      "score": 0.688,
       "r18": false
     },
     {
@@ -32,6 +26,12 @@
       "id": 43650,
       "title": "Buttobi Itto",
       "score": 0.688,
+      "r18": false
+    },
+    {
+      "id": 14850,
+      "title": "Death March kara Hajimaru Isekai Kyousoukyoku",
+      "score": 0.684,
       "r18": false
     },
     {
@@ -53,12 +53,6 @@
       "r18": false
     },
     {
-      "id": 23509,
-      "title": "Kono Subarashii Sekai ni Shukufuku wo! Spin-off: Kono Kamen no Akuma ni Soudan wo!",
-      "score": 0.679,
-      "r18": false
-    },
-    {
       "id": 4454,
       "title": "Fire Emblem - Hasha no Tsurugi",
       "score": 0.678,
@@ -67,30 +61,24 @@
     {
       "id": 3452,
       "title": "Zelda no Densetsu - Toki no Ocarina",
-      "score": 0.677,
+      "score": 0.678,
       "r18": false
     },
     {
       "id": 12200,
       "title": "Sword Art Online - Phantom Bullet",
+      "score": 0.678,
+      "r18": false
+    },
+    {
+      "id": 47371,
+      "title": "A Breakthrough Brought by Forbidden Master and Disciple",
       "score": 0.677,
       "r18": false
     },
     {
       "id": 5201,
       "title": "Bloodline - Fantasy Day",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 43064,
-      "title": "Sword Art Online: Hollow Realization",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 47371,
-      "title": "A Breakthrough Brought by Forbidden Master and Disciple",
       "score": 0.676,
       "r18": false
     },
@@ -137,8 +125,8 @@
       "r18": false
     },
     {
-      "id": 7195,
-      "title": "Nanatsu no Taizai",
+      "id": 33141,
+      "title": "Mir's Legend - The Forgotten Ones",
       "score": 0.673,
       "r18": false
     },
@@ -149,9 +137,21 @@
       "r18": false
     },
     {
-      "id": 33141,
-      "title": "Mir's Legend - The Forgotten Ones",
+      "id": 5274,
+      "title": "Nijiiro Togarashi",
       "score": 0.673,
+      "r18": false
+    },
+    {
+      "id": 23195,
+      "title": "The Great Ruler",
+      "score": 0.672,
+      "r18": false
+    },
+    {
+      "id": 13963,
+      "title": "Yu-Gi-Oh! GX",
+      "score": 0.672,
       "r18": false
     }
   ]

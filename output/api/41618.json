@@ -1,8 +1,8 @@
 {
   "id": 41618,
   "title": "Change!",
-  "url": "https://mangadex.org/manga/41618",
-  "last_updated": "January 14, 2021 18:55:50 UTC",
+  "url": "https://api.mangadex.org/v2/manga/41618",
+  "last_updated": "February 11, 2021 08:41:43 UTC",
   "matches": [
     {
       "id": 28891,
@@ -44,6 +44,12 @@
       "id": 13742,
       "title": "Fujicue!!! - Fujicue's Music",
       "score": 0.23,
+      "r18": false
+    },
+    {
+      "id": 51897,
+      "title": "Hanazono Twins",
+      "score": 0.197,
       "r18": false
     },
     {

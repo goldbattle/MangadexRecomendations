@@ -1,8 +1,8 @@
 {
   "id": 40415,
   "title": "Boku no Kawaii Stalker",
-  "url": "https://mangadex.org/manga/40415",
-  "last_updated": "January 14, 2021 12:56:14 UTC",
+  "url": "https://api.mangadex.org/v2/manga/40415",
+  "last_updated": "February 11, 2021 08:23:15 UTC",
   "matches": [
     {
       "id": 24619,
@@ -19,7 +19,7 @@
     {
       "id": 27000,
       "title": "Kiss mo Shiranai Kuse ni",
-      "score": 0.671,
+      "score": 0.672,
       "r18": false
     },
     {
@@ -49,7 +49,7 @@
     {
       "id": 6376,
       "title": "Komatta Toki ni wa Hoshi ni Kike!",
-      "score": 0.659,
+      "score": 0.66,
       "r18": false
     },
     {
@@ -119,6 +119,12 @@
       "r18": false
     },
     {
+      "id": 37108,
+      "title": "Suki tte Iwaretai",
+      "score": 0.65,
+      "r18": false
+    },
+    {
       "id": 3401,
       "title": "Sukusuku Otokonoko",
       "score": 0.65,
@@ -146,12 +152,6 @@
       "id": 16944,
       "title": "Boku no Koi no Hanashi Himegoto",
       "score": 0.483,
-      "r18": false
-    },
-    {
-      "id": 30404,
-      "title": "Natsu ni Mebuku wa Koi no Oto",
-      "score": 0.482,
       "r18": false
     }
   ]

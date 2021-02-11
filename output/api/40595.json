@@ -1,13 +1,19 @@
 {
   "id": 40595,
   "title": "Even If It Was Just Once, I Regret It",
-  "url": "https://mangadex.org/manga/40595",
-  "last_updated": "January 14, 2021 12:58:10 UTC",
+  "url": "https://api.mangadex.org/v2/manga/40595",
+  "last_updated": "February 11, 2021 08:26:00 UTC",
   "matches": [
+    {
+      "id": 44826,
+      "title": "There's Weird Voices Coming from the Room Next Door!",
+      "score": 0.656,
+      "r18": false
+    },
     {
       "id": 34789,
       "title": "Ojou-sama wa Love Come no Shujinkou ni Naritai!",
-      "score": 0.371,
+      "score": 0.372,
       "r18": false
     },
     {
@@ -26,18 +32,6 @@
       "id": 23356,
       "title": "Otome no Teikoku",
       "score": 0.305,
-      "r18": false
-    },
-    {
-      "id": 44826,
-      "title": "There's Weird Voices Coming from the Room Next Door!",
-      "score": 0.284,
-      "r18": false
-    },
-    {
-      "id": 34752,
-      "title": "Robot Izonkei Joshi no Meiwaku na Nichijou",
-      "score": 0.272,
       "r18": false
     }
   ]

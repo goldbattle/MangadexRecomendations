@@ -1,8 +1,8 @@
 {
   "id": 41211,
   "title": "Chandra Has",
-  "url": "https://mangadex.org/manga/41211",
-  "last_updated": "January 14, 2021 18:51:09 UTC",
+  "url": "https://api.mangadex.org/v2/manga/41211",
+  "last_updated": "February 11, 2021 08:35:35 UTC",
   "matches": [
     {
       "id": 15252,
@@ -19,7 +19,7 @@
     {
       "id": 4566,
       "title": "Hero Tales",
-      "score": 0.691,
+      "score": 0.69,
       "r18": false
     },
     {
@@ -83,6 +83,12 @@
       "r18": false
     },
     {
+      "id": 40300,
+      "title": "SHY",
+      "score": 0.678,
+      "r18": false
+    },
+    {
       "id": 2340,
       "title": "Fate/stay night",
       "score": 0.678,
@@ -91,12 +97,6 @@
     {
       "id": 1417,
       "title": "Shingetsutan Tsukihime",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 40300,
-      "title": "SHY",
       "score": 0.678,
       "r18": false
     },
@@ -119,14 +119,14 @@
       "r18": false
     },
     {
-      "id": 23195,
-      "title": "The Great Ruler",
+      "id": 2089,
+      "title": "Kingdom Hearts II",
       "score": 0.676,
       "r18": false
     },
     {
-      "id": 2089,
-      "title": "Kingdom Hearts II",
+      "id": 23195,
+      "title": "The Great Ruler",
       "score": 0.676,
       "r18": false
     },

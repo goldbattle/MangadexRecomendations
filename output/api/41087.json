@@ -1,15 +1,9 @@
 {
   "id": 41087,
   "title": "Kedamame",
-  "url": "https://mangadex.org/manga/41087",
-  "last_updated": "January 14, 2021 18:49:42 UTC",
+  "url": "https://api.mangadex.org/v2/manga/41087",
+  "last_updated": "February 11, 2021 08:33:38 UTC",
   "matches": [
-    {
-      "id": 2110,
-      "title": "Souten no Ken",
-      "score": 0.678,
-      "r18": false
-    },
     {
       "id": 2500,
       "title": "ChunRangYulJun",
@@ -19,12 +13,6 @@
     {
       "id": 4880,
       "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
-      "score": 0.671,
-      "r18": false
-    },
-    {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
       "score": 0.67,
       "r18": false
     },
@@ -38,6 +26,18 @@
       "id": 281,
       "title": "Trigun Maximum",
       "score": 0.666,
+      "r18": false
+    },
+    {
+      "id": 2110,
+      "title": "Souten no Ken",
+      "score": 0.663,
+      "r18": false
+    },
+    {
+      "id": 27151,
+      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
+      "score": 0.66,
       "r18": false
     },
     {
@@ -77,12 +77,6 @@
       "r18": false
     },
     {
-      "id": 6272,
-      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
-      "score": 0.653,
-      "r18": false
-    },
-    {
       "id": 1614,
       "title": "Aa! Megami-sama!",
       "score": 0.65,
@@ -104,6 +98,12 @@
       "id": 22232,
       "title": "Meteora",
       "score": 0.466,
+      "r18": false
+    },
+    {
+      "id": 22226,
+      "title": "Fate/Grand Order -mortalis:stella-",
+      "score": 0.421,
       "r18": false
     },
     {

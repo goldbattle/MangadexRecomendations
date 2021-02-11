@@ -1,18 +1,12 @@
 {
   "id": 41151,
   "title": "Aerial Magic",
-  "url": "https://mangadex.org/manga/41151",
-  "last_updated": "January 14, 2021 18:50:29 UTC",
+  "url": "https://api.mangadex.org/v2/manga/41151",
+  "last_updated": "February 11, 2021 08:34:41 UTC",
   "matches": [
     {
       "id": 33951,
       "title": "Save Me",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 58831,
-      "title": "Locker Opener",
       "score": 0.34,
       "r18": false
     },
@@ -125,6 +119,24 @@
       "r18": false
     },
     {
+      "id": 58616,
+      "title": "Midnight Blue",
+      "score": 0.272,
+      "r18": false
+    },
+    {
+      "id": 58766,
+      "title": "Swing Baby",
+      "score": 0.272,
+      "r18": false
+    },
+    {
+      "id": 58831,
+      "title": "Locker Opener",
+      "score": 0.272,
+      "r18": false
+    },
+    {
       "id": 143,
       "title": "Welcome To Room #305!",
       "score": 0.227,
@@ -139,18 +151,6 @@
     {
       "id": 16546,
       "title": "The Queen: Silent Classroom",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 18012,
-      "title": "Space Boy",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 18875,
-      "title": "Ctrl + Z",
       "score": 0.227,
       "r18": false
     }

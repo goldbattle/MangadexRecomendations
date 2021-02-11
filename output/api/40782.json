@@ -1,8 +1,8 @@
 {
   "id": 40782,
   "title": "Armored Battle",
-  "url": "https://mangadex.org/manga/40782",
-  "last_updated": "January 14, 2021 18:46:08 UTC",
+  "url": "https://api.mangadex.org/v2/manga/40782",
+  "last_updated": "February 11, 2021 08:28:54 UTC",
   "matches": [
     {
       "id": 18920,
@@ -25,6 +25,12 @@
     {
       "id": 15126,
       "title": "Gunka no Baltzar Gaiden &ndash; Yuukoku no Liebknecht",
+      "score": 0.347,
+      "r18": false
+    },
+    {
+      "id": 59869,
+      "title": "Tenkaichi - Nihon Saikyou Mononofu Ketteisen",
       "score": 0.347,
       "r18": false
     },
@@ -115,7 +121,7 @@
     {
       "id": 23973,
       "title": "Cike Liezhuan",
-      "score": 0.299,
+      "score": 0.3,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 11181,
       "title": "Snow Ridge, Sword Dance",
       "score": 0.275,
-      "r18": false
-    },
-    {
-      "id": 917,
-      "title": "Gunka no Baltzar",
-      "score": 0.273,
       "r18": false
     }
   ]
