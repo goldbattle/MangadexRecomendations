@@ -1,8 +1,8 @@
 {
   "id": 47242,
   "title": "Devil's Love",
-  "url": "https://mangadex.org/manga/47242",
-  "last_updated": "January 15, 2021 12:19:20 UTC",
+  "url": "https://api.mangadex.org/v2/manga/47242",
+  "last_updated": "February 12, 2021 01:08:02 UTC",
   "matches": [
     {
       "id": 57382,
@@ -13,7 +13,7 @@
     {
       "id": 20164,
       "title": "They Say I Was Born a King's Daughter",
-      "score": 0.661,
+      "score": 0.655,
       "r18": false
     },
     {
@@ -35,6 +35,12 @@
       "r18": false
     },
     {
+      "id": 59845,
+      "title": "Demon X Angel, Can&rsquo;t Get Along!",
+      "score": 0.311,
+      "r18": false
+    },
+    {
       "id": 38987,
       "title": "Almight Network",
       "score": 0.3,
@@ -44,12 +50,6 @@
       "id": 33328,
       "title": "Living as an Emperor's Fianc&eacute;e",
       "score": 0.295,
-      "r18": false
-    },
-    {
-      "id": 53131,
-      "title": "Witch, 30 Years Old",
-      "score": 0.29,
       "r18": false
     },
     {
@@ -85,7 +85,7 @@
     {
       "id": 34945,
       "title": "My Girl is a Dragon Princess",
-      "score": 0.281,
+      "score": 0.282,
       "r18": false
     },
     {
@@ -101,15 +101,21 @@
       "r18": false
     },
     {
-      "id": 51741,
-      "title": "My Superstar Uncle",
+      "id": 51485,
+      "title": "I'm the Ex-Girlfriend of a Soldier",
       "score": 0.279,
       "r18": false
     },
     {
       "id": 50723,
       "title": "I Tried to Persuade My Brother and He Entrusted the Male Lead to Me",
-      "score": 0.279,
+      "score": 0.278,
+      "r18": false
+    },
+    {
+      "id": 51741,
+      "title": "My Superstar Uncle",
+      "score": 0.276,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 51004,
       "title": "The King and the Poor Girl",
       "score": 0.27,
-      "r18": false
-    },
-    {
-      "id": 45586,
-      "title": "I'm Stanning the Prince",
-      "score": 0.269,
       "r18": false
     }
   ]

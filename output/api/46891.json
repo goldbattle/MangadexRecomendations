@@ -1,20 +1,20 @@
 {
   "id": 46891,
   "title": "Shoujo M",
-  "url": "https://mangadex.org/manga/46891",
-  "last_updated": "January 15, 2021 06:47:35 UTC",
+  "url": "https://api.mangadex.org/v2/manga/46891",
+  "last_updated": "February 12, 2021 01:01:52 UTC",
   "matches": [
     {
       "id": 31394,
       "title": "Venus Mantrap",
       "score": 0.652,
-      "r18": false
+      "r18": true
     },
     {
       "id": 42205,
       "title": "Kangoku Zemi Kanshu ni Zettai Fukujuu o Shiirarete",
       "score": 0.17,
-      "r18": false
+      "r18": true
     }
   ]
 }

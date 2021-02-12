@@ -1,21 +1,9 @@
 {
   "id": 47117,
   "title": "Hexenhammer",
-  "url": "https://mangadex.org/manga/47117",
-  "last_updated": "January 15, 2021 06:49:41 UTC",
+  "url": "https://api.mangadex.org/v2/manga/47117",
+  "last_updated": "February 12, 2021 01:05:51 UTC",
   "matches": [
-    {
-      "id": 50085,
-      "title": "Legend of the Galactic Heroes",
-      "score": 0.714,
-      "r18": false
-    },
-    {
-      "id": 50714,
-      "title": "Legend of the Galactic Heroes - Golden Wings",
-      "score": 0.707,
-      "r18": false
-    },
     {
       "id": 16825,
       "title": "Ginga Eiyuu Densetsu",
@@ -29,8 +17,8 @@
       "r18": false
     },
     {
-      "id": 41767,
-      "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Daiyonshou - Seiiki to Gouyoku no Majou",
+      "id": 50085,
+      "title": "Legend of the Galactic Heroes",
       "score": 0.679,
       "r18": false
     },
@@ -44,12 +32,6 @@
       "id": 7691,
       "title": "Skull Man",
       "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 13364,
-      "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Daiisshou - Outo no Ichinichi Hen",
-      "score": 0.674,
       "r18": false
     },
     {
@@ -73,7 +55,7 @@
     {
       "id": 7775,
       "title": "El Alamein no Shinden",
-      "score": 0.665,
+      "score": 0.666,
       "r18": false
     },
     {
@@ -89,15 +71,15 @@
       "r18": false
     },
     {
-      "id": 8740,
-      "title": "Takeda Shingen",
-      "score": 0.659,
+      "id": 13364,
+      "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Daiisshou - Outo no Ichinichi Hen",
+      "score": 0.66,
       "r18": false
     },
     {
-      "id": 9570,
-      "title": "Ajin",
-      "score": 0.658,
+      "id": 8740,
+      "title": "Takeda Shingen",
+      "score": 0.659,
       "r18": false
     },
     {
@@ -125,12 +107,6 @@
       "r18": false
     },
     {
-      "id": 50976,
-      "title": "The Executed Sage Is Reincarnated as a Lich and Starts an All-Out War",
-      "score": 0.656,
-      "r18": false
-    },
-    {
       "id": 25314,
       "title": "Skull Man (SHIMAMOTO Kazuhiko)",
       "score": 0.652,
@@ -152,6 +128,30 @@
       "id": 9262,
       "title": "Unreal",
       "score": 0.334,
+      "r18": false
+    },
+    {
+      "id": 20323,
+      "title": "Kantai Collection -KanColle- FIEND (Doujinshi)",
+      "score": 0.325,
+      "r18": false
+    },
+    {
+      "id": 9643,
+      "title": "Bigger Hunter",
+      "score": 0.315,
+      "r18": false
+    },
+    {
+      "id": 50714,
+      "title": "Legend of the Galactic Heroes - Golden Wings",
+      "score": 0.299,
+      "r18": false
+    },
+    {
+      "id": 13092,
+      "title": "Shiroi Majo",
+      "score": 0.296,
       "r18": false
     }
   ]

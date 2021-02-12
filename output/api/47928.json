@@ -1,8 +1,8 @@
 {
   "id": 47928,
   "title": "Kiyoku Tadashiku Utsuku Shiku",
-  "url": "https://mangadex.org/manga/47928",
-  "last_updated": "January 15, 2021 12:27:11 UTC",
+  "url": "https://api.mangadex.org/v2/manga/47928",
+  "last_updated": "February 12, 2021 01:19:22 UTC",
   "matches": [
     {
       "id": 55589,
@@ -25,13 +25,19 @@
     {
       "id": 6764,
       "title": "Saezuru Tori wa Habatakanai",
-      "score": 0.685,
+      "score": 0.686,
       "r18": false
     },
     {
       "id": 34015,
       "title": "Katsubou no Manazashi",
       "score": 0.677,
+      "r18": false
+    },
+    {
+      "id": 51767,
+      "title": "Shinai Naru Omega e",
+      "score": 0.674,
       "r18": false
     },
     {
@@ -65,12 +71,6 @@
       "r18": false
     },
     {
-      "id": 50468,
-      "title": "Mitsu to Adabana",
-      "score": 0.651,
-      "r18": false
-    },
-    {
       "id": 18463,
       "title": "Aiso Tsukashi",
       "score": 0.651,
@@ -89,6 +89,12 @@
       "r18": false
     },
     {
+      "id": 33881,
+      "title": "Migatte na Anata",
+      "score": 0.483,
+      "r18": false
+    },
+    {
       "id": 12412,
       "title": "Royal Fiance &ndash;Kuro no Ouji&ndash;",
       "score": 0.466,
@@ -101,12 +107,6 @@
       "r18": false
     },
     {
-      "id": 16420,
-      "title": "Dakaretai Otoko Ichii ni Odosarete Imasu",
-      "score": 0.398,
-      "r18": false
-    },
-    {
       "id": 16028,
       "title": "12-ji Kara Hajimaru",
       "score": 0.39,
@@ -115,6 +115,12 @@
     {
       "id": 27830,
       "title": "Under Grand Hotel",
+      "score": 0.374,
+      "r18": false
+    },
+    {
+      "id": 16420,
+      "title": "Dakaretai Otoko Ichii ni Odosarete Imasu",
       "score": 0.374,
       "r18": false
     },
@@ -146,12 +152,6 @@
       "id": 17178,
       "title": "Itou-san",
       "score": 0.303,
-      "r18": false
-    },
-    {
-      "id": 54025,
-      "title": "Sex and World's End",
-      "score": 0.293,
       "r18": false
     }
   ]

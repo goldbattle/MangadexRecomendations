@@ -1,8 +1,8 @@
 {
   "id": 47577,
   "title": "200% Lilac",
-  "url": "https://mangadex.org/manga/47577",
-  "last_updated": "January 15, 2021 12:23:00 UTC",
+  "url": "https://api.mangadex.org/v2/manga/47577",
+  "last_updated": "February 12, 2021 01:13:42 UTC",
   "matches": [
     {
       "id": 1902,
@@ -14,6 +14,12 @@
       "id": 784,
       "title": "Zenbu Shiritai",
       "score": 0.687,
+      "r18": false
+    },
+    {
+      "id": 59476,
+      "title": "The Tyrant&rsquo;s Guardian Is an Evil Witch",
+      "score": 0.683,
       "r18": false
     },
     {
@@ -73,7 +79,7 @@
     {
       "id": 20031,
       "title": "Peach Girl Next",
-      "score": 0.671,
+      "score": 0.67,
       "r18": false
     },
     {
@@ -131,26 +137,20 @@
       "r18": false
     },
     {
-      "id": 54736,
-      "title": "Cheerful Countess Sisters",
-      "score": 0.665,
-      "r18": false
-    },
-    {
       "id": 349,
       "title": "Goong",
       "score": 0.665,
       "r18": false
     },
     {
-      "id": 45898,
-      "title": "Revenge Wedding",
-      "score": 0.664,
+      "id": 54736,
+      "title": "Cheerful Countess Sisters",
+      "score": 0.665,
       "r18": false
     },
     {
-      "id": 11821,
-      "title": "My Beautiful World",
+      "id": 45898,
+      "title": "Revenge Wedding",
       "score": 0.664,
       "r18": false
     }

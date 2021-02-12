@@ -1,9 +1,21 @@
 {
   "id": 47438,
   "title": "Forgetful River",
-  "url": "https://mangadex.org/manga/47438",
-  "last_updated": "January 15, 2021 12:21:26 UTC",
+  "url": "https://api.mangadex.org/v2/manga/47438",
+  "last_updated": "February 12, 2021 01:11:22 UTC",
   "matches": [
+    {
+      "id": 58084,
+      "title": "A Kind Goblin's Bird",
+      "score": 0.396,
+      "r18": false
+    },
+    {
+      "id": 57632,
+      "title": "I Gave Birth to a Villain's Child",
+      "score": 0.362,
+      "r18": false
+    },
     {
       "id": 29859,
       "title": "Light and Shadow",
@@ -14,6 +26,12 @@
       "id": 33474,
       "title": "The Queen",
       "score": 0.346,
+      "r18": false
+    },
+    {
+      "id": 59841,
+      "title": "Elixir of the Sun",
+      "score": 0.342,
       "r18": false
     },
     {
@@ -67,6 +85,12 @@
     {
       "id": 58904,
       "title": "I Picked Up the Second Male Lead After the Ending",
+      "score": 0.324,
+      "r18": false
+    },
+    {
+      "id": 58463,
+      "title": "I Raised the Beast Well",
       "score": 0.322,
       "r18": false
     },
@@ -107,15 +131,15 @@
       "r18": false
     },
     {
-      "id": 58084,
-      "title": "A Kind Goblin's Bird",
-      "score": 0.31,
-      "r18": false
-    },
-    {
       "id": 43989,
       "title": "Tyrant's Tears",
       "score": 0.309,
+      "r18": false
+    },
+    {
+      "id": 59440,
+      "title": "The Flower Dances and the Wind Sings",
+      "score": 0.308,
       "r18": false
     },
     {
@@ -125,33 +149,9 @@
       "r18": false
     },
     {
-      "id": 58463,
-      "title": "I Raised the Beast Well",
-      "score": 0.307,
-      "r18": false
-    },
-    {
       "id": 46903,
       "title": "Wild Child",
       "score": 0.304,
-      "r18": false
-    },
-    {
-      "id": 57698,
-      "title": "The Tale of Samjang",
-      "score": 0.304,
-      "r18": false
-    },
-    {
-      "id": 19884,
-      "title": "Maeuigeom",
-      "score": 0.303,
-      "r18": false
-    },
-    {
-      "id": 47542,
-      "title": "The Last Print",
-      "score": 0.302,
       "r18": false
     }
   ]

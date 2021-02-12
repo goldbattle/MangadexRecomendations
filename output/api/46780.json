@@ -1,8 +1,8 @@
 {
   "id": 46780,
   "title": "Killing Time",
-  "url": "https://mangadex.org/manga/46780",
-  "last_updated": "January 15, 2021 06:46:31 UTC",
+  "url": "https://api.mangadex.org/v2/manga/46780",
+  "last_updated": "February 12, 2021 00:59:54 UTC",
   "matches": [
     {
       "id": 3593,
@@ -43,7 +43,13 @@
     {
       "id": 58041,
       "title": "Aideen",
-      "score": 0.387,
+      "score": 0.412,
+      "r18": false
+    },
+    {
+      "id": 59440,
+      "title": "The Flower Dances and the Wind Sings",
+      "score": 0.402,
       "r18": false
     },
     {
@@ -55,6 +61,12 @@
     {
       "id": 43989,
       "title": "Tyrant's Tears",
+      "score": 0.352,
+      "r18": false
+    },
+    {
+      "id": 58084,
+      "title": "A Kind Goblin's Bird",
       "score": 0.352,
       "r18": false
     },
@@ -74,6 +86,12 @@
       "id": 33474,
       "title": "The Queen",
       "score": 0.349,
+      "r18": false
+    },
+    {
+      "id": 59930,
+      "title": "A Relationship of Intended Carelessness",
+      "score": 0.348,
       "r18": false
     },
     {
@@ -101,9 +119,27 @@
       "r18": false
     },
     {
+      "id": 57632,
+      "title": "I Gave Birth to a Villain's Child",
+      "score": 0.344,
+      "r18": false
+    },
+    {
       "id": 47503,
       "title": "Cheating Men Must Die and the Prime Minister",
       "score": 0.343,
+      "r18": false
+    },
+    {
+      "id": 55636,
+      "title": "My Wife Is Back",
+      "score": 0.333,
+      "r18": false
+    },
+    {
+      "id": 58463,
+      "title": "I Raised the Beast Well",
+      "score": 0.333,
       "r18": false
     },
     {
@@ -113,45 +149,9 @@
       "r18": false
     },
     {
-      "id": 47641,
-      "title": "A Tail Love",
-      "score": 0.33,
-      "r18": false
-    },
-    {
-      "id": 32047,
-      "title": "Gisou Furin",
-      "score": 0.329,
-      "r18": false
-    },
-    {
-      "id": 35085,
-      "title": "Before Love Kills Me",
-      "score": 0.328,
-      "r18": false
-    },
-    {
-      "id": 34700,
-      "title": "Collide",
-      "score": 0.327,
-      "r18": false
-    },
-    {
-      "id": 44702,
-      "title": "Genius Cool Treasure: President's Wife Is Too Powerful",
-      "score": 0.326,
-      "r18": false
-    },
-    {
-      "id": 58904,
-      "title": "I Picked Up the Second Male Lead After the Ending",
-      "score": 0.325,
-      "r18": false
-    },
-    {
-      "id": 46858,
-      "title": "Invitation of Mystic Messenger",
-      "score": 0.325,
+      "id": 53527,
+      "title": "These Years in Quest of Honour Mine",
+      "score": 0.332,
       "r18": false
     }
   ]

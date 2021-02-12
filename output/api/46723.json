@@ -1,8 +1,8 @@
 {
   "id": 46723,
   "title": "Dragon Ball Super - Digital Colored Comics",
-  "url": "https://mangadex.org/manga/46723",
-  "last_updated": "January 15, 2021 06:45:58 UTC",
+  "url": "https://api.mangadex.org/v2/manga/46723",
+  "last_updated": "February 12, 2021 00:58:56 UTC",
   "matches": [
     {
       "id": 39297,
@@ -17,9 +17,15 @@
       "r18": false
     },
     {
+      "id": 54066,
+      "title": "Dragon Ball Z Full Color - Majin Buu Arc",
+      "score": 0.764,
+      "r18": false
+    },
+    {
       "id": 33139,
       "title": "Dragon Ball - Dragon Ball Rebirth (Doujinshi)",
-      "score": 0.75,
+      "score": 0.749,
       "r18": false
     },
     {
@@ -49,7 +55,7 @@
     {
       "id": 33397,
       "title": "Dragon Ball Xenoverse 2: The Manga",
-      "score": 0.739,
+      "score": 0.738,
       "r18": false
     },
     {
@@ -103,12 +109,6 @@
     {
       "id": 50432,
       "title": "DRAGON BALL Z TV Animation Comics",
-      "score": 0.72,
-      "r18": false
-    },
-    {
-      "id": 54066,
-      "title": "Dragon Ball Z Full Color - Majin Buu Arc",
       "score": 0.72,
       "r18": false
     },

@@ -1,8 +1,8 @@
 {
   "id": 46508,
   "title": "Asu, Watashi wa Dare ka no Kanojo",
-  "url": "https://mangadex.org/manga/46508",
-  "last_updated": "January 15, 2021 06:43:53 UTC",
+  "url": "https://api.mangadex.org/v2/manga/46508",
+  "last_updated": "February 12, 2021 00:55:13 UTC",
   "matches": [
     {
       "id": 5734,
@@ -26,18 +26,6 @@
       "id": 20537,
       "title": "Seirei Gensouki ~Konna Sekai de Deaeta Kimi ni~",
       "score": 0.729,
-      "r18": false
-    },
-    {
-      "id": 35626,
-      "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Kenki Koiuta",
-      "score": 0.728,
-      "r18": false
-    },
-    {
-      "id": 41767,
-      "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Daiyonshou - Seiiki to Gouyoku no Majou",
-      "score": 0.727,
       "r18": false
     },
     {
@@ -77,12 +65,6 @@
       "r18": false
     },
     {
-      "id": 18663,
-      "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Daisanshou - Truth of Zero",
-      "score": 0.722,
-      "r18": false
-    },
-    {
       "id": 15976,
       "title": "Shimanami Tasogare",
       "score": 0.72,
@@ -103,7 +85,7 @@
     {
       "id": 9829,
       "title": "Immortal Hounds",
-      "score": 0.716,
+      "score": 0.717,
       "r18": false
     },
     {
@@ -131,14 +113,20 @@
       "r18": false
     },
     {
-      "id": 19505,
-      "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
-      "score": 0.713,
+      "id": 18663,
+      "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Daisanshou - Truth of Zero",
+      "score": 0.712,
       "r18": false
     },
     {
       "id": 6283,
       "title": "Vandemieru no Tsubasa",
+      "score": 0.712,
+      "r18": false
+    },
+    {
+      "id": 5170,
+      "title": "Hoshi no Koe",
       "score": 0.712,
       "r18": false
     },
@@ -149,9 +137,21 @@
       "r18": false
     },
     {
-      "id": 5170,
-      "title": "Hoshi no Koe",
-      "score": 0.712,
+      "id": 46835,
+      "title": "Oshi no Ko",
+      "score": 0.709,
+      "r18": false
+    },
+    {
+      "id": 51083,
+      "title": "Orange",
+      "score": 0.708,
+      "r18": false
+    },
+    {
+      "id": 430,
+      "title": "Hotel",
+      "score": 0.708,
       "r18": false
     }
   ]

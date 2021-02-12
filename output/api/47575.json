@@ -1,9 +1,15 @@
 {
   "id": 47575,
   "title": "Wednesday's Wondrous Lunch",
-  "url": "https://mangadex.org/manga/47575",
-  "last_updated": "January 15, 2021 12:22:59 UTC",
+  "url": "https://api.mangadex.org/v2/manga/47575",
+  "last_updated": "February 12, 2021 01:13:41 UTC",
   "matches": [
+    {
+      "id": 461,
+      "title": "Shiawase Kissa Sanchoume",
+      "score": 0.73,
+      "r18": false
+    },
     {
       "id": 2797,
       "title": "Le Th&eacute;&acirc;tre de B",
@@ -37,7 +43,7 @@
     {
       "id": 15018,
       "title": "Shiawase Shokutaku",
-      "score": 0.707,
+      "score": 0.706,
       "r18": false
     },
     {
@@ -49,13 +55,7 @@
     {
       "id": 15991,
       "title": "Koi wa Ameagari no You ni",
-      "score": 0.702,
-      "r18": false
-    },
-    {
-      "id": 19505,
-      "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
-      "score": 0.699,
+      "score": 0.701,
       "r18": false
     },
     {
@@ -125,6 +125,12 @@
       "r18": false
     },
     {
+      "id": 19505,
+      "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+      "score": 0.685,
+      "r18": false
+    },
+    {
       "id": 810,
       "title": "Rewrite: SIDE-B",
       "score": 0.685,
@@ -146,12 +152,6 @@
       "id": 528,
       "title": "3-gatsu no Lion",
       "score": 0.684,
-      "r18": false
-    },
-    {
-      "id": 56273,
-      "title": "Rascal Does Not Dream of Logical Witch",
-      "score": 0.683,
       "r18": false
     }
   ]

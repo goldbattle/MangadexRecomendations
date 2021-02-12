@@ -1,8 +1,8 @@
 {
   "id": 47700,
   "title": "Zero: Circle of Flow (2006)",
-  "url": "https://mangadex.org/manga/47700",
-  "last_updated": "January 15, 2021 12:24:21 UTC",
+  "url": "https://api.mangadex.org/v2/manga/47700",
+  "last_updated": "February 12, 2021 01:15:44 UTC",
   "matches": [
     {
       "id": 430,
@@ -25,7 +25,7 @@
     {
       "id": 42459,
       "title": "Akame ga Kill! 1.5",
-      "score": 0.693,
+      "score": 0.692,
       "r18": false
     },
     {
@@ -61,7 +61,7 @@
     {
       "id": 40,
       "title": "Crepuscule",
-      "score": 0.688,
+      "score": 0.687,
       "r18": false
     },
     {
@@ -107,12 +107,6 @@
       "r18": false
     },
     {
-      "id": 219,
-      "title": "Akame ga KILL!",
-      "score": 0.683,
-      "r18": false
-    },
-    {
       "id": 25435,
       "title": "Madara",
       "score": 0.683,
@@ -143,15 +137,21 @@
       "r18": false
     },
     {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
+      "id": 7869,
+      "title": "Arashi no Hana Murakumo no Uta",
       "score": 0.68,
       "r18": false
     },
     {
-      "id": 7869,
-      "title": "Arashi no Hana Murakumo no Uta",
+      "id": 2089,
+      "title": "Kingdom Hearts II",
       "score": 0.68,
+      "r18": false
+    },
+    {
+      "id": 4880,
+      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
+      "score": 0.679,
       "r18": false
     }
   ]

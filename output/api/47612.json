@@ -1,8 +1,8 @@
 {
   "id": 47612,
   "title": "Obscura",
-  "url": "https://mangadex.org/manga/47612",
-  "last_updated": "January 15, 2021 12:23:23 UTC",
+  "url": "https://api.mangadex.org/v2/manga/47612",
+  "last_updated": "February 12, 2021 01:14:18 UTC",
   "matches": [
     {
       "id": 39709,
@@ -18,14 +18,14 @@
     },
     {
       "id": 58528,
-      "title": "Help me, Uncle!",
+      "title": "Help Me, Uncle!",
       "score": 0.475,
       "r18": false
     },
     {
       "id": 36997,
       "title": "Hyperventilation",
-      "score": 0.454,
+      "score": 0.455,
       "r18": false
     },
     {
@@ -35,15 +35,15 @@
       "r18": false
     },
     {
-      "id": 35907,
-      "title": "Restless",
-      "score": 0.424,
+      "id": 52199,
+      "title": "Affectionately",
+      "score": 0.432,
       "r18": false
     },
     {
-      "id": 52199,
-      "title": "Affectionately",
-      "score": 0.423,
+      "id": 35907,
+      "title": "Restless",
+      "score": 0.424,
       "r18": false
     },
     {
@@ -55,19 +55,13 @@
     {
       "id": 44185,
       "title": "Kiss The Bride",
-      "score": 0.42,
+      "score": 0.421,
       "r18": false
     },
     {
       "id": 44808,
       "title": "Private Lessons",
-      "score": 0.417,
-      "r18": false
-    },
-    {
-      "id": 56993,
-      "title": "Business Performance",
-      "score": 0.416,
+      "score": 0.418,
       "r18": false
     },
     {
@@ -96,8 +90,8 @@
     },
     {
       "id": 51164,
-      "title": "Anti P.T",
-      "score": 0.411,
+      "title": "ANTI P.T.",
+      "score": 0.413,
       "r18": false
     },
     {
@@ -115,7 +109,7 @@
     {
       "id": 44969,
       "title": "Evergreen",
-      "score": 0.407,
+      "score": 0.408,
       "r18": false
     },
     {
@@ -125,9 +119,27 @@
       "r18": false
     },
     {
+      "id": 59268,
+      "title": "Santa Will Always Grant Your Wishes",
+      "score": 0.406,
+      "r18": false
+    },
+    {
+      "id": 50851,
+      "title": "Shh, You'll Wake up the Child",
+      "score": 0.403,
+      "r18": false
+    },
+    {
+      "id": 59175,
+      "title": "Love Script",
+      "score": 0.402,
+      "r18": false
+    },
+    {
       "id": 43916,
       "title": "Marry You? Yes, I Will!",
-      "score": 0.401,
+      "score": 0.402,
       "r18": false
     },
     {
@@ -140,18 +152,6 @@
       "id": 55341,
       "title": "Please Teach Me",
       "score": 0.397,
-      "r18": false
-    },
-    {
-      "id": 36994,
-      "title": "Fate Makes No Mistakes",
-      "score": 0.396,
-      "r18": false
-    },
-    {
-      "id": 33002,
-      "title": "Romantic Box",
-      "score": 0.396,
       "r18": false
     }
   ]

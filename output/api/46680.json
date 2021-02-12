@@ -1,8 +1,8 @@
 {
   "id": 46680,
   "title": "Your Highness, Please Don't Be a Demon",
-  "url": "https://mangadex.org/manga/46680",
-  "last_updated": "January 15, 2021 06:45:33 UTC",
+  "url": "https://api.mangadex.org/v2/manga/46680",
+  "last_updated": "February 12, 2021 00:58:13 UTC",
   "matches": [
     {
       "id": 28927,
@@ -59,14 +59,14 @@
       "r18": false
     },
     {
-      "id": 53865,
-      "title": "Kizoku no Aoi Seppun",
+      "id": 46907,
+      "title": "Zhuzhiqu",
       "score": 0.694,
       "r18": false
     },
     {
-      "id": 46907,
-      "title": "Zhuzhiqu",
+      "id": 53865,
+      "title": "Kizoku no Aoi Seppun",
       "score": 0.694,
       "r18": false
     },
@@ -103,7 +103,7 @@
     {
       "id": 25475,
       "title": "Tanbishugi",
-      "score": 0.691,
+      "score": 0.69,
       "r18": false
     },
     {
@@ -137,6 +137,12 @@
       "r18": false
     },
     {
+      "id": 57765,
+      "title": "Summer Guest",
+      "score": 0.686,
+      "r18": false
+    },
+    {
       "id": 8905,
       "title": "Hana no Miyako de",
       "score": 0.686,
@@ -146,12 +152,6 @@
       "id": 33690,
       "title": "The Emperor's Strategy",
       "score": 0.686,
-      "r18": false
-    },
-    {
-      "id": 35513,
-      "title": "Rumspringa no Joukei",
-      "score": 0.684,
       "r18": false
     }
   ]

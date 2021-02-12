@@ -1,8 +1,8 @@
 {
   "id": 47281,
   "title": "Heat x Beat",
-  "url": "https://mangadex.org/manga/47281",
-  "last_updated": "January 15, 2021 12:19:47 UTC",
+  "url": "https://api.mangadex.org/v2/manga/47281",
+  "last_updated": "February 12, 2021 01:08:42 UTC",
   "matches": [
     {
       "id": 26915,
@@ -13,7 +13,7 @@
     {
       "id": 16544,
       "title": "ULTRAS",
-      "score": 0.71,
+      "score": 0.712,
       "r18": false
     },
     {
@@ -137,6 +137,12 @@
       "r18": false
     },
     {
+      "id": 50448,
+      "title": "Tonari no Metaller-san",
+      "score": 0.686,
+      "r18": false
+    },
+    {
       "id": 19632,
       "title": "Hitorijime My Hero",
       "score": 0.686,
@@ -145,12 +151,6 @@
     {
       "id": 29112,
       "title": "Yami ni Tooboe, Mune ni Toge",
-      "score": 0.685,
-      "r18": false
-    },
-    {
-      "id": 4673,
-      "title": "From Yesterday",
       "score": 0.685,
       "r18": false
     }

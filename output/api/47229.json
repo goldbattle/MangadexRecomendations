@@ -1,8 +1,8 @@
 {
   "id": 47229,
   "title": "Her Parrot",
-  "url": "https://mangadex.org/manga/47229",
-  "last_updated": "January 15, 2021 12:19:12 UTC",
+  "url": "https://api.mangadex.org/v2/manga/47229",
+  "last_updated": "February 12, 2021 01:07:48 UTC",
   "matches": [
     {
       "id": 47340,
@@ -18,7 +18,7 @@
     },
     {
       "id": 56191,
-      "title": "Taming the Absolute Tyrant",
+      "title": "Taming the Ultimate Tyrant",
       "score": 0.258,
       "r18": false
     },
@@ -26,6 +26,12 @@
       "id": 59273,
       "title": "Before I Lose You",
       "score": 0.258,
+      "r18": false
+    },
+    {
+      "id": 2444,
+      "title": "Please! Mr. Bear!",
+      "score": 0.246,
       "r18": false
     },
     {
@@ -61,6 +67,12 @@
     {
       "id": 19893,
       "title": "The Elementary School Student That I Love",
+      "score": 0.246,
+      "r18": false
+    },
+    {
+      "id": 22147,
+      "title": "Golden Waltz",
       "score": 0.246,
       "r18": false
     },
@@ -139,18 +151,6 @@
     {
       "id": 29212,
       "title": "Moral Sense",
-      "score": 0.246,
-      "r18": false
-    },
-    {
-      "id": 32508,
-      "title": "Samejima-san wa kamishimetai",
-      "score": 0.246,
-      "r18": false
-    },
-    {
-      "id": 34002,
-      "title": "She May Not Be Cute",
       "score": 0.246,
       "r18": false
     }

@@ -1,13 +1,13 @@
 {
   "id": 47049,
   "title": "Ushiro no Shoumen Kamui-san",
-  "url": "https://mangadex.org/manga/47049",
-  "last_updated": "January 15, 2021 06:49:03 UTC",
+  "url": "https://api.mangadex.org/v2/manga/47049",
+  "last_updated": "February 12, 2021 01:04:40 UTC",
   "matches": [
     {
       "id": 223,
       "title": "Hell Teacher Nube",
-      "score": 0.325,
+      "score": 0.301,
       "r18": false
     },
     {
@@ -113,12 +113,6 @@
       "r18": false
     },
     {
-      "id": 146,
-      "title": "Soul Eater",
-      "score": 0.202,
-      "r18": false
-    },
-    {
       "id": 35456,
       "title": "Girl and Science",
       "score": 0.188,
@@ -146,6 +140,12 @@
       "id": 50187,
       "title": "The God of &quot;Game of Gods&quot;",
       "score": 0.167,
+      "r18": false
+    },
+    {
+      "id": 146,
+      "title": "Soul Eater",
+      "score": 0.165,
       "r18": false
     },
     {

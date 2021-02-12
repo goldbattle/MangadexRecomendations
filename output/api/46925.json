@@ -1,8 +1,8 @@
 {
   "id": 46925,
   "title": "Yu-Gi-Oh! Rush Duel: Yarouze! Rush Duel!!",
-  "url": "https://mangadex.org/manga/46925",
-  "last_updated": "January 15, 2021 06:47:55 UTC",
+  "url": "https://api.mangadex.org/v2/manga/46925",
+  "last_updated": "February 12, 2021 01:02:28 UTC",
   "matches": [
     {
       "id": 16147,
@@ -53,6 +53,12 @@
       "r18": false
     },
     {
+      "id": 883,
+      "title": "Eyeshield 21",
+      "score": 0.334,
+      "r18": false
+    },
+    {
       "id": 1386,
       "title": "Red Eyes",
       "score": 0.334,
@@ -73,12 +79,6 @@
     {
       "id": 658,
       "title": "Bloody Monday",
-      "score": 0.331,
-      "r18": false
-    },
-    {
-      "id": 661,
-      "title": "Toaru Kagaku no Railgun",
       "score": 0.331,
       "r18": false
     },
@@ -143,15 +143,15 @@
       "r18": false
     },
     {
-      "id": 25120,
-      "title": "Kidou Senshi Gundam 00F",
+      "id": 661,
+      "title": "Toaru Kagaku no Railgun",
       "score": 0.323,
       "r18": false
     },
     {
-      "id": 24332,
-      "title": "Rockman Megamix",
-      "score": 0.322,
+      "id": 25120,
+      "title": "Kidou Senshi Gundam 00F",
+      "score": 0.323,
       "r18": false
     }
   ]

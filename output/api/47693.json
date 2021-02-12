@@ -1,9 +1,15 @@
 {
   "id": 47693,
   "title": "Peerless Evil",
-  "url": "https://mangadex.org/manga/47693",
-  "last_updated": "January 15, 2021 12:24:17 UTC",
+  "url": "https://api.mangadex.org/v2/manga/47693",
+  "last_updated": "February 12, 2021 01:15:38 UTC",
   "matches": [
+    {
+      "id": 53430,
+      "title": "Goddess' Commoner Soldier King",
+      "score": 0.708,
+      "r18": false
+    },
     {
       "id": 1021,
       "title": "Girls of the Wild's",
@@ -17,14 +23,20 @@
       "r18": false
     },
     {
-      "id": 58713,
-      "title": "99 Ways to Become Heroes by Beauty Masters",
+      "id": 34866,
+      "title": "The Deer and the Cauldron",
+      "score": 0.692,
+      "r18": false
+    },
+    {
+      "id": 55352,
+      "title": "Invasion Of The Immortal Emperor",
       "score": 0.687,
       "r18": false
     },
     {
-      "id": 34866,
-      "title": "The Deer and the Cauldron (Phoenix Entertainment)",
+      "id": 58713,
+      "title": "99 Ways to Become Heroes by Beauty Masters",
       "score": 0.687,
       "r18": false
     },
@@ -77,9 +89,15 @@
       "r18": false
     },
     {
+      "id": 46017,
+      "title": "My Plug-in Spirit  Ring",
+      "score": 0.668,
+      "r18": false
+    },
+    {
       "id": 58345,
       "title": "Cat System: The Emperor Is a Cat Lover",
-      "score": 0.667,
+      "score": 0.668,
       "r18": false
     },
     {
@@ -107,6 +125,12 @@
       "r18": false
     },
     {
+      "id": 59805,
+      "title": "The No.1 Chef in Martial Art World",
+      "score": 0.662,
+      "r18": false
+    },
+    {
       "id": 2322,
       "title": "Nowhere Boy",
       "score": 0.662,
@@ -115,7 +139,7 @@
     {
       "id": 34340,
       "title": "The Master of Flowers in the city",
-      "score": 0.661,
+      "score": 0.662,
       "r18": false
     },
     {
@@ -128,30 +152,6 @@
       "id": 49371,
       "title": "Peerless Doctor in the City",
       "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 32259,
-      "title": "My Girlfriend Is a Villain",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 28558,
-      "title": "Versatile Mage",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 44788,
-      "title": "Urban Best Medic",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 24163,
-      "title": "Chaotic Sword God",
-      "score": 0.658,
       "r18": false
     }
   ]

@@ -1,19 +1,19 @@
 {
   "id": 47950,
   "title": "Human Card",
-  "url": "https://mangadex.org/manga/47950",
-  "last_updated": "January 15, 2021 12:27:24 UTC",
+  "url": "https://api.mangadex.org/v2/manga/47950",
+  "last_updated": "February 12, 2021 01:19:42 UTC",
   "matches": [
     {
       "id": 121,
       "title": "Mahou Sensei Negima!",
-      "score": 0.677,
+      "score": 0.678,
       "r18": false
     },
     {
       "id": 2019,
       "title": "Mahou Tsukai Kurohime",
-      "score": 0.667,
+      "score": 0.668,
       "r18": false
     },
     {
@@ -53,14 +53,14 @@
       "r18": false
     },
     {
-      "id": 31349,
-      "title": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka (Fan Colored)",
+      "id": 887,
+      "title": "Mahou Shoujo Lyrical Nanoha ViVid",
       "score": 0.66,
       "r18": false
     },
     {
-      "id": 49,
-      "title": "Medaka Box",
+      "id": 31349,
+      "title": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka (Fan Colored)",
       "score": 0.66,
       "r18": false
     },
@@ -89,12 +89,6 @@
       "r18": false
     },
     {
-      "id": 23801,
-      "title": "Bakemonogatari",
-      "score": 0.656,
-      "r18": false
-    },
-    {
       "id": 6206,
       "title": "Ore ga Heroine o Tasukesugite Sekai ga Little Mokushiroku!?",
       "score": 0.656,
@@ -109,13 +103,7 @@
     {
       "id": 648,
       "title": "Omamori Himari",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 146,
-      "title": "Soul Eater",
-      "score": 0.655,
+      "score": 0.656,
       "r18": false
     },
     {
@@ -152,6 +140,18 @@
       "id": 1062,
       "title": "Shina Dark ~Kuroki Tsuki no Ou to Souheiki no Himegimi~",
       "score": 0.653,
+      "r18": false
+    },
+    {
+      "id": 3600,
+      "title": "Chaosic Rune",
+      "score": 0.652,
+      "r18": false
+    },
+    {
+      "id": 10825,
+      "title": "Occult Maiden - Hishou - Oni o Tsugu Shounen",
+      "score": 0.652,
       "r18": false
     }
   ]

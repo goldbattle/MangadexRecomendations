@@ -1,8 +1,8 @@
 {
   "id": 46778,
   "title": "Ai ga Nakereba",
-  "url": "https://mangadex.org/manga/46778",
-  "last_updated": "January 15, 2021 06:46:30 UTC",
+  "url": "https://api.mangadex.org/v2/manga/46778",
+  "last_updated": "February 12, 2021 00:59:50 UTC",
   "matches": [
     {
       "id": 11446,
@@ -24,7 +24,7 @@
     },
     {
       "id": 51702,
-      "title": "Kuro Bengoshi no Chijou Sekai de Ichiban Omoi Junai",
+      "title": "Kuro Bengoshi no Chijou: Sekai de Ichiban Omoi Junai",
       "score": 0.347,
       "r18": false
     },
@@ -32,6 +32,12 @@
       "id": 54278,
       "title": "Watashi no Ouji-sama",
       "score": 0.347,
+      "r18": false
+    },
+    {
+      "id": 612,
+      "title": "Delivery",
+      "score": 0.26,
       "r18": false
     },
     {
@@ -78,7 +84,7 @@
     },
     {
       "id": 45207,
-      "title": "Goukon Aite wa Nikushoku Keikan!?: 26-sai Shojo wa Torawaretai",
+      "title": "Goukon Aite wa Nikushoku Keikan!? ~26-sai Shojo wa Torawaretai~",
       "score": 0.26,
       "r18": false
     },
@@ -95,12 +101,6 @@
       "r18": false
     },
     {
-      "id": 54019,
-      "title": "YomeBaka Danna no Hoshii Mono",
-      "score": 0.26,
-      "r18": false
-    },
-    {
       "id": 54318,
       "title": "Watashi wa Okazu Senpai ni Taberaretai",
       "score": 0.26,
@@ -108,7 +108,7 @@
     },
     {
       "id": 58278,
-      "title": "I Wouldn't Mind a Loveless Embrace",
+      "title": "Ai Toka Ii Kara Dakishimete",
       "score": 0.26,
       "r18": false
     },
@@ -131,6 +131,12 @@
       "r18": false
     },
     {
+      "id": 22238,
+      "title": "Toge ni Kuchizuke",
+      "score": 0.208,
+      "r18": false
+    },
+    {
       "id": 32438,
       "title": "Chippai Kanojo to Bijin Kareshi",
       "score": 0.208,
@@ -145,12 +151,6 @@
     {
       "id": 52476,
       "title": "Amayakasanaide Fuku Shachou: Danna-sama wa SSR",
-      "score": 0.208,
-      "r18": false
-    },
-    {
-      "id": 54336,
-      "title": "Ijiwaru Kohai-kun",
       "score": 0.208,
       "r18": false
     }
