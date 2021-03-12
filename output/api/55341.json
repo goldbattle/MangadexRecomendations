@@ -1,8 +1,8 @@
 {
   "id": 55341,
   "title": "Please Teach Me",
-  "url": "https://mangadex.org/manga/55341",
-  "last_updated": "January 16, 2021 06:40:06 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55341",
+  "last_updated": "March 12, 2021 20:36:37 UTC",
   "matches": [
     {
       "id": 45212,
@@ -25,7 +25,7 @@
     {
       "id": 31208,
       "title": "Hot and Cold",
-      "score": 0.681,
+      "score": 0.68,
       "r18": false
     },
     {
@@ -38,6 +38,12 @@
       "id": 39264,
       "title": "May Belongs to Me",
       "score": 0.675,
+      "r18": false
+    },
+    {
+      "id": 42487,
+      "title": "Biting the Tiger",
+      "score": 0.674,
       "r18": false
     },
     {
@@ -61,6 +67,12 @@
     {
       "id": 52515,
       "title": "4 Week Lovers",
+      "score": 0.672,
+      "r18": false
+    },
+    {
+      "id": 59268,
+      "title": "Santa Will Always Grant Your Wishes",
       "score": 0.672,
       "r18": false
     },
@@ -113,6 +125,12 @@
       "r18": false
     },
     {
+      "id": 59175,
+      "title": "Love Script",
+      "score": 0.664,
+      "r18": false
+    },
+    {
       "id": 56675,
       "title": "When a Yakuza falls in love",
       "score": 0.664,
@@ -125,33 +143,15 @@
       "r18": false
     },
     {
-      "id": 44078,
-      "title": "The Time Between Dog and Wolf",
-      "score": 0.661,
+      "id": 52199,
+      "title": "Affectionately",
+      "score": 0.662,
       "r18": false
     },
     {
-      "id": 57225,
-      "title": "Draig Mid Knight",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 41682,
-      "title": "Keeper of the Pearl",
-      "score": 0.657,
-      "r18": false
-    },
-    {
-      "id": 58528,
-      "title": "Help me, Uncle!",
-      "score": 0.657,
-      "r18": false
-    },
-    {
-      "id": 42969,
-      "title": "Imae-ui Yoram.",
-      "score": 0.656,
+      "id": 54598,
+      "title": "Romantical Behind",
+      "score": 0.662,
       "r18": false
     }
   ]

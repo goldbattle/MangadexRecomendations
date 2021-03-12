@@ -1,8 +1,8 @@
 {
   "id": 54232,
   "title": "The Dolls' Apartment",
-  "url": "https://mangadex.org/manga/54232",
-  "last_updated": "January 16, 2021 06:30:04 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54232",
+  "last_updated": "March 12, 2021 20:23:04 UTC",
   "matches": [
     {
       "id": 38573,
@@ -20,12 +20,6 @@
       "id": 29750,
       "title": "Lily Love 2",
       "score": 0.331,
-      "r18": false
-    },
-    {
-      "id": 54204,
-      "title": "Christmas Eve Present",
-      "score": 0.321,
       "r18": false
     },
     {
@@ -65,6 +59,12 @@
       "r18": false
     },
     {
+      "id": 54204,
+      "title": "Christmas Eve Present",
+      "score": 0.261,
+      "r18": false
+    },
+    {
       "id": 18288,
       "title": "Pulse",
       "score": 0.26,
@@ -85,7 +85,7 @@
     {
       "id": 15242,
       "title": "Lily Love",
-      "score": 0.253,
+      "score": 0.252,
       "r18": false
     },
     {
@@ -104,12 +104,6 @@
       "id": 47200,
       "title": "Chandelier",
       "score": 0.24,
-      "r18": false
-    },
-    {
-      "id": 15508,
-      "title": "15-sai",
-      "score": 0.236,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 19956,
       "title": "Beloved",
       "score": 0.186,
+      "r18": false
+    },
+    {
+      "id": 38743,
+      "title": "Pure White Sigh",
+      "score": 0.18,
       "r18": false
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": 55535,
   "title": "Triple Ring",
-  "url": "https://mangadex.org/manga/55535",
-  "last_updated": "January 16, 2021 06:41:53 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55535",
+  "last_updated": "March 12, 2021 20:39:05 UTC",
   "matches": [
     {
       "id": 33951,
@@ -71,18 +71,6 @@
       "r18": false
     },
     {
-      "id": 58616,
-      "title": "Midnight Blue",
-      "score": 0.17,
-      "r18": false
-    },
-    {
-      "id": 58831,
-      "title": "Locker Opener",
-      "score": 0.17,
-      "r18": false
-    },
-    {
       "id": 59045,
       "title": "The Queen's Blade",
       "score": 0.17,
@@ -143,6 +131,12 @@
       "r18": false
     },
     {
+      "id": 34048,
+      "title": "Evil Or Live",
+      "score": 0.136,
+      "r18": false
+    },
+    {
       "id": 34562,
       "title": "L'Amant",
       "score": 0.136,
@@ -151,6 +145,12 @@
     {
       "id": 36518,
       "title": "The Devil's Descendants",
+      "score": 0.136,
+      "r18": false
+    },
+    {
+      "id": 38871,
+      "title": "Fukenzen Host ni Kimajime JK",
       "score": 0.136,
       "r18": false
     }

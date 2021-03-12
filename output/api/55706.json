@@ -1,8 +1,8 @@
 {
   "id": 55706,
   "title": "Watamee and Shishiron's First Collab",
-  "url": "https://mangadex.org/manga/55706",
-  "last_updated": "January 16, 2021 06:43:24 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55706",
+  "last_updated": "March 12, 2021 20:41:11 UTC",
   "matches": [
     {
       "id": 37004,
@@ -43,12 +43,6 @@
     {
       "id": 52134,
       "title": "Magical prefix",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 52211,
-      "title": "The high school my mother went to",
       "score": 0.34,
       "r18": false
     },
@@ -151,6 +145,12 @@
     {
       "id": 44077,
       "title": "The Library of Babel",
+      "score": 0.227,
+      "r18": false
+    },
+    {
+      "id": 44695,
+      "title": "Short Short Short san",
       "score": 0.227,
       "r18": false
     }

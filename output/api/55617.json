@@ -1,8 +1,8 @@
 {
   "id": 55617,
   "title": "Exclusive Love",
-  "url": "https://mangadex.org/manga/55617",
-  "last_updated": "January 16, 2021 06:42:36 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55617",
+  "last_updated": "March 12, 2021 20:40:05 UTC",
   "matches": [
     {
       "id": 45628,
@@ -25,7 +25,7 @@
     {
       "id": 54052,
       "title": "It Looks Like I've Fallen into the World of a Reverse Harem Game",
-      "score": 0.715,
+      "score": 0.714,
       "r18": false
     },
     {
@@ -37,7 +37,7 @@
     {
       "id": 44387,
       "title": "Living as the Tyrant's Older Sister",
-      "score": 0.709,
+      "score": 0.708,
       "r18": false
     },
     {
@@ -53,14 +53,14 @@
       "r18": false
     },
     {
-      "id": 46872,
-      "title": "The Young Master Who Ran Away from His Marriage",
+      "id": 55868,
+      "title": "How to Tame a Wild Lion",
       "score": 0.703,
       "r18": false
     },
     {
-      "id": 55868,
-      "title": "How to Tame a Wild Lion",
+      "id": 46872,
+      "title": "The Young Master Who Ran Away from His Marriage",
       "score": 0.703,
       "r18": false
     },
@@ -109,7 +109,7 @@
     {
       "id": 33099,
       "title": "This Girl Is a Little Wild",
-      "score": 0.697,
+      "score": 0.696,
       "r18": false
     },
     {
@@ -121,12 +121,6 @@
     {
       "id": 50081,
       "title": "Spicy Female Boss",
-      "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 41743,
-      "title": "Charlotte and Her 5 Disciples",
       "score": 0.696,
       "r18": false
     },
@@ -145,13 +139,19 @@
     {
       "id": 56425,
       "title": "Three Lies, One Kiss",
-      "score": 0.695,
+      "score": 0.694,
       "r18": false
     },
     {
       "id": 47616,
       "title": "Beware of the Red Thread",
       "score": 0.694,
+      "r18": false
+    },
+    {
+      "id": 41743,
+      "title": "Charlotte and Her 5 Disciples",
+      "score": 0.693,
       "r18": false
     }
   ]

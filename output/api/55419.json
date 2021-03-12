@@ -1,19 +1,19 @@
 {
   "id": 55419,
   "title": "Double",
-  "url": "https://mangadex.org/manga/55419",
-  "last_updated": "January 16, 2021 06:40:48 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55419",
+  "last_updated": "March 12, 2021 20:37:35 UTC",
   "matches": [
-    {
-      "id": 1016,
-      "title": "Emma",
-      "score": 0.684,
-      "r18": false
-    },
     {
       "id": 4135,
       "title": "Mushishi",
-      "score": 0.683,
+      "score": 0.686,
+      "r18": false
+    },
+    {
+      "id": 1016,
+      "title": "Emma",
+      "score": 0.685,
       "r18": false
     },
     {
@@ -29,15 +29,15 @@
       "r18": false
     },
     {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
+      "id": 4880,
+      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
       "score": 0.672,
       "r18": false
     },
     {
-      "id": 4880,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
-      "score": 0.672,
+      "id": 3409,
+      "title": "Otoyomegatari",
+      "score": 0.667,
       "r18": false
     },
     {
@@ -47,27 +47,33 @@
       "r18": false
     },
     {
-      "id": 3409,
-      "title": "Otoyomegatari",
-      "score": 0.666,
-      "r18": false
-    },
-    {
       "id": 4242,
       "title": "Hyouge Mono",
       "score": 0.666,
       "r18": false
     },
     {
+      "id": 27151,
+      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
+      "score": 0.663,
+      "r18": false
+    },
+    {
       "id": 528,
       "title": "3-gatsu no Lion",
-      "score": 0.66,
+      "score": 0.661,
+      "r18": false
+    },
+    {
+      "id": 16542,
+      "title": "Blue Giant",
+      "score": 0.661,
       "r18": false
     },
     {
       "id": 20346,
       "title": "Watashi no Shounen",
-      "score": 0.66,
+      "score": 0.661,
       "r18": false
     },
     {
@@ -79,7 +85,7 @@
     {
       "id": 3343,
       "title": "Moyashimon",
-      "score": 0.657,
+      "score": 0.658,
       "r18": false
     },
     {
@@ -91,7 +97,7 @@
     {
       "id": 2781,
       "title": "Gaku",
-      "score": 0.417,
+      "score": 0.418,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 21108,
       "title": "Hibiki - Shousetsuka ni Naru Houhou",
       "score": 0.36,
-      "r18": false
-    },
-    {
-      "id": 2256,
-      "title": "Dragon Zakura",
-      "score": 0.353,
       "r18": false
     }
   ]

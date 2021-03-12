@@ -1,8 +1,8 @@
 {
   "id": 55196,
   "title": "Renai Gengogaku",
-  "url": "https://mangadex.org/manga/55196",
-  "last_updated": "January 16, 2021 06:38:48 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55196",
+  "last_updated": "March 12, 2021 20:34:49 UTC",
   "matches": [
     {
       "id": 37280,
@@ -19,7 +19,7 @@
     {
       "id": 38147,
       "title": "Birikketsu no Mahou",
-      "score": 0.728,
+      "score": 0.727,
       "r18": false
     },
     {
@@ -31,7 +31,7 @@
     {
       "id": 16544,
       "title": "ULTRAS",
-      "score": 0.726,
+      "score": 0.724,
       "r18": false
     },
     {
@@ -101,6 +101,12 @@
       "r18": false
     },
     {
+      "id": 31471,
+      "title": "Show ga Hanetara Aimashou",
+      "score": 0.707,
+      "r18": false
+    },
+    {
       "id": 25115,
       "title": "Koi Cha no Osahou",
       "score": 0.707,
@@ -109,7 +115,7 @@
     {
       "id": 15000,
       "title": "Umibe no &Eacute;tranger",
-      "score": 0.707,
+      "score": 0.706,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 8171,
       "title": "Te wo Tsunai de Koi wo",
       "score": 0.704,
-      "r18": false
-    },
-    {
-      "id": 12817,
-      "title": "Furue Tsumore Shiawase no Hana",
-      "score": 0.703,
       "r18": false
     }
   ]

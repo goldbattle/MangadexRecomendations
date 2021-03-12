@@ -1,8 +1,8 @@
 {
   "id": 54321,
   "title": "Trauma Center",
-  "url": "https://mangadex.org/manga/54321",
-  "last_updated": "January 16, 2021 06:30:53 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54321",
+  "last_updated": "March 12, 2021 20:24:10 UTC",
   "matches": [
     {
       "id": 49125,
@@ -49,13 +49,19 @@
     {
       "id": 42784,
       "title": "I Don't Want to Be Empress!",
-      "score": 0.651,
+      "score": 0.652,
+      "r18": false
+    },
+    {
+      "id": 16546,
+      "title": "The Queen: Silent Classroom",
+      "score": 0.381,
       "r18": false
     },
     {
       "id": 55825,
       "title": "From Morning to Night",
-      "score": 0.379,
+      "score": 0.376,
       "r18": false
     },
     {
@@ -79,7 +85,7 @@
     {
       "id": 51121,
       "title": "Genius Monster of the Century",
-      "score": 0.365,
+      "score": 0.366,
       "r18": false
     },
     {
@@ -95,9 +101,21 @@
       "r18": false
     },
     {
+      "id": 59607,
+      "title": "Dr. Queen",
+      "score": 0.361,
+      "r18": false
+    },
+    {
       "id": 18875,
       "title": "Ctrl + Z",
       "score": 0.36,
+      "r18": false
+    },
+    {
+      "id": 34048,
+      "title": "Evil Or Live",
+      "score": 0.358,
       "r18": false
     },
     {
@@ -134,24 +152,6 @@
       "id": 54794,
       "title": "Peony Elegy: Winter",
       "score": 0.347,
-      "r18": false
-    },
-    {
-      "id": 56820,
-      "title": "Amanza",
-      "score": 0.346,
-      "r18": false
-    },
-    {
-      "id": 16546,
-      "title": "The Queen: Silent Classroom",
-      "score": 0.346,
-      "r18": false
-    },
-    {
-      "id": 46211,
-      "title": "No Home",
-      "score": 0.345,
       "r18": false
     }
   ]

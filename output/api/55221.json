@@ -1,25 +1,13 @@
 {
   "id": 55221,
   "title": "Hiyori-chan no Onegai wa Zettai",
-  "url": "https://mangadex.org/manga/55221",
-  "last_updated": "January 16, 2021 06:39:01 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55221",
+  "last_updated": "March 12, 2021 20:35:07 UTC",
   "matches": [
     {
       "id": 55365,
       "title": "MEMORIZE",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 35626,
-      "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Kenki Koiuta",
-      "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 13364,
-      "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Daiisshou - Outo no Ichinichi Hen",
-      "score": 0.67,
+      "score": 0.668,
       "r18": false
     },
     {
@@ -29,15 +17,15 @@
       "r18": false
     },
     {
-      "id": 15286,
-      "title": "Fate/stay night: Heaven's Feel",
-      "score": 0.662,
+      "id": 42735,
+      "title": "Eirun Last Code",
+      "score": 0.659,
       "r18": false
     },
     {
-      "id": 42735,
-      "title": "Eirun Last Code",
-      "score": 0.66,
+      "id": 15286,
+      "title": "Fate/stay night: Heaven's Feel",
+      "score": 0.657,
       "r18": false
     },
     {
@@ -53,12 +41,6 @@
       "r18": false
     },
     {
-      "id": 41767,
-      "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Daiyonshou - Seiiki to Gouyoku no Majou",
-      "score": 0.652,
-      "r18": false
-    },
-    {
       "id": 710,
       "title": "Seishun Forget!",
       "score": 0.419,
@@ -71,15 +53,9 @@
       "r18": false
     },
     {
-      "id": 56037,
-      "title": "When I Rescued a Beautiful Girl Who Was About to Be Molested, It Was My Childhood Friend Sitting Next to Me",
-      "score": 0.376,
-      "r18": false
-    },
-    {
       "id": 18739,
       "title": "Kodomo wa Wakatte Agenai",
-      "score": 0.353,
+      "score": 0.352,
       "r18": false
     },
     {
@@ -95,6 +71,12 @@
       "r18": false
     },
     {
+      "id": 56037,
+      "title": "When I Rescued a Beautiful Girl Who Was About to Be Molested, It Was My Childhood Friend Sitting Next to Me",
+      "score": 0.331,
+      "r18": false
+    },
+    {
       "id": 1957,
       "title": "Shuukaku no Juunigatsu",
       "score": 0.329,
@@ -107,14 +89,14 @@
       "r18": false
     },
     {
-      "id": 341,
-      "title": "Boku wa Tomodachi ga Sukunai",
+      "id": 28903,
+      "title": "Ka\u300c\u300dKu\u300c\u300dShi\u300c\u300dGo\u300c\u300dTo\u300c",
       "score": 0.316,
       "r18": false
     },
     {
-      "id": 28903,
-      "title": "Ka\u300c\u300dKu\u300c\u300dShi\u300c\u300dGo\u300c\u300dTo\u300c",
+      "id": 341,
+      "title": "Boku wa Tomodachi ga Sukunai",
       "score": 0.316,
       "r18": false
     },
@@ -125,21 +107,15 @@
       "r18": false
     },
     {
-      "id": 7287,
-      "title": "Yahari Ore no Seishun Love Come wa Machigatteiru -Monologue-",
-      "score": 0.312,
-      "r18": false
-    },
-    {
       "id": 44,
       "title": "Iris Zero",
-      "score": 0.311,
+      "score": 0.31,
       "r18": false
     },
     {
       "id": 7800,
       "title": "Haru no Houtai Shoujo",
-      "score": 0.31,
+      "score": 0.309,
       "r18": false
     },
     {
@@ -152,6 +128,30 @@
       "id": 4149,
       "title": "Orange",
       "score": 0.309,
+      "r18": false
+    },
+    {
+      "id": 35626,
+      "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Kenki Koiuta",
+      "score": 0.302,
+      "r18": false
+    },
+    {
+      "id": 7287,
+      "title": "Yahari Ore no Seishun Love Come wa Machigatteiru -Monologue-",
+      "score": 0.299,
+      "r18": false
+    },
+    {
+      "id": 9574,
+      "title": "Seeking for Death",
+      "score": 0.296,
+      "r18": false
+    },
+    {
+      "id": 13974,
+      "title": "Yahari Ore no Seishun Love Come wa Machigatteiru @comic",
+      "score": 0.289,
       "r18": false
     }
   ]

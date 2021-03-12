@@ -1,8 +1,8 @@
 {
   "id": 55083,
   "title": "KILLER FRIENDS",
-  "url": "https://mangadex.org/manga/55083",
-  "last_updated": "January 16, 2021 06:37:47 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55083",
+  "last_updated": "March 12, 2021 20:33:27 UTC",
   "matches": [
     {
       "id": 38712,
@@ -31,12 +31,6 @@
     {
       "id": 53977,
       "title": "Dragon Raja 2",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 109,
-      "title": "Katekyo Hitman Reborn!",
       "score": 0.654,
       "r18": false
     },
@@ -83,12 +77,6 @@
       "r18": false
     },
     {
-      "id": 43429,
-      "title": "Bungou Stray Dogs Beast",
-      "score": 0.341,
-      "r18": false
-    },
-    {
       "id": 29394,
       "title": "Blue Lock",
       "score": 0.339,
@@ -98,6 +86,18 @@
       "id": 41148,
       "title": "Sugar Dog",
       "score": 0.332,
+      "r18": false
+    },
+    {
+      "id": 59701,
+      "title": "One Operation Joker",
+      "score": 0.327,
+      "r18": false
+    },
+    {
+      "id": 20964,
+      "title": "Rash!!",
+      "score": 0.32,
       "r18": false
     },
     {
@@ -113,9 +113,21 @@
       "r18": false
     },
     {
+      "id": 44354,
+      "title": "Dorei Yuugi Guren",
+      "score": 0.309,
+      "r18": false
+    },
+    {
       "id": 48142,
       "title": "BILLY THE TALL",
       "score": 0.307,
+      "r18": false
+    },
+    {
+      "id": 58461,
+      "title": "Midoriyama Police Gang",
+      "score": 0.3,
       "r18": false
     },
     {
@@ -125,33 +137,21 @@
       "r18": false
     },
     {
-      "id": 58461,
-      "title": "Midoriyama Police Gang",
-      "score": 0.296,
-      "r18": false
-    },
-    {
       "id": 16694,
       "title": "Lupin III Jr.",
       "score": 0.293,
       "r18": false
     },
     {
+      "id": 43429,
+      "title": "Bungou Stray Dogs Beast",
+      "score": 0.288,
+      "r18": false
+    },
+    {
       "id": 2589,
       "title": "Tantei Gakuen Q",
       "score": 0.286,
-      "r18": false
-    },
-    {
-      "id": 14783,
-      "title": "Satsui no Senki",
-      "score": 0.284,
-      "r18": false
-    },
-    {
-      "id": 3374,
-      "title": "Kidou Senshi Gundam - Gihren Ansatsu Keikaku",
-      "score": 0.284,
       "r18": false
     }
   ]

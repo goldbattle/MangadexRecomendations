@@ -1,8 +1,8 @@
 {
   "id": 55548,
   "title": "Karaoke Iko!",
-  "url": "https://mangadex.org/manga/55548",
-  "last_updated": "January 16, 2021 06:41:59 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55548",
+  "last_updated": "March 12, 2021 20:39:14 UTC",
   "matches": [
     {
       "id": 22078,
@@ -13,7 +13,7 @@
     {
       "id": 23864,
       "title": "Sensei Lock-On! 2nd",
-      "score": 0.688,
+      "score": 0.687,
       "r18": false
     },
     {
@@ -32,18 +32,6 @@
       "id": 8495,
       "title": "Persona 3",
       "score": 0.674,
-      "r18": false
-    },
-    {
-      "id": 875,
-      "title": "Bokura wa Minna Kawai-sou",
-      "score": 0.673,
-      "r18": false
-    },
-    {
-      "id": 27170,
-      "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e &radic;Horikita",
-      "score": 0.673,
       "r18": false
     },
     {
@@ -119,20 +107,20 @@
       "r18": false
     },
     {
-      "id": 12326,
-      "title": "Love Live! - School Idol Project",
+      "id": 33670,
+      "title": "Skip to Loafer",
       "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 13610,
-      "title": "Seifuku Aventure - Chemical Reaction Of High School Students",
-      "score": 0.664,
       "r18": false
     },
     {
       "id": 26966,
       "title": "Mobuko no Koi",
+      "score": 0.664,
+      "r18": false
+    },
+    {
+      "id": 13610,
+      "title": "Seifuku Aventure - Chemical Reaction Of High School Students",
       "score": 0.664,
       "r18": false
     },
@@ -143,15 +131,27 @@
       "r18": false
     },
     {
-      "id": 444,
-      "title": "D-Frag!",
-      "score": 0.661,
+      "id": 875,
+      "title": "Bokura wa Minna Kawai-sou",
+      "score": 0.662,
       "r18": false
     },
     {
       "id": 34367,
       "title": "A Tale of Royal Disturbance: Now He's Gone from Echo Valley",
       "score": 0.661,
+      "r18": false
+    },
+    {
+      "id": 456,
+      "title": "Nanika Mochigatte Masuka",
+      "score": 0.66,
+      "r18": false
+    },
+    {
+      "id": 43622,
+      "title": "Kono Koi wa Fukami-kun no Plan ni wa Nai",
+      "score": 0.66,
       "r18": false
     }
   ]

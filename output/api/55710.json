@@ -1,8 +1,8 @@
 {
   "id": 55710,
   "title": "Torokeru Kaikan Sokuochi Akuma",
-  "url": "https://mangadex.org/manga/55710",
-  "last_updated": "January 16, 2021 06:43:26 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55710",
+  "last_updated": "March 12, 2021 20:41:14 UTC",
   "matches": [
     {
       "id": 24160,
@@ -41,8 +41,20 @@
       "r18": false
     },
     {
+      "id": 17735,
+      "title": "Koori ga Tokeru no o Matteru",
+      "score": 0.24,
+      "r18": false
+    },
+    {
       "id": 19268,
       "title": "Koiyume Lover",
+      "score": 0.24,
+      "r18": false
+    },
+    {
+      "id": 22591,
+      "title": "My Little Vampire",
       "score": 0.24,
       "r18": false
     },
@@ -85,12 +97,6 @@
     {
       "id": 43061,
       "title": "Ookami e no Yomeiri \uff5eIshu Kon'intan\uff5e",
-      "score": 0.24,
-      "r18": false
-    },
-    {
-      "id": 51734,
-      "title": "Platinum Blood",
       "score": 0.24,
       "r18": false
     },
@@ -145,12 +151,6 @@
     {
       "id": 13534,
       "title": "Kuroneko Kareshi no Aishikata",
-      "score": 0.18,
-      "r18": false
-    },
-    {
-      "id": 15225,
-      "title": "Kuroneko Kareshi no Afurekata",
       "score": 0.18,
       "r18": false
     }

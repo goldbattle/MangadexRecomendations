@@ -1,8 +1,8 @@
 {
   "id": 54811,
   "title": "Siamese Cat Azuki Is the Center of the World",
-  "url": "https://mangadex.org/manga/54811",
-  "last_updated": "January 16, 2021 06:35:21 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54811",
+  "last_updated": "March 12, 2021 20:30:09 UTC",
   "matches": [
     {
       "id": 45456,
@@ -13,6 +13,18 @@
     {
       "id": 52607,
       "title": "The Life of a Grandpa Cat",
+      "score": 0.26,
+      "r18": false
+    },
+    {
+      "id": 59715,
+      "title": "Luoxiaohei",
+      "score": 0.26,
+      "r18": false
+    },
+    {
+      "id": 59738,
+      "title": "Today's Hamster",
       "score": 0.26,
       "r18": false
     },
@@ -139,18 +151,6 @@
     {
       "id": 33687,
       "title": "Peeps Preschool",
-      "score": 0.116,
-      "r18": false
-    },
-    {
-      "id": 46427,
-      "title": "Meow! Please Help, Manager!",
-      "score": 0.116,
-      "r18": false
-    },
-    {
-      "id": 47224,
-      "title": "Planet Nya Nya Nya~",
       "score": 0.116,
       "r18": false
     }

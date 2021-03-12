@@ -1,9 +1,15 @@
 {
   "id": 55561,
   "title": "2-Do to Me o Samasanai Tsumoridattanoni Umaku Ikazu Kekkyoku Ky\u014d Mo Shigoto ni Iku Shachiku",
-  "url": "https://mangadex.org/manga/55561",
-  "last_updated": "January 16, 2021 06:42:06 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55561",
+  "last_updated": "March 12, 2021 20:39:24 UTC",
   "matches": [
+    {
+      "id": 59095,
+      "title": "Tomurai no Tou",
+      "score": 0.272,
+      "r18": false
+    },
     {
       "id": 21001,
       "title": "Sugar Lump",
@@ -43,6 +49,12 @@
     {
       "id": 54013,
       "title": "Dream Maker Hatsune Miku",
+      "score": 0.227,
+      "r18": false
+    },
+    {
+      "id": 59255,
+      "title": "Hanataba Keikaku",
       "score": 0.227,
       "r18": false
     },
@@ -140,18 +152,6 @@
       "id": 47815,
       "title": "I'll Protect the 2nd ML's Love",
       "score": 0.105,
-      "r18": false
-    },
-    {
-      "id": 56019,
-      "title": "Lord Baby Runs a Romance Fantasy With Cash",
-      "score": 0.105,
-      "r18": false
-    },
-    {
-      "id": 47363,
-      "title": "The Precious Sister of the Villainous Grand Duke",
-      "score": 0.091,
       "r18": false
     }
   ]

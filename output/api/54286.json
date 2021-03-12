@@ -1,8 +1,8 @@
 {
   "id": 54286,
   "title": "P=NP?",
-  "url": "https://mangadex.org/manga/54286",
-  "last_updated": "January 16, 2021 06:30:34 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54286",
+  "last_updated": "March 12, 2021 20:23:45 UTC",
   "matches": [
     {
       "id": 4733,
@@ -25,12 +25,6 @@
     {
       "id": 18294,
       "title": "Black Yagi to Gekiyaku Madeleine",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 26219,
-      "title": "Friends",
       "score": 0.35,
       "r18": false
     },
@@ -115,6 +109,12 @@
     {
       "id": 56488,
       "title": "Natsu no Mayu",
+      "score": 0.28,
+      "r18": false
+    },
+    {
+      "id": 58547,
+      "title": "A Girl Who Wants To Get Close With the Girl She Likes",
       "score": 0.28,
       "r18": false
     },

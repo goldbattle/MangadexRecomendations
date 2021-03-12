@@ -1,8 +1,8 @@
 {
   "id": 55056,
   "title": "Yamada-san wa gyaru ni nari kirenai",
-  "url": "https://mangadex.org/manga/55056",
-  "last_updated": "January 16, 2021 06:37:32 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55056",
+  "last_updated": "March 12, 2021 20:33:07 UTC",
   "matches": [
     {
       "id": 20143,
@@ -25,6 +25,12 @@
     {
       "id": 34762,
       "title": "Onee Danshi, Hajimemasu",
+      "score": 0.265,
+      "r18": false
+    },
+    {
+      "id": 46209,
+      "title": "Chocomimi",
       "score": 0.265,
       "r18": false
     },

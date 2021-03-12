@@ -1,8 +1,8 @@
 {
   "id": 55520,
   "title": "I Was Forced to Fix a Bug in the Other World",
-  "url": "https://mangadex.org/manga/55520",
-  "last_updated": "January 16, 2021 06:41:44 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55520",
+  "last_updated": "March 12, 2021 20:38:53 UTC",
   "matches": [
     {
       "id": 49338,
@@ -31,7 +31,7 @@
     {
       "id": 40745,
       "title": "Flowers in the Secret Place",
-      "score": 0.696,
+      "score": 0.695,
       "r18": false
     },
     {
@@ -83,14 +83,14 @@
       "r18": false
     },
     {
-      "id": 46592,
-      "title": "Kill the Hero",
+      "id": 41850,
+      "title": "Ihoujin, Dungeon ni Moguru",
       "score": 0.689,
       "r18": false
     },
     {
-      "id": 41850,
-      "title": "Ihoujin, Dungeon ni Moguru",
+      "id": 46592,
+      "title": "Kill the Hero",
       "score": 0.689,
       "r18": false
     },
@@ -137,12 +137,6 @@
       "r18": false
     },
     {
-      "id": 13364,
-      "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Daiisshou - Outo no Ichinichi Hen",
-      "score": 0.682,
-      "r18": false
-    },
-    {
       "id": 36190,
       "title": "Everywhere &amp; Nowhere",
       "score": 0.682,
@@ -152,6 +146,12 @@
       "id": 58492,
       "title": "The Dark Empress",
       "score": 0.682,
+      "r18": false
+    },
+    {
+      "id": 47110,
+      "title": "Inherit The Sword Of Linglong",
+      "score": 0.681,
       "r18": false
     }
   ]

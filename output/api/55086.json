@@ -1,8 +1,8 @@
 {
   "id": 55086,
   "title": "Seocheon Flower Garden",
-  "url": "https://mangadex.org/manga/55086",
-  "last_updated": "January 16, 2021 06:37:49 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55086",
+  "last_updated": "March 12, 2021 20:33:29 UTC",
   "matches": [
     {
       "id": 22276,
@@ -61,6 +61,12 @@
     {
       "id": 54800,
       "title": "Upgrading the Frivolous Emperor",
+      "score": 0.3,
+      "r18": false
+    },
+    {
+      "id": 57344,
+      "title": "A Concubine's Daughter and Her Tactics",
       "score": 0.3,
       "r18": false
     },
@@ -146,12 +152,6 @@
       "id": 58143,
       "title": "The Provincial Commander's Self-Cultivation",
       "score": 0.294,
-      "r18": false
-    },
-    {
-      "id": 7483,
-      "title": "Salon H",
-      "score": 0.291,
       "r18": false
     }
   ]

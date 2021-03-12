@@ -1,8 +1,8 @@
 {
   "id": 55591,
   "title": "Kago no Uchi",
-  "url": "https://mangadex.org/manga/55591",
-  "last_updated": "January 16, 2021 06:42:22 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55591",
+  "last_updated": "March 12, 2021 20:39:46 UTC",
   "matches": [
     {
       "id": 9172,
@@ -19,19 +19,13 @@
     {
       "id": 11357,
       "title": "Escape",
-      "score": 0.475,
+      "score": 0.476,
       "r18": false
     },
     {
       "id": 26148,
       "title": "Matenrou Maybe?",
       "score": 0.472,
-      "r18": false
-    },
-    {
-      "id": 12264,
-      "title": "Affair",
-      "score": 0.458,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 24009,
       "title": "Arienai Futari",
       "score": 0.334,
+      "r18": false
+    },
+    {
+      "id": 22033,
+      "title": "Sakuhin Number 20",
+      "score": 0.322,
       "r18": false
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": 55507,
   "title": "The Boys of Summer",
-  "url": "https://mangadex.org/manga/55507",
-  "last_updated": "January 16, 2021 06:41:37 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55507",
+  "last_updated": "March 12, 2021 20:38:43 UTC",
   "matches": [
     {
       "id": 54011,
@@ -24,7 +24,7 @@
     },
     {
       "id": 56191,
-      "title": "Taming the Absolute Tyrant",
+      "title": "Taming the Ultimate Tyrant",
       "score": 0.34,
       "r18": false
     },
@@ -41,6 +41,12 @@
       "r18": false
     },
     {
+      "id": 58084,
+      "title": "A Kind Goblin's Bird",
+      "score": 0.332,
+      "r18": false
+    },
+    {
       "id": 54213,
       "title": "A Butterfly Metamorphoses Three Times",
       "score": 0.33,
@@ -49,7 +55,7 @@
     {
       "id": 51000,
       "title": "I Want to Do It, Even If It Hurts",
-      "score": 0.328,
+      "score": 0.327,
       "r18": false
     },
     {
@@ -91,7 +97,7 @@
     {
       "id": 29512,
       "title": "What's Wrong with Secretary Kim",
-      "score": 0.321,
+      "score": 0.32,
       "r18": false
     },
     {
@@ -133,13 +139,7 @@
     {
       "id": 51980,
       "title": "A Trace of You",
-      "score": 0.315,
-      "r18": false
-    },
-    {
-      "id": 52638,
-      "title": "My Beloved Ghost",
-      "score": 0.314,
+      "score": 0.316,
       "r18": false
     },
     {
@@ -149,9 +149,9 @@
       "r18": false
     },
     {
-      "id": 34407,
-      "title": "When Doctor Chu Wants Romance",
-      "score": 0.313,
+      "id": 52638,
+      "title": "My Beloved Ghost",
+      "score": 0.314,
       "r18": false
     }
   ]

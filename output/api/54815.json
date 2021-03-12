@@ -1,8 +1,8 @@
 {
   "id": 54815,
   "title": "Inochigake demo Tarinai nosa",
-  "url": "https://mangadex.org/manga/54815",
-  "last_updated": "January 16, 2021 06:35:23 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54815",
+  "last_updated": "March 12, 2021 20:30:12 UTC",
   "matches": [
     {
       "id": 1911,
@@ -35,18 +35,6 @@
       "r18": false
     },
     {
-      "id": 21283,
-      "title": "Persona 5",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 50672,
-      "title": "My Hero Academia - League Of Villains: Undercover (Fan Colored)",
-      "score": 0.678,
-      "r18": false
-    },
-    {
       "id": 1054,
       "title": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!",
       "score": 0.678,
@@ -62,12 +50,6 @@
       "id": 17660,
       "title": "After School Dice Club",
       "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 12714,
-      "title": "Boku no Hero Academia",
-      "score": 0.675,
       "r18": false
     },
     {
@@ -121,6 +103,12 @@
     {
       "id": 2221,
       "title": "Toraneko Folklore",
+      "score": 0.672,
+      "r18": false
+    },
+    {
+      "id": 278,
+      "title": "Toradora!",
       "score": 0.671,
       "r18": false
     },
@@ -143,14 +131,26 @@
       "r18": false
     },
     {
-      "id": 278,
-      "title": "Toradora!",
-      "score": 0.67,
+      "id": 331,
+      "title": "Kamichu!",
+      "score": 0.669,
       "r18": false
     },
     {
-      "id": 331,
-      "title": "Kamichu!",
+      "id": 22030,
+      "title": "Araburu Kisetsu no Otomedomo yo.",
+      "score": 0.669,
+      "r18": false
+    },
+    {
+      "id": 50672,
+      "title": "My Hero Academia - League Of Villains: Undercover (Fan Colored)",
+      "score": 0.669,
+      "r18": false
+    },
+    {
+      "id": 1763,
+      "title": "Go Da Gun",
       "score": 0.669,
       "r18": false
     }

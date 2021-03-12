@@ -1,8 +1,8 @@
 {
   "id": 54284,
   "title": "Momoiro Toiki.",
-  "url": "https://mangadex.org/manga/54284",
-  "last_updated": "January 16, 2021 06:30:33 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54284",
+  "last_updated": "March 12, 2021 20:23:43 UTC",
   "matches": [
     {
       "id": 46064,
@@ -38,6 +38,12 @@
       "id": 48830,
       "title": "Little Birds of Paradise",
       "score": 0.233,
+      "r18": false
+    },
+    {
+      "id": 6162,
+      "title": "Moyashi Otoko to Tane Shoujo",
+      "score": 0.175,
       "r18": false
     },
     {

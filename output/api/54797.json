@@ -1,8 +1,8 @@
 {
   "id": 54797,
   "title": "Aimai ni Koikogare",
-  "url": "https://mangadex.org/manga/54797",
-  "last_updated": "January 16, 2021 06:35:13 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54797",
+  "last_updated": "March 12, 2021 20:29:59 UTC",
   "matches": [
     {
       "id": 3260,
@@ -31,12 +31,6 @@
     {
       "id": 5947,
       "title": "Seisei Suruhodo, Aishiteru",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 11508,
-      "title": "Majo no Biyaku",
       "score": 0.34,
       "r18": false
     },
@@ -107,20 +101,8 @@
       "r18": false
     },
     {
-      "id": 57428,
-      "title": "Mimi kara Kanjite&hellip;",
-      "score": 0.34,
-      "r18": false
-    },
-    {
       "id": 58572,
       "title": "Bijin na Jun-kun no Dekiai Shidou",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 58688,
-      "title": "Noraneko Wa Ai Ni Oboreru",
       "score": 0.34,
       "r18": false
     },
@@ -131,8 +113,26 @@
       "r18": false
     },
     {
+      "id": 58993,
+      "title": "Dinner no Ato ha Otona no Jikan",
+      "score": 0.34,
+      "r18": false
+    },
+    {
+      "id": 612,
+      "title": "Delivery",
+      "score": 0.255,
+      "r18": false
+    },
+    {
       "id": 2246,
       "title": "Gold",
+      "score": 0.255,
+      "r18": false
+    },
+    {
+      "id": 3275,
+      "title": "Kindan no Koi de Ikou",
       "score": 0.255,
       "r18": false
     },
@@ -143,14 +143,14 @@
       "r18": false
     },
     {
-      "id": 3781,
-      "title": "Zoku - Kindan no Koi wo Shiyou",
+      "id": 4234,
+      "title": "Koisuru Heart de Taihoshite",
       "score": 0.255,
       "r18": false
     },
     {
-      "id": 4234,
-      "title": "Koisuru Heart de Taihoshite",
+      "id": 5335,
+      "title": "Anata no Mune ni Kaeru Hi made",
       "score": 0.255,
       "r18": false
     }

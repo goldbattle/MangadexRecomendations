@@ -1,25 +1,13 @@
 {
   "id": 54690,
   "title": "Shinryu Idea",
-  "url": "https://mangadex.org/manga/54690",
-  "last_updated": "January 16, 2021 06:34:16 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54690",
+  "last_updated": "March 12, 2021 20:28:42 UTC",
   "matches": [
     {
       "id": 8495,
       "title": "Persona 3",
       "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 3388,
-      "title": "Fate/Zero",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 14441,
-      "title": "Fate/strange Fake",
-      "score": 0.659,
       "r18": false
     },
     {
@@ -65,12 +53,6 @@
       "r18": false
     },
     {
-      "id": 1604,
-      "title": "ChunChu",
-      "score": 0.468,
-      "r18": false
-    },
-    {
       "id": 8347,
       "title": "Tales of Xillia 2",
       "score": 0.467,
@@ -79,13 +61,13 @@
     {
       "id": 23832,
       "title": "Suichuu Kishi",
-      "score": 0.465,
+      "score": 0.464,
       "r18": false
     },
     {
       "id": 22150,
       "title": "BASCULER",
-      "score": 0.451,
+      "score": 0.45,
       "r18": false
     },
     {
@@ -97,13 +79,25 @@
     {
       "id": 8111,
       "title": "Magic: The Gathering - Moe Tsukinu Honoo",
-      "score": 0.399,
+      "score": 0.398,
       "r18": false
     },
     {
       "id": 396,
       "title": "Mahou Shoujo Oriko\u2605Magica",
       "score": 0.392,
+      "r18": false
+    },
+    {
+      "id": 44886,
+      "title": "Fushi no Sougishi",
+      "score": 0.388,
+      "r18": false
+    },
+    {
+      "id": 1604,
+      "title": "ChunChu",
+      "score": 0.383,
       "r18": false
     },
     {
@@ -115,7 +109,7 @@
     {
       "id": 34005,
       "title": "Kemurikusa Wakaba Memo",
-      "score": 0.379,
+      "score": 0.378,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 5297,
       "title": "Onikiri Juuzou",
       "score": 0.358,
+      "r18": false
+    },
+    {
+      "id": 6651,
+      "title": "Oninagi",
+      "score": 0.357,
       "r18": false
     }
   ]

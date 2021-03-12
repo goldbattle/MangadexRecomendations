@@ -1,8 +1,8 @@
 {
   "id": 55707,
   "title": "If AI Rules the World",
-  "url": "https://mangadex.org/manga/55707",
-  "last_updated": "January 16, 2021 06:43:25 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55707",
+  "last_updated": "March 12, 2021 20:41:12 UTC",
   "matches": [
     {
       "id": 50343,
@@ -53,12 +53,6 @@
       "r18": false
     },
     {
-      "id": 59236,
-      "title": "Convention",
-      "score": 0.323,
-      "r18": false
-    },
-    {
       "id": 53384,
       "title": "Puristic",
       "score": 0.323,
@@ -71,6 +65,12 @@
       "r18": false
     },
     {
+      "id": 59844,
+      "title": "The Sword Of Dawn",
+      "score": 0.321,
+      "r18": false
+    },
+    {
       "id": 47259,
       "title": "The BLACK LABEL",
       "score": 0.32,
@@ -79,7 +79,7 @@
     {
       "id": 58260,
       "title": "Sorry I Couldn't Protect You!",
-      "score": 0.32,
+      "score": 0.319,
       "r18": false
     },
     {
@@ -89,14 +89,14 @@
       "r18": false
     },
     {
-      "id": 56355,
-      "title": "Algoitjiman",
+      "id": 42358,
+      "title": "Sealed Lips",
       "score": 0.318,
       "r18": false
     },
     {
-      "id": 42358,
-      "title": "Sealed Lips",
+      "id": 56355,
+      "title": "Algoitjiman",
       "score": 0.318,
       "r18": false
     },
@@ -115,6 +115,12 @@
     {
       "id": 58298,
       "title": "Judge Lee Han Young",
+      "score": 0.316,
+      "r18": false
+    },
+    {
+      "id": 58616,
+      "title": "Midnight Blue",
       "score": 0.316,
       "r18": false
     },
@@ -146,12 +152,6 @@
       "id": 27886,
       "title": "Star Wars",
       "score": 0.312,
-      "r18": false
-    },
-    {
-      "id": 51121,
-      "title": "Genius Monster of the Century",
-      "score": 0.311,
       "r18": false
     }
   ]

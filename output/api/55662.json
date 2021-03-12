@@ -1,8 +1,8 @@
 {
   "id": 55662,
   "title": "Night Town",
-  "url": "https://mangadex.org/manga/55662",
-  "last_updated": "January 16, 2021 06:43:01 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55662",
+  "last_updated": "March 12, 2021 20:40:39 UTC",
   "matches": [
     {
       "id": 14522,
@@ -78,7 +78,13 @@
     },
     {
       "id": 58407,
-      "title": "Matchmaking of the Amagami Household",
+      "title": "Matchmaking of the Amagami Household (Oneshot)",
+      "score": 0.227,
+      "r18": false
+    },
+    {
+      "id": 59945,
+      "title": "This person will be my Tutor ??!",
       "score": 0.227,
       "r18": false
     },
@@ -145,12 +151,6 @@
     {
       "id": 19421,
       "title": "Hoshi ni Negai wo",
-      "score": 0.17,
-      "r18": false
-    },
-    {
-      "id": 22120,
-      "title": "Natsu no Rakugaki",
       "score": 0.17,
       "r18": false
     }

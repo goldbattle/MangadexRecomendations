@@ -1,9 +1,15 @@
 {
   "id": 55713,
   "title": "How a Good Boss Comforts His Staff",
-  "url": "https://mangadex.org/manga/55713",
-  "last_updated": "January 16, 2021 06:43:28 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55713",
+  "last_updated": "March 12, 2021 20:41:16 UTC",
   "matches": [
+    {
+      "id": 17135,
+      "title": "Eigyou Nika!",
+      "score": 0.71,
+      "r18": false
+    },
     {
       "id": 49667,
       "title": "Kore de Saigo no Koi ni Shitai",
@@ -26,6 +32,12 @@
       "id": 52648,
       "title": "Chasing Mr. CEO",
       "score": 0.693,
+      "r18": false
+    },
+    {
+      "id": 1464,
+      "title": "Sangen Tonari no Tooi Hito",
+      "score": 0.691,
       "r18": false
     },
     {
@@ -131,27 +143,15 @@
       "r18": false
     },
     {
-      "id": 40564,
-      "title": "No Love Zone",
+      "id": 59484,
+      "title": "Nee, Onnanoko ni Shite Ageru",
       "score": 0.65,
       "r18": false
     },
     {
-      "id": 21246,
-      "title": "Kurui Naku no wa Boku no Ban",
-      "score": 0.391,
-      "r18": false
-    },
-    {
-      "id": 50084,
-      "title": "1.5 Meters From Love",
-      "score": 0.39,
-      "r18": false
-    },
-    {
-      "id": 43486,
-      "title": "40 x 40 Chikuwa Kaigi",
-      "score": 0.347,
+      "id": 40564,
+      "title": "No Love Zone",
+      "score": 0.65,
       "r18": false
     }
   ]

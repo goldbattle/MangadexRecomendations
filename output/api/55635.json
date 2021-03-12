@@ -1,13 +1,19 @@
 {
   "id": 55635,
   "title": "A manga where they can get closer with every reply",
-  "url": "https://mangadex.org/manga/55635",
-  "last_updated": "January 16, 2021 06:42:46 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55635",
+  "last_updated": "March 12, 2021 20:40:18 UTC",
   "matches": [
     {
       "id": 48141,
       "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
       "score": 0.662,
+      "r18": false
+    },
+    {
+      "id": 58407,
+      "title": "Matchmaking of the Amagami Household (Oneshot)",
+      "score": 0.66,
       "r18": false
     },
     {
@@ -85,7 +91,7 @@
     {
       "id": 21407,
       "title": "Rabu Rabu Butabara",
-      "score": 0.371,
+      "score": 0.37,
       "r18": false
     },
     {
@@ -139,12 +145,6 @@
     {
       "id": 5881,
       "title": "For Someone",
-      "score": 0.359,
-      "r18": false
-    },
-    {
-      "id": 47797,
-      "title": "First Breakfast",
       "score": 0.359,
       "r18": false
     },

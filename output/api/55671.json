@@ -1,13 +1,19 @@
 {
   "id": 55671,
   "title": "Bar Mao no Oshinagaki",
-  "url": "https://mangadex.org/manga/55671",
-  "last_updated": "January 16, 2021 06:43:05 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55671",
+  "last_updated": "March 12, 2021 20:40:45 UTC",
   "matches": [
     {
       "id": 35651,
       "title": "Itoshi no Momonga Kareshi",
       "score": 0.38,
+      "r18": false
+    },
+    {
+      "id": 59860,
+      "title": "Konna Tsuki no Yoru ni wa",
+      "score": 0.378,
       "r18": false
     },
     {
@@ -49,7 +55,7 @@
     {
       "id": 33269,
       "title": "Cat in a Cardboard Box",
-      "score": 0.263,
+      "score": 0.262,
       "r18": false
     },
     {
@@ -73,7 +79,7 @@
     {
       "id": 40002,
       "title": "Sit, Wait, Kiss Me",
-      "score": 0.228,
+      "score": 0.227,
       "r18": false
     },
     {

@@ -1,8 +1,8 @@
 {
   "id": 54586,
   "title": "Powerless",
-  "url": "https://mangadex.org/manga/54586",
-  "last_updated": "January 16, 2021 06:33:19 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54586",
+  "last_updated": "March 12, 2021 20:27:26 UTC",
   "matches": [
     {
       "id": 17961,
@@ -14,6 +14,12 @@
       "id": 17960,
       "title": "Tenshi no Su",
       "score": 0.7,
+      "r18": false
+    },
+    {
+      "id": 59440,
+      "title": "The Flower Dances and the Wind Sings",
+      "score": 0.699,
       "r18": false
     },
     {
@@ -38,12 +44,6 @@
       "id": 55338,
       "title": "Chijou no Seppun",
       "score": 0.693,
-      "r18": false
-    },
-    {
-      "id": 54218,
-      "title": "The Lady and the Beast",
-      "score": 0.692,
       "r18": false
     },
     {
@@ -73,6 +73,12 @@
     {
       "id": 51257,
       "title": "I Stole the Male Lead's First Night",
+      "score": 0.687,
+      "r18": false
+    },
+    {
+      "id": 46731,
+      "title": "Wolf Crying Pharmacy",
       "score": 0.686,
       "r18": false
     },
@@ -98,12 +104,6 @@
       "id": 17384,
       "title": "Holiday Love - Fuufukan Renai",
       "score": 0.683,
-      "r18": false
-    },
-    {
-      "id": 58041,
-      "title": "Aideen",
-      "score": 0.682,
       "r18": false
     },
     {
@@ -137,15 +137,15 @@
       "r18": false
     },
     {
-      "id": 44472,
-      "title": "Bring the Love",
-      "score": 0.679,
+      "id": 58041,
+      "title": "Aideen",
+      "score": 0.681,
       "r18": false
     },
     {
-      "id": 2237,
-      "title": "Dream Eater",
-      "score": 0.678,
+      "id": 44472,
+      "title": "Bring the Love",
+      "score": 0.679,
       "r18": false
     },
     {

@@ -1,8 +1,8 @@
 {
   "id": 54441,
   "title": "Sun and Moon Undecimber",
-  "url": "https://mangadex.org/manga/54441",
-  "last_updated": "January 16, 2021 06:31:59 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54441",
+  "last_updated": "March 12, 2021 20:25:39 UTC",
   "matches": [
     {
       "id": 23231,
@@ -13,13 +13,13 @@
     {
       "id": 2340,
       "title": "Fate/stay night",
-      "score": 0.709,
+      "score": 0.708,
       "r18": false
     },
     {
       "id": 38543,
       "title": "Fights Break Sphere &ndash; Return of the Beasts",
-      "score": 0.707,
+      "score": 0.706,
       "r18": false
     },
     {
@@ -65,14 +65,14 @@
       "r18": false
     },
     {
-      "id": 22236,
-      "title": "Rurouni Kenshin: Hokkaido-hen",
-      "score": 0.699,
+      "id": 56522,
+      "title": "Rurouni Kenshin - Digital Colored Comics",
+      "score": 0.7,
       "r18": false
     },
     {
-      "id": 50672,
-      "title": "My Hero Academia - League Of Villains: Undercover (Fan Colored)",
+      "id": 22236,
+      "title": "Rurouni Kenshin: Hokkaido-hen",
       "score": 0.699,
       "r18": false
     },
@@ -107,24 +107,6 @@
       "r18": false
     },
     {
-      "id": 303,
-      "title": "Claymore",
-      "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 56522,
-      "title": "Rurouni Kenshin - Digital Colored Comics",
-      "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 9558,
-      "title": "Arslan Senki",
-      "score": 0.696,
-      "r18": false
-    },
-    {
       "id": 5948,
       "title": "Star Ocean - Blue Sphere",
       "score": 0.695,
@@ -152,6 +134,24 @@
       "id": 19671,
       "title": "Sword Art Online - Project Alicization",
       "score": 0.693,
+      "r18": false
+    },
+    {
+      "id": 11841,
+      "title": "Saint Seiya - Episode G Assassin",
+      "score": 0.692,
+      "r18": false
+    },
+    {
+      "id": 27256,
+      "title": "Holders",
+      "score": 0.692,
+      "r18": false
+    },
+    {
+      "id": 6535,
+      "title": "Radiata Stories - The Epic of Jack",
+      "score": 0.692,
       "r18": false
     }
   ]

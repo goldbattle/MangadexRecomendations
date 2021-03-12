@@ -1,19 +1,25 @@
 {
   "id": 54183,
   "title": "Sinful Duty",
-  "url": "https://mangadex.org/manga/54183",
-  "last_updated": "January 16, 2021 06:29:36 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54183",
+  "last_updated": "March 12, 2021 20:22:25 UTC",
   "matches": [
     {
       "id": 16076,
       "title": "What Does the Fox Say?",
-      "score": 0.307,
+      "score": 0.69,
       "r18": false
     },
     {
       "id": 30379,
       "title": "Two Lives in the Same House",
-      "score": 0.285,
+      "score": 0.382,
+      "r18": false
+    },
+    {
+      "id": 32033,
+      "title": "Us Right Now",
+      "score": 0.341,
       "r18": false
     }
   ]

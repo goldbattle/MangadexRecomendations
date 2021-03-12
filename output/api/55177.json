@@ -1,8 +1,8 @@
 {
   "id": 55177,
   "title": "It&rsquo;s All Black Silk",
-  "url": "https://mangadex.org/manga/55177",
-  "last_updated": "January 16, 2021 06:38:38 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55177",
+  "last_updated": "March 12, 2021 20:34:35 UTC",
   "matches": [
     {
       "id": 1021,
@@ -26,6 +26,12 @@
       "id": 23231,
       "title": "Wu Dong Qian Kun",
       "score": 0.706,
+      "r18": false
+    },
+    {
+      "id": 59476,
+      "title": "The Tyrant&rsquo;s Guardian Is an Evil Witch",
+      "score": 0.705,
       "r18": false
     },
     {
@@ -83,12 +89,6 @@
       "r18": false
     },
     {
-      "id": 54218,
-      "title": "The Lady and the Beast",
-      "score": 0.697,
-      "r18": false
-    },
-    {
       "id": 59364,
       "title": "Hydrangea Melancholy",
       "score": 0.696,
@@ -115,7 +115,7 @@
     {
       "id": 51938,
       "title": "The Young Lady I Served Became a Young Master",
-      "score": 0.695,
+      "score": 0.694,
       "r18": false
     },
     {

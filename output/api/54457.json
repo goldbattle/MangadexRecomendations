@@ -1,8 +1,8 @@
 {
   "id": 54457,
   "title": "Youth Market",
-  "url": "https://mangadex.org/manga/54457",
-  "last_updated": "January 16, 2021 06:32:08 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54457",
+  "last_updated": "March 12, 2021 20:25:51 UTC",
   "matches": [
     {
       "id": 43031,
@@ -31,12 +31,12 @@
     {
       "id": 20943,
       "title": "All That You Are",
-      "score": 0.349,
+      "score": 0.35,
       "r18": false
     },
     {
       "id": 55352,
-      "title": "Invasion Of The Immortal Emperor",
+      "title": "Invasion of the Immortal Emperor",
       "score": 0.347,
       "r18": false
     },
@@ -83,18 +83,6 @@
       "r18": false
     },
     {
-      "id": 59236,
-      "title": "Convention",
-      "score": 0.335,
-      "r18": false
-    },
-    {
-      "id": 50131,
-      "title": "Nam Goong Sae Ga Prince",
-      "score": 0.334,
-      "r18": false
-    },
-    {
       "id": 20846,
       "title": "Fools",
       "score": 0.334,
@@ -121,7 +109,7 @@
     {
       "id": 52792,
       "title": "Dragon Squad Of The War God",
-      "score": 0.331,
+      "score": 0.33,
       "r18": false
     },
     {
@@ -152,6 +140,18 @@
       "id": 44864,
       "title": "Fatal Code",
       "score": 0.329,
+      "r18": false
+    },
+    {
+      "id": 33983,
+      "title": "Vending Machine",
+      "score": 0.329,
+      "r18": false
+    },
+    {
+      "id": 51121,
+      "title": "Genius Monster of the Century",
+      "score": 0.328,
       "r18": false
     }
   ]

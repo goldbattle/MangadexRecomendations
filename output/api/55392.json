@@ -1,9 +1,15 @@
 {
   "id": 55392,
   "title": "Bunkiten",
-  "url": "https://mangadex.org/manga/55392",
-  "last_updated": "January 16, 2021 06:40:34 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55392",
+  "last_updated": "March 12, 2021 20:37:14 UTC",
   "matches": [
+    {
+      "id": 55481,
+      "title": "A Sword Master Childhood Friend Power Harassed Me Harshly, so I Broke off Our Relationship and Made a Fresh Start at the Frontier as a Magic Swordsman",
+      "score": 0.748,
+      "r18": false
+    },
     {
       "id": 32081,
       "title": "Bokutachi no Remake",
@@ -31,12 +37,6 @@
     {
       "id": 23231,
       "title": "Wu Dong Qian Kun",
-      "score": 0.729,
-      "r18": false
-    },
-    {
-      "id": 1021,
-      "title": "Girls of the Wild's",
       "score": 0.728,
       "r18": false
     },
@@ -47,20 +47,32 @@
       "r18": false
     },
     {
+      "id": 1021,
+      "title": "Girls of the Wild's",
+      "score": 0.728,
+      "r18": false
+    },
+    {
       "id": 4437,
       "title": "Golden Time",
       "score": 0.727,
       "r18": false
     },
     {
-      "id": 278,
-      "title": "Toradora!",
-      "score": 0.722,
+      "id": 7232,
+      "title": "Cat's Eye",
+      "score": 0.725,
       "r18": false
     },
     {
       "id": 24123,
       "title": "Shinka no Mi",
+      "score": 0.721,
+      "r18": false
+    },
+    {
+      "id": 278,
+      "title": "Toradora!",
       "score": 0.721,
       "r18": false
     },
@@ -77,26 +89,20 @@
       "r18": false
     },
     {
-      "id": 55576,
-      "title": "Ikemen ni Tensei Shita kedo Cheat wa Dekimasen Deshita",
-      "score": 0.716,
-      "r18": false
-    },
-    {
       "id": 446,
       "title": "Ushiro no Shindere-san",
       "score": 0.716,
       "r18": false
     },
     {
-      "id": 3091,
-      "title": "Suzumiya Haruhi no Yuuutsu",
-      "score": 0.714,
+      "id": 10509,
+      "title": "Imasugu Onii-chan ni Imouto da tte Iitai!",
+      "score": 0.715,
       "r18": false
     },
     {
-      "id": 10509,
-      "title": "Imasugu Onii-chan ni Imouto da tte Iitai!",
+      "id": 3091,
+      "title": "Suzumiya Haruhi no Yuuutsu",
       "score": 0.714,
       "r18": false
     },
@@ -109,7 +115,7 @@
     {
       "id": 1937,
       "title": "Tsukimi no Soba",
-      "score": 0.713,
+      "score": 0.712,
       "r18": false
     },
     {
@@ -127,7 +133,7 @@
     {
       "id": 2869,
       "title": "School Rumble",
-      "score": 0.711,
+      "score": 0.71,
       "r18": false
     },
     {
@@ -145,12 +151,6 @@
     {
       "id": 5721,
       "title": "Isekai no Seikishi Monogatari",
-      "score": 0.708,
-      "r18": false
-    },
-    {
-      "id": 20288,
-      "title": "World Teacher &ndash; Other World Style Education &amp; Agent",
       "score": 0.708,
       "r18": false
     }

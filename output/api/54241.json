@@ -1,8 +1,8 @@
 {
   "id": 54241,
   "title": "Maison de Pilote",
-  "url": "https://mangadex.org/manga/54241",
-  "last_updated": "January 16, 2021 06:30:09 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54241",
+  "last_updated": "March 12, 2021 20:23:11 UTC",
   "matches": [
     {
       "id": 31551,
@@ -25,7 +25,7 @@
     {
       "id": 32081,
       "title": "Bokutachi no Remake",
-      "score": 0.659,
+      "score": 0.66,
       "r18": false
     },
     {
@@ -73,7 +73,7 @@
     {
       "id": 5674,
       "title": "Ichigeki Sacchu!! Hoihoi-san",
-      "score": 0.404,
+      "score": 0.403,
       "r18": false
     },
     {
@@ -92,6 +92,12 @@
       "id": 41611,
       "title": "hello (rom-com) world",
       "score": 0.352,
+      "r18": false
+    },
+    {
+      "id": 34752,
+      "title": "Robot Izonkei Joshi no Meiwaku na Nichijou",
+      "score": 0.34,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 9409,
       "title": "Hitoribocchi no Chikyuu Shinryaku",
       "score": 0.257,
-      "r18": false
-    },
-    {
-      "id": 56193,
-      "title": "Ginga wa Kanojo Hodo ni",
-      "score": 0.23,
       "r18": false
     }
   ]

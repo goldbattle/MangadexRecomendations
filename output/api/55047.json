@@ -1,13 +1,19 @@
 {
   "id": 55047,
   "title": "Yoake ni yamadori",
-  "url": "https://mangadex.org/manga/55047",
-  "last_updated": "January 16, 2021 06:37:28 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55047",
+  "last_updated": "March 12, 2021 20:33:00 UTC",
   "matches": [
     {
       "id": 55120,
       "title": "Usagi to Ookami no Shinshikyoutei",
       "score": 0.735,
+      "r18": false
+    },
+    {
+      "id": 17003,
+      "title": "Canis",
+      "score": 0.718,
       "r18": false
     },
     {
@@ -36,7 +42,7 @@
     },
     {
       "id": 59136,
-      "title": "Stockholm syndrome",
+      "title": "Stockholm Syndrome",
       "score": 0.696,
       "r18": false
     },
@@ -55,7 +61,7 @@
     {
       "id": 41266,
       "title": "JoJo's Bizarre Adventure - Egao ga Tsukuru Chi wa Kirei (Doujinshi)",
-      "score": 0.686,
+      "score": 0.687,
       "r18": false
     },
     {
@@ -140,12 +146,6 @@
       "id": 53893,
       "title": "Mayday, Mayday, Mayday!",
       "score": 0.212,
-      "r18": false
-    },
-    {
-      "id": 17003,
-      "title": "Canis",
-      "score": 0.204,
       "r18": false
     },
     {

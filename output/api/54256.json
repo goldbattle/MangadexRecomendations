@@ -1,8 +1,8 @@
 {
   "id": 54256,
   "title": "Black Diamond",
-  "url": "https://mangadex.org/manga/54256",
-  "last_updated": "January 16, 2021 06:30:17 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54256",
+  "last_updated": "March 12, 2021 20:23:21 UTC",
   "matches": [
     {
       "id": 4810,
@@ -47,6 +47,12 @@
       "r18": false
     },
     {
+      "id": 31471,
+      "title": "Show ga Hanetara Aimashou",
+      "score": 0.742,
+      "r18": false
+    },
+    {
       "id": 53839,
       "title": "Shihaisuru Yubisaki",
       "score": 0.742,
@@ -55,7 +61,7 @@
     {
       "id": 37280,
       "title": "Kimi no Ai wa Mienikui",
-      "score": 0.741,
+      "score": 0.74,
       "r18": false
     },
     {
@@ -137,20 +143,14 @@
       "r18": false
     },
     {
+      "id": 16544,
+      "title": "ULTRAS",
+      "score": 0.729,
+      "r18": false
+    },
+    {
       "id": 53198,
       "title": "Kimi ga Kono Te o Hanareru nara",
-      "score": 0.728,
-      "r18": false
-    },
-    {
-      "id": 31471,
-      "title": "Show ga Hanetara Aimashou",
-      "score": 0.728,
-      "r18": false
-    },
-    {
-      "id": 10923,
-      "title": "Kooporasu e Youkoso",
       "score": 0.728,
       "r18": false
     }

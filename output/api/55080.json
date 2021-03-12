@@ -1,8 +1,8 @@
 {
   "id": 55080,
   "title": "Afterwords",
-  "url": "https://mangadex.org/manga/55080",
-  "last_updated": "January 16, 2021 06:37:46 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55080",
+  "last_updated": "March 12, 2021 20:33:24 UTC",
   "matches": [
     {
       "id": 53899,
@@ -59,6 +59,12 @@
       "r18": false
     },
     {
+      "id": 59638,
+      "title": "The End Of A Relationship",
+      "score": 0.3,
+      "r18": false
+    },
+    {
       "id": 52308,
       "title": "Murderer Lewellyn's Enchanting Dinner Invitation",
       "score": 0.299,
@@ -101,6 +107,12 @@
       "r18": false
     },
     {
+      "id": 52595,
+      "title": "Bound by One&rsquo;s Heart",
+      "score": 0.293,
+      "r18": false
+    },
+    {
       "id": 36282,
       "title": "Criminal Interview",
       "score": 0.292,
@@ -109,12 +121,6 @@
     {
       "id": 55036,
       "title": "Girl On Trial",
-      "score": 0.291,
-      "r18": false
-    },
-    {
-      "id": 52595,
-      "title": "Bound by One&rsquo;s Heart",
       "score": 0.291,
       "r18": false
     },
@@ -131,6 +137,12 @@
       "r18": false
     },
     {
+      "id": 43801,
+      "title": "Hell is Other People",
+      "score": 0.286,
+      "r18": false
+    },
+    {
       "id": 47171,
       "title": "Always Be Your Guardian Angel",
       "score": 0.286,
@@ -140,18 +152,6 @@
       "id": 12050,
       "title": "0.0 Mhz",
       "score": 0.285,
-      "r18": false
-    },
-    {
-      "id": 52666,
-      "title": "Planetary Human",
-      "score": 0.285,
-      "r18": false
-    },
-    {
-      "id": 43801,
-      "title": "Strangers from Hell",
-      "score": 0.284,
       "r18": false
     }
   ]

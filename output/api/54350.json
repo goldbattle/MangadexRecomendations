@@ -1,15 +1,9 @@
 {
   "id": 54350,
   "title": "Strip",
-  "url": "https://mangadex.org/manga/54350",
-  "last_updated": "January 16, 2021 06:31:09 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54350",
+  "last_updated": "March 12, 2021 20:24:31 UTC",
   "matches": [
-    {
-      "id": 12193,
-      "title": "Free! - Happy Day? (Doujinshi)",
-      "score": 0.353,
-      "r18": false
-    },
     {
       "id": 12362,
       "title": "Free! - Nigatsu no Nettaigyo (Doujinshi)",
@@ -151,6 +145,12 @@
     {
       "id": 37275,
       "title": "Takaramono wa Hako no Naka - Pigeon Blood (Doujinshi)",
+      "score": 0.353,
+      "r18": false
+    },
+    {
+      "id": 37277,
+      "title": "Takaramono wa Hako no Naka - Takaramono wa Anata Dake (Doujinshi)",
       "score": 0.353,
       "r18": false
     }

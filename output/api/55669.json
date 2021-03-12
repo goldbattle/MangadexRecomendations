@@ -1,9 +1,27 @@
 {
   "id": 55669,
   "title": "In That Relationship",
-  "url": "https://mangadex.org/manga/55669",
-  "last_updated": "January 16, 2021 06:43:04 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55669",
+  "last_updated": "March 12, 2021 20:40:44 UTC",
   "matches": [
+    {
+      "id": 33390,
+      "title": "Studying Emperor",
+      "score": 0.764,
+      "r18": false
+    },
+    {
+      "id": 18685,
+      "title": "Lovely Bokhee-ssi",
+      "score": 0.706,
+      "r18": false
+    },
+    {
+      "id": 22147,
+      "title": "Golden Waltz",
+      "score": 0.706,
+      "r18": false
+    },
     {
       "id": 15694,
       "title": "Yungsu's Spring",
@@ -19,7 +37,7 @@
     {
       "id": 349,
       "title": "Goong",
-      "score": 0.673,
+      "score": 0.674,
       "r18": false
     },
     {
@@ -35,21 +53,15 @@
       "r18": false
     },
     {
-      "id": 18685,
-      "title": "Lovely Bokhee-ssi",
-      "score": 0.665,
-      "r18": false
-    },
-    {
       "id": 15294,
       "title": "Kimi wa Nani mo Shiranai",
-      "score": 0.663,
+      "score": 0.664,
       "r18": false
     },
     {
       "id": 12998,
       "title": "Fushigi na Hito",
-      "score": 0.662,
+      "score": 0.663,
       "r18": false
     },
     {
@@ -67,7 +79,7 @@
     {
       "id": 3352,
       "title": "Kimi ga Suki",
-      "score": 0.66,
+      "score": 0.661,
       "r18": false
     },
     {
@@ -85,25 +97,25 @@
     {
       "id": 6082,
       "title": "Yume Miru Happa",
+      "score": 0.657,
+      "r18": false
+    },
+    {
+      "id": 54474,
+      "title": "The Princess in the Dumpster",
       "score": 0.656,
       "r18": false
     },
     {
       "id": 3453,
       "title": "Hizamazuite Ai wo Chikae",
-      "score": 0.654,
+      "score": 0.655,
       "r18": false
     },
     {
       "id": 2748,
       "title": "Bodyguard",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 44796,
-      "title": "The Kids Have Changed",
-      "score": 0.653,
+      "score": 0.655,
       "r18": false
     },
     {
@@ -119,9 +131,15 @@
       "r18": false
     },
     {
+      "id": 44796,
+      "title": "The Kids Have Changed",
+      "score": 0.653,
+      "r18": false
+    },
+    {
       "id": 6473,
       "title": "Mimi wo Sumaseba - Shiawase na Jikan",
-      "score": 0.652,
+      "score": 0.653,
       "r18": false
     },
     {
@@ -134,24 +152,6 @@
       "id": 23013,
       "title": "The Vengeful White Cat Lounging on the Dragon King's Lap",
       "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 10418,
-      "title": "Sonna no Koi ja Nai",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 3396,
-      "title": "Bye-Bye, Little",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 5567,
-      "title": "Guuzen ka Unmei ka",
-      "score": 0.651,
       "r18": false
     }
   ]

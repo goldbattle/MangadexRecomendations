@@ -1,8 +1,8 @@
 {
   "id": 55541,
   "title": "Hoshi to Tabisuru",
-  "url": "https://mangadex.org/manga/55541",
-  "last_updated": "January 16, 2021 06:41:56 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55541",
+  "last_updated": "March 12, 2021 20:39:09 UTC",
   "matches": [
     {
       "id": 5566,
@@ -68,6 +68,12 @@
       "id": 44572,
       "title": "Mermaid's Voice",
       "score": 0.194,
+      "r18": false
+    },
+    {
+      "id": 7816,
+      "title": "Folk Tail Tonakai",
+      "score": 0.136,
       "r18": false
     },
     {

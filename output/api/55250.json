@@ -1,8 +1,8 @@
 {
   "id": 55250,
   "title": "Kannou Kissaten",
-  "url": "https://mangadex.org/manga/55250",
-  "last_updated": "January 16, 2021 06:39:17 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55250",
+  "last_updated": "March 12, 2021 20:35:27 UTC",
   "matches": [
     {
       "id": 37280,
@@ -44,6 +44,12 @@
       "id": 27658,
       "title": "Takaramono",
       "score": 0.774,
+      "r18": false
+    },
+    {
+      "id": 16544,
+      "title": "ULTRAS",
+      "score": 0.772,
       "r18": false
     },
     {
@@ -97,19 +103,13 @@
     {
       "id": 58065,
       "title": "Honey Baby",
-      "score": 0.766,
+      "score": 0.767,
       "r18": false
     },
     {
       "id": 27535,
       "title": "2-dome no Koi no Hajimari wa",
       "score": 0.766,
-      "r18": false
-    },
-    {
-      "id": 16544,
-      "title": "ULTRAS",
-      "score": 0.765,
       "r18": false
     },
     {

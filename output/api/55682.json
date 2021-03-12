@@ -1,8 +1,8 @@
 {
   "id": 55682,
   "title": "Crowd",
-  "url": "https://mangadex.org/manga/55682",
-  "last_updated": "January 16, 2021 06:43:11 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55682",
+  "last_updated": "March 12, 2021 20:40:54 UTC",
   "matches": [
     {
       "id": 51315,
@@ -14,6 +14,12 @@
       "id": 57791,
       "title": "Hallym Gymnasium",
       "score": 0.291,
+      "r18": false
+    },
+    {
+      "id": 11260,
+      "title": "Free Draw",
+      "score": 0.255,
       "r18": false
     },
     {
@@ -145,12 +151,6 @@
     {
       "id": 56004,
       "title": "Taebaek: The Tutorial Man",
-      "score": 0.243,
-      "r18": false
-    },
-    {
-      "id": 56688,
-      "title": "Youth Under Rebound",
       "score": 0.243,
       "r18": false
     }

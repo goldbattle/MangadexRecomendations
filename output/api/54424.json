@@ -1,8 +1,8 @@
 {
   "id": 54424,
   "title": "Efforts Never Betray",
-  "url": "https://mangadex.org/manga/54424",
-  "last_updated": "January 16, 2021 06:31:49 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54424",
+  "last_updated": "March 12, 2021 20:25:26 UTC",
   "matches": [
     {
       "id": 29117,
@@ -35,9 +35,21 @@
       "r18": false
     },
     {
+      "id": 54685,
+      "title": "Bamboo Grove Notification",
+      "score": 0.243,
+      "r18": false
+    },
+    {
       "id": 28555,
       "title": "The World Is Money and Power",
       "score": 0.227,
+      "r18": false
+    },
+    {
+      "id": 11260,
+      "title": "Free Draw",
+      "score": 0.212,
       "r18": false
     },
     {
@@ -139,18 +151,6 @@
     {
       "id": 1728,
       "title": "Ever Green",
-      "score": 0.194,
-      "r18": false
-    },
-    {
-      "id": 2312,
-      "title": "Spiral - Suiri no Kizuna",
-      "score": 0.194,
-      "r18": false
-    },
-    {
-      "id": 2673,
-      "title": "Higanbana no Saku Yoru ni",
       "score": 0.194,
       "r18": false
     }

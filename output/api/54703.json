@@ -1,8 +1,8 @@
 {
   "id": 54703,
   "title": "Play, Playlist",
-  "url": "https://mangadex.org/manga/54703",
-  "last_updated": "January 16, 2021 06:34:23 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54703",
+  "last_updated": "March 12, 2021 20:28:52 UTC",
   "matches": [
     {
       "id": 4824,
@@ -91,7 +91,7 @@
     {
       "id": 16007,
       "title": "Present",
-      "score": 0.701,
+      "score": 0.7,
       "r18": false
     },
     {
@@ -137,6 +137,12 @@
       "r18": false
     },
     {
+      "id": 51318,
+      "title": "Truthfully, They Only Remembered Her",
+      "score": 0.696,
+      "r18": false
+    },
+    {
       "id": 2748,
       "title": "Bodyguard",
       "score": 0.696,
@@ -146,12 +152,6 @@
       "id": 2136,
       "title": "Shite, Okeba Yokatta Koukai",
       "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 14320,
-      "title": "Seishun Otome Banchou!",
-      "score": 0.694,
       "r18": false
     }
   ]

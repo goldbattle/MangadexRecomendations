@@ -1,8 +1,8 @@
 {
   "id": 54634,
   "title": "Space Convenience Store",
-  "url": "https://mangadex.org/manga/54634",
-  "last_updated": "January 16, 2021 06:33:45 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54634",
+  "last_updated": "March 12, 2021 20:28:02 UTC",
   "matches": [
     {
       "id": 25924,
@@ -103,7 +103,7 @@
     {
       "id": 34063,
       "title": "Uglyhood",
-      "score": 0.166,
+      "score": 0.167,
       "r18": false
     },
     {
@@ -122,6 +122,12 @@
       "id": 41943,
       "title": "Z Mazinger",
       "score": 0.151,
+      "r18": false
+    },
+    {
+      "id": 59608,
+      "title": "ELEMENTS: Users Of The Universe",
+      "score": 0.142,
       "r18": false
     }
   ]

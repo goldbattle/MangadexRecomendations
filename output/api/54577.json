@@ -1,8 +1,8 @@
 {
   "id": 54577,
   "title": "HATRED",
-  "url": "https://mangadex.org/manga/54577",
-  "last_updated": "January 16, 2021 06:33:14 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54577",
+  "last_updated": "March 12, 2021 20:27:19 UTC",
   "matches": [
     {
       "id": 18750,
@@ -101,12 +101,6 @@
       "r18": false
     },
     {
-      "id": 42015,
-      "title": "CODE VEIN -Memory Echoes-",
-      "score": 0.255,
-      "r18": false
-    },
-    {
       "id": 44232,
       "title": "Wa no Kage",
       "score": 0.255,
@@ -121,6 +115,12 @@
     {
       "id": 57056,
       "title": "Death Hunter",
+      "score": 0.255,
+      "r18": false
+    },
+    {
+      "id": 59912,
+      "title": "Tesla Note",
       "score": 0.255,
       "r18": false
     },

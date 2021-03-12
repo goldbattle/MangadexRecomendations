@@ -1,8 +1,8 @@
 {
   "id": 55045,
   "title": "MisMatched",
-  "url": "https://mangadex.org/manga/55045",
-  "last_updated": "January 16, 2021 06:37:27 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55045",
+  "last_updated": "March 12, 2021 20:32:59 UTC",
   "matches": [
     {
       "id": 49852,
@@ -14,6 +14,12 @@
       "id": 55193,
       "title": "Crescendo ~two us: debut arco~",
       "score": 0.297,
+      "r18": false
+    },
+    {
+      "id": 59815,
+      "title": "The Winning Actor Wants Divorce",
+      "score": 0.294,
       "r18": false
     },
     {
@@ -32,6 +38,12 @@
       "id": 36664,
       "title": "Wild Rose",
       "score": 0.218,
+      "r18": false
+    },
+    {
+      "id": 59455,
+      "title": "Literature Boy",
+      "score": 0.174,
       "r18": false
     },
     {

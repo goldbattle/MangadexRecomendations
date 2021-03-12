@@ -1,8 +1,8 @@
 {
   "id": 54225,
   "title": "Tokyo Ghoul [Zakki:re]",
-  "url": "https://mangadex.org/manga/54225",
-  "last_updated": "January 16, 2021 06:30:00 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54225",
+  "last_updated": "March 12, 2021 20:22:59 UTC",
   "matches": [
     {
       "id": 1765,
@@ -119,12 +119,6 @@
       "r18": false
     },
     {
-      "id": 13107,
-      "title": "Tokyo Ghoul JACK",
-      "score": 0.274,
-      "r18": false
-    },
-    {
       "id": 13506,
       "title": "Delusional Boy",
       "score": 0.274,
@@ -143,15 +137,21 @@
       "r18": false
     },
     {
-      "id": 19800,
-      "title": "Tokyo Ghoul: Redrawn",
+      "id": 32058,
+      "title": "Mushihime",
       "score": 0.274,
       "r18": false
     },
     {
-      "id": 32058,
-      "title": "Mushihime",
+      "id": 41041,
+      "title": "Mushihime (Full Color Version)",
       "score": 0.274,
+      "r18": false
+    },
+    {
+      "id": 430,
+      "title": "Hotel",
+      "score": 0.272,
       "r18": false
     }
   ]

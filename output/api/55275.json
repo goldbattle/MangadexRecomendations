@@ -1,25 +1,13 @@
 {
   "id": 55275,
   "title": "I Found Somebody To Love",
-  "url": "https://mangadex.org/manga/55275",
-  "last_updated": "January 16, 2021 06:39:31 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55275",
+  "last_updated": "March 12, 2021 20:35:46 UTC",
   "matches": [
     {
       "id": 8952,
       "title": "Ketchup Mayonnaise",
       "score": 0.71,
-      "r18": false
-    },
-    {
-      "id": 54218,
-      "title": "The Lady and the Beast",
-      "score": 0.707,
-      "r18": false
-    },
-    {
-      "id": 51000,
-      "title": "I Want to Do It, Even If It Hurts",
-      "score": 0.707,
       "r18": false
     },
     {
@@ -53,9 +41,15 @@
       "r18": false
     },
     {
+      "id": 51000,
+      "title": "I Want to Do It, Even If It Hurts",
+      "score": 0.7,
+      "r18": false
+    },
+    {
       "id": 51257,
       "title": "I Stole the Male Lead's First Night",
-      "score": 0.699,
+      "score": 0.7,
       "r18": false
     },
     {
@@ -137,14 +131,14 @@
       "r18": false
     },
     {
-      "id": 58041,
-      "title": "Aideen",
-      "score": 0.692,
+      "id": 32047,
+      "title": "Gisou Furin",
+      "score": 0.691,
       "r18": false
     },
     {
-      "id": 32047,
-      "title": "Gisou Furin",
+      "id": 58041,
+      "title": "Aideen",
       "score": 0.691,
       "r18": false
     },
@@ -152,6 +146,12 @@
       "id": 17610,
       "title": "Made in Heaven",
       "score": 0.69,
+      "r18": false
+    },
+    {
+      "id": 58084,
+      "title": "A Kind Goblin's Bird",
+      "score": 0.689,
       "r18": false
     }
   ]

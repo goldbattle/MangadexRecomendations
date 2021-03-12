@@ -1,8 +1,8 @@
 {
   "id": 55332,
   "title": "Subaru to Suu-san",
-  "url": "https://mangadex.org/manga/55332",
-  "last_updated": "January 16, 2021 06:40:01 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55332",
+  "last_updated": "March 12, 2021 20:36:29 UTC",
   "matches": [
     {
       "id": 21057,
@@ -85,7 +85,7 @@
     {
       "id": 1876,
       "title": "Blood Alone",
-      "score": 0.325,
+      "score": 0.324,
       "r18": false
     },
     {
@@ -131,6 +131,12 @@
       "r18": false
     },
     {
+      "id": 35290,
+      "title": "Kudan no Gotoshi",
+      "score": 0.314,
+      "r18": false
+    },
+    {
       "id": 13618,
       "title": "Hana to Alice Satsujin Jiken",
       "score": 0.312,
@@ -145,13 +151,7 @@
     {
       "id": 43373,
       "title": "Shinomiya Kouta wa Mada Shinenai -Border of the Dead-",
-      "score": 0.311,
-      "r18": false
-    },
-    {
-      "id": 16688,
-      "title": "Kamisama no Joker",
-      "score": 0.31,
+      "score": 0.312,
       "r18": false
     }
   ]

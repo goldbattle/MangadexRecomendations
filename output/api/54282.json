@@ -1,8 +1,8 @@
 {
   "id": 54282,
   "title": "Hortensia Saga",
-  "url": "https://mangadex.org/manga/54282",
-  "last_updated": "January 16, 2021 06:30:32 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54282",
+  "last_updated": "March 12, 2021 20:23:42 UTC",
   "matches": [
     {
       "id": 8339,
@@ -14,18 +14,6 @@
       "id": 2500,
       "title": "ChunRangYulJun",
       "score": 0.74,
-      "r18": false
-    },
-    {
-      "id": 3388,
-      "title": "Fate/Zero",
-      "score": 0.731,
-      "r18": false
-    },
-    {
-      "id": 2110,
-      "title": "Souten no Ken",
-      "score": 0.73,
       "r18": false
     },
     {
@@ -47,12 +35,6 @@
       "r18": false
     },
     {
-      "id": 14441,
-      "title": "Fate/strange Fake",
-      "score": 0.716,
-      "r18": false
-    },
-    {
       "id": 4811,
       "title": "Aiyoku no Eustia",
       "score": 0.715,
@@ -65,21 +47,21 @@
       "r18": false
     },
     {
-      "id": 52836,
-      "title": "DD Fist of the North Star",
-      "score": 0.713,
-      "r18": false
-    },
-    {
       "id": 7691,
       "title": "Skull Man",
       "score": 0.713,
       "r18": false
     },
     {
+      "id": 52836,
+      "title": "DD Fist of the North Star",
+      "score": 0.713,
+      "r18": false
+    },
+    {
       "id": 10078,
       "title": "Meng Wu and Chu Zi",
-      "score": 0.713,
+      "score": 0.712,
       "r18": false
     },
     {
@@ -89,15 +71,15 @@
       "r18": false
     },
     {
-      "id": 18143,
-      "title": "Romsen Saga",
+      "id": 2110,
+      "title": "Souten no Ken",
       "score": 0.71,
       "r18": false
     },
     {
-      "id": 15286,
-      "title": "Fate/stay night: Heaven's Feel",
-      "score": 0.709,
+      "id": 18143,
+      "title": "Romsen Saga",
+      "score": 0.71,
       "r18": false
     },
     {
@@ -110,12 +92,6 @@
       "id": 39511,
       "title": "Tenki no Ko",
       "score": 0.708,
-      "r18": false
-    },
-    {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.707,
       "r18": false
     },
     {
@@ -137,14 +113,14 @@
       "r18": false
     },
     {
-      "id": 14676,
-      "title": "The Legendary Moonlight Sculptor",
+      "id": 33176,
+      "title": "Hajimari no Ryuu to Owari no Ryuu",
       "score": 0.706,
       "r18": false
     },
     {
-      "id": 33176,
-      "title": "Hajimari no Ryuu to Owari no Ryuu",
+      "id": 14676,
+      "title": "The Legendary Moonlight Sculptor",
       "score": 0.706,
       "r18": false
     },
@@ -152,6 +128,30 @@
       "id": 17889,
       "title": "Beast of East",
       "score": 0.706,
+      "r18": false
+    },
+    {
+      "id": 15286,
+      "title": "Fate/stay night: Heaven's Feel",
+      "score": 0.705,
+      "r18": false
+    },
+    {
+      "id": 36817,
+      "title": "Blade of the Immortal - Bakumatsu Arc",
+      "score": 0.705,
+      "r18": false
+    },
+    {
+      "id": 2914,
+      "title": "Arthur Pyuty wa Yoru no Majo",
+      "score": 0.704,
+      "r18": false
+    },
+    {
+      "id": 281,
+      "title": "Trigun Maximum",
+      "score": 0.704,
       "r18": false
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": 54627,
   "title": "I'm Gonna Attach Eyelashes On You, Okay?",
-  "url": "https://mangadex.org/manga/54627",
-  "last_updated": "January 16, 2021 06:33:42 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54627",
+  "last_updated": "March 12, 2021 20:27:57 UTC",
   "matches": [
     {
       "id": 54626,
@@ -53,12 +53,6 @@
       "r18": false
     },
     {
-      "id": 21283,
-      "title": "Persona 5",
-      "score": 0.301,
-      "r18": false
-    },
-    {
       "id": 4429,
       "title": "xxxHoLic",
       "score": 0.298,
@@ -67,7 +61,7 @@
     {
       "id": 20801,
       "title": "Chiyo-chan no Yomeiri",
-      "score": 0.297,
+      "score": 0.298,
       "r18": false
     },
     {
@@ -151,7 +145,13 @@
     {
       "id": 5168,
       "title": "Genjuu no Seiza",
-      "score": 0.279,
+      "score": 0.278,
+      "r18": false
+    },
+    {
+      "id": 6379,
+      "title": "Shin Pet Shop of Horrors",
+      "score": 0.27,
       "r18": false
     }
   ]

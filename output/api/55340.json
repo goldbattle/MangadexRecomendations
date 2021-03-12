@@ -1,8 +1,8 @@
 {
   "id": 55340,
   "title": "Into It",
-  "url": "https://mangadex.org/manga/55340",
-  "last_updated": "January 16, 2021 06:40:06 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55340",
+  "last_updated": "March 12, 2021 20:36:36 UTC",
   "matches": [
     {
       "id": 16040,
@@ -14,12 +14,6 @@
       "id": 24225,
       "title": "Here U Are",
       "score": 0.405,
-      "r18": false
-    },
-    {
-      "id": 58838,
-      "title": "The Professor's Double Life",
-      "score": 0.398,
       "r18": false
     },
     {
@@ -71,6 +65,12 @@
       "r18": false
     },
     {
+      "id": 58838,
+      "title": "The Professor's Double Life",
+      "score": 0.363,
+      "r18": false
+    },
+    {
       "id": 41455,
       "title": "The Skeleton in the Closet",
       "score": 0.363,
@@ -86,6 +86,12 @@
       "id": 47271,
       "title": "Confession from Tomorrow",
       "score": 0.36,
+      "r18": false
+    },
+    {
+      "id": 59967,
+      "title": "Heat and Love",
+      "score": 0.359,
       "r18": false
     },
     {
@@ -113,20 +119,14 @@
       "r18": false
     },
     {
-      "id": 53405,
-      "title": "Struggle",
-      "score": 0.347,
-      "r18": false
-    },
-    {
       "id": 31358,
       "title": "10 Years That I Loved You the Most",
       "score": 0.347,
       "r18": false
     },
     {
-      "id": 29676,
-      "title": "Please Save the Fox!",
+      "id": 53405,
+      "title": "Struggle",
       "score": 0.347,
       "r18": false
     },
@@ -137,14 +137,14 @@
       "r18": false
     },
     {
-      "id": 36527,
-      "title": "Boy's Love",
-      "score": 0.344,
+      "id": 29676,
+      "title": "Please Save the Fox!",
+      "score": 0.347,
       "r18": false
     },
     {
-      "id": 43410,
-      "title": "Angel Buddy",
+      "id": 36527,
+      "title": "Boy's Love",
       "score": 0.344,
       "r18": false
     },

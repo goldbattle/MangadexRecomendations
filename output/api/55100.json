@@ -1,8 +1,8 @@
 {
   "id": 55100,
   "title": "Hitodenashi to Koi",
-  "url": "https://mangadex.org/manga/55100",
-  "last_updated": "January 16, 2021 06:37:56 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55100",
+  "last_updated": "March 12, 2021 20:33:40 UTC",
   "matches": [
     {
       "id": 19543,
@@ -79,7 +79,7 @@
     {
       "id": 39106,
       "title": "Don't Cry My Baby",
-      "score": 0.665,
+      "score": 0.664,
       "r18": false
     },
     {
@@ -119,12 +119,6 @@
       "r18": false
     },
     {
-      "id": 12264,
-      "title": "Affair",
-      "score": 0.488,
-      "r18": false
-    },
-    {
       "id": 26148,
       "title": "Matenrou Maybe?",
       "score": 0.477,
@@ -152,6 +146,12 @@
       "id": 11953,
       "title": "Nonfiction",
       "score": 0.438,
+      "r18": false
+    },
+    {
+      "id": 53847,
+      "title": "Tsari to Yobareta Otoko",
+      "score": 0.41,
       "r18": false
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": 55118,
   "title": "Kodou no Yokan - Vital Zero",
-  "url": "https://mangadex.org/manga/55118",
-  "last_updated": "January 16, 2021 06:38:06 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55118",
+  "last_updated": "March 12, 2021 20:33:52 UTC",
   "matches": [
     {
       "id": 37280,
@@ -95,6 +95,12 @@
       "r18": false
     },
     {
+      "id": 16544,
+      "title": "ULTRAS",
+      "score": 0.785,
+      "r18": false
+    },
+    {
       "id": 53198,
       "title": "Kimi ga Kono Te o Hanareru nara",
       "score": 0.785,
@@ -146,12 +152,6 @@
       "id": 27658,
       "title": "Takaramono",
       "score": 0.779,
-      "r18": false
-    },
-    {
-      "id": 12817,
-      "title": "Furue Tsumore Shiawase no Hana",
-      "score": 0.778,
       "r18": false
     }
   ]

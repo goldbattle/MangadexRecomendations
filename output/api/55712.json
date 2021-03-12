@@ -1,9 +1,15 @@
 {
   "id": 55712,
   "title": "Nine Star Hegemon Body Arts",
-  "url": "https://mangadex.org/manga/55712",
-  "last_updated": "January 16, 2021 06:43:27 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55712",
+  "last_updated": "March 12, 2021 20:41:15 UTC",
   "matches": [
+    {
+      "id": 12009,
+      "title": "Soul Land",
+      "score": 0.751,
+      "r18": false
+    },
     {
       "id": 23195,
       "title": "The Great Ruler",
@@ -54,7 +60,7 @@
     },
     {
       "id": 55352,
-      "title": "Invasion Of The Immortal Emperor",
+      "title": "Invasion of the Immortal Emperor",
       "score": 0.729,
       "r18": false
     },
@@ -113,6 +119,12 @@
       "r18": false
     },
     {
+      "id": 54474,
+      "title": "The Princess in the Dumpster",
+      "score": 0.718,
+      "r18": false
+    },
+    {
       "id": 3387,
       "title": "Twelfth Night",
       "score": 0.717,
@@ -140,18 +152,6 @@
       "id": 1021,
       "title": "Girls of the Wild's",
       "score": 0.716,
-      "r18": false
-    },
-    {
-      "id": 54612,
-      "title": "Dinghai Fusheng Records",
-      "score": 0.715,
-      "r18": false
-    },
-    {
-      "id": 34625,
-      "title": "Rebirth of the Urban Immortal Cultivator",
-      "score": 0.715,
       "r18": false
     }
   ]

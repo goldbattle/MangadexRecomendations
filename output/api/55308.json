@@ -1,8 +1,8 @@
 {
   "id": 55308,
   "title": "Tonari no Ninja",
-  "url": "https://mangadex.org/manga/55308",
-  "last_updated": "January 16, 2021 06:39:49 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55308",
+  "last_updated": "March 12, 2021 20:36:11 UTC",
   "matches": [
     {
       "id": 6944,
@@ -37,7 +37,7 @@
     {
       "id": 33884,
       "title": "The Kamegashira Brothers",
-      "score": 0.317,
+      "score": 0.318,
       "r18": false
     },
     {
@@ -56,12 +56,6 @@
       "id": 52487,
       "title": "Kamakura Corona",
       "score": 0.307,
-      "r18": false
-    },
-    {
-      "id": 6770,
-      "title": "Horimiya",
-      "score": 0.306,
       "r18": false
     },
     {
@@ -95,12 +89,6 @@
       "r18": false
     },
     {
-      "id": 23242,
-      "title": "Act-Age",
-      "score": 0.293,
-      "r18": false
-    },
-    {
       "id": 14104,
       "title": "Sakura Discord",
       "score": 0.293,
@@ -125,6 +113,12 @@
       "r18": false
     },
     {
+      "id": 6770,
+      "title": "Horimiya",
+      "score": 0.292,
+      "r18": false
+    },
+    {
       "id": 51607,
       "title": "Kyouka-sama no sweet sweet boro house",
       "score": 0.292,
@@ -137,8 +131,14 @@
       "r18": false
     },
     {
-      "id": 32049,
-      "title": "Asagaya Geijutu Koukou Eizouka e Youkoso",
+      "id": 23242,
+      "title": "Act-Age",
+      "score": 0.289,
+      "r18": false
+    },
+    {
+      "id": 278,
+      "title": "Toradora!",
       "score": 0.288,
       "r18": false
     },

@@ -1,8 +1,8 @@
 {
   "id": 55249,
   "title": "Hanami: International Love Story",
-  "url": "https://mangadex.org/manga/55249",
-  "last_updated": "January 16, 2021 06:39:16 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55249",
+  "last_updated": "March 12, 2021 20:35:26 UTC",
   "matches": [
     {
       "id": 5155,
@@ -48,7 +48,7 @@
     },
     {
       "id": 58407,
-      "title": "Matchmaking of the Amagami Household",
+      "title": "Matchmaking of the Amagami Household (Oneshot)",
       "score": 0.287,
       "r18": false
     },
@@ -119,12 +119,6 @@
       "r18": false
     },
     {
-      "id": 9930,
-      "title": "Oremonogatari x Nisekoi",
-      "score": 0.276,
-      "r18": false
-    },
-    {
       "id": 12112,
       "title": "Chocolate - Maid Cafe",
       "score": 0.276,
@@ -151,6 +145,12 @@
     {
       "id": 542,
       "title": "Kami-sama no Memo-chou",
+      "score": 0.272,
+      "r18": false
+    },
+    {
+      "id": 738,
+      "title": "LovePlus - Rinko Days",
       "score": 0.272,
       "r18": false
     }

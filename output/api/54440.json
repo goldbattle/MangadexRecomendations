@@ -1,13 +1,13 @@
 {
   "id": 54440,
   "title": "The Cat Who Wanted to be a Bride",
-  "url": "https://mangadex.org/manga/54440",
-  "last_updated": "January 16, 2021 06:31:58 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54440",
+  "last_updated": "March 12, 2021 20:25:38 UTC",
   "matches": [
     {
-      "id": 19104,
-      "title": "Murenase! Shiiton Gakuen",
-      "score": 0.686,
+      "id": 45779,
+      "title": "Repeat a Year! Todome-Senpai",
+      "score": 0.68,
       "r18": false
     },
     {
@@ -17,105 +17,33 @@
       "r18": false
     },
     {
+      "id": 19104,
+      "title": "Murenase! Shiiton Gakuen",
+      "score": 0.66,
+      "r18": false
+    },
+    {
       "id": 564,
       "title": "Nagasarete Airantou",
       "score": 0.655,
       "r18": false
     },
     {
-      "id": 726,
-      "title": "Futagami Double",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 7142,
-      "title": "FamiDol!",
-      "score": 0.413,
-      "r18": false
-    },
-    {
-      "id": 17070,
-      "title": "Nanai Sanami ga Kiratte Kurenai",
-      "score": 0.406,
-      "r18": false
-    },
-    {
-      "id": 55358,
-      "title": "Yumemiru Shounen Shoujo",
-      "score": 0.403,
-      "r18": false
-    },
-    {
-      "id": 3901,
-      "title": "Miniature",
-      "score": 0.402,
-      "r18": false
-    },
-    {
-      "id": 978,
-      "title": "Boku no Idol",
-      "score": 0.396,
-      "r18": false
-    },
-    {
-      "id": 5675,
-      "title": "Itsudatte My Santa!",
-      "score": 0.377,
-      "r18": false
-    },
-    {
-      "id": 1573,
-      "title": "Princess School",
-      "score": 0.371,
-      "r18": false
-    },
-    {
-      "id": 59401,
-      "title": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai",
-      "score": 0.357,
+      "id": 50385,
+      "title": "While Cross-Dressing, I Was Hit on by a Handsome Guy!",
+      "score": 0.32,
       "r18": false
     },
     {
       "id": 14203,
       "title": "Nekonotemo",
-      "score": 0.352,
+      "score": 0.32,
       "r18": false
     },
     {
-      "id": 53349,
-      "title": "Make Heroine wo Katasetai!!",
-      "score": 0.351,
-      "r18": false
-    },
-    {
-      "id": 52183,
-      "title": "Tsurenai Kanojo wo Tsuru Houhou",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 8984,
-      "title": "Are na Kare tono Kurashikata",
-      "score": 0.347,
-      "r18": false
-    },
-    {
-      "id": 18897,
-      "title": "Gachipin.",
-      "score": 0.344,
-      "r18": false
-    },
-    {
-      "id": 36633,
-      "title": "To Love-Ru - Kentaro Yabuki 20th Anniversary",
-      "score": 0.334,
-      "r18": false
-    },
-    {
-      "id": 19496,
-      "title": "Her Love is so heavy, it hurts.",
-      "score": 0.321,
+      "id": 52533,
+      "title": "The President Is My Neighbor Cousin",
+      "score": 0.303,
       "r18": false
     },
     {
@@ -125,21 +53,27 @@
       "r18": false
     },
     {
+      "id": 57,
+      "title": "Carnivorous Princess Yegrinna",
+      "score": 0.3,
+      "r18": false
+    },
+    {
       "id": 22651,
       "title": "Jingai no Yome to Icha Icha suru - Anthology Comic",
       "score": 0.298,
       "r18": false
     },
     {
-      "id": 40766,
-      "title": "Gal Kazoku",
-      "score": 0.289,
+      "id": 32893,
+      "title": "Shachiku Succubus no Hanashi",
+      "score": 0.295,
       "r18": false
     },
     {
-      "id": 40736,
-      "title": "Majime Succubus Hiragi-san",
-      "score": 0.289,
+      "id": 28853,
+      "title": "The Treasured Sakura Tome",
+      "score": 0.294,
       "r18": false
     },
     {
@@ -149,9 +83,75 @@
       "r18": false
     },
     {
+      "id": 53189,
+      "title": "Xuejie, Don't Livestream It!",
+      "score": 0.28,
+      "r18": false
+    },
+    {
       "id": 22526,
       "title": "Succubus ni Tensei Shita Node Milk wo Shiborimasu",
       "score": 0.278,
+      "r18": false
+    },
+    {
+      "id": 50728,
+      "title": "The Demon King's Daughter Is Way Too Easy",
+      "score": 0.276,
+      "r18": false
+    },
+    {
+      "id": 41139,
+      "title": "Ookii Kouhai wa Suki Desu ka?",
+      "score": 0.268,
+      "r18": false
+    },
+    {
+      "id": 38480,
+      "title": "Shachiku Succubus no Hanashi (Fan Colored)",
+      "score": 0.263,
+      "r18": false
+    },
+    {
+      "id": 28735,
+      "title": "Isekai Shoukan wa Nidome Desu",
+      "score": 0.26,
+      "r18": false
+    },
+    {
+      "id": 48401,
+      "title": "Me and My 26 Year Old Female Tenants",
+      "score": 0.257,
+      "r18": false
+    },
+    {
+      "id": 5425,
+      "title": "Caravan Kidd",
+      "score": 0.256,
+      "r18": false
+    },
+    {
+      "id": 36123,
+      "title": "Isekai de Tochi o Katte Noujou o Tsukurou",
+      "score": 0.253,
+      "r18": false
+    },
+    {
+      "id": 19657,
+      "title": "Zannen Jokanbu Black General-san",
+      "score": 0.25,
+      "r18": false
+    },
+    {
+      "id": 49282,
+      "title": "The Urban Flower's Vacation",
+      "score": 0.249,
+      "r18": false
+    },
+    {
+      "id": 56465,
+      "title": "Hahazuka-san wo &times;&times; ni Shitai",
+      "score": 0.249,
       "r18": false
     }
   ]

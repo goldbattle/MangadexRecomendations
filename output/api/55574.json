@@ -1,8 +1,8 @@
 {
   "id": 55574,
   "title": "Joshikousei ni Kigaetara",
-  "url": "https://mangadex.org/manga/55574",
-  "last_updated": "January 16, 2021 06:42:13 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55574",
+  "last_updated": "March 12, 2021 20:39:34 UTC",
   "matches": [
     {
       "id": 5528,
@@ -31,7 +31,7 @@
     {
       "id": 5593,
       "title": "Kagome Kagome",
-      "score": 0.331,
+      "score": 0.33,
       "r18": false
     },
     {
@@ -125,6 +125,12 @@
       "r18": false
     },
     {
+      "id": 1024,
+      "title": "Teizokurei Monophobia",
+      "score": 0.296,
+      "r18": false
+    },
+    {
       "id": 8862,
       "title": "Maou na Ore to Fushihime no Yubiwa",
       "score": 0.296,
@@ -137,21 +143,15 @@
       "r18": false
     },
     {
-      "id": 2154,
-      "title": "Fukigen Cinderella",
-      "score": 0.293,
-      "r18": false
-    },
-    {
       "id": 1775,
       "title": "Dive in the Vampire Bund",
       "score": 0.293,
       "r18": false
     },
     {
-      "id": 1024,
-      "title": "Teizokurei Monophobia",
-      "score": 0.291,
+      "id": 11982,
+      "title": "Kenkouki - Hinokuni Daiteikokugun Kurenai Ikkitousentai",
+      "score": 0.288,
       "r18": false
     }
   ]

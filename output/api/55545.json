@@ -1,8 +1,8 @@
 {
   "id": 55545,
   "title": "The Overworked and the Undead",
-  "url": "https://mangadex.org/manga/55545",
-  "last_updated": "January 16, 2021 06:41:58 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55545",
+  "last_updated": "March 12, 2021 20:39:12 UTC",
   "matches": [
     {
       "id": 23220,
@@ -20,12 +20,6 @@
       "id": 2013,
       "title": "King of Hell",
       "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 336,
-      "title": "Kuroshitsuji",
-      "score": 0.656,
       "r18": false
     },
     {
@@ -85,13 +79,13 @@
     {
       "id": 1588,
       "title": "Cerberus",
-      "score": 0.329,
+      "score": 0.33,
       "r18": false
     },
     {
       "id": 48576,
       "title": "Koisuru Bukimi-chan",
-      "score": 0.325,
+      "score": 0.324,
       "r18": false
     },
     {
@@ -109,7 +103,7 @@
     {
       "id": 50636,
       "title": "Kuchi ga Saketemo Kimi ni wa (2020 Short)",
-      "score": 0.315,
+      "score": 0.316,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 2199,
       "title": "Majin Tantei Nougami Neuro",
       "score": 0.295,
+      "r18": false
+    },
+    {
+      "id": 45304,
+      "title": "Furious Yama",
+      "score": 0.287,
       "r18": false
     }
   ]

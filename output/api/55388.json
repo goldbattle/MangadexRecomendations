@@ -1,8 +1,8 @@
 {
   "id": 55388,
   "title": "Super Heavy Charge Vanguard",
-  "url": "https://mangadex.org/manga/55388",
-  "last_updated": "January 16, 2021 06:40:32 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55388",
+  "last_updated": "March 12, 2021 20:37:12 UTC",
   "matches": [
     {
       "id": 1098,
@@ -55,12 +55,6 @@
     {
       "id": 47983,
       "title": "Kinjirareta Asobi",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 58963,
-      "title": "A Lantern's Light",
       "score": 0.34,
       "r18": false
     },
@@ -151,6 +145,12 @@
     {
       "id": 20498,
       "title": "Ryuudan Shounen",
+      "score": 0.227,
+      "r18": false
+    },
+    {
+      "id": 20561,
+      "title": "Convenience Store Siren",
       "score": 0.227,
       "r18": false
     }

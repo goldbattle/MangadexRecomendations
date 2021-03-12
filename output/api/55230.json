@@ -1,8 +1,8 @@
 {
   "id": 55230,
   "title": "The Seven Princes of the Thousand Year Labyrinth Gaiden: The Champion of the Dawn",
-  "url": "https://mangadex.org/manga/55230",
-  "last_updated": "January 16, 2021 06:39:06 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55230",
+  "last_updated": "March 12, 2021 20:35:13 UTC",
   "matches": [
     {
       "id": 24844,
@@ -13,7 +13,7 @@
     {
       "id": 7097,
       "title": "Shirogane no Ou - Fenrir Craft",
-      "score": 0.373,
+      "score": 0.372,
       "r18": false
     },
     {
@@ -35,14 +35,14 @@
       "r18": false
     },
     {
-      "id": 25624,
-      "title": "Fire Emblem if - Nibelung no Houkan",
+      "id": 3063,
+      "title": "+C: Sword and Cornett",
       "score": 0.368,
       "r18": false
     },
     {
-      "id": 3063,
-      "title": "+C: Sword and Cornett",
+      "id": 25624,
+      "title": "Fire Emblem if - Nibelung no Houkan",
       "score": 0.368,
       "r18": false
     },
@@ -67,7 +67,7 @@
     {
       "id": 12002,
       "title": "Saihate no Ao",
-      "score": 0.364,
+      "score": 0.365,
       "r18": false
     },
     {
@@ -137,12 +137,6 @@
       "r18": false
     },
     {
-      "id": 20470,
-      "title": "Halcyon",
-      "score": 0.318,
-      "r18": false
-    },
-    {
       "id": 2668,
       "title": "Suna no Ue no Rakuen",
       "score": 0.316,
@@ -152,6 +146,12 @@
       "id": 12587,
       "title": "Saiyuki Gaiden",
       "score": 0.314,
+      "r18": false
+    },
+    {
+      "id": 3712,
+      "title": "Dolls",
+      "score": 0.313,
       "r18": false
     }
   ]

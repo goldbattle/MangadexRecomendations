@@ -1,8 +1,8 @@
 {
   "id": 55457,
   "title": "Who's Your Daddy?",
-  "url": "https://mangadex.org/manga/55457",
-  "last_updated": "January 16, 2021 06:41:10 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55457",
+  "last_updated": "March 12, 2021 20:38:04 UTC",
   "matches": [
     {
       "id": 17231,
@@ -17,9 +17,15 @@
       "r18": false
     },
     {
+      "id": 56993,
+      "title": "Business Performance",
+      "score": 0.324,
+      "r18": false
+    },
+    {
       "id": 20826,
       "title": "Hogu ha Gyeongsoo",
-      "score": 0.317,
+      "score": 0.316,
       "r18": false
     },
     {
@@ -49,13 +55,19 @@
     {
       "id": 39266,
       "title": "Painter of the Night",
-      "score": 0.273,
+      "score": 0.271,
+      "r18": false
+    },
+    {
+      "id": 38140,
+      "title": "Sun's Blood",
+      "score": 0.267,
       "r18": false
     },
     {
       "id": 44786,
-      "title": "Imperfect Pervert",
-      "score": 0.263,
+      "title": "Kinks in Development",
+      "score": 0.264,
       "r18": false
     },
     {
@@ -83,15 +95,15 @@
       "r18": false
     },
     {
-      "id": 6764,
-      "title": "Saezuru Tori wa Habatakanai",
-      "score": 0.243,
+      "id": 59683,
+      "title": "Flip Turn",
+      "score": 0.25,
       "r18": false
     },
     {
-      "id": 38140,
-      "title": "Sun's Blood",
-      "score": 0.241,
+      "id": 6764,
+      "title": "Saezuru Tori wa Habatakanai",
+      "score": 0.243,
       "r18": false
     },
     {
@@ -122,6 +134,12 @@
       "id": 38481,
       "title": "Aporia",
       "score": 0.217,
+      "r18": false
+    },
+    {
+      "id": 59713,
+      "title": "Put On A Smile",
+      "score": 0.189,
       "r18": false
     }
   ]

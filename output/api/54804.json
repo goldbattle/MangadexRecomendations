@@ -1,8 +1,8 @@
 {
   "id": 54804,
   "title": "World Heroes",
-  "url": "https://mangadex.org/manga/54804",
-  "last_updated": "January 16, 2021 06:35:17 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54804",
+  "last_updated": "March 12, 2021 20:30:04 UTC",
   "matches": [
     {
       "id": 24383,
@@ -13,7 +13,7 @@
     {
       "id": 25194,
       "title": "The King of Fighters: A New Beginning",
-      "score": 0.393,
+      "score": 0.394,
       "r18": false
     },
     {
@@ -43,7 +43,7 @@
     {
       "id": 12221,
       "title": "Rose Guns Days Season 1",
-      "score": 0.343,
+      "score": 0.342,
       "r18": false
     },
     {
@@ -67,7 +67,7 @@
     {
       "id": 5683,
       "title": "Mononoke Hime",
-      "score": 0.338,
+      "score": 0.337,
       "r18": false
     },
     {
@@ -91,12 +91,6 @@
     {
       "id": 302,
       "title": "Sengoku ARMORS",
-      "score": 0.336,
-      "r18": false
-    },
-    {
-      "id": 1602,
-      "title": "Samurai Usagi",
       "score": 0.336,
       "r18": false
     },
@@ -152,6 +146,12 @@
       "id": 7704,
       "title": "Warabe no Kusa",
       "score": 0.324,
+      "r18": false
+    },
+    {
+      "id": 2329,
+      "title": "Samurai Champloo",
+      "score": 0.323,
       "r18": false
     }
   ]

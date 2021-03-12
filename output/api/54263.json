@@ -1,8 +1,8 @@
 {
   "id": 54263,
   "title": "Trickster",
-  "url": "https://mangadex.org/manga/54263",
-  "last_updated": "January 16, 2021 06:30:21 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54263",
+  "last_updated": "March 12, 2021 20:23:27 UTC",
   "matches": [
     {
       "id": 36137,
@@ -31,7 +31,7 @@
     {
       "id": 28950,
       "title": "Romance no Kaori",
-      "score": 0.451,
+      "score": 0.45,
       "r18": false
     },
     {
@@ -49,7 +49,7 @@
     {
       "id": 45458,
       "title": "Haikyuu!! - Hikari no Ko 2 (Doujinshi)",
-      "score": 0.425,
+      "score": 0.426,
       "r18": false
     },
     {
@@ -101,12 +101,6 @@
       "r18": false
     },
     {
-      "id": 12193,
-      "title": "Free! - Happy Day? (Doujinshi)",
-      "score": 0.353,
-      "r18": false
-    },
-    {
       "id": 12362,
       "title": "Free! - Nigatsu no Nettaigyo (Doujinshi)",
       "score": 0.353,
@@ -151,6 +145,12 @@
     {
       "id": 26560,
       "title": "Border - Take Out (Doujinshi)",
+      "score": 0.353,
+      "r18": false
+    },
+    {
+      "id": 28978,
+      "title": "Chinko no Tsubuyaki - Chintsubu Mini (Doujinshi)",
       "score": 0.353,
       "r18": false
     }

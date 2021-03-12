@@ -1,8 +1,8 @@
 {
   "id": 55380,
   "title": "Gyeongseong Nocturne",
-  "url": "https://mangadex.org/manga/55380",
-  "last_updated": "January 16, 2021 06:40:28 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55380",
+  "last_updated": "March 12, 2021 20:37:06 UTC",
   "matches": [
     {
       "id": 46384,
@@ -14,6 +14,12 @@
       "id": 54794,
       "title": "Peony Elegy: Winter",
       "score": 0.294,
+      "r18": false
+    },
+    {
+      "id": 43568,
+      "title": "Glass Wall",
+      "score": 0.287,
       "r18": false
     },
     {
@@ -43,6 +49,12 @@
     {
       "id": 48043,
       "title": "Fiery Enemies",
+      "score": 0.283,
+      "r18": false
+    },
+    {
+      "id": 56235,
+      "title": "Secret Relationship",
       "score": 0.283,
       "r18": false
     },
@@ -83,14 +95,20 @@
       "r18": false
     },
     {
-      "id": 43376,
-      "title": "Inn of Deceiving Stars",
-      "score": 0.246,
+      "id": 58084,
+      "title": "A Kind Goblin's Bird",
+      "score": 0.258,
       "r18": false
     },
     {
-      "id": 43568,
-      "title": "Glass Wall",
+      "id": 59841,
+      "title": "Elixir of the Sun",
+      "score": 0.258,
+      "r18": false
+    },
+    {
+      "id": 43376,
+      "title": "Inn of Deceiving Stars",
       "score": 0.246,
       "r18": false
     },
@@ -133,24 +151,6 @@
     {
       "id": 44537,
       "title": "Love Your Enemies",
-      "score": 0.243,
-      "r18": false
-    },
-    {
-      "id": 44606,
-      "title": "No Longer a Heroine!",
-      "score": 0.243,
-      "r18": false
-    },
-    {
-      "id": 44702,
-      "title": "Genius Cool Treasure: President's Wife Is Too Powerful",
-      "score": 0.243,
-      "r18": false
-    },
-    {
-      "id": 46858,
-      "title": "Invitation of Mystic Messenger",
       "score": 0.243,
       "r18": false
     }

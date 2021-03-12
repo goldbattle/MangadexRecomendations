@@ -1,8 +1,8 @@
 {
   "id": 54621,
   "title": "Yume Nikki Indification Project",
-  "url": "https://mangadex.org/manga/54621",
-  "last_updated": "January 16, 2021 06:33:38 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54621",
+  "last_updated": "March 12, 2021 20:27:53 UTC",
   "matches": [
     {
       "id": 54623,
@@ -17,21 +17,9 @@
       "r18": false
     },
     {
-      "id": 21283,
-      "title": "Persona 5",
-      "score": 0.676,
-      "r18": false
-    },
-    {
       "id": 2797,
       "title": "Le Th&eacute;&acirc;tre de B",
       "score": 0.674,
-      "r18": false
-    },
-    {
-      "id": 336,
-      "title": "Kuroshitsuji",
-      "score": 0.671,
       "r18": false
     },
     {
@@ -47,12 +35,6 @@
       "r18": false
     },
     {
-      "id": 25849,
-      "title": "Boku no Hero Academia - Bakugo-kun and Ochako-chan (Doujinshi)",
-      "score": 0.667,
-      "r18": false
-    },
-    {
       "id": 28617,
       "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run",
       "score": 0.666,
@@ -62,12 +44,6 @@
       "id": 1034,
       "title": "Persona 4",
       "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 26805,
-      "title": "Pet Shop of Horrors",
-      "score": 0.661,
       "r18": false
     },
     {
@@ -83,9 +59,15 @@
       "r18": false
     },
     {
-      "id": 6272,
-      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
-      "score": 0.653,
+      "id": 25849,
+      "title": "Boku no Hero Academia - Bakugo-kun and Ochako-chan (Doujinshi)",
+      "score": 0.655,
+      "r18": false
+    },
+    {
+      "id": 336,
+      "title": "Kuroshitsuji",
+      "score": 0.652,
       "r18": false
     },
     {
@@ -127,7 +109,7 @@
     {
       "id": 1675,
       "title": "Umi-chan's Friends",
-      "score": 0.317,
+      "score": 0.316,
       "r18": false
     },
     {
@@ -152,6 +134,24 @@
       "id": 12560,
       "title": "Oingo Boingo Brothers Adventure",
       "score": 0.309,
+      "r18": false
+    },
+    {
+      "id": 4429,
+      "title": "xxxHoLic",
+      "score": 0.309,
+      "r18": false
+    },
+    {
+      "id": 8537,
+      "title": "Fate/stay night - Pregnant Servants (Doujinshi)",
+      "score": 0.306,
+      "r18": false
+    },
+    {
+      "id": 10280,
+      "title": "Ore Nante Galge?",
+      "score": 0.305,
       "r18": false
     }
   ]

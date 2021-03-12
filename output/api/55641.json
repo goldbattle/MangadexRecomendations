@@ -1,8 +1,8 @@
 {
   "id": 55641,
   "title": "Persona 4 - Yasoinaba Case File",
-  "url": "https://mangadex.org/manga/55641",
-  "last_updated": "January 16, 2021 06:42:49 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55641",
+  "last_updated": "March 12, 2021 20:40:23 UTC",
   "matches": [
     {
       "id": 54182,
@@ -17,15 +17,9 @@
       "r18": false
     },
     {
-      "id": 6770,
-      "title": "Horimiya",
-      "score": 0.718,
-      "r18": false
-    },
-    {
       "id": 21325,
       "title": "Botsuraku Yotei Nanode, Kajishokunin wo Mezasu",
-      "score": 0.717,
+      "score": 0.716,
       "r18": false
     },
     {
@@ -53,12 +47,6 @@
       "r18": false
     },
     {
-      "id": 55576,
-      "title": "Ikemen ni Tensei Shita kedo Cheat wa Dekimasen Deshita",
-      "score": 0.707,
-      "r18": false
-    },
-    {
       "id": 20398,
       "title": "Isekai Yakkyoku",
       "score": 0.706,
@@ -73,7 +61,7 @@
     {
       "id": 278,
       "title": "Toradora!",
-      "score": 0.697,
+      "score": 0.699,
       "r18": false
     },
     {
@@ -143,6 +131,12 @@
       "r18": false
     },
     {
+      "id": 6770,
+      "title": "Horimiya",
+      "score": 0.675,
+      "r18": false
+    },
+    {
       "id": 21055,
       "title": "Tondemo Skill de Isekai Hourou Meshi",
       "score": 0.674,
@@ -152,6 +146,12 @@
       "id": 56476,
       "title": "Higurashi no Naku Koro ni Gou",
       "score": 0.674,
+      "r18": false
+    },
+    {
+      "id": 21469,
+      "title": "In Another World With My Smartphone",
+      "score": 0.673,
       "r18": false
     }
   ]

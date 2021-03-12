@@ -1,8 +1,8 @@
 {
   "id": 54278,
   "title": "Watashi no Ouji-sama",
-  "url": "https://mangadex.org/manga/54278",
-  "last_updated": "January 16, 2021 06:30:29 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54278",
+  "last_updated": "March 12, 2021 20:23:39 UTC",
   "matches": [
     {
       "id": 17538,
@@ -13,7 +13,7 @@
     {
       "id": 19867,
       "title": "Game: Suit no Sukima",
-      "score": 0.709,
+      "score": 0.707,
       "r18": false
     },
     {
@@ -23,9 +23,21 @@
       "r18": false
     },
     {
+      "id": 51702,
+      "title": "Kuro Bengoshi no Chijou: Sekai de Ichiban Omoi Junai",
+      "score": 0.691,
+      "r18": false
+    },
+    {
       "id": 11446,
       "title": "Suki wo Choudai",
       "score": 0.687,
+      "r18": false
+    },
+    {
+      "id": 22238,
+      "title": "Toge ni Kuchizuke",
+      "score": 0.678,
       "r18": false
     },
     {
@@ -37,19 +49,13 @@
     {
       "id": 46690,
       "title": "Yubisaki Kara Honki no Netsujou ~ Charaotoko Shoubou-shi wa Massuguna me de Watashi o Daita ~",
-      "score": 0.671,
+      "score": 0.672,
       "r18": false
     },
     {
       "id": 3711,
       "title": "Darling wa Namamono ni Tsuki",
       "score": 0.671,
-      "r18": false
-    },
-    {
-      "id": 46731,
-      "title": "Wolf Crying Pharmacy",
-      "score": 0.668,
       "r18": false
     },
     {
@@ -65,15 +71,15 @@
       "r18": false
     },
     {
-      "id": 45207,
-      "title": "Goukon Aite wa Nikushoku Keikan!?: 26-sai Shojo wa Torawaretai",
+      "id": 33682,
+      "title": "Junai Lingerie",
       "score": 0.655,
       "r18": false
     },
     {
-      "id": 33682,
-      "title": "Junai Lingerie",
-      "score": 0.655,
+      "id": 45207,
+      "title": "Goukon Aite wa Nikushoku Keikan!? ~26-sai Shojo wa Torawaretai~",
+      "score": 0.654,
       "r18": false
     },
     {
@@ -89,6 +95,12 @@
       "r18": false
     },
     {
+      "id": 612,
+      "title": "Delivery",
+      "score": 0.408,
+      "r18": false
+    },
+    {
       "id": 28045,
       "title": "Futari Ecchi for Ladies",
       "score": 0.406,
@@ -96,8 +108,8 @@
     },
     {
       "id": 58278,
-      "title": "I Wouldn't Mind a Loveless Embrace",
-      "score": 0.391,
+      "title": "Ai Toka Ii Kara Dakishimete",
+      "score": 0.392,
       "r18": false
     },
     {
@@ -140,18 +152,6 @@
       "id": 20687,
       "title": "Onegai, Sore o Yamenai de",
       "score": 0.346,
-      "r18": false
-    },
-    {
-      "id": 50029,
-      "title": "Renai Gokko Sayokyoku",
-      "score": 0.344,
-      "r18": false
-    },
-    {
-      "id": 55277,
-      "title": "Kimi no Voice ni Koshikudake",
-      "score": 0.24,
       "r18": false
     }
   ]

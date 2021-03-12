@@ -1,19 +1,13 @@
 {
   "id": 54227,
   "title": "Daisy",
-  "url": "https://mangadex.org/manga/54227",
-  "last_updated": "January 16, 2021 06:30:01 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54227",
+  "last_updated": "March 12, 2021 20:23:00 UTC",
   "matches": [
     {
       "id": 54226,
       "title": "The Christmas Eve Couple",
       "score": 0.451,
-      "r18": false
-    },
-    {
-      "id": 54204,
-      "title": "Christmas Eve Present",
-      "score": 0.45,
       "r18": false
     },
     {
@@ -29,9 +23,15 @@
       "r18": false
     },
     {
+      "id": 54204,
+      "title": "Christmas Eve Present",
+      "score": 0.361,
+      "r18": false
+    },
+    {
       "id": 37103,
       "title": "-Rain-",
-      "score": 0.359,
+      "score": 0.36,
       "r18": false
     },
     {
@@ -55,7 +55,7 @@
     {
       "id": 31217,
       "title": "Avalon~bitter~ (Anthology)",
-      "score": 0.203,
+      "score": 0.202,
       "r18": false
     },
     {

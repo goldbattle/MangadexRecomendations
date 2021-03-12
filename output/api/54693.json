@@ -1,8 +1,8 @@
 {
   "id": 54693,
   "title": "Windowside Dreaming - Dragon Quest XI",
-  "url": "https://mangadex.org/manga/54693",
-  "last_updated": "January 16, 2021 06:34:18 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54693",
+  "last_updated": "March 12, 2021 20:28:44 UTC",
   "matches": [
     {
       "id": 32265,
@@ -115,7 +115,13 @@
     {
       "id": 1146,
       "title": "Inugami",
-      "score": 0.265,
+      "score": 0.264,
+      "r18": false
+    },
+    {
+      "id": 51629,
+      "title": "Legend of the Galactic Heroes - Portraits of Heroes",
+      "score": 0.259,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 50714,
       "title": "Legend of the Galactic Heroes - Golden Wings",
       "score": 0.245,
-      "r18": false
-    },
-    {
-      "id": 20537,
-      "title": "Seirei Gensouki ~Konna Sekai de Deaeta Kimi ni~",
-      "score": 0.239,
       "r18": false
     }
   ]

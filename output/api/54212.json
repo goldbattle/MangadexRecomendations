@@ -1,8 +1,8 @@
 {
   "id": 54212,
   "title": "Detective VLOG",
-  "url": "https://mangadex.org/manga/54212",
-  "last_updated": "January 16, 2021 06:29:53 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54212",
+  "last_updated": "March 12, 2021 20:22:49 UTC",
   "matches": [
     {
       "id": 53977,
@@ -31,7 +31,7 @@
     {
       "id": 51410,
       "title": "Can't Be Answered",
-      "score": 0.661,
+      "score": 0.662,
       "r18": false
     },
     {
@@ -41,21 +41,21 @@
       "r18": false
     },
     {
-      "id": 22146,
-      "title": "Reckoning",
-      "score": 0.652,
+      "id": 42122,
+      "title": "Foul Smell",
+      "score": 0.651,
       "r18": false
     },
     {
-      "id": 42122,
-      "title": "Foul Smell",
-      "score": 0.65,
+      "id": 22146,
+      "title": "Reckoning",
+      "score": 0.3,
       "r18": false
     },
     {
       "id": 33855,
       "title": "EVE",
-      "score": 0.295,
+      "score": 0.296,
       "r18": false
     },
     {
@@ -71,9 +71,21 @@
       "r18": false
     },
     {
+      "id": 35245,
+      "title": "The Planet Walks Alone",
+      "score": 0.269,
+      "r18": false
+    },
+    {
       "id": 27831,
       "title": "Unknown Code",
       "score": 0.254,
+      "r18": false
+    },
+    {
+      "id": 36834,
+      "title": "Winner Takes All",
+      "score": 0.242,
       "r18": false
     },
     {
@@ -86,12 +98,6 @@
       "id": 52083,
       "title": "Abnormal Hunting",
       "score": 0.23,
-      "r18": false
-    },
-    {
-      "id": 36834,
-      "title": "Winner Takes All",
-      "score": 0.229,
       "r18": false
     },
     {
@@ -115,13 +121,13 @@
     {
       "id": 44584,
       "title": "My Universe",
-      "score": 0.216,
+      "score": 0.217,
       "r18": false
     },
     {
       "id": 47424,
       "title": "Welcome to the Nightmare Game",
-      "score": 0.206,
+      "score": 0.207,
       "r18": false
     },
     {
@@ -137,21 +143,15 @@
       "r18": false
     },
     {
+      "id": 57003,
+      "title": "Mosquito War",
+      "score": 0.19,
+      "r18": false
+    },
+    {
       "id": 54348,
       "title": "Success Rate",
       "score": 0.172,
-      "r18": false
-    },
-    {
-      "id": 56747,
-      "title": "No Country for Zombie",
-      "score": 0.167,
-      "r18": false
-    },
-    {
-      "id": 51776,
-      "title": "Another Life",
-      "score": 0.166,
       "r18": false
     }
   ]

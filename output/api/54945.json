@@ -1,8 +1,8 @@
 {
   "id": 54945,
   "title": "Kimi no Egao ga Mitai",
-  "url": "https://mangadex.org/manga/54945",
-  "last_updated": "January 16, 2021 06:36:33 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54945",
+  "last_updated": "March 12, 2021 20:31:46 UTC",
   "matches": [
     {
       "id": 13403,
@@ -35,12 +35,6 @@
       "r18": false
     },
     {
-      "id": 14704,
-      "title": "Kyomu Senki",
-      "score": 0.138,
-      "r18": false
-    },
-    {
       "id": 429,
       "title": "Shingeki no Kyojin",
       "score": 0.126,
@@ -68,6 +62,12 @@
       "id": 59112,
       "title": "Fate Combaters",
       "score": 0.113,
+      "r18": false
+    },
+    {
+      "id": 14704,
+      "title": "Kyomu Senki",
+      "score": 0.107,
       "r18": false
     },
     {

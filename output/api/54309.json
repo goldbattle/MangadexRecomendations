@@ -1,8 +1,8 @@
 {
   "id": 54309,
   "title": "Ohana to Chocolate",
-  "url": "https://mangadex.org/manga/54309",
-  "last_updated": "January 16, 2021 06:30:46 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54309",
+  "last_updated": "March 12, 2021 20:24:01 UTC",
   "matches": [
     {
       "id": 55745,
@@ -133,18 +133,18 @@
     {
       "id": 29090,
       "title": "Mawaru Sekai no Kimi to Boku",
+      "score": 0.66,
+      "r18": false
+    },
+    {
+      "id": 22515,
+      "title": "Shitsuji Game",
       "score": 0.659,
       "r18": false
     },
     {
       "id": 53865,
       "title": "Kizoku no Aoi Seppun",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 22515,
-      "title": "Shitsuji Game",
       "score": 0.659,
       "r18": false
     },

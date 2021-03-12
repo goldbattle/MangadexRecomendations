@@ -1,8 +1,8 @@
 {
   "id": 55566,
   "title": "California Monogatari",
-  "url": "https://mangadex.org/manga/55566",
-  "last_updated": "January 16, 2021 06:42:09 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55566",
+  "last_updated": "March 12, 2021 20:39:27 UTC",
   "matches": [
     {
       "id": 27093,
@@ -43,7 +43,7 @@
     {
       "id": 7653,
       "title": "Poe no Ichizoku",
-      "score": 0.735,
+      "score": 0.734,
       "r18": false
     },
     {
@@ -74,12 +74,6 @@
       "id": 6819,
       "title": "Togainu no Chi ~ Zero",
       "score": 0.726,
-      "r18": false
-    },
-    {
-      "id": 10114,
-      "title": "Shingeki no Kyojin - Birth of Levi",
-      "score": 0.725,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 2864,
       "title": "Boys Next Door",
       "score": 0.711,
+      "r18": false
+    },
+    {
+      "id": 5368,
+      "title": "Hyakuman Tsubu no Namida",
+      "score": 0.71,
       "r18": false
     }
   ]

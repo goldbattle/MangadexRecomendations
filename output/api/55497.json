@@ -1,8 +1,8 @@
 {
   "id": 55497,
   "title": "Ano Ko ni Kubittake",
-  "url": "https://mangadex.org/manga/55497",
-  "last_updated": "January 16, 2021 06:41:32 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55497",
+  "last_updated": "March 12, 2021 20:38:35 UTC",
   "matches": [
     {
       "id": 3076,
@@ -43,7 +43,7 @@
     {
       "id": 3012,
       "title": "Hana, Saita.",
-      "score": 0.655,
+      "score": 0.654,
       "r18": false
     },
     {
@@ -62,12 +62,6 @@
       "id": 13775,
       "title": "Amber",
       "score": 0.473,
-      "r18": false
-    },
-    {
-      "id": 10090,
-      "title": "A Holy Night to the Lost Lamb",
-      "score": 0.467,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 2997,
       "title": "Beside the One Next to You",
       "score": 0.438,
+      "r18": false
+    },
+    {
+      "id": 32498,
+      "title": "Giant Cinderella",
+      "score": 0.437,
       "r18": false
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": 55470,
   "title": "Kemono no Noroi wa Koi de Hodoku",
-  "url": "https://mangadex.org/manga/55470",
-  "last_updated": "January 16, 2021 06:41:17 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55470",
+  "last_updated": "March 12, 2021 20:38:14 UTC",
   "matches": [
     {
       "id": 57846,
@@ -71,6 +71,12 @@
       "r18": false
     },
     {
+      "id": 58861,
+      "title": "Feel Free to Hug Me",
+      "score": 0.699,
+      "r18": false
+    },
+    {
       "id": 29112,
       "title": "Yami ni Tooboe, Mune ni Toge",
       "score": 0.698,
@@ -91,7 +97,7 @@
     {
       "id": 24229,
       "title": "Toware no Mi",
-      "score": 0.691,
+      "score": 0.69,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 26022,
       "title": "Midnight Make Love",
       "score": 0.684,
-      "r18": false
-    },
-    {
-      "id": 55763,
-      "title": "Hashire! Ouji-sama",
-      "score": 0.682,
       "r18": false
     }
   ]

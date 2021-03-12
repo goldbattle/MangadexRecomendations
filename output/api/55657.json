@@ -1,8 +1,8 @@
 {
   "id": 55657,
   "title": "Ang Ang",
-  "url": "https://mangadex.org/manga/55657",
-  "last_updated": "January 16, 2021 06:42:58 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55657",
+  "last_updated": "March 12, 2021 20:40:35 UTC",
   "matches": [
     {
       "id": 29901,
@@ -31,7 +31,7 @@
     {
       "id": 31208,
       "title": "Hot and Cold",
-      "score": 0.665,
+      "score": 0.666,
       "r18": false
     },
     {
@@ -53,14 +53,14 @@
       "r18": false
     },
     {
-      "id": 35907,
-      "title": "Restless",
+      "id": 55078,
+      "title": "The Crescent Scholar",
       "score": 0.658,
       "r18": false
     },
     {
-      "id": 55078,
-      "title": "The Crescent Scholar",
+      "id": 35907,
+      "title": "Restless",
       "score": 0.658,
       "r18": false
     },
@@ -68,6 +68,12 @@
       "id": 36994,
       "title": "Fate Makes No Mistakes",
       "score": 0.656,
+      "r18": false
+    },
+    {
+      "id": 59423,
+      "title": "Eunsoo's Good Day",
+      "score": 0.655,
       "r18": false
     },
     {
@@ -85,13 +91,25 @@
     {
       "id": 33002,
       "title": "Romantic Box",
-      "score": 0.651,
+      "score": 0.65,
       "r18": false
     },
     {
       "id": 44185,
       "title": "Kiss The Bride",
       "score": 0.421,
+      "r18": false
+    },
+    {
+      "id": 56675,
+      "title": "When a Yakuza falls in love",
+      "score": 0.4,
+      "r18": false
+    },
+    {
+      "id": 52199,
+      "title": "Affectionately",
+      "score": 0.398,
       "r18": false
     },
     {
@@ -103,19 +121,13 @@
     {
       "id": 22233,
       "title": "Make Me Bark",
-      "score": 0.392,
+      "score": 0.391,
       "r18": false
     },
     {
       "id": 50851,
       "title": "Shh, You'll Wake up the Child",
       "score": 0.391,
-      "r18": false
-    },
-    {
-      "id": 52199,
-      "title": "Affectionately",
-      "score": 0.39,
       "r18": false
     },
     {
@@ -131,27 +143,15 @@
       "r18": false
     },
     {
+      "id": 59268,
+      "title": "Santa Will Always Grant Your Wishes",
+      "score": 0.388,
+      "r18": false
+    },
+    {
       "id": 52653,
       "title": "It's Not Like That",
       "score": 0.387,
-      "r18": false
-    },
-    {
-      "id": 30153,
-      "title": "Sweet Trap",
-      "score": 0.386,
-      "r18": false
-    },
-    {
-      "id": 39457,
-      "title": "Master Baek's Case Notes",
-      "score": 0.376,
-      "r18": false
-    },
-    {
-      "id": 41682,
-      "title": "Keeper of the Pearl",
-      "score": 0.375,
       "r18": false
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": 55259,
   "title": "Omoi Shire",
-  "url": "https://mangadex.org/manga/55259",
-  "last_updated": "January 16, 2021 06:39:22 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55259",
+  "last_updated": "March 12, 2021 20:35:34 UTC",
   "matches": [
     {
       "id": 37280,
@@ -43,6 +43,12 @@
     {
       "id": 27658,
       "title": "Takaramono",
+      "score": 0.774,
+      "r18": false
+    },
+    {
+      "id": 16544,
+      "title": "ULTRAS",
       "score": 0.774,
       "r18": false
     },
@@ -97,12 +103,6 @@
     {
       "id": 58065,
       "title": "Honey Baby",
-      "score": 0.767,
-      "r18": false
-    },
-    {
-      "id": 16544,
-      "title": "ULTRAS",
       "score": 0.767,
       "r18": false
     },

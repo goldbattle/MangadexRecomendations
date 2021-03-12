@@ -1,8 +1,8 @@
 {
   "id": 54242,
   "title": "Tensai Kusoyarou no Jikenbo",
-  "url": "https://mangadex.org/manga/54242",
-  "last_updated": "January 16, 2021 06:30:10 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54242",
+  "last_updated": "March 12, 2021 20:23:11 UTC",
   "matches": [
     {
       "id": 6182,
@@ -13,7 +13,7 @@
     {
       "id": 5986,
       "title": "Ii Hito. - For New Natural Life",
-      "score": 0.691,
+      "score": 0.692,
       "r18": false
     },
     {
@@ -89,12 +89,6 @@
       "r18": false
     },
     {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.68,
-      "r18": false
-    },
-    {
       "id": 4880,
       "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
       "score": 0.68,
@@ -107,26 +101,14 @@
       "r18": false
     },
     {
-      "id": 505,
-      "title": "Nagato Yuki-chan no Shoushitsu",
-      "score": 0.679,
-      "r18": false
-    },
-    {
       "id": 5189,
       "title": "Kamisama Kazoku",
       "score": 0.679,
       "r18": false
     },
     {
-      "id": 35626,
-      "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Kenki Koiuta",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 13974,
-      "title": "Yahari Ore no Seishun Love Come wa Machigatteiru @comic",
+      "id": 505,
+      "title": "Nagato Yuki-chan no Shoushitsu",
       "score": 0.679,
       "r18": false
     },
@@ -143,6 +125,12 @@
       "r18": false
     },
     {
+      "id": 398,
+      "title": "Tsumi to Batsu - A Falsified Romance",
+      "score": 0.678,
+      "r18": false
+    },
+    {
       "id": 17623,
       "title": "Iwaihime",
       "score": 0.678,
@@ -151,7 +139,19 @@
     {
       "id": 34367,
       "title": "A Tale of Royal Disturbance: Now He's Gone from Echo Valley",
+      "score": 0.677,
+      "r18": false
+    },
+    {
+      "id": 15286,
+      "title": "Fate/stay night: Heaven's Feel",
       "score": 0.676,
+      "r18": false
+    },
+    {
+      "id": 1569,
+      "title": "HE&forall;DS",
+      "score": 0.675,
       "r18": false
     }
   ]

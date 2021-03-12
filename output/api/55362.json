@@ -1,8 +1,8 @@
 {
   "id": 55362,
   "title": "Hiyon: A Thin Red Thread",
-  "url": "https://mangadex.org/manga/55362",
-  "last_updated": "January 16, 2021 06:40:18 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55362",
+  "last_updated": "March 12, 2021 20:36:52 UTC",
   "matches": [
     {
       "id": 23231,
@@ -14,6 +14,12 @@
       "id": 51938,
       "title": "The Young Lady I Served Became a Young Master",
       "score": 0.717,
+      "r18": false
+    },
+    {
+      "id": 58084,
+      "title": "A Kind Goblin's Bird",
+      "score": 0.716,
       "r18": false
     },
     {
@@ -101,26 +107,32 @@
       "r18": false
     },
     {
-      "id": 38934,
-      "title": "Mire's Corridor",
-      "score": 0.697,
-      "r18": false
-    },
-    {
       "id": 39728,
       "title": "The Record of Unusual Creatures",
       "score": 0.697,
       "r18": false
     },
     {
+      "id": 38934,
+      "title": "Mire's Corridor",
+      "score": 0.697,
+      "r18": false
+    },
+    {
       "id": 45306,
       "title": "Peerless Battle Spirit",
-      "score": 0.697,
+      "score": 0.696,
       "r18": false
     },
     {
       "id": 54736,
       "title": "Cheerful Countess Sisters",
+      "score": 0.696,
+      "r18": false
+    },
+    {
+      "id": 19542,
+      "title": "Chuan Yue Xi Yuan 3000 Hou",
       "score": 0.696,
       "r18": false
     },
@@ -137,20 +149,8 @@
       "r18": false
     },
     {
-      "id": 19542,
-      "title": "Chuan Yue Xi Yuan 3000 Hou",
-      "score": 0.695,
-      "r18": false
-    },
-    {
       "id": 37906,
       "title": "The God of the Land and Grain&rsquo;s Mountain River Map",
-      "score": 0.694,
-      "r18": false
-    },
-    {
-      "id": 31030,
-      "title": "Vampire Heart",
       "score": 0.693,
       "r18": false
     }

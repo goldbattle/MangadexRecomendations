@@ -1,8 +1,8 @@
 {
   "id": 54193,
   "title": "Ashita mo Koko de Aou",
-  "url": "https://mangadex.org/manga/54193",
-  "last_updated": "January 16, 2021 06:29:42 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54193",
+  "last_updated": "March 12, 2021 20:22:34 UTC",
   "matches": [
     {
       "id": 13263,
@@ -38,6 +38,12 @@
       "id": 37573,
       "title": "Shitsuji wa Oose no Mama ni",
       "score": 0.726,
+      "r18": false
+    },
+    {
+      "id": 16544,
+      "title": "ULTRAS",
+      "score": 0.722,
       "r18": false
     },
     {
@@ -79,13 +85,13 @@
     {
       "id": 37280,
       "title": "Kimi no Ai wa Mienikui",
-      "score": 0.717,
+      "score": 0.716,
       "r18": false
     },
     {
       "id": 15912,
       "title": "Young Bad Education",
-      "score": 0.717,
+      "score": 0.716,
       "r18": false
     },
     {
@@ -97,12 +103,6 @@
     {
       "id": 10923,
       "title": "Kooporasu e Youkoso",
-      "score": 0.716,
-      "r18": false
-    },
-    {
-      "id": 16544,
-      "title": "ULTRAS",
       "score": 0.716,
       "r18": false
     },
@@ -151,7 +151,7 @@
     {
       "id": 12443,
       "title": "Junjou Romantica",
-      "score": 0.711,
+      "score": 0.71,
       "r18": false
     }
   ]

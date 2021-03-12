@@ -1,8 +1,8 @@
 {
   "id": 54444,
   "title": "FM Boy",
-  "url": "https://mangadex.org/manga/54444",
-  "last_updated": "January 16, 2021 06:32:00 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54444",
+  "last_updated": "March 12, 2021 20:25:41 UTC",
   "matches": [
     {
       "id": 44507,
@@ -13,13 +13,19 @@
     {
       "id": 30774,
       "title": "May I Shake Your Hand",
-      "score": 0.427,
+      "score": 0.428,
       "r18": false
     },
     {
       "id": 56430,
       "title": "Mommy Is Coming, Daddy Watch Out!",
       "score": 0.405,
+      "r18": false
+    },
+    {
+      "id": 56811,
+      "title": "Billionaires Are Only for You",
+      "score": 0.402,
       "r18": false
     },
     {
@@ -73,7 +79,7 @@
     {
       "id": 52694,
       "title": "Love Song",
-      "score": 0.371,
+      "score": 0.372,
       "r18": false
     },
     {
@@ -91,7 +97,7 @@
     {
       "id": 52756,
       "title": "Sister, Stop Messing With Me!",
-      "score": 0.366,
+      "score": 0.367,
       "r18": false
     },
     {
@@ -107,15 +113,9 @@
       "r18": false
     },
     {
-      "id": 57438,
-      "title": "Friends Until the Fourth Verse",
-      "score": 0.363,
-      "r18": false
-    },
-    {
       "id": 57511,
       "title": "Black Lotus",
-      "score": 0.361,
+      "score": 0.362,
       "r18": false
     },
     {
@@ -128,6 +128,12 @@
       "id": 38934,
       "title": "Mire's Corridor",
       "score": 0.36,
+      "r18": false
+    },
+    {
+      "id": 46817,
+      "title": "61 Days with You",
+      "score": 0.359,
       "r18": false
     },
     {
@@ -145,12 +151,6 @@
     {
       "id": 51695,
       "title": "Nymph",
-      "score": 0.356,
-      "r18": false
-    },
-    {
-      "id": 46817,
-      "title": "61 Days with You",
       "score": 0.356,
       "r18": false
     }

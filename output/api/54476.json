@@ -1,13 +1,13 @@
 {
   "id": 54476,
   "title": "Just the way you are (GL)",
-  "url": "https://mangadex.org/manga/54476",
-  "last_updated": "January 16, 2021 06:32:18 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54476",
+  "last_updated": "March 12, 2021 20:26:06 UTC",
   "matches": [
     {
       "id": 4623,
       "title": "Hana to Hoshi",
-      "score": 0.68,
+      "score": 0.681,
       "r18": false
     },
     {
@@ -55,7 +55,7 @@
     {
       "id": 15329,
       "title": "Yagate Kimi ni Naru",
-      "score": 0.653,
+      "score": 0.652,
       "r18": false
     },
     {
@@ -98,6 +98,12 @@
       "id": 26753,
       "title": "Senpai ha Ohgataken.",
       "score": 0.405,
+      "r18": false
+    },
+    {
+      "id": 55335,
+      "title": "Kotonoha",
+      "score": 0.4,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 12789,
       "title": "Vespa",
       "score": 0.365,
-      "r18": false
-    },
-    {
-      "id": 54084,
-      "title": "Facing the Sun (GL)",
-      "score": 0.36,
       "r18": false
     }
   ]

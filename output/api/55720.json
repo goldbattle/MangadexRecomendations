@@ -1,8 +1,8 @@
 {
   "id": 55720,
   "title": "Bug Girl.",
-  "url": "https://mangadex.org/manga/55720",
-  "last_updated": "January 16, 2021 12:46:43 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55720",
+  "last_updated": "March 12, 2021 20:41:21 UTC",
   "matches": [
     {
       "id": 2762,
@@ -47,6 +47,12 @@
       "r18": false
     },
     {
+      "id": 59458,
+      "title": "Saber Cats",
+      "score": 0.227,
+      "r18": false
+    },
+    {
       "id": 281,
       "title": "Trigun Maximum",
       "score": 0.194,
@@ -77,6 +83,12 @@
       "r18": false
     },
     {
+      "id": 59566,
+      "title": "Sandlands: A King is Born",
+      "score": 0.17,
+      "r18": false
+    },
+    {
       "id": 16215,
       "title": "Smokin' Parade",
       "score": 0.151,
@@ -92,12 +104,6 @@
       "id": 25180,
       "title": "Metroid (E-Manga)",
       "score": 0.136,
-      "r18": false
-    },
-    {
-      "id": 9123,
-      "title": "One Punch Man (Webcomic/Original)",
-      "score": 0.124,
       "r18": false
     },
     {

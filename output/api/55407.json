@@ -1,8 +1,8 @@
 {
   "id": 55407,
   "title": "Tokyo Higoro",
-  "url": "https://mangadex.org/manga/55407",
-  "last_updated": "January 16, 2021 06:40:42 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55407",
+  "last_updated": "March 12, 2021 20:37:26 UTC",
   "matches": [
     {
       "id": 38175,
@@ -37,12 +37,18 @@
     {
       "id": 20346,
       "title": "Watashi no Shounen",
-      "score": 0.699,
+      "score": 0.698,
       "r18": false
     },
     {
       "id": 12132,
       "title": "Wanitokagegisu",
+      "score": 0.698,
+      "r18": false
+    },
+    {
+      "id": 4135,
+      "title": "Mushishi",
       "score": 0.698,
       "r18": false
     },
@@ -56,12 +62,6 @@
       "id": 5927,
       "title": "Subarashii Sekai",
       "score": 0.695,
-      "r18": false
-    },
-    {
-      "id": 4135,
-      "title": "Mushishi",
-      "score": 0.694,
       "r18": false
     },
     {
@@ -119,12 +119,6 @@
       "r18": false
     },
     {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.686,
-      "r18": false
-    },
-    {
       "id": 12033,
       "title": "Shoujo Shuumatsu Ryokou",
       "score": 0.686,
@@ -145,12 +139,18 @@
     {
       "id": 3447,
       "title": "Memories of Emanon",
-      "score": 0.684,
+      "score": 0.685,
       "r18": false
     },
     {
       "id": 1915,
       "title": "Team Medical Dragon",
+      "score": 0.684,
+      "r18": false
+    },
+    {
+      "id": 5260,
+      "title": "Saishuu Heiki Kanojo",
       "score": 0.684,
       "r18": false
     }

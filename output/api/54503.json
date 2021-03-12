@@ -1,8 +1,8 @@
 {
   "id": 54503,
   "title": "Our First Day",
-  "url": "https://mangadex.org/manga/54503",
-  "last_updated": "January 16, 2021 06:32:33 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54503",
+  "last_updated": "March 12, 2021 20:26:25 UTC",
   "matches": [
     {
       "id": 31358,
@@ -35,6 +35,12 @@
       "r18": false
     },
     {
+      "id": 57028,
+      "title": "Together With Woo Rae",
+      "score": 0.651,
+      "r18": false
+    },
+    {
       "id": 42702,
       "title": "Winter That Year",
       "score": 0.472,
@@ -53,14 +59,14 @@
       "r18": false
     },
     {
-      "id": 56035,
-      "title": "BOUNDARY",
+      "id": 52089,
+      "title": "Six Sense",
       "score": 0.432,
       "r18": false
     },
     {
-      "id": 52089,
-      "title": "Six Sense",
+      "id": 56035,
+      "title": "BOUNDARY",
       "score": 0.432,
       "r18": false
     },
@@ -77,6 +83,12 @@
       "r18": false
     },
     {
+      "id": 57997,
+      "title": "An Omega's Love Affair",
+      "score": 0.426,
+      "r18": false
+    },
+    {
       "id": 49532,
       "title": "Down and Dirty",
       "score": 0.425,
@@ -85,12 +97,6 @@
     {
       "id": 52947,
       "title": "Form of Sympathy",
-      "score": 0.42,
-      "r18": false
-    },
-    {
-      "id": 50673,
-      "title": "Punto de Fusi&oacute;n",
       "score": 0.42,
       "r18": false
     },
@@ -113,9 +119,21 @@
       "r18": false
     },
     {
+      "id": 57765,
+      "title": "Summer Guest",
+      "score": 0.414,
+      "r18": false
+    },
+    {
       "id": 55867,
       "title": "No More Lonely Night",
       "score": 0.414,
+      "r18": false
+    },
+    {
+      "id": 39270,
+      "title": "Behind the Desks",
+      "score": 0.409,
       "r18": false
     },
     {
@@ -134,24 +152,6 @@
       "id": 50290,
       "title": "Knock Me Out",
       "score": 0.407,
-      "r18": false
-    },
-    {
-      "id": 53042,
-      "title": "Lion Heart",
-      "score": 0.406,
-      "r18": false
-    },
-    {
-      "id": 30331,
-      "title": "Antinomy",
-      "score": 0.406,
-      "r18": false
-    },
-    {
-      "id": 55977,
-      "title": "Ways of Parting",
-      "score": 0.406,
       "r18": false
     }
   ]

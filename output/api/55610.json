@@ -1,8 +1,8 @@
 {
   "id": 55610,
   "title": "Mahouka Koukou no Rettousei - Shizoku Kaigi-hen",
-  "url": "https://mangadex.org/manga/55610",
-  "last_updated": "January 16, 2021 06:42:32 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55610",
+  "last_updated": "March 12, 2021 20:40:00 UTC",
   "matches": [
     {
       "id": 17695,
@@ -89,18 +89,6 @@
       "r18": false
     },
     {
-      "id": 43429,
-      "title": "Bungou Stray Dogs Beast",
-      "score": 0.697,
-      "r18": false
-    },
-    {
-      "id": 54801,
-      "title": "One Piece Episode A",
-      "score": 0.696,
-      "r18": false
-    },
-    {
       "id": 5721,
       "title": "Isekai no Seikishi Monogatari",
       "score": 0.696,
@@ -151,6 +139,18 @@
     {
       "id": 3861,
       "title": "Super Robot Taisen OG - The Inspector - Record of ATX",
+      "score": 0.688,
+      "r18": false
+    },
+    {
+      "id": 23798,
+      "title": "Sword Art Online - Ordinal Scale",
+      "score": 0.688,
+      "r18": false
+    },
+    {
+      "id": 20288,
+      "title": "World Teacher &ndash; Other World Style Education &amp; Agent",
       "score": 0.688,
       "r18": false
     }

@@ -1,25 +1,19 @@
 {
   "id": 55649,
   "title": "VIKING LORD",
-  "url": "https://mangadex.org/manga/55649",
-  "last_updated": "January 16, 2021 06:42:53 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55649",
+  "last_updated": "March 12, 2021 20:40:29 UTC",
   "matches": [
     {
       "id": 6146,
       "title": "U wa Uchuusen no U",
-      "score": 0.787,
+      "score": 0.788,
       "r18": false
     },
     {
       "id": 23231,
       "title": "Wu Dong Qian Kun",
       "score": 0.776,
-      "r18": false
-    },
-    {
-      "id": 21283,
-      "title": "Persona 5",
-      "score": 0.774,
       "r18": false
     },
     {
@@ -79,7 +73,7 @@
     {
       "id": 10801,
       "title": "Mahoutsukai no Yome",
-      "score": 0.761,
+      "score": 0.762,
       "r18": false
     },
     {
@@ -89,14 +83,14 @@
       "r18": false
     },
     {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
+      "id": 28525,
+      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo",
       "score": 0.76,
       "r18": false
     },
     {
-      "id": 28525,
-      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo",
+      "id": 51318,
+      "title": "Truthfully, They Only Remembered Her",
       "score": 0.76,
       "r18": false
     },
@@ -152,6 +146,12 @@
       "id": 25435,
       "title": "Madara",
       "score": 0.758,
+      "r18": false
+    },
+    {
+      "id": 21664,
+      "title": "Persona x Detective Naoto",
+      "score": 0.757,
       "r18": false
     }
   ]

@@ -1,13 +1,13 @@
 {
   "id": 54277,
   "title": "Loving Bok-Qi",
-  "url": "https://mangadex.org/manga/54277",
-  "last_updated": "January 16, 2021 06:30:29 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54277",
+  "last_updated": "March 12, 2021 20:23:38 UTC",
   "matches": [
     {
       "id": 32047,
       "title": "Gisou Furin",
-      "score": 0.655,
+      "score": 0.656,
       "r18": false
     },
     {
@@ -26,12 +26,6 @@
       "id": 28638,
       "title": "Haomen Qifu de Chuntian",
       "score": 0.366,
-      "r18": false
-    },
-    {
-      "id": 51000,
-      "title": "I Want to Do It, Even If It Hurts",
-      "score": 0.364,
       "r18": false
     },
     {
@@ -59,8 +53,8 @@
       "r18": false
     },
     {
-      "id": 54213,
-      "title": "A Butterfly Metamorphoses Three Times",
+      "id": 51000,
+      "title": "I Want to Do It, Even If It Hurts",
       "score": 0.331,
       "r18": false
     },
@@ -101,8 +95,8 @@
       "r18": false
     },
     {
-      "id": 44537,
-      "title": "Love Your Enemies",
+      "id": 56191,
+      "title": "Taming the Ultimate Tyrant",
       "score": 0.317,
       "r18": false
     },
@@ -119,8 +113,8 @@
       "r18": false
     },
     {
-      "id": 56191,
-      "title": "Taming the Absolute Tyrant",
+      "id": 44537,
+      "title": "Love Your Enemies",
       "score": 0.316,
       "r18": false
     },
@@ -152,6 +146,12 @@
       "id": 44995,
       "title": "Love Alarm",
       "score": 0.31,
+      "r18": false
+    },
+    {
+      "id": 42273,
+      "title": "Haru",
+      "score": 0.308,
       "r18": false
     }
   ]

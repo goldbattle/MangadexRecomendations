@@ -1,8 +1,8 @@
 {
   "id": 54320,
   "title": "Durarara!! DJ - 4213 mg Haigou no Kimochi",
-  "url": "https://mangadex.org/manga/54320",
-  "last_updated": "January 16, 2021 06:30:52 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54320",
+  "last_updated": "March 12, 2021 20:24:09 UTC",
   "matches": [
     {
       "id": 51104,
@@ -25,7 +25,7 @@
     {
       "id": 37110,
       "title": "Haikyuu!! - Ore to Osananajimi no Shoya ni Matsuwaru Arekore (Doujinshi)",
-      "score": 0.353,
+      "score": 0.354,
       "r18": false
     },
     {
@@ -137,12 +137,6 @@
       "r18": false
     },
     {
-      "id": 26159,
-      "title": "Eigyou Nika! - Kiss Me (Doujinshi)",
-      "score": 0.265,
-      "r18": false
-    },
-    {
       "id": 26160,
       "title": "Eigyou Nika! - Please Pour Milk Into The Cup (Doujinshi)",
       "score": 0.265,
@@ -151,6 +145,12 @@
     {
       "id": 31708,
       "title": "Boku no Hero Academia - Magnificent (Doujinshi)",
+      "score": 0.265,
+      "r18": false
+    },
+    {
+      "id": 34172,
+      "title": "Boku no Hero Academia - Otogi (Doujinshi)",
       "score": 0.265,
       "r18": false
     }

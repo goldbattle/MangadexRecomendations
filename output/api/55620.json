@@ -1,8 +1,8 @@
 {
   "id": 55620,
   "title": "If I Could Take this Collar Off",
-  "url": "https://mangadex.org/manga/55620",
-  "last_updated": "January 16, 2021 06:42:38 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55620",
+  "last_updated": "March 12, 2021 20:40:07 UTC",
   "matches": [
     {
       "id": 38392,
@@ -53,8 +53,26 @@
       "r18": false
     },
     {
+      "id": 42988,
+      "title": "Ookami-chan no Ohanashi",
+      "score": 0.237,
+      "r18": false
+    },
+    {
       "id": 44632,
       "title": "Mangaka-sensei to Zashiki Warashi",
+      "score": 0.237,
+      "r18": false
+    },
+    {
+      "id": 58601,
+      "title": "Nina is plotting my death!",
+      "score": 0.237,
+      "r18": false
+    },
+    {
+      "id": 59478,
+      "title": "Marie-sama wo Wakarasetai!",
       "score": 0.237,
       "r18": false
     },
@@ -134,24 +152,6 @@
       "id": 26297,
       "title": "Maou ni Natta node, Dungeon Tsukutte Jingai Musume to Honobono suru",
       "score": 0.177,
-      "r18": false
-    },
-    {
-      "id": 32153,
-      "title": "Taimashi to Akuma-chan",
-      "score": 0.177,
-      "r18": false
-    },
-    {
-      "id": 48537,
-      "title": "S Rank Boukensha de aru Ore no Musume-tachi wa Juudo no Father Con deshita",
-      "score": 0.175,
-      "r18": false
-    },
-    {
-      "id": 50528,
-      "title": "Love Grimoire ~The World Is Doomed Unless the Ultimate Virgin Hero Gets Married~",
-      "score": 0.175,
       "r18": false
     }
   ]

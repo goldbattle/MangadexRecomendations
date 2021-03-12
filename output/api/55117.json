@@ -1,8 +1,8 @@
 {
   "id": 55117,
   "title": "Sarou no Ryoshuu",
-  "url": "https://mangadex.org/manga/55117",
-  "last_updated": "January 16, 2021 06:38:05 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55117",
+  "last_updated": "March 12, 2021 20:33:52 UTC",
   "matches": [
     {
       "id": 4810,
@@ -25,13 +25,19 @@
     {
       "id": 7331,
       "title": "Kare no Niwa ni Saku Hana",
-      "score": 0.809,
+      "score": 0.808,
       "r18": false
     },
     {
       "id": 37280,
       "title": "Kimi no Ai wa Mienikui",
       "score": 0.808,
+      "r18": false
+    },
+    {
+      "id": 16544,
+      "title": "ULTRAS",
+      "score": 0.803,
       "r18": false
     },
     {
@@ -56,12 +62,6 @@
       "id": 37573,
       "title": "Shitsuji wa Oose no Mama ni",
       "score": 0.797,
-      "r18": false
-    },
-    {
-      "id": 16544,
-      "title": "ULTRAS",
-      "score": 0.796,
       "r18": false
     },
     {
@@ -115,7 +115,7 @@
     {
       "id": 24620,
       "title": "Amai Nukumori",
-      "score": 0.789,
+      "score": 0.79,
       "r18": false
     },
     {
@@ -143,14 +143,14 @@
       "r18": false
     },
     {
-      "id": 58356,
-      "title": "Finger Stinger",
+      "id": 26528,
+      "title": "Hisho wa Shachou ni Kudokareru",
       "score": 0.788,
       "r18": false
     },
     {
-      "id": 26528,
-      "title": "Hisho wa Shachou ni Kudokareru",
+      "id": 53196,
+      "title": "Love Together",
       "score": 0.787,
       "r18": false
     }

@@ -1,8 +1,8 @@
 {
   "id": 55180,
   "title": "Planet Your",
-  "url": "https://mangadex.org/manga/55180",
-  "last_updated": "January 16, 2021 06:38:39 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55180",
+  "last_updated": "March 12, 2021 20:34:37 UTC",
   "matches": [
     {
       "id": 56175,
@@ -14,6 +14,12 @@
       "id": 52458,
       "title": "Rainy Girl and Sunny Boy",
       "score": 0.382,
+      "r18": false
+    },
+    {
+      "id": 59413,
+      "title": "Tales of Life's Victories",
+      "score": 0.38,
       "r18": false
     },
     {
@@ -73,7 +79,7 @@
     {
       "id": 58976,
       "title": "Everything was beautiful and nothing hurt",
-      "score": 0.315,
+      "score": 0.314,
       "r18": false
     },
     {
@@ -119,6 +125,12 @@
       "r18": false
     },
     {
+      "id": 57598,
+      "title": "Yada-san Is Cold",
+      "score": 0.294,
+      "r18": false
+    },
+    {
       "id": 53832,
       "title": "Love Tweets",
       "score": 0.293,
@@ -139,19 +151,7 @@
     {
       "id": 45824,
       "title": "First Comes Love, Then Comes Marriage",
-      "score": 0.287,
-      "r18": false
-    },
-    {
-      "id": 53364,
-      "title": "Returning from a Drinking Party",
-      "score": 0.286,
-      "r18": false
-    },
-    {
-      "id": 55150,
-      "title": "The Story of a Quiet Boyfriend Who Could Only Say What He Liked About Her",
-      "score": 0.286,
+      "score": 0.288,
       "r18": false
     }
   ]

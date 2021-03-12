@@ -1,8 +1,8 @@
 {
   "id": 55722,
   "title": "Jadou Sniper",
-  "url": "https://mangadex.org/manga/55722",
-  "last_updated": "January 16, 2021 12:46:44 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55722",
+  "last_updated": "March 12, 2021 20:41:22 UTC",
   "matches": [
     {
       "id": 826,
@@ -137,6 +137,12 @@
       "r18": false
     },
     {
+      "id": 51303,
+      "title": "Mabataki yori Hayaku!!",
+      "score": 0.24,
+      "r18": false
+    },
+    {
       "id": 53860,
       "title": "Medalist",
       "score": 0.24,
@@ -145,12 +151,6 @@
     {
       "id": 54111,
       "title": "Double Bull",
-      "score": 0.24,
-      "r18": false
-    },
-    {
-      "id": 56746,
-      "title": "STRAIGHT",
       "score": 0.24,
       "r18": false
     }

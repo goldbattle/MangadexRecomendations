@@ -1,8 +1,8 @@
 {
   "id": 54589,
   "title": "Poophair and...",
-  "url": "https://mangadex.org/manga/54589",
-  "last_updated": "January 16, 2021 06:33:21 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54589",
+  "last_updated": "March 12, 2021 20:27:28 UTC",
   "matches": [
     {
       "id": 54620,
@@ -86,6 +86,12 @@
       "id": 54653,
       "title": "Heartful Throne",
       "score": 0.194,
+      "r18": false
+    },
+    {
+      "id": 50879,
+      "title": "Bloodborne",
+      "score": 0.17,
       "r18": false
     },
     {

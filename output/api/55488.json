@@ -1,8 +1,8 @@
 {
   "id": 55488,
   "title": "Ice Ice Baby",
-  "url": "https://mangadex.org/manga/55488",
-  "last_updated": "January 16, 2021 06:41:27 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55488",
+  "last_updated": "March 12, 2021 20:38:28 UTC",
   "matches": [
     {
       "id": 2046,
@@ -43,6 +43,12 @@
     {
       "id": 12645,
       "title": "Ai ga Areba Ii no Da",
+      "score": 0.679,
+      "r18": false
+    },
+    {
+      "id": 34318,
+      "title": "Amakunai Karera no Nichijou wa",
       "score": 0.679,
       "r18": false
     },
@@ -145,12 +151,6 @@
     {
       "id": 5140,
       "title": "Houou Gakuen Misoragumi",
-      "score": 0.671,
-      "r18": false
-    },
-    {
-      "id": 12037,
-      "title": "Rockin' \u2605 Heaven",
       "score": 0.671,
       "r18": false
     }

@@ -1,13 +1,13 @@
 {
   "id": 55282,
   "title": "Supreme God",
-  "url": "https://mangadex.org/manga/55282",
-  "last_updated": "January 16, 2021 06:39:34 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55282",
+  "last_updated": "March 12, 2021 20:35:51 UTC",
   "matches": [
     {
       "id": 51318,
       "title": "Truthfully, They Only Remembered Her",
-      "score": 0.684,
+      "score": 0.686,
       "r18": false
     },
     {
@@ -79,12 +79,18 @@
     {
       "id": 49522,
       "title": "Danwu Supreme",
-      "score": 0.653,
+      "score": 0.654,
       "r18": false
     },
     {
       "id": 46798,
       "title": "Divine Perspective",
+      "score": 0.653,
+      "r18": false
+    },
+    {
+      "id": 4454,
+      "title": "Fire Emblem - Hasha no Tsurugi",
       "score": 0.653,
       "r18": false
     },
@@ -95,8 +101,8 @@
       "r18": false
     },
     {
-      "id": 4454,
-      "title": "Fire Emblem - Hasha no Tsurugi",
+      "id": 59999,
+      "title": "Save Me, Princess",
       "score": 0.653,
       "r18": false
     },
@@ -125,33 +131,27 @@
       "r18": false
     },
     {
-      "id": 42858,
-      "title": "Wan Gu Shen Wang",
-      "score": 0.65,
-      "r18": false
-    },
-    {
       "id": 12548,
       "title": "Mad God",
       "score": 0.65,
       "r18": false
     },
     {
+      "id": 42858,
+      "title": "Wan Gu Shen Wang",
+      "score": 0.65,
+      "r18": false
+    },
+    {
+      "id": 24120,
+      "title": "I am a Great God",
+      "score": 0.468,
+      "r18": false
+    },
+    {
       "id": 18907,
       "title": "Dawn of the Eastland",
       "score": 0.45,
-      "r18": false
-    },
-    {
-      "id": 48998,
-      "title": "Reborn as King/Emperor",
-      "score": 0.426,
-      "r18": false
-    },
-    {
-      "id": 50993,
-      "title": "Martial Inverse",
-      "score": 0.42,
       "r18": false
     }
   ]

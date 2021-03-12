@@ -1,8 +1,8 @@
 {
   "id": 54665,
   "title": "Obey Me!",
-  "url": "https://mangadex.org/manga/54665",
-  "last_updated": "January 16, 2021 06:34:02 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54665",
+  "last_updated": "March 12, 2021 20:28:24 UTC",
   "matches": [
     {
       "id": 52693,
@@ -14,6 +14,12 @@
       "id": 52638,
       "title": "My Beloved Ghost",
       "score": 0.26,
+      "r18": false
+    },
+    {
+      "id": 58084,
+      "title": "A Kind Goblin's Bird",
+      "score": 0.255,
       "r18": false
     },
     {
@@ -49,7 +55,7 @@
     {
       "id": 51257,
       "title": "I Stole the Male Lead's First Night",
-      "score": 0.24,
+      "score": 0.241,
       "r18": false
     },
     {
@@ -77,15 +83,21 @@
       "r18": false
     },
     {
-      "id": 47641,
-      "title": "A Tail Love",
-      "score": 0.227,
+      "id": 59841,
+      "title": "Elixir of the Sun",
+      "score": 0.232,
       "r18": false
     },
     {
-      "id": 58463,
-      "title": "I Raised the Beast Well",
-      "score": 0.224,
+      "id": 59440,
+      "title": "The Flower Dances and the Wind Sings",
+      "score": 0.228,
+      "r18": false
+    },
+    {
+      "id": 47641,
+      "title": "A Tail Love",
+      "score": 0.227,
       "r18": false
     },
     {
@@ -97,6 +109,12 @@
     {
       "id": 5051,
       "title": "Pink Lady Classic",
+      "score": 0.224,
+      "r18": false
+    },
+    {
+      "id": 58904,
+      "title": "I Picked Up the Second Male Lead After the Ending",
       "score": 0.224,
       "r18": false
     },
@@ -113,9 +131,15 @@
       "r18": false
     },
     {
-      "id": 58904,
-      "title": "I Picked Up the Second Male Lead After the Ending",
+      "id": 57632,
+      "title": "I Gave Birth to a Villain's Child",
       "score": 0.218,
+      "r18": false
+    },
+    {
+      "id": 55483,
+      "title": "The Newly-wed Life Of A Witch And A Dragon",
+      "score": 0.216,
       "r18": false
     },
     {
@@ -128,30 +152,6 @@
       "id": 2639,
       "title": "Abide in the Wind",
       "score": 0.215,
-      "r18": false
-    },
-    {
-      "id": 52899,
-      "title": "Your God Sent You",
-      "score": 0.214,
-      "r18": false
-    },
-    {
-      "id": 43207,
-      "title": "Lucifer's Bodyguard",
-      "score": 0.212,
-      "r18": false
-    },
-    {
-      "id": 55290,
-      "title": "I Raised Cinderella Preciously",
-      "score": 0.209,
-      "r18": false
-    },
-    {
-      "id": 42244,
-      "title": "A Witch's Hopeless Wish",
-      "score": 0.208,
       "r18": false
     }
   ]

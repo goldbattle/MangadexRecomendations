@@ -1,8 +1,8 @@
 {
   "id": 55661,
   "title": "Free! dj - Natsu no Kemono",
-  "url": "https://mangadex.org/manga/55661",
-  "last_updated": "January 16, 2021 06:43:00 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55661",
+  "last_updated": "March 12, 2021 20:40:38 UTC",
   "matches": [
     {
       "id": 4917,
@@ -37,6 +37,12 @@
     {
       "id": 7404,
       "title": "Code Geass - Cherry (Doujinshi)",
+      "score": 0.36,
+      "r18": false
+    },
+    {
+      "id": 7406,
+      "title": "Code Geass - Diva (Doujinshi)",
       "score": 0.36,
       "r18": false
     },
@@ -145,12 +151,6 @@
     {
       "id": 27963,
       "title": "Shingeki no Kyojin - Kawaisa Amatte (Doujinshi)",
-      "score": 0.36,
-      "r18": false
-    },
-    {
-      "id": 28674,
-      "title": "Gensou Suikoden II - Love Sickness (Doujinshi)",
       "score": 0.36,
       "r18": false
     }

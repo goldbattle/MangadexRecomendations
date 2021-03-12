@@ -1,8 +1,8 @@
 {
   "id": 54623,
   "title": "Towelll",
-  "url": "https://mangadex.org/manga/54623",
-  "last_updated": "January 16, 2021 06:33:40 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54623",
+  "last_updated": "March 12, 2021 20:27:54 UTC",
   "matches": [
     {
       "id": 54621,
@@ -19,7 +19,7 @@
     {
       "id": 54626,
       "title": "I Don't Know About It, So Please Teach Me!",
-      "score": 0.456,
+      "score": 0.455,
       "r18": false
     },
     {
@@ -37,13 +37,13 @@
     {
       "id": 54625,
       "title": "Refrain",
-      "score": 0.397,
+      "score": 0.396,
       "r18": false
     },
     {
       "id": 8537,
       "title": "Fate/stay night - Pregnant Servants (Doujinshi)",
-      "score": 0.327,
+      "score": 0.326,
       "r18": false
     },
     {
@@ -85,7 +85,7 @@
     {
       "id": 2276,
       "title": "Touhou Sangetsusei ~ Eastern and Little Nature Deity.",
-      "score": 0.297,
+      "score": 0.298,
       "r18": false
     },
     {
@@ -97,7 +97,7 @@
     {
       "id": 20555,
       "title": "Gustave",
-      "score": 0.287,
+      "score": 0.286,
       "r18": false
     },
     {
@@ -125,12 +125,6 @@
       "r18": false
     },
     {
-      "id": 21283,
-      "title": "Persona 5",
-      "score": 0.282,
-      "r18": false
-    },
-    {
       "id": 31840,
       "title": "Touhou - Marumaru Shinmyoumaru (Doujinshi)",
       "score": 0.28,
@@ -152,6 +146,12 @@
       "id": 5168,
       "title": "Genjuu no Seiza",
       "score": 0.271,
+      "r18": false
+    },
+    {
+      "id": 22279,
+      "title": "Tetsunagi Oni",
+      "score": 0.27,
       "r18": false
     }
   ]

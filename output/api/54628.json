@@ -1,8 +1,8 @@
 {
   "id": 54628,
   "title": "Holding Back the Real World",
-  "url": "https://mangadex.org/manga/54628",
-  "last_updated": "January 16, 2021 06:33:42 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54628",
+  "last_updated": "March 12, 2021 20:27:58 UTC",
   "matches": [
     {
       "id": 23195,
@@ -59,20 +59,8 @@
       "r18": false
     },
     {
-      "id": 3996,
-      "title": "Akatsuki no Yona",
-      "score": 0.659,
-      "r18": false
-    },
-    {
       "id": 52958,
       "title": "I&rsquo;m the Villainess, but the Capture Targets Are Too Abnormal",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 15374,
-      "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Dainishou - Yashiki no Shuukan Hen",
       "score": 0.658,
       "r18": false
     },
@@ -83,21 +71,9 @@
       "r18": false
     },
     {
-      "id": 3865,
-      "title": "Ghost Hunt",
-      "score": 0.657,
-      "r18": false
-    },
-    {
       "id": 25435,
       "title": "Madara",
       "score": 0.657,
-      "r18": false
-    },
-    {
-      "id": 42675,
-      "title": "Otome Game no Hametsu Flag shika nai Akuyaku Reijou ni Tensei shite shimatta... Zettai Zetsumei! Hametsu Sunzen Hen",
-      "score": 0.656,
       "r18": false
     },
     {
@@ -116,12 +92,6 @@
       "id": 5573,
       "title": "Saiyuki",
       "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 21283,
-      "title": "Persona 5",
-      "score": 0.653,
       "r18": false
     },
     {
@@ -149,9 +119,39 @@
       "r18": false
     },
     {
-      "id": 10004,
-      "title": "One Piece - Digital Colored Comics",
+      "id": 59999,
+      "title": "Save Me, Princess",
       "score": 0.652,
+      "r18": false
+    },
+    {
+      "id": 52444,
+      "title": "Shoukan sareta Kenja wa Isekai wo Yuku",
+      "score": 0.652,
+      "r18": false
+    },
+    {
+      "id": 10341,
+      "title": "Kokushi Musou!!",
+      "score": 0.651,
+      "r18": false
+    },
+    {
+      "id": 16801,
+      "title": "In Another World, I'm Called: the Black Healer",
+      "score": 0.651,
+      "r18": false
+    },
+    {
+      "id": 969,
+      "title": "Kamisama Hajimemashita",
+      "score": 0.651,
+      "r18": false
+    },
+    {
+      "id": 17955,
+      "title": "The Unusual Life of a Retired Demon King",
+      "score": 0.651,
       "r18": false
     }
   ]

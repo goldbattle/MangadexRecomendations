@@ -1,8 +1,8 @@
 {
   "id": 54233,
   "title": "Ballpark de Tsukamaete!",
-  "url": "https://mangadex.org/manga/54233",
-  "last_updated": "January 16, 2021 06:30:04 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54233",
+  "last_updated": "March 12, 2021 20:23:04 UTC",
   "matches": [
     {
       "id": 5734,
@@ -47,12 +47,6 @@
       "r18": false
     },
     {
-      "id": 7938,
-      "title": "Denkigai no Honya-san",
-      "score": 0.654,
-      "r18": false
-    },
-    {
       "id": 22078,
       "title": "Saotome Senshu, Hitakakusu",
       "score": 0.652,
@@ -61,12 +55,6 @@
     {
       "id": 15991,
       "title": "Koi wa Ameagari no You ni",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 875,
-      "title": "Bokura wa Minna Kawai-sou",
       "score": 0.651,
       "r18": false
     },
@@ -151,6 +139,18 @@
     {
       "id": 48139,
       "title": "Otonari Voice Chat",
+      "score": 0.371,
+      "r18": false
+    },
+    {
+      "id": 13258,
+      "title": "Supinamarada!",
+      "score": 0.371,
+      "r18": false
+    },
+    {
+      "id": 47507,
+      "title": "Cuprum&rsquo;s Bride",
       "score": 0.371,
       "r18": false
     }

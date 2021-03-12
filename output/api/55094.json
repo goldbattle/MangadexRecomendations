@@ -1,8 +1,8 @@
 {
   "id": 55094,
   "title": "Fools remastered",
-  "url": "https://mangadex.org/manga/55094",
-  "last_updated": "January 16, 2021 06:37:53 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55094",
+  "last_updated": "March 12, 2021 20:33:35 UTC",
   "matches": [
     {
       "id": 52947,
@@ -47,14 +47,14 @@
       "r18": false
     },
     {
-      "id": 42487,
-      "title": "Biting the Tiger",
+      "id": 55615,
+      "title": "90 Days for the Delicacy",
       "score": 0.697,
       "r18": false
     },
     {
-      "id": 55615,
-      "title": "90 Days for the Delicacy",
+      "id": 57765,
+      "title": "Summer Guest",
       "score": 0.697,
       "r18": false
     },
@@ -67,7 +67,7 @@
     {
       "id": 46501,
       "title": "Solar Eclipse",
-      "score": 0.695,
+      "score": 0.694,
       "r18": false
     },
     {
@@ -131,12 +131,6 @@
       "r18": false
     },
     {
-      "id": 58838,
-      "title": "The Professor's Double Life",
-      "score": 0.684,
-      "r18": false
-    },
-    {
       "id": 21666,
       "title": "Coming Out Note",
       "score": 0.683,
@@ -152,6 +146,12 @@
       "id": 41452,
       "title": "BL Motel",
       "score": 0.683,
+      "r18": false
+    },
+    {
+      "id": 36527,
+      "title": "Boy's Love",
+      "score": 0.682,
       "r18": false
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": 55309,
   "title": "ZOMBIES",
-  "url": "https://mangadex.org/manga/55309",
-  "last_updated": "January 16, 2021 06:39:49 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55309",
+  "last_updated": "March 12, 2021 20:36:12 UTC",
   "matches": [
     {
       "id": 4613,
@@ -86,6 +86,12 @@
       "id": 32117,
       "title": "Dead Life",
       "score": 0.108,
+      "r18": false
+    },
+    {
+      "id": 57003,
+      "title": "Mosquito War",
+      "score": 0.092,
       "r18": false
     },
     {

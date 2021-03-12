@@ -1,31 +1,31 @@
 {
   "id": 55414,
-  "title": "Ningyo no Hanako",
-  "url": "https://mangadex.org/manga/55414",
-  "last_updated": "January 16, 2021 06:40:46 UTC",
+  "title": "Ningyo no Hanakago",
+  "url": "https://api.mangadex.org/v2/manga/55414",
+  "last_updated": "March 12, 2021 20:37:31 UTC",
   "matches": [
-    {
-      "id": 10801,
-      "title": "Mahoutsukai no Yome",
-      "score": 0.165,
-      "r18": false
-    },
     {
       "id": 9750,
       "title": "Jitsu wa Watashi wa",
-      "score": 0.154,
+      "score": 0.124,
+      "r18": false
+    },
+    {
+      "id": 10801,
+      "title": "Mahoutsukai no Yome",
+      "score": 0.124,
       "r18": false
     },
     {
       "id": 12672,
       "title": "Tate no Yuusha no Nariagari",
-      "score": 0.129,
+      "score": 0.091,
       "r18": false
     },
     {
       "id": 18937,
       "title": "The Dragon's School is on the Top of the Mountain",
-      "score": 0.107,
+      "score": 0.072,
       "r18": false
     }
   ]

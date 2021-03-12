@@ -1,13 +1,19 @@
 {
   "id": 54311,
   "title": "Buchou no Nyanko",
-  "url": "https://mangadex.org/manga/54311",
-  "last_updated": "January 16, 2021 06:30:47 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54311",
+  "last_updated": "March 12, 2021 20:24:02 UTC",
   "matches": [
     {
       "id": 19867,
       "title": "Game: Suit no Sukima",
-      "score": 0.721,
+      "score": 0.718,
+      "r18": false
+    },
+    {
+      "id": 22238,
+      "title": "Toge ni Kuchizuke",
+      "score": 0.718,
       "r18": false
     },
     {
@@ -23,9 +29,9 @@
       "r18": false
     },
     {
-      "id": 46731,
-      "title": "Wolf Crying Pharmacy",
-      "score": 0.689,
+      "id": 59571,
+      "title": "Insatiable Once We Strip?! A Contract Marriage bound by Physical Compatibility",
+      "score": 0.687,
       "r18": false
     },
     {
@@ -42,8 +48,8 @@
     },
     {
       "id": 46057,
-      "title": "Ore wo Tatasete miro yo: Watashi no Joushi wa Kagen wo Shiranai",
-      "score": 0.677,
+      "title": "Make Me Hard: My Boss Won't Let Me Go",
+      "score": 0.678,
       "r18": false
     },
     {
@@ -91,7 +97,7 @@
     {
       "id": 52476,
       "title": "Amayakasanaide Fuku Shachou: Danna-sama wa SSR",
-      "score": 0.653,
+      "score": 0.652,
       "r18": false
     },
     {
@@ -127,13 +133,7 @@
     {
       "id": 58344,
       "title": "Kekkon Shitanode, Sex Yuukyuu Kudasai!",
-      "score": 0.319,
-      "r18": false
-    },
-    {
-      "id": 58488,
-      "title": "Dakarete Tamaruka!",
-      "score": 0.319,
+      "score": 0.322,
       "r18": false
     },
     {
@@ -149,9 +149,9 @@
       "r18": false
     },
     {
-      "id": 55405,
-      "title": "Sakuraba-kun no &quot;do zetsurin&quot;, Dada Morenandesu...",
-      "score": 0.276,
+      "id": 50399,
+      "title": "Related to Love",
+      "score": 0.28,
       "r18": false
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": 54892,
   "title": "Ack! It's a toy",
-  "url": "https://mangadex.org/manga/54892",
-  "last_updated": "January 16, 2021 06:36:05 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54892",
+  "last_updated": "March 12, 2021 20:31:08 UTC",
   "matches": [
     {
       "id": 29901,
@@ -20,6 +20,12 @@
       "id": 31208,
       "title": "Hot and Cold",
       "score": 0.378,
+      "r18": false
+    },
+    {
+      "id": 59268,
+      "title": "Santa Will Always Grant Your Wishes",
+      "score": 0.376,
       "r18": false
     },
     {
@@ -41,12 +47,6 @@
       "r18": false
     },
     {
-      "id": 59268,
-      "title": "Santa Will Always Grant Your Wishes",
-      "score": 0.344,
-      "r18": false
-    },
-    {
       "id": 52515,
       "title": "4 Week Lovers",
       "score": 0.341,
@@ -56,6 +56,12 @@
       "id": 42002,
       "title": "Virus",
       "score": 0.339,
+      "r18": false
+    },
+    {
+      "id": 42487,
+      "title": "Biting the Tiger",
+      "score": 0.337,
       "r18": false
     },
     {
@@ -80,6 +86,12 @@
       "id": 46426,
       "title": "Duke's Private Tutor",
       "score": 0.323,
+      "r18": false
+    },
+    {
+      "id": 54598,
+      "title": "Romantical Behind",
+      "score": 0.317,
       "r18": false
     },
     {
@@ -119,6 +131,12 @@
       "r18": false
     },
     {
+      "id": 56675,
+      "title": "When a Yakuza falls in love",
+      "score": 0.286,
+      "r18": false
+    },
+    {
       "id": 52648,
       "title": "Chasing Mr. CEO",
       "score": 0.284,
@@ -134,24 +152,6 @@
       "id": 57981,
       "title": "A Broken Heart Flows",
       "score": 0.27,
-      "r18": false
-    },
-    {
-      "id": 28854,
-      "title": "Snow White BL",
-      "score": 0.268,
-      "r18": false
-    },
-    {
-      "id": 40546,
-      "title": "Isaac's Sheep",
-      "score": 0.264,
-      "r18": false
-    },
-    {
-      "id": 42592,
-      "title": "Body Complex",
-      "score": 0.258,
       "r18": false
     }
   ]

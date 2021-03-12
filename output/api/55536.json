@@ -1,38 +1,44 @@
 {
   "id": 55536,
   "title": "The Third Perspective",
-  "url": "https://mangadex.org/manga/55536",
-  "last_updated": "January 16, 2021 06:41:53 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55536",
+  "last_updated": "March 12, 2021 20:39:06 UTC",
   "matches": [
     {
       "id": 54702,
       "title": "Koisuru Alpha no Sodatekata",
       "score": 0.733,
-      "r18": false
+      "r18": true
     },
     {
       "id": 57708,
       "title": "Help Me Mister",
       "score": 0.686,
-      "r18": false
+      "r18": true
     },
     {
       "id": 55846,
-      "title": "Wonwoo Designation",
+      "title": "Designaci&oacute;n de Eunwoo",
       "score": 0.666,
-      "r18": false
+      "r18": true
+    },
+    {
+      "id": 59982,
+      "title": "Gimme, Heaven",
+      "score": 0.654,
+      "r18": true
     },
     {
       "id": 58234,
       "title": "Ink Flowers",
       "score": 0.315,
-      "r18": false
+      "r18": true
     },
     {
       "id": 53554,
       "title": "Badday Dreamers",
       "score": 0.127,
-      "r18": false
+      "r18": true
     }
   ]
 }

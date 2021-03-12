@@ -1,8 +1,8 @@
 {
   "id": 55366,
   "title": "The Villainess's Butler ~I Raised Her to Be Very Cute~",
-  "url": "https://mangadex.org/manga/55366",
-  "last_updated": "January 16, 2021 06:40:20 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55366",
+  "last_updated": "March 12, 2021 20:36:56 UTC",
   "matches": [
     {
       "id": 51803,
@@ -35,6 +35,12 @@
       "r18": false
     },
     {
+      "id": 17720,
+      "title": "Koushaku Reijou no Tashinami",
+      "score": 0.715,
+      "r18": false
+    },
+    {
       "id": 41780,
       "title": "Kirara Fantasia",
       "score": 0.714,
@@ -43,18 +49,12 @@
     {
       "id": 53724,
       "title": "Trash of the Count's Family",
-      "score": 0.713,
+      "score": 0.714,
       "r18": false
     },
     {
       "id": 20348,
       "title": "The King's Avatar",
-      "score": 0.712,
-      "r18": false
-    },
-    {
-      "id": 15286,
-      "title": "Fate/stay night: Heaven's Feel",
       "score": 0.712,
       "r18": false
     },
@@ -65,21 +65,15 @@
       "r18": false
     },
     {
-      "id": 55365,
-      "title": "MEMORIZE",
-      "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.71,
-      "r18": false
-    },
-    {
       "id": 4880,
       "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
       "score": 0.71,
+      "r18": false
+    },
+    {
+      "id": 15286,
+      "title": "Fate/stay night: Heaven's Feel",
+      "score": 0.709,
       "r18": false
     },
     {
@@ -103,7 +97,7 @@
     {
       "id": 36222,
       "title": "Okashi na Tensei",
-      "score": 0.706,
+      "score": 0.707,
       "r18": false
     },
     {
@@ -139,19 +133,25 @@
     {
       "id": 42965,
       "title": "This Village Sim NPC Could Only Be Human",
-      "score": 0.705,
+      "score": 0.706,
       "r18": false
     },
     {
       "id": 55773,
       "title": "Isekai ni Otosareta&hellip; Jouka wa Kihon!",
-      "score": 0.705,
+      "score": 0.706,
       "r18": false
     },
     {
-      "id": 13364,
-      "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Daiisshou - Outo no Ichinichi Hen",
+      "id": 55365,
+      "title": "MEMORIZE",
       "score": 0.704,
+      "r18": false
+    },
+    {
+      "id": 1389,
+      "title": "Superior Cross",
+      "score": 0.703,
       "r18": false
     }
   ]

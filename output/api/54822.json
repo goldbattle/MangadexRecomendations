@@ -1,9 +1,15 @@
 {
   "id": 54822,
   "title": "Douse Horu Nara Fukai Ana.",
-  "url": "https://mangadex.org/manga/54822",
-  "last_updated": "January 16, 2021 06:35:27 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54822",
+  "last_updated": "March 12, 2021 20:30:17 UTC",
   "matches": [
+    {
+      "id": 16544,
+      "title": "ULTRAS",
+      "score": 0.758,
+      "r18": false
+    },
     {
       "id": 58208,
       "title": "Kaerenain Da Yo",
@@ -14,12 +20,6 @@
       "id": 37280,
       "title": "Kimi no Ai wa Mienikui",
       "score": 0.75,
-      "r18": false
-    },
-    {
-      "id": 16544,
-      "title": "ULTRAS",
-      "score": 0.748,
       "r18": false
     },
     {
@@ -103,13 +103,13 @@
     {
       "id": 25115,
       "title": "Koi Cha no Osahou",
-      "score": 0.722,
+      "score": 0.721,
       "r18": false
     },
     {
       "id": 27658,
       "title": "Takaramono",
-      "score": 0.721,
+      "score": 0.72,
       "r18": false
     },
     {

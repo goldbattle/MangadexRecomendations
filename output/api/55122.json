@@ -1,8 +1,8 @@
 {
   "id": 55122,
   "title": "Xiu Zhen Nai Ba",
-  "url": "https://mangadex.org/manga/55122",
-  "last_updated": "January 16, 2021 06:38:08 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55122",
+  "last_updated": "March 12, 2021 20:33:55 UTC",
   "matches": [
     {
       "id": 29579,
@@ -31,7 +31,13 @@
     {
       "id": 14257,
       "title": "Daddy's a Bride?",
-      "score": 0.658,
+      "score": 0.659,
+      "r18": false
+    },
+    {
+      "id": 59815,
+      "title": "The Winning Actor Wants Divorce",
+      "score": 0.657,
       "r18": false
     },
     {
@@ -77,12 +83,6 @@
       "r18": false
     },
     {
-      "id": 42487,
-      "title": "Biting the Tiger",
-      "score": 0.372,
-      "r18": false
-    },
-    {
       "id": 20732,
       "title": "Vampire and Hunter",
       "score": 0.36,
@@ -113,14 +113,14 @@
       "r18": false
     },
     {
-      "id": 26296,
-      "title": "I, the Emperor, am not a Superstar",
+      "id": 11706,
+      "title": "Sono Kuchibiru wo Hirake",
       "score": 0.344,
       "r18": false
     },
     {
-      "id": 11706,
-      "title": "Sono Kuchibiru wo Hirake",
+      "id": 26296,
+      "title": "I, the Emperor, am not a Superstar",
       "score": 0.344,
       "r18": false
     },

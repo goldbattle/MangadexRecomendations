@@ -1,8 +1,8 @@
 {
   "id": 55723,
   "title": "Taisho Synesthesia",
-  "url": "https://mangadex.org/manga/55723",
-  "last_updated": "January 16, 2021 12:46:44 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55723",
+  "last_updated": "March 12, 2021 20:41:23 UTC",
   "matches": [
     {
       "id": 10514,
@@ -14,6 +14,12 @@
       "id": 560,
       "title": "Donten ni Warau",
       "score": 0.694,
+      "r18": false
+    },
+    {
+      "id": 59999,
+      "title": "Save Me, Princess",
+      "score": 0.679,
       "r18": false
     },
     {
@@ -89,12 +95,6 @@
       "r18": false
     },
     {
-      "id": 337,
-      "title": "Habaegui Sinbu",
-      "score": 0.655,
-      "r18": false
-    },
-    {
       "id": 14355,
       "title": "Hi no Matoi",
       "score": 0.468,
@@ -103,7 +103,7 @@
     {
       "id": 1197,
       "title": "Nabi",
-      "score": 0.425,
+      "score": 0.424,
       "r18": false
     },
     {
@@ -133,7 +133,13 @@
     {
       "id": 2023,
       "title": "Shinobi Life",
-      "score": 0.343,
+      "score": 0.342,
+      "r18": false
+    },
+    {
+      "id": 337,
+      "title": "Habaegui Sinbu",
+      "score": 0.34,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 48391,
       "title": "Nengara Nenbyaku Ansatsu Renka",
       "score": 0.321,
-      "r18": false
-    },
-    {
-      "id": 3940,
-      "title": "Apothecarius Argentum",
-      "score": 0.319,
       "r18": false
     }
   ]

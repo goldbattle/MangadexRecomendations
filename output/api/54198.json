@@ -1,8 +1,8 @@
 {
   "id": 54198,
   "title": "Aisei, Shinku wo Daku",
-  "url": "https://mangadex.org/manga/54198",
-  "last_updated": "January 16, 2021 06:29:45 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54198",
+  "last_updated": "March 12, 2021 20:22:38 UTC",
   "matches": [
     {
       "id": 16213,
@@ -55,7 +55,13 @@
     {
       "id": 13288,
       "title": "Combination",
-      "score": 0.273,
+      "score": 0.272,
+      "r18": false
+    },
+    {
+      "id": 6352,
+      "title": "Daten no Tsuki",
+      "score": 0.272,
       "r18": false
     },
     {
@@ -137,21 +143,15 @@
       "r18": false
     },
     {
+      "id": 52595,
+      "title": "Bound by One&rsquo;s Heart",
+      "score": 0.221,
+      "r18": false
+    },
+    {
       "id": 7118,
       "title": "Specter",
       "score": 0.218,
-      "r18": false
-    },
-    {
-      "id": 56284,
-      "title": "Hunting Game",
-      "score": 0.216,
-      "r18": false
-    },
-    {
-      "id": 29077,
-      "title": "Gengetsurou Kitan",
-      "score": 0.216,
       "r18": false
     }
   ]

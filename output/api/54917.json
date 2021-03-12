@@ -1,8 +1,8 @@
 {
   "id": 54917,
   "title": "Senpai wa Otokonoko",
-  "url": "https://mangadex.org/manga/54917",
-  "last_updated": "January 16, 2021 06:36:18 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54917",
+  "last_updated": "March 12, 2021 20:31:26 UTC",
   "matches": [
     {
       "id": 50880,
@@ -47,6 +47,12 @@
       "r18": false
     },
     {
+      "id": 51403,
+      "title": "Meet You",
+      "score": 0.272,
+      "r18": false
+    },
+    {
       "id": 52527,
       "title": "No Words",
       "score": 0.272,
@@ -61,6 +67,12 @@
     {
       "id": 32484,
       "title": "Mismatched Love",
+      "score": 0.246,
+      "r18": false
+    },
+    {
+      "id": 56812,
+      "title": "Childhood Friend and Bride",
       "score": 0.246,
       "r18": false
     },
@@ -139,18 +151,6 @@
     {
       "id": 27142,
       "title": "Honey Honey Wedding",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 29398,
-      "title": "Devil Down Under",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 32312,
-      "title": "Between Us",
       "score": 0.227,
       "r18": false
     }

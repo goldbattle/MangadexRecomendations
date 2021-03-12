@@ -1,9 +1,21 @@
 {
   "id": 54664,
   "title": "The Knight's Unfulfilled Dreams",
-  "url": "https://mangadex.org/manga/54664",
-  "last_updated": "January 16, 2021 06:34:02 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54664",
+  "last_updated": "March 12, 2021 20:28:24 UTC",
   "matches": [
+    {
+      "id": 54598,
+      "title": "Romantical Behind",
+      "score": 0.678,
+      "r18": false
+    },
+    {
+      "id": 59557,
+      "title": "The Masquerade",
+      "score": 0.678,
+      "r18": false
+    },
     {
       "id": 36994,
       "title": "Fate Makes No Mistakes",
@@ -32,6 +44,18 @@
       "id": 50736,
       "title": "Willow Romance",
       "score": 0.666,
+      "r18": false
+    },
+    {
+      "id": 59268,
+      "title": "Santa Will Always Grant Your Wishes",
+      "score": 0.666,
+      "r18": false
+    },
+    {
+      "id": 59175,
+      "title": "Love Script",
+      "score": 0.662,
       "r18": false
     },
     {
@@ -85,7 +109,7 @@
     {
       "id": 33002,
       "title": "Romantic Box",
-      "score": 0.655,
+      "score": 0.656,
       "r18": false
     },
     {
@@ -109,7 +133,7 @@
     {
       "id": 30137,
       "title": "Welcome to the Intimate Night",
-      "score": 0.654,
+      "score": 0.655,
       "r18": false
     },
     {
@@ -128,30 +152,6 @@
       "id": 23594,
       "title": "A Week of Lust",
       "score": 0.427,
-      "r18": false
-    },
-    {
-      "id": 46426,
-      "title": "Duke's Private Tutor",
-      "score": 0.413,
-      "r18": false
-    },
-    {
-      "id": 41171,
-      "title": "The Boss Is Too Much!!!",
-      "score": 0.407,
-      "r18": false
-    },
-    {
-      "id": 39418,
-      "title": "Graduate From You",
-      "score": 0.393,
-      "r18": false
-    },
-    {
-      "id": 29843,
-      "title": "Re-season",
-      "score": 0.392,
       "r18": false
     }
   ]

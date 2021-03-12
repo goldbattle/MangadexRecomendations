@@ -1,8 +1,8 @@
 {
   "id": 54201,
   "title": "Free! DJ - Hatsujou Suru Hi",
-  "url": "https://mangadex.org/manga/54201",
-  "last_updated": "January 16, 2021 06:29:47 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54201",
+  "last_updated": "March 12, 2021 20:22:41 UTC",
   "matches": [
     {
       "id": 12363,
@@ -73,13 +73,19 @@
     {
       "id": 54322,
       "title": "Durarara!! DJ - Count Down",
-      "score": 0.479,
+      "score": 0.478,
       "r18": false
     },
     {
       "id": 35032,
       "title": "Togainu no Chi &ndash; Maximum Impulse",
       "score": 0.474,
+      "r18": false
+    },
+    {
+      "id": 44825,
+      "title": "Eyeshield 21 - Devil Mania (Doujinshi)",
+      "score": 0.471,
       "r18": false
     },
     {
@@ -125,9 +131,9 @@
       "r18": false
     },
     {
-      "id": 44825,
-      "title": "Eyeshield 21 - Devil Mania (Doujinshi)",
-      "score": 0.448,
+      "id": 59820,
+      "title": "Naruto dj - 30's Calborn",
+      "score": 0.45,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 54329,
       "title": "Durarara!! DJ - Waaarning!",
       "score": 0.438,
-      "r18": false
-    },
-    {
-      "id": 37142,
-      "title": "Shingeki no Kyojin - Dear Darkness (Doujinshi)",
-      "score": 0.434,
       "r18": false
     }
   ]

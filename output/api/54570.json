@@ -1,8 +1,8 @@
 {
   "id": 54570,
   "title": "Maou to Yuusha ni Dekiaisarete, Oteagedesu!",
-  "url": "https://mangadex.org/manga/54570",
-  "last_updated": "January 16, 2021 06:33:09 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54570",
+  "last_updated": "March 12, 2021 20:27:14 UTC",
   "matches": [
     {
       "id": 28359,
@@ -49,6 +49,12 @@
     {
       "id": 43375,
       "title": "The Savior's Book Caf&eacute; in Another World",
+      "score": 0.731,
+      "r18": false
+    },
+    {
+      "id": 59999,
+      "title": "Save Me, Princess",
       "score": 0.731,
       "r18": false
     },
@@ -107,20 +113,26 @@
       "r18": false
     },
     {
-      "id": 19144,
-      "title": "Kashou no Tsuki",
-      "score": 0.725,
-      "r18": false
-    },
-    {
       "id": 52120,
       "title": "Becoming the Villain's Family",
       "score": 0.725,
       "r18": false
     },
     {
+      "id": 19144,
+      "title": "Kashou no Tsuki",
+      "score": 0.725,
+      "r18": false
+    },
+    {
+      "id": 51419,
+      "title": "I Want to Become the Hero's Bride (\uffe3&nabla;\uffe3)\u309e",
+      "score": 0.725,
+      "r18": false
+    },
+    {
       "id": 57978,
-      "title": "Everything Was A Mistake",
+      "title": "Everything Was a Mistake",
       "score": 0.724,
       "r18": false
     },
@@ -137,21 +149,9 @@
       "r18": false
     },
     {
-      "id": 47722,
-      "title": "A Bellicose Lady Got Reincarnated?!",
-      "score": 0.723,
-      "r18": false
-    },
-    {
-      "id": 47426,
-      "title": "I'm the Ex-Girlfriend of a Soldier",
-      "score": 0.722,
-      "r18": false
-    },
-    {
-      "id": 36444,
-      "title": "Beating the Heroine at Her Own Game",
-      "score": 0.722,
+      "id": 59476,
+      "title": "The Tyrant&rsquo;s Guardian Is an Evil Witch",
+      "score": 0.724,
       "r18": false
     }
   ]

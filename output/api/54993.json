@@ -1,8 +1,8 @@
 {
   "id": 54993,
   "title": "Cho's Realm",
-  "url": "https://mangadex.org/manga/54993",
-  "last_updated": "January 16, 2021 06:36:59 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54993",
+  "last_updated": "March 12, 2021 20:32:21 UTC",
   "matches": [
     {
       "id": 22346,
@@ -31,6 +31,12 @@
     {
       "id": 53724,
       "title": "Trash of the Count's Family",
+      "score": 0.66,
+      "r18": false
+    },
+    {
+      "id": 59592,
+      "title": "Wandering Dream",
       "score": 0.66,
       "r18": false
     },
@@ -133,7 +139,7 @@
     {
       "id": 56294,
       "title": "Not Alone",
-      "score": 0.344,
+      "score": 0.343,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 38026,
       "title": "The Watching",
       "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 47653,
-      "title": "Kuronou Syndrome",
-      "score": 0.332,
       "r18": false
     }
   ]

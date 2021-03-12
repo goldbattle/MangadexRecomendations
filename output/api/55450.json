@@ -1,8 +1,8 @@
 {
   "id": 55450,
   "title": "Fate/Grand Order - Master Loves Astolfo",
-  "url": "https://mangadex.org/manga/55450",
-  "last_updated": "January 16, 2021 06:41:06 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55450",
+  "last_updated": "March 12, 2021 20:37:58 UTC",
   "matches": [
     {
       "id": 48318,
@@ -101,6 +101,12 @@
       "r18": false
     },
     {
+      "id": 24104,
+      "title": "Sono Bisque Doll wa Koi wo Suru",
+      "score": 0.25,
+      "r18": false
+    },
+    {
       "id": 4596,
       "title": "Josei Danshi",
       "score": 0.25,
@@ -146,12 +152,6 @@
       "id": 1773,
       "title": "Ressentiment",
       "score": 0.202,
-      "r18": false
-    },
-    {
-      "id": 34541,
-      "title": "Tenshi Girl",
-      "score": 0.138,
       "r18": false
     }
   ]

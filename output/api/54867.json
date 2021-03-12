@@ -1,25 +1,13 @@
 {
   "id": 54867,
   "title": "Captain Kid",
-  "url": "https://mangadex.org/manga/54867",
-  "last_updated": "January 16, 2021 06:35:51 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54867",
+  "last_updated": "March 12, 2021 20:30:50 UTC",
   "matches": [
     {
       "id": 54801,
       "title": "One Piece Episode A",
-      "score": 0.705,
-      "r18": false
-    },
-    {
-      "id": 10004,
-      "title": "One Piece - Digital Colored Comics",
       "score": 0.702,
-      "r18": false
-    },
-    {
-      "id": 39,
-      "title": "One Piece",
-      "score": 0.699,
       "r18": false
     },
     {
@@ -29,27 +17,39 @@
       "r18": false
     },
     {
+      "id": 10004,
+      "title": "One Piece - Digital Colored Comics",
+      "score": 0.691,
+      "r18": false
+    },
+    {
+      "id": 39,
+      "title": "One Piece",
+      "score": 0.69,
+      "r18": false
+    },
+    {
       "id": 39353,
       "title": "One Piece Special - Boichi Crossover",
-      "score": 0.692,
+      "score": 0.685,
       "r18": false
     },
     {
       "id": 7527,
       "title": "One Piece: Strong World",
-      "score": 0.692,
-      "r18": false
-    },
-    {
-      "id": 14694,
-      "title": "One Piece Party",
-      "score": 0.686,
+      "score": 0.685,
       "r18": false
     },
     {
       "id": 42296,
       "title": "Piratebent",
       "score": 0.677,
+      "r18": false
+    },
+    {
+      "id": 14694,
+      "title": "One Piece Party",
+      "score": 0.676,
       "r18": false
     },
     {
@@ -91,13 +91,13 @@
     {
       "id": 1790,
       "title": "Arata Kangatari",
-      "score": 0.655,
+      "score": 0.656,
       "r18": false
     },
     {
       "id": 7710,
       "title": "Kidou Senshi Crossbone Gundam",
-      "score": 0.654,
+      "score": 0.655,
       "r18": false
     },
     {
@@ -131,14 +131,14 @@
       "r18": false
     },
     {
-      "id": 6872,
-      "title": "Tales of Vesperia",
+      "id": 28525,
+      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo",
       "score": 0.652,
       "r18": false
     },
     {
-      "id": 28525,
-      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo",
+      "id": 6872,
+      "title": "Tales of Vesperia",
       "score": 0.652,
       "r18": false
     },

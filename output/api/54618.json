@@ -1,8 +1,8 @@
 {
   "id": 54618,
   "title": "AM8:02, hatsukoi",
-  "url": "https://mangadex.org/manga/54618",
-  "last_updated": "January 16, 2021 06:33:37 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54618",
+  "last_updated": "March 12, 2021 20:27:50 UTC",
   "matches": [
     {
       "id": 2485,
@@ -43,12 +43,6 @@
     {
       "id": 6328,
       "title": "Nijiiro Days",
-      "score": 0.688,
-      "r18": false
-    },
-    {
-      "id": 5140,
-      "title": "Houou Gakuen Misoragumi",
       "score": 0.688,
       "r18": false
     },
@@ -95,26 +89,26 @@
       "r18": false
     },
     {
-      "id": 11867,
-      "title": "Hotarubi no Mori e",
-      "score": 0.67,
-      "r18": false
-    },
-    {
       "id": 8372,
       "title": "Cherries Fight",
       "score": 0.67,
       "r18": false
     },
     {
-      "id": 491,
-      "title": "Ao Haru Ride",
-      "score": 0.669,
+      "id": 11867,
+      "title": "Hotarubi no Mori e",
+      "score": 0.67,
       "r18": false
     },
     {
       "id": 14320,
       "title": "Seishun Otome Banchou!",
+      "score": 0.669,
+      "r18": false
+    },
+    {
+      "id": 491,
+      "title": "Ao Haru Ride",
       "score": 0.669,
       "r18": false
     },
@@ -151,6 +145,12 @@
     {
       "id": 49868,
       "title": "Takane no Hanao-kun",
+      "score": 0.666,
+      "r18": false
+    },
+    {
+      "id": 43991,
+      "title": "Ima, Koi wo Shite Imasu",
       "score": 0.665,
       "r18": false
     }

@@ -1,13 +1,13 @@
 {
   "id": 55194,
   "title": "Kimi to oishii ai no kotoba",
-  "url": "https://mangadex.org/manga/55194",
-  "last_updated": "January 16, 2021 06:38:47 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55194",
+  "last_updated": "March 12, 2021 20:34:47 UTC",
   "matches": [
     {
       "id": 27684,
       "title": "Yokubou Shounen",
-      "score": 0.714,
+      "score": 0.713,
       "r18": false
     },
     {
@@ -119,12 +119,6 @@
       "r18": false
     },
     {
-      "id": 26032,
-      "title": "Momo",
-      "score": 0.377,
-      "r18": false
-    },
-    {
       "id": 46412,
       "title": "Akatsubaki",
       "score": 0.37,
@@ -139,7 +133,7 @@
     {
       "id": 24425,
       "title": "Maou Uke BL",
-      "score": 0.341,
+      "score": 0.34,
       "r18": false
     },
     {
@@ -152,6 +146,12 @@
       "id": 47005,
       "title": "Woof Wolf",
       "score": 0.323,
+      "r18": false
+    },
+    {
+      "id": 13534,
+      "title": "Kuroneko Kareshi no Aishikata",
+      "score": 0.322,
       "r18": false
     }
   ]

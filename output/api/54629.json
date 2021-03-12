@@ -1,8 +1,8 @@
 {
   "id": 54629,
   "title": "Katori Senpai",
-  "url": "https://mangadex.org/manga/54629",
-  "last_updated": "January 16, 2021 06:33:43 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54629",
+  "last_updated": "March 12, 2021 20:27:58 UTC",
   "matches": [
     {
       "id": 3239,
@@ -67,6 +67,12 @@
     {
       "id": 756,
       "title": "Hanza Sky",
+      "score": 0.227,
+      "r18": false
+    },
+    {
+      "id": 883,
+      "title": "Eyeshield 21",
       "score": 0.227,
       "r18": false
     },
@@ -145,12 +151,6 @@
     {
       "id": 2933,
       "title": "Urooboe Uroboros!",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 3241,
-      "title": "Drop",
       "score": 0.227,
       "r18": false
     }

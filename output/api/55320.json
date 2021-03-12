@@ -1,13 +1,19 @@
 {
   "id": 55320,
   "title": "Picking Up Beast Girls In The End Times",
-  "url": "https://mangadex.org/manga/55320",
-  "last_updated": "January 16, 2021 06:39:55 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55320",
+  "last_updated": "March 12, 2021 20:36:20 UTC",
   "matches": [
     {
       "id": 23231,
       "title": "Wu Dong Qian Kun",
       "score": 0.734,
+      "r18": false
+    },
+    {
+      "id": 19542,
+      "title": "Chuan Yue Xi Yuan 3000 Hou",
+      "score": 0.718,
       "r18": false
     },
     {
@@ -17,21 +23,15 @@
       "r18": false
     },
     {
-      "id": 19542,
-      "title": "Chuan Yue Xi Yuan 3000 Hou",
-      "score": 0.713,
-      "r18": false
-    },
-    {
       "id": 46350,
       "title": "Trace of Doomsday",
       "score": 0.697,
       "r18": false
     },
     {
-      "id": 55365,
-      "title": "MEMORIZE",
-      "score": 0.696,
+      "id": 43830,
+      "title": "The Lady's Spaceship",
+      "score": 0.695,
       "r18": false
     },
     {
@@ -53,9 +53,15 @@
       "r18": false
     },
     {
+      "id": 55365,
+      "title": "MEMORIZE",
+      "score": 0.692,
+      "r18": false
+    },
+    {
       "id": 55352,
-      "title": "Invasion Of The Immortal Emperor",
-      "score": 0.69,
+      "title": "Invasion of the Immortal Emperor",
+      "score": 0.689,
       "r18": false
     },
     {
@@ -145,12 +151,6 @@
     {
       "id": 50351,
       "title": "Cultivator From the Future",
-      "score": 0.673,
-      "r18": false
-    },
-    {
-      "id": 27886,
-      "title": "Star Wars",
       "score": 0.673,
       "r18": false
     }

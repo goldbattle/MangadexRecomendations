@@ -1,8 +1,8 @@
 {
   "id": 55322,
   "title": "Holy Brownie",
-  "url": "https://mangadex.org/manga/55322",
-  "last_updated": "January 16, 2021 06:39:56 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55322",
+  "last_updated": "March 12, 2021 20:36:22 UTC",
   "matches": [
     {
       "id": 29115,
@@ -47,15 +47,15 @@
       "r18": false
     },
     {
-      "id": 21758,
-      "title": "Kaifuku Jutsushi no Yarinaoshi",
-      "score": 0.233,
-      "r18": false
-    },
-    {
       "id": 1027,
       "title": "Kouya ni Kemono Doukokusu",
       "score": 0.232,
+      "r18": false
+    },
+    {
+      "id": 21758,
+      "title": "Kaifuku Jutsushi no Yarinaoshi",
+      "score": 0.23,
       "r18": false
     },
     {

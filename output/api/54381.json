@@ -1,8 +1,8 @@
 {
   "id": 54381,
   "title": "Liber",
-  "url": "https://mangadex.org/manga/54381",
-  "last_updated": "January 16, 2021 06:31:26 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54381",
+  "last_updated": "March 12, 2021 20:24:53 UTC",
   "matches": [
     {
       "id": 29189,
@@ -65,6 +65,12 @@
       "r18": false
     },
     {
+      "id": 59638,
+      "title": "The End Of A Relationship",
+      "score": 0.17,
+      "r18": false
+    },
+    {
       "id": 49808,
       "title": "ODDEYE",
       "score": 0.142,
@@ -77,6 +83,12 @@
       "r18": false
     },
     {
+      "id": 49856,
+      "title": "Ex vs. Stalker",
+      "score": 0.136,
+      "r18": false
+    },
+    {
       "id": 37449,
       "title": "PIGPEN",
       "score": 0.124,
@@ -85,6 +97,12 @@
     {
       "id": 52473,
       "title": "The Saviour's Time",
+      "score": 0.124,
+      "r18": false
+    },
+    {
+      "id": 59766,
+      "title": "Desire Diary",
       "score": 0.124,
       "r18": false
     },

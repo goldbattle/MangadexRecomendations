@@ -1,19 +1,13 @@
 {
   "id": 55256,
   "title": "Ani ga Kareshi de, Gomen",
-  "url": "https://mangadex.org/manga/55256",
-  "last_updated": "January 16, 2021 06:39:20 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55256",
+  "last_updated": "March 12, 2021 20:35:32 UTC",
   "matches": [
-    {
-      "id": 55945,
-      "title": "Ani ga Kareshi de, Gomen",
-      "score": 0.929,
-      "r18": false
-    },
     {
       "id": 5362,
       "title": "Megane ~ Hazushitemo Iidesuka?",
-      "score": 0.715,
+      "score": 0.714,
       "r18": false
     },
     {
@@ -101,12 +95,6 @@
       "r18": false
     },
     {
-      "id": 3865,
-      "title": "Ghost Hunt",
-      "score": 0.7,
-      "r18": false
-    },
-    {
       "id": 784,
       "title": "Zenbu Shiritai",
       "score": 0.699,
@@ -131,14 +119,14 @@
       "r18": false
     },
     {
-      "id": 2046,
-      "title": "Full House Kiss",
+      "id": 1899,
+      "title": "His and Her Circumstances",
       "score": 0.696,
       "r18": false
     },
     {
-      "id": 1899,
-      "title": "His and Her Circumstances",
+      "id": 2046,
+      "title": "Full House Kiss",
       "score": 0.696,
       "r18": false
     },
@@ -152,6 +140,18 @@
       "id": 174,
       "title": "Forget About Love",
       "score": 0.695,
+      "r18": false
+    },
+    {
+      "id": 19218,
+      "title": "Kiss Me Baby",
+      "score": 0.694,
+      "r18": false
+    },
+    {
+      "id": 11867,
+      "title": "Hotarubi no Mori e",
+      "score": 0.694,
       "r18": false
     }
   ]

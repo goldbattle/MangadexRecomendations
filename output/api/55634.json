@@ -1,8 +1,8 @@
 {
   "id": 55634,
   "title": "EGAO",
-  "url": "https://mangadex.org/manga/55634",
-  "last_updated": "January 16, 2021 06:42:45 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55634",
+  "last_updated": "March 12, 2021 20:40:18 UTC",
   "matches": [
     {
       "id": 1021,
@@ -29,12 +29,6 @@
       "r18": false
     },
     {
-      "id": 41743,
-      "title": "Charlotte and Her 5 Disciples",
-      "score": 0.691,
-      "r18": false
-    },
-    {
       "id": 23231,
       "title": "Wu Dong Qian Kun",
       "score": 0.69,
@@ -49,7 +43,7 @@
     {
       "id": 45807,
       "title": "Life Completely Ruined",
-      "score": 0.689,
+      "score": 0.688,
       "r18": false
     },
     {
@@ -65,14 +59,14 @@
       "r18": false
     },
     {
-      "id": 24134,
-      "title": "Neolith Girl",
-      "score": 0.685,
+      "id": 59476,
+      "title": "The Tyrant&rsquo;s Guardian Is an Evil Witch",
+      "score": 0.686,
       "r18": false
     },
     {
-      "id": 54218,
-      "title": "The Lady and the Beast",
+      "id": 24134,
+      "title": "Neolith Girl",
       "score": 0.685,
       "r18": false
     },
@@ -80,6 +74,12 @@
       "id": 55205,
       "title": "Night Crying Crow",
       "score": 0.685,
+      "r18": false
+    },
+    {
+      "id": 59849,
+      "title": "Unreachable Girl",
+      "score": 0.684,
       "r18": false
     },
     {
@@ -125,14 +125,14 @@
       "r18": false
     },
     {
-      "id": 42236,
-      "title": "Heaven Official's Blessing (old version)",
+      "id": 18688,
+      "title": "Tian Jiang Xian Shu Nan",
       "score": 0.681,
       "r18": false
     },
     {
-      "id": 18688,
-      "title": "Tian Jiang Xian Shu Nan",
+      "id": 42236,
+      "title": "Heaven Official's Blessing (old version)",
       "score": 0.681,
       "r18": false
     },
@@ -151,7 +151,7 @@
     {
       "id": 45628,
       "title": "Heaven Official's Blessing",
-      "score": 0.679,
+      "score": 0.68,
       "r18": false
     }
   ]

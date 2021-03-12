@@ -1,8 +1,8 @@
 {
   "id": 55463,
   "title": "Aitsura, Zettai Yatta Desho",
-  "url": "https://mangadex.org/manga/55463",
-  "last_updated": "January 16, 2021 06:41:13 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55463",
+  "last_updated": "March 12, 2021 20:38:08 UTC",
   "matches": [
     {
       "id": 51165,
@@ -13,7 +13,7 @@
     {
       "id": 11867,
       "title": "Hotarubi no Mori e",
-      "score": 0.661,
+      "score": 0.662,
       "r18": false
     },
     {
@@ -41,6 +41,12 @@
       "r18": false
     },
     {
+      "id": 51318,
+      "title": "Truthfully, They Only Remembered Her",
+      "score": 0.654,
+      "r18": false
+    },
+    {
       "id": 9513,
       "title": "S x M",
       "score": 0.652,
@@ -61,7 +67,7 @@
     {
       "id": 2551,
       "title": "Kiss to Koukai",
-      "score": 0.419,
+      "score": 0.42,
       "r18": false
     },
     {
@@ -73,7 +79,7 @@
     {
       "id": 9512,
       "title": "Suki, Tokoro ni yori Arashi.",
-      "score": 0.419,
+      "score": 0.418,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 490,
       "title": "Boku no Hatsukoi o Kimi ni Sasagu",
       "score": 0.408,
-      "r18": false
-    },
-    {
-      "id": 2201,
-      "title": "Onnanoko wa Koi o Suru to Mousou Shichaun Desu",
-      "score": 0.407,
       "r18": false
     }
   ]

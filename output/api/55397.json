@@ -1,8 +1,8 @@
 {
   "id": 55397,
   "title": "Kyuukou, Escape, Mermaid.",
-  "url": "https://mangadex.org/manga/55397",
-  "last_updated": "January 16, 2021 06:40:37 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55397",
+  "last_updated": "March 12, 2021 20:37:18 UTC",
   "matches": [
     {
       "id": 11867,
@@ -125,6 +125,12 @@
       "r18": false
     },
     {
+      "id": 7816,
+      "title": "Folk Tail Tonakai",
+      "score": 0.185,
+      "r18": false
+    },
+    {
       "id": 11957,
       "title": "Hatenkou Yuugi",
       "score": 0.185,
@@ -145,12 +151,6 @@
     {
       "id": 18041,
       "title": "Angels Tears",
-      "score": 0.185,
-      "r18": false
-    },
-    {
-      "id": 21679,
-      "title": "Higanbana",
       "score": 0.185,
       "r18": false
     }

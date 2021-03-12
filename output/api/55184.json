@@ -1,8 +1,8 @@
 {
   "id": 55184,
   "title": "Kyou, Aitsu (\u2642) ni Kyunto Shite Shimaimashita...!!",
-  "url": "https://mangadex.org/manga/55184",
-  "last_updated": "January 16, 2021 06:38:41 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55184",
+  "last_updated": "March 12, 2021 20:34:40 UTC",
   "matches": [
     {
       "id": 10797,
@@ -125,6 +125,12 @@
       "r18": false
     },
     {
+      "id": 59501,
+      "title": "Minato Shoji Koinrandori",
+      "score": 0.284,
+      "r18": false
+    },
+    {
       "id": 15232,
       "title": "Gekkan Shoujo Nozaki-kun Anthology",
       "score": 0.276,
@@ -145,12 +151,6 @@
     {
       "id": 7607,
       "title": "10 Dance",
-      "score": 0.237,
-      "r18": false
-    },
-    {
-      "id": 7888,
-      "title": "Ouji no Kikan",
       "score": 0.237,
       "r18": false
     }

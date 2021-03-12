@@ -1,8 +1,8 @@
 {
   "id": 54182,
   "title": "Ore wa Mada, Honki o Dashite Inai",
-  "url": "https://mangadex.org/manga/54182",
-  "last_updated": "January 16, 2021 06:29:36 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54182",
+  "last_updated": "March 12, 2021 20:22:24 UTC",
   "matches": [
     {
       "id": 10801,
@@ -26,6 +26,12 @@
       "id": 38337,
       "title": "Jinrou e no Tensei, Maou no Fukkan: Hajimari no Shou",
       "score": 0.763,
+      "r18": false
+    },
+    {
+      "id": 55481,
+      "title": "A Sword Master Childhood Friend Power Harassed Me Harshly, so I Broke off Our Relationship and Made a Fresh Start at the Frontier as a Magic Swordsman",
+      "score": 0.762,
       "r18": false
     },
     {
@@ -79,6 +85,12 @@
     {
       "id": 3607,
       "title": "All Around Type-Moon",
+      "score": 0.758,
+      "r18": false
+    },
+    {
+      "id": 7232,
+      "title": "Cat's Eye",
       "score": 0.758,
       "r18": false
     },
@@ -137,20 +149,8 @@
       "r18": false
     },
     {
-      "id": 53985,
-      "title": "Dragon Raja 3",
-      "score": 0.753,
-      "r18": false
-    },
-    {
       "id": 6004,
       "title": "Matantei Loki",
-      "score": 0.753,
-      "r18": false
-    },
-    {
-      "id": 41744,
-      "title": "Shi ni Modori, Subete wo Sukuu Tame ni Saikyou he to Itaru",
       "score": 0.753,
       "r18": false
     }

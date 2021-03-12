@@ -1,36 +1,42 @@
 {
   "id": 54528,
   "title": "Doukyuusei Seikatsu",
-  "url": "https://mangadex.org/manga/54528",
-  "last_updated": "January 16, 2021 06:32:47 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54528",
+  "last_updated": "March 12, 2021 20:26:43 UTC",
   "matches": [
     {
       "id": 15274,
       "title": "Chikan Diary",
-      "score": 0.659,
+      "score": 0.658,
       "r18": false
     },
     {
       "id": 4557,
       "title": "Mousou Cherry",
-      "score": 0.653,
+      "score": 0.652,
       "r18": false
     },
     {
       "id": 25950,
       "title": "Mayou Otoko",
-      "score": 0.652,
+      "score": 0.65,
       "r18": false
     },
     {
       "id": 28911,
       "title": "Love Romance Sweet Kiss",
-      "score": 0.498,
+      "score": 0.499,
       "r18": false
     },
     {
       "id": 8307,
       "title": "Aru to Neri to Sono Shuuhen",
+      "score": 0.489,
+      "r18": false
+    },
+    {
+      "id": 14117,
+      "title": "Oboreru Hitomi",
       "score": 0.488,
       "r18": false
     },
@@ -41,39 +47,27 @@
       "r18": false
     },
     {
-      "id": 14117,
-      "title": "Oboreru Hitomi",
-      "score": 0.487,
-      "r18": false
-    },
-    {
       "id": 10247,
       "title": "Kachou Fuugetsu",
-      "score": 0.485,
-      "r18": false
-    },
-    {
-      "id": 36810,
-      "title": "Black or White",
-      "score": 0.485,
+      "score": 0.484,
       "r18": false
     },
     {
       "id": 24155,
       "title": "Hadashi de Walz wo",
+      "score": 0.484,
+      "r18": false
+    },
+    {
+      "id": 36810,
+      "title": "Black or White",
       "score": 0.483,
       "r18": false
     },
     {
       "id": 19694,
       "title": "First Thing I Do When I Wake Up",
-      "score": 0.482,
-      "r18": false
-    },
-    {
-      "id": 33877,
-      "title": "Gozen 3-ji no Iede",
-      "score": 0.478,
+      "score": 0.481,
       "r18": false
     },
     {
@@ -83,75 +77,81 @@
       "r18": false
     },
     {
-      "id": 15872,
-      "title": "Kokoro no Kagi wo Mitsukete",
-      "score": 0.475,
+      "id": 33877,
+      "title": "Gozen 3-ji no Iede",
+      "score": 0.476,
+      "r18": false
+    },
+    {
+      "id": 14999,
+      "title": "Hatsukoi no Kanata",
+      "score": 0.474,
       "r18": false
     },
     {
       "id": 55887,
       "title": "Iro wo mo Kaori wo mo",
+      "score": 0.473,
+      "r18": false
+    },
+    {
+      "id": 15872,
+      "title": "Kokoro no Kagi wo Mitsukete",
       "score": 0.472,
       "r18": false
     },
     {
       "id": 19032,
       "title": "Mou Ichido, Nando Demo.",
-      "score": 0.468,
-      "r18": false
-    },
-    {
-      "id": 34874,
-      "title": "Watashi no Yaban na Geboku",
       "score": 0.467,
-      "r18": false
-    },
-    {
-      "id": 10704,
-      "title": "Konya, Mister de",
-      "score": 0.465,
       "r18": false
     },
     {
       "id": 13372,
       "title": "Hidoku Shinai de: Akira Takanashi's Story",
-      "score": 0.464,
+      "score": 0.465,
+      "r18": false
+    },
+    {
+      "id": 10704,
+      "title": "Konya, Mister de",
+      "score": 0.463,
+      "r18": false
+    },
+    {
+      "id": 34874,
+      "title": "Watashi no Yaban na Geboku",
+      "score": 0.463,
       "r18": false
     },
     {
       "id": 52588,
       "title": "Papa no Sukinahito",
-      "score": 0.452,
-      "r18": false
-    },
-    {
-      "id": 23979,
-      "title": "Ashita mo Tanin",
-      "score": 0.447,
+      "score": 0.451,
       "r18": false
     },
     {
       "id": 55328,
       "title": "Bad Prince Honey Party",
+      "score": 0.445,
+      "r18": false
+    },
+    {
+      "id": 23979,
+      "title": "Ashita mo Tanin",
       "score": 0.444,
       "r18": false
     },
     {
       "id": 20074,
       "title": "By My Side",
-      "score": 0.439,
+      "score": 0.438,
       "r18": false
     },
     {
       "id": 7975,
       "title": "Koisuru Boukun",
-      "score": 0.432,
-      "r18": false
-    },
-    {
-      "id": 37493,
-      "title": "K-sensei no Himitsu no Netsujou",
-      "score": 0.426,
+      "score": 0.428,
       "r18": false
     }
   ]

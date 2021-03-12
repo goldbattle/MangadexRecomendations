@@ -1,8 +1,8 @@
 {
   "id": 55476,
   "title": "Child",
-  "url": "https://mangadex.org/manga/55476",
-  "last_updated": "January 16, 2021 06:41:20 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55476",
+  "last_updated": "March 12, 2021 20:38:19 UTC",
   "matches": [
     {
       "id": 51874,
@@ -49,6 +49,12 @@
     {
       "id": 51836,
       "title": "Rules for Keeping a Dragon",
+      "score": 0.153,
+      "r18": false
+    },
+    {
+      "id": 59983,
+      "title": "Nya! Art School",
       "score": 0.153,
       "r18": false
     },

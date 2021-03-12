@@ -1,8 +1,8 @@
 {
   "id": 55064,
   "title": "Ore-sama na Aitsu",
-  "url": "https://mangadex.org/manga/55064",
-  "last_updated": "January 16, 2021 06:37:37 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55064",
+  "last_updated": "March 12, 2021 20:33:13 UTC",
   "matches": [
     {
       "id": 4810,
@@ -17,6 +17,12 @@
       "r18": false
     },
     {
+      "id": 16544,
+      "title": "ULTRAS",
+      "score": 0.787,
+      "r18": false
+    },
+    {
       "id": 37573,
       "title": "Shitsuji wa Oose no Mama ni",
       "score": 0.784,
@@ -26,12 +32,6 @@
       "id": 9475,
       "title": "Tsuki ni Hoero",
       "score": 0.784,
-      "r18": false
-    },
-    {
-      "id": 16544,
-      "title": "ULTRAS",
-      "score": 0.782,
       "r18": false
     },
     {
@@ -125,6 +125,12 @@
       "r18": false
     },
     {
+      "id": 31471,
+      "title": "Show ga Hanetara Aimashou",
+      "score": 0.768,
+      "r18": false
+    },
+    {
       "id": 12443,
       "title": "Junjou Romantica",
       "score": 0.767,
@@ -145,12 +151,6 @@
     {
       "id": 43243,
       "title": "Ginchou Kidan",
-      "score": 0.764,
-      "r18": false
-    },
-    {
-      "id": 42641,
-      "title": "Subarashii Shitsuren",
       "score": 0.764,
       "r18": false
     }

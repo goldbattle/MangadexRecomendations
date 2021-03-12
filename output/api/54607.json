@@ -1,8 +1,8 @@
 {
   "id": 54607,
   "title": "I Want to Listen to xx",
-  "url": "https://mangadex.org/manga/54607",
-  "last_updated": "January 16, 2021 06:33:30 UTC",
+  "url": "https://api.mangadex.org/v2/manga/54607",
+  "last_updated": "March 12, 2021 20:27:42 UTC",
   "matches": [
     {
       "id": 57471,
@@ -18,14 +18,20 @@
     },
     {
       "id": 39440,
-      "title": "Mitsuishi-san to Hajime-san",
-      "score": 0.976,
+      "title": "Mitsuishi-san is Being Weird This Year",
+      "score": 0.978,
       "r18": false
     },
     {
       "id": 54608,
       "title": "The Girl I Like Confessed to Me While Handing Me Cash",
       "score": 0.974,
+      "r18": false
+    },
+    {
+      "id": 59670,
+      "title": "The Story of How I Became a Girl's Dog",
+      "score": 0.965,
       "r18": false
     },
     {
@@ -139,19 +145,13 @@
     {
       "id": 46682,
       "title": "Zutto Otokonoko da to Omotte ita Gakitaishou ga Onnanoko deshita",
-      "score": 0.93,
+      "score": 0.929,
       "r18": false
     },
     {
       "id": 52305,
       "title": "Momotarou and the Crimson Demon",
       "score": 0.929,
-      "r18": false
-    },
-    {
-      "id": 51162,
-      "title": "Confession Stories",
-      "score": 0.928,
       "r18": false
     }
   ]

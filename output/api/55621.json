@@ -1,8 +1,8 @@
 {
   "id": 55621,
   "title": "Hoikumen!",
-  "url": "https://mangadex.org/manga/55621",
-  "last_updated": "January 16, 2021 06:42:38 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55621",
+  "last_updated": "March 12, 2021 20:40:08 UTC",
   "matches": [
     {
       "id": 15751,
@@ -13,7 +13,7 @@
     {
       "id": 5026,
       "title": "Bara no Tame ni",
-      "score": 0.703,
+      "score": 0.702,
       "r18": false
     },
     {
@@ -43,7 +43,7 @@
     {
       "id": 2797,
       "title": "Le Th&eacute;&acirc;tre de B",
-      "score": 0.683,
+      "score": 0.684,
       "r18": false
     },
     {
@@ -61,7 +61,7 @@
     {
       "id": 12756,
       "title": "Totsuzen Desu ga, Ashita Kekkon Shimasu",
-      "score": 0.681,
+      "score": 0.682,
       "r18": false
     },
     {
@@ -131,6 +131,12 @@
       "r18": false
     },
     {
+      "id": 6478,
+      "title": "Umimachi Diary",
+      "score": 0.671,
+      "r18": false
+    },
+    {
       "id": 20657,
       "title": "Just One Smile is Very Alluring",
       "score": 0.67,
@@ -146,12 +152,6 @@
       "id": 50267,
       "title": "Totsuzen desu ga, Konya Sarai ni Ikimasu",
       "score": 0.67,
-      "r18": false
-    },
-    {
-      "id": 2966,
-      "title": "Kimi wa Petto",
-      "score": 0.669,
       "r18": false
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": 55464,
   "title": "Tsuki to Ookami",
-  "url": "https://mangadex.org/manga/55464",
-  "last_updated": "January 16, 2021 06:41:14 UTC",
+  "url": "https://api.mangadex.org/v2/manga/55464",
+  "last_updated": "March 12, 2021 20:38:09 UTC",
   "matches": [
     {
       "id": 22311,
@@ -38,6 +38,12 @@
       "id": 29099,
       "title": "Mori no Koe",
       "score": 0.65,
+      "r18": false
+    },
+    {
+      "id": 58861,
+      "title": "Feel Free to Hug Me",
+      "score": 0.501,
       "r18": false
     },
     {
@@ -146,12 +152,6 @@
       "id": 24068,
       "title": "Rabu Kue",
       "score": 0.363,
-      "r18": false
-    },
-    {
-      "id": 27908,
-      "title": "Neko no Yomeiri",
-      "score": 0.362,
       "r18": false
     }
   ]
