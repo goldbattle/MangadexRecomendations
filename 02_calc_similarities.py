@@ -21,8 +21,8 @@ min_same_labels = 4
 min_same_labels_h18 = 2
 min_desc_chars = 100
 max_num_matches = 25
-ignore_label_score_above_this_val = 0.30
-ignore_label_score_below_this_val = 0.05
+ignore_tfidf_score_above_this_val = 0.30
+ignore_tfidf_score_below_this_val = 0.05
 weighting_label_score = 0.8
 use_labels_to_match = True
 redo_all_matches = True
@@ -102,7 +102,6 @@ for ct, manga1 in enumerate(manga_data):
 
     # nice debug only a certain set of manga ids
     # test_manga = [29557, 33691, 38917, 50727, 52297]
-    # test_manga = [40299]
     # if manga1.id not in test_manga:
     #     continue
 
@@ -145,12 +144,12 @@ for ct, manga1 in enumerate(manga_data):
         bool_in_s2 = idx in scores_labels
 
         # if it is greater, then add a total score
-        if bool_in_s1 and scores[idx] >= ignore_label_score_above_this_val:
+        if bool_in_s1 and scores[idx] >= ignore_tfidf_score_above_this_val:
             scores[idx] += 1.0
             continue
 
         # if less than, just use the genre matching scheme
-        if bool_in_s1 and bool_in_s2 and scores[idx] < ignore_label_score_below_this_val:
+        if bool_in_s1 and bool_in_s2 and scores[idx] < ignore_tfidf_score_below_this_val:
             scores[idx] = scores_labels[idx]
             continue
 

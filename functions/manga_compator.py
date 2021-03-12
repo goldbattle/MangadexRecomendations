@@ -5,10 +5,13 @@ from sklearn.metrics.pairwise import linear_kernel
 def load_corpus_into_tfidf(corpus):
     # build a TF/IDF matrix for each paper
     # https://markhneedham.com/blog/2016/07/27/scitkit-learn-tfidf-and-cosine-similarity-for-computer-science-papers/
-    tf = TfidfVectorizer(strip_accents='ascii', analyzer='char_wb', ngram_range=(1, 3),
-                         min_df=0.0, max_df=0.95, stop_words='english', sublinear_tf=False)
+    # tf = TfidfVectorizer(strip_accents='ascii', analyzer='word', ngram_range=(1, 1),
+    #                      min_df=0.10, max_df=1.0, stop_words='english', max_features=50000, sublinear_tf=False)
+    tf = TfidfVectorizer(strip_accents='unicode', analyzer='word')
     x = tf.fit_transform([content for file, content in corpus])
     # print(tf.get_feature_names())
+    # with open("./output/vocab.json", "w") as fp:
+    #     json.dump(dict(zip(tf.get_feature_names(), x.toarray()[0])), fp, indent=2)
     return x
 
 

@@ -129,17 +129,6 @@ def clean_string(str_raw, removeStopWords=False):
     str_raw = re.sub(r'^http?:\/\/.*[\r\n]*', ' ', str_raw, flags=re.MULTILINE)
     str_raw = re.sub(r'[\w\.-]+@[\w\.-]+', ' ', str_raw, flags=re.MULTILINE)
 
-    # now clean stop words which are not helpful
-    # we want to basically just collect a bunch of words
-    stops = ['the', 'a', 'an', 'and', 'but', 'if', 'or', 'because', 'as', 'what', 'which', 'this', 'that', 'these',
-             'those', 'then', 'just', 'so', 'than', 'such', 'both', 'through', 'about', 'for', 'is', 'of', 'while',
-             'during', 'to']
-
-    # Remove punctuation and stop words
-    if removeStopWords:
-        str_raw = ''.join([c for c in str_raw if c not in punctuation])
-        str_raw = " ".join([w for w in str_raw.split() if w.lower() not in stops])
-
     # Replace apostrophes with standard lexicons
     str_raw = str_raw.replace("isn't", "is not")
     str_raw = str_raw.replace("aren't", "are not")
@@ -159,6 +148,17 @@ def clean_string(str_raw, removeStopWords=False):
     str_raw = str_raw.replace("'m", " am")
     str_raw = str_raw.replace("'d", " would")
     str_raw = str_raw.replace("'ll", " will")
+
+    # now clean stop words which are not helpful
+    # we want to basically just collect a bunch of words
+    stops = ['the', 'a', 'an', 'and', 'but', 'if', 'or', 'because', 'as', 'what', 'which', 'this', 'that', 'these',
+             'those', 'then', 'just', 'so', 'than', 'such', 'both', 'through', 'about', 'for', 'is', 'of', 'while',
+             'during', 'to']
+
+    # Remove punctuation and stop words
+    if removeStopWords:
+        str_raw = ''.join([c for c in str_raw if c not in punctuation])
+        str_raw = " ".join([w for w in str_raw.split() if w.lower() not in stops])
 
     # Remove all symbols (clean to normal english)
     # str_raw = re.sub(r'[^A-Za-z0-9\s]', r' ', str_raw)
@@ -261,11 +261,11 @@ def get_label_ranks(labels_vec):
         if label in high_level4:
             labels_weights.append(1.00)
         elif label in high_level3:
-            labels_weights.append(0.95)
-        elif label in high_level2:
             labels_weights.append(0.90)
+        elif label in high_level2:
+            labels_weights.append(0.80)
         else:
-            labels_weights.append(0.85)
+            labels_weights.append(0.70)
 
     # return the result
     return labels_weights

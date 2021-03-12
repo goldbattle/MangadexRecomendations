@@ -9,6 +9,7 @@ from functions import manga_utils
 from functions import anilist_helpers
 
 # script parameters
+url_domain = "https://mangadex.org/"
 url_main = "https://api.mangadex.org/v2/"
 dir_inout = "data/jsons/"
 dir_logs = "data/logs/"
@@ -55,7 +56,7 @@ while manga_count <= id_end:
     print("processing manga " + str(manga_count)+":")
     data = manga_obj.MangaObj()
     data.id = manga_count
-    data.url = url_main + "manga/" + str(manga_count)
+    data.url = url_domain + "manga/" + str(manga_count)
 
     # check if this manga has already been downloaded
     already_downloaded = False
