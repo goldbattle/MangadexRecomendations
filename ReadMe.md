@@ -9,6 +9,7 @@ If you want to use it, please download [Neko](https://github.com/CarlosEsco/Neko
 
 * Neko Android App - https://github.com/CarlosEsco/Neko
 * Chrome Extension - https://chrome.google.com/webstore/detail/ghjofcifjnbpgfjbbnbeeipjlhnmbefl
+* Userscript (contrib) - https://greasyfork.org/en/scripts/415324-mangadex-recommendations
 
 
 ## Dependencies
