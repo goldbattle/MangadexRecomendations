@@ -2,55 +2,49 @@
   "id": 58366,
   "title": "Dark Sea",
   "url": "https://mangadex.org/manga/58366",
-  "last_updated": "January 16, 2021 18:50:43 UTC",
+  "last_updated": "March 13, 2021 04:21:39 UTC",
   "matches": [
-    {
-      "id": 42830,
-      "title": "S-Mate",
-      "score": 0.373,
-      "r18": false
-    },
     {
       "id": 43412,
       "title": "Silent War",
-      "score": 0.355,
-      "r18": false
-    },
-    {
-      "id": 58252,
-      "title": "Love Limit Exceeded",
-      "score": 0.345,
-      "r18": false
-    },
-    {
-      "id": 38795,
-      "title": "The White Room",
-      "score": 0.329,
-      "r18": false
+      "score": 0.3,
+      "r18": true
     },
     {
       "id": 31397,
       "title": "Take a Peek",
-      "score": 0.323,
-      "r18": false
+      "score": 0.25,
+      "r18": true
+    },
+    {
+      "id": 38795,
+      "title": "The White Room",
+      "score": 0.25,
+      "r18": true
+    },
+    {
+      "id": 42830,
+      "title": "S-Mate",
+      "score": 0.246,
+      "r18": true
     },
     {
       "id": 42777,
       "title": "Weak Point",
-      "score": 0.299,
-      "r18": false
-    },
-    {
-      "id": 51124,
-      "title": "My Sister's Duty",
-      "score": 0.272,
-      "r18": false
+      "score": 0.219,
+      "r18": true
     },
     {
       "id": 42587,
       "title": "Cartoonists NSFW",
-      "score": 0.256,
-      "r18": false
+      "score": 0.194,
+      "r18": true
+    },
+    {
+      "id": 51124,
+      "title": "My Sister's Duty",
+      "score": 0.156,
+      "r18": true
     }
   ]
 }
