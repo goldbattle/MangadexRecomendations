@@ -1,91 +1,97 @@
 {
   "id": 59328,
   "title": "Mnemosyne",
-  "url": "https://api.mangadex.org/v2/manga/59328",
-  "last_updated": "February 06, 2021 08:25:39 UTC",
+  "url": "https://mangadex.org/manga/59328",
+  "last_updated": "March 13, 2021 08:29:35 UTC",
   "matches": [
-    {
-      "id": 24669,
-      "title": "MODE \u2161",
-      "score": 0.691,
-      "r18": false
-    },
     {
       "id": 27569,
       "title": "Beauty Game",
-      "score": 0.286,
+      "score": 0.233,
+      "r18": false
+    },
+    {
+      "id": 24669,
+      "title": "MODE \u2161",
+      "score": 0.226,
       "r18": false
     },
     {
       "id": 22800,
       "title": "Black Survival - Bottomless Pit",
-      "score": 0.286,
-      "r18": false
-    },
-    {
-      "id": 29067,
-      "title": "Stop The World",
-      "score": 0.259,
-      "r18": false
-    },
-    {
-      "id": 22146,
-      "title": "Reckoning",
-      "score": 0.239,
-      "r18": false
-    },
-    {
-      "id": 30783,
-      "title": "Again",
-      "score": 0.219,
+      "score": 0.2,
       "r18": false
     },
     {
       "id": 35152,
       "title": "Monster Child",
-      "score": 0.213,
+      "score": 0.175,
       "r18": false
     },
     {
-      "id": 30777,
-      "title": "Timing",
-      "score": 0.207,
+      "id": 22146,
+      "title": "Reckoning",
+      "score": 0.156,
+      "r18": false
+    },
+    {
+      "id": 29067,
+      "title": "Stop The World",
+      "score": 0.156,
+      "r18": false
+    },
+    {
+      "id": 35245,
+      "title": "The Planet Walks Alone",
+      "score": 0.14,
       "r18": false
     },
     {
       "id": 48876,
       "title": "Lads' Party",
-      "score": 0.207,
+      "score": 0.127,
       "r18": false
     },
     {
-      "id": 60314,
-      "title": "81 Fatal Questions",
-      "score": 0.194,
+      "id": 30783,
+      "title": "Again",
+      "score": 0.127,
       "r18": false
     },
     {
       "id": 49557,
       "title": "Rendezvous",
-      "score": 0.177,
+      "score": 0.117,
+      "r18": false
+    },
+    {
+      "id": 30777,
+      "title": "Timing",
+      "score": 0.117,
       "r18": false
     },
     {
       "id": 44584,
       "title": "My Universe",
-      "score": 0.167,
+      "score": 0.108,
       "r18": false
     },
     {
       "id": 45840,
       "title": "For The Moon",
-      "score": 0.163,
+      "score": 0.108,
+      "r18": false
+    },
+    {
+      "id": 60314,
+      "title": "81 Fatal Questions",
+      "score": 0.108,
       "r18": false
     },
     {
       "id": 57003,
       "title": "Mosquito War",
-      "score": 0.16,
+      "score": 0.093,
       "r18": false
     }
   ]

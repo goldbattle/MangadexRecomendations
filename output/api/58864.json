@@ -1,13 +1,19 @@
 {
   "id": 58864,
   "title": "Like cat and dog (Hijitaka x Gintoki)",
-  "url": "https://api.mangadex.org/v2/manga/58864",
-  "last_updated": "February 06, 2021 08:18:23 UTC",
+  "url": "https://mangadex.org/manga/58864",
+  "last_updated": "March 13, 2021 08:24:34 UTC",
   "matches": [
     {
       "id": 44821,
       "title": "Boku no Danna-sama",
-      "score": 0.233,
+      "score": 0.2,
+      "r18": false
+    },
+    {
+      "id": 59347,
+      "title": "Ero Yume Aquarium",
+      "score": 0.2,
       "r18": false
     }
   ]
