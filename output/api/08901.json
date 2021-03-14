@@ -1,55 +1,55 @@
 {
   "id": 8901,
   "title": "Aijin Incubus",
-  "url": "https://api.mangadex.org/v2/manga/8901",
-  "last_updated": "February 07, 2021 20:37:35 UTC",
+  "url": "https://mangadex.org/manga/8901",
+  "last_updated": "March 14, 2021 20:24:35 UTC",
   "matches": [
-    {
-      "id": 37504,
-      "title": "Hide and Seek",
-      "score": 0.701,
-      "r18": false
-    },
-    {
-      "id": 27684,
-      "title": "Yokubou Shounen",
-      "score": 0.7,
-      "r18": false
-    },
     {
       "id": 55840,
       "title": "Ijimetai hodo Aishiteru",
-      "score": 0.684,
-      "r18": false
-    },
-    {
-      "id": 29080,
-      "title": "Dakishimetakunai",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 44586,
-      "title": "Tabetemo Oishiku Arimasen",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 23965,
-      "title": "After 5 wa Kiss no Ame",
-      "score": 0.65,
+      "score": 0.3,
       "r18": false
     },
     {
       "id": 32064,
       "title": "Urusai Kurai no Kokuhaku Kudasai",
-      "score": 0.425,
+      "score": 0.3,
       "r18": false
     },
     {
       "id": 9951,
       "title": "Nekoka Kareshi no Ayashikata",
-      "score": 0.379,
+      "score": 0.3,
+      "r18": false
+    },
+    {
+      "id": 44586,
+      "title": "Tabetemo Oishiku Arimasen",
+      "score": 0.25,
+      "r18": false
+    },
+    {
+      "id": 37504,
+      "title": "Hide and Seek",
+      "score": 0.214,
+      "r18": false
+    },
+    {
+      "id": 23965,
+      "title": "After 5 wa Kiss no Ame",
+      "score": 0.214,
+      "r18": false
+    },
+    {
+      "id": 27684,
+      "title": "Yokubou Shounen",
+      "score": 0.205,
+      "r18": false
+    },
+    {
+      "id": 29080,
+      "title": "Dakishimetakunai",
+      "score": 0.188,
       "r18": false
     }
   ]

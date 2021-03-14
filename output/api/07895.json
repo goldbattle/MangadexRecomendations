@@ -1,43 +1,43 @@
 {
   "id": 7895,
   "title": "Issho ni Gohan -Takitate-",
-  "url": "https://api.mangadex.org/v2/manga/7895",
-  "last_updated": "February 07, 2021 20:18:02 UTC",
+  "url": "https://mangadex.org/manga/7895",
+  "last_updated": "March 14, 2021 20:13:01 UTC",
   "matches": [
+    {
+      "id": 8929,
+      "title": "Kitchen Palette",
+      "score": 0.3,
+      "r18": false
+    },
     {
       "id": 2732,
       "title": "Oishii Kankei",
-      "score": 0.705,
+      "score": 0.242,
       "r18": false
     },
     {
       "id": 9664,
       "title": "Honey Sweet Kitchen",
-      "score": 0.701,
-      "r18": false
-    },
-    {
-      "id": 14133,
-      "title": "Shall We Have Dinner Tonight?",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 8929,
-      "title": "Kitchen Palette",
-      "score": 0.423,
+      "score": 0.232,
       "r18": false
     },
     {
       "id": 23113,
       "title": "Ii ne! Hikaru Genji-kun",
-      "score": 0.29,
+      "score": 0.188,
       "r18": false
     },
     {
       "id": 54034,
       "title": "Kuu Nomu Tokoro ni Taberu Toko",
-      "score": 0.2,
+      "score": 0.171,
+      "r18": false
+    },
+    {
+      "id": 14133,
+      "title": "Shall We Have Dinner Tonight?",
+      "score": 0.167,
       "r18": false
     }
   ]

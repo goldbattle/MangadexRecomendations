@@ -1,43 +1,49 @@
 {
   "id": 7877,
   "title": "Getsurin ni Kiri Saku",
-  "url": "https://api.mangadex.org/v2/manga/7877",
-  "last_updated": "February 07, 2021 20:17:30 UTC",
+  "url": "https://mangadex.org/manga/7877",
+  "last_updated": "March 14, 2021 20:12:48 UTC",
   "matches": [
-    {
-      "id": 1459,
-      "title": "&Uuml;bel Blatt",
-      "score": 0.695,
-      "r18": false
-    },
     {
       "id": 30869,
       "title": "Human Ranch",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 52883,
-      "title": "Doreiku - GANG AGE -",
-      "score": 0.333,
+      "score": 0.203,
       "r18": false
     },
     {
       "id": 56209,
       "title": "Virgin Extinction Island",
-      "score": 0.331,
+      "score": 0.2,
+      "r18": false
+    },
+    {
+      "id": 1312,
+      "title": "Freesia",
+      "score": 0.194,
+      "r18": false
+    },
+    {
+      "id": 52883,
+      "title": "Doreiku - GANG AGE -",
+      "score": 0.181,
+      "r18": false
+    },
+    {
+      "id": 1459,
+      "title": "&Uuml;bel Blatt",
+      "score": 0.157,
       "r18": false
     },
     {
       "id": 47000,
       "title": "Transjitter",
-      "score": 0.294,
+      "score": 0.151,
       "r18": false
     },
     {
       "id": 49464,
       "title": "Renkin Buraikan",
-      "score": 0.151,
+      "score": 0.124,
       "r18": false
     }
   ]

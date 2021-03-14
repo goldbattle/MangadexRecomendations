@@ -1,49 +1,49 @@
 {
   "id": 9130,
   "title": "Koujitsuei no Tobira",
-  "url": "https://api.mangadex.org/v2/manga/9130",
-  "last_updated": "February 07, 2021 20:41:30 UTC",
+  "url": "https://mangadex.org/manga/9130",
+  "last_updated": "March 14, 2021 20:27:11 UTC",
   "matches": [
-    {
-      "id": 16995,
-      "title": "Ikura Nandemo Sukisugiru",
-      "score": 0.713,
-      "r18": false
-    },
-    {
-      "id": 39960,
-      "title": "Kinjirareta Koibanashi",
-      "score": 0.701,
-      "r18": false
-    },
-    {
-      "id": 17731,
-      "title": "Kyoudai Biyori",
-      "score": 0.692,
-      "r18": false
-    },
-    {
-      "id": 16641,
-      "title": "Make Me Happy",
-      "score": 0.688,
-      "r18": false
-    },
-    {
-      "id": 25748,
-      "title": "3-pun Instant no Chinmoku",
-      "score": 0.679,
-      "r18": false
-    },
     {
       "id": 54259,
       "title": "Flesh &amp; Blood",
-      "score": 0.37,
+      "score": 0.275,
       "r18": false
     },
     {
       "id": 58475,
       "title": "Akaneshinchi Hanaya Sange",
-      "score": 0.367,
+      "score": 0.275,
+      "r18": false
+    },
+    {
+      "id": 17731,
+      "title": "Kyoudai Biyori",
+      "score": 0.266,
+      "r18": false
+    },
+    {
+      "id": 16641,
+      "title": "Make Me Happy",
+      "score": 0.26,
+      "r18": false
+    },
+    {
+      "id": 25748,
+      "title": "3-pun Instant no Chinmoku",
+      "score": 0.259,
+      "r18": false
+    },
+    {
+      "id": 39960,
+      "title": "Kinjirareta Koibanashi",
+      "score": 0.242,
+      "r18": false
+    },
+    {
+      "id": 16995,
+      "title": "Ikura Nandemo Sukisugiru",
+      "score": 0.206,
       "r18": false
     }
   ]

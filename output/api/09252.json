@@ -1,37 +1,43 @@
 {
   "id": 9252,
   "title": "Kyuuketsuki no Uruwashiki Kekkon",
-  "url": "https://api.mangadex.org/v2/manga/9252",
-  "last_updated": "February 07, 2021 20:43:52 UTC",
+  "url": "https://mangadex.org/manga/9252",
+  "last_updated": "March 14, 2021 20:28:41 UTC",
   "matches": [
-    {
-      "id": 4442,
-      "title": "Arcana 04 - Vampire",
-      "score": 0.704,
-      "r18": false
-    },
     {
       "id": 1485,
       "title": "Satou-kun to Tanaka-san - The Blood Highschool",
-      "score": 0.702,
+      "score": 0.319,
+      "r18": false
+    },
+    {
+      "id": 4442,
+      "title": "Arcana 04 - Vampire",
+      "score": 0.274,
       "r18": false
     },
     {
       "id": 47914,
       "title": "A Vampire's First Love",
-      "score": 0.316,
+      "score": 0.237,
       "r18": false
     },
     {
       "id": 2659,
       "title": "Omae ga Sekai wo Kowashitai nara",
-      "score": 0.244,
+      "score": 0.145,
+      "r18": false
+    },
+    {
+      "id": 43343,
+      "title": "Phantom in the Twilight",
+      "score": 0.097,
       "r18": false
     },
     {
       "id": 40778,
       "title": "Cheating Men Must Die",
-      "score": 0.153,
+      "score": 0.063,
       "r18": false
     }
   ]
