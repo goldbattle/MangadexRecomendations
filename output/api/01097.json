@@ -1,49 +1,49 @@
 {
   "id": 1097,
   "title": "Say Hello to Black Jack",
-  "url": "https://api.mangadex.org/v2/manga/1097",
-  "last_updated": "February 07, 2021 00:44:04 UTC",
+  "url": "https://mangadex.org/manga/1097",
+  "last_updated": "March 14, 2021 01:07:30 UTC",
   "matches": [
-    {
-      "id": 1915,
-      "title": "Team Medical Dragon",
-      "score": 0.732,
-      "r18": false
-    },
     {
       "id": 10698,
       "title": "Lucifer no Migite",
-      "score": 0.724,
-      "r18": false
-    },
-    {
-      "id": 3339,
-      "title": "Kansen Rettou",
-      "score": 0.702,
-      "r18": false
-    },
-    {
-      "id": 1101,
-      "title": "Monster",
-      "score": 0.697,
+      "score": 0.294,
       "r18": false
     },
     {
       "id": 13215,
       "title": "Kounodori",
-      "score": 0.68,
+      "score": 0.291,
+      "r18": false
+    },
+    {
+      "id": 1915,
+      "title": "Team Medical Dragon",
+      "score": 0.259,
+      "r18": false
+    },
+    {
+      "id": 3339,
+      "title": "Kansen Rettou",
+      "score": 0.245,
+      "r18": false
+    },
+    {
+      "id": 1101,
+      "title": "Monster",
+      "score": 0.203,
       "r18": false
     },
     {
       "id": 521,
       "title": "Shi ni Itaru Yamai",
-      "score": 0.674,
+      "score": 0.196,
       "r18": false
     },
     {
       "id": 15,
       "title": "Dr. Frost",
-      "score": 0.153,
+      "score": 0.129,
       "r18": false
     }
   ]
