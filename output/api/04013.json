@@ -1,19 +1,19 @@
 {
   "id": 4013,
   "title": "Princess Hanaka",
-  "url": "https://api.mangadex.org/v2/manga/4013",
-  "last_updated": "February 07, 2021 08:17:53 UTC",
+  "url": "https://mangadex.org/manga/4013",
+  "last_updated": "March 14, 2021 08:26:23 UTC",
   "matches": [
-    {
-      "id": 1921,
-      "title": "Black Bird",
-      "score": 0.692,
-      "r18": false
-    },
     {
       "id": 6187,
       "title": "1-nen 5-kumi Ikimonogakari",
-      "score": 0.669,
+      "score": 0.19,
+      "r18": false
+    },
+    {
+      "id": 1921,
+      "title": "Black Bird",
+      "score": 0.152,
       "r18": false
     }
   ]

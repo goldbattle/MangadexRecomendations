@@ -1,157 +1,91 @@
 {
   "id": 3761,
   "title": "Coral -Tenohira no Umi-",
-  "url": "https://api.mangadex.org/v2/manga/3761",
-  "last_updated": "February 07, 2021 08:13:12 UTC",
+  "url": "https://mangadex.org/manga/3761",
+  "last_updated": "March 14, 2021 08:23:19 UTC",
   "matches": [
-    {
-      "id": 2797,
-      "title": "Le Th&eacute;&acirc;tre de B",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 47568,
-      "title": "Fuyu Fenrir no Itoshigo to Natta Watashi ga, Zetsubou kara Iyasareteiku Hanashi",
-      "score": 0.65,
-      "r18": false
-    },
-    {
-      "id": 1132,
-      "title": "Bernie no Enikki",
-      "score": 0.484,
-      "r18": false
-    },
-    {
-      "id": 23037,
-      "title": "Tomonen",
-      "score": 0.479,
-      "r18": false
-    },
-    {
-      "id": 20547,
-      "title": "Hanaoni Tobira no Sakaimeya-san",
-      "score": 0.43,
-      "r18": false
-    },
-    {
-      "id": 273,
-      "title": "Corseltel no Ryuujitsushi",
-      "score": 0.376,
-      "r18": false
-    },
-    {
-      "id": 53134,
-      "title": "Say Thank You - Collected Short Stories of Ko Nikaido",
-      "score": 0.372,
-      "r18": false
-    },
-    {
-      "id": 6212,
-      "title": "Corseltel no Ryuujitsushi - Koryuu Monogatari",
-      "score": 0.359,
-      "r18": false
-    },
-    {
-      "id": 15032,
-      "title": "Hoshigahara Ao Manjuu no Mori",
-      "score": 0.356,
-      "r18": false
-    },
-    {
-      "id": 4070,
-      "title": "Shirube no Michi",
-      "score": 0.352,
-      "r18": false
-    },
-    {
-      "id": 20588,
-      "title": "Mugi no Mahoutsukai",
-      "score": 0.351,
-      "r18": false
-    },
-    {
-      "id": 50266,
-      "title": "Tonari no Youkai-san",
-      "score": 0.349,
-      "r18": false
-    },
-    {
-      "id": 35475,
-      "title": "Chiisana Oningyo Hiyori",
-      "score": 0.329,
-      "r18": false
-    },
-    {
-      "id": 20081,
-      "title": "Minato Machi Neko Machi",
-      "score": 0.32,
-      "r18": false
-    },
-    {
-      "id": 29900,
-      "title": "Hero and Shero",
-      "score": 0.318,
-      "r18": false
-    },
-    {
-      "id": 29326,
-      "title": "Chiisako no Niwa",
-      "score": 0.309,
-      "r18": false
-    },
     {
       "id": 1128,
       "title": "Hagoromo Mishin",
-      "score": 0.305,
-      "r18": false
-    },
-    {
-      "id": 7896,
-      "title": "Matsuru Kami",
-      "score": 0.302,
-      "r18": false
-    },
-    {
-      "id": 17666,
-      "title": "Majo to Neko no Hanashi",
-      "score": 0.297,
-      "r18": false
-    },
-    {
-      "id": 50047,
-      "title": "This Unbound World's &quot;Normal&quot; Is Difficult",
-      "score": 0.296,
-      "r18": false
-    },
-    {
-      "id": 49794,
-      "title": "Another World Where I Can't Even Collapse and Die",
-      "score": 0.288,
+      "score": 0.29,
       "r18": false
     },
     {
       "id": 37463,
       "title": "Ihou no Oswald",
-      "score": 0.287,
+      "score": 0.29,
       "r18": false
     },
     {
-      "id": 23474,
-      "title": "Samenai Machi no Kissaten",
-      "score": 0.285,
+      "id": 4070,
+      "title": "Shirube no Michi",
+      "score": 0.257,
       "r18": false
     },
     {
-      "id": 57418,
-      "title": "Hazure Potion ga Shouyu datta no de Ryouri suru koto ni shimashita",
-      "score": 0.283,
+      "id": 2693,
+      "title": "Mahoutsukai Syd &amp; Lid",
+      "score": 0.242,
       "r18": false
     },
     {
-      "id": 22484,
-      "title": "Kottou Nekoya",
-      "score": 0.278,
+      "id": 11240,
+      "title": "31 Ai Dream",
+      "score": 0.207,
+      "r18": false
+    },
+    {
+      "id": 28377,
+      "title": "Uchi no Neko Shirimasenka?",
+      "score": 0.193,
+      "r18": false
+    },
+    {
+      "id": 59704,
+      "title": "Petshop of Horrors: Ark Adrift",
+      "score": 0.181,
+      "r18": false
+    },
+    {
+      "id": 54777,
+      "title": "Choppy Waters",
+      "score": 0.161,
+      "r18": false
+    },
+    {
+      "id": 13959,
+      "title": "E? Heibon Desu yo??",
+      "score": 0.158,
+      "r18": false
+    },
+    {
+      "id": 47568,
+      "title": "Fuyu Fenrir no Itoshigo to Natta Watashi ga, Zetsubou kara Iyasareteiku Hanashi",
+      "score": 0.14,
+      "r18": false
+    },
+    {
+      "id": 2797,
+      "title": "Le Th&eacute;&acirc;tre de B",
+      "score": 0.139,
+      "r18": false
+    },
+    {
+      "id": 59709,
+      "title": "Petshop of Horrors: Passage",
+      "score": 0.129,
+      "r18": false
+    },
+    {
+      "id": 51716,
+      "title": "Wish Shop",
+      "score": 0.112,
+      "r18": false
+    },
+    {
+      "id": 36510,
+      "title": "My Lord, the Wolf Queen",
+      "score": 0.104,
       "r18": false
     }
   ]

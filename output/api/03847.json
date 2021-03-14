@@ -1,25 +1,25 @@
 {
   "id": 3847,
   "title": "Gakuen Tengoku",
-  "url": "https://api.mangadex.org/v2/manga/3847",
-  "last_updated": "February 07, 2021 08:14:52 UTC",
+  "url": "https://mangadex.org/manga/3847",
+  "last_updated": "March 14, 2021 08:24:22 UTC",
   "matches": [
+    {
+      "id": 59385,
+      "title": "Bota Bota",
+      "score": 0.29,
+      "r18": false
+    },
     {
       "id": 22303,
       "title": "Isekai Kenkokuki",
-      "score": 0.696,
+      "score": 0.159,
       "r18": false
     },
     {
       "id": 906,
       "title": "Magetsukan Kitan",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 59385,
-      "title": "Bota bota",
-      "score": 0.392,
+      "score": 0.131,
       "r18": false
     }
   ]

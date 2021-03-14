@@ -1,43 +1,43 @@
 {
   "id": 3275,
   "title": "Kindan no Koi de Ikou",
-  "url": "https://api.mangadex.org/v2/manga/3275",
-  "last_updated": "February 07, 2021 08:04:29 UTC",
+  "url": "https://mangadex.org/manga/3275",
+  "last_updated": "March 14, 2021 08:17:22 UTC",
   "matches": [
-    {
-      "id": 3212,
-      "title": "Love Cruise",
-      "score": 0.669,
-      "r18": false
-    },
     {
       "id": 11580,
       "title": "Anata ni Hana wo Sasagemashou",
-      "score": 0.661,
+      "score": 0.313,
       "r18": false
     },
     {
       "id": 11077,
       "title": "Koiiro Devil",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 4132,
-      "title": "Mitsu Iro Devil",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 1310,
-      "title": "Midnight Secretary",
-      "score": 0.653,
+      "score": 0.28,
       "r18": false
     },
     {
       "id": 2170,
       "title": "Soryanaize Darling",
-      "score": 0.419,
+      "score": 0.28,
+      "r18": false
+    },
+    {
+      "id": 3212,
+      "title": "Love Cruise",
+      "score": 0.223,
+      "r18": false
+    },
+    {
+      "id": 1310,
+      "title": "Midnight Secretary",
+      "score": 0.216,
+      "r18": false
+    },
+    {
+      "id": 4132,
+      "title": "Mitsu Iro Devil",
+      "score": 0.2,
       "r18": false
     }
   ]

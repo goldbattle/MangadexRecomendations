@@ -1,55 +1,55 @@
 {
   "id": 3742,
   "title": "White Dragon",
-  "url": "https://api.mangadex.org/v2/manga/3742",
-  "last_updated": "February 07, 2021 08:12:52 UTC",
+  "url": "https://mangadex.org/manga/3742",
+  "last_updated": "March 14, 2021 08:23:05 UTC",
   "matches": [
-    {
-      "id": 20316,
-      "title": "Rokudou no Onna-tachi",
-      "score": 0.693,
-      "r18": false
-    },
     {
       "id": 2496,
       "title": "Aoharu x Kikanjuu",
-      "score": 0.687,
-      "r18": false
-    },
-    {
-      "id": 21063,
-      "title": "Mairimashita! Iruma-kun",
-      "score": 0.685,
-      "r18": false
-    },
-    {
-      "id": 43551,
-      "title": "Is It Tough Being a Friend?",
-      "score": 0.683,
-      "r18": false
-    },
-    {
-      "id": 6521,
-      "title": "Nishi no Yoki Majo",
-      "score": 0.68,
+      "score": 0.219,
       "r18": false
     },
     {
       "id": 26957,
       "title": "Okyu no Trinity",
-      "score": 0.336,
+      "score": 0.207,
       "r18": false
     },
     {
       "id": 559,
       "title": "Dark Air",
-      "score": 0.333,
+      "score": 0.207,
+      "r18": false
+    },
+    {
+      "id": 6521,
+      "title": "Nishi no Yoki Majo",
+      "score": 0.157,
+      "r18": false
+    },
+    {
+      "id": 43551,
+      "title": "Is It Tough Being a Friend?",
+      "score": 0.143,
+      "r18": false
+    },
+    {
+      "id": 21063,
+      "title": "Mairimashita! Iruma-kun",
+      "score": 0.141,
       "r18": false
     },
     {
       "id": 42296,
       "title": "Piratebent",
-      "score": 0.249,
+      "score": 0.121,
+      "r18": false
+    },
+    {
+      "id": 20316,
+      "title": "Rokudou no Onna-tachi",
+      "score": 0.111,
       "r18": false
     }
   ]
