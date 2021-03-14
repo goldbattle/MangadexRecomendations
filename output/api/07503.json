@@ -1,43 +1,49 @@
 {
   "id": 7503,
   "title": "Yuuwaku Chocolate",
-  "url": "https://api.mangadex.org/v2/manga/7503",
-  "last_updated": "February 07, 2021 16:30:25 UTC",
+  "url": "https://mangadex.org/manga/7503",
+  "last_updated": "March 14, 2021 16:45:31 UTC",
   "matches": [
     {
-      "id": 11586,
-      "title": "Love Ho no Ojou-sama",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 7834,
-      "title": "Awayuki no Namida",
-      "score": 0.467,
+      "id": 21060,
+      "title": "Kono Saki, Rabu Rabu Nari.",
+      "score": 0.35,
       "r18": false
     },
     {
       "id": 35473,
       "title": "Joifo",
-      "score": 0.452,
+      "score": 0.35,
       "r18": false
     },
     {
-      "id": 21060,
-      "title": "Kono Saki, Rabu Rabu Nari.",
-      "score": 0.451,
+      "id": 11586,
+      "title": "Love Ho no Ojou-sama",
+      "score": 0.333,
       "r18": false
     },
     {
-      "id": 34379,
-      "title": "Sekimen Danshi Makkasa",
-      "score": 0.266,
+      "id": 7834,
+      "title": "Awayuki no Namida",
+      "score": 0.305,
+      "r18": false
+    },
+    {
+      "id": 18801,
+      "title": "Ouji-sama wa Midara ni Midareru",
+      "score": 0.28,
       "r18": false
     },
     {
       "id": 11203,
       "title": "Puzzle",
-      "score": 0.227,
+      "score": 0.187,
+      "r18": false
+    },
+    {
+      "id": 34379,
+      "title": "Sekimen Danshi Makkasa",
+      "score": 0.175,
       "r18": false
     }
   ]

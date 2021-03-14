@@ -1,49 +1,49 @@
 {
   "id": 6352,
   "title": "Daten no Tsuki",
-  "url": "https://api.mangadex.org/v2/manga/6352",
-  "last_updated": "February 07, 2021 16:06:47 UTC",
+  "url": "https://mangadex.org/manga/6352",
+  "last_updated": "March 14, 2021 16:27:43 UTC",
   "matches": [
     {
-      "id": 42236,
-      "title": "Heaven Official's Blessing (old version)",
-      "score": 0.681,
-      "r18": false
-    },
-    {
-      "id": 35638,
-      "title": "The Timekeeper's Final Summer",
-      "score": 0.681,
+      "id": 26108,
+      "title": "Bakemono to Kedamono",
+      "score": 0.25,
       "r18": false
     },
     {
       "id": 5659,
       "title": "1001 Knights",
-      "score": 0.679,
+      "score": 0.214,
+      "r18": false
+    },
+    {
+      "id": 35638,
+      "title": "The Timekeeper's Final Summer",
+      "score": 0.211,
       "r18": false
     },
     {
       "id": 919,
       "title": "Loveless",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 26108,
-      "title": "Bakemono to Kedamono",
-      "score": 0.338,
-      "r18": false
-    },
-    {
-      "id": 58412,
-      "title": "Elegy of the Heavens",
-      "score": 0.258,
+      "score": 0.16,
       "r18": false
     },
     {
       "id": 35959,
       "title": "Blinding Light",
-      "score": 0.233,
+      "score": 0.15,
+      "r18": false
+    },
+    {
+      "id": 58412,
+      "title": "Elegy of the Heavens",
+      "score": 0.136,
+      "r18": false
+    },
+    {
+      "id": 42236,
+      "title": "Heaven Official's Blessing (old version)",
+      "score": 0.107,
       "r18": false
     }
   ]

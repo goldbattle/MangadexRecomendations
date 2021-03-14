@@ -1,25 +1,25 @@
 {
   "id": 7586,
   "title": "Boku wa, Onnanoko",
-  "url": "https://api.mangadex.org/v2/manga/7586",
-  "last_updated": "February 07, 2021 16:32:09 UTC",
+  "url": "https://mangadex.org/manga/7586",
+  "last_updated": "March 14, 2021 16:46:49 UTC",
   "matches": [
-    {
-      "id": 18697,
-      "title": "Nanashi no Asterism",
-      "score": 0.694,
-      "r18": false
-    },
     {
       "id": 7402,
       "title": "Oyajina!",
-      "score": 0.654,
+      "score": 0.267,
       "r18": false
     },
     {
       "id": 18662,
       "title": "Sunshine &amp; Bright Stars",
-      "score": 0.24,
+      "score": 0.213,
+      "r18": false
+    },
+    {
+      "id": 18697,
+      "title": "Nanashi no Asterism",
+      "score": 0.178,
       "r18": false
     }
   ]

@@ -1,19 +1,19 @@
 {
   "id": 6658,
   "title": "Hikari",
-  "url": "https://api.mangadex.org/v2/manga/6658",
-  "last_updated": "February 07, 2021 16:13:00 UTC",
+  "url": "https://mangadex.org/manga/6658",
+  "last_updated": "March 14, 2021 16:32:32 UTC",
   "matches": [
-    {
-      "id": 51483,
-      "title": "Breaking Through the Clouds 2: Swallow the Sea",
-      "score": 0.692,
-      "r18": false
-    },
     {
       "id": 2711,
       "title": "Dawn - Tsumetai Te",
-      "score": 0.678,
+      "score": 0.181,
+      "r18": false
+    },
+    {
+      "id": 51483,
+      "title": "Breaking Through the Clouds 2: Swallow the Sea",
+      "score": 0.124,
       "r18": false
     }
   ]

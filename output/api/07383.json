@@ -1,19 +1,19 @@
 {
   "id": 7383,
   "title": "Tokumu Sentai Shinesman",
-  "url": "https://api.mangadex.org/v2/manga/7383",
-  "last_updated": "February 07, 2021 16:28:01 UTC",
+  "url": "https://mangadex.org/manga/7383",
+  "last_updated": "March 14, 2021 16:43:35 UTC",
   "matches": [
-    {
-      "id": 13764,
-      "title": "Guren Five",
-      "score": 0.752,
-      "r18": false
-    },
     {
       "id": 15670,
       "title": "Magic Knight Rayearth",
-      "score": 0.738,
+      "score": 0.219,
+      "r18": false
+    },
+    {
+      "id": 13764,
+      "title": "Guren Five",
+      "score": 0.181,
       "r18": false
     }
   ]
