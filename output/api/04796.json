@@ -1,55 +1,55 @@
 {
   "id": 4796,
   "title": "Yorube Naki Mono",
-  "url": "https://api.mangadex.org/v2/manga/4796",
-  "last_updated": "February 07, 2021 12:25:48 UTC",
+  "url": "https://mangadex.org/manga/4796",
+  "last_updated": "March 14, 2021 12:26:18 UTC",
   "matches": [
     {
-      "id": 14384,
-      "title": "Corsair",
-      "score": 0.716,
-      "r18": false
-    },
-    {
-      "id": 7318,
-      "title": "Tsuki wa Yamiyo ni Kakuru ga Gotoku",
-      "score": 0.714,
-      "r18": false
-    },
-    {
-      "id": 34652,
-      "title": "Sakoku Ren'ai",
-      "score": 0.69,
+      "id": 35453,
+      "title": "Shoukei",
+      "score": 0.388,
       "r18": false
     },
     {
       "id": 58066,
       "title": "Kuro no Kishi",
-      "score": 0.667,
+      "score": 0.388,
       "r18": false
     },
     {
-      "id": 47289,
-      "title": "Snow Kingdom",
-      "score": 0.661,
+      "id": 14384,
+      "title": "Corsair",
+      "score": 0.293,
       "r18": false
     },
     {
-      "id": 35452,
-      "title": "Close Your Eyes",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 35453,
-      "title": "Shoukei",
-      "score": 0.464,
+      "id": 7318,
+      "title": "Tsuki wa Yamiyo ni Kakuru ga Gotoku",
+      "score": 0.253,
       "r18": false
     },
     {
       "id": 4286,
       "title": "Hari no Hana",
-      "score": 0.284,
+      "score": 0.248,
+      "r18": false
+    },
+    {
+      "id": 34652,
+      "title": "Sakoku Ren'ai",
+      "score": 0.236,
+      "r18": false
+    },
+    {
+      "id": 35452,
+      "title": "Close Your Eyes",
+      "score": 0.172,
+      "r18": false
+    },
+    {
+      "id": 47289,
+      "title": "Snow Kingdom",
+      "score": 0.17,
       "r18": false
     }
   ]

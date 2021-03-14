@@ -1,67 +1,73 @@
 {
   "id": 4654,
   "title": "Caterpillar",
-  "url": "https://api.mangadex.org/v2/manga/4654",
-  "last_updated": "February 07, 2021 12:23:29 UTC",
+  "url": "https://mangadex.org/manga/4654",
+  "last_updated": "March 14, 2021 12:23:59 UTC",
   "matches": [
     {
-      "id": 30725,
-      "title": "RaW Hero",
-      "score": 0.711,
+      "id": 9768,
+      "title": "Doreiku - Boku to 23-nin no Dorei",
+      "score": 0.249,
       "r18": false
     },
     {
       "id": 25720,
       "title": "Watashi no Fushidara",
-      "score": 0.709,
-      "r18": false
-    },
-    {
-      "id": 36192,
-      "title": "Ingoshima",
-      "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 18788,
-      "title": "World's End Harem",
-      "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 5773,
-      "title": "Gekkoh",
-      "score": 0.695,
-      "r18": false
-    },
-    {
-      "id": 11205,
-      "title": "Blood Rain",
-      "score": 0.69,
-      "r18": false
-    },
-    {
-      "id": 12857,
-      "title": "Kono Shima ni wa Midara de Jaaku na Mono ga Sumu",
-      "score": 0.671,
-      "r18": false
-    },
-    {
-      "id": 9768,
-      "title": "Doreiku - Boku to 23-nin no Dorei",
-      "score": 0.666,
+      "score": 0.247,
       "r18": false
     },
     {
       "id": 12019,
       "title": "Deathtopia",
-      "score": 0.388,
+      "score": 0.228,
+      "r18": false
+    },
+    {
+      "id": 36192,
+      "title": "Ingoshima",
+      "score": 0.227,
+      "r18": false
+    },
+    {
+      "id": 11205,
+      "title": "Blood Rain",
+      "score": 0.217,
+      "r18": false
+    },
+    {
+      "id": 5773,
+      "title": "Gekkoh",
+      "score": 0.206,
+      "r18": false
+    },
+    {
+      "id": 12857,
+      "title": "Kono Shima ni wa Midara de Jaaku na Mono ga Sumu",
+      "score": 0.2,
       "r18": false
     },
     {
       "id": 40456,
       "title": "Tamarowa",
-      "score": 0.335,
+      "score": 0.2,
+      "r18": false
+    },
+    {
+      "id": 16908,
+      "title": "Saikin Kono Sekai wa Watashi Dake no Mono ni Narimashita......",
+      "score": 0.14,
+      "r18": false
+    },
+    {
+      "id": 18788,
+      "title": "World's End Harem",
+      "score": 0.135,
+      "r18": false
+    },
+    {
+      "id": 30725,
+      "title": "RaW Hero",
+      "score": 0.116,
       "r18": false
     }
   ]

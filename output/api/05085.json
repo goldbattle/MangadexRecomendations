@@ -1,55 +1,49 @@
 {
   "id": 5085,
   "title": "Bride of Deimos",
-  "url": "https://api.mangadex.org/v2/manga/5085",
-  "last_updated": "February 07, 2021 12:30:27 UTC",
+  "url": "https://mangadex.org/manga/5085",
+  "last_updated": "March 14, 2021 12:30:51 UTC",
   "matches": [
+    {
+      "id": 1269,
+      "title": "The Flowers of Evil",
+      "score": 0.214,
+      "r18": false
+    },
     {
       "id": 5158,
       "title": "Hakushaku Cain Series",
-      "score": 0.712,
+      "score": 0.21,
       "r18": false
     },
     {
       "id": 6405,
       "title": "Cantarella",
-      "score": 0.701,
+      "score": 0.199,
       "r18": false
     },
     {
       "id": 2132,
       "title": "After School Nightmare",
-      "score": 0.674,
-      "r18": false
-    },
-    {
-      "id": 2227,
-      "title": "Six Half",
-      "score": 0.672,
-      "r18": false
-    },
-    {
-      "id": 11384,
-      "title": "Return",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 1269,
-      "title": "The Flowers of Evil",
-      "score": 0.298,
-      "r18": false
-    },
-    {
-      "id": 1980,
-      "title": "Vampire Knight",
-      "score": 0.287,
+      "score": 0.19,
       "r18": false
     },
     {
       "id": 1633,
       "title": "Die",
-      "score": 0.177,
+      "score": 0.155,
+      "r18": false
+    },
+    {
+      "id": 1980,
+      "title": "Vampire Knight",
+      "score": 0.152,
+      "r18": false
+    },
+    {
+      "id": 11384,
+      "title": "Return",
+      "score": 0.146,
       "r18": false
     }
   ]
