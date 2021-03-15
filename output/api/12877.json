@@ -1,31 +1,31 @@
 {
   "id": 12877,
   "title": "Oukoku no Ko",
-  "url": "https://api.mangadex.org/v2/manga/12877",
-  "last_updated": "February 08, 2021 08:23:31 UTC",
+  "url": "https://mangadex.org/manga/12877",
+  "last_updated": "March 15, 2021 08:27:53 UTC",
   "matches": [
-    {
-      "id": 28068,
-      "title": "Hi Izuru Tokoro no Tenshi",
-      "score": 0.668,
-      "r18": false
-    },
     {
       "id": 7639,
       "title": "Kakan no Madonna",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 42898,
-      "title": "Versailles of the Dead",
-      "score": 0.662,
+      "score": 0.198,
       "r18": false
     },
     {
       "id": 23526,
       "title": "Detective Lady",
-      "score": 0.311,
+      "score": 0.194,
+      "r18": false
+    },
+    {
+      "id": 42898,
+      "title": "Versailles of the Dead",
+      "score": 0.18,
+      "r18": false
+    },
+    {
+      "id": 28068,
+      "title": "Hi Izuru Tokoro no Tenshi",
+      "score": 0.153,
       "r18": false
     }
   ]

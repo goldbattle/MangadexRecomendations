@@ -1,55 +1,55 @@
 {
   "id": 13783,
   "title": "Fox Daughter",
-  "url": "https://api.mangadex.org/v2/manga/13783",
-  "last_updated": "February 08, 2021 08:39:31 UTC",
+  "url": "https://mangadex.org/manga/13783",
+  "last_updated": "March 15, 2021 08:38:24 UTC",
   "matches": [
-    {
-      "id": 36223,
-      "title": "Witch of the Fire Scene",
-      "score": 0.282,
-      "r18": false
-    },
     {
       "id": 11140,
       "title": "Kuro",
-      "score": 0.256,
+      "score": 0.173,
+      "r18": false
+    },
+    {
+      "id": 36223,
+      "title": "Witch of the Fire Scene",
+      "score": 0.172,
       "r18": false
     },
     {
       "id": 125,
       "title": "Gunslinger Girl",
-      "score": 0.251,
-      "r18": false
-    },
-    {
-      "id": 47082,
-      "title": "Made in Abyss 47.X: Welcome Back",
-      "score": 0.242,
-      "r18": false
-    },
-    {
-      "id": 16482,
-      "title": "Made in Abyss",
-      "score": 0.216,
-      "r18": false
-    },
-    {
-      "id": 3924,
-      "title": "Extra Existence",
-      "score": 0.197,
-      "r18": false
-    },
-    {
-      "id": 38973,
-      "title": "Made in Abyss Official Anthology",
-      "score": 0.189,
+      "score": 0.16,
       "r18": false
     },
     {
       "id": 39526,
       "title": "An OL Trying to Escape the Bitterness of Work Swapped Bodies With a JS But Being an Elementary Schoolgirl Wasn't Easy Either",
-      "score": 0.175,
+      "score": 0.15,
+      "r18": false
+    },
+    {
+      "id": 47082,
+      "title": "Made in Abyss 47.X: Welcome Back",
+      "score": 0.15,
+      "r18": false
+    },
+    {
+      "id": 16482,
+      "title": "Made in Abyss",
+      "score": 0.136,
+      "r18": false
+    },
+    {
+      "id": 3924,
+      "title": "Extra Existence",
+      "score": 0.125,
+      "r18": false
+    },
+    {
+      "id": 38973,
+      "title": "Made in Abyss Official Anthology",
+      "score": 0.1,
       "r18": false
     }
   ]

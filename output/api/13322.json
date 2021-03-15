@@ -1,37 +1,37 @@
 {
   "id": 13322,
   "title": "Koi to Byounetsu",
-  "url": "https://api.mangadex.org/v2/manga/13322",
-  "last_updated": "February 08, 2021 08:31:23 UTC",
+  "url": "https://mangadex.org/manga/13322",
+  "last_updated": "March 15, 2021 08:33:04 UTC",
   "matches": [
+    {
+      "id": 17094,
+      "title": "Saraba, Yoki Hi",
+      "score": 0.3,
+      "r18": false
+    },
     {
       "id": 1381,
       "title": "Kanon",
-      "score": 0.693,
+      "score": 0.275,
       "r18": false
     },
     {
       "id": 37395,
       "title": "The View Beyond",
-      "score": 0.67,
-      "r18": false
-    },
-    {
-      "id": 17094,
-      "title": "Saraba, Yoki Hi",
-      "score": 0.387,
+      "score": 0.233,
       "r18": false
     },
     {
       "id": 9740,
       "title": "Tsumetaku, Amai",
-      "score": 0.335,
+      "score": 0.222,
       "r18": false
     },
     {
       "id": 52044,
       "title": "The Devil",
-      "score": 0.276,
+      "score": 0.153,
       "r18": false
     }
   ]
