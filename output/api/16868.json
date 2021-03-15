@@ -1,31 +1,31 @@
 {
   "id": 16868,
   "title": "Angolmois - Genkou Kassenki",
-  "url": "https://api.mangadex.org/v2/manga/16868",
-  "last_updated": "February 08, 2021 16:54:22 UTC",
+  "url": "https://mangadex.org/manga/16868",
+  "last_updated": "March 15, 2021 16:48:23 UTC",
   "matches": [
-    {
-      "id": 4628,
-      "title": "Kurozuka",
-      "score": 0.686,
-      "r18": false
-    },
     {
       "id": 22772,
       "title": "Grashros",
-      "score": 0.337,
+      "score": 0.239,
       "r18": false
     },
     {
       "id": 6002,
       "title": "The World Is Mine",
-      "score": 0.29,
+      "score": 0.15,
       "r18": false
     },
     {
       "id": 10699,
       "title": "Manga of the Dead",
-      "score": 0.218,
+      "score": 0.108,
+      "r18": false
+    },
+    {
+      "id": 4628,
+      "title": "Kurozuka",
+      "score": 0.107,
       "r18": false
     }
   ]

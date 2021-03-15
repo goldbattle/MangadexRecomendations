@@ -1,73 +1,79 @@
 {
   "id": 16897,
   "title": "Vet's Egg",
-  "url": "https://api.mangadex.org/v2/manga/16897",
-  "last_updated": "February 08, 2021 16:54:56 UTC",
+  "url": "https://mangadex.org/manga/16897",
+  "last_updated": "March 15, 2021 16:48:54 UTC",
   "matches": [
-    {
-      "id": 44538,
-      "title": "Hataraku Saibou BABY",
-      "score": 0.343,
-      "r18": false
-    },
     {
       "id": 53428,
       "title": "Shrink ~Psychiatrist Yowai~",
-      "score": 0.334,
+      "score": 0.287,
+      "r18": false
+    },
+    {
+      "id": 44538,
+      "title": "Hataraku Saibou BABY",
+      "score": 0.287,
       "r18": false
     },
     {
       "id": 13215,
       "title": "Kounodori",
-      "score": 0.314,
-      "r18": false
-    },
-    {
-      "id": 6581,
-      "title": "Dr. Koto Shinryoujo",
-      "score": 0.277,
+      "score": 0.23,
       "r18": false
     },
     {
       "id": 1915,
       "title": "Team Medical Dragon",
-      "score": 0.274,
+      "score": 0.192,
       "r18": false
     },
     {
-      "id": 35421,
-      "title": "School Nurse Maria",
-      "score": 0.273,
+      "id": 6581,
+      "title": "Dr. Koto Shinryoujo",
+      "score": 0.192,
       "r18": false
     },
     {
       "id": 16671,
       "title": "Radiation House",
-      "score": 0.256,
+      "score": 0.192,
+      "r18": false
+    },
+    {
+      "id": 35421,
+      "title": "School Nurse Maria",
+      "score": 0.192,
       "r18": false
     },
     {
       "id": 23537,
       "title": "Watashi to Sensei no Genjuu Shinryouroku",
-      "score": 0.252,
+      "score": 0.157,
+      "r18": false
+    },
+    {
+      "id": 26640,
+      "title": "Kusuriya no Hitorigoto - Maomao no Koukyuu Nazotoki Techou",
+      "score": 0.144,
       "r18": false
     },
     {
       "id": 21562,
       "title": "Kusuriya no Hitorigoto",
-      "score": 0.229,
+      "score": 0.128,
       "r18": false
     },
     {
       "id": 4873,
       "title": "Jin",
-      "score": 0.184,
+      "score": 0.104,
       "r18": false
     },
     {
       "id": 15,
       "title": "Dr. Frost",
-      "score": 0.118,
+      "score": 0.102,
       "r18": false
     }
   ]

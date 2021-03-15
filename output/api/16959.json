@@ -1,43 +1,43 @@
 {
   "id": 16959,
   "title": "Yokai Hunter",
-  "url": "https://api.mangadex.org/v2/manga/16959",
-  "last_updated": "February 08, 2021 16:56:02 UTC",
+  "url": "https://mangadex.org/manga/16959",
+  "last_updated": "March 15, 2021 16:49:54 UTC",
   "matches": [
     {
       "id": 5749,
       "title": "Hyouryuu Kyoushitsu",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 31352,
-      "title": "Shingeki no Kyojin (Fan Colored)",
-      "score": 0.674,
-      "r18": false
-    },
-    {
-      "id": 6856,
-      "title": "Ningyo no Mori",
-      "score": 0.66,
+      "score": 0.162,
       "r18": false
     },
     {
       "id": 35683,
       "title": "Phantom Seer",
-      "score": 0.232,
+      "score": 0.157,
       "r18": false
     },
     {
-      "id": 57003,
-      "title": "Mosquito War",
-      "score": 0.171,
+      "id": 31352,
+      "title": "Shingeki no Kyojin (Fan Colored)",
+      "score": 0.145,
+      "r18": false
+    },
+    {
+      "id": 6856,
+      "title": "Ningyo no Mori",
+      "score": 0.126,
       "r18": false
     },
     {
       "id": 36343,
       "title": "The Distant Dawn",
-      "score": 0.159,
+      "score": 0.073,
+      "r18": false
+    },
+    {
+      "id": 57003,
+      "title": "Mosquito War",
+      "score": 0.073,
       "r18": false
     }
   ]

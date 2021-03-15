@@ -1,61 +1,73 @@
 {
   "id": 16818,
   "title": "Mukoubuchi",
-  "url": "https://api.mangadex.org/v2/manga/16818",
-  "last_updated": "February 08, 2021 16:53:21 UTC",
+  "url": "https://mangadex.org/manga/16818",
+  "last_updated": "March 15, 2021 16:47:30 UTC",
   "matches": [
+    {
+      "id": 923,
+      "title": "Tobaku Datenroku Kaiji",
+      "score": 0.35,
+      "r18": false
+    },
     {
       "id": 3148,
       "title": "Tohai Densetsu Akagi",
-      "score": 0.719,
-      "r18": false
-    },
-    {
-      "id": 5065,
-      "title": "Ten - The Nice Guy on the Path of Tenhou",
-      "score": 0.71,
-      "r18": false
-    },
-    {
-      "id": 17838,
-      "title": "Tohai",
-      "score": 0.706,
-      "r18": false
-    },
-    {
-      "id": 104,
-      "title": "Liar Game",
-      "score": 0.689,
+      "score": 0.338,
       "r18": false
     },
     {
       "id": 38165,
       "title": "Yamima no Mamiya",
-      "score": 0.688,
+      "score": 0.335,
       "r18": false
     },
     {
-      "id": 14151,
-      "title": "Tobaku Datenroku Kaiji: One Poker Hen",
-      "score": 0.408,
+      "id": 5228,
+      "title": "Hero: Akagi no Ishi wo Tsugu Otoko",
+      "score": 0.326,
+      "r18": false
+    },
+    {
+      "id": 17838,
+      "title": "Tohai",
+      "score": 0.297,
+      "r18": false
+    },
+    {
+      "id": 5065,
+      "title": "Ten - The Nice Guy on the Path of Tenhou",
+      "score": 0.292,
       "r18": false
     },
     {
       "id": 57485,
       "title": "Lost - Shissou Shatachi",
-      "score": 0.398,
+      "score": 0.254,
       "r18": false
     },
     {
-      "id": 22985,
-      "title": "Tokyo Game",
-      "score": 0.352,
+      "id": 14151,
+      "title": "Tobaku Datenroku Kaiji: One Poker Hen",
+      "score": 0.25,
+      "r18": false
+    },
+    {
+      "id": 104,
+      "title": "Liar Game",
+      "score": 0.238,
       "r18": false
     },
     {
       "id": 4536,
       "title": "Washizu -Enma no Touhai-",
-      "score": 0.272,
+      "score": 0.224,
+      "r18": false
+    },
+    {
+      "id": 22985,
+      "title": "Tokyo Game",
+      "score": 0.215,
       "r18": false
     }
   ]

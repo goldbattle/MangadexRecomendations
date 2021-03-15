@@ -1,25 +1,25 @@
 {
   "id": 16815,
   "title": "Ao Ashi",
-  "url": "https://api.mangadex.org/v2/manga/16815",
-  "last_updated": "February 08, 2021 16:53:18 UTC",
+  "url": "https://mangadex.org/manga/16815",
+  "last_updated": "March 15, 2021 16:47:26 UTC",
   "matches": [
+    {
+      "id": 6085,
+      "title": "Ike! Inachuu Takkyuubu!",
+      "score": 0.237,
+      "r18": false
+    },
     {
       "id": 877,
       "title": "Ookiku Furikabutte",
-      "score": 0.726,
+      "score": 0.236,
       "r18": false
     },
     {
       "id": 3866,
       "title": "Asahinagu",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 6085,
-      "title": "Ike! Inachuu Takkyuubu!",
-      "score": 0.656,
+      "score": 0.188,
       "r18": false
     }
   ]
