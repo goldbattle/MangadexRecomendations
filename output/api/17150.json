@@ -1,85 +1,85 @@
 {
   "id": 17150,
   "title": "Neko Mahime",
-  "url": "https://api.mangadex.org/v2/manga/17150",
-  "last_updated": "February 08, 2021 20:23:26 UTC",
+  "url": "https://mangadex.org/manga/17150",
+  "last_updated": "March 15, 2021 21:34:52 UTC",
   "matches": [
-    {
-      "id": 9527,
-      "title": "Chibiko-san to Dragon no Niku",
-      "score": 0.4,
-      "r18": false
-    },
     {
       "id": 18404,
       "title": "Citizen Ogre",
-      "score": 0.399,
+      "score": 0.35,
+      "r18": false
+    },
+    {
+      "id": 9527,
+      "title": "Chibiko-san to Dragon no Niku",
+      "score": 0.35,
       "r18": false
     },
     {
       "id": 9528,
       "title": "Kitsune to Aburage",
-      "score": 0.389,
+      "score": 0.35,
       "r18": false
     },
     {
       "id": 10043,
       "title": "No no Kagi",
-      "score": 0.336,
-      "r18": false
-    },
-    {
-      "id": 2790,
-      "title": "Bloody Little Circus",
-      "score": 0.321,
+      "score": 0.28,
       "r18": false
     },
     {
       "id": 45591,
       "title": "Gr&uuml;n B&aelig;la",
-      "score": 0.309,
+      "score": 0.28,
       "r18": false
     },
     {
       "id": 18442,
       "title": "My First Planet",
-      "score": 0.272,
+      "score": 0.224,
       "r18": false
     },
     {
-      "id": 36526,
-      "title": "The Grimoire of Usami - Hifuu Kurabu Ikai Satsuei Kiroku [Touhou Project]",
-      "score": 0.249,
-      "r18": false
-    },
-    {
-      "id": 58930,
-      "title": "A Story about a Fishing Village",
-      "score": 0.211,
-      "r18": false
-    },
-    {
-      "id": 59179,
-      "title": "A Snowman&rsquo;s Gratitude",
-      "score": 0.195,
+      "id": 2790,
+      "title": "Bloody Little Circus",
+      "score": 0.214,
       "r18": false
     },
     {
       "id": 23377,
       "title": "OPM &times; Dangan Tenshi Fanclub",
-      "score": 0.194,
+      "score": 0.16,
       "r18": false
     },
     {
       "id": 57476,
       "title": "Dragon no Chinchin wo Mi ni Ikou",
-      "score": 0.194,
+      "score": 0.16,
+      "r18": false
+    },
+    {
+      "id": 36526,
+      "title": "The Grimoire of Usami - Hifuu Kurabu Ikai Satsuei Kiroku [Touhou Project]",
+      "score": 0.156,
+      "r18": false
+    },
+    {
+      "id": 58930,
+      "title": "A Story about a Fishing Village",
+      "score": 0.156,
       "r18": false
     },
     {
       "id": 59058,
       "title": "A Little Story about a Fish Thief who Steals with Impunity",
-      "score": 0.194,
+      "score": 0.156,
+      "r18": false
+    },
+    {
+      "id": 59179,
+      "title": "A Snowman&rsquo;s Gratitude",
+      "score": 0.14,
       "r18": false
     }
   ]

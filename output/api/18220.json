@@ -1,97 +1,103 @@
 {
   "id": 18220,
   "title": "UNCOntrollable",
-  "url": "https://api.mangadex.org/v2/manga/18220",
-  "last_updated": "February 08, 2021 20:41:46 UTC",
+  "url": "https://mangadex.org/manga/18220",
+  "last_updated": "March 15, 2021 21:51:59 UTC",
   "matches": [
-    {
-      "id": 1011,
-      "title": "Prison School",
-      "score": 0.401,
-      "r18": false
-    },
     {
       "id": 8874,
       "title": "Be-Bop High School",
-      "score": 0.394,
+      "score": 0.253,
+      "r18": false
+    },
+    {
+      "id": 1011,
+      "title": "Prison School",
+      "score": 0.251,
       "r18": false
     },
     {
       "id": 1987,
       "title": "3.3.7 Byooshi!!",
-      "score": 0.347,
+      "score": 0.233,
       "r18": false
     },
     {
       "id": 59383,
       "title": "Gampuku",
-      "score": 0.314,
-      "r18": false
-    },
-    {
-      "id": 12850,
-      "title": "Watari-kun no &times;&times; ga Houkai Sunzen",
-      "score": 0.306,
-      "r18": false
-    },
-    {
-      "id": 6227,
-      "title": "Sundome",
-      "score": 0.301,
+      "score": 0.233,
       "r18": false
     },
     {
       "id": 11186,
       "title": "Kiss My Ass",
-      "score": 0.3,
+      "score": 0.233,
       "r18": false
     },
     {
-      "id": 6220,
-      "title": "Ore ga Doutei wo Sutetara Shinu Ken ni Tsuite",
-      "score": 0.277,
+      "id": 6227,
+      "title": "Sundome",
+      "score": 0.175,
       "r18": false
     },
     {
       "id": 8731,
       "title": "Freezing - Pair Love Stories",
-      "score": 0.276,
+      "score": 0.175,
       "r18": false
     },
     {
-      "id": 18922,
-      "title": "Black Kanojo",
-      "score": 0.274,
+      "id": 12850,
+      "title": "Watari-kun no &times;&times; ga Houkai Sunzen",
+      "score": 0.175,
       "r18": false
     },
     {
       "id": 454,
       "title": "Gou-dere Bishoujo Nagihara Sora",
-      "score": 0.273,
-      "r18": false
-    },
-    {
-      "id": 8117,
-      "title": "Gisou Honey Trap",
-      "score": 0.269,
+      "score": 0.175,
       "r18": false
     },
     {
       "id": 21395,
       "title": "The Fable",
-      "score": 0.268,
+      "score": 0.175,
+      "r18": false
+    },
+    {
+      "id": 8117,
+      "title": "Gisou Honey Trap",
+      "score": 0.175,
+      "r18": false
+    },
+    {
+      "id": 18922,
+      "title": "Black Kanojo",
+      "score": 0.156,
+      "r18": false
+    },
+    {
+      "id": 6220,
+      "title": "Ore ga Doutei wo Sutetara Shinu Ken ni Tsuite",
+      "score": 0.156,
+      "r18": false
+    },
+    {
+      "id": 9615,
+      "title": "Nejimaki Kagyu",
+      "score": 0.14,
       "r18": false
     },
     {
       "id": 3594,
       "title": "Gokukoku no Brynhildr",
-      "score": 0.24,
+      "score": 0.117,
       "r18": false
     },
     {
       "id": 20563,
       "title": "Melancholia",
-      "score": 0.072,
+      "score": 0.059,
       "r18": false
     }
   ]

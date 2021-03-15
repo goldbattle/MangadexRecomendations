@@ -1,19 +1,19 @@
 {
   "id": 17358,
   "title": "Misshitsu no Rakuen",
-  "url": "https://api.mangadex.org/v2/manga/17358",
-  "last_updated": "February 08, 2021 20:27:05 UTC",
+  "url": "https://mangadex.org/manga/17358",
+  "last_updated": "March 15, 2021 21:38:12 UTC",
   "matches": [
-    {
-      "id": 5821,
-      "title": "Hot Gimmick",
-      "score": 0.671,
-      "r18": false
-    },
     {
       "id": 11203,
       "title": "Puzzle",
-      "score": 0.227,
+      "score": 0.187,
+      "r18": false
+    },
+    {
+      "id": 5821,
+      "title": "Hot Gimmick",
+      "score": 0.187,
       "r18": false
     }
   ]

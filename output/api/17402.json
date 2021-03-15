@@ -1,55 +1,49 @@
 {
   "id": 17402,
   "title": "Kono Uta wa Kimi no Tameni",
-  "url": "https://api.mangadex.org/v2/manga/17402",
-  "last_updated": "February 08, 2021 20:27:51 UTC",
+  "url": "https://mangadex.org/manga/17402",
+  "last_updated": "March 15, 2021 21:38:56 UTC",
   "matches": [
     {
-      "id": 4132,
-      "title": "Mitsu Iro Devil",
-      "score": 0.678,
+      "id": 9445,
+      "title": "Ai Daro",
+      "score": 0.258,
       "r18": false
     },
     {
       "id": 11077,
       "title": "Koiiro Devil",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 46731,
-      "title": "Wolf Crying Pharmacy",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 9445,
-      "title": "Ai Daro",
-      "score": 0.663,
+      "score": 0.226,
       "r18": false
     },
     {
       "id": 57841,
       "title": "Come to the Orchard in the Spring",
-      "score": 0.365,
-      "r18": false
-    },
-    {
-      "id": 51380,
-      "title": "Toy Complex",
-      "score": 0.335,
-      "r18": false
-    },
-    {
-      "id": 19168,
-      "title": "Sadistic Beauty",
-      "score": 0.277,
+      "score": 0.226,
       "r18": false
     },
     {
       "id": 56176,
       "title": "Sensei no Himitsu ~Kimi no \u2764\u2764 ga Suki~",
-      "score": 0.272,
+      "score": 0.224,
+      "r18": false
+    },
+    {
+      "id": 4132,
+      "title": "Mitsu Iro Devil",
+      "score": 0.204,
+      "r18": false
+    },
+    {
+      "id": 51380,
+      "title": "Toy Complex",
+      "score": 0.188,
+      "r18": false
+    },
+    {
+      "id": 19168,
+      "title": "Sadistic Beauty",
+      "score": 0.175,
       "r18": false
     }
   ]
