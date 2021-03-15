@@ -1,133 +1,133 @@
 {
   "id": 14760,
   "title": "White Album 2",
-  "url": "https://api.mangadex.org/v2/manga/14760",
-  "last_updated": "February 08, 2021 12:20:42 UTC",
+  "url": "https://mangadex.org/manga/14760",
+  "last_updated": "March 15, 2021 12:35:37 UTC",
   "matches": [
+    {
+      "id": 20942,
+      "title": "Ijiwaru Killer Tune",
+      "score": 0.28,
+      "r18": false
+    },
     {
       "id": 296,
       "title": "Sayonara Piano Sonata",
-      "score": 0.724,
-      "r18": false
-    },
-    {
-      "id": 4334,
-      "title": "Sakamichi no Apollon",
-      "score": 0.718,
-      "r18": false
-    },
-    {
-      "id": 227,
-      "title": "Akuma to Love Song",
-      "score": 0.715,
-      "r18": false
-    },
-    {
-      "id": 39973,
-      "title": "Sora no Aosa o Shiru Hito yo",
-      "score": 0.713,
-      "r18": false
-    },
-    {
-      "id": 2120,
-      "title": "Nodame Cantabile",
-      "score": 0.709,
-      "r18": false
-    },
-    {
-      "id": 7466,
-      "title": "Nodame Cantabile Encore - Opera-hen",
-      "score": 0.709,
-      "r18": false
-    },
-    {
-      "id": 2016,
-      "title": "Kami-sama no Sonata",
-      "score": 0.7,
-      "r18": false
-    },
-    {
-      "id": 9707,
-      "title": "Kono Oto Tomare!",
-      "score": 0.696,
+      "score": 0.275,
       "r18": false
     },
     {
       "id": 14509,
       "title": "Given",
-      "score": 0.686,
+      "score": 0.245,
       "r18": false
     },
     {
-      "id": 1956,
-      "title": "Kanojo wa Uso wo Aishisugiteru",
-      "score": 0.684,
-      "r18": false
-    },
-    {
-      "id": 42014,
-      "title": "Nidome no Natsu, Nidoto Aenai Kimi",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 21579,
-      "title": "Star Dream Idol Project",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 1692,
-      "title": "Aozora Yell",
-      "score": 0.667,
-      "r18": false
-    },
-    {
-      "id": 180,
-      "title": "Crash!",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 23636,
-      "title": "Hajime-chan ga Ichiban!",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 20942,
-      "title": "Ijiwaru Killer Tune",
-      "score": 0.422,
-      "r18": false
-    },
-    {
-      "id": 51389,
-      "title": "Touching Melody",
-      "score": 0.299,
-      "r18": false
-    },
-    {
-      "id": 21544,
-      "title": "Trainees",
-      "score": 0.291,
+      "id": 7466,
+      "title": "Nodame Cantabile Encore - Opera-hen",
+      "score": 0.231,
       "r18": false
     },
     {
       "id": 17328,
       "title": "Sono Hoshi o Bokutachi wa Koi to Yobu Koto ni Suru.",
-      "score": 0.272,
+      "score": 0.224,
       "r18": false
     },
     {
-      "id": 38931,
-      "title": "Beatlyfe",
-      "score": 0.239,
+      "id": 4334,
+      "title": "Sakamichi no Apollon",
+      "score": 0.223,
+      "r18": false
+    },
+    {
+      "id": 9707,
+      "title": "Kono Oto Tomare!",
+      "score": 0.221,
+      "r18": false
+    },
+    {
+      "id": 1956,
+      "title": "Kanojo wa Uso wo Aishisugiteru",
+      "score": 0.215,
+      "r18": false
+    },
+    {
+      "id": 2120,
+      "title": "Nodame Cantabile",
+      "score": 0.211,
+      "r18": false
+    },
+    {
+      "id": 42014,
+      "title": "Nidome no Natsu, Nidoto Aenai Kimi",
+      "score": 0.209,
+      "r18": false
+    },
+    {
+      "id": 2016,
+      "title": "Kami-sama no Sonata",
+      "score": 0.208,
+      "r18": false
+    },
+    {
+      "id": 227,
+      "title": "Akuma to Love Song",
+      "score": 0.196,
+      "r18": false
+    },
+    {
+      "id": 23636,
+      "title": "Hajime-chan ga Ichiban!",
+      "score": 0.196,
+      "r18": false
+    },
+    {
+      "id": 180,
+      "title": "Crash!",
+      "score": 0.189,
+      "r18": false
+    },
+    {
+      "id": 1692,
+      "title": "Aozora Yell",
+      "score": 0.188,
+      "r18": false
+    },
+    {
+      "id": 39973,
+      "title": "Sora no Aosa o Shiru Hito yo",
+      "score": 0.183,
+      "r18": false
+    },
+    {
+      "id": 51389,
+      "title": "Touching Melody",
+      "score": 0.163,
       "r18": false
     },
     {
       "id": 9840,
       "title": "What's There To Know",
-      "score": 0.194,
+      "score": 0.16,
+      "r18": false
+    },
+    {
+      "id": 21544,
+      "title": "Trainees",
+      "score": 0.154,
+      "r18": false
+    },
+    {
+      "id": 38931,
+      "title": "Beatlyfe",
+      "score": 0.14,
+      "r18": false
+    },
+    {
+      "id": 21579,
+      "title": "Star Dream Idol Project",
+      "score": 0.131,
       "r18": false
     }
   ]

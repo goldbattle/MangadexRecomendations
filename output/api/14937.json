@@ -1,37 +1,37 @@
 {
   "id": 14937,
   "title": "Koma Hibiki",
-  "url": "https://api.mangadex.org/v2/manga/14937",
-  "last_updated": "February 08, 2021 12:23:41 UTC",
+  "url": "https://mangadex.org/manga/14937",
+  "last_updated": "March 15, 2021 12:38:06 UTC",
   "matches": [
     {
       "id": 36067,
       "title": "Ultimate Rock-Paper-Scissors",
-      "score": 0.256,
-      "r18": false
-    },
-    {
-      "id": 45794,
-      "title": "Blitz",
-      "score": 0.241,
-      "r18": false
-    },
-    {
-      "id": 47321,
-      "title": "Starlight Manaburn",
-      "score": 0.204,
-      "r18": false
-    },
-    {
-      "id": 40967,
-      "title": "Starlight Wizards",
-      "score": 0.197,
+      "score": 0.164,
       "r18": false
     },
     {
       "id": 49167,
       "title": "Ryuu to Ichigo",
-      "score": 0.177,
+      "score": 0.153,
+      "r18": false
+    },
+    {
+      "id": 45794,
+      "title": "Blitz",
+      "score": 0.104,
+      "r18": false
+    },
+    {
+      "id": 47321,
+      "title": "Starlight Manaburn",
+      "score": 0.096,
+      "r18": false
+    },
+    {
+      "id": 40967,
+      "title": "Starlight Wizards",
+      "score": 0.088,
       "r18": false
     }
   ]

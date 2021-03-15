@@ -1,37 +1,37 @@
 {
   "id": 14459,
   "title": "Nagisa Shokudou",
-  "url": "https://api.mangadex.org/v2/manga/14459",
-  "last_updated": "February 08, 2021 12:16:00 UTC",
+  "url": "https://mangadex.org/manga/14459",
+  "last_updated": "March 15, 2021 12:31:27 UTC",
   "matches": [
     {
       "id": 13045,
       "title": "Koufuku Graffiti",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 13797,
-      "title": "Tori Kissa!",
-      "score": 0.317,
+      "score": 0.284,
       "r18": false
     },
     {
       "id": 10406,
       "title": "Chii-chan no Oshinagaki Hanjouki",
-      "score": 0.292,
-      "r18": false
-    },
-    {
-      "id": 36505,
-      "title": "Tenchura! Tensei Shitara Slime Datta Ken",
       "score": 0.264,
       "r18": false
     },
     {
       "id": 29248,
       "title": "Girls' Last Tour Official Anthology Comic",
-      "score": 0.243,
+      "score": 0.22,
+      "r18": false
+    },
+    {
+      "id": 13797,
+      "title": "Tori Kissa!",
+      "score": 0.199,
+      "r18": false
+    },
+    {
+      "id": 36505,
+      "title": "Tenchura! Tensei Shitara Slime Datta Ken",
+      "score": 0.165,
       "r18": false
     }
   ]
