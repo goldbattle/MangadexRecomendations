@@ -1,79 +1,85 @@
 {
   "id": 25021,
   "title": "Kiss Ariki",
-  "url": "https://api.mangadex.org/v2/manga/25021",
-  "last_updated": "February 09, 2021 16:20:35 UTC",
+  "url": "https://mangadex.org/manga/25021",
+  "last_updated": "March 16, 2021 16:26:21 UTC",
   "matches": [
-    {
-      "id": 441,
-      "title": "Finder",
-      "score": 0.72,
-      "r18": false
-    },
-    {
-      "id": 29080,
-      "title": "Dakishimetakunai",
-      "score": 0.717,
-      "r18": false
-    },
-    {
-      "id": 27572,
-      "title": "Black Sun Doreiou",
-      "score": 0.708,
-      "r18": false
-    },
-    {
-      "id": 30158,
-      "title": "Red Hood",
-      "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 24927,
-      "title": "Buddy System",
-      "score": 0.697,
-      "r18": false
-    },
     {
       "id": 59064,
       "title": "Inran To Chuuken",
-      "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 57981,
-      "title": "A Broken Heart Flows",
-      "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 41168,
-      "title": "Penthouse XXX",
-      "score": 0.665,
+      "score": 0.282,
       "r18": false
     },
     {
       "id": 52646,
       "title": "Tasuketa Yakuza ni Nerawaretemasu",
-      "score": 0.659,
+      "score": 0.27,
+      "r18": false
+    },
+    {
+      "id": 24927,
+      "title": "Buddy System",
+      "score": 0.238,
+      "r18": false
+    },
+    {
+      "id": 441,
+      "title": "Finder",
+      "score": 0.236,
       "r18": false
     },
     {
       "id": 52039,
       "title": "A Matter of Life and Death",
-      "score": 0.658,
+      "score": 0.213,
+      "r18": false
+    },
+    {
+      "id": 27572,
+      "title": "Black Sun Doreiou",
+      "score": 0.205,
+      "r18": false
+    },
+    {
+      "id": 41168,
+      "title": "Penthouse XXX",
+      "score": 0.192,
+      "r18": false
+    },
+    {
+      "id": 30158,
+      "title": "Red Hood",
+      "score": 0.188,
+      "r18": false
+    },
+    {
+      "id": 29080,
+      "title": "Dakishimetakunai",
+      "score": 0.17,
+      "r18": false
+    },
+    {
+      "id": 4541,
+      "title": "Honto Yajuu",
+      "score": 0.167,
       "r18": false
     },
     {
       "id": 14713,
       "title": "Crimson Spell",
-      "score": 0.296,
+      "score": 0.159,
       "r18": false
     },
     {
       "id": 44821,
       "title": "Boku no Danna-sama",
-      "score": 0.177,
+      "score": 0.153,
+      "r18": false
+    },
+    {
+      "id": 57981,
+      "title": "A Broken Heart Flows",
+      "score": 0.135,
       "r18": false
     }
   ]

@@ -1,73 +1,73 @@
 {
   "id": 25238,
   "title": "Top o Narae 2!",
-  "url": "https://api.mangadex.org/v2/manga/25238",
-  "last_updated": "February 09, 2021 16:24:25 UTC",
+  "url": "https://mangadex.org/manga/25238",
+  "last_updated": "March 16, 2021 16:28:48 UTC",
   "matches": [
-    {
-      "id": 425,
-      "title": "Infinite Stratos",
-      "score": 0.749,
-      "r18": false
-    },
     {
       "id": 34593,
       "title": "Mazinger (USA)",
-      "score": 0.743,
-      "r18": false
-    },
-    {
-      "id": 6138,
-      "title": "Full Metal Panic!",
-      "score": 0.72,
-      "r18": false
-    },
-    {
-      "id": 42457,
-      "title": "Darling in the FranXX (Fan Colored)",
-      "score": 0.711,
+      "score": 0.255,
       "r18": false
     },
     {
       "id": 23036,
       "title": "Darling in the FranXX",
-      "score": 0.706,
-      "r18": false
-    },
-    {
-      "id": 7868,
-      "title": "Kidou Senshi Gundam C.D.A. - Wakaki Suisei no Shouzou",
-      "score": 0.695,
-      "r18": false
-    },
-    {
-      "id": 6838,
-      "title": "Keroro Gunsou",
-      "score": 0.69,
-      "r18": false
-    },
-    {
-      "id": 31032,
-      "title": "The World of Otome Games Is Tough for Mobs",
-      "score": 0.682,
+      "score": 0.185,
       "r18": false
     },
     {
       "id": 29392,
       "title": "Shinsou Mahou Shoujo Howling Moon",
-      "score": 0.676,
+      "score": 0.171,
       "r18": false
     },
     {
-      "id": 12595,
-      "title": "Iczer Densetsu",
-      "score": 0.194,
+      "id": 7868,
+      "title": "Kidou Senshi Gundam C.D.A. - Wakaki Suisei no Shouzou",
+      "score": 0.168,
+      "r18": false
+    },
+    {
+      "id": 425,
+      "title": "Infinite Stratos",
+      "score": 0.16,
+      "r18": false
+    },
+    {
+      "id": 6138,
+      "title": "Full Metal Panic!",
+      "score": 0.154,
       "r18": false
     },
     {
       "id": 46088,
       "title": "Muv-Luv Alternative: Total Eclipse Rising",
-      "score": 0.173,
+      "score": 0.147,
+      "r18": false
+    },
+    {
+      "id": 42457,
+      "title": "Darling in the FranXX (Fan Colored)",
+      "score": 0.133,
+      "r18": false
+    },
+    {
+      "id": 6838,
+      "title": "Keroro Gunsou",
+      "score": 0.121,
+      "r18": false
+    },
+    {
+      "id": 12595,
+      "title": "Iczer Densetsu",
+      "score": 0.095,
+      "r18": false
+    },
+    {
+      "id": 31032,
+      "title": "The World of Otome Games Is Tough for Mobs",
+      "score": 0.089,
       "r18": false
     }
   ]

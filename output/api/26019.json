@@ -1,37 +1,37 @@
 {
   "id": 26019,
   "title": "Takkun to Stalker Danshi - Kyou wa Takkun no Tissue o Tabemashita",
-  "url": "https://api.mangadex.org/v2/manga/26019",
-  "last_updated": "February 09, 2021 16:38:52 UTC",
+  "url": "https://mangadex.org/manga/26019",
+  "last_updated": "March 16, 2021 16:37:50 UTC",
   "matches": [
-    {
-      "id": 40673,
-      "title": "Kamiato Kara, Hatsukoi",
-      "score": 0.307,
-      "r18": true
-    },
-    {
-      "id": 58868,
-      "title": "Minasoko ni Sumu Kodomotachi",
-      "score": 0.265,
-      "r18": true
-    },
     {
       "id": 39813,
       "title": "Koukan Mesu Ochi Otokonoko",
-      "score": 0.24,
+      "score": 0.213,
       "r18": true
     },
     {
-      "id": 34248,
-      "title": "Megumi to Tsugumi",
-      "score": 0.236,
+      "id": 40673,
+      "title": "Kamiato Kara, Hatsukoi",
+      "score": 0.2,
       "r18": true
     },
     {
       "id": 51457,
       "title": "Koisuru Kyoushi wa Okaeri Kudasai",
-      "score": 0.18,
+      "score": 0.16,
+      "r18": true
+    },
+    {
+      "id": 34248,
+      "title": "Megumi to Tsugumi",
+      "score": 0.16,
+      "r18": true
+    },
+    {
+      "id": 58868,
+      "title": "Minasoko ni Sumu Kodomotachi",
+      "score": 0.16,
       "r18": true
     }
   ]
