@@ -1,19 +1,19 @@
 {
   "id": 26958,
   "title": "Cherry to Skirt",
-  "url": "https://api.mangadex.org/v2/manga/26958",
-  "last_updated": "February 09, 2021 20:22:51 UTC",
+  "url": "https://mangadex.org/manga/26958",
+  "last_updated": "March 16, 2021 20:26:31 UTC",
   "matches": [
-    {
-      "id": 18517,
-      "title": "Joshi BL (Anthology)",
-      "score": 0.688,
-      "r18": false
-    },
     {
       "id": 14275,
       "title": "Shuuden Elegy",
-      "score": 0.651,
+      "score": 0.267,
+      "r18": false
+    },
+    {
+      "id": 18517,
+      "title": "Joshi BL (Anthology)",
+      "score": 0.188,
       "r18": false
     }
   ]

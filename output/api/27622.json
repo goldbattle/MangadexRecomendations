@@ -1,13 +1,19 @@
 {
   "id": 27622,
   "title": "Koakuma Caf&eacute;",
-  "url": "https://api.mangadex.org/v2/manga/27622",
-  "last_updated": "February 09, 2021 20:33:31 UTC",
+  "url": "https://mangadex.org/manga/27622",
+  "last_updated": "March 16, 2021 20:34:07 UTC",
   "matches": [
+    {
+      "id": 9350,
+      "title": "Ai Wo Utau Yori Ore ni Oborero!",
+      "score": 0.238,
+      "r18": false
+    },
     {
       "id": 2912,
       "title": "Uwasa no Midori-kun!!",
-      "score": 0.713,
+      "score": 0.232,
       "r18": false
     }
   ]

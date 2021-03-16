@@ -1,19 +1,19 @@
 {
   "id": 27744,
   "title": "Polyamory",
-  "url": "https://api.mangadex.org/v2/manga/27744",
-  "last_updated": "February 09, 2021 20:35:32 UTC",
+  "url": "https://mangadex.org/manga/27744",
+  "last_updated": "March 16, 2021 20:35:33 UTC",
   "matches": [
-    {
-      "id": 30913,
-      "title": "An Innocent Sin",
-      "score": 0.251,
-      "r18": true
-    },
     {
       "id": 53131,
       "title": "Witch, 30 Years Old",
-      "score": 0.246,
+      "score": 0.167,
+      "r18": true
+    },
+    {
+      "id": 30913,
+      "title": "An Innocent Sin",
+      "score": 0.124,
       "r18": true
     }
   ]
