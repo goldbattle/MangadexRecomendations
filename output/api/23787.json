@@ -1,61 +1,61 @@
 {
   "id": 23787,
   "title": "Petit Mignon",
-  "url": "https://api.mangadex.org/v2/manga/23787",
-  "last_updated": "February 09, 2021 12:17:48 UTC",
+  "url": "https://mangadex.org/manga/23787",
+  "last_updated": "March 16, 2021 12:33:05 UTC",
   "matches": [
-    {
-      "id": 57534,
-      "title": "Fushigi Amedama",
-      "score": 0.693,
-      "r18": false
-    },
-    {
-      "id": 15501,
-      "title": "Feng Yu Jiu Tian",
-      "score": 0.691,
-      "r18": false
-    },
-    {
-      "id": 7329,
-      "title": "Natsu, Kimi ga Saku.",
-      "score": 0.686,
-      "r18": false
-    },
     {
       "id": 30922,
       "title": "Karasu no Yomeiri",
-      "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 50628,
-      "title": "Kare to Obake to Ren'ai Shousetsuka",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 8069,
-      "title": "Koketsu Dining",
-      "score": 0.377,
+      "score": 0.258,
       "r18": false
     },
     {
       "id": 17993,
       "title": "Mahoroba Days",
-      "score": 0.368,
+      "score": 0.258,
       "r18": false
     },
     {
-      "id": 22788,
-      "title": "The Sweetest Man",
-      "score": 0.247,
+      "id": 8069,
+      "title": "Koketsu Dining",
+      "score": 0.258,
+      "r18": false
+    },
+    {
+      "id": 57534,
+      "title": "Fushigi Amedama",
+      "score": 0.238,
+      "r18": false
+    },
+    {
+      "id": 7329,
+      "title": "Natsu, Kimi ga Saku.",
+      "score": 0.179,
       "r18": false
     },
     {
       "id": 39494,
       "title": "Kowagari ni Kitsuneya",
-      "score": 0.203,
+      "score": 0.177,
+      "r18": false
+    },
+    {
+      "id": 22788,
+      "title": "The Sweetest Man",
+      "score": 0.172,
+      "r18": false
+    },
+    {
+      "id": 50628,
+      "title": "Kare to Obake to Ren'ai Shousetsuka",
+      "score": 0.169,
+      "r18": false
+    },
+    {
+      "id": 15501,
+      "title": "Feng Yu Jiu Tian",
+      "score": 0.151,
       "r18": false
     }
   ]

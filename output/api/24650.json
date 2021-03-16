@@ -1,121 +1,127 @@
 {
   "id": 24650,
   "title": "Die Now - Telencephalon",
-  "url": "https://api.mangadex.org/v2/manga/24650",
-  "last_updated": "February 09, 2021 12:31:23 UTC",
+  "url": "https://mangadex.org/manga/24650",
+  "last_updated": "March 16, 2021 12:43:39 UTC",
   "matches": [
-    {
-      "id": 8245,
-      "title": "World Trigger",
-      "score": 0.697,
-      "r18": false
-    },
-    {
-      "id": 53969,
-      "title": "Dragon Raja",
-      "score": 0.689,
-      "r18": false
-    },
-    {
-      "id": 53985,
-      "title": "Dragon Raja 3",
-      "score": 0.681,
-      "r18": false
-    },
-    {
-      "id": 7775,
-      "title": "El Alamein no Shinden",
-      "score": 0.67,
-      "r18": false
-    },
-    {
-      "id": 26606,
-      "title": "Ayashi no Ceres",
-      "score": 0.667,
-      "r18": false
-    },
-    {
-      "id": 15752,
-      "title": "Naka no Hito Genome [Jikkyouchuu]",
-      "score": 0.662,
-      "r18": false
-    },
-    {
-      "id": 9679,
-      "title": "Birdmen",
-      "score": 0.662,
-      "r18": false
-    },
     {
       "id": 17939,
       "title": "Hyakumanjou Labyrinth",
-      "score": 0.337,
+      "score": 0.2,
       "r18": false
     },
     {
       "id": 44657,
       "title": "Blanc Project",
-      "score": 0.296,
-      "r18": false
-    },
-    {
-      "id": 820,
-      "title": "Zettai Karen Children",
-      "score": 0.275,
-      "r18": false
-    },
-    {
-      "id": 29329,
-      "title": "Itai no wa Iya nanode Bougyo-Ryoku ni Kyokufuri Shitai to Omoimasu",
-      "score": 0.273,
-      "r18": false
-    },
-    {
-      "id": 9409,
-      "title": "Hitoribocchi no Chikyuu Shinryaku",
-      "score": 0.27,
-      "r18": false
-    },
-    {
-      "id": 9160,
-      "title": "Mint de Kiss me - Watase Yuu Masterpiece Collection 5",
-      "score": 0.257,
-      "r18": false
-    },
-    {
-      "id": 3006,
-      "title": "Occult Academy",
-      "score": 0.246,
-      "r18": false
-    },
-    {
-      "id": 41974,
-      "title": "It called an Element!",
-      "score": 0.231,
-      "r18": false
-    },
-    {
-      "id": 23583,
-      "title": "Kuuchuu Teien no Hitobito",
-      "score": 0.213,
-      "r18": false
-    },
-    {
-      "id": 47424,
-      "title": "Welcome to the Nightmare Game",
-      "score": 0.207,
-      "r18": false
-    },
-    {
-      "id": 54348,
-      "title": "Success Rate",
-      "score": 0.201,
+      "score": 0.175,
       "r18": false
     },
     {
       "id": 54653,
       "title": "Heartful Throne",
-      "score": 0.194,
+      "score": 0.16,
+      "r18": false
+    },
+    {
+      "id": 15752,
+      "title": "Naka no Hito Genome [Jikkyouchuu]",
+      "score": 0.158,
+      "r18": false
+    },
+    {
+      "id": 23583,
+      "title": "Kuuchuu Teien no Hitobito",
+      "score": 0.156,
+      "r18": false
+    },
+    {
+      "id": 8245,
+      "title": "World Trigger",
+      "score": 0.15,
+      "r18": false
+    },
+    {
+      "id": 820,
+      "title": "Zettai Karen Children",
+      "score": 0.144,
+      "r18": false
+    },
+    {
+      "id": 3006,
+      "title": "Occult Academy",
+      "score": 0.14,
+      "r18": false
+    },
+    {
+      "id": 9679,
+      "title": "Birdmen",
+      "score": 0.136,
+      "r18": false
+    },
+    {
+      "id": 26606,
+      "title": "Ayashi no Ceres",
+      "score": 0.134,
+      "r18": false
+    },
+    {
+      "id": 9160,
+      "title": "Mint de Kiss me - Watase Yuu Masterpiece Collection 5",
+      "score": 0.127,
+      "r18": false
+    },
+    {
+      "id": 58158,
+      "title": "Outta Fire",
+      "score": 0.127,
+      "r18": false
+    },
+    {
+      "id": 9409,
+      "title": "Hitoribocchi no Chikyuu Shinryaku",
+      "score": 0.127,
+      "r18": false
+    },
+    {
+      "id": 29329,
+      "title": "Itai no wa Iya nanode Bougyo-Ryoku ni Kyokufuri Shitai to Omoimasu",
+      "score": 0.127,
+      "r18": false
+    },
+    {
+      "id": 54348,
+      "title": "Success Rate",
+      "score": 0.125,
+      "r18": false
+    },
+    {
+      "id": 53969,
+      "title": "Dragon Raja",
+      "score": 0.116,
+      "r18": false
+    },
+    {
+      "id": 7775,
+      "title": "El Alamein no Shinden",
+      "score": 0.106,
+      "r18": false
+    },
+    {
+      "id": 53985,
+      "title": "Dragon Raja 3",
+      "score": 0.098,
+      "r18": false
+    },
+    {
+      "id": 41974,
+      "title": "It called an Element!",
+      "score": 0.093,
+      "r18": false
+    },
+    {
+      "id": 47424,
+      "title": "Welcome to the Nightmare Game",
+      "score": 0.074,
       "r18": false
     }
   ]

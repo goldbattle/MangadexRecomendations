@@ -1,49 +1,49 @@
 {
   "id": 23550,
   "title": "Taihen Yokudekimashita?",
-  "url": "https://api.mangadex.org/v2/manga/23550",
-  "last_updated": "February 09, 2021 12:14:04 UTC",
+  "url": "https://mangadex.org/manga/23550",
+  "last_updated": "March 16, 2021 12:30:08 UTC",
   "matches": [
     {
       "id": 24128,
       "title": "Kimi no Hitomi ni Koishiteru",
-      "score": 0.77,
+      "score": 0.205,
       "r18": true
     },
     {
       "id": 25839,
       "title": "Love Comedy Style",
-      "score": 0.71,
-      "r18": true
-    },
-    {
-      "id": 43279,
-      "title": "Sexercise",
-      "score": 0.707,
+      "score": 0.192,
       "r18": true
     },
     {
       "id": 27427,
       "title": "Killer Queen",
-      "score": 0.667,
-      "r18": true
-    },
-    {
-      "id": 32075,
-      "title": "Neighbor Cousins",
-      "score": 0.209,
+      "score": 0.175,
       "r18": true
     },
     {
       "id": 36390,
       "title": "The Comedian",
-      "score": 0.17,
+      "score": 0.14,
+      "r18": true
+    },
+    {
+      "id": 43279,
+      "title": "Sexercise",
+      "score": 0.133,
       "r18": true
     },
     {
       "id": 39181,
       "title": "Senpai-chan to Ore.",
-      "score": 0.136,
+      "score": 0.112,
+      "r18": true
+    },
+    {
+      "id": 32075,
+      "title": "Neighbor Cousins",
+      "score": 0.103,
       "r18": true
     }
   ]

@@ -1,61 +1,67 @@
 {
   "id": 24108,
   "title": "My Blood and Soul to You",
-  "url": "https://api.mangadex.org/v2/manga/24108",
-  "last_updated": "February 09, 2021 12:22:55 UTC",
+  "url": "https://mangadex.org/manga/24108",
+  "last_updated": "March 16, 2021 12:37:10 UTC",
   "matches": [
+    {
+      "id": 59053,
+      "title": "Smoky Nectar",
+      "score": 0.258,
+      "r18": false
+    },
     {
       "id": 30137,
       "title": "Welcome to the Intimate Night",
-      "score": 0.668,
-      "r18": false
-    },
-    {
-      "id": 36994,
-      "title": "Fate Makes No Mistakes",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 45108,
-      "title": "Moonlight Howling",
-      "score": 0.344,
-      "r18": false
-    },
-    {
-      "id": 36619,
-      "title": "I Got Married With a Goblin",
-      "score": 0.331,
-      "r18": false
-    },
-    {
-      "id": 39706,
-      "title": "Blood Sacrifice",
-      "score": 0.319,
-      "r18": false
-    },
-    {
-      "id": 29662,
-      "title": "K's Secret",
-      "score": 0.319,
-      "r18": false
-    },
-    {
-      "id": 54392,
-      "title": "The Tiger Who Swallowed the Moon",
-      "score": 0.287,
-      "r18": false
-    },
-    {
-      "id": 51538,
-      "title": "Dream-like Lie",
-      "score": 0.269,
+      "score": 0.246,
       "r18": false
     },
     {
       "id": 27119,
       "title": "Nightmare Building",
-      "score": 0.233,
+      "score": 0.228,
+      "r18": false
+    },
+    {
+      "id": 45108,
+      "title": "Moonlight Howling",
+      "score": 0.214,
+      "r18": false
+    },
+    {
+      "id": 36619,
+      "title": "I Got Married With a Goblin",
+      "score": 0.214,
+      "r18": false
+    },
+    {
+      "id": 39706,
+      "title": "Blood Sacrifice",
+      "score": 0.213,
+      "r18": false
+    },
+    {
+      "id": 29662,
+      "title": "K's Secret",
+      "score": 0.205,
+      "r18": false
+    },
+    {
+      "id": 51538,
+      "title": "Dream-like Lie",
+      "score": 0.188,
+      "r18": false
+    },
+    {
+      "id": 36994,
+      "title": "Fate Makes No Mistakes",
+      "score": 0.183,
+      "r18": false
+    },
+    {
+      "id": 54392,
+      "title": "The Tiger Who Swallowed the Moon",
+      "score": 0.18,
       "r18": false
     }
   ]

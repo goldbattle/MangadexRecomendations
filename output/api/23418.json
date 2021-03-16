@@ -1,49 +1,49 @@
 {
   "id": 23418,
   "title": "Let's Reconcile With Lily Maria",
-  "url": "https://api.mangadex.org/v2/manga/23418",
-  "last_updated": "February 09, 2021 12:11:56 UTC",
+  "url": "https://mangadex.org/manga/23418",
+  "last_updated": "March 16, 2021 12:28:25 UTC",
   "matches": [
     {
       "id": 24202,
       "title": "Honto no Kokoro",
-      "score": 0.384,
+      "score": 0.32,
       "r18": false
     },
     {
       "id": 27199,
       "title": "Killing Me!",
-      "score": 0.331,
+      "score": 0.267,
+      "r18": false
+    },
+    {
+      "id": 21264,
+      "title": "Before The Girl Disappeared",
+      "score": 0.183,
       "r18": false
     },
     {
       "id": 20597,
       "title": "Seifuku no Vampiress Lord",
-      "score": 0.258,
-      "r18": false
-    },
-    {
-      "id": 47355,
-      "title": "Soulmate",
-      "score": 0.216,
-      "r18": false
-    },
-    {
-      "id": 42177,
-      "title": "Unicorn to sabishi-gari ya shoujo",
-      "score": 0.206,
+      "score": 0.178,
       "r18": false
     },
     {
       "id": 51715,
       "title": "Hertz Around You",
-      "score": 0.166,
+      "score": 0.123,
       "r18": false
     },
     {
       "id": 39029,
       "title": "Till She Met Her",
-      "score": 0.131,
+      "score": 0.116,
+      "r18": false
+    },
+    {
+      "id": 47355,
+      "title": "Soulmate",
+      "score": 0.114,
       "r18": false
     }
   ]

@@ -1,25 +1,25 @@
 {
   "id": 24598,
   "title": "Kimi wa &quot;Dragon's Crown&quot; o Tanoshimu Tame no Mittsu no Makimono o Hiraita",
-  "url": "https://api.mangadex.org/v2/manga/24598",
-  "last_updated": "February 09, 2021 12:30:35 UTC",
+  "url": "https://mangadex.org/manga/24598",
+  "last_updated": "March 16, 2021 12:43:02 UTC",
   "matches": [
-    {
-      "id": 13684,
-      "title": "Robot",
-      "score": 0.729,
-      "r18": false
-    },
     {
       "id": 45734,
       "title": "Ishuzoku Reviewers Comic Anthology ~ Darkness ~",
-      "score": 0.663,
+      "score": 0.21,
+      "r18": false
+    },
+    {
+      "id": 13684,
+      "title": "Robot",
+      "score": 0.126,
       "r18": false
     },
     {
       "id": 20563,
       "title": "Melancholia",
-      "score": 0.054,
+      "score": 0.044,
       "r18": false
     }
   ]

@@ -1,31 +1,31 @@
 {
   "id": 23960,
   "title": "Adult na Kaihatsu Shitsu",
-  "url": "https://api.mangadex.org/v2/manga/23960",
-  "last_updated": "February 09, 2021 12:20:34 UTC",
+  "url": "https://mangadex.org/manga/23960",
+  "last_updated": "March 16, 2021 12:35:21 UTC",
   "matches": [
-    {
-      "id": 10465,
-      "title": "Dame BL (Anthology)",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 25003,
-      "title": "Tokusen Sukimono BL (Anthology)",
-      "score": 0.657,
-      "r18": false
-    },
     {
       "id": 19950,
       "title": "Nega",
-      "score": 0.391,
+      "score": 0.287,
       "r18": false
     },
     {
       "id": 9213,
       "title": "Nishikaidan no Akuma",
-      "score": 0.212,
+      "score": 0.184,
+      "r18": false
+    },
+    {
+      "id": 25003,
+      "title": "Tokusen Sukimono BL (Anthology)",
+      "score": 0.164,
+      "r18": false
+    },
+    {
+      "id": 10465,
+      "title": "Dame BL (Anthology)",
+      "score": 0.117,
       "r18": false
     }
   ]

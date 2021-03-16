@@ -1,25 +1,25 @@
 {
   "id": 24068,
   "title": "Rabu Kue",
-  "url": "https://api.mangadex.org/v2/manga/24068",
-  "last_updated": "February 09, 2021 12:22:18 UTC",
+  "url": "https://mangadex.org/manga/24068",
+  "last_updated": "March 16, 2021 12:36:40 UTC",
   "matches": [
-    {
-      "id": 40974,
-      "title": "Scumbag System",
-      "score": 0.682,
-      "r18": false
-    },
     {
       "id": 50992,
       "title": "The Affairs of the Other World Depend on the Corporate Slave",
-      "score": 0.67,
+      "score": 0.208,
       "r18": false
     },
     {
       "id": 47129,
       "title": "General Gentle Teasing",
-      "score": 0.66,
+      "score": 0.123,
+      "r18": false
+    },
+    {
+      "id": 40974,
+      "title": "Scumbag System",
+      "score": 0.121,
       "r18": false
     }
   ]
