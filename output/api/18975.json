@@ -1,43 +1,43 @@
 {
   "id": 18975,
   "title": "Sayonara Bye-bye Mata Au Hi made",
-  "url": "https://api.mangadex.org/v2/manga/18975",
-  "last_updated": "February 09, 2021 00:12:35 UTC",
+  "url": "https://mangadex.org/manga/18975",
+  "last_updated": "March 16, 2021 00:13:19 UTC",
   "matches": [
     {
       "id": 19950,
       "title": "Nega",
-      "score": 0.788,
-      "r18": false
-    },
-    {
-      "id": 10465,
-      "title": "Dame BL (Anthology)",
-      "score": 0.714,
-      "r18": false
-    },
-    {
-      "id": 25003,
-      "title": "Tokusen Sukimono BL (Anthology)",
-      "score": 0.709,
-      "r18": false
-    },
-    {
-      "id": 32814,
-      "title": "Shinjuu BL (Anthology)",
-      "score": 0.416,
+      "score": 0.3,
       "r18": false
     },
     {
       "id": 15470,
       "title": "Tourou no Ori",
-      "score": 0.379,
+      "score": 0.3,
+      "r18": false
+    },
+    {
+      "id": 32814,
+      "title": "Shinjuu BL (Anthology)",
+      "score": 0.3,
+      "r18": false
+    },
+    {
+      "id": 25003,
+      "title": "Tokusen Sukimono BL (Anthology)",
+      "score": 0.214,
       "r18": false
     },
     {
       "id": 39264,
       "title": "May Belongs to Me",
-      "score": 0.227,
+      "score": 0.167,
+      "r18": false
+    },
+    {
+      "id": 10465,
+      "title": "Dame BL (Anthology)",
+      "score": 0.15,
       "r18": false
     }
   ]

@@ -1,55 +1,61 @@
 {
   "id": 18587,
   "title": "Oshigerinanshi - Rouchou Tanten no Yotogibanashi",
-  "url": "https://api.mangadex.org/v2/manga/18587",
-  "last_updated": "February 09, 2021 00:02:03 UTC",
+  "url": "https://mangadex.org/manga/18587",
+  "last_updated": "March 16, 2021 00:08:42 UTC",
   "matches": [
+    {
+      "id": 20524,
+      "title": "Seigai no Majo",
+      "score": 0.214,
+      "r18": false
+    },
     {
       "id": 11982,
       "title": "Kenkouki - Hinokuni Daiteikokugun Kurenai Ikkitousentai",
-      "score": 0.708,
-      "r18": false
-    },
-    {
-      "id": 43,
-      "title": "Freezing",
-      "score": 0.693,
-      "r18": false
-    },
-    {
-      "id": 577,
-      "title": "Corpse Party - Musume",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 3594,
-      "title": "Gokukoku no Brynhildr",
-      "score": 0.677,
+      "score": 0.186,
       "r18": false
     },
     {
       "id": 1731,
       "title": "Asobi ni Iku yo!",
-      "score": 0.658,
+      "score": 0.172,
       "r18": false
     },
     {
-      "id": 20524,
-      "title": "Seigai no Majo",
-      "score": 0.348,
+      "id": 43,
+      "title": "Freezing",
+      "score": 0.147,
+      "r18": false
+    },
+    {
+      "id": 18922,
+      "title": "Black Kanojo",
+      "score": 0.145,
+      "r18": false
+    },
+    {
+      "id": 577,
+      "title": "Corpse Party - Musume",
+      "score": 0.145,
+      "r18": false
+    },
+    {
+      "id": 3594,
+      "title": "Gokukoku no Brynhildr",
+      "score": 0.131,
       "r18": false
     },
     {
       "id": 15361,
       "title": "Monochrome: Teito Ninpouchou",
-      "score": 0.153,
+      "score": 0.129,
       "r18": false
     },
     {
       "id": 20563,
       "title": "Melancholia",
-      "score": 0.073,
+      "score": 0.061,
       "r18": false
     }
   ]
