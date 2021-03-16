@@ -1,91 +1,103 @@
 {
   "id": 22802,
   "title": "Gomix",
-  "url": "https://api.mangadex.org/v2/manga/22802",
-  "last_updated": "February 09, 2021 08:29:06 UTC",
+  "url": "https://mangadex.org/manga/22802",
+  "last_updated": "March 16, 2021 08:35:55 UTC",
   "matches": [
-    {
-      "id": 47165,
-      "title": "When You're Targeted by the Bully",
-      "score": 0.706,
-      "r18": false
-    },
     {
       "id": 45133,
       "title": "Mikansei Demo Koi ga Ii",
-      "score": 0.7,
+      "score": 0.353,
       "r18": false
     },
     {
       "id": 2300,
       "title": "Five",
-      "score": 0.691,
+      "score": 0.252,
       "r18": false
     },
     {
-      "id": 913,
-      "title": "Oresama Teacher",
-      "score": 0.689,
-      "r18": false
-    },
-    {
-      "id": 18400,
-      "title": "Kenka Banchou Otome - Koi no Battle Royale",
-      "score": 0.685,
-      "r18": false
-    },
-    {
-      "id": 3537,
-      "title": "Animal Jungle",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 59849,
-      "title": "Unreachable Girl",
-      "score": 0.669,
+      "id": 2440,
+      "title": "Aa! Itoshi no Banchou-sama",
+      "score": 0.25,
       "r18": false
     },
     {
       "id": 11825,
       "title": "Haru no Ogawa wa Dokidoki Suru yo.",
-      "score": 0.666,
+      "score": 0.24,
       "r18": false
     },
     {
       "id": 44851,
       "title": "This Delinquent-kun Is Ungrateful",
-      "score": 0.663,
+      "score": 0.233,
       "r18": false
     },
     {
-      "id": 54708,
-      "title": "Another Face",
-      "score": 0.367,
-      "r18": false
-    },
-    {
-      "id": 28517,
-      "title": "Promise Cinderella",
-      "score": 0.318,
-      "r18": false
-    },
-    {
-      "id": 49792,
-      "title": "The Sunshine Powerhouse",
-      "score": 0.285,
+      "id": 3537,
+      "title": "Animal Jungle",
+      "score": 0.231,
       "r18": false
     },
     {
       "id": 16838,
       "title": "Soushi Souai",
-      "score": 0.272,
+      "score": 0.224,
+      "r18": false
+    },
+    {
+      "id": 54708,
+      "title": "Another Face",
+      "score": 0.216,
+      "r18": false
+    },
+    {
+      "id": 913,
+      "title": "Oresama Teacher",
+      "score": 0.215,
+      "r18": false
+    },
+    {
+      "id": 27710,
+      "title": "Ogawa to Yukai na Saitoutachi",
+      "score": 0.209,
+      "r18": false
+    },
+    {
+      "id": 18400,
+      "title": "Kenka Banchou Otome - Koi no Battle Royale",
+      "score": 0.195,
+      "r18": false
+    },
+    {
+      "id": 28517,
+      "title": "Promise Cinderella",
+      "score": 0.186,
+      "r18": false
+    },
+    {
+      "id": 47165,
+      "title": "When You're Targeted by the Bully",
+      "score": 0.173,
+      "r18": false
+    },
+    {
+      "id": 59849,
+      "title": "Unreachable Girl",
+      "score": 0.17,
       "r18": false
     },
     {
       "id": 55482,
       "title": "Summer Is Hot!",
-      "score": 0.25,
+      "score": 0.156,
+      "r18": false
+    },
+    {
+      "id": 49792,
+      "title": "The Sunshine Powerhouse",
+      "score": 0.14,
       "r18": false
     }
   ]

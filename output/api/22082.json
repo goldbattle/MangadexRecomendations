@@ -1,31 +1,31 @@
 {
   "id": 22082,
   "title": "Alice or Alice",
-  "url": "https://api.mangadex.org/v2/manga/22082",
-  "last_updated": "February 09, 2021 08:16:04 UTC",
+  "url": "https://mangadex.org/manga/22082",
+  "last_updated": "March 16, 2021 08:25:09 UTC",
   "matches": [
-    {
-      "id": 20046,
-      "title": "Ooya-san wa Shishunki!",
-      "score": 0.441,
-      "r18": false
-    },
     {
       "id": 3688,
       "title": "Chitose Get You!!",
-      "score": 0.392,
+      "score": 0.342,
       "r18": false
     },
     {
-      "id": 12661,
-      "title": "Gochuumon wa Usagi desu ka?",
-      "score": 0.382,
+      "id": 20046,
+      "title": "Ooya-san wa Shishunki!",
+      "score": 0.306,
       "r18": false
     },
     {
       "id": 29971,
       "title": "Little President",
-      "score": 0.38,
+      "score": 0.271,
+      "r18": false
+    },
+    {
+      "id": 12661,
+      "title": "Gochuumon wa Usagi desu ka?",
+      "score": 0.262,
       "r18": false
     }
   ]
