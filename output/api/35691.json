@@ -1,25 +1,25 @@
 {
   "id": 35691,
   "title": "Satsukare",
-  "url": "https://api.mangadex.org/v2/manga/35691",
-  "last_updated": "February 10, 2021 20:25:38 UTC",
+  "url": "https://mangadex.org/manga/35691",
+  "last_updated": "March 17, 2021 20:16:06 UTC",
   "matches": [
     {
       "id": 650,
       "title": "School Days",
-      "score": 0.703,
-      "r18": false
-    },
-    {
-      "id": 8232,
-      "title": "Abnormal-kei Joshi",
-      "score": 0.682,
+      "score": 0.162,
       "r18": false
     },
     {
       "id": 9574,
       "title": "Seeking for Death",
-      "score": 0.667,
+      "score": 0.162,
+      "r18": false
+    },
+    {
+      "id": 8232,
+      "title": "Abnormal-kei Joshi",
+      "score": 0.15,
       "r18": false
     }
   ]

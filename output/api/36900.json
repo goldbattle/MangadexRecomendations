@@ -1,55 +1,61 @@
 {
   "id": 36900,
   "title": "Gendai Irozato Tsuya Kobanashi",
-  "url": "https://api.mangadex.org/v2/manga/36900",
-  "last_updated": "February 10, 2021 20:44:44 UTC",
+  "url": "https://mangadex.org/manga/36900",
+  "last_updated": "March 17, 2021 20:32:57 UTC",
   "matches": [
-    {
-      "id": 16769,
-      "title": "Henai",
-      "score": 0.738,
-      "r18": true
-    },
     {
       "id": 29001,
       "title": "Renai Fuyuki Todoki",
-      "score": 0.733,
-      "r18": true
-    },
-    {
-      "id": 25665,
-      "title": "Asatte ni Kiss",
-      "score": 0.685,
-      "r18": true
-    },
-    {
-      "id": 34624,
-      "title": "Don't Pick Up The Soap",
-      "score": 0.684,
+      "score": 0.266,
       "r18": true
     },
     {
       "id": 35137,
       "title": "Lala no Kekkon",
-      "score": 0.673,
+      "score": 0.2,
       "r18": true
     },
     {
-      "id": 20075,
-      "title": "Koko wa Yasashii Niwa",
-      "score": 0.665,
+      "id": 25665,
+      "title": "Asatte ni Kiss",
+      "score": 0.19,
       "r18": true
     },
     {
-      "id": 49802,
-      "title": "Puppy Love",
-      "score": 0.24,
+      "id": 20787,
+      "title": "Kimi no Oto ga Nari Yamanai",
+      "score": 0.179,
+      "r18": true
+    },
+    {
+      "id": 16769,
+      "title": "Henai",
+      "score": 0.178,
       "r18": true
     },
     {
       "id": 53941,
       "title": "Under Grand Hotel - Crossover",
-      "score": 0.18,
+      "score": 0.16,
+      "r18": true
+    },
+    {
+      "id": 20075,
+      "title": "Koko wa Yasashii Niwa",
+      "score": 0.134,
+      "r18": true
+    },
+    {
+      "id": 49802,
+      "title": "Puppy Love",
+      "score": 0.133,
+      "r18": true
+    },
+    {
+      "id": 34624,
+      "title": "Don't Pick Up The Soap",
+      "score": 0.114,
       "r18": true
     }
   ]

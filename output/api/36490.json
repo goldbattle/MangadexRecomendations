@@ -1,31 +1,31 @@
 {
   "id": 36490,
   "title": "Harem Tune",
-  "url": "https://api.mangadex.org/v2/manga/36490",
-  "last_updated": "February 10, 2021 20:38:14 UTC",
+  "url": "https://mangadex.org/manga/36490",
+  "last_updated": "March 17, 2021 20:27:27 UTC",
   "matches": [
     {
       "id": 27424,
       "title": "Mister Enkou",
-      "score": 0.358,
+      "score": 0.3,
       "r18": true
     },
     {
       "id": 36562,
       "title": "Shall We Game?",
-      "score": 0.24,
-      "r18": true
-    },
-    {
-      "id": 35164,
-      "title": "My Ideal Isekai Life",
-      "score": 0.207,
+      "score": 0.213,
       "r18": true
     },
     {
       "id": 56222,
       "title": "Tsundere Kanojo ga Sunao ni Naru Made Ecchi",
-      "score": 0.18,
+      "score": 0.16,
+      "r18": true
+    },
+    {
+      "id": 35164,
+      "title": "My Ideal Isekai Life",
+      "score": 0.142,
       "r18": true
     }
   ]

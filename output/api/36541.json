@@ -1,61 +1,67 @@
 {
   "id": 36541,
   "title": "Apiru",
-  "url": "https://api.mangadex.org/v2/manga/36541",
-  "last_updated": "February 10, 2021 20:39:02 UTC",
+  "url": "https://mangadex.org/manga/36541",
+  "last_updated": "March 17, 2021 20:28:09 UTC",
   "matches": [
     {
       "id": 10232,
       "title": "Bestia",
-      "score": 0.315,
+      "score": 0.225,
       "r18": false
     },
     {
       "id": 7000,
       "title": "Shura Yukihime Gaiden",
-      "score": 0.284,
+      "score": 0.181,
       "r18": false
     },
     {
       "id": 46689,
       "title": "Eros no Shushi",
-      "score": 0.264,
-      "r18": false
-    },
-    {
-      "id": 27639,
-      "title": "Offered",
-      "score": 0.254,
-      "r18": false
-    },
-    {
-      "id": 10832,
-      "title": "Beageruta",
-      "score": 0.252,
-      "r18": false
-    },
-    {
-      "id": 18033,
-      "title": "Genocider (Akiyoshi Takahiro)",
-      "score": 0.248,
+      "score": 0.181,
       "r18": false
     },
     {
       "id": 5706,
       "title": "Sakuran",
-      "score": 0.241,
+      "score": 0.181,
+      "r18": false
+    },
+    {
+      "id": 27639,
+      "title": "Offered",
+      "score": 0.175,
+      "r18": false
+    },
+    {
+      "id": 18033,
+      "title": "Genocider (Akiyoshi Takahiro)",
+      "score": 0.175,
+      "r18": false
+    },
+    {
+      "id": 22687,
+      "title": "GIGANT",
+      "score": 0.175,
+      "r18": false
+    },
+    {
+      "id": 10832,
+      "title": "Beageruta",
+      "score": 0.175,
       "r18": false
     },
     {
       "id": 14601,
       "title": "Blind Faith Descent",
-      "score": 0.233,
+      "score": 0.175,
       "r18": false
     },
     {
       "id": 14677,
       "title": "Tokkaten",
-      "score": 0.209,
+      "score": 0.156,
       "r18": false
     }
   ]

@@ -1,19 +1,19 @@
 {
   "id": 36887,
   "title": "Koakuma wa Ore no Iinari",
-  "url": "https://api.mangadex.org/v2/manga/36887",
-  "last_updated": "February 10, 2021 20:44:32 UTC",
+  "url": "https://mangadex.org/manga/36887",
+  "last_updated": "March 17, 2021 20:32:47 UTC",
   "matches": [
-    {
-      "id": 25003,
-      "title": "Tokusen Sukimono BL (Anthology)",
-      "score": 0.664,
-      "r18": false
-    },
     {
       "id": 42710,
       "title": "Jingai x Kinniku BL",
-      "score": 0.38,
+      "score": 0.3,
+      "r18": false
+    },
+    {
+      "id": 25003,
+      "title": "Tokusen Sukimono BL (Anthology)",
+      "score": 0.214,
       "r18": false
     }
   ]
