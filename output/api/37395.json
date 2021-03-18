@@ -1,31 +1,31 @@
 {
   "id": 37395,
   "title": "The View Beyond",
-  "url": "https://api.mangadex.org/v2/manga/37395",
-  "last_updated": "February 11, 2021 00:06:15 UTC",
+  "url": "https://mangadex.org/manga/37395",
+  "last_updated": "March 18, 2021 00:44:32 UTC",
   "matches": [
-    {
-      "id": 1381,
-      "title": "Kanon",
-      "score": 0.705,
-      "r18": false
-    },
     {
       "id": 17094,
       "title": "Saraba, Yoki Hi",
-      "score": 0.378,
+      "score": 0.317,
       "r18": false
     },
     {
       "id": 9740,
       "title": "Tsumetaku, Amai",
-      "score": 0.376,
+      "score": 0.271,
+      "r18": false
+    },
+    {
+      "id": 1381,
+      "title": "Kanon",
+      "score": 0.229,
       "r18": false
     },
     {
       "id": 52044,
       "title": "The Devil",
-      "score": 0.245,
+      "score": 0.136,
       "r18": false
     }
   ]

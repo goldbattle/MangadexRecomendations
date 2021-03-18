@@ -1,37 +1,37 @@
 {
   "id": 38503,
   "title": "Katabami to Ougon",
-  "url": "https://api.mangadex.org/v2/manga/38503",
-  "last_updated": "February 11, 2021 00:23:56 UTC",
+  "url": "https://mangadex.org/manga/38503",
+  "last_updated": "March 18, 2021 01:05:01 UTC",
   "matches": [
-    {
-      "id": 6420,
-      "title": "Cat Shit One",
-      "score": 0.304,
-      "r18": false
-    },
     {
       "id": 8595,
       "title": "Cat Shit One '80",
-      "score": 0.272,
+      "score": 0.181,
+      "r18": false
+    },
+    {
+      "id": 6420,
+      "title": "Cat Shit One",
+      "score": 0.181,
       "r18": false
     },
     {
       "id": 12559,
       "title": "Battle Field",
-      "score": 0.235,
-      "r18": false
-    },
-    {
-      "id": 7775,
-      "title": "El Alamein no Shinden",
-      "score": 0.228,
+      "score": 0.145,
       "r18": false
     },
     {
       "id": 53288,
       "title": "Sensai Vagabond",
-      "score": 0.172,
+      "score": 0.145,
+      "r18": false
+    },
+    {
+      "id": 7775,
+      "title": "El Alamein no Shinden",
+      "score": 0.112,
       "r18": false
     }
   ]

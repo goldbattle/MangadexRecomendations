@@ -1,31 +1,31 @@
 {
   "id": 38516,
   "title": "Shisei no Otoko",
-  "url": "https://api.mangadex.org/v2/manga/38516",
-  "last_updated": "February 11, 2021 00:24:08 UTC",
+  "url": "https://mangadex.org/manga/38516",
+  "last_updated": "March 18, 2021 01:05:15 UTC",
   "matches": [
-    {
-      "id": 27242,
-      "title": "Touch Me Again",
-      "score": 0.693,
-      "r18": false
-    },
-    {
-      "id": 5968,
-      "title": "Animal X",
-      "score": 0.685,
-      "r18": false
-    },
     {
       "id": 17765,
       "title": "Miku to Neo",
-      "score": 0.427,
+      "score": 0.3,
+      "r18": false
+    },
+    {
+      "id": 27242,
+      "title": "Touch Me Again",
+      "score": 0.234,
       "r18": false
     },
     {
       "id": 18992,
       "title": "Coyote",
-      "score": 0.341,
+      "score": 0.214,
+      "r18": false
+    },
+    {
+      "id": 5968,
+      "title": "Animal X",
+      "score": 0.168,
       "r18": false
     }
   ]
