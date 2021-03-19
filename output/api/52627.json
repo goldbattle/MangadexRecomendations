@@ -1,158 +1,264 @@
 {
   "id": 52627,
   "title": "Akuyaku Reijou ni Tensei Shita hazu ga Marie Antoinette Deshita",
-  "url": "https://api.mangadex.org/v2/manga/52627",
-  "last_updated": "February 05, 2021 12:27:37 UTC",
+  "url": "https://mangadex.org/manga/52627",
+  "last_updated": "March 18, 2021 13:39:52 UTC",
   "matches": [
-    {
-      "id": 51497,
-      "title": "Akuyaku Reijou, Shomin ni Ochiru",
-      "score": 0.662,
-      "r18": false
-    },
     {
       "id": 48800,
       "title": "Utakata ni Warau",
-      "score": 0.341,
-      "r18": false
-    },
-    {
-      "id": 17804,
-      "title": "Hensoku-kei Quadrangle",
-      "score": 0.32,
-      "r18": false
-    },
-    {
-      "id": 22485,
-      "title": "Nekurogu (Necrolog)",
-      "score": 0.316,
-      "r18": false
-    },
-    {
-      "id": 53923,
-      "title": "Marie-Antoinette. La jeunesse d'une reine.",
-      "score": 0.315,
-      "r18": false
-    },
-    {
-      "id": 16920,
-      "title": "Shinano River",
-      "score": 0.308,
-      "r18": false
-    },
-    {
-      "id": 3409,
-      "title": "Otoyomegatari",
-      "score": 0.301,
-      "r18": false
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 897,
       "title": "Boku wa Beatles",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 1016,
-      "title": "Emma",
-      "score": 0.3,
-      "r18": false
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 16387,
       "title": "Ayeshah's Secret",
-      "score": 0.3,
-      "r18": false
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "tr"
+      ]
     },
     {
-      "id": 11510,
-      "title": "Steins;Gate",
-      "score": 0.293,
-      "r18": false
-    },
-    {
-      "id": 202,
-      "title": "RAINBOW",
-      "score": 0.291,
-      "r18": false
-    },
-    {
-      "id": 15579,
-      "title": "Seishun no After",
-      "score": 0.289,
-      "r18": false
-    },
-    {
-      "id": 22924,
-      "title": "Under the Rose",
-      "score": 0.289,
-      "r18": false
-    },
-    {
-      "id": 57459,
-      "title": "Tensei! Takenaka hanbei \u301c maina bushou ni tensei shita nakama-tachi to sengokuranse wo ikinuku \u301c",
-      "score": 0.289,
-      "r18": false
-    },
-    {
-      "id": 17189,
-      "title": "Arte",
-      "score": 0.287,
-      "r18": false
-    },
-    {
-      "id": 14974,
-      "title": "Kono Sekai no Katasumini",
-      "score": 0.286,
-      "r18": false
-    },
-    {
-      "id": 18020,
-      "title": "Ten Sozoro",
-      "score": 0.286,
-      "r18": false
-    },
-    {
-      "id": 51803,
-      "title": "A Villainess? No, a Heinous Young Lady",
-      "score": 0.283,
-      "r18": false
+      "id": 16920,
+      "title": "Shinano River",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1920,
       "title": "The Ravages of Time",
-      "score": 0.278,
-      "r18": false
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "it"
+      ]
+    },
+    {
+      "id": 22485,
+      "title": "Necrologue",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 17189,
+      "title": "Arte",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
+    },
+    {
+      "id": 1016,
+      "title": "Emma",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg",
+        "it"
+      ]
     },
     {
       "id": 1384,
       "title": "Yama Fu-Tang",
-      "score": 0.272,
-      "r18": false
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 3447,
-      "title": "Memories of Emanon",
-      "score": 0.264,
-      "r18": false
+      "id": 22924,
+      "title": "Under the Rose",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 37291,
-      "title": "Fenrir",
-      "score": 0.26,
-      "r18": false
+      "id": 14974,
+      "title": "Kono Sekai no Katasumini",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 36830,
-      "title": "Magic Artisan Dahliya Won't Hang Her Head ~Dahliya Wilts No More~",
-      "score": 0.258,
-      "r18": false
+      "id": 3409,
+      "title": "Otoyomegatari",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu",
+        "br",
+        "ru",
+        "bg"
+      ]
+    },
+    {
+      "id": 17804,
+      "title": "Hensoku-kei Quadrangle",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "id"
+      ]
+    },
+    {
+      "id": 11510,
+      "title": "Steins;Gate",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "tr"
+      ]
+    },
+    {
+      "id": 15579,
+      "title": "Seishun no After",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 54948,
+      "title": "Natsuyasumi no Tomo",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn"
+      ]
+    },
+    {
+      "id": 17720,
+      "title": "Koushaku Reijou no Tashinami",
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "fr",
+        "es",
+        "it",
+        "id"
+      ]
+    },
+    {
+      "id": 51803,
+      "title": "A Villainess? No, a Heinous Young Lady",
+      "score": 0.19,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 202,
+      "title": "RAINBOW",
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "tr",
+        "br"
+      ]
+    },
+    {
+      "id": 19887,
+      "title": "Uratarou",
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "tr",
+        "ru",
+        "es",
+        "mx",
+        "br"
+      ]
+    },
+    {
+      "id": 50182,
+      "title": "Jesus (YASUHIKO Yoshikazu)",
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 26640,
+      "title": "Kusuriya no Hitorigoto - Maomao no Koukyuu Nazotoki Techou",
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 13092,
+      "title": "Shiroi Majo",
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21429,
+      "title": "Sozo no Eterunite",
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8548,
       "title": "Nobunaga no Chef",
-      "score": 0.256,
-      "r18": false
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     }
   ]
 }

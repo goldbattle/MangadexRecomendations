@@ -1,158 +1,298 @@
 {
   "id": 51376,
   "title": "Reincarnated as an Aristocrat with an Appraisal Skill",
-  "url": "https://api.mangadex.org/v2/manga/51376",
-  "last_updated": "February 05, 2021 12:06:53 UTC",
+  "url": "https://mangadex.org/manga/51376",
+  "last_updated": "March 18, 2021 13:29:26 UTC",
   "matches": [
+    {
+      "id": 29166,
+      "title": "Douyara Watashi no Karada wa Kanzen Muteki no You Desu ne",
+      "score": 0.318,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru"
+      ]
+    },
+    {
+      "id": 24651,
+      "title": "Saihate no Paladin",
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru",
+        "id"
+      ]
+    },
+    {
+      "id": 38291,
+      "title": "Maseki Gurume: Mamono no Chikara o Tabeta Ore wa Saikyou!",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "ru",
+        "mx"
+      ]
+    },
+    {
+      "id": 52437,
+      "title": "Mahou Tsukai de Hikikomori?",
+      "score": 0.297,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
     {
       "id": 31002,
       "title": "Jimi na Kensei wa Sore Demo Saikyou Desu",
-      "score": 0.725,
-      "r18": false
+      "score": 0.288,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "kr",
+        "fr",
+        "mx"
+      ]
     },
     {
-      "id": 34387,
-      "title": "Lonely Attack on the Different World",
-      "score": 0.724,
-      "r18": false
+      "id": 57814,
+      "title": "The Greatest Philosopher With Zero Magic Power.",
+      "score": 0.282,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 51325,
-      "title": "Shoki Skill ga Benri Sugite Isekai Seikatsu ga Tanoshisugiru!",
-      "score": 0.72,
-      "r18": false
+      "id": 45110,
+      "title": "I  Was Reincarnated as a Poor Farmer in a Different World, so I Decided to Make Bricks to Build a Castle",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "br",
+        "es",
+        "gb",
+        "id"
+      ]
     },
     {
-      "id": 19671,
-      "title": "Sword Art Online - Project Alicization",
-      "score": 0.718,
-      "r18": false
+      "id": 56584,
+      "title": "Dorei Tensei: Sono Dorei, Saikyou no Moto Ouji ni Tsuki",
+      "score": 0.276,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 10801,
-      "title": "Mahoutsukai no Yome",
-      "score": 0.717,
-      "r18": false
+      "id": 56554,
+      "title": "The Useless Tamer Will Turn into the Top Unconsciously by My Previous Life Knowledge",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "fr"
+      ]
     },
     {
-      "id": 21914,
-      "title": "Almadianos Eiyuuden",
-      "score": 0.716,
-      "r18": false
+      "id": 22104,
+      "title": "Saikyou no Shokugyou wa Yuusha Demo Kenja Demo Naku Kanteishi (Kari) Rashii Desu yo?",
+      "score": 0.274,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id"
+      ]
     },
     {
-      "id": 55576,
-      "title": "Ikemen ni Tensei Shita kedo Cheat wa Dekimasen Deshita",
-      "score": 0.716,
-      "r18": false
+      "id": 14960,
+      "title": "Chihou Kishi Hans no Junan",
+      "score": 0.274,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "ru",
+        "sa",
+        "fr"
+      ]
     },
     {
-      "id": 41744,
-      "title": "Shi ni Modori, Subete wo Sukuu Tame ni Saikyou he to Itaru",
-      "score": 0.714,
-      "r18": false
+      "id": 46408,
+      "title": "In the Land of Leadale",
+      "score": 0.274,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 33863,
-      "title": "The Beginning After the End",
-      "score": 0.713,
-      "r18": false
+      "id": 45577,
+      "title": "Tensei Kusushi wa Isekai wo Meguru",
+      "score": 0.274,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "th"
+      ]
     },
     {
-      "id": 33943,
-      "title": "Isekai Healthy Kitchen",
-      "score": 0.712,
-      "r18": false
+      "id": 23706,
+      "title": "Kamitachi ni Hirowareta Otoko",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "mx",
+        "tr",
+        "fr",
+        "ru",
+        "pl",
+        "br",
+        "hu"
+      ]
     },
     {
-      "id": 21946,
-      "title": "The Wrong Way to Use Healing Magic",
-      "score": 0.711,
-      "r18": false
+      "id": 18642,
+      "title": "Tensei Shichattayo (Iya, Gomen)",
+      "score": 0.267,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id"
+      ]
     },
     {
-      "id": 52025,
-      "title": "Isekai De Te Ni Ireta Seisan Skill Wa Saikyou Datta You Desu",
-      "score": 0.711,
-      "r18": false
+      "id": 19517,
+      "title": "Kenja no Deshi wo Nanoru Kenja",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "br",
+        "ru",
+        "fr"
+      ]
     },
     {
-      "id": 23231,
-      "title": "Wu Dong Qian Kun",
-      "score": 0.71,
-      "r18": false
+      "id": 41726,
+      "title": "Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru",
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "id"
+      ]
     },
     {
-      "id": 20288,
-      "title": "World Teacher &ndash; Other World Style Education &amp; Agent",
-      "score": 0.71,
-      "r18": false
+      "id": 49810,
+      "title": "The Child Loved by God",
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br"
+      ]
     },
     {
-      "id": 23709,
-      "title": "Moto Saikyou no Kenshi wa, Isekai Mahou ni Akogareru",
-      "score": 0.707,
-      "r18": false
+      "id": 49655,
+      "title": "Clearing an Isekai with the Zero-Believers Goddess",
+      "score": 0.263,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 19522,
-      "title": "Ubau Mono Ubawareru Mono",
-      "score": 0.706,
-      "r18": false
+      "id": 53607,
+      "title": "When I Reincarnated I Was a Soldier?! ~A Man Called the Red Shinigami~",
+      "score": 0.259,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "id"
+      ]
     },
     {
-      "id": 38751,
-      "title": "Hazure Skill [Mapping] wo Te ni Shita Shonen ha Saikyou Party to Dungeon ni Idomu",
-      "score": 0.705,
-      "r18": false
+      "id": 43205,
+      "title": "Garbage Brave",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "br",
+        "fr",
+        "ru"
+      ]
     },
     {
-      "id": 3867,
-      "title": "M&Auml;R",
-      "score": 0.705,
-      "r18": false
+      "id": 32084,
+      "title": "Saikyou Juzoku Tensei: Cheat Majutsushi no Slow Life",
+      "score": 0.256,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru",
+        "br"
+      ]
     },
     {
-      "id": 54182,
-      "title": "Ore wa Mada, Honki o Dashite Inai",
-      "score": 0.702,
-      "r18": false
+      "id": 47462,
+      "title": "Isekai Ten&rsquo;i-sha no My Pace Kouryaku-ki",
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 21061,
-      "title": "Tales of Berseria",
-      "score": 0.702,
-      "r18": false
+      "id": 20398,
+      "title": "Isekai Yakkyoku",
+      "score": 0.254,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "id"
+      ]
     },
     {
-      "id": 5573,
-      "title": "Saiyuki",
-      "score": 0.702,
-      "r18": false
-    },
-    {
-      "id": 12009,
-      "title": "Soul Land",
-      "score": 0.702,
-      "r18": false
-    },
-    {
-      "id": 46134,
-      "title": "The Peerless Sword God",
-      "score": 0.702,
-      "r18": false
-    },
-    {
-      "id": 6831,
-      "title": "Kimi no Kakera",
-      "score": 0.702,
-      "r18": false
-    },
-    {
-      "id": 22148,
-      "title": "Infinite Dendrogram",
-      "score": 0.701,
-      "r18": false
+      "id": 12432,
+      "title": "Ore to Kawazu-san no Isekai Hourouki",
+      "score": 0.253,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "fr",
+        "br"
+      ]
     }
   ]
 }

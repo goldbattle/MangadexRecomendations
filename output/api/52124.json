@@ -1,92 +1,158 @@
 {
   "id": 52124,
   "title": "Majo Raba Majo Reba",
-  "url": "https://api.mangadex.org/v2/manga/52124",
-  "last_updated": "February 05, 2021 12:19:16 UTC",
+  "url": "https://mangadex.org/manga/52124",
+  "last_updated": "March 18, 2021 13:35:41 UTC",
   "matches": [
-    {
-      "id": 6839,
-      "title": "Mousou Kikou - Adolescence Avatar",
-      "score": 0.345,
-      "r18": false
-    },
     {
       "id": 8225,
       "title": "Rocking Chair Hero",
-      "score": 0.296,
-      "r18": false
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6839,
+      "title": "Mousou Kikou - Adolescence Avatar",
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 25977,
       "title": "Can You Become A Magical Girl?",
-      "score": 0.265,
-      "r18": false
-    },
-    {
-      "id": 41633,
-      "title": "Uruha no Sekai de Arisugawa",
-      "score": 0.263,
-      "r18": false
-    },
-    {
-      "id": 21124,
-      "title": "Oretachi no Party wa Machigatteiru",
-      "score": 0.259,
-      "r18": false
+      "score": 0.157,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6889,
       "title": "Aragami Hime",
-      "score": 0.253,
-      "r18": false
-    },
-    {
-      "id": 43540,
-      "title": "Fantasy Bishoujo Juniku Ojisan to",
-      "score": 0.252,
-      "r18": false
-    },
-    {
-      "id": 19517,
-      "title": "Kenja no Deshi wo Nanoru Kenja",
-      "score": 0.246,
-      "r18": false
+      "score": 0.157,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21770,
       "title": "The Exploding Girl",
-      "score": 0.233,
-      "r18": false
+      "score": 0.157,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 41633,
+      "title": "Uruha no Sekai de Arisugawa",
+      "score": 0.137,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19517,
+      "title": "Kenja no Deshi wo Nanoru Kenja",
+      "score": 0.122,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "br",
+        "ru",
+        "fr"
+      ]
+    },
+    {
+      "id": 43540,
+      "title": "Fantasy Bishoujo Juniku Ojisan to",
+      "score": 0.122,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 21124,
+      "title": "Oretachi no Party wa Machigatteiru",
+      "score": 0.122,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 21944,
       "title": "Yasei no Last Boss ga Arawareta!",
-      "score": 0.231,
-      "r18": false
-    },
-    {
-      "id": 20231,
-      "title": "Majo no Geboku to Maou no Tsuno",
-      "score": 0.231,
-      "r18": false
+      "score": 0.122,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru",
+        "br",
+        "fr",
+        "id",
+        "tr"
+      ]
     },
     {
       "id": 14838,
       "title": "The Moon at Daybreak",
-      "score": 0.221,
-      "r18": false
+      "score": 0.119,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 20231,
+      "title": "Majo no Geboku to Maou no Tsuno",
+      "score": 0.114,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "es"
+      ]
     },
     {
       "id": 39012,
       "title": "MookHyang - Dark Lady",
-      "score": 0.163,
-      "r18": false
+      "score": 0.091,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr",
+        "tr",
+        "br",
+        "id"
+      ]
     },
     {
       "id": 7524,
       "title": "Lime Odyssey - The Chronicles of ORTA",
-      "score": 0.136,
-      "r18": false
+      "score": 0.084,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     }
   ]
 }

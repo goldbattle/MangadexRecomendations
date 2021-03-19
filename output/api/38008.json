@@ -2,25 +2,26 @@
   "id": 38008,
   "title": "Skillful Girlfriend",
   "url": "https://mangadex.org/manga/38008",
-  "last_updated": "March 18, 2021 00:55:47 UTC",
+  "last_updated": "March 18, 2021 11:37:43 UTC",
   "matches": [
-    {
-      "id": 48506,
-      "title": "Cat Maid and Mistress",
-      "score": 0.33,
-      "r18": false
-    },
     {
       "id": 6044,
       "title": "Dare nimo Ienai",
       "score": 0.275,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7496,
       "title": "Honto no Kanojo",
       "score": 0.275,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     }
   ]
 }

@@ -1,158 +1,264 @@
 {
   "id": 41289,
   "title": "Danny's Radio",
-  "url": "https://api.mangadex.org/v2/manga/41289",
-  "last_updated": "February 11, 2021 08:36:43 UTC",
+  "url": "https://mangadex.org/manga/41289",
+  "last_updated": "March 18, 2021 12:05:05 UTC",
   "matches": [
     {
       "id": 536,
       "title": "Beck",
-      "score": 0.294,
-      "r18": false
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "it",
+        "br"
+      ]
     },
     {
       "id": 3952,
       "title": "Wood Stock",
-      "score": 0.287,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 13742,
       "title": "Fujicue!!! - Fujicue's Music",
-      "score": 0.287,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21506,
       "title": "TO-Y",
-      "score": 0.287,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 23457,
       "title": "The iDOLM@STER Cinderella Girls - WILD WIND GIRL",
-      "score": 0.287,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 51001,
       "title": "Bowing!",
-      "score": 0.287,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6056,
       "title": "Shigatsu wa Kimi no Uso",
-      "score": 0.258,
-      "r18": false
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "id"
+      ]
     },
     {
       "id": 414,
       "title": "Sket Dance",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "ru",
+        "mx",
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 1293,
       "title": "Miyuki",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "fr"
+      ]
     },
     {
       "id": 10271,
       "title": "Ballroom e Youkoso",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "es",
+        "fr"
+      ]
     },
     {
       "id": 11710,
       "title": "Days",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru"
+      ]
     },
     {
       "id": 50473,
       "title": "Welcome to the Competitive Dance Club",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 284,
       "title": "Hanasaku Iroha",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 484,
       "title": "Barakamon",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 542,
       "title": "Kami-sama no Memo-chou",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1054,
       "title": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "it",
+        "br",
+        "cn",
+        "pl",
+        "fr"
+      ]
     },
     {
       "id": 2007,
       "title": "Aria",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "es",
+        "br"
+      ]
     },
     {
       "id": 2869,
       "title": "School Rumble",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 2999,
       "title": "Pyu to Fuku! Jaguar",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4529,
       "title": "Koutetsu no Hanappashira",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4640,
       "title": "Mix",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru"
+      ]
     },
     {
       "id": 4731,
       "title": "Hallelujah Overdrive!",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4771,
       "title": "Wild Life",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "id",
+        "pl"
+      ]
     },
     {
       "id": 5144,
       "title": "Himawari Youchien Monogatari Aiko Desho!",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5205,
       "title": "Kunimitsu no Matsuri",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

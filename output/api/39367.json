@@ -2,25 +2,36 @@
   "id": 39367,
   "title": "Shoujotachi no Asobi",
   "url": "https://mangadex.org/manga/39367",
-  "last_updated": "March 18, 2021 04:22:53 UTC",
+  "last_updated": "March 18, 2021 11:49:04 UTC",
   "matches": [
     {
       "id": 20869,
       "title": "Last One",
       "score": 0.16,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 20489,
       "title": "Untouchable Lover",
-      "score": 0.14,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21645,
       "title": "Twinkling Stars",
-      "score": 0.14,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "vn",
+        "gb"
+      ]
     }
   ]
 }

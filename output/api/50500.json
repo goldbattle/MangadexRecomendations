@@ -1,38 +1,56 @@
 {
   "id": 50500,
   "title": "Kiritani-san Chossore Kuunsuka!?",
-  "url": "https://api.mangadex.org/v2/manga/50500",
-  "last_updated": "February 05, 2021 08:24:41 UTC",
+  "url": "https://mangadex.org/manga/50500",
+  "last_updated": "March 18, 2021 13:22:07 UTC",
   "matches": [
     {
       "id": 9341,
       "title": "Gohan Shiyo!",
-      "score": 0.276,
-      "r18": false
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19969,
       "title": "Yakumo-san wa Ezuke ga Shitai.",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 36258,
       "title": "Houkago Teibou Nisshi",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 57988,
       "title": "Yuru Camp \u25b3 Anthology Comic",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 31762,
       "title": "Ao no Shima to Neko Ippiki",
-      "score": 0.172,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br"
+      ]
     }
   ]
 }

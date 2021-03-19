@@ -2,31 +2,48 @@
   "id": 5440,
   "title": "Unreal Sundown",
   "url": "https://mangadex.org/manga/5440",
-  "last_updated": "March 14, 2021 12:36:23 UTC",
+  "last_updated": "March 18, 2021 06:31:32 UTC",
   "matches": [
     {
       "id": 33254,
       "title": "Rairaiden",
       "score": 0.338,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "vn",
+        "fr"
+      ]
     },
     {
       "id": 16165,
       "title": "Shizuru's Notebook",
       "score": 0.305,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 8446,
       "title": "Desert Rose &amp; Blazing Transfer Student - Blazing USA (Doujinshi)",
-      "score": 0.284,
-      "r18": false
+      "score": 0.283,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19548,
       "title": "Uchuuji Karabuki Kenzan",
-      "score": 0.156,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb"
+      ]
     }
   ]
 }

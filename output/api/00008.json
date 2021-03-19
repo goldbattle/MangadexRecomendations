@@ -2,157 +2,284 @@
   "id": 8,
   "title": "Psyren",
   "url": "https://mangadex.org/manga/8",
-  "last_updated": "March 14, 2021 00:46:53 UTC",
+  "last_updated": "March 18, 2021 05:42:36 UTC",
   "matches": [
     {
       "id": 5014,
       "title": "Noragami",
       "score": 0.325,
-      "r18": false
-    },
-    {
-      "id": 959,
-      "title": "Shaman",
-      "score": 0.293,
-      "r18": false
-    },
-    {
-      "id": 28486,
-      "title": "Avatar: The Last Airbender - The Lost Adventures",
-      "score": 0.286,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "br",
+        "tr",
+        "fr",
+        "es",
+        "hu"
+      ]
     },
     {
       "id": 494,
       "title": "Suashi no Meteorite",
       "score": 0.286,
-      "r18": false
-    },
-    {
-      "id": 283,
-      "title": "Ao no Exorcist",
-      "score": 0.283,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 2086,
       "title": "Kingdom Hearts 358/2 Days",
       "score": 0.281,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 4350,
       "title": "Shaman King Flowers",
       "score": 0.28,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru"
+      ]
     },
     {
       "id": 5569,
       "title": "Arabian Majin Boukentan Lamp Lamp",
       "score": 0.28,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 4016,
+      "title": "AREA D",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "ru",
+        "mn",
+        "es"
+      ]
     },
     {
       "id": 13963,
       "title": "Yu-Gi-Oh! GX",
-      "score": 0.274,
-      "r18": false
+      "score": 0.273,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4780,
       "title": "Umineko no Naku Koro ni Chiru Episode 8: Twilight of the Golden Witch",
-      "score": 0.274,
-      "r18": false
+      "score": 0.273,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11041,
       "title": "Stealth Symphony",
-      "score": 0.273,
-      "r18": false
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "pl"
+      ]
     },
     {
       "id": 6521,
       "title": "Nishi no Yoki Majo",
-      "score": 0.27,
-      "r18": false
+      "score": 0.269,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1790,
       "title": "Arata Kangatari",
       "score": 0.269,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 15176,
       "title": "Pochi Kuro",
-      "score": 0.269,
-      "r18": false
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "hu"
+      ]
     },
     {
       "id": 358,
       "title": "C&Oslash;DE:BREAKER",
-      "score": 0.268,
-      "r18": false
+      "score": 0.267,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "id"
+      ]
     },
     {
       "id": 14603,
       "title": "Kagamigami",
-      "score": 0.267,
-      "r18": false
-    },
-    {
-      "id": 1751,
-      "title": "D.Gray-man",
       "score": 0.266,
-      "r18": false
-    },
-    {
-      "id": 1417,
-      "title": "Shingetsutan Tsukihime",
-      "score": 0.265,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru",
+        "es"
+      ]
     },
     {
       "id": 1036,
       "title": "Rave",
-      "score": 0.265,
-      "r18": false
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa",
+        "ua",
+        "br"
+      ]
     },
     {
       "id": 2221,
       "title": "Toraneko Folklore",
       "score": 0.263,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 134,
       "title": "en&iacute;gm\u04d9",
       "score": 0.263,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "de"
+      ]
+    },
+    {
+      "id": 283,
+      "title": "Ao no Exorcist",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "mx",
+        "it",
+        "br",
+        "es",
+        "il",
+        "fr"
+      ]
     },
     {
       "id": 107,
       "title": "Toriko",
-      "score": 0.262,
-      "r18": false
+      "score": 0.26,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "es",
+        "mx",
+        "pl"
+      ]
     },
     {
       "id": 1416,
       "title": "Watashi no Messiah-sama",
-      "score": 0.261,
-      "r18": false
+      "score": 0.26,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1751,
+      "title": "D.Gray-man",
+      "score": 0.26,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "tr",
+        "sa",
+        "mx",
+        "pl",
+        "ru",
+        "es",
+        "bg"
+      ]
     },
     {
       "id": 950,
       "title": "GATE 7",
       "score": 0.26,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 28843,
       "title": "JoJo's Bizarre Adventure Part 4 - Diamond is Unbreakable",
-      "score": 0.259,
-      "r18": false
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br"
+      ]
+    },
+    {
+      "id": 316,
+      "title": "Gwisin Byeolgok",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 30443,
+      "title": "Muhyo to Roji no Mahouritsu Soudan Jimusho: Mazoku Magushi-hen",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

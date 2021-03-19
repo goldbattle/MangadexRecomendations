@@ -2,25 +2,36 @@
   "id": 8011,
   "title": "Natsujikan",
   "url": "https://mangadex.org/manga/8011",
-  "last_updated": "March 14, 2021 20:14:23 UTC",
+  "last_updated": "March 18, 2021 06:53:57 UTC",
   "matches": [
     {
       "id": 39465,
       "title": "Ore no Tenshi wa Mayonaka Akuma",
       "score": 0.291,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29108,
       "title": "Three Wolves Mountain",
-      "score": 0.279,
-      "r18": false
+      "score": 0.278,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 18506,
       "title": "Ore, Higaisha",
-      "score": 0.25,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     }
   ]
 }

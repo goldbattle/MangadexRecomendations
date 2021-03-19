@@ -1,158 +1,296 @@
 {
   "id": 51809,
   "title": "Osananajimi ga Hisabisa ni Saikai Shitara Otagai Kyonyuu ni Natteta",
-  "url": "https://api.mangadex.org/v2/manga/51809",
-  "last_updated": "February 05, 2021 12:14:02 UTC",
+  "url": "https://mangadex.org/manga/51809",
+  "last_updated": "March 18, 2021 13:33:02 UTC",
   "matches": [
     {
       "id": 54607,
       "title": "I Want to Listen to xx",
-      "score": 0.877,
-      "r18": false
+      "score": 0.775,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "id",
+        "mx"
+      ]
     },
     {
       "id": 39440,
-      "title": "Mitsuishi-san to Hajime-san",
-      "score": 0.875,
-      "r18": false
+      "title": "Mitsuishi-san is Being Weird This Year",
+      "score": 0.748,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru"
+      ]
+    },
+    {
+      "id": 57158,
+      "title": "A Boy That Can't Stop Crossdressing",
+      "score": 0.746,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "id"
+      ]
     },
     {
       "id": 58901,
       "title": "The Cutest Girl in School Might Like Me!",
-      "score": 0.857,
-      "r18": false
-    },
-    {
-      "id": 46682,
-      "title": "Zutto Otokonoko da to Omotte ita Gakitaishou ga Onnanoko deshita",
-      "score": 0.853,
-      "r18": false
-    },
-    {
-      "id": 50285,
-      "title": "This Italian Girl Has Become Such a Freeloader",
-      "score": 0.849,
-      "r18": false
-    },
-    {
-      "id": 51669,
-      "title": "A Tsun Couple that isn't really Tsun!",
-      "score": 0.843,
-      "r18": false
-    },
-    {
-      "id": 50423,
-      "title": "The Untold Story of a High School Debut",
-      "score": 0.843,
-      "r18": false
-    },
-    {
-      "id": 52223,
-      "title": "A Story About Becoming Temporary Lovers With a Classmate Who I Fell In Love With at First Sight",
-      "score": 0.842,
-      "r18": false
-    },
-    {
-      "id": 58203,
-      "title": "Immortal Dying Girl",
-      "score": 0.835,
-      "r18": false
-    },
-    {
-      "id": 53379,
-      "title": "The Cute One Is You!",
-      "score": 0.835,
-      "r18": false
+      "score": 0.746,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 55860,
       "title": "My Childhood Friend the Vampire",
-      "score": 0.832,
-      "r18": false
+      "score": 0.736,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "it",
+        "br",
+        "ru",
+        "id",
+        "pl"
+      ]
     },
     {
-      "id": 48684,
-      "title": "Bite Marks",
-      "score": 0.827,
-      "r18": false
+      "id": 52223,
+      "title": "A Story About Becoming Temporary Lovers With a Classmate Who I Fell In Love With at First Sight",
+      "score": 0.724,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn",
+        "it"
+      ]
     },
     {
-      "id": 58465,
-      "title": "The Monster Who Wanted to Return a Favor",
-      "score": 0.813,
-      "r18": false
+      "id": 50423,
+      "title": "The Untold Story of a High School Debut",
+      "score": 0.716,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 56848,
-      "title": "Don't Touch Kando-chan!",
-      "score": 0.809,
-      "r18": false
+      "id": 51669,
+      "title": "A Tsun Couple that isn't really Tsun!",
+      "score": 0.71,
+      "r18": false,
+      "languages": [
+        "gb",
+        "cn"
+      ]
     },
     {
-      "id": 53312,
-      "title": "A story about a girl who doesn't hide her love and a boy who doesn't notice",
-      "score": 0.807,
-      "r18": false
+      "id": 58203,
+      "title": "Immortal Dying Girl",
+      "score": 0.703,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "tr",
+        "br"
+      ]
     },
     {
-      "id": 49317,
-      "title": "The Story of a Girl Who Can't Deal with a Problem Child",
-      "score": 0.792,
-      "r18": false
+      "id": 46682,
+      "title": "Zutto Otokonoko da to Omotte ita Gakitaishou ga Onnanoko deshita",
+      "score": 0.698,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "cn",
+        "vn",
+        "fr",
+        "tr"
+      ]
     },
     {
-      "id": 52905,
-      "title": "A Social Distance Rom-Com with Intense Intimate Contact After X Days",
-      "score": 0.788,
-      "r18": false
+      "id": 50285,
+      "title": "This Italian Girl Has Become Such a Freeloader",
+      "score": 0.689,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "it",
+        "mx",
+        "vn",
+        "fr",
+        "th"
+      ]
     },
     {
       "id": 47191,
       "title": "A story about a senpai who wants to reject a girl at least once.",
-      "score": 0.786,
-      "r18": false
+      "score": 0.688,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 53312,
+      "title": "A story about a girl who doesn't hide her love and a boy who doesn't notice",
+      "score": 0.676,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 52905,
+      "title": "A Social Distance Rom-Com with Intense Intimate Contact After X Days",
+      "score": 0.656,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 50036,
       "title": "Until the Tall Kouhai (\u2640) and the Short Senpai (\u2642) Relationship Develops Into Romance",
-      "score": 0.785,
-      "r18": false
+      "score": 0.652,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "vn",
+        "br",
+        "tr",
+        "id"
+      ]
     },
     {
       "id": 46953,
       "title": "A Girl Who Unconsciously Acts Boyish",
-      "score": 0.776,
-      "r18": false
+      "score": 0.65,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 53136,
-      "title": "Lunch Break at the Secret Table",
-      "score": 0.765,
-      "r18": false
+      "id": 56848,
+      "title": "Don't Touch Kando-chan!",
+      "score": 0.381,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
+    },
+    {
+      "id": 49317,
+      "title": "The Story of a Girl Who Can't Deal with a Problem Child",
+      "score": 0.372,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "cn"
+      ]
+    },
+    {
+      "id": 49739,
+      "title": "I Lied to My Idol to Get Closer to Him",
+      "score": 0.363,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "id"
+      ]
+    },
+    {
+      "id": 57598,
+      "title": "Yada-san Is Cold",
+      "score": 0.362,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id",
+        "vn",
+        "br"
+      ]
+    },
+    {
+      "id": 44007,
+      "title": "A Happy Couple",
+      "score": 0.362,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "id",
+        "sa"
+      ]
     },
     {
       "id": 49429,
       "title": "I Don't Understand Her Facial Expression at All (Pre-Serialization)",
-      "score": 0.729,
-      "r18": false
+      "score": 0.34,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "vn",
+        "fr"
+      ]
     },
     {
-      "id": 58300,
-      "title": "The Story of My Husband's Cute Crossdressing",
-      "score": 0.725,
-      "r18": false
+      "id": 53627,
+      "title": "Osananajimi ni Modoritai Bokura",
+      "score": 0.339,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
-      "id": 35625,
-      "title": "Tale of a Girl and a Delinquent Who's Bad with Women",
-      "score": 0.709,
-      "r18": false
+      "id": 46246,
+      "title": "The Wife Who Can Read Her Husband's Mind",
+      "score": 0.338,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "vn"
+      ]
     },
     {
       "id": 44270,
       "title": "Confessing To My Childhood Friend Who's Worried She's Plain",
-      "score": 0.685,
-      "r18": false
+      "score": 0.333,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "bd",
+        "id"
+      ]
     }
   ]
 }

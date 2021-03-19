@@ -1,92 +1,142 @@
 {
   "id": 34760,
   "title": "Inga no Sakana",
-  "url": "https://api.mangadex.org/v2/manga/34760",
-  "last_updated": "February 10, 2021 16:33:30 UTC",
+  "url": "https://mangadex.org/manga/34760",
+  "last_updated": "March 18, 2021 11:10:36 UTC",
   "matches": [
     {
-      "id": 1577,
-      "title": "Teirui Makura",
-      "score": 0.694,
-      "r18": false
+      "id": 57781,
+      "title": "Katayoku no Sokubaku",
+      "score": 0.312,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 59003,
       "title": "Kuse ni Narisou",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 57781,
-      "title": "Katayoku no Sokubaku",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 10706,
-      "title": "Rakuda Tsukai to Ouji no Yoru",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 37754,
-      "title": "Uchi no Ani no Renai Jijou",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 35967,
-      "title": "Awa ni mo Narenai Koi Nara ba",
-      "score": 0.657,
-      "r18": false
+      "score": 0.312,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19451,
       "title": "Soukyoku",
-      "score": 0.419,
-      "r18": false
+      "score": 0.312,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 28805,
       "title": "Osananajimi wa Boku no Hero!",
-      "score": 0.38,
-      "r18": false
+      "score": 0.312,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 38994,
-      "title": "Ojisan to Ore no Koiwazurai",
-      "score": 0.363,
-      "r18": false
+      "id": 37754,
+      "title": "Uchi no Ani no Renai Jijou",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 51981,
       "title": "Blue, Black, Sky",
-      "score": 0.346,
-      "r18": false
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
-      "id": 50969,
-      "title": "Rakuen no Pet",
-      "score": 0.284,
-      "r18": false
+      "id": 38994,
+      "title": "Ojisan to Ore no Koiwazurai",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 35967,
+      "title": "Awa ni mo Narenai Koi Nara ba",
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 9996,
       "title": "Kaori no Keishou",
-      "score": 0.275,
-      "r18": false
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "mx",
+        "id"
+      ]
     },
     {
       "id": 57326,
       "title": "Pink Butterfly",
-      "score": 0.247,
-      "r18": false
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 55851,
       "title": "Eyes of the Cormorant, Eyes of the Hawk",
-      "score": 0.22,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1577,
+      "title": "Teirui Makura",
+      "score": 0.156,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50969,
+      "title": "Rakuen no Pet",
+      "score": 0.156,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 10706,
+      "title": "Rakuda Tsukai to Ouji no Yoru",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl"
+      ]
     }
   ]
 }

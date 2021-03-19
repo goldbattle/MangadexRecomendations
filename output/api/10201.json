@@ -2,25 +2,37 @@
   "id": 10201,
   "title": "Kikoenai Koe",
   "url": "https://mangadex.org/manga/10201",
-  "last_updated": "March 15, 2021 00:25:58 UTC",
+  "last_updated": "March 18, 2021 07:12:32 UTC",
   "matches": [
     {
       "id": 3824,
       "title": "Bokura ni Matsuwaru Et Cetera",
-      "score": 0.256,
-      "r18": false
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "tr",
+        "hu",
+        "gb"
+      ]
     },
     {
       "id": 14585,
       "title": "Haikyuu!! - Usotsuki Canon (Doujinshi)",
-      "score": 0.24,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 21159,
       "title": "Tok, Tok",
-      "score": 0.2,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

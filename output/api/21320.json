@@ -2,49 +2,75 @@
   "id": 21320,
   "title": "killerror/killerror",
   "url": "https://mangadex.org/manga/21320",
-  "last_updated": "March 16, 2021 04:24:16 UTC",
+  "last_updated": "March 18, 2021 09:04:20 UTC",
   "matches": [
     {
       "id": 5804,
       "title": "Aratama Tribe",
       "score": 0.232,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 2101,
       "title": "Ao no Fuuin",
-      "score": 0.166,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4727,
       "title": "Night Walker",
-      "score": 0.166,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 10841,
       "title": "Kakei no Alice",
       "score": 0.145,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 4901,
       "title": "Trinity Blood",
       "score": 0.116,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 45140,
       "title": "Oh My Ghost",
       "score": 0.064,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 47424,
       "title": "Welcome to the Nightmare Game",
       "score": 0.061,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru"
+      ]
     }
   ]
 }

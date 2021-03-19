@@ -1,26 +1,41 @@
 {
   "id": 31121,
   "title": "Island School",
-  "url": "https://api.mangadex.org/v2/manga/31121",
-  "last_updated": "February 10, 2021 08:15:09 UTC",
+  "url": "https://mangadex.org/manga/31121",
+  "last_updated": "March 18, 2021 10:40:16 UTC",
   "matches": [
     {
       "id": 48056,
       "title": "Jinki: Extend",
-      "score": 0.272,
-      "r18": false
+      "score": 0.161,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 35170,
       "title": "Narikawari",
-      "score": 0.232,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "br"
+      ]
     },
     {
       "id": 26208,
       "title": "Gal\u2606Cleaning!",
-      "score": 0.221,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "id",
+        "mx"
+      ]
     }
   ]
 }

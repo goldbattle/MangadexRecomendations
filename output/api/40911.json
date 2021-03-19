@@ -1,158 +1,240 @@
 {
   "id": 40911,
   "title": "Danball Senki Gaiden",
-  "url": "https://api.mangadex.org/v2/manga/40911",
-  "last_updated": "February 11, 2021 08:30:52 UTC",
+  "url": "https://mangadex.org/manga/40911",
+  "last_updated": "March 18, 2021 12:01:56 UTC",
   "matches": [
+    {
+      "id": 24333,
+      "title": "Rockman Gigamix",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 22527,
+      "title": "Irregular Hunter Rockman X",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24332,
+      "title": "Rockman Megamix",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24267,
+      "title": "Rockman &amp; Forte",
+      "score": 0.265,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55074,
+      "title": "Rockman -Dr Wily's Revenge-",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20664,
+      "title": "Gasaraki",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 23329,
+      "title": "Kidou Senshi Gundam UC (Unicorn) - Bande Dessin&eacute;e: Episode 0",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 41769,
+      "title": "Kidou Senshi Gundam AGE -Second Evolution-",
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 35498,
+      "title": "Rockman 8",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59210,
+      "title": "Mashin Eiyuuden Wataru: Shichikon no Ryuujinmaru",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 49996,
+      "title": "Chou Soujuu Mecha MG",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7763,
+      "title": "JINKI",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 23330,
+      "title": "Kidou Senshi Gundam Valpurgis",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20596,
+      "title": "Buster Dress",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 32430,
+      "title": "Kidou Senshi Gundam Seed Destiny The Edge Desire",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24263,
+      "title": "Rockman X",
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24264,
+      "title": "Rockman X2",
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24265,
+      "title": "Rockman X3",
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 42556,
+      "title": "Kidou Senshi Gundam AGE -Final Evolution-",
+      "score": 0.235,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
     {
       "id": 19671,
       "title": "Sword Art Online - Project Alicization",
-      "score": 0.716,
-      "r18": false
+      "score": 0.235,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "br"
+      ]
     },
     {
-      "id": 8401,
-      "title": "Sword Art Online - Fairy Dance",
-      "score": 0.713,
-      "r18": false
+      "id": 4768,
+      "title": "Infinite Stratos - Official Anthology Comic",
+      "score": 0.234,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 12200,
-      "title": "Sword Art Online - Phantom Bullet",
-      "score": 0.709,
-      "r18": false
+      "id": 15252,
+      "title": "Hai to Gensou no Grimgar",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
-      "id": 23195,
-      "title": "The Great Ruler",
-      "score": 0.701,
-      "r18": false
+      "id": 1977,
+      "title": "Kidou Senshi Gundam Climax U.C. - Tsumugareshi Kizuna",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 23798,
-      "title": "Sword Art Online - Ordinal Scale",
-      "score": 0.698,
-      "r18": false
+      "id": 58659,
+      "title": "Sword Art Online - Material Edition: Remix",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 1360,
-      "title": "Sword Art Online - Aincrad",
-      "score": 0.695,
-      "r18": false
-    },
-    {
-      "id": 47371,
-      "title": "A Breakthrough Brought by Forbidden Master and Disciple",
-      "score": 0.688,
-      "r18": false
-    },
-    {
-      "id": 3861,
-      "title": "Super Robot Taisen OG - The Inspector - Record of ATX",
-      "score": 0.688,
-      "r18": false
-    },
-    {
-      "id": 22148,
-      "title": "Infinite Dendrogram",
-      "score": 0.685,
-      "r18": false
-    },
-    {
-      "id": 3862,
-      "title": "Super Robot Taisen OG - Divine Wars - Record of ATX",
-      "score": 0.684,
-      "r18": false
-    },
-    {
-      "id": 2844,
-      "title": "Eureka Seven",
-      "score": 0.683,
-      "r18": false
-    },
-    {
-      "id": 47385,
-      "title": "Elf Deck To Senjou Gurashi",
-      "score": 0.683,
-      "r18": false
-    },
-    {
-      "id": 46608,
-      "title": "Sword Art Online - Lycoris",
-      "score": 0.683,
-      "r18": false
-    },
-    {
-      "id": 54801,
-      "title": "One Piece Episode A",
-      "score": 0.682,
-      "r18": false
-    },
-    {
-      "id": 10974,
-      "title": "Full Metal Panic! Another",
-      "score": 0.682,
-      "r18": false
-    },
-    {
-      "id": 1386,
-      "title": "Red Eyes",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 24374,
-      "title": ".hack//Link - Tasogare no Kishidan",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 5201,
-      "title": "Bloodline - Fantasy Day",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 23842,
-      "title": "EDEN",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 5721,
-      "title": "Isekai no Seikishi Monogatari",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 34196,
-      "title": "Moto Sekai Ichi'i Subchara Ikusei Nikki: Hai Player, Isekai wo Kouryakuchuu!",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 14850,
-      "title": "Death March kara Hajimaru Isekai Kyousoukyoku",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 22816,
-      "title": "Class ga Isekai Shoukan sareta Naka Ore dake Nokotta n desu ga",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 41744,
-      "title": "Shi ni Modori, Subete wo Sukuu Tame ni Saikyou he to Itaru",
-      "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 39846,
-      "title": "Kidou Senshi Gundam AGE -First Evolution-",
-      "score": 0.674,
-      "r18": false
+      "id": 52148,
+      "title": "Shangri-La Frontier ~ Kusoge Hunter, Kamige ni Idoman to su~",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "mx"
+      ]
     }
   ]
 }

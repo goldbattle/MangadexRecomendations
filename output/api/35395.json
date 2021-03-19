@@ -1,26 +1,37 @@
 {
   "id": 35395,
   "title": "Mushoku Tensei ~Isekai Ittara Honki Dasu~ Anthology side: Roxy",
-  "url": "https://api.mangadex.org/v2/manga/35395",
-  "last_updated": "February 10, 2021 16:43:01 UTC",
+  "url": "https://mangadex.org/manga/35395",
+  "last_updated": "March 18, 2021 11:15:54 UTC",
   "matches": [
     {
       "id": 31795,
       "title": "Overlord Official Comic A La Carte",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 5237,
       "title": "Snow in the Dark",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20975,
       "title": "Toriyama Akira Marusaku Gekijou",
-      "score": 0.136,
-      "r18": false
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg"
+      ]
     }
   ]
 }

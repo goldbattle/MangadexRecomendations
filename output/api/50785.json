@@ -1,158 +1,275 @@
 {
   "id": 50785,
   "title": "I Have Twin Girlfriends",
-  "url": "https://api.mangadex.org/v2/manga/50785",
-  "last_updated": "February 05, 2021 08:29:03 UTC",
+  "url": "https://mangadex.org/manga/50785",
+  "last_updated": "March 18, 2021 13:24:29 UTC",
   "matches": [
     {
-      "id": 11049,
-      "title": "Kin no Kanojo, Gin no Kanojo",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 28422,
-      "title": "Unbalance x2: After Story",
-      "score": 0.374,
-      "r18": false
-    },
-    {
-      "id": 48401,
-      "title": "Me and My 26 Year Old Female Tenants",
-      "score": 0.339,
-      "r18": false
+      "id": 46585,
+      "title": "Ganbare, Douki-chan",
+      "score": 0.283,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "id",
+        "br",
+        "fr",
+        "tr",
+        "vn"
+      ]
     },
     {
       "id": 46895,
       "title": "Super School Doctor",
-      "score": 0.338,
-      "r18": false
-    },
-    {
-      "id": 33389,
-      "title": "Love Dependency Disease",
-      "score": 0.335,
-      "r18": false
-    },
-    {
-      "id": 46585,
-      "title": "Ganbare, Douki-chan",
-      "score": 0.333,
-      "r18": false
-    },
-    {
-      "id": 15757,
-      "title": "Cupid's Chocolates",
-      "score": 0.331,
-      "r18": false
-    },
-    {
-      "id": 52221,
-      "title": "Super Shared Boyfriend System",
-      "score": 0.329,
-      "r18": false
-    },
-    {
-      "id": 38441,
-      "title": "@17 Years Old, We Start Living Together From Today!",
-      "score": 0.326,
-      "r18": false
-    },
-    {
-      "id": 24213,
-      "title": "29 to JK",
-      "score": 0.318,
-      "r18": false
-    },
-    {
-      "id": 7238,
-      "title": "Shurabara!",
-      "score": 0.317,
-      "r18": false
-    },
-    {
-      "id": 692,
-      "title": "Open Sesame",
-      "score": 0.315,
-      "r18": false
-    },
-    {
-      "id": 12850,
-      "title": "Watari-kun no &times;&times; ga Houkai Sunzen",
-      "score": 0.314,
-      "r18": false
-    },
-    {
-      "id": 10753,
-      "title": "Koi ga Saku Koro Sakura Doki -Charming Scarlet-",
-      "score": 0.313,
-      "r18": false
-    },
-    {
-      "id": 724,
-      "title": "Pastel",
-      "score": 0.312,
-      "r18": false
+      "score": 0.277,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "br"
+      ]
     },
     {
       "id": 41732,
       "title": "Shitai no \u2661 Karen-san!!",
-      "score": 0.311,
-      "r18": false
+      "score": 0.263,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx"
+      ]
     },
     {
-      "id": 2651,
-      "title": "Denpa Kyoushi",
-      "score": 0.307,
-      "r18": false
+      "id": 48401,
+      "title": "Me and My 26 Year Old Female Tenants",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "pl"
+      ]
     },
     {
-      "id": 817,
-      "title": "Kono Naka ni Hitori, Imouto ga Iru!",
-      "score": 0.304,
-      "r18": false
+      "id": 28422,
+      "title": "Unbalance x2: After Story",
+      "score": 0.247,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx",
+        "vn"
+      ]
     },
     {
       "id": 49282,
       "title": "The Urban Flower's Vacation",
-      "score": 0.303,
-      "r18": false
+      "score": 0.238,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 905,
-      "title": "Yotsunoha",
-      "score": 0.302,
-      "r18": false
+      "id": 15757,
+      "title": "Cupid's Chocolates",
+      "score": 0.238,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 56195,
+      "title": "Love's Revenge Game",
+      "score": 0.238,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 56465,
+      "title": "Hahazuka-san wo &times;&times; ni Shitai",
+      "score": 0.238,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 33389,
+      "title": "Love Dependency Disease",
+      "score": 0.238,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru"
+      ]
+    },
+    {
+      "id": 14875,
+      "title": "BUILDER",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br"
+      ]
+    },
+    {
+      "id": 49728,
+      "title": "Breathless",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 52221,
+      "title": "Super Shared Boyfriend System",
+      "score": 0.227,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 31019,
+      "title": "The Boy in the All-Girls School",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "tr",
+        "fr",
+        "mx"
+      ]
+    },
+    {
+      "id": 50187,
+      "title": "The God of &quot;Game of Gods&quot;",
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br"
+      ]
+    },
+    {
+      "id": 12850,
+      "title": "Watari-kun no &times;&times; ga Houkai Sunzen",
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 692,
+      "title": "Open Sesame",
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 35964,
+      "title": "Boku no Kanojo Sensei",
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "mx",
+        "fr",
+        "ru",
+        "vn"
+      ]
+    },
+    {
+      "id": 736,
+      "title": "Ai Yori Aoshi",
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2651,
+      "title": "Denpa Kyoushi",
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 24213,
+      "title": "29 to JK",
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "id"
+      ]
+    },
+    {
+      "id": 655,
+      "title": "Ichigo 100%",
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 2404,
       "title": "Love Hina",
-      "score": 0.3,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 824,
-      "title": "Nozomi x Kimio",
-      "score": 0.299,
-      "r18": false
+      "id": 6641,
+      "title": "Iinazuke Kyoutei",
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 18221,
-      "title": "Amano Megumi wa Suki Darake!",
-      "score": 0.299,
-      "r18": false
-    },
-    {
-      "id": 9855,
-      "title": "Shinigami-sama to 4-nin no Kanojo",
-      "score": 0.298,
-      "r18": false
-    },
-    {
-      "id": 17888,
-      "title": "Amentia",
-      "score": 0.296,
-      "r18": false
+      "id": 724,
+      "title": "Pastel",
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it",
+        "fr"
+      ]
     }
   ]
 }

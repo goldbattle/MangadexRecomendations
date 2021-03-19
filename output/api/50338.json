@@ -1,14 +1,20 @@
 {
   "id": 50338,
   "title": "Laika no Hoshi",
-  "url": "https://api.mangadex.org/v2/manga/50338",
-  "last_updated": "February 05, 2021 08:22:05 UTC",
+  "url": "https://mangadex.org/manga/50338",
+  "last_updated": "March 18, 2021 13:20:46 UTC",
   "matches": [
     {
       "id": 19376,
       "title": "Nogi Wakaba wa Yuusha de Aru",
-      "score": 0.256,
-      "r18": false
+      "score": 0.154,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "mx",
+        "br"
+      ]
     }
   ]
 }

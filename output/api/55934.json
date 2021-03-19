@@ -2,25 +2,31 @@
   "id": 55934,
   "title": "Akatsuki no Kabanegari",
   "url": "https://mangadex.org/manga/55934",
-  "last_updated": "March 13, 2021 00:19:56 UTC",
+  "last_updated": "March 18, 2021 14:07:31 UTC",
   "matches": [
     {
       "id": 21629,
       "title": "Ren'ai Harem Game Shuuryou no Oshirase ga Kuru Koro ni",
       "score": 0.144,
-      "r18": false
-    },
-    {
-      "id": 38049,
-      "title": "Franken Fran Frantic",
-      "score": 0.132,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 9905,
       "title": "UQ Holder!",
-      "score": 0.082,
-      "r18": false
+      "score": 0.081,
+      "r18": false,
+      "languages": [
+        "id",
+        "it",
+        "br",
+        "gb",
+        "mx"
+      ]
     }
   ]
 }

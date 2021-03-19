@@ -1,62 +1,101 @@
 {
   "id": 43521,
   "title": "Dog Nigga",
-  "url": "https://api.mangadex.org/v2/manga/43521",
-  "last_updated": "February 11, 2021 16:26:12 UTC",
+  "url": "https://mangadex.org/manga/43521",
+  "last_updated": "March 18, 2021 12:23:42 UTC",
   "matches": [
     {
       "id": 3021,
       "title": "City of the Dead Sorcerer",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 14660,
-      "title": "Sasori",
-      "score": 0.208,
-      "r18": false
+      "score": 0.102,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "fr"
+      ]
     },
     {
       "id": 35479,
       "title": "Fukushuu Kansuisha no Jinsei Nishuume Isekaitan",
-      "score": 0.2,
-      "r18": false
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "ru"
+      ]
     },
     {
-      "id": 38042,
-      "title": "Nightmare World",
-      "score": 0.189,
-      "r18": false
+      "id": 21604,
+      "title": "Next Life",
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 9228,
-      "title": "Mother Sarah",
-      "score": 0.188,
-      "r18": false
-    },
-    {
-      "id": 170,
-      "title": "Soil",
-      "score": 0.169,
-      "r18": false
-    },
-    {
-      "id": 19141,
-      "title": "Dungeon Seeker",
-      "score": 0.161,
-      "r18": false
-    },
-    {
-      "id": 20535,
-      "title": "Gaikou Kakkaku",
-      "score": 0.144,
-      "r18": false
+      "id": 14660,
+      "title": "Sasori",
+      "score": 0.099,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 56285,
       "title": "Full Stealth Camouflage Little Matchstick Girl",
-      "score": 0.143,
-      "r18": false
+      "score": 0.092,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19141,
+      "title": "Dungeon Seeker",
+      "score": 0.073,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru",
+        "fr",
+        "id",
+        "it"
+      ]
+    },
+    {
+      "id": 9228,
+      "title": "Mother Sarah",
+      "score": 0.073,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 170,
+      "title": "Soil",
+      "score": 0.073,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 20535,
+      "title": "Gaikou Kakkaku",
+      "score": 0.073,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

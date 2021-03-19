@@ -2,43 +2,64 @@
   "id": 6159,
   "title": "/Blush-DC ~Hi&hearts;mitsu~",
   "url": "https://mangadex.org/manga/6159",
-  "last_updated": "March 14, 2021 12:47:23 UTC",
+  "last_updated": "March 18, 2021 06:38:08 UTC",
   "matches": [
     {
       "id": 38738,
       "title": "Kimi ni Aisarete Itakatta",
       "score": 0.277,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "hk",
+        "ru"
+      ]
     },
     {
       "id": 6925,
       "title": "Himegoto - Juukyuusai no Seifuku",
-      "score": 0.275,
-      "r18": false
-    },
-    {
-      "id": 34368,
-      "title": "Yukionna to Kani wo Kuu",
-      "score": 0.232,
-      "r18": false
+      "score": 0.274,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "pl",
+        "it"
+      ]
     },
     {
       "id": 22727,
       "title": "Tsumi to Kai",
-      "score": 0.226,
-      "r18": false
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "tr",
+        "mx",
+        "id"
+      ]
     },
     {
       "id": 33861,
       "title": "Kingyotsuma",
-      "score": 0.187,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 282,
       "title": "Wolf Guy - Ookami no Monshou",
-      "score": 0.183,
-      "r18": false
+      "score": 0.182,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "it"
+      ]
     }
   ]
 }

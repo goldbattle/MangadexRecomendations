@@ -2,37 +2,70 @@
   "id": 4930,
   "title": "Devilman G",
   "url": "https://mangadex.org/manga/4930",
-  "last_updated": "March 14, 2021 12:28:25 UTC",
+  "last_updated": "March 18, 2021 06:26:54 UTC",
   "matches": [
     {
       "id": 10771,
       "title": "Susanoou",
       "score": 0.222,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 13525,
+      "title": "DEAD Tube",
+      "score": 0.153,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "it",
+        "pl",
+        "de",
+        "sa",
+        "tr"
+      ]
+    },
+    {
+      "id": 47326,
+      "title": "Genkai Level 1 kara no Nariagari: Saijaku Level no Ore ga Isekai Saikyou ni Naru made",
+      "score": 0.148,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 29755,
       "title": "Demon War Chronicles",
-      "score": 0.143,
-      "r18": false
+      "score": 0.142,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 16669,
       "title": "Appli-Trap",
       "score": 0.13,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 26401,
       "title": "Jinrouki Winvurga",
       "score": 0.13,
-      "r18": false
-    },
-    {
-      "id": 13525,
-      "title": "DEAD Tube",
-      "score": 0.123,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     }
   ]
 }

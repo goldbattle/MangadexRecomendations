@@ -2,157 +2,266 @@
   "id": 25894,
   "title": "Stripe Blue",
   "url": "https://mangadex.org/manga/25894",
-  "last_updated": "March 16, 2021 16:36:23 UTC",
+  "last_updated": "March 18, 2021 09:56:37 UTC",
   "matches": [
     {
       "id": 1268,
       "title": "Ice Revolution",
-      "score": 0.336,
-      "r18": false
-    },
-    {
-      "id": 230,
-      "title": "Mr. Fullswing",
-      "score": 0.309,
-      "r18": false
+      "score": 0.335,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "de",
+        "ru",
+        "it"
+      ]
     },
     {
       "id": 32379,
       "title": "Field no Hanako-san",
-      "score": 0.307,
-      "r18": false
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3121,
       "title": "Hand's",
-      "score": 0.305,
-      "r18": false
+      "score": 0.304,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5152,
       "title": "Blizzard Axel",
       "score": 0.294,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 10453,
       "title": "Ping Pong Dash",
       "score": 0.287,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 15128,
       "title": "Shura no Mon Iden - Fudekage",
       "score": 0.275,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 230,
+      "title": "Mr. Fullswing",
+      "score": 0.26,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3821,
       "title": "Angel Voice",
-      "score": 0.242,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3825,
       "title": "Buzzer Beater",
-      "score": 0.24,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "fr"
+      ]
     },
     {
       "id": 52431,
       "title": "Ao no Hako",
-      "score": 0.232,
-      "r18": false
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "th",
+        "br",
+        "id",
+        "sa",
+        "fr"
+      ]
     },
     {
       "id": 145,
       "title": "Smash!",
       "score": 0.23,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 58009,
       "title": "Ao no Rettou",
       "score": 0.23,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2327,
       "title": "Angry",
       "score": 0.228,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6256,
       "title": "Cross Manage",
-      "score": 0.227,
-      "r18": false
+      "score": 0.226,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br",
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 13168,
       "title": "Henshin Ganbo",
-      "score": 0.226,
-      "r18": false
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "it",
+        "br",
+        "es"
+      ]
     },
     {
       "id": 5520,
       "title": "Balance Days",
       "score": 0.225,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4581,
       "title": "Blazing Transfer Student",
       "score": 0.217,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 927,
+      "title": "Major",
+      "score": 0.216,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "fr",
+        "br"
+      ]
     },
     {
       "id": 708,
       "title": "Buyuden",
       "score": 0.215,
-      "r18": false
-    },
-    {
-      "id": 927,
-      "title": "Major",
-      "score": 0.215,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr"
+      ]
     },
     {
       "id": 838,
       "title": "Donten Prism Solar Car",
-      "score": 0.214,
-      "r18": false
+      "score": 0.213,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "br",
+        "it"
+      ]
     },
     {
       "id": 10040,
       "title": "Sweet Poolside",
-      "score": 0.21,
-      "r18": false
-    },
-    {
-      "id": 1385,
-      "title": "H2",
-      "score": 0.208,
-      "r18": false
-    },
-    {
-      "id": 6336,
-      "title": "Hakaiou Noritaka!",
-      "score": 0.206,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "pl"
+      ]
     },
     {
       "id": 1284,
       "title": "Nine",
-      "score": 0.202,
-      "r18": false
+      "score": 0.201,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 1281,
+      "title": "Touch",
+      "score": 0.201,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
     },
     {
       "id": 352,
       "title": "Over Drive",
-      "score": 0.199,
-      "r18": false
+      "score": 0.198,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 670,
+      "title": "Full Contact",
+      "score": 0.196,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

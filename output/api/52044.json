@@ -1,38 +1,18 @@
 {
   "id": 52044,
   "title": "The Devil",
-  "url": "https://api.mangadex.org/v2/manga/52044",
-  "last_updated": "February 05, 2021 12:17:57 UTC",
+  "url": "https://mangadex.org/manga/52044",
+  "last_updated": "March 18, 2021 13:35:01 UTC",
   "matches": [
-    {
-      "id": 40487,
-      "title": "The God of Calamity Wishes for Naught",
-      "score": 0.279,
-      "r18": false
-    },
-    {
-      "id": 1381,
-      "title": "Kanon",
-      "score": 0.271,
-      "r18": false
-    },
     {
       "id": 37395,
       "title": "The View Beyond",
-      "score": 0.245,
-      "r18": false
-    },
-    {
-      "id": 9740,
-      "title": "Tsumetaku, Amai",
-      "score": 0.215,
-      "r18": false
-    },
-    {
-      "id": 17094,
-      "title": "Saraba, Yoki Hi",
-      "score": 0.19,
-      "r18": false
+      "score": 0.136,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     }
   ]
 }

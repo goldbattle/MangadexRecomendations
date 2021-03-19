@@ -1,158 +1,246 @@
 {
   "id": 43755,
   "title": "Wild Fish",
-  "url": "https://api.mangadex.org/v2/manga/43755",
-  "last_updated": "February 11, 2021 16:30:02 UTC",
+  "url": "https://mangadex.org/manga/43755",
+  "last_updated": "March 18, 2021 12:25:40 UTC",
   "matches": [
     {
-      "id": 55745,
-      "title": "Gensou Shounen Koimonogatari",
-      "score": 0.683,
-      "r18": false
-    },
-    {
-      "id": 7329,
-      "title": "Natsu, Kimi ga Saku.",
-      "score": 0.668,
-      "r18": false
-    },
-    {
-      "id": 36782,
-      "title": "Namida mo Tooku -Aonibi no Nemuri-",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 22181,
-      "title": "Ookami Papa wa Hitsuji Tsura Shite Yatte Kuru",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 25005,
-      "title": "Hakoniwa",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 9393,
-      "title": "Akuma\u2605Game",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 55763,
-      "title": "Hashire! Ouji-sama",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 15501,
-      "title": "Feng Yu Jiu Tian",
-      "score": 0.65,
-      "r18": false
+      "id": 53599,
+      "title": "Hetare Maou to Tsundere Yuusha",
+      "score": 0.327,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 59267,
       "title": "Kitsune no Omuko-san",
-      "score": 0.482,
-      "r18": false
-    },
-    {
-      "id": 53599,
-      "title": "Hetare Maou to Tsundere Yuusha",
-      "score": 0.458,
-      "r18": false
+      "score": 0.325,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 34469,
       "title": "Claws of the Waves",
-      "score": 0.403,
-      "r18": false
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22515,
       "title": "Shitsuji Game",
-      "score": 0.377,
-      "r18": false
-    },
-    {
-      "id": 29112,
-      "title": "Yami ni Tooboe, Mune ni Toge",
-      "score": 0.346,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8069,
       "title": "Koketsu Dining",
-      "score": 0.343,
-      "r18": false
-    },
-    {
-      "id": 16208,
-      "title": "Kyouken Breeder",
-      "score": 0.337,
-      "r18": false
-    },
-    {
-      "id": 33708,
-      "title": "Saru to Momo",
-      "score": 0.327,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8937,
       "title": "Koisuru Bicchi-kun",
-      "score": 0.325,
-      "r18": false
-    },
-    {
-      "id": 26296,
-      "title": "I, the Emperor, am not a Superstar",
-      "score": 0.325,
-      "r18": false
-    },
-    {
-      "id": 27056,
-      "title": "Devil x Devil",
-      "score": 0.32,
-      "r18": false
-    },
-    {
-      "id": 12828,
-      "title": "Ayashi no Kimi no Koiwazurai",
-      "score": 0.319,
-      "r18": false
-    },
-    {
-      "id": 20732,
-      "title": "Vampire and Hunter",
-      "score": 0.303,
-      "r18": false
-    },
-    {
-      "id": 24125,
-      "title": "Demon Baby Diary",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 26028,
-      "title": "Hoshii Mono Zenbu",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 20194,
-      "title": "Getsuei",
-      "score": 0.269,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 57200,
       "title": "Elf and Orc BL",
-      "score": 0.265,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 26028,
+      "title": "Hoshii Mono Zenbu",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24125,
+      "title": "Demon Baby Diary",
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 25005,
+      "title": "Hakoniwa",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 22181,
+      "title": "Ookami Papa wa Hitsuji Tsura Shite Yatte Kuru",
+      "score": 0.227,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 16208,
+      "title": "Kyouken Breeder",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 29112,
+      "title": "Yami ni Tooboe, Mune ni Toge",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 27056,
+      "title": "Devil x Devil",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 33708,
+      "title": "Saru to Momo",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 12828,
+      "title": "Ayashi no Kimi no Koiwazurai",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9393,
+      "title": "Akuma\u2605Game",
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55763,
+      "title": "Hashire! Ouji-sama",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 36782,
+      "title": "Namida mo Tooku -Aonibi no Nemuri-",
+      "score": 0.204,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 26296,
+      "title": "I, the Emperor, am not a Superstar",
+      "score": 0.196,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20732,
+      "title": "Vampire and Hunter",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "hu"
+      ]
+    },
+    {
+      "id": 55745,
+      "title": "Gensou Shounen Koimonogatari",
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7329,
+      "title": "Natsu, Kimi ga Saku.",
+      "score": 0.164,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 15501,
+      "title": "Feng Yu Jiu Tian",
+      "score": 0.153,
+      "r18": false,
+      "languages": [
+        "fr",
+        "it",
+        "gb"
+      ]
+    },
+    {
+      "id": 20194,
+      "title": "Getsuei",
+      "score": 0.148,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -1,80 +1,140 @@
 {
   "id": 44888,
   "title": "Dreaming renaissance",
-  "url": "https://api.mangadex.org/v2/manga/44888",
-  "last_updated": "February 11, 2021 16:48:26 UTC",
+  "url": "https://mangadex.org/manga/44888",
+  "last_updated": "March 18, 2021 12:35:08 UTC",
   "matches": [
     {
       "id": 49077,
       "title": "Didn&rsquo;t I Say to Make My Abilities Average in the Next Life?! Everyday Misadventures!",
-      "score": 0.13,
-      "r18": false
+      "score": 0.126,
+      "r18": false,
+      "languages": [
+        "gb",
+        "cn",
+        "th",
+        "mx"
+      ]
     },
     {
       "id": 50648,
       "title": "Tate no Yuusha no Nariagari Aiya Kyu Special Works - Yuusha no Shoukan",
-      "score": 0.111,
-      "r18": false
+      "score": 0.108,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 23994,
       "title": "Bokura no Meikyu",
-      "score": 0.098,
-      "r18": false
+      "score": 0.095,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 31092,
       "title": "Game no Naka ni Iru!",
-      "score": 0.098,
-      "r18": false
+      "score": 0.095,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 31183,
       "title": "Tensura Nikki Tensei Shitara Slime Datta Ken",
-      "score": 0.087,
-      "r18": false
+      "score": 0.084,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru",
+        "br",
+        "it",
+        "fr"
+      ]
     },
     {
       "id": 41961,
       "title": "Mushoku Tensei ~Even if it's a 4-koma, I'll Get Serious~",
-      "score": 0.087,
-      "r18": false
-    },
-    {
-      "id": 54458,
-      "title": "Tate no Yuusha No Nariagari - Mobile Game Short Comics",
-      "score": 0.087,
-      "r18": false
+      "score": 0.084,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru"
+      ]
     },
     {
       "id": 36505,
       "title": "Tenchura! Tensei Shitara Slime Datta Ken",
-      "score": 0.078,
-      "r18": false
+      "score": 0.076,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "id"
+      ]
+    },
+    {
+      "id": 54458,
+      "title": "Tate no Yuusha No Nariagari - Mobile Game Short Comics",
+      "score": 0.076,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 50755,
       "title": "Kage no Jitsuryokusha ni Naritakute! Shadow Gaiden",
-      "score": 0.065,
-      "r18": false
+      "score": 0.063,
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb"
+      ]
     },
     {
       "id": 59105,
       "title": "Genshin Impact 4-koma",
-      "score": 0.065,
-      "r18": false
+      "score": 0.063,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 49207,
       "title": "Arte x My Next Life as a Villainess: All Routes Lead to Doom!",
-      "score": 0.06,
-      "r18": false
+      "score": 0.058,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "tr",
+        "it",
+        "ru",
+        "id",
+        "fr"
+      ]
     },
     {
       "id": 48294,
       "title": "Land of Heroes",
-      "score": 0.056,
-      "r18": false
+      "score": 0.054,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "br"
+      ]
     }
   ]
 }

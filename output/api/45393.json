@@ -1,68 +1,139 @@
 {
   "id": 45393,
   "title": "Shogun Tofu",
-  "url": "https://api.mangadex.org/v2/manga/45393",
-  "last_updated": "February 11, 2021 20:25:06 UTC",
+  "url": "https://mangadex.org/manga/45393",
+  "last_updated": "March 18, 2021 12:39:22 UTC",
   "matches": [
     {
       "id": 34155,
       "title": "Mouryou Shoujo",
-      "score": 0.113,
-      "r18": false
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn",
+        "mx"
+      ]
     },
     {
       "id": 48127,
       "title": "The Bushi",
-      "score": 0.113,
-      "r18": false
-    },
-    {
-      "id": 5397,
-      "title": "Kozure Ookami",
-      "score": 0.085,
-      "r18": false
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7929,
       "title": "Violence Jack - Sengoku Majinden",
-      "score": 0.085,
-      "r18": false
+      "score": 0.069,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 10824,
       "title": "Assassine",
-      "score": 0.085,
-      "r18": false
+      "score": 0.069,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 12588,
       "title": "Gunjou Senki",
-      "score": 0.076,
-      "r18": false
+      "score": 0.062,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 22144,
       "title": "Issak",
-      "score": 0.076,
-      "r18": false
+      "score": 0.062,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "br",
+        "ru"
+      ]
+    },
+    {
+      "id": 44496,
+      "title": "Gantz:E",
+      "score": 0.055,
+      "r18": false,
+      "languages": [
+        "gb",
+        "th",
+        "mx",
+        "br",
+        "hk",
+        "tr",
+        "ru",
+        "hu",
+        "it",
+        "sa",
+        "pl"
+      ]
     },
     {
       "id": 4629,
       "title": "Burning Hell",
-      "score": 0.062,
-      "r18": false
+      "score": 0.05,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu"
+      ]
     },
     {
       "id": 20167,
       "title": "The Seiten Wars Flieder Bug",
-      "score": 0.062,
-      "r18": false
+      "score": 0.05,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 16663,
       "title": "Golden Kamuy",
-      "score": 0.052,
-      "r18": false
+      "score": 0.037,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa",
+        "ru",
+        "id",
+        " ",
+        "se",
+        "ro",
+        "it",
+        "br",
+        "pl",
+        "hu",
+        "il"
+      ]
+    },
+    {
+      "id": 34621,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana",
+      "score": 0.032,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "hu"
+      ]
     }
   ]
 }

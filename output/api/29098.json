@@ -2,31 +2,35 @@
   "id": 29098,
   "title": "Mayonaka no Acchimono",
   "url": "https://mangadex.org/manga/29098",
-  "last_updated": "March 17, 2021 00:47:54 UTC",
+  "last_updated": "March 18, 2021 10:23:24 UTC",
   "matches": [
     {
       "id": 12818,
       "title": "Konoyo Ibun",
       "score": 0.231,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 47986,
       "title": "The Night Is Always Bright",
-      "score": 0.188,
-      "r18": false
-    },
-    {
-      "id": 47454,
-      "title": "You Yao lai zhi hua zhong xian",
-      "score": 0.125,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 57866,
       "title": "Urban Legend",
-      "score": 0.1,
-      "r18": false
+      "score": 0.099,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -1,146 +1,105 @@
 {
   "id": 52127,
   "title": "Arasa Onna Yuusha to Shota Orc",
-  "url": "https://api.mangadex.org/v2/manga/52127",
-  "last_updated": "February 05, 2021 12:19:18 UTC",
+  "url": "https://mangadex.org/manga/52127",
+  "last_updated": "March 18, 2021 13:35:42 UTC",
   "matches": [
-    {
-      "id": 36408,
-      "title": "Slime Tensei. Daikenja ga Youjo Elf ni Dakishimeraretemasu",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 55065,
-      "title": "Hai no Futago wa Shirokuro tsukezu ni Sekai wo Sukuimasu.",
-      "score": 0.411,
-      "r18": false
-    },
-    {
-      "id": 47166,
-      "title": "I Want To Seduce The Hero Kemonar!",
-      "score": 0.384,
-      "r18": false
-    },
     {
       "id": 37168,
       "title": "Nukenai Seiken-chan",
-      "score": 0.359,
-      "r18": false
-    },
-    {
-      "id": 36273,
-      "title": "Keizoku wa Maryoku Nari",
-      "score": 0.328,
-      "r18": false
+      "score": 0.244,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hk",
+        "mx",
+        "br",
+        "fr",
+        "ru",
+        "id"
+      ]
     },
     {
       "id": 35909,
       "title": "Jitsu wa Ore, Saikyou Deshita?",
-      "score": 0.327,
-      "r18": false
-    },
-    {
-      "id": 44450,
-      "title": "Kaettekita Motoyuusha",
-      "score": 0.326,
-      "r18": false
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr",
+        "br",
+        "mx",
+        "id"
+      ]
     },
     {
       "id": 30298,
       "title": "Isekai no Meikyuu Toshi de Chiyu Mahoutsukai Yattemasu",
-      "score": 0.312,
-      "r18": false
+      "score": 0.212,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "id",
+        "mx"
+      ]
     },
     {
-      "id": 39227,
-      "title": "The Church in Front of the Devil&rsquo;s Castle",
-      "score": 0.312,
-      "r18": false
-    },
-    {
-      "id": 544,
-      "title": "Tonari no Randoseru W",
-      "score": 0.298,
-      "r18": false
-    },
-    {
-      "id": 23716,
-      "title": "Wanwan Monogatari ~Kanemochi no Inu n shite to wa Itta ga, Fenrir ni shiro to wa Itte nee!~",
-      "score": 0.297,
-      "r18": false
+      "id": 36273,
+      "title": "Keizoku wa Maryoku Nari",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru",
+        "id"
+      ]
     },
     {
       "id": 26310,
       "title": "Waga Itoshi no Wota Kanojo",
-      "score": 0.296,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "id"
+      ]
     },
     {
-      "id": 2749,
-      "title": "Fate/kaleid liner PRISMA\u2606ILLYA 2wei!",
-      "score": 0.295,
-      "r18": false
+      "id": 23716,
+      "title": "Wanwan Monogatari ~Kanemochi no Inu n shite to wa Itta ga, Fenrir ni shiro to wa Itte nee!~",
+      "score": 0.184,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "id",
+        "br",
+        "mx",
+        "fr"
+      ]
     },
     {
-      "id": 22369,
-      "title": "Jahy-sama wa Kujikenai!",
-      "score": 0.292,
-      "r18": false
-    },
-    {
-      "id": 2728,
-      "title": "Fate/kaleid liner PRISMA\u2606ILLYA",
-      "score": 0.288,
-      "r18": false
-    },
-    {
-      "id": 55864,
-      "title": "Yuki no Niiduma wa Boku to Tokeaitai",
-      "score": 0.286,
-      "r18": false
-    },
-    {
-      "id": 55284,
-      "title": "Gahi-chan!",
-      "score": 0.278,
-      "r18": false
-    },
-    {
-      "id": 49639,
-      "title": "Alice no Hanamuko",
-      "score": 0.268,
-      "r18": false
-    },
-    {
-      "id": 52210,
-      "title": "Osanai Fusai wa Itonamitai",
-      "score": 0.258,
-      "r18": false
-    },
-    {
-      "id": 47196,
-      "title": "Movie star and pan",
-      "score": 0.251,
-      "r18": false
-    },
-    {
-      "id": 14598,
-      "title": "My Love Tiger",
-      "score": 0.251,
-      "r18": false
-    },
-    {
-      "id": 12546,
-      "title": "Myuu &amp; I",
-      "score": 0.234,
-      "r18": false
-    },
-    {
-      "id": 20615,
-      "title": "Yuusha-sama, Yukagen wa Ikaga desu ka?",
-      "score": 0.175,
-      "r18": false
+      "id": 29270,
+      "title": "Fairy Tail: 100 Years Quest",
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "vn",
+        "pl",
+        "br",
+        "sa",
+        "it",
+        "de",
+        "ru",
+        "th",
+        "id"
+      ]
     }
   ]
 }

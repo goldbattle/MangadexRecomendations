@@ -2,31 +2,37 @@
   "id": 38763,
   "title": "Rakka Ryuusui no Hoshi",
   "url": "https://mangadex.org/manga/38763",
-  "last_updated": "March 18, 2021 04:14:23 UTC",
+  "last_updated": "March 18, 2021 11:44:01 UTC",
   "matches": [
     {
       "id": 34849,
       "title": "Rumble Rush",
-      "score": 0.269,
-      "r18": false
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 27242,
       "title": "Touch Me Again",
-      "score": 0.226,
-      "r18": false
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 18992,
       "title": "Coyote",
       "score": 0.214,
-      "r18": false
-    },
-    {
-      "id": 39264,
-      "title": "May Belongs to Me",
-      "score": 0.167,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "tr"
+      ]
     }
   ]
 }

@@ -2,31 +2,44 @@
   "id": 25259,
   "title": "Ginkaku Hakushi to Marmot",
   "url": "https://mangadex.org/manga/25259",
-  "last_updated": "March 16, 2021 16:29:03 UTC",
+  "last_updated": "March 18, 2021 09:50:32 UTC",
   "matches": [
     {
       "id": 57854,
       "title": "Invoke",
       "score": 0.2,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 15364,
       "title": "Kawaigatte Kudasai",
-      "score": 0.14,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 31208,
       "title": "Hot and Cold",
       "score": 0.133,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
     },
     {
       "id": 17332,
       "title": "Yannacchaukurai Aishiteru",
       "score": 0.133,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

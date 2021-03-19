@@ -2,37 +2,46 @@
   "id": 1867,
   "title": "Zero no Soukoushi",
   "url": "https://mangadex.org/manga/1867",
-  "last_updated": "March 14, 2021 04:18:37 UTC",
+  "last_updated": "March 18, 2021 05:58:32 UTC",
   "matches": [
-    {
-      "id": 40540,
-      "title": "Alice ni Onegai",
-      "score": 0.28,
-      "r18": false
-    },
     {
       "id": 48988,
       "title": "Prometheus Vinctus",
       "score": 0.192,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 24051,
       "title": "Banana Fish",
       "score": 0.175,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "fr",
+        "sa"
+      ]
     },
     {
       "id": 3816,
       "title": "Storm",
       "score": 0.175,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 52736,
       "title": "Dark Fragrance",
       "score": 0.126,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

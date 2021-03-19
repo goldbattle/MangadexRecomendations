@@ -1,14 +1,20 @@
 {
   "id": 54237,
   "title": "Priconne! Re:Dive",
-  "url": "https://api.mangadex.org/v2/manga/54237",
-  "last_updated": "March 12, 2021 20:23:08 UTC",
+  "url": "https://mangadex.org/manga/54237",
+  "last_updated": "March 18, 2021 13:53:19 UTC",
   "matches": [
     {
       "id": 14942,
       "title": "Hshs Sasero!!",
-      "score": 0.168,
-      "r18": false
+      "score": 0.137,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru",
+        "br"
+      ]
     }
   ]
 }

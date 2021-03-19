@@ -1,38 +1,44 @@
 {
   "id": 32113,
   "title": "VA-11 HALL-A - The Wandering Ghost of Glitch City (Doujinshi)",
-  "url": "https://api.mangadex.org/v2/manga/32113",
-  "last_updated": "February 10, 2021 08:30:35 UTC",
+  "url": "https://mangadex.org/manga/32113",
+  "last_updated": "March 18, 2021 10:48:32 UTC",
   "matches": [
-    {
-      "id": 26196,
-      "title": "Mirio no Sora",
-      "score": 0.23,
-      "r18": false
-    },
     {
       "id": 26612,
       "title": "Alien Nine Next",
-      "score": 0.172,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 37051,
       "title": "Satori",
-      "score": 0.153,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 32265,
       "title": "Azur Lane - A Journal (Doujinshi)",
-      "score": 0.138,
-      "r18": false
+      "score": 0.115,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 27321,
       "title": "Prototype:Zero",
-      "score": 0.092,
-      "r18": false
+      "score": 0.077,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

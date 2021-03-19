@@ -2,25 +2,38 @@
   "id": 29549,
   "title": "Konohana",
   "url": "https://mangadex.org/manga/29549",
-  "last_updated": "January 13, 2021 06:56:35 UTC",
+  "last_updated": "March 18, 2021 10:27:09 UTC",
   "matches": [
-    {
-      "id": 23970,
-      "title": "Assistant Romance Keika",
-      "score": 0.35,
-      "r18": false
-    },
     {
       "id": 6259,
       "title": "Saigo no Seihonnou to Suibakusen",
-      "score": 0.326,
-      "r18": false
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 23970,
+      "title": "Assistant Romance Keika",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 13262,
       "title": "Hen na Nee-san",
-      "score": 0.283,
-      "r18": false
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "it",
+        "es",
+        "gb",
+        "fr"
+      ]
     }
   ]
 }

@@ -1,38 +1,63 @@
 {
   "id": 47648,
   "title": "Boku to Akumu to Oneesan",
-  "url": "https://api.mangadex.org/v2/manga/47648",
-  "last_updated": "February 12, 2021 01:14:53 UTC",
+  "url": "https://mangadex.org/manga/47648",
+  "last_updated": "March 18, 2021 12:58:13 UTC",
   "matches": [
     {
       "id": 34571,
       "title": "Tokyo Mercenary Soldiers Co., LTD",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb"
+      ]
     },
     {
       "id": 11986,
       "title": "Tenkuu Shinpan",
-      "score": 0.153,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "it",
+        "pl"
+      ]
     },
     {
       "id": 21629,
       "title": "Ren'ai Harem Game Shuuryou no Oshirase ga Kuru Koro ni",
-      "score": 0.14,
-      "r18": false
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 184,
       "title": "Ushio to Tora",
-      "score": 0.07,
-      "r18": false
+      "score": 0.06,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 9905,
       "title": "UQ Holder!",
-      "score": 0.06,
-      "r18": false
+      "score": 0.05,
+      "r18": false,
+      "languages": [
+        "id",
+        "it",
+        "br",
+        "gb",
+        "mx"
+      ]
     }
   ]
 }

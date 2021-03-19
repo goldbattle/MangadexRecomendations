@@ -2,19 +2,24 @@
   "id": 3291,
   "title": "Dokuro no Yakata",
   "url": "https://mangadex.org/manga/3291",
-  "last_updated": "March 14, 2021 08:17:34 UTC",
+  "last_updated": "March 18, 2021 06:11:25 UTC",
   "matches": [
-    {
-      "id": 18935,
-      "title": "Goblin Slayer",
-      "score": 0.121,
-      "r18": false
-    },
     {
       "id": 607,
       "title": "Berserk",
-      "score": 0.095,
-      "r18": false
+      "score": 0.094,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it",
+        "mx",
+        "tr",
+        "sa",
+        "ru",
+        "fr",
+        "hk"
+      ]
     }
   ]
 }

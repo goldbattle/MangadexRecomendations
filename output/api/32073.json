@@ -1,158 +1,263 @@
 {
   "id": 32073,
   "title": "Analog",
-  "url": "https://api.mangadex.org/v2/manga/32073",
-  "last_updated": "February 10, 2021 08:29:59 UTC",
+  "url": "https://mangadex.org/manga/32073",
+  "last_updated": "March 18, 2021 10:48:12 UTC",
   "matches": [
     {
       "id": 19623,
       "title": "Double Date",
-      "score": 0.349,
-      "r18": true
+      "score": 0.275,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 32567,
       "title": "Rain Curtain",
-      "score": 0.323,
-      "r18": true
+      "score": 0.262,
+      "r18": true,
+      "languages": [
+        "gb",
+        "ph"
+      ]
     },
     {
       "id": 23434,
       "title": "Angel's Tears",
-      "score": 0.303,
-      "r18": true
+      "score": 0.262,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 50789,
       "title": "Soothe Me",
-      "score": 0.293,
-      "r18": true
-    },
-    {
-      "id": 52213,
-      "title": "Returning Girlfriend",
-      "score": 0.288,
-      "r18": true
-    },
-    {
-      "id": 32490,
-      "title": "First Experience",
-      "score": 0.287,
-      "r18": true
-    },
-    {
-      "id": 23514,
-      "title": "My Office Ladies",
-      "score": 0.272,
-      "r18": true
-    },
-    {
-      "id": 31924,
-      "title": "Domesticate the Housekeeper",
-      "score": 0.265,
-      "r18": true
-    },
-    {
-      "id": 50533,
-      "title": "Maidens In-Law",
-      "score": 0.264,
-      "r18": true
-    },
-    {
-      "id": 18881,
-      "title": "The Taste of Hands",
-      "score": 0.261,
-      "r18": true
-    },
-    {
-      "id": 50506,
-      "title": "Should I Study at Noryangjin?",
-      "score": 0.261,
-      "r18": true
-    },
-    {
-      "id": 19850,
-      "title": "Miss Mystic",
-      "score": 0.251,
-      "r18": true
-    },
-    {
-      "id": 59748,
-      "title": "Is There an Empty Room?",
-      "score": 0.249,
-      "r18": true
-    },
-    {
-      "id": 30663,
-      "title": "Cohabitation!",
-      "score": 0.249,
-      "r18": true
-    },
-    {
-      "id": 19847,
-      "title": "Scandal of the Witch",
-      "score": 0.245,
-      "r18": true
+      "score": 0.209,
+      "r18": true,
+      "languages": [
+        "gb",
+        "sa",
+        "pl",
+        "fr"
+      ]
     },
     {
       "id": 29151,
       "title": "Secret Island",
-      "score": 0.24,
-      "r18": true
+      "score": 0.209,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 58252,
+      "title": "Love Limit Exceeded",
+      "score": 0.207,
+      "r18": true,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 52213,
+      "title": "Returning Girlfriend",
+      "score": 0.207,
+      "r18": true,
+      "languages": [
+        "gb",
+        "fr",
+        "ru",
+        "br"
+      ]
     },
     {
       "id": 23470,
       "title": "This Doesn't Feel Like Me",
-      "score": 0.239,
-      "r18": true
+      "score": 0.207,
+      "r18": true,
+      "languages": [
+        "gb",
+        "mx",
+        "tr",
+        "es",
+        "sa"
+      ]
     },
     {
-      "id": 36476,
-      "title": "Lust Awakening",
-      "score": 0.236,
-      "r18": true
+      "id": 32490,
+      "title": "First Experience",
+      "score": 0.203,
+      "r18": true,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
-      "id": 27654,
-      "title": "Sextealer",
-      "score": 0.233,
-      "r18": true
+      "id": 59748,
+      "title": "Is There an Empty Room?",
+      "score": 0.194,
+      "r18": true,
+      "languages": [
+        "gb",
+        "it",
+        "br",
+        "fr"
+      ]
     },
     {
-      "id": 40245,
-      "title": "Sister Neighbors",
-      "score": 0.231,
-      "r18": true
+      "id": 31924,
+      "title": "Domesticate the Housekeeper",
+      "score": 0.185,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 30910,
-      "title": "Redemption Camp",
-      "score": 0.226,
-      "r18": true
+      "id": 23514,
+      "title": "My Office Ladies",
+      "score": 0.181,
+      "r18": true,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
-      "id": 20141,
-      "title": "Erotic Sensuality &amp; Perception",
-      "score": 0.224,
-      "r18": true
+      "id": 32075,
+      "title": "Neighbor Cousins",
+      "score": 0.181,
+      "r18": true,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 49002,
-      "title": "Touch On",
-      "score": 0.224,
-      "r18": true
+      "id": 18881,
+      "title": "The Taste of Hands",
+      "score": 0.178,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 19973,
-      "title": "Narakarana",
-      "score": 0.224,
-      "r18": true
+      "id": 30663,
+      "title": "Cohabitation!",
+      "score": 0.176,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50506,
+      "title": "Should I Study at Noryangjin?",
+      "score": 0.175,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19847,
+      "title": "Scandal of the Witch",
+      "score": 0.175,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 56556,
+      "title": "Goddess Stargram",
+      "score": 0.175,
+      "r18": true,
+      "languages": [
+        "ru",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 19850,
+      "title": "Miss Mystic",
+      "score": 0.175,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 52086,
+      "title": "Housekeeper",
+      "score": 0.175,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50533,
+      "title": "Maidens In-Law",
+      "score": 0.174,
+      "r18": true,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 48910,
+      "title": "Secret Class",
+      "score": 0.174,
+      "r18": true,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "fr",
+        "tr",
+        "sa"
+      ]
     },
     {
       "id": 43351,
       "title": "Married Woman",
-      "score": 0.224,
-      "r18": true
+      "score": 0.174,
+      "r18": true,
+      "languages": [
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 40245,
+      "title": "Sister Neighbors",
+      "score": 0.156,
+      "r18": true,
+      "languages": [
+        "gb",
+        "tr",
+        "fr",
+        "br"
+      ]
+    },
+    {
+      "id": 24526,
+      "title": "Hahri's Lumpy Star",
+      "score": 0.15,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

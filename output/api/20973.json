@@ -2,25 +2,40 @@
   "id": 20973,
   "title": "Kemono Jihen",
   "url": "https://mangadex.org/manga/20973",
-  "last_updated": "March 16, 2021 04:19:09 UTC",
+  "last_updated": "March 18, 2021 09:01:26 UTC",
   "matches": [
     {
       "id": 16516,
       "title": "Pygmalion",
-      "score": 0.2,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru",
+        "br"
+      ]
     },
     {
       "id": 18691,
       "title": "Fire Punch",
       "score": 0.175,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "ru",
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 42773,
       "title": "JuJu Tantei",
-      "score": 0.108,
-      "r18": false
+      "score": 0.107,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

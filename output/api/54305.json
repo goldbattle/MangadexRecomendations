@@ -1,158 +1,245 @@
 {
   "id": 54305,
   "title": "Hetalia - Aru Otoko no Haiboku (Doujinshi)",
-  "url": "https://api.mangadex.org/v2/manga/54305",
-  "last_updated": "March 12, 2021 20:23:58 UTC",
+  "url": "https://mangadex.org/manga/54305",
+  "last_updated": "March 18, 2021 13:53:53 UTC",
   "matches": [
-    {
-      "id": 35718,
-      "title": "Free! - Rainy Day (Doujinshi)",
-      "score": 0.672,
-      "r18": true
-    },
-    {
-      "id": 25023,
-      "title": "Nemuri Otoko to Koi Otoko",
-      "score": 0.655,
-      "r18": true
-    },
-    {
-      "id": 10102,
-      "title": "Free! - Oyasumi Mae Secret (Doujinshi)",
-      "score": 0.652,
-      "r18": true
-    },
-    {
-      "id": 36038,
-      "title": "Boku no Hero Academia - Which Came First, The Crow Or The Egg? (Doujinshi)",
-      "score": 0.652,
-      "r18": true
-    },
     {
       "id": 18815,
       "title": "Gintama - Thinking Out Loud (Doujinshi)",
-      "score": 0.483,
-      "r18": true
-    },
-    {
-      "id": 11362,
-      "title": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai - Min, Min, Min. (Doujinshi)",
-      "score": 0.411,
-      "r18": true
-    },
-    {
-      "id": 37310,
-      "title": "Shingeki no Kyojin - Under The Tree (Doujinshi)",
-      "score": 0.41,
-      "r18": true
-    },
-    {
-      "id": 37428,
-      "title": "Shingeki no Kyojin - Reliant (Doujinshi)",
-      "score": 0.401,
-      "r18": true
-    },
-    {
-      "id": 37419,
-      "title": "Katekyo! - Cr&egrave;me Br&ucirc;l&eacute;e (Doujinshi)",
-      "score": 0.395,
-      "r18": true
-    },
-    {
-      "id": 41044,
-      "title": "Tokoro de Ima ha Nanbanme Deshou Ka",
-      "score": 0.393,
-      "r18": true
-    },
-    {
-      "id": 26003,
-      "title": "1/365 no Koibito",
-      "score": 0.39,
-      "r18": true
-    },
-    {
-      "id": 53850,
-      "title": "Katekyo! - Kemomimi (Doujinshi)",
-      "score": 0.381,
-      "r18": true
-    },
-    {
-      "id": 33240,
-      "title": "Therapy Game",
-      "score": 0.38,
-      "r18": true
-    },
-    {
-      "id": 59503,
-      "title": "Collar ni Kuchiduke",
-      "score": 0.38,
-      "r18": true
-    },
-    {
-      "id": 43572,
-      "title": "Shucchou Host NYU Boy",
-      "score": 0.364,
-      "r18": true
-    },
-    {
-      "id": 8692,
-      "title": "Kikasete yo, Ai no Kotoba o",
-      "score": 0.362,
-      "r18": true
-    },
-    {
-      "id": 55035,
-      "title": "Magi dj - Real Talk",
-      "score": 0.356,
-      "r18": true
+      "score": 0.374,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 41013,
       "title": "Gintama - Ochiru (Doujinshi)",
-      "score": 0.35,
-      "r18": true
+      "score": 0.3,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37419,
+      "title": "Katekyo! - Cr&egrave;me Br&ucirc;l&eacute;e (Doujinshi)",
+      "score": 0.287,
+      "r18": true,
+      "languages": [
+        "tr",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 11362,
+      "title": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai - Min, Min, Min. (Doujinshi)",
+      "score": 0.287,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 41044,
+      "title": "Tokoro de Ima ha Nanbanme Deshou Ka",
+      "score": 0.287,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37428,
+      "title": "Shingeki no Kyojin - Reliant (Doujinshi)",
+      "score": 0.287,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53850,
+      "title": "Katekyo! - Kemomimi (Doujinshi)",
+      "score": 0.287,
+      "r18": true,
+      "languages": [
+        "tr",
+        "gb"
+      ]
+    },
+    {
+      "id": 33240,
+      "title": "Therapy Game",
+      "score": 0.287,
+      "r18": true,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 26003,
+      "title": "1/365 no Koibito",
+      "score": 0.287,
+      "r18": true,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 10885,
       "title": "Sadistic Boy",
-      "score": 0.346,
-      "r18": true
+      "score": 0.287,
+      "r18": true,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 12014,
-      "title": "Megane Goshi no Sora wa...",
-      "score": 0.344,
-      "r18": true
+      "id": 8692,
+      "title": "Kikasete yo, Ai no Kotoba o",
+      "score": 0.287,
+      "r18": true,
+      "languages": [
+        "gb",
+        "hu"
+      ]
+    },
+    {
+      "id": 43572,
+      "title": "Shucchou Host NYU Boy",
+      "score": 0.287,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 26110,
       "title": "Maki-chan wa Kare to Sex Shitai",
-      "score": 0.34,
-      "r18": true
+      "score": 0.287,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 18772,
-      "title": "Ichiban Chikaku de Koi o Suru",
-      "score": 0.335,
-      "r18": true
+      "id": 37310,
+      "title": "Shingeki no Kyojin - Under The Tree (Doujinshi)",
+      "score": 0.256,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 44095,
+      "title": "Show By Rock!! - Omae wa Ore no Tomodachi (Doujinshi)",
+      "score": 0.239,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 30061,
+      "title": "Axis Powers Hetalia - Aniki to Renai Circulation (Doujinshi)",
+      "score": 0.231,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 12014,
+      "title": "Megane Goshi no Sora wa...",
+      "score": 0.23,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24451,
+      "title": "Pendulum: Kemonohito Omegaverse",
+      "score": 0.23,
+      "r18": true,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 24145,
       "title": "Hada no Ue no Renai Jijou",
-      "score": 0.334,
-      "r18": true
+      "score": 0.23,
+      "r18": true,
+      "languages": [
+        "gb",
+        "pl",
+        "it"
+      ]
     },
     {
-      "id": 41057,
-      "title": "Diamond no Ace - When Yakushi's Baseball Club Goes To Nationals (Doujinshi)",
-      "score": 0.33,
-      "r18": true
+      "id": 18772,
+      "title": "Ichiban Chikaku de Koi o Suru",
+      "score": 0.23,
+      "r18": true,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 29488,
-      "title": "Free! - Secret Winter ~Kienai Nakigao~ (Doujinshi)",
-      "score": 0.33,
-      "r18": true
+      "id": 44824,
+      "title": "Antique Bakery Doujinshi",
+      "score": 0.23,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 56896,
+      "title": "Unmei no Tsugai ga Omae da Nante",
+      "score": 0.23,
+      "r18": true,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 37752,
+      "title": "Gintama - Give Love (Doujinshi)",
+      "score": 0.23,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 38962,
+      "title": "Kodoku na Taka wa Hitokoishikute",
+      "score": 0.23,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 38971,
+      "title": "S to Bocchama",
+      "score": 0.23,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

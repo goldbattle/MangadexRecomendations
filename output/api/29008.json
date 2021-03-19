@@ -2,25 +2,37 @@
   "id": 29008,
   "title": "Katsuai Monster",
   "url": "https://mangadex.org/manga/29008",
-  "last_updated": "March 17, 2021 00:46:52 UTC",
+  "last_updated": "March 18, 2021 10:22:39 UTC",
   "matches": [
     {
       "id": 29108,
       "title": "Three Wolves Mountain",
-      "score": 0.3,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 39465,
       "title": "Ore no Tenshi wa Mayonaka Akuma",
-      "score": 0.271,
-      "r18": false
+      "score": 0.27,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 30632,
       "title": "Complex",
-      "score": 0.232,
-      "r18": false
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx"
+      ]
     }
   ]
 }

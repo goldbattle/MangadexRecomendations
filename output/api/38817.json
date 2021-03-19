@@ -2,31 +2,73 @@
   "id": 38817,
   "title": "Hina Change",
   "url": "https://mangadex.org/manga/38817",
-  "last_updated": "March 18, 2021 04:15:09 UTC",
+  "last_updated": "March 18, 2021 11:44:28 UTC",
   "matches": [
+    {
+      "id": 34361,
+      "title": "Boku no Namae wa &quot;Shounen A&quot;",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "mx",
+        "ru",
+        "br",
+        "it"
+      ]
+    },
     {
       "id": 24570,
       "title": "1-nen A-gumi no Monster",
-      "score": 0.229,
-      "r18": false
+      "score": 0.228,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "br",
+        "ru",
+        "tr",
+        "id",
+        "fr"
+      ]
     },
     {
       "id": 555,
       "title": "Mirai Nikki",
       "score": 0.159,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 31848,
       "title": "Blue Hearts",
-      "score": 0.149,
-      "r18": false
+      "score": 0.148,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "tr",
+        "fr",
+        "id",
+        "es",
+        "it"
+      ]
     },
     {
       "id": 2890,
       "title": "Alice in Borderland",
       "score": 0.139,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "tr",
+        "br"
+      ]
     }
   ]
 }

@@ -1,158 +1,244 @@
 {
   "id": 32996,
   "title": "Sailor Fuku To Himawari",
-  "url": "https://api.mangadex.org/v2/manga/32996",
-  "last_updated": "February 10, 2021 12:30:39 UTC",
+  "url": "https://mangadex.org/manga/32996",
+  "last_updated": "March 18, 2021 10:55:54 UTC",
   "matches": [
     {
-      "id": 6082,
-      "title": "Yume Miru Happa",
-      "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 4006,
-      "title": "Shishunki Miman Okotowari",
-      "score": 0.673,
-      "r18": false
-    },
-    {
-      "id": 5727,
-      "title": "Zoku Shishunki Miman Okotowari",
-      "score": 0.667,
-      "r18": false
-    },
-    {
-      "id": 174,
-      "title": "Forget About Love",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 2217,
-      "title": "Barairo no Ashita",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 11335,
-      "title": "Bunbetsu to Takan",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 784,
-      "title": "Zenbu Shiritai",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 3381,
-      "title": "Koi ni Naru Made",
-      "score": 0.657,
-      "r18": false
-    },
-    {
-      "id": 2915,
-      "title": "Yoshiwara Hana Oboro",
-      "score": 0.657,
-      "r18": false
-    },
-    {
-      "id": 4122,
-      "title": "Boku no Sekai Kimi no Real",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 3159,
-      "title": "Kataomoi no Mukougawa",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 1919,
-      "title": "Hoshi wa Utau",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 7181,
-      "title": "Seishun Survival",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 2555,
-      "title": "Shiawase no Kanzume",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 3303,
-      "title": "Onegai, Sensei",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 2139,
-      "title": "I Love Her",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 2420,
-      "title": "Mascara Blues",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 5707,
-      "title": "Tokyo no Casanova",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 7481,
-      "title": "Zenbu Chodai",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 12998,
-      "title": "Fushigi na Hito",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 2485,
-      "title": "Koiiro Omoi",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 14320,
-      "title": "Seishun Otome Banchou!",
-      "score": 0.651,
-      "r18": false
+      "id": 5150,
+      "title": "Garasu Bijin",
+      "score": 0.359,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 14295,
       "title": "Ichigo no Ouji to Entremet",
-      "score": 0.651,
-      "r18": false
+      "score": 0.358,
+      "r18": false,
+      "languages": [
+        "it"
+      ]
     },
     {
-      "id": 1544,
-      "title": "Oretachi ni Ai wa Nai",
-      "score": 0.651,
-      "r18": false
+      "id": 22869,
+      "title": "Akane Shoten no Kaji Tenchou",
+      "score": 0.353,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "es"
+      ]
     },
     {
-      "id": 26402,
-      "title": "Pink Choudai",
-      "score": 0.484,
-      "r18": false
+      "id": 29399,
+      "title": "Nostalgia",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "pl"
+      ]
+    },
+    {
+      "id": 2370,
+      "title": "Brilliant na Mahou",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 31738,
+      "title": "Ningyo no Namida",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5633,
+      "title": "Otome, Sakazu ni Chiru na Kare",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "it"
+      ]
+    },
+    {
+      "id": 5096,
+      "title": "Pen Saki ni Syrup",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3411,
+      "title": "Little Star",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2512,
+      "title": "Going to You",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "fr"
+      ]
+    },
+    {
+      "id": 2784,
+      "title": "Sayonara no Jikan",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 5134,
+      "title": "Ruu no Rakuen",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 24183,
+      "title": "Ann-chan no Mekurumeku",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6412,
+      "title": "Ningyohime 2001 -AQUA-",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3887,
+      "title": "Cocoa!",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 11062,
+      "title": "Seifuku de Vanilla Kiss",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "pl"
+      ]
+    },
+    {
+      "id": 46703,
+      "title": "Usami-san to Kamei-kun",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 45339,
+      "title": "Ichigo Syndrome",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14915,
+      "title": "Mousou Cinderella",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4264,
+      "title": "Adeyaka Prince",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "pl"
+      ]
+    },
+    {
+      "id": 2935,
+      "title": "Pink Prisoner",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5410,
+      "title": "600 Page Mystery",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
+    },
+    {
+      "id": 17810,
+      "title": "Lovely Decoration!!",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 12880,
+      "title": "Muzukashikutte Amai Koto",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
+    },
+    {
+      "id": 54036,
+      "title": "Tweening",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

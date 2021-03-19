@@ -2,109 +2,192 @@
   "id": 49425,
   "title": "Infinite Viral Infection",
   "url": "https://mangadex.org/manga/49425",
-  "last_updated": "January 15, 2021 18:46:32 UTC",
+  "last_updated": "March 18, 2021 13:13:09 UTC",
   "matches": [
-    {
-      "id": 1264,
-      "title": "Highschool of the Dead",
-      "score": 0.662,
-      "r18": false
-    },
-    {
-      "id": 32386,
-      "title": "Mato Seihei no Slave",
-      "score": 0.651,
-      "r18": false
-    },
     {
       "id": 49440,
       "title": "Deathdeus: Hero of the Dead",
-      "score": 0.281,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1264,
+      "title": "Highschool of the Dead",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 17562,
       "title": "Infection",
-      "score": 0.267,
-      "r18": false
-    },
-    {
-      "id": 1435,
-      "title": "Crime Zone",
-      "score": 0.256,
-      "r18": false
-    },
-    {
-      "id": 288,
-      "title": "Immortal Regis",
-      "score": 0.255,
-      "r18": false
-    },
-    {
-      "id": 32311,
-      "title": "Chainsaw Man",
-      "score": 0.236,
-      "r18": false
-    },
-    {
-      "id": 184,
-      "title": "Ushio to Tora",
-      "score": 0.235,
-      "r18": false
-    },
-    {
-      "id": 41590,
-      "title": "Kimi no Tame ni, Onee-chan ga Minna Koroshite Ageru: Project Dia Horizon",
-      "score": 0.234,
-      "r18": false
-    },
-    {
-      "id": 38465,
-      "title": "Risou no Musume Nara Sekai Saikyou Demo Kawaigatte Kuremasuka",
-      "score": 0.23,
-      "r18": false
-    },
-    {
-      "id": 2025,
-      "title": "Goumaden Shutendouji",
-      "score": 0.224,
-      "r18": false
-    },
-    {
-      "id": 9905,
-      "title": "UQ Holder!",
-      "score": 0.217,
-      "r18": false
+      "score": 0.177,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "cn",
+        "id",
+        "mx",
+        "ru",
+        "it"
+      ]
     },
     {
       "id": 58699,
       "title": "Chainsaw Man - Digital Colored Comics",
-      "score": 0.216,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "sa"
+      ]
+    },
+    {
+      "id": 288,
+      "title": "Immortal Regis",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 32311,
+      "title": "Chainsaw Man",
+      "score": 0.14,
+      "r18": false,
+      "languages": [
+        "id",
+        "it",
+        "mx",
+        "gb",
+        "br",
+        "fr",
+        "hk",
+        "mn",
+        "ir",
+        "ru",
+        "ua",
+        "my"
+      ]
+    },
+    {
+      "id": 38465,
+      "title": "Risou no Musume Nara Sekai Saikyou Demo Kawaigatte Kuremasuka",
+      "score": 0.14,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru",
+        "es",
+        "id"
+      ]
     },
     {
       "id": 35111,
       "title": "GUL",
-      "score": 0.211,
-      "r18": false
+      "score": 0.134,
+      "r18": false,
+      "languages": [
+        "fr",
+        "br",
+        "gb",
+        "id",
+        "it"
+      ]
+    },
+    {
+      "id": 1435,
+      "title": "Crime Zone",
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9905,
+      "title": "UQ Holder!",
+      "score": 0.121,
+      "r18": false,
+      "languages": [
+        "id",
+        "it",
+        "br",
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 2025,
+      "title": "Goumaden Shutendouji",
+      "score": 0.117,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 41590,
+      "title": "Kimi no Tame ni, Onee-chan ga Minna Koroshite Ageru: Project Dia Horizon",
+      "score": 0.115,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 184,
+      "title": "Ushio to Tora",
+      "score": 0.112,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 15706,
       "title": "Majuu Sensen",
-      "score": 0.209,
-      "r18": false
-    },
-    {
-      "id": 12257,
-      "title": "Katsute Kami Datta Kemono-tachi e",
-      "score": 0.202,
-      "r18": false
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11986,
       "title": "Tenkuu Shinpan",
-      "score": 0.18,
-      "r18": false
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "it",
+        "pl"
+      ]
+    },
+    {
+      "id": 12257,
+      "title": "Katsute Kami Datta Kemono-tachi e",
+      "score": 0.107,
+      "r18": false,
+      "languages": [
+        "it",
+        "es",
+        "mx",
+        "gb",
+        "pl",
+        "tr"
+      ]
     }
   ]
 }

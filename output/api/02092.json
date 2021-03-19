@@ -2,157 +2,264 @@
   "id": 2092,
   "title": "Gon",
   "url": "https://mangadex.org/manga/2092",
-  "last_updated": "March 14, 2021 04:22:34 UTC",
+  "last_updated": "March 18, 2021 06:00:30 UTC",
   "matches": [
     {
       "id": 28792,
       "title": "Eizouken ni wa Te wo Dasu na!",
       "score": 0.3,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "cn",
+        "gb",
+        "mx",
+        "br",
+        "tr"
+      ]
     },
     {
       "id": 1017,
       "title": "Thermae Romae",
-      "score": 0.285,
-      "r18": false
+      "score": 0.283,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 23055,
       "title": "Uchuu Senkan Tiramis&ugrave;",
       "score": 0.257,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 23482,
-      "title": "Fushigi no Kuni no Bird",
+      "id": 13421,
+      "title": "Shin Kurosawa - Saikyou Densetsu",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "tr"
+      ]
     },
     {
       "id": 14974,
       "title": "Kono Sekai no Katasumini",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 44404,
       "title": "A Private Story on Third Street",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 1159,
       "title": "Gis&egrave;le Alain",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2932,
       "title": "Sister Generator",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 1016,
       "title": "Emma",
-      "score": 0.246,
-      "r18": false
+      "score": 0.247,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg",
+        "it"
+      ]
     },
     {
       "id": 27386,
       "title": "Nyx no Lantern",
-      "score": 0.244,
-      "r18": false
-    },
-    {
-      "id": 3409,
-      "title": "Otoyomegatari",
-      "score": 0.242,
-      "r18": false
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4099,
       "title": "7-nin no Shakespeare",
-      "score": 0.242,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5169,
       "title": "Genzou Hitogata Kiwa",
-      "score": 0.242,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 634,
       "title": "Peace Maker",
-      "score": 0.242,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 6158,
+      "title": "Ritou no Umi",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 21823,
       "title": "An Interstellar Voyage Fit for a Baron",
-      "score": 0.242,
-      "r18": false
-    },
-    {
-      "id": 8496,
-      "title": "Sakamoto desu ga?",
-      "score": 0.242,
-      "r18": false
-    },
-    {
-      "id": 2256,
-      "title": "Dragon Zakura",
-      "score": 0.242,
-      "r18": false
-    },
-    {
-      "id": 23569,
-      "title": "Gokushufudou: The Way of the House Husband",
-      "score": 0.242,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22832,
       "title": "(Not) a Househusband",
-      "score": 0.242,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 31348,
-      "title": "Gokushufudou: The Way of the House Husband (Fan Colored)",
-      "score": 0.242,
-      "r18": false
+      "id": 8496,
+      "title": "Sakamoto desu ga?",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20817,
+      "title": "Yurucamp \u25b3",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "id",
+        "mx",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 23569,
+      "title": "Gokushufudou: The Way of the House Husband",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "tr",
+        "mx",
+        "br",
+        "ru",
+        "id",
+        "ir",
+        "it",
+        "pt",
+        "fr",
+        "se",
+        "in",
+        "de"
+      ]
+    },
+    {
+      "id": 2256,
+      "title": "Dragon Zakura",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21372,
       "title": "Nicola's Leisurely Demon World Travelogue",
-      "score": 0.242,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "ru",
+        "mx",
+        "gb"
+      ]
     },
     {
-      "id": 54265,
-      "title": "Orc Decides to Raise the Female Knight",
-      "score": 0.242,
-      "r18": false
+      "id": 31348,
+      "title": "Gokushufudou: The Way of the House Husband (Fan Colored)",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 50232,
       "title": "Atarashii Joushi wa Dotennen",
-      "score": 0.242,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29297,
       "title": "Yama to Shokuyoku to Watashi",
-      "score": 0.242,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 5755,
       "title": "Yuunagi no Machi Sakura no Kuni",
       "score": 0.237,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa"
+      ]
     }
   ]
 }

@@ -1,50 +1,78 @@
 {
   "id": 46008,
   "title": "Sexy Effect 96",
-  "url": "https://api.mangadex.org/v2/manga/46008",
-  "last_updated": "February 11, 2021 20:35:00 UTC",
+  "url": "https://mangadex.org/manga/46008",
+  "last_updated": "March 18, 2021 12:44:30 UTC",
   "matches": [
-    {
-      "id": 12856,
-      "title": "Aisaretaino",
-      "score": 0.693,
-      "r18": false
-    },
     {
       "id": 26609,
       "title": "Momo to Manji",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 29108,
-      "title": "Three Wolves Mountain",
-      "score": 0.361,
-      "r18": false
-    },
-    {
-      "id": 45715,
-      "title": "Oz no Matenrou",
-      "score": 0.345,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 30632,
       "title": "Complex",
-      "score": 0.342,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx"
+      ]
+    },
+    {
+      "id": 45715,
+      "title": "Oz no Matenrou",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
     },
     {
       "id": 12635,
       "title": "Ubawarerukoto Marugoto Zenbu",
-      "score": 0.339,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "pl"
+      ]
+    },
+    {
+      "id": 12856,
+      "title": "Aisaretaino",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29108,
+      "title": "Three Wolves Mountain",
+      "score": 0.229,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 44693,
       "title": "Lies Like Lies",
-      "score": 0.255,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     }
   ]
 }

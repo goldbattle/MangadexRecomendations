@@ -1,20 +1,27 @@
 {
   "id": 42703,
   "title": "Decision",
-  "url": "https://api.mangadex.org/v2/manga/42703",
-  "last_updated": "February 11, 2021 12:29:19 UTC",
+  "url": "https://mangadex.org/manga/42703",
+  "last_updated": "March 18, 2021 12:16:53 UTC",
   "matches": [
     {
       "id": 37926,
       "title": "Darkness Hound",
-      "score": 0.294,
-      "r18": true
+      "score": 0.2,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 49860,
       "title": "Tell Me Your Wish",
-      "score": 0.249,
-      "r18": true
+      "score": 0.16,
+      "r18": true,
+      "languages": [
+        "mx",
+        "fr"
+      ]
     }
   ]
 }

@@ -2,43 +2,66 @@
   "id": 28730,
   "title": "Jakimeshi",
   "url": "https://mangadex.org/manga/28730",
-  "last_updated": "March 17, 2021 00:43:37 UTC",
+  "last_updated": "March 18, 2021 10:20:20 UTC",
   "matches": [
     {
       "id": 27477,
       "title": "Kutsunashi Hime",
-      "score": 0.28,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 25433,
       "title": "I'm Not an Angel",
-      "score": 0.28,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4696,
       "title": "Kioh x Kioh",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 19794,
       "title": "Transparent Museum",
-      "score": 0.224,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "tr"
+      ]
     },
     {
       "id": 57560,
       "title": "The Flower Doll and her Husband",
       "score": 0.175,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 53553,
       "title": "Beyond the Mirror",
       "score": 0.175,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     }
   ]
 }

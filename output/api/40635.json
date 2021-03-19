@@ -1,158 +1,254 @@
 {
   "id": 40635,
   "title": "Bear Hunter &mdash; Fubuki-g\u014d",
-  "url": "https://api.mangadex.org/v2/manga/40635",
-  "last_updated": "February 11, 2021 08:26:39 UTC",
+  "url": "https://mangadex.org/manga/40635",
+  "last_updated": "March 18, 2021 11:59:38 UTC",
   "matches": [
     {
       "id": 40636,
       "title": "Hakugin no Tei\u014d",
-      "score": 0.823,
-      "r18": false
-    },
-    {
-      "id": 25435,
-      "title": "Madara",
-      "score": 0.721,
-      "r18": false
-    },
-    {
-      "id": 1890,
-      "title": "Gekka Bijin",
-      "score": 0.715,
-      "r18": false
-    },
-    {
-      "id": 5683,
-      "title": "Mononoke Hime",
-      "score": 0.715,
-      "r18": false
-    },
-    {
-      "id": 28739,
-      "title": "Rurouni Kenshin: Haru ni Sakura",
-      "score": 0.713,
-      "r18": false
-    },
-    {
-      "id": 3918,
-      "title": "Magic Kaito",
-      "score": 0.707,
-      "r18": false
-    },
-    {
-      "id": 32608,
-      "title": "Baki Gaiden: Kizudzura",
-      "score": 0.706,
-      "r18": false
-    },
-    {
-      "id": 5573,
-      "title": "Saiyuki",
-      "score": 0.703,
-      "r18": false
-    },
-    {
-      "id": 5721,
-      "title": "Isekai no Seikishi Monogatari",
-      "score": 0.702,
-      "r18": false
-    },
-    {
-      "id": 2280,
-      "title": "Shaman King",
-      "score": 0.701,
-      "r18": false
-    },
-    {
-      "id": 19671,
-      "title": "Sword Art Online - Project Alicization",
-      "score": 0.701,
-      "r18": false
-    },
-    {
-      "id": 3397,
-      "title": "Star Children",
-      "score": 0.701,
-      "r18": false
-    },
-    {
-      "id": 36937,
-      "title": "The Guardian of Mt. Moon",
-      "score": 0.701,
-      "r18": false
-    },
-    {
-      "id": 19688,
-      "title": "Red Sprite",
-      "score": 0.699,
-      "r18": false
-    },
-    {
-      "id": 38337,
-      "title": "Jinrou e no Tensei, Maou no Fukkan: Hajimari no Shou",
-      "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 28525,
-      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo",
-      "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 11804,
-      "title": "Fights Breaking Through The Heavens",
-      "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 6270,
-      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo (Official Colored)",
-      "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 28542,
-      "title": "JoJo's Bizarre Adventure Part 6 - Stone Ocean",
-      "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 17916,
-      "title": "Hachinan tte, Sore wa Nai Deshou!",
-      "score": 0.697,
-      "r18": false
-    },
-    {
-      "id": 21914,
-      "title": "Almadianos Eiyuuden",
-      "score": 0.697,
-      "r18": false
-    },
-    {
-      "id": 2089,
-      "title": "Kingdom Hearts II",
-      "score": 0.696,
-      "r18": false
+      "score": 0.738,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2929,
       "title": "Stray Dog",
-      "score": 0.696,
-      "r18": false
+      "score": 0.329,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "fr"
+      ]
     },
     {
-      "id": 10526,
-      "title": "Iron Knight",
-      "score": 0.695,
-      "r18": false
+      "id": 9677,
+      "title": "Cyborg 009 (SHIMAMOTO Kazuhiko)",
+      "score": 0.321,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 5274,
-      "title": "Nijiiro Togarashi",
-      "score": 0.695,
-      "r18": false
+      "id": 36937,
+      "title": "The Guardian of Mt. Moon",
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2933,
+      "title": "Urooboe Uroboros!",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "id",
+        "ct",
+        "gb"
+      ]
+    },
+    {
+      "id": 3676,
+      "title": "Kid",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 22565,
+      "title": "Waon Nijuusou",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 32729,
+      "title": "Wild 7",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37260,
+      "title": "Kamen Rider Black RX (Doujinshi)",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1508,
+      "title": "Dr. Dead",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24640,
+      "title": "Demon Tune",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br",
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 14206,
+      "title": "Moonlight Act",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 22152,
+      "title": "Yo-kai Watch Treasure Busters",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 21061,
+      "title": "Tales of Berseria",
+      "score": 0.278,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 3397,
+      "title": "Star Children",
+      "score": 0.274,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2930,
+      "title": "Hello Baby",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "pl",
+        "hu",
+        "ro",
+        "gb",
+        "ct",
+        "de"
+      ]
+    },
+    {
+      "id": 7527,
+      "title": "One Piece: Strong World",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ct",
+        "ru",
+        "vn"
+      ]
+    },
+    {
+      "id": 254,
+      "title": "Agrippa",
+      "score": 0.265,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2089,
+      "title": "Kingdom Hearts II",
+      "score": 0.265,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 20343,
+      "title": "Survival: Another Story",
+      "score": 0.265,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 15571,
+      "title": "GARDEN",
+      "score": 0.259,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 6679,
+      "title": "Full Metal Panic! SURPLUS",
+      "score": 0.256,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 16264,
+      "title": "Harlock Saga - The Ring of the Nibelung",
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29361,
+      "title": "Outlaw Man",
+      "score": 0.254,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21640,
+      "title": "Kyo",
+      "score": 0.254,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

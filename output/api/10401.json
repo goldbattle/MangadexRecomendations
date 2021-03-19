@@ -2,157 +2,254 @@
   "id": 10401,
   "title": "Bishoujo Inpara!",
   "url": "https://mangadex.org/manga/10401",
-  "last_updated": "March 15, 2021 00:28:14 UTC",
+  "last_updated": "March 18, 2021 07:14:14 UTC",
   "matches": [
     {
       "id": 384,
       "title": "Morita-san wa Mukuchi",
       "score": 0.325,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7269,
       "title": "Echo-Pun",
-      "score": 0.317,
-      "r18": false
+      "score": 0.316,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 4333,
       "title": "Waratte! Sotomura-san",
       "score": 0.314,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 35099,
       "title": "Koisuru Asteroid",
-      "score": 0.31,
-      "r18": false
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "br",
+        "mx"
+      ]
     },
     {
       "id": 1732,
       "title": "Kiniro Mosaic",
-      "score": 0.31,
-      "r18": false
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 2973,
       "title": "Gu-Pan!",
-      "score": 0.31,
-      "r18": false
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6687,
       "title": "A-Channel",
-      "score": 0.31,
-      "r18": false
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "id"
+      ]
     },
     {
       "id": 2354,
       "title": "Kill Me Baby",
-      "score": 0.31,
-      "r18": false
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 2161,
       "title": "Little Busters! EX The 4koma",
-      "score": 0.31,
-      "r18": false
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29624,
       "title": "4-Koma Starlight",
-      "score": 0.31,
-      "r18": false
-    },
-    {
-      "id": 23382,
-      "title": "Poison Girl",
-      "score": 0.31,
-      "r18": false
-    },
-    {
-      "id": 2063,
-      "title": "Itsukasei Metsubou Syndrome",
-      "score": 0.31,
-      "r18": false
-    },
-    {
-      "id": 54089,
-      "title": "Ai Mai Mii",
-      "score": 0.31,
-      "r18": false
-    },
-    {
-      "id": 21983,
-      "title": "Stella no Mahou",
-      "score": 0.31,
-      "r18": false
-    },
-    {
-      "id": 15816,
-      "title": "Daitai Konnande?",
-      "score": 0.31,
-      "r18": false
-    },
-    {
-      "id": 43230,
-      "title": "Hatsukoi*Rail Trip",
-      "score": 0.31,
-      "r18": false
-    },
-    {
-      "id": 18419,
-      "title": "Danchigai",
-      "score": 0.31,
-      "r18": false
-    },
-    {
-      "id": 30569,
-      "title": "Hokenshitsu no Tsumuri-san",
-      "score": 0.294,
-      "r18": false
-    },
-    {
-      "id": 18325,
-      "title": "Nakahara-kun no Kahogo na Imouto",
-      "score": 0.29,
-      "r18": false
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29338,
       "title": "We Want to Talk About Kaguya",
-      "score": 0.281,
-      "r18": false
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "fr",
+        "it",
+        "id"
+      ]
+    },
+    {
+      "id": 23382,
+      "title": "Poison Girl",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2063,
+      "title": "Itsukasei Metsubou Syndrome",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 54089,
+      "title": "Ai Mai Mii",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21983,
+      "title": "Stella no Mahou",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru"
+      ]
+    },
+    {
+      "id": 15816,
+      "title": "Daitai Konnande?",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18419,
+      "title": "Danchigai",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "ru",
+        "id"
+      ]
+    },
+    {
+      "id": 30569,
+      "title": "Hokenshitsu no Tsumuri-san",
+      "score": 0.293,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 18325,
+      "title": "Nakahara-kun no Kahogo na Imouto",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 28714,
       "title": "Doushite Watashi ga Bijutsuka ni!?",
       "score": 0.28,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 16026,
       "title": "Koakuma Meringue",
       "score": 0.279,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 31193,
       "title": "Yume Miru Prima Girl!",
       "score": 0.277,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 9553,
       "title": "Yuyushiki",
-      "score": 0.276,
-      "r18": false
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2859,
       "title": "Chiro-chan",
-      "score": 0.275,
-      "r18": false
+      "score": 0.274,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 40205,
+      "title": "Kagura Maimai!",
+      "score": 0.274,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

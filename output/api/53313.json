@@ -2,157 +2,273 @@
   "id": 53313,
   "title": "Tokyo Alternative",
   "url": "https://mangadex.org/manga/53313",
-  "last_updated": "January 16, 2021 01:05:04 UTC",
+  "last_updated": "March 18, 2021 13:45:35 UTC",
   "matches": [
-    {
-      "id": 890,
-      "title": "Dogs / Bullets &amp; Carnage",
-      "score": 0.684,
-      "r18": false
-    },
-    {
-      "id": 1594,
-      "title": "Pluto",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 7775,
-      "title": "El Alamein no Shinden",
-      "score": 0.674,
-      "r18": false
-    },
-    {
-      "id": 2712,
-      "title": "Blame!",
-      "score": 0.671,
-      "r18": false
-    },
-    {
-      "id": 21481,
-      "title": "Blue Phobia",
-      "score": 0.668,
-      "r18": false
-    },
-    {
-      "id": 891,
-      "title": "Dogs: Stray Dogs Howling in the Dark",
-      "score": 0.667,
-      "r18": false
-    },
-    {
-      "id": 7691,
-      "title": "Skull Man",
-      "score": 0.667,
-      "r18": false
-    },
-    {
-      "id": 41102,
-      "title": "Tsugumi Project",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 35793,
-      "title": "Zeus no Te",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 42735,
-      "title": "Eirun Last Code",
-      "score": 0.655,
-      "r18": false
-    },
     {
       "id": 4265,
       "title": "Moon Edge",
-      "score": 0.463,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11225,
       "title": "Kikai Shikake no Meldina",
-      "score": 0.405,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22897,
       "title": "Cosmo Familia",
-      "score": 0.381,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21481,
+      "title": "Blue Phobia",
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "ru",
+        "mx",
+        "id"
+      ]
+    },
+    {
+      "id": 41102,
+      "title": "Tsugumi Project",
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 891,
+      "title": "Dogs: Stray Dogs Howling in the Dark",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "bg",
+        "gb"
+      ]
+    },
+    {
+      "id": 890,
+      "title": "Dogs / Bullets &amp; Carnage",
+      "score": 0.216,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg"
+      ]
     },
     {
       "id": 17669,
       "title": "Babel",
-      "score": 0.362,
-      "r18": false
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 30057,
+      "title": "Persona 4 The Ultimax Suplex Hold",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1594,
+      "title": "Pluto",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it",
+        "id"
+      ]
     },
     {
       "id": 23845,
       "title": "The Big O",
-      "score": 0.319,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 36571,
-      "title": "The Dreamers of the Louvre",
-      "score": 0.307,
-      "r18": false
-    },
-    {
-      "id": 43005,
-      "title": "One Day in the Life of Ivan Dejavu",
-      "score": 0.262,
-      "r18": false
-    },
-    {
-      "id": 503,
-      "title": "Coppelion",
-      "score": 0.253,
-      "r18": false
-    },
-    {
-      "id": 9570,
-      "title": "Ajin",
-      "score": 0.246,
-      "r18": false
+      "id": 35793,
+      "title": "Zeus no Te",
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "hk",
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 35152,
       "title": "Monster Child",
-      "score": 0.243,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "tr",
+        "ir",
+        "ru",
+        "id"
+      ]
     },
     {
-      "id": 25314,
-      "title": "Skull Man (SHIMAMOTO Kazuhiko)",
-      "score": 0.242,
-      "r18": false
+      "id": 36571,
+      "title": "The Dreamers of the Louvre",
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 36834,
-      "title": "Winner Takes All",
-      "score": 0.23,
-      "r18": false
-    },
-    {
-      "id": 7707,
-      "title": "Kidou Senshi Gundam UC (Unicorn) - Bande Dessin&eacute;e",
-      "score": 0.228,
-      "r18": false
+      "id": 11101,
+      "title": "Persona 4 - The Ultimate in Mayonaka Arena",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 56889,
       "title": "World's End Touring",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 27321,
-      "title": "Prototype:Zero",
-      "score": 0.091,
-      "r18": false
+      "id": 43005,
+      "title": "One Day in the Life of Ivan Dejavu",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2712,
+      "title": "Blame!",
+      "score": 0.136,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "bg",
+        "br",
+        "ua",
+        "hu",
+        "es",
+        "ro",
+        "id"
+      ]
+    },
+    {
+      "id": 42735,
+      "title": "Eirun Last Code",
+      "score": 0.132,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7775,
+      "title": "El Alamein no Shinden",
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 36834,
+      "title": "Winner Takes All",
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br",
+        "gb",
+        "fr",
+        "tr",
+        "ru",
+        "id",
+        "pl"
+      ]
+    },
+    {
+      "id": 7691,
+      "title": "Skull Man",
+      "score": 0.124,
+      "r18": false,
+      "languages": [
+        "br",
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 503,
+      "title": "Coppelion",
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "mx",
+        "it",
+        "br"
+      ]
+    },
+    {
+      "id": 9570,
+      "title": "Ajin",
+      "score": 0.115,
+      "r18": false,
+      "languages": [
+        "br",
+        "ru",
+        "it",
+        "tr",
+        "gb"
+      ]
+    },
+    {
+      "id": 25314,
+      "title": "Skull Man (SHIMAMOTO Kazuhiko)",
+      "score": 0.107,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

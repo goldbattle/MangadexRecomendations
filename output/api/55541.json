@@ -1,98 +1,152 @@
 {
   "id": 55541,
   "title": "Hoshi to Tabisuru",
-  "url": "https://api.mangadex.org/v2/manga/55541",
-  "last_updated": "March 12, 2021 20:39:09 UTC",
+  "url": "https://mangadex.org/manga/55541",
+  "last_updated": "March 18, 2021 14:04:13 UTC",
   "matches": [
     {
       "id": 5566,
       "title": "Fairytale of Winter",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "ro"
+      ]
     },
     {
       "id": 7615,
       "title": "Sabaku no Requiem",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 26312,
       "title": "Phalene",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "bg"
+      ]
     },
     {
       "id": 1121,
       "title": "12-ji no Kane ga Naru",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "de",
+        "pl",
+        "it",
+        "mn",
+        "ct"
+      ]
     },
     {
       "id": 21679,
       "title": "Higanbana",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2361,
       "title": "Touhou Shinigami: Meteor Methuselah Gaiden",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 3014,
       "title": "Kao no Nai Otoko",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "bg",
+        "gb"
+      ]
     },
     {
       "id": 5844,
       "title": "Kon no Ki Konoha",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ct",
+        "fr"
+      ]
     },
     {
       "id": 13714,
       "title": "Shoku no Hana",
-      "score": 0.194,
-      "r18": false
-    },
-    {
-      "id": 17369,
-      "title": "Covered in Cinders",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 44572,
       "title": "Mermaid's Voice",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7816,
       "title": "Folk Tail Tonakai",
-      "score": 0.136,
-      "r18": false
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11867,
       "title": "Hotarubi no Mori e",
-      "score": 0.136,
-      "r18": false
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "es",
+        "it"
+      ]
     },
     {
       "id": 50471,
       "title": "Kami no Kora no Regret",
-      "score": 0.124,
-      "r18": false
+      "score": 0.101,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 55397,
       "title": "Kyuukou, Escape, Mermaid.",
-      "score": 0.124,
-      "r18": false
+      "score": 0.101,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

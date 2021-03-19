@@ -1,38 +1,23 @@
 {
   "id": 50374,
   "title": "Saitosanchi no Imoto wa Tottemo Mujaki na Tenshi to Akuma",
-  "url": "https://api.mangadex.org/v2/manga/50374",
-  "last_updated": "February 05, 2021 08:22:40 UTC",
+  "url": "https://mangadex.org/manga/50374",
+  "last_updated": "March 18, 2021 13:21:04 UTC",
   "matches": [
-    {
-      "id": 42760,
-      "title": "Onecha.",
-      "score": 0.359,
-      "r18": false
-    },
-    {
-      "id": 550,
-      "title": "Aki Sora",
-      "score": 0.34,
-      "r18": false
-    },
     {
       "id": 1653,
       "title": "Minamoto-kun Monogatari",
-      "score": 0.335,
-      "r18": false
-    },
-    {
-      "id": 522,
-      "title": "Kiss x Sis",
-      "score": 0.325,
-      "r18": false
-    },
-    {
-      "id": 12243,
-      "title": "Ookii Onnanoko wa Suki Desu ka?",
-      "score": 0.305,
-      "r18": false
+      "score": 0.271,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "id",
+        "br",
+        "it",
+        "mx",
+        "sa"
+      ]
     }
   ]
 }

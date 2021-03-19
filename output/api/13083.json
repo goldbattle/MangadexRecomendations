@@ -2,49 +2,76 @@
   "id": 13083,
   "title": "Man Eater",
   "url": "https://mangadex.org/manga/13083",
-  "last_updated": "March 15, 2021 08:30:18 UTC",
+  "last_updated": "March 18, 2021 07:37:22 UTC",
   "matches": [
     {
       "id": 8944,
       "title": "Jijou Ari Undead",
       "score": 0.29,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 22587,
       "title": "Zombieya Reiko",
-      "score": 0.242,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 28531,
       "title": "Ao no Haha",
       "score": 0.181,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6379,
       "title": "Shin Pet Shop of Horrors",
       "score": 0.181,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3324,
       "title": "Itou Junji Kyoufu Manga Collection",
-      "score": 0.162,
-      "r18": false
+      "score": 0.161,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "br",
+        "it",
+        "hu"
+      ]
     },
     {
       "id": 16407,
       "title": "Hyaku Monogatari",
-      "score": 0.129,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 43343,
       "title": "Phantom in the Twilight",
-      "score": 0.097,
-      "r18": false
+      "score": 0.096,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

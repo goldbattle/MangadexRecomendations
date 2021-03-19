@@ -2,37 +2,64 @@
   "id": 48135,
   "title": "Trace: Kasouken Houi Kenkyuuin no Tsuisou",
   "url": "https://mangadex.org/manga/48135",
-  "last_updated": "January 15, 2021 12:30:02 UTC",
+  "last_updated": "March 18, 2021 13:02:19 UTC",
   "matches": [
     {
       "id": 29189,
       "title": "Inspector Kurokochi",
-      "score": 0.689,
-      "r18": false
-    },
-    {
-      "id": 47607,
-      "title": "Re:load",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 36496,
-      "title": "My Home Hero",
-      "score": 0.264,
-      "r18": false
-    },
-    {
-      "id": 33126,
-      "title": "Vigilante",
-      "score": 0.248,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 54381,
       "title": "Liber",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru"
+      ]
+    },
+    {
+      "id": 47607,
+      "title": "Re:load",
+      "score": 0.185,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "vn",
+        "fr"
+      ]
+    },
+    {
+      "id": 36496,
+      "title": "My Home Hero",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa",
+        "ru",
+        "vn",
+        "id"
+      ]
+    },
+    {
+      "id": 33126,
+      "title": "Vigilante",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru",
+        "br"
+      ]
     }
   ]
 }

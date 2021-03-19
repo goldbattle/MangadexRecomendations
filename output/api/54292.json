@@ -1,14 +1,22 @@
 {
   "id": 54292,
   "title": "X'Mas Heart",
-  "url": "https://api.mangadex.org/v2/manga/54292",
-  "last_updated": "March 12, 2021 20:23:49 UTC",
+  "url": "https://mangadex.org/manga/54292",
+  "last_updated": "March 18, 2021 13:53:46 UTC",
   "matches": [
     {
       "id": 12801,
       "title": "Okujou no Bai-Bai",
-      "score": 0.3,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "pl",
+        "it",
+        "ct",
+        "br"
+      ]
     }
   ]
 }

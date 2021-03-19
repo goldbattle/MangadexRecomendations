@@ -1,158 +1,266 @@
 {
   "id": 32139,
   "title": "Yoru to Concrete",
-  "url": "https://api.mangadex.org/v2/manga/32139",
-  "last_updated": "February 10, 2021 08:30:57 UTC",
+  "url": "https://mangadex.org/manga/32139",
+  "last_updated": "March 18, 2021 10:48:45 UTC",
   "matches": [
     {
       "id": 35217,
       "title": "Ikoku Nikki",
-      "score": 0.26,
-      "r18": false
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn",
+        "mx"
+      ]
     },
     {
       "id": 55419,
       "title": "Double",
-      "score": 0.26,
-      "r18": false
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1331,
       "title": "Taiyou no Ie",
-      "score": 0.208,
-      "r18": false
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "pl"
+      ]
     },
     {
       "id": 1607,
       "title": "Sunny",
-      "score": 0.208,
-      "r18": false
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 2217,
       "title": "Barairo no Ashita",
-      "score": 0.208,
-      "r18": false
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2781,
       "title": "Gaku",
-      "score": 0.208,
-      "r18": false
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4959,
       "title": "Saturn Apartments",
-      "score": 0.208,
-      "r18": false
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 10369,
       "title": "Kakukaku Shikajika",
-      "score": 0.208,
-      "r18": false
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "sa"
+      ]
     },
     {
       "id": 16542,
       "title": "Blue Giant",
-      "score": 0.208,
-      "r18": false
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx",
+        "br",
+        "tr",
+        "cn"
+      ]
     },
     {
       "id": 20346,
       "title": "Watashi no Shounen",
-      "score": 0.208,
-      "r18": false
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
     },
     {
       "id": 29746,
       "title": "Sanju Mariko",
-      "score": 0.208,
-      "r18": false
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1016,
       "title": "Emma",
-      "score": 0.173,
-      "r18": false
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg",
+        "it"
+      ]
     },
     {
       "id": 1176,
       "title": "Inu wo Kau",
-      "score": 0.173,
-      "r18": false
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1915,
       "title": "Team Medical Dragon",
-      "score": 0.173,
-      "r18": false
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "pl"
+      ]
     },
     {
       "id": 2018,
       "title": "Piano no Mori",
-      "score": 0.173,
-      "r18": false
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg",
+        "br"
+      ]
     },
     {
       "id": 2256,
       "title": "Dragon Zakura",
-      "score": 0.173,
-      "r18": false
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2498,
       "title": "REAL",
-      "score": 0.173,
-      "r18": false
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "ru",
+        "sa",
+        "tr",
+        "id"
+      ]
     },
     {
       "id": 2966,
       "title": "Kimi wa Petto",
-      "score": 0.173,
-      "r18": false
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 3409,
       "title": "Otoyomegatari",
-      "score": 0.173,
-      "r18": false
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu",
+        "br",
+        "ru",
+        "bg"
+      ]
     },
     {
       "id": 3730,
       "title": "Sunadokei",
-      "score": 0.173,
-      "r18": false
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4472,
       "title": "Heartbroken Chocolatier",
-      "score": 0.173,
-      "r18": false
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5026,
       "title": "Bara no Tame ni",
-      "score": 0.173,
-      "r18": false
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5755,
       "title": "Yuunagi no Machi Sakura no Kuni",
-      "score": 0.173,
-      "r18": false
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa"
+      ]
     },
     {
       "id": 6478,
       "title": "Umimachi Diary",
-      "score": 0.173,
-      "r18": false
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "cn",
+        "gb"
+      ]
     },
     {
       "id": 6581,
       "title": "Dr. Koto Shinryoujo",
-      "score": 0.173,
-      "r18": false
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

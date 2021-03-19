@@ -1,158 +1,281 @@
 {
   "id": 46541,
   "title": "This Gyaru Will Date the Otaku in 100 Days",
-  "url": "https://api.mangadex.org/v2/manga/46541",
-  "last_updated": "February 12, 2021 00:55:47 UTC",
+  "url": "https://mangadex.org/manga/46541",
+  "last_updated": "March 18, 2021 12:48:58 UTC",
   "matches": [
+    {
+      "id": 49249,
+      "title": "This Is My Home",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
     {
       "id": 45824,
       "title": "First Comes Love, Then Comes Marriage",
-      "score": 0.37,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "vn",
+        "br",
+        "it"
+      ]
     },
     {
       "id": 50624,
       "title": "Down To Earth",
-      "score": 0.369,
-      "r18": false
-    },
-    {
-      "id": 50486,
-      "title": "The Story of a High-Schooler Who Wanted a Girlfriend but Had a Sour Face",
-      "score": 0.368,
-      "r18": false
-    },
-    {
-      "id": 47831,
-      "title": "Kono Subarashii Sekai ni Shukufuku wo! - KazuMegu will get married in 100 days (Doujinshi)",
-      "score": 0.363,
-      "r18": false
-    },
-    {
-      "id": 52223,
-      "title": "A Story About Becoming Temporary Lovers With a Classmate Who I Fell In Love With at First Sight",
-      "score": 0.358,
-      "r18": false
-    },
-    {
-      "id": 48521,
-      "title": "The Fallen TS Girl",
-      "score": 0.358,
-      "r18": false
-    },
-    {
-      "id": 48162,
-      "title": "summer arouse",
-      "score": 0.355,
-      "r18": false
-    },
-    {
-      "id": 27853,
-      "title": "Why Did Men Stop Wearing High Heels?",
-      "score": 0.355,
-      "r18": false
-    },
-    {
-      "id": 19586,
-      "title": "That House Where I Live With You",
-      "score": 0.349,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "br"
+      ]
     },
     {
       "id": 41519,
       "title": "Kuso Zako Choroin Nishiga Hachi (pixiv)",
-      "score": 0.34,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 41460,
-      "title": "One Day",
-      "score": 0.337,
-      "r18": false
+      "id": 48162,
+      "title": "summer arouse",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 49249,
-      "title": "This Is My Home",
-      "score": 0.335,
-      "r18": false
+      "id": 19586,
+      "title": "That House Where I Live With You",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 15437,
-      "title": "Our Relationship Is...",
-      "score": 0.332,
-      "r18": false
+      "id": 27853,
+      "title": "Why Did Men Stop Wearing High Heels?",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 19893,
-      "title": "The Elementary School Student That I Love",
-      "score": 0.329,
-      "r18": false
+      "id": 46682,
+      "title": "Zutto Otokonoko da to Omotte ita Gakitaishou ga Onnanoko deshita",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "cn",
+        "vn",
+        "fr",
+        "tr"
+      ]
     },
     {
-      "id": 46309,
-      "title": "Aquaman",
-      "score": 0.328,
-      "r18": false
+      "id": 48521,
+      "title": "The Fallen TS Girl",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "cn",
+        "mx",
+        "br",
+        "id",
+        "fr",
+        "vn",
+        "ru"
+      ]
+    },
+    {
+      "id": 52223,
+      "title": "A Story About Becoming Temporary Lovers With a Classmate Who I Fell In Love With at First Sight",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn",
+        "it"
+      ]
     },
     {
       "id": 35587,
       "title": "Valentine's Day and White Day",
-      "score": 0.327,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "ir",
+        "pl"
+      ]
     },
     {
-      "id": 54049,
-      "title": "I Still Haven't Experienced a Kiss",
-      "score": 0.327,
-      "r18": false
+      "id": 53312,
+      "title": "A story about a girl who doesn't hide her love and a boy who doesn't notice",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 35703,
-      "title": "The Story About You x Me",
-      "score": 0.327,
-      "r18": false
+      "id": 50486,
+      "title": "The Story of a High-Schooler Who Wanted a Girlfriend but Had a Sour Face",
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "it",
+        "fr"
+      ]
     },
     {
-      "id": 45593,
-      "title": "This Song Is Only for You",
-      "score": 0.326,
-      "r18": false
+      "id": 47831,
+      "title": "Kono Subarashii Sekai ni Shukufuku wo! - KazuMegu will get married in 100 days (Doujinshi)",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "pl",
+        "fr",
+        "br",
+        "ph"
+      ]
     },
     {
-      "id": 39517,
-      "title": "Seiseidoudou Futamata suru Hanashi",
-      "score": 0.325,
-      "r18": false
+      "id": 19893,
+      "title": "The Elementary School Student That I Love",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 42164,
-      "title": "Minegishi-san wa Ootsu-kun ni Tabesasetai",
-      "score": 0.325,
-      "r18": false
+      "id": 43109,
+      "title": "Pond Snail Robber",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "mx"
+      ]
     },
     {
-      "id": 40247,
-      "title": "The Year We Turned 29",
-      "score": 0.323,
-      "r18": false
+      "id": 15437,
+      "title": "Our Relationship Is...",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "tr"
+      ]
     },
     {
-      "id": 28790,
-      "title": "The Feelings of a Girl with Sanpaku Eyes",
-      "score": 0.323,
-      "r18": false
+      "id": 18622,
+      "title": "Que sera, sera",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "id"
+      ]
     },
     {
       "id": 52560,
       "title": "Touch Touch You",
-      "score": 0.322,
-      "r18": false
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 39490,
-      "title": "Love Letter for my Love Then and Now",
-      "score": 0.32,
-      "r18": false
+      "id": 26234,
+      "title": "The Tuna and the Dolphin",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 42121,
+      "title": "Once More",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr",
+        "id",
+        "vn"
+      ]
+    },
+    {
+      "id": 40247,
+      "title": "The Year We Turned 29",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 22230,
+      "title": "A &quot;Dimwitted&quot; Monk fell from Heaven",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 17218,
+      "title": "Adonis Next Door",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "mx",
+        "pl"
+      ]
+    },
+    {
+      "id": 50904,
+      "title": "One Thing I Can't Say",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

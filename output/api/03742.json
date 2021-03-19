@@ -2,55 +2,56 @@
   "id": 3742,
   "title": "White Dragon",
   "url": "https://mangadex.org/manga/3742",
-  "last_updated": "March 14, 2021 08:23:05 UTC",
+  "last_updated": "March 18, 2021 06:15:30 UTC",
   "matches": [
     {
       "id": 2496,
       "title": "Aoharu x Kikanjuu",
-      "score": 0.219,
-      "r18": false
-    },
-    {
-      "id": 26957,
-      "title": "Okyu no Trinity",
-      "score": 0.207,
-      "r18": false
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 559,
       "title": "Dark Air",
       "score": 0.207,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6521,
       "title": "Nishi no Yoki Majo",
-      "score": 0.157,
-      "r18": false
-    },
-    {
-      "id": 43551,
-      "title": "Is It Tough Being a Friend?",
-      "score": 0.143,
-      "r18": false
-    },
-    {
-      "id": 21063,
-      "title": "Mairimashita! Iruma-kun",
-      "score": 0.141,
-      "r18": false
+      "score": 0.156,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 42296,
       "title": "Piratebent",
-      "score": 0.121,
-      "r18": false
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20316,
       "title": "Rokudou no Onna-tachi",
       "score": 0.111,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "sa"
+      ]
     }
   ]
 }

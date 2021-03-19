@@ -1,26 +1,35 @@
 {
   "id": 44302,
   "title": "Fate/Ikustella",
-  "url": "https://api.mangadex.org/v2/manga/44302",
-  "last_updated": "February 11, 2021 16:39:01 UTC",
+  "url": "https://mangadex.org/manga/44302",
+  "last_updated": "March 18, 2021 12:30:15 UTC",
   "matches": [
     {
       "id": 54241,
       "title": "Maison de Pilote",
-      "score": 0.399,
-      "r18": false
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 41611,
       "title": "hello (rom-com) world",
-      "score": 0.3,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 46852,
       "title": "11me",
-      "score": 0.115,
-      "r18": false
+      "score": 0.096,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

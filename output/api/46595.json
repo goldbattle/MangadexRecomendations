@@ -1,26 +1,35 @@
 {
   "id": 46595,
   "title": "Chijou no Hito",
-  "url": "https://api.mangadex.org/v2/manga/46595",
-  "last_updated": "February 12, 2021 00:56:42 UTC",
+  "url": "https://mangadex.org/manga/46595",
+  "last_updated": "March 18, 2021 12:49:25 UTC",
   "matches": [
     {
       "id": 48188,
       "title": "Tabegoro! Haitoku no Kajitsu",
-      "score": 0.371,
-      "r18": true
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 47647,
       "title": "Ichigeki Nousatsu Satsuki-sensei",
-      "score": 0.344,
-      "r18": true
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 26721,
       "title": "Seifuku no Mama Aishinasai! - Love in school uniform",
-      "score": 0.09,
-      "r18": true
+      "score": 0.08,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

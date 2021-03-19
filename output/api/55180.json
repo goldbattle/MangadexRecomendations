@@ -1,158 +1,282 @@
 {
   "id": 55180,
   "title": "Planet Your",
-  "url": "https://api.mangadex.org/v2/manga/55180",
-  "last_updated": "March 12, 2021 20:34:37 UTC",
+  "url": "https://mangadex.org/manga/55180",
+  "last_updated": "March 18, 2021 14:01:12 UTC",
   "matches": [
+    {
+      "id": 59413,
+      "title": "Tales of Life's Victories",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx"
+      ]
+    },
     {
       "id": 56175,
       "title": "Rental Android",
-      "score": 0.397,
-      "r18": false
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 52458,
       "title": "Rainy Girl and Sunny Boy",
-      "score": 0.382,
-      "r18": false
-    },
-    {
-      "id": 59413,
-      "title": "Tales of Life's Victories",
-      "score": 0.38,
-      "r18": false
+      "score": 0.318,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 51343,
       "title": "Hydrangea",
-      "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 49739,
-      "title": "I Lied to My Idol to Get Closer to Him",
-      "score": 0.333,
-      "r18": false
-    },
-    {
-      "id": 55511,
-      "title": "Ichimura-kun Wants to Be Relied On",
-      "score": 0.325,
-      "r18": false
-    },
-    {
-      "id": 44007,
-      "title": "A Happy Couple",
-      "score": 0.325,
-      "r18": false
-    },
-    {
-      "id": 49759,
-      "title": "Out-of-Season Romantic Comedy Short Story",
-      "score": 0.324,
-      "r18": false
-    },
-    {
-      "id": 30999,
-      "title": "The Girl I Like Forgot Her Glasses - Twitter Version",
-      "score": 0.321,
-      "r18": false
-    },
-    {
-      "id": 56077,
-      "title": "The Story of the Captain and the Female Club Manager Going on a Date",
-      "score": 0.317,
-      "r18": false
-    },
-    {
-      "id": 58341,
-      "title": "The Always-Sleepy Classmate Wants Help",
-      "score": 0.316,
-      "r18": false
-    },
-    {
-      "id": 49986,
-      "title": "Hajimete Koibito ga Dekimashita.",
-      "score": 0.316,
-      "r18": false
-    },
-    {
-      "id": 58976,
-      "title": "Everything was beautiful and nothing hurt",
-      "score": 0.315,
-      "r18": false
-    },
-    {
-      "id": 55895,
-      "title": "The Story About an Aggressive Kouhai",
-      "score": 0.313,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 51809,
       "title": "Osananajimi ga Hisabisa ni Saikai Shitara Otagai Kyonyuu ni Natteta",
-      "score": 0.311,
-      "r18": false
-    },
-    {
-      "id": 43364,
-      "title": "Yukinoshita-san and Her Manager",
-      "score": 0.302,
-      "r18": false
-    },
-    {
-      "id": 44121,
-      "title": "My Classmate Became My Maid",
-      "score": 0.3,
-      "r18": false
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru",
+        "mx",
+        "id",
+        "br",
+        "vn"
+      ]
     },
     {
       "id": 44389,
       "title": "At First Glance, Shinoda-san Seems Cool but Is Actually Adorable!",
-      "score": 0.3,
-      "r18": false
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
-      "id": 46320,
-      "title": "A Lovely Onee-San at a Laundromat",
-      "score": 0.297,
-      "r18": false
+      "id": 57471,
+      "title": "Meeting the Girl I Helped Years Ago",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 43303,
-      "title": "Drinks With My Supervisor",
-      "score": 0.295,
-      "r18": false
+      "id": 55511,
+      "title": "Ichimura-kun Wants to Be Relied On",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
-      "id": 57598,
-      "title": "Yada-san Is Cold",
-      "score": 0.294,
-      "r18": false
+      "id": 58341,
+      "title": "The Always-Sleepy Classmate Wants Help",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 53832,
-      "title": "Love Tweets",
-      "score": 0.293,
-      "r18": false
+      "id": 49986,
+      "title": "Hajimete Koibito ga Dekimashita.",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 39490,
-      "title": "Love Letter for my Love Then and Now",
-      "score": 0.289,
-      "r18": false
+      "id": 30999,
+      "title": "The Girl I Like Forgot Her Glasses - Twitter Version",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 53035,
       "title": "Re: Shelter from the Rain",
-      "score": 0.288,
-      "r18": false
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "pl",
+        "it"
+      ]
     },
     {
-      "id": 45824,
-      "title": "First Comes Love, Then Comes Marriage",
-      "score": 0.287,
-      "r18": false
+      "id": 44121,
+      "title": "My Classmate Became My Maid",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru"
+      ]
+    },
+    {
+      "id": 43364,
+      "title": "Yukinoshita-san and Her Manager",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 49759,
+      "title": "Out-of-Season Romantic Comedy Short Story",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 53364,
+      "title": "Returning from a Drinking Party",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55150,
+      "title": "The Story of a Quiet Boyfriend Who Could Only Say What He Liked About Her",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 48128,
+      "title": "A Story About a Creepy Girl's Smile",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "th",
+        "br",
+        "ru",
+        "pl",
+        "gb",
+        "vn",
+        "id",
+        "de",
+        "fr",
+        "tr"
+      ]
+    },
+    {
+      "id": 43303,
+      "title": "Drinks With My Supervisor",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "mx"
+      ]
+    },
+    {
+      "id": 46320,
+      "title": "A Lovely Onee-San at a Laundromat",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "th",
+        "ru",
+        "gb",
+        "de",
+        "vn",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 44007,
+      "title": "A Happy Couple",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "id",
+        "sa"
+      ]
+    },
+    {
+      "id": 50208,
+      "title": "Tonari no Class no Midorikawa-san",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "tr",
+        "cn"
+      ]
+    },
+    {
+      "id": 57598,
+      "title": "Yada-san Is Cold",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id",
+        "vn",
+        "br"
+      ]
+    },
+    {
+      "id": 49739,
+      "title": "I Lied to My Idol to Get Closer to Him",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "id"
+      ]
+    },
+    {
+      "id": 56077,
+      "title": "The Story of the Captain and the Female Club Manager Going on a Date",
+      "score": 0.254,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

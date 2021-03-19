@@ -2,157 +2,306 @@
   "id": 53895,
   "title": "Covenant",
   "url": "https://mangadex.org/manga/53895",
-  "last_updated": "January 16, 2021 06:26:57 UTC",
+  "last_updated": "March 18, 2021 13:50:27 UTC",
   "matches": [
     {
-      "id": 46400,
-      "title": "Radiant Dawn",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 57382,
-      "title": "Shirayuki",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 22648,
-      "title": "Goddess Creation System",
-      "score": 0.667,
-      "r18": false
-    },
-    {
-      "id": 35448,
-      "title": "Strongest Abandoned Son",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 54961,
-      "title": "Trapped in a Webnovel as a Good-for-Nothing",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 52838,
-      "title": "I've Become the Villainous Empress of a Novel",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 37057,
-      "title": "The Hidden Descendants",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 47153,
-      "title": "Demons Can't Be Pretty",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 44543,
-      "title": "Lost Princess",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 45617,
-      "title": "Super Cube",
-      "score": 0.37,
-      "r18": false
-    },
-    {
-      "id": 40617,
-      "title": "The Seal of the Mountains and Seas",
-      "score": 0.366,
-      "r18": false
-    },
-    {
-      "id": 53731,
-      "title": "Beginning of the Human Age",
-      "score": 0.364,
-      "r18": false
-    },
-    {
-      "id": 53714,
-      "title": "Moshin Hunter",
-      "score": 0.364,
-      "r18": false
-    },
-    {
-      "id": 50690,
-      "title": "Demonic Awakening",
-      "score": 0.359,
-      "r18": false
-    },
-    {
-      "id": 53745,
-      "title": "Divine Emperor",
-      "score": 0.359,
-      "r18": false
-    },
-    {
-      "id": 54616,
-      "title": "Is There a Problem If the Demon King Is a Goblin?!",
-      "score": 0.359,
-      "r18": false
-    },
-    {
-      "id": 16086,
-      "title": "Tiger Brother - Barkhan",
-      "score": 0.357,
-      "r18": false
-    },
-    {
-      "id": 33277,
-      "title": "Raid",
-      "score": 0.357,
-      "r18": false
+      "id": 47571,
+      "title": "The Blade of Evolution-Walking Alone in the Dungeon",
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "ru",
+        "sa",
+        "it",
+        "il"
+      ]
     },
     {
       "id": 55942,
       "title": "Grim Reaper Online",
-      "score": 0.357,
-      "r18": false
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 55486,
+      "title": "The Demon Queen Has a Death Wish",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "id"
+      ]
+    },
+    {
+      "id": 55487,
+      "title": "Silver Demon King",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 43803,
+      "title": "Martial Arts Reigns",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 44260,
+      "title": "The Red King",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "br",
+        "ir"
+      ]
+    },
+    {
+      "id": 48695,
+      "title": "OOPARTS",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br"
+      ]
+    },
+    {
+      "id": 47349,
+      "title": "Fairy&rsquo;s Armament",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 31013,
+      "title": "Eleceed",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "tr",
+        "fr",
+        "pl"
+      ]
+    },
+    {
+      "id": 36554,
+      "title": "Gong Heon Ja",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "pl",
+        "id",
+        "fr",
+        "sa"
+      ]
+    },
+    {
+      "id": 51822,
+      "title": "The Blood Princess and the Knight",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "fr",
+        "br",
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 34740,
       "title": "My Wife Is a Demon Queen",
-      "score": 0.356,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "pt",
+        "mx",
+        "tr",
+        "ru",
+        "id",
+        "pl"
+      ]
     },
     {
-      "id": 50774,
-      "title": "The Diary of a 100 Day Part-Time Witch",
-      "score": 0.354,
-      "r18": false
+      "id": 56921,
+      "title": "Hero with another opinion",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "br",
+        "fr",
+        "ru"
+      ]
     },
     {
-      "id": 39411,
-      "title": "Zui Liao Zai",
-      "score": 0.351,
-      "r18": false
+      "id": 37512,
+      "title": "The Doctor's Supremacy",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "tr",
+        "br",
+        "fr",
+        "ru"
+      ]
     },
     {
-      "id": 38020,
-      "title": "Regnal Trigger",
-      "score": 0.349,
-      "r18": false
+      "id": 43821,
+      "title": "Emperor LingTian",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 8017,
-      "title": "Trump",
-      "score": 0.347,
-      "r18": false
+      "id": 39195,
+      "title": "Crisis",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id"
+      ]
+    },
+    {
+      "id": 58002,
+      "title": "Level up Alone",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 19069,
+      "title": "Soul Land III - The Legend of the Dragon King",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 58027,
+      "title": "Dawn Empire",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "id",
+        "br"
+      ]
+    },
+    {
+      "id": 45293,
+      "title": "Infinite Apostles and Twelve War Girls",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "fr",
+        "br",
+        "mx"
+      ]
     },
     {
       "id": 48152,
       "title": "Immortal Demon Dad",
-      "score": 0.347,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 32540,
+      "title": "I'm a Fake NPC",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "tr",
+        "es",
+        "mx"
+      ]
+    },
+    {
+      "id": 45306,
+      "title": "Peerless Battle Spirit",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "it"
+      ]
+    },
+    {
+      "id": 49959,
+      "title": "Black Card",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 55908,
+      "title": "One Sword Reigns Supreme",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "pl",
+        "br"
+      ]
     }
   ]
 }

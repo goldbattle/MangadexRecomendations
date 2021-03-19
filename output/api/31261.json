@@ -1,68 +1,115 @@
 {
   "id": 31261,
   "title": "Datte Kimi Wa, Osananajimi",
-  "url": "https://api.mangadex.org/v2/manga/31261",
-  "last_updated": "February 10, 2021 08:17:25 UTC",
+  "url": "https://mangadex.org/manga/31261",
+  "last_updated": "March 18, 2021 10:41:26 UTC",
   "matches": [
     {
-      "id": 11867,
-      "title": "Hotarubi no Mori e",
-      "score": 0.737,
-      "r18": false
+      "id": 9430,
+      "title": "Kimi no Kachi",
+      "score": 0.286,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 10162,
-      "title": "...no Onna",
-      "score": 0.683,
-      "r18": false
+      "id": 47062,
+      "title": "Planet Love",
+      "score": 0.27,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 41047,
       "title": "Kisu wa kossori to.",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 17364,
-      "title": "He Loves You",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 3669,
-      "title": "Rakuen",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 45990,
-      "title": "Osana Najimi no Majo ni Tsuite",
-      "score": 0.653,
-      "r18": false
+      "score": 0.254,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
     },
     {
       "id": 3049,
       "title": "Make Sweet",
-      "score": 0.372,
-      "r18": false
-    },
-    {
-      "id": 5293,
-      "title": "Sekai wa Kimi o Sukuu!",
-      "score": 0.369,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4172,
       "title": "Onaji Sora wo Miteiru",
-      "score": 0.365,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 40781,
       "title": "Hidaka no Banri-kun",
-      "score": 0.334,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5293,
+      "title": "Sekai wa Kimi o Sukuu!",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 10162,
+      "title": "...no Onna",
+      "score": 0.203,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3669,
+      "title": "Rakuen",
+      "score": 0.197,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 11867,
+      "title": "Hotarubi no Mori e",
+      "score": 0.169,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "es",
+        "it"
+      ]
+    },
+    {
+      "id": 45990,
+      "title": "Osana Najimi no Majo ni Tsuite",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

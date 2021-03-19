@@ -1,158 +1,254 @@
 {
   "id": 45970,
   "title": "Mitsuyaku",
-  "url": "https://api.mangadex.org/v2/manga/45970",
-  "last_updated": "February 11, 2021 20:34:21 UTC",
+  "url": "https://mangadex.org/manga/45970",
+  "last_updated": "March 18, 2021 12:44:11 UTC",
   "matches": [
     {
-      "id": 57844,
-      "title": "Kaibutsu Ouji",
-      "score": 0.741,
-      "r18": false
+      "id": 28934,
+      "title": "Roman Gousha",
+      "score": 0.38,
+      "r18": false,
+      "languages": [
+        "hu",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 24469,
+      "title": "Anohito to Nitenai Kuchibiru",
+      "score": 0.342,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 36950,
       "title": "Koi wa Maiorita",
-      "score": 0.734,
-      "r18": false
-    },
-    {
-      "id": 55745,
-      "title": "Gensou Shounen Koimonogatari",
-      "score": 0.719,
-      "r18": false
-    },
-    {
-      "id": 4336,
-      "title": "Goshintou",
-      "score": 0.718,
-      "r18": false
-    },
-    {
-      "id": 28939,
-      "title": "The Hinanomori",
-      "score": 0.715,
-      "r18": false
-    },
-    {
-      "id": 55072,
-      "title": "Gekkou no Rankan ni Kuchinashi no Nioi",
-      "score": 0.715,
-      "r18": false
-    },
-    {
-      "id": 9475,
-      "title": "Tsuki ni Hoero",
-      "score": 0.714,
-      "r18": false
+      "score": 0.312,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 27076,
       "title": "Jadou",
-      "score": 0.714,
-      "r18": false
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
-      "id": 15501,
-      "title": "Feng Yu Jiu Tian",
-      "score": 0.709,
-      "r18": false
+      "id": 1163,
+      "title": "Mede Shireru Yoru no Junjou",
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 29113,
-      "title": "Yubisaki no Koi",
-      "score": 0.707,
-      "r18": false
+      "id": 36800,
+      "title": "Oki ni Mesu Mama",
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "it"
+      ]
     },
     {
-      "id": 37669,
-      "title": "Wild Rock",
-      "score": 0.702,
-      "r18": false
+      "id": 30175,
+      "title": "1\u4e00",
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 25475,
-      "title": "Tanbishugi",
-      "score": 0.701,
-      "r18": false
+      "id": 23762,
+      "title": "Sandu",
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 19269,
-      "title": "Ginza Neon Paradise",
-      "score": 0.701,
-      "r18": false
-    },
-    {
-      "id": 21928,
-      "title": "Ookami wo Karu Housoku",
-      "score": 0.7,
-      "r18": false
-    },
-    {
-      "id": 35513,
-      "title": "Rumspringa no Joukei",
-      "score": 0.7,
-      "r18": false
-    },
-    {
-      "id": 36041,
-      "title": "Zombie Hide Sex",
-      "score": 0.699,
-      "r18": false
+      "id": 4336,
+      "title": "Goshintou",
+      "score": 0.303,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 53203,
       "title": "Hana wa Junai ni Junjiru",
-      "score": 0.699,
-      "r18": false
+      "score": 0.301,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 34470,
-      "title": "Kudan no Kuroneko",
-      "score": 0.697,
-      "r18": false
+      "id": 26617,
+      "title": "Ikusen no Toki o Koete",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 26549,
-      "title": "Hoshigari na Kimi to Futsutsuka na Boku",
-      "score": 0.696,
-      "r18": false
+      "id": 57001,
+      "title": "Koisuru Ikimono",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 38511,
-      "title": "Sono Toki Heart wa Nusumareta",
-      "score": 0.696,
-      "r18": false
+      "id": 8627,
+      "title": "Bamford Koushakuke no Shitsuji",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "id"
+      ]
     },
     {
-      "id": 34688,
-      "title": "Mugen Garan",
-      "score": 0.695,
-      "r18": false
+      "id": 24920,
+      "title": "BxP Anx",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 8905,
-      "title": "Hana no Miyako de",
-      "score": 0.695,
-      "r18": false
+      "id": 10393,
+      "title": "Kare Otoko ni Izumi wo",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 56162,
-      "title": "Tenshi no Tamagoryouri",
-      "score": 0.695,
-      "r18": false
+      "id": 23858,
+      "title": "Bokura wa Nando mo Koi o Suru",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
-      "id": 14648,
-      "title": "Hana to Chou",
-      "score": 0.695,
-      "r18": false
+      "id": 22449,
+      "title": "White &amp; Black",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 15036,
-      "title": "Bara no Hitomi wa Bakudan",
-      "score": 0.694,
-      "r18": false
+      "id": 13366,
+      "title": "Kimi to Kore Kara",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "pl",
+        "tr",
+        "gb"
+      ]
+    },
+    {
+      "id": 37669,
+      "title": "Wild Rock",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24741,
+      "title": "Shounen to Kusuriuri",
+      "score": 0.297,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 14385,
+      "title": "Corsair - Eigetsu",
+      "score": 0.297,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19269,
+      "title": "Ginza Neon Paradise",
+      "score": 0.297,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19679,
+      "title": "5-nin no Ou",
+      "score": 0.296,
+      "r18": false,
+      "languages": [
+        "mx",
+        "ru",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 35513,
+      "title": "Rumspringa no Joukei",
+      "score": 0.295,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37679,
+      "title": "No.99: Ningen Omocha",
+      "score": 0.293,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl"
+      ]
     }
   ]
 }

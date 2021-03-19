@@ -1,158 +1,255 @@
 {
   "id": 40936,
   "title": "Pet",
-  "url": "https://api.mangadex.org/v2/manga/40936",
-  "last_updated": "February 11, 2021 08:31:15 UTC",
+  "url": "https://mangadex.org/manga/40936",
+  "last_updated": "March 18, 2021 12:02:08 UTC",
   "matches": [
     {
-      "id": 34328,
-      "title": "H.P. Lovecraft's The Hound and Other Stories",
-      "score": 0.75,
-      "r18": false
-    },
-    {
-      "id": 7439,
-      "title": "Melody of Iron",
-      "score": 0.742,
-      "r18": false
-    },
-    {
-      "id": 1120,
-      "title": "Ultra Heaven",
-      "score": 0.738,
-      "r18": false
-    },
-    {
-      "id": 29363,
-      "title": "Bungou Stray Dogs: Dead Apple",
-      "score": 0.737,
-      "r18": false
-    },
-    {
-      "id": 29740,
-      "title": "Parasyte Reversi",
-      "score": 0.734,
-      "r18": false
-    },
-    {
-      "id": 4880,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
-      "score": 0.734,
-      "r18": false
-    },
-    {
-      "id": 27634,
-      "title": "MW",
-      "score": 0.733,
-      "r18": false
-    },
-    {
-      "id": 1714,
-      "title": "Kara no Kyoukai - The Garden of Sinners",
-      "score": 0.732,
-      "r18": false
-    },
-    {
-      "id": 3790,
-      "title": "Tiger &amp; Bunny",
-      "score": 0.732,
-      "r18": false
-    },
-    {
-      "id": 19086,
-      "title": "Ushiro - The Somber God of Death",
-      "score": 0.731,
-      "r18": false
-    },
-    {
-      "id": 11898,
-      "title": "Rohan at the Louvre",
-      "score": 0.728,
-      "r18": false
-    },
-    {
-      "id": 7126,
-      "title": "Dimension W",
-      "score": 0.727,
-      "r18": false
-    },
-    {
-      "id": 10785,
-      "title": "Trace 2.0",
-      "score": 0.725,
-      "r18": false
-    },
-    {
-      "id": 309,
-      "title": "Until Death Do Us Part",
-      "score": 0.724,
-      "r18": false
-    },
-    {
-      "id": 9829,
-      "title": "Immortal Hounds",
-      "score": 0.724,
-      "r18": false
-    },
-    {
-      "id": 2888,
-      "title": "Trace 1.5",
-      "score": 0.724,
-      "r18": false
-    },
-    {
-      "id": 20537,
-      "title": "Seirei Gensouki ~Konna Sekai de Deaeta Kimi ni~",
-      "score": 0.724,
-      "r18": false
-    },
-    {
-      "id": 112,
-      "title": "Trace",
-      "score": 0.722,
-      "r18": false
-    },
-    {
-      "id": 28617,
-      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run",
-      "score": 0.722,
-      "r18": false
+      "id": 23568,
+      "title": "Rurimiya Mugen Kobutsuten",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 191,
       "title": "Kimi no Knife",
-      "score": 0.719,
-      "r18": false
+      "score": 0.33,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 2712,
-      "title": "Blame!",
-      "score": 0.718,
-      "r18": false
+      "id": 1419,
+      "title": "Life Is Money",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "de",
+        "it"
+      ]
     },
     {
-      "id": 8495,
-      "title": "Persona 3",
-      "score": 0.716,
-      "r18": false
+      "id": 6665,
+      "title": "Astral Project - Tsuki no Hikari",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 3056,
-      "title": "Tokyo Ghoul",
-      "score": 0.716,
-      "r18": false
+      "id": 2525,
+      "title": "Higurashi no Naku Koro ni - Himatsubushi-hen",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br"
+      ]
     },
     {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.716,
-      "r18": false
+      "id": 1722,
+      "title": "13 Club",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 148,
-      "title": "Destroy and Revolution",
-      "score": 0.715,
-      "r18": false
+      "id": 2622,
+      "title": "Higurashi no Naku Koro ni - Yoigoshi-hen",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 335,
+      "title": "Eternal Sabbath",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu",
+        "pl"
+      ]
+    },
+    {
+      "id": 2607,
+      "title": "Higurashi no Naku Koro ni - Onisarashi-hen",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 16688,
+      "title": "Kamisama no Joker",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2540,
+      "title": "Higurashi no Naku Koro ni Kai - Tsumihoroboshi-hen",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 31974,
+      "title": "Theseus no Fune",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2539,
+      "title": "Higurashi no Naku Koro ni Kai - Meakashi-hen",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 5853,
+      "title": "SWWEEET",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "pl"
+      ]
+    },
+    {
+      "id": 2523,
+      "title": "Higurashi no Naku Koro ni - Watanagashi-hen",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de",
+        "fr",
+        "br"
+      ]
+    },
+    {
+      "id": 23402,
+      "title": "Higurashi no Naku Koro ni Rei - Saikoroshi-hen",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2616,
+      "title": "Higurashi no Naku Koro ni Kai - Utsutsukowashi-hen",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2582,
+      "title": "Higurashi no Naku Koro ni Kai - Minagoroshi-hen",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7699,
+      "title": "Majime na Jikan",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2602,
+      "title": "Higurashi no Naku Koro ni Kai - Matsuribayashi-hen",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa"
+      ]
+    },
+    {
+      "id": 12592,
+      "title": "Hana to Uso to Makoto",
+      "score": 0.274,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21979,
+      "title": "Steins;Gate 0",
+      "score": 0.273,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
+    },
+    {
+      "id": 2415,
+      "title": "Vampir",
+      "score": 0.27,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4490,
+      "title": "Livingstone",
+      "score": 0.27,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru",
+        "it"
+      ]
+    },
+    {
+      "id": 13032,
+      "title": "Kyoukotsu no Yume",
+      "score": 0.269,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb"
+      ]
     }
   ]
 }

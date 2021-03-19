@@ -1,86 +1,150 @@
 {
   "id": 42177,
   "title": "Unicorn to sabishi-gari ya shoujo",
-  "url": "https://api.mangadex.org/v2/manga/42177",
-  "last_updated": "February 11, 2021 12:21:27 UTC",
+  "url": "https://mangadex.org/manga/42177",
+  "last_updated": "March 18, 2021 12:12:29 UTC",
   "matches": [
     {
-      "id": 32987,
-      "title": "Yagate Kimi ni Naru Official Comic Anthology",
-      "score": 0.314,
-      "r18": false
-    },
-    {
-      "id": 50658,
-      "title": "Moshi, Koi ga Mieta Nara",
-      "score": 0.306,
-      "r18": false
+      "id": 36445,
+      "title": "Rin to shite Karen na Hana no you ni",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 44265,
       "title": "Come Rain or Shine",
-      "score": 0.305,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
-      "id": 36445,
-      "title": "Rin to shite Karen na Hana no you ni",
-      "score": 0.303,
-      "r18": false
-    },
-    {
-      "id": 43353,
-      "title": "School Zone",
-      "score": 0.299,
-      "r18": false
+      "id": 12771,
+      "title": "Opapagoto",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb"
+      ]
     },
     {
       "id": 9010,
       "title": "Yuri Mekuru Hibi",
-      "score": 0.295,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 43353,
+      "title": "School Zone",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br",
+        "ir",
+        "fr"
+      ]
     },
     {
       "id": 43561,
       "title": "Noroi no Aoi-chan",
-      "score": 0.29,
-      "r18": false
+      "score": 0.246,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 32987,
+      "title": "Yagate Kimi ni Naru Official Comic Anthology",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "de",
+        "gb",
+        "mx",
+        "br"
+      ]
     },
     {
       "id": 20597,
       "title": "Seifuku no Vampiress Lord",
-      "score": 0.26,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 26218,
       "title": "From Today I'll Be a Goddess",
-      "score": 0.239,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 26468,
-      "title": "Kakegurui Yorozu",
-      "score": 0.235,
-      "r18": false
+      "id": 50658,
+      "title": "Moshi, Koi ga Mieta Nara",
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "id"
+      ]
     },
     {
       "id": 22415,
       "title": "Shouraiteki ni Shinde Kure",
-      "score": 0.233,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 36486,
       "title": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui! - MokoMote (Doujinshi)",
-      "score": 0.233,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 54276,
       "title": "Succubus vs Lesbian",
-      "score": 0.233,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "id",
+        "fr",
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 26468,
+      "title": "Kakegurui Yorozu",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

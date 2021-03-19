@@ -2,49 +2,68 @@
   "id": 26609,
   "title": "Momo to Manji",
   "url": "https://mangadex.org/manga/26609",
-  "last_updated": "March 16, 2021 20:22:37 UTC",
+  "last_updated": "March 18, 2021 10:02:38 UTC",
   "matches": [
     {
       "id": 40127,
       "title": "Gerard to Jacques",
       "score": 0.31,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
     },
     {
       "id": 12635,
       "title": "Ubawarerukoto Marugoto Zenbu",
-      "score": 0.3,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "pl"
+      ]
     },
     {
       "id": 29108,
       "title": "Three Wolves Mountain",
-      "score": 0.3,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 12856,
       "title": "Aisaretaino",
-      "score": 0.278,
-      "r18": false
+      "score": 0.277,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 46008,
       "title": "Sexy Effect 96",
-      "score": 0.25,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 30632,
       "title": "Complex",
-      "score": 0.235,
-      "r18": false
-    },
-    {
-      "id": 22242,
-      "title": "King's Maker",
-      "score": 0.155,
-      "r18": false
+      "score": 0.234,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx"
+      ]
     }
   ]
 }

@@ -1,158 +1,277 @@
 {
   "id": 41148,
   "title": "Sugar Dog",
-  "url": "https://api.mangadex.org/v2/manga/41148",
-  "last_updated": "February 11, 2021 08:34:38 UTC",
+  "url": "https://mangadex.org/manga/41148",
+  "last_updated": "March 18, 2021 12:03:54 UTC",
   "matches": [
-    {
-      "id": 6270,
-      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo (Official Colored)",
-      "score": 0.703,
-      "r18": false
-    },
-    {
-      "id": 28525,
-      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo",
-      "score": 0.702,
-      "r18": false
-    },
-    {
-      "id": 38712,
-      "title": "Hakata Tonkotsu Ramens",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 53977,
-      "title": "Dragon Raja 2",
-      "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 53985,
-      "title": "Dragon Raja 3",
-      "score": 0.672,
-      "r18": false
-    },
-    {
-      "id": 153,
-      "title": "Detective Conan",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 48155,
-      "title": "JoJo's Bizarre Adventure: Cost of information (Doujinshi)",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 58415,
-      "title": "Boss in School: The Beginning",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 20316,
-      "title": "Rokudou no Onna-tachi",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 9240,
-      "title": "Tantei Gakuen Q Premium",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 48142,
-      "title": "BILLY THE TALL",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 2589,
-      "title": "Tantei Gakuen Q",
-      "score": 0.651,
-      "r18": false
-    },
     {
       "id": 41247,
       "title": "Geki!! Gokutora Ikka",
-      "score": 0.432,
-      "r18": false
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 16694,
       "title": "Lupin III Jr.",
-      "score": 0.334,
-      "r18": false
-    },
-    {
-      "id": 19910,
-      "title": "Shitei Bouryoku Shoujo Shiomi-chan",
-      "score": 0.327,
-      "r18": false
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 38914,
       "title": "Nibiiro no Chameleon",
-      "score": 0.327,
-      "r18": false
-    },
-    {
-      "id": 13127,
-      "title": "Urami Koi, Koi, Urami Koi.",
-      "score": 0.319,
-      "r18": false
-    },
-    {
-      "id": 20964,
-      "title": "Rash!!",
-      "score": 0.315,
-      "r18": false
-    },
-    {
-      "id": 58461,
-      "title": "Midoriyama Police Gang",
-      "score": 0.301,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 44982,
       "title": "Indigo Police",
-      "score": 0.298,
-      "r18": false
-    },
-    {
-      "id": 59701,
-      "title": "One Operation Joker",
-      "score": 0.28,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 42127,
       "title": "Lone Wolf",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 32259,
-      "title": "My Girlfriend Is a Villain",
-      "score": 0.27,
-      "r18": false
+      "id": 58461,
+      "title": "Midoriyama Police Gang",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 48142,
+      "title": "BILLY THE TALL",
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20964,
+      "title": "Rash!!",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
+    },
+    {
+      "id": 19910,
+      "title": "Shitei Bouryoku Shoujo Shiomi-chan",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr"
+      ]
+    },
+    {
+      "id": 59701,
+      "title": "One Operation Joker",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "br",
+        "cn",
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 38712,
+      "title": "Hakata Tonkotsu Ramens",
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 13127,
+      "title": "Urami Koi, Koi, Urami Koi.",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "it",
+        "es",
+        "de"
+      ]
+    },
+    {
+      "id": 58415,
+      "title": "Boss in School: The Beginning",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "ir",
+        "ru"
+      ]
+    },
+    {
+      "id": 49443,
+      "title": "Spy Room",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "id"
+      ]
+    },
+    {
+      "id": 28525,
+      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo",
+      "score": 0.167,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 6270,
+      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo (Official Colored)",
+      "score": 0.162,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "ru",
+        "br",
+        "de"
+      ]
+    },
+    {
+      "id": 51633,
+      "title": "Security Guard Bae Du-Man",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 109,
+      "title": "Katekyo Hitman Reborn!",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "mx",
+        "fr"
+      ]
+    },
+    {
+      "id": 47416,
+      "title": "Dffrnt Strks",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 12714,
+      "title": "Boku no Hero Academia",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "br",
+        "sa",
+        "gb",
+        "it",
+        "es",
+        "de",
+        "ru",
+        "mx",
+        "id",
+        "fr"
+      ]
+    },
+    {
+      "id": 2589,
+      "title": "Tantei Gakuen Q",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 820,
       "title": "Zettai Karen Children",
-      "score": 0.258,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "pl"
+      ]
     },
     {
-      "id": 19692,
-      "title": "Vigilante: Boku no Hero Academia Illegals",
-      "score": 0.254,
-      "r18": false
+      "id": 39048,
+      "title": "Blood Rain 2",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 48110,
+      "title": "A Story About a Yakuza and a Detective With a Stern Face",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "vn",
+        "ru"
+      ]
+    },
+    {
+      "id": 58602,
+      "title": "SF Mix",
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

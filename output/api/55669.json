@@ -1,158 +1,254 @@
 {
   "id": 55669,
   "title": "In That Relationship",
-  "url": "https://api.mangadex.org/v2/manga/55669",
-  "last_updated": "March 12, 2021 20:40:44 UTC",
+  "url": "https://mangadex.org/manga/55669",
+  "last_updated": "March 18, 2021 14:05:17 UTC",
   "matches": [
     {
       "id": 33390,
       "title": "Studying Emperor",
-      "score": 0.763,
-      "r18": false
-    },
-    {
-      "id": 18685,
-      "title": "Lovely Bokhee-ssi",
-      "score": 0.706,
-      "r18": false
+      "score": 0.695,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 22147,
       "title": "Golden Waltz",
-      "score": 0.706,
-      "r18": false
+      "score": 0.363,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 47124,
+      "title": "The Prince Disguised as the Clown",
+      "score": 0.356,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53531,
+      "title": "Someday I Never Knew",
+      "score": 0.356,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 30253,
+      "title": "Lonely, Lonely Fireflies",
+      "score": 0.356,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "es"
+      ]
     },
     {
       "id": 15694,
       "title": "Yungsu's Spring",
-      "score": 0.686,
-      "r18": false
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 55174,
+      "title": "Yeon Woo's Innocence",
+      "score": 0.334,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 30553,
+      "title": "True Beauty",
+      "score": 0.329,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br",
+        "gb",
+        "fr",
+        "ru"
+      ]
+    },
+    {
+      "id": 29118,
+      "title": "A Guide to Proper Dating",
+      "score": 0.316,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18951,
+      "title": "Koe Koi",
+      "score": 0.316,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr"
+      ]
+    },
+    {
+      "id": 19153,
+      "title": "Weekly Boys' Dating Agency",
+      "score": 0.316,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 57949,
+      "title": "A Beloved Existence",
+      "score": 0.316,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59253,
+      "title": "Born Perfect",
+      "score": 0.316,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 43986,
+      "title": "Although Life May Deceive Us",
+      "score": 0.316,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 56100,
+      "title": "Our School Teacher Kim",
+      "score": 0.316,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 26235,
+      "title": "Hongshi Loves Me!",
+      "score": 0.316,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 48839,
+      "title": "Daybreaking Romance",
+      "score": 0.316,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 46908,
       "title": "Today Living With You",
-      "score": 0.676,
-      "r18": false
+      "score": 0.315,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 349,
-      "title": "Goong",
-      "score": 0.674,
-      "r18": false
+      "id": 20967,
+      "title": "Love Doesn't Talk",
+      "score": 0.314,
+      "r18": false,
+      "languages": [
+        "tr",
+        "fr",
+        "gb",
+        "br",
+        "it"
+      ]
     },
     {
-      "id": 11867,
-      "title": "Hotarubi no Mori e",
-      "score": 0.671,
-      "r18": false
+      "id": 57706,
+      "title": "Isn't the Contrast Cute?",
+      "score": 0.312,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 21052,
-      "title": "Seifuku, Kekkon",
-      "score": 0.668,
-      "r18": false
+      "id": 49460,
+      "title": "Autumn Wind and Rain",
+      "score": 0.312,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 15294,
-      "title": "Kimi wa Nani mo Shiranai",
-      "score": 0.664,
-      "r18": false
+      "id": 42712,
+      "title": "Born Beauty",
+      "score": 0.312,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 12998,
-      "title": "Fushigi na Hito",
-      "score": 0.663,
-      "r18": false
+      "id": 51085,
+      "title": "The Duke's Hidden Baby: BOGO!",
+      "score": 0.312,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb"
+      ]
     },
     {
-      "id": 5961,
-      "title": "Missing Piece",
-      "score": 0.662,
-      "r18": false
+      "id": 38314,
+      "title": "Newton no Tsubomi",
+      "score": 0.312,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 52810,
-      "title": "Show Window Couple",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 3352,
-      "title": "Kimi ga Suki",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 3082,
-      "title": "Get Love!! ~Field no Ouji-sama~",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 28359,
-      "title": "Boku ga Utau to Kimi wa Warau kara",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 6082,
-      "title": "Yume Miru Happa",
-      "score": 0.657,
-      "r18": false
-    },
-    {
-      "id": 54474,
-      "title": "The Princess in the Dumpster",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 3453,
-      "title": "Hizamazuite Ai wo Chikae",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 2748,
-      "title": "Bodyguard",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 2217,
-      "title": "Barairo no Ashita",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 1899,
-      "title": "His and Her Circumstances",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 44796,
-      "title": "The Kids Have Changed",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 6473,
-      "title": "Mimi wo Sumaseba - Shiawase na Jikan",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 2683,
-      "title": "Hatsumei Princess",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 23013,
-      "title": "The Vengeful White Cat Lounging on the Dragon King's Lap",
-      "score": 0.652,
-      "r18": false
+      "id": 44193,
+      "title": "Mistake",
+      "score": 0.312,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

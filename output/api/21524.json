@@ -2,31 +2,48 @@
   "id": 21524,
   "title": "Guru Guru Circus",
   "url": "https://mangadex.org/manga/21524",
-  "last_updated": "March 16, 2021 04:27:18 UTC",
+  "last_updated": "March 18, 2021 09:06:02 UTC",
   "matches": [
     {
       "id": 19252,
       "title": "Prison Lab",
       "score": 0.257,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 170,
       "title": "Soil",
       "score": 0.2,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 10285,
       "title": "Hyouryuu Net Cafe",
-      "score": 0.2,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 2819,
       "title": "System of Romance",
-      "score": 0.2,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
     }
   ]
 }

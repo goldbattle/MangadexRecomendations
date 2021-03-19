@@ -1,38 +1,58 @@
 {
   "id": 35205,
   "title": "Ou-sama no Lesson",
-  "url": "https://api.mangadex.org/v2/manga/35205",
-  "last_updated": "February 10, 2021 16:40:17 UTC",
+  "url": "https://mangadex.org/manga/35205",
+  "last_updated": "March 18, 2021 11:14:19 UTC",
   "matches": [
     {
       "id": 37696,
       "title": "Suki de Shikatanai",
-      "score": 0.487,
-      "r18": false
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 13246,
       "title": "Senpai no Mizugi",
-      "score": 0.451,
-      "r18": false
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 16081,
       "title": "Hatsukoi wa Gunjou ni Tokeru",
-      "score": 0.448,
-      "r18": false
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 20428,
       "title": "Bright Light Sprout",
-      "score": 0.424,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 30632,
       "title": "Complex",
-      "score": 0.368,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx"
+      ]
     }
   ]
 }

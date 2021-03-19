@@ -1,158 +1,266 @@
 {
   "id": 42461,
   "title": "Stresser",
-  "url": "https://api.mangadex.org/v2/manga/42461",
-  "last_updated": "February 11, 2021 12:25:40 UTC",
+  "url": "https://mangadex.org/manga/42461",
+  "last_updated": "March 18, 2021 12:14:51 UTC",
   "matches": [
-    {
-      "id": 36922,
-      "title": "Pale Throne",
-      "score": 0.657,
-      "r18": false
-    },
-    {
-      "id": 23354,
-      "title": "She Is a Beauty",
-      "score": 0.333,
-      "r18": false
-    },
     {
       "id": 36518,
       "title": "The Devil's Descendants",
-      "score": 0.329,
-      "r18": false
-    },
-    {
-      "id": 58586,
-      "title": "From the Grave and Back",
-      "score": 0.318,
-      "r18": false
-    },
-    {
-      "id": 22260,
-      "title": "A Good Day to Be a Dog",
-      "score": 0.312,
-      "r18": false
-    },
-    {
-      "id": 45807,
-      "title": "Life Completely Ruined",
-      "score": 0.303,
-      "r18": false
-    },
-    {
-      "id": 40735,
-      "title": "Sky City: The Formation of Phoenix",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 33983,
-      "title": "Vending Machine",
-      "score": 0.299,
-      "r18": false
-    },
-    {
-      "id": 39079,
-      "title": "Code Adam",
-      "score": 0.299,
-      "r18": false
-    },
-    {
-      "id": 36764,
-      "title": "Moving",
-      "score": 0.298,
-      "r18": false
-    },
-    {
-      "id": 54176,
-      "title": "Amateur Demigod",
-      "score": 0.295,
-      "r18": false
-    },
-    {
-      "id": 20943,
-      "title": "All That You Are",
-      "score": 0.295,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "tr",
+        "id"
+      ]
     },
     {
       "id": 43328,
       "title": "No Entry Mr Grim Reaper",
-      "score": 0.295,
-      "r18": false
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 15275,
-      "title": "Resentment",
-      "score": 0.291,
-      "r18": false
+      "id": 58586,
+      "title": "From the Grave and Back",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
-      "id": 52362,
-      "title": "Dam of the Forest",
-      "score": 0.29,
-      "r18": false
+      "id": 36764,
+      "title": "Moving",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 35102,
-      "title": "It's Mine",
-      "score": 0.288,
-      "r18": false
+      "id": 18875,
+      "title": "Ctrl + Z",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br"
+      ]
     },
     {
-      "id": 48267,
-      "title": "At the End of the Road",
-      "score": 0.286,
-      "r18": false
-    },
-    {
-      "id": 27886,
-      "title": "Star Wars",
-      "score": 0.285,
-      "r18": false
-    },
-    {
-      "id": 49842,
-      "title": "Trigger",
-      "score": 0.283,
-      "r18": false
-    },
-    {
-      "id": 42021,
-      "title": "Wu Ling (Martial Spirit) Sword Master",
-      "score": 0.281,
-      "r18": false
-    },
-    {
-      "id": 33959,
-      "title": "Delivery Knight",
-      "score": 0.28,
-      "r18": false
+      "id": 20943,
+      "title": "All That You Are",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "tr"
+      ]
     },
     {
       "id": 43031,
       "title": "Get Back",
-      "score": 0.28,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru"
+      ]
+    },
+    {
+      "id": 58205,
+      "title": "Struggle",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 51712,
       "title": "Enoch",
-      "score": 0.28,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     },
     {
-      "id": 36440,
-      "title": "Immortal Weakling",
-      "score": 0.28,
-      "r18": false
+      "id": 52362,
+      "title": "Dam of the Forest",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id"
+      ]
+    },
+    {
+      "id": 54457,
+      "title": "Youth Market",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 54176,
+      "title": "Amateur Demigod",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 39195,
+      "title": "Crisis",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id"
+      ]
     },
     {
       "id": 39555,
       "title": "Rule Makers",
-      "score": 0.276,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 33983,
+      "title": "Vending Machine",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 33959,
+      "title": "Delivery Knight",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
+    },
+    {
+      "id": 49842,
+      "title": "Trigger",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "ru"
+      ]
+    },
+    {
+      "id": 37774,
+      "title": "Jinjujeon",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 42211,
+      "title": "Disease",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "id",
+        "ir"
+      ]
+    },
+    {
+      "id": 36440,
+      "title": "Immortal Weakling",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
+    },
+    {
+      "id": 23354,
+      "title": "She Is a Beauty",
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 48720,
+      "title": "How to Fight",
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "fr",
+        "mx",
+        "pl",
+        "br",
+        "ro",
+        "it",
+        "ua"
+      ]
+    },
+    {
+      "id": 22260,
+      "title": "A Good Day to Be a Dog",
+      "score": 0.201,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 46756,
+      "title": "1 Second",
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "br",
+        "fr",
+        "ru"
+      ]
+    },
+    {
+      "id": 15275,
+      "title": "Resentment",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     }
   ]
 }

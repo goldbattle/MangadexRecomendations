@@ -1,50 +1,86 @@
 {
   "id": 35515,
   "title": "Tsukuoki Seikatsu: Shuumatsu matomete Tsukurioki Recipe",
-  "url": "https://api.mangadex.org/v2/manga/35515",
-  "last_updated": "February 10, 2021 16:44:52 UTC",
+  "url": "https://mangadex.org/manga/35515",
+  "last_updated": "March 18, 2021 11:16:54 UTC",
   "matches": [
-    {
-      "id": 2732,
-      "title": "Oishii Kankei",
-      "score": 0.67,
-      "r18": false
-    },
     {
       "id": 7895,
       "title": "Issho ni Gohan -Takitate-",
-      "score": 0.489,
-      "r18": false
+      "score": 0.375,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8929,
       "title": "Kitchen Palette",
-      "score": 0.42,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 9664,
       "title": "Honey Sweet Kitchen",
-      "score": 0.371,
-      "r18": false
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 14133,
-      "title": "Shall We Have Dinner Tonight?",
-      "score": 0.282,
-      "r18": false
+      "id": 2732,
+      "title": "Oishii Kankei",
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 25229,
+      "title": "Hokuou Kizoku to Moukinzuma no Yukiguni Karigurashi",
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx",
+        "id",
+        "br"
+      ]
     },
     {
       "id": 23113,
       "title": "Ii ne! Hikaru Genji-kun",
-      "score": 0.263,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 54034,
-      "title": "Kuu Nomu Tokoro ni Taberu Toko",
-      "score": 0.2,
-      "r18": false
+      "title": "Dining Where You Eat and Drink",
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14133,
+      "title": "Shall We Have Dinner Tonight?",
+      "score": 0.162,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     }
   ]
 }

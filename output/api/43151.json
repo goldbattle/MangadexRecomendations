@@ -1,62 +1,114 @@
 {
   "id": 43151,
   "title": "Sadistic Madness",
-  "url": "https://api.mangadex.org/v2/manga/43151",
-  "last_updated": "February 11, 2021 12:35:55 UTC",
+  "url": "https://mangadex.org/manga/43151",
+  "last_updated": "March 18, 2021 12:20:37 UTC",
   "matches": [
     {
-      "id": 37027,
-      "title": "Paraphrase",
-      "score": 0.736,
-      "r18": true
-    },
-    {
-      "id": 16769,
-      "title": "Henai",
-      "score": 0.73,
-      "r18": true
-    },
-    {
-      "id": 14855,
-      "title": "Aishichattano",
-      "score": 0.719,
-      "r18": true
-    },
-    {
-      "id": 20171,
-      "title": "Do S Obake ga Nekasetekurenai",
-      "score": 0.709,
-      "r18": true
-    },
-    {
-      "id": 25665,
-      "title": "Asatte ni Kiss",
-      "score": 0.691,
-      "r18": true
+      "id": 37270,
+      "title": "Happy Kuso Life",
+      "score": 0.4,
+      "r18": true,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 29165,
       "title": "Ore no Oniku-chan",
-      "score": 0.683,
-      "r18": true
-    },
-    {
-      "id": 36882,
-      "title": "Seishun Kinema",
-      "score": 0.664,
-      "r18": true
-    },
-    {
-      "id": 37270,
-      "title": "Happy Shitty Life",
-      "score": 0.507,
-      "r18": true
+      "score": 0.36,
+      "r18": true,
+      "languages": [
+        "tr",
+        "gb",
+        "ru",
+        "fr"
+      ]
     },
     {
       "id": 44514,
       "title": "Nuretoro 3P",
-      "score": 0.504,
-      "r18": true
+      "score": 0.348,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20171,
+      "title": "Do S Obake ga Nekasetekurenai",
+      "score": 0.269,
+      "r18": true,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 20267,
+      "title": "Koibito Kakin",
+      "score": 0.261,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37027,
+      "title": "Paraphrase",
+      "score": 0.216,
+      "r18": true,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 36882,
+      "title": "Seishun Kinema",
+      "score": 0.216,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 25665,
+      "title": "Asatte ni Kiss",
+      "score": 0.203,
+      "r18": true,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 16769,
+      "title": "Henai",
+      "score": 0.189,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14855,
+      "title": "Aishichattano",
+      "score": 0.184,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20787,
+      "title": "Kimi no Oto ga Nari Yamanai",
+      "score": 0.178,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

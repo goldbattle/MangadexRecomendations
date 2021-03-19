@@ -1,32 +1,44 @@
 {
   "id": 50032,
   "title": "Quickly Started to Go Out",
-  "url": "https://api.mangadex.org/v2/manga/50032",
-  "last_updated": "February 05, 2021 08:17:18 UTC",
+  "url": "https://mangadex.org/manga/50032",
+  "last_updated": "March 18, 2021 13:18:13 UTC",
   "matches": [
     {
       "id": 54708,
       "title": "Another Face",
-      "score": 0.321,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 39566,
       "title": "The Kind of Person Who Would Fall in Love With You If You're Nice Enough to Them",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 58351,
       "title": "The Yankee wants to be an Otaku (Fujoshi)!",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 58319,
       "title": "A Story About A Gyaru Behind His Seat Who Keeps Touching His Back",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

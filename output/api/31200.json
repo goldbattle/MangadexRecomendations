@@ -1,158 +1,247 @@
 {
   "id": 31200,
   "title": "Gifuu Doudou!! Naoe Kanetsugu - Maeda Keiji Hanagatari",
-  "url": "https://api.mangadex.org/v2/manga/31200",
-  "last_updated": "February 10, 2021 08:16:24 UTC",
+  "url": "https://mangadex.org/manga/31200",
+  "last_updated": "March 18, 2021 10:40:56 UTC",
   "matches": [
-    {
-      "id": 14676,
-      "title": "The Legendary Moonlight Sculptor",
-      "score": 0.697,
-      "r18": false
-    },
-    {
-      "id": 2110,
-      "title": "Souten no Ken",
-      "score": 0.69,
-      "r18": false
-    },
-    {
-      "id": 36817,
-      "title": "Blade of the Immortal - Bakumatsu Arc",
-      "score": 0.686,
-      "r18": false
-    },
-    {
-      "id": 2500,
-      "title": "ChunRangYulJun",
-      "score": 0.683,
-      "r18": false
-    },
-    {
-      "id": 28617,
-      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 10572,
-      "title": "Futagashira",
-      "score": 0.674,
-      "r18": false
-    },
-    {
-      "id": 4121,
-      "title": "Shura Yukihime",
-      "score": 0.673,
-      "r18": false
-    },
-    {
-      "id": 12393,
-      "title": "The Judgement Day - Houkuto no Ken: Ryuken Gaiden",
-      "score": 0.672,
-      "r18": false
-    },
-    {
-      "id": 3491,
-      "title": "Master Keaton",
-      "score": 0.67,
-      "r18": false
-    },
-    {
-      "id": 18150,
-      "title": "Dies irae ~Amantes Amentes~",
-      "score": 0.667,
-      "r18": false
-    },
-    {
-      "id": 6272,
-      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 26303,
-      "title": "Shinsengumi Jingishou Asagi",
-      "score": 0.664,
-      "r18": false
-    },
     {
       "id": 55440,
       "title": "Souten no Ken Regenesis",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 900,
-      "title": "Paladin",
-      "score": 0.662,
-      "r18": false
-    },
-    {
-      "id": 41553,
-      "title": "The Man who Killed Nobunaga",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 3142,
-      "title": "Threads of Time",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 14920,
-      "title": "Ouja no Yuugi",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 1093,
-      "title": "Yamikagishi",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 8740,
-      "title": "Takeda Shingen",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 20537,
-      "title": "Seirei Gensouki ~Konna Sekai de Deaeta Kimi ni~",
-      "score": 0.657,
-      "r18": false
-    },
-    {
-      "id": 3725,
-      "title": "Gun Frontier",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 38632,
-      "title": "Vengeance of the Heavenly Demon",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 2888,
-      "title": "Trace 1.5",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 35448,
-      "title": "Strongest Abandoned Son",
-      "score": 0.652,
-      "r18": false
+      "score": 0.316,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5055,
       "title": "Souten Kouro",
-      "score": 0.651,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 16344,
+      "title": "Ni Ming Shi",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 22950,
+      "title": "Black Tiger",
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "ru",
+        "es",
+        "gb"
+      ]
+    },
+    {
+      "id": 2976,
+      "title": "Pineapple Army",
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 20582,
+      "title": "Kendo Shitouden Cestvs",
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 11903,
+      "title": "Eurasia 1274",
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10876,
+      "title": "Rappa",
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 852,
+      "title": "Zatoichi",
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 845,
+      "title": "Honorable Baek Dong Soo",
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu"
+      ]
+    },
+    {
+      "id": 634,
+      "title": "Peace Maker",
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 22232,
+      "title": "Meteora",
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8049,
+      "title": "The Kensei's Calligraphy",
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1495,
+      "title": "Ichi",
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 21127,
+      "title": "Sultan Boueitai",
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2198,
+      "title": "Surado",
+      "score": 0.288,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2110,
+      "title": "Souten no Ken",
+      "score": 0.282,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 36817,
+      "title": "Blade of the Immortal - Bakumatsu Arc",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb"
+      ]
+    },
+    {
+      "id": 35608,
+      "title": "A Post-Apocalyptic Journey",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "it",
+        "mx",
+        "ru",
+        "tr",
+        "br"
+      ]
+    },
+    {
+      "id": 26739,
+      "title": "Lord",
+      "score": 0.273,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 41553,
+      "title": "The Man who Killed Nobunaga",
+      "score": 0.27,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 26303,
+      "title": "Shinsengumi Jingishou Asagi",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3725,
+      "title": "Gun Frontier",
+      "score": 0.265,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4622,
+      "title": "Sengoku",
+      "score": 0.265,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4121,
+      "title": "Shura Yukihime",
+      "score": 0.265,
+      "r18": false,
+      "languages": [
+        "it",
+        "ru",
+        "tr"
+      ]
     }
   ]
 }

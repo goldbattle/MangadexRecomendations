@@ -1,158 +1,331 @@
 {
   "id": 51825,
   "title": "The Chronicles of Apocalypse",
-  "url": "https://api.mangadex.org/v2/manga/51825",
-  "last_updated": "February 05, 2021 12:14:19 UTC",
+  "url": "https://mangadex.org/manga/51825",
+  "last_updated": "March 18, 2021 13:33:10 UTC",
   "matches": [
     {
-      "id": 36278,
-      "title": "King of Apocalypse",
-      "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 59186,
-      "title": "World's Apocalypse Online",
-      "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 51367,
-      "title": "Blood and Butterflies",
-      "score": 0.307,
-      "r18": false
-    },
-    {
-      "id": 50796,
-      "title": "Evil Museum",
-      "score": 0.306,
-      "r18": false
-    },
-    {
-      "id": 53731,
-      "title": "Beginning of the Human Age",
-      "score": 0.303,
-      "r18": false
-    },
-    {
-      "id": 52669,
-      "title": "Doom Spore",
-      "score": 0.301,
-      "r18": false
-    },
-    {
-      "id": 15291,
-      "title": "Whamanga",
-      "score": 0.299,
-      "r18": false
-    },
-    {
-      "id": 38816,
-      "title": "CANDALA",
-      "score": 0.297,
-      "r18": false
-    },
-    {
-      "id": 51520,
-      "title": "Dark Blood Age",
-      "score": 0.294,
-      "r18": false
+      "id": 22580,
+      "title": "Sweet Home",
+      "score": 0.246,
+      "r18": false,
+      "languages": [
+        "ru",
+        "br",
+        "pl",
+        "it",
+        "fr",
+        "ua",
+        "ir"
+      ]
     },
     {
       "id": 38632,
       "title": "Vengeance of the Heavenly Demon",
-      "score": 0.294,
-      "r18": false
+      "score": 0.242,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "mx",
+        "fr",
+        "th",
+        "ru"
+      ]
+    },
+    {
+      "id": 51777,
+      "title": "Truth Mask",
+      "score": 0.228,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 46789,
       "title": "Apocalyptic Super System",
-      "score": 0.285,
-      "r18": false
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "tr",
+        "pl"
+      ]
     },
     {
-      "id": 53895,
-      "title": "Covenant",
-      "score": 0.285,
-      "r18": false
-    },
-    {
-      "id": 12707,
-      "title": "Ryuuma no Gagou",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 47153,
-      "title": "Demons Can't Be Pretty",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 22580,
-      "title": "Sweet Home",
-      "score": 0.276,
-      "r18": false
+      "id": 47773,
+      "title": "GremoryLand",
+      "score": 0.219,
+      "r18": false,
+      "languages": [
+        "br",
+        "it",
+        "ru"
+      ]
     },
     {
       "id": 59669,
       "title": "Jungle Juice",
-      "score": 0.273,
-      "r18": false
-    },
-    {
-      "id": 45605,
-      "title": "Eternal Emperor",
-      "score": 0.273,
-      "r18": false
-    },
-    {
-      "id": 45353,
-      "title": "Bliss In Another World",
-      "score": 0.273,
-      "r18": false
-    },
-    {
-      "id": 45046,
-      "title": "Ghost Emperor",
-      "score": 0.272,
-      "r18": false
-    },
-    {
-      "id": 53831,
-      "title": "Over the Moon",
-      "score": 0.272,
-      "r18": false
-    },
-    {
-      "id": 21656,
-      "title": "The Law of the Yama",
-      "score": 0.271,
-      "r18": false
-    },
-    {
-      "id": 49314,
-      "title": "Shindorim",
-      "score": 0.27,
-      "r18": false
-    },
-    {
-      "id": 35448,
-      "title": "Strongest Abandoned Son",
-      "score": 0.269,
-      "r18": false
+      "score": 0.219,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "pl",
+        "br",
+        "hu",
+        "fr",
+        "tr"
+      ]
     },
     {
       "id": 48469,
       "title": "The First Hunter",
-      "score": 0.267,
-      "r18": false
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "pl",
+        "fr",
+        "ru",
+        "it"
+      ]
     },
     {
-      "id": 39079,
-      "title": "Code Adam",
-      "score": 0.266,
-      "r18": false
+      "id": 42244,
+      "title": "A Witch's Hopeless Wish",
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "br"
+      ]
+    },
+    {
+      "id": 48636,
+      "title": "Records of the Mystic Gardens",
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br"
+      ]
+    },
+    {
+      "id": 57026,
+      "title": "Majo Taisen - The War of Greedy Witches",
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "vn",
+        "id",
+        "ru",
+        "tr"
+      ]
+    },
+    {
+      "id": 17924,
+      "title": "Terror Man",
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "pl",
+        "br",
+        "it",
+        "ru"
+      ]
+    },
+    {
+      "id": 44375,
+      "title": "The Survival Story of the Sword King in Another World",
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "fr",
+        "tr",
+        "pl",
+        "br",
+        "ru",
+        "id",
+        "ro"
+      ]
+    },
+    {
+      "id": 9967,
+      "title": "The Gamer",
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "fr",
+        "ru",
+        "br",
+        "id",
+        "pl",
+        "de"
+      ]
+    },
+    {
+      "id": 26597,
+      "title": "The Grandmaster of Demonic Cultivation",
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "fr",
+        "pl",
+        "br",
+        "es",
+        "hu",
+        "it",
+        "tr"
+      ]
+    },
+    {
+      "id": 58050,
+      "title": "Limit Breaker",
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "sa",
+        "gb",
+        "fr",
+        "id",
+        "it",
+        "br"
+      ]
+    },
+    {
+      "id": 474,
+      "title": "S.I.D. - Supernatural Investigation Department",
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 27135,
+      "title": "Abduction School",
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 37860,
+      "title": "City of the Famished",
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br"
+      ]
+    },
+    {
+      "id": 37449,
+      "title": "PIGPEN",
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "it",
+        "tr",
+        "fr",
+        "id",
+        "br"
+      ]
+    },
+    {
+      "id": 34344,
+      "title": "Housekeeper",
+      "score": 0.188,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 42858,
+      "title": "Wan Gu Shen Wang",
+      "score": 0.188,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "tr",
+        "fr",
+        "it"
+      ]
+    },
+    {
+      "id": 42021,
+      "title": "Wu Ling (Martial Spirit) Sword Master",
+      "score": 0.188,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 18296,
+      "title": "My Sect's Senior Disciple Has a Hole in His Brain",
+      "score": 0.188,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br"
+      ]
+    },
+    {
+      "id": 55486,
+      "title": "The Demon Queen Has a Death Wish",
+      "score": 0.188,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "id"
+      ]
+    },
+    {
+      "id": 40731,
+      "title": "The Strongest God King",
+      "score": 0.188,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "it"
+      ]
     }
   ]
 }

@@ -1,32 +1,44 @@
 {
   "id": 34826,
   "title": "Jayne Walker",
-  "url": "https://api.mangadex.org/v2/manga/34826",
-  "last_updated": "February 10, 2021 16:34:31 UTC",
+  "url": "https://mangadex.org/manga/34826",
+  "last_updated": "March 18, 2021 11:11:09 UTC",
   "matches": [
     {
       "id": 20709,
       "title": "Skyscraper Blues",
-      "score": 0.341,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 38750,
       "title": "Fude to Kizu",
-      "score": 0.28,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 13536,
       "title": "World Apartment Horror",
-      "score": 0.234,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 53288,
       "title": "Sensai Vagabond",
-      "score": 0.175,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

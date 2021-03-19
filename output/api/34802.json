@@ -1,152 +1,249 @@
 {
   "id": 34802,
   "title": "Kitsune to Pancake",
-  "url": "https://api.mangadex.org/v2/manga/34802",
-  "last_updated": "February 10, 2021 16:34:07 UTC",
+  "url": "https://mangadex.org/manga/34802",
+  "last_updated": "March 18, 2021 11:10:57 UTC",
   "matches": [
-    {
-      "id": 36223,
-      "title": "Witch of the Fire Scene",
-      "score": 0.655,
-      "r18": false
-    },
     {
       "id": 21867,
       "title": "Kyou no Ryuuko-chan",
-      "score": 0.434,
-      "r18": false
-    },
-    {
-      "id": 46742,
-      "title": "The cute life of OL and cat",
-      "score": 0.382,
-      "r18": false
-    },
-    {
-      "id": 19249,
-      "title": "Hakka Shoujo",
-      "score": 0.374,
-      "r18": false
-    },
-    {
-      "id": 41243,
-      "title": "The Terrifying Hitman and the Little Girl He Took in",
-      "score": 0.368,
-      "r18": false
-    },
-    {
-      "id": 34223,
-      "title": "Roujoteki Shoujo Hinata-chan",
-      "score": 0.343,
-      "r18": false
-    },
-    {
-      "id": 16764,
-      "title": "Ryuuou no Oshigoto!",
-      "score": 0.335,
-      "r18": false
-    },
-    {
-      "id": 34209,
-      "title": "Oh, Our General Myao",
-      "score": 0.326,
-      "r18": false
-    },
-    {
-      "id": 41492,
-      "title": "The Terrifying Hitman and The Little Girl He Took in (Fan Colored)",
-      "score": 0.324,
-      "r18": false
-    },
-    {
-      "id": 23993,
-      "title": "Madonna ga Glass Case no Naka",
-      "score": 0.323,
-      "r18": false
-    },
-    {
-      "id": 10517,
-      "title": "Watashi no Oniichan",
-      "score": 0.321,
-      "r18": false
-    },
-    {
-      "id": 31118,
-      "title": "Long Yin",
-      "score": 0.319,
-      "r18": false
-    },
-    {
-      "id": 30845,
-      "title": "Okaa-san (10) to Boku.",
-      "score": 0.316,
-      "r18": false
-    },
-    {
-      "id": 54235,
-      "title": "Mamagoto",
-      "score": 0.315,
-      "r18": false
-    },
-    {
-      "id": 11474,
-      "title": "Murder Princess",
-      "score": 0.301,
-      "r18": false
+      "score": 0.295,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 51990,
       "title": "Taishou Roman Seiyou Ga \u0304ru",
-      "score": 0.279,
-      "r18": false
+      "score": 0.271,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 11140,
-      "title": "Kuro",
+      "id": 54235,
+      "title": "Mamagoto",
       "score": 0.258,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10517,
+      "title": "Watashi no Oniichan",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 23993,
+      "title": "Madonna ga Glass Case no Naka",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 30845,
+      "title": "Okaa-san (10) to Boku.",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 34209,
+      "title": "Oh, Our General Myao",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id",
+        "cn",
+        "th"
+      ]
+    },
+    {
+      "id": 16764,
+      "title": "Ryuuou no Oshigoto!",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 41243,
+      "title": "The Terrifying Hitman and the Little Girl He Took in",
+      "score": 0.253,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "it",
+        "ru",
+        "id"
+      ]
+    },
+    {
+      "id": 50712,
+      "title": "Ayashii Tsubo Kattara, Naka kara Bishoujo ga Detekita Hanashi",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 46742,
+      "title": "The cute life of OL and cat",
+      "score": 0.246,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 31118,
+      "title": "Long Yin",
+      "score": 0.238,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "fr"
+      ]
+    },
+    {
+      "id": 34223,
+      "title": "Roujoteki Shoujo Hinata-chan",
+      "score": 0.236,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br",
+        "vn"
+      ]
+    },
+    {
+      "id": 19249,
+      "title": "Hakka Shoujo",
+      "score": 0.235,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 41492,
+      "title": "The Terrifying Hitman and The Little Girl He Took in (Fan Colored)",
+      "score": 0.216,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21899,
       "title": "Angelic",
-      "score": 0.237,
-      "r18": false
+      "score": 0.206,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 38973,
-      "title": "Made in Abyss Official Anthology",
-      "score": 0.226,
-      "r18": false
-    },
-    {
-      "id": 54487,
-      "title": "S Size (Made in Abyss)",
-      "score": 0.222,
-      "r18": false
+      "id": 11474,
+      "title": "Murder Princess",
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "bg",
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 5598,
       "title": "Oomuro-ke",
-      "score": 0.203,
-      "r18": false
+      "score": 0.177,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 43458,
       "title": "Choujigen Game Neptune: The Animation - Hello New World - Yuusha Hon",
-      "score": 0.203,
-      "r18": false
+      "score": 0.177,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 49238,
       "title": "Imouto wa Neko",
-      "score": 0.203,
-      "r18": false
+      "score": 0.177,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 23277,
-      "title": "Maou-sama, Retry!",
-      "score": 0.2,
-      "r18": false
+      "id": 36223,
+      "title": "Witch of the Fire Scene",
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 11140,
+      "title": "Kuro",
+      "score": 0.138,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "tr",
+        "fr"
+      ]
+    },
+    {
+      "id": 54487,
+      "title": "S Size",
+      "score": 0.124,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 38973,
+      "title": "Made in Abyss Official Anthology",
+      "score": 0.115,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     }
   ]
 }

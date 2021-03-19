@@ -2,43 +2,72 @@
   "id": 21062,
   "title": "Oedo!! Un-pluged",
   "url": "https://mangadex.org/manga/21062",
-  "last_updated": "March 16, 2021 04:20:28 UTC",
+  "last_updated": "March 18, 2021 09:02:11 UTC",
   "matches": [
     {
       "id": 2314,
       "title": "Detroit Metal City",
       "score": 0.16,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "pl",
+        "mx"
+      ]
     },
     {
       "id": 11982,
       "title": "Kenkouki - Hinokuni Daiteikokugun Kurenai Ikkitousentai",
       "score": 0.145,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 35109,
       "title": "Nobunaga-sensei no Osanazuma",
       "score": 0.145,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb"
+      ]
     },
     {
       "id": 44783,
       "title": "Cleopatra and the Iron Cross",
       "score": 0.145,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21890,
       "title": "Kunoichi no Ichi!",
       "score": 0.116,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br"
+      ]
     },
     {
       "id": 20563,
       "title": "Melancholia",
       "score": 0.061,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "vn",
+        "tr",
+        "hu",
+        "fr"
+      ]
     }
   ]
 }

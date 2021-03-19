@@ -1,38 +1,68 @@
 {
   "id": 45454,
   "title": "Good-Bye Dystopia",
-  "url": "https://api.mangadex.org/v2/manga/45454",
-  "last_updated": "February 11, 2021 20:26:04 UTC",
+  "url": "https://mangadex.org/manga/45454",
+  "last_updated": "March 18, 2021 12:39:52 UTC",
   "matches": [
     {
       "id": 10749,
       "title": "Houseki no Kuni",
-      "score": 0.323,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br",
+        "tr",
+        "gb",
+        "ru",
+        "sa",
+        "id",
+        "ir",
+        "pl"
+      ]
     },
     {
       "id": 15374,
       "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Dainishou - Yashiki no Shuukan Hen",
-      "score": 0.287,
-      "r18": false
+      "score": 0.169,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bd"
+      ]
     },
     {
       "id": 16825,
       "title": "Ginga Eiyuu Densetsu",
-      "score": 0.285,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "ru",
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 50085,
       "title": "Legend of the Galactic Heroes",
-      "score": 0.261,
-      "r18": false
+      "score": 0.144,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 18663,
       "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Daisanshou - Truth of Zero",
-      "score": 0.249,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "br",
+        "mx",
+        "gb",
+        "pl"
+      ]
     }
   ]
 }

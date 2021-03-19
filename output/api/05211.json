@@ -2,19 +2,27 @@
   "id": 5211,
   "title": "Mao Dante",
   "url": "https://mangadex.org/manga/5211",
-  "last_updated": "March 14, 2021 12:32:56 UTC",
+  "last_updated": "March 18, 2021 06:29:29 UTC",
   "matches": [
     {
       "id": 5310,
       "title": "Exoskull Zero",
-      "score": 0.211,
-      "r18": false
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22732,
       "title": "The Friends-Eater Classroom",
       "score": 0.17,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru"
+      ]
     }
   ]
 }

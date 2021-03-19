@@ -1,50 +1,59 @@
 {
   "id": 42777,
   "title": "Weak Point",
-  "url": "https://api.mangadex.org/v2/manga/42777",
-  "last_updated": "February 11, 2021 12:30:26 UTC",
+  "url": "https://mangadex.org/manga/42777",
+  "last_updated": "March 18, 2021 12:17:30 UTC",
   "matches": [
-    {
-      "id": 42830,
-      "title": "S-Mate",
-      "score": 0.406,
-      "r18": true
-    },
-    {
-      "id": 58252,
-      "title": "Love Limit Exceeded",
-      "score": 0.39,
-      "r18": true
-    },
     {
       "id": 42587,
       "title": "Cartoonists NSFW",
-      "score": 0.361,
-      "r18": true
+      "score": 0.316,
+      "r18": true,
+      "languages": [
+        "fr"
+      ]
     },
     {
-      "id": 31397,
-      "title": "Take a Peek",
-      "score": 0.31,
-      "r18": true
-    },
-    {
-      "id": 38795,
-      "title": "The White Room",
-      "score": 0.301,
-      "r18": true
-    },
-    {
-      "id": 51124,
-      "title": "My Sister's Duty",
-      "score": 0.284,
-      "r18": true
+      "id": 42830,
+      "title": "S-Mate",
+      "score": 0.312,
+      "r18": true,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 43412,
       "title": "Silent War",
-      "score": 0.267,
-      "r18": true
+      "score": 0.218,
+      "r18": true,
+      "languages": [
+        "fr",
+        "gb",
+        "ru",
+        "it",
+        "tr"
+      ]
+    },
+    {
+      "id": 31397,
+      "title": "Take a Peek",
+      "score": 0.206,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 51124,
+      "title": "My Sister's Duty",
+      "score": 0.184,
+      "r18": true,
+      "languages": [
+        "gb",
+        "br"
+      ]
     }
   ]
 }

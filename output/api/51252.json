@@ -1,158 +1,260 @@
 {
   "id": 51252,
   "title": "Dan X Bad",
-  "url": "https://api.mangadex.org/v2/manga/51252",
-  "last_updated": "February 05, 2021 12:04:51 UTC",
+  "url": "https://mangadex.org/manga/51252",
+  "last_updated": "March 18, 2021 13:28:23 UTC",
   "matches": [
     {
       "id": 11766,
       "title": "All Out!!",
-      "score": 0.348,
-      "r18": false
+      "score": 0.296,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it"
+      ]
     },
     {
       "id": 6596,
       "title": "Rubbers 7",
-      "score": 0.29,
-      "r18": false
+      "score": 0.246,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb"
+      ]
     },
     {
       "id": 9683,
       "title": "Shinohayu - The Dawn of Age",
-      "score": 0.29,
-      "r18": false
+      "score": 0.246,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 13258,
       "title": "Supinamarada!",
-      "score": 0.29,
-      "r18": false
+      "score": 0.246,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 16039,
       "title": "Hanebado!",
-      "score": 0.29,
-      "r18": false
+      "score": 0.246,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "ru"
+      ]
     },
     {
       "id": 21065,
       "title": "Fulldrum",
-      "score": 0.29,
-      "r18": false
+      "score": 0.246,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 666,
       "title": "Giant Killing",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "sa",
+        "mx",
+        "pl",
+        "br",
+        "id"
+      ]
     },
     {
       "id": 1083,
       "title": "Bamboo Blade",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it"
+      ]
     },
     {
       "id": 2772,
       "title": "Higurashi no Naku Koro ni Jan",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2824,
       "title": "Saki: Achiga-hen - episode of side-A",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 3432,
       "title": "Gun-Jou",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 9985,
       "title": "Fure Fure Shoujo",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 10601,
       "title": "Super Combat Legend: Shine Tomorrow",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 10977,
       "title": "Bakuon!!",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 19007,
       "title": "Shakunetsu no Takkyuu Musume",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 19675,
       "title": "Harukana Receive",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "id"
+      ]
     },
     {
       "id": 19760,
       "title": "Harta Cover Stories",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 21942,
       "title": "Keppeki Danshi! Aoyama-kun",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 27133,
       "title": "F",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 28700,
       "title": "Bungo",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "fr"
+      ]
     },
     {
       "id": 41690,
       "title": "Breakin' Girls!",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 681,
       "title": "Mel Kano",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1362,
       "title": "Yuritetsu - Shiritsu Yurigasaki Joshikou Tetsudoubu",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7233,
       "title": "Watashi no Taisetsu na Tomodachi",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 9950,
       "title": "Hanayamata",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb"
+      ]
     }
   ]
 }

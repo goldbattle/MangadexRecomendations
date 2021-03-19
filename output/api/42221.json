@@ -1,38 +1,55 @@
 {
   "id": 42221,
   "title": "Psychic Detective Occult",
-  "url": "https://api.mangadex.org/v2/manga/42221",
-  "last_updated": "February 11, 2021 12:22:07 UTC",
+  "url": "https://mangadex.org/manga/42221",
+  "last_updated": "March 18, 2021 12:12:51 UTC",
   "matches": [
-    {
-      "id": 21629,
-      "title": "Ren'ai Harem Game Shuuryou no Oshirase ga Kuru Koro ni",
-      "score": 0.722,
-      "r18": false
-    },
-    {
-      "id": 38049,
-      "title": "Franken Fran Frantic",
-      "score": 0.71,
-      "r18": false
-    },
-    {
-      "id": 184,
-      "title": "Ushio to Tora",
-      "score": 0.709,
-      "r18": false
-    },
     {
       "id": 49286,
       "title": "Tsui no Taimashi \u2015Ender Geister\u30fc",
-      "score": 0.667,
-      "r18": false
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb",
+        "es",
+        "br",
+        "fr",
+        "id",
+        "it"
+      ]
     },
     {
       "id": 11986,
       "title": "Tenkuu Shinpan",
-      "score": 0.26,
-      "r18": false
+      "score": 0.161,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "it",
+        "pl"
+      ]
+    },
+    {
+      "id": 21629,
+      "title": "Ren'ai Harem Game Shuuryou no Oshirase ga Kuru Koro ni",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 184,
+      "title": "Ushio to Tora",
+      "score": 0.09,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -1,38 +1,56 @@
 {
   "id": 54592,
   "title": "Sekai de Ichiban Kawaii!",
-  "url": "https://api.mangadex.org/v2/manga/54592",
-  "last_updated": "March 12, 2021 20:27:31 UTC",
+  "url": "https://mangadex.org/manga/54592",
+  "last_updated": "March 18, 2021 13:56:16 UTC",
   "matches": [
-    {
-      "id": 35648,
-      "title": "Hana to Ikkun",
-      "score": 0.71,
-      "r18": false
-    },
     {
       "id": 20830,
       "title": "Hana ni Kuchizuke",
-      "score": 0.71,
-      "r18": false
+      "score": 0.367,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
-      "id": 15274,
-      "title": "Chikan Diary",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 59484,
-      "title": "Nee, Onnanoko ni Shite Ageru",
-      "score": 0.408,
-      "r18": false
+      "id": 35648,
+      "title": "Hana to Ikkun",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 18128,
       "title": "Hanakoi Tsurane",
-      "score": 0.396,
-      "r18": false
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 9746,
+      "title": "Stay Gold ~Koi no Lesson A to Z~",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 15274,
+      "title": "Chikan Diary",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

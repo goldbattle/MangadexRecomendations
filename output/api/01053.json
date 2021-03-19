@@ -2,157 +2,249 @@
   "id": 1053,
   "title": "Love Lucky",
   "url": "https://mangadex.org/manga/1053",
-  "last_updated": "March 14, 2021 01:06:41 UTC",
+  "last_updated": "March 18, 2021 05:51:31 UTC",
   "matches": [
     {
       "id": 21676,
       "title": "Gaishu-Isshoku",
-      "score": 0.35,
-      "r18": false
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 16470,
       "title": "Marusei",
-      "score": 0.35,
-      "r18": false
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 23773,
       "title": "Rakujitsu no Pathos",
-      "score": 0.336,
-      "r18": false
-    },
-    {
-      "id": 26736,
-      "title": "Takianna no Honshou wa S na no ka M na no ka Ore Dake ga Shitte Iru.",
-      "score": 0.263,
-      "r18": false
-    },
-    {
-      "id": 58716,
-      "title": "Yankee Musume ni Natsukarete Kotoshi mo Juken ni Shippai Shisou Desu",
-      "score": 0.263,
-      "r18": false
+      "score": 0.334,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 944,
       "title": "Ore x Yome - Cupid no Itazura",
-      "score": 0.261,
-      "r18": false
-    },
-    {
-      "id": 19530,
-      "title": "Ureshon!",
-      "score": 0.259,
-      "r18": false
-    },
-    {
-      "id": 43550,
-      "title": "Tasogare no Ethos",
-      "score": 0.252,
-      "r18": false
-    },
-    {
-      "id": 19008,
-      "title": "Okaeri, Tadaima, Mata Ashita",
-      "score": 0.247,
-      "r18": false
-    },
-    {
-      "id": 30667,
-      "title": "Yuki Nee-chan no Kan-nou Gokko",
-      "score": 0.247,
-      "r18": false
-    },
-    {
-      "id": 5929,
-      "title": "Trans Venus",
-      "score": 0.245,
-      "r18": false
-    },
-    {
-      "id": 5897,
-      "title": "Henkoi!",
-      "score": 0.242,
-      "r18": false
-    },
-    {
-      "id": 16279,
-      "title": "Ashitaba-san Chi no Muko Kurashi",
-      "score": 0.242,
-      "r18": false
-    },
-    {
-      "id": 1698,
-      "title": "Mousou Megane - Digital Colored Comics",
-      "score": 0.239,
-      "r18": false
-    },
-    {
-      "id": 6722,
-      "title": "Toritsu Mizushou!",
-      "score": 0.237,
-      "r18": false
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 1078,
       "title": "Toshiue no Hito",
-      "score": 0.237,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 58716,
+      "title": "Yankee Musume ni Natsukarete Kotoshi mo Juken ni Shippai Shisou Desu",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 26736,
+      "title": "Takianna no Honshou wa S na no ka M na no ka Ore Dake ga Shitte Iru.",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 43550,
+      "title": "Tasogare no Ethos",
+      "score": 0.253,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19530,
+      "title": "Ureshon!",
+      "score": 0.252,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19008,
+      "title": "Okaeri, Tadaima, Mata Ashita",
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 16279,
+      "title": "Ashitaba-san Chi no Muko Kurashi",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "br",
+        "fr",
+        "mx",
+        "de"
+      ]
+    },
+    {
+      "id": 5897,
+      "title": "Henkoi!",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru"
+      ]
+    },
+    {
+      "id": 5929,
+      "title": "Trans Venus",
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 122,
       "title": "Koibana Onsen",
+      "score": 0.238,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 1698,
+      "title": "Mousou Megane - Digital Colored Comics",
+      "score": 0.237,
+      "r18": false,
+      "languages": [
+        "gb",
+        "th"
+      ]
+    },
+    {
+      "id": 29482,
+      "title": "Pansuto",
       "score": 0.236,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6722,
+      "title": "Toritsu Mizushou!",
+      "score": 0.235,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1069,
       "title": "Mahou Onna ga Kuru!!",
-      "score": 0.224,
-      "r18": false
+      "score": 0.216,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 9011,
       "title": "SE",
-      "score": 0.217,
-      "r18": false
-    },
-    {
-      "id": 4761,
-      "title": "M&Oslash;USE",
-      "score": 0.216,
-      "r18": false
-    },
-    {
-      "id": 58259,
-      "title": "7 troublesome days with the future bride who is too kuudere",
-      "score": 0.215,
-      "r18": false
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 925,
       "title": "Nyotai-ka",
-      "score": 0.214,
-      "r18": false
+      "score": 0.213,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4761,
+      "title": "M&Oslash;USE",
+      "score": 0.213,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 58259,
+      "title": "7 troublesome days with the future bride who is too kuudere",
+      "score": 0.212,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 943,
       "title": "Cupid no Itazura - Nijidama",
       "score": 0.211,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
-      "id": 7200,
-      "title": "Kimi wa Midara na Boku no Joou",
-      "score": 0.211,
-      "r18": false
+      "id": 566,
+      "title": "Futari Ecchi",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx"
+      ]
     },
     {
       "id": 24126,
       "title": "Yaban no Sono",
-      "score": 0.21,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

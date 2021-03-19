@@ -1,158 +1,243 @@
 {
   "id": 43263,
   "title": "Kimamana Aitsu o Kai Narase",
-  "url": "https://api.mangadex.org/v2/manga/43263",
-  "last_updated": "February 11, 2021 12:37:35 UTC",
+  "url": "https://mangadex.org/manga/43263",
+  "last_updated": "March 18, 2021 12:21:33 UTC",
   "matches": [
-    {
-      "id": 29909,
-      "title": "Glamorous Lip",
-      "score": 0.704,
-      "r18": false
-    },
-    {
-      "id": 27684,
-      "title": "Yokubou Shounen",
-      "score": 0.701,
-      "r18": false
-    },
-    {
-      "id": 4557,
-      "title": "Mousou Cherry",
-      "score": 0.695,
-      "r18": false
-    },
-    {
-      "id": 8617,
-      "title": "Himananode Hajimete Mimasu.",
-      "score": 0.694,
-      "r18": false
-    },
-    {
-      "id": 15274,
-      "title": "Chikan Diary",
-      "score": 0.689,
-      "r18": false
-    },
-    {
-      "id": 37504,
-      "title": "Hide and Seek",
-      "score": 0.688,
-      "r18": false
-    },
-    {
-      "id": 15125,
-      "title": "Doutei Hitsuji to Abazure Ookami",
-      "score": 0.688,
-      "r18": false
-    },
-    {
-      "id": 25009,
-      "title": "Nessa no Kusari",
-      "score": 0.688,
-      "r18": false
-    },
-    {
-      "id": 56166,
-      "title": "Sunao ni Narenai Otokotachi",
-      "score": 0.684,
-      "r18": false
-    },
-    {
-      "id": 25950,
-      "title": "Mayou Otoko",
-      "score": 0.683,
-      "r18": false
-    },
-    {
-      "id": 4118,
-      "title": "Kimi Note",
-      "score": 0.683,
-      "r18": false
-    },
     {
       "id": 29023,
       "title": "Mitsu no Tsumatta Joushi",
-      "score": 0.683,
-      "r18": false
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 36814,
       "title": "Oyasumi Darling",
-      "score": 0.682,
-      "r18": false
-    },
-    {
-      "id": 18378,
-      "title": "Crystal Harem",
-      "score": 0.682,
-      "r18": false
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 4563,
       "title": "Kuchibiru wa Uso o Tsuku",
-      "score": 0.68,
-      "r18": false
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 29080,
-      "title": "Dakishimetakunai",
-      "score": 0.679,
-      "r18": false
+      "id": 25009,
+      "title": "Nessa no Kusari",
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 56726,
+      "title": "Koakuma no Sanctuary",
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 36816,
+      "title": "Sensitive Pornograph",
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 57774,
+      "title": "Hisho Ikuseichuu.",
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 27823,
+      "title": "Uchi no Darling Gaikokujin",
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 42634,
+      "title": "Suteki na Kigawa ga Nakuttemo",
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55746,
+      "title": "XI",
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 42396,
+      "title": "Star ni Ai",
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 26222,
+      "title": "Netsushintouritsu",
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6818,
+      "title": "Tokyo Shinjuu",
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20290,
+      "title": "Ai ni Chimayoe!",
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 36815,
+      "title": "Oyasumi Love Darling",
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 24907,
+      "title": "Brother",
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10837,
+      "title": "Happy Yarou Wedding",
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 35302,
+      "title": "Yukemuri Biyori Koi Meguri",
+      "score": 0.331,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6817,
       "title": "Trigger",
-      "score": 0.675,
-      "r18": false
+      "score": 0.325,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 36264,
-      "title": "Hisho no Territory",
-      "score": 0.672,
-      "r18": false
+      "id": 4118,
+      "title": "Kimi Note",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 8048,
-      "title": "Kimi wa Amai Amai...",
-      "score": 0.669,
-      "r18": false
+      "id": 48310,
+      "title": "Surf Junkie",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 7975,
-      "title": "Koisuru Boukun",
-      "score": 0.667,
-      "r18": false
+      "id": 37493,
+      "title": "K-sensei no Himitsu no Netsujou",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 27246,
-      "title": "Seiheki Strike",
-      "score": 0.666,
-      "r18": false
+      "id": 15125,
+      "title": "Doutei Hitsuji to Abazure Ookami",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 1444,
-      "title": "NightS",
-      "score": 0.664,
-      "r18": false
+      "id": 10179,
+      "title": "K-sensei no Yajuu na Aijou",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 34849,
-      "title": "Rumble Rush",
-      "score": 0.662,
-      "r18": false
-    },
-    {
-      "id": 56675,
-      "title": "When a Yakuza falls in love",
-      "score": 0.657,
-      "r18": false
-    },
-    {
-      "id": 13269,
-      "title": "Koi Made Hyakurin",
-      "score": 0.657,
-      "r18": false
+      "id": 37494,
+      "title": "K-sensei no Renai na Nichijou",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

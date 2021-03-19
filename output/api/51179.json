@@ -1,158 +1,268 @@
 {
   "id": 51179,
   "title": "Waltzing at Sanzu River",
-  "url": "https://api.mangadex.org/v2/manga/51179",
-  "last_updated": "February 05, 2021 12:03:41 UTC",
+  "url": "https://mangadex.org/manga/51179",
+  "last_updated": "March 18, 2021 13:27:46 UTC",
   "matches": [
     {
-      "id": 15907,
-      "title": "The Negatibrain",
-      "score": 0.4,
-      "r18": false
+      "id": 1108,
+      "title": "Semi-Eternal Happy End",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 18016,
       "title": "Under Execution, Under Jailbreak",
-      "score": 0.392,
-      "r18": false
-    },
-    {
-      "id": 2656,
-      "title": "Rozen Maiden II",
-      "score": 0.391,
-      "r18": false
-    },
-    {
-      "id": 2723,
-      "title": "Rozen Maiden",
-      "score": 0.376,
-      "r18": false
-    },
-    {
-      "id": 1108,
-      "title": "Semi-Eternal Happy End",
-      "score": 0.371,
-      "r18": false
-    },
-    {
-      "id": 41859,
-      "title": "Ima Kako",
-      "score": 0.364,
-      "r18": false
-    },
-    {
-      "id": 864,
-      "title": "Eight",
-      "score": 0.362,
-      "r18": false
-    },
-    {
-      "id": 2232,
-      "title": "Waraenu Douji - 108 no Gou",
-      "score": 0.362,
-      "r18": false
-    },
-    {
-      "id": 1257,
-      "title": "Alive!",
-      "score": 0.359,
-      "r18": false
-    },
-    {
-      "id": 39187,
-      "title": "Bad Candy You Give Me",
-      "score": 0.359,
-      "r18": false
-    },
-    {
-      "id": 5867,
-      "title": "Window",
-      "score": 0.357,
-      "r18": false
-    },
-    {
-      "id": 335,
-      "title": "Eternal Sabbath",
-      "score": 0.356,
-      "r18": false
-    },
-    {
-      "id": 4490,
-      "title": "Livingstone",
-      "score": 0.355,
-      "r18": false
-    },
-    {
-      "id": 5669,
-      "title": "Gankutsuou",
-      "score": 0.354,
-      "r18": false
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "sa",
+        "gb",
+        "es",
+        "fr",
+        "ru",
+        "id"
+      ]
     },
     {
       "id": 20895,
       "title": "Ryuukei no Sora",
-      "score": 0.35,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 27156,
-      "title": "Hiru",
-      "score": 0.345,
-      "r18": false
+      "id": 2232,
+      "title": "Waraenu Douji - 108 no Gou",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 42875,
-      "title": "License",
-      "score": 0.341,
-      "r18": false
+      "id": 4490,
+      "title": "Livingstone",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru",
+        "it"
+      ]
     },
     {
-      "id": 31828,
-      "title": "Merboy",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 37948,
-      "title": "My Father 68y/o, My Mother 64y/o, Me 24y/o",
-      "score": 0.34,
-      "r18": false
+      "id": 864,
+      "title": "Eight",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2746,
       "title": "Togari Shiro",
-      "score": 0.34,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 23843,
-      "title": "Tekkon Kinkreet",
-      "score": 0.34,
-      "r18": false
+      "id": 1722,
+      "title": "13 Club",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1257,
+      "title": "Alive!",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 14207,
+      "title": "Skip! Yamada-kun",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "tr",
+        "de",
+        "br",
+        "vn",
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 2656,
+      "title": "Rozen Maiden II",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "br"
+      ]
+    },
+    {
+      "id": 19461,
+      "title": "Jaguar",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "it",
+        "ru",
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 39187,
+      "title": "Bad Candy You Give Me",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2723,
+      "title": "Rozen Maiden",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 2861,
+      "title": "The Nightmare of Fabrication",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "tr",
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 21926,
       "title": "Umi no Mukou, Tsuki no Uragawa",
-      "score": 0.338,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5867,
+      "title": "Window",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "it",
+        "fr",
+        "bg"
+      ]
+    },
+    {
+      "id": 11955,
+      "title": "Revenge Doll",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6118,
+      "title": "Wasureru",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 31828,
+      "title": "Merboy",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4999,
       "title": "Fushigi na Shounen",
-      "score": 0.338,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 34680,
-      "title": "Alice",
-      "score": 0.338,
-      "r18": false
+      "id": 335,
+      "title": "Eternal Sabbath",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu",
+        "pl"
+      ]
     },
     {
-      "id": 191,
-      "title": "Kimi no Knife",
-      "score": 0.335,
-      "r18": false
+      "id": 38790,
+      "title": "Snake Mountain",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 33704,
+      "title": "School Zone",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 26618,
+      "title": "Neko ga Nishi Mukya",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "ru",
+        "sa"
+      ]
     }
   ]
 }

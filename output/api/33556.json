@@ -1,158 +1,260 @@
 {
   "id": 33556,
   "title": "Manhunt",
-  "url": "https://api.mangadex.org/v2/manga/33556",
-  "last_updated": "February 10, 2021 12:40:01 UTC",
+  "url": "https://mangadex.org/manga/33556",
+  "last_updated": "March 18, 2021 11:00:34 UTC",
   "matches": [
     {
-      "id": 104,
-      "title": "Liar Game",
-      "score": 0.724,
-      "r18": false
+      "id": 14549,
+      "title": "Distant Sky",
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "br",
+        "vn",
+        "pl"
+      ]
+    },
+    {
+      "id": 12178,
+      "title": "MPD Psycho",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "hk",
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 11344,
+      "title": "70",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14696,
+      "title": "Gallbladder",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2574,
       "title": "Jiraishin Diablo",
-      "score": 0.713,
-      "r18": false
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 55365,
-      "title": "MEMORIZE",
-      "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 13506,
-      "title": "Delusional Boy",
-      "score": 0.71,
-      "r18": false
-    },
-    {
-      "id": 1714,
-      "title": "Kara no Kyoukai - The Garden of Sinners",
-      "score": 0.71,
-      "r18": false
-    },
-    {
-      "id": 7126,
-      "title": "Dimension W",
-      "score": 0.71,
-      "r18": false
-    },
-    {
-      "id": 4880,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
-      "score": 0.709,
-      "r18": false
-    },
-    {
-      "id": 9829,
-      "title": "Immortal Hounds",
-      "score": 0.709,
-      "r18": false
-    },
-    {
-      "id": 843,
-      "title": "20th Century Boys",
-      "score": 0.709,
-      "r18": false
+      "id": 2096,
+      "title": "Doll Star",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "mn",
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 7574,
       "title": "Kokushi no Shima",
-      "score": 0.709,
-      "r18": false
+      "score": 0.256,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 19086,
-      "title": "Ushiro - The Somber God of Death",
-      "score": 0.708,
-      "r18": false
+      "id": 35290,
+      "title": "Kudan no Gotoshi",
+      "score": 0.252,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 29363,
-      "title": "Bungou Stray Dogs: Dead Apple",
-      "score": 0.705,
-      "r18": false
+      "id": 10437,
+      "title": "Draw: Majo no Nemuru Umi de",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 18217,
-      "title": "Imuri",
-      "score": 0.704,
-      "r18": false
-    },
-    {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.704,
-      "r18": false
-    },
-    {
-      "id": 1267,
-      "title": "Jiraishin",
-      "score": 0.704,
-      "r18": false
-    },
-    {
-      "id": 890,
-      "title": "Dogs / Bullets &amp; Carnage",
-      "score": 0.703,
-      "r18": false
-    },
-    {
-      "id": 14676,
-      "title": "The Legendary Moonlight Sculptor",
-      "score": 0.703,
-      "r18": false
-    },
-    {
-      "id": 42735,
-      "title": "Eirun Last Code",
-      "score": 0.703,
-      "r18": false
-    },
-    {
-      "id": 15165,
-      "title": "Vampire Hunter D",
-      "score": 0.703,
-      "r18": false
+      "id": 492,
+      "title": "Sugar Dark: Umerareta Yami to Shoujo",
+      "score": 0.248,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 1591,
       "title": "21st Century Boys",
-      "score": 0.703,
-      "r18": false
-    },
-    {
-      "id": 28617,
-      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run",
-      "score": 0.702,
-      "r18": false
+      "score": 0.247,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 7309,
       "title": "Kurosagi Shitai Takuhaibin",
-      "score": 0.701,
-      "r18": false
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 17623,
-      "title": "Iwaihime",
-      "score": 0.701,
-      "r18": false
+      "id": 21481,
+      "title": "Blue Phobia",
+      "score": 0.244,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "ru",
+        "mx",
+        "id"
+      ]
     },
     {
-      "id": 22166,
-      "title": "Curse Blood",
-      "score": 0.7,
-      "r18": false
+      "id": 18748,
+      "title": "Wonderland",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 2712,
-      "title": "Blame!",
-      "score": 0.699,
-      "r18": false
+      "id": 26614,
+      "title": "Material Polka",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7379,
+      "title": "Black Bullet",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "tr",
+        "it"
+      ]
+    },
+    {
+      "id": 39584,
+      "title": "Toilet no Hanazono-san",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb"
+      ]
+    },
+    {
+      "id": 36077,
+      "title": "Yamiyo ni Asobu na Kodomotachi",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 1986,
+      "title": "Zashiki Onna",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 10898,
+      "title": "2001 + 5",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 25832,
+      "title": "Heroines Game",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "th",
+        "es",
+        "gb"
+      ]
+    },
+    {
+      "id": 1473,
+      "title": "Henjin Henkutsu Retsuden",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 1267,
+      "title": "Jiraishin",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 17714,
+      "title": "Hotarubi no Tomoru Koro ni",
+      "score": 0.238,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru"
+      ]
+    },
+    {
+      "id": 14684,
+      "title": "Yokohamasen Doppelganger",
+      "score": 0.236,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     }
   ]
 }

@@ -2,157 +2,291 @@
   "id": 14726,
   "title": "Devils' Line",
   "url": "https://mangadex.org/manga/14726",
-  "last_updated": "March 15, 2021 12:35:09 UTC",
+  "last_updated": "March 18, 2021 07:51:08 UTC",
   "matches": [
-    {
-      "id": 26616,
-      "title": "Yato no Kamitsukai",
-      "score": 0.314,
-      "r18": false
-    },
-    {
-      "id": 492,
-      "title": "Sugar Dark: Umerareta Yami to Shoujo",
-      "score": 0.307,
-      "r18": false
-    },
-    {
-      "id": 527,
-      "title": "Yougen no Chi",
-      "score": 0.287,
-      "r18": false
-    },
-    {
-      "id": 24679,
-      "title": "Vampire Master Dark Crimson",
-      "score": 0.277,
-      "r18": false
-    },
-    {
-      "id": 10532,
-      "title": "Crimson Game",
-      "score": 0.269,
-      "r18": false
-    },
-    {
-      "id": 2571,
-      "title": "Drug-On",
-      "score": 0.269,
-      "r18": false
-    },
-    {
-      "id": 27702,
-      "title": "Igai - The Play Dead/Alive",
-      "score": 0.257,
-      "r18": false
-    },
-    {
-      "id": 34305,
-      "title": "Broke Island",
-      "score": 0.257,
-      "r18": false
-    },
-    {
-      "id": 5311,
-      "title": "Kamunagara",
-      "score": 0.257,
-      "r18": false
-    },
-    {
-      "id": 35290,
-      "title": "Kudan no Gotoshi",
-      "score": 0.257,
-      "r18": false
-    },
-    {
-      "id": 24368,
-      "title": "Shin Megami Tensei - Kahn",
-      "score": 0.257,
-      "r18": false
-    },
-    {
-      "id": 10437,
-      "title": "Draw: Majo no Nemuru Umi de",
-      "score": 0.257,
-      "r18": false
-    },
-    {
-      "id": 7983,
-      "title": "Yaotsukumo",
-      "score": 0.257,
-      "r18": false
-    },
-    {
-      "id": 3860,
-      "title": "Death Edge",
-      "score": 0.251,
-      "r18": false
-    },
-    {
-      "id": 22485,
-      "title": "Necrologue",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 1028,
-      "title": "Bonten no Morito",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 2383,
-      "title": "Sola",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 19482,
-      "title": "Onideka",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 27156,
-      "title": "Hiru",
-      "score": 0.25,
-      "r18": false
-    },
     {
       "id": 1089,
       "title": "Zetman",
       "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 1155,
-      "title": "Kurokami",
-      "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "br",
+        "de"
+      ]
     },
     {
       "id": 9933,
       "title": "Hero Mask",
       "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 12893,
-      "title": "La Republique du Catch",
-      "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "tr",
+        "fr"
+      ]
     },
     {
       "id": 18430,
       "title": "I Am a Hero in Osaka",
-      "score": 0.246,
-      "r18": false
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 1876,
-      "title": "Blood Alone",
-      "score": 0.244,
-      "r18": false
+      "id": 15165,
+      "title": "Vampire Hunter D",
+      "score": 0.242,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
+    },
+    {
+      "id": 816,
+      "title": "World Embryo",
+      "score": 0.238,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "pl",
+        "es"
+      ]
+    },
+    {
+      "id": 7379,
+      "title": "Black Bullet",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "tr",
+        "it"
+      ]
+    },
+    {
+      "id": 91,
+      "title": "Dantalian no Shoka",
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "mx"
+      ]
+    },
+    {
+      "id": 1770,
+      "title": "Klan",
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "pl",
+        "br"
+      ]
+    },
+    {
+      "id": 9829,
+      "title": "Immortal Hounds",
+      "score": 0.227,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 2678,
+      "title": "6000",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "hu"
+      ]
+    },
+    {
+      "id": 17623,
+      "title": "Iwaihime",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 32058,
+      "title": "Mushihime",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "sa"
+      ]
+    },
+    {
+      "id": 1714,
+      "title": "Kara no Kyoukai - The Garden of Sinners",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "mx"
+      ]
+    },
+    {
+      "id": 22771,
+      "title": "Hone ga Kusaru Made",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
+    },
+    {
+      "id": 3737,
+      "title": "The Voynich Hotel",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "es",
+        "tr",
+        "fr",
+        "br",
+        "de",
+        "it"
+      ]
+    },
+    {
+      "id": 3700,
+      "title": "Wolfsmund",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 1427,
+      "title": "Umineko no Naku Koro ni Episode 2: Turn of the Golden Witch",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "fr",
+        "vn",
+        "es",
+        "gb",
+        "br",
+        "pl"
+      ]
+    },
+    {
+      "id": 42854,
+      "title": "Shin Megami Tensei - If...",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 1428,
+      "title": "Umineko no Naku Koro ni Episode 3: Banquet of the Golden Witch",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "vn",
+        "fr",
+        "gb",
+        "br",
+        "pl"
+      ]
+    },
+    {
+      "id": 2525,
+      "title": "Higurashi no Naku Koro ni - Himatsubushi-hen",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br"
+      ]
+    },
+    {
+      "id": 12149,
+      "title": "Hoshi no Ponko to Toufuya Reiko",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru"
+      ]
+    },
+    {
+      "id": 106,
+      "title": "Uzumaki",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "tr",
+        "mx",
+        "es",
+        "br",
+        "ua"
+      ]
+    },
+    {
+      "id": 1365,
+      "title": "Skyhigh - Karma",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "it",
+        "pl",
+        "gb",
+        "hu"
+      ]
+    },
+    {
+      "id": 1366,
+      "title": "Skyhigh - Shinshou",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu"
+      ]
+    },
+    {
+      "id": 857,
+      "title": "Kiba no Tabishounin - The Arms Peddler",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "es",
+        "br",
+        "gb",
+        "pl"
+      ]
     }
   ]
 }

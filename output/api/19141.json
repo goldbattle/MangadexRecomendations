@@ -2,37 +2,76 @@
   "id": 19141,
   "title": "Dungeon Seeker",
   "url": "https://mangadex.org/manga/19141",
-  "last_updated": "March 16, 2021 00:15:17 UTC",
+  "last_updated": "March 18, 2021 08:46:07 UTC",
   "matches": [
     {
       "id": 35479,
       "title": "Fukushuu Kansuisha no Jinsei Nishuume Isekaitan",
-      "score": 0.251,
-      "r18": false
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "ru"
+      ]
+    },
+    {
+      "id": 21604,
+      "title": "Next Life",
+      "score": 0.219,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 20535,
       "title": "Gaikou Kakkaku",
       "score": 0.175,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 9228,
       "title": "Mother Sarah",
-      "score": 0.156,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3021,
       "title": "City of the Dead Sorcerer",
-      "score": 0.151,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "fr"
+      ]
     },
     {
       "id": 43521,
       "title": "Dog Nigga",
-      "score": 0.074,
-      "r18": false
+      "score": 0.073,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "tr",
+        "id",
+        " ",
+        "it",
+        "in",
+        "sa",
+        "hk",
+        "cn"
+      ]
     }
   ]
 }

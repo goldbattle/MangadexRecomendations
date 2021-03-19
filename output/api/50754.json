@@ -1,158 +1,288 @@
 {
   "id": 50754,
   "title": "Shakunetsu no Niraikanai",
-  "url": "https://api.mangadex.org/v2/manga/50754",
-  "last_updated": "February 05, 2021 08:28:34 UTC",
+  "url": "https://mangadex.org/manga/50754",
+  "last_updated": "March 18, 2021 13:24:14 UTC",
   "matches": [
     {
       "id": 22612,
       "title": "Akazukin no Ookami Deshi",
-      "score": 0.355,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "hk",
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 23004,
       "title": "Dungeon Nursery",
-      "score": 0.335,
-      "r18": false
-    },
-    {
-      "id": 46826,
-      "title": "Jungle Emperor (Third  Grader)",
-      "score": 0.333,
-      "r18": false
-    },
-    {
-      "id": 57009,
-      "title": "Sekai Saikyou no Doryokuka: Sainou ga (Doryoku) Datta no de Kouritsu Yoku Kikakugai no Doryoku o Shitemiru",
-      "score": 0.321,
-      "r18": false
-    },
-    {
-      "id": 43453,
-      "title": "Nanatsu no Maken ga Shihai Suru",
-      "score": 0.318,
-      "r18": false
-    },
-    {
-      "id": 44910,
-      "title": "Starvation and Reincarnation",
-      "score": 0.316,
-      "r18": false
-    },
-    {
-      "id": 10341,
-      "title": "Kokushi Musou!!",
-      "score": 0.316,
-      "r18": false
-    },
-    {
-      "id": 38258,
-      "title": "Tensei shitara Slime datta Ken Ibun: Makoku Gurashi no Trinity",
-      "score": 0.316,
-      "r18": false
-    },
-    {
-      "id": 52554,
-      "title": "The Summoner Who Was Despised as 'Shunned Child'",
-      "score": 0.316,
-      "r18": false
-    },
-    {
-      "id": 56123,
-      "title": "Hell Mode: Yarikomi Suki no Gamer wa Hai Settei no Isekai de Musou Suru",
-      "score": 0.316,
-      "r18": false
-    },
-    {
-      "id": 52025,
-      "title": "Isekai De Te Ni Ireta Seisan Skill Wa Saikyou Datta You Desu",
-      "score": 0.314,
-      "r18": false
-    },
-    {
-      "id": 43115,
-      "title": "Pocket Monsters",
-      "score": 0.311,
-      "r18": false
-    },
-    {
-      "id": 25435,
-      "title": "Madara",
-      "score": 0.31,
-      "r18": false
-    },
-    {
-      "id": 19438,
-      "title": "Grimoire x Reverse - Tensei Kishin Roumantan",
-      "score": 0.309,
-      "r18": false
-    },
-    {
-      "id": 3867,
-      "title": "M&Auml;R",
-      "score": 0.308,
-      "r18": false
-    },
-    {
-      "id": 19193,
-      "title": "Maou-jou de Oyasumi",
-      "score": 0.308,
-      "r18": false
-    },
-    {
-      "id": 9474,
-      "title": "Mahoujin Guru Guru",
-      "score": 0.306,
-      "r18": false
-    },
-    {
-      "id": 21124,
-      "title": "Oretachi no Party wa Machigatteiru",
-      "score": 0.306,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id"
+      ]
     },
     {
       "id": 53667,
       "title": "Ishi ni Usubeni, Tetsu ni Hoshi",
-      "score": 0.306,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
-      "id": 48602,
-      "title": "Re:Zero Kara Hajimeru Isekai Seikatsu &ndash; Hyouketsu no Kizuna",
-      "score": 0.306,
-      "r18": false
+      "id": 56123,
+      "title": "Hell Mode: Yarikomi Suki no Gamer wa Hai Settei no Isekai de Musou Suru",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 24374,
-      "title": ".hack//Link - Tasogare no Kishidan",
-      "score": 0.306,
-      "r18": false
-    },
-    {
-      "id": 37153,
-      "title": "A Story about Confessing Before the End of the World",
-      "score": 0.305,
-      "r18": false
-    },
-    {
-      "id": 11923,
-      "title": "Monster X Monster",
-      "score": 0.305,
-      "r18": false
-    },
-    {
-      "id": 5573,
-      "title": "Saiyuki",
-      "score": 0.305,
-      "r18": false
+      "id": 43115,
+      "title": "Pocket Monsters",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3921,
       "title": "Megalomania",
-      "score": 0.305,
-      "r18": false
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 52554,
+      "title": "The Summoner Who Was Despised as 'Shunned Child'",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru"
+      ]
+    },
+    {
+      "id": 37153,
+      "title": "A Story about Confessing Before the End of the World",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "ru",
+        "tr",
+        "gb",
+        "it",
+        "cn",
+        "vn"
+      ]
+    },
+    {
+      "id": 57009,
+      "title": "Sekai Saikyou no Doryokuka: Sainou ga (Doryoku) Datta no de Kouritsu Yoku Kikakugai no Doryoku o Shitemiru",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 59708,
+      "title": "That Dragon (Exchange) Student Stands Out More Than Me",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "vn",
+        "id"
+      ]
+    },
+    {
+      "id": 46826,
+      "title": "Jungle Emperor (Third  Grader)",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59195,
+      "title": "Rooster Fighter",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "id",
+        "th",
+        "it",
+        "gb",
+        "br",
+        "tr",
+        "ru",
+        "my",
+        "fr",
+        "mx"
+      ]
+    },
+    {
+      "id": 19193,
+      "title": "Maou-jou de Oyasumi",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hk",
+        "br",
+        "id",
+        "fr",
+        "pl"
+      ]
+    },
+    {
+      "id": 5272,
+      "title": "Majutsushi Orphen Hagure Tabi",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 12714,
+      "title": "Boku no Hero Academia",
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "br",
+        "sa",
+        "gb",
+        "it",
+        "es",
+        "de",
+        "ru",
+        "mx",
+        "id",
+        "fr"
+      ]
+    },
+    {
+      "id": 11923,
+      "title": "Monster X Monster",
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ro"
+      ]
+    },
+    {
+      "id": 36824,
+      "title": "Rust-Eater Bisco",
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru"
+      ]
+    },
+    {
+      "id": 46349,
+      "title": "Zero's World",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 44910,
+      "title": "Starvation and Reincarnation",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21124,
+      "title": "Oretachi no Party wa Machigatteiru",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 39256,
+      "title": "Isekai Munchkin -HP 1 no Mama de Saikyou Saisoku Danjon Kouryaku-",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru"
+      ]
+    },
+    {
+      "id": 30744,
+      "title": "Tensei Kenja no Isekai Life ~Daini no Shokugyou wo Ete, Sekai Saikyou ni Narimashita~",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "id",
+        "th",
+        "fr"
+      ]
+    },
+    {
+      "id": 52025,
+      "title": "Isekai De Te Ni Ireta Seisan Skill Wa Saikyou Datta You Desu",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 19438,
+      "title": "Grimoire x Reverse - Tensei Kishin Roumantan",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 22946,
+      "title": "Isekai ni Tobasareta Ossan wa Doko e Iku?",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     }
   ]
 }

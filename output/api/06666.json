@@ -2,73 +2,130 @@
   "id": 6666,
   "title": "Shin Mazinger Zero",
   "url": "https://mangadex.org/manga/6666",
-  "last_updated": "March 14, 2021 16:32:39 UTC",
+  "last_updated": "March 18, 2021 06:42:34 UTC",
   "matches": [
     {
       "id": 10847,
       "title": "Shin Devilman",
       "score": 0.181,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 623,
       "title": "Franken Fran",
-      "score": 0.181,
-      "r18": false
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "pl"
+      ]
     },
     {
       "id": 2875,
       "title": "Devilman",
       "score": 0.169,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa",
+        "es",
+        "tr"
+      ]
     },
     {
       "id": 28544,
       "title": "Yondome wa Iya na Shizokusei Majutsushi",
       "score": 0.162,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "br",
+        "tr",
+        "es",
+        "gb",
+        "id",
+        "fr",
+        "pl"
+      ]
     },
     {
       "id": 11981,
       "title": "Red Blood Red Legacy",
       "score": 0.157,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "pl"
+      ]
     },
     {
       "id": 11174,
       "title": "Harenchi Gakuen",
-      "score": 0.146,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
     },
     {
       "id": 22207,
       "title": "Redman Princess: Akuryou Koujo",
-      "score": 0.146,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3708,
       "title": "Violence Jack",
-      "score": 0.134,
-      "r18": false
+      "score": 0.133,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "br"
+      ]
     },
     {
       "id": 37415,
       "title": "Samayoeru Tensei-sha-tachi no Relive Game",
-      "score": 0.129,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id",
+        "fr",
+        "br"
+      ]
     },
     {
       "id": 6864,
       "title": "Black Lion",
       "score": 0.123,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19301,
       "title": "Guerrilla High",
       "score": 0.12,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -1,32 +1,46 @@
 {
   "id": 44172,
   "title": "Dr. Kumahige",
-  "url": "https://api.mangadex.org/v2/manga/44172",
-  "last_updated": "February 11, 2021 16:36:57 UTC",
+  "url": "https://mangadex.org/manga/44172",
+  "last_updated": "March 18, 2021 12:29:09 UTC",
   "matches": [
     {
       "id": 35845,
       "title": "Anaesthesiologist Hana",
-      "score": 0.233,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 850,
       "title": "Ai-Ren",
-      "score": 0.172,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1773,
       "title": "Ressentiment",
-      "score": 0.172,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19917,
       "title": "Here Comes the Fianc&eacute;e!",
-      "score": 0.172,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     }
   ]
 }

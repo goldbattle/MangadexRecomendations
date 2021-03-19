@@ -2,55 +2,78 @@
   "id": 48908,
   "title": "PC Goddess Room",
   "url": "https://mangadex.org/manga/48908",
-  "last_updated": "January 15, 2021 12:38:10 UTC",
+  "last_updated": "March 18, 2021 13:08:51 UTC",
   "matches": [
     {
       "id": 38795,
       "title": "The White Room",
-      "score": 0.389,
-      "r18": false
-    },
-    {
-      "id": 42830,
-      "title": "S-Mate",
-      "score": 0.379,
-      "r18": false
-    },
-    {
-      "id": 58252,
-      "title": "Love Limit Exceeded",
-      "score": 0.378,
-      "r18": false
+      "score": 0.302,
+      "r18": true,
+      "languages": [
+        "it"
+      ]
     },
     {
       "id": 31397,
       "title": "Take a Peek",
-      "score": 0.338,
-      "r18": false
+      "score": 0.291,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 42777,
-      "title": "Weak Point",
-      "score": 0.334,
-      "r18": false
+      "id": 42830,
+      "title": "S-Mate",
+      "score": 0.272,
+      "r18": true,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 43412,
       "title": "Silent War",
-      "score": 0.299,
-      "r18": false
+      "score": 0.25,
+      "r18": true,
+      "languages": [
+        "fr",
+        "gb",
+        "ru",
+        "it",
+        "tr"
+      ]
+    },
+    {
+      "id": 42777,
+      "title": "Weak Point",
+      "score": 0.242,
+      "r18": true,
+      "languages": [
+        "gb",
+        "fr",
+        "br"
+      ]
     },
     {
       "id": 42587,
       "title": "Cartoonists NSFW",
-      "score": 0.276,
-      "r18": false
+      "score": 0.233,
+      "r18": true,
+      "languages": [
+        "fr"
+      ]
     },
     {
       "id": 51124,
       "title": "My Sister's Duty",
-      "score": 0.257,
-      "r18": false
+      "score": 0.194,
+      "r18": true,
+      "languages": [
+        "gb",
+        "br"
+      ]
     }
   ]
 }

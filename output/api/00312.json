@@ -2,157 +2,281 @@
   "id": 312,
   "title": "Layers",
   "url": "https://mangadex.org/manga/312",
-  "last_updated": "March 14, 2021 00:52:53 UTC",
+  "last_updated": "March 18, 2021 05:45:12 UTC",
   "matches": [
     {
       "id": 552,
       "title": "Megami Ibunroku - Persona",
       "score": 0.272,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 134,
       "title": "en&iacute;gm\u04d9",
       "score": 0.272,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "de"
+      ]
     },
     {
       "id": 32077,
       "title": "Nine Sun God King",
       "score": 0.272,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id",
+        "br",
+        "fr"
+      ]
     },
     {
       "id": 53837,
       "title": "Gao Neng Strikes",
       "score": 0.272,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1596,
       "title": "Esprit",
       "score": 0.254,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 959,
       "title": "Shaman",
-      "score": 0.25,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "br"
+      ]
     },
     {
       "id": 3889,
       "title": "Denma",
       "score": 0.249,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 59272,
       "title": "Perfect Girl",
-      "score": 0.248,
-      "r18": false
+      "score": 0.247,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8,
       "title": "Psyren",
       "score": 0.245,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "il",
+        "gb",
+        "ru",
+        "pl"
+      ]
     },
     {
       "id": 6963,
       "title": "Ryuu no Michi",
       "score": 0.243,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1720,
+      "title": "Under Prin",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 9959,
       "title": "Gringo 2061",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 32046,
       "title": "After School Exorcism",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 47571,
       "title": "The Blade of Evolution-Walking Alone in the Dungeon",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "ru",
+        "sa",
+        "it",
+        "il"
+      ]
     },
     {
-      "id": 32868,
-      "title": "The Devil's Boy",
+      "id": 1510,
+      "title": "Kamisama no Inai Nichiyoubi",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "pl",
+        "ru"
+      ]
     },
     {
       "id": 46765,
       "title": "Game of the Strong",
       "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 107,
-      "title": "Toriko",
-      "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "tr",
+        "th"
+      ]
     },
     {
       "id": 14603,
       "title": "Kagamigami",
       "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 3091,
-      "title": "Suzumiya Haruhi no Yuuutsu",
-      "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru",
+        "es"
+      ]
     },
     {
       "id": 12844,
       "title": "Saike Mata Shite mo",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 45121,
       "title": "Daddy From Hell",
       "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 20433,
-      "title": "Little Witch Academia",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 495,
-      "title": "Rakshasa Street",
-      "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 33277,
       "title": "Raid",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx",
+        "id",
+        "ru"
+      ]
+    },
+    {
+      "id": 495,
+      "title": "Rakshasa Street",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "pl"
+      ]
+    },
+    {
+      "id": 3091,
+      "title": "Suzumiya Haruhi no Yuuutsu",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 10553,
       "title": "Mob Psycho 100",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id",
+        "br",
+        "tr",
+        "hu"
+      ]
+    },
+    {
+      "id": 107,
+      "title": "Toriko",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "es",
+        "mx",
+        "pl"
+      ]
     },
     {
       "id": 33297,
       "title": "Mu Wu's Forest",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     }
   ]
 }

@@ -1,20 +1,27 @@
 {
   "id": 51734,
   "title": "Platinum Blood",
-  "url": "https://api.mangadex.org/v2/manga/51734",
-  "last_updated": "February 05, 2021 12:12:51 UTC",
+  "url": "https://mangadex.org/manga/51734",
+  "last_updated": "March 18, 2021 13:32:25 UTC",
   "matches": [
     {
       "id": 54392,
       "title": "The Tiger Who Swallowed the Moon",
-      "score": 0.177,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 29662,
       "title": "K's Secret",
-      "score": 0.142,
-      "r18": false
+      "score": 0.124,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -1,158 +1,242 @@
 {
   "id": 46659,
   "title": "Double Standard",
-  "url": "https://api.mangadex.org/v2/manga/46659",
-  "last_updated": "February 12, 2021 00:57:50 UTC",
+  "url": "https://mangadex.org/manga/46659",
+  "last_updated": "March 18, 2021 12:49:57 UTC",
   "matches": [
     {
-      "id": 6483,
-      "title": "Kirakira no Hibi",
-      "score": 0.722,
-      "r18": false
+      "id": 43878,
+      "title": "Hitotsu Shikanai Mono",
+      "score": 0.399,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
-      "id": 13051,
-      "title": "Yuugure no Machi",
-      "score": 0.45,
-      "r18": false
+      "id": 17549,
+      "title": "Guutara Renai no Seihou",
+      "score": 0.399,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 35895,
-      "title": "Tenchou, Koi Desu",
-      "score": 0.45,
-      "r18": false
+      "id": 15064,
+      "title": "Realist ni Yoru Romanticism",
+      "score": 0.399,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 28550,
-      "title": "Bed no Ue no Tengoku",
-      "score": 0.45,
-      "r18": false
-    },
-    {
-      "id": 27535,
-      "title": "2-dome no Koi no Hajimari wa",
-      "score": 0.45,
-      "r18": false
-    },
-    {
-      "id": 21208,
-      "title": "Family Simulation!!",
-      "score": 0.45,
-      "r18": false
-    },
-    {
-      "id": 29423,
-      "title": "Kafuka Koufukuron",
-      "score": 0.45,
-      "r18": false
-    },
-    {
-      "id": 49875,
-      "title": "Hana Tokidoki Kuma",
-      "score": 0.45,
-      "r18": false
+      "id": 16797,
+      "title": "Hearty",
+      "score": 0.399,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 16809,
       "title": "Motto Hanashi o Shitai no Dakedo",
-      "score": 0.45,
-      "r18": false
+      "score": 0.399,
+      "r18": false,
+      "languages": [
+        "tr"
+      ]
     },
     {
-      "id": 36849,
-      "title": "Furete, Aishite, Dakishimete",
-      "score": 0.45,
-      "r18": false
+      "id": 15913,
+      "title": "Love Me Thru the Night",
+      "score": 0.399,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 16373,
+      "title": "Ryouri Danshi no Kakushi Aji",
+      "score": 0.399,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 11449,
+      "title": "Nakanai Hotaru",
+      "score": 0.399,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11503,
       "title": "Hanjuku Orange",
-      "score": 0.45,
-      "r18": false
+      "score": 0.399,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 32690,
-      "title": "Aru Hi, Bokura ga Koi ni Ochitara",
-      "score": 0.45,
-      "r18": false
+      "id": 12058,
+      "title": "1K Apartment no Koi",
+      "score": 0.399,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
-      "id": 17884,
-      "title": "Ani to wa Koinaka Nandesu ga",
-      "score": 0.45,
-      "r18": false
+      "id": 13515,
+      "title": "He Is Beautiful",
+      "score": 0.399,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 13051,
+      "title": "Yuugure no Machi",
+      "score": 0.399,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 21208,
+      "title": "Family Simulation!!",
+      "score": 0.399,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21235,
+      "title": "Yuuhi ni Fureru Sono Mae ni",
+      "score": 0.399,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24750,
+      "title": "Nande Sonna ni Kawaii no",
+      "score": 0.399,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24461,
+      "title": "Mata, Koko Kara!!",
+      "score": 0.399,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 23392,
       "title": "Motoyan Papa to Hitsuji-sensei",
-      "score": 0.45,
-      "r18": false
+      "score": 0.399,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it"
+      ]
     },
     {
       "id": 23318,
       "title": "Sado no Otoko o Otosu Houhou",
-      "score": 0.45,
-      "r18": false
+      "score": 0.399,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 28758,
-      "title": "Futari Bocchi no Shokutaku",
-      "score": 0.45,
-      "r18": false
+      "id": 17884,
+      "title": "Ani to wa Koinaka Nandesu ga",
+      "score": 0.399,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 43878,
-      "title": "Hitotsu Shikanai Mono",
-      "score": 0.45,
-      "r18": false
-    },
-    {
-      "id": 57660,
-      "title": "Motoyan Papa to Hitsuji-sensei Yotsuba",
-      "score": 0.45,
-      "r18": false
-    },
-    {
-      "id": 26623,
-      "title": "Nageyari no Yoru",
-      "score": 0.45,
-      "r18": false
-    },
-    {
-      "id": 29654,
-      "title": "Vanilla Chocolate Cigarette",
-      "score": 0.45,
-      "r18": false
-    },
-    {
-      "id": 43743,
-      "title": "Caster &amp; Mild",
-      "score": 0.45,
-      "r18": false
-    },
-    {
-      "id": 19540,
-      "title": "Itadakimasu, Gochisou-sama",
-      "score": 0.45,
-      "r18": false
-    },
-    {
-      "id": 49591,
-      "title": "Ooya-san to Himo",
-      "score": 0.45,
-      "r18": false
-    },
-    {
-      "id": 35405,
-      "title": "S+ Rush!!",
-      "score": 0.45,
-      "r18": false
+      "id": 17885,
+      "title": "Masquerade Lovers",
+      "score": 0.399,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19824,
       "title": "Michizure Policy",
-      "score": 0.45,
-      "r18": false
+      "score": 0.399,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19540,
+      "title": "Itadakimasu, Gochisou-sama",
+      "score": 0.399,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "br",
+        "vn"
+      ]
+    },
+    {
+      "id": 7444,
+      "title": "Kamisama ga Yadoru Kotoba",
+      "score": 0.399,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
+    },
+    {
+      "id": 6924,
+      "title": "Chidori-san Chi ni Kagitte",
+      "score": 0.399,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 49265,
+      "title": "Suki o Oshiete",
+      "score": 0.399,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

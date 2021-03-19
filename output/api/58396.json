@@ -2,61 +2,66 @@
   "id": 58396,
   "title": "Don't Tell Him",
   "url": "https://mangadex.org/manga/58396",
-  "last_updated": "March 13, 2021 04:22:02 UTC",
+  "last_updated": "March 18, 2021 14:28:04 UTC",
   "matches": [
     {
       "id": 29198,
       "title": "From the moon to the stars",
       "score": 0.207,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 24225,
       "title": "Here U Are",
       "score": 0.204,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "it",
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 36527,
       "title": "Boy's Love",
-      "score": 0.194,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 27497,
       "title": "Special Relationship Law",
       "score": 0.177,
-      "r18": false
-    },
-    {
-      "id": 58838,
-      "title": "The Professor's Double Life",
-      "score": 0.172,
-      "r18": false
-    },
-    {
-      "id": 39991,
-      "title": "Incorrigible",
-      "score": 0.155,
-      "r18": false
-    },
-    {
-      "id": 40608,
-      "title": "AoAo Waiting to Be Eaten (Caught!!)",
-      "score": 0.155,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 48615,
       "title": "You Don't Know Me",
-      "score": 0.152,
-      "r18": false
+      "score": 0.151,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 53106,
       "title": "A Wisdom Tooth",
       "score": 0.129,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     }
   ]
 }

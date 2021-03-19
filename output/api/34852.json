@@ -1,44 +1,71 @@
 {
   "id": 34852,
   "title": "KoLD8: King of the Living Dead",
-  "url": "https://api.mangadex.org/v2/manga/34852",
-  "last_updated": "February 10, 2021 16:34:58 UTC",
+  "url": "https://mangadex.org/manga/34852",
+  "last_updated": "March 18, 2021 11:11:22 UTC",
   "matches": [
-    {
-      "id": 32117,
-      "title": "Dead Life",
-      "score": 0.733,
-      "r18": false
-    },
-    {
-      "id": 5057,
-      "title": "Apocalypse no Toride",
-      "score": 0.704,
-      "r18": false
-    },
-    {
-      "id": 46789,
-      "title": "Apocalyptic Super System",
-      "score": 0.675,
-      "r18": false
-    },
     {
       "id": 2195,
       "title": "Zombie-Loan",
-      "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 23429,
-      "title": "The Last Human",
-      "score": 0.674,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 56164,
       "title": "A Manga Where Rapper Bites Turn You Into A Rapper",
-      "score": 0.253,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5057,
+      "title": "Apocalypse no Toride",
+      "score": 0.182,
+      "r18": false,
+      "languages": [
+        "hu",
+        "gb"
+      ]
+    },
+    {
+      "id": 32117,
+      "title": "Dead Life",
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 23429,
+      "title": "The Last Human",
+      "score": 0.13,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "sa",
+        "ru",
+        "fr"
+      ]
+    },
+    {
+      "id": 46789,
+      "title": "Apocalyptic Super System",
+      "score": 0.121,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "tr",
+        "pl"
+      ]
     }
   ]
 }

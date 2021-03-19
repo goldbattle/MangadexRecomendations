@@ -1,158 +1,247 @@
 {
   "id": 55262,
   "title": "Nishimachi Shinryoujo no Himitsu - The Secret of Fuyuki",
-  "url": "https://api.mangadex.org/v2/manga/55262",
-  "last_updated": "March 12, 2021 20:35:36 UTC",
+  "url": "https://mangadex.org/manga/55262",
+  "last_updated": "March 18, 2021 14:01:53 UTC",
   "matches": [
     {
-      "id": 24448,
-      "title": "Kawaii Anata ni Amai Wana",
-      "score": 0.688,
-      "r18": false
+      "id": 24920,
+      "title": "BxP Anx",
+      "score": 0.37,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 57844,
-      "title": "Kaibutsu Ouji",
-      "score": 0.687,
-      "r18": false
+      "id": 55982,
+      "title": "Hot Limit",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 46399,
-      "title": "A Thousand Cranes",
-      "score": 0.682,
-      "r18": false
-    },
-    {
-      "id": 56162,
-      "title": "Tenshi no Tamagoryouri",
-      "score": 0.674,
-      "r18": false
-    },
-    {
-      "id": 8007,
-      "title": "Itsuka Ame ga Furu You ni",
-      "score": 0.674,
-      "r18": false
-    },
-    {
-      "id": 55072,
-      "title": "Gekkou no Rankan ni Kuchinashi no Nioi",
-      "score": 0.672,
-      "r18": false
-    },
-    {
-      "id": 7329,
-      "title": "Natsu, Kimi ga Saku.",
-      "score": 0.671,
-      "r18": false
-    },
-    {
-      "id": 9475,
-      "title": "Tsuki ni Hoero",
-      "score": 0.671,
-      "r18": false
-    },
-    {
-      "id": 25475,
-      "title": "Tanbishugi",
-      "score": 0.67,
-      "r18": false
-    },
-    {
-      "id": 7189,
-      "title": "Tobu, Kokoro",
-      "score": 0.668,
-      "r18": false
-    },
-    {
-      "id": 53625,
-      "title": "Kagakushitsu e Douzo",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 57208,
-      "title": "Oh! My Maid",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 55801,
-      "title": "Koibito no Namae",
-      "score": 0.662,
-      "r18": false
-    },
-    {
-      "id": 15141,
-      "title": "Bronze",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 29113,
-      "title": "Yubisaki no Koi",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 36041,
-      "title": "Zombie Hide Sex",
-      "score": 0.659,
-      "r18": false
+      "id": 20220,
+      "title": "Dancing Colors",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 6527,
       "title": "Konya mo Nemurenai",
-      "score": 0.655,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
-      "id": 36782,
-      "title": "Namida mo Tooku -Aonibi no Nemuri-",
-      "score": 0.654,
-      "r18": false
+      "id": 15036,
+      "title": "Bara no Hitomi wa Bakudan",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 14648,
-      "title": "Hana to Chou",
-      "score": 0.653,
-      "r18": false
+      "id": 22562,
+      "title": "23:45 Re;",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 12462,
+      "title": "Lovers&hearts;Doll",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 16296,
+      "title": "Taiyou no Romance",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 57001,
+      "title": "Koisuru Ikimono",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19687,
+      "title": "Akuma wa Hohoemu",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 35646,
+      "title": "Kanawanu Koi no Musubikata",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 32967,
+      "title": "Red Beryl ni Sayonara",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 41861,
+      "title": "Kedamono Arashi - Kiss Me Baby! -",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
+    },
+    {
+      "id": 25737,
+      "title": "D&eacute;j&agrave;-vu",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24469,
+      "title": "Anohito to Nitenai Kuchibiru",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 26617,
+      "title": "Ikusen no Toki o Koete",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 27140,
+      "title": "Bokura wa Minna Uso Bakari",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 48621,
+      "title": "Wagamama Ouji wa Neko wo Karu",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 13498,
+      "title": "Renai Rubi no Tadashii Furikata",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 42993,
+      "title": "Tsunaida Koi no Kanaekata",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
+    },
+    {
+      "id": 55849,
+      "title": "Nounai Renai no Susume",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 25741,
+      "title": "Sukishiki Yuuyoujyutsu",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37812,
+      "title": "Kichiku Megane",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 41446,
       "title": "Sasayaku no wa Sono Yubi",
-      "score": 0.653,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 15501,
-      "title": "Feng Yu Jiu Tian",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 38717,
-      "title": "Konya wa Take-out Nite",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 9172,
-      "title": "Okutsukimura no Yukaisou",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 29090,
-      "title": "Mawaru Sekai no Kimi to Boku",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 29078,
-      "title": "Circle",
-      "score": 0.651,
-      "r18": false
+      "id": 26999,
+      "title": "Goshujin-sama to Kedama",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

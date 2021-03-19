@@ -1,56 +1,86 @@
 {
   "id": 42969,
   "title": "Imae-ui Yoram.",
-  "url": "https://api.mangadex.org/v2/manga/42969",
-  "last_updated": "February 11, 2021 12:33:18 UTC",
+  "url": "https://mangadex.org/manga/42969",
+  "last_updated": "March 18, 2021 12:19:06 UTC",
   "matches": [
-    {
-      "id": 51164,
-      "title": "ANTI P.T.",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 55078,
-      "title": "The Crescent Scholar",
-      "score": 0.665,
-      "r18": false
-    },
     {
       "id": 54158,
       "title": "Dream Sign",
-      "score": 0.45,
-      "r18": false
-    },
-    {
-      "id": 53432,
-      "title": "Hand in Hand",
-      "score": 0.375,
-      "r18": false
+      "score": 0.318,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 57343,
       "title": "Family Mate",
-      "score": 0.375,
-      "r18": false
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 54735,
       "title": "Dog's Love Way",
-      "score": 0.371,
-      "r18": false
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53432,
+      "title": "Hand in Hand",
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
+    },
+    {
+      "id": 51164,
+      "title": "ANTI P.T.",
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 55078,
+      "title": "The Crescent Scholar",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 59039,
       "title": "Sweet as hell.",
-      "score": 0.31,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br"
+      ]
     },
     {
       "id": 50798,
       "title": "Ventham",
-      "score": 0.274,
-      "r18": false
+      "score": 0.179,
+      "r18": false,
+      "languages": [
+        "mx",
+        "ru",
+        "gb",
+        "tr"
+      ]
     }
   ]
 }

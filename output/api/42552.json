@@ -1,74 +1,128 @@
 {
   "id": 42552,
   "title": "4shi Mitarai Dango Collection",
-  "url": "https://api.mangadex.org/v2/manga/42552",
-  "last_updated": "February 11, 2021 12:27:02 UTC",
+  "url": "https://mangadex.org/manga/42552",
+  "last_updated": "March 18, 2021 12:15:37 UTC",
   "matches": [
     {
       "id": 51534,
       "title": "Eirrizo's Dead by Daylight Collection",
-      "score": 0.173,
-      "r18": false
+      "score": 0.107,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 41516,
       "title": "Final Girl",
-      "score": 0.149,
-      "r18": false
-    },
-    {
-      "id": 38049,
-      "title": "Franken Fran Frantic",
-      "score": 0.134,
-      "r18": false
-    },
-    {
-      "id": 21629,
-      "title": "Ren'ai Harem Game Shuuryou no Oshirase ga Kuru Koro ni",
-      "score": 0.133,
-      "r18": false
+      "score": 0.107,
+      "r18": false,
+      "languages": [
+        "tr",
+        "mx",
+        "br",
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 33778,
       "title": "Zombie 100 ~Zombie ni Naru Made ni Shitai 100 no Koto~",
-      "score": 0.127,
-      "r18": false
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "ru"
+      ]
+    },
+    {
+      "id": 21629,
+      "title": "Ren'ai Harem Game Shuuryou no Oshirase ga Kuru Koro ni",
+      "score": 0.075,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 32311,
       "title": "Chainsaw Man",
-      "score": 0.121,
-      "r18": false
+      "score": 0.068,
+      "r18": false,
+      "languages": [
+        "id",
+        "it",
+        "mx",
+        "gb",
+        "br",
+        "fr",
+        "hk",
+        "mn",
+        "ir",
+        "ru",
+        "ua",
+        "my"
+      ]
     },
     {
       "id": 20573,
       "title": "Machigatta Ko wo Mahou Shoujo ni shite shimatta",
-      "score": 0.12,
-      "r18": false
+      "score": 0.068,
+      "r18": false,
+      "languages": [
+        "mx",
+        "ru",
+        "tr",
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 58699,
       "title": "Chainsaw Man - Digital Colored Comics",
-      "score": 0.11,
-      "r18": false
+      "score": 0.068,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "sa"
+      ]
     },
     {
       "id": 7660,
       "title": "Keyman - The Hand of Judgement",
-      "score": 0.101,
-      "r18": false
-    },
-    {
-      "id": 1400,
-      "title": "Eater",
-      "score": 0.095,
-      "r18": false
+      "score": 0.053,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "ru",
+        "fr",
+        "es"
+      ]
     },
     {
       "id": 12797,
       "title": "Dororon Enbi-chan",
-      "score": 0.058,
-      "r18": false
+      "score": 0.05,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1400,
+      "title": "Eater",
+      "score": 0.044,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

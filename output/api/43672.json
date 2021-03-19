@@ -1,26 +1,57 @@
 {
   "id": 43672,
   "title": "The Female Hero and the Shota Orc",
-  "url": "https://api.mangadex.org/v2/manga/43672",
-  "last_updated": "February 11, 2021 16:28:39 UTC",
+  "url": "https://mangadex.org/manga/43672",
+  "last_updated": "March 18, 2021 12:24:58 UTC",
   "matches": [
     {
       "id": 55065,
       "title": "Hai no Futago wa Shirokuro tsukezu ni Sekai wo Sukuimasu.",
-      "score": 0.278,
-      "r18": false
+      "score": 0.195,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29270,
+      "title": "Fairy Tail: 100 Years Quest",
+      "score": 0.125,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "vn",
+        "pl",
+        "br",
+        "sa",
+        "it",
+        "de",
+        "ru",
+        "th",
+        "id"
+      ]
     },
     {
       "id": 36273,
       "title": "Keizoku wa Maryoku Nari",
-      "score": 0.191,
-      "r18": false
+      "score": 0.107,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru",
+        "id"
+      ]
     },
     {
       "id": 57487,
       "title": "Monday's Forecast for Hareyakana-shi",
-      "score": 0.18,
-      "r18": false
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

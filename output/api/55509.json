@@ -1,158 +1,277 @@
 {
   "id": 55509,
   "title": "Mimi Tsuki no Kuro",
-  "url": "https://api.mangadex.org/v2/manga/55509",
-  "last_updated": "March 12, 2021 20:38:44 UTC",
+  "url": "https://mangadex.org/manga/55509",
+  "last_updated": "March 18, 2021 14:03:57 UTC",
   "matches": [
     {
-      "id": 3345,
-      "title": "Heart no Diamond",
-      "score": 0.34,
-      "r18": false
+      "id": 1956,
+      "title": "Kanojo wa Uso wo Aishisugiteru",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
-      "id": 28359,
-      "title": "Boku ga Utau to Kimi wa Warau kara",
-      "score": 0.34,
-      "r18": false
+      "id": 3075,
+      "title": "Namida Usagi ~Seifuku no Kataomoi~",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br"
+      ]
     },
     {
-      "id": 2030,
-      "title": "A Diary of Troublesome Adventures",
-      "score": 0.291,
-      "r18": false
+      "id": 4800,
+      "title": "Koibana! Koi Seyo Hanabi",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "pl"
+      ]
     },
     {
-      "id": 2319,
-      "title": "A Fairy Tale For You",
-      "score": 0.291,
-      "r18": false
+      "id": 7027,
+      "title": "Sir Tiger's Table",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
-      "id": 2969,
-      "title": "Otogibanashi de Himitsu no Kiss",
-      "score": 0.291,
-      "r18": false
+      "id": 10368,
+      "title": "Kanojo ni Naru Hi",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "tr",
+        "vn",
+        "id",
+        "it",
+        "pl"
+      ]
     },
     {
-      "id": 2989,
-      "title": "My Sweet Dragon",
-      "score": 0.291,
-      "r18": false
+      "id": 13143,
+      "title": "Taberarechai na yo!",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br"
+      ]
     },
     {
-      "id": 18002,
-      "title": "Mugen Spiral",
-      "score": 0.291,
-      "r18": false
+      "id": 14198,
+      "title": "Kengai Princess",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 132,
-      "title": "Pika Ichi",
-      "score": 0.283,
-      "r18": false
+      "id": 15265,
+      "title": "Sekirara ni Kiss",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "pl",
+        "br"
+      ]
     },
     {
-      "id": 140,
-      "title": "Usotsuki Lily",
-      "score": 0.283,
-      "r18": false
+      "id": 15294,
+      "title": "Kimi wa Nani mo Shiranai",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
-      "id": 199,
-      "title": "Aishiteruze Baby\u2605\u2605",
-      "score": 0.283,
-      "r18": false
+      "id": 15638,
+      "title": "Omoi, Omoware, Furi, Furare",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br",
+        "gb",
+        "tr",
+        "hu"
+      ]
     },
     {
-      "id": 204,
-      "title": "Kore wa Koi no Hanashi",
-      "score": 0.283,
-      "r18": false
+      "id": 16375,
+      "title": "Ashita no 3600-byou",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "mx",
+        "es",
+        "it",
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 368,
-      "title": "The Guy Who Will Give a Kiss for \u20a9 5000",
-      "score": 0.283,
-      "r18": false
+      "id": 18039,
+      "title": "Kimi to Eureka",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 380,
-      "title": "Wait! Wolf",
-      "score": 0.283,
-      "r18": false
+      "id": 18381,
+      "title": "9 - Kimi ga Iru Machi de Koi o Shita",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
-      "id": 491,
-      "title": "Ao Haru Ride",
-      "score": 0.283,
-      "r18": false
+      "id": 18770,
+      "title": "Life So Happy",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "es",
+        "pl"
+      ]
     },
     {
-      "id": 644,
-      "title": "L&hearts;DK",
-      "score": 0.283,
-      "r18": false
+      "id": 18827,
+      "title": "Soredemo Kimi ga",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
-      "id": 716,
-      "title": "Chitose etc.",
-      "score": 0.283,
-      "r18": false
+      "id": 19313,
+      "title": "Sentimental Letter",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
-      "id": 717,
-      "title": "Love Berrish!",
-      "score": 0.283,
-      "r18": false
+      "id": 19585,
+      "title": "Where's My Lovely Sweetheart?",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br",
+        "gb"
+      ]
     },
     {
-      "id": 740,
-      "title": "Brand Peace",
-      "score": 0.283,
-      "r18": false
+      "id": 19845,
+      "title": "Fushigi no Kuni no Arisugawa-san",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "mx",
+        "it",
+        "gb"
+      ]
     },
     {
-      "id": 764,
-      "title": "Koi, Hirari",
-      "score": 0.283,
-      "r18": false
+      "id": 19939,
+      "title": "Seishun Lover's Festival",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
-      "id": 777,
-      "title": "MAX Lovely!",
-      "score": 0.283,
-      "r18": false
+      "id": 20189,
+      "title": "Yasashiku nai Kimi ga Suki",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
-      "id": 781,
-      "title": "Shinigami Lovers",
-      "score": 0.283,
-      "r18": false
+      "id": 20190,
+      "title": "Boku wa Uchuujin ni Koi o Shita.",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx"
+      ]
     },
     {
-      "id": 815,
-      "title": "Kaichou wa Maid-sama!",
-      "score": 0.283,
-      "r18": false
+      "id": 20322,
+      "title": "Akai Ito Kudasai",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "br",
+        "mx"
+      ]
     },
     {
-      "id": 994,
-      "title": "Sukitte Ii na yo",
-      "score": 0.283,
-      "r18": false
+      "id": 20379,
+      "title": "Tsukumo-kun no Ai wa Machigatte Iru",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "mx",
+        "it"
+      ]
     },
     {
-      "id": 1000,
-      "title": "Sugar Family",
-      "score": 0.283,
-      "r18": false
+      "id": 20508,
+      "title": "Inuwashi Momo wa Yuruganai",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "mx"
+      ]
     },
     {
-      "id": 1165,
-      "title": "Anti-Gravity Boy",
-      "score": 0.283,
-      "r18": false
+      "id": 20847,
+      "title": "Honey Come Honey",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br",
+        "es",
+        "gb"
+      ]
     }
   ]
 }

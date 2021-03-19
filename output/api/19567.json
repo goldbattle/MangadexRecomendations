@@ -2,157 +2,297 @@
   "id": 19567,
   "title": "Kimi to Tokei to Uso no Tou",
   "url": "https://mangadex.org/manga/19567",
-  "last_updated": "March 16, 2021 00:20:36 UTC",
+  "last_updated": "March 18, 2021 08:49:40 UTC",
   "matches": [
     {
-      "id": 27349,
-      "title": "Koware Hajimeta Tenshitachi",
-      "score": 0.292,
-      "r18": false
-    },
-    {
-      "id": 2448,
-      "title": "Honey Bitter",
-      "score": 0.292,
-      "r18": false
-    },
-    {
-      "id": 19142,
-      "title": "Vampire Knight Memories",
-      "score": 0.292,
-      "r18": false
-    },
-    {
-      "id": 2857,
-      "title": "Cruel Fairytales",
-      "score": 0.292,
-      "r18": false
-    },
-    {
-      "id": 2598,
-      "title": "Akaku Saku Koe",
-      "score": 0.292,
-      "r18": false
-    },
-    {
-      "id": 6370,
-      "title": "Romance of Darkness",
-      "score": 0.292,
-      "r18": false
-    },
-    {
-      "id": 23844,
-      "title": "Juunikyuu de Tsukamaete",
-      "score": 0.292,
-      "r18": false
-    },
-    {
-      "id": 48437,
-      "title": "My Blissful Marriage",
-      "score": 0.292,
-      "r18": false
-    },
-    {
-      "id": 9178,
-      "title": "Shiryoku Kensa",
-      "score": 0.292,
-      "r18": false
-    },
-    {
-      "id": 2247,
-      "title": "Silver",
-      "score": 0.292,
-      "r18": false
-    },
-    {
-      "id": 19354,
-      "title": "F no Meikyuu",
-      "score": 0.292,
-      "r18": false
-    },
-    {
-      "id": 2141,
-      "title": "Kimi ga Uso o Tsuita",
-      "score": 0.267,
-      "r18": false
-    },
-    {
-      "id": 1411,
-      "title": "DARKER THAN BLACK -Kuro no Keiyakusha-",
-      "score": 0.265,
-      "r18": false
-    },
-    {
-      "id": 26502,
-      "title": "Mizu no Yakata",
-      "score": 0.259,
-      "r18": false
-    },
-    {
-      "id": 17278,
-      "title": "Hakoniwa",
-      "score": 0.259,
-      "r18": false
-    },
-    {
-      "id": 5961,
-      "title": "Missing Piece",
-      "score": 0.252,
-      "r18": false
-    },
-    {
-      "id": 27895,
-      "title": "Ningyou Saisei Koujou",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 4066,
-      "title": "Song of the Doll",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 16440,
-      "title": "Merikuron no Namida",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 30290,
-      "title": "Nil Admirari no Tenbin: Teito Genwaku Kitan",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 33300,
-      "title": "Matsurika Kanriden",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 39432,
-      "title": "Marielle Clarac's Engagement",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 7182,
-      "title": "Shi to Kanojo to Boku",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 2615,
-      "title": "Kagen no Tsuki",
-      "score": 0.236,
-      "r18": false
-    },
-    {
-      "id": 183,
-      "title": "Shinrei Tantei Yakumo",
+      "id": 17165,
+      "title": "Bara Kangoku no Kemono-tachi",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "fr",
+        "ru",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 21268,
+      "title": "Kagehime no Konrei",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 9317,
+      "title": "Madame Petit",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 24665,
+      "title": "Kakuriyo no Yadomeshi: Ayakashi Oyado ni Yomeiri Shimasu",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 18254,
+      "title": "Tantei Higurashi Tabito no Sagashimono",
+      "score": 0.229,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
+    },
+    {
+      "id": 10027,
+      "title": "Idea no Hana",
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 18889,
+      "title": "A. - Answer",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "it",
+        "mx",
+        "fr",
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 16375,
+      "title": "Ashita no 3600-byou",
+      "score": 0.212,
+      "r18": false,
+      "languages": [
+        "mx",
+        "es",
+        "it",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 33265,
+      "title": "Kimi ga Shinu Made Ato 100 Nichi",
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id",
+        "br",
+        "ru"
+      ]
+    },
+    {
+      "id": 19881,
+      "title": "Chocolate Vampire",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "es",
+        "mx"
+      ]
+    },
+    {
+      "id": 2016,
+      "title": "Kami-sama no Sonata",
+      "score": 0.188,
+      "r18": false,
+      "languages": [
+        "it",
+        "pl",
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 18085,
+      "title": "Mahou Tsukai to Hoshi Furu Niwa",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 18987,
+      "title": "Cardcaptor Sakura - Clear Card Arc",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "id",
+        "ru",
+        "mx"
+      ]
+    },
+    {
+      "id": 41167,
+      "title": "The Girl Who Could See Emotions",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "it",
+        "vn"
+      ]
+    },
+    {
+      "id": 14501,
+      "title": "Koi to Kemono to Seitokai",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "br",
+        "mx",
+        "pl"
+      ]
+    },
+    {
+      "id": 4802,
+      "title": "Junketsu + Kareshi",
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 26380,
+      "title": "Mahoutsukai no Konyakusha",
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "mx",
+        "fr",
+        "es",
+        "br"
+      ]
+    },
+    {
+      "id": 26606,
+      "title": "Ayashi no Ceres",
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "mx",
+        "pl"
+      ]
+    },
+    {
+      "id": 374,
+      "title": "Adekan",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 45718,
+      "title": "Charlotte&rsquo;s Letter",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
+    },
+    {
+      "id": 39474,
+      "title": "A Stepmother's M&auml;rchen",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "es",
+        "id",
+        "vn"
+      ]
+    },
+    {
+      "id": 6381,
+      "title": "Kaguya Hime",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 24845,
+      "title": "DOLO's Destiny Pill",
+      "score": 0.151,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx",
+        "mn",
+        "id"
+      ]
+    },
+    {
+      "id": 31606,
+      "title": "The Reason Why Raeliana Ended Up at the Duke's Mansion",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "id",
+        "mx",
+        "tr",
+        "ru",
+        "hu",
+        "ph"
+      ]
+    },
+    {
+      "id": 18109,
+      "title": "Sengoku Vampire",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "it",
+        "es"
+      ]
     }
   ]
 }

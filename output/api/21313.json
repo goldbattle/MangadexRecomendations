@@ -2,157 +2,252 @@
   "id": 21313,
   "title": "Underground Brawl",
   "url": "https://mangadex.org/manga/21313",
-  "last_updated": "March 16, 2021 04:24:11 UTC",
+  "last_updated": "March 18, 2021 09:04:17 UTC",
   "matches": [
     {
       "id": 2376,
       "title": "Blazer Drive",
-      "score": 0.28,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ct",
+        "pl"
+      ]
     },
     {
       "id": 10957,
       "title": "Chiguhagu Lovers",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 7111,
-      "title": "Megumi no Daigo",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 18204,
-      "title": "Houkago Sword Club",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 252,
-      "title": "ef - a fairy tale of the two.",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 6650,
-      "title": "Kuzumoto-san Chi no Yonkyoudai",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 10321,
-      "title": "Kidou Senshi Gundam - Gyakushuu no Char: Beyond the Time",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 6520,
-      "title": "Ninku",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 9851,
-      "title": "Hayachine!",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 23489,
-      "title": "Shuukan Shounen Hachi",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 3417,
-      "title": "Nina Jalhae!",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 5213,
-      "title": "Boukyaku no Senritsu",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 814,
-      "title": "Bloody Monday - Last Season",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 35090,
-      "title": "Nanaka 6/17",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 51532,
-      "title": "Ghost Girl",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 5144,
-      "title": "Himawari Youchien Monogatari Aiko Desho!",
-      "score": 0.28,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 918,
       "title": "Guardian Dog",
-      "score": 0.28,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 7111,
+      "title": "Megumi no Daigo",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18204,
+      "title": "Houkago Sword Club",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 252,
+      "title": "ef - a fairy tale of the two.",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6650,
+      "title": "Kuzumoto-san Chi no Yonkyoudai",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10321,
+      "title": "Kidou Senshi Gundam - Gyakushuu no Char: Beyond the Time",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 6520,
+      "title": "Ninku",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9851,
+      "title": "Hayachine!",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 23489,
+      "title": "Shuukan Shounen Hachi",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 3417,
+      "title": "Nina Jalhae!",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5213,
+      "title": "Boukyaku no Senritsu",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 35090,
+      "title": "Nanaka 6/17",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 51532,
+      "title": "Ghost Girl",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru"
+      ]
+    },
+    {
+      "id": 5144,
+      "title": "Himawari Youchien Monogatari Aiko Desho!",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6748,
       "title": "ShiraYuki PaniMix!",
-      "score": 0.28,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8113,
       "title": "Godseeker",
-      "score": 0.28,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "fr"
+      ]
     },
     {
       "id": 3997,
       "title": "Ano Natsu de Matteru",
-      "score": 0.28,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 7911,
       "title": "Futakoi Alternative",
-      "score": 0.28,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 814,
+      "title": "Bloody Monday - Last Season",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 21646,
       "title": "Cross Account",
-      "score": 0.28,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "ru"
+      ]
     },
     {
       "id": 8114,
       "title": "Tokyo Jungle",
-      "score": 0.28,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 982,
       "title": "Shonan Junaigumi!",
-      "score": 0.28,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "tr"
+      ]
     },
     {
       "id": 9869,
       "title": "Rebirth Knight",
-      "score": 0.28,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     }
   ]
 }

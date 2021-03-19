@@ -1,158 +1,256 @@
 {
   "id": 45927,
   "title": "From Dusk Till Dawn",
-  "url": "https://api.mangadex.org/v2/manga/45927",
-  "last_updated": "February 11, 2021 20:33:39 UTC",
+  "url": "https://mangadex.org/manga/45927",
+  "last_updated": "March 18, 2021 12:43:49 UTC",
   "matches": [
-    {
-      "id": 5840,
-      "title": "BLOOD+",
-      "score": 0.662,
-      "r18": false
-    },
-    {
-      "id": 1417,
-      "title": "Shingetsutan Tsukihime",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 470,
-      "title": "Sprite",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 4880,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 1714,
-      "title": "Kara no Kyoukai - The Garden of Sinners",
-      "score": 0.65,
-      "r18": false
-    },
-    {
-      "id": 2340,
-      "title": "Fate/stay night",
-      "score": 0.65,
-      "r18": false
-    },
     {
       "id": 7118,
       "title": "Specter",
-      "score": 0.444,
-      "r18": false
+      "score": 0.369,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "it"
+      ]
     },
     {
-      "id": 29363,
-      "title": "Bungou Stray Dogs: Dead Apple",
-      "score": 0.407,
-      "r18": false
-    },
-    {
-      "id": 6423,
-      "title": "Wild Adapter",
-      "score": 0.405,
-      "r18": false
-    },
-    {
-      "id": 13288,
-      "title": "Combination",
-      "score": 0.4,
-      "r18": false
+      "id": 14664,
+      "title": "Shingeki no Kyojin - 1 Hundred (Doujinshi)",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6380,
       "title": "Na mo Naki Tori no Tobu Yoake",
-      "score": 0.396,
-      "r18": false
-    },
-    {
-      "id": 30478,
-      "title": "Midnight Sun",
-      "score": 0.382,
-      "r18": false
-    },
-    {
-      "id": 3,
-      "title": "The Bullet Saint",
-      "score": 0.377,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 4560,
       "title": "Ai DeathGUN",
-      "score": 0.376,
-      "r18": false
-    },
-    {
-      "id": 10973,
-      "title": "BLOOD+ - Yakou Joushi",
-      "score": 0.374,
-      "r18": false
-    },
-    {
-      "id": 1411,
-      "title": "DARKER THAN BLACK -Kuro no Keiyakusha-",
-      "score": 0.368,
-      "r18": false
-    },
-    {
-      "id": 5545,
-      "title": "Zeus",
-      "score": 0.367,
-      "r18": false
-    },
-    {
-      "id": 1996,
-      "title": "Speed Grapher",
-      "score": 0.364,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 26404,
       "title": "Shinonome Tantei Ibun Roku",
-      "score": 0.362,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb"
+      ]
+    },
+    {
+      "id": 13288,
+      "title": "Combination",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6423,
+      "title": "Wild Adapter",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 30478,
+      "title": "Midnight Sun",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1996,
+      "title": "Speed Grapher",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29363,
+      "title": "Bungou Stray Dogs: Dead Apple",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24110,
+      "title": "Azrael (PARK Jung-Yul)",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 33453,
       "title": "Bungou Stray Dogs Gaiden: Ayatsuji Yukito VS. Kyougoku Natsuhiko",
-      "score": 0.361,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 11314,
-      "title": "Bungo Stray Dogs",
-      "score": 0.361,
-      "r18": false
-    },
-    {
-      "id": 30681,
-      "title": "Lumine",
-      "score": 0.359,
-      "r18": false
-    },
-    {
-      "id": 131,
-      "title": "Yumekui Merry",
-      "score": 0.357,
-      "r18": false
-    },
-    {
-      "id": 5386,
-      "title": "Shin Seiki Evangelion - Gakuen Datenroku",
-      "score": 0.354,
-      "r18": false
+      "id": 3,
+      "title": "The Bullet Saint",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2220,
       "title": "La Mosca",
-      "score": 0.354,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 4728,
+      "title": "So wa Reirei no Yuki ni Mai",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4807,
+      "title": "Saiyaku wa Boku o Suki Sugiru",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 5545,
+      "title": "Zeus",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 29077,
+      "title": "Gengetsurou Kitan",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10012,
+      "title": "Moon Trick",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "pl"
+      ]
+    },
+    {
+      "id": 29622,
+      "title": "Vampir J&auml;ger",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8006,
+      "title": "Kekkai Sensen",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "es"
+      ]
+    },
+    {
+      "id": 3790,
+      "title": "Tiger &amp; Bunny",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 20576,
+      "title": "RDB",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 131,
+      "title": "Yumekui Merry",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "pl",
+        "mx",
+        "es",
+        "it"
+      ]
+    },
+    {
+      "id": 1411,
+      "title": "DARKER THAN BLACK -Kuro no Keiyakusha-",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     }
   ]
 }

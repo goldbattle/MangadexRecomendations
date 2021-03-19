@@ -2,157 +2,307 @@
   "id": 564,
   "title": "Nagasarete Airantou",
   "url": "https://mangadex.org/manga/564",
-  "last_updated": "March 14, 2021 00:57:39 UTC",
+  "last_updated": "March 18, 2021 05:47:20 UTC",
   "matches": [
     {
       "id": 1062,
       "title": "Shina Dark ~Kuroki Tsuki no Ou to Souheiki no Himegimi~",
-      "score": 0.236,
-      "r18": false
+      "score": 0.217,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 34,
       "title": "Cage of Eden",
-      "score": 0.202,
-      "r18": false
-    },
-    {
-      "id": 6838,
-      "title": "Keroro Gunsou",
-      "score": 0.191,
-      "r18": false
-    },
-    {
-      "id": 5327,
-      "title": "Tora Kiss - A School Odyssey",
-      "score": 0.188,
-      "r18": false
-    },
-    {
-      "id": 28735,
-      "title": "Isekai Shoukan wa Nidome Desu",
-      "score": 0.184,
-      "r18": false
-    },
-    {
-      "id": 2646,
-      "title": "Mushibugyo",
-      "score": 0.184,
-      "r18": false
-    },
-    {
-      "id": 15950,
-      "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
-      "score": 0.18,
-      "r18": false
-    },
-    {
-      "id": 22875,
-      "title": "Goodbye! Isekai Tensei",
-      "score": 0.178,
-      "r18": false
+      "score": 0.19,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "es",
+        "de",
+        "it"
+      ]
     },
     {
       "id": 15946,
       "title": "Gun-Ota ga Mahou Sekai ni Tensei shitara, Gendai Heiki de Guntai Harem wo Tsukucchaimashita!?",
       "score": 0.177,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "es",
+        "fr",
+        "ru",
+        "br"
+      ]
     },
     {
-      "id": 43511,
-      "title": "Seiken Gakuin no Maken Tsukai",
-      "score": 0.176,
-      "r18": false
-    },
-    {
-      "id": 4380,
-      "title": "Joujuu Senjin!! Mushibugyo",
-      "score": 0.176,
-      "r18": false
-    },
-    {
-      "id": 35794,
-      "title": "The Hero Who Returned Remains the Strongest in the Modern World",
-      "score": 0.175,
-      "r18": false
+      "id": 32386,
+      "title": "Mato Seihei no Slave",
+      "score": 0.177,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "br",
+        "hk",
+        "ru",
+        "mx",
+        "tr"
+      ]
     },
     {
       "id": 3132,
       "title": "Dragon Ball",
       "score": 0.175,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "mx"
+      ]
     },
     {
-      "id": 4774,
-      "title": "Dragon Quest: Dai no Daibouken",
+      "id": 5327,
+      "title": "Tora Kiss - A School Odyssey",
+      "score": 0.173,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "it"
+      ]
+    },
+    {
+      "id": 6838,
+      "title": "Keroro Gunsou",
       "score": 0.171,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 121,
-      "title": "Mahou Sensei Negima!",
-      "score": 0.171,
-      "r18": false
-    },
-    {
-      "id": 14527,
-      "title": "Yuusha ga Shinda!",
-      "score": 0.165,
-      "r18": false
-    },
-    {
-      "id": 31032,
-      "title": "The World of Otome Games Is Tough for Mobs",
-      "score": 0.162,
-      "r18": false
-    },
-    {
-      "id": 36123,
-      "title": "Isekai de Tochi o Katte Noujou o Tsukurou",
-      "score": 0.162,
-      "r18": false
-    },
-    {
-      "id": 724,
-      "title": "Pastel",
-      "score": 0.161,
-      "r18": false
-    },
-    {
-      "id": 50833,
-      "title": "Zettai ni Damage wo Ukenai Skill wo Moratta node, Boukensha to shite Musou shite miru",
-      "score": 0.16,
-      "r18": false
-    },
-    {
-      "id": 20063,
-      "title": "Izure Shinwa no Houkago Sensou",
-      "score": 0.159,
-      "r18": false
+      "id": 28735,
+      "title": "Isekai Shoukan wa Nidome Desu",
+      "score": 0.164,
+      "r18": false,
+      "languages": [
+        "mx",
+        "ru",
+        "gb",
+        "fr",
+        "br",
+        "es"
+      ]
     },
     {
       "id": 24288,
       "title": "Sentouin, Hakenshimasu!",
+      "score": 0.162,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "ru",
+        "fr",
+        "br",
+        "mx",
+        "tr",
+        "es",
+        "it"
+      ]
+    },
+    {
+      "id": 14527,
+      "title": "Yuusha ga Shinda!",
+      "score": 0.162,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "es",
+        "id",
+        "pl"
+      ]
+    },
+    {
+      "id": 15950,
+      "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "id",
+        "ru",
+        "gb",
+        "it",
+        "br",
+        "mx",
+        "fr",
+        "pl"
+      ]
+    },
+    {
+      "id": 43511,
+      "title": "Seiken Gakuin no Maken Tsukai",
       "score": 0.158,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru"
+      ]
     },
     {
-      "id": 1907,
-      "title": "Kono Kanojo wa Fiction desu.",
+      "id": 22875,
+      "title": "Goodbye! Isekai Tensei",
+      "score": 0.158,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 35794,
+      "title": "The Hero Who Returned Remains the Strongest in the Modern World",
+      "score": 0.157,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru",
+        "cz",
+        "br",
+        "id",
+        "es",
+        "tr"
+      ]
+    },
+    {
+      "id": 50833,
+      "title": "Zettai ni Damage wo Ukenai Skill wo Moratta node, Boukensha to shite Musou shite miru",
       "score": 0.155,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "ru",
+        "gb"
+      ]
     },
     {
-      "id": 6206,
-      "title": "Ore ga Heroine o Tasukesugite Sekai ga Little Mokushiroku!?",
+      "id": 36123,
+      "title": "Isekai de Tochi o Katte Noujou o Tsukurou",
       "score": 0.153,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "id",
+        "fr"
+      ]
     },
     {
-      "id": 19140,
-      "title": "Maken no Daydreamer",
+      "id": 121,
+      "title": "Mahou Sensei Negima!",
       "score": 0.152,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu",
+        "it",
+        "id"
+      ]
+    },
+    {
+      "id": 4774,
+      "title": "Dragon Quest: Dai no Daibouken",
+      "score": 0.152,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 724,
+      "title": "Pastel",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it",
+        "fr"
+      ]
+    },
+    {
+      "id": 2646,
+      "title": "Mushibugyo",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8357,
+      "title": "12 Beast",
+      "score": 0.147,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "pl"
+      ]
+    },
+    {
+      "id": 49094,
+      "title": "The Reincarnation of the Strongest Onmyoji ~ These Monsters Are Too Weak Compared to My Youkai~",
+      "score": 0.147,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "ru"
+      ]
+    },
+    {
+      "id": 4380,
+      "title": "Joujuu Senjin!! Mushibugyo",
+      "score": 0.147,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 9855,
+      "title": "Shinigami-sama to 4-nin no Kanojo",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "fr"
+      ]
+    },
+    {
+      "id": 4764,
+      "title": "Bakuretsu Hunters",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

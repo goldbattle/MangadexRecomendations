@@ -2,157 +2,276 @@
   "id": 18569,
   "title": "Nijou Taka Koukou Rojou Kansatsu-bu",
   "url": "https://mangadex.org/manga/18569",
-  "last_updated": "March 15, 2021 21:57:19 UTC",
+  "last_updated": "March 18, 2021 08:41:21 UTC",
   "matches": [
     {
       "id": 33884,
       "title": "The Kamegashira Brothers",
       "score": 0.36,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8010,
       "title": "The Strongest Legend",
       "score": 0.36,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 55395,
       "title": "Fuyukoshi-chan no No Pan Biyori",
       "score": 0.36,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 451,
       "title": "Boku no Kirai na Kimi no Koto",
       "score": 0.3,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "de"
+      ]
     },
     {
       "id": 48036,
       "title": "I Don't Know What My Little Sister's Friend Is Thinking!",
-      "score": 0.29,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx",
+        "br",
+        "id"
+      ]
     },
     {
       "id": 12624,
       "title": "Asao-san to Kurata-kun",
-      "score": 0.29,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7031,
       "title": "Koganeiro",
-      "score": 0.29,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 17660,
       "title": "After School Dice Club",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 13962,
-      "title": "Nakamura Koedo to Daizu Keisuke wa Umakuikanai",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 37155,
-      "title": "Haikyuu-bu!!",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 1054,
-      "title": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 12511,
-      "title": "Lucky\u2606Star",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 32726,
-      "title": "Sensei wa Koi o Oshierarenai",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 9802,
-      "title": "Maou no Kyoushitsu",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 40070,
-      "title": "Bakapple",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 25672,
-      "title": "Student Council for Two",
-      "score": 0.29,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 220,
       "title": "Wa!",
-      "score": 0.29,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 13962,
+      "title": "Nakamura Koedo to Daizu Keisuke wa Umakuikanai",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 37155,
+      "title": "Haikyuu-bu!!",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
+    },
+    {
+      "id": 1054,
+      "title": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "it",
+        "br",
+        "cn",
+        "pl",
+        "fr"
+      ]
+    },
+    {
+      "id": 12511,
+      "title": "Lucky\u2606Star",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "it",
+        "fr"
+      ]
+    },
+    {
+      "id": 32726,
+      "title": "Sensei wa Koi o Oshierarenai",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "br",
+        "mx",
+        "gb",
+        "id",
+        "sa",
+        "ru",
+        "fr",
+        "it"
+      ]
+    },
+    {
+      "id": 40070,
+      "title": "Bakappuru",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "mx",
+        "br",
+        "ph"
+      ]
+    },
+    {
+      "id": 9802,
+      "title": "Maou no Kyoushitsu",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ct"
+      ]
+    },
+    {
+      "id": 25672,
+      "title": "Student Council for Two",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 42558,
       "title": "Terrace House Dust",
-      "score": 0.29,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6944,
+      "title": "Azumanga Daioh - Hoshuuhen",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5013,
       "title": "Riko to Haru to Onsen to Iruka",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 484,
-      "title": "Barakamon",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 47855,
-      "title": "A Friend Who I Went to the Same Middle School With but Have Never Talked To",
-      "score": 0.29,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 32057,
       "title": "Koko wo Isekai to Suru!",
-      "score": 0.29,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 14510,
       "title": "Tenshi to Akuto!!",
-      "score": 0.29,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 17440,
       "title": "Karaoke no Hi",
-      "score": 0.29,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3311,
       "title": "Danshi Koukousei no Nichijou",
-      "score": 0.29,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "hu",
+        "de",
+        "ir",
+        "it"
+      ]
+    },
+    {
+      "id": 45627,
+      "title": "HG ni Koisuru Futari",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

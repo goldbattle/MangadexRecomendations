@@ -1,158 +1,259 @@
 {
   "id": 46276,
   "title": "Sunny Birdie",
-  "url": "https://api.mangadex.org/v2/manga/46276",
-  "last_updated": "February 11, 2021 20:39:17 UTC",
+  "url": "https://mangadex.org/manga/46276",
+  "last_updated": "March 18, 2021 12:46:44 UTC",
   "matches": [
     {
-      "id": 856,
-      "title": "Amanchu!",
-      "score": 0.45,
-      "r18": false
+      "id": 21117,
+      "title": "Robot &times; Laserbeam",
+      "score": 0.391,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "ru"
+      ]
     },
     {
       "id": 12088,
       "title": "Yugami-kun ni wa Tomodachi ga Inai",
-      "score": 0.448,
-      "r18": false
+      "score": 0.379,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "id"
+      ]
     },
     {
       "id": 37155,
       "title": "Haikyuu-bu!!",
-      "score": 0.444,
-      "r18": false
-    },
-    {
-      "id": 21117,
-      "title": "Robot &times; Laserbeam",
-      "score": 0.439,
-      "r18": false
-    },
-    {
-      "id": 1291,
-      "title": "Itsumo Misora",
-      "score": 0.392,
-      "r18": false
-    },
-    {
-      "id": 31446,
-      "title": "The Clueless Transfer Student Is Assertive.",
-      "score": 0.388,
-      "r18": false
-    },
-    {
-      "id": 22412,
-      "title": "Futari Monologue",
-      "score": 0.383,
-      "r18": false
-    },
-    {
-      "id": 12511,
-      "title": "Lucky\u2606Star",
-      "score": 0.382,
-      "r18": false
-    },
-    {
-      "id": 1390,
-      "title": "Katteni Kaizo",
-      "score": 0.382,
-      "r18": false
-    },
-    {
-      "id": 24032,
-      "title": "Basuke no Megami-sama",
-      "score": 0.382,
-      "r18": false
-    },
-    {
-      "id": 606,
-      "title": "Area no Kishi",
       "score": 0.379,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
+    },
+    {
+      "id": 856,
+      "title": "Amanchu!",
+      "score": 0.379,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4640,
       "title": "Mix",
-      "score": 0.373,
-      "r18": false
+      "score": 0.316,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru"
+      ]
     },
     {
-      "id": 152,
-      "title": "Kimi to Boku.",
-      "score": 0.373,
-      "r18": false
+      "id": 1291,
+      "title": "Itsumo Misora",
+      "score": 0.316,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "fr",
+        "ru"
+      ]
     },
     {
       "id": 47570,
       "title": "Burning Kabaddi",
-      "score": 0.372,
-      "r18": false
+      "score": 0.316,
+      "r18": false,
+      "languages": [
+        "gb",
+        "in",
+        "mx"
+      ]
     },
     {
-      "id": 25672,
-      "title": "Student Council for Two",
-      "score": 0.37,
-      "r18": false
+      "id": 45077,
+      "title": "e&times;COM Haruoka gakuen game joshibu",
+      "score": 0.316,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 4428,
-      "title": "Sasameke",
-      "score": 0.369,
-      "r18": false
+      "id": 16468,
+      "title": "Mononofu",
+      "score": 0.316,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
+    },
+    {
+      "id": 6860,
+      "title": "Adachi Mitsuru Shoki Kessakushuu",
+      "score": 0.316,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 145,
+      "title": "Smash!",
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 20703,
+      "title": "Long Riders!",
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6600,
       "title": "Minami Kamakura High School Girls Cycling Club",
-      "score": 0.368,
-      "r18": false
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 16168,
-      "title": "Diamond no Ace: Act II",
-      "score": 0.368,
-      "r18": false
+      "id": 4428,
+      "title": "Sasameke",
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 4227,
-      "title": "Fight no Akatsuki",
-      "score": 0.367,
-      "r18": false
+      "id": 30532,
+      "title": "Inazuma Eleven ~Heir of the Penguins~",
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu"
+      ]
     },
     {
-      "id": 24028,
-      "title": "Chari ni Norenai!",
-      "score": 0.367,
-      "r18": false
+      "id": 392,
+      "title": "Fantasista",
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 34627,
-      "title": "Masamune-kun no Re \u25cb\u25cb\u25cb",
-      "score": 0.367,
-      "r18": false
+      "id": 59578,
+      "title": "Skate-Leading\u2606Stars",
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 663,
-      "title": "Rookies",
-      "score": 0.366,
-      "r18": false
+      "id": 42446,
+      "title": "SK8",
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 7930,
-      "title": "Ikusaba Animation",
-      "score": 0.366,
-      "r18": false
+      "id": 33622,
+      "title": "Harlem Beat",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 8150,
-      "title": "Naze Toudouin Seiya 16-sai wa Kanojo ga Dekinai no ka?",
-      "score": 0.365,
-      "r18": false
+      "id": 58466,
+      "title": "Scorebook",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 24029,
-      "title": "Shima Shima Hanako",
-      "score": 0.365,
-      "r18": false
+      "id": 21860,
+      "title": "Shudan!",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "mx",
+        "br"
+      ]
+    },
+    {
+      "id": 11009,
+      "title": "Teekyuu",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 606,
+      "title": "Area no Kishi",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "fr",
+        "pl"
+      ]
+    },
+    {
+      "id": 831,
+      "title": "Shin Tennis no Oujisama",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "pl"
+      ]
+    },
+    {
+      "id": 2475,
+      "title": "Tennis no Oujisama",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

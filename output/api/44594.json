@@ -1,158 +1,239 @@
 {
   "id": 44594,
   "title": "Fushigi Pot",
-  "url": "https://api.mangadex.org/v2/manga/44594",
-  "last_updated": "February 11, 2021 16:43:44 UTC",
+  "url": "https://mangadex.org/manga/44594",
+  "last_updated": "March 18, 2021 12:32:41 UTC",
   "matches": [
-    {
-      "id": 18980,
-      "title": "Ookami wa Koi ni Naku",
-      "score": 0.488,
-      "r18": false
-    },
     {
       "id": 22311,
       "title": "Ookami wa Hana no Kaori",
-      "score": 0.487,
-      "r18": false
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 31011,
-      "title": "Hachi",
-      "score": 0.48,
-      "r18": false
-    },
-    {
-      "id": 36850,
-      "title": "Banbi",
-      "score": 0.48,
-      "r18": false
-    },
-    {
-      "id": 14396,
-      "title": "Aigan Kitty",
-      "score": 0.472,
-      "r18": false
-    },
-    {
-      "id": 35386,
-      "title": "Kyrie -Norowareta Hebi-",
-      "score": 0.458,
-      "r18": false
+      "id": 18980,
+      "title": "Ookami wa Koi ni Naku",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 25992,
       "title": "Suzu no Ne ga Kikoeru",
-      "score": 0.453,
-      "r18": false
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 22958,
-      "title": "THEO",
-      "score": 0.44,
-      "r18": false
+      "id": 36850,
+      "title": "Banbi",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     },
     {
-      "id": 45859,
-      "title": "Yasashii Kare to Fukigen Kitsune no Renai Jijou",
-      "score": 0.434,
-      "r18": false
+      "id": 31011,
+      "title": "Hachi",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 35386,
+      "title": "Kyrie -Norowareta Hebi-",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14396,
+      "title": "Aigan Kitty",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 18606,
       "title": "Majutsushi Sylvan no Mise",
-      "score": 0.429,
-      "r18": false
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 22958,
+      "title": "THEO",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 45859,
+      "title": "Yasashii Kare to Fukigen Kitsune no Renai Jijou",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 24229,
       "title": "Toware no Mi",
-      "score": 0.397,
-      "r18": false
-    },
-    {
-      "id": 57103,
-      "title": "Sono Ude de Boku o Daite",
-      "score": 0.392,
-      "r18": false
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 32946,
       "title": "Utakata no Uroko",
-      "score": 0.38,
-      "r18": false
-    },
-    {
-      "id": 56095,
-      "title": "Fukurou no Koiwazurai",
-      "score": 0.378,
-      "r18": false
-    },
-    {
-      "id": 59267,
-      "title": "Kitsune no Omuko-san",
-      "score": 0.366,
-      "r18": false
-    },
-    {
-      "id": 52021,
-      "title": "Toritsu Mahou Gakuen",
-      "score": 0.364,
-      "r18": false
-    },
-    {
-      "id": 36950,
-      "title": "Koi wa Maiorita",
-      "score": 0.359,
-      "r18": false
-    },
-    {
-      "id": 26022,
-      "title": "Midnight Make Love",
-      "score": 0.354,
-      "r18": false
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 53599,
       "title": "Hetare Maou to Tsundere Yuusha",
-      "score": 0.354,
-      "r18": false
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 44035,
-      "title": "Meiyo",
-      "score": 0.353,
-      "r18": false
+      "id": 57103,
+      "title": "Sono Ude de Boku o Daite",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 56095,
+      "title": "Fukurou no Koiwazurai",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 38298,
       "title": "Yokujou",
-      "score": 0.349,
-      "r18": false
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
-      "id": 26188,
-      "title": "Sekai wa Shippo de Dekiteiru",
-      "score": 0.348,
-      "r18": false
-    },
-    {
-      "id": 43755,
-      "title": "Wild Fish",
-      "score": 0.347,
-      "r18": false
+      "id": 38299,
+      "title": "Mitsujou",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 49264,
       "title": "Replicant - Hitsuji no Dolly wo Aisuru to Iu Koto -",
-      "score": 0.343,
-      "r18": false
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 27076,
-      "title": "Jadou",
-      "score": 0.341,
-      "r18": false
+      "id": 26188,
+      "title": "Sekai wa Shippo de Dekiteiru",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 16798,
+      "title": "Mauri to Ryuu",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 43755,
+      "title": "Wild Fish",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59267,
+      "title": "Kitsune no Omuko-san",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 52021,
+      "title": "Toritsu Mahou Gakuen",
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 34619,
+      "title": "Kitsune no Tama Yobai",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24991,
+      "title": "Eki Kin Mahou Tsukai Tsuki Ikkodate",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     }
   ]
 }

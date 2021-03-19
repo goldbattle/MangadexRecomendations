@@ -1,104 +1,231 @@
 {
   "id": 51258,
   "title": "World Conquest of Shrimp Kingdom",
-  "url": "https://api.mangadex.org/v2/manga/51258",
-  "last_updated": "February 05, 2021 12:04:56 UTC",
+  "url": "https://mangadex.org/manga/51258",
+  "last_updated": "March 18, 2021 13:28:27 UTC",
   "matches": [
     {
-      "id": 19657,
-      "title": "Zannen Jokanbu Black General-san",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 41975,
-      "title": "Love After World Domination",
-      "score": 0.328,
-      "r18": false
+      "id": 46767,
+      "title": "Hachuurui-chan wa Natsukanai",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "cn",
+        "gb",
+        "br",
+        "fr"
+      ]
     },
     {
       "id": 29717,
       "title": "Mighty Heart",
-      "score": 0.323,
-      "r18": false
+      "score": 0.202,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 24595,
-      "title": "The Wild Kingdom",
-      "score": 0.299,
-      "r18": false
-    },
-    {
-      "id": 19126,
-      "title": "Sperman",
-      "score": 0.277,
-      "r18": false
+      "id": 41975,
+      "title": "Love After World Domination",
+      "score": 0.201,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "es",
+        "br",
+        "fr"
+      ]
     },
     {
       "id": 50741,
       "title": "The Keeper Wants to Build a Zoo in Another World, So He Tames Monsters",
-      "score": 0.269,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
-      "id": 46767,
-      "title": "Hachuurui-chan wa Natsukanai",
-      "score": 0.26,
-      "r18": false
+      "id": 19126,
+      "title": "Sperman",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "id"
+      ]
+    },
+    {
+      "id": 8764,
+      "title": "Cutey Honey",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 24595,
+      "title": "The Wild Kingdom",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19657,
+      "title": "Zannen Jokanbu Black General-san",
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "vn",
+        "gb",
+        "br",
+        "tr"
+      ]
+    },
+    {
+      "id": 55900,
+      "title": "Ayame-senpai wa Boku to Himitsu no Keiyaku wo",
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 52319,
+      "title": "My Life as Inukai-san's Dog",
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb",
+        "th",
+        "mx",
+        "id"
+      ]
     },
     {
       "id": 45470,
       "title": "Gedoh the Unidentified Mysterious Boy",
-      "score": 0.252,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5425,
       "title": "Caravan Kidd",
-      "score": 0.231,
-      "r18": false
-    },
-    {
-      "id": 24288,
-      "title": "Sentouin, Hakenshimasu!",
-      "score": 0.21,
-      "r18": false
-    },
-    {
-      "id": 3132,
-      "title": "Dragon Ball",
-      "score": 0.205,
-      "r18": false
-    },
-    {
-      "id": 36123,
-      "title": "Isekai de Tochi o Katte Noujou o Tsukurou",
-      "score": 0.201,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
     },
     {
       "id": 23368,
       "title": "Hero? I Quit a Long Time Ago",
-      "score": 0.195,
-      "r18": false
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "fr",
+        "ru",
+        "hu",
+        "pl",
+        "id"
+      ]
+    },
+    {
+      "id": 36123,
+      "title": "Isekai de Tochi o Katte Noujou o Tsukurou",
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "id",
+        "fr"
+      ]
+    },
+    {
+      "id": 3132,
+      "title": "Dragon Ball",
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "mx"
+      ]
+    },
+    {
+      "id": 12595,
+      "title": "Iczer Densetsu",
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6838,
       "title": "Keroro Gunsou",
-      "score": 0.184,
-      "r18": false
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 564,
-      "title": "Nagasarete Airantou",
-      "score": 0.169,
-      "r18": false
+      "id": 24288,
+      "title": "Sentouin, Hakenshimasu!",
+      "score": 0.099,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "ru",
+        "fr",
+        "br",
+        "mx",
+        "tr",
+        "es",
+        "it"
+      ]
     },
     {
       "id": 43511,
       "title": "Seiken Gakuin no Maken Tsukai",
-      "score": 0.164,
-      "r18": false
+      "score": 0.09,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru"
+      ]
+    },
+    {
+      "id": 564,
+      "title": "Nagasarete Airantou",
+      "score": 0.089,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "ru"
+      ]
     }
   ]
 }

@@ -1,44 +1,35 @@
 {
   "id": 55638,
   "title": "Boku no Hero Academia - Kimi no kimochi (Doujinshi)",
-  "url": "https://api.mangadex.org/v2/manga/55638",
-  "last_updated": "March 12, 2021 20:40:21 UTC",
+  "url": "https://mangadex.org/manga/55638",
+  "last_updated": "March 18, 2021 14:05:01 UTC",
   "matches": [
     {
       "id": 53779,
       "title": "Haikyuu!! - Kono Machi ni Sunderu Karera no Koto (Doujinshi)",
-      "score": 0.292,
-      "r18": false
-    },
-    {
-      "id": 55106,
-      "title": "BokuAka No Kazoku &ndash; Haikyuu!! dj",
-      "score": 0.292,
-      "r18": false
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8991,
       "title": "Kuroko no Basuke - AK Working Warning (Doujinshi Anthology)",
-      "score": 0.243,
-      "r18": false
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 10752,
       "title": "Hydra",
-      "score": 0.243,
-      "r18": false
-    },
-    {
-      "id": 52474,
-      "title": "Boku no Hero Academia - Spice (Doujinshi)",
-      "score": 0.243,
-      "r18": false
-    },
-    {
-      "id": 46446,
-      "title": "Fullmetal Alchemist - Lovely Cool Fake (Doujinshi)",
-      "score": 0.209,
-      "r18": false
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

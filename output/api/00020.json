@@ -2,19 +2,26 @@
   "id": 20,
   "title": "Apple Collection",
   "url": "https://mangadex.org/manga/20",
-  "last_updated": "March 14, 2021 00:47:09 UTC",
+  "last_updated": "March 18, 2021 05:42:43 UTC",
   "matches": [
     {
       "id": 19708,
       "title": "Mecto Amore",
-      "score": 0.166,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 54240,
       "title": "FusionFall: Worlds Collide",
-      "score": 0.097,
-      "r18": false
+      "score": 0.096,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

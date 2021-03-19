@@ -2,61 +2,69 @@
   "id": 16618,
   "title": "Renai Metro",
   "url": "https://mangadex.org/manga/16618",
-  "last_updated": "March 15, 2021 16:44:25 UTC",
+  "last_updated": "March 18, 2021 08:12:47 UTC",
   "matches": [
-    {
-      "id": 38269,
-      "title": "Batsukoi",
-      "score": 0.362,
-      "r18": false
-    },
     {
       "id": 28045,
       "title": "Futari Ecchi for Ladies",
       "score": 0.362,
-      "r18": false
-    },
-    {
-      "id": 43217,
-      "title": "Ai ni Nante Oborenai",
-      "score": 0.362,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru"
+      ]
     },
     {
       "id": 50458,
       "title": "Honnou Switch",
-      "score": 0.34,
-      "r18": false
+      "score": 0.339,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br"
+      ]
     },
     {
       "id": 3711,
       "title": "Darling wa Namamono ni Tsuki",
       "score": 0.323,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 52476,
-      "title": "Amayakasanaide Fuku Shachou: Danna-sama wa SSR",
-      "score": 0.29,
-      "r18": false
+      "title": "Amayakasanaide Fuku Shachou ~Danna-sama wa SSR~",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "vn",
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 50029,
       "title": "Renai Gokko Sayokyoku",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 20687,
-      "title": "Onegai, Sore o Yamenai de",
-      "score": 0.29,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 32438,
       "title": "Chippai Kanojo to Bijin Kareshi",
       "score": 0.264,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     }
   ]
 }

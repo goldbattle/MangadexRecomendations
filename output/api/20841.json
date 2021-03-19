@@ -2,43 +2,62 @@
   "id": 20841,
   "title": "Devilman Brutus Mercedes-Benz SLR",
   "url": "https://mangadex.org/manga/20841",
-  "last_updated": "March 16, 2021 04:17:06 UTC",
+  "last_updated": "March 18, 2021 09:00:19 UTC",
   "matches": [
     {
       "id": 471,
       "title": "Taboo-Tattoo",
       "score": 0.127,
-      "r18": false
-    },
-    {
-      "id": 22162,
-      "title": "Futoku no Guild",
-      "score": 0.124,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 35332,
       "title": "Mannen D-rank no Chuunen Boukensha, Yotta Ikioi de Densetsu no Ken wo Hikkonuku",
       "score": 0.124,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "mx",
+        "id",
+        "ru"
+      ]
     },
     {
       "id": 58092,
       "title": "Hazure Akamadoushi ha Kenjyatime ni Musou suru",
       "score": 0.124,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 19706,
       "title": "God Mazinger",
-      "score": 0.112,
-      "r18": false
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 27005,
       "title": "Tou no Kanri o Shite Miyou",
-      "score": 0.112,
-      "r18": false
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru",
+        "br",
+        "mx"
+      ]
     }
   ]
 }

@@ -1,158 +1,242 @@
 {
   "id": 54625,
   "title": "Refrain",
-  "url": "https://api.mangadex.org/v2/manga/54625",
-  "last_updated": "March 12, 2021 20:27:55 UTC",
+  "url": "https://mangadex.org/manga/54625",
+  "last_updated": "March 18, 2021 13:56:33 UTC",
   "matches": [
     {
       "id": 54689,
       "title": "Dream Frenzy",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 54621,
-      "title": "Yume Nikki Indification Project",
-      "score": 0.65,
-      "r18": false
-    },
-    {
-      "id": 54627,
-      "title": "I'm Gonna Attach Eyelashes On You, Okay?",
-      "score": 0.412,
-      "r18": false
-    },
-    {
-      "id": 54626,
-      "title": "I Don't Know About It, So Please Teach Me!",
-      "score": 0.404,
-      "r18": false
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 54623,
       "title": "Towelll",
-      "score": 0.397,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 54626,
+      "title": "I Don't Know About It, So Please Teach Me!",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 54627,
+      "title": "I'm Gonna Attach Eyelashes On You, Okay?",
+      "score": 0.283,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 54628,
       "title": "Holding Back the Real World",
-      "score": 0.357,
-      "r18": false
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 33542,
-      "title": "Love like in the novels",
-      "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 11985,
-      "title": "Kirisame ga Furu Mori",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 8258,
-      "title": "City of Blood",
-      "score": 0.339,
-      "r18": false
-    },
-    {
-      "id": 4816,
-      "title": "Kara no Kyoukai - Mirai Fukuin (Doujinshi)",
-      "score": 0.336,
-      "r18": false
-    },
-    {
-      "id": 27550,
-      "title": "Akuma no Ororon",
-      "score": 0.335,
-      "r18": false
-    },
-    {
-      "id": 3368,
-      "title": "Touhou - Tonari Atte Futari, Mukai Atte Sannin (Doujinshi)",
-      "score": 0.318,
-      "r18": false
-    },
-    {
-      "id": 20801,
-      "title": "Chiyo-chan no Yomeiri",
-      "score": 0.315,
-      "r18": false
-    },
-    {
-      "id": 13794,
-      "title": "Online - The Comic",
-      "score": 0.313,
-      "r18": false
-    },
-    {
-      "id": 2210,
-      "title": "Kenketsu Rush",
-      "score": 0.31,
-      "r18": false
-    },
-    {
-      "id": 29883,
-      "title": "The Testimony of the White Rose",
-      "score": 0.298,
-      "r18": false
-    },
-    {
-      "id": 1429,
-      "title": "Umineko no Naku Koro ni Episode 4: Alliance of the Golden Witch",
-      "score": 0.292,
-      "r18": false
-    },
-    {
-      "id": 919,
-      "title": "Loveless",
-      "score": 0.291,
-      "r18": false
-    },
-    {
-      "id": 15752,
-      "title": "Naka no Hito Genome [Jikkyouchuu]",
-      "score": 0.287,
-      "r18": false
-    },
-    {
-      "id": 1766,
-      "title": "Umineko no Naku Koro ni Chiru Episode 7: Requiem of the Golden Witch",
-      "score": 0.285,
-      "r18": false
-    },
-    {
-      "id": 430,
-      "title": "Hotel",
-      "score": 0.285,
-      "r18": false
+      "id": 54621,
+      "title": "Yume Nikki Indification Project",
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 54588,
       "title": "Yume Nikki - At the Depths of the Unwakeable Dream (Doujinshi)",
-      "score": 0.283,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 54589,
       "title": "Poophair and...",
-      "score": 0.283,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 54620,
       "title": "Yume Nikki Nikki",
-      "score": 0.283,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 54631,
       "title": "In the Shallows",
-      "score": 0.283,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8258,
+      "title": "City of Blood",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2210,
+      "title": "Kenketsu Rush",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 27550,
+      "title": "Akuma no Ororon",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20801,
+      "title": "Chiyo-chan no Yomeiri",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "ua"
+      ]
+    },
+    {
+      "id": 49427,
+      "title": "The Legend of Zelda Breath of the Wild - The Unfinished &quot;Happily Ever After&quot; (Doujinshi)",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4816,
+      "title": "Kara no Kyoukai - Mirai Fukuin (Doujinshi)",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 13794,
+      "title": "Online - The Comic",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 3368,
+      "title": "Touhou - Tonari Atte Futari, Mukai Atte Sannin (Doujinshi)",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 11985,
+      "title": "Kirisame ga Furu Mori",
+      "score": 0.197,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "ru",
+        "es",
+        "de"
+      ]
+    },
+    {
+      "id": 4812,
+      "title": "Fate/stay night - T-Moon Complex F (Doujinshi)",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 30338,
+      "title": "ICO (doujinshi)",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 36281,
+      "title": "Touhou - This Must Be a Beautiful Paradise (Doujinshi)",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 47676,
+      "title": "Mini Twitter Comic (Zed x Syndra)",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 15589,
+      "title": "Mobile Magical Girl",
+      "score": 0.185,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29883,
+      "title": "The Testimony of the White Rose",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     }
   ]
 }

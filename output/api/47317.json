@@ -1,158 +1,252 @@
 {
   "id": 47317,
   "title": "Her Weird Hobby",
-  "url": "https://api.mangadex.org/v2/manga/47317",
-  "last_updated": "February 12, 2021 01:09:19 UTC",
+  "url": "https://mangadex.org/manga/47317",
+  "last_updated": "March 18, 2021 12:55:27 UTC",
   "matches": [
     {
-      "id": 3911,
-      "title": "Saboten no Himitsu",
-      "score": 0.864,
-      "r18": false
-    },
-    {
-      "id": 36943,
-      "title": "Fairytale for Wizards",
-      "score": 0.858,
-      "r18": false
-    },
-    {
-      "id": 9161,
-      "title": "Misty Boy",
-      "score": 0.855,
-      "r18": false
-    },
-    {
-      "id": 9120,
-      "title": "Chiko no Negai",
-      "score": 0.855,
-      "r18": false
-    },
-    {
-      "id": 9160,
-      "title": "Mint de Kiss me - Watase Yuu Masterpiece Collection 5",
-      "score": 0.854,
-      "r18": false
-    },
-    {
-      "id": 10711,
-      "title": "Hatsukoi no Tsuzuki",
-      "score": 0.763,
-      "r18": false
-    },
-    {
-      "id": 56995,
-      "title": "It's Been 10 Years Since You Asked to Break Off Our Engagement, If You Insist That Much, Let's Break it Off!",
-      "score": 0.681,
-      "r18": false
-    },
-    {
-      "id": 41728,
-      "title": "Though I May Be a Villainess, I'll Show You I Can Obtain Happiness!",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 24016,
-      "title": "Neo Angelique",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 7999,
-      "title": "&quot;Suki&quot; to Ienai.",
-      "score": 0.665,
-      "r18": false
+      "id": 24641,
+      "title": "Love and Sweet Drugs",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 140,
       "title": "Usotsuki Lily",
-      "score": 0.661,
-      "r18": false
+      "score": 0.324,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 56245,
+      "title": "Call Me by My Name",
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 52858,
+      "title": "Absolute Territory",
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20967,
+      "title": "Love Doesn't Talk",
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "tr",
+        "fr",
+        "gb",
+        "br",
+        "it"
+      ]
+    },
+    {
+      "id": 30553,
+      "title": "True Beauty",
+      "score": 0.302,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br",
+        "gb",
+        "fr",
+        "ru"
+      ]
+    },
+    {
+      "id": 43538,
+      "title": "Weak Prince Chases Love",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59834,
+      "title": "My Classmates Are All Very Strange",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37823,
+      "title": "She's Not an Angel",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 59411,
+      "title": "We're Soulmates Starting From Today",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 34735,
+      "title": "Honeybee and the Acacia",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 42384,
+      "title": "Adolescent Love",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 36448,
+      "title": "That Year, Under the Starry Sky",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "es"
+      ]
+    },
+    {
+      "id": 31325,
+      "title": "Meng Never Falls in Love",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18972,
+      "title": "Boy Meets Girl",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7483,
+      "title": "Salon H",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 34205,
+      "title": "Babysitting for the Handsome Guy",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb"
+      ]
+    },
+    {
+      "id": 46265,
+      "title": "I Became a Millionaire's Daughter",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 50920,
+      "title": "Take My Money",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 31117,
+      "title": "I Want to Kiss you, in that Moment",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 55646,
+      "title": "Me and My Professor",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24670,
+      "title": "30 Minute Walk",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59596,
+      "title": "Match the Beat!",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10162,
+      "title": "...no Onna",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 28134,
       "title": "Kareki ni Koi o Sakasemasu",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 174,
-      "title": "Forget About Love",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 28359,
-      "title": "Boku ga Utau to Kimi wa Warau kara",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 5210,
-      "title": "Baby Blue",
-      "score": 0.657,
-      "r18": false
-    },
-    {
-      "id": 7181,
-      "title": "Seishun Survival",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 784,
-      "title": "Zenbu Shiritai",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 5916,
-      "title": "7 Genme wa Himitsu",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 2270,
-      "title": "Kakumei no Hi",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 3076,
-      "title": "Kanchigai Musume to Buchigire Ouji",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 3159,
-      "title": "Kataomoi no Mukougawa",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 7372,
-      "title": "NG BOY x Paradise",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 19218,
-      "title": "Kiss Me Baby",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 24641,
-      "title": "Love and Sweet Drugs",
-      "score": 0.426,
-      "r18": false
-    },
-    {
-      "id": 36287,
-      "title": "I Was XXX By My Idol",
-      "score": 0.404,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "pl"
+      ]
     }
   ]
 }

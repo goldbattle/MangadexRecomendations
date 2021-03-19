@@ -2,103 +2,175 @@
   "id": 38294,
   "title": "Rikijo",
   "url": "https://mangadex.org/manga/38294",
-  "last_updated": "March 18, 2021 01:01:05 UTC",
+  "last_updated": "March 18, 2021 11:40:06 UTC",
   "matches": [
     {
       "id": 526,
       "title": "Itadaki!",
       "score": 0.301,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "de"
+      ]
     },
     {
       "id": 565,
       "title": "Frogman",
       "score": 0.282,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "ru",
+        "de"
+      ]
     },
     {
       "id": 1068,
       "title": "Wild Pitch",
       "score": 0.281,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 947,
       "title": "Cheer Cheer",
       "score": 0.277,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19489,
       "title": "Yuizaki-san wa Nageru!",
-      "score": 0.277,
-      "r18": false
+      "score": 0.276,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru"
+      ]
     },
     {
       "id": 13235,
       "title": "Nanako-san Teki na Nichijou DASH!!",
-      "score": 0.274,
-      "r18": false
+      "score": 0.273,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 48053,
       "title": "Te no Hira ni Ai wo!",
-      "score": 0.261,
-      "r18": false
+      "score": 0.26,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 6822,
       "title": "Go! Tenba Cheerleaders",
-      "score": 0.252,
-      "r18": false
+      "score": 0.251,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11189,
       "title": "Fujiyama-san wa Shishunki",
-      "score": 0.25,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "id"
+      ]
     },
     {
       "id": 16313,
       "title": "Grand Blue",
-      "score": 0.25,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr",
+        "ir",
+        "id",
+        "it",
+        "es"
+      ]
     },
     {
       "id": 160,
       "title": "Saki",
       "score": 0.237,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "hk"
+      ]
     },
     {
       "id": 621,
       "title": "Shuukyuu Shoujo",
       "score": 0.221,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 6203,
       "title": "Hantsu x Trash",
-      "score": 0.221,
-      "r18": false
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "pl",
+        "es"
+      ]
     },
     {
       "id": 7469,
       "title": "Tsuri Chichi Nagisa",
       "score": 0.219,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 18009,
       "title": "Mai Ball!",
-      "score": 0.207,
-      "r18": false
+      "score": 0.206,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 29397,
       "title": "Mai Ball! Half Time",
-      "score": 0.205,
-      "r18": false
+      "score": 0.204,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

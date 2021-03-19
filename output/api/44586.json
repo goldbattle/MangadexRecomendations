@@ -1,158 +1,247 @@
 {
   "id": 44586,
   "title": "Tabetemo Oishiku Arimasen",
-  "url": "https://api.mangadex.org/v2/manga/44586",
-  "last_updated": "February 11, 2021 16:43:35 UTC",
+  "url": "https://mangadex.org/manga/44586",
+  "last_updated": "March 18, 2021 12:32:37 UTC",
   "matches": [
     {
-      "id": 28360,
-      "title": "Boku no Kawaii Hito",
-      "score": 0.71,
-      "r18": false
-    },
-    {
-      "id": 53590,
-      "title": "Mikansei na Karada",
-      "score": 0.701,
-      "r18": false
-    },
-    {
-      "id": 37504,
-      "title": "Hide and Seek",
-      "score": 0.697,
-      "r18": false
-    },
-    {
-      "id": 29020,
-      "title": "Koibito wa Hatsujouki",
-      "score": 0.694,
-      "r18": false
-    },
-    {
-      "id": 27684,
-      "title": "Yokubou Shounen",
-      "score": 0.693,
-      "r18": false
-    },
-    {
-      "id": 4557,
-      "title": "Mousou Cherry",
-      "score": 0.689,
-      "r18": false
-    },
-    {
-      "id": 25950,
-      "title": "Mayou Otoko",
-      "score": 0.684,
-      "r18": false
-    },
-    {
-      "id": 15274,
-      "title": "Chikan Diary",
-      "score": 0.683,
-      "r18": false
-    },
-    {
-      "id": 53988,
-      "title": "Tokyo Yaban Gaiden - Geboku Shounen Bushi",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 38928,
-      "title": "Aisubeki Fujitsu",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 57214,
-      "title": "Damatte Naite Irunodesu",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 55840,
-      "title": "Ijimetai hodo Aishiteru",
-      "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 57336,
-      "title": "Ai wa Karada de Kataru Mono",
-      "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 6868,
-      "title": "Renai P&acirc;tisserie",
-      "score": 0.672,
-      "r18": false
-    },
-    {
-      "id": 57212,
-      "title": "Hey! Doctor",
-      "score": 0.671,
-      "r18": false
-    },
-    {
-      "id": 4118,
-      "title": "Kimi Note",
-      "score": 0.67,
-      "r18": false
-    },
-    {
-      "id": 1444,
-      "title": "NightS",
-      "score": 0.667,
-      "r18": false
-    },
-    {
-      "id": 53584,
-      "title": "Retsujou Kyoumushitsu",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 47585,
-      "title": "Uchi no Koakuma-kun",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 36264,
-      "title": "Hisho no Territory",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 29080,
-      "title": "Dakishimetakunai",
-      "score": 0.664,
-      "r18": false
+      "id": 48630,
+      "title": "Inma-kun wa Oshigoto Dekinai",
+      "score": 0.308,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 34891,
       "title": "Ai wa Kane Nari",
-      "score": 0.662,
-      "r18": false
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 8047,
-      "title": "Ijiwaru Na Kuchibiru",
-      "score": 0.66,
-      "r18": false
+      "id": 37504,
+      "title": "Hide and Seek",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "tr"
+      ]
     },
     {
-      "id": 28551,
-      "title": "Bed Room Tour!",
-      "score": 0.659,
-      "r18": false
+      "id": 27684,
+      "title": "Yokubou Shounen",
+      "score": 0.254,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 13162,
-      "title": "Toshishita Kareshi no Renai Kanriheki",
-      "score": 0.659,
-      "r18": false
+      "id": 53590,
+      "title": "Mikansei na Karada",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20042,
+      "title": "Koijuu",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3982,
+      "title": "Only One",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6669,
+      "title": "Chiisana Koi no Melody",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 17702,
+      "title": "Tomodachi Ijou no Koto, Shitai",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 53584,
+      "title": "Retsujou Kyoumushitsu",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 58895,
+      "title": "Love, Line, Arrow.",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20516,
+      "title": "Natsume-kun wa Nandemo Shitteru",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
+    },
+    {
+      "id": 27789,
+      "title": "Sono Kuchibiru ni Ai wo",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59347,
+      "title": "Ero Yume Aquarium",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 27146,
+      "title": "Otokonoko dakara ne",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 32442,
+      "title": "Ookami-kun wa Kowakunai",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9951,
+      "title": "Nekoka Kareshi no Ayashikata",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 46616,
+      "title": "Ookami-kun wa Hanasanai",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8048,
+      "title": "Kimi wa Amai Amai...",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8901,
+      "title": "Aijin Incubus",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 56002,
+      "title": "Hiyo-chan Koi wo Suru?",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 7874,
+      "title": "Hidoku Shinai de",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl",
+        "br"
+      ]
+    },
+    {
+      "id": 32101,
+      "title": "Kami-sama no Iutoori",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 7889,
+      "title": "Seito Kaichou ni Chuukoku",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 37420,
+      "title": "Suki, Kamo",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

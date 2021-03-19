@@ -1,158 +1,249 @@
 {
   "id": 34384,
   "title": "Semi no Naku Koro",
-  "url": "https://api.mangadex.org/v2/manga/34384",
-  "last_updated": "February 10, 2021 16:27:50 UTC",
+  "url": "https://mangadex.org/manga/34384",
+  "last_updated": "March 18, 2021 11:07:28 UTC",
   "matches": [
     {
       "id": 1196,
       "title": "Route 20",
-      "score": 0.34,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg",
+        "ua",
+        "it"
+      ]
     },
     {
       "id": 2593,
       "title": "Moonlight Mile",
-      "score": 0.34,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "it",
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 4155,
       "title": "Zero",
-      "score": 0.34,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 4829,
       "title": "Odyssey",
-      "score": 0.34,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 10109,
       "title": "Steins;Gate - Eigou Kaiki no Pandora",
-      "score": 0.34,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 14990,
       "title": "Nozokiya",
-      "score": 0.34,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 16651,
       "title": "Gangoose",
-      "score": 0.34,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29759,
       "title": "Takaga Tasogare",
-      "score": 0.34,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
     },
     {
       "id": 30539,
       "title": "Circus no Musume Olga",
-      "score": 0.34,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 38357,
       "title": "Nogizaka no Uta",
-      "score": 0.34,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "hk"
+      ]
     },
     {
       "id": 42866,
       "title": "Red Flowers",
-      "score": 0.34,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 215,
       "title": "Sommeli&egrave;re",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 294,
       "title": "Haruka 17",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 546,
       "title": "Captain Tsubasa - Road to 2002",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 758,
       "title": "F.P. Ageha",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 827,
       "title": "Captain Tsubasa: Golden-23",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 866,
       "title": "Beijing",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 985,
       "title": "GYO",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "tr",
+        "ua",
+        "br"
+      ]
     },
     {
       "id": 1260,
       "title": "Undercurrent",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it"
+      ]
     },
     {
       "id": 1777,
       "title": "Wa ga Na wa Umishi",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 2075,
-      "title": "Lost Man",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2099,
       "title": "My Girl",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "pl"
+      ]
     },
     {
       "id": 2546,
       "title": "Kodomo no Kodomo",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2734,
       "title": "Kilico",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2891,
       "title": "Shoujo Manga",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "fr",
+        "tr"
+      ]
+    },
+    {
+      "id": 3138,
+      "title": "Shissou Holiday",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

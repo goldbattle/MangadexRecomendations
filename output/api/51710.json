@@ -1,26 +1,49 @@
 {
   "id": 51710,
   "title": "Bondage Play",
-  "url": "https://api.mangadex.org/v2/manga/51710",
-  "last_updated": "February 05, 2021 12:12:27 UTC",
+  "url": "https://mangadex.org/manga/51710",
+  "last_updated": "March 18, 2021 13:32:13 UTC",
   "matches": [
+    {
+      "id": 29745,
+      "title": "Just Right There!",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "ru"
+      ]
+    },
     {
       "id": 54074,
       "title": "Suimitsutou Ha  Shoujo Ni Kajirareru",
-      "score": 0.233,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 58810,
       "title": "Program Me",
-      "score": 0.2,
-      "r18": false
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "mx",
+        "fr",
+        "id"
+      ]
     },
     {
       "id": 50048,
       "title": "Limerence",
-      "score": 0.193,
-      "r18": false
+      "score": 0.164,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     }
   ]
 }

@@ -1,56 +1,33 @@
 {
   "id": 51707,
   "title": "Buddy Antique",
-  "url": "https://api.mangadex.org/v2/manga/51707",
-  "last_updated": "February 05, 2021 12:12:24 UTC",
+  "url": "https://mangadex.org/manga/51707",
+  "last_updated": "March 18, 2021 13:32:11 UTC",
   "matches": [
-    {
-      "id": 15355,
-      "title": "Kyokou Suiri",
-      "score": 0.217,
-      "r18": false
-    },
-    {
-      "id": 49846,
-      "title": "Vampyre",
-      "score": 0.18,
-      "r18": false
-    },
-    {
-      "id": 40,
-      "title": "Crepuscule",
-      "score": 0.18,
-      "r18": false
-    },
-    {
-      "id": 53985,
-      "title": "Dragon Raja 3",
-      "score": 0.18,
-      "r18": false
-    },
-    {
-      "id": 45353,
-      "title": "Bliss In Another World",
-      "score": 0.175,
-      "r18": false
-    },
-    {
-      "id": 41974,
-      "title": "It called an Element!",
-      "score": 0.17,
-      "r18": false
-    },
-    {
-      "id": 47424,
-      "title": "Welcome to the Nightmare Game",
-      "score": 0.151,
-      "r18": false
-    },
     {
       "id": 58683,
       "title": "Wistoria's Wand and Sword",
-      "score": 0.124,
-      "r18": false
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br",
+        "ru",
+        "id",
+        "gb"
+      ]
+    },
+    {
+      "id": 34187,
+      "title": "Fate/Grand Order: Epic of Remnant - Pseudo-Singularity I: Quarantined Territory of Malice, Shinjuku - Shinjuku Phantom Incident",
+      "score": 0.099,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru",
+        "id"
+      ]
     }
   ]
 }

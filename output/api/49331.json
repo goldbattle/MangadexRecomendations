@@ -2,49 +2,104 @@
   "id": 49331,
   "title": "Sayori na Parallel",
   "url": "https://mangadex.org/manga/49331",
-  "last_updated": "January 15, 2021 18:45:38 UTC",
+  "last_updated": "March 18, 2021 13:12:22 UTC",
   "matches": [
-    {
-      "id": 43310,
-      "title": "Marvel + JUMP Collaboration",
-      "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 48652,
-      "title": "Japanese History Detective Conan",
-      "score": 0.674,
-      "r18": false
-    },
-    {
-      "id": 41611,
-      "title": "hello (rom-com) world",
-      "score": 0.668,
-      "r18": false
-    },
-    {
-      "id": 50432,
-      "title": "DRAGON BALL Z TV Animation Comics",
-      "score": 0.664,
-      "r18": false
-    },
     {
       "id": 54241,
       "title": "Maison de Pilote",
-      "score": 0.653,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5414,
       "title": "Daichouhen Doraemon",
-      "score": 0.319,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 41611,
+      "title": "hello (rom-com) world",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 48652,
+      "title": "Japanese History Detective Conan",
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50432,
+      "title": "DRAGON BALL Z TV Animation Comics",
+      "score": 0.124,
+      "r18": false,
+      "languages": [
+        "pl"
+      ]
+    },
+    {
+      "id": 43310,
+      "title": "Marvel + JUMP Collaboration",
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "de",
+        "tr",
+        "fr",
+        "ua"
+      ]
     },
     {
       "id": 46852,
       "title": "11me",
-      "score": 0.113,
-      "r18": false
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 34870,
+      "title": "Fate/Grand Order: Epic of Remnant - Variant Singularity III: A Stage of Corpse Hills and Bloody Rivers - Shimousanokuni: Showdown with the Seven Swordmaster Heroic Spirits",
+      "score": 0.082,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "mx",
+        "ru",
+        "id",
+        "es",
+        "br",
+        "sa"
+      ]
+    },
+    {
+      "id": 22261,
+      "title": "Fate/Grand Order -turas r&eacute;alta-",
+      "score": 0.069,
+      "r18": false,
+      "languages": [
+        "vn",
+        "es",
+        "sa",
+        "gb",
+        "fr"
+      ]
     }
   ]
 }

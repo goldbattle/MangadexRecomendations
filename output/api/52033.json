@@ -1,20 +1,39 @@
 {
   "id": 52033,
   "title": "Shirokuma Yakuza to Akujiki Hime",
-  "url": "https://api.mangadex.org/v2/manga/52033",
-  "last_updated": "February 05, 2021 12:17:46 UTC",
+  "url": "https://mangadex.org/manga/52033",
+  "last_updated": "March 18, 2021 13:34:55 UTC",
   "matches": [
     {
-      "id": 55783,
-      "title": "Spirit Farmer",
-      "score": 0.659,
-      "r18": false
+      "id": 29917,
+      "title": "Slow Loop",
+      "score": 0.242,
+      "r18": false,
+      "languages": [
+        "cn",
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 21954,
       "title": "Nonbiri VRMMO-ki",
-      "score": 0.652,
-      "r18": false
+      "score": 0.177,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 55783,
+      "title": "Spirit Farmer",
+      "score": 0.147,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     }
   ]
 }

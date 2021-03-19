@@ -1,110 +1,172 @@
 {
   "id": 54307,
   "title": "Bara no Kaitou",
-  "url": "https://api.mangadex.org/v2/manga/54307",
-  "last_updated": "March 12, 2021 20:24:00 UTC",
+  "url": "https://mangadex.org/manga/54307",
+  "last_updated": "March 18, 2021 13:53:54 UTC",
   "matches": [
     {
       "id": 5039,
       "title": "Henshin Dekinai",
-      "score": 0.459,
-      "r18": false
+      "score": 0.399,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 35649,
       "title": "Tsuki to Taiyou",
-      "score": 0.392,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 54290,
       "title": "Ichizude Karen na Ore-sama",
-      "score": 0.365,
-      "r18": false
-    },
-    {
-      "id": 25488,
-      "title": "Nobara",
-      "score": 0.321,
-      "r18": false
+      "score": 0.282,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 27824,
       "title": "Uchi no Tantei Shirimasen ka?",
-      "score": 0.31,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 36542,
       "title": "Hoshigari-chan no Kareshi Ka Keikaku",
-      "score": 0.307,
-      "r18": false
-    },
-    {
-      "id": 9580,
-      "title": "Khaki P to Sumire-hime",
-      "score": 0.302,
-      "r18": false
-    },
-    {
-      "id": 7318,
-      "title": "Tsuki wa Yamiyo ni Kakuru ga Gotoku",
-      "score": 0.301,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19909,
       "title": "Irony Dress ni Sayonara",
-      "score": 0.299,
-      "r18": false
-    },
-    {
-      "id": 16295,
-      "title": "Kare to Kare no Ijiwaru na Kyori",
-      "score": 0.293,
-      "r18": false
-    },
-    {
-      "id": 9319,
-      "title": "Brothers",
-      "score": 0.289,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 12779,
       "title": "Tenki Yohou no Koibito",
-      "score": 0.286,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "it"
+      ]
     },
     {
       "id": 20114,
       "title": "Mister Gossip",
-      "score": 0.27,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 19598,
-      "title": "Oboreru Triangle",
-      "score": 0.257,
-      "r18": false
-    },
-    {
-      "id": 8243,
-      "title": "Syrup! [bitter]",
-      "score": 0.23,
-      "r18": false
-    },
-    {
-      "id": 58567,
-      "title": "Today I Become A Star",
-      "score": 0.224,
-      "r18": false
+      "id": 7318,
+      "title": "Tsuki wa Yamiyo ni Kakuru ga Gotoku",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 34224,
       "title": "Ore ga Burao Kachou Mamoru to Kimeta Hi Kara Maruhadaka ni Suru Made",
-      "score": 0.216,
-      "r18": false
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9580,
+      "title": "Khaki P to Sumire-hime",
+      "score": 0.19,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 25488,
+      "title": "Nobara",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9319,
+      "title": "Brothers",
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "tr",
+        "pl",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 19598,
+      "title": "Oboreru Triangle",
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 16295,
+      "title": "Kare to Kare no Ijiwaru na Kyori",
+      "score": 0.164,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8243,
+      "title": "Syrup! [bitter]",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 58567,
+      "title": "Today I Become A Star",
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

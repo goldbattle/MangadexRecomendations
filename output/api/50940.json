@@ -1,32 +1,53 @@
 {
   "id": 50940,
   "title": "Tsugumomo Illustration R-18 BOOK",
-  "url": "https://api.mangadex.org/v2/manga/50940",
-  "last_updated": "February 05, 2021 08:31:35 UTC",
+  "url": "https://mangadex.org/manga/50940",
+  "last_updated": "March 18, 2021 13:25:47 UTC",
   "matches": [
     {
-      "id": 12152,
-      "title": "Eromanga-sensei",
-      "score": 0.675,
-      "r18": false
+      "id": 59340,
+      "title": "Tsugumomo - Digital Colored Comics",
+      "score": 0.939,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3090,
       "title": "CHERRY X CHERRY",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 8173,
-      "title": "No Game No Life",
-      "score": 0.663,
-      "r18": false
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 27929,
       "title": "Saotome Shimai wa Manga no Tame nara!?",
-      "score": 0.278,
-      "r18": false
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id",
+        "es",
+        "ru",
+        "br"
+      ]
+    },
+    {
+      "id": 8173,
+      "title": "No Game No Life",
+      "score": 0.162,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "es"
+      ]
     }
   ]
 }

@@ -2,31 +2,47 @@
   "id": 3461,
   "title": "Over Rev!",
   "url": "https://mangadex.org/manga/3461",
-  "last_updated": "March 14, 2021 08:19:43 UTC",
+  "last_updated": "March 18, 2021 06:12:56 UTC",
   "matches": [
     {
       "id": 13423,
       "title": "GIRLS und PANZER - Ribbon no Musha",
       "score": 0.287,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr",
+        "pl"
+      ]
     },
     {
       "id": 14794,
       "title": "Duel!",
       "score": 0.287,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 29335,
       "title": "Bunbu Ryoutou - Saikyou Saichi no Sodatekata",
-      "score": 0.192,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29991,
       "title": "Zanguard",
       "score": 0.164,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -1,80 +1,149 @@
 {
   "id": 54828,
   "title": "Wizard of Akai Mountains",
-  "url": "https://api.mangadex.org/v2/manga/54828",
-  "last_updated": "March 12, 2021 20:30:22 UTC",
+  "url": "https://mangadex.org/manga/54828",
+  "last_updated": "March 18, 2021 13:58:15 UTC",
   "matches": [
     {
-      "id": 17945,
-      "title": "Adu of Hades",
-      "score": 0.287,
-      "r18": false
+      "id": 38810,
+      "title": "Dark Arts Master",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr"
+      ]
     },
     {
       "id": 35838,
       "title": "Slayer Volte",
-      "score": 0.269,
-      "r18": false
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
-      "id": 4629,
-      "title": "Burning Hell",
-      "score": 0.268,
-      "r18": false
-    },
-    {
-      "id": 50976,
-      "title": "The Executed Sage Is Reincarnated as a Lich and Starts an All-Out War",
-      "score": 0.23,
-      "r18": false
+      "id": 17945,
+      "title": "Adu of Hades",
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn"
+      ]
     },
     {
       "id": 49285,
       "title": "Vihora Waru",
-      "score": 0.227,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
     },
     {
-      "id": 38810,
-      "title": "Dark Arts Master",
-      "score": 0.212,
-      "r18": false
+      "id": 50976,
+      "title": "The Executed Sage Is Reincarnated as a Lich and Starts an All-Out War",
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "mx",
+        "fr",
+        "tr",
+        "id"
+      ]
     },
     {
-      "id": 6248,
-      "title": "Koukoku no Shugosha",
-      "score": 0.207,
-      "r18": false
-    },
-    {
-      "id": 50019,
-      "title": "Rooftop Sword Master",
-      "score": 0.193,
-      "r18": false
-    },
-    {
-      "id": 43476,
-      "title": "Yakuza Reincarnation",
-      "score": 0.181,
-      "r18": false
-    },
-    {
-      "id": 42419,
-      "title": "Player",
-      "score": 0.178,
-      "r18": false
+      "id": 4629,
+      "title": "Burning Hell",
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu"
+      ]
     },
     {
       "id": 19609,
       "title": "Demon Knight",
-      "score": 0.178,
-      "r18": false
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 6248,
+      "title": "Koukoku no Shugosha",
+      "score": 0.125,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr"
+      ]
+    },
+    {
+      "id": 34621,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana",
+      "score": 0.102,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "hu"
+      ]
+    },
+    {
+      "id": 43476,
+      "title": "Yakuza Reincarnation",
+      "score": 0.099,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru",
+        "br",
+        "id"
+      ]
+    },
+    {
+      "id": 50019,
+      "title": "Rooftop Sword Master",
+      "score": 0.09,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "id"
+      ]
+    },
+    {
+      "id": 42419,
+      "title": "Player",
+      "score": 0.069,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 43372,
       "title": "Lockdown No Escape",
-      "score": 0.126,
-      "r18": false
+      "score": 0.049,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     }
   ]
 }

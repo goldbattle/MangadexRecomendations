@@ -1,44 +1,175 @@
 {
   "id": 47062,
   "title": "Planet Love",
-  "url": "https://api.mangadex.org/v2/manga/47062",
-  "last_updated": "February 12, 2021 01:04:53 UTC",
+  "url": "https://mangadex.org/manga/47062",
+  "last_updated": "March 18, 2021 12:53:19 UTC",
   "matches": [
     {
-      "id": 11926,
-      "title": "Dekiai Robot",
-      "score": 0.696,
-      "r18": false
+      "id": 9430,
+      "title": "Kimi no Kachi",
+      "score": 0.334,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 4839,
-      "title": "Heart Stealer",
-      "score": 0.671,
-      "r18": false
+      "id": 3049,
+      "title": "Make Sweet",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 6877,
-      "title": "Kono Mama ja Dame Mitai desu",
-      "score": 0.669,
-      "r18": false
+      "id": 41047,
+      "title": "Kisu wa kossori to.",
+      "score": 0.276,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
+    },
+    {
+      "id": 31261,
+      "title": "Datte Kimi Wa, Osananajimi",
+      "score": 0.27,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "sa",
+        "br"
+      ]
     },
     {
       "id": 16010,
       "title": "Yukiwaribana",
-      "score": 0.666,
-      "r18": false
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 11926,
+      "title": "Dekiai Robot",
+      "score": 0.267,
+      "r18": false,
+      "languages": [
+        "tr",
+        "fr",
+        "mn",
+        "gb"
+      ]
+    },
+    {
+      "id": 4839,
+      "title": "Heart Stealer",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 3669,
+      "title": "Rakuen",
+      "score": 0.254,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10162,
+      "title": "...no Onna",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 40781,
+      "title": "Hidaka no Banri-kun",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5293,
+      "title": "Sekai wa Kimi o Sukuu!",
+      "score": 0.228,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 6877,
+      "title": "Kono Mama ja Dame Mitai desu",
+      "score": 0.228,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4172,
+      "title": "Onaji Sora wo Miteiru",
+      "score": 0.227,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 11867,
+      "title": "Hotarubi no Mori e",
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "es",
+        "it"
+      ]
     },
     {
       "id": 9160,
       "title": "Mint de Kiss me - Watase Yuu Masterpiece Collection 5",
-      "score": 0.27,
-      "r18": false
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 17270,
       "title": "Kudryavka",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 45990,
+      "title": "Osana Najimi no Majo ni Tsuite",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

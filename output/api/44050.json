@@ -1,158 +1,263 @@
 {
   "id": 44050,
   "title": "atti",
-  "url": "https://api.mangadex.org/v2/manga/44050",
-  "last_updated": "February 11, 2021 16:34:55 UTC",
+  "url": "https://mangadex.org/manga/44050",
+  "last_updated": "March 18, 2021 12:28:08 UTC",
   "matches": [
     {
       "id": 30821,
       "title": "Kemoraifu",
-      "score": 0.276,
-      "r18": false
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hk",
+        "br"
+      ]
     },
     {
       "id": 39489,
       "title": "Koisuru Jibaku-chan",
-      "score": 0.276,
-      "r18": false
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 41251,
       "title": "Valentine",
-      "score": 0.276,
-      "r18": false
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "br",
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 45824,
       "title": "First Comes Love, Then Comes Marriage",
-      "score": 0.276,
-      "r18": false
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "vn",
+        "br",
+        "it"
+      ]
     },
     {
       "id": 46682,
       "title": "Zutto Otokonoko da to Omotte ita Gakitaishou ga Onnanoko deshita",
-      "score": 0.276,
-      "r18": false
-    },
-    {
-      "id": 47417,
-      "title": "Prince Charming Daddy Descended from Heaven",
-      "score": 0.276,
-      "r18": false
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "cn",
+        "vn",
+        "fr",
+        "tr"
+      ]
     },
     {
       "id": 48162,
       "title": "summer arouse",
-      "score": 0.276,
-      "r18": false
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 48885,
       "title": "Jyordy 24 Hours",
-      "score": 0.276,
-      "r18": false
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 49821,
       "title": "FPS Friend Real Life Meetup",
-      "score": 0.276,
-      "r18": false
-    },
-    {
-      "id": 50624,
-      "title": "Down To Earth",
-      "score": 0.276,
-      "r18": false
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "cn",
+        "gb"
+      ]
     },
     {
       "id": 51490,
       "title": "Zutto Neko Shoshinsha",
-      "score": 0.276,
-      "r18": false
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        " ",
+        "th",
+        "fr"
+      ]
     },
     {
       "id": 52635,
       "title": "Aniwaru",
-      "score": 0.276,
-      "r18": false
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 53532,
       "title": "Please Call Me Red Panda",
-      "score": 0.276,
-      "r18": false
-    },
-    {
-      "id": 56833,
-      "title": "Lemon Soda &amp; Coffee",
-      "score": 0.276,
-      "r18": false
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 59715,
       "title": "Luoxiaohei",
-      "score": 0.276,
-      "r18": false
-    },
-    {
-      "id": 47229,
-      "title": "Her Parrot",
-      "score": 0.246,
-      "r18": false
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 16063,
       "title": "Nuan Nuan Wu",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19586,
       "title": "That House Where I Live With You",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22217,
       "title": "Incredible June",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 22792,
       "title": "We were Childhood Friends",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 23848,
       "title": "Ji Ye and Guan Shan",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 27505,
+      "title": "Ore, Tsushima",
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 27853,
       "title": "Why Did Men Stop Wearing High Heels?",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 27962,
       "title": "Cat And Dog",
-      "score": 0.23,
-      "r18": false
-    },
-    {
-      "id": 32508,
-      "title": "Samejima-san wa kamishimetai",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 34350,
       "title": "I Like How You Hate Me but Can't Get Rid of Me",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 35420,
+      "title": "Flat Lay",
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 35587,
+      "title": "Valentine's Day and White Day",
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "ir",
+        "pl"
+      ]
+    },
+    {
+      "id": 41460,
+      "title": "One Day",
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 45593,
+      "title": "This Song Is Only for You",
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn",
+        "ru"
+      ]
     }
   ]
 }

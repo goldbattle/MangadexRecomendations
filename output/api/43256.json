@@ -1,158 +1,264 @@
 {
   "id": 43256,
   "title": "Let's La Gon",
-  "url": "https://api.mangadex.org/v2/manga/43256",
-  "last_updated": "February 11, 2021 12:37:29 UTC",
+  "url": "https://mangadex.org/manga/43256",
+  "last_updated": "March 18, 2021 12:21:30 UTC",
   "matches": [
     {
-      "id": 28525,
-      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo",
-      "score": 0.727,
-      "r18": false
+      "id": 18526,
+      "title": "Koneko Hiroimashita",
+      "score": 0.362,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "fr",
+        "it"
+      ]
     },
     {
-      "id": 6270,
-      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo (Official Colored)",
-      "score": 0.727,
-      "r18": false
+      "id": 10986,
+      "title": "Samurai Flamenco - Another Days",
+      "score": 0.362,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 13432,
-      "title": "Ningen Deshita",
-      "score": 0.717,
-      "r18": false
+      "id": 10291,
+      "title": "Koetama",
+      "score": 0.362,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 1293,
-      "title": "Miyuki",
-      "score": 0.715,
-      "r18": false
+      "id": 17019,
+      "title": "Kakushigoto",
+      "score": 0.33,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "ru",
+        "it"
+      ]
     },
     {
-      "id": 951,
-      "title": "Nisekoi",
-      "score": 0.704,
-      "r18": false
+      "id": 1054,
+      "title": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "it",
+        "br",
+        "cn",
+        "pl",
+        "fr"
+      ]
     },
     {
-      "id": 2086,
-      "title": "Kingdom Hearts 358/2 Days",
-      "score": 0.701,
-      "r18": false
+      "id": 9851,
+      "title": "Hayachine!",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 1281,
-      "title": "Touch",
-      "score": 0.7,
-      "r18": false
+      "id": 4529,
+      "title": "Koutetsu no Hanappashira",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 6269,
-      "title": "JoJo's Bizarre Adventure Part 4 - Diamond is Unbreakable (Official Colored)",
-      "score": 0.699,
-      "r18": false
+      "id": 12838,
+      "title": "The Royal Tutor",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "it",
+        "ru",
+        "gb"
+      ]
     },
     {
-      "id": 28843,
-      "title": "JoJo's Bizarre Adventure Part 4 - Diamond is Unbreakable",
-      "score": 0.699,
-      "r18": false
+      "id": 5144,
+      "title": "Himawari Youchien Monogatari Aiko Desho!",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 7232,
-      "title": "Cat's Eye",
-      "score": 0.697,
-      "r18": false
+      "id": 23986,
+      "title": "Urami-san wa Kyou mo Ayaui",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 4437,
-      "title": "Golden Time",
-      "score": 0.693,
-      "r18": false
+      "id": 3952,
+      "title": "Wood Stock",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 37300,
+      "title": "That Time I Rented a Little Sister",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 5205,
+      "title": "Kunimitsu no Matsuri",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55306,
+      "title": "Usotsuki Android",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 49506,
+      "title": "One Day in the Life of a Comic Artist",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "jp"
+      ]
+    },
+    {
+      "id": 14337,
+      "title": "Takeo-chan Bukkairoku",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10509,
+      "title": "Imasugu Onii-chan ni Imouto da tte Iitai!",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24031,
+      "title": "Logick",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 23457,
+      "title": "The iDOLM@STER Cinderella Girls - WILD WIND GIRL",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 13742,
+      "title": "Fujicue!!! - Fujicue's Music",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2007,
+      "title": "Aria",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "es",
+        "br"
+      ]
     },
     {
       "id": 22030,
       "title": "Araburu Kisetsu no Otomedomo yo.",
-      "score": 0.692,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "it",
+        "fr"
+      ]
     },
     {
-      "id": 278,
-      "title": "Toradora!",
-      "score": 0.691,
-      "r18": false
+      "id": 41718,
+      "title": "Oshi no Idol ga Tonari no Heya ni Hikkoshite Kita",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 2869,
-      "title": "School Rumble",
-      "score": 0.69,
-      "r18": false
+      "id": 50285,
+      "title": "This Italian Girl Has Become Such a Freeloader",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "it",
+        "mx",
+        "vn",
+        "fr",
+        "th"
+      ]
     },
     {
-      "id": 858,
-      "title": "Hikaru no Go",
-      "score": 0.69,
-      "r18": false
-    },
-    {
-      "id": 33897,
-      "title": "Ossan Boukensha Kane no Zenkou",
-      "score": 0.688,
-      "r18": false
-    },
-    {
-      "id": 2492,
-      "title": "Gift - Under the Rainbow",
-      "score": 0.687,
-      "r18": false
-    },
-    {
-      "id": 6133,
-      "title": "The Time of Cherry Blossoms",
-      "score": 0.686,
-      "r18": false
-    },
-    {
-      "id": 711,
-      "title": "Watashitachi no Tamura-kun",
-      "score": 0.685,
-      "r18": false
-    },
-    {
-      "id": 13765,
-      "title": "Ore to Kanojo no Moe yo Pen",
-      "score": 0.684,
-      "r18": false
-    },
-    {
-      "id": 1044,
-      "title": "Kimagure Orange Road",
-      "score": 0.684,
-      "r18": false
-    },
-    {
-      "id": 810,
-      "title": "Rewrite: SIDE-B",
-      "score": 0.682,
-      "r18": false
-    },
-    {
-      "id": 6056,
-      "title": "Shigatsu wa Kimi no Uso",
-      "score": 0.682,
-      "r18": false
-    },
-    {
-      "id": 20512,
-      "title": "Danganronpa 3: The End of Hope's Peak Academy - Future Arc &amp; Despair Arc Comic Anthology (DNA Media)",
-      "score": 0.681,
-      "r18": false
-    },
-    {
-      "id": 14104,
-      "title": "Sakura Discord",
-      "score": 0.681,
-      "r18": false
+      "id": 21506,
+      "title": "TO-Y",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -2,157 +2,302 @@
   "id": 10004,
   "title": "One Piece - Digital Colored Comics",
   "url": "https://mangadex.org/manga/10004",
-  "last_updated": "March 15, 2021 00:23:39 UTC",
+  "last_updated": "March 18, 2021 07:10:54 UTC",
   "matches": [
     {
       "id": 54801,
       "title": "One Piece Episode A",
       "score": 0.908,
-      "r18": false
-    },
-    {
-      "id": 14694,
-      "title": "One Piece Party",
-      "score": 0.878,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "ru",
+        "sa"
+      ]
     },
     {
       "id": 7527,
       "title": "One Piece: Strong World",
       "score": 0.867,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ct",
+        "ru",
+        "vn"
+      ]
     },
     {
       "id": 15316,
       "title": "Bleach - Digital Colored Comics",
       "score": 0.297,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "id",
+        "mx"
+      ]
     },
     {
       "id": 6268,
       "title": "JoJo's Bizarre Adventure Part 3 - Stardust Crusaders (Official Colored)",
-      "score": 0.293,
-      "r18": false
+      "score": 0.292,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "ru",
+        "tr",
+        "sa"
+      ]
     },
     {
       "id": 20426,
       "title": "Sunset Rose",
-      "score": 0.29,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6271,
-      "title": "JoJo's Bizarre Adventure Part 6: Stone Ocean (Color)",
+      "title": "JoJo's Bizarre Adventure Part 6: Stone Ocean (Official Colored)",
       "score": 0.285,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru",
+        "mx",
+        "id",
+        "pl",
+        "es",
+        "it",
+        "il",
+        "de",
+        "br"
+      ]
+    },
+    {
+      "id": 41902,
+      "title": "HUNTER&times;HUNTER - DIGITAL COLORED COMICS",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "mx",
+        "vn"
+      ]
     },
     {
       "id": 45250,
       "title": "Grave Robber",
       "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 283,
-      "title": "Ao no Exorcist",
-      "score": 0.279,
-      "r18": false
-    },
-    {
-      "id": 41902,
-      "title": "HUNTER&times;HUNTER - DIGITAL COLORED COMICS",
-      "score": 0.278,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 16931,
       "title": "Naruto - Digital Colored Comics",
       "score": 0.275,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 16269,
       "title": "Toriko - Digital Colored Comics",
-      "score": 0.274,
-      "r18": false
+      "score": 0.273,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 11041,
       "title": "Stealth Symphony",
       "score": 0.273,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "pl"
+      ]
     },
     {
       "id": 7195,
       "title": "Nanatsu no Taizai",
-      "score": 0.272,
-      "r18": false
+      "score": 0.271,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "sa",
+        "mx",
+        "th",
+        "it",
+        "br",
+        "id",
+        "es",
+        "ru"
+      ]
     },
     {
       "id": 5573,
       "title": "Saiyuki",
-      "score": 0.268,
-      "r18": false
+      "score": 0.267,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 28542,
-      "title": "JoJo's Bizarre Adventure Part 6 - Stone Ocean",
-      "score": 0.267,
-      "r18": false
+      "title": "JoJo's Bizarre Adventure Part 6: Stone Ocean",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 13963,
       "title": "Yu-Gi-Oh! GX",
       "score": 0.265,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20131,
       "title": "Fumetsu no Anata e",
-      "score": 0.265,
-      "r18": false
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "br",
+        "ru",
+        "tr",
+        "gb"
+      ]
     },
     {
       "id": 107,
       "title": "Toriko",
-      "score": 0.263,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "es",
+        "mx",
+        "pl"
+      ]
+    },
+    {
+      "id": 283,
+      "title": "Ao no Exorcist",
+      "score": 0.261,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "mx",
+        "it",
+        "br",
+        "es",
+        "il",
+        "fr"
+      ]
     },
     {
       "id": 3699,
       "title": "Good Luck, Demon King!",
       "score": 0.26,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2280,
       "title": "Shaman King",
-      "score": 0.26,
-      "r18": false
+      "score": 0.259,
+      "r18": false,
+      "languages": [
+        "il",
+        "gb",
+        "pl",
+        "ru",
+        "tr",
+        "ua"
+      ]
     },
     {
       "id": 23195,
       "title": "The Great Ruler",
-      "score": 0.26,
-      "r18": false
+      "score": 0.259,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "br",
+        "pl",
+        "mx"
+      ]
     },
     {
       "id": 6733,
       "title": "Full Ahead! Coco",
       "score": 0.259,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "it"
+      ]
     },
     {
       "id": 25435,
       "title": "Madara",
-      "score": 0.259,
-      "r18": false
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 46178,
+      "title": "Xianzhou",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 56522,
       "title": "Rurouni Kenshin - Digital Colored Comics",
-      "score": 0.258,
-      "r18": false
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

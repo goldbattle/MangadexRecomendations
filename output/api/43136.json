@@ -1,26 +1,46 @@
 {
   "id": 43136,
   "title": "Icha Love Only Anthology",
-  "url": "https://api.mangadex.org/v2/manga/43136",
-  "last_updated": "February 11, 2021 12:35:41 UTC",
+  "url": "https://mangadex.org/manga/43136",
+  "last_updated": "March 18, 2021 12:20:30 UTC",
   "matches": [
     {
       "id": 42877,
       "title": "Kimashi!",
-      "score": 0.36,
-      "r18": false
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 53437,
+      "title": "Syrup HONEY First Night Yuri Anthology",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 56058,
       "title": "LiLium",
-      "score": 0.24,
-      "r18": false
+      "score": 0.248,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 43764,
       "title": "Lez Fuuzoku Anthology",
-      "score": 0.18,
-      "r18": false
+      "score": 0.238,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     }
   ]
 }

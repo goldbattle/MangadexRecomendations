@@ -1,158 +1,283 @@
 {
   "id": 52384,
   "title": "Prince of Daxia",
-  "url": "https://api.mangadex.org/v2/manga/52384",
-  "last_updated": "February 05, 2021 12:23:39 UTC",
+  "url": "https://mangadex.org/manga/52384",
+  "last_updated": "March 18, 2021 13:37:51 UTC",
   "matches": [
     {
-      "id": 3388,
-      "title": "Fate/Zero",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 1714,
-      "title": "Kara no Kyoukai - The Garden of Sinners",
-      "score": 0.674,
-      "r18": false
-    },
-    {
-      "id": 8339,
-      "title": "Tales of the World - Radiant Mythology",
-      "score": 0.672,
-      "r18": false
-    },
-    {
-      "id": 4880,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
-      "score": 0.67,
-      "r18": false
-    },
-    {
-      "id": 2500,
-      "title": "ChunRangYulJun",
-      "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 20348,
-      "title": "The King's Avatar",
-      "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 11359,
-      "title": "Escha &amp; Logy no Atelier - Tasogare no Sora no Renkinjutsushi",
-      "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 8495,
-      "title": "Persona 3",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 18296,
-      "title": "My Sect's Senior Disciple Has a Hole in His Brain",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 28617,
-      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 45807,
-      "title": "Life Completely Ruined",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 53724,
-      "title": "Trash of the Count's Family",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 9140,
-      "title": "Gensou Suikoden III - Unmei no Keishousha",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 3366,
-      "title": "Feng Shen Ji",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 14676,
-      "title": "The Legendary Moonlight Sculptor",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 31194,
-      "title": "Hunter Age",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 15165,
-      "title": "Vampire Hunter D",
-      "score": 0.659,
-      "r18": false
+      "id": 37512,
+      "title": "The Doctor's Supremacy",
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "tr",
+        "br",
+        "fr",
+        "ru"
+      ]
     },
     {
       "id": 900,
       "title": "Paladin",
-      "score": 0.658,
-      "r18": false
+      "score": 0.263,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 1625,
-      "title": "Sentou Jousai Masurawo",
-      "score": 0.658,
-      "r18": false
+      "id": 53997,
+      "title": "Shark",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 55365,
-      "title": "MEMORIZE",
-      "score": 0.657,
-      "r18": false
+      "id": 30032,
+      "title": "Warring States",
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru",
+        "es"
+      ]
     },
     {
-      "id": 8098,
-      "title": "Eiyuu Densetsu - Sora no Kiseki",
-      "score": 0.656,
-      "r18": false
+      "id": 59433,
+      "title": "My Nights Shine Brighter Than Your Days",
+      "score": 0.242,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 8111,
-      "title": "Magic: The Gathering - Moe Tsukinu Honoo",
-      "score": 0.655,
-      "r18": false
+      "id": 8152,
+      "title": "Over Steam",
+      "score": 0.237,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 11,
-      "title": "Noblesse",
-      "score": 0.654,
-      "r18": false
+      "id": 31114,
+      "title": "Martial Legacy",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "id",
+        "fr",
+        "pl"
+      ]
     },
     {
-      "id": 165,
-      "title": "Mahou Senki Lyrical Nanoha Force",
-      "score": 0.654,
-      "r18": false
+      "id": 17859,
+      "title": "Life Howling",
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br"
+      ]
+    },
+    {
+      "id": 35448,
+      "title": "Strongest Abandoned Son",
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "fr",
+        "tr",
+        "sa"
+      ]
+    },
+    {
+      "id": 31880,
+      "title": "The Hunter",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "tr",
+        "sa",
+        "id"
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Nam Gi-han To be an Elite",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3644,
+      "title": "Westwood Vibrato",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 16107,
+      "title": "Straw",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55907,
+      "title": "Martial God Asura",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "fr",
+        "id"
+      ]
+    },
+    {
+      "id": 29534,
+      "title": "The Lost City",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id"
+      ]
+    },
+    {
+      "id": 42211,
+      "title": "Disease",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "id",
+        "ir"
+      ]
+    },
+    {
+      "id": 9734,
+      "title": "The Dragon Next Door",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 59486,
+      "title": "Misenchanted",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 618,
+      "title": "Chess Isle",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 58536,
+      "title": "True Education",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 53115,
+      "title": "Face Genius",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "fr",
+        "tr",
+        "ru"
+      ]
+    },
+    {
+      "id": 33431,
+      "title": "Coffin Jackson",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 34351,
+      "title": "LESSA - Servant of Cosmos",
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "de"
+      ]
+    },
+    {
+      "id": 37710,
+      "title": "Curtain Call Below the World",
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53724,
+      "title": "Trash of the Count's Family",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "it",
+        "ru",
+        "gb",
+        "tr",
+        "pl",
+        "id",
+        "th"
+      ]
     }
   ]
 }

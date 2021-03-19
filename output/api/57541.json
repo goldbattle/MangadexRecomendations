@@ -2,31 +2,56 @@
   "id": 57541,
   "title": "Megumi and Tsugumi",
   "url": "https://mangadex.org/manga/57541",
-  "last_updated": "March 13, 2021 04:11:20 UTC",
+  "last_updated": "March 18, 2021 14:20:56 UTC",
   "matches": [
     {
       "id": 26061,
       "title": "Nirameba Koi",
-      "score": 0.375,
-      "r18": false
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 32976,
+      "title": "Kyouken Hachiko",
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 44655,
       "title": "Geboku-sama no Iu Toori",
-      "score": 0.25,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 13269,
       "title": "Koi Made Hyakurin",
       "score": 0.214,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 58557,
       "title": "Ijime-kko ni Fukushuu!",
       "score": 0.214,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     }
   ]
 }

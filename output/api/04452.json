@@ -2,25 +2,39 @@
   "id": 4452,
   "title": "Free Soul",
   "url": "https://mangadex.org/manga/4452",
-  "last_updated": "March 14, 2021 08:31:31 UTC",
+  "last_updated": "March 18, 2021 06:22:27 UTC",
   "matches": [
     {
       "id": 23424,
       "title": "1 x &frac12;",
-      "score": 0.301,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "br"
+      ]
     },
     {
       "id": 22045,
       "title": "Yuridori Midori",
       "score": 0.283,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 18467,
       "title": "Sayuri-san no Imouto wa Tenshi",
       "score": 0.198,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "ru"
+      ]
     }
   ]
 }

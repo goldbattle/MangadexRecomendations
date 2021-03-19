@@ -2,19 +2,16 @@
   "id": 1350,
   "title": "Boin Tantei vs. Kaitou Sanmensou",
   "url": "https://mangadex.org/manga/1350",
-  "last_updated": "March 14, 2021 01:11:53 UTC",
+  "last_updated": "March 18, 2021 05:54:09 UTC",
   "matches": [
-    {
-      "id": 8720,
-      "title": "Sakuran (IWASHIRO Toshiaki)",
-      "score": 0.093,
-      "r18": false
-    },
     {
       "id": 28662,
       "title": "W.K School",
       "score": 0.093,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -2,37 +2,60 @@
   "id": 633,
   "title": "Over Time",
   "url": "https://mangadex.org/manga/633",
-  "last_updated": "March 14, 2021 00:58:54 UTC",
+  "last_updated": "March 18, 2021 05:47:55 UTC",
   "matches": [
     {
       "id": 1014,
       "title": "Kurogane",
       "score": 0.29,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 1291,
       "title": "Itsumo Misora",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "fr",
+        "ru"
+      ]
     },
     {
       "id": 1367,
       "title": "Q and A",
-      "score": 0.211,
-      "r18": false
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 684,
       "title": "Kuroko no Basket",
-      "score": 0.188,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "tr",
+        "de"
+      ]
     },
     {
       "id": 47321,
       "title": "Starlight Manaburn",
       "score": 0.125,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

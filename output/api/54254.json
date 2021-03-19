@@ -1,158 +1,245 @@
 {
   "id": 54254,
   "title": "Trap",
-  "url": "https://api.mangadex.org/v2/manga/54254",
-  "last_updated": "March 12, 2021 20:23:20 UTC",
+  "url": "https://mangadex.org/manga/54254",
+  "last_updated": "March 18, 2021 13:53:27 UTC",
   "matches": [
-    {
-      "id": 9475,
-      "title": "Tsuki ni Hoero",
-      "score": 0.726,
-      "r18": false
-    },
-    {
-      "id": 26022,
-      "title": "Midnight Make Love",
-      "score": 0.701,
-      "r18": false
-    },
-    {
-      "id": 55072,
-      "title": "Gekkou no Rankan ni Kuchinashi no Nioi",
-      "score": 0.7,
-      "r18": false
-    },
-    {
-      "id": 55268,
-      "title": "Suki da Nante Ienai",
-      "score": 0.699,
-      "r18": false
-    },
-    {
-      "id": 20962,
-      "title": "Natura-turaly",
-      "score": 0.691,
-      "r18": false
-    },
     {
       "id": 55848,
       "title": "Ushirokara Dakishimete",
-      "score": 0.686,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 29090,
-      "title": "Mawaru Sekai no Kimi to Boku",
-      "score": 0.684,
-      "r18": false
+      "id": 52369,
+      "title": "Anata ni Muchuu",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 12505,
-      "title": "Dog Style",
-      "score": 0.683,
-      "r18": false
-    },
-    {
-      "id": 7189,
-      "title": "Tobu, Kokoro",
-      "score": 0.682,
-      "r18": false
-    },
-    {
-      "id": 10213,
-      "title": "Otodokemono Desu!",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 28977,
-      "title": "Chinko no Tsubuyaki - Chintsubu (Doujinshi)",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 36041,
-      "title": "Zombie Hide Sex",
-      "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 16296,
-      "title": "Taiyou no Romance",
-      "score": 0.667,
-      "r18": false
-    },
-    {
-      "id": 7135,
-      "title": "Anata no Tame Nara Doko Made mo",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 28939,
-      "title": "The Hinanomori",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 29008,
-      "title": "Katsuai Monster",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 57001,
-      "title": "Koisuru Ikimono",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 26574,
-      "title": "Heavy &times; Beauty: Pretty Babies",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 54985,
-      "title": "Irokoi Comedy",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 7329,
-      "title": "Natsu, Kimi ga Saku.",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 46031,
-      "title": "Himitsu de, Hanazono.",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 13113,
-      "title": "Amasugi Monster",
-      "score": 0.43,
-      "r18": false
-    },
-    {
-      "id": 27776,
-      "title": "Shinshikyoutei wo Musubou!",
-      "score": 0.421,
-      "r18": false
-    },
-    {
-      "id": 21140,
-      "title": "Akai Ito no Shikkou Yuuyo",
-      "score": 0.414,
-      "r18": false
+      "id": 18984,
+      "title": "Hana to Junketsu",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "tr",
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 12831,
       "title": "Renai Prism",
-      "score": 0.4,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 27776,
+      "title": "Shinshikyoutei wo Musubou!",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21140,
+      "title": "Akai Ito no Shikkou Yuuyo",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl",
+        "fr"
+      ]
+    },
+    {
+      "id": 57001,
+      "title": "Koisuru Ikimono",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 28033,
+      "title": "Chinko no Tsubuyaki",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 26022,
+      "title": "Midnight Make Love",
+      "score": 0.283,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 16296,
+      "title": "Taiyou no Romance",
+      "score": 0.276,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20962,
+      "title": "Natura-turaly",
+      "score": 0.27,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 54985,
+      "title": "Irokoi Comedy",
+      "score": 0.267,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55268,
+      "title": "Suki da Nante Ienai",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 46031,
+      "title": "Himitsu de, Hanazono.",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29090,
+      "title": "Mawaru Sekai no Kimi to Boku",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 28977,
+      "title": "Chinko no Tsubuyaki - Chintsubu (Doujinshi)",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 23563,
+      "title": "Beware of Demons",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 28145,
+      "title": "Kohitsuji Project",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "hu"
+      ]
+    },
+    {
+      "id": 9475,
+      "title": "Tsuki ni Hoero",
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 26574,
+      "title": "Heavy &times; Beauty: Pretty Babies",
+      "score": 0.228,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 28939,
+      "title": "The Hinanomori",
+      "score": 0.226,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 48703,
+      "title": "Blue de Roix",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 27056,
+      "title": "Devil x Devil",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 7189,
+      "title": "Tobu, Kokoro",
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 55072,
+      "title": "Gekkou no Rankan ni Kuchinashi no Nioi",
+      "score": 0.204,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -1,158 +1,266 @@
 {
   "id": 54629,
   "title": "Katori Senpai",
-  "url": "https://api.mangadex.org/v2/manga/54629",
-  "last_updated": "March 12, 2021 20:27:58 UTC",
+  "url": "https://mangadex.org/manga/54629",
+  "last_updated": "March 18, 2021 13:56:35 UTC",
   "matches": [
     {
       "id": 3239,
       "title": "Bari Haken",
-      "score": 0.283,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 13110,
       "title": "Hinomaru Zumou",
-      "score": 0.283,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "it",
+        "pl"
+      ]
     },
     {
       "id": 21068,
       "title": "Nanba MG5",
-      "score": 0.283,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 669,
       "title": "Tiji-kun!",
-      "score": 0.243,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5176,
       "title": "Doushirou de Gozaru",
-      "score": 0.243,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 27460,
       "title": "Dear Boy",
-      "score": 0.243,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br"
+      ]
     },
     {
       "id": 460,
       "title": "Angel Densetsu",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "es"
+      ]
     },
     {
       "id": 519,
       "title": "Shiinake no Hitobito",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 658,
       "title": "Bloody Monday",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "ru",
+        "it"
+      ]
     },
     {
       "id": 694,
       "title": "Ocha Nigosu",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 708,
+      "title": "Buyuden",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr"
+      ]
     },
     {
       "id": 756,
       "title": "Hanza Sky",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 883,
       "title": "Eyeshield 21",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ct"
+      ]
     },
     {
       "id": 936,
       "title": "Haru Polish",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1008,
       "title": "High School",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1377,
       "title": "Ssen Nom",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1424,
       "title": "Worst",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 1763,
       "title": "Go Da Gun",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1958,
       "title": "Hajime no Ippo",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa",
+        "br",
+        "fr",
+        "es",
+        "ru",
+        "pl"
+      ]
     },
     {
       "id": 1976,
       "title": "Lock On!",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "it",
+        "br"
+      ]
     },
     {
       "id": 1992,
       "title": "Sugarless",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 2056,
-      "title": "Ganbare Genki",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 2093,
       "title": "Crows",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 2346,
       "title": "Shakugan no Shana",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "fr"
+      ]
     },
     {
       "id": 2464,
       "title": "The Strings Dolls",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2933,
       "title": "Urooboe Uroboros!",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "id",
+        "ct",
+        "gb"
+      ]
     }
   ]
 }

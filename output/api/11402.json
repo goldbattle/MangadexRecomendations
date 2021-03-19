@@ -2,43 +2,67 @@
   "id": 11402,
   "title": "Ice Forest",
   "url": "https://mangadex.org/manga/11402",
-  "last_updated": "March 15, 2021 04:37:27 UTC",
+  "last_updated": "March 18, 2021 07:23:01 UTC",
   "matches": [
     {
       "id": 1373,
       "title": "Kanojoiro no Kanojo",
-      "score": 0.3,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 3979,
       "title": "Do Da Dancin'!",
       "score": 0.297,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 15751,
       "title": "Ginban Kishi",
-      "score": 0.286,
-      "r18": false
+      "score": 0.285,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 24707,
       "title": "Chihayafuru: Middle School Arc",
-      "score": 0.167,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20320,
       "title": "The Girl who Walks the Waves",
-      "score": 0.167,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1063,
       "title": "Chihayafuru",
-      "score": 0.162,
-      "r18": false
+      "score": 0.161,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "it",
+        "br",
+        "pl"
+      ]
     }
   ]
 }

@@ -1,158 +1,279 @@
 {
   "id": 43237,
   "title": "Gisou Buden",
-  "url": "https://api.mangadex.org/v2/manga/43237",
-  "last_updated": "February 11, 2021 12:37:13 UTC",
+  "url": "https://mangadex.org/manga/43237",
+  "last_updated": "March 18, 2021 12:21:20 UTC",
   "matches": [
     {
       "id": 53758,
       "title": "7 Samurai Folding",
-      "score": 0.274,
-      "r18": false
+      "score": 0.228,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7371,
       "title": "Amanusya",
-      "score": 0.229,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 18038,
       "title": "Zenei no Archer",
-      "score": 0.229,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 25195,
       "title": "O-Edo Ele-Ki",
-      "score": 0.229,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5272,
       "title": "Majutsushi Orphen Hagure Tabi",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21124,
       "title": "Oretachi no Party wa Machigatteiru",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 21711,
       "title": "Slayers - The Road of the Ring",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "pl",
+        "es",
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 22612,
       "title": "Akazukin no Ookami Deshi",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "hk",
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 30442,
       "title": "Bouken-ka ni Narou! ~Skill Board de Dungeon Kouryaku~",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "mx",
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 30744,
       "title": "Tensei Kenja no Isekai Life ~Daini no Shokugyou wo Ete, Sekai Saikyou ni Narimashita~",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "id",
+        "th",
+        "fr"
+      ]
     },
     {
       "id": 37610,
       "title": "Black Clover (One-shot)",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "br"
+      ]
+    },
+    {
+      "id": 39256,
+      "title": "Isekai Munchkin -HP 1 no Mama de Saikyou Saisoku Danjon Kouryaku-",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru"
+      ]
     },
     {
       "id": 43453,
       "title": "Nanatsu no Maken ga Shihai Suru",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 43541,
       "title": "The Overlord's Wish",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 43748,
       "title": "The Universal Travels of the Prophet Geremias",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 44910,
       "title": "Starvation and Reincarnation",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 46349,
       "title": "Zero's World",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 48870,
       "title": "MONSTERS",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "sa"
+      ]
     },
     {
       "id": 53667,
       "title": "Ishi ni Usubeni, Tetsu ni Hoshi",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 57009,
       "title": "Sekai Saikyou no Doryokuka: Sainou ga (Doryoku) Datta no de Kouritsu Yoku Kikakugai no Doryoku o Shitemiru",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 47995,
       "title": "Fate/Grand Order Cries of The Avenger  in the Prison Tower",
-      "score": 0.206,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "ru",
+        "sa"
+      ]
     },
     {
       "id": 11923,
       "title": "Monster X Monster",
-      "score": 0.204,
-      "r18": false
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ro"
+      ]
+    },
+    {
+      "id": 15016,
+      "title": "Black Clover",
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "br",
+        "hu",
+        "gb",
+        "sa",
+        "mn",
+        "it",
+        "pl",
+        "ru",
+        "mx",
+        "es",
+        "de",
+        "fr",
+        "id",
+        "my"
+      ]
     },
     {
       "id": 16444,
       "title": "Radiant",
-      "score": 0.204,
-      "r18": false
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx"
+      ]
     },
     {
-      "id": 22916,
-      "title": "Marry Grave",
-      "score": 0.204,
-      "r18": false
-    },
-    {
-      "id": 34387,
-      "title": "Lonely Attack on the Different World",
-      "score": 0.204,
-      "r18": false
-    },
-    {
-      "id": 37136,
-      "title": "The Sorcerer King of Destruction and the Golem of the Barbarian Queen",
-      "score": 0.204,
-      "r18": false
+      "id": 21063,
+      "title": "Mairimashita! Iruma-kun",
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "vn",
+        "gb",
+        "ru",
+        "br",
+        "id",
+        "tr",
+        "es"
+      ]
     }
   ]
 }

@@ -1,50 +1,72 @@
 {
   "id": 46297,
   "title": "Sin &amp; Secret",
-  "url": "https://api.mangadex.org/v2/manga/46297",
-  "last_updated": "February 11, 2021 20:39:36 UTC",
+  "url": "https://mangadex.org/manga/46297",
+  "last_updated": "March 18, 2021 12:46:54 UTC",
   "matches": [
-    {
-      "id": 47140,
-      "title": "Sister &hArr; Sister",
-      "score": 0.193,
-      "r18": true
-    },
-    {
-      "id": 31871,
-      "title": "Zenra Inkou Sengen!!",
-      "score": 0.17,
-      "r18": true
-    },
-    {
-      "id": 53310,
-      "title": "Gekou Jikoku ni Yarimashita.",
-      "score": 0.159,
-      "r18": true
-    },
-    {
-      "id": 53308,
-      "title": "Shogo Beat",
-      "score": 0.153,
-      "r18": true
-    },
     {
       "id": 30920,
       "title": "Gaki ni Modotte Yarinaoshi!!!",
-      "score": 0.144,
-      "r18": true
+      "score": 0.128,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 35346,
       "title": "Can I Have Onii-chan's Virginity?",
-      "score": 0.144,
-      "r18": true
+      "score": 0.128,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 47140,
+      "title": "Sister &hArr; Sister",
+      "score": 0.125,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 31871,
+      "title": "Zenra Inkou Sengen!!",
+      "score": 0.125,
+      "r18": true,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 53310,
+      "title": "Gekou Jikoku ni Yarimashita.",
+      "score": 0.09,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53308,
+      "title": "Shogo Beat",
+      "score": 0.09,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 43841,
       "title": "They&rsquo;re All Little and They&rsquo;re All Sluts!",
-      "score": 0.141,
-      "r18": true
+      "score": 0.09,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

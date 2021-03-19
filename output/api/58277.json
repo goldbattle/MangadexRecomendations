@@ -2,31 +2,45 @@
   "id": 58277,
   "title": "Angel Oil",
   "url": "https://mangadex.org/manga/58277",
-  "last_updated": "March 13, 2021 04:20:34 UTC",
+  "last_updated": "March 18, 2021 14:27:05 UTC",
   "matches": [
     {
       "id": 58303,
       "title": "Fifth-Dimension Treatment",
-      "score": 0.168,
-      "r18": false
+      "score": 0.167,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 40670,
       "title": "Is Love Covered by Insurance?",
-      "score": 0.113,
-      "r18": false
+      "score": 0.112,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 48676,
       "title": "BLAME! Fort of Silicon Creatures",
-      "score": 0.105,
-      "r18": false
+      "score": 0.104,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 45840,
       "title": "For The Moon",
-      "score": 0.081,
-      "r18": false
+      "score": 0.08,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -1,158 +1,271 @@
 {
   "id": 45724,
   "title": "My Favourite Idol Officially Became My Stalker!",
-  "url": "https://api.mangadex.org/v2/manga/45724",
-  "last_updated": "February 11, 2021 20:30:18 UTC",
+  "url": "https://mangadex.org/manga/45724",
+  "last_updated": "March 18, 2021 12:42:07 UTC",
   "matches": [
     {
-      "id": 20523,
-      "title": "BEASTARS",
-      "score": 0.67,
-      "r18": false
-    },
-    {
-      "id": 48208,
-      "title": "BEASTARS (Fan-Colored)",
-      "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 1563,
-      "title": "Mahoraba",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 3091,
-      "title": "Suzumiya Haruhi no Yuuutsu",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 153,
-      "title": "Detective Conan",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 3829,
-      "title": "Shindere Shoujo to Kodoku na Shinigami",
-      "score": 0.655,
-      "r18": false
+      "id": 3587,
+      "title": "Happy Project",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 41718,
       "title": "Oshi no Idol ga Tonari no Heya ni Hikkoshite Kita",
-      "score": 0.653,
-      "r18": false
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 6832,
-      "title": "&quot;Bungaku Shoujo&quot; to Ue Kawaku Yuurei",
-      "score": 0.65,
-      "r18": false
-    },
-    {
-      "id": 3587,
-      "title": "Happy Project",
-      "score": 0.352,
-      "r18": false
-    },
-    {
-      "id": 1728,
-      "title": "Ever Green",
-      "score": 0.337,
-      "r18": false
+      "id": 1563,
+      "title": "Mahoraba",
+      "score": 0.265,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "es"
+      ]
     },
     {
       "id": 7018,
       "title": "Kiseki no Shounen",
-      "score": 0.336,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 4437,
-      "title": "Golden Time",
-      "score": 0.335,
-      "r18": false
+      "id": 1728,
+      "title": "Ever Green",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "de",
+        "it"
+      ]
     },
     {
       "id": 11207,
       "title": "Inu to Hasami wa Tsukaiyou",
-      "score": 0.329,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 53556,
-      "title": "Sheeply Horned Witch Romi",
-      "score": 0.322,
-      "r18": false
-    },
-    {
-      "id": 5557,
-      "title": "Tetsugaku Letra",
-      "score": 0.309,
-      "r18": false
-    },
-    {
-      "id": 9408,
-      "title": "Durarara!! Saika-hen",
-      "score": 0.305,
-      "r18": false
+      "id": 4437,
+      "title": "Golden Time",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 40969,
       "title": "Yofukashi no Uta",
-      "score": 0.292,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "id",
+        "mx",
+        "tr",
+        "ru"
+      ]
     },
     {
-      "id": 13002,
-      "title": "Lo-Fi After School",
-      "score": 0.292,
-      "r18": false
+      "id": 9408,
+      "title": "Durarara!! Saika-hen",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 14286,
-      "title": "Grisaia no Kajitsu - L'oiseau bleu",
-      "score": 0.288,
-      "r18": false
-    },
-    {
-      "id": 10502,
-      "title": "Fujimi Lovers",
-      "score": 0.283,
-      "r18": false
-    },
-    {
-      "id": 15752,
-      "title": "Naka no Hito Genome [Jikkyouchuu]",
-      "score": 0.281,
-      "r18": false
-    },
-    {
-      "id": 8,
-      "title": "Psyren",
-      "score": 0.281,
-      "r18": false
-    },
-    {
-      "id": 358,
-      "title": "C&Oslash;DE:BREAKER",
-      "score": 0.281,
-      "r18": false
+      "id": 53556,
+      "title": "Sheeply Horned Witch Romi",
+      "score": 0.19,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id"
+      ]
     },
     {
       "id": 1704,
       "title": "Big Order",
-      "score": 0.278,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "ru",
+        "br",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 10502,
+      "title": "Fujimi Lovers",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "de"
+      ]
+    },
+    {
+      "id": 13002,
+      "title": "Lo-Fi After School",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "pl"
+      ]
+    },
+    {
+      "id": 3882,
+      "title": "Obake Life",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 16471,
+      "title": "Toilet ga Hanako-san",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5557,
+      "title": "Tetsugaku Letra",
+      "score": 0.17,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg",
+        "mx",
+        "br",
+        "tr",
+        "pl"
+      ]
+    },
+    {
+      "id": 6832,
+      "title": "&quot;Bungaku Shoujo&quot; to Ue Kawaku Yuurei",
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 15752,
+      "title": "Naka no Hito Genome [Jikkyouchuu]",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ir",
+        "id",
+        "pl"
+      ]
+    },
+    {
+      "id": 3091,
+      "title": "Suzumiya Haruhi no Yuuutsu",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 358,
+      "title": "C&Oslash;DE:BREAKER",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "id"
+      ]
     },
     {
       "id": 14603,
       "title": "Kagamigami",
-      "score": 0.272,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru",
+        "es"
+      ]
+    },
+    {
+      "id": 14286,
+      "title": "Grisaia no Kajitsu - L'oiseau bleu",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21625,
+      "title": "New Danganronpa V3 Comic Anthology",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1238,
+      "title": "Q.E.D",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7352,
+      "title": "TheLastPierrot",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

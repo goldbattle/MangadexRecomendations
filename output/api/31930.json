@@ -1,38 +1,60 @@
 {
   "id": 31930,
   "title": "Wine Girls",
-  "url": "https://api.mangadex.org/v2/manga/31930",
-  "last_updated": "February 10, 2021 08:27:44 UTC",
+  "url": "https://mangadex.org/manga/31930",
+  "last_updated": "March 18, 2021 10:47:01 UTC",
   "matches": [
+    {
+      "id": 19729,
+      "title": "Cheerful Amnesia",
+      "score": 0.339,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "de"
+      ]
+    },
     {
       "id": 30932,
       "title": "Sekai de Ichiban Oppai ga Suki!",
-      "score": 0.367,
-      "r18": false
-    },
-    {
-      "id": 58186,
-      "title": "The Prickly Maid and Clumsy Mangaka",
-      "score": 0.335,
-      "r18": false
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx",
+        "br",
+        "it",
+        "fr"
+      ]
     },
     {
       "id": 24504,
       "title": "Tachibana-kan Ce Leb Life",
-      "score": 0.3,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 41487,
       "title": "Yumeguri Yurimeguri",
-      "score": 0.296,
-      "r18": false
+      "score": 0.271,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6547,
       "title": "Choir!",
-      "score": 0.25,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

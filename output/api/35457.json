@@ -1,110 +1,178 @@
 {
   "id": 35457,
   "title": "Nanika ga Michi wo Soreteyattekuru",
-  "url": "https://api.mangadex.org/v2/manga/35457",
-  "last_updated": "February 10, 2021 16:43:57 UTC",
+  "url": "https://mangadex.org/manga/35457",
+  "last_updated": "March 18, 2021 11:16:25 UTC",
   "matches": [
     {
       "id": 20895,
       "title": "Ryuukei no Sora",
-      "score": 0.34,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 31895,
       "title": "Song of Heaven and Earth",
-      "score": 0.34,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5867,
       "title": "Window",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "it",
+        "fr",
+        "bg"
+      ]
     },
     {
       "id": 11955,
       "title": "Revenge Doll",
-      "score": 0.272,
-      "r18": false
-    },
-    {
-      "id": 49368,
-      "title": "Kamisama to",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 51179,
       "title": "Waltzing at Sanzu River",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1108,
       "title": "Semi-Eternal Happy End",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 16048,
       "title": "Bakemono Recchan",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "br",
+        "pl",
+        "fr"
+      ]
     },
     {
       "id": 18016,
       "title": "Under Execution, Under Jailbreak",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "sa",
+        "gb",
+        "es",
+        "fr",
+        "ru",
+        "id"
+      ]
     },
     {
       "id": 21415,
       "title": "Renri no Eda (Shimokawa Saki)",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 46634,
       "title": "Bungou Stray Dogs: Chopsticks and a Spoon",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1117,
       "title": "Adventure Boys",
-      "score": 0.17,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "ru"
+      ]
     },
     {
       "id": 20489,
       "title": "Untouchable Lover",
-      "score": 0.17,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 33958,
       "title": "Second Coming",
-      "score": 0.17,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19017,
       "title": "The Zombie Maria",
-      "score": 0.151,
-      "r18": false
+      "score": 0.124,
+      "r18": false,
+      "languages": [
+        "de",
+        "ru",
+        "it",
+        "pl",
+        "br",
+        "gb",
+        "fr",
+        "id",
+        "ir"
+      ]
     },
     {
       "id": 23583,
       "title": "Kuuchuu Teien no Hitobito",
-      "score": 0.151,
-      "r18": false
+      "score": 0.124,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 47116,
       "title": "Eternally Wounded Heel",
-      "score": 0.124,
-      "r18": false
+      "score": 0.101,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

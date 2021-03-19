@@ -1,158 +1,307 @@
 {
   "id": 51649,
   "title": "Ano Oni Ky\u014dshi ga Boku no Ane ni Narundesuka?",
-  "url": "https://api.mangadex.org/v2/manga/51649",
-  "last_updated": "February 05, 2021 12:11:27 UTC",
+  "url": "https://mangadex.org/manga/51649",
+  "last_updated": "March 18, 2021 13:31:42 UTC",
   "matches": [
     {
-      "id": 31583,
-      "title": "Dorei Shounin shika Sentakushi ga Nai desu yo? Harem? Nani Sore Oishii no?",
-      "score": 0.765,
-      "r18": false
+      "id": 22900,
+      "title": "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?",
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id",
+        "br",
+        "fr"
+      ]
     },
     {
-      "id": 35547,
-      "title": "Tonimo Kakunimo",
-      "score": 0.739,
-      "r18": false
+      "id": 54812,
+      "title": "Nogizaka Asuka no Himitsu",
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 43808,
-      "title": "Koisuru Otome wa Eromanga ni Yume wo Miru",
-      "score": 0.735,
-      "r18": false
+      "id": 30763,
+      "title": "Shishunki Renaissance David-kun",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "it",
+        "br",
+        "mx",
+        "ru",
+        "fr"
+      ]
     },
     {
-      "id": 7142,
-      "title": "FamiDol!",
-      "score": 0.732,
-      "r18": false
+      "id": 14570,
+      "title": "Ane Kurabe",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 14458,
-      "title": "Magical P&acirc;tissi&egrave;re Kosaki-chan!!",
-      "score": 0.725,
-      "r18": false
+      "id": 45939,
+      "title": "Kanojo mo Kanojo",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "ua",
+        "hk",
+        "it",
+        "ru",
+        "mx"
+      ]
     },
     {
-      "id": 3507,
-      "title": "Megu Miruku",
-      "score": 0.717,
-      "r18": false
+      "id": 44115,
+      "title": "Senpai ga Boku wo Torinikiteru",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "id",
+        "ru"
+      ]
+    },
+    {
+      "id": 21204,
+      "title": "Koi to Utatane",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru"
+      ]
+    },
+    {
+      "id": 26936,
+      "title": "Ojousama no Shimobe",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx"
+      ]
+    },
+    {
+      "id": 38498,
+      "title": "JK Shachiku wo Kau",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "vn"
+      ]
+    },
+    {
+      "id": 20774,
+      "title": "Bokutachi wa Benkyou ga Dekinai",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "hk",
+        "ru",
+        "it",
+        "br",
+        "sa"
+      ]
+    },
+    {
+      "id": 32440,
+      "title": "Ashigei Shoujo Komura-san",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "pl",
+        "br",
+        "id",
+        "mx",
+        "hu",
+        "ru",
+        "fr"
+      ]
+    },
+    {
+      "id": 3510,
+      "title": "Tona-Gura!",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 26293,
+      "title": "Uzaki-chan wa Asobitai!",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "pl",
+        "it",
+        "mx",
+        "fr"
+      ]
+    },
+    {
+      "id": 31818,
+      "title": "Arigatights!",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "id",
+        "br"
+      ]
+    },
+    {
+      "id": 41987,
+      "title": "Aroma-chan wa Konya mo Hazukashii",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb"
+      ]
+    },
+    {
+      "id": 40507,
+      "title": "Shuukan Brick",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id"
+      ]
+    },
+    {
+      "id": 32668,
+      "title": "Shed! Ryugasaki-san",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "hk",
+        "fr",
+        "mx"
+      ]
+    },
+    {
+      "id": 32773,
+      "title": "Kishuku Gakkou no Juliet - The Official Anthology",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 41139,
+      "title": "Ookii Kouhai wa Suki Desu ka?",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "id"
+      ]
+    },
+    {
+      "id": 31122,
+      "title": "My Japanese Sisters",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "br",
+        "ru"
+      ]
+    },
+    {
+      "id": 36765,
+      "title": "Mamahaha no Tsurego ga Moto Kanodatta",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "br",
+        "mx",
+        "id"
+      ]
+    },
+    {
+      "id": 43739,
+      "title": "Koukando ga Mieru you ni natta n da ga, Heroine ga Count Stop shite iru Ken",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 25332,
+      "title": "Hiota no Kanojo ga Ore no Motteru Eroge ni Kyoumi Shinshin Nanda ga......",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "fr",
+        "id",
+        "mx"
+      ]
     },
     {
       "id": 86,
       "title": "Anedoki",
-      "score": 0.717,
-      "r18": false
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "de",
+        "pl",
+        "gb"
+      ]
     },
     {
-      "id": 9855,
-      "title": "Shinigami-sama to 4-nin no Kanojo",
-      "score": 0.714,
-      "r18": false
-    },
-    {
-      "id": 6138,
-      "title": "Full Metal Panic!",
-      "score": 0.714,
-      "r18": false
-    },
-    {
-      "id": 732,
-      "title": "To Love-Ru",
-      "score": 0.712,
-      "r18": false
-    },
-    {
-      "id": 575,
-      "title": "Sore ga Kanojo no Seigi nara",
-      "score": 0.712,
-      "r18": false
-    },
-    {
-      "id": 12928,
-      "title": "To Love-Ru - Digital Colored Comics",
-      "score": 0.712,
-      "r18": false
-    },
-    {
-      "id": 639,
-      "title": "Hanayashiki no Juunintachi",
-      "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 17079,
-      "title": "Kyouhaku DOG's -Another Secret-",
-      "score": 0.71,
-      "r18": false
-    },
-    {
-      "id": 1882,
-      "title": "Baka to Test to Shoukanjuu",
-      "score": 0.709,
-      "r18": false
-    },
-    {
-      "id": 9175,
-      "title": "Shinmai Maou no Testament",
-      "score": 0.708,
-      "r18": false
-    },
-    {
-      "id": 51,
-      "title": "To Love-Ru Darkness",
-      "score": 0.707,
-      "r18": false
-    },
-    {
-      "id": 12929,
-      "title": "To Love-Ru Darkness - Digital Colored Comics",
-      "score": 0.706,
-      "r18": false
-    },
-    {
-      "id": 16041,
-      "title": "Ore ga Ojou-sama Gakkou ni &quot;Shomin Sample&quot; Toshite Spinoff Sareta Ken",
-      "score": 0.706,
-      "r18": false
-    },
-    {
-      "id": 23571,
-      "title": "Kimi wa 008",
-      "score": 0.705,
-      "r18": false
-    },
-    {
-      "id": 36647,
-      "title": "Ponkotsu-chan Kenshouchuu",
-      "score": 0.703,
-      "r18": false
-    },
-    {
-      "id": 795,
-      "title": "Kagami no Kuni no Harisugawa",
-      "score": 0.701,
-      "r18": false
-    },
-    {
-      "id": 13720,
-      "title": "Kono Subarashii Sekai ni Shukufuku wo!",
-      "score": 0.701,
-      "r18": false
-    },
-    {
-      "id": 5199,
-      "title": "Otome wa Boku ni Koishiteru - Futari no Elder",
-      "score": 0.7,
-      "r18": false
-    },
-    {
-      "id": 651,
-      "title": "Asa made Jugyou Chu!",
-      "score": 0.7,
-      "r18": false
+      "id": 43808,
+      "title": "Koisuru Otome wa Eromanga ni Yume wo Miru",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     }
   ]
 }

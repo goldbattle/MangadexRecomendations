@@ -2,25 +2,37 @@
   "id": 9705,
   "title": "Double Gauge",
   "url": "https://mangadex.org/manga/9705",
-  "last_updated": "March 15, 2021 00:20:11 UTC",
+  "last_updated": "March 18, 2021 07:08:24 UTC",
   "matches": [
     {
       "id": 47431,
       "title": "The Werewolf Killings",
-      "score": 0.104,
-      "r18": false
+      "score": 0.103,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 45140,
       "title": "Oh My Ghost",
-      "score": 0.081,
-      "r18": false
+      "score": 0.08,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 47424,
       "title": "Welcome to the Nightmare Game",
       "score": 0.076,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru"
+      ]
     }
   ]
 }

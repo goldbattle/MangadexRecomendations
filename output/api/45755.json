@@ -1,98 +1,204 @@
 {
   "id": 45755,
   "title": "Angelic Syndrome",
-  "url": "https://api.mangadex.org/v2/manga/45755",
-  "last_updated": "February 11, 2021 20:30:50 UTC",
+  "url": "https://mangadex.org/manga/45755",
+  "last_updated": "March 18, 2021 12:42:23 UTC",
   "matches": [
     {
-      "id": 22123,
-      "title": "Masked Rider KUUGA",
-      "score": 0.669,
-      "r18": false
+      "id": 40770,
+      "title": "Shinigami ni Sodaterareta Shoujo wa Shikkoku no Tsurugi wo Mune ni Idaku",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "mx",
+        "id"
+      ]
+    },
+    {
+      "id": 44053,
+      "title": "Eden no Majotachi",
+      "score": 0.196,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 57939,
       "title": "Heroes Tournament",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 50019,
-      "title": "Rooftop Sword Master",
-      "score": 0.663,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 50725,
       "title": "Kimi wa Shinenai Hai Kaburi no Majo",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 10854,
-      "title": "All You Need Is Kill",
-      "score": 0.657,
-      "r18": false
+      "score": 0.148,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru",
+        "br",
+        "vn"
+      ]
     },
     {
       "id": 50976,
       "title": "The Executed Sage Is Reincarnated as a Lich and Starts an All-Out War",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 13414,
-      "title": "No Guns Life",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 49649,
-      "title": "Pumpkin Night Gaiden - Naoko",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 40770,
-      "title": "Shinigami ni Sodaterareta Shoujo wa Shikkoku no Tsurugi wo Mune ni Idaku",
-      "score": 0.342,
-      "r18": false
+      "score": 0.133,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "mx",
+        "fr",
+        "tr",
+        "id"
+      ]
     },
     {
       "id": 51132,
       "title": "The Devil of the Gods",
-      "score": 0.273,
-      "r18": false
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 6248,
-      "title": "Koukoku no Shugosha",
-      "score": 0.236,
-      "r18": false
+      "id": 10854,
+      "title": "All You Need Is Kill",
+      "score": 0.124,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "ru",
+        "tr"
+      ]
     },
     {
-      "id": 42419,
-      "title": "Player",
-      "score": 0.207,
-      "r18": false
+      "id": 34621,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana",
+      "score": 0.124,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "hu"
+      ]
+    },
+    {
+      "id": 13414,
+      "title": "No Guns Life",
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "hu"
+      ]
     },
     {
       "id": 45976,
       "title": "Game of Doppelg&auml;nger",
-      "score": 0.19,
-      "r18": false
+      "score": 0.108,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 43372,
-      "title": "Lockdown No Escape",
-      "score": 0.178,
-      "r18": false
+      "id": 16663,
+      "title": "Golden Kamuy",
+      "score": 0.102,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa",
+        "ru",
+        "id",
+        " ",
+        "se",
+        "ro",
+        "it",
+        "br",
+        "pl",
+        "hu",
+        "il"
+      ]
+    },
+    {
+      "id": 6248,
+      "title": "Koukoku no Shugosha",
+      "score": 0.099,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr"
+      ]
+    },
+    {
+      "id": 50019,
+      "title": "Rooftop Sword Master",
+      "score": 0.099,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "id"
+      ]
+    },
+    {
+      "id": 22123,
+      "title": "Masked Rider KUUGA",
+      "score": 0.099,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 7017,
       "title": "The Sea of Fallen Beasts",
-      "score": 0.105,
-      "r18": false
+      "score": 0.086,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 42419,
+      "title": "Player",
+      "score": 0.081,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 43372,
+      "title": "Lockdown No Escape",
+      "score": 0.062,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     }
   ]
 }

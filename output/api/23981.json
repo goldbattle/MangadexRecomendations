@@ -2,25 +2,38 @@
   "id": 23981,
   "title": "Kaiketsu Jouki Tanteidan",
   "url": "https://mangadex.org/manga/23981",
-  "last_updated": "March 16, 2021 12:35:37 UTC",
+  "last_updated": "March 18, 2021 09:31:19 UTC",
   "matches": [
     {
       "id": 35870,
       "title": "Heart Gear",
       "score": 0.181,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "mx",
+        "id"
+      ]
     },
     {
       "id": 3553,
       "title": "Kidou Senshi Gundam MSV-R - Johnny Ridden no Kikan",
-      "score": 0.163,
-      "r18": false
+      "score": 0.162,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3374,
       "title": "Kidou Senshi Gundam - Gihren Ansatsu Keikaku",
-      "score": 0.147,
-      "r18": false
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

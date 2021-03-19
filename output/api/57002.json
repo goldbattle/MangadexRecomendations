@@ -2,19 +2,27 @@
   "id": 57002,
   "title": "NOEL",
   "url": "https://mangadex.org/manga/57002",
-  "last_updated": "March 13, 2021 00:32:52 UTC",
+  "last_updated": "March 18, 2021 14:16:26 UTC",
   "matches": [
     {
       "id": 125,
       "title": "Gunslinger Girl",
       "score": 0.136,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 41825,
       "title": "My Bodyguard Is 4 Feet Tall",
       "score": 0.115,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "fr"
+      ]
     }
   ]
 }

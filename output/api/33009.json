@@ -1,158 +1,248 @@
 {
   "id": 33009,
   "title": "Ojou to Banken-kun",
-  "url": "https://api.mangadex.org/v2/manga/33009",
-  "last_updated": "February 10, 2021 12:30:52 UTC",
+  "url": "https://mangadex.org/manga/33009",
+  "last_updated": "March 18, 2021 10:56:00 UTC",
   "matches": [
-    {
-      "id": 28359,
-      "title": "Boku ga Utau to Kimi wa Warau kara",
-      "score": 0.796,
-      "r18": false
-    },
-    {
-      "id": 12998,
-      "title": "Fushigi na Hito",
-      "score": 0.796,
-      "r18": false
-    },
-    {
-      "id": 4824,
-      "title": "Rabu Kare - Gokujou Men Dokuhon!",
-      "score": 0.794,
-      "r18": false
-    },
-    {
-      "id": 16007,
-      "title": "Present",
-      "score": 0.789,
-      "r18": false
-    },
     {
       "id": 9191,
       "title": "Nagatachou Strawberry",
-      "score": 0.782,
-      "r18": false
+      "score": 0.34,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 3082,
-      "title": "Get Love!! ~Field no Ouji-sama~",
-      "score": 0.781,
-      "r18": false
-    },
-    {
-      "id": 6082,
-      "title": "Yume Miru Happa",
-      "score": 0.781,
-      "r18": false
-    },
-    {
-      "id": 3453,
-      "title": "Hizamazuite Ai wo Chikae",
-      "score": 0.778,
-      "r18": false
-    },
-    {
-      "id": 52958,
-      "title": "I&rsquo;m the Villainess, but the Capture Targets Are Too Abnormal",
-      "score": 0.776,
-      "r18": false
-    },
-    {
-      "id": 5961,
-      "title": "Missing Piece",
-      "score": 0.775,
-      "r18": false
-    },
-    {
-      "id": 6862,
-      "title": "Bokura wa Itsumo",
-      "score": 0.775,
-      "r18": false
-    },
-    {
-      "id": 11867,
-      "title": "Hotarubi no Mori e",
-      "score": 0.774,
-      "r18": false
-    },
-    {
-      "id": 5140,
-      "title": "Houou Gakuen Misoragumi",
-      "score": 0.774,
-      "r18": false
-    },
-    {
-      "id": 3133,
-      "title": "Shanimuni Go",
-      "score": 0.773,
-      "r18": false
-    },
-    {
-      "id": 14320,
-      "title": "Seishun Otome Banchou!",
-      "score": 0.77,
-      "r18": false
-    },
-    {
-      "id": 1899,
-      "title": "His and Her Circumstances",
-      "score": 0.77,
-      "r18": false
-    },
-    {
-      "id": 5988,
-      "title": "Itazura na Kiss",
-      "score": 0.77,
-      "r18": false
+      "id": 2043,
+      "title": "Random Walk",
+      "score": 0.331,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 2136,
       "title": "Shite, Okeba Yokatta Koukai",
-      "score": 0.769,
-      "r18": false
-    },
-    {
-      "id": 12037,
-      "title": "Rockin' \u2605 Heaven",
-      "score": 0.767,
-      "r18": false
+      "score": 0.33,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 2882,
       "title": "Koi Suta",
-      "score": 0.767,
-      "r18": false
+      "score": 0.327,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
-      "id": 1919,
-      "title": "Hoshi wa Utau",
-      "score": 0.765,
-      "r18": false
+      "id": 2224,
+      "title": "Waraenai Riyuu",
+      "score": 0.325,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 490,
-      "title": "Boku no Hatsukoi o Kimi ni Sasagu",
-      "score": 0.764,
-      "r18": false
+      "id": 4943,
+      "title": "Chat",
+      "score": 0.325,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 11788,
-      "title": "Kimi to Kiss Shite Sono Ato de",
-      "score": 0.764,
-      "r18": false
+      "id": 16432,
+      "title": "Suki Nante Ienai",
+      "score": 0.325,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 3303,
+      "title": "Onegai, Sensei",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5382,
+      "title": "Tobenai Tori",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
+    },
+    {
+      "id": 12998,
+      "title": "Fushigi na Hito",
+      "score": 0.319,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 55932,
+      "title": "Bodaiju",
+      "score": 0.319,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 10327,
       "title": "Caramel Milk Tea",
-      "score": 0.762,
-      "r18": false
+      "score": 0.317,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "pl"
+      ]
     },
     {
-      "id": 491,
-      "title": "Ao Haru Ride",
-      "score": 0.762,
-      "r18": false
+      "id": 3380,
+      "title": "Ai no Kotoba",
+      "score": 0.316,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3462,
+      "title": "Koukou Debut",
+      "score": 0.315,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14751,
+      "title": "Ijiwaru Houteishiki",
+      "score": 0.314,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1544,
+      "title": "Oretachi ni Ai wa Nai",
+      "score": 0.313,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1919,
+      "title": "Hoshi wa Utau",
+      "score": 0.313,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3396,
+      "title": "Bye-Bye, Little",
+      "score": 0.313,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20865,
+      "title": "Moekare wa Orenji-iro",
+      "score": 0.313,
+      "r18": false,
+      "languages": [
+        "it",
+        "tr"
+      ]
+    },
+    {
+      "id": 11788,
+      "title": "Kimi to Kiss Shite Sono Ato de",
+      "score": 0.313,
+      "r18": false,
+      "languages": [
+        "it"
+      ]
+    },
+    {
+      "id": 4166,
+      "title": "Korosareru nara, Isso Sakura no Ki no Shita de",
+      "score": 0.313,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "ua"
+      ]
+    },
+    {
+      "id": 9232,
+      "title": "W Pinch!!",
+      "score": 0.312,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2637,
+      "title": "Atashi wa Bambi",
+      "score": 0.312,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "bg"
+      ]
+    },
+    {
+      "id": 10939,
+      "title": "I Love You Baby",
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1973,
+      "title": "otona&hearts;pink",
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     }
   ]
 }

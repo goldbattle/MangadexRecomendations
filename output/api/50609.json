@@ -1,20 +1,48 @@
 {
   "id": 50609,
   "title": "World's End Harem - Semi-Colored Edition",
-  "url": "https://api.mangadex.org/v2/manga/50609",
-  "last_updated": "February 05, 2021 08:26:24 UTC",
+  "url": "https://mangadex.org/manga/50609",
+  "last_updated": "March 18, 2021 13:23:01 UTC",
   "matches": [
     {
-      "id": 471,
-      "title": "Taboo-Tattoo",
-      "score": 0.69,
-      "r18": false
+      "id": 39460,
+      "title": "Otome no Harawata Hoshi no Iro",
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "id"
+      ]
     },
     {
       "id": 13681,
       "title": "Domestic na Kanojo",
-      "score": 0.688,
-      "r18": false
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "th",
+        "mx",
+        "gb",
+        "it",
+        "sa",
+        "br",
+        "ru",
+        "id",
+        "fr",
+        "pl"
+      ]
+    },
+    {
+      "id": 471,
+      "title": "Taboo-Tattoo",
+      "score": 0.126,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     }
   ]
 }

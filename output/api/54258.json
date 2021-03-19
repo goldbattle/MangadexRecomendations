@@ -1,134 +1,210 @@
 {
   "id": 54258,
   "title": "Everyday Every Night",
-  "url": "https://api.mangadex.org/v2/manga/54258",
-  "last_updated": "March 12, 2021 20:23:23 UTC",
+  "url": "https://mangadex.org/manga/54258",
+  "last_updated": "March 18, 2021 13:53:29 UTC",
   "matches": [
-    {
-      "id": 6405,
-      "title": "Cantarella",
-      "score": 0.703,
-      "r18": false
-    },
-    {
-      "id": 37395,
-      "title": "The View Beyond",
-      "score": 0.689,
-      "r18": false
-    },
-    {
-      "id": 21433,
-      "title": "Mahouka Koukou no Rettousei - Double Seven-hen",
-      "score": 0.685,
-      "r18": false
-    },
-    {
-      "id": 2132,
-      "title": "After School Nightmare",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 11384,
-      "title": "Return",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 2227,
-      "title": "Six Half",
-      "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 4823,
-      "title": "Kiken Junai D.N.A.",
-      "score": 0.671,
-      "r18": false
-    },
-    {
-      "id": 10197,
-      "title": "Mahouka Koukou no Rettousei - Kyuukousen-hen",
-      "score": 0.67,
-      "r18": false
-    },
-    {
-      "id": 1980,
-      "title": "Vampire Knight",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 8149,
-      "title": "True Love",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 7887,
-      "title": "Nekoka Danshi no Shitsukekata",
-      "score": 0.652,
-      "r18": false
-    },
     {
       "id": 13160,
       "title": "Yukimura-sensei to Kei-kun",
-      "score": 0.652,
-      "r18": false
+      "score": 0.325,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 25767,
       "title": "Lost Child",
-      "score": 0.428,
-      "r18": false
+      "score": 0.322,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 12853,
       "title": "Haikei, Niisan-sama",
-      "score": 0.415,
-      "r18": false
+      "score": 0.292,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29410,
       "title": "Kamakiri",
-      "score": 0.375,
-      "r18": false
-    },
-    {
-      "id": 4833,
-      "title": "Momoyama Kyoudai",
-      "score": 0.374,
-      "r18": false
+      "score": 0.265,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 1269,
       "title": "The Flowers of Evil",
-      "score": 0.365,
-      "r18": false
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 1161,
-      "title": "Shiro no Eden",
-      "score": 0.325,
-      "r18": false
+      "id": 8149,
+      "title": "True Love",
+      "score": 0.263,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "br",
+        "hu"
+      ]
+    },
+    {
+      "id": 37395,
+      "title": "The View Beyond",
+      "score": 0.246,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 4833,
+      "title": "Momoyama Kyoudai",
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 7887,
+      "title": "Nekoka Danshi no Shitsukekata",
+      "score": 0.216,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 23020,
       "title": "Siscon Ani to Brocon Imouto ga Shoujiki ni Nattara",
-      "score": 0.319,
-      "r18": false
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it",
+        "de",
+        "ru",
+        "id",
+        "mx",
+        "tr"
+      ]
     },
     {
-      "id": 3419,
-      "title": "Zero",
-      "score": 0.295,
-      "r18": false
+      "id": 1161,
+      "title": "Shiro no Eden",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 58997,
       "title": "La Partita",
-      "score": 0.24,
-      "r18": false
+      "score": 0.213,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6405,
+      "title": "Cantarella",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 4823,
+      "title": "Kiken Junai D.N.A.",
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2132,
+      "title": "After School Nightmare",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3419,
+      "title": "Zero",
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21433,
+      "title": "Mahouka Koukou no Rettousei - Double Seven-hen",
+      "score": 0.153,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 10197,
+      "title": "Mahouka Koukou no Rettousei - Kyuukousen-hen",
+      "score": 0.153,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 11384,
+      "title": "Return",
+      "score": 0.152,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1980,
+      "title": "Vampire Knight",
+      "score": 0.147,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "bg",
+        "pl"
+      ]
     }
   ]
 }

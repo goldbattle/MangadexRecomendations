@@ -1,26 +1,31 @@
 {
   "id": 55057,
   "title": "Heal &amp; Squeeze",
-  "url": "https://api.mangadex.org/v2/manga/55057",
-  "last_updated": "March 12, 2021 20:33:08 UTC",
+  "url": "https://mangadex.org/manga/55057",
+  "last_updated": "March 18, 2021 14:00:10 UTC",
   "matches": [
-    {
-      "id": 21678,
-      "title": "Assassin's Pride",
-      "score": 0.205,
-      "r18": false
-    },
     {
       "id": 33385,
       "title": "Kyuuketsu! Sakura-chan",
-      "score": 0.172,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20563,
       "title": "Melancholia",
-      "score": 0.073,
-      "r18": false
+      "score": 0.061,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "vn",
+        "tr",
+        "hu",
+        "fr"
+      ]
     }
   ]
 }

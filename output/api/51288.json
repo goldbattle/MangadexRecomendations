@@ -1,158 +1,254 @@
 {
   "id": 51288,
   "title": "Bokura no Tsuzuki",
-  "url": "https://api.mangadex.org/v2/manga/51288",
-  "last_updated": "February 05, 2021 12:05:28 UTC",
+  "url": "https://mangadex.org/manga/51288",
+  "last_updated": "March 18, 2021 13:28:42 UTC",
   "matches": [
     {
-      "id": 15274,
-      "title": "Chikan Diary",
-      "score": 0.718,
-      "r18": false
-    },
-    {
-      "id": 4557,
-      "title": "Mousou Cherry",
-      "score": 0.713,
-      "r18": false
-    },
-    {
-      "id": 37420,
-      "title": "Suki, Kamo",
-      "score": 0.704,
-      "r18": false
-    },
-    {
-      "id": 7881,
-      "title": "Hanayome-kun",
-      "score": 0.691,
-      "r18": false
+      "id": 43037,
+      "title": "Border Line",
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 57206,
       "title": "Kumo no Ue de Kiss o Shiyou",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 7889,
-      "title": "Seito Kaichou ni Chuukoku",
-      "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 58895,
-      "title": "Love, Line, Arrow.",
-      "score": 0.675,
-      "r18": false
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6669,
       "title": "Chiisana Koi no Melody",
-      "score": 0.67,
-      "r18": false
-    },
-    {
-      "id": 1444,
-      "title": "NightS",
-      "score": 0.668,
-      "r18": false
+      "score": 0.284,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 20355,
       "title": "Kemono ni Namida",
-      "score": 0.66,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22738,
       "title": "Blue Sky Complex - Indigo Blue no Gradation (Doujinshi)",
-      "score": 0.653,
-      "r18": false
+      "score": 0.278,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 12535,
       "title": "Blue Sky Complex",
-      "score": 0.423,
-      "r18": false
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "tr",
+        "ct",
+        "fr"
+      ]
     },
     {
-      "id": 43037,
-      "title": "Border Line",
-      "score": 0.413,
-      "r18": false
+      "id": 58895,
+      "title": "Love, Line, Arrow.",
+      "score": 0.273,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 17702,
-      "title": "Tomodachi Ijou no Koto, Shitai",
-      "score": 0.386,
-      "r18": false
+      "id": 37420,
+      "title": "Suki, Kamo",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7874,
       "title": "Hidoku Shinai de",
-      "score": 0.38,
-      "r18": false
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl",
+        "br"
+      ]
     },
     {
-      "id": 15370,
-      "title": "Itoshi no Nekokke: Otaru-hen",
-      "score": 0.37,
-      "r18": false
+      "id": 17702,
+      "title": "Tomodachi Ijou no Koto, Shitai",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 45548,
       "title": "Koiiro Soft Focus",
-      "score": 0.369,
-      "r18": false
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 1415,
       "title": "Mousou Elektel",
-      "score": 0.368,
-      "r18": false
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "tr"
+      ]
     },
     {
-      "id": 13672,
-      "title": "Renai Saiban no Yukue",
-      "score": 0.36,
-      "r18": false
+      "id": 7889,
+      "title": "Seito Kaichou ni Chuukoku",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 3815,
       "title": "Katekyo!",
-      "score": 0.348,
-      "r18": false
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "tr",
+        "pl",
+        "gb"
+      ]
     },
     {
-      "id": 57055,
-      "title": "Seducing My Senior",
-      "score": 0.254,
-      "r18": false
+      "id": 13672,
+      "title": "Renai Saiban no Yukue",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4557,
+      "title": "Mousou Cherry",
+      "score": 0.242,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "hu"
+      ]
+    },
+    {
+      "id": 15370,
+      "title": "Itoshi no Nekokke: Otaru-hen",
+      "score": 0.235,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7881,
+      "title": "Hanayome-kun",
+      "score": 0.235,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 15274,
+      "title": "Chikan Diary",
+      "score": 0.212,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 55418,
       "title": "Warui Series Extra",
-      "score": 0.237,
-      "r18": false
-    },
-    {
-      "id": 24424,
-      "title": "Omegaverse (Anthology)",
-      "score": 0.222,
-      "r18": false
+      "score": 0.206,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11138,
       "title": "Yasashiku Shinai de",
-      "score": 0.203,
-      "r18": false
+      "score": 0.177,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 24472,
-      "title": "Hidoku Shinai de Plus+",
-      "score": 0.203,
-      "r18": false
+      "id": 1444,
+      "title": "NightS",
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 58838,
+      "title": "Professor's Double Life",
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 57055,
+      "title": "Seducing My Senior",
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24424,
+      "title": "Omegaverse (Anthology)",
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     }
   ]
 }

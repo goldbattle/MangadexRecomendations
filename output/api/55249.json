@@ -1,158 +1,260 @@
 {
   "id": 55249,
   "title": "Hanami: International Love Story",
-  "url": "https://api.mangadex.org/v2/manga/55249",
-  "last_updated": "March 12, 2021 20:35:26 UTC",
+  "url": "https://mangadex.org/manga/55249",
+  "last_updated": "March 18, 2021 14:01:47 UTC",
   "matches": [
     {
       "id": 5155,
       "title": "Canvas2 ~Nijiiro no Sketch~",
-      "score": 0.344,
-      "r18": false
+      "score": 0.288,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7751,
       "title": "Masamune-kun no Revenge",
-      "score": 0.287,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr"
+      ]
     },
     {
       "id": 9674,
       "title": "Saenai Kanojo (Heroine) no Sodatekata",
-      "score": 0.287,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 15144,
       "title": "Hana Nochi Hare - Hanadan Next Season",
-      "score": 0.287,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "es",
+        "pl"
+      ]
     },
     {
       "id": 18906,
       "title": "Hoshino, Me o Tsubutte",
-      "score": 0.287,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 21161,
       "title": "Ore wo Suki Nano wa Omae Dake ka yo",
-      "score": 0.287,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "ru",
+        "fr"
+      ]
     },
     {
       "id": 37001,
       "title": "Shousetsu Toukou Saito o Riyou Shite Itara, Kurasu no Bishoujo ga Dokusha datta",
-      "score": 0.287,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "it"
+      ]
     },
     {
       "id": 58407,
       "title": "Matchmaking of the Amagami Household (Oneshot)",
-      "score": 0.287,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "ru",
+        "mx",
+        "id",
+        "br",
+        "gb",
+        "it",
+        "fr"
+      ]
     },
     {
       "id": 652,
       "title": "Honey Coming - Sweet Love Lesson",
-      "score": 0.276,
-      "r18": false
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1451,
       "title": "Akuma Jiten",
-      "score": 0.276,
-      "r18": false
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 3134,
       "title": "ToHeart2 ~colorful note~",
-      "score": 0.276,
-      "r18": false
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3833,
       "title": "Comic Party",
-      "score": 0.276,
-      "r18": false
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4662,
       "title": "THE iDOLM@STER Break!",
-      "score": 0.276,
-      "r18": false
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 4905,
       "title": "MuvLuv",
-      "score": 0.276,
-      "r18": false
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5146,
       "title": "Angel/Dust neo",
-      "score": 0.276,
-      "r18": false
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "pl",
+        "bg",
+        "gb"
+      ]
     },
     {
       "id": 5702,
       "title": "Omae no Gohoushi wa Sono Teido ka?",
-      "score": 0.276,
-      "r18": false
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5715,
       "title": "Shin Tenchi Muyou! Ryououki",
-      "score": 0.276,
-      "r18": false
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7708,
       "title": "Field\u2605Trip",
-      "score": 0.276,
-      "r18": false
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7910,
       "title": "Happy\u2605Lesson",
-      "score": 0.276,
-      "r18": false
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9930,
+      "title": "Oremonogatari x Nisekoi",
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 12112,
       "title": "Chocolate - Maid Cafe",
-      "score": 0.276,
-      "r18": false
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 14836,
       "title": "Tsujiura-san to Chupacabra",
-      "score": 0.276,
-      "r18": false
-    },
-    {
-      "id": 42275,
-      "title": "A Couple of Cuckoos",
-      "score": 0.276,
-      "r18": false
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "br"
+      ]
     },
     {
       "id": 252,
       "title": "ef - a fairy tale of the two.",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 542,
       "title": "Kami-sama no Memo-chou",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 738,
       "title": "LovePlus - Rinko Days",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "de",
+        "fr"
+      ]
     }
   ]
 }

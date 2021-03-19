@@ -1,44 +1,67 @@
 {
   "id": 55422,
   "title": "Night Maze",
-  "url": "https://api.mangadex.org/v2/manga/55422",
-  "last_updated": "March 12, 2021 20:37:38 UTC",
+  "url": "https://mangadex.org/manga/55422",
+  "last_updated": "March 18, 2021 14:03:13 UTC",
   "matches": [
     {
       "id": 22562,
       "title": "23:45 Re;",
-      "score": 0.42,
-      "r18": false
-    },
-    {
-      "id": 43410,
-      "title": "Angel Buddy",
-      "score": 0.289,
-      "r18": false
-    },
-    {
-      "id": 50628,
-      "title": "Kare to Obake to Ren'ai Shousetsuka",
-      "score": 0.275,
-      "r18": false
+      "score": 0.283,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 38707,
       "title": "A Night To Remember",
-      "score": 0.267,
-      "r18": false
+      "score": 0.179,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 57866,
-      "title": "Urban Legend",
-      "score": 0.181,
-      "r18": false
+      "id": 50628,
+      "title": "Kare to Obake to Ren'ai Shousetsuka",
+      "score": 0.17,
+      "r18": false,
+      "languages": [
+        "vn",
+        "gb"
+      ]
+    },
+    {
+      "id": 43410,
+      "title": "Angel Buddy",
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 47454,
       "title": "You Yao lai zhi hua zhong xian",
-      "score": 0.171,
-      "r18": false
+      "score": 0.124,
+      "r18": false,
+      "languages": [
+        "ru",
+        "mx"
+      ]
+    },
+    {
+      "id": 57866,
+      "title": "Urban Legend",
+      "score": 0.099,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

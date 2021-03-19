@@ -1,158 +1,240 @@
 {
   "id": 33470,
   "title": "Kamengoshi ni, Kiss",
-  "url": "https://api.mangadex.org/v2/manga/33470",
-  "last_updated": "February 10, 2021 12:38:34 UTC",
+  "url": "https://mangadex.org/manga/33470",
+  "last_updated": "March 18, 2021 10:59:51 UTC",
   "matches": [
     {
-      "id": 54984,
-      "title": "Love Trial",
-      "score": 0.675,
-      "r18": true
-    },
-    {
-      "id": 12337,
-      "title": "Bousou Kareshi",
-      "score": 0.667,
-      "r18": true
-    },
-    {
-      "id": 36482,
-      "title": "Sweet: Kare no Amai Amai Aji",
-      "score": 0.661,
-      "r18": true
-    },
-    {
-      "id": 55592,
-      "title": "Saikyou no Love Magic",
-      "score": 0.659,
-      "r18": true
-    },
-    {
-      "id": 10840,
-      "title": "Dakenai Jikan",
-      "score": 0.658,
-      "r18": true
-    },
-    {
-      "id": 11279,
-      "title": "Shiawase Cook",
-      "score": 0.657,
-      "r18": true
-    },
-    {
-      "id": 25912,
-      "title": "Ore no Ushiro ni Tatsuna!!",
-      "score": 0.655,
-      "r18": true
-    },
-    {
-      "id": 55066,
-      "title": "Kouya no Seifukuou",
-      "score": 0.651,
-      "r18": true
-    },
-    {
-      "id": 24998,
-      "title": "Retro BL (Anthology)",
-      "score": 0.65,
-      "r18": true
-    },
-    {
-      "id": 14486,
-      "title": "Aruhi Totsuzen Koi wa Kuru?!",
-      "score": 0.499,
-      "r18": true
+      "id": 38365,
+      "title": "Ai ni Naburareru",
+      "score": 0.383,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 37621,
       "title": "Mister Fiction",
-      "score": 0.495,
-      "r18": true
-    },
-    {
-      "id": 38365,
-      "title": "Ai ni Naburareru",
-      "score": 0.485,
-      "r18": true
-    },
-    {
-      "id": 29601,
-      "title": "Anata wa Iyarashii Hito",
-      "score": 0.482,
-      "r18": true
-    },
-    {
-      "id": 35368,
-      "title": "Suki Nante Iwantoite",
-      "score": 0.48,
-      "r18": true
+      "score": 0.383,
+      "r18": true,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 22111,
       "title": "Erito &Omega; wa Yoru ni Oborete",
-      "score": 0.475,
-      "r18": true
+      "score": 0.383,
+      "r18": true,
+      "languages": [
+        "vn",
+        "gb"
+      ]
     },
     {
-      "id": 43070,
-      "title": "Chou Dakaretai Otoko",
-      "score": 0.463,
-      "r18": true
+      "id": 14486,
+      "title": "Aruhi Totsuzen Koi wa Kuru?!",
+      "score": 0.383,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 35368,
+      "title": "Suki Nante Iwantoite",
+      "score": 0.383,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 55071,
       "title": "Erotic M",
-      "score": 0.462,
-      "r18": true
+      "score": 0.383,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 43070,
+      "title": "Chou Dakaretai Otoko",
+      "score": 0.383,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 40842,
       "title": "Jun'ai Dropout",
-      "score": 0.456,
-      "r18": true
+      "score": 0.383,
+      "r18": true,
+      "languages": [
+        "gb",
+        "fr",
+        "mx"
+      ]
     },
     {
       "id": 26116,
       "title": "Fuyushirazu no Koi",
-      "score": 0.445,
-      "r18": true
-    },
-    {
-      "id": 37707,
-      "title": "Koishiki Kaikyuu",
-      "score": 0.44,
-      "r18": true
-    },
-    {
-      "id": 55188,
-      "title": "Ore-sama Tengoku!",
-      "score": 0.412,
-      "r18": true
-    },
-    {
-      "id": 16986,
-      "title": "Ou-sama no Koi Asobi",
-      "score": 0.403,
-      "r18": true
+      "score": 0.383,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 55060,
       "title": "Ore wa Koi no Haou-sama",
-      "score": 0.399,
-      "r18": true
+      "score": 0.287,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19670,
+      "title": "Color Recipe",
+      "score": 0.287,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55188,
+      "title": "Ore-sama Tengoku!",
+      "score": 0.287,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37534,
+      "title": "Kishidou Kurabu",
+      "score": 0.287,
+      "r18": true,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 31361,
       "title": "Choukyou Kakusei BL",
-      "score": 0.394,
-      "r18": true
+      "score": 0.287,
+      "r18": true,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
-      "id": 53263,
-      "title": "Kimi to Tsugai ni Narenai Riyuu",
-      "score": 0.393,
-      "r18": true
+      "id": 16986,
+      "title": "Ou-sama no Koi Asobi",
+      "score": 0.287,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 38401,
+      "title": "Kyokan Hunter",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 38261,
+      "title": "Tenshi-kun!",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 42693,
+      "title": "Dear Signal",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 27562,
+      "title": "Yoru to Asa no Uta Ec",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 26020,
+      "title": "Tokyo Boy Meets Country",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29797,
+      "title": "Fuck Buddy",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 38998,
+      "title": "Yakuza wo Shibatte Ii Desu ka",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55546,
+      "title": "Ore-sama wa Koi no Dorei",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20399,
+      "title": "Mayonaka Love Alliance",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 30394,
+      "title": "Momichupa Oppabu Time",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     }
   ]
 }

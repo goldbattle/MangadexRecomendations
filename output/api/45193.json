@@ -1,146 +1,214 @@
 {
   "id": 45193,
   "title": "Kore mo Shigoto Desu",
-  "url": "https://api.mangadex.org/v2/manga/45193",
-  "last_updated": "February 11, 2021 20:21:48 UTC",
+  "url": "https://mangadex.org/manga/45193",
+  "last_updated": "March 18, 2021 12:37:42 UTC",
   "matches": [
-    {
-      "id": 55120,
-      "title": "Usagi to Ookami no Shinshikyoutei",
-      "score": 0.695,
-      "r18": false
-    },
-    {
-      "id": 15797,
-      "title": "Hisho to Shachou no Himitsugoto",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 53109,
-      "title": "Outside Flower",
-      "score": 0.668,
-      "r18": false
-    },
-    {
-      "id": 16040,
-      "title": "Joushi to Ore no Himitsu",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 7922,
-      "title": "Doushitemo Furetakunai",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 10213,
-      "title": "Otodokemono Desu!",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 10875,
-      "title": "Koi wo Shimashou",
-      "score": 0.658,
-      "r18": false
-    },
     {
       "id": 19858,
       "title": "Second Life",
-      "score": 0.48,
-      "r18": false
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 33318,
       "title": "Stance Reverse",
-      "score": 0.462,
-      "r18": false
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 24004,
       "title": "Renai Sousa",
-      "score": 0.425,
-      "r18": false
-    },
-    {
-      "id": 53844,
-      "title": "Toiki ni Furete",
-      "score": 0.424,
-      "r18": false
-    },
-    {
-      "id": 44491,
-      "title": "Gaps",
-      "score": 0.419,
-      "r18": false
-    },
-    {
-      "id": 20638,
-      "title": "Yume Miru Seiza",
-      "score": 0.4,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 46019,
       "title": "Love Pheromone",
-      "score": 0.4,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 19131,
-      "title": "Takashima Kouichirou no Risou no Koibito",
-      "score": 0.399,
-      "r18": false
+      "id": 44491,
+      "title": "Gaps",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 59007,
-      "title": "Jinsei wa Bara Iro Da",
-      "score": 0.381,
-      "r18": false
+      "id": 20638,
+      "title": "Yume Miru Seiza",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 24749,
       "title": "1/2 Cigarette",
-      "score": 0.359,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "pl",
+        "it",
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 15797,
+      "title": "Hisho to Shachou no Himitsugoto",
+      "score": 0.285,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59007,
+      "title": "Jinsei wa Bara Iro Da",
+      "score": 0.276,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19131,
+      "title": "Takashima Kouichirou no Risou no Koibito",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 53844,
+      "title": "Toiki ni Furete",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55120,
+      "title": "Usagi to Ookami no Shinshikyoutei",
+      "score": 0.261,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7922,
+      "title": "Doushitemo Furetakunai",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
     },
     {
       "id": 57584,
       "title": "Soredemo Mata Asa ga Kute Koiwosuru",
-      "score": 0.357,
-      "r18": false
-    },
-    {
-      "id": 56035,
-      "title": "BOUNDARY",
-      "score": 0.336,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 39112,
       "title": "Mada Ai ga Tarinai",
-      "score": 0.334,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 39106,
-      "title": "Don't Cry My Baby",
-      "score": 0.294,
-      "r18": false
+      "id": 16040,
+      "title": "Joushi to Ore no Himitsu",
+      "score": 0.237,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 39152,
-      "title": "Dancing With The Devil",
-      "score": 0.261,
-      "r18": false
+      "id": 10875,
+      "title": "Koi wo Shimashou",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53109,
+      "title": "Outside Flower",
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 55340,
       "title": "Into It",
-      "score": 0.261,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 39152,
+      "title": "Dancing With The Devil",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10213,
+      "title": "Otodokemono Desu!",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 39106,
+      "title": "Don't Cry My Baby",
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     }
   ]
 }

@@ -2,49 +2,59 @@
   "id": 29529,
   "title": "Shakaijin Yuri Anthology",
   "url": "https://mangadex.org/manga/29529",
-  "last_updated": "January 13, 2021 06:56:23 UTC",
+  "last_updated": "March 18, 2021 10:26:59 UTC",
   "matches": [
     {
       "id": 16290,
       "title": "Watashi no Muchi na Watashi no Michi",
-      "score": 0.656,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 30315,
-      "title": "Her Shim-Cheong",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 59299,
-      "title": "Yuri-Kagi",
-      "score": 0.314,
-      "r18": false
-    },
-    {
-      "id": 55081,
-      "title": "After the Curtain Call",
-      "score": 0.295,
-      "r18": false
-    },
-    {
-      "id": 54043,
-      "title": "Blithe",
-      "score": 0.288,
-      "r18": false
-    },
-    {
-      "id": 53114,
-      "title": "Align (GL)",
-      "score": 0.268,
-      "r18": false
+      "id": 55433,
+      "title": "The Girl That Wants To Become Cuter, and the Clothing Shop Woman",
+      "score": 0.228,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 45711,
       "title": "Predawn Girls",
-      "score": 0.24,
-      "r18": false
+      "score": 0.213,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 55081,
+      "title": "After the Curtain Call",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 30315,
+      "title": "Her Shim-Cheong",
+      "score": 0.177,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
     }
   ]
 }

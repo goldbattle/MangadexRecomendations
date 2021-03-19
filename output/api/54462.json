@@ -1,158 +1,257 @@
 {
   "id": 54462,
   "title": "Kowasugiru: Too Scary Anthology, ft. Falling apart",
-  "url": "https://api.mangadex.org/v2/manga/54462",
-  "last_updated": "March 12, 2021 20:25:55 UTC",
+  "url": "https://mangadex.org/manga/54462",
+  "last_updated": "March 18, 2021 13:55:11 UTC",
   "matches": [
     {
       "id": 1983,
       "title": "Mimi no Kaidan",
-      "score": 0.233,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "fr",
+        "hu"
+      ]
+    },
+    {
+      "id": 40581,
+      "title": "A, Yoru ga Akeru yo.",
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "cn"
+      ]
     },
     {
       "id": 6422,
       "title": "WORLDS - Fujisaki Ryu Tanpenshuu",
-      "score": 0.175,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29291,
       "title": "Beyond the Bad Dream...",
-      "score": 0.175,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 36986,
       "title": "H.P. Lovecraft's The Outsider and Other Stories",
-      "score": 0.175,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 45253,
       "title": "Junji Ito: A Study From the Abyss of Horror",
-      "score": 0.175,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 52872,
       "title": "Extreme Fear",
-      "score": 0.175,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5555,
       "title": "Thus Spoke Kishibe Rohan",
-      "score": 0.14,
-      "r18": false
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "br",
+        "id",
+        "mx",
+        "fr",
+        "ru"
+      ]
     },
     {
       "id": 9329,
       "title": "Ma no Kakera",
-      "score": 0.14,
-      "r18": false
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 13369,
       "title": "Neo Parasyte",
-      "score": 0.14,
-      "r18": false
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 15689,
       "title": "Neo Parasyte F",
-      "score": 0.14,
-      "r18": false
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "fr"
+      ]
+    },
+    {
+      "id": 58301,
+      "title": "Jyoudo Ruru Tanpenshuu: Jigoku Shiki",
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "cn"
+      ]
     },
     {
       "id": 1430,
       "title": "Umineko no Naku Koro ni Tsubasa",
-      "score": 0.117,
-      "r18": false
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2773,
       "title": "Higurashi no Naku Koro ni - Kataribanashi-hen",
-      "score": 0.117,
-      "r18": false
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5617,
       "title": "Byakuya Zaushi",
-      "score": 0.117,
-      "r18": false
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 16301,
       "title": "Yoru no Uta",
-      "score": 0.117,
-      "r18": false
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 17836,
       "title": "Danganronpa 1&amp;2 Comic Anthology",
-      "score": 0.117,
-      "r18": false
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 18607,
       "title": "BL of the Dead (Anthology)",
-      "score": 0.117,
-      "r18": false
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 31448,
       "title": "Shuuen:Parallel - Shuuen no Shiori Koushiki Anthology",
-      "score": 0.117,
-      "r18": false
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "br"
+      ]
     },
     {
       "id": 35408,
       "title": "Gakuen Densetsu - Hasami Onna",
-      "score": 0.117,
-      "r18": false
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 41458,
       "title": "Touhou - Mugamubiru (Doujinshi)",
-      "score": 0.117,
-      "r18": false
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 3669,
       "title": "Rakuen",
-      "score": 0.1,
-      "r18": false
+      "score": 0.085,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4261,
       "title": "Nickelodeon",
-      "score": 0.1,
-      "r18": false
+      "score": 0.085,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "tr",
+        "fr",
+        "pl",
+        "br",
+        "ru"
+      ]
     },
     {
       "id": 5496,
       "title": "Wangan JUNGLE",
-      "score": 0.1,
-      "r18": false
+      "score": 0.085,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 9871,
       "title": "2011 Mystery Short Webtoons",
-      "score": 0.1,
-      "r18": false
-    },
-    {
-      "id": 20920,
-      "title": "Gakkou Gurashi! Anthology Comic: Kai",
-      "score": 0.1,
-      "r18": false
-    },
-    {
-      "id": 28048,
-      "title": "Gigi Goegoe",
-      "score": 0.1,
-      "r18": false
+      "score": 0.085,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     }
   ]
 }

@@ -2,49 +2,90 @@
   "id": 7369,
   "title": "Kechonpa",
   "url": "https://mangadex.org/manga/7369",
-  "last_updated": "March 14, 2021 16:43:21 UTC",
+  "last_updated": "March 18, 2021 06:48:29 UTC",
   "matches": [
     {
       "id": 34030,
       "title": "Risou no Tsuma no Takurami wa",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 39432,
+      "title": "Marielle Clarac's Engagement",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 28531,
       "title": "Ao no Haha",
       "score": 0.182,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 36256,
       "title": "Iwakutsuki Bukken no Yakuro-san",
       "score": 0.175,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "mx",
+        "ru",
+        "id"
+      ]
     },
     {
       "id": 6093,
       "title": "Saiyuki RELOAD",
-      "score": 0.14,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2797,
       "title": "Le Th&eacute;&acirc;tre de B",
-      "score": 0.132,
-      "r18": false
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "bg",
+        "tr",
+        "gb",
+        "pl",
+        "hu",
+        "it"
+      ]
     },
     {
       "id": 36510,
       "title": "My Lord, the Wolf Queen",
       "score": 0.108,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 43343,
       "title": "Phantom in the Twilight",
       "score": 0.093,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

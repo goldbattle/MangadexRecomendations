@@ -2,55 +2,76 @@
   "id": 21636,
   "title": "Mashira",
   "url": "https://mangadex.org/manga/21636",
-  "last_updated": "March 16, 2021 04:28:54 UTC",
+  "last_updated": "March 18, 2021 09:06:58 UTC",
   "matches": [
     {
       "id": 18813,
       "title": "House of Dolls",
-      "score": 0.278,
-      "r18": false
+      "score": 0.277,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 7327,
       "title": "Doctor Du Ming",
       "score": 0.257,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 13840,
       "title": "The Inferno in Bottles",
       "score": 0.257,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 9572,
       "title": "Drag-On Dragoon - Shi ni Itaru Aka",
       "score": 0.207,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "es"
+      ]
     },
     {
       "id": 20269,
       "title": "Full Metal Lady",
       "score": 0.207,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 13027,
       "title": "Wagamama Chie-chan",
-      "score": 0.2,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 6077,
       "title": "Arigatou",
-      "score": 0.2,
-      "r18": false
-    },
-    {
-      "id": 45960,
-      "title": "Boy's Abyss",
-      "score": 0.189,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     }
   ]
 }

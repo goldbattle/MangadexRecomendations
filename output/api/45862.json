@@ -1,140 +1,253 @@
 {
   "id": 45862,
   "title": "Tokyo Mew Mew Au Lait",
-  "url": "https://api.mangadex.org/v2/manga/45862",
-  "last_updated": "February 11, 2021 20:32:37 UTC",
+  "url": "https://mangadex.org/manga/45862",
+  "last_updated": "March 18, 2021 12:43:16 UTC",
   "matches": [
     {
       "id": 4665,
       "title": "Love Wan!",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 58324,
       "title": "Papamupa",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 26957,
+      "title": "Okyu no Trinity",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "it",
+        "id",
+        "tr"
+      ]
     },
     {
       "id": 41012,
       "title": "My Little Pony - Tomodachi wa Mahou",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8694,
       "title": "Rental Magica",
-      "score": 0.151,
-      "r18": false
+      "score": 0.124,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 47224,
       "title": "Planet Nya Nya Nya~",
-      "score": 0.151,
-      "r18": false
+      "score": 0.124,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 59700,
       "title": "Witch War After a Kiss",
-      "score": 0.151,
-      "r18": false
+      "score": 0.124,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 56080,
       "title": "Rainbow Bridge Watchman",
-      "score": 0.142,
-      "r18": false
-    },
-    {
-      "id": 41419,
-      "title": "The Reincarnated Young Lady Aims to Be an Adventurer!",
-      "score": 0.136,
-      "r18": false
-    },
-    {
-      "id": 8472,
-      "title": "Hakkenden: Touhou Hakken Ibun",
-      "score": 0.124,
-      "r18": false
-    },
-    {
-      "id": 16801,
-      "title": "In Another World, I'm Called: the Black Healer",
-      "score": 0.124,
-      "r18": false
-    },
-    {
-      "id": 23013,
-      "title": "The Vengeful White Cat Lounging on the Dragon King's Lap",
-      "score": 0.124,
-      "r18": false
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 38088,
       "title": "May I Please Ask You Just One Last Thing?",
-      "score": 0.124,
-      "r18": false
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "pl",
+        "fr",
+        "tr",
+        "ru"
+      ]
+    },
+    {
+      "id": 41419,
+      "title": "The Reincarnated Young Lady Aims to Be an Adventurer!",
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 8472,
+      "title": "Hakkenden: Touhou Hakken Ibun",
+      "score": 0.101,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 16801,
+      "title": "In Another World, I'm Called: the Black Healer",
+      "score": 0.101,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "fr",
+        "th",
+        "br",
+        "pl",
+        "tr"
+      ]
+    },
+    {
+      "id": 23013,
+      "title": "The Vengeful White Cat Lounging on the Dragon King's Lap",
+      "score": 0.101,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru",
+        "th"
+      ]
     },
     {
       "id": 969,
       "title": "Kamisama Hajimemashita",
-      "score": 0.113,
-      "r18": false
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 33099,
       "title": "This Girl Is a Little Wild",
-      "score": 0.113,
-      "r18": false
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "es",
+        "fr"
+      ]
     },
     {
       "id": 35063,
       "title": "Dragon Knights",
-      "score": 0.113,
-      "r18": false
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 44636,
       "title": "The Undying Engagement Seal of the Doomed Witch and the Young Master Who Leapt Through Time",
-      "score": 0.113,
-      "r18": false
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 46603,
       "title": "The Youngest Princess",
-      "score": 0.113,
-      "r18": false
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "hu",
+        "fr"
+      ]
     },
     {
       "id": 3038,
       "title": "Kyou Kara Ma no Tsuku Jiyuugyou!",
-      "score": 0.105,
-      "r18": false
+      "score": 0.086,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 51342,
       "title": "Undercover Empress",
-      "score": 0.105,
-      "r18": false
+      "score": 0.086,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 42731,
       "title": "A False Confession",
-      "score": 0.097,
-      "r18": false
+      "score": 0.08,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "id",
+        "it",
+        "fr",
+        "tr"
+      ]
     },
     {
       "id": 59999,
       "title": "Save Me, Princess",
-      "score": 0.091,
-      "r18": false
+      "score": 0.074,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb"
+      ]
     },
     {
       "id": 45140,
       "title": "Oh My Ghost",
-      "score": 0.076,
-      "r18": false
+      "score": 0.062,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     }
   ]
 }

@@ -1,74 +1,121 @@
 {
   "id": 45813,
   "title": "Sketchy \u2605 Magical Girls 4koma",
-  "url": "https://api.mangadex.org/v2/manga/45813",
-  "last_updated": "February 11, 2021 20:31:51 UTC",
+  "url": "https://mangadex.org/manga/45813",
+  "last_updated": "March 18, 2021 12:42:52 UTC",
   "matches": [
     {
       "id": 27926,
       "title": "Watashi ni Tenshi ga Maiorita!",
-      "score": 0.386,
-      "r18": false
-    },
-    {
-      "id": 20046,
-      "title": "Ooya-san wa Shishunki!",
-      "score": 0.358,
-      "r18": false
-    },
-    {
-      "id": 3688,
-      "title": "Chitose Get You!!",
-      "score": 0.343,
-      "r18": false
-    },
-    {
-      "id": 29971,
-      "title": "Little President",
-      "score": 0.326,
-      "r18": false
-    },
-    {
-      "id": 47169,
-      "title": "Oshikake Twin Tail",
-      "score": 0.325,
-      "r18": false
+      "score": 0.34,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "ru",
+        "mx",
+        "cn"
+      ]
     },
     {
       "id": 22082,
       "title": "Alice or Alice",
-      "score": 0.322,
-      "r18": false
+      "score": 0.283,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 52574,
-      "title": "The Exorcist and the Collared Demon",
-      "score": 0.32,
-      "r18": false
+      "id": 3688,
+      "title": "Chitose Get You!!",
+      "score": 0.283,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 47169,
+      "title": "Oshikake Twin Tail",
+      "score": 0.283,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20046,
+      "title": "Ooya-san wa Shishunki!",
+      "score": 0.283,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 12661,
       "title": "Gochuumon wa Usagi desu ka?",
-      "score": 0.319,
-      "r18": false
+      "score": 0.242,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "br"
+      ]
     },
     {
-      "id": 47560,
-      "title": "30-sai made Doutei de Itara Mahou Shoujo ni Narimashita",
-      "score": 0.235,
-      "r18": false
+      "id": 52574,
+      "title": "The Exorcist and the Collared Demon",
+      "score": 0.242,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb"
+      ]
     },
     {
-      "id": 58192,
-      "title": "Isekai Yuusha Mizuki",
-      "score": 0.208,
-      "r18": false
+      "id": 29971,
+      "title": "Little President",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 34055,
       "title": "Maou no Kawaii Yamada wa Yoiko",
-      "score": 0.204,
-      "r18": false
+      "score": 0.154,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "es"
+      ]
+    },
+    {
+      "id": 47560,
+      "title": "30-sai made Doutei de Itara Mahou Shoujo ni Narimashita",
+      "score": 0.153,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 58192,
+      "title": "Isekai Yuusha Mizuki",
+      "score": 0.13,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "br"
+      ]
     }
   ]
 }

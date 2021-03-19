@@ -1,158 +1,250 @@
 {
   "id": 46033,
   "title": "Lotus Eater",
-  "url": "https://api.mangadex.org/v2/manga/46033",
-  "last_updated": "February 11, 2021 20:35:26 UTC",
+  "url": "https://mangadex.org/manga/46033",
+  "last_updated": "March 18, 2021 12:44:42 UTC",
   "matches": [
     {
-      "id": 37280,
-      "title": "Kimi no Ai wa Mienikui",
-      "score": 0.787,
-      "r18": false
+      "id": 14950,
+      "title": "Himitsugoto",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 58353,
-      "title": "Kiss to Kirai no Hantai",
-      "score": 0.783,
-      "r18": false
+      "id": 19869,
+      "title": "Paradigm Shift",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
-      "id": 27578,
-      "title": "Boku wa Boku Narini",
-      "score": 0.782,
-      "r18": false
+      "id": 55978,
+      "title": "Love Wars",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 16544,
-      "title": "ULTRAS",
-      "score": 0.774,
-      "r18": false
+      "id": 4852,
+      "title": "Koi to wa Yobenai",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 27828,
-      "title": "Uminari",
-      "score": 0.768,
-      "r18": false
+      "id": 12706,
+      "title": "Hishoken!",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 24002,
-      "title": "Anata no Tonarini Suwarasete",
-      "score": 0.767,
-      "r18": false
+      "id": 25966,
+      "title": "Joukakei Kareshi",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "it"
+      ]
     },
     {
-      "id": 27658,
-      "title": "Takaramono",
-      "score": 0.765,
-      "r18": false
+      "id": 15014,
+      "title": "Haru no Nioi",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 36148,
-      "title": "Ai no Kotoba o Uragaeshi",
-      "score": 0.764,
-      "r18": false
+      "id": 32610,
+      "title": "Motomete Yamanai",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 42641,
-      "title": "Subarashii Shitsuren",
-      "score": 0.761,
-      "r18": false
+      "id": 5234,
+      "title": "Tear Drop",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 7922,
-      "title": "Doushitemo Furetakunai",
-      "score": 0.761,
-      "r18": false
+      "id": 53086,
+      "title": "Egoism (Agawa Kouko)",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 37292,
-      "title": "Kimi to Iru Asu",
-      "score": 0.76,
-      "r18": false
+      "id": 12413,
+      "title": "Cafe\u0301 Latte Rhapsody",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "tr",
+        "it",
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 58208,
-      "title": "Kaerenain Da Yo",
-      "score": 0.76,
-      "r18": false
+      "id": 56390,
+      "title": "Shijou Senyuuritsu",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 16040,
-      "title": "Joushi to Ore no Himitsu",
-      "score": 0.76,
-      "r18": false
+      "id": 36813,
+      "title": "Otonari Biru ni Koi no Shisen",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 18995,
+      "title": "Tadaima, Okaeri",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "mx",
+        "pl"
+      ]
+    },
+    {
+      "id": 4793,
+      "title": "Kanashii Doubutsu",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 56167,
+      "title": "Open Air",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10561,
+      "title": "Kuma to Interi",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "tr",
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 36143,
+      "title": "Itsumo Anata no Koto Bakari",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20083,
+      "title": "Kimagure to Amagami",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 9798,
+      "title": "Ouji Hiroimashita",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 9969,
+      "title": "Byousoku Zero Mile",
+      "score": 0.384,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 13159,
+      "title": "Ame no Mukou, Kimi to",
+      "score": 0.375,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 58065,
       "title": "Honey Baby",
-      "score": 0.758,
-      "r18": false
+      "score": 0.371,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 25475,
-      "title": "Tanbishugi",
-      "score": 0.758,
-      "r18": false
-    },
-    {
-      "id": 55072,
-      "title": "Gekkou no Rankan ni Kuchinashi no Nioi",
-      "score": 0.757,
-      "r18": false
-    },
-    {
-      "id": 10923,
-      "title": "Kooporasu e Youkoso",
-      "score": 0.757,
-      "r18": false
+      "id": 10827,
+      "title": "Not/Love",
+      "score": 0.365,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 53530,
       "title": "Ai ga Aru kara",
-      "score": 0.756,
-      "r18": false
-    },
-    {
-      "id": 55064,
-      "title": "Ore-sama na Aitsu",
-      "score": 0.755,
-      "r18": false
-    },
-    {
-      "id": 26922,
-      "title": "Sweet Bitter Candy",
-      "score": 0.755,
-      "r18": false
-    },
-    {
-      "id": 26915,
-      "title": "Shinu hodo Suki",
-      "score": 0.755,
-      "r18": false
-    },
-    {
-      "id": 4673,
-      "title": "From Yesterday",
-      "score": 0.754,
-      "r18": false
-    },
-    {
-      "id": 15000,
-      "title": "Umibe no &Eacute;tranger",
-      "score": 0.751,
-      "r18": false
-    },
-    {
-      "id": 21928,
-      "title": "Ookami wo Karu Housoku",
-      "score": 0.749,
-      "r18": false
-    },
-    {
-      "id": 31471,
-      "title": "Show ga Hanetara Aimashou",
-      "score": 0.748,
-      "r18": false
+      "score": 0.363,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

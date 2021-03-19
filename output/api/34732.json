@@ -1,32 +1,65 @@
 {
   "id": 34732,
   "title": "She Likes Homos, Not Me",
-  "url": "https://api.mangadex.org/v2/manga/34732",
-  "last_updated": "February 10, 2021 16:33:04 UTC",
+  "url": "https://mangadex.org/manga/34732",
+  "last_updated": "March 18, 2021 11:10:22 UTC",
   "matches": [
-    {
-      "id": 11492,
-      "title": "Musume no Iede",
-      "score": 0.698,
-      "r18": false
-    },
     {
       "id": 1769,
       "title": "Umibe no Onnanoko",
-      "score": 0.67,
-      "r18": false
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ir"
+      ]
     },
     {
       "id": 13027,
       "title": "Wagamama Chie-chan",
-      "score": 0.395,
-      "r18": false
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 11492,
+      "title": "Musume no Iede",
+      "score": 0.236,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 45960,
+      "title": "Boy's Abyss",
+      "score": 0.204,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "mx",
+        "it",
+        "fr",
+        "id",
+        "tr",
+        "ru",
+        "ir",
+        "sa"
+      ]
     },
     {
       "id": 1201,
       "title": "Digopuri",
-      "score": 0.34,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

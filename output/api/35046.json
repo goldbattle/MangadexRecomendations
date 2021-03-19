@@ -1,26 +1,35 @@
 {
   "id": 35046,
   "title": "Story of the Demon Lord Who Wants to Yuri-Marry the Hero.",
-  "url": "https://api.mangadex.org/v2/manga/35046",
-  "last_updated": "February 10, 2021 16:37:50 UTC",
+  "url": "https://mangadex.org/manga/35046",
+  "last_updated": "March 18, 2021 11:12:59 UTC",
   "matches": [
     {
       "id": 55428,
       "title": "Crimson Yuri Party",
-      "score": 0.224,
-      "r18": false
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 18610,
       "title": "Daily Witch",
-      "score": 0.187,
-      "r18": false
+      "score": 0.173,
+      "r18": false,
+      "languages": [
+        "br"
+      ]
     },
     {
       "id": 31173,
       "title": "Yuri+Kanojo (Anthology)",
-      "score": 0.124,
-      "r18": false
+      "score": 0.115,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

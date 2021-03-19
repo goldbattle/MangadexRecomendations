@@ -2,157 +2,271 @@
   "id": 1101,
   "title": "Monster",
   "url": "https://mangadex.org/manga/1101",
-  "last_updated": "March 14, 2021 01:07:34 UTC",
+  "last_updated": "March 18, 2021 05:51:55 UTC",
   "matches": [
     {
       "id": 843,
       "title": "20th Century Boys",
       "score": 0.279,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 521,
       "title": "Shi ni Itaru Yamai",
       "score": 0.272,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 1915,
       "title": "Team Medical Dragon",
-      "score": 0.266,
-      "r18": false
+      "score": 0.265,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "pl"
+      ]
+    },
+    {
+      "id": 16787,
+      "title": "Fragile - Byourii Kishi Keiichirou no Shoken",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 10698,
       "title": "Lucifer no Migite",
       "score": 0.256,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29740,
       "title": "Parasyte Reversi",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "hk",
+        "vn",
+        "gb",
+        "it",
+        "mx"
+      ]
     },
     {
       "id": 14457,
       "title": "Black Out",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 29749,
       "title": "Red",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 72,
       "title": "Superior Day",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21979,
       "title": "Steins;Gate 0",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
     },
     {
       "id": 23607,
       "title": "Tantei no Tantei",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 4494,
       "title": "Litchi\u2606Hikari Club",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 40936,
       "title": "Pet",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 19459,
       "title": "Suzuki-san wa Tada Shizuka ni Kurashitai",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 7478,
       "title": "Montage",
       "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 1874,
-      "title": "Tobaku Mokushiroku Kaiji",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 1419,
-      "title": "Life Is Money",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 5853,
-      "title": "SWWEEET",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 1422,
-      "title": "Kokou no Hito",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 46735,
-      "title": "Dead Company",
-      "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 1494,
       "title": "City of Darkness",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "fr"
+      ]
+    },
+    {
+      "id": 1874,
+      "title": "Tobaku Mokushiroku Kaiji",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "br",
+        "ru",
+        "gb",
+        "es",
+        "fr"
+      ]
+    },
+    {
+      "id": 1419,
+      "title": "Life Is Money",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "de",
+        "it"
+      ]
+    },
+    {
+      "id": 5853,
+      "title": "SWWEEET",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "pl"
+      ]
+    },
+    {
+      "id": 1422,
+      "title": "Kokou no Hito",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx",
+        "hk",
+        "fr"
+      ]
+    },
+    {
+      "id": 46735,
+      "title": "Dead Company",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 21493,
       "title": "Butterfly Storage",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 12592,
       "title": "Hana to Uso to Makoto",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2096,
       "title": "Doll Star",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mn",
+        "gb",
+        "it"
+      ]
     },
     {
-      "id": 13746,
-      "title": "Tsugihagi na Kanojo",
+      "id": 9589,
+      "title": "Kasane",
       "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 23568,
-      "title": "Rurimiya Mugen Kobutsuten",
-      "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     }
   ]
 }

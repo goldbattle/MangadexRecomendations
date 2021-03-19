@@ -2,19 +2,26 @@
   "id": 1458,
   "title": "Mirai no Football",
   "url": "https://mangadex.org/manga/1458",
-  "last_updated": "March 14, 2021 01:13:47 UTC",
+  "last_updated": "March 18, 2021 05:55:04 UTC",
   "matches": [
     {
       "id": 12096,
       "title": "Chrono Monochrome",
       "score": 0.204,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 20905,
       "title": "Yu-Gi-Oh! -  Digital Colored Comics",
-      "score": 0.083,
-      "r18": false
+      "score": 0.082,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

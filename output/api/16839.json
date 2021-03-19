@@ -2,25 +2,42 @@
   "id": 16839,
   "title": "Good night, I love you.",
   "url": "https://mangadex.org/manga/16839",
-  "last_updated": "March 15, 2021 16:47:54 UTC",
+  "last_updated": "March 18, 2021 08:16:23 UTC",
   "matches": [
     {
       "id": 2797,
       "title": "Le Th&eacute;&acirc;tre de B",
       "score": 0.135,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "bg",
+        "tr",
+        "gb",
+        "pl",
+        "hu",
+        "it"
+      ]
     },
     {
       "id": 47568,
       "title": "Fuyu Fenrir no Itoshigo to Natta Watashi ga, Zetsubou kara Iyasareteiku Hanashi",
-      "score": 0.132,
-      "r18": false
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "th"
+      ]
     },
     {
       "id": 36510,
       "title": "My Lord, the Wolf Queen",
-      "score": 0.104,
-      "r18": false
+      "score": 0.103,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     }
   ]
 }

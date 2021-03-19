@@ -2,19 +2,30 @@
   "id": 1689,
   "title": "Enjokousai Bokumetsu Undou",
   "url": "https://mangadex.org/manga/1689",
-  "last_updated": "March 14, 2021 04:15:41 UTC",
+  "last_updated": "March 18, 2021 05:57:01 UTC",
   "matches": [
     {
       "id": 38738,
       "title": "Kimi ni Aisarete Itakatta",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "hk",
+        "ru"
+      ]
     },
     {
       "id": 282,
       "title": "Wolf Guy - Ookami no Monshou",
-      "score": 0.143,
-      "r18": false
+      "score": 0.142,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "it"
+      ]
     }
   ]
 }

@@ -1,158 +1,241 @@
 {
   "id": 34289,
   "title": "Okaeri Aureole",
-  "url": "https://api.mangadex.org/v2/manga/34289",
-  "last_updated": "February 10, 2021 16:26:21 UTC",
+  "url": "https://mangadex.org/manga/34289",
+  "last_updated": "March 18, 2021 11:06:40 UTC",
   "matches": [
     {
-      "id": 57572,
-      "title": "Nonke to Gachi no Osananajimi",
-      "score": 0.702,
-      "r18": false
-    },
-    {
-      "id": 24619,
-      "title": "Amai Kimi ga Suki",
-      "score": 0.687,
-      "r18": false
-    },
-    {
-      "id": 55981,
-      "title": "Hitomi no Mukougawa",
-      "score": 0.681,
-      "r18": false
-    },
-    {
-      "id": 47221,
-      "title": "Darling, I Love You!",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 47701,
-      "title": "When Our Names Match",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 25768,
-      "title": "Sweet vs. Home",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 53948,
-      "title": "Daikirai!",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 6807,
-      "title": "Tsumasaki ni Kourozu",
-      "score": 0.674,
-      "r18": false
-    },
-    {
-      "id": 37037,
-      "title": "Chou ni Naru Hi",
-      "score": 0.672,
-      "r18": false
-    },
-    {
-      "id": 58653,
-      "title": "Osananajimi no Kao ga Yosugite Sakaraenai",
-      "score": 0.671,
-      "r18": false
-    },
-    {
-      "id": 15822,
-      "title": "Let Dai",
-      "score": 0.67,
-      "r18": false
-    },
-    {
-      "id": 39340,
-      "title": "Uchi no Ouji Irimasen ka",
-      "score": 0.667,
-      "r18": false
-    },
-    {
-      "id": 18621,
-      "title": "Harete Bokutachi wa",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 14614,
-      "title": "Gakuen Heaven - Double Scramble",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 14540,
-      "title": "Close Your Eyes",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 16992,
-      "title": "Gakuen Heaven",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 50918,
-      "title": "Koi De Wa Nai to Omoitai",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 1933,
-      "title": "Seven Days",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 3401,
-      "title": "Sukusuku Otokonoko",
-      "score": 0.662,
-      "r18": false
-    },
-    {
-      "id": 21565,
-      "title": "Ao no Flag",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 37426,
-      "title": "Ginger Honey",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 56730,
-      "title": "Tonari no Usotsuki - Be Side",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 38144,
-      "title": "Sekai wa Temee de Mawatteru",
-      "score": 0.657,
-      "r18": false
-    },
-    {
-      "id": 10681,
-      "title": "Usotsuki Boyfriend",
-      "score": 0.657,
-      "r18": false
+      "id": 12460,
+      "title": "Aozora no Sunda Iro wa",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "pl"
+      ]
     },
     {
       "id": 27000,
       "title": "Kiss mo Shiranai Kuse ni",
-      "score": 0.656,
-      "r18": false
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14614,
+      "title": "Gakuen Heaven - Double Scramble",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 38341,
+      "title": "Me wa Kuchi Hodo ni Koi to Iu",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 57544,
+      "title": "Renai Houteishiki",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 27001,
+      "title": "Suki Dakara Kisushita no?",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 30404,
+      "title": "Natsu ni Mebuku wa Koi no Oto",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 36892,
+      "title": "Saiaku na Futari no Hajimari wa",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 57491,
+      "title": "Doberman Kinshirei!",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 16944,
+      "title": "Boku no Koi no Hanashi Himegoto",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "pl",
+        "it",
+        "gb"
+      ]
+    },
+    {
+      "id": 15884,
+      "title": "Yamete Kudasai, Mabushii Desu",
+      "score": 0.343,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 52769,
+      "title": "Hyena-kun wa Mitomenai",
+      "score": 0.341,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3401,
+      "title": "Sukusuku Otokonoko",
+      "score": 0.338,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 58653,
+      "title": "Osananajimi no Kao ga Yosugite Sakaraenai",
+      "score": 0.294,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 17346,
+      "title": "Koyubi wa Amaku Sasayaku",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 38144,
+      "title": "Sekai wa Temee de Mawatteru",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53216,
+      "title": "Unmei no Hito to Deaeru Koisuru Apuri",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24093,
+      "title": "Yugawara-kun wa Ooyamada Danshi Koukou de Moteru Houhou o Kangaeteita ga",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 36844,
+      "title": "Hirano to Kagiura",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 7880,
+      "title": "Love Me Baby",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 28452,
+      "title": "Tashiro-kun, Kimi tte Yatsu wa.",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 58914,
+      "title": "Fukou-kun wa Kiss Suru Shika Nai!",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 54869,
+      "title": "Furimuite Yukino-chan!",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 37145,
+      "title": "Tonari de Hanasaku Oto ga Shita",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 33862,
+      "title": "Otona Gokko",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

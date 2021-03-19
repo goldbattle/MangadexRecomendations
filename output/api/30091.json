@@ -2,43 +2,59 @@
   "id": 30091,
   "title": "Nameless Fruit",
   "url": "https://mangadex.org/manga/30091",
-  "last_updated": "January 13, 2021 12:46:04 UTC",
+  "last_updated": "March 18, 2021 10:31:41 UTC",
   "matches": [
     {
       "id": 15242,
       "title": "Lily Love",
-      "score": 0.352,
-      "r18": false
-    },
-    {
-      "id": 14685,
-      "title": "Fujiyuu Sekai",
-      "score": 0.281,
-      "r18": false
-    },
-    {
-      "id": 50367,
-      "title": "Shoujo Kageki Revue Starlight - Bonne Saint Valentin (Doujinshi)",
-      "score": 0.252,
-      "r18": false
-    },
-    {
-      "id": 58459,
-      "title": "Kill Switch",
-      "score": 0.25,
-      "r18": false
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "fr",
+        "it",
+        "hu",
+        "de"
+      ]
     },
     {
       "id": 17389,
       "title": "Transient Dreams of Transient Things",
-      "score": 0.237,
-      "r18": false
+      "score": 0.206,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 58459,
+      "title": "Kill Switch",
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx"
+      ]
+    },
+    {
+      "id": 50367,
+      "title": "Shoujo Kageki Revue Starlight - Bonne Saint Valentin (Doujinshi)",
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 34946,
       "title": "Tousaku Shoujo Shoukougun",
-      "score": 0.175,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

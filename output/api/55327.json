@@ -1,38 +1,35 @@
 {
   "id": 55327,
   "title": "Kibisuji ni Toga no Kamikizu",
-  "url": "https://api.mangadex.org/v2/manga/55327",
-  "last_updated": "March 12, 2021 20:36:25 UTC",
+  "url": "https://mangadex.org/manga/55327",
+  "last_updated": "March 18, 2021 14:02:26 UTC",
   "matches": [
     {
       "id": 58160,
       "title": "Kanzen Koufuku Darling",
-      "score": 0.234,
-      "r18": true
-    },
-    {
-      "id": 52882,
-      "title": "Quit Writing, Dear Author!",
-      "score": 0.23,
-      "r18": true
-    },
-    {
-      "id": 30329,
-      "title": "I Turned into a Girl and Turned on All the Knights! -I Need to Have Sex to Turn Back!-",
-      "score": 0.224,
-      "r18": true
+      "score": 0.16,
+      "r18": true,
+      "languages": [
+        "mx"
+      ]
     },
     {
       "id": 58856,
       "title": "Second Game (Cartman x Kyle)",
-      "score": 0.198,
-      "r18": true
+      "score": 0.137,
+      "r18": true,
+      "languages": [
+        "mx"
+      ]
     },
     {
-      "id": 18369,
-      "title": "Aijin Senzoku Ecstasy",
-      "score": 0.182,
-      "r18": true
+      "id": 52882,
+      "title": "Quit Writing, Dear Author!",
+      "score": 0.128,
+      "r18": true,
+      "languages": [
+        "mx"
+      ]
     }
   ]
 }

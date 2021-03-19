@@ -2,49 +2,65 @@
   "id": 57210,
   "title": "Second Departure",
   "url": "https://mangadex.org/manga/57210",
-  "last_updated": "March 13, 2021 00:35:24 UTC",
+  "last_updated": "March 18, 2021 14:18:10 UTC",
   "matches": [
     {
       "id": 10635,
       "title": "Ato Hitoiki de Ai",
       "score": 0.248,
-      "r18": false
-    },
-    {
-      "id": 22966,
-      "title": "Bond(z)",
-      "score": 0.248,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 18021,
       "title": "Ever After",
       "score": 0.177,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 56131,
       "title": "Jealousy",
       "score": 0.155,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 24424,
       "title": "Omegaverse (Anthology)",
-      "score": 0.138,
-      "r18": false
+      "score": 0.137,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 57055,
       "title": "Seducing My Senior",
-      "score": 0.138,
-      "r18": false
+      "score": 0.137,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 10465,
       "title": "Dame BL (Anthology)",
       "score": 0.124,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     }
   ]
 }

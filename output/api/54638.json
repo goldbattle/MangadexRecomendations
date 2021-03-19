@@ -1,14 +1,17 @@
 {
   "id": 54638,
   "title": "My Two Mommies",
-  "url": "https://api.mangadex.org/v2/manga/54638",
-  "last_updated": "March 12, 2021 20:28:05 UTC",
+  "url": "https://mangadex.org/manga/54638",
+  "last_updated": "March 18, 2021 13:56:40 UTC",
   "matches": [
     {
       "id": 32817,
       "title": "Haru no Hitoe",
-      "score": 0.298,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

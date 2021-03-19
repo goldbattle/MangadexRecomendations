@@ -1,158 +1,252 @@
 {
   "id": 42249,
   "title": "Seifuku no Ragnarok",
-  "url": "https://api.mangadex.org/v2/manga/42249",
-  "last_updated": "February 11, 2021 12:22:33 UTC",
+  "url": "https://mangadex.org/manga/42249",
+  "last_updated": "March 18, 2021 12:13:05 UTC",
   "matches": [
     {
       "id": 3747,
       "title": "ALBOX ~Towa o Kaetara~",
-      "score": 0.34,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 5336,
       "title": "Spam Mail Hunter",
-      "score": 0.34,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 421,
       "title": "3 Hearts",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 1707,
       "title": "Ruri no Kaze ni Hana wa Nagareru",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2957,
       "title": "Pygmalio",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3283,
       "title": "Tamashizume",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5215,
       "title": "Himegimi to Sanbiki no Kemono",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 5874,
       "title": "Nemurenu Kishi ni Hanataba wo",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6711,
       "title": "The Moment When a Fox Becomes a Wolf",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 7860,
       "title": "Obito no Hime to Kubinashi Kishi",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "hu",
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 8499,
       "title": "Siesta",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 10483,
       "title": "Strange Dragon",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 15989,
       "title": "Sekai de Ichiban Warui Majo",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn"
+      ]
     },
     {
       "id": 23739,
       "title": "Bishoujo Senshi Sailormoon",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 27669,
       "title": "Tokyo Mew Mew",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "hu"
+      ]
     },
     {
       "id": 27670,
       "title": "Tokyo Mew Mew a La Mode",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "pl"
+      ]
     },
     {
       "id": 27774,
       "title": "Shin Shunkaden",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 27918,
       "title": "Ikemen Sengoku - Tenkabito no Onna ni Naru Ki wa Nai ka",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "th",
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 35581,
       "title": "Poem of Hell Confession",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "ru",
+        "fr"
+      ]
     },
     {
       "id": 130,
       "title": "Erementar Gerad -Aozora no Senki-",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 337,
       "title": "Habaegui Sinbu",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa",
+        "pl"
+      ]
     },
     {
       "id": 2023,
       "title": "Shinobi Life",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2101,
       "title": "Ao no Fuuin",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2287,
       "title": "Sengoku Danshi Hana no Ran",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 2993,
       "title": "Tenkuu Seiryuu ~Innocent Dragon~",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     }
   ]
 }

@@ -2,31 +2,43 @@
   "id": 5432,
   "title": "Miman Renai - Summer Story (Doujinshi)",
   "url": "https://mangadex.org/manga/5432",
-  "last_updated": "March 14, 2021 12:36:17 UTC",
+  "last_updated": "March 18, 2021 06:31:28 UTC",
   "matches": [
-    {
-      "id": 34629,
-      "title": "One night chocolate",
-      "score": 0.224,
-      "r18": false
-    },
     {
       "id": 7471,
       "title": "Chikan Otoko",
-      "score": 0.187,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "pl",
+        "it",
+        "id",
+        "gr"
+      ]
     },
     {
       "id": 46067,
       "title": "Love Slave",
-      "score": 0.187,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 35606,
       "title": "I Suspect my Childhood Friend is a Lesbian",
       "score": 0.16,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "id",
+        "pt"
+      ]
     }
   ]
 }

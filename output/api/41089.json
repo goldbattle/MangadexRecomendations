@@ -1,158 +1,258 @@
 {
   "id": 41089,
   "title": "Maki Shippo Teikoku",
-  "url": "https://api.mangadex.org/v2/manga/41089",
-  "last_updated": "February 11, 2021 08:33:40 UTC",
+  "url": "https://mangadex.org/manga/41089",
+  "last_updated": "March 18, 2021 12:03:25 UTC",
   "matches": [
-    {
-      "id": 43825,
-      "title": "Our Alliance - A Lasting Partnership",
-      "score": 0.249,
-      "r18": false
-    },
     {
       "id": 42857,
       "title": "Lanxi Zhen",
-      "score": 0.249,
-      "r18": false
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "es"
+      ]
+    },
+    {
+      "id": 43825,
+      "title": "Our Alliance - A Lasting Partnership",
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 27505,
+      "title": "Ore, Tsushima",
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 30821,
       "title": "Kemoraifu",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hk",
+        "br"
+      ]
     },
     {
       "id": 34350,
       "title": "I Like How You Hate Me but Can't Get Rid of Me",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 45118,
       "title": "Nogonhaut",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 46640,
       "title": "The Wolf That Picked Something Up",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "id",
+        "it",
+        "br",
+        "hu"
+      ]
     },
     {
       "id": 46720,
       "title": "Southern Bird and Northern Bird",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "fr",
+        "br"
+      ]
     },
     {
       "id": 48885,
       "title": "Jyordy 24 Hours",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 51264,
       "title": "I Am a Small Kitten",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 51490,
       "title": "Zutto Neko Shoshinsha",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        " ",
+        "th",
+        "fr"
+      ]
     },
     {
       "id": 52635,
       "title": "Aniwaru",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 57136,
       "title": "Awa's Life",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 58978,
       "title": "Together with Suzunyan",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21566,
       "title": "Miss Kitty and Her Bodyguards",
-      "score": 0.215,
-      "r18": false
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 57049,
+      "title": "White Cat Legend",
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22623,
       "title": "Ojisan to Neko to Shoujo",
-      "score": 0.2,
-      "r18": false
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 38878,
       "title": "Little Ken and a Cat. Sometimes a Duck",
-      "score": 0.2,
-      "r18": false
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 44404,
       "title": "A Private Story on Third Street",
-      "score": 0.2,
-      "r18": false
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 26,
       "title": "Nam Gi-han To be an Elite",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 143,
       "title": "Welcome To Room #305!",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3714,
       "title": "Zebra",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 9734,
       "title": "The Dragon Next Door",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 14879,
       "title": "Mosspaca Advertising Department",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 15437,
       "title": "Our Relationship Is...",
-      "score": 0.197,
-      "r18": false
-    },
-    {
-      "id": 17218,
-      "title": "Adonis Next Door",
-      "score": 0.197,
-      "r18": false
-    },
-    {
-      "id": 18448,
-      "title": "Let's Take the Train Together, Shall We?",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "tr"
+      ]
     }
   ]
 }

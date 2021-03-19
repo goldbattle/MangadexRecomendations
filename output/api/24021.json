@@ -2,25 +2,28 @@
   "id": 24021,
   "title": "Enjo Mate",
   "url": "https://mangadex.org/manga/24021",
-  "last_updated": "March 16, 2021 12:36:06 UTC",
+  "last_updated": "March 18, 2021 09:31:44 UTC",
   "matches": [
     {
       "id": 33857,
       "title": "Sensei Punch!",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 54025,
-      "title": "Sex and World's End",
-      "score": 0.197,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1455,
       "title": "Okane ga Nai",
       "score": 0.136,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "it",
+        "pl"
+      ]
     }
   ]
 }

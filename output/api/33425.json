@@ -1,158 +1,235 @@
 {
   "id": 33425,
   "title": "Mokkai suru no?",
-  "url": "https://api.mangadex.org/v2/manga/33425",
-  "last_updated": "February 10, 2021 12:37:50 UTC",
+  "url": "https://mangadex.org/manga/33425",
+  "last_updated": "March 18, 2021 10:59:28 UTC",
   "matches": [
-    {
-      "id": 34408,
-      "title": "Pandemonium",
-      "score": 0.759,
-      "r18": true
-    },
     {
       "id": 33095,
       "title": "Chibikko-tachi wa Natsu no Nioi",
-      "score": 0.756,
-      "r18": true
+      "score": 0.657,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 45103,
-      "title": "Towako",
-      "score": 0.708,
-      "r18": true
+      "id": 37557,
+      "title": "Petanko Bitch",
+      "score": 0.458,
+      "r18": true,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 36677,
-      "title": "Seijinshiki Gokko",
-      "score": 0.698,
-      "r18": true
-    },
-    {
-      "id": 33143,
-      "title": "Chibiccomic",
-      "score": 0.694,
-      "r18": true
-    },
-    {
-      "id": 36686,
-      "title": "Yumeiro Hanjuku Tamago",
-      "score": 0.691,
-      "r18": true
-    },
-    {
-      "id": 33054,
-      "title": "Kusuguttai no... Suki&hearts;",
-      "score": 0.687,
-      "r18": true
-    },
-    {
-      "id": 27688,
-      "title": "Namaiki Shoujo",
-      "score": 0.683,
-      "r18": true
-    },
-    {
-      "id": 24685,
-      "title": "Sugar\u2606Spot",
-      "score": 0.682,
-      "r18": true
-    },
-    {
-      "id": 36675,
-      "title": "Dokidoki Lolix",
-      "score": 0.68,
-      "r18": true
-    },
-    {
-      "id": 33147,
-      "title": "Chiisana Otete ni Yawaraka Hoppe",
-      "score": 0.677,
-      "r18": true
-    },
-    {
-      "id": 33116,
-      "title": "Naked Girl",
-      "score": 0.676,
-      "r18": true
-    },
-    {
-      "id": 33081,
-      "title": "LLOLL - Little Lips of Lovely Lolita",
-      "score": 0.673,
-      "r18": true
-    },
-    {
-      "id": 38062,
-      "title": "Girls Fever",
-      "score": 0.67,
-      "r18": true
-    },
-    {
-      "id": 33145,
-      "title": "Shiricon - Hipsoul",
-      "score": 0.669,
-      "r18": true
+      "id": 33086,
+      "title": "Chu to Lo",
+      "score": 0.455,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 37747,
       "title": "Rori Ana (Little Anal Collection)",
-      "score": 0.668,
-      "r18": true
-    },
-    {
-      "id": 38063,
-      "title": "Attakaku, Shite.",
-      "score": 0.668,
-      "r18": true
-    },
-    {
-      "id": 33144,
-      "title": "Ana Puri ~Shiri Ana Hime~",
-      "score": 0.667,
-      "r18": true
-    },
-    {
-      "id": 38104,
-      "title": "Pure Girl",
-      "score": 0.661,
-      "r18": true
-    },
-    {
-      "id": 33127,
-      "title": "XS!",
-      "score": 0.656,
-      "r18": true
-    },
-    {
-      "id": 31055,
-      "title": "Short Pants to Iroiro",
-      "score": 0.656,
-      "r18": true
-    },
-    {
-      "id": 42089,
-      "title": "Himitsu no Roshutsu Kids",
-      "score": 0.655,
-      "r18": true
-    },
-    {
-      "id": 33152,
-      "title": "Oniichan ga, Suki.",
-      "score": 0.652,
-      "r18": true
+      "score": 0.45,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 33089,
       "title": "Fever! Pakkunko",
-      "score": 0.652,
-      "r18": true
+      "score": 0.45,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 36675,
+      "title": "Dokidoki Lolix",
+      "score": 0.45,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 33127,
+      "title": "XS!",
+      "score": 0.45,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 33090,
+      "title": "Onii-chan Asobo",
+      "score": 0.45,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 38104,
+      "title": "Pure Girl",
+      "score": 0.45,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 33147,
+      "title": "Chiisana Otete ni Yawaraka Hoppe",
+      "score": 0.45,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 40271,
+      "title": "Morning View",
+      "score": 0.45,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 36677,
+      "title": "Seijinshiki Gokko",
+      "score": 0.45,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 33145,
+      "title": "Shiricon - Hipsoul",
+      "score": 0.45,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 36686,
+      "title": "Yumeiro Hanjuku Tamago",
+      "score": 0.45,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 33054,
+      "title": "Kusuguttai no... Suki&hearts;",
+      "score": 0.45,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 27688,
+      "title": "Namaiki Shoujo",
+      "score": 0.45,
+      "r18": true,
+      "languages": [
+        "sa",
+        "gb"
+      ]
+    },
+    {
+      "id": 33152,
+      "title": "Oniichan ga, Suki.",
+      "score": 0.45,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 49374,
+      "title": "Melty Melty Ecstasy",
+      "score": 0.45,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 33076,
+      "title": "Imouto DX",
+      "score": 0.45,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 33053,
       "title": "Ah! Little Flower",
-      "score": 0.651,
-      "r18": true
+      "score": 0.45,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 44075,
+      "title": "Koiiro Smell",
+      "score": 0.45,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 33143,
+      "title": "Chibiccomic",
+      "score": 0.45,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 33079,
+      "title": "Chibikkokikoki",
+      "score": 0.45,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 33056,
+      "title": "Show Love",
+      "score": 0.45,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 33144,
+      "title": "Ana Puri ~Shiri Ana Hime~",
+      "score": 0.45,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

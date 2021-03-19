@@ -1,158 +1,266 @@
 {
   "id": 55574,
   "title": "Joshikousei ni Kigaetara",
-  "url": "https://api.mangadex.org/v2/manga/55574",
-  "last_updated": "March 12, 2021 20:39:34 UTC",
+  "url": "https://mangadex.org/manga/55574",
+  "last_updated": "March 18, 2021 14:04:29 UTC",
   "matches": [
-    {
-      "id": 5528,
-      "title": "Tokage no Ou",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 11938,
-      "title": "Mayonaka no X Giten",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 9902,
-      "title": "Akame ga KILL! Zero",
-      "score": 0.34,
-      "r18": false
-    },
     {
       "id": 573,
       "title": "Hoozuki no Shima",
-      "score": 0.336,
-      "r18": false
-    },
-    {
-      "id": 5593,
-      "title": "Kagome Kagome",
-      "score": 0.331,
-      "r18": false
-    },
-    {
-      "id": 13940,
-      "title": "Corpse Party CEMETERY0 - Kaibyaku no Ars Moriendi",
-      "score": 0.328,
-      "r18": false
-    },
-    {
-      "id": 2021,
-      "title": "Shikabane Hime",
-      "score": 0.318,
-      "r18": false
-    },
-    {
-      "id": 1077,
-      "title": "Lives",
-      "score": 0.316,
-      "r18": false
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "br",
+        "de",
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 572,
       "title": "Mouryou no Yurikago",
-      "score": 0.312,
-      "r18": false
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "pl"
+      ]
     },
     {
-      "id": 508,
-      "title": "Ousama Game",
-      "score": 0.311,
-      "r18": false
-    },
-    {
-      "id": 794,
-      "title": "The Sacred Blacksmith",
-      "score": 0.309,
-      "r18": false
-    },
-    {
-      "id": 4309,
-      "title": "Yume Tsukai",
-      "score": 0.309,
-      "r18": false
-    },
-    {
-      "id": 1192,
-      "title": "Godeath - Megami no Ketsumyaku",
-      "score": 0.303,
-      "r18": false
-    },
-    {
-      "id": 34617,
-      "title": "Libidors",
-      "score": 0.303,
-      "r18": false
-    },
-    {
-      "id": 20393,
-      "title": "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!",
-      "score": 0.302,
-      "r18": false
-    },
-    {
-      "id": 3466,
-      "title": "Raqiya",
-      "score": 0.3,
-      "r18": false
+      "id": 9902,
+      "title": "Akame ga KILL! Zero",
+      "score": 0.243,
+      "r18": false,
+      "languages": [
+        "ru",
+        "br",
+        "es",
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 12115,
       "title": "Dance in the Vampire Bund - Scarlet Order",
-      "score": 0.3,
-      "r18": false
+      "score": 0.238,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 2203,
-      "title": "Sekainohate de Aimashou",
-      "score": 0.3,
-      "r18": false
+      "id": 2021,
+      "title": "Shikabane Hime",
+      "score": 0.238,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 1060,
-      "title": "Birdy the Mighty (II)",
-      "score": 0.3,
-      "r18": false
+      "id": 3466,
+      "title": "Raqiya",
+      "score": 0.227,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
-      "id": 577,
-      "title": "Corpse Party - Musume",
-      "score": 0.297,
-      "r18": false
+      "id": 13940,
+      "title": "Corpse Party CEMETERY0 - Kaibyaku no Ars Moriendi",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 1024,
-      "title": "Teizokurei Monophobia",
-      "score": 0.296,
-      "r18": false
+      "id": 508,
+      "title": "Ousama Game",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 8862,
-      "title": "Maou na Ore to Fushihime no Yubiwa",
-      "score": 0.296,
-      "r18": false
+      "id": 1192,
+      "title": "Godeath - Megami no Ketsumyaku",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 3594,
-      "title": "Gokukoku no Brynhildr",
-      "score": 0.295,
-      "r18": false
+      "id": 5593,
+      "title": "Kagome Kagome",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 1077,
+      "title": "Lives",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de"
+      ]
     },
     {
       "id": 1775,
       "title": "Dive in the Vampire Bund",
-      "score": 0.293,
-      "r18": false
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 11982,
-      "title": "Kenkouki - Hinokuni Daiteikokugun Kurenai Ikkitousentai",
-      "score": 0.288,
-      "r18": false
+      "id": 794,
+      "title": "The Sacred Blacksmith",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 4309,
+      "title": "Yume Tsukai",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3808,
+      "title": "Edens Bowy",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 31888,
+      "title": "Killing Me / Killing You",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "fr",
+        "mx",
+        "ru",
+        "id"
+      ]
+    },
+    {
+      "id": 11938,
+      "title": "Mayonaka no X Giten",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 5528,
+      "title": "Tokage no Ou",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru",
+        "pl"
+      ]
+    },
+    {
+      "id": 4603,
+      "title": "Freezing Zero",
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "br",
+        "de"
+      ]
+    },
+    {
+      "id": 2203,
+      "title": "Sekainohate de Aimashou",
+      "score": 0.182,
+      "r18": false,
+      "languages": [
+        "ru",
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 577,
+      "title": "Corpse Party - Musume",
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "de"
+      ]
+    },
+    {
+      "id": 3831,
+      "title": "Kurogane Hime",
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2174,
+      "title": "Mebius Gear",
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18596,
+      "title": "The Vigilante of the Kingcraft Paradise",
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 35444,
+      "title": "Dream X Hunter",
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "es"
+      ]
     }
   ]
 }

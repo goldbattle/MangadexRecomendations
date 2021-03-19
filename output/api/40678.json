@@ -1,158 +1,263 @@
 {
   "id": 40678,
   "title": "DEEP",
-  "url": "https://api.mangadex.org/v2/manga/40678",
-  "last_updated": "February 11, 2021 08:27:20 UTC",
+  "url": "https://mangadex.org/manga/40678",
+  "last_updated": "March 18, 2021 11:59:59 UTC",
   "matches": [
     {
       "id": 37774,
       "title": "Jinjujeon",
-      "score": 0.297,
-      "r18": false
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 42211,
+      "title": "Disease",
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "id",
+        "ir"
+      ]
+    },
+    {
+      "id": 46144,
+      "title": "Gorgon",
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "tr"
+      ]
     },
     {
       "id": 14549,
       "title": "Distant Sky",
-      "score": 0.258,
-      "r18": false
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "br",
+        "vn",
+        "pl"
+      ]
     },
     {
       "id": 16492,
       "title": "Howling: The City of Nightmare",
-      "score": 0.258,
-      "r18": false
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb"
+      ]
     },
     {
       "id": 21875,
       "title": "Possessed",
-      "score": 0.258,
-      "r18": false
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 37594,
       "title": "The Cursed Sculpture",
-      "score": 0.258,
-      "r18": false
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 38544,
       "title": "The Stranding Fields",
-      "score": 0.258,
-      "r18": false
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "ir"
+      ]
     },
     {
       "id": 45342,
       "title": "Unorthodox Spiritualist",
-      "score": 0.258,
-      "r18": false
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 277,
       "title": "TAL",
-      "score": 0.255,
-      "r18": false
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "de"
+      ]
     },
     {
       "id": 7154,
       "title": "Ability",
-      "score": 0.255,
-      "r18": false
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "fr",
+        "it"
+      ]
     },
     {
       "id": 10427,
       "title": "Dalsez",
-      "score": 0.255,
-      "r18": false
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "fr",
+        "mx"
+      ]
     },
     {
       "id": 11792,
       "title": "Flower Dream",
-      "score": 0.255,
-      "r18": false
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 13028,
       "title": "Gods of Time",
-      "score": 0.255,
-      "r18": false
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 30780,
       "title": "Passion",
-      "score": 0.255,
-      "r18": false
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 33431,
       "title": "Coffin Jackson",
-      "score": 0.255,
-      "r18": false
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 36440,
       "title": "Immortal Weakling",
-      "score": 0.255,
-      "r18": false
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
     },
     {
       "id": 36764,
       "title": "Moving",
-      "score": 0.255,
-      "r18": false
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 42114,
       "title": "Heaven at the End of 4th Floor",
-      "score": 0.255,
-      "r18": false
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 43328,
       "title": "No Entry Mr Grim Reaper",
-      "score": 0.255,
-      "r18": false
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 46756,
       "title": "1 Second",
-      "score": 0.255,
-      "r18": false
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "br",
+        "fr",
+        "ru"
+      ]
     },
     {
       "id": 49842,
       "title": "Trigger",
-      "score": 0.255,
-      "r18": false
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "ru"
+      ]
     },
     {
       "id": 51709,
       "title": "Hasla",
-      "score": 0.255,
-      "r18": false
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 52362,
       "title": "Dam of the Forest",
-      "score": 0.255,
-      "r18": false
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id"
+      ]
     },
     {
       "id": 58586,
       "title": "From the Grave and Back",
-      "score": 0.255,
-      "r18": false
-    },
-    {
-      "id": 59433,
-      "title": "My Nights Shine Brighter Than Your Days",
-      "score": 0.255,
-      "r18": false
-    },
-    {
-      "id": 474,
-      "title": "S.I.D. - Supernatural Investigation Department",
-      "score": 0.249,
-      "r18": false
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     }
   ]
 }

@@ -2,31 +2,52 @@
   "id": 4432,
   "title": "Present for Me",
   "url": "https://mangadex.org/manga/4432",
-  "last_updated": "March 14, 2021 08:31:17 UTC",
+  "last_updated": "March 18, 2021 06:22:15 UTC",
   "matches": [
     {
       "id": 10978,
       "title": "Watashi no Kairosu - The Tale of Little Gladiator",
-      "score": 0.242,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 26499,
       "title": "Planet With",
       "score": 0.181,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "cn",
+        "gb",
+        "br",
+        "es"
+      ]
     },
     {
       "id": 27841,
       "title": "Venus Wars",
-      "score": 0.097,
-      "r18": false
+      "score": 0.096,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19716,
       "title": "Knight's &amp; Magic",
-      "score": 0.097,
-      "r18": false
+      "score": 0.096,
+      "r18": false,
+      "languages": [
+        "fr",
+        "ru",
+        "mx",
+        "gb",
+        "es",
+        "id",
+        "it"
+      ]
     }
   ]
 }

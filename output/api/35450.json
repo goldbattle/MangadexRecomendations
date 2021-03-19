@@ -1,158 +1,289 @@
 {
   "id": 35450,
   "title": "Yoki, Koto, Kiku",
-  "url": "https://api.mangadex.org/v2/manga/35450",
-  "last_updated": "February 10, 2021 16:43:51 UTC",
+  "url": "https://mangadex.org/manga/35450",
+  "last_updated": "March 18, 2021 11:16:21 UTC",
   "matches": [
+    {
+      "id": 5632,
+      "title": "Belmondo le VisiteuR",
+      "score": 0.259,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
     {
       "id": 22236,
       "title": "Rurouni Kenshin: Hokkaido-hen",
-      "score": 0.72,
-      "r18": false
-    },
-    {
-      "id": 5573,
-      "title": "Saiyuki",
-      "score": 0.705,
-      "r18": false
-    },
-    {
-      "id": 48759,
-      "title": "Kimetsu no Yaiba: Rengoku Kyoujurou Gaiden",
-      "score": 0.692,
-      "r18": false
-    },
-    {
-      "id": 32905,
-      "title": "Kimetsu no Yaiba - Digital Colored Comics",
-      "score": 0.688,
-      "r18": false
-    },
-    {
-      "id": 18198,
-      "title": "Kimetsu no Yaiba",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 2363,
-      "title": "InuYasha",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 1434,
-      "title": "Sengoku Youko",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 336,
-      "title": "Kuroshitsuji",
-      "score": 0.663,
-      "r18": false
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "es",
+        "fr"
+      ]
     },
     {
       "id": 6339,
       "title": "Bakudan! - Bakumatsu Danshi",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 3286,
-      "title": "Kitsune to Atori",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 5632,
-      "title": "Belmondo le VisiteuR",
-      "score": 0.657,
-      "r18": false
-    },
-    {
-      "id": 5538,
-      "title": "JoJo's Bizarre Adventure Part 2 - Battle Tendency",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 20818,
-      "title": "Hungry Marie",
-      "score": 0.377,
-      "r18": false
-    },
-    {
-      "id": 12104,
-      "title": "Kamidori",
-      "score": 0.362,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4491,
       "title": "Natsu no Arashi!",
-      "score": 0.351,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     },
     {
-      "id": 12096,
-      "title": "Chrono Monochrome",
-      "score": 0.343,
-      "r18": false
+      "id": 12104,
+      "title": "Kamidori",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mn"
+      ]
+    },
+    {
+      "id": 20818,
+      "title": "Hungry Marie",
+      "score": 0.229,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 21953,
       "title": "Great Man Game",
-      "score": 0.314,
-      "r18": false
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 33656,
-      "title": "Dororo to Hyakkimaru-Den",
-      "score": 0.312,
-      "r18": false
+      "id": 12096,
+      "title": "Chrono Monochrome",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 1410,
-      "title": "Teiden Shoujo to Hanemushi no Orchestra",
-      "score": 0.302,
-      "r18": false
+      "id": 48759,
+      "title": "Kimetsu no Yaiba: Rengoku Kyoujurou Gaiden",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx"
+      ]
+    },
+    {
+      "id": 5573,
+      "title": "Saiyuki",
+      "score": 0.19,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 18198,
+      "title": "Kimetsu no Yaiba",
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "il",
+        "gb",
+        "br",
+        "ru",
+        "mx",
+        "hk",
+        "es",
+        "sa",
+        "ua",
+        "id",
+        "it",
+        "de",
+        "tr"
+      ]
     },
     {
       "id": 35246,
       "title": "The Last Dynasty",
-      "score": 0.297,
-      "r18": false
+      "score": 0.164,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 16821,
-      "title": "Vanitas no Carte",
-      "score": 0.267,
-      "r18": false
+      "id": 3286,
+      "title": "Kitsune to Atori",
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg"
+      ]
     },
     {
-      "id": 27152,
-      "title": "JoJo's Bizarre Adventure Part 2 - Battle Tendency (Official Colored)",
-      "score": 0.246,
-      "r18": false
+      "id": 5538,
+      "title": "JoJo's Bizarre Adventure Part 2 - Battle Tendency",
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "ru"
+      ]
     },
     {
-      "id": 292,
-      "title": "Ryuurouden",
-      "score": 0.24,
-      "r18": false
+      "id": 1410,
+      "title": "Teiden Shoujo to Hanemushi no Orchestra",
+      "score": 0.158,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 54441,
-      "title": "Sun and Moon Undecimber",
-      "score": 0.217,
-      "r18": false
+      "id": 32905,
+      "title": "Kimetsu no Yaiba - Digital Colored Comics",
+      "score": 0.156,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr",
+        "br",
+        "mx",
+        "ua",
+        "sa"
+      ]
     },
     {
       "id": 29906,
       "title": "Black Butler Anthology Comic",
-      "score": 0.172,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1434,
+      "title": "Sengoku Youko",
+      "score": 0.144,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "es",
+        "fr",
+        "id"
+      ]
+    },
+    {
+      "id": 336,
+      "title": "Kuroshitsuji",
+      "score": 0.142,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "fr",
+        "mx",
+        "tr",
+        "hu",
+        "bg"
+      ]
+    },
+    {
+      "id": 2363,
+      "title": "InuYasha",
+      "score": 0.135,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 35858,
+      "title": "Kimetsu no Yaiba: Tomioka Giyuu Gaiden",
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx",
+        "hk",
+        "id"
+      ]
+    },
+    {
+      "id": 48729,
+      "title": "Watashi no Maou-sama",
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 27152,
+      "title": "JoJo's Bizarre Adventure Part 2 - Battle Tendency (Official Colored)",
+      "score": 0.119,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "ru",
+        "it",
+        "tr"
+      ]
+    },
+    {
+      "id": 54441,
+      "title": "Sun and Moon Undecimber",
+      "score": 0.113,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 292,
+      "title": "Ryuurouden",
+      "score": 0.112,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

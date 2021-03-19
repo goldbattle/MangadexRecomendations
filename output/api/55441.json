@@ -1,74 +1,106 @@
 {
   "id": 55441,
   "title": "Mill, Mill, Mill, Me",
-  "url": "https://api.mangadex.org/v2/manga/55441",
-  "last_updated": "March 12, 2021 20:37:52 UTC",
+  "url": "https://mangadex.org/manga/55441",
+  "last_updated": "March 18, 2021 14:03:23 UTC",
   "matches": [
     {
-      "id": 16290,
-      "title": "Watashi no Muchi na Watashi no Michi",
-      "score": 0.376,
-      "r18": false
+      "id": 29529,
+      "title": "Shakaijin Yuri Anthology",
+      "score": 0.319,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb"
+      ]
     },
     {
       "id": 55433,
       "title": "The Girl That Wants To Become Cuter, and the Clothing Shop Woman",
-      "score": 0.37,
-      "r18": false
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 29529,
-      "title": "Shakaijin Yuri Anthology",
-      "score": 0.368,
-      "r18": false
+      "id": 16290,
+      "title": "Watashi no Muchi na Watashi no Michi",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 45711,
       "title": "Predawn Girls",
-      "score": 0.297,
-      "r18": false
-    },
-    {
-      "id": 30315,
-      "title": "Her Shim-Cheong",
-      "score": 0.289,
-      "r18": false
+      "score": 0.259,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 53451,
       "title": "Good Night",
-      "score": 0.288,
-      "r18": false
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 54043,
       "title": "Blithe",
-      "score": 0.288,
-      "r18": false
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
       "id": 53429,
       "title": "Sakuma to Watashi",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 59420,
-      "title": "Mabataki",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 55081,
-      "title": "After the Curtain Call",
-      "score": 0.255,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 53114,
       "title": "Align (GL)",
-      "score": 0.235,
-      "r18": false
+      "score": 0.228,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
+    },
+    {
+      "id": 55081,
+      "title": "After the Curtain Call",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 30315,
+      "title": "Her Shim-Cheong",
+      "score": 0.177,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
     }
   ]
 }

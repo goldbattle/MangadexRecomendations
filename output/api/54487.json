@@ -1,128 +1,213 @@
 {
   "id": 54487,
   "title": "S Size",
-  "url": "https://api.mangadex.org/v2/manga/54487",
-  "last_updated": "March 12, 2021 20:26:13 UTC",
+  "url": "https://mangadex.org/manga/54487",
+  "last_updated": "March 18, 2021 13:55:24 UTC",
   "matches": [
     {
       "id": 31677,
       "title": "Made In Abyss (Fan Colored)",
-      "score": 0.974,
-      "r18": false
+      "score": 0.964,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 47082,
       "title": "Made in Abyss 47.X: Welcome Back",
-      "score": 0.944,
-      "r18": false
+      "score": 0.933,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 38973,
       "title": "Made in Abyss Official Anthology",
-      "score": 0.935,
-      "r18": false
-    },
-    {
-      "id": 36223,
-      "title": "Witch of the Fire Scene",
-      "score": 0.713,
-      "r18": false
-    },
-    {
-      "id": 36465,
-      "title": "Soukon no Shoujo to Sourei no Tabi",
-      "score": 0.697,
-      "r18": false
-    },
-    {
-      "id": 18803,
-      "title": "Youjo Senki",
-      "score": 0.695,
-      "r18": false
-    },
-    {
-      "id": 12568,
-      "title": "Kidou Senshi Gundam - Gyakushuu no Char: Beltorchika Children",
-      "score": 0.682,
-      "r18": false
+      "score": 0.905,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 10564,
       "title": "Gigantomakhia",
-      "score": 0.681,
-      "r18": false
-    },
-    {
-      "id": 19472,
-      "title": "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai",
-      "score": 0.673,
-      "r18": false
-    },
-    {
-      "id": 58215,
-      "title": "Hone Dragon no Mana Musume",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 23277,
-      "title": "Maou-sama, Retry!",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 21828,
-      "title": "Tensei Kyuuketsuki-san wa Ohirune ga Shitai",
-      "score": 0.658,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11474,
       "title": "Murder Princess",
-      "score": 0.321,
-      "r18": false
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "bg",
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 34802,
-      "title": "Kitsune to Pancake",
-      "score": 0.227,
-      "r18": false
+      "id": 21828,
+      "title": "Tensei Kyuuketsuki-san wa Ohirune ga Shitai",
+      "score": 0.162,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "br",
+        "ru",
+        "fr"
+      ]
     },
     {
-      "id": 30845,
-      "title": "Okaa-san (10) to Boku.",
-      "score": 0.215,
-      "r18": false
+      "id": 19472,
+      "title": "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai",
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "pl",
+        "mx",
+        "id",
+        "fr"
+      ]
     },
     {
-      "id": 31118,
-      "title": "Long Yin",
-      "score": 0.213,
-      "r18": false
+      "id": 36465,
+      "title": "Soukon no Shoujo to Sourei no Tabi",
+      "score": 0.154,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hk",
+        "mx",
+        "hu"
+      ]
+    },
+    {
+      "id": 36223,
+      "title": "Witch of the Fire Scene",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 41215,
       "title": "Duranki",
-      "score": 0.173,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "it",
+        "mx"
+      ]
+    },
+    {
+      "id": 58215,
+      "title": "Hone Dragon no Mana Musume",
+      "score": 0.136,
+      "r18": false,
+      "languages": [
+        "th",
+        "ru",
+        "br",
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 31118,
+      "title": "Long Yin",
+      "score": 0.136,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "fr"
+      ]
+    },
+    {
+      "id": 12568,
+      "title": "Kidou Senshi Gundam - Gyakushuu no Char: Beltorchika Children",
+      "score": 0.125,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 34802,
+      "title": "Kitsune to Pancake",
+      "score": 0.124,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "fr",
+        "mx"
+      ]
+    },
+    {
+      "id": 30845,
+      "title": "Okaa-san (10) to Boku.",
+      "score": 0.123,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29917,
+      "title": "Slow Loop",
+      "score": 0.123,
+      "r18": false,
+      "languages": [
+        "cn",
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 43458,
       "title": "Choujigen Game Neptune: The Animation - Hello New World - Yuusha Hon",
-      "score": 0.124,
-      "r18": false
+      "score": 0.105,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 49238,
       "title": "Imouto wa Neko",
-      "score": 0.124,
-      "r18": false
+      "score": 0.105,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 21899,
       "title": "Angelic",
-      "score": 0.1,
-      "r18": false
+      "score": 0.085,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

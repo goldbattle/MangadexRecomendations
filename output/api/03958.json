@@ -2,157 +2,273 @@
   "id": 3958,
   "title": "CHYLD",
   "url": "https://mangadex.org/manga/3958",
-  "last_updated": "March 14, 2021 08:25:44 UTC",
+  "last_updated": "March 18, 2021 06:17:41 UTC",
   "matches": [
     {
       "id": 17020,
       "title": "Chimamire Sukeban Chainsaw",
-      "score": 0.269,
-      "r18": false
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 5825,
       "title": "Blame Gakuen! and So On",
       "score": 0.258,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg",
+        "br",
+        "it",
+        "ro",
+        "tr"
+      ]
     },
     {
       "id": 18601,
       "title": "Hell Teacher Nube Neo",
-      "score": 0.251,
-      "r18": false
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5528,
       "title": "Tokage no Ou",
-      "score": 0.249,
-      "r18": false
+      "score": 0.248,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru",
+        "pl"
+      ]
     },
     {
       "id": 4967,
       "title": "Baketeriya",
       "score": 0.244,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 30847,
       "title": "High School Girl Kingdom Tokyo",
       "score": 0.242,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4603,
       "title": "Freezing Zero",
-      "score": 0.239,
-      "r18": false
+      "score": 0.238,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "br",
+        "de"
+      ]
     },
     {
       "id": 41679,
       "title": "I, Who Possessed a Trash Skill &quot;Thermal Operator,&quot; Became Unrivaled",
-      "score": 0.226,
-      "r18": false
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "es",
+        "br"
+      ]
     },
     {
       "id": 6151,
       "title": "BLASSREITER -genetic-",
       "score": 0.225,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21391,
       "title": "Kaiten-One",
       "score": 0.225,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5776,
       "title": "Tenjou Tenge",
-      "score": 0.225,
-      "r18": false
+      "score": 0.224,
+      "r18": false,
+      "languages": [
+        "hu",
+        "gb",
+        "sa"
+      ]
     },
     {
       "id": 523,
       "title": "Unbreakable Machine-Doll",
-      "score": 0.224,
-      "r18": false
-    },
-    {
-      "id": 19457,
-      "title": "Dekisokonai no Monster Trainer",
-      "score": 0.219,
-      "r18": false
-    },
-    {
-      "id": 7774,
-      "title": "Shishunki no Iron Maiden",
-      "score": 0.219,
-      "r18": false
-    },
-    {
-      "id": 41132,
-      "title": "Oninaki no Curse Holder",
-      "score": 0.219,
-      "r18": false
-    },
-    {
-      "id": 775,
-      "title": "Tsuki Tsuki!",
-      "score": 0.219,
-      "r18": false
-    },
-    {
-      "id": 53619,
-      "title": "Shinigami Musume ha Peropero Shitai",
-      "score": 0.219,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "id",
+        "fr"
+      ]
     },
     {
       "id": 2311,
       "title": "Marugoto Anju Gakuen",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 19457,
+      "title": "Dekisokonai no Monster Trainer",
       "score": 0.218,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "id",
+        "fr"
+      ]
+    },
+    {
+      "id": 7774,
+      "title": "Shishunki no Iron Maiden",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 41132,
+      "title": "Oninaki no Curse Holder",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 775,
+      "title": "Tsuki Tsuki!",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 53619,
+      "title": "Shinigami Musume ha Peropero Shitai",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "br",
+        "id"
+      ]
     },
     {
       "id": 19488,
       "title": "Oroka na Tenshi wa Akuma to Odoru",
       "score": 0.216,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "fr",
+        "id"
+      ]
     },
     {
       "id": 29543,
       "title": "Chimamire Sukeban Chainsaw: reflesh",
       "score": 0.215,
-      "r18": false
-    },
-    {
-      "id": 561,
-      "title": "Onihime VS",
-      "score": 0.214,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 7230,
       "title": "Rinne no Lagrange - Flower Declaration of Your Heart",
-      "score": 0.214,
-      "r18": false
-    },
-    {
-      "id": 34617,
-      "title": "Libidors",
-      "score": 0.212,
-      "r18": false
+      "score": 0.213,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 14703,
       "title": "Summon! Swordsman School",
       "score": 0.211,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 561,
+      "title": "Onihime VS",
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 835,
       "title": "K&auml;mpfer",
       "score": 0.209,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 4120,
+      "title": "Sai:Taker - Futari no Artemis",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     }
   ]
 }

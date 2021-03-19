@@ -1,158 +1,264 @@
 {
   "id": 51776,
   "title": "Another Life",
-  "url": "https://api.mangadex.org/v2/manga/51776",
-  "last_updated": "February 05, 2021 12:13:31 UTC",
+  "url": "https://mangadex.org/manga/51776",
+  "last_updated": "March 18, 2021 13:32:46 UTC",
   "matches": [
     {
-      "id": 39300,
-      "title": "9 Dan Girl",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 37055,
-      "title": "I Don't Want to Be Like This Too",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 35085,
-      "title": "Before Love Kills Me",
-      "score": 0.283,
-      "r18": false
-    },
-    {
-      "id": 46624,
-      "title": "In the Bleak Midwinter",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 38891,
-      "title": "1st Kiss",
-      "score": 0.274,
-      "r18": false
+      "id": 40651,
+      "title": "Night Actors",
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 26507,
       "title": "Memory Lost",
-      "score": 0.273,
-      "r18": false
-    },
-    {
-      "id": 40651,
-      "title": "Night Actors",
-      "score": 0.273,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 50735,
       "title": "Breaking Through the Clouds",
-      "score": 0.263,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "es",
+        "br",
+        "fr"
+      ]
     },
     {
-      "id": 27992,
-      "title": "Princess Wei Yang",
-      "score": 0.254,
-      "r18": false
+      "id": 15695,
+      "title": "Usemono Yado",
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "tr",
+        "it",
+        "mx"
+      ]
     },
     {
-      "id": 34407,
-      "title": "When Doctor Chu Wants Romance",
-      "score": 0.247,
-      "r18": false
+      "id": 37055,
+      "title": "I Don't Want to Be Like This Too",
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     },
     {
-      "id": 35445,
-      "title": "Give Me Your Hands",
-      "score": 0.246,
-      "r18": false
-    },
-    {
-      "id": 51344,
-      "title": "Secret Alliance",
-      "score": 0.245,
-      "r18": false
+      "id": 35085,
+      "title": "Before Love Kills Me",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "sa"
+      ]
     },
     {
       "id": 111,
       "title": "Cheese in the Trap",
-      "score": 0.239,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "tr",
+        "br",
+        "gb"
+      ]
     },
     {
-      "id": 33474,
-      "title": "The Queen",
-      "score": 0.236,
-      "r18": false
+      "id": 27992,
+      "title": "Princess Wei Yang",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 29859,
-      "title": "Light and Shadow",
-      "score": 0.235,
-      "r18": false
+      "id": 34448,
+      "title": "99 Degrees Fahrenheit",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 47141,
+      "title": "Shell",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 18816,
+      "title": "The Moon That Rises in the Day",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 39300,
+      "title": "9 Dan Girl",
+      "score": 0.169,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 35445,
+      "title": "Give Me Your Hands",
+      "score": 0.161,
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
     },
     {
       "id": 5051,
       "title": "Pink Lady Classic",
-      "score": 0.235,
-      "r18": false
-    },
-    {
-      "id": 52592,
-      "title": "Play House",
-      "score": 0.234,
-      "r18": false
-    },
-    {
-      "id": 40735,
-      "title": "Sky City: The Formation of Phoenix",
-      "score": 0.232,
-      "r18": false
-    },
-    {
-      "id": 58387,
-      "title": "His 10,000 Romantic Traps",
-      "score": 0.232,
-      "r18": false
-    },
-    {
-      "id": 26178,
-      "title": "The Lady and Her Butler",
-      "score": 0.231,
-      "r18": false
-    },
-    {
-      "id": 39358,
-      "title": "Blood Strangers",
-      "score": 0.231,
-      "r18": false
+      "score": 0.154,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 952,
       "title": "Pink Lady",
-      "score": 0.229,
-      "r18": false
+      "score": 0.152,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "fr"
+      ]
     },
     {
-      "id": 32047,
-      "title": "Gisou Furin",
-      "score": 0.229,
-      "r18": false
+      "id": 38891,
+      "title": "1st Kiss",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "es",
+        "pl",
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 59264,
+      "title": "The Royal Prince's  First Love",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 42244,
+      "title": "A Witch's Hopeless Wish",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "br"
+      ]
+    },
+    {
+      "id": 47685,
+      "title": "Memory-Erasing Bell",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19889,
+      "title": "Unlucky Mansion",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "sa",
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 30627,
+      "title": "Broken Melody",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "tr",
+        "mx"
+      ]
     },
     {
       "id": 44606,
       "title": "No Longer a Heroine!",
-      "score": 0.229,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 44702,
-      "title": "Genius Cool Treasure: President's Wife Is Too Powerful",
-      "score": 0.225,
-      "r18": false
+      "id": 49479,
+      "title": "A Married Killer",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20320,
+      "title": "The Girl who Walks the Waves",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 43950,
+      "title": "The Goddess of Healing",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     }
   ]
 }

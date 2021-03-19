@@ -2,115 +2,200 @@
   "id": 17878,
   "title": "Moira",
   "url": "https://mangadex.org/manga/17878",
-  "last_updated": "March 15, 2021 21:46:36 UTC",
+  "last_updated": "March 18, 2021 08:33:35 UTC",
   "matches": [
     {
       "id": 785,
       "title": "Waters",
       "score": 0.207,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg",
+        "it",
+        "mx",
+        "vn"
+      ]
     },
     {
       "id": 3142,
       "title": "Threads of Time",
-      "score": 0.198,
-      "r18": false
+      "score": 0.197,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1206,
       "title": "Shin Angyo Onshi",
       "score": 0.181,
-      "r18": false
-    },
-    {
-      "id": 19887,
-      "title": "Uratarou",
-      "score": 0.17,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 6283,
       "title": "Vandemieru no Tsubasa",
-      "score": 0.161,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 18150,
       "title": "Dies irae ~Amantes Amentes~",
-      "score": 0.156,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 1378,
       "title": "Basilisk",
-      "score": 0.155,
-      "r18": false
+      "score": 0.154,
+      "r18": false,
+      "languages": [
+        "bg",
+        "gb",
+        "hu",
+        "pl",
+        "ru"
+      ]
     },
     {
       "id": 7642,
       "title": "Heroes of the Spring and Autumn",
       "score": 0.154,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3366,
       "title": "Feng Shen Ji",
       "score": 0.153,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx",
+        "fr",
+        "tr"
+      ]
     },
     {
       "id": 8877,
       "title": "The Lawless",
-      "score": 0.137,
-      "r18": false
+      "score": 0.136,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8286,
       "title": "The Legend of Genghis",
-      "score": 0.133,
-      "r18": false
+      "score": 0.132,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 38439,
       "title": "The Wooden-Mortared Kingdom - Garo 20th Anniversary Memorial Issue",
-      "score": 0.132,
-      "r18": false
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 28617,
       "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run",
       "score": 0.125,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "it",
+        "fr"
+      ]
     },
     {
       "id": 57026,
       "title": "Majo Taisen - The War of Greedy Witches",
-      "score": 0.121,
-      "r18": false
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "vn",
+        "id",
+        "ru",
+        "tr"
+      ]
     },
     {
       "id": 33137,
       "title": "Blade of the Phantom Master",
       "score": 0.118,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "id"
+      ]
     },
     {
       "id": 23900,
       "title": "Feng Shen Ji II",
       "score": 0.105,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru",
+        "fr"
+      ]
     },
     {
       "id": 23902,
       "title": "Feng Shen Ji III",
       "score": 0.105,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru"
+      ]
     },
     {
       "id": 6272,
       "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
-      "score": 0.091,
-      "r18": false
+      "score": 0.09,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "br",
+        "ru",
+        "it",
+        "id",
+        "il",
+        "de"
+      ]
     }
   ]
 }

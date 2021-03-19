@@ -2,25 +2,29 @@
   "id": 22998,
   "title": "Aojiro Shohan",
   "url": "https://mangadex.org/manga/22998",
-  "last_updated": "March 16, 2021 08:38:48 UTC",
+  "last_updated": "March 18, 2021 09:18:20 UTC",
   "matches": [
     {
       "id": 21687,
       "title": "Akujiki no Dinner",
       "score": 0.32,
-      "r18": false
-    },
-    {
-      "id": 12992,
-      "title": "Free! - Ningyo no Mirai (Doujinshi)",
-      "score": 0.256,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ct",
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 13884,
       "title": "Akai Hana",
       "score": 0.213,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "it"
+      ]
     }
   ]
 }

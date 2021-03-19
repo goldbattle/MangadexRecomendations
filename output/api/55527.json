@@ -1,158 +1,303 @@
 {
   "id": 55527,
   "title": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru",
-  "url": "https://api.mangadex.org/v2/manga/55527",
-  "last_updated": "March 12, 2021 20:38:58 UTC",
+  "url": "https://mangadex.org/manga/55527",
+  "last_updated": "March 18, 2021 14:04:06 UTC",
   "matches": [
     {
-      "id": 23231,
-      "title": "Wu Dong Qian Kun",
-      "score": 0.756,
-      "r18": false
+      "id": 24651,
+      "title": "Saihate no Paladin",
+      "score": 0.282,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru",
+        "id"
+      ]
     },
     {
-      "id": 6872,
-      "title": "Tales of Vesperia",
-      "score": 0.754,
-      "r18": false
+      "id": 31002,
+      "title": "Jimi na Kensei wa Sore Demo Saikyou Desu",
+      "score": 0.277,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "kr",
+        "fr",
+        "mx"
+      ]
     },
     {
-      "id": 15114,
-      "title": "Haken no Kouki Altina",
-      "score": 0.741,
-      "r18": false
+      "id": 38291,
+      "title": "Maseki Gurume: Mamono no Chikara o Tabeta Ore wa Saikyou!",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "ru",
+        "mx"
+      ]
     },
     {
-      "id": 23195,
-      "title": "The Great Ruler",
-      "score": 0.736,
-      "r18": false
+      "id": 36646,
+      "title": "The Swordsman Called the Countless Swords&rsquo; Sorcerer",
+      "score": 0.274,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru",
+        "fr",
+        "hk",
+        "br",
+        "es",
+        "id"
+      ]
     },
     {
-      "id": 47371,
-      "title": "A Breakthrough Brought by Forbidden Master and Disciple",
-      "score": 0.733,
-      "r18": false
+      "id": 56584,
+      "title": "Dorei Tensei: Sono Dorei, Saikyou no Moto Ouji ni Tsuki",
+      "score": 0.273,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 1790,
-      "title": "Arata Kangatari",
-      "score": 0.733,
-      "r18": false
+      "id": 18642,
+      "title": "Tensei Shichattayo (Iya, Gomen)",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id"
+      ]
     },
     {
-      "id": 8325,
-      "title": "Tales of Innocence",
-      "score": 0.732,
-      "r18": false
+      "id": 4454,
+      "title": "Fire Emblem: Hasha no Tsurugi",
+      "score": 0.254,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 38543,
-      "title": "Fights Break Sphere &ndash; Return of the Beasts",
-      "score": 0.732,
-      "r18": false
+      "id": 56036,
+      "title": "Isekai Saikyou no Daimaou, Tensei Shi Boukensha ni Naru",
+      "score": 0.253,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 42459,
-      "title": "Akame ga Kill! 1.5",
-      "score": 0.728,
-      "r18": false
+      "id": 41726,
+      "title": "Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru",
+      "score": 0.251,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "id"
+      ]
     },
     {
-      "id": 15082,
-      "title": "Tales of Zestiria - Time of Guidance",
-      "score": 0.727,
-      "r18": false
-    },
-    {
-      "id": 19671,
-      "title": "Sword Art Online - Project Alicization",
-      "score": 0.727,
-      "r18": false
-    },
-    {
-      "id": 8396,
-      "title": "Tales of the Abyss - Another Story",
-      "score": 0.726,
-      "r18": false
-    },
-    {
-      "id": 8401,
-      "title": "Sword Art Online - Fairy Dance",
-      "score": 0.725,
-      "r18": false
-    },
-    {
-      "id": 21061,
-      "title": "Tales of Berseria",
-      "score": 0.724,
-      "r18": false
-    },
-    {
-      "id": 46608,
-      "title": "Sword Art Online - Lycoris",
-      "score": 0.723,
-      "r18": false
-    },
-    {
-      "id": 1853,
-      "title": "Stigmata",
-      "score": 0.723,
-      "r18": false
-    },
-    {
-      "id": 55481,
-      "title": "A Sword Master Childhood Friend Power Harassed Me Harshly, so I Broke off Our Relationship and Made a Fresh Start at the Frontier as a Magic Swordsman",
-      "score": 0.722,
-      "r18": false
-    },
-    {
-      "id": 1417,
-      "title": "Shingetsutan Tsukihime",
-      "score": 0.722,
-      "r18": false
-    },
-    {
-      "id": 4994,
-      "title": "Saint Seiya",
-      "score": 0.721,
-      "r18": false
-    },
-    {
-      "id": 25435,
-      "title": "Madara",
-      "score": 0.721,
-      "r18": false
-    },
-    {
-      "id": 14578,
-      "title": "Wu Ji Jian Shen",
-      "score": 0.72,
-      "r18": false
-    },
-    {
-      "id": 5683,
-      "title": "Mononoke Hime",
-      "score": 0.72,
-      "r18": false
-    },
-    {
-      "id": 2340,
-      "title": "Fate/stay night",
-      "score": 0.718,
-      "r18": false
+      "id": 28612,
+      "title": "Tensei Kizoku no Isekai Boukenroku ~Jichou wo Shiranai Kamigami no Shito~",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "ru",
+        "id",
+        "fr"
+      ]
     },
     {
       "id": 56362,
       "title": "Unnamed Memory",
-      "score": 0.718,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
-      "id": 3918,
-      "title": "Magic Kaito",
-      "score": 0.717,
-      "r18": false
+      "id": 23710,
+      "title": "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "id",
+        "br"
+      ]
+    },
+    {
+      "id": 51228,
+      "title": "The Iceblade Magician Rules Over the World",
+      "score": 0.247,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru"
+      ]
+    },
+    {
+      "id": 51376,
+      "title": "Reincarnated as an Aristocrat with an Appraisal Skill",
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "mx",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 50659,
+      "title": "Mahou Shoujo Gakuen no Suketto Kyoushi",
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 40220,
+      "title": "Kagami no Mukou no Saihate Toshokan",
+      "score": 0.243,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 32084,
+      "title": "Saikyou Juzoku Tensei: Cheat Majutsushi no Slow Life",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru",
+        "br"
+      ]
+    },
+    {
+      "id": 44658,
+      "title": "Isekai Tensei... Sareteneee!",
+      "score": 0.238,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id"
+      ]
+    },
+    {
+      "id": 43692,
+      "title": "Demonic Emperor",
+      "score": 0.238,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id",
+        "tr",
+        "it",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 12009,
+      "title": "Soul Land",
+      "score": 0.237,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "mx",
+        "fr",
+        "pl",
+        "ru"
+      ]
+    },
+    {
+      "id": 14850,
+      "title": "Death March kara Hajimaru Isekai Kyousoukyoku",
+      "score": 0.237,
+      "r18": false,
+      "languages": [
+        "br",
+        "id",
+        "gb",
+        "it",
+        "fr",
+        "mx",
+        "pl"
+      ]
+    },
+    {
+      "id": 40714,
+      "title": "Taiworld",
+      "score": 0.236,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 15252,
+      "title": "Hai to Gensou no Grimgar",
+      "score": 0.236,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 19517,
+      "title": "Kenja no Deshi wo Nanoru Kenja",
+      "score": 0.236,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "br",
+        "ru",
+        "fr"
+      ]
+    },
+    {
+      "id": 55875,
+      "title": "Ore wa Subete wo &ldquo;Parry&rdquo; Suru",
+      "score": 0.235,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id"
+      ]
     }
   ]
 }

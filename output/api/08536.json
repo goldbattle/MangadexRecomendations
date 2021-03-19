@@ -1,158 +1,289 @@
 {
   "id": 8536,
-  "title": "Magi - Sinbad no Bouken",
+  "title": "Magi: Sinbad no Bouken",
   "url": "https://mangadex.org/manga/8536",
-  "last_updated": "March 14, 2021 20:20:26 UTC",
+  "last_updated": "March 18, 2021 06:58:23 UTC",
   "matches": [
     {
       "id": 3638,
       "title": "Ragnar&ouml;k: Into the Abyss",
       "score": 0.306,
-      "r18": false
-    },
-    {
-      "id": 558,
-      "title": "Fairy Tail",
-      "score": 0.306,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 42183,
       "title": "Mashima HERO'S",
       "score": 0.306,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "it",
+        "ru",
+        "id"
+      ]
     },
     {
-      "id": 6206,
-      "title": "Ore ga Heroine o Tasukesugite Sekai ga Little Mokushiroku!?",
-      "score": 0.272,
-      "r18": false
+      "id": 558,
+      "title": "Fairy Tail",
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "br",
+        "ru",
+        "it",
+        "id",
+        "tr",
+        "bg"
+      ]
     },
     {
       "id": 21505,
       "title": "GrimAter",
       "score": 0.272,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 12647,
       "title": "Fairy Tail Zero",
       "score": 0.272,
-      "r18": false
-    },
-    {
-      "id": 15449,
-      "title": "Kurenai no Ansatsusha",
-      "score": 0.263,
-      "r18": false
-    },
-    {
-      "id": 4906,
-      "title": "MuvLuv Unlimited",
-      "score": 0.263,
-      "r18": false
-    },
-    {
-      "id": 56147,
-      "title": "I Was Dismissed from the Hero&rsquo;s Party Because They Don't Need My Training Skills, so I Strengthened My [Fief] Which I Got as a Replacement for My Retirement Money",
-      "score": 0.263,
-      "r18": false
-    },
-    {
-      "id": 3920,
-      "title": "Hameln no Violin Hiki",
-      "score": 0.263,
-      "r18": false
-    },
-    {
-      "id": 14405,
-      "title": "Plunderer",
-      "score": 0.263,
-      "r18": false
-    },
-    {
-      "id": 2336,
-      "title": "Hitsugi no Chaika",
-      "score": 0.263,
-      "r18": false
-    },
-    {
-      "id": 43349,
-      "title": "The Only &quot;R&quot; in the world",
-      "score": 0.263,
-      "r18": false
-    },
-    {
-      "id": 2019,
-      "title": "Mahou Tsukai Kurohime",
-      "score": 0.263,
-      "r18": false
-    },
-    {
-      "id": 129,
-      "title": "GetBackers",
-      "score": 0.263,
-      "r18": false
-    },
-    {
-      "id": 29270,
-      "title": "Fairy Tail: 100 Years Quest",
-      "score": 0.263,
-      "r18": false
-    },
-    {
-      "id": 31979,
-      "title": "DOLLS Transmigration Fantasy",
-      "score": 0.263,
-      "r18": false
-    },
-    {
-      "id": 10243,
-      "title": "Cross x Regalia",
-      "score": 0.263,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "pl"
+      ]
     },
     {
       "id": 14148,
       "title": "Fairy Girls",
-      "score": 0.263,
-      "r18": false
-    },
-    {
-      "id": 49,
-      "title": "Medaka Box",
-      "score": 0.263,
-      "r18": false
-    },
-    {
-      "id": 48928,
-      "title": "Mahou Senshi Louie (Hasegawa Kouji)",
-      "score": 0.263,
-      "r18": false
-    },
-    {
-      "id": 1152,
-      "title": "Witch Hunter",
-      "score": 0.263,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 36294,
       "title": "Sekai de Tadahitori no Mamono Tsukai ~Tenshoku Shitara Maou ni Machigawa Remashita~",
-      "score": 0.263,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "sa"
+      ]
+    },
+    {
+      "id": 2336,
+      "title": "Hitsugi no Chaika",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 1152,
+      "title": "Witch Hunter",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "de",
+        "sa"
+      ]
+    },
+    {
+      "id": 129,
+      "title": "GetBackers",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it",
+        "pl"
+      ]
+    },
+    {
+      "id": 42284,
+      "title": "Magical\u2606Taruruuto-kun",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 44569,
+      "title": "Kami Skill (Kokyuu) Suru Dake De Level Up Suru Boku Wa, Kamigami No Dungeon E Idomu",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10243,
+      "title": "Cross x Regalia",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "mx"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "The Legend of Maian",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu"
+      ]
     },
     {
       "id": 2194,
       "title": "Ghost Sweeper Mikami",
-      "score": 0.263,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 239,
-      "title": "Mismarca Koukoku Monogatari",
-      "score": 0.263,
-      "r18": false
+      "id": 30103,
+      "title": "Sono Mono. Nochi ni... ~Kigatsuitara S-kyuu Saikyou!? Yuusha Wazu no Daibouken~",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr",
+        "br",
+        "mx"
+      ]
+    },
+    {
+      "id": 31979,
+      "title": "DOLLS Transmigration Fantasy",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 22344,
+      "title": "Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaa-san wa Suki desu ka?",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "id",
+        "fr",
+        "ru",
+        "mx"
+      ]
+    },
+    {
+      "id": 27243,
+      "title": "Orient",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "mx",
+        "sa",
+        "it",
+        "br",
+        "id",
+        "es"
+      ]
+    },
+    {
+      "id": 49,
+      "title": "Medaka Box",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "pl",
+        "de"
+      ]
+    },
+    {
+      "id": 6206,
+      "title": "Ore ga Heroine o Tasukesugite Sekai ga Little Mokushiroku!?",
+      "score": 0.251,
+      "r18": false,
+      "languages": [
+        "ru",
+        "fr",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 14405,
+      "title": "Plunderer",
+      "score": 0.247,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "mx",
+        "fr"
+      ]
+    },
+    {
+      "id": 56147,
+      "title": "I Was Dismissed from the Hero&rsquo;s Party Because They Don't Need My Training Skills, so I Strengthened My [Fief] Which I Got as a Replacement for My Retirement Money",
+      "score": 0.246,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
+    },
+    {
+      "id": 31349,
+      "title": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka (Fan Colored)",
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4764,
+      "title": "Bakuretsu Hunters",
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

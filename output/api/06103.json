@@ -2,157 +2,259 @@
   "id": 6103,
   "title": "Shonan Bakusozoku",
   "url": "https://mangadex.org/manga/6103",
-  "last_updated": "March 14, 2021 12:46:36 UTC",
+  "last_updated": "March 18, 2021 06:37:39 UTC",
   "matches": [
     {
       "id": 1424,
       "title": "Worst",
-      "score": 0.338,
-      "r18": false
+      "score": 0.337,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 1008,
       "title": "High School",
       "score": 0.336,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8854,
       "title": "A-bout!",
-      "score": 0.333,
-      "r18": false
+      "score": 0.332,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "id",
+        "fr"
+      ]
     },
     {
       "id": 2093,
       "title": "Crows",
-      "score": 0.326,
-      "r18": false
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 982,
       "title": "Shonan Junaigumi!",
-      "score": 0.313,
-      "r18": false
+      "score": 0.312,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "tr"
+      ]
     },
     {
       "id": 51168,
       "title": "Worst Gaiden Mr. Zetton",
-      "score": 0.306,
-      "r18": false
+      "score": 0.305,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 3241,
       "title": "Drop",
       "score": 0.295,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 694,
       "title": "Ocha Nigosu",
-      "score": 0.292,
-      "r18": false
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 16298,
       "title": "B Group no Shounen",
-      "score": 0.286,
-      "r18": false
+      "score": 0.285,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21068,
       "title": "Nanba MG5",
-      "score": 0.285,
-      "r18": false
+      "score": 0.284,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4113,
       "title": "Clover",
-      "score": 0.285,
-      "r18": false
+      "score": 0.284,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "it",
+        "mx",
+        "pl"
+      ]
     },
     {
       "id": 2255,
       "title": "Shunkan Heroism",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 630,
-      "title": "Dual x Justice",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 18741,
-      "title": "Vector Ball",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 8156,
-      "title": "Datenshi Gakuen Debipara",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 19764,
-      "title": "Crows Gaiden",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 750,
-      "title": "BaggataWay",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 1333,
-      "title": "Ann Cassandra",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 13763,
-      "title": "Metsuko ni Yoroshiku",
-      "score": 0.28,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 918,
       "title": "Guardian Dog",
-      "score": 0.28,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 630,
+      "title": "Dual x Justice",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18741,
+      "title": "Vector Ball",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8156,
+      "title": "Datenshi Gakuen Debipara",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19764,
+      "title": "Crows Gaiden",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 750,
+      "title": "BaggataWay",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1333,
+      "title": "Ann Cassandra",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 13763,
+      "title": "Metsuko ni Yoroshiku",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 24358,
       "title": "Sakura Ganbaru!",
-      "score": 0.28,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 24540,
       "title": "OMG",
-      "score": 0.28,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 24306,
       "title": "Battle Story Rockman.EXE",
-      "score": 0.28,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21312,
+      "title": "Toaru Kagaku no Railgun Gaiden - Astral Buddy",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "cn",
+        "ru",
+        "br",
+        "de",
+        "fr",
+        "it"
+      ]
     },
     {
       "id": 13728,
       "title": "Gakuen Psycho-Pass",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 1035,
-      "title": "Stand Up!",
-      "score": 0.28,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -1,158 +1,274 @@
 {
   "id": 51721,
   "title": "Kimi ga Niku ni Nattemo",
-  "url": "https://api.mangadex.org/v2/manga/51721",
-  "last_updated": "February 05, 2021 12:12:39 UTC",
+  "url": "https://mangadex.org/manga/51721",
+  "last_updated": "March 18, 2021 13:32:18 UTC",
   "matches": [
-    {
-      "id": 13355,
-      "title": "Ousama Game - Shuukyoku",
-      "score": 0.654,
-      "r18": false
-    },
     {
       "id": 41116,
       "title": "Ankoku Jiten",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 44685,
-      "title": "Balemount",
-      "score": 0.292,
-      "r18": false
-    },
-    {
-      "id": 1497,
-      "title": "Wendy",
-      "score": 0.286,
-      "r18": false
-    },
-    {
-      "id": 56174,
-      "title": "Witch Creek Road",
-      "score": 0.283,
-      "r18": false
-    },
-    {
-      "id": 21069,
-      "title": "Shokuryou Jinrui",
-      "score": 0.281,
-      "r18": false
-    },
-    {
-      "id": 13896,
-      "title": "Paranoia Star",
-      "score": 0.278,
-      "r18": false
-    },
-    {
-      "id": 45432,
-      "title": "Goumon Meikyuu",
-      "score": 0.272,
-      "r18": false
-    },
-    {
-      "id": 53726,
-      "title": "Dead End Loop",
-      "score": 0.272,
-      "r18": false
-    },
-    {
-      "id": 24539,
-      "title": "Rule - Annihilation Classroom -",
-      "score": 0.261,
-      "r18": false
-    },
-    {
-      "id": 32665,
-      "title": "VS EVIL",
-      "score": 0.259,
-      "r18": false
-    },
-    {
-      "id": 40645,
-      "title": "Penalty School",
-      "score": 0.248,
-      "r18": false
-    },
-    {
-      "id": 43725,
-      "title": "Mushroom",
-      "score": 0.241,
-      "r18": false
-    },
-    {
-      "id": 40874,
-      "title": "Mad Summer School",
-      "score": 0.234,
-      "r18": false
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 25233,
       "title": "Jisatsu Yuugi",
-      "score": 0.233,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 10166,
-      "title": "Harem End",
-      "score": 0.233,
-      "r18": false
+      "id": 13896,
+      "title": "Paranoia Star",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 1207,
-      "title": "Jigokusei Lemina",
-      "score": 0.231,
-      "r18": false
+      "id": 53726,
+      "title": "Dead End Loop",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx",
+        "fr"
+      ]
     },
     {
-      "id": 44978,
-      "title": "Deep Insanity",
-      "score": 0.227,
-      "r18": false
+      "id": 45432,
+      "title": "Goumon Meikyuu",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 2774,
-      "title": "Hinamizawa Teiryuujo - Higurashi no Naku Koro ni Genten",
-      "score": 0.225,
-      "r18": false
+      "id": 40645,
+      "title": "Penalty School",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 43725,
+      "title": "Mushroom",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 42869,
+      "title": "The Buffet",
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 32665,
+      "title": "VS EVIL",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "hk",
+        "es",
+        "gb",
+        "ir",
+        "id",
+        "br",
+        "ru"
+      ]
+    },
+    {
+      "id": 54918,
+      "title": "77 Billion Disasters",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1497,
+      "title": "Wendy",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 21069,
+      "title": "Shokuryou Jinrui",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 40874,
+      "title": "Mad Summer School",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn",
+        "br"
+      ]
+    },
+    {
+      "id": 24539,
+      "title": "Rule - Annihilation Classroom -",
+      "score": 0.126,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "it"
+      ]
     },
     {
       "id": 48042,
       "title": "Shen Ze",
-      "score": 0.224,
-      "r18": false
+      "score": 0.125,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 44978,
+      "title": "Deep Insanity",
+      "score": 0.125,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 10166,
+      "title": "Harem End",
+      "score": 0.125,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22729,
       "title": "Mashuri no Hako",
-      "score": 0.224,
-      "r18": false
+      "score": 0.125,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 23833,
       "title": "Jinrou Game: Beast Side",
-      "score": 0.22,
-      "r18": false
+      "score": 0.125,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx",
+        "br"
+      ]
     },
     {
-      "id": 46498,
-      "title": "Kemono Giga",
-      "score": 0.219,
-      "r18": false
+      "id": 13502,
+      "title": "Tokyo Ghoul:re",
+      "score": 0.125,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "ru",
+        "id",
+        "br",
+        "es"
+      ]
     },
     {
-      "id": 52602,
-      "title": "Her Majesty&rsquo;s Swarm",
-      "score": 0.218,
-      "r18": false
+      "id": 28665,
+      "title": "Pumpkin Night",
+      "score": 0.125,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "tr",
+        "it",
+        "id",
+        "br",
+        "fr"
+      ]
     },
     {
-      "id": 43504,
-      "title": "Denjin N",
-      "score": 0.213,
-      "r18": false
+      "id": 40409,
+      "title": "Private Punishment Game",
+      "score": 0.125,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 25235,
+      "title": "Kagayake! Daitoua Kyoueiken",
+      "score": 0.125,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 58535,
+      "title": "Excuse me",
+      "score": 0.123,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 58529,
+      "title": "#DRCL midnight children",
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa",
+        "ru"
+      ]
     }
   ]
 }

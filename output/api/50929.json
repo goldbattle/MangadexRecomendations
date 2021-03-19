@@ -1,158 +1,280 @@
 {
   "id": 50929,
   "title": "Detective Conan: The Time Bombed Skyscraper",
-  "url": "https://api.mangadex.org/v2/manga/50929",
-  "last_updated": "February 05, 2021 08:31:23 UTC",
+  "url": "https://mangadex.org/manga/50929",
+  "last_updated": "March 18, 2021 13:25:41 UTC",
   "matches": [
     {
       "id": 1036,
       "title": "Rave",
-      "score": 0.255,
-      "r18": false
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa",
+        "ua",
+        "br"
+      ]
     },
     {
       "id": 2977,
       "title": "Pumpkin Scissors",
-      "score": 0.255,
-      "r18": false
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 3918,
       "title": "Magic Kaito",
-      "score": 0.255,
-      "r18": false
-    },
-    {
-      "id": 9558,
-      "title": "Arslan Senki",
-      "score": 0.255,
-      "r18": false
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ct",
+        "ru",
+        "id",
+        "pl"
+      ]
     },
     {
       "id": 11890,
       "title": "Rokka no Yuusha",
-      "score": 0.255,
-      "r18": false
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 12432,
       "title": "Ore to Kawazu-san no Isekai Hourouki",
-      "score": 0.255,
-      "r18": false
-    },
-    {
-      "id": 12581,
-      "title": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka Gaiden - Sword Oratoria",
-      "score": 0.255,
-      "r18": false
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "fr",
+        "br"
+      ]
     },
     {
       "id": 12720,
       "title": "Soul Land II - The Peerless Tang Sect",
-      "score": 0.255,
-      "r18": false
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "it"
+      ]
     },
     {
       "id": 13963,
       "title": "Yu-Gi-Oh! GX",
-      "score": 0.255,
-      "r18": false
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22104,
       "title": "Saikyou no Shokugyou wa Yuusha Demo Kenja Demo Naku Kanteishi (Kari) Rashii Desu yo?",
-      "score": 0.255,
-      "r18": false
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id"
+      ]
     },
     {
       "id": 22809,
       "title": "Soukyuu no Ariadne",
-      "score": 0.255,
-      "r18": false
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "es"
+      ]
     },
     {
       "id": 28526,
       "title": "JoJo's Bizarre Adventure Part 3 - Stardust Crusaders",
-      "score": 0.255,
-      "r18": false
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 28542,
-      "title": "JoJo's Bizarre Adventure Part 6 - Stone Ocean",
-      "score": 0.255,
-      "r18": false
+      "title": "JoJo's Bizarre Adventure Part 6: Stone Ocean",
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 29318,
       "title": "Detective Conan Special",
-      "score": 0.255,
-      "r18": false
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 38712,
       "title": "Hakata Tonkotsu Ramens",
-      "score": 0.255,
-      "r18": false
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 44781,
       "title": "Tenohira Sousei-ki",
-      "score": 0.255,
-      "r18": false
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 54801,
       "title": "One Piece Episode A",
-      "score": 0.255,
-      "r18": false
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "ru",
+        "sa"
+      ]
     },
     {
       "id": 58461,
       "title": "Midoriyama Police Gang",
-      "score": 0.255,
-      "r18": false
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2589,
       "title": "Tantei Gakuen Q",
-      "score": 0.238,
-      "r18": false
+      "score": 0.196,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 107,
       "title": "Toriko",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "es",
+        "mx",
+        "pl"
+      ]
     },
     {
       "id": 134,
       "title": "en&iacute;gm\u04d9",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "de"
+      ]
     },
     {
       "id": 1510,
       "title": "Kamisama no Inai Nichiyoubi",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "pl",
+        "ru"
+      ]
     },
     {
       "id": 3079,
       "title": "Doubutsu no Kuni",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 11041,
       "title": "Stealth Symphony",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "pl"
+      ]
     },
     {
       "id": 12548,
       "title": "Mad God",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "fr",
+        "br"
+      ]
+    },
+    {
+      "id": 15150,
+      "title": "Jitsuryokuha Elite Jin",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 16821,
+      "title": "Vanitas no Carte",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "it",
+        "br",
+        "ru",
+        "mx",
+        "es",
+        "hu"
+      ]
     }
   ]
 }

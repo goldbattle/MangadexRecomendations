@@ -1,26 +1,40 @@
 {
   "id": 51456,
   "title": "Syanago 4-Koma - Knowledge Section",
-  "url": "https://api.mangadex.org/v2/manga/51456",
-  "last_updated": "February 05, 2021 12:08:15 UTC",
+  "url": "https://mangadex.org/manga/51456",
+  "last_updated": "March 18, 2021 13:30:06 UTC",
   "matches": [
     {
       "id": 22945,
       "title": "High School Inari Tamamo-chan!",
-      "score": 0.206,
-      "r18": false
+      "score": 0.182,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 57665,
-      "title": "Ryuuji Sanchi no Akuma-chan",
-      "score": 0.206,
-      "r18": false
+      "title": "Ryuuguuji Sanchi no Akuma-chan",
+      "score": 0.182,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 31183,
       "title": "Tensura Nikki Tensei Shitara Slime Datta Ken",
-      "score": 0.16,
-      "r18": false
+      "score": 0.142,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru",
+        "br",
+        "it",
+        "fr"
+      ]
     }
   ]
 }

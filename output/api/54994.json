@@ -1,158 +1,239 @@
 {
   "id": 54994,
   "title": "ARGONAVIS from BanG Dream!",
-  "url": "https://api.mangadex.org/v2/manga/54994",
-  "last_updated": "March 12, 2021 20:32:21 UTC",
+  "url": "https://mangadex.org/manga/54994",
+  "last_updated": "March 18, 2021 13:59:38 UTC",
   "matches": [
     {
-      "id": 2118,
-      "title": "NANA",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 13742,
-      "title": "Fujicue!!! - Fujicue's Music",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 40505,
-      "title": "Carole &amp; Tuesday",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 6056,
-      "title": "Shigatsu wa Kimi no Uso",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 39973,
-      "title": "Sora no Aosa o Shiru Hito yo",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 4334,
-      "title": "Sakamichi no Apollon",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 51001,
-      "title": "Bowing!",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 30150,
-      "title": "LiveRevolt",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 15198,
-      "title": "Shigatsu wa Kimi no Uso - Coda",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 12279,
-      "title": "Cyber Idol Mink",
-      "score": 0.65,
-      "r18": false
+      "id": 4652,
+      "title": "THE iDOLM@STER -Your Mess@ge-",
+      "score": 0.375,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 44380,
       "title": "Kantai Collection -KanColle- Miiro no Alto Sax",
-      "score": 0.454,
-      "r18": false
-    },
-    {
-      "id": 4652,
-      "title": "THE iDOLM@STER -Your Mess@ge-",
-      "score": 0.433,
-      "r18": false
+      "score": 0.375,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 27478,
       "title": "Tian Lai Yin Ling",
-      "score": 0.37,
-      "r18": false
-    },
-    {
-      "id": 15811,
-      "title": "Wake Up, Girls!",
-      "score": 0.367,
-      "r18": false
-    },
-    {
-      "id": 158,
-      "title": "Go! Go! Heaven!",
-      "score": 0.347,
-      "r18": false
-    },
-    {
-      "id": 14129,
-      "title": "Meg Meg Singer Song Fighter",
-      "score": 0.332,
-      "r18": false
-    },
-    {
-      "id": 34765,
-      "title": "Grass Cricket",
-      "score": 0.32,
-      "r18": false
+      "score": 0.252,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 36039,
       "title": "THE IDOLM@STER Million Live! Comic Anthology 2",
-      "score": 0.314,
-      "r18": false
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 28917,
-      "title": "Nadeshiko Doremisora",
-      "score": 0.312,
-      "r18": false
+      "id": 34765,
+      "title": "Grass Cricket",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 158,
+      "title": "Go! Go! Heaven!",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 15811,
+      "title": "Wake Up, Girls!",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14129,
+      "title": "Meg Meg Singer Song Fighter",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 45899,
       "title": "Tsukiuta SS Anthology",
-      "score": 0.305,
-      "r18": false
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 28891,
-      "title": "Shoujo\u2606Kageki Revue Starlight Overture",
-      "score": 0.297,
-      "r18": false
+      "id": 44664,
+      "title": "Tsukiuta. Anthology",
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 13742,
+      "title": "Fujicue!!! - Fujicue's Music",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 15198,
+      "title": "Shigatsu wa Kimi no Uso - Coda",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 28917,
+      "title": "Nadeshiko Doremisora",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 36409,
+      "title": "Buzzy Noise",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "cn"
+      ]
     },
     {
       "id": 1245,
       "title": "Shounen Note",
-      "score": 0.295,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 4348,
+      "title": "Bokura no Ibasho",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 30934,
       "title": "Rhyming Man",
-      "score": 0.283,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 28891,
+      "title": "Shoujo\u2606Kageki Revue Starlight Overture",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 6827,
+      "title": "THE iDOLM@STER (Mana)",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 52315,
+      "title": "THE iDOLM@STER: Shiny Colors",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29129,
       "title": "Alice to Taiyou",
-      "score": 0.28,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 19798,
-      "title": "Sutamyu - Koukou Seikageki",
-      "score": 0.277,
-      "r18": false
+      "id": 15038,
+      "title": "Hagio Moto's Age of The Beatles Illustrated Essay",
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3952,
+      "title": "Wood Stock",
+      "score": 0.163,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 1692,
+      "title": "Aozora Yell",
+      "score": 0.153,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7605,
+      "title": "THE iDOLM@STER Cinderella Girls - New Generations",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

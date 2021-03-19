@@ -1,158 +1,258 @@
 {
   "id": 44185,
   "title": "Kiss The Bride",
-  "url": "https://api.mangadex.org/v2/manga/44185",
-  "last_updated": "February 11, 2021 16:37:09 UTC",
+  "url": "https://mangadex.org/manga/44185",
+  "last_updated": "March 18, 2021 12:29:16 UTC",
   "matches": [
-    {
-      "id": 41682,
-      "title": "Keeper of the Pearl",
-      "score": 0.693,
-      "r18": false
-    },
-    {
-      "id": 36994,
-      "title": "Fate Makes No Mistakes",
-      "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 59268,
-      "title": "Santa Will Always Grant Your Wishes",
-      "score": 0.674,
-      "r18": false
-    },
-    {
-      "id": 52037,
-      "title": "Holding Room",
-      "score": 0.671,
-      "r18": false
-    },
-    {
-      "id": 52515,
-      "title": "4 Week Lovers",
-      "score": 0.67,
-      "r18": false
-    },
-    {
-      "id": 59175,
-      "title": "Love Script",
-      "score": 0.667,
-      "r18": false
-    },
-    {
-      "id": 31968,
-      "title": "Walk on Water",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 29901,
-      "title": "Dear Door",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 51164,
-      "title": "ANTI P.T.",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 31208,
-      "title": "Hot and Cold",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 42592,
-      "title": "Body Complex",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 40173,
-      "title": "Hot Summer (star) Vacation",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 56675,
-      "title": "When a Yakuza falls in love",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 56007,
-      "title": "I Was Reborn as the Villainess' Father and I Need XXX to Survive?!",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 35907,
-      "title": "Restless",
-      "score": 0.65,
-      "r18": false
-    },
-    {
-      "id": 58528,
-      "title": "Help Me, Uncle!",
-      "score": 0.439,
-      "r18": false
-    },
-    {
-      "id": 50851,
-      "title": "Shh, You'll Wake up the Child",
-      "score": 0.431,
-      "r18": false
-    },
-    {
-      "id": 29843,
-      "title": "Re-season",
-      "score": 0.428,
-      "r18": false
-    },
-    {
-      "id": 45108,
-      "title": "Moonlight Howling",
-      "score": 0.428,
-      "r18": false
-    },
-    {
-      "id": 55657,
-      "title": "Ang Ang",
-      "score": 0.421,
-      "r18": false
-    },
-    {
-      "id": 47612,
-      "title": "Obscura",
-      "score": 0.421,
-      "r18": false
-    },
     {
       "id": 36997,
       "title": "Hyperventilation",
-      "score": 0.411,
-      "r18": false
-    },
-    {
-      "id": 50830,
-      "title": "Siren's Song",
-      "score": 0.41,
-      "r18": false
+      "score": 0.314,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 59770,
       "title": "XX Partner",
-      "score": 0.41,
-      "r18": false
+      "score": 0.314,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 55657,
+      "title": "Ang Ang",
+      "score": 0.314,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
+    },
+    {
+      "id": 29843,
+      "title": "Re-season",
+      "score": 0.314,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 47612,
+      "title": "Obscura",
+      "score": 0.314,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 39781,
       "title": "Obedient Heritage",
-      "score": 0.4,
-      "r18": false
+      "score": 0.314,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 41682,
+      "title": "Keeper of the Pearl",
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 59268,
+      "title": "Santa Will Always Grant Your Wishes",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59175,
+      "title": "Love Script",
+      "score": 0.298,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 50851,
+      "title": "Shh, You'll Wake up the Child",
+      "score": 0.284,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 56675,
+      "title": "When a Yakuza Falls in Love",
+      "score": 0.283,
+      "r18": false,
+      "languages": [
+        "vn",
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 52299,
+      "title": "Trap You In My Trap",
+      "score": 0.283,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 52947,
+      "title": "Form of Sympathy",
+      "score": 0.283,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "ru"
+      ]
+    },
+    {
+      "id": 31968,
+      "title": "Walk on Water",
+      "score": 0.282,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "mx",
+        "br"
+      ]
+    },
+    {
+      "id": 45108,
+      "title": "Moonlight Howling",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 56141,
+      "title": "Smoke &amp; Rain",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 46501,
+      "title": "Solar Eclipse",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 52648,
+      "title": "Chasing Mr. CEO",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 40039,
+      "title": "How to Snag an Alpha",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "id",
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 58689,
+      "title": "Switch",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 57343,
+      "title": "Family Mate",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 43606,
+      "title": "Broken Boy",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 50736,
+      "title": "Willow Romance",
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 28854,
+      "title": "Snow White BL",
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 56182,
+      "title": "Gongmul",
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

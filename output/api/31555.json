@@ -1,158 +1,258 @@
 {
   "id": 31555,
   "title": "Touhai Minagoroshi-hen",
-  "url": "https://api.mangadex.org/v2/manga/31555",
-  "last_updated": "February 10, 2021 08:21:56 UTC",
+  "url": "https://mangadex.org/manga/31555",
+  "last_updated": "March 18, 2021 10:43:53 UTC",
   "matches": [
     {
       "id": 17838,
       "title": "Tohai",
-      "score": 0.912,
-      "r18": false
-    },
-    {
-      "id": 104,
-      "title": "Liar Game",
-      "score": 0.734,
-      "r18": false
-    },
-    {
-      "id": 3148,
-      "title": "Tohai Densetsu Akagi",
-      "score": 0.732,
-      "r18": false
-    },
-    {
-      "id": 843,
-      "title": "20th Century Boys",
-      "score": 0.726,
-      "r18": false
+      "score": 0.856,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5065,
       "title": "Ten - The Nice Guy on the Path of Tenhou",
-      "score": 0.725,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 2678,
-      "title": "6000",
-      "score": 0.723,
-      "r18": false
+      "id": 3148,
+      "title": "Tohai Densetsu Akagi",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "es"
+      ]
     },
     {
-      "id": 191,
-      "title": "Kimi no Knife",
-      "score": 0.717,
-      "r18": false
+      "id": 16818,
+      "title": "Mukoubuchi",
+      "score": 0.282,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 27634,
-      "title": "MW",
-      "score": 0.716,
-      "r18": false
+      "id": 20242,
+      "title": "Thanatos no Shisha",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 43325,
+      "title": "Mizutamari ni Ukabu Shima",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id",
+        "br"
+      ]
+    },
+    {
+      "id": 21926,
+      "title": "Umi no Mukou, Tsuki no Uragawa",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 12218,
+      "title": "Not Simple",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "bg",
+        "br"
+      ]
+    },
+    {
+      "id": 10953,
+      "title": "Yomawari Sensei",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 335,
+      "title": "Eternal Sabbath",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu",
+        "pl"
+      ]
     },
     {
       "id": 1872,
       "title": "Hikari no Machi",
-      "score": 0.715,
-      "r18": false
+      "score": 0.277,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 398,
-      "title": "Tsumi to Batsu - A Falsified Romance",
-      "score": 0.714,
-      "r18": false
+      "id": 31206,
+      "title": "Ijime no Jikan",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 430,
-      "title": "Hotel",
-      "score": 0.713,
-      "r18": false
-    },
-    {
-      "id": 3586,
-      "title": "Oyaji",
-      "score": 0.71,
-      "r18": false
-    },
-    {
-      "id": 7691,
-      "title": "Skull Man",
-      "score": 0.709,
-      "r18": false
-    },
-    {
-      "id": 19086,
-      "title": "Ushiro - The Somber God of Death",
-      "score": 0.708,
-      "r18": false
-    },
-    {
-      "id": 20537,
-      "title": "Seirei Gensouki ~Konna Sekai de Deaeta Kimi ni~",
-      "score": 0.705,
-      "r18": false
-    },
-    {
-      "id": 28617,
-      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run",
-      "score": 0.705,
-      "r18": false
-    },
-    {
-      "id": 1085,
-      "title": "Code Geass: Lelouch of the Rebellion",
-      "score": 0.704,
-      "r18": false
-    },
-    {
-      "id": 3056,
-      "title": "Tokyo Ghoul",
-      "score": 0.703,
-      "r18": false
-    },
-    {
-      "id": 9829,
-      "title": "Immortal Hounds",
-      "score": 0.702,
-      "r18": false
+      "id": 5228,
+      "title": "Hero: Akagi no Ishi wo Tsugu Otoko",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22791,
       "title": "Ningen Shikkaku (Variety Art Works)",
-      "score": 0.702,
-      "r18": false
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 650,
-      "title": "School Days",
-      "score": 0.701,
-      "r18": false
-    },
-    {
-      "id": 14457,
-      "title": "Black Out",
-      "score": 0.7,
-      "r18": false
-    },
-    {
-      "id": 50085,
-      "title": "Legend of the Galactic Heroes",
-      "score": 0.697,
-      "r18": false
-    },
-    {
-      "id": 148,
-      "title": "Destroy and Revolution",
-      "score": 0.697,
-      "r18": false
+      "id": 14151,
+      "title": "Tobaku Datenroku Kaiji: One Poker Hen",
+      "score": 0.271,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 4106,
       "title": "Shikeisyu 042",
-      "score": 0.696,
-      "r18": false
+      "score": 0.271,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3586,
+      "title": "Oyaji",
+      "score": 0.271,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 38165,
+      "title": "Yamima no Mamiya",
+      "score": 0.263,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2343,
+      "title": "Deep Love - Real",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21979,
+      "title": "Steins;Gate 0",
+      "score": 0.261,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
+    },
+    {
+      "id": 10698,
+      "title": "Lucifer no Migite",
+      "score": 0.259,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1242,
+      "title": "Nijigahara Holograph",
+      "score": 0.259,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 3959,
+      "title": "The End",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2975,
+      "title": "Ikigami",
+      "score": 0.256,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 23399,
+      "title": "Zankyou",
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "br",
+        "es",
+        "tr",
+        "ru",
+        "cn",
+        "fr"
+      ]
     }
   ]
 }

@@ -1,32 +1,55 @@
 {
   "id": 34331,
   "title": "Onnanoko no Karada ni Ire Kawacchau Anthology Comic",
-  "url": "https://api.mangadex.org/v2/manga/34331",
-  "last_updated": "February 10, 2021 16:27:01 UTC",
+  "url": "https://mangadex.org/manga/34331",
+  "last_updated": "March 18, 2021 11:07:01 UTC",
   "matches": [
     {
       "id": 28842,
       "title": "Kanojo wa Otou-san",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 15472,
       "title": "Kimi to Boku wo Tsunagumono",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 24667,
       "title": "Tadashi Ore wa Heroine Toshite",
-      "score": 0.172,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 46683,
       "title": "Yotsuya Kaidan!",
-      "score": 0.172,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 12109,
+      "title": "Miyata Shoten e Youkoso!",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

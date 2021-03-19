@@ -1,80 +1,156 @@
 {
   "id": 55281,
   "title": "Me, Doll and Wandering Girl",
-  "url": "https://api.mangadex.org/v2/manga/55281",
-  "last_updated": "March 12, 2021 20:35:51 UTC",
+  "url": "https://mangadex.org/manga/55281",
+  "last_updated": "March 18, 2021 14:02:03 UTC",
   "matches": [
-    {
-      "id": 3745,
-      "title": "Comic Studio",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 960,
-      "title": "Papa no Iukoto wo Kikinasai!",
-      "score": 0.656,
-      "r18": false
-    },
     {
       "id": 7480,
       "title": "Hiiragi Shougakkou Ren&rsquo;ai Club",
-      "score": 0.402,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6579,
       "title": "Kodomo no Jikan",
-      "score": 0.397,
-      "r18": false
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 3745,
+      "title": "Comic Studio",
+      "score": 0.243,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 960,
+      "title": "Papa no Iukoto wo Kikinasai!",
+      "score": 0.228,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 13529,
       "title": "Kudamimi no Neko",
-      "score": 0.306,
-      "r18": false
-    },
-    {
-      "id": 1553,
-      "title": "Kanojo no Kagi wo Akeru Houhou",
-      "score": 0.304,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "tr",
+        "mx",
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 700,
       "title": "Ro-Kyu-Bu!",
-      "score": 0.295,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1553,
+      "title": "Kanojo no Kagi wo Akeru Houhou",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "fr",
+        "de"
+      ]
     },
     {
       "id": 1003,
       "title": "Dance in the Vampire Bund",
-      "score": 0.281,
-      "r18": false
-    },
-    {
-      "id": 29336,
-      "title": "Lazy Dungeon Master",
-      "score": 0.272,
-      "r18": false
-    },
-    {
-      "id": 182,
-      "title": "Rotte no Omocha!",
-      "score": 0.269,
-      "r18": false
-    },
-    {
-      "id": 35468,
-      "title": "Night Bound \u25c6 Aubade",
-      "score": 0.249,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb"
+      ]
     },
     {
       "id": 7635,
       "title": "Fate/kaleid liner PRISMA\u2606ILLYA 3rei!!",
-      "score": 0.236,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx",
+        "ua",
+        "fr",
+        "br"
+      ]
+    },
+    {
+      "id": 182,
+      "title": "Rotte no Omocha!",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "it"
+      ]
+    },
+    {
+      "id": 35468,
+      "title": "Night Bound \u25c6 Aubade",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 29336,
+      "title": "Lazy Dungeon Master",
+      "score": 0.136,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr",
+        "id",
+        "br",
+        "mx"
+      ]
+    },
+    {
+      "id": 15286,
+      "title": "Fate/stay night: Heaven's Feel",
+      "score": 0.088,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru",
+        "es",
+        "br",
+        "id"
+      ]
     }
   ]
 }

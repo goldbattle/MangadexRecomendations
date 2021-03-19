@@ -2,55 +2,126 @@
   "id": 18691,
   "title": "Fire Punch",
   "url": "https://mangadex.org/manga/18691",
-  "last_updated": "March 16, 2021 00:09:55 UTC",
+  "last_updated": "March 18, 2021 08:42:22 UTC",
   "matches": [
     {
       "id": 16516,
       "title": "Pygmalion",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru",
+        "br"
+      ]
+    },
+    {
+      "id": 53891,
+      "title": "From the Red Fog",
+      "score": 0.227,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "fr"
+      ]
     },
     {
       "id": 3273,
       "title": "Shigurui",
       "score": 0.182,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "sa",
+        "hk",
+        "gb",
+        "br",
+        "pl",
+        "ru"
+      ]
     },
     {
       "id": 20973,
       "title": "Kemono Jihen",
       "score": 0.175,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "ru",
+        "pl",
+        "it",
+        "lt"
+      ]
     },
     {
       "id": 31087,
       "title": "Bougyaku no Kokekko",
       "score": 0.17,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br",
+        "id"
+      ]
     },
     {
       "id": 42773,
       "title": "JuJu Tantei",
       "score": 0.165,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 34618,
       "title": "Alexis Teikoku Kouryuuki",
       "score": 0.159,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "br",
+        "mx"
+      ]
+    },
+    {
+      "id": 46103,
+      "title": "Juujika no Rokunin",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "br",
+        "fr",
+        "ru"
+      ]
     },
     {
       "id": 48826,
       "title": "Succubus &amp; Hitman",
-      "score": 0.14,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "ru",
+        "es"
+      ]
     },
     {
       "id": 3509,
       "title": "Spider-Man",
-      "score": 0.14,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

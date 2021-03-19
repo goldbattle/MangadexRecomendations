@@ -1,146 +1,232 @@
 {
   "id": 46708,
   "title": "Summer Fantasy",
-  "url": "https://api.mangadex.org/v2/manga/46708",
-  "last_updated": "February 12, 2021 00:58:41 UTC",
+  "url": "https://mangadex.org/manga/46708",
+  "last_updated": "March 18, 2021 12:50:21 UTC",
   "matches": [
     {
       "id": 59670,
       "title": "The Story of How I Became a Girl's Dog",
-      "score": 0.345,
-      "r18": false
-    },
-    {
-      "id": 56300,
-      "title": "Maid and Skate",
-      "score": 0.345,
-      "r18": false
-    },
-    {
-      "id": 22832,
-      "title": "(Not) a Househusband",
-      "score": 0.34,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 47446,
       "title": "Height Gap x Age Gap",
-      "score": 0.317,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "it",
+        "id"
+      ]
     },
     {
-      "id": 49245,
-      "title": "Toilet no Arisugawa-san",
-      "score": 0.31,
-      "r18": false
+      "id": 22832,
+      "title": "(Not) a Househusband",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 20585,
-      "title": "Like a Laika",
-      "score": 0.307,
-      "r18": false
-    },
-    {
-      "id": 23825,
-      "title": "Senpai ga Uzai Kouhai no Hanashi",
-      "score": 0.306,
-      "r18": false
-    },
-    {
-      "id": 46164,
-      "title": "Kamuko",
-      "score": 0.296,
-      "r18": false
+      "id": 56300,
+      "title": "Maid and Skate",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 35587,
       "title": "Valentine's Day and White Day",
-      "score": 0.292,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "ir",
+        "pl"
+      ]
     },
     {
-      "id": 59682,
-      "title": "Sunshine Doll",
-      "score": 0.286,
-      "r18": false
+      "id": 23825,
+      "title": "Senpai ga Uzai Kouhai no Hanashi",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "br",
+        "ro",
+        "gb",
+        "ru",
+        "it",
+        "tr",
+        "fr",
+        "id",
+        "pl"
+      ]
     },
     {
-      "id": 46158,
-      "title": "Angels' Wings",
-      "score": 0.276,
-      "r18": false
+      "id": 46164,
+      "title": "Kamuko",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 52223,
       "title": "A Story About Becoming Temporary Lovers With a Classmate Who I Fell In Love With at First Sight",
-      "score": 0.27,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn",
+        "it"
+      ]
+    },
+    {
+      "id": 59682,
+      "title": "Sunshine Doll",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 52487,
       "title": "Kamakura Corona",
-      "score": 0.256,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
-      "id": 51607,
-      "title": "Kyouka-sama no sweet sweet boro house",
-      "score": 0.254,
-      "r18": false
-    },
-    {
-      "id": 59058,
-      "title": "A Little Story about a Fish Thief who Steals with Impunity",
+      "id": 46158,
+      "title": "Angels' Wings",
       "score": 0.231,
-      "r18": false
-    },
-    {
-      "id": 56869,
-      "title": "Diary entry - Amazon package",
-      "score": 0.23,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "it"
+      ]
     },
     {
       "id": 55308,
       "title": "Tonari no Ninja",
-      "score": 0.226,
-      "r18": false
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
-      "id": 36526,
-      "title": "The Grimoire of Usami - Hifuu Kurabu Ikai Satsuei Kiroku [Touhou Project]",
-      "score": 0.224,
-      "r18": false
+      "id": 56869,
+      "title": "Diary entry - Amazon package",
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.21,
-      "r18": false
+      "id": 20585,
+      "title": "Like a Laika",
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 52450,
       "title": "How We Met",
-      "score": 0.203,
-      "r18": false
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 59058,
+      "title": "A Little Story about a Fish Thief who Steals with Impunity",
+      "score": 0.161,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 36526,
+      "title": "The Grimoire of Usami - Hifuu Kurabu Ikai Satsuei Kiroku [Touhou Project]",
+      "score": 0.161,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 49382,
       "title": "How I met your father",
-      "score": 0.178,
-      "r18": false
+      "score": 0.161,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 55067,
       "title": "Childhood Friend",
-      "score": 0.172,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn"
+      ]
     },
     {
       "id": 3308,
       "title": "Can't See Can't Hear But Love",
-      "score": 0.153,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 27151,
+      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "it",
+        "id",
+        "ru",
+        "mx",
+        "es",
+        "tr"
+      ]
     }
   ]
 }

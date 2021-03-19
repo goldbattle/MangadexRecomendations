@@ -1,26 +1,59 @@
 {
   "id": 34234,
   "title": "Fate/stay night - Pretty neurosis (Doujinshi)",
-  "url": "https://api.mangadex.org/v2/manga/34234",
-  "last_updated": "February 10, 2021 16:25:30 UTC",
+  "url": "https://mangadex.org/manga/34234",
+  "last_updated": "March 18, 2021 11:06:13 UTC",
   "matches": [
+    {
+      "id": 12316,
+      "title": "\u25cfREC",
+      "score": 0.247,
+      "r18": false,
+      "languages": [
+        "br",
+        "it",
+        "fr",
+        "id",
+        "ua",
+        "gb"
+      ]
+    },
+    {
+      "id": 55620,
+      "title": "If I Could Take this Collar Off",
+      "score": 0.206,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
     {
       "id": 43458,
       "title": "Choujigen Game Neptune: The Animation - Hello New World - Yuusha Hon",
-      "score": 0.203,
-      "r18": false
+      "score": 0.177,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 44940,
       "title": "Gears' Maiden",
-      "score": 0.156,
-      "r18": false
+      "score": 0.133,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 54487,
-      "title": "S Size (Made in Abyss)",
-      "score": 0.1,
-      "r18": false
+      "title": "S Size",
+      "score": 0.085,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

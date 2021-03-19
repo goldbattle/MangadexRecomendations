@@ -1,50 +1,66 @@
 {
   "id": 51754,
   "title": "Double Kill",
-  "url": "https://api.mangadex.org/v2/manga/51754",
-  "last_updated": "February 05, 2021 12:13:09 UTC",
+  "url": "https://mangadex.org/manga/51754",
+  "last_updated": "March 18, 2021 13:32:35 UTC",
   "matches": [
     {
-      "id": 47424,
-      "title": "Welcome to the Nightmare Game",
-      "score": 0.658,
-      "r18": false
+      "id": 36640,
+      "title": "Fantasia World",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 52564,
       "title": "Raiding the Vampire Count",
-      "score": 0.355,
-      "r18": false
-    },
-    {
-      "id": 36640,
-      "title": "Fantasia World",
-      "score": 0.339,
-      "r18": false
-    },
-    {
-      "id": 55442,
-      "title": "FOG (E-sports)",
-      "score": 0.301,
-      "r18": false
-    },
-    {
-      "id": 48197,
-      "title": "Kiss the Abyss",
-      "score": 0.276,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 48466,
       "title": "Straight &quot;Princess&quot; in the Royal Palace",
-      "score": 0.275,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 46114,
-      "title": "Supporting Actor's Survival Game",
-      "score": 0.211,
-      "r18": false
+      "id": 48197,
+      "title": "Kiss the Abyss",
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55442,
+      "title": "FOG (E-sports)",
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 47424,
+      "title": "Welcome to the Nightmare Game",
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru"
+      ]
     }
   ]
 }

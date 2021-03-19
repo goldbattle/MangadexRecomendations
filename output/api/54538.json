@@ -1,62 +1,97 @@
 {
   "id": 54538,
   "title": "Kamitsuki Gakuen",
-  "url": "https://api.mangadex.org/v2/manga/54538",
-  "last_updated": "March 12, 2021 20:26:51 UTC",
+  "url": "https://mangadex.org/manga/54538",
+  "last_updated": "March 18, 2021 13:55:49 UTC",
   "matches": [
     {
       "id": 48001,
       "title": "Touhou - The Maid and the Bloody Watch of Fate",
-      "score": 0.237,
-      "r18": false
+      "score": 0.206,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4915,
       "title": "Tokarev no Ayaui Shiro",
-      "score": 0.233,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 36445,
       "title": "Rin to shite Karen na Hana no you ni",
-      "score": 0.233,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 42177,
       "title": "Unicorn to sabishi-gari ya shoujo",
-      "score": 0.233,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id"
+      ]
     },
     {
       "id": 43561,
       "title": "Noroi no Aoi-chan",
-      "score": 0.233,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 32987,
       "title": "Yagate Kimi ni Naru Official Comic Anthology",
-      "score": 0.2,
-      "r18": false
-    },
-    {
-      "id": 20597,
-      "title": "Seifuku no Vampiress Lord",
-      "score": 0.196,
-      "r18": false
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "de",
+        "gb",
+        "mx",
+        "br"
+      ]
     },
     {
       "id": 50658,
       "title": "Moshi, Koi ga Mieta Nara",
-      "score": 0.175,
-      "r18": false
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "id"
+      ]
+    },
+    {
+      "id": 20597,
+      "title": "Seifuku no Vampiress Lord",
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 26218,
       "title": "From Today I'll Be a Goddess",
-      "score": 0.156,
-      "r18": false
+      "score": 0.133,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

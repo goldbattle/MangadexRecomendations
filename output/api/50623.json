@@ -1,38 +1,59 @@
 {
   "id": 50623,
   "title": "Shanguraddo Shinki",
-  "url": "https://api.mangadex.org/v2/manga/50623",
-  "last_updated": "February 05, 2021 08:26:35 UTC",
+  "url": "https://mangadex.org/manga/50623",
+  "last_updated": "March 18, 2021 13:23:08 UTC",
   "matches": [
     {
       "id": 7926,
       "title": "Shin Violence Jack",
-      "score": 0.726,
-      "r18": false
-    },
-    {
-      "id": 3708,
-      "title": "Violence Jack",
-      "score": 0.701,
-      "r18": false
+      "score": 0.098,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2875,
       "title": "Devilman",
-      "score": 0.691,
-      "r18": false
+      "score": 0.078,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa",
+        "es",
+        "tr"
+      ]
+    },
+    {
+      "id": 3708,
+      "title": "Violence Jack",
+      "score": 0.072,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "br"
+      ]
     },
     {
       "id": 30973,
       "title": "Gekiman! - Devilman Chapter",
-      "score": 0.068,
-      "r18": false
+      "score": 0.055,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19301,
       "title": "Guerrilla High",
-      "score": 0.049,
-      "r18": false
+      "score": 0.04,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

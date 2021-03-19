@@ -1,158 +1,264 @@
 {
   "id": 44958,
   "title": "Kami-sama wa Southpaw",
-  "url": "https://api.mangadex.org/v2/manga/44958",
-  "last_updated": "February 11, 2021 20:18:01 UTC",
+  "url": "https://mangadex.org/manga/44958",
+  "last_updated": "March 18, 2021 12:35:43 UTC",
   "matches": [
     {
       "id": 12096,
       "title": "Chrono Monochrome",
-      "score": 0.233,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 16241,
       "title": "Ashita Aozora",
-      "score": 0.231,
-      "r18": false
+      "score": 0.195,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 32608,
       "title": "Baki Gaiden: Kizudzura",
-      "score": 0.231,
-      "r18": false
+      "score": 0.195,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 216,
       "title": "Rurouni Kenshin",
-      "score": 0.229,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 1410,
       "title": "Teiden Shoujo to Hanemushi no Orchestra",
-      "score": 0.229,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1602,
+      "title": "Samurai Usagi",
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3122,
       "title": "Embalming -The Another Tale of Frankenstein-",
-      "score": 0.229,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 35858,
       "title": "Kimetsu no Yaiba: Tomioka Giyuu Gaiden",
-      "score": 0.229,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx",
+        "hk",
+        "id"
+      ]
     },
     {
       "id": 48759,
       "title": "Kimetsu no Yaiba: Rengoku Kyoujurou Gaiden",
-      "score": 0.229,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx"
+      ]
     },
     {
       "id": 55119,
       "title": "Kimetsu no Yaiba Rengoku Special Oneshot",
-      "score": 0.229,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "tr"
+      ]
     },
     {
       "id": 353,
       "title": "Shibatora",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 358,
       "title": "C&Oslash;DE:BREAKER",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "id"
+      ]
     },
     {
       "id": 910,
       "title": "Kure-nai",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 967,
       "title": "Tokyo ESP",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1928,
       "title": "Vampire Juujikai",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 2190,
       "title": "Nabari no Ou",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": 4209,
       "title": "Hakaijuu",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa",
+        "pl",
+        "br"
+      ]
     },
     {
       "id": 8787,
       "title": "Mirai Nikki Redial",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 9408,
       "title": "Durarara!! Saika-hen",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 17622,
       "title": "I Am A Killer Maid",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 19715,
       "title": "Crimson Ribbon: Smoke Rain",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 14,
       "title": "Green Boy",
-      "score": 0.208,
-      "r18": false
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "tr",
+        "pl"
+      ]
     },
     {
       "id": 1434,
       "title": "Sengoku Youko",
-      "score": 0.206,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "es",
+        "fr",
+        "id"
+      ]
     },
     {
       "id": 3089,
       "title": "Corpse Party - Another Child",
-      "score": 0.206,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 5274,
       "title": "Nijiiro Togarashi",
-      "score": 0.206,
-      "r18": false
-    },
-    {
-      "id": 5538,
-      "title": "JoJo's Bizarre Adventure Part 2 - Battle Tendency",
-      "score": 0.206,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa"
+      ]
     }
   ]
 }

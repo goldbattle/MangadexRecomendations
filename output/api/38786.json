@@ -2,25 +2,36 @@
   "id": 38786,
   "title": "Kuroneko Tei Zakkichou",
   "url": "https://mangadex.org/manga/38786",
-  "last_updated": "March 18, 2021 04:14:42 UTC",
+  "last_updated": "March 18, 2021 11:44:12 UTC",
   "matches": [
     {
       "id": 26009,
       "title": "Dame Inu Renairon",
       "score": 0.16,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 44822,
       "title": "Senpai ni Mayu to Ore",
       "score": 0.16,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29271,
       "title": "Kedamono Arashi",
       "score": 0.128,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "tr",
+        "mx",
+        "gb"
+      ]
     }
   ]
 }

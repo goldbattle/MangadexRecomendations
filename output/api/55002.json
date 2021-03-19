@@ -1,26 +1,36 @@
 {
   "id": 55002,
   "title": "Satou-san is on the left",
-  "url": "https://api.mangadex.org/v2/manga/55002",
-  "last_updated": "March 12, 2021 20:32:27 UTC",
+  "url": "https://mangadex.org/manga/55002",
+  "last_updated": "March 18, 2021 13:59:42 UTC",
   "matches": [
     {
       "id": 53451,
       "title": "Good Night",
-      "score": 0.284,
-      "r18": false
+      "score": 0.248,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 45711,
       "title": "Predawn Girls",
-      "score": 0.237,
-      "r18": false
+      "score": 0.206,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 54045,
       "title": "Marriage as Friends",
-      "score": 0.203,
-      "r18": false
+      "score": 0.177,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

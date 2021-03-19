@@ -2,157 +2,295 @@
   "id": 17550,
   "title": "Nekogahara",
   "url": "https://mangadex.org/manga/17550",
-  "last_updated": "March 15, 2021 21:41:22 UTC",
+  "last_updated": "March 18, 2021 08:28:12 UTC",
   "matches": [
-    {
-      "id": 6153,
-      "title": "Dorothea - Majo no Tetsutsui",
-      "score": 0.331,
-      "r18": false
-    },
-    {
-      "id": 12684,
-      "title": "Shadow Warrior: Tokugawa Ieyasu",
-      "score": 0.33,
-      "r18": false
-    },
-    {
-      "id": 12221,
-      "title": "Rose Guns Days Season 1",
-      "score": 0.327,
-      "r18": false
-    },
-    {
-      "id": 7704,
-      "title": "Warabe no Kusa",
-      "score": 0.325,
-      "r18": false
-    },
-    {
-      "id": 14885,
-      "title": "Rose Guns Days Season 3",
-      "score": 0.323,
-      "r18": false
-    },
-    {
-      "id": 14562,
-      "title": "Rose Guns Days Season 2",
-      "score": 0.322,
-      "r18": false
-    },
-    {
-      "id": 57642,
-      "title": "Kangibanka",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 2533,
-      "title": "Sangokushi",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 5741,
-      "title": "Kamui Gaiden",
-      "score": 0.29,
-      "r18": false
-    },
     {
       "id": 29436,
       "title": "Bounder - The Strongest Boy Xiang Yu",
       "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 10500,
-      "title": "Peace Maker Kurogane",
-      "score": 0.283,
-      "r18": false
-    },
-    {
-      "id": 5271,
-      "title": "Shinsengumi Imon Peace Maker",
-      "score": 0.281,
-      "r18": false
-    },
-    {
-      "id": 14393,
-      "title": "Rurouni Kenshin: Uramaku - Honoo wo Suberu",
-      "score": 0.276,
-      "r18": false
-    },
-    {
-      "id": 3844,
-      "title": "Keiji of The Flowers",
-      "score": 0.272,
-      "r18": false
-    },
-    {
-      "id": 254,
-      "title": "Agrippa",
-      "score": 0.26,
-      "r18": false
-    },
-    {
-      "id": 24383,
-      "title": "Rurouni Kenshin Ibun: Ashitarou Zenka Ari",
-      "score": 0.249,
-      "r18": false
-    },
-    {
-      "id": 5683,
-      "title": "Mononoke Hime",
-      "score": 0.247,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": 7610,
       "title": "Yae no Sakura",
-      "score": 0.242,
-      "r18": false
-    },
-    {
-      "id": 20532,
-      "title": "El Shaddai ceta",
-      "score": 0.232,
-      "r18": false
-    },
-    {
-      "id": 23757,
-      "title": "Uso to Makoto",
-      "score": 0.226,
-      "r18": false
-    },
-    {
-      "id": 3344,
-      "title": "Kerberos Panzer Cop",
-      "score": 0.224,
-      "r18": false
-    },
-    {
-      "id": 5615,
-      "title": "Asklepios",
-      "score": 0.22,
-      "r18": false
-    },
-    {
-      "id": 7095,
-      "title": "Samurai Ragazzi - Sengoku Shounen Seihou Kenbunroku",
-      "score": 0.207,
-      "r18": false
-    },
-    {
-      "id": 2946,
-      "title": "Souten no Koumori",
-      "score": 0.207,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 3588,
       "title": "Akaboshi &ndash; Ibun Suikoden",
       "score": 0.207,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "de",
+        "ru"
+      ]
+    },
+    {
+      "id": 216,
+      "title": "Rurouni Kenshin",
+      "score": 0.184,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 48759,
+      "title": "Kimetsu no Yaiba: Rengoku Kyoujurou Gaiden",
+      "score": 0.179,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx"
+      ]
+    },
+    {
+      "id": 16821,
+      "title": "Vanitas no Carte",
+      "score": 0.161,
+      "r18": false,
+      "languages": [
+        "it",
+        "br",
+        "ru",
+        "mx",
+        "es",
+        "hu"
+      ]
+    },
+    {
+      "id": 16948,
+      "title": "Gosu",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "ru",
+        "sa",
+        "fr",
+        "it",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 18198,
+      "title": "Kimetsu no Yaiba",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "il",
+        "gb",
+        "br",
+        "ru",
+        "mx",
+        "hk",
+        "es",
+        "sa",
+        "ua",
+        "id",
+        "it",
+        "de",
+        "tr"
+      ]
+    },
+    {
+      "id": 5538,
+      "title": "JoJo's Bizarre Adventure Part 2 - Battle Tendency",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "ru"
+      ]
+    },
+    {
+      "id": 23606,
+      "title": "Sengoku Komachi Kuroutan: Noukou Giga",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id"
+      ]
+    },
+    {
+      "id": 47995,
+      "title": "Fate/Grand Order Cries of The Avenger  in the Prison Tower",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "ru",
+        "sa"
+      ]
+    },
+    {
+      "id": 55119,
+      "title": "Kimetsu no Yaiba Rengoku Special Oneshot",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "tr"
+      ]
+    },
+    {
+      "id": 32905,
+      "title": "Kimetsu no Yaiba - Digital Colored Comics",
+      "score": 0.141,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr",
+        "br",
+        "mx",
+        "ua",
+        "sa"
+      ]
+    },
+    {
+      "id": 336,
+      "title": "Kuroshitsuji",
+      "score": 0.14,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "fr",
+        "mx",
+        "tr",
+        "hu",
+        "bg"
+      ]
+    },
+    {
+      "id": 51466,
+      "title": "Come Out, Romeo",
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 35858,
+      "title": "Kimetsu no Yaiba: Tomioka Giyuu Gaiden",
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx",
+        "hk",
+        "id"
+      ]
+    },
+    {
+      "id": 94,
+      "title": "Gintama",
+      "score": 0.122,
+      "r18": false,
+      "languages": [
+        "it",
+        "br",
+        "il",
+        "gb",
+        "ru",
+        "id",
+        "fr",
+        "tr",
+        "sa",
+        "pl"
+      ]
+    },
+    {
+      "id": 27153,
+      "title": "JoJo's Bizarre Adventure Part 1 - Phantom Blood (Official Colored)",
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "tr",
+        "ru",
+        "mx",
+        "it",
+        "bg",
+        "id",
+        "ua"
+      ]
+    },
+    {
+      "id": 27152,
+      "title": "JoJo's Bizarre Adventure Part 2 - Battle Tendency (Official Colored)",
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "ru",
+        "it",
+        "tr"
+      ]
+    },
+    {
+      "id": 34187,
+      "title": "Fate/Grand Order: Epic of Remnant - Pseudo-Singularity I: Quarantined Territory of Malice, Shinjuku - Shinjuku Phantom Incident",
+      "score": 0.103,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru",
+        "id"
+      ]
+    },
+    {
+      "id": 36343,
+      "title": "The Distant Dawn",
+      "score": 0.096,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 34870,
+      "title": "Fate/Grand Order: Epic of Remnant - Variant Singularity III: A Stage of Corpse Hills and Bloody Rivers - Shimousanokuni: Showdown with the Seven Swordmaster Heroic Spirits",
+      "score": 0.085,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "mx",
+        "ru",
+        "id",
+        "es",
+        "br",
+        "sa"
+      ]
     }
   ]
 }

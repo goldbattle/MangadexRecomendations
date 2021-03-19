@@ -1,158 +1,267 @@
 {
   "id": 32496,
   "title": "Shichijisugi no Futaribocchi",
-  "url": "https://api.mangadex.org/v2/manga/32496",
-  "last_updated": "February 10, 2021 08:36:21 UTC",
+  "url": "https://mangadex.org/manga/32496",
+  "last_updated": "March 18, 2021 10:51:44 UTC",
   "matches": [
-    {
-      "id": 29183,
-      "title": "The Dream I Had When I Died",
-      "score": 0.411,
-      "r18": false
-    },
     {
       "id": 13533,
       "title": "The Story of the Thirteenth",
-      "score": 0.404,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29183,
+      "title": "The Dream I Had When I Died",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 31338,
       "title": "A Single Flame",
-      "score": 0.394,
-      "r18": false
-    },
-    {
-      "id": 33395,
-      "title": "Burn Parents",
-      "score": 0.373,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "ru",
+        "fr",
+        "br",
+        "in"
+      ]
     },
     {
       "id": 16475,
       "title": "The Perfect Finger",
-      "score": 0.366,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 20971,
-      "title": "Fuminshou",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 22903,
-      "title": "Bikou",
-      "score": 0.34,
-      "r18": false
+      "id": 33395,
+      "title": "Burn Parents",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 24429,
       "title": "Ensei",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 37806,
-      "title": "Ponkotsu no Tomodachi",
-      "score": 0.321,
-      "r18": false
-    },
-    {
-      "id": 37962,
-      "title": "Yume no Tsudzuki",
-      "score": 0.294,
-      "r18": false
-    },
-    {
-      "id": 21496,
-      "title": "Jisatsuya Honpo",
-      "score": 0.288,
-      "r18": false
-    },
-    {
-      "id": 7043,
-      "title": "Wings",
-      "score": 0.287,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 37476,
       "title": "Kagome",
-      "score": 0.284,
-      "r18": false
-    },
-    {
-      "id": 40848,
-      "title": "Ai no don\u0101",
-      "score": 0.279,
-      "r18": false
-    },
-    {
-      "id": 30202,
-      "title": "Our Future",
-      "score": 0.274,
-      "r18": false
-    },
-    {
-      "id": 49589,
-      "title": "sukoshi tsuyome no kimochi ga warui \u300cSonzai shinai kioku\u300d",
-      "score": 0.272,
-      "r18": false
-    },
-    {
-      "id": 29955,
-      "title": "A Life",
-      "score": 0.265,
-      "r18": false
-    },
-    {
-      "id": 5886,
-      "title": "The Voices That Call Me",
-      "score": 0.264,
-      "r18": false
-    },
-    {
-      "id": 22921,
-      "title": "Voice",
-      "score": 0.263,
-      "r18": false
-    },
-    {
-      "id": 3947,
-      "title": "Kyoushashou",
-      "score": 0.261,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "tr",
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 18884,
       "title": "Shadowman",
-      "score": 0.261,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
-      "id": 30299,
-      "title": "My Sister is a Hikikomori",
-      "score": 0.259,
-      "r18": false
+      "id": 21496,
+      "title": "Jisatsuya Honpo",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "vn"
+      ]
     },
     {
-      "id": 51163,
-      "title": "Oni",
-      "score": 0.258,
-      "r18": false
+      "id": 22921,
+      "title": "Voice",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5886,
+      "title": "The Voices That Call Me",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 1632,
       "title": "Door to Heaven",
-      "score": 0.252,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 37176,
-      "title": "The Worthless Girl Who Wanted to Go to Heaven",
-      "score": 0.248,
-      "r18": false
+      "id": 30299,
+      "title": "My Sister is a Hikikomori",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29955,
+      "title": "A Life",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "br"
+      ]
+    },
+    {
+      "id": 3947,
+      "title": "Kyoushashou",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 51163,
+      "title": "Oni",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37806,
+      "title": "Ponkotsu no Tomodachi",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "mx"
+      ]
+    },
+    {
+      "id": 7043,
+      "title": "Wings",
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "pl",
+        "fr",
+        "bg",
+        "tr"
+      ]
+    },
+    {
+      "id": 37962,
+      "title": "Yume no Tsudzuki",
+      "score": 0.219,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 32494,
+      "title": "Shii-chan",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "id",
+        "ru"
+      ]
+    },
+    {
+      "id": 40848,
+      "title": "Ai no don\u0101",
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 12631,
+      "title": "Cathexis",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 20538,
+      "title": "Fight Bell",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20693,
+      "title": "Yamagarasu",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
+    },
+    {
+      "id": 22209,
+      "title": "Light Trap",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "ru",
+        "it",
+        "fr",
+        "gb"
+      ]
     }
   ]
 }

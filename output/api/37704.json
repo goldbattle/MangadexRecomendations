@@ -2,73 +2,121 @@
   "id": 37704,
   "title": "Dr. Koto Shinryoujo Tokubetsuhen: Shima no Kodomotachi",
   "url": "https://mangadex.org/manga/37704",
-  "last_updated": "March 18, 2021 00:50:02 UTC",
+  "last_updated": "March 18, 2021 11:35:10 UTC",
   "matches": [
-    {
-      "id": 44538,
-      "title": "Hataraku Saibou BABY",
-      "score": 0.287,
-      "r18": false
-    },
     {
       "id": 53428,
       "title": "Shrink ~Psychiatrist Yowai~",
       "score": 0.287,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 44538,
+      "title": "Hataraku Saibou BABY",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "fr",
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 13215,
       "title": "Kounodori",
-      "score": 0.213,
-      "r18": false
+      "score": 0.212,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 1915,
       "title": "Team Medical Dragon",
-      "score": 0.194,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "pl"
+      ]
     },
     {
       "id": 16671,
       "title": "Radiation House",
-      "score": 0.192,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "br",
+        "mx",
+        "ru"
+      ]
     },
     {
       "id": 35421,
       "title": "School Nurse Maria",
-      "score": 0.192,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 26640,
       "title": "Kusuriya no Hitorigoto - Maomao no Koukyuu Nazotoki Techou",
-      "score": 0.144,
-      "r18": false
+      "score": 0.143,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 23537,
       "title": "Watashi to Sensei no Genjuu Shinryouroku",
-      "score": 0.144,
-      "r18": false
+      "score": 0.143,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": 21562,
       "title": "Kusuriya no Hitorigoto",
-      "score": 0.128,
-      "r18": false
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "mx",
+        "tr",
+        "fr",
+        "de",
+        "it"
+      ]
     },
     {
       "id": 4873,
       "title": "Jin",
       "score": 0.104,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 15,
       "title": "Dr. Frost",
       "score": 0.102,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "br"
+      ]
     }
   ]
 }

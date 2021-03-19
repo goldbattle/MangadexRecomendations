@@ -1,38 +1,58 @@
 {
   "id": 47302,
   "title": "Mahjong Diva Obaka Miiko",
-  "url": "https://api.mangadex.org/v2/manga/47302",
-  "last_updated": "February 12, 2021 01:09:05 UTC",
+  "url": "https://mangadex.org/manga/47302",
+  "last_updated": "March 18, 2021 12:55:19 UTC",
   "matches": [
     {
       "id": 19434,
       "title": "Toki",
-      "score": 0.773,
-      "r18": false
-    },
-    {
-      "id": 2268,
-      "title": "Mudazumo Naki Kaikaku",
-      "score": 0.722,
-      "r18": false
-    },
-    {
-      "id": 528,
-      "title": "3-gatsu no Lion",
-      "score": 0.291,
-      "r18": false
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 51992,
       "title": "Nakasete Kurenai Kamiya-san",
-      "score": 0.28,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2268,
+      "title": "Mudazumo Naki Kaikaku",
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it"
+      ]
+    },
+    {
+      "id": 528,
+      "title": "3-gatsu no Lion",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "vn"
+      ]
     },
     {
       "id": 31166,
       "title": "Mudazumo Naki Kaikaku - Princess of Zipang",
-      "score": 0.175,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

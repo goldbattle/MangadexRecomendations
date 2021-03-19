@@ -2,19 +2,26 @@
   "id": 27014,
   "title": "Sayonara Trigger",
   "url": "https://mangadex.org/manga/27014",
-  "last_updated": "March 16, 2021 20:27:09 UTC",
+  "last_updated": "March 18, 2021 10:06:00 UTC",
   "matches": [
     {
       "id": 19799,
       "title": "Ikitemasu ka? Honda-kun",
       "score": 0.16,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 13184,
       "title": "Gugure! Kokkuri-san",
       "score": 0.12,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

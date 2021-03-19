@@ -2,25 +2,40 @@
   "id": 35860,
   "title": "Stand by You",
   "url": "https://mangadex.org/manga/35860",
-  "last_updated": "March 17, 2021 20:18:48 UTC",
+  "last_updated": "March 18, 2021 11:19:46 UTC",
   "matches": [
     {
       "id": 17036,
       "title": "Ibara no Koi",
-      "score": 0.21,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 12801,
       "title": "Okujou no Bai-Bai",
-      "score": 0.21,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "pl",
+        "it",
+        "ct",
+        "br"
+      ]
     },
     {
       "id": 2819,
       "title": "System of Romance",
-      "score": 0.15,
-      "r18": false
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
     }
   ]
 }

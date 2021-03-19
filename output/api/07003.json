@@ -2,43 +2,63 @@
   "id": 7003,
   "title": "Oyayubi Hime",
   "url": "https://mangadex.org/manga/7003",
-  "last_updated": "March 14, 2021 16:37:42 UTC",
+  "last_updated": "March 18, 2021 06:45:25 UTC",
   "matches": [
     {
       "id": 3732,
       "title": "Vampire Crisis",
       "score": 0.283,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 15147,
       "title": "Sister to Vampire",
-      "score": 0.274,
-      "r18": false
+      "score": 0.273,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 27804,
       "title": "Mayu-tan no Tokimeki Note",
       "score": 0.26,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 14086,
       "title": "Otoko no Ko ni wa Himitsu ga aru",
       "score": 0.22,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 6187,
       "title": "1-nen 5-kumi Ikimonogakari",
       "score": 0.173,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2332,
       "title": "Kuro Bara Alice",
-      "score": 0.172,
-      "r18": false
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -1,20 +1,26 @@
 {
   "id": 44935,
   "title": "Hachishaku Hachiwa Keraku Meguri - Igyou Kaikita",
-  "url": "https://api.mangadex.org/v2/manga/44935",
-  "last_updated": "February 11, 2021 20:17:39 UTC",
+  "url": "https://mangadex.org/manga/44935",
+  "last_updated": "March 18, 2021 12:35:32 UTC",
   "matches": [
     {
       "id": 43316,
       "title": "Adventure Kid",
-      "score": 0.256,
-      "r18": true
+      "score": 0.161,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 43333,
       "title": "Urotsukidouji",
-      "score": 0.208,
-      "r18": true
+      "score": 0.122,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

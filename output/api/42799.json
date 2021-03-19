@@ -1,158 +1,271 @@
 {
   "id": 42799,
   "title": "Pop Life",
-  "url": "https://api.mangadex.org/v2/manga/42799",
-  "last_updated": "February 11, 2021 12:30:49 UTC",
+  "url": "https://mangadex.org/manga/42799",
+  "last_updated": "March 18, 2021 12:17:41 UTC",
   "matches": [
-    {
-      "id": 39490,
-      "title": "Love Letter for my Love Then and Now",
-      "score": 0.689,
-      "r18": false
-    },
-    {
-      "id": 13396,
-      "title": "By Chance, We... and...",
-      "score": 0.67,
-      "r18": false
-    },
-    {
-      "id": 37562,
-      "title": "Reiwa Hanamaru Gakuen",
-      "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 42462,
-      "title": "Devil and Song",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 47910,
-      "title": "Finding Sam",
-      "score": 0.657,
-      "r18": false
-    },
-    {
-      "id": 17782,
-      "title": "Somali to Mori no Kami-sama",
-      "score": 0.657,
-      "r18": false
-    },
-    {
-      "id": 40312,
-      "title": "Mother, I'm Sorry",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 22520,
-      "title": "Itaewon Class",
-      "score": 0.653,
-      "r18": false
-    },
     {
       "id": 5350,
       "title": "Mugentou",
-      "score": 0.402,
-      "r18": false
-    },
-    {
-      "id": 44516,
-      "title": "15 Minutes 'Til They Actually Start Dating",
-      "score": 0.291,
-      "r18": false
-    },
-    {
-      "id": 53997,
-      "title": "Shark",
-      "score": 0.28,
-      "r18": false
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 53856,
       "title": "Niwasaki Diary",
-      "score": 0.278,
-      "r18": false
-    },
-    {
-      "id": 26,
-      "title": "Nam Gi-han To be an Elite",
-      "score": 0.277,
-      "r18": false
-    },
-    {
-      "id": 22615,
-      "title": "Onii-chan Is Done For!",
-      "score": 0.277,
-      "r18": false
-    },
-    {
-      "id": 2444,
-      "title": "Please! Mr. Bear!",
-      "score": 0.274,
-      "r18": false
-    },
-    {
-      "id": 35421,
-      "title": "School Nurse Maria",
-      "score": 0.269,
-      "r18": false
-    },
-    {
-      "id": 5945,
-      "title": "The Friendly Winter",
-      "score": 0.268,
-      "r18": false
-    },
-    {
-      "id": 20475,
-      "title": "The Descending Moon at the Foot of the Mountain",
-      "score": 0.257,
-      "r18": false
-    },
-    {
-      "id": 50454,
-      "title": "Aru Mazoku to &quot;Boku&quot; no Monogatari",
-      "score": 0.257,
-      "r18": false
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 50518,
       "title": "The Story of a Girl Who Wants to Hear the Voice of the Person She Likes",
-      "score": 0.255,
-      "r18": false
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 30630,
-      "title": "Mieru Ko-chan (pixiv)",
-      "score": 0.252,
-      "r18": false
-    },
-    {
-      "id": 40632,
-      "title": "Ichizu de Bitch na Kouhai",
-      "score": 0.249,
-      "r18": false
-    },
-    {
-      "id": 37264,
-      "title": "Veggie Hot Bun's School Spring Holiday",
-      "score": 0.249,
-      "r18": false
-    },
-    {
-      "id": 9734,
-      "title": "The Dragon Next Door",
-      "score": 0.245,
-      "r18": false
+      "id": 50793,
+      "title": "Otome Alchemist",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "mx"
+      ]
     },
     {
       "id": 33969,
       "title": "Tekito na Maid no Onee-san &amp; Erasou de Ichizu na Botchan (Pre-Serialization)",
-      "score": 0.245,
-      "r18": false
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 39490,
+      "title": "Love Letter for my Love Then and Now",
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37562,
+      "title": "Reiwa Hanamaru Gakuen",
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "ru",
+        "br"
+      ]
+    },
+    {
+      "id": 44516,
+      "title": "15 Minutes 'Til They Actually Start Dating",
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "id",
+        "ru",
+        "gb",
+        "fr",
+        "br",
+        "th",
+        "mx"
+      ]
+    },
+    {
+      "id": 22615,
+      "title": "Onii-chan Is Done For!",
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it",
+        "fr",
+        "ru",
+        "id",
+        "mx"
+      ]
+    },
+    {
+      "id": 35421,
+      "title": "School Nurse Maria",
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53379,
+      "title": "The Cute One Is You!",
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru",
+        "br"
+      ]
+    },
+    {
+      "id": 27505,
+      "title": "Ore, Tsushima",
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 47074,
+      "title": "Idolmaster - for nobody like me (doujinshi)",
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 40632,
+      "title": "Ichizu de Bitch na Kouhai",
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "mx"
+      ]
+    },
+    {
+      "id": 25851,
+      "title": "Shelter from the Rain",
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br"
+      ]
+    },
+    {
+      "id": 5945,
+      "title": "The Friendly Winter",
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "pl",
+        "br"
+      ]
+    },
+    {
+      "id": 13396,
+      "title": "By Chance, We... and...",
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2444,
+      "title": "Please! Mr. Bear!",
+      "score": 0.157,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr"
+      ]
+    },
+    {
+      "id": 20475,
+      "title": "The Descending Moon at the Foot of the Mountain",
+      "score": 0.157,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Nam Gi-han To be an Elite",
+      "score": 0.157,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50454,
+      "title": "Aru Mazoku to &quot;Boku&quot; no Monogatari",
+      "score": 0.157,
+      "r18": false,
+      "languages": [
+        "cn",
+        "gb"
+      ]
+    },
+    {
+      "id": 9734,
+      "title": "The Dragon Next Door",
+      "score": 0.157,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 35761,
+      "title": "Gay Queen - The Ultimate Judge",
+      "score": 0.157,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59344,
+      "title": "Merry Christmas",
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "ru",
+        "it"
+      ]
+    },
+    {
+      "id": 22520,
+      "title": "Itaewon Class",
+      "score": 0.144,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     }
   ]
 }

@@ -1,158 +1,246 @@
 {
   "id": 46071,
   "title": "Akujin no Oboshimeshi",
-  "url": "https://api.mangadex.org/v2/manga/46071",
-  "last_updated": "February 11, 2021 20:36:00 UTC",
+  "url": "https://mangadex.org/manga/46071",
+  "last_updated": "March 18, 2021 12:45:01 UTC",
   "matches": [
-    {
-      "id": 2163,
-      "title": "Ninohime no Monogatari",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 4824,
-      "title": "Rabu Kare - Gokujou Men Dokuhon!",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 3076,
-      "title": "Kanchigai Musume to Buchigire Ouji",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 3007,
-      "title": "Kimi ga Waratta",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 2353,
-      "title": "A Million Pound Love",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 11867,
-      "title": "Hotarubi no Mori e",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 10945,
-      "title": "Otoko Hime to Mahou no Lamp",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 2118,
-      "title": "NANA",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 59476,
-      "title": "The Tyrant&rsquo;s Guardian Is an Evil Witch",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 4049,
-      "title": "Joou no Hana",
-      "score": 0.65,
-      "r18": false
-    },
-    {
-      "id": 5982,
-      "title": "Mimi wo Sumaseba",
-      "score": 0.65,
-      "r18": false
-    },
-    {
-      "id": 2319,
-      "title": "A Fairy Tale For You",
-      "score": 0.431,
-      "r18": false
-    },
-    {
-      "id": 17271,
-      "title": "Ryuuguu Fantastica",
-      "score": 0.403,
-      "r18": false
-    },
-    {
-      "id": 33243,
-      "title": "The End of the Royal Family",
-      "score": 0.4,
-      "r18": false
-    },
-    {
-      "id": 9068,
-      "title": "Sylph Theme Anthology: Literature Boys",
-      "score": 0.395,
-      "r18": false
-    },
     {
       "id": 1505,
       "title": "In the Cage",
-      "score": 0.393,
-      "r18": false
-    },
-    {
-      "id": 2083,
-      "title": "Xia Ke Xing",
-      "score": 0.389,
-      "r18": false
-    },
-    {
-      "id": 7893,
-      "title": "Hanameguri Awase",
-      "score": 0.385,
-      "r18": false
-    },
-    {
-      "id": 14089,
-      "title": "Colette wa Shinu Koto ni Shita",
-      "score": 0.384,
-      "r18": false
-    },
-    {
-      "id": 2803,
-      "title": "Crazy Girl Shin Bia",
-      "score": 0.382,
-      "r18": false
-    },
-    {
-      "id": 19414,
-      "title": "Vered no Rosemary",
-      "score": 0.382,
-      "r18": false
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 3585,
       "title": "Kuroorihime to Kawaki no Ou",
-      "score": 0.381,
-      "r18": false
-    },
-    {
-      "id": 20153,
-      "title": "Tripitaka Torinique",
-      "score": 0.381,
-      "r18": false
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg",
+        "pl",
+        "fr",
+        "tr"
+      ]
     },
     {
       "id": 13714,
       "title": "Shoku no Hana",
-      "score": 0.38,
-      "r18": false
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 3467,
-      "title": "Oikaketemo Chikazuitemo",
-      "score": 0.378,
-      "r18": false
+      "id": 19414,
+      "title": "Vered no Rosemary",
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9068,
+      "title": "Sylph Theme Anthology: Literature Boys",
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 33243,
+      "title": "The End of the Royal Family",
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2083,
+      "title": "Xia Ke Xing",
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14089,
+      "title": "Colette wa Shinu Koto ni Shita",
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "it",
+        "ru"
+      ]
+    },
+    {
+      "id": 2803,
+      "title": "Crazy Girl Shin Bia",
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 2319,
+      "title": "A Fairy Tale For You",
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "bg",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 45435,
+      "title": "Circumstances of a (Temporary) Bride",
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2441,
+      "title": "Dream Fantasia",
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 17271,
+      "title": "Ryuuguu Fantastica",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 9120,
+      "title": "Chiko no Negai",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3104,
+      "title": "Birthday Presents",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 20153,
+      "title": "Tripitaka Torinique",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2431,
+      "title": "Aries",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3202,
+      "title": "Bird of Youth",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10945,
+      "title": "Otoko Hime to Mahou no Lamp",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 51026,
+      "title": "The Stubborn Tomboy and The Flower",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2442,
+      "title": "Evyione",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9952,
+      "title": "Fallen Flower",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3941,
+      "title": "Four Daughters of Armian",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 30290,
+      "title": "Nil Admirari no Tenbin: Teito Genwaku Kitan",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4140,
+      "title": "Hana wa Sakura yori mo Hana no Gotoku",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

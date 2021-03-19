@@ -2,157 +2,300 @@
   "id": 37961,
   "title": "Akumu",
   "url": "https://mangadex.org/manga/37961",
-  "last_updated": "March 18, 2021 00:54:36 UTC",
+  "last_updated": "March 18, 2021 11:37:20 UTC",
   "matches": [
-    {
-      "id": 4854,
-      "title": "Carpe diem",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 22036,
-      "title": "Zanuff the Butcher",
-      "score": 0.206,
-      "r18": false
-    },
-    {
-      "id": 28509,
-      "title": "You Are Still in a Bird Cage",
-      "score": 0.206,
-      "r18": false
-    },
     {
       "id": 29740,
       "title": "Parasyte Reversi",
-      "score": 0.206,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "hk",
+        "vn",
+        "gb",
+        "it",
+        "mx"
+      ]
     },
     {
       "id": 92,
       "title": "Judge",
       "score": 0.193,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ct",
+        "it",
+        "mn",
+        "gb"
+      ]
     },
     {
       "id": 1108,
       "title": "Semi-Eternal Happy End",
       "score": 0.193,
-      "r18": false
-    },
-    {
-      "id": 1133,
-      "title": "Fetish",
-      "score": 0.193,
-      "r18": false
-    },
-    {
-      "id": 1537,
-      "title": "The End in Common Ruin",
-      "score": 0.193,
-      "r18": false
-    },
-    {
-      "id": 3599,
-      "title": "Battle Royale",
-      "score": 0.193,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 4191,
       "title": "Anorexia &ndash; Shikabane Hanako wa Kyoshokushou",
       "score": 0.193,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "pl"
+      ]
     },
     {
       "id": 5742,
       "title": "Voices in the Dark",
       "score": 0.193,
-      "r18": false
-    },
-    {
-      "id": 5830,
-      "title": "How to Colonize Space",
-      "score": 0.193,
-      "r18": false
-    },
-    {
-      "id": 6064,
-      "title": "Shiro Ame",
-      "score": 0.193,
-      "r18": false
-    },
-    {
-      "id": 7117,
-      "title": "Jikan Akima Jinbutsu",
-      "score": 0.193,
-      "r18": false
-    },
-    {
-      "id": 7178,
-      "title": "Metamorcode",
-      "score": 0.193,
-      "r18": false
-    },
-    {
-      "id": 7223,
-      "title": "Bokura no Hikari Club",
-      "score": 0.193,
-      "r18": false
-    },
-    {
-      "id": 9487,
-      "title": "Visukiisu no Akai Ningyou",
-      "score": 0.193,
-      "r18": false
-    },
-    {
-      "id": 9635,
-      "title": "1/2",
-      "score": 0.193,
-      "r18": false
-    },
-    {
-      "id": 10398,
-      "title": "Alien Nine Emulators",
-      "score": 0.193,
-      "r18": false
-    },
-    {
-      "id": 11223,
-      "title": "Bocchiman",
-      "score": 0.193,
-      "r18": false
-    },
-    {
-      "id": 13491,
-      "title": "Kanojo no Kare",
-      "score": 0.193,
-      "r18": false
-    },
-    {
-      "id": 13494,
-      "title": "Tomo no Kowai Hanashi",
-      "score": 0.193,
-      "r18": false
-    },
-    {
-      "id": 14339,
-      "title": "Tomino the Damned",
-      "score": 0.193,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "ct",
+        "mx",
+        "fr"
+      ]
     },
     {
       "id": 16339,
       "title": "Neko to Ookami",
       "score": 0.193,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
-      "id": 17409,
-      "title": "Replay",
+      "id": 48613,
+      "title": "The Story of a Scientist and...",
       "score": 0.193,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "hu",
+        "vn",
+        "th",
+        "in",
+        "it"
+      ]
+    },
+    {
+      "id": 2801,
+      "title": "Doraemon (Matsumoto Taiyou)",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 14170,
+      "title": "Looking for Clotho",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "fr"
+      ]
+    },
+    {
+      "id": 14502,
+      "title": "Mu-kai",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "it",
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 27593,
+      "title": "DOLL: IC in a Doll",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "it"
+      ]
+    },
+    {
+      "id": 1191,
+      "title": "L&infin;P",
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "pl",
+        "it",
+        "gb"
+      ]
+    },
+    {
+      "id": 707,
+      "title": "Saviour",
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
+    },
+    {
+      "id": 2096,
+      "title": "Doll Star",
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "mn",
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 8676,
+      "title": "Zeni Geba",
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "it",
+        "vn",
+        "gb"
+      ]
+    },
+    {
+      "id": 16215,
+      "title": "Smokin' Parade",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "pl",
+        "ru",
+        "it",
+        "id",
+        "es",
+        "gb"
+      ]
+    },
+    {
+      "id": 5558,
+      "title": "Chijou 10 Meter no Ori kara",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "pl"
+      ]
+    },
+    {
+      "id": 16898,
+      "title": "Kanaria-tachi no Fune",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "fr"
+      ]
+    },
+    {
+      "id": 219,
+      "title": "Akame ga KILL!",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "ru",
+        "es"
+      ]
+    },
+    {
+      "id": 591,
+      "title": "Another",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "hu",
+        "tr",
+        " "
+      ]
+    },
+    {
+      "id": 5166,
+      "title": "Dragon Head",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
+    },
+    {
+      "id": 20296,
+      "title": "Mutation",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "it",
+        "ru",
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 3324,
+      "title": "Itou Junji Kyoufu Manga Collection",
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "br",
+        "it",
+        "hu"
+      ]
+    },
+    {
+      "id": 14763,
+      "title": "Yakushoku Distopiary - Gesellschaft Blume",
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "br",
+        "it",
+        "gb"
+      ]
+    },
+    {
+      "id": 19017,
+      "title": "The Zombie Maria",
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "de",
+        "ru",
+        "it",
+        "pl",
+        "br",
+        "gb",
+        "fr",
+        "id",
+        "ir"
+      ]
     }
   ]
 }

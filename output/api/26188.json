@@ -2,43 +2,46 @@
   "id": 26188,
   "title": "Sekai wa Shippo de Dekiteiru",
   "url": "https://mangadex.org/manga/26188",
-  "last_updated": "March 16, 2021 16:39:50 UTC",
+  "last_updated": "March 18, 2021 09:59:05 UTC",
   "matches": [
     {
       "id": 56095,
       "title": "Fukurou no Koiwazurai",
       "score": 0.34,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29385,
       "title": "Kemonohito Kareshi no Dokusenyoku",
-      "score": 0.24,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 47281,
       "title": "Heat x Beat",
       "score": 0.201,
-      "r18": false
-    },
-    {
-      "id": 39494,
-      "title": "Kowagari ni Kitsuneya",
-      "score": 0.171,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 40002,
       "title": "Sit, Wait, Kiss Me",
-      "score": 0.167,
-      "r18": false
-    },
-    {
-      "id": 59289,
-      "title": "Dandelion of Happiness",
-      "score": 0.167,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "tr"
+      ]
     }
   ]
 }

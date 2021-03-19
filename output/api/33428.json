@@ -1,98 +1,139 @@
 {
   "id": 33428,
   "title": "Bad Boys Glare",
-  "url": "https://api.mangadex.org/v2/manga/33428",
-  "last_updated": "February 10, 2021 12:37:53 UTC",
+  "url": "https://mangadex.org/manga/33428",
+  "last_updated": "March 18, 2021 10:59:30 UTC",
   "matches": [
-    {
-      "id": 3589,
-      "title": "Gangking",
-      "score": 0.688,
-      "r18": false
-    },
-    {
-      "id": 45807,
-      "title": "Life Completely Ruined",
-      "score": 0.686,
-      "r18": false
-    },
-    {
-      "id": 4526,
-      "title": "Tentai Senshi Sanred",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 27841,
-      "title": "Venus Wars",
-      "score": 0.653,
-      "r18": false
-    },
     {
       "id": 1338,
       "title": "QP",
-      "score": 0.398,
-      "r18": false
-    },
-    {
-      "id": 38594,
-      "title": "Yankee Juku e Iku",
-      "score": 0.34,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 56227,
       "title": "Ikkyuu",
-      "score": 0.312,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 38594,
+      "title": "Yankee Juku e Iku",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 23373,
       "title": "QP Gaiden",
-      "score": 0.255,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
-      "id": 21373,
-      "title": "Lupin III - ITALIANO",
-      "score": 0.254,
-      "r18": false
+      "id": 3589,
+      "title": "Gangking",
+      "score": 0.204,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 916,
       "title": "Holyland",
-      "score": 0.249,
-      "r18": false
-    },
-    {
-      "id": 23059,
-      "title": "Hakaima Sadamitsu",
-      "score": 0.216,
-      "r18": false
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "pl"
+      ]
     },
     {
       "id": 58536,
       "title": "True Education",
-      "score": 0.203,
-      "r18": false
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr"
+      ]
     },
     {
-      "id": 38645,
-      "title": "Pounding",
-      "score": 0.201,
-      "r18": false
+      "id": 23059,
+      "title": "Hakaima Sadamitsu",
+      "score": 0.104,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 14414,
       "title": "Lookism",
-      "score": 0.189,
-      "r18": false
+      "score": 0.104,
+      "r18": false,
+      "languages": [
+        "br",
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 4526,
+      "title": "Tentai Senshi Sanred",
+      "score": 0.104,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 45807,
+      "title": "Life Completely Ruined",
+      "score": 0.102,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 27841,
+      "title": "Venus Wars",
+      "score": 0.09,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 10618,
       "title": "Wind Breaker",
-      "score": 0.167,
-      "r18": false
+      "score": 0.08,
+      "r18": false,
+      "languages": [
+        "br",
+        "mx",
+        "tr",
+        "gb",
+        "pl"
+      ]
     }
   ]
 }

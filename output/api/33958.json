@@ -1,158 +1,268 @@
 {
   "id": 33958,
   "title": "Second Coming",
-  "url": "https://api.mangadex.org/v2/manga/33958",
-  "last_updated": "February 10, 2021 12:46:35 UTC",
+  "url": "https://mangadex.org/manga/33958",
+  "last_updated": "March 18, 2021 11:03:55 UTC",
   "matches": [
-    {
-      "id": 3056,
-      "title": "Tokyo Ghoul",
-      "score": 0.267,
-      "r18": false
-    },
     {
       "id": 470,
       "title": "Sprite",
-      "score": 0.258,
-      "r18": false
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 530,
       "title": "Kyousou no Simulacra",
-      "score": 0.258,
-      "r18": false
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 591,
       "title": "Another",
-      "score": 0.258,
-      "r18": false
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "hu",
+        "tr",
+        " "
+      ]
     },
     {
       "id": 2177,
       "title": "Corpse Party - Book of Shadows",
-      "score": 0.258,
-      "r18": false
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2678,
       "title": "6000",
-      "score": 0.258,
-      "r18": false
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "hu"
+      ]
     },
     {
       "id": 6609,
       "title": "Paperweight Eye",
-      "score": 0.258,
-      "r18": false
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 9589,
       "title": "Kasane",
-      "score": 0.258,
-      "r18": false
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 13032,
       "title": "Kyoukotsu no Yume",
-      "score": 0.258,
-      "r18": false
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb"
+      ]
     },
     {
       "id": 13506,
       "title": "Delusional Boy",
-      "score": 0.258,
-      "r18": false
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 16465,
       "title": "Wet Moon",
-      "score": 0.258,
-      "r18": false
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 18602,
       "title": "Edogawa Ranpo Ijinkan",
-      "score": 0.258,
-      "r18": false
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "vn",
+        "gb"
+      ]
     },
     {
       "id": 21142,
       "title": "Kasouba no Nai Machi ni Kane ga Naru Toki",
-      "score": 0.258,
-      "r18": false
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21535,
       "title": "Gedara",
-      "score": 0.258,
-      "r18": false
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22036,
       "title": "Zanuff the Butcher",
-      "score": 0.258,
-      "r18": false
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "mx",
+        "pl",
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 32058,
       "title": "Mushihime",
-      "score": 0.258,
-      "r18": false
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "sa"
+      ]
     },
     {
       "id": 571,
       "title": "Otogi Matsuri",
-      "score": 0.229,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 816,
       "title": "World Embryo",
-      "score": 0.229,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "pl",
+        "es"
+      ]
     },
     {
       "id": 1146,
       "title": "Inugami",
-      "score": 0.229,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 1764,
       "title": "Umineko no Naku Koro ni Chiru Episode 5: End of the Golden Witch",
-      "score": 0.229,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "vn",
+        "fr",
+        "gb",
+        "pl",
+        "sa",
+        "br"
+      ]
     },
     {
       "id": 1766,
       "title": "Umineko no Naku Koro ni Chiru Episode 7: Requiem of the Golden Witch",
-      "score": 0.229,
-      "r18": false
-    },
-    {
-      "id": 13433,
-      "title": "Okitenemuru",
-      "score": 0.229,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19017,
       "title": "The Zombie Maria",
-      "score": 0.229,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "de",
+        "ru",
+        "it",
+        "pl",
+        "br",
+        "gb",
+        "fr",
+        "id",
+        "ir"
+      ]
     },
     {
       "id": 19086,
       "title": "Ushiro - The Somber God of Death",
-      "score": 0.229,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr"
+      ]
     },
     {
       "id": 23583,
       "title": "Kuuchuu Teien no Hitobito",
-      "score": 0.229,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 41041,
+      "title": "Mushihime (Full Color Version)",
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 492,
+      "title": "Sugar Dark: Umerareta Yami to Shoujo",
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     }
   ]
 }

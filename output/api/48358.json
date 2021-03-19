@@ -1,44 +1,47 @@
 {
   "id": 48358,
-  "title": "Orations of a Changed Cat",
+  "title": "The Cat Proposed",
   "url": "https://mangadex.org/manga/48358",
-  "last_updated": "January 15, 2021 12:32:24 UTC",
+  "last_updated": "March 18, 2021 13:04:11 UTC",
   "matches": [
-    {
-      "id": 57329,
-      "title": "Yome wa Hakoiri Musuko",
-      "score": 0.682,
-      "r18": false
-    },
     {
       "id": 35651,
       "title": "Itoshi no Momonga Kareshi",
-      "score": 0.478,
-      "r18": false
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 57329,
+      "title": "Yome wa Hakoiri Musuko",
+      "score": 0.27,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 9218,
       "title": "Mazu wa, Hitokuchi",
-      "score": 0.317,
-      "r18": false
-    },
-    {
-      "id": 43581,
-      "title": "Wolf in the House",
-      "score": 0.307,
-      "r18": false
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 43330,
       "title": "Love, Which Makes Us One",
-      "score": 0.288,
-      "r18": false
-    },
-    {
-      "id": 39494,
-      "title": "Kowagari ni Kitsuneya",
-      "score": 0.2,
-      "r18": false
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "tr"
+      ]
     }
   ]
 }

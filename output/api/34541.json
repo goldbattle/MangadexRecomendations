@@ -1,158 +1,276 @@
 {
   "id": 34541,
   "title": "Tenshi Girl",
-  "url": "https://api.mangadex.org/v2/manga/34541",
-  "last_updated": "February 10, 2021 16:30:14 UTC",
+  "url": "https://mangadex.org/manga/34541",
+  "last_updated": "March 18, 2021 11:08:47 UTC",
   "matches": [
-    {
-      "id": 8720,
-      "title": "Sakuran (IWASHIRO Toshiaki)",
-      "score": 0.24,
-      "r18": false
-    },
     {
       "id": 46837,
       "title": "Choroi desu yo Onigoroshi-san!",
-      "score": 0.24,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 679,
       "title": "Doki Doki Summer Beach",
-      "score": 0.206,
-      "r18": false
-    },
-    {
-      "id": 20481,
-      "title": "Haruyo, Koi!",
-      "score": 0.206,
-      "r18": false
-    },
-    {
-      "id": 40766,
-      "title": "Gal Kazoku",
-      "score": 0.206,
-      "r18": false
-    },
-    {
-      "id": 51272,
-      "title": "Hiratsu Cute, Shizu Cute!",
-      "score": 0.206,
-      "r18": false
-    },
-    {
-      "id": 58042,
-      "title": "I Don't Know if It's LOVE or MAGIC!",
-      "score": 0.206,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "de"
+      ]
     },
     {
       "id": 1907,
       "title": "Kono Kanojo wa Fiction desu.",
-      "score": 0.206,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3252,
       "title": "Majimoji Rurumo",
-      "score": 0.206,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3770,
       "title": "Yamada-kun to 7-nin no Majo",
-      "score": 0.206,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "ct",
+        "ru",
+        "gb",
+        "hu"
+      ]
     },
     {
       "id": 5197,
       "title": "Otome wa Boku ni Koishiteru",
-      "score": 0.206,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5236,
       "title": "Yankee Figure",
-      "score": 0.206,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6893,
       "title": "Kanojo ga Flag wo Oraretara",
-      "score": 0.206,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8119,
       "title": "Wagatsuma-san wa Ore no Yome",
-      "score": 0.206,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 10642,
       "title": "Aizawa-san Zoushoku",
-      "score": 0.206,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "ru",
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 10753,
       "title": "Koi ga Saku Koro Sakura Doki -Charming Scarlet-",
-      "score": 0.206,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11026,
       "title": "Fuuka",
-      "score": 0.206,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "th",
+        "ru",
+        "fr",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 20481,
+      "title": "Haruyo, Koi!",
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 21437,
       "title": "Atsumare! Fushigi Kenkyu-bu",
-      "score": 0.206,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "fr"
+      ]
     },
     {
       "id": 21651,
       "title": "Dokyuu Hentai HxEros",
-      "score": 0.206,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru",
+        "br",
+        "es"
+      ]
     },
     {
       "id": 35067,
       "title": "Please Put These on, Takamine-san",
-      "score": 0.206,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru",
+        "mx",
+        "pl"
+      ]
     },
     {
       "id": 36647,
       "title": "Ponkotsu-chan Kenshouchuu",
-      "score": 0.206,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 39368,
       "title": "Dorakon!",
-      "score": 0.206,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 40766,
+      "title": "Gal Kazoku",
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "br",
+        "mx",
+        "it",
+        "ru"
+      ]
+    },
+    {
+      "id": 51272,
+      "title": "Hiratsu Cute, Shizu Cute!",
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 51647,
       "title": "Just a Story About Miyamoto Sakura Being Cute",
-      "score": 0.206,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "mx",
+        "id"
+      ]
     },
     {
-      "id": 52018,
-      "title": "Sore wa rei no Shiwaza desu",
-      "score": 0.206,
-      "r18": false
+      "id": 55900,
+      "title": "Ayame-senpai wa Boku to Himitsu no Keiyaku wo",
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 58042,
+      "title": "I Don't Know if It's LOVE or MAGIC!",
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "br",
+        "ru",
+        "id",
+        "it"
+      ]
     },
     {
       "id": 726,
       "title": "Futagami Double",
-      "score": 0.204,
-      "r18": false
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 10174,
+      "title": "Toaru Kagaku no Railgun - Misa x Misa (Doujinshi)",
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

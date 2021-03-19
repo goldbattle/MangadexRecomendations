@@ -1,134 +1,208 @@
 {
   "id": 54634,
   "title": "Space Convenience Store",
-  "url": "https://api.mangadex.org/v2/manga/54634",
-  "last_updated": "March 12, 2021 20:28:02 UTC",
+  "url": "https://mangadex.org/manga/54634",
+  "last_updated": "March 18, 2021 13:56:38 UTC",
   "matches": [
-    {
-      "id": 25924,
-      "title": "Oogiri",
-      "score": 0.655,
-      "r18": false
-    },
     {
       "id": 13191,
       "title": "Kakumeiki Valvrave Anthology Comic",
-      "score": 0.347,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4946,
       "title": "Level E",
-      "score": 0.295,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 34503,
       "title": "Dolls Frontline Comic anthology",
-      "score": 0.294,
-      "r18": false
-    },
-    {
-      "id": 51329,
-      "title": "Yumemi ga oka Wonderland",
-      "score": 0.285,
-      "r18": false
-    },
-    {
-      "id": 15984,
-      "title": "Ninja Slayer - Kills [Setsu]",
-      "score": 0.26,
-      "r18": false
-    },
-    {
-      "id": 12782,
-      "title": "Yogashiten Galaxy",
-      "score": 0.251,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 22374,
       "title": "Ratchet &amp; Clank",
-      "score": 0.242,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 43781,
-      "title": "Star Children (Oneshot)",
-      "score": 0.24,
-      "r18": false
+      "id": 25924,
+      "title": "Oogiri",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn",
+        "fr"
+      ]
     },
     {
       "id": 31068,
       "title": "Love Fighter Shuravan",
-      "score": 0.238,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 36933,
-      "title": "Tokyo Shinobi Squad",
-      "score": 0.228,
-      "r18": false
+      "id": 12782,
+      "title": "Yogashiten Galaxy",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "it",
+        "hu",
+        "gb"
+      ]
     },
     {
-      "id": 43310,
-      "title": "Marvel + JUMP Collaboration",
-      "score": 0.225,
-      "r18": false
+      "id": 43781,
+      "title": "Star Children (Oneshot)",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 50432,
-      "title": "DRAGON BALL Z TV Animation Comics",
-      "score": 0.223,
-      "r18": false
+      "id": 51329,
+      "title": "Yumemi ga oka Wonderland",
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 31070,
       "title": "Cyborg Kuro-chan",
-      "score": 0.218,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 9409,
-      "title": "Hitoribocchi no Chikyuu Shinryaku",
-      "score": 0.215,
-      "r18": false
-    },
-    {
-      "id": 36189,
-      "title": "Kidou Senshi Gundam 00 - In Those Days",
-      "score": 0.204,
-      "r18": false
-    },
-    {
-      "id": 34063,
-      "title": "Uglyhood",
-      "score": 0.167,
-      "r18": false
-    },
-    {
-      "id": 4411,
-      "title": "Tengen Toppa Gurren Lagann",
-      "score": 0.159,
-      "r18": false
+      "id": 36933,
+      "title": "Tokyo Shinobi Squad",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "hk",
+        "mx",
+        "vn"
+      ]
     },
     {
       "id": 58602,
       "title": "SF Mix",
-      "score": 0.154,
-      "r18": false
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9409,
+      "title": "Hitoribocchi no Chikyuu Shinryaku",
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 94,
+      "title": "Gintama",
+      "score": 0.125,
+      "r18": false,
+      "languages": [
+        "it",
+        "br",
+        "il",
+        "gb",
+        "ru",
+        "id",
+        "fr",
+        "tr",
+        "sa",
+        "pl"
+      ]
     },
     {
       "id": 41943,
       "title": "Z Mazinger",
-      "score": 0.151,
-      "r18": false
+      "score": 0.124,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 43310,
+      "title": "Marvel + JUMP Collaboration",
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "de",
+        "tr",
+        "fr",
+        "ua"
+      ]
+    },
+    {
+      "id": 34063,
+      "title": "Uglyhood",
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "es"
+      ]
+    },
+    {
+      "id": 4411,
+      "title": "Tengen Toppa Gurren Lagann",
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 59608,
       "title": "ELEMENTS: Users Of The Universe",
-      "score": 0.142,
-      "r18": false
+      "score": 0.087,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

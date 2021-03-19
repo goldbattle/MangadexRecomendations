@@ -2,49 +2,74 @@
   "id": 22045,
   "title": "Yuridori Midori",
   "url": "https://mangadex.org/manga/22045",
-  "last_updated": "March 16, 2021 08:24:38 UTC",
+  "last_updated": "March 18, 2021 09:10:23 UTC",
   "matches": [
     {
       "id": 23424,
       "title": "1 x &frac12;",
       "score": 0.283,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "br"
+      ]
     },
     {
       "id": 4452,
       "title": "Free Soul",
       "score": 0.283,
-      "r18": false
-    },
-    {
-      "id": 50240,
-      "title": "Mutually Unrequited Twin Sisters",
-      "score": 0.267,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
     },
     {
       "id": 18467,
       "title": "Sayuri-san no Imouto wa Tenshi",
-      "score": 0.228,
-      "r18": false
+      "score": 0.227,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "ru"
+      ]
     },
     {
       "id": 24677,
       "title": "Citrus Anthology: Lovely Party",
       "score": 0.213,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 24678,
       "title": "Citrus Anthology",
       "score": 0.213,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "tr"
+      ]
     },
     {
       "id": 35242,
       "title": "Galette (Anthology)",
       "score": 0.091,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "tr",
+        "mx",
+        "de"
+      ]
     }
   ]
 }

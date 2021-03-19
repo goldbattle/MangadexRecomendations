@@ -2,37 +2,71 @@
   "id": 21662,
   "title": "SEX\u2605MACHINE",
   "url": "https://mangadex.org/manga/21662",
-  "last_updated": "March 16, 2021 04:29:18 UTC",
+  "last_updated": "March 18, 2021 09:07:11 UTC",
   "matches": [
     {
       "id": 760,
       "title": "EX - Shounen Hyouryuu",
       "score": 0.137,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 24976,
       "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
       "score": 0.134,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "mx",
+        "br",
+        "tr"
+      ]
+    },
+    {
+      "id": 22226,
+      "title": "Fate/Grand Order -mortalis:stella-",
+      "score": 0.113,
+      "r18": false,
+      "languages": [
+        "vn",
+        "gb"
+      ]
     },
     {
       "id": 43511,
       "title": "Seiken Gakuin no Maken Tsukai",
-      "score": 0.101,
-      "r18": false
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru"
+      ]
     },
     {
       "id": 42382,
       "title": "Go Nagai's Vintage Manga Museum",
       "score": 0.09,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "es",
+        "gb"
+      ]
     },
     {
       "id": 564,
       "title": "Nagasarete Airantou",
-      "score": 0.078,
-      "r18": false
+      "score": 0.058,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "ru"
+      ]
     }
   ]
 }

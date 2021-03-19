@@ -1,20 +1,28 @@
 {
   "id": 50112,
   "title": "Monster Wrestling: Interspecies Combat Girls",
-  "url": "https://api.mangadex.org/v2/manga/50112",
-  "last_updated": "February 05, 2021 08:18:30 UTC",
+  "url": "https://mangadex.org/manga/50112",
+  "last_updated": "March 18, 2021 13:18:53 UTC",
   "matches": [
-    {
-      "id": 18582,
-      "title": "Devilman Lady",
-      "score": 0.704,
-      "r18": false
-    },
     {
       "id": 24917,
       "title": "Cutie Honey '21",
-      "score": 0.7,
-      "r18": false
+      "score": 0.138,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18582,
+      "title": "Devilman Lady",
+      "score": 0.11,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
     }
   ]
 }

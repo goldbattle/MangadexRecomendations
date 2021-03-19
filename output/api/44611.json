@@ -1,158 +1,304 @@
 {
   "id": 44611,
   "title": "The Weekly Roll",
-  "url": "https://api.mangadex.org/v2/manga/44611",
-  "last_updated": "February 11, 2021 16:43:59 UTC",
+  "url": "https://mangadex.org/manga/44611",
+  "last_updated": "March 18, 2021 12:32:50 UTC",
   "matches": [
-    {
-      "id": 48730,
-      "title": "A Manga About a Village of Super-Ultra-Ultimately Cute Elves Burning Down",
-      "score": 0.366,
-      "r18": false
-    },
-    {
-      "id": 50234,
-      "title": "Touhou - Kappa-Squad",
-      "score": 0.305,
-      "r18": false
-    },
     {
       "id": 31356,
       "title": "A Hero Can't Go on a Journey",
-      "score": 0.291,
-      "r18": false
-    },
-    {
-      "id": 27856,
-      "title": "Winter Moon",
-      "score": 0.283,
-      "r18": false
-    },
-    {
-      "id": 32790,
-      "title": "Oshiete! Kirara Fantasia",
-      "score": 0.277,
-      "r18": false
-    },
-    {
-      "id": 47886,
-      "title": "Don't Disobey the Beast",
-      "score": 0.276,
-      "r18": false
-    },
-    {
-      "id": 52806,
-      "title": "Level 1 Housewife",
-      "score": 0.274,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "fr"
+      ]
     },
     {
       "id": 41130,
       "title": "Part-Time Immortal",
-      "score": 0.269,
-      "r18": false
-    },
-    {
-      "id": 42423,
-      "title": "Emperor, Stay Here, Your Knight's Getting Off Work",
-      "score": 0.263,
-      "r18": false
-    },
-    {
-      "id": 52442,
-      "title": "Idol Is a God",
-      "score": 0.263,
-      "r18": false
-    },
-    {
-      "id": 52007,
-      "title": "Dream Maker",
-      "score": 0.262,
-      "r18": false
-    },
-    {
-      "id": 45904,
-      "title": "A Manga World That Gets One Page Once A Year",
-      "score": 0.255,
-      "r18": false
-    },
-    {
-      "id": 18202,
-      "title": "Heart of a Dragon",
-      "score": 0.255,
-      "r18": false
-    },
-    {
-      "id": 51858,
-      "title": "Local Supplier of Alien Goods",
-      "score": 0.254,
-      "r18": false
-    },
-    {
-      "id": 51567,
-      "title": "Ousama Ranking",
-      "score": 0.251,
-      "r18": false
-    },
-    {
-      "id": 57905,
-      "title": "Your Majesty, Please Be Dignified",
-      "score": 0.249,
-      "r18": false
-    },
-    {
-      "id": 41142,
-      "title": "One Million Gold",
-      "score": 0.247,
-      "r18": false
-    },
-    {
-      "id": 33535,
-      "title": "Pick Up A Goldfish As Girlfriend",
-      "score": 0.246,
-      "r18": false
-    },
-    {
-      "id": 42523,
-      "title": "A Story About a Grandpa and Grandma Who Returned Back to Their Youth",
-      "score": 0.244,
-      "r18": false
-    },
-    {
-      "id": 32453,
-      "title": "Love Advice from the Great Duke of Hell",
-      "score": 0.244,
-      "r18": false
-    },
-    {
-      "id": 25849,
-      "title": "Boku no Hero Academia - Bakugo-kun and Ochako-chan (Doujinshi)",
-      "score": 0.24,
-      "r18": false
-    },
-    {
-      "id": 36345,
-      "title": "Castle Swimmer",
-      "score": 0.234,
-      "r18": false
-    },
-    {
-      "id": 39783,
-      "title": "Ocean Memories",
-      "score": 0.233,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "id",
+        "sa",
+        "br"
+      ]
     },
     {
       "id": 38987,
       "title": "Almight Network",
-      "score": 0.233,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
     },
     {
-      "id": 14674,
-      "title": "Desolate Era",
-      "score": 0.232,
-      "r18": false
+      "id": 45904,
+      "title": "A Manga World That Gets One Page Once A Year",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "th",
+        "pl",
+        "gb",
+        "mx",
+        "ru",
+        "fr",
+        "br"
+      ]
+    },
+    {
+      "id": 42523,
+      "title": "A Story About a Grandpa and Grandma Who Returned Back to Their Youth",
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "id",
+        "ru",
+        "tr",
+        "mx",
+        "it",
+        "es"
+      ]
+    },
+    {
+      "id": 32453,
+      "title": "Love Advice from the Great Duke of Hell",
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "it",
+        "ir",
+        "ru",
+        "fr",
+        "br"
+      ]
+    },
+    {
+      "id": 30308,
+      "title": "Modern MoGal",
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru",
+        "it",
+        "br"
+      ]
+    },
+    {
+      "id": 58078,
+      "title": "Oh My God",
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 41142,
+      "title": "One Million Gold",
+      "score": 0.169,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 27856,
+      "title": "Winter Moon",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "fr",
+        "id",
+        "pl",
+        "it",
+        "br",
+        "th",
+        "ro"
+      ]
+    },
+    {
+      "id": 47886,
+      "title": "Don't Disobey the Beast",
+      "score": 0.158,
+      "r18": false,
+      "languages": [
+        "mx",
+        "fr"
+      ]
+    },
+    {
+      "id": 57905,
+      "title": "Your Majesty, Please Be Dignified",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 37794,
+      "title": "Ivy King",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 53712,
+      "title": "I Received Half of the World From the Demon King!",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "vn",
+        "id",
+        "fr",
+        "it"
+      ]
+    },
+    {
+      "id": 42857,
+      "title": "Lanxi Zhen",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "es"
+      ]
+    },
+    {
+      "id": 35872,
+      "title": "DON'T HATE",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "fr",
+        "br"
+      ]
+    },
+    {
+      "id": 21770,
+      "title": "The Exploding Girl",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 34945,
+      "title": "My Girl is a Dragon Princess",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 43520,
+      "title": "Yes, My Lich!",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr"
+      ]
+    },
+    {
+      "id": 51162,
+      "title": "Confession Series",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "fr",
+        "ru",
+        "mx"
+      ]
+    },
+    {
+      "id": 16453,
+      "title": "Qishi Huanxiang Ye",
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "it"
+      ]
+    },
+    {
+      "id": 44735,
+      "title": "A Nyakuza Manga",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 29794,
+      "title": "Deep Sea&rsquo;s Song",
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 16490,
+      "title": "Bocchan to Maid",
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "tr",
+        "id",
+        "mx"
+      ]
+    },
+    {
+      "id": 22463,
+      "title": "Flower Wizard",
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr"
+      ]
     }
   ]
 }

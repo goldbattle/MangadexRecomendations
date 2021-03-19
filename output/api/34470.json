@@ -1,158 +1,249 @@
 {
   "id": 34470,
   "title": "Kudan no Kuroneko",
-  "url": "https://api.mangadex.org/v2/manga/34470",
-  "last_updated": "February 10, 2021 16:29:07 UTC",
+  "url": "https://mangadex.org/manga/34470",
+  "last_updated": "March 18, 2021 11:08:11 UTC",
   "matches": [
     {
-      "id": 57844,
-      "title": "Kaibutsu Ouji",
-      "score": 0.737,
-      "r18": false
+      "id": 38902,
+      "title": "Sen",
+      "score": 0.316,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 55745,
-      "title": "Gensou Shounen Koimonogatari",
-      "score": 0.732,
-      "r18": false
+      "id": 31550,
+      "title": "Copernicus no Kokyuu",
+      "score": 0.283,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "pl"
+      ]
     },
     {
-      "id": 8007,
-      "title": "Itsuka Ame ga Furu You ni",
-      "score": 0.716,
-      "r18": false
+      "id": 12596,
+      "title": "Ihoujin - Etrange",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 11701,
+      "title": "Neko Irimasen ka?",
+      "score": 0.27,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37537,
+      "title": "Nanka Ieyo",
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "pl"
+      ]
     },
     {
       "id": 25475,
       "title": "Tanbishugi",
-      "score": 0.715,
-      "r18": false
+      "score": 0.261,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 27472,
-      "title": "Usotsuki",
-      "score": 0.715,
-      "r18": false
-    },
-    {
-      "id": 4336,
-      "title": "Goshintou",
-      "score": 0.712,
-      "r18": false
-    },
-    {
-      "id": 15501,
-      "title": "Feng Yu Jiu Tian",
-      "score": 0.712,
-      "r18": false
-    },
-    {
-      "id": 29113,
-      "title": "Yubisaki no Koi",
-      "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 53625,
-      "title": "Kagakushitsu e Douzo",
-      "score": 0.708,
-      "r18": false
-    },
-    {
-      "id": 28093,
-      "title": "Love Mode",
-      "score": 0.708,
-      "r18": false
-    },
-    {
-      "id": 9475,
-      "title": "Tsuki ni Hoero",
-      "score": 0.708,
-      "r18": false
-    },
-    {
-      "id": 38717,
-      "title": "Konya wa Take-out Nite",
-      "score": 0.706,
-      "r18": false
+      "id": 12828,
+      "title": "Ayashi no Kimi no Koiwazurai",
+      "score": 0.26,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 27768,
       "title": "Sennen ni Hitotsu no Koi",
-      "score": 0.701,
-      "r18": false
+      "score": 0.259,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 29090,
-      "title": "Mawaru Sekai no Kimi to Boku",
-      "score": 0.7,
-      "r18": false
+      "id": 22515,
+      "title": "Shitsuji Game",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 55072,
-      "title": "Gekkou no Rankan ni Kuchinashi no Nioi",
-      "score": 0.699,
-      "r18": false
+      "id": 7665,
+      "title": "Sakura Gari",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "ct",
+        "tr",
+        "pl",
+        "gb"
+      ]
     },
     {
-      "id": 45970,
-      "title": "Mitsuyaku",
-      "score": 0.697,
-      "r18": false
+      "id": 36800,
+      "title": "Oki ni Mesu Mama",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "it"
+      ]
+    },
+    {
+      "id": 12999,
+      "title": "Hakuyou Ayakashi Gatari",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 27938,
+      "title": "Midare Somenishi",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 38603,
+      "title": "Matsugo no Yume",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx"
+      ]
+    },
+    {
+      "id": 28934,
+      "title": "Roman Gousha",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "hu",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 4336,
+      "title": "Goshintou",
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 28927,
       "title": "Ouji-sama Game",
-      "score": 0.696,
-      "r18": false
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 56162,
-      "title": "Tenshi no Tamagoryouri",
-      "score": 0.691,
-      "r18": false
+      "id": 38717,
+      "title": "Konya wa Take-out Nite",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 29112,
-      "title": "Yami ni Tooboe, Mune ni Toge",
-      "score": 0.69,
-      "r18": false
+      "id": 27472,
+      "title": "Usotsuki",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 36782,
-      "title": "Namida mo Tooku -Aonibi no Nemuri-",
-      "score": 0.69,
-      "r18": false
+      "id": 12462,
+      "title": "Lovers&hearts;Doll",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
-      "id": 13678,
-      "title": "Machina Angelus",
-      "score": 0.689,
-      "r18": false
+      "id": 26574,
+      "title": "Heavy &times; Beauty: Pretty Babies",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 39106,
-      "title": "Don't Cry My Baby",
-      "score": 0.689,
-      "r18": false
+      "id": 6083,
+      "title": "Sex Pistols",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 38822,
-      "title": "Voice or Noise",
-      "score": 0.686,
-      "r18": false
+      "id": 56731,
+      "title": "Kimi o Watareba",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 28921,
-      "title": "Kaizoku Game",
-      "score": 0.682,
-      "r18": false
+      "id": 24092,
+      "title": "Kouun Danshi",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
     },
     {
-      "id": 6527,
-      "title": "Konya mo Nemurenai",
-      "score": 0.681,
-      "r18": false
+      "id": 7180,
+      "title": "Kiraboshi Dial",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
     }
   ]
 }

@@ -2,157 +2,279 @@
   "id": 35,
   "title": "Bleach",
   "url": "https://mangadex.org/manga/35",
-  "last_updated": "March 14, 2021 00:47:28 UTC",
+  "last_updated": "March 18, 2021 05:42:51 UTC",
   "matches": [
     {
       "id": 3888,
       "title": "Houshin Engi",
       "score": 0.3,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "es"
+      ]
+    },
+    {
+      "id": 1379,
+      "title": "Yaiba",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3828,
       "title": "Kongou Banchou",
       "score": 0.3,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 25621,
       "title": "Shaman King: The Super Star",
       "score": 0.3,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "mx",
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 28542,
-      "title": "JoJo's Bizarre Adventure Part 6 - Stone Ocean",
+      "title": "JoJo's Bizarre Adventure Part 6: Stone Ocean",
       "score": 0.298,
-      "r18": false
-    },
-    {
-      "id": 1379,
-      "title": "Yaiba",
-      "score": 0.281,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 10513,
       "title": "Hangyaku no Kagetsukai",
       "score": 0.28,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 39,
       "title": "One Piece",
-      "score": 0.277,
-      "r18": false
+      "score": 0.276,
+      "r18": false,
+      "languages": [
+        "br",
+        "sa",
+        "it",
+        "fr",
+        "mn",
+        "gb",
+        "ct",
+        "il",
+        "pl",
+        "tr",
+        "id",
+        "mx",
+        "ru",
+        "de",
+        "es",
+        "bg",
+        "vn",
+        "in"
+      ]
     },
     {
       "id": 424,
       "title": "Nurarihyon no Mago",
       "score": 0.276,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "ru"
+      ]
     },
     {
       "id": 6225,
       "title": "Butsu Zone",
-      "score": 0.276,
-      "r18": false
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ct"
+      ]
     },
     {
       "id": 1827,
       "title": "Kekkaishi",
       "score": 0.272,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3666,
       "title": "Ryuugan",
       "score": 0.271,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7270,
       "title": "Kishin Douji Zenki",
-      "score": 0.27,
-      "r18": false
+      "score": 0.269,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 28526,
       "title": "JoJo's Bizarre Adventure Part 3 - Stardust Crusaders",
-      "score": 0.269,
-      "r18": false
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 279,
       "title": "Trigun",
-      "score": 0.267,
-      "r18": false
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "ua",
+        "gb",
+        "ru",
+        "pl"
+      ]
     },
     {
       "id": 1738,
       "title": "Yu Yu Hakusho",
-      "score": 0.263,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1036,
       "title": "Rave",
-      "score": 0.263,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa",
+        "ua",
+        "br"
+      ]
     },
     {
       "id": 5569,
       "title": "Arabian Majin Boukentan Lamp Lamp",
-      "score": 0.263,
-      "r18": false
-    },
-    {
-      "id": 33656,
-      "title": "Dororo to Hyakkimaru-Den",
-      "score": 0.263,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 18433,
       "title": "Luger Code 1951",
-      "score": 0.263,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "it",
+        "es"
+      ]
     },
     {
       "id": 15202,
       "title": "Naruto Gaiden: Nanadaime Hokage to Akairo no Hanatsuzuki",
-      "score": 0.263,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 1252,
       "title": "Undertaker Riddle",
-      "score": 0.261,
-      "r18": false
+      "score": 0.26,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 3321,
       "title": "A Book of Dreams",
-      "score": 0.259,
-      "r18": false
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 495,
       "title": "Rakshasa Street",
-      "score": 0.258,
-      "r18": false
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "pl"
+      ]
     },
     {
       "id": 25435,
       "title": "Madara",
-      "score": 0.257,
-      "r18": false
+      "score": 0.256,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 16035,
       "title": "Geidaisei Yasaka Kyouya no Suuki na Bouken",
-      "score": 0.256,
-      "r18": false
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5573,
+      "title": "Saiyuki",
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     }
   ]
 }

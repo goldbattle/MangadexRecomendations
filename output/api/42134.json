@@ -1,158 +1,267 @@
 {
   "id": 42134,
   "title": "Hagemashi Yome",
-  "url": "https://api.mangadex.org/v2/manga/42134",
-  "last_updated": "February 11, 2021 12:20:48 UTC",
+  "url": "https://mangadex.org/manga/42134",
+  "last_updated": "March 18, 2021 12:12:08 UTC",
   "matches": [
-    {
-      "id": 39040,
-      "title": "Youjo Shachou",
-      "score": 0.283,
-      "r18": false
-    },
     {
       "id": 15691,
       "title": "Chuukan Kanriroku Tonegawa",
-      "score": 0.264,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 43610,
-      "title": "My Tiny Senpai From Work",
-      "score": 0.212,
-      "r18": false
+      "id": 39040,
+      "title": "Youjo Shachou",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 38977,
-      "title": "Youjo Shachou (Webcomic)",
-      "score": 0.212,
-      "r18": false
-    },
-    {
-      "id": 19510,
-      "title": "Koisuru Nante Kiitenai",
-      "score": 0.212,
-      "r18": false
-    },
-    {
-      "id": 53214,
-      "title": "Docchi mo Kizukanai",
-      "score": 0.212,
-      "r18": false
-    },
-    {
-      "id": 35283,
-      "title": "Awkward Senpai (Webcomic)",
-      "score": 0.212,
-      "r18": false
-    },
-    {
-      "id": 44210,
-      "title": "Awkward Senpai",
-      "score": 0.212,
-      "r18": false
+      "id": 11349,
+      "title": "Chou yo Hana yo",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 17843,
       "title": "Shiba Occhan",
-      "score": 0.212,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
-      "id": 59032,
-      "title": "Ore no Joshi ga Elite nano ni Hetare Kawaii",
-      "score": 0.207,
-      "r18": false
+      "id": 19510,
+      "title": "Koisuru Nante Kiitenai",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 34639,
-      "title": "Oji-san to Marshmallow",
-      "score": 0.206,
-      "r18": false
+      "id": 43610,
+      "title": "My Tiny Senpai From Work",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "br",
+        "id",
+        "tr"
+      ]
+    },
+    {
+      "id": 44210,
+      "title": "Awkward Senpai",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "id",
+        "br",
+        "ru"
+      ]
     },
     {
       "id": 59906,
       "title": "Kakekara Hajimaru Sayonara no Koi",
-      "score": 0.206,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 59032,
+      "title": "Ore no Joshi ga Elite nano ni Hetare Kawaii",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53214,
+      "title": "Docchi mo Kizukanai",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "vn",
+        "gb",
+        "br",
+        "mx"
+      ]
     },
     {
       "id": 53738,
       "title": "This Uncle Likes Cute Things",
-      "score": 0.204,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 52712,
       "title": "Shachiku OL to Akuma Shota",
-      "score": 0.204,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "de"
+      ]
     },
     {
-      "id": 41878,
-      "title": "I Bet the Chief is...",
-      "score": 0.199,
-      "r18": false
-    },
-    {
-      "id": 47478,
-      "title": "Kono Otoko ha Jinsei Saidai no Ayamachidesu",
-      "score": 0.199,
-      "r18": false
-    },
-    {
-      "id": 37769,
-      "title": "Itai Onee-san wa Suki Desu ka?",
-      "score": 0.198,
-      "r18": false
+      "id": 38977,
+      "title": "Youjo Shachou (Webcomic)",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 38737,
       "title": "The Life-Changing Manga of Tidying Up: A Magical Story",
-      "score": 0.197,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "sa"
+      ]
     },
     {
-      "id": 49547,
-      "title": "Online Game Nakama to Sashi Off shitara Shokuba no Onijoushi ga Kita.",
-      "score": 0.187,
-      "r18": false
+      "id": 41878,
+      "title": "I Bet the Chief is...",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 35283,
+      "title": "Awkward Senpai (Webcomic)",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ph",
+        "id",
+        "ru",
+        "vn",
+        "it"
+      ]
+    },
+    {
+      "id": 34639,
+      "title": "Oji-san to Marshmallow",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 17073,
+      "title": "Wotaku ni Koi wa Muzukashii",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "mx",
+        "id",
+        "es"
+      ]
+    },
+    {
+      "id": 19178,
+      "title": "Tokusatsu Gagaga",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 20985,
+      "title": "Yagi-kun to Mei-san",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
     },
     {
       "id": 48063,
       "title": "The Story of a Waitress and Her Customer",
-      "score": 0.185,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "fr",
+        "ua",
+        "mx",
+        "id"
+      ]
     },
     {
       "id": 51755,
       "title": "Koi Suru Fukurahagi",
-      "score": 0.181,
-      "r18": false
-    },
-    {
-      "id": 38448,
-      "title": "Futari Ashita mo Sorenari ni",
-      "score": 0.18,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 50232,
       "title": "Atarashii Joushi wa Dotennen",
-      "score": 0.18,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 52354,
-      "title": "Hitori de Shinitai",
-      "score": 0.176,
-      "r18": false
+      "id": 50797,
+      "title": "Pachinko Girls",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 48691,
-      "title": "The Senior and Junior Broke up Three Months Ago",
-      "score": 0.172,
-      "r18": false
+      "id": 43785,
+      "title": "A Meal Makes Her Forget",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

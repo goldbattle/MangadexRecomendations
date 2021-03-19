@@ -1,14 +1,18 @@
 {
   "id": 47680,
   "title": "GAME -in High School-",
-  "url": "https://api.mangadex.org/v2/manga/47680",
-  "last_updated": "February 12, 2021 01:15:24 UTC",
+  "url": "https://mangadex.org/manga/47680",
+  "last_updated": "March 18, 2021 12:58:29 UTC",
   "matches": [
     {
       "id": 1759,
       "title": "Love Stalking!",
-      "score": 0.757,
-      "r18": false
+      "score": 0.359,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     }
   ]
 }

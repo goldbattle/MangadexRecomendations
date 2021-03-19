@@ -1,86 +1,137 @@
 {
   "id": 40294,
   "title": "Reverie in a Deserted Bus",
-  "url": "https://api.mangadex.org/v2/manga/40294",
-  "last_updated": "February 11, 2021 08:21:25 UTC",
+  "url": "https://mangadex.org/manga/40294",
+  "last_updated": "March 18, 2021 11:56:47 UTC",
   "matches": [
     {
-      "id": 18959,
-      "title": "My Boo",
-      "score": 0.682,
-      "r18": false
+      "id": 12592,
+      "title": "Hana to Uso to Makoto",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3368,
       "title": "Touhou - Tonari Atte Futari, Mukai Atte Sannin (Doujinshi)",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 576,
-      "title": "Corpse Party - Blood Covered",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 12592,
-      "title": "Hana to Uso to Makoto",
-      "score": 0.349,
-      "r18": false
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3727,
       "title": "Touhou - Chirei de (Doujinshi)",
-      "score": 0.271,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 50796,
-      "title": "Evil Museum",
-      "score": 0.247,
-      "r18": false
+      "id": 18959,
+      "title": "My Boo",
+      "score": 0.143,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br"
+      ]
     },
     {
-      "id": 34369,
-      "title": "Along With The Gods",
-      "score": 0.232,
-      "r18": false
+      "id": 576,
+      "title": "Corpse Party - Blood Covered",
+      "score": 0.136,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 38439,
       "title": "The Wooden-Mortared Kingdom - Garo 20th Anniversary Memorial Issue",
-      "score": 0.213,
-      "r18": false
-    },
-    {
-      "id": 16499,
-      "title": "MIA: Lost in Operation",
-      "score": 0.201,
-      "r18": false
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 50166,
       "title": "The Ghost and...",
-      "score": 0.151,
-      "r18": false
+      "score": 0.124,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu",
+        "vn"
+      ]
+    },
+    {
+      "id": 16499,
+      "title": "MIA: Lost in Operation",
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa"
+      ]
     },
     {
       "id": 45785,
       "title": "Edogawa Osamu's Anthology",
-      "score": 0.136,
-      "r18": false
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn",
+        "br",
+        "mx"
+      ]
     },
     {
       "id": 147,
       "title": "Let's Fight Ghost",
-      "score": 0.124,
-      "r18": false
+      "score": 0.101,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50796,
+      "title": "Evil Museum",
+      "score": 0.099,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 34369,
+      "title": "Along With The Gods",
+      "score": 0.096,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1277,
       "title": "Dante Shinkyoku",
-      "score": 0.113,
-      "r18": false
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     }
   ]
 }

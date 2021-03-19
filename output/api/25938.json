@@ -2,25 +2,37 @@
   "id": 25938,
   "title": "Densou Dorothy",
   "url": "https://mangadex.org/manga/25938",
-  "last_updated": "March 16, 2021 16:36:54 UTC",
+  "last_updated": "March 18, 2021 09:56:59 UTC",
   "matches": [
     {
       "id": 11926,
       "title": "Dekiai Robot",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "tr",
+        "fr",
+        "mn",
+        "gb"
+      ]
     },
     {
       "id": 6877,
       "title": "Kono Mama ja Dame Mitai desu",
-      "score": 0.215,
-      "r18": false
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 9160,
       "title": "Mint de Kiss me - Watase Yuu Masterpiece Collection 5",
       "score": 0.128,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

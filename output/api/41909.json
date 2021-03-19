@@ -1,158 +1,252 @@
 {
   "id": 41909,
   "title": "Champignon no Majo",
-  "url": "https://api.mangadex.org/v2/manga/41909",
-  "last_updated": "February 11, 2021 12:17:27 UTC",
+  "url": "https://mangadex.org/manga/41909",
+  "last_updated": "March 18, 2021 12:10:15 UTC",
   "matches": [
     {
-      "id": 8502,
-      "title": "Ohimesama no Recipe",
-      "score": 0.717,
-      "r18": false
-    },
-    {
-      "id": 28359,
-      "title": "Boku ga Utau to Kimi wa Warau kara",
-      "score": 0.714,
-      "r18": false
-    },
-    {
-      "id": 6146,
-      "title": "U wa Uchuusen no U",
-      "score": 0.709,
-      "r18": false
-    },
-    {
-      "id": 59476,
-      "title": "The Tyrant&rsquo;s Guardian Is an Evil Witch",
-      "score": 0.707,
-      "r18": false
-    },
-    {
-      "id": 3027,
-      "title": "Sora Oto",
-      "score": 0.707,
-      "r18": false
-    },
-    {
-      "id": 12998,
-      "title": "Fushigi na Hito",
-      "score": 0.704,
-      "r18": false
-    },
-    {
-      "id": 1411,
-      "title": "DARKER THAN BLACK -Kuro no Keiyakusha-",
-      "score": 0.699,
-      "r18": false
-    },
-    {
-      "id": 36730,
-      "title": "Yume no Shiro",
-      "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 58617,
-      "title": "I Became the Ugly Lady",
-      "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 23013,
-      "title": "The Vengeful White Cat Lounging on the Dragon King's Lap",
-      "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 48242,
-      "title": "The Redemption of the Blue Rose Princess",
-      "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 50651,
-      "title": "Saving the Villain Who Was Abandoned by the Female Lead",
-      "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 51186,
-      "title": "I Just Want to Disappear",
-      "score": 0.695,
-      "r18": false
-    },
-    {
-      "id": 45898,
-      "title": "Revenge Wedding",
-      "score": 0.694,
-      "r18": false
-    },
-    {
-      "id": 6082,
-      "title": "Yume Miru Happa",
-      "score": 0.693,
-      "r18": false
-    },
-    {
-      "id": 2448,
-      "title": "Honey Bitter",
-      "score": 0.692,
-      "r18": false
-    },
-    {
-      "id": 6361,
-      "title": "Ultra Maniac",
-      "score": 0.692,
-      "r18": false
-    },
-    {
-      "id": 1288,
-      "title": "A Thousand Years Ninetails",
-      "score": 0.691,
-      "r18": false
-    },
-    {
-      "id": 1301,
-      "title": "Another Kingdom",
-      "score": 0.691,
-      "r18": false
-    },
-    {
-      "id": 24016,
-      "title": "Neo Angelique",
-      "score": 0.691,
-      "r18": false
-    },
-    {
-      "id": 1487,
-      "title": "Kuroneko Renai Kumikyoku",
-      "score": 0.691,
-      "r18": false
-    },
-    {
-      "id": 27093,
-      "title": "Gekka Kajin",
-      "score": 0.69,
-      "r18": false
-    },
-    {
-      "id": 35063,
-      "title": "Dragon Knights",
-      "score": 0.689,
-      "r18": false
-    },
-    {
-      "id": 51318,
-      "title": "Truthfully, They Only Remembered Her",
-      "score": 0.689,
-      "r18": false
+      "id": 8003,
+      "title": "Sakurahime Kaden",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 53622,
       "title": "Hello, I Am a Witch, and My Crush Wants Me to Make a Love Potion!",
-      "score": 0.689,
-      "r18": false
+      "score": 0.271,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb"
+      ]
+    },
+    {
+      "id": 19921,
+      "title": "Distancia ~ The Untouchable One ~",
+      "score": 0.27,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 36309,
+      "title": "The Reborn Witch Foretells Destruction",
+      "score": 0.27,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 1487,
+      "title": "Kuroneko Renai Kumikyoku",
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 18679,
+      "title": "Majo to Kiketsu no Kishi",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4066,
+      "title": "Song of the Doll",
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 22728,
+      "title": "Shiro to Kuro no Alice",
+      "score": 0.253,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 38740,
+      "title": "The Earl's Daughter Was Suddenly Employed as the Crown Prince's Fianc&eacute;e",
+      "score": 0.252,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14089,
+      "title": "Colette wa Shinu Koto ni Shita",
+      "score": 0.252,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "it",
+        "ru"
+      ]
+    },
+    {
+      "id": 5994,
+      "title": "Tenma no Ketsuzoku",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 7796,
+      "title": "Virgin Ripper",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 33300,
+      "title": "Matsurika Kanriden",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br"
+      ]
+    },
+    {
+      "id": 337,
+      "title": "Habaegui Sinbu",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa",
+        "pl"
+      ]
+    },
+    {
+      "id": 7801,
+      "title": "Masca: The Kings",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 22271,
+      "title": "God and Girl",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 34578,
+      "title": "Let Love Rule",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5799,
+      "title": "Yama ni Sumu Kami",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18944,
+      "title": "Shoujo Tenshi Milcute",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 5713,
+      "title": "Shirahime-Syo",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg",
+        "tr"
+      ]
+    },
+    {
+      "id": 2081,
+      "title": "Little Fox with a Star",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9489,
+      "title": "Twinkle Loop\u2606Story",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 32831,
+      "title": "Taketori Monogatari",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9922,
+      "title": "Xu Ge Yuan Ba! Da Xi",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 45838,
+      "title": "Muggle's Law",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

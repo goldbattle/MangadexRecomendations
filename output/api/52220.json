@@ -1,68 +1,122 @@
 {
   "id": 52220,
   "title": "The class rule where if you get bigger, you have to report it to the teacher",
-  "url": "https://api.mangadex.org/v2/manga/52220",
-  "last_updated": "February 05, 2021 12:20:50 UTC",
+  "url": "https://mangadex.org/manga/52220",
+  "last_updated": "March 18, 2021 13:36:29 UTC",
   "matches": [
     {
-      "id": 42620,
-      "title": "My Recently Hired Maid Is Suspicious (Webcomic)",
-      "score": 0.276,
-      "r18": false
-    },
-    {
-      "id": 51091,
-      "title": "The Witch's Dealings with a Boy",
-      "score": 0.238,
-      "r18": false
-    },
-    {
-      "id": 41725,
-      "title": "Shinseki no Onee-chan",
-      "score": 0.227,
-      "r18": false
+      "id": 48751,
+      "title": "Gohoubi kureru Ao-nee-san",
+      "score": 0.206,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "il",
+        "ph"
+      ]
     },
     {
       "id": 37515,
       "title": "Ojisan and Shota",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 52482,
       "title": "A Warm Sister and a Tsundere Brother",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 48751,
-      "title": "Gohoubi kureru Aoneesan",
-      "score": 0.223,
-      "r18": false
+      "id": 41725,
+      "title": "Shinseki no Onee-chan",
+      "score": 0.17,
+      "r18": false,
+      "languages": [
+        "pt",
+        "fr",
+        "br",
+        "gb",
+        "id",
+        "mx",
+        "ru",
+        "tr",
+        "it"
+      ]
     },
     {
-      "id": 50806,
-      "title": "A Place In The Sun",
-      "score": 0.196,
-      "r18": false
+      "id": 42620,
+      "title": "My Recently Hired Maid Is Suspicious (Webcomic)",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "il",
+        "pl",
+        "id",
+        "ru"
+      ]
     },
     {
       "id": 57458,
       "title": "Shota Oni",
-      "score": 0.17,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "tr",
+        "fr",
+        "id"
+      ]
     },
     {
-      "id": 50434,
-      "title": "Monster Bar",
-      "score": 0.133,
-      "r18": false
+      "id": 51091,
+      "title": "The Witch's Dealings with a Boy",
+      "score": 0.135,
+      "r18": false,
+      "languages": [
+        "cn",
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 50806,
+      "title": "A Place In The Sun",
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 42462,
       "title": "Devil and Song",
-      "score": 0.121,
-      "r18": false
+      "score": 0.046,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 50434,
+      "title": "Monster Bar",
+      "score": 0.043,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     }
   ]
 }

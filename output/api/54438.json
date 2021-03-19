@@ -1,98 +1,152 @@
 {
   "id": 54438,
   "title": "The Little Sharkmaid",
-  "url": "https://api.mangadex.org/v2/manga/54438",
-  "last_updated": "March 12, 2021 20:25:37 UTC",
+  "url": "https://mangadex.org/manga/54438",
+  "last_updated": "March 18, 2021 13:54:59 UTC",
   "matches": [
     {
       "id": 11891,
       "title": "Nyan-Nyan Oratorio",
-      "score": 0.357,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 39185,
       "title": "Shuumatsu wa Aoi Haru",
-      "score": 0.328,
-      "r18": false
-    },
-    {
-      "id": 53110,
-      "title": "Doctor Mermaid",
-      "score": 0.328,
-      "r18": false
-    },
-    {
-      "id": 1477,
-      "title": "Ability Shop",
-      "score": 0.266,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 37153,
       "title": "A Story about Confessing Before the End of the World",
-      "score": 0.26,
-      "r18": false
-    },
-    {
-      "id": 29732,
-      "title": "Ilya",
-      "score": 0.251,
-      "r18": false
-    },
-    {
-      "id": 7352,
-      "title": "TheLastPierrot",
-      "score": 0.241,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "ru",
+        "tr",
+        "gb",
+        "it",
+        "cn",
+        "vn"
+      ]
     },
     {
       "id": 20372,
       "title": "Yamato Takeru",
-      "score": 0.239,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1477,
+      "title": "Ability Shop",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 29732,
+      "title": "Ilya",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 23033,
       "title": "Liv",
-      "score": 0.217,
-      "r18": false
-    },
-    {
-      "id": 15827,
-      "title": "One Summer's Kids Game",
-      "score": 0.213,
-      "r18": false
-    },
-    {
-      "id": 8727,
-      "title": "Futatabi",
-      "score": 0.211,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "id",
+        "fr",
+        "pl",
+        "tr"
+      ]
     },
     {
       "id": 16471,
       "title": "Toilet ga Hanako-san",
-      "score": 0.198,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 28847,
       "title": "She&rsquo;s Coming Tonight",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 4411,
-      "title": "Tengen Toppa Gurren Lagann",
-      "score": 0.158,
-      "r18": false
+      "id": 7352,
+      "title": "TheLastPierrot",
+      "score": 0.156,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 15827,
+      "title": "One Summer's Kids Game",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 8727,
+      "title": "Futatabi",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "br",
+        "it",
+        "gb"
+      ]
     },
     {
       "id": 30456,
       "title": "Peter Pan",
-      "score": 0.136,
-      "r18": false
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 4411,
+      "title": "Tengen Toppa Gurren Lagann",
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

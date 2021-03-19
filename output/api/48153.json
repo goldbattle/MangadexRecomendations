@@ -2,37 +2,75 @@
   "id": 48153,
   "title": "Aoiro Ping Pong",
   "url": "https://mangadex.org/manga/48153",
-  "last_updated": "January 15, 2021 12:30:13 UTC",
+  "last_updated": "March 18, 2021 13:02:28 UTC",
   "matches": [
-    {
-      "id": 4548,
-      "title": "Rokudenashi Blues",
-      "score": 0.691,
-      "r18": false
-    },
-    {
-      "id": 43650,
-      "title": "Buttobi Itto",
-      "score": 0.683,
-      "r18": false
-    },
     {
       "id": 663,
       "title": "Rookies",
-      "score": 0.67,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "mx",
+        "sa"
+      ]
     },
     {
       "id": 17688,
       "title": "Bucchigiri",
-      "score": 0.663,
-      "r18": false
+      "score": 0.204,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "es"
+      ]
+    },
+    {
+      "id": 4548,
+      "title": "Rokudenashi Blues",
+      "score": 0.189,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "br",
+        "it"
+      ]
+    },
+    {
+      "id": 43650,
+      "title": "Buttobi Itto",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 9707,
       "title": "Kono Oto Tomare!",
-      "score": 0.268,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn",
+        "br",
+        "id",
+        "fr",
+        "it",
+        "hu"
+      ]
+    },
+    {
+      "id": 59442,
+      "title": "Bari Bari Densetsu",
+      "score": 0.133,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

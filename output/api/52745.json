@@ -2,61 +2,76 @@
   "id": 52745,
   "title": "Ui &amp; Yaaya",
   "url": "https://mangadex.org/manga/52745",
-  "last_updated": "January 16, 2021 00:59:55 UTC",
+  "last_updated": "March 18, 2021 13:40:51 UTC",
   "matches": [
     {
       "id": 5771,
       "title": "Hajimete Koi o Shita",
-      "score": 0.24,
-      "r18": false
+      "score": 0.213,
+      "r18": true,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 13071,
       "title": "Neko Manma",
-      "score": 0.24,
-      "r18": false
-    },
-    {
-      "id": 53164,
-      "title": "Ojou-sama to Sono Shiyounin no Ojouji",
-      "score": 0.24,
-      "r18": false
+      "score": 0.213,
+      "r18": true,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 23517,
       "title": "Let's Play Lovegames, Shall We?",
-      "score": 0.18,
-      "r18": false
+      "score": 0.16,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 40589,
       "title": "GIRLS und PANZER - Bouhatei wa Takaku Moroi (Doujinshi)",
-      "score": 0.18,
-      "r18": false
-    },
-    {
-      "id": 59305,
-      "title": "Chandelier",
-      "score": 0.144,
-      "r18": false
+      "score": 0.16,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 23516,
       "title": "Ura Ura Jungle Heat",
-      "score": 0.103,
-      "r18": false
+      "score": 0.091,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 28271,
       "title": "Mebae - Vivid Girls Love Anthology",
-      "score": 0.09,
-      "r18": false
+      "score": 0.08,
+      "r18": true,
+      "languages": [
+        "gb",
+        "tr",
+        "ru",
+        "fr"
+      ]
     },
     {
       "id": 35484,
       "title": "Love Live! - Only my little demon (Doujinshi)",
-      "score": 0.08,
-      "r18": false
+      "score": 0.071,
+      "r18": true,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     }
   ]
 }

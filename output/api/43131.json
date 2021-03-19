@@ -1,158 +1,253 @@
 {
   "id": 43131,
   "title": "Fishbowl Garden",
-  "url": "https://api.mangadex.org/v2/manga/43131",
-  "last_updated": "February 11, 2021 12:35:38 UTC",
+  "url": "https://mangadex.org/manga/43131",
+  "last_updated": "March 18, 2021 12:20:27 UTC",
   "matches": [
-    {
-      "id": 40676,
-      "title": "Red Velvet",
-      "score": 0.672,
-      "r18": false
-    },
-    {
-      "id": 43411,
-      "title": "Just Friends",
-      "score": 0.67,
-      "r18": false
-    },
-    {
-      "id": 50904,
-      "title": "One Thing I Can't Say",
-      "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 51937,
-      "title": "We Are Not Friends",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 42114,
-      "title": "Heaven at the End of 4th Floor",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 50594,
-      "title": "I Only Love Hana",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 47165,
-      "title": "When You're Targeted by the Bully",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 47067,
-      "title": "Your Smile Is a Trap",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 49460,
-      "title": "Autumn Wind and Rain",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 40550,
-      "title": "Switched Girls",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 47871,
-      "title": "Afterlife Class",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 1021,
-      "title": "Girls of the Wild's",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 31475,
-      "title": "Yeon's Letters",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 16670,
-      "title": "Kizu darake no Akuma",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 21543,
-      "title": "Guang Xiang",
-      "score": 0.411,
-      "r18": false
-    },
-    {
-      "id": 54234,
-      "title": "GOGO Art Student!",
-      "score": 0.411,
-      "r18": false
-    },
-    {
-      "id": 36257,
-      "title": "Gang of School",
-      "score": 0.402,
-      "r18": false
-    },
-    {
-      "id": 34446,
-      "title": "The Monsoon In June",
-      "score": 0.401,
-      "r18": false
-    },
     {
       "id": 21202,
       "title": "Circle",
-      "score": 0.397,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 19893,
-      "title": "The Elementary School Student That I Love",
-      "score": 0.395,
-      "r18": false
+      "id": 50520,
+      "title": "Salt Friend",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
-      "id": 51770,
-      "title": "New Year's Taste",
-      "score": 0.395,
-      "r18": false
+      "id": 52085,
+      "title": "Chang Le Makes Me Unable to Confess",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 58260,
-      "title": "Sorry I Couldn't Protect You!",
-      "score": 0.389,
-      "r18": false
-    },
-    {
-      "id": 14781,
-      "title": "Ua So Lovely",
-      "score": 0.388,
-      "r18": false
-    },
-    {
-      "id": 57706,
-      "title": "Isn't the Contrast Cute?",
-      "score": 0.387,
-      "r18": false
+      "id": 22217,
+      "title": "Incredible June",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 47613,
       "title": "Asterism",
-      "score": 0.386,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 46309,
+      "title": "Aquaman",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 143,
+      "title": "Welcome To Room #305!",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 30287,
+      "title": "I'm Da Best",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 46214,
+      "title": "Breaker.Drawing",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50553,
+      "title": "Boy's Dormitory 303",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "tr"
+      ]
+    },
+    {
+      "id": 23234,
+      "title": "About Good Boys",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 14781,
+      "title": "Ua So Lovely",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 45378,
+      "title": "CATALYST",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "pl"
+      ]
+    },
+    {
+      "id": 27358,
+      "title": "Second Home",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 46211,
+      "title": "No Home",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 53384,
+      "title": "Puristic",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 51740,
+      "title": "To You, Who Kept the Star",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 27962,
+      "title": "Cat And Dog",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 51965,
+      "title": "Just A Volunteer Club",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 45209,
+      "title": "Knitting Corner",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 44144,
+      "title": "Nan Hao &amp; Shang Feng",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu",
+        "tr",
+        "br",
+        "fr",
+        "id",
+        "my",
+        "ro",
+        "pl",
+        "il",
+        "it",
+        "in"
+      ]
+    },
+    {
+      "id": 20072,
+      "title": "Like A Butterfly",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 16546,
+      "title": "The Queen: Silent Classroom",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 46565,
+      "title": "Love Under the Sunset",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn"
+      ]
+    },
+    {
+      "id": 55036,
+      "title": "Girl On Trial",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -2,25 +2,38 @@
   "id": 21780,
   "title": "Makimodoshi",
   "url": "https://mangadex.org/manga/21780",
-  "last_updated": "March 16, 2021 08:20:42 UTC",
+  "last_updated": "March 18, 2021 09:08:10 UTC",
   "matches": [
     {
       "id": 20625,
       "title": "Monkey Mountain",
       "score": 0.16,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "ru",
+        "br"
+      ]
     },
     {
       "id": 8286,
       "title": "The Legend of Genghis",
-      "score": 0.102,
-      "r18": false
+      "score": 0.101,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 47116,
       "title": "Eternally Wounded Heel",
-      "score": 0.102,
-      "r18": false
+      "score": 0.101,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

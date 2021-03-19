@@ -1,158 +1,243 @@
 {
   "id": 43509,
   "title": "Sizzling Chop Chop",
-  "url": "https://api.mangadex.org/v2/manga/43509",
-  "last_updated": "February 11, 2021 16:25:59 UTC",
+  "url": "https://mangadex.org/manga/43509",
+  "last_updated": "March 18, 2021 12:23:36 UTC",
   "matches": [
     {
       "id": 50451,
       "title": "Clementine Under the Stars",
-      "score": 0.453,
-      "r18": false
+      "score": 0.666,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 58384,
       "title": "Lazy Cooking",
-      "score": 0.363,
-      "r18": false
-    },
-    {
-      "id": 31617,
-      "title": "Come Over To My House And Play",
-      "score": 0.351,
-      "r18": false
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22517,
       "title": "Are You Going to Eat?",
-      "score": 0.348,
-      "r18": false
-    },
-    {
-      "id": 39235,
-      "title": "Cat Loaf Adventures",
-      "score": 0.348,
-      "r18": false
-    },
-    {
-      "id": 29346,
-      "title": "My Brother Is a Big Idiot!",
-      "score": 0.343,
-      "r18": false
-    },
-    {
-      "id": 47417,
-      "title": "Prince Charming Daddy Descended from Heaven",
-      "score": 0.343,
-      "r18": false
-    },
-    {
-      "id": 41460,
-      "title": "One Day",
-      "score": 0.337,
-      "r18": false
-    },
-    {
-      "id": 50450,
-      "title": "Nyarla's Comfy Life",
-      "score": 0.336,
-      "r18": false
-    },
-    {
-      "id": 20058,
-      "title": "Koodori no Hitosara",
-      "score": 0.333,
-      "r18": false
-    },
-    {
-      "id": 53532,
-      "title": "Please Call Me Red Panda",
-      "score": 0.332,
-      "r18": false
-    },
-    {
-      "id": 56833,
-      "title": "Lemon Soda &amp; Coffee",
-      "score": 0.33,
-      "r18": false
-    },
-    {
-      "id": 53929,
-      "title": "A New Life",
-      "score": 0.33,
-      "r18": false
-    },
-    {
-      "id": 59941,
-      "title": "Michelin Star",
-      "score": 0.33,
-      "r18": false
-    },
-    {
-      "id": 53589,
-      "title": "The Rose Tower",
-      "score": 0.323,
-      "r18": false
-    },
-    {
-      "id": 37264,
-      "title": "Veggie Hot Bun's School Spring Holiday",
-      "score": 0.32,
-      "r18": false
-    },
-    {
-      "id": 45593,
-      "title": "This Song Is Only for You",
-      "score": 0.32,
-      "r18": false
-    },
-    {
-      "id": 35445,
-      "title": "Give Me Your Hands",
-      "score": 0.313,
-      "r18": false
+      "score": 0.296,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 18448,
       "title": "Let's Take the Train Together, Shall We?",
-      "score": 0.313,
-      "r18": false
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 47613,
-      "title": "Asterism",
-      "score": 0.312,
-      "r18": false
+      "id": 53589,
+      "title": "The Rose Tower",
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 41108,
-      "title": "Kamvret Lyfe",
-      "score": 0.309,
-      "r18": false
+      "id": 31617,
+      "title": "Come Over To My House And Play",
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 23234,
-      "title": "About Good Boys",
-      "score": 0.306,
-      "r18": false
+      "id": 50450,
+      "title": "Nyarla's Comfy Life",
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 22217,
-      "title": "Incredible June",
-      "score": 0.303,
-      "r18": false
+      "id": 29346,
+      "title": "My Brother Is a Big Idiot!",
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "vn",
+        "gb",
+        "br",
+        "fr",
+        "mx"
+      ]
+    },
+    {
+      "id": 53929,
+      "title": "A New Life",
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53532,
+      "title": "Please Call Me Red Panda",
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20058,
+      "title": "Koodori no Hitosara",
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59941,
+      "title": "Michelin Star",
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37264,
+      "title": "Veggie Hot Bun's School Spring Holiday",
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 56815,
+      "title": "Marong's Macaron",
+      "score": 0.246,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 41460,
+      "title": "One Day",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 51740,
+      "title": "To You, Who Kept the Star",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 57136,
       "title": "Awa's Life",
-      "score": 0.301,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 143,
       "title": "Welcome To Room #305!",
-      "score": 0.299,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 51965,
+      "title": "Just A Volunteer Club",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 23234,
+      "title": "About Good Boys",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 53624,
+      "title": "Secretary Disqualification",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 27853,
+      "title": "Why Did Men Stop Wearing High Heels?",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 22792,
+      "title": "We were Childhood Friends",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 51264,
+      "title": "I Am a Small Kitten",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 22217,
+      "title": "Incredible June",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     }
   ]
 }

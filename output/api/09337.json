@@ -2,67 +2,85 @@
   "id": 9337,
   "title": "Re Collection",
   "url": "https://mangadex.org/manga/9337",
-  "last_updated": "March 15, 2021 00:15:55 UTC",
+  "last_updated": "March 18, 2021 07:05:16 UTC",
   "matches": [
     {
       "id": 2054,
       "title": "Totsugami",
       "score": 0.186,
-      "r18": false
-    },
-    {
-      "id": 15286,
-      "title": "Fate/stay night: Heaven's Feel",
-      "score": 0.159,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "it"
+      ]
     },
     {
       "id": 1779,
       "title": "Mushi to Medama to Teddy Bear",
-      "score": 0.156,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8495,
       "title": "Persona 3",
-      "score": 0.154,
-      "r18": false
+      "score": 0.153,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1034,
       "title": "Persona 4",
-      "score": 0.152,
-      "r18": false
+      "score": 0.151,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8232,
       "title": "Abnormal-kei Joshi",
-      "score": 0.14,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "pl"
+      ]
     },
     {
       "id": 18383,
       "title": "The Fairy Captivity",
-      "score": 0.14,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "sa"
+      ]
     },
     {
       "id": 9992,
       "title": "La Vie en Doll",
-      "score": 0.14,
-      "r18": false
-    },
-    {
-      "id": 12004,
-      "title": "Witch Hunt",
-      "score": 0.127,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 27321,
       "title": "Prototype:Zero",
-      "score": 0.075,
-      "r18": false
+      "score": 0.074,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

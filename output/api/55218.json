@@ -1,74 +1,141 @@
 {
   "id": 55218,
   "title": "Mimizuku to Yoru no Ou",
-  "url": "https://api.mangadex.org/v2/manga/55218",
-  "last_updated": "March 12, 2021 20:35:05 UTC",
+  "url": "https://mangadex.org/manga/55218",
+  "last_updated": "March 18, 2021 14:01:31 UTC",
   "matches": [
     {
-      "id": 55667,
-      "title": "The Revenge of the Duke's Daughter Theresia",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 59296,
-      "title": "Answer Me, My Prince",
-      "score": 0.652,
-      "r18": false
+      "id": 8747,
+      "title": "Will o' Wisp",
+      "score": 0.195,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 44388,
       "title": "Amina of the Lamp",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 35618,
-      "title": "Sica Wolf",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 8747,
-      "title": "Will o' Wisp",
-      "score": 0.336,
-      "r18": false
+      "score": 0.153,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 41891,
       "title": "Bloody Marriage",
-      "score": 0.286,
-      "r18": false
+      "score": 0.151,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 48125,
       "title": "The Deadly Countdown",
-      "score": 0.26,
-      "r18": false
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 50453,
       "title": "Daughter of the Elemental King",
-      "score": 0.239,
-      "r18": false
+      "score": 0.138,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 55667,
+      "title": "The Revenge of the Duke's Daughter Theresia",
+      "score": 0.137,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 35618,
+      "title": "Sica Wolf",
+      "score": 0.133,
+      "r18": false,
+      "languages": [
+        "br",
+        "es"
+      ]
     },
     {
       "id": 31606,
       "title": "The Reason Why Raeliana Ended Up at the Duke's Mansion",
-      "score": 0.231,
-      "r18": false
+      "score": 0.122,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "id",
+        "mx",
+        "tr",
+        "ru",
+        "hu",
+        "ph"
+      ]
     },
     {
       "id": 34691,
       "title": "Lady Baby",
-      "score": 0.222,
-      "r18": false
+      "score": 0.117,
+      "r18": false,
+      "languages": [
+        "ru",
+        "tr",
+        "gb",
+        "id",
+        "it",
+        "fr",
+        "br",
+        "ph",
+        "ir",
+        "mx"
+      ]
+    },
+    {
+      "id": 59296,
+      "title": "Answer Me, My Prince",
+      "score": 0.107,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 56186,
+      "title": "Your Majesty, Please Don't Kill Me Again",
+      "score": 0.106,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "fr",
+        "id"
+      ]
     },
     {
       "id": 47424,
       "title": "Welcome to the Nightmare Game",
-      "score": 0.21,
-      "r18": false
+      "score": 0.091,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru"
+      ]
     }
   ]
 }

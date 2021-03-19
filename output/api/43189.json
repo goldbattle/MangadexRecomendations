@@ -1,44 +1,63 @@
 {
   "id": 43189,
   "title": "Bite Maker ~Ousama no Omega~",
-  "url": "https://api.mangadex.org/v2/manga/43189",
-  "last_updated": "February 11, 2021 12:36:32 UTC",
+  "url": "https://mangadex.org/manga/43189",
+  "last_updated": "March 18, 2021 12:20:56 UTC",
   "matches": [
     {
       "id": 58569,
-      "title": "Outbride -Ikei Konin-",
-      "score": 0.428,
-      "r18": false
+      "title": "Out Bride -Ikei Konin-",
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5054,
       "title": "Hana ni Nare!",
-      "score": 0.421,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 13166,
       "title": "B-men Kazoku",
-      "score": 0.339,
-      "r18": false
-    },
-    {
-      "id": 56622,
-      "title": "Bride of Elysion",
-      "score": 0.292,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6187,
       "title": "1-nen 5-kumi Ikimonogakari",
-      "score": 0.279,
-      "r18": false
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 56622,
+      "title": "Bride of Elysion",
+      "score": 0.156,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1921,
       "title": "Black Bird",
-      "score": 0.257,
-      "r18": false
+      "score": 0.135,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     }
   ]
 }

@@ -1,32 +1,60 @@
 {
   "id": 31050,
   "title": "Kidou Senshi Gundam SEED MSV - The Blooming of Housenka on the Battlefield",
-  "url": "https://api.mangadex.org/v2/manga/31050",
-  "last_updated": "February 10, 2021 08:14:01 UTC",
+  "url": "https://mangadex.org/manga/31050",
+  "last_updated": "March 18, 2021 10:39:41 UTC",
   "matches": [
+    {
+      "id": 30559,
+      "title": "Rockman 11",
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "sa"
+      ]
+    },
     {
       "id": 19708,
       "title": "Mecto Amore",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 12782,
       "title": "Yogashiten Galaxy",
-      "score": 0.172,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "it",
+        "hu",
+        "gb"
+      ]
     },
     {
       "id": 26047,
       "title": "Tokkei Winspector",
-      "score": 0.138,
-      "r18": false
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 48955,
       "title": "Harvester",
-      "score": 0.138,
-      "r18": false
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
     }
   ]
 }

@@ -1,158 +1,261 @@
 {
   "id": 44459,
   "title": "Itsudemo Kirby",
-  "url": "https://api.mangadex.org/v2/manga/44459",
-  "last_updated": "February 11, 2021 16:41:33 UTC",
+  "url": "https://mangadex.org/manga/44459",
+  "last_updated": "March 18, 2021 12:31:33 UTC",
   "matches": [
-    {
-      "id": 53951,
-      "title": "Otome Game no Mobu desura naindaga",
-      "score": 0.215,
-      "r18": false
-    },
     {
       "id": 21070,
       "title": "A Girl in the Clouds",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 23333,
       "title": "Fall in Love With my Trouble",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 23462,
       "title": "Under the Paws of Cats",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 24646,
       "title": "I Opened a Caf&eacute; in Another World",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 24665,
       "title": "Kakuriyo no Yadomeshi: Ayakashi Oyado ni Yomeiri Shimasu",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 31915,
       "title": "Honzuki no Gekokujou ~Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen~ Dai 2-bu \u300cHon no Tamenara Miko ni Naru!\u300d",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 34298,
       "title": "Sweet Candy",
-      "score": 0.197,
-      "r18": false
-    },
-    {
-      "id": 36140,
-      "title": "Isekai de Mofumofu Nadenade Suru Tame ni Ganbattemasu.",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "id"
+      ]
     },
     {
       "id": 40993,
       "title": "Exclusive Lover",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 42785,
       "title": "The Lunchlady Is a Saintess! ~Warm Recipes from the Girl from Another World~",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 43375,
       "title": "The Savior's Book Caf&eacute; in Another World",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "it",
+        "br"
+      ]
     },
     {
       "id": 43717,
       "title": "The Rest of My Life With You",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 43860,
       "title": "Mori no Hotori de Jam wo Niru: Isekai de Hajimeru Inakagurashi",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 45957,
       "title": "Give Me a Flower, and I'll Give You All of Me",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "tr",
+        "id"
+      ]
     },
     {
       "id": 47784,
       "title": "Marquis of Amnesia",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 57843,
       "title": "Tiger Coming In",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 58978,
       "title": "Together with Suzunyan",
-      "score": 0.197,
-      "r18": false
-    },
-    {
-      "id": 59846,
-      "title": "Jimi Hime to Kuro Neko no, Emmanna Konyaku Haki",
-      "score": 0.197,
-      "r18": false
-    },
-    {
-      "id": 20293,
-      "title": "Golden Change",
-      "score": 0.194,
-      "r18": false
-    },
-    {
-      "id": 43007,
-      "title": "By a Deity's Side",
-      "score": 0.194,
-      "r18": false
-    },
-    {
-      "id": 48779,
-      "title": "Love Nikki: Nikki's Dress up Diary",
-      "score": 0.194,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 12321,
       "title": "Sock Goblin",
-      "score": 0.191,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 35180,
       "title": "Koukando ga Agaranai",
-      "score": 0.191,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "mx"
+      ]
+    },
+    {
+      "id": 43007,
+      "title": "By a Deity's Side",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53951,
+      "title": "Otome Game no Mob desura naindaga",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6292,
       "title": "The Day the Magpie Cries",
-      "score": 0.172,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 16490,
+      "title": "Bocchan to Maid",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "tr",
+        "id",
+        "mx"
+      ]
+    },
+    {
+      "id": 24150,
+      "title": "The Rebirth of Noble: Revenge",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "sa",
+        "es",
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 35947,
+      "title": "This &quot;Summon Kitchen&quot; Skill Is Amazing! ~Amassing Points by Cooking in Another World~",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 36140,
+      "title": "Isekai de Mofumofu Nadenade Suru Tame ni Ganbattemasu.",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

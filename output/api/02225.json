@@ -2,19 +2,27 @@
   "id": 2225,
   "title": "Red",
   "url": "https://mangadex.org/manga/2225",
-  "last_updated": "March 14, 2021 04:24:54 UTC",
+  "last_updated": "March 18, 2021 06:01:40 UTC",
   "matches": [
     {
       "id": 562,
       "title": "Sekine-kun no Koi",
-      "score": 0.242,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 1059,
       "title": "Kiss &amp; Never Cry",
       "score": 0.201,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     }
   ]
 }

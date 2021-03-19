@@ -2,25 +2,37 @@
   "id": 1144,
   "title": "Double Mints",
   "url": "https://mangadex.org/manga/1144",
-  "last_updated": "March 14, 2021 01:08:18 UTC",
+  "last_updated": "March 18, 2021 05:52:17 UTC",
   "matches": [
     {
       "id": 18194,
       "title": "Ten Ten Shiro Shiro",
-      "score": 0.275,
-      "r18": false
+      "score": 0.274,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 30632,
       "title": "Complex",
-      "score": 0.262,
-      "r18": false
+      "score": 0.261,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx"
+      ]
     },
     {
       "id": 18506,
       "title": "Ore, Higaisha",
-      "score": 0.25,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     }
   ]
 }

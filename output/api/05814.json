@@ -2,31 +2,53 @@
   "id": 5814,
   "title": "Lassie",
   "url": "https://mangadex.org/manga/5814",
-  "last_updated": "March 14, 2021 12:42:11 UTC",
+  "last_updated": "March 18, 2021 06:35:04 UTC",
   "matches": [
     {
       "id": 19885,
       "title": "Jui-san no Oshigoto in Isekai",
-      "score": 0.117,
-      "r18": false
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "id",
+        "fr",
+        "mx",
+        "tr"
+      ]
     },
     {
       "id": 40962,
       "title": "The Wizard of Oz",
-      "score": 0.112,
-      "r18": false
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 55656,
       "title": "Red Hood",
-      "score": 0.112,
-      "r18": false
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr"
+      ]
     },
     {
       "id": 48994,
       "title": "Strongest Caveman",
-      "score": 0.108,
-      "r18": false
+      "score": 0.107,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br"
+      ]
     }
   ]
 }

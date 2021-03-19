@@ -1,20 +1,30 @@
 {
   "id": 52017,
   "title": "Model and Quiet Manager",
-  "url": "https://api.mangadex.org/v2/manga/52017",
-  "last_updated": "February 05, 2021 12:17:28 UTC",
+  "url": "https://mangadex.org/manga/52017",
+  "last_updated": "March 18, 2021 13:34:47 UTC",
   "matches": [
     {
       "id": 41195,
       "title": "Kami eshi JK to OL fujoshi",
-      "score": 0.233,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 52928,
       "title": "She Becomes a Tree",
-      "score": 0.175,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br",
+        "ru",
+        "id"
+      ]
     }
   ]
 }

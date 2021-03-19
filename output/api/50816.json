@@ -1,158 +1,265 @@
 {
   "id": 50816,
   "title": "Textbook of Revenge",
-  "url": "https://api.mangadex.org/v2/manga/50816",
-  "last_updated": "February 05, 2021 08:29:32 UTC",
+  "url": "https://mangadex.org/manga/50816",
+  "last_updated": "March 18, 2021 13:24:45 UTC",
   "matches": [
     {
-      "id": 47371,
-      "title": "A Breakthrough Brought by Forbidden Master and Disciple",
-      "score": 0.68,
-      "r18": false
+      "id": 7114,
+      "title": "Oni-Gokko",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7044,
+      "title": "Phi Brain - Kami no Puzzle",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29394,
+      "title": "Blue Lock",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx",
+        "pl",
+        "br",
+        "it",
+        "vn",
+        "tr",
+        "fr",
+        "hu"
+      ]
+    },
+    {
+      "id": 15302,
+      "title": "Victim",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1992,
       "title": "Sugarless",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 3918,
-      "title": "Magic Kaito",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 3089,
-      "title": "Corpse Party - Another Child",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 50672,
-      "title": "My Hero Academia - League Of Villains: Undercover (Fan Colored)",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 12714,
-      "title": "Boku no Hero Academia",
-      "score": 0.676,
-      "r18": false
+      "score": 0.269,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 658,
       "title": "Bloody Monday",
-      "score": 0.674,
-      "r18": false
+      "score": 0.267,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "ru",
+        "it"
+      ]
     },
     {
-      "id": 53977,
-      "title": "Dragon Raja 2",
-      "score": 0.673,
-      "r18": false
+      "id": 2464,
+      "title": "The Strings Dolls",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 1021,
-      "title": "Girls of the Wild's",
-      "score": 0.673,
-      "r18": false
+      "id": 20791,
+      "title": "Vs Earth",
+      "score": 0.26,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 47146,
-      "title": "God of Blackfield",
-      "score": 0.669,
-      "r18": false
+      "id": 23809,
+      "title": "Otoko Ippiki Gaki Daisho",
+      "score": 0.256,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 1403,
-      "title": "Sayonara Zetsubou Sensei",
-      "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 684,
-      "title": "Kuroko no Basket",
-      "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 4548,
-      "title": "Rokudenashi Blues",
-      "score": 0.668,
-      "r18": false
+      "id": 21068,
+      "title": "Nanba MG5",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20604,
       "title": "B Group no Shounen X",
-      "score": 0.668,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 16147,
+      "title": "Yu-Gi-Oh! Arc-V",
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 13110,
+      "title": "Hinomaru Zumou",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "it",
+        "pl"
+      ]
+    },
+    {
+      "id": 7749,
+      "title": "Hyouketsu Kyoukai no Eden",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3239,
+      "title": "Bari Haken",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 46925,
+      "title": "Yu-Gi-Oh! Rush Duel: Yarouze! Rush Duel!!",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 32558,
+      "title": "Reset Game",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 708,
+      "title": "Buyuden",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr"
+      ]
     },
     {
       "id": 883,
       "title": "Eyeshield 21",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 28843,
-      "title": "JoJo's Bizarre Adventure Part 4 - Diamond is Unbreakable",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 6269,
-      "title": "JoJo's Bizarre Adventure Part 4 - Diamond is Unbreakable (Official Colored)",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 20288,
-      "title": "World Teacher &ndash; Other World Style Education &amp; Agent",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 43650,
-      "title": "Buttobi Itto",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 22816,
-      "title": "Class ga Isekai Shoukan sareta Naka Ore dake Nokotta n desu ga",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 848,
-      "title": "Konjiki no Gash!!",
-      "score": 0.662,
-      "r18": false
-    },
-    {
-      "id": 19589,
-      "title": "Hiraheishi wa Kako wo Yumemiru",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 2221,
-      "title": "Toraneko Folklore",
-      "score": 0.661,
-      "r18": false
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ct"
+      ]
     },
     {
       "id": 2346,
       "title": "Shakugan no Shana",
-      "score": 0.661,
-      "r18": false
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "fr"
+      ]
     },
     {
-      "id": 2890,
-      "title": "Alice in Borderland",
-      "score": 0.659,
-      "r18": false
+      "id": 10255,
+      "title": "Soul Catcher(S)",
+      "score": 0.216,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21837,
+      "title": "Owari no Seraph: Ichinose Guren, 16-sai no Catastrophe",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "mx",
+        "ru",
+        "vn",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 3293,
+      "title": "Shitsurakuen",
+      "score": 0.213,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 185,
+      "title": "Hareluya II Boy",
+      "score": 0.203,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 11330,
+      "title": "Demon Possession",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "br",
+        "pl"
+      ]
     }
   ]
 }

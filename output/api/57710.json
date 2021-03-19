@@ -2,19 +2,44 @@
   "id": 57710,
   "title": "One Of Four",
   "url": "https://mangadex.org/manga/57710",
-  "last_updated": "March 13, 2021 04:13:27 UTC",
+  "last_updated": "March 18, 2021 14:22:21 UTC",
   "matches": [
     {
       "id": 57051,
       "title": "One More Time, Sir",
       "score": 0.177,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 47204,
       "title": "Joo-In ui Sajeong",
       "score": 0.172,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "vn"
+      ]
+    },
+    {
+      "id": 58838,
+      "title": "Professor's Double Life",
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 39991,
+      "title": "Incorrigible",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     }
   ]
 }

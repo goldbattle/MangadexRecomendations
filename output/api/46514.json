@@ -1,26 +1,39 @@
 {
   "id": 46514,
   "title": "Gudako Turns Into a Cat (Feat. Lancelot &amp; Bedivere)",
-  "url": "https://api.mangadex.org/v2/manga/46514",
-  "last_updated": "February 12, 2021 00:55:19 UTC",
+  "url": "https://mangadex.org/manga/46514",
+  "last_updated": "March 18, 2021 12:48:43 UTC",
   "matches": [
     {
       "id": 26357,
       "title": "Hamazura-Stalker",
-      "score": 0.215,
-      "r18": false
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 34541,
       "title": "Tenshi Girl",
-      "score": 0.172,
-      "r18": false
+      "score": 0.144,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 564,
       "title": "Nagasarete Airantou",
-      "score": 0.058,
-      "r18": false
+      "score": 0.048,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "ru"
+      ]
     }
   ]
 }

@@ -2,157 +2,316 @@
   "id": 28562,
   "title": "EMPYREA",
   "url": "https://mangadex.org/manga/28562",
-  "last_updated": "March 17, 2021 00:41:42 UTC",
+  "last_updated": "March 18, 2021 10:18:56 UTC",
   "matches": [
     {
       "id": 15165,
       "title": "Vampire Hunter D",
-      "score": 0.262,
-      "r18": false
-    },
-    {
-      "id": 675,
-      "title": "Wake Up Deadman",
-      "score": 0.245,
-      "r18": false
-    },
-    {
-      "id": 36698,
-      "title": "Nine Lives Man",
-      "score": 0.239,
-      "r18": false
-    },
-    {
-      "id": 7869,
-      "title": "Arashi no Hana Murakumo no Uta",
-      "score": 0.237,
-      "r18": false
-    },
-    {
-      "id": 34867,
-      "title": "Dark Web",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 22381,
-      "title": "Mushikago no Cagaster",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 15992,
-      "title": "Tokumu Houkoukan Yumihari",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 47118,
-      "title": "The Far East Incident",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 16107,
-      "title": "Straw",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 24354,
-      "title": "Godo",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 43005,
-      "title": "One Day in the Life of Ivan Dejavu",
-      "score": 0.233,
-      "r18": false
+      "score": 0.261,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
       "id": 22468,
       "title": "Umwelt - Igarashi Daisuke Anthology",
       "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 9441,
-      "title": "Yongbyeong Maluhan",
-      "score": 0.23,
-      "r18": false
-    },
-    {
-      "id": 9140,
-      "title": "Gensou Suikoden III - Unmei no Keishousha",
-      "score": 0.23,
-      "r18": false
-    },
-    {
-      "id": 281,
-      "title": "Trigun Maximum",
-      "score": 0.228,
-      "r18": false
-    },
-    {
-      "id": 24380,
-      "title": "Megami Kouhosei",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 26499,
-      "title": "Planet With",
-      "score": 0.227,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "mx",
+        "br"
+      ]
     },
     {
       "id": 1714,
       "title": "Kara no Kyoukai - The Garden of Sinners",
-      "score": 0.225,
-      "r18": false
-    },
-    {
-      "id": 8481,
-      "title": "Wolf's Rain",
       "score": 0.224,
-      "r18": false
-    },
-    {
-      "id": 17859,
-      "title": "Life Howling",
-      "score": 0.223,
-      "r18": false
-    },
-    {
-      "id": 14763,
-      "title": "Yakushoku Distopiary - Gesellschaft Blume",
-      "score": 0.222,
-      "r18": false
-    },
-    {
-      "id": 14398,
-      "title": "Nejimaki Seirei Senki - Tenkyou no Alderamin",
-      "score": 0.222,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "mx"
+      ]
     },
     {
       "id": 14772,
       "title": "Area 51",
-      "score": 0.221,
-      "r18": false
-    },
-    {
-      "id": 28193,
-      "title": "Houshin Engi Gaiden",
-      "score": 0.221,
-      "r18": false
-    },
-    {
-      "id": 3860,
-      "title": "Death Edge",
       "score": 0.22,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 747,
+      "title": "Kamisama Dolls",
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 10898,
+      "title": "2001 + 5",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 3366,
+      "title": "Feng Shen Ji",
+      "score": 0.198,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx",
+        "fr",
+        "tr"
+      ]
+    },
+    {
+      "id": 2521,
+      "title": "Kaijuu no Kodomo",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 19887,
+      "title": "Uratarou",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "tr",
+        "ru",
+        "es",
+        "mx",
+        "br"
+      ]
+    },
+    {
+      "id": 4993,
+      "title": "Spirit Circle",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "it",
+        "br",
+        "gb",
+        "fr",
+        "ru",
+        "es",
+        "cn",
+        "tr",
+        "mx",
+        "sa"
+      ]
+    },
+    {
+      "id": 22733,
+      "title": "Free Life: Isekai Nandemoya Funtouki",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "mx",
+        "fr",
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 40029,
+      "title": "Boushoku-Hi no Ken",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "ru",
+        "mx",
+        "id",
+        "tr"
+      ]
+    },
+    {
+      "id": 57650,
+      "title": "BIBLIOMANIA",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br",
+        "gb",
+        "tr",
+        "fr",
+        "it"
+      ]
+    },
+    {
+      "id": 20309,
+      "title": "Takarakuji de 40 oku Atatta ndakedo Isekai ni Ijuu Suru",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "fr",
+        "ru"
+      ]
+    },
+    {
+      "id": 17996,
+      "title": "Futago no Teikoku",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 4880,
+      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "fr",
+        "ru",
+        "id",
+        "es",
+        "mx",
+        "ro",
+        "sa",
+        "br",
+        "de"
+      ]
+    },
+    {
+      "id": 17312,
+      "title": "Mahou Shoujo Tart\u2605Magica: The Legend of &quot;Jeanne d'Arc&quot;",
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
+    },
+    {
+      "id": 36834,
+      "title": "Winner Takes All",
+      "score": 0.19,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br",
+        "gb",
+        "fr",
+        "tr",
+        "ru",
+        "id",
+        "pl"
+      ]
+    },
+    {
+      "id": 12004,
+      "title": "Witch Hunt",
+      "score": 0.19,
+      "r18": false,
+      "languages": [
+        "br",
+        "mx",
+        "pl"
+      ]
+    },
+    {
+      "id": 35793,
+      "title": "Zeus no Te",
+      "score": 0.189,
+      "r18": false,
+      "languages": [
+        "hk",
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 4135,
+      "title": "Mushishi",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "ru",
+        "mx",
+        "gb",
+        "ct",
+        "br"
+      ]
+    },
+    {
+      "id": 28489,
+      "title": "Yotsukoto",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx"
+      ]
+    },
+    {
+      "id": 40978,
+      "title": "Even Though I'm a Former Noble and a Single Mother, My Daughters Are Too Cute and Working as an Adventurer Isn&rsquo;t Too Much of a Hassle",
+      "score": 0.185,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 14441,
+      "title": "Fate/strange Fake",
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "fr",
+        "mx",
+        "sa",
+        "gb",
+        "es",
+        "br",
+        "ru"
+      ]
+    },
+    {
+      "id": 1603,
+      "title": "Dangu",
+      "score": 0.182,
+      "r18": false,
+      "languages": [
+        "de",
+        "gb",
+        "mx",
+        "my"
+      ]
     }
   ]
 }

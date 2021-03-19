@@ -1,32 +1,38 @@
 {
   "id": 54185,
   "title": "Tama&sup2; Fortune",
-  "url": "https://api.mangadex.org/v2/manga/54185",
-  "last_updated": "March 12, 2021 20:22:27 UTC",
+  "url": "https://mangadex.org/manga/54185",
+  "last_updated": "March 18, 2021 13:52:53 UTC",
   "matches": [
     {
       "id": 32255,
       "title": "Take On Me",
-      "score": 0.367,
-      "r18": true
+      "score": 0.349,
+      "r18": true,
+      "languages": [
+        "gb",
+        "sa"
+      ]
     },
     {
       "id": 23542,
       "title": "Loser",
-      "score": 0.281,
-      "r18": true
+      "score": 0.175,
+      "r18": true,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 52997,
       "title": "Boss Reverse",
-      "score": 0.203,
-      "r18": true
-    },
-    {
-      "id": 56684,
-      "title": "I Live With Sister-in-Law",
-      "score": 0.197,
-      "r18": true
+      "score": 0.109,
+      "r18": true,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     }
   ]
 }

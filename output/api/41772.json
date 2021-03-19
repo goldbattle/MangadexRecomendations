@@ -1,158 +1,251 @@
 {
   "id": 41772,
   "title": "Sidooh Sunrise",
-  "url": "https://api.mangadex.org/v2/manga/41772",
-  "last_updated": "February 11, 2021 08:44:05 UTC",
+  "url": "https://mangadex.org/manga/41772",
+  "last_updated": "March 18, 2021 12:09:06 UTC",
   "matches": [
-    {
-      "id": 934,
-      "title": "Blood and Steel",
-      "score": 0.287,
-      "r18": false
-    },
     {
       "id": 2463,
       "title": "Tenshou no Ryoma",
-      "score": 0.287,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4121,
       "title": "Shura Yukihime",
-      "score": 0.287,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "it",
+        "ru",
+        "tr"
+      ]
     },
     {
       "id": 4622,
       "title": "Sengoku",
-      "score": 0.287,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5622,
       "title": "Kurogane (Toume Kei)",
-      "score": 0.287,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11068,
       "title": "Mikazuki Ryuu Ibun",
-      "score": 0.287,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 15909,
       "title": "Blood and Steel: Tale of the Fighting Freak, Path of the Warrior",
-      "score": 0.287,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 26303,
       "title": "Shinsengumi Jingishou Asagi",
-      "score": 0.287,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 36817,
       "title": "Blade of the Immortal - Bakumatsu Arc",
-      "score": 0.287,
-      "r18": false
-    },
-    {
-      "id": 44496,
-      "title": "Gantz:E",
-      "score": 0.287,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb"
+      ]
     },
     {
       "id": 53719,
       "title": "Dokuganryu Date Masamune",
-      "score": 0.287,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 58004,
       "title": "Uesugi Kenshin",
-      "score": 0.287,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8740,
       "title": "Takeda Shingen",
-      "score": 0.258,
-      "r18": false
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 934,
+      "title": "Blood and Steel",
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 981,
       "title": "Gwi",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "es",
+        "tr"
+      ]
     },
     {
       "id": 1920,
       "title": "The Ravages of Time",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "it"
+      ]
     },
     {
       "id": 3840,
       "title": "Kentou Ankokuden Cestvs",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 15933,
       "title": "Kamui Den",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 43369,
       "title": "Shuumatsu no Valkyrie: The Legend of Lu Bu Fengxian",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br",
+        "it",
+        "gb"
+      ]
     },
     {
       "id": 845,
       "title": "Honorable Baek Dong Soo",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu"
+      ]
     },
     {
       "id": 852,
       "title": "Zatoichi",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 917,
       "title": "Gunka no Baltzar",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1129,
       "title": "Bokkou",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 1160,
       "title": "Because Goodbyes Are Coming Soon",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "br",
+        "fr",
+        "it",
+        "gb"
+      ]
     },
     {
       "id": 1384,
       "title": "Yama Fu-Tang",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1495,
       "title": "Ichi",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 1913,
+      "title": "Yagyuu Hijouken Samon",
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

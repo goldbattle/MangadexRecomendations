@@ -2,43 +2,70 @@
   "id": 623,
   "title": "Franken Fran",
   "url": "https://mangadex.org/manga/623",
-  "last_updated": "March 14, 2021 00:58:43 UTC",
+  "last_updated": "March 18, 2021 05:47:50 UTC",
   "matches": [
     {
       "id": 6666,
       "title": "Shin Mazinger Zero",
-      "score": 0.181,
-      "r18": false
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 10847,
       "title": "Shin Devilman",
       "score": 0.157,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 22207,
       "title": "Redman Princess: Akuryou Koujo",
-      "score": 0.156,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2875,
       "title": "Devilman",
       "score": 0.121,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa",
+        "es",
+        "tr"
+      ]
     },
     {
       "id": 3708,
       "title": "Violence Jack",
       "score": 0.106,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "br"
+      ]
     },
     {
       "id": 19301,
       "title": "Guerrilla High",
       "score": 0.1,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

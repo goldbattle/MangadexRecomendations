@@ -2,25 +2,61 @@
   "id": 8359,
   "title": "Blue and Other Short Pieces",
   "url": "https://mangadex.org/manga/8359",
-  "last_updated": "March 14, 2021 20:18:25 UTC",
+  "last_updated": "March 18, 2021 06:56:53 UTC",
   "matches": [
     {
       "id": 45960,
       "title": "Boy's Abyss",
-      "score": 0.257,
-      "r18": false
+      "score": 0.256,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "mx",
+        "it",
+        "fr",
+        "id",
+        "tr",
+        "ru",
+        "ir",
+        "sa"
+      ]
     },
     {
       "id": 1769,
       "title": "Umibe no Onnanoko",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ir"
+      ]
+    },
+    {
+      "id": 22687,
+      "title": "GIGANT",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "it",
+        "mx",
+        "br",
+        "gb",
+        "fr",
+        "ru",
+        "ro"
+      ]
     },
     {
       "id": 18813,
       "title": "House of Dolls",
-      "score": 0.156,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     }
   ]
 }

@@ -2,157 +2,277 @@
   "id": 5610,
   "title": "Mashima-en",
   "url": "https://mangadex.org/manga/5610",
-  "last_updated": "March 14, 2021 12:38:53 UTC",
+  "last_updated": "March 18, 2021 06:33:10 UTC",
   "matches": [
     {
       "id": 18491,
       "title": "It's My Life",
       "score": 0.312,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "es",
+        "id"
+      ]
     },
     {
       "id": 51312,
       "title": "Tate no Yuusha no Nariagari Anthology - Filo to issho",
       "score": 0.306,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 25754,
       "title": "Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta",
-      "score": 0.278,
-      "r18": false
+      "score": 0.277,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id"
+      ]
     },
     {
       "id": 33462,
       "title": "Isekai Dungeon no Renai Jijou",
-      "score": 0.269,
-      "r18": false
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1360,
       "title": "Sword Art Online - Aincrad",
-      "score": 0.269,
-      "r18": false
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 54182,
       "title": "Ore wa Mada, Honki o Dashite Inai",
-      "score": 0.269,
-      "r18": false
-    },
-    {
-      "id": 32912,
-      "title": "Welcome to Japan, Elf-san!",
-      "score": 0.269,
-      "r18": false
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 23851,
       "title": "Retired Heroes",
-      "score": 0.269,
-      "r18": false
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "mx",
+        "fr"
+      ]
     },
     {
       "id": 12339,
       "title": "Rock Lee no Seishun Full-Power Ninden",
-      "score": 0.269,
-      "r18": false
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 32912,
+      "title": "Welcome to Japan, Ms. Elf!",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "ru"
+      ]
     },
     {
       "id": 958,
       "title": "Binbougami ga!",
-      "score": 0.269,
-      "r18": false
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1937,
       "title": "Tsukimi no Soba",
-      "score": 0.269,
-      "r18": false
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br"
+      ]
     },
     {
       "id": 59708,
       "title": "That Dragon (Exchange) Student Stands Out More Than Me",
-      "score": 0.269,
-      "r18": false
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "vn",
+        "id"
+      ]
     },
     {
       "id": 197,
       "title": "Magico",
-      "score": 0.263,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "br",
+        "it",
+        "fr",
+        "ru"
+      ]
     },
     {
       "id": 31787,
       "title": "Magic Domain Mercenary",
-      "score": 0.263,
-      "r18": false
-    },
-    {
-      "id": 283,
-      "title": "Ao no Exorcist",
-      "score": 0.263,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br"
+      ]
     },
     {
       "id": 18468,
       "title": "Ni Xi Ba Mo Wang!",
-      "score": 0.263,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 3405,
       "title": "Archlord",
-      "score": 0.263,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1071,
       "title": "Double Arts",
-      "score": 0.263,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 101,
       "title": "Yureka",
-      "score": 0.263,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru"
+      ]
     },
     {
       "id": 3622,
       "title": "Densetsu no Yuusha no Densetsu",
-      "score": 0.263,
-      "r18": false
-    },
-    {
-      "id": 20249,
-      "title": "Light vs Shadow",
-      "score": 0.263,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "fr"
+      ]
     },
     {
       "id": 49405,
       "title": "Tate no Yuusha no Nariagari Anthology - Raphtalia to issho",
-      "score": 0.263,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 7195,
       "title": "Nanatsu no Taizai",
-      "score": 0.263,
-      "r18": false
-    },
-    {
-      "id": 921,
-      "title": "Lost Seven",
-      "score": 0.263,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "sa",
+        "mx",
+        "th",
+        "it",
+        "br",
+        "id",
+        "es",
+        "ru"
+      ]
     },
     {
       "id": 41007,
       "title": "Nanatsu no Taizai (Fan Colored)",
-      "score": 0.263,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 921,
+      "title": "Lost Seven",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 3321,
+      "title": "A Book of Dreams",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6582,
+      "title": "Chronicles of the Cursed Sword",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

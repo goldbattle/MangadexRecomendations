@@ -1,14 +1,35 @@
 {
   "id": 55475,
   "title": "Pretty girl - Hero",
-  "url": "https://api.mangadex.org/v2/manga/55475",
-  "last_updated": "March 12, 2021 20:38:18 UTC",
+  "url": "https://mangadex.org/manga/55475",
+  "last_updated": "March 18, 2021 14:03:40 UTC",
   "matches": [
+    {
+      "id": 57721,
+      "title": "Lovecraft Girls - or How to Prevent the Apocalypse",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
     {
       "id": 49954,
       "title": "Minecraft - Anime Edition (Doujinshi)",
-      "score": 0.171,
-      "r18": false
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "it",
+        "id",
+        "br",
+        "pl",
+        "fr",
+        "cz",
+        "tr"
+      ]
     }
   ]
 }

@@ -1,158 +1,245 @@
 {
   "id": 44728,
   "title": "The Bright Moon",
-  "url": "https://api.mangadex.org/v2/manga/44728",
-  "last_updated": "February 11, 2021 16:45:52 UTC",
+  "url": "https://mangadex.org/manga/44728",
+  "last_updated": "March 18, 2021 12:33:48 UTC",
   "matches": [
-    {
-      "id": 52946,
-      "title": "From Now On, I'm Your Dog",
-      "score": 0.747,
-      "r18": false
-    },
-    {
-      "id": 33690,
-      "title": "The Emperor's Strategy",
-      "score": 0.74,
-      "r18": false
-    },
-    {
-      "id": 29078,
-      "title": "Circle",
-      "score": 0.727,
-      "r18": false
-    },
     {
       "id": 40974,
       "title": "Scumbag System",
-      "score": 0.725,
-      "r18": false
-    },
-    {
-      "id": 30665,
-      "title": "Behind the Scenes",
-      "score": 0.72,
-      "r18": false
-    },
-    {
-      "id": 52947,
-      "title": "Form of Sympathy",
-      "score": 0.715,
-      "r18": false
+      "score": 0.281,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 47289,
       "title": "Snow Kingdom",
-      "score": 0.713,
-      "r18": false
+      "score": 0.27,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 48615,
-      "title": "You Don't Know Me",
-      "score": 0.712,
-      "r18": false
+      "id": 52946,
+      "title": "From Now On, I'm Your Dog",
+      "score": 0.253,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 24225,
-      "title": "Here U Are",
-      "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 46501,
-      "title": "Solar Eclipse",
-      "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 48317,
-      "title": "Madman Combo",
-      "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 58272,
-      "title": "Who Cares",
-      "score": 0.709,
-      "r18": false
-    },
-    {
-      "id": 48328,
-      "title": "Outburst",
-      "score": 0.709,
-      "r18": false
-    },
-    {
-      "id": 55396,
-      "title": "Even If You Don't Love Me",
-      "score": 0.709,
-      "r18": false
-    },
-    {
-      "id": 56850,
-      "title": "Secondo Piatto",
-      "score": 0.707,
-      "r18": false
-    },
-    {
-      "id": 59724,
-      "title": "Heartrate Presto",
-      "score": 0.707,
-      "r18": false
+      "id": 46551,
+      "title": "Auspicious Emperor",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 46907,
       "title": "Zhuzhiqu",
-      "score": 0.701,
-      "r18": false
+      "score": 0.247,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 58000,
-      "title": "Fatal Game",
-      "score": 0.698,
-      "r18": false
+      "id": 59724,
+      "title": "Heartrate Presto",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 43410,
-      "title": "Angel Buddy",
-      "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 12001,
-      "title": "Shisei Gokumon",
-      "score": 0.697,
-      "r18": false
-    },
-    {
-      "id": 36926,
-      "title": "Bai Jiu Nan Chan",
-      "score": 0.697,
-      "r18": false
+      "id": 50849,
+      "title": "The Trajectory of Venus",
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr"
+      ]
     },
     {
       "id": 46680,
       "title": "Your Highness, Please Don't Be a Demon",
-      "score": 0.695,
-      "r18": false
+      "score": 0.234,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24225,
+      "title": "Here U Are",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "it",
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 43377,
+      "title": "Love in the Underworld",
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ir"
+      ]
+    },
+    {
+      "id": 48328,
+      "title": "Outburst",
+      "score": 0.228,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 58000,
+      "title": "Fatal Game",
+      "score": 0.226,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 23719,
+      "title": "Angel Love",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 55122,
+      "title": "Xiu Zhen Nai Ba",
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 44912,
+      "title": "Zhi Zi Zhi Jian",
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "fr",
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 32792,
+      "title": "A&amp;B",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59815,
+      "title": "The Winning Actor Wants Divorce",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 57765,
+      "title": "Summer Guest",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 58567,
       "title": "Today I Become A Star",
-      "score": 0.695,
-      "r18": false
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 58756,
-      "title": "Fox Cream Tart",
-      "score": 0.694,
-      "r18": false
+      "id": 52089,
+      "title": "Six Sense",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 21666,
-      "title": "Coming Out Note",
-      "score": 0.693,
-      "r18": false
+      "id": 59359,
+      "title": "Daehyun's Laundry~ I wash everything~",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 12001,
+      "title": "Shisei Gokumon",
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 38586,
+      "title": "On or Off",
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 52047,
+      "title": "Bread's Collection of One-shots",
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 45074,
+      "title": "Your Devotion is My Salvation",
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

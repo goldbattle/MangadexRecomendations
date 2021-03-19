@@ -1,158 +1,252 @@
 {
   "id": 44228,
   "title": "Hakuouki: Reimeiroku",
-  "url": "https://api.mangadex.org/v2/manga/44228",
-  "last_updated": "February 11, 2021 16:37:53 UTC",
+  "url": "https://mangadex.org/manga/44228",
+  "last_updated": "March 18, 2021 12:29:37 UTC",
   "matches": [
     {
       "id": 2770,
       "title": "Saiunkoku Monogatari",
-      "score": 0.269,
-      "r18": false
+      "score": 0.226,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 3940,
       "title": "Apothecarius Argentum",
-      "score": 0.267,
-      "r18": false
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7794,
       "title": "Sakura Juuyuushi",
-      "score": 0.267,
-      "r18": false
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11945,
       "title": "Okobore Hime to Entaku no Kishi",
-      "score": 0.242,
-      "r18": false
+      "score": 0.204,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 18109,
       "title": "Sengoku Vampire",
-      "score": 0.242,
-      "r18": false
+      "score": 0.204,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "it",
+        "es"
+      ]
     },
     {
       "id": 3649,
       "title": "Tsuki no Shippo",
-      "score": 0.231,
-      "r18": false
+      "score": 0.195,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6021,
       "title": "Harukanaru Toki no Naka de",
-      "score": 0.231,
-      "r18": false
+      "score": 0.195,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6740,
       "title": "Bakumatsu Renka Karyuu Kenshiden",
-      "score": 0.231,
-      "r18": false
+      "score": 0.195,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 175,
       "title": "Absolute Witch",
-      "score": 0.229,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 337,
       "title": "Habaegui Sinbu",
-      "score": 0.229,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa",
+        "pl"
+      ]
     },
     {
       "id": 560,
       "title": "Donten ni Warau",
-      "score": 0.229,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru",
+        "ct"
+      ]
     },
     {
       "id": 2023,
       "title": "Shinobi Life",
-      "score": 0.229,
-      "r18": false
-    },
-    {
-      "id": 2993,
-      "title": "Tenkuu Seiryuu ~Innocent Dragon~",
-      "score": 0.229,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3070,
       "title": "Hakushaku to Yousei",
-      "score": 0.229,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu"
+      ]
     },
     {
       "id": 7461,
       "title": "Sengoku Blood ~Bara no Keiyaku~",
-      "score": 0.229,
-      "r18": false
-    },
-    {
-      "id": 7639,
-      "title": "Kakan no Madonna",
-      "score": 0.229,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8797,
       "title": "Yukarism",
-      "score": 0.229,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 8960,
-      "title": "Like a Bird",
-      "score": 0.229,
-      "r18": false
+      "title": "Sawea Gati",
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru"
+      ]
     },
     {
       "id": 10514,
       "title": "Twin Cross",
-      "score": 0.229,
-      "r18": false
-    },
-    {
-      "id": 14357,
-      "title": "Toukaidou HISAME -Kagerou-",
-      "score": 0.229,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 18041,
       "title": "Angels Tears",
-      "score": 0.229,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20153,
       "title": "Tripitaka Torinique",
-      "score": 0.229,
-      "r18": false
-    },
-    {
-      "id": 27660,
-      "title": "Tamago no Hi",
-      "score": 0.229,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 32831,
       "title": "Taketori Monogatari",
-      "score": 0.229,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 33300,
       "title": "Matsurika Kanriden",
-      "score": 0.229,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br"
+      ]
+    },
+    {
+      "id": 48437,
+      "title": "My Blissful Marriage",
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2993,
+      "title": "Tenkuu Seiryuu ~Innocent Dragon~",
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 7639,
+      "title": "Kakan no Madonna",
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 14357,
+      "title": "Toukaidou HISAME -Kagerou-",
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

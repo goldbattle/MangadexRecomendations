@@ -1,158 +1,263 @@
 {
   "id": 41693,
   "title": "Social Game Girlfriend",
-  "url": "https://api.mangadex.org/v2/manga/41693",
-  "last_updated": "February 11, 2021 08:42:49 UTC",
+  "url": "https://mangadex.org/manga/41693",
+  "last_updated": "March 18, 2021 12:08:27 UTC",
   "matches": [
     {
-      "id": 16904,
-      "title": "Crazy for You",
-      "score": 0.379,
-      "r18": false
-    },
-    {
-      "id": 43503,
-      "title": "Homura-sensei Is Probably Unpopular",
-      "score": 0.373,
-      "r18": false
-    },
-    {
-      "id": 53409,
-      "title": "Billionaire in Love",
-      "score": 0.36,
-      "r18": false
-    },
-    {
-      "id": 14705,
-      "title": "AFO Guard",
-      "score": 0.359,
-      "r18": false
-    },
-    {
-      "id": 20897,
-      "title": "Hinmin Choujin Kanenashi-kun",
-      "score": 0.355,
-      "r18": false
-    },
-    {
-      "id": 16443,
-      "title": "Takane no Hana nara Ochitekoi!!",
-      "score": 0.353,
-      "r18": false
+      "id": 22270,
+      "title": "J-Ota Danshi Asahina-kun",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21574,
       "title": "Chihaya-san's Fine that Way",
-      "score": 0.351,
-      "r18": false
-    },
-    {
-      "id": 56888,
-      "title": "Bijutsubu Girl",
-      "score": 0.346,
-      "r18": false
-    },
-    {
-      "id": 25838,
-      "title": "Watashitachi wa Koi wo Shiranai",
-      "score": 0.344,
-      "r18": false
-    },
-    {
-      "id": 48203,
-      "title": "Kenage na Seitou Kaicho to Yokoshima na Fuku Kaichou",
-      "score": 0.342,
-      "r18": false
-    },
-    {
-      "id": 15941,
-      "title": "Tsurezure Children",
-      "score": 0.342,
-      "r18": false
-    },
-    {
-      "id": 22298,
-      "title": "Renai Symphony",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 20708,
-      "title": "Ki ni Naru Mori-san",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 22270,
-      "title": "J-Ota Danshi Asahina-kun",
-      "score": 0.336,
-      "r18": false
-    },
-    {
-      "id": 3875,
-      "title": "Acchi Kocchi",
-      "score": 0.335,
-      "r18": false
-    },
-    {
-      "id": 18208,
-      "title": "Koisuru Michiru Ojousama",
-      "score": 0.335,
-      "r18": false
-    },
-    {
-      "id": 43352,
-      "title": "Kouhai-kun wa Amayakashitai",
-      "score": 0.333,
-      "r18": false
-    },
-    {
-      "id": 57421,
-      "title": "805",
-      "score": 0.331,
-      "r18": false
-    },
-    {
-      "id": 3890,
-      "title": "Ore no Kanojo to Osananajimi ga Shuraba Sugiru 4-Koma",
-      "score": 0.331,
-      "r18": false
-    },
-    {
-      "id": 20550,
-      "title": "Veteran Shougakusei Takashi",
-      "score": 0.331,
-      "r18": false
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 20991,
       "title": "Kuzu to Megane to Bungaku Shoujo (Nise)",
-      "score": 0.327,
-      "r18": false
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "id",
+        "br"
+      ]
+    },
+    {
+      "id": 16443,
+      "title": "Takane no Hana nara Ochitekoi!!",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 3875,
+      "title": "Acchi Kocchi",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de",
+        "fr"
+      ]
+    },
+    {
+      "id": 14705,
+      "title": "AFO Guard",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59144,
+      "title": "Zoku!! jisatsu shitaikedo sore wa chotto kowaikara yandere kanojo o tsukutte kanojo ni koroshitemora\u014d to surukedo 100 nichi go ni naze ka nemu kan sareta hanashi",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 15941,
+      "title": "Tsurezure Children",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "fr",
+        "it",
+        "id",
+        "ro",
+        "in"
+      ]
+    },
+    {
+      "id": 22298,
+      "title": "Renai Symphony",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 43352,
+      "title": "Kouhai-kun wa Amayakashitai",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 48203,
+      "title": "Kenage na Seitou Kaicho to Yokoshima na Fuku Kaichou",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 43503,
+      "title": "Homura-sensei Is Probably Unpopular",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id",
+        "ru"
+      ]
+    },
+    {
+      "id": 25838,
+      "title": "Watashitachi wa Koi wo Shiranai",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br"
+      ]
+    },
+    {
+      "id": 45576,
+      "title": "Sewa ashi",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20550,
+      "title": "Veteran Shougakusei Takashi",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18674,
+      "title": "Musashi-kun to Murayama-san wa Tsukiatte Mita.",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru"
+      ]
+    },
+    {
+      "id": 20897,
+      "title": "Hinmin Choujin Kanenashi-kun",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 39288,
+      "title": "Lazy Skies",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53409,
+      "title": "Billionaire in Love",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 16904,
+      "title": "Crazy for You",
+      "score": 0.286,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 18208,
+      "title": "Koisuru Michiru Ojousama",
+      "score": 0.273,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 56888,
+      "title": "Bijutsubu Girl",
+      "score": 0.271,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 35632,
       "title": "My Alien Days Webcomic",
-      "score": 0.326,
-      "r18": false
+      "score": 0.271,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 9052,
-      "title": "Baka &amp; Test &amp; Shokanjudya",
-      "score": 0.325,
-      "r18": false
-    },
-    {
-      "id": 14052,
-      "title": "Sensei Lock-On!",
-      "score": 0.325,
-      "r18": false
+      "id": 9842,
+      "title": "Love Lab",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "mx"
+      ]
     },
     {
       "id": 13034,
       "title": "Komori-san wa Kotowarenai!",
-      "score": 0.325,
-      "r18": false
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     }
   ]
 }

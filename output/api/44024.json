@@ -1,50 +1,81 @@
 {
   "id": 44024,
   "title": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui! - Untitled YoshiMako",
-  "url": "https://api.mangadex.org/v2/manga/44024",
-  "last_updated": "February 11, 2021 16:34:29 UTC",
+  "url": "https://mangadex.org/manga/44024",
+  "last_updated": "March 18, 2021 12:27:55 UTC",
   "matches": [
     {
       "id": 14600,
       "title": "Ikenai Hito",
-      "score": 0.35,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 34563,
       "title": "Kore wa Yoi Dakimakura",
-      "score": 0.35,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 27193,
       "title": "Love Live! - Taiiku Souko de Futarikiri ni Naru Omajinai in MakiPana (Doujinshi)",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 56818,
       "title": "The Girl With a Mirrored Heart",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "it",
+        "mx",
+        "ua",
+        "gb",
+        "de",
+        "id",
+        "fr",
+        "tr"
+      ]
     },
     {
       "id": 43657,
       "title": "Yuru Camp - Rin and Nadeshiko ~Preparing For Summer Camp On a City Date!~",
-      "score": 0.233,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "br"
+      ]
     },
     {
       "id": 50925,
       "title": "Shoujo Kageki Revue Starlight - Last Night, Here With You (Doujinshi)",
-      "score": 0.233,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 59668,
       "title": "Shoujo Kageki \u2606 Revue Starlight - To Love Is To Suffer (Doujinshi)",
-      "score": 0.233,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -1,158 +1,254 @@
 {
   "id": 50308,
   "title": "Kanojo, Hitomishirimasu",
-  "url": "https://api.mangadex.org/v2/manga/50308",
-  "last_updated": "February 05, 2021 08:21:35 UTC",
+  "url": "https://mangadex.org/manga/50308",
+  "last_updated": "March 18, 2021 13:20:31 UTC",
   "matches": [
-    {
-      "id": 8994,
-      "title": "Miyakawake no Kuufuku",
-      "score": 0.462,
-      "r18": false
-    },
-    {
-      "id": 359,
-      "title": "Joshiraku",
-      "score": 0.449,
-      "r18": false
-    },
     {
       "id": 47432,
       "title": "Ken-chan",
-      "score": 0.445,
-      "r18": false
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 22995,
-      "title": "Himawari (Tetsuhiro Hirakawa)",
-      "score": 0.435,
-      "r18": false
-    },
-    {
-      "id": 6635,
-      "title": "Maniac Road",
-      "score": 0.43,
-      "r18": false
-    },
-    {
-      "id": 1833,
-      "title": "Aka Pro!!! - Akarui Sanshimai Project",
-      "score": 0.416,
-      "r18": false
+      "id": 8994,
+      "title": "Miyakawake no Kuufuku",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 5592,
       "title": "Honoka Lv. Up!",
-      "score": 0.416,
-      "r18": false
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 5807,
-      "title": "Idol no Akahon",
-      "score": 0.413,
-      "r18": false
+      "id": 6635,
+      "title": "Maniac Road",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 6986,
-      "title": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo",
-      "score": 0.412,
-      "r18": false
-    },
-    {
-      "id": 20831,
-      "title": "Kemono Friends: Welcome to Japari Park!",
-      "score": 0.406,
-      "r18": false
-    },
-    {
-      "id": 48611,
-      "title": "Ibara-Chan Can't Rebel!",
-      "score": 0.403,
-      "r18": false
-    },
-    {
-      "id": 1609,
-      "title": "Zoushoku Shoujo Plana-chan!",
-      "score": 0.402,
-      "r18": false
-    },
-    {
-      "id": 7432,
-      "title": "Maa-chan no Nikkichou",
-      "score": 0.4,
-      "r18": false
-    },
-    {
-      "id": 17834,
-      "title": "Madoromi-chan ga Iku.",
-      "score": 0.396,
-      "r18": false
+      "id": 359,
+      "title": "Joshiraku",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 6065,
       "title": "NieA_7",
-      "score": 0.395,
-      "r18": false
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "br",
+        "ru",
+        "gb"
+      ]
     },
     {
-      "id": 20036,
-      "title": "Obaa-chan to Game",
-      "score": 0.393,
-      "r18": false
+      "id": 20831,
+      "title": "Kemono Friends: Welcome to Japari Park!",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx"
+      ]
     },
     {
-      "id": 32304,
-      "title": "Anata wo Otona ni Suru \u25cb tsu no Koto",
-      "score": 0.391,
-      "r18": false
+      "id": 1833,
+      "title": "Aka Pro!!! - Akarui Sanshimai Project",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ua"
+      ]
+    },
+    {
+      "id": 5807,
+      "title": "Idol no Akahon",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 48611,
+      "title": "Ibara-Chan Can't Rebel!",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn"
+      ]
+    },
+    {
+      "id": 17834,
+      "title": "Madoromi-chan ga Iku.",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "it",
+        "fr",
+        "id"
+      ]
+    },
+    {
+      "id": 7432,
+      "title": "Maa-chan no Nikkichou",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6510,
       "title": "Try! Try! Try!",
-      "score": 0.389,
-      "r18": false
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "fr"
+      ]
+    },
+    {
+      "id": 6986,
+      "title": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 32304,
+      "title": "Anata wo Otona ni Suru \u25cb tsu no Koto",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 31231,
       "title": "Azur Lane: Queen's Orders",
-      "score": 0.38,
-      "r18": false
-    },
-    {
-      "id": 29247,
-      "title": "Dame na Kanojo wa Amaetai",
       "score": 0.366,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn",
+        "ru",
+        "id"
+      ]
     },
     {
-      "id": 13434,
-      "title": "Uchi no Maou Kamimasen yo",
-      "score": 0.363,
-      "r18": false
+      "id": 22995,
+      "title": "Himawari",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 12511,
-      "title": "Lucky\u2606Star",
-      "score": 0.357,
-      "r18": false
+      "id": 1609,
+      "title": "Zoushoku Shoujo Plana-chan!",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "br"
+      ]
     },
     {
-      "id": 27577,
-      "title": "Boku to Miraiya no Natsu",
-      "score": 0.356,
-      "r18": false
+      "id": 20036,
+      "title": "Obaa-chan to Game",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 25672,
-      "title": "Student Council for Two",
-      "score": 0.355,
-      "r18": false
+      "id": 2426,
+      "title": "Tonari no Gokudou-kun",
+      "score": 0.293,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 24029,
-      "title": "Shima Shima Hanako",
-      "score": 0.355,
-      "r18": false
+      "id": 8293,
+      "title": "Gag Manga Biyori",
+      "score": 0.293,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21718,
+      "title": "Yo! President Trap-Kun",
+      "score": 0.293,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7890,
+      "title": "THE iDOLM@STER Cinderella Girls - Honjitsu no Idol-san",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
+    },
+    {
+      "id": 10986,
+      "title": "Samurai Flamenco - Another Days",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 30532,
+      "title": "Inazuma Eleven ~Heir of the Penguins~",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu"
+      ]
     }
   ]
 }

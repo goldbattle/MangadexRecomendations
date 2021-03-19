@@ -1,38 +1,55 @@
 {
   "id": 42356,
   "title": "BanG Dream! - PASSION-ATE COOKIE BATTLE (Doujinshi)",
-  "url": "https://api.mangadex.org/v2/manga/42356",
-  "last_updated": "February 11, 2021 12:24:08 UTC",
+  "url": "https://mangadex.org/manga/42356",
+  "last_updated": "March 18, 2021 12:13:59 UTC",
   "matches": [
     {
       "id": 20007,
       "title": "Touhou - Scarlet's Pudding (Doujinshi)",
-      "score": 0.345,
-      "r18": false
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 40878,
       "title": "Touhou - MOMIZI ROLL (Doujinshi)",
-      "score": 0.345,
-      "r18": false
-    },
-    {
-      "id": 54621,
-      "title": "Yume Nikki Indification Project",
-      "score": 0.287,
-      "r18": false
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 49046,
       "title": "Touhou - Huajiaoniang &ndash; Sichuan Girl (Doujinshi)",
-      "score": 0.276,
-      "r18": false
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "gb",
+        "th"
+      ]
+    },
+    {
+      "id": 54621,
+      "title": "Yume Nikki Indification Project",
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22098,
       "title": "Fate/Grand Order - Zettai Gohan Sensen Artoria (Doujinshi)",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn"
+      ]
     }
   ]
 }

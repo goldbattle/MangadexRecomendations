@@ -2,49 +2,85 @@
   "id": 20176,
   "title": "Freak Island",
   "url": "https://mangadex.org/manga/20176",
-  "last_updated": "March 16, 2021 04:07:22 UTC",
+  "last_updated": "March 18, 2021 08:54:45 UTC",
   "matches": [
     {
       "id": 6978,
       "title": "Alice from Hell",
       "score": 0.175,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21693,
       "title": "Tomogui",
       "score": 0.16,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 56989,
       "title": "Jun'ai",
       "score": 0.145,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 24399,
       "title": "An Island Named Desire",
       "score": 0.143,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 42852,
+      "title": "Kubi wo Kiraneba Wakarumai",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22664,
       "title": "Mad Chimera World",
       "score": 0.124,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "mx",
+        "id"
+      ]
     },
     {
       "id": 2720,
       "title": "Eden: It's an Endless World!",
-      "score": 0.123,
-      "r18": false
+      "score": 0.122,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 14893,
       "title": "Amon: The Darkside of The Devilman",
       "score": 0.096,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "br"
+      ]
     }
   ]
 }

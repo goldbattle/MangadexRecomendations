@@ -1,158 +1,251 @@
 {
   "id": 55340,
   "title": "Into It",
-  "url": "https://api.mangadex.org/v2/manga/55340",
-  "last_updated": "March 12, 2021 20:36:36 UTC",
+  "url": "https://mangadex.org/manga/55340",
+  "last_updated": "March 18, 2021 14:02:33 UTC",
   "matches": [
-    {
-      "id": 16040,
-      "title": "Joushi to Ore no Himitsu",
-      "score": 0.655,
-      "r18": false
-    },
     {
       "id": 24225,
       "title": "Here U Are",
-      "score": 0.405,
-      "r18": false
+      "score": 0.318,
+      "r18": false,
+      "languages": [
+        "it",
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 48331,
       "title": "Drunken Truth",
-      "score": 0.398,
-      "r18": false
-    },
-    {
-      "id": 30331,
-      "title": "Antinomy",
-      "score": 0.396,
-      "r18": false
-    },
-    {
-      "id": 52947,
-      "title": "Form of Sympathy",
-      "score": 0.386,
-      "r18": false
-    },
-    {
-      "id": 30665,
-      "title": "Behind the Scenes",
-      "score": 0.383,
-      "r18": false
-    },
-    {
-      "id": 54504,
-      "title": "Talk Me Down",
-      "score": 0.379,
-      "r18": false
-    },
-    {
-      "id": 55977,
-      "title": "Ways of Parting",
-      "score": 0.371,
-      "r18": false
-    },
-    {
-      "id": 46501,
-      "title": "Solar Eclipse",
-      "score": 0.369,
-      "r18": false
+      "score": 0.318,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 39152,
       "title": "Dancing With The Devil",
-      "score": 0.365,
-      "r18": false
+      "score": 0.318,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 58838,
-      "title": "The Professor's Double Life",
-      "score": 0.363,
-      "r18": false
-    },
-    {
-      "id": 41455,
-      "title": "The Skeleton in the Closet",
-      "score": 0.363,
-      "r18": false
-    },
-    {
-      "id": 55396,
-      "title": "Even If You Don't Love Me",
-      "score": 0.36,
-      "r18": false
-    },
-    {
-      "id": 47271,
-      "title": "Confession from Tomorrow",
-      "score": 0.36,
-      "r18": false
+      "id": 54504,
+      "title": "Talk Me Down",
+      "score": 0.318,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 59967,
       "title": "Heat and Love",
-      "score": 0.359,
-      "r18": false
+      "score": 0.318,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 52089,
-      "title": "Six Sense",
-      "score": 0.358,
-      "r18": false
+      "id": 47271,
+      "title": "Confession from Tomorrow",
+      "score": 0.318,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 35640,
-      "title": "The Fifth Encounter",
-      "score": 0.351,
-      "r18": false
+      "id": 30331,
+      "title": "Antinomy",
+      "score": 0.286,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 27497,
       "title": "Special Relationship Law",
-      "score": 0.35,
-      "r18": false
+      "score": 0.283,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 43802,
-      "title": "Zhiming Yangqi",
-      "score": 0.348,
-      "r18": false
-    },
-    {
-      "id": 31358,
-      "title": "10 Years That I Loved You the Most",
-      "score": 0.347,
-      "r18": false
-    },
-    {
-      "id": 53405,
-      "title": "Struggle",
-      "score": 0.347,
-      "r18": false
+      "id": 41455,
+      "title": "The Skeleton in the Closet",
+      "score": 0.283,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 51453,
       "title": "Seasons' Cafe",
-      "score": 0.347,
-      "r18": false
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 29676,
-      "title": "Please Save the Fox!",
-      "score": 0.347,
-      "r18": false
+      "id": 38586,
+      "title": "On or Off",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "id"
+      ]
     },
     {
-      "id": 36527,
-      "title": "Boy's Love",
-      "score": 0.344,
-      "r18": false
+      "id": 52089,
+      "title": "Six Sense",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 27423,
       "title": "Naive",
-      "score": 0.344,
-      "r18": false
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55396,
+      "title": "Even If You Don't Love Me",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 55977,
+      "title": "Ways of Parting",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 57765,
+      "title": "Summer Guest",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 36527,
+      "title": "Boy's Love",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50850,
+      "title": "No More Innocence",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 59309,
+      "title": "Deep",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 20892,
+      "title": "If You Hate Me That Much",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "fr",
+        "tr",
+        "id",
+        "gb"
+      ]
+    },
+    {
+      "id": 53405,
+      "title": "Struggle",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 33629,
+      "title": "Hello My Seven Uncle",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 30650,
+      "title": "Boarding House Number 5",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 42696,
+      "title": "Introduction to the Theory of Love",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "tr"
+      ]
+    },
+    {
+      "id": 29661,
+      "title": "Private Scandal",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -2,55 +2,97 @@
   "id": 2875,
   "title": "Devilman",
   "url": "https://mangadex.org/manga/2875",
-  "last_updated": "March 14, 2021 04:36:10 UTC",
+  "last_updated": "March 18, 2021 06:07:33 UTC",
   "matches": [
     {
       "id": 6666,
       "title": "Shin Mazinger Zero",
       "score": 0.169,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 11981,
       "title": "Red Blood Red Legacy",
       "score": 0.129,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "pl"
+      ]
     },
     {
       "id": 623,
       "title": "Franken Fran",
       "score": 0.121,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "pl"
+      ]
     },
     {
       "id": 28544,
       "title": "Yondome wa Iya na Shizokusei Majutsushi",
       "score": 0.116,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "br",
+        "tr",
+        "es",
+        "gb",
+        "id",
+        "fr",
+        "pl"
+      ]
     },
     {
       "id": 22207,
       "title": "Redman Princess: Akuryou Koujo",
       "score": 0.112,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6864,
       "title": "Black Lion",
-      "score": 0.111,
-      "r18": false
+      "score": 0.11,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 37415,
       "title": "Samayoeru Tensei-sha-tachi no Relive Game",
       "score": 0.1,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id",
+        "fr",
+        "br"
+      ]
     },
     {
       "id": 19301,
       "title": "Guerrilla High",
-      "score": 0.099,
-      "r18": false
+      "score": 0.098,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

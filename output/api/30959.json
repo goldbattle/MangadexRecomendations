@@ -2,19 +2,26 @@
   "id": 30959,
   "title": "It's a Beautiful Day",
   "url": "https://mangadex.org/manga/30959",
-  "last_updated": "January 13, 2021 12:55:54 UTC",
+  "last_updated": "March 18, 2021 10:38:55 UTC",
   "matches": [
-    {
-      "id": 5699,
-      "title": "Straight no Chaser",
-      "score": 0.291,
-      "r18": false
-    },
     {
       "id": 26377,
       "title": "Sunglasses",
-      "score": 0.263,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 5699,
+      "title": "Straight no Chaser",
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

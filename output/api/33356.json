@@ -1,38 +1,58 @@
 {
   "id": 33356,
   "title": "Readers Quest",
-  "url": "https://api.mangadex.org/v2/manga/33356",
-  "last_updated": "February 10, 2021 12:36:44 UTC",
+  "url": "https://mangadex.org/manga/33356",
+  "last_updated": "March 18, 2021 10:58:54 UTC",
   "matches": [
     {
       "id": 40393,
       "title": "Empira's Awakening",
-      "score": 0.124,
-      "r18": false
+      "score": 0.101,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id"
+      ]
     },
     {
       "id": 48204,
       "title": "Skylark",
-      "score": 0.124,
-      "r18": false
+      "score": 0.101,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 57548,
       "title": "Lich Quing's Tale",
-      "score": 0.105,
-      "r18": false
+      "score": 0.086,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 42140,
       "title": "My Grimreaper Bodyguard",
-      "score": 0.076,
-      "r18": false
+      "score": 0.062,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 45140,
       "title": "Oh My Ghost",
-      "score": 0.076,
-      "r18": false
+      "score": 0.062,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     }
   ]
 }

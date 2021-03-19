@@ -2,19 +2,26 @@
   "id": 19993,
   "title": "Aniki no Shigoki!",
   "url": "https://mangadex.org/manga/19993",
-  "last_updated": "March 16, 2021 00:25:40 UTC",
+  "last_updated": "March 18, 2021 08:53:13 UTC",
   "matches": [
     {
       "id": 19106,
       "title": "Kuzu (Anthology)",
-      "score": 0.271,
-      "r18": false
+      "score": 0.27,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 24424,
       "title": "Omegaverse (Anthology)",
-      "score": 0.167,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     }
   ]
 }

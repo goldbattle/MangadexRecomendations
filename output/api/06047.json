@@ -2,43 +2,67 @@
   "id": 6047,
   "title": "Jigoro!",
   "url": "https://mangadex.org/manga/6047",
-  "last_updated": "March 14, 2021 12:45:46 UTC",
+  "last_updated": "March 18, 2021 06:37:09 UTC",
   "matches": [
     {
       "id": 4241,
       "title": "Transfer Student Storm Bringer - Reboot",
       "score": 0.207,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22078,
       "title": "Saotome Senshu, Hitakakusu",
-      "score": 0.198,
-      "r18": false
-    },
-    {
-      "id": 24100,
-      "title": "Yaoyorozu Girl",
-      "score": 0.145,
-      "r18": false
-    },
-    {
-      "id": 4242,
-      "title": "Hyouge Mono",
-      "score": 0.132,
-      "r18": false
+      "score": 0.197,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "fr",
+        "mx",
+        "es",
+        "ru",
+        "id"
+      ]
     },
     {
       "id": 52836,
       "title": "DD Fist of the North Star",
-      "score": 0.129,
-      "r18": false
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24100,
+      "title": "Yaoyorozu Girl",
+      "score": 0.144,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4242,
+      "title": "Hyouge Mono",
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4526,
       "title": "Tentai Senshi Sanred",
-      "score": 0.121,
-      "r18": false
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

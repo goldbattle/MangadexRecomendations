@@ -2,25 +2,40 @@
   "id": 27592,
   "title": "Desire",
   "url": "https://mangadex.org/manga/27592",
-  "last_updated": "March 16, 2021 20:33:46 UTC",
+  "last_updated": "March 18, 2021 10:10:50 UTC",
   "matches": [
     {
       "id": 44717,
       "title": "Harem Kakumei",
       "score": 0.275,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1396,
       "title": "Nemureru Hoshi",
       "score": 0.22,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 13233,
       "title": "Hare-Kon",
       "score": 0.183,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "pl",
+        "it",
+        "sa"
+      ]
     }
   ]
 }

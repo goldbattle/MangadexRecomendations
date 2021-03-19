@@ -2,157 +2,279 @@
   "id": 48140,
   "title": "Reader",
   "url": "https://mangadex.org/manga/48140",
-  "last_updated": "January 15, 2021 12:30:05 UTC",
+  "last_updated": "March 18, 2021 13:02:21 UTC",
   "matches": [
-    {
-      "id": 36634,
-      "title": "Masked Woman",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 32667,
-      "title": "Flowers In The Mirror",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 58013,
-      "title": "Solo Spell Caster",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 49119,
-      "title": "I Stack Experience Through Reading Books",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 56366,
-      "title": "Max Level Returner",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 32047,
-      "title": "Gisou Furin",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 52739,
-      "title": "The King's Avatar",
-      "score": 0.385,
-      "r18": false
-    },
-    {
-      "id": 50203,
-      "title": "ARK",
-      "score": 0.376,
-      "r18": false
-    },
     {
       "id": 32540,
       "title": "I'm a Fake NPC",
-      "score": 0.373,
-      "r18": false
-    },
-    {
-      "id": 16761,
-      "title": "I Am Mob",
-      "score": 0.368,
-      "r18": false
-    },
-    {
-      "id": 56397,
-      "title": "Pantheon of Gods",
-      "score": 0.365,
-      "r18": false
-    },
-    {
-      "id": 54090,
-      "title": "Capture the Golem and Escape Poverty",
-      "score": 0.356,
-      "r18": false
-    },
-    {
-      "id": 39086,
-      "title": "Otome Equation",
-      "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 55269,
-      "title": "Bowblade Spirit",
-      "score": 0.352,
-      "r18": false
-    },
-    {
-      "id": 53572,
-      "title": "Call Me Master",
-      "score": 0.352,
-      "r18": false
-    },
-    {
-      "id": 49550,
-      "title": "Path to the Apex",
-      "score": 0.351,
-      "r18": false
-    },
-    {
-      "id": 16070,
-      "title": "RPG",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 54518,
-      "title": "Truthfully, They Only Remembered Her",
-      "score": 0.349,
-      "r18": false
-    },
-    {
-      "id": 58419,
-      "title": "Secret Of The Netherworld",
-      "score": 0.349,
-      "r18": false
-    },
-    {
-      "id": 33580,
-      "title": "The Koi Returns",
-      "score": 0.348,
-      "r18": false
-    },
-    {
-      "id": 57033,
-      "title": "Taming Master",
-      "score": 0.347,
-      "r18": false
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "tr",
+        "es",
+        "mx"
+      ]
     },
     {
       "id": 27856,
       "title": "Winter Moon",
-      "score": 0.346,
-      "r18": false
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "fr",
+        "id",
+        "pl",
+        "it",
+        "br",
+        "th",
+        "ro"
+      ]
     },
     {
-      "id": 50191,
-      "title": "Life and Death: The Awakening",
-      "score": 0.345,
-      "r18": false
+      "id": 56366,
+      "title": "Max Level Returner",
+      "score": 0.293,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "fr",
+        "it"
+      ]
     },
     {
-      "id": 42110,
-      "title": "The Archmage's Daughter",
-      "score": 0.344,
-      "r18": false
+      "id": 52739,
+      "title": "The King's Avatar",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "id"
+      ]
     },
     {
-      "id": 45192,
-      "title": "Banished Disciple's Counterattack",
-      "score": 0.343,
-      "r18": false
+      "id": 50203,
+      "title": "ARK",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 54090,
+      "title": "Capture the Golem and Escape Poverty",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "it"
+      ]
+    },
+    {
+      "id": 40349,
+      "title": "Arcana Fantasy",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "ir",
+        "br"
+      ]
+    },
+    {
+      "id": 55520,
+      "title": "I Was Forced to Fix a Bug in the Other World",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
+    },
+    {
+      "id": 49550,
+      "title": "Path to the Apex",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19069,
+      "title": "Soul Land III - The Legend of the Dragon King",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 55269,
+      "title": "Bowblade Spirit",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "es",
+        "it"
+      ]
+    },
+    {
+      "id": 56397,
+      "title": "Pantheon of Gods",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "pl",
+        "fr",
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 33580,
+      "title": "The Koi Returns",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
+    },
+    {
+      "id": 58419,
+      "title": "Secret Of The Netherworld",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
+    },
+    {
+      "id": 18202,
+      "title": "Heart of a Dragon",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 58422,
+      "title": "The Black Dragon Emperor&rsquo;s Redo Adventure",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 57630,
+      "title": "Otaku Savior",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 56898,
+      "title": "Supreme Taoist",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb"
+      ]
+    },
+    {
+      "id": 53572,
+      "title": "Call Me Master",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id"
+      ]
+    },
+    {
+      "id": 59109,
+      "title": "Sunny With a Chance of Dragons!",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53714,
+      "title": "Moshin Hunter",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "fr",
+        "tr",
+        "it"
+      ]
+    },
+    {
+      "id": 26096,
+      "title": "Elqueeness",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 45005,
+      "title": "1HP Club",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "pl",
+        "fr"
+      ]
+    },
+    {
+      "id": 58013,
+      "title": "Solo Spell Caster",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "pl",
+        "fr"
+      ]
+    },
+    {
+      "id": 46688,
+      "title": "The Strongest Florist",
+      "score": 0.254,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "it",
+        "br"
+      ]
     }
   ]
 }

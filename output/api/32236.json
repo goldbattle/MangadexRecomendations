@@ -1,158 +1,258 @@
 {
   "id": 32236,
   "title": "Getsuyoubi wa 2-gen kara",
-  "url": "https://api.mangadex.org/v2/manga/32236",
-  "last_updated": "February 10, 2021 08:32:21 UTC",
+  "url": "https://mangadex.org/manga/32236",
+  "last_updated": "March 18, 2021 10:49:34 UTC",
   "matches": [
     {
       "id": 39357,
       "title": "Secret x Siblings",
-      "score": 0.472,
-      "r18": false
-    },
-    {
-      "id": 45,
-      "title": "Azumanga Daioh",
-      "score": 0.453,
-      "r18": false
-    },
-    {
-      "id": 179,
-      "title": "Sketchbook",
-      "score": 0.435,
-      "r18": false
+      "score": 0.389,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8982,
       "title": "Aiura",
-      "score": 0.434,
-      "r18": false
+      "score": 0.389,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 49172,
+      "title": "Azumanga Daioh (2009 Print)",
+      "score": 0.389,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 179,
+      "title": "Sketchbook",
+      "score": 0.389,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 45,
+      "title": "Azumanga Daioh",
+      "score": 0.389,
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb"
+      ]
     },
     {
       "id": 14508,
       "title": "Hitoribocchi no \u25cb\u25cb Seikatsu",
-      "score": 0.416,
-      "r18": false
-    },
-    {
-      "id": 567,
-      "title": "Kimi to Kami Hikouki to.",
-      "score": 0.415,
-      "r18": false
-    },
-    {
-      "id": 12130,
-      "title": "Macmillan Koukou Joshi Koushiki Yakyuubu",
-      "score": 0.415,
-      "r18": false
-    },
-    {
-      "id": 18674,
-      "title": "Musashi-kun to Murayama-san wa Tsukiatte Mita.",
-      "score": 0.408,
-      "r18": false
-    },
-    {
-      "id": 1880,
-      "title": "Gekkan Shoujo Nozaki-kun",
-      "score": 0.402,
-      "r18": false
-    },
-    {
-      "id": 27487,
-      "title": "Number Girl",
-      "score": 0.398,
-      "r18": false
-    },
-    {
-      "id": 38837,
-      "title": "Watashi no Hero Academia",
-      "score": 0.388,
-      "r18": false
-    },
-    {
-      "id": 13009,
-      "title": "1000000 Volt no Kanojo",
-      "score": 0.382,
-      "r18": false
-    },
-    {
-      "id": 9923,
-      "title": "Akuno Himitsu Kessha",
-      "score": 0.382,
-      "r18": false
-    },
-    {
-      "id": 11490,
-      "title": "Seishun Rikon",
-      "score": 0.379,
-      "r18": false
+      "score": 0.389,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "mx",
+        "br",
+        "fr",
+        "id"
+      ]
     },
     {
       "id": 22482,
       "title": "Senryuu Shoujo",
-      "score": 0.375,
-      "r18": false
+      "score": 0.324,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru"
+      ]
     },
     {
-      "id": 37389,
-      "title": "Shinozaki Himeno's Love Q&amp;A",
-      "score": 0.375,
-      "r18": false
+      "id": 567,
+      "title": "Kimi to Kami Hikouki to.",
+      "score": 0.324,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "it"
+      ]
     },
     {
       "id": 18208,
       "title": "Koisuru Michiru Ojousama",
-      "score": 0.373,
-      "r18": false
-    },
-    {
-      "id": 23530,
-      "title": "Takunomi.",
-      "score": 0.364,
-      "r18": false
+      "score": 0.324,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 22790,
       "title": "Manabi Ikiru wa Fuufu no Tsutome",
-      "score": 0.364,
-      "r18": false
+      "score": 0.324,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 37389,
+      "title": "Shinozaki Himeno's Love Q&amp;A",
+      "score": 0.324,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 31373,
       "title": "Naughty Succubus &quot;Saki-chan&quot;",
-      "score": 0.363,
-      "r18": false
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "ru",
+        "mx"
+      ]
     },
     {
-      "id": 25094,
-      "title": "Seishun Kijinden! 240 Gakuen",
-      "score": 0.363,
-      "r18": false
+      "id": 27487,
+      "title": "Number Girl",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 3890,
-      "title": "Ore no Kanojo to Osananajimi ga Shuraba Sugiru 4-Koma",
-      "score": 0.362,
-      "r18": false
+      "id": 33384,
+      "title": "Shobo Shobo Man",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 15838,
-      "title": "Musuko no Yome",
-      "score": 0.362,
-      "r18": false
+      "id": 41354,
+      "title": "Strike Witches - 501 Butai Hasshinshimasu!",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 14705,
-      "title": "AFO Guard",
-      "score": 0.362,
-      "r18": false
+      "id": 11490,
+      "title": "Seishun Rikon",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 45787,
+      "title": "The World God Only Knows - On the Train Another",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6544,
+      "title": "Chokotto Hime",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 41675,
       "title": "Ootani-san Chi no Tenshi-sama",
-      "score": 0.36,
-      "r18": false
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18997,
+      "title": "Kin no Tamago",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru"
+      ]
+    },
+    {
+      "id": 15838,
+      "title": "Musuko no Yome",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 8377,
+      "title": "Watashi no Tomodachi ga Motenai no wa Dou Kangaete mo Omaera ga Warui.",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "pl",
+        "mx",
+        "br"
+      ]
+    },
+    {
+      "id": 23530,
+      "title": "Takunomi.",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 33859,
+      "title": "Kaguya Luna Gachi-Zei no Nichijyo",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 32980,
+      "title": "Hinata Study",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

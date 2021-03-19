@@ -2,43 +2,80 @@
   "id": 14473,
   "title": "Onnanoko Awase",
   "url": "https://mangadex.org/manga/14473",
-  "last_updated": "March 15, 2021 12:31:39 UTC",
+  "last_updated": "March 18, 2021 07:49:01 UTC",
   "matches": [
     {
       "id": 6201,
       "title": "Yukemuri Sanctuary",
       "score": 0.31,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 25498,
       "title": "Sweet Guilty Love Bites",
       "score": 0.31,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 15242,
       "title": "Lily Love",
       "score": 0.301,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "fr",
+        "it",
+        "hu",
+        "de"
+      ]
+    },
+    {
+      "id": 34396,
+      "title": "After School",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id"
+      ]
     },
     {
       "id": 38061,
       "title": "Delinquent Girl and Class Rep",
-      "score": 0.207,
-      "r18": false
+      "score": 0.206,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 58459,
       "title": "Kill Switch",
-      "score": 0.194,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx"
+      ]
     },
     {
       "id": 50367,
       "title": "Shoujo Kageki Revue Starlight - Bonne Saint Valentin (Doujinshi)",
-      "score": 0.194,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

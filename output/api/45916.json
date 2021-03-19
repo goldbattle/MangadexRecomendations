@@ -1,158 +1,235 @@
 {
   "id": 45916,
   "title": "Bokkizu",
-  "url": "https://api.mangadex.org/v2/manga/45916",
-  "last_updated": "February 11, 2021 20:33:30 UTC",
+  "url": "https://mangadex.org/manga/45916",
+  "last_updated": "March 18, 2021 12:43:44 UTC",
   "matches": [
     {
       "id": 45034,
       "title": "Ijimekko to Nakimushi-kun",
-      "score": 0.3,
-      "r18": true
-    },
-    {
-      "id": 39330,
-      "title": "Kono Inu wa Mada Amai Doku o Shiranai",
-      "score": 0.3,
-      "r18": true
-    },
-    {
-      "id": 55206,
-      "title": "Kizudarake no Hakoniwa",
-      "score": 0.3,
-      "r18": true
-    },
-    {
-      "id": 33074,
-      "title": "Youchi na Koi wo Doushiyou",
-      "score": 0.3,
-      "r18": true
-    },
-    {
-      "id": 37686,
-      "title": "Ookami Shounen wa Uso o Tsukanai",
-      "score": 0.3,
-      "r18": true
-    },
-    {
-      "id": 28321,
-      "title": "Ame Nochi Kankan",
-      "score": 0.3,
-      "r18": true
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 45029,
       "title": "Bouai Friendship",
-      "score": 0.3,
-      "r18": true
-    },
-    {
-      "id": 55070,
-      "title": "Slave x Slave",
-      "score": 0.3,
-      "r18": true
-    },
-    {
-      "id": 28392,
-      "title": "A Little Step",
-      "score": 0.3,
-      "r18": true
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 50379,
       "title": "Hentai Benki Yuutousei",
-      "score": 0.3,
-      "r18": true
-    },
-    {
-      "id": 36979,
-      "title": "Kimi no Kao ni Sasu Kage",
-      "score": 0.3,
-      "r18": true
-    },
-    {
-      "id": 59075,
-      "title": "Cosplay Josou de HHH!",
-      "score": 0.3,
-      "r18": true
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 44646,
       "title": "Koe ga Kawaru Mae ni. Kimi o,",
-      "score": 0.295,
-      "r18": true
-    },
-    {
-      "id": 25730,
-      "title": "-F-TRANceFORM",
-      "score": 0.275,
-      "r18": true
-    },
-    {
-      "id": 28823,
-      "title": "Yajima-kun no Senzoku Friend",
-      "score": 0.274,
-      "r18": true
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 45915,
       "title": "Iinari Jokyoushi",
-      "score": 0.273,
-      "r18": true
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59075,
+      "title": "Cosplay Josou de HHH!",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55070,
+      "title": "Slave x Slave",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55206,
+      "title": "Kizudarake no Hakoniwa",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "tr",
+        "gb"
+      ]
+    },
+    {
+      "id": 28823,
+      "title": "Yajima-kun no Senzoku Friend",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 28392,
+      "title": "A Little Step",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 28321,
+      "title": "Ame Nochi Kankan",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 25730,
+      "title": "-F-TRANceFORM",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 39330,
+      "title": "Kono Inu wa Mada Amai Doku o Shiranai",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 36979,
+      "title": "Kimi no Kao ni Sasu Kage",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "pl"
+      ]
+    },
+    {
+      "id": 37686,
+      "title": "Ookami Shounen wa Uso o Tsukanai",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 33074,
+      "title": "Youchi na Koi wo Doushiyou",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 28196,
       "title": "C.S.A.47",
-      "score": 0.265,
-      "r18": true
+      "score": 0.23,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 42972,
       "title": "Onee-chan wa Danshiryou no Kanrinin-san",
-      "score": 0.265,
-      "r18": true
+      "score": 0.23,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 57322,
       "title": "Mesu-Nized Festival",
-      "score": 0.265,
-      "r18": true
+      "score": 0.23,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 15123,
       "title": "Hitorijime, Shitai",
-      "score": 0.24,
-      "r18": true
+      "score": 0.213,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 24804,
       "title": "Eigou no Toki",
-      "score": 0.24,
-      "r18": true
+      "score": 0.213,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 24968,
       "title": "Joshiryoku",
-      "score": 0.24,
-      "r18": true
+      "score": 0.213,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 25141,
       "title": "Chizuru-kun no Hatsu Taiken",
-      "score": 0.24,
-      "r18": true
+      "score": 0.213,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 25142,
       "title": "Matsuri de Ranchiki Donjarahoi",
-      "score": 0.24,
-      "r18": true
+      "score": 0.213,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 25271,
       "title": "Yukino-kun no Sukina Hito",
-      "score": 0.24,
-      "r18": true
+      "score": 0.213,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

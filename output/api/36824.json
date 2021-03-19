@@ -2,157 +2,312 @@
   "id": 36824,
   "title": "Rust-Eater Bisco",
   "url": "https://mangadex.org/manga/36824",
-  "last_updated": "March 17, 2021 20:31:56 UTC",
+  "last_updated": "March 18, 2021 11:27:50 UTC",
   "matches": [
     {
       "id": 43115,
       "title": "Pocket Monsters",
       "score": 0.28,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 56123,
       "title": "Hell Mode: Yarikomi Suki no Gamer wa Hai Settei no Isekai de Musou Suru",
-      "score": 0.263,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 30442,
       "title": "Bouken-ka ni Narou! ~Skill Board de Dungeon Kouryaku~",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 22775,
       "title": "Nozomanu Fushi no Boukensha",
       "score": 0.245,
-      "r18": false
-    },
-    {
-      "id": 34387,
-      "title": "Lonely Attack on the Different World",
-      "score": 0.245,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "pl"
+      ]
     },
     {
       "id": 21055,
       "title": "Tondemo Skill de Isekai Hourou Meshi",
       "score": 0.245,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "pl"
+      ]
     },
     {
       "id": 44368,
       "title": "Kamisama ni Kago 2 Nin Bun Moraimashita",
       "score": 0.245,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 30744,
       "title": "Tensei Kenja no Isekai Life ~Daini no Shokugyou wo Ete, Sekai Saikyou ni Narimashita~",
       "score": 0.245,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "id",
+        "th",
+        "fr"
+      ]
     },
     {
       "id": 22946,
       "title": "Isekai ni Tobasareta Ossan wa Doko e Iku?",
       "score": 0.245,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 57009,
       "title": "Sekai Saikyou no Doryokuka: Sainou ga (Doryoku) Datta no de Kouritsu Yoku Kikakugai no Doryoku o Shitemiru",
-      "score": 0.224,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 37136,
       "title": "The Sorcerer King of Destruction and the Golem of the Barbarian Queen",
       "score": 0.223,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr",
+        "br"
+      ]
     },
     {
       "id": 23774,
       "title": "Tensei Shitara Dragon no Tamago Datta - Ibara no Dragon Road",
-      "score": 0.223,
-      "r18": false
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id",
+        "br"
+      ]
+    },
+    {
+      "id": 34387,
+      "title": "Lonely Attack on the Different World",
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "mx",
+        "id",
+        "pl"
+      ]
     },
     {
       "id": 20255,
       "title": "Jaryuu Tensei",
-      "score": 0.223,
-      "r18": false
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "tr",
+        "fr"
+      ]
     },
     {
       "id": 18991,
       "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
-      "score": 0.223,
-      "r18": false
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "ru",
+        "es",
+        "gb",
+        "br",
+        "id",
+        "fr"
+      ]
     },
     {
       "id": 15355,
       "title": "Kyokou Suiri",
-      "score": 0.223,
-      "r18": false
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "ru",
+        "it",
+        "fr",
+        "br"
+      ]
     },
     {
       "id": 47624,
       "title": "Kojiin Tamer",
-      "score": 0.223,
-      "r18": false
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "sa",
+        "mx",
+        "id"
+      ]
     },
     {
       "id": 49366,
       "title": "Omniscient Reader's Viewpoint",
       "score": 0.221,
-      "r18": false
-    },
-    {
-      "id": 52749,
-      "title": "Suterareta Tensei Kenja",
-      "score": 0.21,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "id",
+        "sa",
+        "pl",
+        "tr",
+        "ru",
+        "br",
+        "hu",
+        "th",
+        "es",
+        "ph",
+        "de"
+      ]
     },
     {
       "id": 36646,
       "title": "The Swordsman Called the Countless Swords&rsquo; Sorcerer",
       "score": 0.21,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru",
+        "fr",
+        "hk",
+        "br",
+        "es",
+        "id"
+      ]
     },
     {
       "id": 16444,
       "title": "Radiant",
       "score": 0.21,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx"
+      ]
     },
     {
       "id": 9049,
       "title": "Choubaku Mahouden Slayers",
       "score": 0.21,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1510,
+      "title": "Kamisama no Inai Nichiyoubi",
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "pl",
+        "ru"
+      ]
     },
     {
       "id": 22148,
       "title": "Infinite Dendrogram",
       "score": 0.21,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21809,
       "title": "Genjitsushugi Yuusha no Oukoku Saikenki",
       "score": 0.21,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "fr",
+        "ru",
+        "mx",
+        "id",
+        "it",
+        "br"
+      ]
     },
     {
       "id": 33897,
       "title": "Ossan Boukensha Kane no Zenkou",
       "score": 0.21,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "th",
+        "gb",
+        "mx",
+        "ru"
+      ]
     },
     {
       "id": 12548,
       "title": "Mad God",
       "score": 0.21,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "fr",
+        "br"
+      ]
     }
   ]
 }

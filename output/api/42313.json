@@ -1,14 +1,18 @@
 {
   "id": 42313,
   "title": "Tenpai",
-  "url": "https://api.mangadex.org/v2/manga/42313",
-  "last_updated": "February 11, 2021 12:23:30 UTC",
+  "url": "https://mangadex.org/manga/42313",
+  "last_updated": "March 18, 2021 12:13:38 UTC",
   "matches": [
     {
       "id": 14151,
       "title": "Tobaku Datenroku Kaiji: One Poker Hen",
-      "score": 0.386,
-      "r18": false
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     }
   ]
 }

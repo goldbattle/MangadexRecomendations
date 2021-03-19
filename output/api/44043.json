@@ -1,158 +1,252 @@
 {
   "id": 44043,
   "title": "Osananajimi ga Itsumademo Osananajimi Shitekuru Manga",
-  "url": "https://api.mangadex.org/v2/manga/44043",
-  "last_updated": "February 11, 2021 16:34:47 UTC",
+  "url": "https://mangadex.org/manga/44043",
+  "last_updated": "March 18, 2021 12:28:04 UTC",
   "matches": [
-    {
-      "id": 48036,
-      "title": "I Don't Know What My Little Sister's Friend Is Thinking!",
-      "score": 0.655,
-      "r18": false
-    },
     {
       "id": 2465,
       "title": "Avatar",
-      "score": 0.381,
-      "r18": false
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 16757,
-      "title": "Sangatsu wa Ore-sama ni Narimasu",
-      "score": 0.364,
-      "r18": false
-    },
-    {
-      "id": 28374,
-      "title": "Ponko Tsundere na Osananajimi",
-      "score": 0.358,
-      "r18": false
-    },
-    {
-      "id": 27407,
-      "title": "Hijikata-san wa Usodarake",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 23795,
-      "title": "Otakare Fujokano",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 7152,
-      "title": "Hadaka no Taiyou",
-      "score": 0.338,
-      "r18": false
-    },
-    {
-      "id": 31210,
-      "title": "Subete no Jinrui wo Hakai Suru. Sorera wa Saisei Dekinai.",
-      "score": 0.334,
-      "r18": false
-    },
-    {
-      "id": 28587,
-      "title": "Sorairo Flutter",
-      "score": 0.33,
-      "r18": false
-    },
-    {
-      "id": 5180,
-      "title": "Jinrui Nekoka",
-      "score": 0.328,
-      "r18": false
-    },
-    {
-      "id": 21871,
-      "title": "Yuki to Sumi",
-      "score": 0.321,
-      "r18": false
-    },
-    {
-      "id": 1082,
-      "title": "AniKoi",
-      "score": 0.312,
-      "r18": false
-    },
-    {
-      "id": 51025,
-      "title": "Ai-Sensei wa Wakaranai",
-      "score": 0.312,
-      "r18": false
-    },
-    {
-      "id": 5462,
-      "title": "Hana to Harinezumi",
-      "score": 0.311,
-      "r18": false
-    },
-    {
-      "id": 689,
-      "title": "Hageruya!",
-      "score": 0.31,
-      "r18": false
-    },
-    {
-      "id": 1990,
-      "title": "Neko de Gomen!",
-      "score": 0.308,
-      "r18": false
-    },
-    {
-      "id": 41018,
-      "title": "Missile to Plankton",
-      "score": 0.308,
-      "r18": false
-    },
-    {
-      "id": 14581,
-      "title": "Shishunki no Futari",
-      "score": 0.306,
-      "r18": false
-    },
-    {
-      "id": 42934,
-      "title": "Osananajimi no Mama ja Iya?",
-      "score": 0.306,
-      "r18": false
-    },
-    {
-      "id": 52226,
-      "title": "Sadohara Kazuha Wa Kanpeki Desuka?",
-      "score": 0.306,
-      "r18": false
-    },
-    {
-      "id": 14060,
-      "title": "Mayoe! Nanatsu no Taizai Gakuen!",
-      "score": 0.306,
-      "r18": false
-    },
-    {
-      "id": 1048,
-      "title": "Kud Wafter",
-      "score": 0.304,
-      "r18": false
-    },
-    {
-      "id": 52555,
-      "title": "Sekimen Shinaide Sekime-san (2020 Short)",
-      "score": 0.303,
-      "r18": false
-    },
-    {
-      "id": 1561,
-      "title": "Boku wa Tomodachi ga Sukunai +",
-      "score": 0.303,
-      "r18": false
+      "id": 48036,
+      "title": "I Don't Know What My Little Sister's Friend Is Thinking!",
+      "score": 0.284,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx",
+        "br",
+        "id"
+      ]
     },
     {
       "id": 24316,
       "title": "Akuyaku Ouji wa Koi ga Dekinai",
-      "score": 0.303,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14060,
+      "title": "Mayoe! Nanatsu no Taizai Gakuen!",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 115,
+      "title": "Zettai Joousei",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "pl"
+      ]
+    },
+    {
+      "id": 9786,
+      "title": "Ore no Pantsu ga Nerawareteita",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21871,
+      "title": "Yuki to Sumi",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1317,
+      "title": "Choku!",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5462,
+      "title": "Hana to Harinezumi",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 702,
+      "title": "Show Me the Money",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de",
+        "mx"
+      ]
+    },
+    {
+      "id": 1561,
+      "title": "Boku wa Tomodachi ga Sukunai +",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "it"
+      ]
+    },
+    {
+      "id": 25939,
+      "title": "Uchi no Kore ga Kore na mon de",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 1990,
+      "title": "Neko de Gomen!",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 1082,
+      "title": "AniKoi",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 32813,
+      "title": "Yomitai Hon wa Nai Keredo",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 31210,
+      "title": "Subete no Jinrui wo Hakai Suru. Sorera wa Saisei Dekinai.",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "ru",
+        "id",
+        "mx",
+        "tr",
+        "gb"
+      ]
+    },
+    {
+      "id": 3121,
+      "title": "Hand's",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5180,
+      "title": "Jinrui Nekoka",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 52226,
+      "title": "Sadohara Kazuha Wa Kanpeki Desuka?",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 1050,
+      "title": "Stellar Theater",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6619,
+      "title": "Manabiya",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1048,
+      "title": "Kud Wafter",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19392,
+      "title": "Karasuma Suite",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 41018,
+      "title": "Missile to Plankton",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "vn",
+        "gb"
+      ]
+    },
+    {
+      "id": 2424,
+      "title": "Sumire 17-sai!!",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -1,158 +1,243 @@
 {
   "id": 49656,
   "title": "Moudoku Sugar Syrup",
-  "url": "https://api.mangadex.org/v2/manga/49656",
-  "last_updated": "February 05, 2021 08:11:04 UTC",
+  "url": "https://mangadex.org/manga/49656",
+  "last_updated": "March 18, 2021 13:15:05 UTC",
   "matches": [
-    {
-      "id": 9475,
-      "title": "Tsuki ni Hoero",
-      "score": 0.705,
-      "r18": false
-    },
-    {
-      "id": 28280,
-      "title": "Bitansan Ekisu",
-      "score": 0.7,
-      "r18": false
-    },
-    {
-      "id": 55072,
-      "title": "Gekkou no Rankan ni Kuchinashi no Nioi",
-      "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 29113,
-      "title": "Yubisaki no Koi",
-      "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 55745,
-      "title": "Gensou Shounen Koimonogatari",
-      "score": 0.689,
-      "r18": false
-    },
-    {
-      "id": 36041,
-      "title": "Zombie Hide Sex",
-      "score": 0.682,
-      "r18": false
-    },
-    {
-      "id": 56162,
-      "title": "Tenshi no Tamagoryouri",
-      "score": 0.682,
-      "r18": false
-    },
-    {
-      "id": 10213,
-      "title": "Otodokemono Desu!",
-      "score": 0.682,
-      "r18": false
-    },
-    {
-      "id": 7189,
-      "title": "Tobu, Kokoro",
-      "score": 0.682,
-      "r18": false
-    },
     {
       "id": 26615,
       "title": "Blood Honey",
-      "score": 0.677,
-      "r18": false
+      "score": 0.348,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 9393,
-      "title": "Akuma\u2605Game",
-      "score": 0.677,
-      "r18": false
+      "id": 46031,
+      "title": "Himitsu de, Hanazono.",
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 25005,
-      "title": "Hakoniwa",
-      "score": 0.675,
-      "r18": false
+      "id": 32692,
+      "title": "Haru to Kyuuketsuki",
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 15501,
-      "title": "Feng Yu Jiu Tian",
-      "score": 0.669,
-      "r18": false
+      "id": 54985,
+      "title": "Irokoi Comedy",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 20732,
-      "title": "Vampire and Hunter",
-      "score": 0.668,
-      "r18": false
-    },
-    {
-      "id": 9171,
-      "title": "Jappa no Amane",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 29278,
-      "title": "Kami-sama Darling",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 57329,
-      "title": "Yome wa Hakoiri Musuko",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 7329,
-      "title": "Natsu, Kimi ga Saku.",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 38717,
-      "title": "Konya wa Take-out Nite",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 6527,
-      "title": "Konya mo Nemurenai",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 59053,
-      "title": "Smoky Nectar",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 28939,
-      "title": "The Hinanomori",
-      "score": 0.66,
-      "r18": false
+      "id": 45941,
+      "title": "Koisuru Cupid",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 12462,
       "title": "Lovers&hearts;Doll",
-      "score": 0.659,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
-      "id": 28977,
-      "title": "Chinko no Tsubuyaki - Chintsubu (Doujinshi)",
-      "score": 0.658,
-      "r18": false
+      "id": 57329,
+      "title": "Yome wa Hakoiri Musuko",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 26574,
-      "title": "Heavy &times; Beauty: Pretty Babies",
-      "score": 0.658,
-      "r18": false
+      "id": 55848,
+      "title": "Ushirokara Dakishimete",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 15035,
+      "title": "Akuma de Keiyaku",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10393,
+      "title": "Kare Otoko ni Izumi wo",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 52369,
+      "title": "Anata ni Muchuu",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 28033,
+      "title": "Chinko no Tsubuyaki",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 6482,
+      "title": "Kuchizuke wa Niji no Ue de",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 26111,
+      "title": "Usachan Ookami",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 13366,
+      "title": "Kimi to Kore Kara",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "pl",
+        "tr",
+        "gb"
+      ]
+    },
+    {
+      "id": 28280,
+      "title": "Bitansan Ekisu",
+      "score": 0.283,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18984,
+      "title": "Hana to Junketsu",
+      "score": 0.283,
+      "r18": false,
+      "languages": [
+        "tr",
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 16287,
+      "title": "Shinpu-sama no Kyuuketsuki",
+      "score": 0.281,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6527,
+      "title": "Konya mo Nemurenai",
+      "score": 0.278,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 9171,
+      "title": "Jappa no Amane",
+      "score": 0.276,
+      "r18": false,
+      "languages": [
+        "pl"
+      ]
+    },
+    {
+      "id": 29113,
+      "title": "Yubisaki no Koi",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 16249,
+      "title": "Samishigariya no Love Letter",
+      "score": 0.273,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 34492,
+      "title": "Hikari to Yami no Logic",
+      "score": 0.271,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 48621,
+      "title": "Wagamama Ouji wa Neko wo Karu",
+      "score": 0.27,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 41502,
+      "title": "Beast of Blood",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

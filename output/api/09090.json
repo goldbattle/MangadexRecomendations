@@ -2,37 +2,56 @@
   "id": 9090,
   "title": "Pandora's Cube",
   "url": "https://mangadex.org/manga/9090",
-  "last_updated": "March 14, 2021 20:26:43 UTC",
+  "last_updated": "March 18, 2021 07:03:11 UTC",
   "matches": [
     {
       "id": 20200,
       "title": "Miracle\u2606Gift",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 8910,
       "title": "Yuuto no Shinro Kibou",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 31764,
       "title": "In to You",
-      "score": 0.2,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 16426,
       "title": "Genjuui Toteku",
       "score": 0.175,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ct",
+        "pl",
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 59608,
       "title": "ELEMENTS: Users Of The Universe",
       "score": 0.087,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

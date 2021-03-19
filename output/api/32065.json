@@ -1,158 +1,238 @@
 {
   "id": 32065,
   "title": "Kirei ni Shiteyo",
-  "url": "https://api.mangadex.org/v2/manga/32065",
-  "last_updated": "February 10, 2021 08:29:51 UTC",
+  "url": "https://mangadex.org/manga/32065",
+  "last_updated": "March 18, 2021 10:48:08 UTC",
   "matches": [
     {
-      "id": 12477,
-      "title": "Koi no Jumon",
-      "score": 0.72,
-      "r18": false
+      "id": 27534,
+      "title": "2-14 Jiken",
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 3785,
-      "title": "Michiru Heya",
-      "score": 0.716,
-      "r18": false
+      "id": 26021,
+      "title": "Vege Channel",
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 27531,
-      "title": "19 Sai no Hisoka na Yabou",
-      "score": 0.712,
-      "r18": false
+      "id": 19116,
+      "title": "Honey Sour Flavor",
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 13263,
-      "title": "Trompe-l'&oelig;il no Yubisaki",
-      "score": 0.71,
-      "r18": false
+      "id": 51473,
+      "title": "Chokujou Lovers",
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 27828,
-      "title": "Uminari",
-      "score": 0.71,
-      "r18": false
+      "id": 14842,
+      "title": "Wagamama Honey",
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 1483,
-      "title": "Abarenbou Kareshi",
-      "score": 0.708,
-      "r18": false
+      "id": 16191,
+      "title": "Katakoi Opera",
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 16860,
+      "title": "Crossvoice",
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "pl"
+      ]
     },
     {
       "id": 20935,
       "title": "Saiaku no Jinsei",
-      "score": 0.706,
-      "r18": false
+      "score": 0.375,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 46269,
-      "title": "Zankoku Yuugi",
-      "score": 0.705,
-      "r18": false
+      "id": 27730,
+      "title": "Ouji-sama no Obenkyou",
+      "score": 0.367,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 57846,
-      "title": "Sanbika",
-      "score": 0.704,
-      "r18": false
+      "id": 34565,
+      "title": "Bokura no Saidai Kouyakusu",
+      "score": 0.361,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 15135,
-      "title": "Zetsuai",
-      "score": 0.704,
-      "r18": false
+      "id": 21981,
+      "title": "Kiss mo Dekinakatta",
+      "score": 0.36,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 9475,
-      "title": "Tsuki ni Hoero",
-      "score": 0.703,
-      "r18": false
+      "id": 25478,
+      "title": "Gakuen Tengoku - Sore wa Koi Desu Koizumi-kun",
+      "score": 0.36,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 27865,
-      "title": "Boku no Suki na Sensei (Gokurakuin Sakurako)",
-      "score": 0.702,
-      "r18": false
+      "id": 22371,
+      "title": "Shishunki no Zawazawa",
+      "score": 0.357,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 37280,
-      "title": "Kimi no Ai wa Mienikui",
-      "score": 0.702,
-      "r18": false
+      "id": 34728,
+      "title": "Mayoi Neko to Koi no Ashiato",
+      "score": 0.356,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 50971,
-      "title": "Koiyami Archive",
-      "score": 0.701,
-      "r18": false
+      "id": 34316,
+      "title": "Kuzu Seito to Stalker-sensei",
+      "score": 0.354,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 24006,
-      "title": "Anata wa Boku Dake no Hana",
-      "score": 0.7,
-      "r18": false
+      "id": 22898,
+      "title": "Tsuzuki wa Asa Made",
+      "score": 0.354,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 11940,
-      "title": "Asobi Janai no",
-      "score": 0.7,
-      "r18": false
+      "id": 28990,
+      "title": "Kakko Warui Hinata-kun",
+      "score": 0.353,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 53625,
-      "title": "Kagakushitsu e Douzo",
-      "score": 0.7,
-      "r18": false
+      "id": 50436,
+      "title": "Boku ni Hitsuyou na Mono",
+      "score": 0.353,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
     },
     {
-      "id": 49776,
-      "title": "Zanzou Slow Motion",
-      "score": 0.7,
-      "r18": false
+      "id": 12217,
+      "title": "Koi Mane",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 20962,
-      "title": "Natura-turaly",
-      "score": 0.699,
-      "r18": false
+      "id": 20450,
+      "title": "Ani wa Motokare",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 55586,
-      "title": "On the Quiet",
-      "score": 0.698,
-      "r18": false
+      "id": 17345,
+      "title": "Onozomi no Mama ni",
+      "score": 0.348,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 24002,
-      "title": "Anata no Tonarini Suwarasete",
-      "score": 0.698,
-      "r18": false
+      "id": 58107,
+      "title": "Love Trivia",
+      "score": 0.347,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 21107,
-      "title": "Itoshi Koishi Kimi Dake ni",
-      "score": 0.697,
-      "r18": false
+      "id": 27969,
+      "title": "Chotto Tobashisugi",
+      "score": 0.347,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 41214,
-      "title": "Tasogare Outfocus",
-      "score": 0.697,
-      "r18": false
+      "id": 25001,
+      "title": "Hatsujou Eyes",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 9579,
-      "title": "Sekai wa Kimi de Mawatteru",
-      "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 8905,
-      "title": "Hana no Miyako de",
-      "score": 0.696,
-      "r18": false
+      "id": 27838,
+      "title": "Venus Kiss!!",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

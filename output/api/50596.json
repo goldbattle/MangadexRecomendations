@@ -1,26 +1,17 @@
 {
   "id": 50596,
   "title": "Asura's Bride",
-  "url": "https://api.mangadex.org/v2/manga/50596",
-  "last_updated": "February 05, 2021 08:26:12 UTC",
+  "url": "https://mangadex.org/manga/50596",
+  "last_updated": "March 18, 2021 13:22:55 UTC",
   "matches": [
-    {
-      "id": 44325,
-      "title": "Beauty and the Beasts",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 51327,
-      "title": "Sijin",
-      "score": 0.296,
-      "r18": false
-    },
     {
       "id": 44296,
       "title": "Forensic princess",
-      "score": 0.247,
-      "r18": false
+      "score": 0.138,
+      "r18": false,
+      "languages": [
+        "pl"
+      ]
     }
   ]
 }

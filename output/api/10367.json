@@ -2,67 +2,162 @@
   "id": 10367,
   "title": "Devil Ecstasy",
   "url": "https://mangadex.org/manga/10367",
-  "last_updated": "March 15, 2021 00:27:51 UTC",
+  "last_updated": "March 18, 2021 07:13:57 UTC",
   "matches": [
     {
       "id": 29236,
       "title": "Adamasu no Majotachi",
-      "score": 0.245,
-      "r18": false
+      "score": 0.244,
+      "r18": false,
+      "languages": [
+        "th",
+        "it",
+        "gb",
+        "br",
+        "fr",
+        "id",
+        "mx"
+      ]
+    },
+    {
+      "id": 30493,
+      "title": "Destiny Lovers",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "fr",
+        "ru",
+        "gb",
+        "br",
+        "mx",
+        "de",
+        "id"
+      ]
     },
     {
       "id": 12857,
       "title": "Kono Shima ni wa Midara de Jaaku na Mono ga Sumu",
       "score": 0.207,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "id",
+        "ru",
+        "mx"
+      ]
     },
     {
       "id": 47665,
       "title": "Tenshi no Marshmallow",
-      "score": 0.2,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 41994,
+      "title": "Kaikan Douki",
+      "score": 0.197,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 15438,
       "title": "Maou no Hajimekata - The Comic",
-      "score": 0.19,
-      "r18": false
-    },
-    {
-      "id": 12019,
-      "title": "Deathtopia",
-      "score": 0.18,
-      "r18": false
+      "score": 0.189,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "fr"
+      ]
     },
     {
       "id": 36192,
       "title": "Ingoshima",
       "score": 0.177,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru"
+      ]
+    },
+    {
+      "id": 12019,
+      "title": "Deathtopia",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "ru",
+        "it",
+        "pl",
+        "de"
+      ]
     },
     {
       "id": 36803,
       "title": "Class Teni de Ore dake Haburaretara, Doukyuu Harem Tsukuru Koto ni Shita",
-      "score": 0.173,
-      "r18": false
-    },
-    {
-      "id": 30725,
-      "title": "RaW Hero",
-      "score": 0.141,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "fr",
+        "id",
+        "br"
+      ]
     },
     {
       "id": 16908,
       "title": "Saikin Kono Sekai wa Watashi Dake no Mono ni Narimashita......",
-      "score": 0.14,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "fr"
+      ]
     },
     {
       "id": 22280,
       "title": "Makikomarete Isekai Teni suru Yatsu wa, Taitei Cheat",
-      "score": 0.135,
-      "r18": false
+      "score": 0.134,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "tr",
+        "mx",
+        "de"
+      ]
+    },
+    {
+      "id": 30725,
+      "title": "RaW Hero",
+      "score": 0.134,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "fr",
+        "ru",
+        "mx",
+        "de",
+        "it",
+        "vn",
+        "sa"
+      ]
     }
   ]
 }

@@ -2,43 +2,56 @@
   "id": 13840,
   "title": "The Inferno in Bottles",
   "url": "https://mangadex.org/manga/13840",
-  "last_updated": "March 15, 2021 08:39:06 UTC",
+  "last_updated": "March 18, 2021 07:43:41 UTC",
   "matches": [
     {
       "id": 7327,
       "title": "Doctor Du Ming",
       "score": 0.3,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 21636,
       "title": "Mashira",
       "score": 0.257,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2831,
       "title": "Tetsuwan Girl",
-      "score": 0.242,
-      "r18": false
-    },
-    {
-      "id": 46689,
-      "title": "Eros no Shushi",
-      "score": 0.242,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 6077,
       "title": "Arigatou",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 18813,
       "title": "House of Dolls",
       "score": 0.2,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     }
   ]
 }

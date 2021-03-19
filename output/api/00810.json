@@ -2,157 +2,347 @@
   "id": 810,
   "title": "Rewrite: SIDE-B",
   "url": "https://mangadex.org/manga/810",
-  "last_updated": "March 14, 2021 01:02:11 UTC",
+  "last_updated": "March 18, 2021 05:49:25 UTC",
   "matches": [
-    {
-      "id": 316,
-      "title": "Gwisin Byeolgok",
-      "score": 0.318,
-      "r18": false
-    },
-    {
-      "id": 494,
-      "title": "Suashi no Meteorite",
-      "score": 0.286,
-      "r18": false
-    },
-    {
-      "id": 2221,
-      "title": "Toraneko Folklore",
-      "score": 0.278,
-      "r18": false
-    },
-    {
-      "id": 1417,
-      "title": "Shingetsutan Tsukihime",
-      "score": 0.278,
-      "r18": false
-    },
-    {
-      "id": 2086,
-      "title": "Kingdom Hearts 358/2 Days",
-      "score": 0.277,
-      "r18": false
-    },
-    {
-      "id": 9409,
-      "title": "Hitoribocchi no Chikyuu Shinryaku",
-      "score": 0.273,
-      "r18": false
-    },
-    {
-      "id": 9844,
-      "title": "Shingeki no Kyojin - Before the Fall",
-      "score": 0.269,
-      "r18": false
-    },
-    {
-      "id": 6832,
-      "title": "&quot;Bungaku Shoujo&quot; to Ue Kawaku Yuurei",
-      "score": 0.268,
-      "r18": false
-    },
-    {
-      "id": 2340,
-      "title": "Fate/stay night",
-      "score": 0.268,
-      "r18": false
-    },
-    {
-      "id": 3091,
-      "title": "Suzumiya Haruhi no Yuuutsu",
-      "score": 0.267,
-      "r18": false
-    },
-    {
-      "id": 28843,
-      "title": "JoJo's Bizarre Adventure Part 4 - Diamond is Unbreakable",
-      "score": 0.266,
-      "r18": false
-    },
-    {
-      "id": 28525,
-      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo",
-      "score": 0.262,
-      "r18": false
-    },
-    {
-      "id": 4780,
-      "title": "Umineko no Naku Koro ni Chiru Episode 8: Twilight of the Golden Witch",
-      "score": 0.262,
-      "r18": false
-    },
     {
       "id": 22516,
       "title": "Dioti Manual ~Kamisamatachi no Ren'ai Daikou~",
       "score": 0.259,
-      "r18": false
-    },
-    {
-      "id": 1702,
-      "title": "Durarara!!",
-      "score": 0.259,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "br",
+        "vn",
+        "mx",
+        "id",
+        "fr"
+      ]
     },
     {
       "id": 22194,
       "title": "Beast Complex",
       "score": 0.259,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "vn",
+        "it",
+        "gb",
+        "hk",
+        "br",
+        "mx",
+        "ru",
+        "fr"
+      ]
     },
     {
-      "id": 11041,
-      "title": "Stealth Symphony",
-      "score": 0.259,
-      "r18": false
-    },
-    {
-      "id": 1790,
-      "title": "Arata Kangatari",
-      "score": 0.257,
-      "r18": false
-    },
-    {
-      "id": 2492,
-      "title": "Gift - Under the Rainbow",
+      "id": 2340,
+      "title": "Fate/stay night",
       "score": 0.256,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "sa",
+        "bg"
+      ]
     },
     {
-      "id": 45249,
-      "title": "Mahouka Koukou no Rettousei - Shiba Tatsuya Ansatsu Keikaku",
-      "score": 0.256,
-      "r18": false
-    },
-    {
-      "id": 10659,
-      "title": "K - The First",
-      "score": 0.256,
-      "r18": false
+      "id": 283,
+      "title": "Ao no Exorcist",
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "mx",
+        "it",
+        "br",
+        "es",
+        "il",
+        "fr"
+      ]
     },
     {
       "id": 13341,
       "title": "Mahou Shoujo of the End vs Hakaijuu vs Versus Earth",
-      "score": 0.255,
-      "r18": false
+      "score": 0.254,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
       "id": 15355,
       "title": "Kyokou Suiri",
-      "score": 0.255,
-      "r18": false
-    },
-    {
-      "id": 5443,
-      "title": "Pita-Ten",
-      "score": 0.252,
-      "r18": false
+      "score": 0.254,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "ru",
+        "it",
+        "fr",
+        "br"
+      ]
     },
     {
       "id": 336,
       "title": "Kuroshitsuji",
-      "score": 0.252,
-      "r18": false
+      "score": 0.248,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "fr",
+        "mx",
+        "tr",
+        "hu",
+        "bg"
+      ]
+    },
+    {
+      "id": 1281,
+      "title": "Touch",
+      "score": 0.235,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
+    },
+    {
+      "id": 1751,
+      "title": "D.Gray-man",
+      "score": 0.234,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "tr",
+        "sa",
+        "mx",
+        "pl",
+        "ru",
+        "es",
+        "bg"
+      ]
+    },
+    {
+      "id": 142,
+      "title": "Tsubasa -RESERVoir CHRoNiCLE-",
+      "score": 0.234,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 20523,
+      "title": "BEASTARS",
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "es",
+        "br",
+        "gb",
+        "vn",
+        "it",
+        "fr",
+        "my",
+        "mx",
+        "ru",
+        "id",
+        "hu",
+        "tr",
+        "pl",
+        " "
+      ]
+    },
+    {
+      "id": 1403,
+      "title": "Sayonara Zetsubou Sensei",
+      "score": 0.229,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru",
+        "br",
+        "mx"
+      ]
+    },
+    {
+      "id": 22816,
+      "title": "Class ga Isekai Shoukan sareta Naka Ore dake Nokotta n desu ga",
+      "score": 0.229,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru",
+        "br",
+        "hk",
+        "id",
+        "mx"
+      ]
+    },
+    {
+      "id": 984,
+      "title": "Angel Beats! - Heaven's Door",
+      "score": 0.229,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "br",
+        "mx",
+        "fr",
+        "tr",
+        "de"
+      ]
+    },
+    {
+      "id": 6270,
+      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo (Official Colored)",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "ru",
+        "br",
+        "de"
+      ]
+    },
+    {
+      "id": 1596,
+      "title": "Esprit",
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 9813,
+      "title": "Mahou Shoujo Site",
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "br",
+        "pl",
+        "hu"
+      ]
+    },
+    {
+      "id": 20604,
+      "title": "B Group no Shounen X",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 107,
+      "title": "Toriko",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "es",
+        "mx",
+        "pl"
+      ]
+    },
+    {
+      "id": 6269,
+      "title": "JoJo's Bizarre Adventure Part 4 - Diamond is Unbreakable (Official Colored)",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "it",
+        "br",
+        "mx",
+        "id",
+        "fr",
+        "ru"
+      ]
+    },
+    {
+      "id": 13127,
+      "title": "Urami Koi, Koi, Urami Koi.",
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "it",
+        "es",
+        "de"
+      ]
+    },
+    {
+      "id": 9388,
+      "title": "Kakumeiki Valvrave",
+      "score": 0.213,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
+    },
+    {
+      "id": 23195,
+      "title": "The Great Ruler",
+      "score": 0.212,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "br",
+        "pl",
+        "mx"
+      ]
+    },
+    {
+      "id": 18491,
+      "title": "It's My Life",
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "es",
+        "id"
+      ]
+    },
+    {
+      "id": 9012,
+      "title": "Red Storm",
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "fr",
+        "it",
+        "de"
+      ]
     }
   ]
 }

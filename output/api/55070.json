@@ -1,158 +1,237 @@
 {
   "id": 55070,
   "title": "Slave x Slave",
-  "url": "https://api.mangadex.org/v2/manga/55070",
-  "last_updated": "March 12, 2021 20:33:17 UTC",
+  "url": "https://mangadex.org/manga/55070",
+  "last_updated": "March 18, 2021 14:00:17 UTC",
   "matches": [
-    {
-      "id": 21525,
-      "title": "Shishi mo Kobamazu",
-      "score": 0.673,
-      "r18": true
-    },
-    {
-      "id": 12014,
-      "title": "Megane Goshi no Sora wa...",
-      "score": 0.671,
-      "r18": true
-    },
-    {
-      "id": 13409,
-      "title": "Yume no You na Hanashi",
-      "score": 0.67,
-      "r18": true
-    },
-    {
-      "id": 18772,
-      "title": "Ichiban Chikaku de Koi o Suru",
-      "score": 0.663,
-      "r18": true
-    },
-    {
-      "id": 33240,
-      "title": "Therapy Game",
-      "score": 0.657,
-      "r18": true
-    },
-    {
-      "id": 59503,
-      "title": "Collar ni Kuchiduke",
-      "score": 0.656,
-      "r18": true
-    },
-    {
-      "id": 26003,
-      "title": "1/365 no Koibito",
-      "score": 0.654,
-      "r18": true
-    },
-    {
-      "id": 10885,
-      "title": "Sadistic Boy",
-      "score": 0.653,
-      "r18": true
-    },
-    {
-      "id": 24145,
-      "title": "Hada no Ue no Renai Jijou",
-      "score": 0.651,
-      "r18": true
-    },
-    {
-      "id": 41044,
-      "title": "Tokoro de Ima ha Nanbanme Deshou Ka",
-      "score": 0.65,
-      "r18": true
-    },
     {
       "id": 39330,
       "title": "Kono Inu wa Mada Amai Doku o Shiranai",
-      "score": 0.484,
-      "r18": true
+      "score": 0.383,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 33074,
       "title": "Youchi na Koi wo Doushiyou",
-      "score": 0.47,
-      "r18": true
-    },
-    {
-      "id": 36979,
-      "title": "Kimi no Kao ni Sasu Kage",
-      "score": 0.466,
-      "r18": true
-    },
-    {
-      "id": 37686,
-      "title": "Ookami Shounen wa Uso o Tsukanai",
-      "score": 0.387,
-      "r18": true
-    },
-    {
-      "id": 45029,
-      "title": "Bouai Friendship",
-      "score": 0.384,
-      "r18": true
-    },
-    {
-      "id": 56866,
-      "title": "Kinryouku no Mori",
-      "score": 0.364,
-      "r18": true
-    },
-    {
-      "id": 26110,
-      "title": "Maki-chan wa Kare to Sex Shitai",
-      "score": 0.357,
-      "r18": true
-    },
-    {
-      "id": 55206,
-      "title": "Kizudarake no Hakoniwa",
-      "score": 0.356,
-      "r18": true
-    },
-    {
-      "id": 28823,
-      "title": "Yajima-kun no Senzoku Friend",
-      "score": 0.356,
-      "r18": true
+      "score": 0.383,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29608,
       "title": "Somaru",
-      "score": 0.353,
-      "r18": true
+      "score": 0.306,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 26110,
+      "title": "Maki-chan wa Kare to Sex Shitai",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 46536,
       "title": "Hajimari wa Subete Uso",
-      "score": 0.348,
-      "r18": true
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 37428,
-      "title": "Shingeki no Kyojin - Reliant (Doujinshi)",
-      "score": 0.345,
-      "r18": true
+      "id": 56866,
+      "title": "Kinryouku no Mori",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 26576,
-      "title": "Ijippari Love Panic",
-      "score": 0.343,
-      "r18": true
-    },
-    {
-      "id": 18825,
-      "title": "This Probably Isn't Love",
-      "score": 0.341,
-      "r18": true
+      "id": 55206,
+      "title": "Kizudarake no Hakoniwa",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "tr",
+        "gb"
+      ]
     },
     {
       "id": 55841,
       "title": "Otoko Mekake",
-      "score": 0.341,
-      "r18": true
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 45034,
+      "title": "Ijimekko to Nakimushi-kun",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37428,
+      "title": "Shingeki no Kyojin - Reliant (Doujinshi)",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37310,
+      "title": "Shingeki no Kyojin - Under The Tree (Doujinshi)",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59075,
+      "title": "Cosplay Josou de HHH!",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 13409,
+      "title": "Yume no You na Hanashi",
+      "score": 0.261,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 41044,
+      "title": "Tokoro de Ima ha Nanbanme Deshou Ka",
+      "score": 0.257,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 45029,
+      "title": "Bouai Friendship",
+      "score": 0.25,
+      "r18": true,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 28823,
+      "title": "Yajima-kun no Senzoku Friend",
+      "score": 0.24,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37686,
+      "title": "Ookami Shounen wa Uso o Tsukanai",
+      "score": 0.24,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 26576,
+      "title": "Ijippari Love Panic",
+      "score": 0.23,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18825,
+      "title": "This Probably Isn't Love",
+      "score": 0.23,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37326,
+      "title": "Itai Itai Itai",
+      "score": 0.23,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18772,
+      "title": "Ichiban Chikaku de Koi o Suru",
+      "score": 0.214,
+      "r18": true,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 15123,
+      "title": "Hitorijime, Shitai",
+      "score": 0.213,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37316,
+      "title": "Shingeki no Kyojin - Plus Alpha (Doujinshi)",
+      "score": 0.213,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37349,
+      "title": "The Gamefowl Enveloped in Despair",
+      "score": 0.213,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37841,
+      "title": "Misshitsu Kankin AV Tarenagashi",
+      "score": 0.213,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

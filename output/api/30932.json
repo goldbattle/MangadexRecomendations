@@ -2,19 +2,25 @@
   "id": 30932,
   "title": "Sekai de Ichiban Oppai ga Suki!",
   "url": "https://mangadex.org/manga/30932",
-  "last_updated": "January 13, 2021 12:55:36 UTC",
+  "last_updated": "March 18, 2021 10:38:42 UTC",
   "matches": [
-    {
-      "id": 12272,
-      "title": "Chotto Kawaii Iron Maiden",
-      "score": 0.441,
-      "r18": false
-    },
     {
       "id": 6547,
       "title": "Choir!",
-      "score": 0.363,
-      "r18": false
+      "score": 0.326,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 12272,
+      "title": "Chotto Kawaii Iron Maiden",
+      "score": 0.294,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

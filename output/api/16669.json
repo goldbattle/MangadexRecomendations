@@ -2,19 +2,32 @@
   "id": 16669,
   "title": "Appli-Trap",
   "url": "https://mangadex.org/manga/16669",
-  "last_updated": "March 15, 2021 16:45:13 UTC",
+  "last_updated": "March 18, 2021 08:13:35 UTC",
   "matches": [
     {
       "id": 13525,
       "title": "DEAD Tube",
-      "score": 0.269,
-      "r18": false
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "it",
+        "pl",
+        "de",
+        "sa",
+        "tr"
+      ]
     },
     {
       "id": 4930,
       "title": "Devilman G",
       "score": 0.13,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     }
   ]
 }

@@ -1,20 +1,28 @@
 {
   "id": 42398,
   "title": "Cloverfield Kishin",
-  "url": "https://api.mangadex.org/v2/manga/42398",
-  "last_updated": "February 11, 2021 12:24:45 UTC",
+  "url": "https://mangadex.org/manga/42398",
+  "last_updated": "March 18, 2021 12:14:20 UTC",
   "matches": [
     {
       "id": 25314,
       "title": "Skull Man (SHIMAMOTO Kazuhiko)",
-      "score": 0.099,
-      "r18": false
+      "score": 0.082,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 53831,
       "title": "Over the Moon",
-      "score": 0.099,
-      "r18": false
+      "score": 0.082,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru"
+      ]
     }
   ]
 }

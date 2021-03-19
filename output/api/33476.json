@@ -1,26 +1,38 @@
 {
   "id": 33476,
   "title": "Nikuhisho Yukiko",
-  "url": "https://api.mangadex.org/v2/manga/33476",
-  "last_updated": "February 10, 2021 12:38:40 UTC",
+  "url": "https://mangadex.org/manga/33476",
+  "last_updated": "March 18, 2021 10:59:54 UTC",
   "matches": [
     {
       "id": 28153,
       "title": "Don't Make Me So Turned On",
-      "score": 0.24,
-      "r18": true
-    },
-    {
-      "id": 59560,
-      "title": "Null Hug",
-      "score": 0.215,
-      "r18": true
+      "score": 0.213,
+      "r18": true,
+      "languages": [
+        "gb",
+        "es",
+        "br",
+        "ru"
+      ]
     },
     {
       "id": 33049,
       "title": "Aisare Sugite Komaru no",
-      "score": 0.179,
-      "r18": true
+      "score": 0.16,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59560,
+      "title": "Null Hug",
+      "score": 0.16,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

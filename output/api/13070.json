@@ -2,103 +2,134 @@
   "id": 13070,
   "title": "Japan",
   "url": "https://mangadex.org/manga/13070",
-  "last_updated": "March 15, 2021 08:30:10 UTC",
+  "last_updated": "March 18, 2021 07:37:15 UTC",
   "matches": [
-    {
-      "id": 24862,
-      "title": "Sousei no Taiga",
-      "score": 0.186,
-      "r18": false
-    },
-    {
-      "id": 53789,
-      "title": "Jojo's Bizarre Adventure: Jojolite",
-      "score": 0.175,
-      "r18": false
-    },
     {
       "id": 27050,
       "title": "Goblin Slayer: Brand New Day",
       "score": 0.175,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "id",
+        "ru",
+        "mx",
+        "br"
+      ]
     },
     {
       "id": 21677,
       "title": "Hinowa ga Yuku!",
-      "score": 0.171,
-      "r18": false
+      "score": 0.17,
+      "r18": false,
+      "languages": [
+        "br",
+        "ru",
+        "fr",
+        "pl",
+        "hu",
+        "mx",
+        "it",
+        "id"
+      ]
     },
     {
       "id": 23535,
       "title": "Tengoku Daimakyou",
       "score": 0.167,
-      "r18": false
-    },
-    {
-      "id": 36129,
-      "title": "Higanjima - Aniki-hen",
-      "score": 0.166,
-      "r18": false
-    },
-    {
-      "id": 4747,
-      "title": "Terra Formars",
-      "score": 0.161,
-      "r18": false
-    },
-    {
-      "id": 18645,
-      "title": "Higanjima - Saigo no 47 Hiai",
-      "score": 0.159,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "hk",
+        "br",
+        "sa",
+        "ru"
+      ]
     },
     {
       "id": 709,
       "title": "Higanjima",
       "score": 0.157,
-      "r18": false
-    },
-    {
-      "id": 22283,
-      "title": "Goblin Slayer Side Story: Year One",
-      "score": 0.146,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 1073,
       "title": "Vagabond",
       "score": 0.145,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "it",
+        "hu",
+        "pl",
+        "id",
+        "sa"
+      ]
     },
     {
       "id": 1230,
       "title": "Black Lagoon",
       "score": 0.125,
-      "r18": false
-    },
-    {
-      "id": 56617,
-      "title": "Vagabond (Official Colored)",
-      "score": 0.124,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "fr",
+        "ru",
+        "es",
+        "it"
+      ]
     },
     {
       "id": 607,
       "title": "Berserk",
-      "score": 0.123,
-      "r18": false
+      "score": 0.122,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it",
+        "mx",
+        "tr",
+        "sa",
+        "ru",
+        "fr",
+        "hk"
+      ]
     },
     {
       "id": 18935,
       "title": "Goblin Slayer",
       "score": 0.122,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "ru",
+        "id",
+        "mx",
+        "sa",
+        "fr"
+      ]
     },
     {
-      "id": 17291,
-      "title": "RED: Living On The Edge",
-      "score": 0.12,
-      "r18": false
+      "id": 22283,
+      "title": "Goblin Slayer Side Story: Year One",
+      "score": 0.109,
+      "r18": false,
+      "languages": [
+        "br",
+        "it",
+        "ru",
+        "mx",
+        "id",
+        "fr",
+        "gb"
+      ]
     }
   ]
 }

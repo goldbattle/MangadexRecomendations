@@ -1,158 +1,268 @@
 {
   "id": 43417,
   "title": "Touhou Suichouka ~ Lotus Eater-tachi no Suisei",
-  "url": "https://api.mangadex.org/v2/manga/43417",
-  "last_updated": "February 11, 2021 16:24:32 UTC",
+  "url": "https://mangadex.org/manga/43417",
+  "last_updated": "March 18, 2021 12:22:50 UTC",
   "matches": [
     {
-      "id": 4677,
-      "title": "Mahouka Koukou no Yuutousei",
-      "score": 0.675,
-      "r18": false
+      "id": 7645,
+      "title": "Flying Witch",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "it",
+        "br",
+        "de",
+        "pl",
+        "fr"
+      ]
     },
     {
-      "id": 5573,
-      "title": "Saiyuki",
-      "score": 0.674,
-      "r18": false
+      "id": 50550,
+      "title": "Edomae Elf",
+      "score": 0.226,
+      "r18": false,
+      "languages": [
+        "gb",
+        "th"
+      ]
     },
     {
-      "id": 6133,
-      "title": "The Time of Cherry Blossoms",
-      "score": 0.674,
-      "r18": false
+      "id": 14337,
+      "title": "Takeo-chan Bukkairoku",
+      "score": 0.226,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 3607,
-      "title": "All Around Type-Moon",
-      "score": 0.673,
-      "r18": false
+      "id": 3717,
+      "title": "Hana Michi Otome",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 1552,
-      "title": "Melty Blood",
-      "score": 0.672,
-      "r18": false
+      "id": 29349,
+      "title": "Kemono Michi",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru"
+      ]
     },
     {
-      "id": 10801,
-      "title": "Mahoutsukai no Yome",
-      "score": 0.67,
-      "r18": false
+      "id": 57280,
+      "title": "Maou no Jinji",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id"
+      ]
     },
     {
-      "id": 6004,
-      "title": "Matantei Loki",
-      "score": 0.668,
-      "r18": false
+      "id": 50047,
+      "title": "This Unbound World's &quot;Normal&quot; Is Difficult",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 31002,
-      "title": "Jimi na Kensei wa Sore Demo Saikyou Desu",
-      "score": 0.667,
-      "r18": false
+      "id": 25641,
+      "title": "Tensei Ouji wa Daraketai",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "id"
+      ]
     },
     {
-      "id": 23944,
-      "title": "REIGEN",
-      "score": 0.667,
-      "r18": false
+      "id": 343,
+      "title": "Shinryaku! Ika Musume",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "pl"
+      ]
     },
     {
-      "id": 21124,
-      "title": "Oretachi no Party wa Machigatteiru",
-      "score": 0.665,
-      "r18": false
+      "id": 29557,
+      "title": "Slime Life",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "fr",
+        "ru"
+      ]
     },
     {
-      "id": 17695,
-      "title": "Mahouka Koukou no Rettousei - Raihousha-hen",
-      "score": 0.665,
-      "r18": false
+      "id": 16019,
+      "title": "Gendai Majo Zukan",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 13432,
-      "title": "Ningen Deshita",
-      "score": 0.665,
-      "r18": false
+      "id": 958,
+      "title": "Binbougami ga!",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 3757,
-      "title": "Youkai Apaato no Yuuga na Nichijou",
-      "score": 0.665,
-      "r18": false
+      "id": 48812,
+      "title": "The Splendid Job of a Monster Maid",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 33897,
-      "title": "Ossan Boukensha Kane no Zenkou",
-      "score": 0.665,
-      "r18": false
+      "id": 32175,
+      "title": "Majo no Tabitabi",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "ru",
+        "mx",
+        "it",
+        "br"
+      ]
     },
     {
-      "id": 23195,
-      "title": "The Great Ruler",
-      "score": 0.664,
-      "r18": false
+      "id": 56273,
+      "title": "Rascal Does Not Dream of Logical Witch",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 3091,
-      "title": "Suzumiya Haruhi no Yuuutsu",
-      "score": 0.664,
-      "r18": false
+      "id": 26984,
+      "title": "Suginami Toubatsu Koumuin: Dungeon Kinmu no Hitobito",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 44689,
-      "title": "The Holy Knight's Dark Road",
-      "score": 0.664,
-      "r18": false
+      "id": 21513,
+      "title": "Sodatechi Maou!",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 43453,
-      "title": "Nanatsu no Maken ga Shihai Suru",
-      "score": 0.663,
-      "r18": false
+      "id": 39853,
+      "title": "Majo no Marie wa Majo Janai",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 6270,
-      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo (Official Colored)",
-      "score": 0.662,
-      "r18": false
+      "id": 31899,
+      "title": "Tokedase! Mizore-chan",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br"
+      ]
     },
     {
-      "id": 10004,
-      "title": "One Piece - Digital Colored Comics",
-      "score": 0.662,
-      "r18": false
+      "id": 59708,
+      "title": "That Dragon (Exchange) Student Stands Out More Than Me",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "vn",
+        "id"
+      ]
     },
     {
-      "id": 53985,
-      "title": "Dragon Raja 3",
-      "score": 0.662,
-      "r18": false
+      "id": 1265,
+      "title": "Liberamente",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 810,
-      "title": "Rewrite: SIDE-B",
-      "score": 0.661,
-      "r18": false
+      "id": 55924,
+      "title": "Galauman",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 34387,
-      "title": "Lonely Attack on the Different World",
-      "score": 0.661,
-      "r18": false
+      "id": 52869,
+      "title": "Twilight Silver",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 25435,
-      "title": "Madara",
-      "score": 0.66,
-      "r18": false
+      "id": 15858,
+      "title": "Fukigen na Mononokean",
+      "score": 0.219,
+      "r18": false,
+      "languages": [
+        "vn",
+        "fr"
+      ]
     },
     {
-      "id": 28525,
-      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo",
-      "score": 0.66,
-      "r18": false
+      "id": 22612,
+      "title": "Akazukin no Ookami Deshi",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "hk",
+        "ru",
+        "gb"
+      ]
     }
   ]
 }

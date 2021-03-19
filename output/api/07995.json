@@ -2,157 +2,216 @@
   "id": 7995,
   "title": "Kakuu no Sono",
   "url": "https://mangadex.org/manga/7995",
-  "last_updated": "March 14, 2021 20:14:12 UTC",
+  "last_updated": "March 18, 2021 06:53:49 UTC",
   "matches": [
-    {
-      "id": 49659,
-      "title": "Koi no Kiseki",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 25464,
-      "title": "Non-chan no Tenohira",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 12345,
-      "title": "Hatsukoi wa Marude Yaiba no You ni",
-      "score": 0.253,
-      "r18": false
-    },
-    {
-      "id": 58851,
-      "title": "Tanpopo no Watage",
-      "score": 0.241,
-      "r18": false
-    },
-    {
-      "id": 4927,
-      "title": "Stone Cold",
-      "score": 0.236,
-      "r18": false
-    },
-    {
-      "id": 8187,
-      "title": "Himawari",
-      "score": 0.234,
-      "r18": false
-    },
-    {
-      "id": 3913,
-      "title": "Cotton",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 1677,
-      "title": "Ephemeral",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 22465,
-      "title": "Silent Blue",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 17113,
-      "title": "Shutter Love",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 4188,
-      "title": "Champagne wa Koi no Biyaku",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 26069,
-      "title": "R.I.P.",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 3696,
-      "title": "Pride",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 9976,
-      "title": "Hoshi no Ame, Tsuki no Geboku",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 12726,
-      "title": "Ubawareta Hanayome",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 5123,
-      "title": "Double House",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 4170,
-      "title": "Gigolo",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 14193,
-      "title": "Ai Heya",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 50238,
-      "title": "Yuukaikon",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 17965,
-      "title": "The Other Side Of The Mirror",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 44830,
-      "title": "My Deepest Secret",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 17645,
-      "title": "Muku Na Princess",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 32573,
-      "title": "Sennetsu",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 25660,
-      "title": "Ai Naki Kekkon",
-      "score": 0.233,
-      "r18": false
-    },
     {
       "id": 4439,
       "title": "Arcana 01 - Butler",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu",
+        "fr"
+      ]
+    },
+    {
+      "id": 2941,
+      "title": "Water.",
+      "score": 0.189,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "ro"
+      ]
+    },
+    {
+      "id": 5935,
+      "title": "Itaitashii Love",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "it",
+        "ro"
+      ]
+    },
+    {
+      "id": 9762,
+      "title": "Dame na Watashi ni Koishite Kudasai",
+      "score": 0.144,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br",
+        "pl",
+        "gb",
+        "hu"
+      ]
+    },
+    {
+      "id": 8184,
+      "title": "Le Th&eacute;&acirc;tre de A",
+      "score": 0.142,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg",
+        "tr",
+        "pl",
+        "br",
+        "hu",
+        "fr",
+        "de"
+      ]
+    },
+    {
+      "id": 4441,
+      "title": "Arcana 03 - Prince &amp; Princess",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "hu",
+        "fr"
+      ]
+    },
+    {
+      "id": 20911,
+      "title": "Boku no Giovanni",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu",
+        "vn"
+      ]
+    },
+    {
+      "id": 13274,
+      "title": "SP x Baby",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "fr",
+        "hu"
+      ]
+    },
+    {
+      "id": 4440,
+      "title": "Arcana 02 - Rebel \u30fb Phantom Thief",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu"
+      ]
+    },
+    {
+      "id": 4455,
+      "title": "Arcana 09 - Transformation\u2606Personification",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "hu",
+        "pl"
+      ]
+    },
+    {
+      "id": 589,
+      "title": "Nineteen, Twenty-One",
+      "score": 0.099,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ro",
+        "ru"
+      ]
+    },
+    {
+      "id": 2797,
+      "title": "Le Th&eacute;&acirc;tre de B",
+      "score": 0.092,
+      "r18": false,
+      "languages": [
+        "bg",
+        "tr",
+        "gb",
+        "pl",
+        "hu",
+        "it"
+      ]
+    },
+    {
+      "id": 6848,
+      "title": "Servamp",
+      "score": 0.087,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru",
+        "hu"
+      ]
+    },
+    {
+      "id": 3324,
+      "title": "Itou Junji Kyoufu Manga Collection",
+      "score": 0.077,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "br",
+        "it",
+        "hu"
+      ]
+    },
+    {
+      "id": 29859,
+      "title": "Light and Shadow",
+      "score": 0.077,
+      "r18": false,
+      "languages": [
+        "mx",
+        "id",
+        "hu"
+      ]
+    },
+    {
+      "id": 58463,
+      "title": "I Raised the Beast Well",
+      "score": 0.069,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "pl",
+        "hu",
+        "id"
+      ]
+    },
+    {
+      "id": 42780,
+      "title": "Remarried Empress",
+      "score": 0.069,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "br",
+        "hu",
+        "it"
+      ]
     }
   ]
 }

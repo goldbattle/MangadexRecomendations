@@ -1,158 +1,237 @@
 {
   "id": 42397,
   "title": "Arashi ga Oka",
-  "url": "https://api.mangadex.org/v2/manga/42397",
-  "last_updated": "February 11, 2021 12:24:44 UTC",
+  "url": "https://mangadex.org/manga/42397",
+  "last_updated": "March 18, 2021 12:14:19 UTC",
   "matches": [
     {
-      "id": 52907,
-      "title": "Karamete de Kudoite",
-      "score": 0.682,
-      "r18": false
-    },
-    {
-      "id": 56166,
-      "title": "Sunao ni Narenai Otokotachi",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 58660,
-      "title": "Attachment Love",
-      "score": 0.674,
-      "r18": false
-    },
-    {
-      "id": 27684,
-      "title": "Yokubou Shounen",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 51507,
-      "title": "Kakeochi Kakugo!",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 6817,
-      "title": "Trigger",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 57214,
-      "title": "Damatte Naite Irunodesu",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 51506,
-      "title": "Oteuchi Kakugo!",
-      "score": 0.662,
-      "r18": false
-    },
-    {
-      "id": 4557,
-      "title": "Mousou Cherry",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 29909,
-      "title": "Glamorous Lip",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 57336,
-      "title": "Ai wa Karada de Kataru Mono",
-      "score": 0.657,
-      "r18": false
-    },
-    {
-      "id": 25009,
-      "title": "Nessa no Kusari",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 57212,
-      "title": "Hey! Doctor",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 3982,
-      "title": "Only One",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 18378,
-      "title": "Crystal Harem",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 36814,
-      "title": "Oyasumi Darling",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 15274,
-      "title": "Chikan Diary",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 37504,
-      "title": "Hide and Seek",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 23751,
-      "title": "Kowarekake no Omocha",
-      "score": 0.5,
-      "r18": false
-    },
-    {
-      "id": 7906,
-      "title": "Jounetsu Kakumei",
-      "score": 0.498,
-      "r18": false
-    },
-    {
-      "id": 15964,
-      "title": "Renai Paradox",
-      "score": 0.497,
-      "r18": false
-    },
-    {
-      "id": 55195,
-      "title": "Virgin Break",
-      "score": 0.492,
-      "r18": false
+      "id": 50531,
+      "title": "Suzuki to Ouji no Senya Ichiya",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 26589,
       "title": "Motto Midara ni Shitsukemashou",
-      "score": 0.49,
-      "r18": false
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 17817,
-      "title": "Himitsu no Kuchizuke",
-      "score": 0.488,
-      "r18": false
+      "id": 23751,
+      "title": "Kowarekake no Omocha",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 57205,
+      "title": "Mae yori mo Dare yori mo",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 52907,
+      "title": "Karamete de Kudoite",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 39441,
+      "title": "Romance to Jealousy",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 16994,
+      "title": "Harem Days",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 55195,
+      "title": "Virgin Break",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 15964,
+      "title": "Renai Paradox",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 54870,
+      "title": "Ote, Osuwari, Kiss",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 49495,
+      "title": "Orikou Yaju Niwa Aragaenai",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29401,
       "title": "Happy Honey Life",
-      "score": 0.486,
-      "r18": false
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 35401,
+      "title": "Noruka Soruka",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50272,
+      "title": "Shouta, Kimi wo Aishiteru",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55803,
+      "title": "Hentai Shitsuji Kara Nigeraremasen",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7906,
+      "title": "Jounetsu Kakumei",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 25007,
+      "title": "Daigishi no Ichizoku",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 56895,
+      "title": "Backstage de Aimashou",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 17817,
+      "title": "Himitsu no Kuchizuke",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18068,
+      "title": "Mother's Spirit",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 35146,
+      "title": "Tadareta Koi ni wa Itashimasen!",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 39601,
+      "title": "Kogare Ouji no Dilemma",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 54257,
+      "title": "Sonna ni Iu Nara Daiteyaru",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 52421,
+      "title": "Uchi no Darling Eikoku Shinshi",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29400,
+      "title": "Yamome no Tamago",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

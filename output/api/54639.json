@@ -1,68 +1,61 @@
 {
   "id": 54639,
   "title": "Okane Ariki no Kankei desu ga",
-  "url": "https://api.mangadex.org/v2/manga/54639",
-  "last_updated": "March 12, 2021 20:28:05 UTC",
+  "url": "https://mangadex.org/manga/54639",
+  "last_updated": "March 18, 2021 13:56:40 UTC",
   "matches": [
-    {
-      "id": 13269,
-      "title": "Koi Made Hyakurin",
-      "score": 0.707,
-      "r18": false
-    },
-    {
-      "id": 56675,
-      "title": "When a Yakuza falls in love",
-      "score": 0.695,
-      "r18": false
-    },
-    {
-      "id": 51128,
-      "title": "Koroshi-ya to Freeter",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 1444,
-      "title": "NightS",
-      "score": 0.663,
-      "r18": false
-    },
     {
       "id": 441,
       "title": "Finder",
-      "score": 0.662,
-      "r18": false
-    },
-    {
-      "id": 52646,
-      "title": "Tasuketa Yakuza ni Nerawaretemasu",
-      "score": 0.401,
-      "r18": false
-    },
-    {
-      "id": 57636,
-      "title": "Ai ga aru kara Osu!",
-      "score": 0.345,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 17013,
       "title": "Yondaime Ooyamato Tatsuyuki",
-      "score": 0.325,
-      "r18": false
-    },
-    {
-      "id": 55657,
-      "title": "Ang Ang",
-      "score": 0.27,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 18992,
       "title": "Coyote",
-      "score": 0.264,
-      "r18": false
+      "score": 0.164,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 4541,
+      "title": "Honto Yajuu",
+      "score": 0.141,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
+    },
+    {
+      "id": 1444,
+      "title": "NightS",
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "mx"
+      ]
     }
   ]
 }

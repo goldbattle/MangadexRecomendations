@@ -1,158 +1,82 @@
 {
   "id": 54198,
   "title": "Aisei, Shinku wo Daku",
-  "url": "https://api.mangadex.org/v2/manga/54198",
-  "last_updated": "March 12, 2021 20:22:38 UTC",
+  "url": "https://mangadex.org/manga/54198",
+  "last_updated": "March 18, 2021 13:52:59 UTC",
   "matches": [
     {
-      "id": 16213,
-      "title": "Ai no Binzoko",
-      "score": 0.345,
-      "r18": false
+      "id": 30937,
+      "title": "Moritat",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "fr",
+        "tr"
+      ]
     },
     {
-      "id": 28073,
-      "title": "Dorobou to Keiji",
-      "score": 0.341,
-      "r18": false
+      "id": 20672,
+      "title": "Seduction Against Seduction",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "tr"
+      ]
     },
     {
-      "id": 10472,
-      "title": "Kimama ni Tanteigyou",
-      "score": 0.315,
-      "r18": false
+      "id": 919,
+      "title": "Loveless",
+      "score": 0.088,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
     },
     {
-      "id": 4402,
-      "title": "Sora no Deau Basho de",
-      "score": 0.309,
-      "r18": false
+      "id": 46402,
+      "title": "In the Dark",
+      "score": 0.08,
+      "r18": false,
+      "languages": [
+        "tr",
+        "br",
+        "fr",
+        "mx",
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 15134,
-      "title": "Kimi ni Yoseru Blue",
-      "score": 0.307,
-      "r18": false
+      "id": 45628,
+      "title": "Heaven Official's Blessing",
+      "score": 0.066,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "pl",
+        "tr",
+        "br",
+        "fr"
+      ]
     },
     {
-      "id": 13665,
-      "title": "Free! - Soshite Uroko wa Awa to Chiru (Doujinshi)",
-      "score": 0.288,
-      "r18": false
-    },
-    {
-      "id": 4425,
-      "title": "Drug &amp; Drop",
-      "score": 0.278,
-      "r18": false
-    },
-    {
-      "id": 4423,
-      "title": "Gohou Drug",
-      "score": 0.274,
-      "r18": false
-    },
-    {
-      "id": 13288,
-      "title": "Combination",
-      "score": 0.273,
-      "r18": false
-    },
-    {
-      "id": 6352,
-      "title": "Daten no Tsuki",
-      "score": 0.272,
-      "r18": false
-    },
-    {
-      "id": 26404,
-      "title": "Shinonome Tantei Ibun Roku",
-      "score": 0.265,
-      "r18": false
-    },
-    {
-      "id": 1106,
-      "title": "Concrete Garden",
-      "score": 0.263,
-      "r18": false
-    },
-    {
-      "id": 44469,
-      "title": "Lifeless Man",
-      "score": 0.258,
-      "r18": false
-    },
-    {
-      "id": 26634,
-      "title": "Tokyo Babylon",
-      "score": 0.256,
-      "r18": false
-    },
-    {
-      "id": 6423,
-      "title": "Wild Adapter",
-      "score": 0.254,
-      "r18": false
-    },
-    {
-      "id": 31001,
-      "title": "Doubt",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 55833,
-      "title": "The Dark Night Journal",
-      "score": 0.248,
-      "r18": false
-    },
-    {
-      "id": 4469,
-      "title": "Gakuen Heaven - Revolution",
-      "score": 0.241,
-      "r18": false
-    },
-    {
-      "id": 30478,
-      "title": "Midnight Sun",
-      "score": 0.239,
-      "r18": false
-    },
-    {
-      "id": 49633,
-      "title": "The Omega Files",
-      "score": 0.235,
-      "r18": false
-    },
-    {
-      "id": 27634,
-      "title": "MW",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 10973,
-      "title": "BLOOD+ - Yakou Joushi",
-      "score": 0.232,
-      "r18": false
-    },
-    {
-      "id": 7089,
-      "title": "Warawanai Ningyo",
-      "score": 0.231,
-      "r18": false
-    },
-    {
-      "id": 52595,
-      "title": "Bound by One&rsquo;s Heart",
-      "score": 0.221,
-      "r18": false
-    },
-    {
-      "id": 7118,
-      "title": "Specter",
-      "score": 0.218,
-      "r18": false
+      "id": 26597,
+      "title": "The Grandmaster of Demonic Cultivation",
+      "score": 0.061,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "fr",
+        "pl",
+        "br",
+        "es",
+        "hu",
+        "it",
+        "tr"
+      ]
     }
   ]
 }

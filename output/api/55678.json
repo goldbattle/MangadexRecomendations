@@ -1,14 +1,17 @@
 {
   "id": 55678,
   "title": "Inaka",
-  "url": "https://api.mangadex.org/v2/manga/55678",
-  "last_updated": "March 12, 2021 20:40:50 UTC",
+  "url": "https://mangadex.org/manga/55678",
+  "last_updated": "March 18, 2021 14:05:22 UTC",
   "matches": [
     {
       "id": 1321,
       "title": "Yomeiro-Choice",
-      "score": 0.686,
-      "r18": false
+      "score": 0.158,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

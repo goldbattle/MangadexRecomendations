@@ -1,32 +1,50 @@
 {
   "id": 44535,
   "title": "Hataraku Saibou Friend",
-  "url": "https://api.mangadex.org/v2/manga/44535",
-  "last_updated": "February 11, 2021 16:42:45 UTC",
+  "url": "https://mangadex.org/manga/44535",
+  "last_updated": "March 18, 2021 12:32:12 UTC",
   "matches": [
-    {
-      "id": 1831,
-      "title": "Aqua",
-      "score": 0.652,
-      "r18": false
-    },
     {
       "id": 21366,
       "title": "Watashi no Cosmic Monster",
-      "score": 0.385,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 1831,
+      "title": "Aqua",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "br",
+        "bg",
+        "id"
+      ]
     },
     {
       "id": 9176,
       "title": "Naisho no Tsubomi",
-      "score": 0.283,
-      "r18": false
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 35906,
       "title": "Silent Manga Audition: Sekai kara Todoita Japanese Manga",
-      "score": 0.265,
-      "r18": false
+      "score": 0.161,
+      "r18": false,
+      "languages": [
+        "tr"
+      ]
     }
   ]
 }

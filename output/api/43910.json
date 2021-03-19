@@ -1,158 +1,261 @@
 {
   "id": 43910,
   "title": "Neko no Te demo Yoroshikereba",
-  "url": "https://api.mangadex.org/v2/manga/43910",
-  "last_updated": "February 11, 2021 16:32:35 UTC",
+  "url": "https://mangadex.org/manga/43910",
+  "last_updated": "March 18, 2021 12:26:58 UTC",
   "matches": [
-    {
-      "id": 54218,
-      "title": "The Lady and the Beast",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 2797,
-      "title": "Le Th&eacute;&acirc;tre de B",
-      "score": 0.675,
-      "r18": false
-    },
     {
       "id": 23780,
       "title": "Makai Senki Disgaea",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 35861,
-      "title": "Techigai Desu ga Heroine Desu",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 36499,
-      "title": "I Was Told to Relinquish My Fianc&eacute; to My Little Sister, and the Greatest Dragon Took a Liking to Me and Unbelievably Took Over the Kingdom",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 53081,
-      "title": "Boxed Garden",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 13959,
-      "title": "E? Heibon Desu yo??",
-      "score": 0.651,
-      "r18": false
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "de",
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 57418,
       "title": "Hazure Potion ga Shouyu datta no de Ryouri suru koto ni shimashita",
-      "score": 0.379,
-      "r18": false
-    },
-    {
-      "id": 47053,
-      "title": "The Shut-in Lady Is an Understanding Sacred Beast Caretaker",
-      "score": 0.376,
-      "r18": false
-    },
-    {
-      "id": 49794,
-      "title": "Another World Where I Can't Even Collapse and Die",
-      "score": 0.368,
-      "r18": false
-    },
-    {
-      "id": 17398,
-      "title": "Daidai Boshi",
-      "score": 0.368,
-      "r18": false
-    },
-    {
-      "id": 50047,
-      "title": "This Unbound World's &quot;Normal&quot; Is Difficult",
-      "score": 0.361,
-      "r18": false
-    },
-    {
-      "id": 31470,
-      "title": "Yami no Moribito",
-      "score": 0.36,
-      "r18": false
-    },
-    {
-      "id": 51593,
-      "title": "The Saintess of Another World Is a P&acirc;tissi&egrave;re",
-      "score": 0.349,
-      "r18": false
-    },
-    {
-      "id": 54696,
-      "title": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
-      "score": 0.346,
-      "r18": false
-    },
-    {
-      "id": 1719,
-      "title": "Mr. Morning",
-      "score": 0.344,
-      "r18": false
-    },
-    {
-      "id": 54086,
-      "title": "Reijou Elizabeth no Kareinaru Migawari Seikatsu",
-      "score": 0.342,
-      "r18": false
-    },
-    {
-      "id": 8621,
-      "title": "Izayakaku",
-      "score": 0.341,
-      "r18": false
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx"
+      ]
     },
     {
       "id": 33225,
       "title": "Akachan Ryuu no Osewagakari ni Ninmei Saremashita",
-      "score": 0.338,
-      "r18": false
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 47568,
-      "title": "Fuyu Fenrir no Itoshigo to Natta Watashi ga, Zetsubou kara Iyasareteiku Hanashi",
-      "score": 0.338,
-      "r18": false
+      "id": 53081,
+      "title": "Boxed Garden",
+      "score": 0.238,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 4719,
-      "title": "Lost - Beasts of Another World",
-      "score": 0.335,
-      "r18": false
+      "id": 36499,
+      "title": "I Was Told to Relinquish My Fianc&eacute; to My Little Sister, and the Greatest Dragon Took a Liking to Me and Unbelievably Took Over the Kingdom",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru",
+        "id",
+        "br"
+      ]
     },
     {
-      "id": 37549,
-      "title": "Herscherik - The Epic of the Reincarnated Prince",
-      "score": 0.33,
-      "r18": false
+      "id": 54086,
+      "title": "Reijou Elizabeth no Kareinaru Migawari Seikatsu",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 2817,
-      "title": "Crimson Empire - Circumstances to Serve a Noble",
-      "score": 0.33,
-      "r18": false
+      "id": 31470,
+      "title": "Yami no Moribito",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg",
+        "ru"
+      ]
+    },
+    {
+      "id": 47053,
+      "title": "The Shut-in Lady Is an Understanding Sacred Beast Caretaker",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "br"
+      ]
+    },
+    {
+      "id": 17398,
+      "title": "Daidai Boshi",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 25624,
+      "title": "Fire Emblem if - Nibelung no Houkan",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "it"
+      ]
     },
     {
       "id": 46413,
       "title": "The Tyrannical Holy King Wants to Dote on the Cheat Girl, but Right Now She's Too Obsessed With Magic!!!",
-      "score": 0.329,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb"
+      ]
+    },
+    {
+      "id": 51593,
+      "title": "The Saintess of Another World Is a P&acirc;tissi&egrave;re",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 54696,
+      "title": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
+      "score": 0.202,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 35861,
+      "title": "Techigai Desu ga Heroine Desu",
+      "score": 0.202,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37549,
+      "title": "Herscherik - The Epic of the Reincarnated Prince",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 50099,
+      "title": "Herscherik R  - The Epic of the Reincarnated Prince",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8621,
+      "title": "Izayakaku",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 52604,
       "title": "Now That I've Been Chosen to Be the Villainess, I'll Show You an Elegant Performance!",
-      "score": 0.321,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 47568,
+      "title": "Fuyu Fenrir no Itoshigo to Natta Watashi ga, Zetsubou kara Iyasareteiku Hanashi",
+      "score": 0.197,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "th"
+      ]
+    },
+    {
+      "id": 4719,
+      "title": "Lost - Beasts of Another World",
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 13959,
+      "title": "E? Heibon Desu yo??",
+      "score": 0.189,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr"
+      ]
+    },
+    {
+      "id": 36829,
+      "title": "Magic Artisan Dahliya Won't Hang Her Head ~A Free Craftsman Life From Now On~",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 48279,
+      "title": "I'll Become a Villainess That Will Go Down in History \u2015 The More of a Villainess I Become, the More the Prince Will Dote on Me",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "ru"
+      ]
+    },
+    {
+      "id": 49794,
+      "title": "Another World Where I Can't Even Collapse and Die",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "br"
+      ]
+    },
+    {
+      "id": 59171,
+      "title": "Lup Sarada",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

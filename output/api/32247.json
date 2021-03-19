@@ -1,38 +1,53 @@
 {
   "id": 32247,
   "title": "Ani Koi",
-  "url": "https://api.mangadex.org/v2/manga/32247",
-  "last_updated": "February 10, 2021 08:32:30 UTC",
+  "url": "https://mangadex.org/manga/32247",
+  "last_updated": "March 18, 2021 10:49:39 UTC",
   "matches": [
     {
       "id": 41950,
       "title": "Change de!",
-      "score": 0.349,
-      "r18": true
+      "score": 0.3,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 56307,
       "title": "Saudade After",
-      "score": 0.265,
-      "r18": true
-    },
-    {
-      "id": 39027,
-      "title": "Giri Giri Sisters",
-      "score": 0.264,
-      "r18": true
+      "score": 0.23,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 46836,
       "title": "Boshi W Soukan",
-      "score": 0.262,
-      "r18": true
+      "score": 0.197,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 47138,
       "title": "HHH Triple H",
-      "score": 0.18,
-      "r18": true
+      "score": 0.16,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 39027,
+      "title": "Giri Giri Sisters",
+      "score": 0.158,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

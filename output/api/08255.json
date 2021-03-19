@@ -2,49 +2,71 @@
   "id": 8255,
   "title": "Otome x Ranbu",
   "url": "https://mangadex.org/manga/8255",
-  "last_updated": "March 14, 2021 20:17:13 UTC",
+  "last_updated": "March 18, 2021 06:55:59 UTC",
   "matches": [
-    {
-      "id": 20623,
-      "title": "Love &amp; Hate (Kurono Yuu)",
-      "score": 0.28,
-      "r18": false
-    },
     {
       "id": 1202,
       "title": "Chronos - DEEP",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "de",
+        "pl",
+        "it"
+      ]
     },
     {
       "id": 15127,
       "title": "Gaitou Alice",
-      "score": 0.2,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 39722,
       "title": "Satsujin Purgatorium",
       "score": 0.175,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 17160,
       "title": "The End of Elysion",
-      "score": 0.14,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 151,
       "title": "Bokura no Kiseki",
       "score": 0.127,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 40778,
       "title": "Cheating Men Must Die",
-      "score": 0.061,
-      "r18": false
+      "score": 0.06,
+      "r18": false,
+      "languages": [
+        "fr",
+        "mx",
+        "id",
+        "gb",
+        "it"
+      ]
     }
   ]
 }

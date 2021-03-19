@@ -1,56 +1,84 @@
 {
   "id": 40809,
   "title": "Lily On The Blade",
-  "url": "https://api.mangadex.org/v2/manga/40809",
-  "last_updated": "February 11, 2021 08:29:18 UTC",
+  "url": "https://mangadex.org/manga/40809",
+  "last_updated": "March 18, 2021 12:01:05 UTC",
   "matches": [
     {
       "id": 8255,
       "title": "Otome x Ranbu",
-      "score": 0.212,
-      "r18": false
+      "score": 0.184,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 10645,
       "title": "Mikagura Gakuen Kumikyoku",
-      "score": 0.212,
-      "r18": false
+      "score": 0.184,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7258,
       "title": "Touhou - Yukari vs. Ran (Doujinshi)",
-      "score": 0.177,
-      "r18": false
+      "score": 0.153,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19277,
       "title": "Touhou - Maiden Illusionary Funeral (Doujinshi)",
-      "score": 0.177,
-      "r18": false
+      "score": 0.153,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 34210,
       "title": "Story of The White Phoenix",
-      "score": 0.151,
-      "r18": false
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 27813,
       "title": "Tetragrammaton Labyrinth",
-      "score": 0.118,
-      "r18": false
+      "score": 0.102,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb"
+      ]
     },
     {
       "id": 127,
       "title": "Soul Eater Not!",
-      "score": 0.106,
-      "r18": false
+      "score": 0.092,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 576,
       "title": "Corpse Party - Blood Covered",
-      "score": 0.096,
-      "r18": false
+      "score": 0.083,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "br"
+      ]
     }
   ]
 }

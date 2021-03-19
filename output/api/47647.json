@@ -1,50 +1,54 @@
 {
   "id": 47647,
   "title": "Ichigeki Nousatsu Satsuki-sensei",
-  "url": "https://api.mangadex.org/v2/manga/47647",
-  "last_updated": "February 12, 2021 01:14:52 UTC",
+  "url": "https://mangadex.org/manga/47647",
+  "last_updated": "March 18, 2021 12:58:12 UTC",
   "matches": [
     {
       "id": 47637,
       "title": "Scarlet Desire",
-      "score": 0.284,
-      "r18": true
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 59921,
       "title": "Super Taboo",
-      "score": 0.24,
-      "r18": true
-    },
-    {
-      "id": 52887,
-      "title": "My Beloved Auntie",
-      "score": 0.205,
-      "r18": true
-    },
-    {
-      "id": 35527,
-      "title": "She Was Cute Before",
-      "score": 0.198,
-      "r18": true
+      "score": 0.213,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 51605,
       "title": "Haha no Hi Boshi Kan 2020",
-      "score": 0.19,
-      "r18": true
+      "score": 0.16,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 50824,
-      "title": "I Massage My Younger Sister Every Night",
-      "score": 0.103,
-      "r18": true
+      "id": 52887,
+      "title": "My Beloved Auntie",
+      "score": 0.16,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 23518,
       "title": "Ne.To.Ge Lovers in Cyber World",
-      "score": 0.08,
-      "r18": true
+      "score": 0.071,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

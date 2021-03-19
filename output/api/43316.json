@@ -1,14 +1,17 @@
 {
   "id": 43316,
   "title": "Adventure Kid",
-  "url": "https://api.mangadex.org/v2/manga/43316",
-  "last_updated": "February 11, 2021 12:38:27 UTC",
+  "url": "https://mangadex.org/manga/43316",
+  "last_updated": "March 18, 2021 12:22:00 UTC",
   "matches": [
     {
       "id": 43333,
       "title": "Urotsukidouji",
-      "score": 0.297,
-      "r18": true
+      "score": 0.183,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

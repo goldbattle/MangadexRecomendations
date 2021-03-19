@@ -2,43 +2,88 @@
   "id": 17893,
   "title": "Onigiri Sasa",
   "url": "https://mangadex.org/manga/17893",
-  "last_updated": "March 15, 2021 21:46:51 UTC",
+  "last_updated": "March 18, 2021 08:33:50 UTC",
   "matches": [
     {
       "id": 49639,
       "title": "Alice no Hanamuko",
       "score": 0.231,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7754,
       "title": "Daiteito Etranger Sousasen",
       "score": 0.228,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 41006,
       "title": "Kagekuri Kitan",
-      "score": 0.222,
-      "r18": false
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb",
+        "mx",
+        "ru"
+      ]
     },
     {
       "id": 2749,
       "title": "Fate/kaleid liner PRISMA\u2606ILLYA 2wei!",
       "score": 0.214,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 14598,
       "title": "My Love Tiger",
       "score": 0.185,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru",
+        "fr",
+        "br"
+      ]
     },
     {
       "id": 12546,
       "title": "Myuu &amp; I",
       "score": 0.168,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29270,
+      "title": "Fairy Tail: 100 Years Quest",
+      "score": 0.154,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "vn",
+        "pl",
+        "br",
+        "sa",
+        "it",
+        "de",
+        "ru",
+        "th",
+        "id"
+      ]
     }
   ]
 }

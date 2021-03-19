@@ -1,158 +1,279 @@
 {
   "id": 43179,
   "title": "Dame Oyaji",
-  "url": "https://api.mangadex.org/v2/manga/43179",
-  "last_updated": "February 11, 2021 12:36:22 UTC",
+  "url": "https://mangadex.org/manga/43179",
+  "last_updated": "March 18, 2021 12:20:51 UTC",
   "matches": [
-    {
-      "id": 5734,
-      "title": "Moteki",
-      "score": 0.737,
-      "r18": false
-    },
-    {
-      "id": 4880,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
-      "score": 0.736,
-      "r18": false
-    },
-    {
-      "id": 1110,
-      "title": "Yokohama Kaidashi Kikou",
-      "score": 0.728,
-      "r18": false
-    },
-    {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.715,
-      "r18": false
-    },
-    {
-      "id": 17256,
-      "title": "Otouto no Otto",
-      "score": 0.712,
-      "r18": false
-    },
-    {
-      "id": 528,
-      "title": "3-gatsu no Lion",
-      "score": 0.707,
-      "r18": false
-    },
-    {
-      "id": 18207,
-      "title": "Chiisakobee",
-      "score": 0.704,
-      "r18": false
-    },
-    {
-      "id": 877,
-      "title": "Ookiku Furikabutte",
-      "score": 0.704,
-      "r18": false
-    },
-    {
-      "id": 4242,
-      "title": "Hyouge Mono",
-      "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 1614,
-      "title": "Aa! Megami-sama!",
-      "score": 0.692,
-      "r18": false
-    },
-    {
-      "id": 52264,
-      "title": "The Two Sides of Seiyuu Radio",
-      "score": 0.691,
-      "r18": false
-    },
-    {
-      "id": 3343,
-      "title": "Moyashimon",
-      "score": 0.689,
-      "r18": false
-    },
     {
       "id": 1912,
       "title": "Saint\u2606Onii-san",
-      "score": 0.689,
-      "r18": false
-    },
-    {
-      "id": 8496,
-      "title": "Sakamoto desu ga?",
-      "score": 0.687,
-      "r18": false
-    },
-    {
-      "id": 2018,
-      "title": "Piano no Mori",
-      "score": 0.686,
-      "r18": false
-    },
-    {
-      "id": 164,
-      "title": "Soredemo Machi wa Mawatteiru",
-      "score": 0.682,
-      "r18": false
-    },
-    {
-      "id": 965,
-      "title": "Uchuu Kyoudai",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 2092,
-      "title": "Gon",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 22832,
-      "title": "(Not) a Househusband",
-      "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 3232,
-      "title": "Yawara!",
-      "score": 0.67,
-      "r18": false
-    },
-    {
-      "id": 17274,
-      "title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
-      "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 1017,
-      "title": "Thermae Romae",
-      "score": 0.669,
-      "r18": false
+      "score": 0.269,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 50232,
       "title": "Atarashii Joushi wa Dotennen",
-      "score": 0.661,
-      "r18": false
+      "score": 0.269,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8496,
+      "title": "Sakamoto desu ga?",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 22832,
+      "title": "(Not) a Househusband",
+      "score": 0.259,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 28792,
+      "title": "Eizouken ni wa Te wo Dasu na!",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "cn",
+        "gb",
+        "mx",
+        "br",
+        "tr"
+      ]
+    },
+    {
+      "id": 17256,
+      "title": "Otouto no Otto",
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "br",
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 18207,
+      "title": "Chiisakobee",
+      "score": 0.238,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 2018,
+      "title": "Piano no Mori",
+      "score": 0.236,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg",
+        "br"
+      ]
+    },
+    {
+      "id": 31348,
+      "title": "Gokushufudou: The Way of the House Husband (Fan Colored)",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 1017,
+      "title": "Thermae Romae",
+      "score": 0.224,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2256,
       "title": "Dragon Zakura",
-      "score": 0.66,
-      "r18": false
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2092,
+      "title": "Gon",
+      "score": 0.219,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg",
+        "tr",
+        "hu"
+      ]
+    },
+    {
+      "id": 5734,
+      "title": "Moteki",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de"
+      ]
+    },
+    {
+      "id": 877,
+      "title": "Ookiku Furikabutte",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr"
+      ]
+    },
+    {
+      "id": 20585,
+      "title": "Like a Laika",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 965,
+      "title": "Uchuu Kyoudai",
+      "score": 0.201,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "pl",
+        "mx"
+      ]
+    },
+    {
+      "id": 52264,
+      "title": "The Two Sides of Seiyuu Radio",
+      "score": 0.201,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 17274,
+      "title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+      "score": 0.196,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "id",
+        "it",
+        "mx",
+        " ",
+        "kr",
+        "ph",
+        "in",
+        "ru",
+        "pl",
+        "sa",
+        "tr"
+      ]
+    },
+    {
+      "id": 3232,
+      "title": "Yawara!",
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 164,
+      "title": "Soredemo Machi wa Mawatteiru",
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 23055,
       "title": "Uchuu Senkan Tiramis&ugrave;",
-      "score": 0.656,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1110,
+      "title": "Yokohama Kaidashi Kikou",
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "es",
+        "br",
+        "fr",
+        "de",
+        "id"
+      ]
+    },
+    {
+      "id": 528,
+      "title": "3-gatsu no Lion",
+      "score": 0.182,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "vn"
+      ]
+    },
+    {
+      "id": 11881,
+      "title": "Dead Dead Demon's Dededede Destruction",
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "tr",
+        "br"
+      ]
+    },
+    {
+      "id": 3343,
+      "title": "Moyashimon",
+      "score": 0.163,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

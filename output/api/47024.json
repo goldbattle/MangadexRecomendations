@@ -1,20 +1,31 @@
 {
   "id": 47024,
   "title": "Onee Loli Succubus",
-  "url": "https://api.mangadex.org/v2/manga/47024",
-  "last_updated": "February 12, 2021 01:04:14 UTC",
+  "url": "https://mangadex.org/manga/47024",
+  "last_updated": "March 18, 2021 12:53:00 UTC",
   "matches": [
     {
       "id": 47835,
       "title": "Daring Little Red Riding Hood and Herbivorous Wolf-chan",
-      "score": 0.712,
-      "r18": false
+      "score": 0.467,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5599,
       "title": "YuruYuri",
-      "score": 0.214,
-      "r18": false
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "es",
+        "br",
+        "pl",
+        "it"
+      ]
     }
   ]
 }

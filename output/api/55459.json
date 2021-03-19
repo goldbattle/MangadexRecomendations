@@ -1,26 +1,37 @@
 {
   "id": 55459,
   "title": "Ie ga Nakunattanode Seme-host ni Kawarerukoto ni Narimashita",
-  "url": "https://api.mangadex.org/v2/manga/55459",
-  "last_updated": "March 12, 2021 20:38:05 UTC",
+  "url": "https://mangadex.org/manga/55459",
+  "last_updated": "March 18, 2021 14:03:32 UTC",
   "matches": [
     {
       "id": 15222,
       "title": "Zero Kyori",
-      "score": 0.686,
-      "r18": false
-    },
-    {
-      "id": 56007,
-      "title": "I Was Reborn as the Villainess' Father and I Need XXX to Survive?!",
-      "score": 0.662,
-      "r18": false
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 21425,
       "title": "Kimi no Yume o Mite Iru",
-      "score": 0.253,
-      "r18": false
+      "score": 0.133,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 56007,
+      "title": "I Was Reborn as the Villainess' Father and I Need XXX to Survive?!",
+      "score": 0.077,
+      "r18": false,
+      "languages": [
+        "mx",
+        "id"
+      ]
     }
   ]
 }

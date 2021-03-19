@@ -1,56 +1,98 @@
 {
   "id": 55183,
   "title": "Between Lips and Teeth",
-  "url": "https://api.mangadex.org/v2/manga/55183",
-  "last_updated": "March 12, 2021 20:34:39 UTC",
+  "url": "https://mangadex.org/manga/55183",
+  "last_updated": "March 18, 2021 14:01:13 UTC",
   "matches": [
-    {
-      "id": 51483,
-      "title": "Breaking Through the Clouds 2: Swallow the Sea",
-      "score": 0.699,
-      "r18": false
-    },
-    {
-      "id": 48042,
-      "title": "Shen Ze",
-      "score": 0.652,
-      "r18": false
-    },
     {
       "id": 48497,
       "title": "Perfect Victim",
-      "score": 0.278,
-      "r18": false
-    },
-    {
-      "id": 40363,
-      "title": "Wilderness Hut",
-      "score": 0.243,
-      "r18": false
-    },
-    {
-      "id": 42419,
-      "title": "Player",
-      "score": 0.198,
-      "r18": false
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr"
+      ]
     },
     {
       "id": 49638,
       "title": "Occult",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 38042,
+      "title": "Nightmare World",
+      "score": 0.163,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mm",
+        "id"
+      ]
+    },
+    {
+      "id": 48042,
+      "title": "Shen Ze",
+      "score": 0.161,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 51483,
+      "title": "Breaking Through the Clouds 2: Swallow the Sea",
+      "score": 0.135,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "mx"
+      ]
+    },
+    {
+      "id": 40363,
+      "title": "Wilderness Hut",
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 45976,
       "title": "Game of Doppelg&auml;nger",
-      "score": 0.17,
-      "r18": false
+      "score": 0.103,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 42419,
+      "title": "Player",
+      "score": 0.072,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 43372,
       "title": "Lockdown No Escape",
-      "score": 0.167,
-      "r18": false
+      "score": 0.051,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     }
   ]
 }

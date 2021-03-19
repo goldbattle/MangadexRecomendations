@@ -2,25 +2,52 @@
   "id": 2024,
   "title": "Hoshikawa Ginza Yonchoume",
   "url": "https://mangadex.org/manga/2024",
-  "last_updated": "March 14, 2021 04:21:24 UTC",
+  "last_updated": "March 18, 2021 05:59:53 UTC",
   "matches": [
     {
       "id": 19021,
       "title": "Yuzumori-san",
       "score": 0.333,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "tr"
+      ]
     },
     {
       "id": 5599,
       "title": "YuruYuri",
-      "score": 0.286,
-      "r18": false
+      "score": 0.285,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "es",
+        "br",
+        "pl",
+        "it"
+      ]
+    },
+    {
+      "id": 23419,
+      "title": "Mikazuki no Carte",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru"
+      ]
     },
     {
       "id": 50463,
       "title": "Touhou - Bears (Doujinshi)",
       "score": 0.22,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -2,31 +2,46 @@
   "id": 22522,
   "title": "Nikujo no Susume",
   "url": "https://mangadex.org/manga/22522",
-  "last_updated": "March 16, 2021 08:31:43 UTC",
+  "last_updated": "March 18, 2021 09:14:22 UTC",
   "matches": [
     {
       "id": 3406,
       "title": "I Want to Feed Yumin",
       "score": 0.375,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 332,
       "title": "Addicted to Curry",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "fr"
+      ]
     },
     {
       "id": 38554,
       "title": "Motoka no Shokudou",
       "score": 0.214,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 36199,
       "title": "Taberu Dake de Level-Up! Damegami to Issho ni Isekai Musou",
       "score": 0.125,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

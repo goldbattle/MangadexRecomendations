@@ -1,158 +1,233 @@
 {
   "id": 32011,
   "title": "Piano Lesson",
-  "url": "https://api.mangadex.org/v2/manga/32011",
-  "last_updated": "February 10, 2021 08:28:59 UTC",
+  "url": "https://mangadex.org/manga/32011",
+  "last_updated": "March 18, 2021 10:47:41 UTC",
   "matches": [
-    {
-      "id": 46711,
-      "title": "Monster's Pupil",
-      "score": 0.496,
-      "r18": true
-    },
     {
       "id": 28430,
       "title": "Ki Yuri - Falling In Love With A Classmate",
-      "score": 0.467,
-      "r18": true
-    },
-    {
-      "id": 29948,
-      "title": "Spring Haze - The Path We Walk On",
-      "score": 0.461,
-      "r18": true
-    },
-    {
-      "id": 28429,
-      "title": "Momo Yuri - Forbidden Sisters",
-      "score": 0.448,
-      "r18": true
-    },
-    {
-      "id": 28428,
-      "title": "Shiro Yuri - Girls Love Paradise",
-      "score": 0.441,
-      "r18": true
-    },
-    {
-      "id": 29953,
-      "title": "Anemone",
-      "score": 0.44,
-      "r18": true
-    },
-    {
-      "id": 28427,
-      "title": "Aka Yuri - Girls Love H",
-      "score": 0.439,
-      "r18": true
-    },
-    {
-      "id": 26344,
-      "title": "Koi wa Hisoka ni Minoraseru Mono",
-      "score": 0.424,
-      "r18": true
+      "score": 0.4,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 24606,
       "title": "Ao no Jidai",
-      "score": 0.42,
-      "r18": true
+      "score": 0.4,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11983,
       "title": "Lesbian",
-      "score": 0.419,
-      "r18": true
+      "score": 0.4,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 32010,
-      "title": "Our Fake Relationship",
-      "score": 0.364,
-      "r18": true
+      "id": 26344,
+      "title": "Koi wa Hisoka ni Minoraseru Mono",
+      "score": 0.4,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 30848,
-      "title": "Gochuumon wa Usagi desu ka? - Amatoro Cocochino Milk (Doujinshi)",
-      "score": 0.362,
-      "r18": true
+      "id": 28429,
+      "title": "Momo Yuri - Forbidden Sisters",
+      "score": 0.4,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 28427,
+      "title": "Aka Yuri - Girls Love H",
+      "score": 0.4,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 28428,
+      "title": "Shiro Yuri - Girls Love Paradise",
+      "score": 0.4,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 46711,
+      "title": "Monster's Pupil",
+      "score": 0.36,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29948,
+      "title": "Spring Haze - The Path We Walk On",
+      "score": 0.346,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29953,
+      "title": "Anemone",
+      "score": 0.345,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 25923,
       "title": "Onee-chan no Kuchibiru",
-      "score": 0.36,
-      "r18": true
+      "score": 0.32,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 26168,
       "title": "Keikakuteki Mama",
-      "score": 0.36,
-      "r18": true
+      "score": 0.32,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 26170,
       "title": "Visitor's Business",
-      "score": 0.36,
-      "r18": true
+      "score": 0.32,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 26171,
       "title": "Yuri Awase",
-      "score": 0.36,
-      "r18": true
+      "score": 0.32,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 26220,
       "title": "Watashi to Osananajimi no...",
-      "score": 0.36,
-      "r18": true
+      "score": 0.32,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 26221,
       "title": "Futarikiri no Natsu. ~secret summer~",
-      "score": 0.36,
-      "r18": true
+      "score": 0.32,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 27266,
       "title": "The One I Love",
-      "score": 0.36,
-      "r18": true
+      "score": 0.32,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 28155,
       "title": "Anata Konomi ni Naritai no",
-      "score": 0.36,
-      "r18": true
+      "score": 0.32,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29800,
       "title": "From Now On, Together With Senpai",
-      "score": 0.36,
-      "r18": true
+      "score": 0.32,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29802,
       "title": "Underground Colosseum Sen",
-      "score": 0.36,
-      "r18": true
-    },
-    {
-      "id": 29804,
-      "title": "Kiss Me! Vampire Girls",
-      "score": 0.36,
-      "r18": true
+      "score": 0.32,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29818,
       "title": "Mousou Bukatsu Shoujo",
-      "score": 0.36,
-      "r18": true
+      "score": 0.32,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29819,
       "title": "The Momoyuri Academy Secret Soapland Club R",
-      "score": 0.36,
-      "r18": true
+      "score": 0.32,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29820,
+      "title": "Secret Yuri Salon",
+      "score": 0.32,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29822,
+      "title": "The Girl Next Door",
+      "score": 0.32,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29824,
+      "title": "Fleurir",
+      "score": 0.32,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

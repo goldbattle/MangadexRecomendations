@@ -1,62 +1,89 @@
 {
   "id": 54574,
   "title": "Is It Alright If I Suck You, Too?",
-  "url": "https://api.mangadex.org/v2/manga/54574",
-  "last_updated": "March 12, 2021 20:27:17 UTC",
+  "url": "https://mangadex.org/manga/54574",
+  "last_updated": "March 18, 2021 13:56:08 UTC",
   "matches": [
     {
       "id": 23857,
       "title": "Anata wo Sutte mo Ii Desu ka?",
-      "score": 0.974,
-      "r18": true
-    },
-    {
-      "id": 32555,
-      "title": "Love &amp; Devil",
-      "score": 0.671,
-      "r18": true
-    },
-    {
-      "id": 45025,
-      "title": "MaMAmama!",
-      "score": 0.656,
-      "r18": true
+      "score": 0.976,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29619,
       "title": "Kigenzen Ichimannen no Ota",
-      "score": 0.35,
-      "r18": true
-    },
-    {
-      "id": 23454,
-      "title": "Tail Chaser",
-      "score": 0.296,
-      "r18": true
+      "score": 0.25,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 53752,
       "title": "&quot;Musume.&quot; no Iru Fuuzoku Biru",
-      "score": 0.271,
-      "r18": true
+      "score": 0.25,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 32555,
+      "title": "Love &amp; Devil",
+      "score": 0.247,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 28613,
       "title": "Oyomesan wa Maou!?",
-      "score": 0.233,
-      "r18": true
+      "score": 0.2,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 23454,
+      "title": "Tail Chaser",
+      "score": 0.18,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 45025,
+      "title": "MaMAmama!",
+      "score": 0.149,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 26314,
       "title": "Mahou Shoujo",
-      "score": 0.14,
-      "r18": true
+      "score": 0.12,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29905,
       "title": "It's Like Chichichichi at Sunohara-sou",
-      "score": 0.1,
-      "r18": true
+      "score": 0.085,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

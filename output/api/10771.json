@@ -2,31 +2,51 @@
   "id": 10771,
   "title": "Susanoou",
   "url": "https://mangadex.org/manga/10771",
-  "last_updated": "March 15, 2021 00:32:33 UTC",
+  "last_updated": "March 18, 2021 07:17:23 UTC",
   "matches": [
     {
       "id": 4930,
       "title": "Devilman G",
       "score": 0.222,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 26401,
       "title": "Jinrouki Winvurga",
-      "score": 0.153,
-      "r18": false
+      "score": 0.152,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 13525,
       "title": "DEAD Tube",
-      "score": 0.108,
-      "r18": false
+      "score": 0.134,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "it",
+        "pl",
+        "de",
+        "sa",
+        "tr"
+      ]
     },
     {
       "id": 29755,
       "title": "Demon War Chronicles",
       "score": 0.086,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

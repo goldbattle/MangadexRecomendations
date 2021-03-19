@@ -1,158 +1,259 @@
 {
   "id": 54892,
   "title": "Ack! It's a toy",
-  "url": "https://api.mangadex.org/v2/manga/54892",
-  "last_updated": "March 12, 2021 20:31:08 UTC",
+  "url": "https://mangadex.org/manga/54892",
+  "last_updated": "March 18, 2021 13:58:47 UTC",
   "matches": [
     {
-      "id": 29901,
-      "title": "Dear Door",
-      "score": 0.655,
-      "r18": false
+      "id": 56332,
+      "title": "Lucky Paradise",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 51494,
       "title": "Love Me Dramatically",
-      "score": 0.38,
-      "r18": false
-    },
-    {
-      "id": 31208,
-      "title": "Hot and Cold",
-      "score": 0.378,
-      "r18": false
-    },
-    {
-      "id": 59268,
-      "title": "Santa Will Always Grant Your Wishes",
-      "score": 0.376,
-      "r18": false
-    },
-    {
-      "id": 56332,
-      "title": "Lucky Paradise",
-      "score": 0.372,
-      "r18": false
-    },
-    {
-      "id": 49862,
-      "title": "The Devil&rsquo;s Temptation",
-      "score": 0.364,
-      "r18": false
-    },
-    {
-      "id": 23544,
-      "title": "Love Is An Illusion",
-      "score": 0.345,
-      "r18": false
-    },
-    {
-      "id": 52515,
-      "title": "4 Week Lovers",
-      "score": 0.341,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 42002,
       "title": "Virus",
-      "score": 0.339,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "tr",
+        "br"
+      ]
     },
     {
-      "id": 42487,
-      "title": "Biting the Tiger",
-      "score": 0.337,
-      "r18": false
+      "id": 59268,
+      "title": "Santa Will Always Grant Your Wishes",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 58667,
-      "title": "Help Me, Teacher",
-      "score": 0.336,
-      "r18": false
+      "id": 48372,
+      "title": "The Good Teacher",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "mx",
+        "tr",
+        "fr"
+      ]
+    },
+    {
+      "id": 23544,
+      "title": "Love Is an Illusion",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "tr",
+        "fr",
+        "id",
+        "gb",
+        "hu",
+        "it",
+        "mx",
+        "br"
+      ]
+    },
+    {
+      "id": 49862,
+      "title": "The Devil&rsquo;s Temptation",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
     },
     {
       "id": 52523,
       "title": "Youthful Obscenity in the Kitchen",
-      "score": 0.331,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 22233,
-      "title": "Make Me Bark",
-      "score": 0.329,
-      "r18": false
+      "id": 47005,
+      "title": "Woof Wolf",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 46426,
       "title": "Duke's Private Tutor",
-      "score": 0.323,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
-      "id": 54598,
-      "title": "Romantical Behind",
-      "score": 0.317,
-      "r18": false
+      "id": 31208,
+      "title": "Hot and Cold",
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
     },
     {
-      "id": 40173,
-      "title": "Hot Summer (star) Vacation",
-      "score": 0.317,
-      "r18": false
+      "id": 58667,
+      "title": "Help Me, Teacher",
+      "score": 0.226,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 42487,
+      "title": "Biting the Tiger",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "fr",
+        "mx"
+      ]
     },
     {
       "id": 50851,
       "title": "Shh, You'll Wake up the Child",
-      "score": 0.312,
-      "r18": false
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 44804,
       "title": "Be Sweet to Me",
-      "score": 0.307,
-      "r18": false
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr"
+      ]
     },
     {
-      "id": 45006,
-      "title": "Gorani Jeon",
-      "score": 0.295,
-      "r18": false
+      "id": 28854,
+      "title": "Snow White BL",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 40173,
+      "title": "Hot Summer (star) Vacation",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 40546,
+      "title": "Isaac's Sheep",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 22233,
+      "title": "Make Me Bark",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "tr",
+        "fr",
+        "br",
+        "es",
+        "hu"
+      ]
     },
     {
       "id": 52653,
       "title": "It's Not Like That",
-      "score": 0.294,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 45006,
+      "title": "Gorani Jeon",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 54598,
+      "title": "Romantical Behind",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
+    },
+    {
+      "id": 58790,
+      "title": "Cannot Help it",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "vn",
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 46289,
       "title": "My Suha",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 56675,
-      "title": "When a Yakuza falls in love",
-      "score": 0.286,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": 52648,
       "title": "Chasing Mr. CEO",
-      "score": 0.284,
-      "r18": false
-    },
-    {
-      "id": 40039,
-      "title": "How to Snag an Alpha",
-      "score": 0.276,
-      "r18": false
-    },
-    {
-      "id": 57981,
-      "title": "A Broken Heart Flows",
-      "score": 0.27,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     }
   ]
 }

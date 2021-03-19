@@ -2,157 +2,238 @@
   "id": 5314,
   "title": "Dhampyr",
   "url": "https://mangadex.org/manga/5314",
-  "last_updated": "March 14, 2021 12:34:34 UTC",
+  "last_updated": "March 18, 2021 06:30:25 UTC",
   "matches": [
     {
       "id": 16171,
       "title": "Raimei no Zaji",
       "score": 0.35,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "fr",
+        "mx"
+      ]
     },
     {
       "id": 15750,
       "title": "Courtesy of Zettai Karen Children -THE UNLIMITED- Hyoubu Kyousuke - WANDERER",
       "score": 0.31,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 10571,
       "title": "Dance in the Vampire Bund - Sledge Hammer no Tsuioku",
       "score": 0.247,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 24761,
       "title": "K - Return of Kings",
       "score": 0.241,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 17149,
       "title": "K - Dream of Green",
-      "score": 0.239,
-      "r18": false
+      "score": 0.238,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 10558,
       "title": "Kaiyorihito Kaiyorishiki",
-      "score": 0.239,
-      "r18": false
+      "score": 0.238,
+      "r18": false,
+      "languages": [
+        "br"
+      ]
     },
     {
       "id": 11198,
       "title": "Daikusei Kuuki Heishidan",
-      "score": 0.237,
-      "r18": false
-    },
-    {
-      "id": 10315,
-      "title": "K - Days of Blue",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 2745,
-      "title": "Togari",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 19551,
-      "title": "Ni Luo Ya - Niraya",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 13900,
-      "title": "Yo-kai Watch",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 27480,
-      "title": "Shinba Shounen to Nemuru Kyojin",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 26387,
-      "title": "Composi!",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 9622,
-      "title": "Jesus x Dogs",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 4961,
-      "title": "Izayoi no Hitomi",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 704,
-      "title": "The Heavenly Prince",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 4583,
-      "title": "Gorgeous Irene",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 11854,
-      "title": "Andromalius",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 48366,
-      "title": "Human Evolution",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 5099,
-      "title": "Touhou - A Flower For The Heart. (Doujinshi)",
-      "score": 0.233,
-      "r18": false
+      "score": 0.236,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6503,
       "title": "Sousei no Aquarion - Mirai Shinwa",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10315,
+      "title": "K - Days of Blue",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2745,
+      "title": "Togari",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de"
+      ]
+    },
+    {
+      "id": 19551,
+      "title": "Ni Luo Ya - Niraya",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 13900,
+      "title": "Yo-kai Watch",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 27480,
+      "title": "Shinba Shounen to Nemuru Kyojin",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 26387,
+      "title": "Composi!",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9622,
+      "title": "Jesus x Dogs",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4961,
+      "title": "Izayoi no Hitomi",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 704,
+      "title": "The Heavenly Prince",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4583,
+      "title": "Gorgeous Irene",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 11854,
+      "title": "Andromalius",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 48366,
+      "title": "Human Evolution",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "br"
+      ]
+    },
+    {
+      "id": 5099,
+      "title": "Touhou - A Flower For The Heart. (Doujinshi)",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5476,
       "title": "SandLand",
       "score": 0.232,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "bg",
+        "gb"
+      ]
     },
     {
       "id": 5812,
       "title": "Kacchu no Senshi Gamu!",
-      "score": 0.23,
-      "r18": false
+      "score": 0.229,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18653,
+      "title": "Zerozaki Kishishiki no Ningen Knock",
+      "score": 0.229,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5107,
       "title": "Hito Hitori Futari",
-      "score": 0.228,
-      "r18": false
-    },
-    {
-      "id": 1600,
-      "title": "Othello",
       "score": 0.227,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -1,134 +1,34 @@
 {
   "id": 54937,
   "title": "Innocent and Evil",
-  "url": "https://api.mangadex.org/v2/manga/54937",
-  "last_updated": "March 12, 2021 20:31:40 UTC",
+  "url": "https://mangadex.org/manga/54937",
+  "last_updated": "March 18, 2021 13:59:09 UTC",
   "matches": [
-    {
-      "id": 38345,
-      "title": "The Surviving",
-      "score": 0.286,
-      "r18": false
-    },
-    {
-      "id": 49899,
-      "title": "Eko Eko Azaraku: Reborn",
-      "score": 0.285,
-      "r18": false
-    },
-    {
-      "id": 50722,
-      "title": "Glotoneria",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 114,
-      "title": "Hellsing",
-      "score": 0.259,
-      "r18": false
-    },
-    {
-      "id": 48042,
-      "title": "Shen Ze",
-      "score": 0.253,
-      "r18": false
-    },
-    {
-      "id": 49638,
-      "title": "Occult",
-      "score": 0.246,
-      "r18": false
-    },
     {
       "id": 45969,
       "title": "Hachigatsu Kokonoka Boku wa Kimi ni Kuwareru.",
-      "score": 0.24,
-      "r18": false
-    },
-    {
-      "id": 51132,
-      "title": "The Devil of the Gods",
-      "score": 0.221,
-      "r18": false
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "br",
+        "id",
+        "gb",
+        "fr",
+        "ru",
+        "mx",
+        "sa"
+      ]
     },
     {
       "id": 18289,
       "title": "Shibito no Koe wo Kiku ga Yoi",
-      "score": 0.22,
-      "r18": false
-    },
-    {
-      "id": 19609,
-      "title": "Demon Knight",
-      "score": 0.214,
-      "r18": false
-    },
-    {
-      "id": 4533,
-      "title": "Otome Youkai Zakuro",
-      "score": 0.211,
-      "r18": false
-    },
-    {
-      "id": 58123,
-      "title": "Culprit Hunt",
-      "score": 0.204,
-      "r18": false
-    },
-    {
-      "id": 40362,
-      "title": "Borderline Bestial Corpse",
-      "score": 0.195,
-      "r18": false
-    },
-    {
-      "id": 14704,
-      "title": "Kyomu Senki",
-      "score": 0.188,
-      "r18": false
-    },
-    {
-      "id": 40363,
-      "title": "Wilderness Hut",
-      "score": 0.184,
-      "r18": false
-    },
-    {
-      "id": 42473,
-      "title": "Haunted (\u30db\u30fc\u30f3\u30c6\u30c3\u30c9)",
-      "score": 0.182,
-      "r18": false
-    },
-    {
-      "id": 45976,
-      "title": "Game of Doppelg&auml;nger",
-      "score": 0.176,
-      "r18": false
-    },
-    {
-      "id": 6645,
-      "title": "Ragouden",
-      "score": 0.167,
-      "r18": false
-    },
-    {
-      "id": 43372,
-      "title": "Lockdown No Escape",
-      "score": 0.159,
-      "r18": false
-    },
-    {
-      "id": 275,
-      "title": "Knight Run",
-      "score": 0.156,
-      "r18": false
-    },
-    {
-      "id": 17317,
-      "title": "Acaria",
-      "score": 0.126,
-      "r18": false
+      "score": 0.115,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
     }
   ]
 }

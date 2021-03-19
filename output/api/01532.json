@@ -2,25 +2,43 @@
   "id": 1532,
   "title": "Alice in Underground",
   "url": "https://mangadex.org/manga/1532",
-  "last_updated": "March 14, 2021 01:15:00 UTC",
+  "last_updated": "March 18, 2021 05:55:41 UTC",
   "matches": [
     {
       "id": 1121,
       "title": "12-ji no Kane ga Naru",
       "score": 0.244,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "de",
+        "pl",
+        "it",
+        "mn",
+        "ct"
+      ]
     },
     {
       "id": 1491,
       "title": "Jeep and Wagon",
       "score": 0.199,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 8953,
       "title": "Kokodake no Himitsu",
-      "score": 0.194,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "pl",
+        "fr",
+        "gb"
+      ]
     }
   ]
 }

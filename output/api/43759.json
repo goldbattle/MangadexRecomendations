@@ -1,14 +1,17 @@
 {
   "id": 43759,
   "title": "GOT7EK",
-  "url": "https://api.mangadex.org/v2/manga/43759",
-  "last_updated": "February 11, 2021 16:30:06 UTC",
+  "url": "https://mangadex.org/manga/43759",
+  "last_updated": "March 18, 2021 12:25:42 UTC",
   "matches": [
     {
       "id": 43388,
       "title": "No Osaka No Life Omnibus",
-      "score": 0.426,
-      "r18": false
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

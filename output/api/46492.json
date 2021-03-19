@@ -1,32 +1,44 @@
 {
   "id": 46492,
   "title": "Inferior Doll",
-  "url": "https://api.mangadex.org/v2/manga/46492",
-  "last_updated": "February 12, 2021 00:54:55 UTC",
+  "url": "https://mangadex.org/manga/46492",
+  "last_updated": "March 18, 2021 12:48:32 UTC",
   "matches": [
-    {
-      "id": 55745,
-      "title": "Gensou Shounen Koimonogatari",
-      "score": 0.752,
-      "r18": false
-    },
-    {
-      "id": 20194,
-      "title": "Getsuei",
-      "score": 0.682,
-      "r18": false
-    },
     {
       "id": 28056,
       "title": "Hakushi no Tsukurishi Inu",
-      "score": 0.499,
-      "r18": false
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 57918,
       "title": "Tsuki no Hikari ni Terasarete",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55745,
+      "title": "Gensou Shounen Koimonogatari",
+      "score": 0.19,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20194,
+      "title": "Getsuei",
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

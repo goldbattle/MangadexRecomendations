@@ -2,55 +2,86 @@
   "id": 20114,
   "title": "Mister Gossip",
   "url": "https://mangadex.org/manga/20114",
-  "last_updated": "March 16, 2021 00:27:06 UTC",
+  "last_updated": "March 18, 2021 08:54:14 UTC",
   "matches": [
     {
       "id": 12779,
       "title": "Tenki Yohou no Koibito",
       "score": 0.248,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "it"
+      ]
     },
     {
       "id": 19909,
       "title": "Irony Dress ni Sayonara",
       "score": 0.248,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 7318,
       "title": "Tsuki wa Yamiyo ni Kakuru ga Gotoku",
-      "score": 0.207,
-      "r18": false
+      "score": 0.206,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 25488,
       "title": "Nobara",
-      "score": 0.207,
-      "r18": false
+      "score": 0.206,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 9319,
       "title": "Brothers",
       "score": 0.177,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "tr",
+        "pl",
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 16295,
       "title": "Kare to Kare no Ijiwaru na Kyori",
       "score": 0.177,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19598,
       "title": "Oboreru Triangle",
       "score": 0.177,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8243,
       "title": "Syrup! [bitter]",
       "score": 0.155,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

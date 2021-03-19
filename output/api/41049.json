@@ -1,68 +1,110 @@
 {
   "id": 41049,
   "title": "She Became Handsome and He Became Cute",
-  "url": "https://api.mangadex.org/v2/manga/41049",
-  "last_updated": "February 11, 2021 08:33:04 UTC",
+  "url": "https://mangadex.org/manga/41049",
+  "last_updated": "March 18, 2021 12:03:05 UTC",
   "matches": [
     {
       "id": 48521,
       "title": "The Fallen TS Girl",
-      "score": 0.233,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "cn",
+        "mx",
+        "br",
+        "id",
+        "fr",
+        "vn",
+        "ru"
+      ]
     },
     {
       "id": 27461,
       "title": "Handsome and Cute",
-      "score": 0.175,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "pl",
+        "mx"
+      ]
     },
     {
       "id": 29484,
       "title": "My Girlfriend Is a Real Man",
-      "score": 0.14,
-      "r18": false
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 37383,
       "title": "Pumpkin Time",
-      "score": 0.14,
-      "r18": false
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 42616,
-      "title": "From 0 to 1 Rebirth",
-      "score": 0.14,
-      "r18": false
-    },
-    {
-      "id": 53953,
-      "title": "Dinner at Night",
-      "score": 0.14,
-      "r18": false
-    },
-    {
-      "id": 19160,
-      "title": "I Am My Wife",
-      "score": 0.117,
-      "r18": false
+      "title": "Rebirth From 0 to 1",
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 23093,
       "title": "CHANGE",
-      "score": 0.117,
-      "r18": false
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "id"
+      ]
+    },
+    {
+      "id": 19160,
+      "title": "I Am My Wife!?",
+      "score": 0.092,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "bd",
+        "br",
+        "es"
+      ]
     },
     {
       "id": 38755,
       "title": "I Only Want To Meet You",
-      "score": 0.1,
-      "r18": false
+      "score": 0.085,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 54065,
       "title": "Take Me Out",
-      "score": 0.087,
-      "r18": false
+      "score": 0.075,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "tr"
+      ]
     }
   ]
 }

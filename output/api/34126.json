@@ -1,26 +1,36 @@
 {
   "id": 34126,
   "title": "Kishi Danchou Kanrakusu",
-  "url": "https://api.mangadex.org/v2/manga/34126",
-  "last_updated": "February 10, 2021 16:23:52 UTC",
+  "url": "https://mangadex.org/manga/34126",
+  "last_updated": "March 18, 2021 11:05:19 UTC",
   "matches": [
     {
       "id": 39812,
       "title": "My Wife is a Prince",
-      "score": 0.35,
-      "r18": true
+      "score": 0.3,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 48549,
       "title": "Sakyubasu \u2640 ni Kyousei Tenshoku Saserareta Ore \u2642",
-      "score": 0.117,
-      "r18": true
+      "score": 0.1,
+      "r18": true,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 32240,
       "title": "Kindan No Ero Trap Board Game -Libidotopia-",
-      "score": 0.087,
-      "r18": true
+      "score": 0.075,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

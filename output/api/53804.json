@@ -2,37 +2,97 @@
   "id": 53804,
   "title": "P@idol M@ster!",
   "url": "https://mangadex.org/manga/53804",
-  "last_updated": "January 16, 2021 06:26:08 UTC",
+  "last_updated": "March 18, 2021 13:49:41 UTC",
   "matches": [
     {
       "id": 51435,
       "title": "Sensei wa Seiyoku o Osaerarenai",
-      "score": 0.71,
-      "r18": false
+      "score": 0.244,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 45021,
       "title": "Onegai, Sukoshi Yasumasete...",
-      "score": 0.662,
-      "r18": false
+      "score": 0.237,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 32507,
       "title": "Bunkou no Hito-tachi",
-      "score": 0.33,
-      "r18": false
+      "score": 0.233,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19935,
       "title": "Hahri's Lumpy Boardhouse",
-      "score": 0.236,
-      "r18": false
+      "score": 0.125,
+      "r18": true,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 50506,
+      "title": "Should I Study at Noryangjin?",
+      "score": 0.125,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59748,
+      "title": "Is There an Empty Room?",
+      "score": 0.125,
+      "r18": true,
+      "languages": [
+        "gb",
+        "it",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 58252,
+      "title": "Love Limit Exceeded",
+      "score": 0.107,
+      "r18": true,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 52213,
+      "title": "Returning Girlfriend",
+      "score": 0.107,
+      "r18": true,
+      "languages": [
+        "gb",
+        "fr",
+        "ru",
+        "br"
+      ]
     },
     {
       "id": 23514,
       "title": "My Office Ladies",
-      "score": 0.207,
-      "r18": false
+      "score": 0.093,
+      "r18": true,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     }
   ]
 }

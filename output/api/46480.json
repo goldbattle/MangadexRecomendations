@@ -1,158 +1,242 @@
 {
   "id": 46480,
   "title": "M no Retsujou",
-  "url": "https://api.mangadex.org/v2/manga/46480",
-  "last_updated": "February 12, 2021 00:54:44 UTC",
+  "url": "https://mangadex.org/manga/46480",
+  "last_updated": "March 18, 2021 12:48:27 UTC",
   "matches": [
     {
-      "id": 12021,
-      "title": "Wild Darling",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 46075,
-      "title": "Hydrangea Cage",
-      "score": 0.493,
-      "r18": false
-    },
-    {
-      "id": 24170,
-      "title": "Hajishirazu na Yoru",
-      "score": 0.491,
-      "r18": false
-    },
-    {
-      "id": 44402,
-      "title": "Sore ni Namae o Tsukeru Nara",
-      "score": 0.488,
-      "r18": false
-    },
-    {
-      "id": 8033,
-      "title": "Priceless Honey",
-      "score": 0.488,
-      "r18": false
-    },
-    {
-      "id": 54031,
-      "title": "Happy Omegaverse",
-      "score": 0.485,
-      "r18": false
-    },
-    {
-      "id": 58995,
-      "title": "Koibito wa Bodyguard",
-      "score": 0.477,
-      "r18": false
-    },
-    {
-      "id": 28988,
-      "title": "Tadoru Yubi",
-      "score": 0.476,
-      "r18": false
-    },
-    {
-      "id": 44907,
-      "title": "Kimi wa Hiniku na KiraKira Boshi",
-      "score": 0.473,
-      "r18": false
-    },
-    {
-      "id": 53194,
-      "title": "Love Seeker",
-      "score": 0.473,
-      "r18": false
-    },
-    {
-      "id": 51824,
-      "title": "Over Squall",
-      "score": 0.472,
-      "r18": false
-    },
-    {
-      "id": 28958,
-      "title": "Junai ni Torawarete",
-      "score": 0.47,
-      "r18": false
-    },
-    {
-      "id": 24144,
-      "title": "Hada Made Aishite",
-      "score": 0.47,
-      "r18": false
-    },
-    {
-      "id": 12638,
-      "title": "Mukizu ja Irarenee",
-      "score": 0.469,
-      "r18": false
+      "id": 12280,
+      "title": "Yuushitessen no Koi",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 17216,
       "title": "Canvas ni Kuchizuke wo",
-      "score": 0.46,
-      "r18": false
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
     },
     {
-      "id": 42989,
-      "title": "Idol-kun wa Abakaretai",
-      "score": 0.459,
-      "r18": false
+      "id": 44402,
+      "title": "Sore ni Namae o Tsukeru Nara",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20212,
       "title": "Kocchi Muite, Ai",
-      "score": 0.457,
-      "r18": false
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
     },
     {
-      "id": 24446,
-      "title": "Shuraba Maker",
-      "score": 0.456,
-      "r18": false
+      "id": 24144,
+      "title": "Hada Made Aishite",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 16999,
-      "title": "When a Man Loves a Man",
-      "score": 0.455,
-      "r18": false
+      "id": 51824,
+      "title": "Over Squall",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 43283,
-      "title": "Last Omegaverse",
-      "score": 0.454,
-      "r18": false
-    },
-    {
-      "id": 45944,
-      "title": "Kyou, Hana no Gotoshi",
-      "score": 0.453,
-      "r18": false
-    },
-    {
-      "id": 56116,
-      "title": "Shujii",
-      "score": 0.452,
-      "r18": false
+      "id": 24170,
+      "title": "Hajishirazu na Yoru",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 14595,
       "title": "Kare no Shousou to Koi ni Tsuite",
-      "score": 0.452,
-      "r18": false
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
     },
     {
-      "id": 54033,
-      "title": "Sex Suruyori Hazukashii Koto",
-      "score": 0.452,
-      "r18": false
+      "id": 58995,
+      "title": "Koibito wa Bodyguard",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8033,
+      "title": "Priceless Honey",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
+    },
+    {
+      "id": 28958,
+      "title": "Junai ni Torawarete",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50743,
+      "title": "Sweet Our 1R",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 46292,
+      "title": "Eien Shika Hoshikunai",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 46075,
+      "title": "Hydrangea Cage",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53194,
+      "title": "Love Seeker",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24446,
+      "title": "Shuraba Maker",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 56116,
+      "title": "Shujii",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 16999,
+      "title": "When a Man Loves a Man",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl",
+        "it"
+      ]
     },
     {
       "id": 15969,
       "title": "Bitch na Neko wa Koukishin ni Katenai",
-      "score": 0.451,
-      "r18": false
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10355,
+      "title": "Yoake e no Senkou",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 57105,
+      "title": "Akuma ni Dakareru",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 43283,
+      "title": "Last Omegaverse",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 15491,
+      "title": "Itoshii, Hito",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 54033,
+      "title": "Sex Suruyori Hazukashii Koto",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 43775,
+      "title": "Ore no Mune de Sake",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

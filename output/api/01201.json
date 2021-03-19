@@ -2,55 +2,87 @@
   "id": 1201,
   "title": "Digopuri",
   "url": "https://mangadex.org/manga/1201",
-  "last_updated": "March 14, 2021 01:09:17 UTC",
+  "last_updated": "March 18, 2021 05:52:46 UTC",
   "matches": [
     {
       "id": 1769,
       "title": "Umibe no Onnanoko",
-      "score": 0.242,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ir"
+      ]
     },
     {
       "id": 832,
       "title": "Boku to Issho",
       "score": 0.229,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11492,
       "title": "Musume no Iede",
       "score": 0.227,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 13233,
       "title": "Hare-Kon",
       "score": 0.226,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "pl",
+        "it",
+        "sa"
+      ]
     },
     {
       "id": 13027,
       "title": "Wagamama Chie-chan",
       "score": 0.207,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 45138,
       "title": "Furin Shokudou",
       "score": 0.207,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 34732,
       "title": "She Likes Homos, Not Me",
       "score": 0.191,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 14677,
       "title": "Tokkaten",
-      "score": 0.156,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

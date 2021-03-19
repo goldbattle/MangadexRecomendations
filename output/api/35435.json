@@ -1,158 +1,263 @@
 {
   "id": 35435,
   "title": "Maigo Center",
-  "url": "https://api.mangadex.org/v2/manga/35435",
-  "last_updated": "February 10, 2021 16:43:36 UTC",
+  "url": "https://mangadex.org/manga/35435",
+  "last_updated": "March 18, 2021 11:16:14 UTC",
   "matches": [
     {
       "id": 19056,
       "title": "Talking Arrogantly",
-      "score": 0.34,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 28508,
       "title": "After an Exorcism",
-      "score": 0.34,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2618,
       "title": "Elemental",
-      "score": 0.255,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 5112,
       "title": "Tobari",
-      "score": 0.255,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 10210,
       "title": "Sakura Omoi",
-      "score": 0.255,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 10487,
       "title": "Getsu in no Onmyouji",
-      "score": 0.255,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 13804,
       "title": "Akai Sato no Tengu",
-      "score": 0.255,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 17268,
       "title": "Tsukigui Youma Taijishi",
-      "score": 0.255,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20895,
       "title": "Ryuukei no Sora",
-      "score": 0.255,
-      "r18": false
-    },
-    {
-      "id": 28799,
-      "title": "Song of the Sea",
-      "score": 0.255,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 31895,
       "title": "Song of Heaven and Earth",
-      "score": 0.255,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 32510,
       "title": "Shiawase wo Anata ni",
-      "score": 0.255,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "fr",
+        "id",
+        "mx"
+      ]
     },
     {
       "id": 35457,
       "title": "Nanika ga Michi wo Soreteyattekuru",
-      "score": 0.255,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "it",
+        "fr",
+        "vn",
+        "es"
+      ]
     },
     {
       "id": 49316,
       "title": "Mermaid Bay",
-      "score": 0.255,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu",
+        "br",
+        "it"
+      ]
     },
     {
       "id": 51368,
       "title": "The Man From the Past",
-      "score": 0.255,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 51402,
       "title": "In the Pocket",
-      "score": 0.255,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 55149,
       "title": "The Children of the Mountain",
-      "score": 0.255,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 57479,
       "title": "Ghost Speaker",
-      "score": 0.255,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 58963,
       "title": "A Lantern's Light",
-      "score": 0.255,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1194,
       "title": "Tengoku no Honya",
-      "score": 0.204,
-      "r18": false
+      "score": 0.167,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de"
+      ]
     },
     {
       "id": 1503,
       "title": "Twisted",
-      "score": 0.204,
-      "r18": false
+      "score": 0.167,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1535,
       "title": "The Vampire and I",
-      "score": 0.204,
-      "r18": false
+      "score": 0.167,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg"
+      ]
     },
     {
       "id": 1537,
       "title": "The End in Common Ruin",
-      "score": 0.204,
-      "r18": false
+      "score": 0.167,
+      "r18": false,
+      "languages": [
+        "bg",
+        "pl",
+        "gb",
+        "ro"
+      ]
     },
     {
       "id": 2073,
       "title": "Shougezhe",
-      "score": 0.204,
-      "r18": false
+      "score": 0.167,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 2477,
       "title": "Tenshi no Wakemae",
-      "score": 0.204,
-      "r18": false
+      "score": 0.167,
+      "r18": false,
+      "languages": [
+        "ua",
+        "pl",
+        "br",
+        "fr",
+        "ro",
+        "gb",
+        "bg"
+      ]
+    },
+    {
+      "id": 2495,
+      "title": "Dr. Psyche",
+      "score": 0.167,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "bg"
+      ]
     }
   ]
 }

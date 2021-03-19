@@ -1,158 +1,258 @@
 {
   "id": 52171,
   "title": "Fumetsu",
-  "url": "https://api.mangadex.org/v2/manga/52171",
-  "last_updated": "February 05, 2021 12:20:01 UTC",
+  "url": "https://mangadex.org/manga/52171",
+  "last_updated": "March 18, 2021 13:36:04 UTC",
   "matches": [
     {
-      "id": 27409,
-      "title": "Hot Mother",
-      "score": 0.657,
-      "r18": false
+      "id": 53753,
+      "title": "Under the Oak Tree",
+      "score": 0.19,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "ru",
+        "br",
+        "hu",
+        "it",
+        "fr"
+      ]
     },
     {
-      "id": 42742,
-      "title": "The Blood of Madam Giselle",
-      "score": 0.347,
-      "r18": false
+      "id": 52880,
+      "title": "Herbalist",
+      "score": 0.19,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 53709,
       "title": "The Gentle Goblin's Bird",
-      "score": 0.331,
-      "r18": false
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "vn",
+        "it"
+      ]
     },
     {
-      "id": 53753,
-      "title": "Under the Oak Tree",
-      "score": 0.312,
-      "r18": false
-    },
-    {
-      "id": 59841,
-      "title": "Elixir of the Sun",
-      "score": 0.302,
-      "r18": false
-    },
-    {
-      "id": 46731,
-      "title": "Wolf Crying Pharmacy",
-      "score": 0.298,
-      "r18": false
-    },
-    {
-      "id": 47152,
-      "title": "Way to the Glory",
-      "score": 0.286,
-      "r18": false
-    },
-    {
-      "id": 44256,
-      "title": "Silly Dog and Lady",
-      "score": 0.285,
-      "r18": false
-    },
-    {
-      "id": 46221,
-      "title": "Pure Love",
-      "score": 0.274,
-      "r18": false
-    },
-    {
-      "id": 55406,
-      "title": "Sultan&rsquo;s Love",
-      "score": 0.273,
-      "r18": false
-    },
-    {
-      "id": 3780,
-      "title": "Kindan no Koi wo Shiyou",
-      "score": 0.27,
-      "r18": false
-    },
-    {
-      "id": 59563,
-      "title": "How I Came To Like My Male Friend",
-      "score": 0.268,
-      "r18": false
-    },
-    {
-      "id": 22757,
-      "title": "Ex-wife of A Billionaire",
-      "score": 0.265,
-      "r18": false
-    },
-    {
-      "id": 1310,
-      "title": "Midnight Secretary",
-      "score": 0.264,
-      "r18": false
-    },
-    {
-      "id": 58074,
-      "title": "The Young Lady Can't Escape From Her Doting Husband \u2661",
-      "score": 0.262,
-      "r18": false
-    },
-    {
-      "id": 53569,
-      "title": "Parasol Protectorate",
-      "score": 0.257,
-      "r18": false
-    },
-    {
-      "id": 4821,
-      "title": "Mangetsu no Yoru ni Akuma no Kiss",
-      "score": 0.255,
-      "r18": false
+      "id": 59922,
+      "title": "Your Majesty Is Mine",
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 51380,
       "title": "Toy Complex",
-      "score": 0.254,
-      "r18": false
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 36333,
-      "title": "Lucia",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 3212,
-      "title": "Love Cruise",
-      "score": 0.249,
-      "r18": false
-    },
-    {
-      "id": 5335,
-      "title": "Anata no Mune ni Kaeru Hi made",
-      "score": 0.246,
-      "r18": false
-    },
-    {
-      "id": 9424,
-      "title": "Erotic Fairy Tales - Red Riding Hood",
-      "score": 0.245,
-      "r18": false
+      "id": 59563,
+      "title": "How I Came to Like My Male Friend",
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 37390,
       "title": "Shouxing Laogong Ye Ye Liao",
-      "score": 0.244,
-      "r18": false
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 44256,
+      "title": "Silly Dog and Lady",
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 40728,
+      "title": "Tensei Danzou Oujo wa Kekkon Aite wo Sagasanai",
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "gb",
+        "th"
+      ]
+    },
+    {
+      "id": 47152,
+      "title": "Way to the Glory",
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 50618,
       "title": "Lost Things",
-      "score": 0.242,
-      "r18": false
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
-      "id": 50399,
-      "title": "Related to Love",
-      "score": 0.236,
-      "r18": false
+      "id": 55406,
+      "title": "Sultan's Love",
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "fr"
+      ]
+    },
+    {
+      "id": 57760,
+      "title": "Totem Realm",
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mn",
+        "id"
+      ]
+    },
+    {
+      "id": 17851,
+      "title": "Arrogance and Romance",
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 46221,
+      "title": "Pure Love",
+      "score": 0.153,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "br"
+      ]
+    },
+    {
+      "id": 3212,
+      "title": "Love Cruise",
+      "score": 0.153,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3780,
+      "title": "Kindan no Koi wo Shiyou",
+      "score": 0.153,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
+    },
+    {
+      "id": 1310,
+      "title": "Midnight Secretary",
+      "score": 0.152,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 4821,
+      "title": "Mangetsu no Yoru ni Akuma no Kiss",
+      "score": 0.151,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4132,
+      "title": "Mitsu Iro Devil",
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5335,
+      "title": "Anata no Mune ni Kaeru Hi made",
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59911,
+      "title": "The Duchess' Lewd Invitation",
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb",
+        "th",
+        "fr"
+      ]
+    },
+    {
+      "id": 11077,
+      "title": "Koiiro Devil",
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59624,
+      "title": "Feliz Navidad: How to Use Men",
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 45811,
+      "title": "Breaking the Rules, and I Have to Do What?! (Official Colored)",
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

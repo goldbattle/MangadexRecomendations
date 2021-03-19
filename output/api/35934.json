@@ -2,19 +2,18 @@
   "id": 35934,
   "title": "Someya Mako no Jansou Meshi",
   "url": "https://mangadex.org/manga/35934",
-  "last_updated": "March 17, 2021 20:19:47 UTC",
+  "last_updated": "March 18, 2021 11:20:23 UTC",
   "matches": [
-    {
-      "id": 29917,
-      "title": "Slow Loop",
-      "score": 0.308,
-      "r18": false
-    },
     {
       "id": 528,
       "title": "3-gatsu no Lion",
       "score": 0.179,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "vn"
+      ]
     }
   ]
 }

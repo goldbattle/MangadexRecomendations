@@ -2,55 +2,86 @@
   "id": 18379,
   "title": "Choudouryoku Mouko Daishuurai",
   "url": "https://mangadex.org/manga/18379",
-  "last_updated": "March 15, 2021 21:54:22 UTC",
+  "last_updated": "March 18, 2021 08:39:45 UTC",
   "matches": [
-    {
-      "id": 17430,
-      "title": "Golosseum",
-      "score": 0.218,
-      "r18": false
-    },
     {
       "id": 33778,
       "title": "Zombie 100 ~Zombie ni Naru Made ni Shitai 100 no Koto~",
       "score": 0.175,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "ru"
+      ]
     },
     {
       "id": 38821,
       "title": "Chronicle of the Searing Winds of Tianzhu",
       "score": 0.161,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "hk",
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 759,
       "title": "Drifters",
       "score": 0.141,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu",
+        "tr",
+        "es"
+      ]
     },
     {
       "id": 24899,
       "title": "Cutie Honey '90",
-      "score": 0.14,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20573,
       "title": "Machigatta Ko wo Mahou Shoujo ni shite shimatta",
       "score": 0.127,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "ru",
+        "tr",
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 7660,
       "title": "Keyman - The Hand of Judgement",
-      "score": 0.1,
-      "r18": false
+      "score": 0.099,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "ru",
+        "fr",
+        "es"
+      ]
     },
     {
       "id": 1400,
       "title": "Eater",
       "score": 0.082,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

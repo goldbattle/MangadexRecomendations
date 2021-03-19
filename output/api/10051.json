@@ -2,49 +2,101 @@
   "id": 10051,
   "title": "Assassin's Creed 4: Black Flag - Kakusei",
   "url": "https://mangadex.org/manga/10051",
-  "last_updated": "March 15, 2021 00:24:12 UTC",
+  "last_updated": "March 18, 2021 07:11:17 UTC",
   "matches": [
     {
       "id": 42751,
       "title": "Chitei Ryokou",
       "score": 0.207,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 18936,
       "title": "Fate/Apocrypha",
       "score": 0.203,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa",
+        "br",
+        "tr",
+        "id"
+      ]
+    },
+    {
+      "id": 41776,
+      "title": "Madou no Keifu",
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "th"
+      ]
     },
     {
       "id": 17917,
       "title": "Hyakuren no Haou to Seiyaku no Ikusa Otome",
-      "score": 0.15,
-      "r18": false
+      "score": 0.162,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 51803,
       "title": "A Villainess? No, a Heinous Young Lady",
       "score": 0.144,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 54282,
       "title": "Hortensia Saga",
-      "score": 0.133,
-      "r18": false
+      "score": 0.132,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 45265,
       "title": "Greatest Boss System",
       "score": 0.115,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "fr",
+        "tr",
+        "th"
+      ]
     },
     {
       "id": 34605,
       "title": "Release That Witch",
-      "score": 0.101,
-      "r18": false
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "br",
+        "id",
+        "tr",
+        "fr",
+        "mx",
+        "ua",
+        "es"
+      ]
     }
   ]
 }

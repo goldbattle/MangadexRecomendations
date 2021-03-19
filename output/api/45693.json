@@ -1,26 +1,31 @@
 {
   "id": 45693,
   "title": "Empress in Turbulent Days",
-  "url": "https://api.mangadex.org/v2/manga/45693",
-  "last_updated": "February 11, 2021 20:29:50 UTC",
+  "url": "https://mangadex.org/manga/45693",
+  "last_updated": "March 18, 2021 12:41:52 UTC",
   "matches": [
     {
       "id": 1859,
       "title": "Anatolia Story",
-      "score": 0.693,
-      "r18": false
-    },
-    {
-      "id": 30281,
-      "title": "The Abandoned Empress",
-      "score": 0.68,
-      "r18": false
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 21430,
       "title": "Shen Yi Di Nu",
-      "score": 0.652,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "tr",
+        "id"
+      ]
     }
   ]
 }

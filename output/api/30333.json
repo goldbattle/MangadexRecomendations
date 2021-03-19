@@ -2,109 +2,267 @@
   "id": 30333,
   "title": "Shougakusei ga Mama demo Ii desu ka?",
   "url": "https://mangadex.org/manga/30333",
-  "last_updated": "January 13, 2021 12:48:41 UTC",
+  "last_updated": "March 18, 2021 10:33:42 UTC",
   "matches": [
     {
-      "id": 38392,
-      "title": "Kaijuu no Tokage",
-      "score": 0.726,
-      "r18": false
-    },
-    {
-      "id": 36767,
-      "title": "The Villainess Will Crush Her Destruction End Through Modern Firepower",
-      "score": 0.717,
-      "r18": false
-    },
-    {
-      "id": 4511,
-      "title": "Ore ga Akuma de, Aitsu ga Yome de",
-      "score": 0.71,
-      "r18": false
+      "id": 44632,
+      "title": "Mangaka-sensei to Zashiki Warashi",
+      "score": 0.271,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 23094,
       "title": "Kunoichi Tsubaki no Mune no Uchi",
-      "score": 0.71,
-      "r18": false
+      "score": 0.254,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "es",
+        "it",
+        "ru"
+      ]
     },
     {
-      "id": 18583,
-      "title": "Ashita wa Doyoubi",
-      "score": 0.709,
-      "r18": false
+      "id": 18045,
+      "title": "Gabriel DropOut",
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "fr",
+        "br",
+        "gb",
+        "ru",
+        "id"
+      ]
     },
     {
-      "id": 57280,
-      "title": "Maou no Jinji",
-      "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 18578,
-      "title": "Mitsuboshi Colors",
-      "score": 0.689,
-      "r18": false
-    },
-    {
-      "id": 5264,
-      "title": "Rizelmine",
-      "score": 0.668,
-      "r18": false
-    },
-    {
-      "id": 2858,
-      "title": "Ichigo Mashimaro",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 37157,
-      "title": "Dark Gathering",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 44632,
-      "title": "Mangaka-sensei to Zashiki Warashi",
-      "score": 0.382,
-      "r18": false
+      "id": 38392,
+      "title": "Kaijuu no Tokage",
+      "score": 0.229,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 50109,
       "title": "I Opened the &quot;Different World Nursery School&quot;  ~The Strongest Loli Spirits Are Deredere by Paternity Skill~",
-      "score": 0.349,
-      "r18": false
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb",
+        "my",
+        "ru"
+      ]
     },
     {
       "id": 39523,
       "title": "2LJK",
-      "score": 0.341,
-      "r18": false
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb"
+      ]
     },
     {
-      "id": 51131,
-      "title": "Koujo Denka no Kateikyoushi",
-      "score": 0.338,
-      "r18": false
-    },
-    {
-      "id": 22863,
-      "title": "Kenshi wo Mezashite Nyuugaku shita no ni Mahou Tekisei 9999 nan desu kedo!?",
-      "score": 0.338,
-      "r18": false
+      "id": 2858,
+      "title": "Ichigo Mashimaro",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 28752,
       "title": "Tottemo Yasashii Amae-chan!",
-      "score": 0.331,
-      "r18": false
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 22863,
+      "title": "Kenshi wo Mezashite Nyuugaku shita no ni Mahou Tekisei 9999 nan desu kedo!?",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx"
+      ]
+    },
+    {
+      "id": 51131,
+      "title": "Koujo Denka no Kateikyoushi",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "vn"
+      ]
+    },
+    {
+      "id": 4511,
+      "title": "Ore ga Akuma de, Aitsu ga Yome de",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "hu"
+      ]
+    },
+    {
+      "id": 18583,
+      "title": "Ashita wa Doyoubi",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "es",
+        "id"
+      ]
+    },
+    {
+      "id": 5264,
+      "title": "Rizelmine",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 59478,
+      "title": "I Want to Teach Marie-sama a Lesson!",
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb",
+        "th"
+      ]
+    },
+    {
+      "id": 58601,
+      "title": "Nina is Plotting My Death!",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "vn",
+        "br"
+      ]
+    },
+    {
+      "id": 18578,
+      "title": "Mitsuboshi Colors",
+      "score": 0.206,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "it",
+        "fr",
+        "ru",
+        "br",
+        "id"
+      ]
+    },
+    {
+      "id": 37157,
+      "title": "Dark Gathering",
+      "score": 0.182,
+      "r18": false,
+      "languages": [
+        "hk",
+        "mx",
+        "vn",
+        "gb"
+      ]
+    },
+    {
+      "id": 55620,
+      "title": "If I Could Take this Collar Off",
+      "score": 0.177,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 57769,
       "title": "Ore, Twintail ni Narimasu. Pai",
-      "score": 0.277,
-      "r18": false
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 26297,
+      "title": "Maou ni Natta node, Dungeon Tsukutte Jingai Musume to Honobono suru",
+      "score": 0.14,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "ru",
+        "es",
+        "fr"
+      ]
+    },
+    {
+      "id": 36767,
+      "title": "The Villainess Will Crush Her Destruction End Through Modern Firepower",
+      "score": 0.138,
+      "r18": false,
+      "languages": [
+        "gb",
+        "th",
+        "br",
+        "ru"
+      ]
+    },
+    {
+      "id": 22843,
+      "title": "Saving 80,000 Gold Coins in the Different World for My Old Age",
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "th",
+        "id",
+        "gb",
+        "tr",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 38955,
+      "title": "Fate/Grand Order: Epic of Remnant: Pseudo-Singularity IV: The Forbidden Advent Garden, Salem - Heretical Salem",
+      "score": 0.103,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "mx",
+        "es",
+        "ru"
+      ]
     }
   ]
 }

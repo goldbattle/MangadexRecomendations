@@ -2,43 +2,44 @@
   "id": 25017,
   "title": "Ore no Shita de Agake",
   "url": "https://mangadex.org/manga/25017",
-  "last_updated": "March 16, 2021 16:26:18 UTC",
+  "last_updated": "March 18, 2021 09:46:35 UTC",
   "matches": [
-    {
-      "id": 1461,
-      "title": "Negai Kanae Tamae",
-      "score": 0.25,
-      "r18": false
-    },
     {
       "id": 25739,
       "title": "Imadoki no Shishunki",
-      "score": 0.25,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20301,
       "title": "Ashita, Shinu",
-      "score": 0.188,
-      "r18": false
-    },
-    {
-      "id": 17003,
-      "title": "Canis",
-      "score": 0.176,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11789,
       "title": "Yami BL (Anthology)",
-      "score": 0.167,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 57844,
       "title": "Kaibutsu Ouji",
-      "score": 0.167,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

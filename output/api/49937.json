@@ -1,20 +1,38 @@
 {
   "id": 49937,
   "title": "Rebirth of Legendary Doctor",
-  "url": "https://api.mangadex.org/v2/manga/49937",
-  "last_updated": "February 05, 2021 08:15:47 UTC",
+  "url": "https://mangadex.org/manga/49937",
+  "last_updated": "March 18, 2021 13:17:25 UTC",
   "matches": [
     {
       "id": 59908,
       "title": "Rebirth Of The Earth Immortal Venerable",
-      "score": 0.663,
-      "r18": false
+      "score": 0.177,
+      "r18": false,
+      "languages": [
+        "id",
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 59992,
+      "title": "The Poisonous Genius Consort is too Arrogant",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb"
+      ]
     },
     {
       "id": 32150,
       "title": "Hippocrate In Another World",
-      "score": 0.282,
-      "r18": false
+      "score": 0.158,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

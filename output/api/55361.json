@@ -1,56 +1,76 @@
 {
   "id": 55361,
   "title": "Kabukichou Bad Trip",
-  "url": "https://api.mangadex.org/v2/manga/55361",
-  "last_updated": "March 12, 2021 20:36:51 UTC",
+  "url": "https://mangadex.org/manga/55361",
+  "last_updated": "March 18, 2021 14:02:43 UTC",
   "matches": [
-    {
-      "id": 25950,
-      "title": "Mayou Otoko",
-      "score": 0.7,
-      "r18": false
-    },
-    {
-      "id": 37532,
-      "title": "Inu mo Arukeba Fallin' Love",
-      "score": 0.686,
-      "r18": false
-    },
     {
       "id": 17735,
       "title": "Koori ga Tokeru no o Matteru",
-      "score": 0.671,
-      "r18": false
-    },
-    {
-      "id": 27242,
-      "title": "Touch Me Again",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 26026,
-      "title": "Henshokuka no Kawaii Akuma",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 50831,
-      "title": "My Purrfect Boss!",
-      "score": 0.359,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 20169,
       "title": "Fukigen Kareshi no Saraikata",
-      "score": 0.339,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 37532,
+      "title": "Inu mo Arukeba Fallin' Love",
+      "score": 0.27,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 26026,
+      "title": "Henshokuka no Kawaii Akuma",
+      "score": 0.224,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 25950,
+      "title": "Mayou Otoko",
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21425,
       "title": "Kimi no Yume o Mite Iru",
-      "score": 0.303,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 27242,
+      "title": "Touch Me Again",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     }
   ]
 }

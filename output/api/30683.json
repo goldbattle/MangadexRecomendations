@@ -2,19 +2,25 @@
   "id": 30683,
   "title": "Ayakashi-kan e Youkoso!",
   "url": "https://mangadex.org/manga/30683",
-  "last_updated": "January 13, 2021 12:52:55 UTC",
+  "last_updated": "March 18, 2021 10:36:37 UTC",
   "matches": [
-    {
-      "id": 45641,
-      "title": "Bakemonogatari - Pachimonogatari (Doujinshi)",
-      "score": 0.167,
-      "r18": false
-    },
     {
       "id": 47922,
       "title": "Itsuka Yume no Tsuzuki o",
-      "score": 0.144,
-      "r18": false
+      "score": 0.128,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 45641,
+      "title": "Bakemonogatari - Pachimonogatari (Doujinshi)",
+      "score": 0.109,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

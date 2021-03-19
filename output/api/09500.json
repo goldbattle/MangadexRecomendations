@@ -2,67 +2,118 @@
   "id": 9500,
   "title": "Miwaku Shikake Amai Wana",
   "url": "https://mangadex.org/manga/9500",
-  "last_updated": "March 15, 2021 00:17:48 UTC",
+  "last_updated": "March 18, 2021 07:06:40 UTC",
   "matches": [
     {
       "id": 36269,
       "title": "Teiou no Amai Wana",
       "score": 0.333,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 45715,
       "title": "Oz no Matenrou",
       "score": 0.287,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
     },
     {
       "id": 12635,
       "title": "Ubawarerukoto Marugoto Zenbu",
       "score": 0.287,
-      "r18": false
-    },
-    {
-      "id": 29659,
-      "title": "Hosik's Story",
-      "score": 0.287,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "pl"
+      ]
     },
     {
       "id": 12856,
       "title": "Aisaretaino",
-      "score": 0.258,
-      "r18": false
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29008,
+      "title": "Katsuai Monster",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 26609,
       "title": "Momo to Manji",
       "score": 0.23,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29108,
       "title": "Three Wolves Mountain",
       "score": 0.23,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 19284,
       "title": "Namida-kun to Namida-chan",
       "score": 0.23,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "vn",
+        "gb"
+      ]
     },
     {
       "id": 30632,
       "title": "Complex",
-      "score": 0.192,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx"
+      ]
     },
     {
       "id": 46008,
       "title": "Sexy Effect 96",
-      "score": 0.192,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 29659,
+      "title": "Hosik's Story",
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "br",
+        "fr"
+      ]
     }
   ]
 }

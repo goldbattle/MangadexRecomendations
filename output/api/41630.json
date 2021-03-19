@@ -1,158 +1,279 @@
 {
   "id": 41630,
   "title": "League of Aces",
-  "url": "https://api.mangadex.org/v2/manga/41630",
-  "last_updated": "February 11, 2021 08:41:52 UTC",
+  "url": "https://mangadex.org/manga/41630",
+  "last_updated": "March 18, 2021 12:07:55 UTC",
   "matches": [
+    {
+      "id": 20257,
+      "title": "Yu Ling Shi",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "fr",
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 18849,
+      "title": "Above the Cloud Sea",
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "id",
+        "mx"
+      ]
+    },
+    {
+      "id": 23001,
+      "title": "Apotheosis &ndash; Ascension to Godhood",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "sa",
+        "br",
+        "fr",
+        "pl",
+        "it"
+      ]
+    },
+    {
+      "id": 58164,
+      "title": "Aragane no Ko",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "hk",
+        "br"
+      ]
+    },
+    {
+      "id": 35867,
+      "title": "Flaming Heaven\uff1aValkyrie",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
+    },
+    {
+      "id": 45148,
+      "title": "Stairs",
+      "score": 0.283,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru",
+        "id",
+        "it"
+      ]
+    },
+    {
+      "id": 37759,
+      "title": "Beautiful Legends",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "ru",
+        "br",
+        "id"
+      ]
+    },
+    {
+      "id": 1925,
+      "title": "Suyojeon",
+      "score": 0.26,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 38339,
+      "title": "Incomparable Demon King",
+      "score": 0.26,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
+    },
+    {
+      "id": 51893,
+      "title": "Imperial Nian Masters",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
     {
       "id": 6872,
       "title": "Tales of Vesperia",
-      "score": 0.751,
-      "r18": false
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br"
+      ]
     },
     {
-      "id": 8325,
-      "title": "Tales of Innocence",
-      "score": 0.735,
-      "r18": false
+      "id": 45549,
+      "title": "Strongest Cultivation System",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 15082,
-      "title": "Tales of Zestiria - Time of Guidance",
-      "score": 0.728,
-      "r18": false
+      "id": 49199,
+      "title": "Endeavor&rsquo;s Cross",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr"
+      ]
     },
     {
-      "id": 23231,
-      "title": "Wu Dong Qian Kun",
-      "score": 0.723,
-      "r18": false
+      "id": 45320,
+      "title": "Ultimate Soldier",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br"
+      ]
     },
     {
-      "id": 1021,
-      "title": "Girls of the Wild's",
-      "score": 0.72,
-      "r18": false
+      "id": 21234,
+      "title": "The Minus Touch",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "sa",
+        "br"
+      ]
     },
     {
-      "id": 21061,
-      "title": "Tales of Berseria",
-      "score": 0.719,
-      "r18": false
+      "id": 46723,
+      "title": "Dragon Ball Super - Digital Colored Comics",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "br",
+        "sa",
+        "gb"
+      ]
     },
     {
-      "id": 21914,
-      "title": "Almadianos Eiyuuden",
-      "score": 0.718,
-      "r18": false
-    },
-    {
-      "id": 8401,
-      "title": "Sword Art Online - Fairy Dance",
-      "score": 0.716,
-      "r18": false
-    },
-    {
-      "id": 4454,
-      "title": "Fire Emblem - Hasha no Tsurugi",
-      "score": 0.716,
-      "r18": false
-    },
-    {
-      "id": 8328,
-      "title": "Tales of Phantasia",
-      "score": 0.715,
-      "r18": false
-    },
-    {
-      "id": 6572,
-      "title": "Kaiouki",
-      "score": 0.715,
-      "r18": false
-    },
-    {
-      "id": 23195,
-      "title": "The Great Ruler",
-      "score": 0.714,
-      "r18": false
-    },
-    {
-      "id": 12009,
-      "title": "Soul Land",
-      "score": 0.712,
-      "r18": false
-    },
-    {
-      "id": 19671,
-      "title": "Sword Art Online - Project Alicization",
-      "score": 0.712,
-      "r18": false
+      "id": 14674,
+      "title": "Desolate Era",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "fr"
+      ]
     },
     {
       "id": 4994,
       "title": "Saint Seiya",
-      "score": 0.711,
-      "r18": false
+      "score": 0.247,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 32046,
-      "title": "After School Exorcism",
-      "score": 0.711,
-      "r18": false
+      "id": 18841,
+      "title": "Ultramarine Magmel",
+      "score": 0.247,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
-      "id": 8396,
-      "title": "Tales of the Abyss - Another Story",
-      "score": 0.711,
-      "r18": false
+      "id": 8679,
+      "title": "Saint Seiya &Omega;",
+      "score": 0.246,
+      "r18": false,
+      "languages": [
+        "fr",
+        "br"
+      ]
     },
     {
-      "id": 34387,
-      "title": "Lonely Attack on the Different World",
-      "score": 0.71,
-      "r18": false
+      "id": 8325,
+      "title": "Tales of Innocence",
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "de"
+      ]
     },
     {
-      "id": 48720,
-      "title": "How to Fight",
-      "score": 0.71,
-      "r18": false
+      "id": 10207,
+      "title": "Saint Seiya - Episode G",
+      "score": 0.244,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 176,
-      "title": "Monster Hunter Orage",
-      "score": 0.71,
-      "r18": false
+      "id": 54090,
+      "title": "Capture the Golem and Escape Poverty",
+      "score": 0.244,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "it"
+      ]
     },
     {
-      "id": 54801,
-      "title": "One Piece Episode A",
-      "score": 0.71,
-      "r18": false
+      "id": 7757,
+      "title": ".hack//G.U.+",
+      "score": 0.243,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 6733,
-      "title": "Full Ahead! Coco",
-      "score": 0.71,
-      "r18": false
-    },
-    {
-      "id": 14578,
-      "title": "Wu Ji Jian Shen",
-      "score": 0.709,
-      "r18": false
-    },
-    {
-      "id": 46608,
-      "title": "Sword Art Online - Lycoris",
-      "score": 0.709,
-      "r18": false
-    },
-    {
-      "id": 38543,
-      "title": "Fights Break Sphere &ndash; Return of the Beasts",
-      "score": 0.708,
-      "r18": false
+      "id": 55908,
+      "title": "One Sword Reigns Supreme",
+      "score": 0.243,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "pl",
+        "br"
+      ]
     }
   ]
 }

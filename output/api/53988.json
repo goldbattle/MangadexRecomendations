@@ -2,37 +2,45 @@
   "id": 53988,
   "title": "Tokyo Yaban Gaiden - Geboku Shounen Bushi",
   "url": "https://mangadex.org/manga/53988",
-  "last_updated": "January 16, 2021 06:27:48 UTC",
+  "last_updated": "March 18, 2021 13:51:14 UTC",
   "matches": [
     {
-      "id": 34891,
-      "title": "Ai wa Kane Nari",
-      "score": 0.697,
-      "r18": false
+      "id": 44586,
+      "title": "Tabetemo Oishiku Arimasen",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 37726,
       "title": "Private Magician",
-      "score": 0.681,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 34891,
+      "title": "Ai wa Kane Nari",
+      "score": 0.184,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 48630,
       "title": "Inma-kun wa Oshigoto Dekinai",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 44586,
-      "title": "Tabetemo Oishiku Arimasen",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 52717,
-      "title": "The Devil and S-13",
-      "score": 0.175,
-      "r18": false
+      "score": 0.179,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

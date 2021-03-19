@@ -1,92 +1,131 @@
 {
   "id": 50169,
   "title": "My Wife Is a Former Hero",
-  "url": "https://api.mangadex.org/v2/manga/50169",
-  "last_updated": "February 05, 2021 08:19:21 UTC",
+  "url": "https://mangadex.org/manga/50169",
+  "last_updated": "March 18, 2021 13:19:21 UTC",
   "matches": [
-    {
-      "id": 43310,
-      "title": "Marvel + JUMP Collaboration",
-      "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 48820,
-      "title": "Toaster Dude",
-      "score": 0.258,
-      "r18": false
-    },
     {
       "id": 50227,
       "title": "Cultivator vs Superhero",
-      "score": 0.23,
-      "r18": false
-    },
-    {
-      "id": 57995,
-      "title": "My sweet archenemy",
-      "score": 0.217,
-      "r18": false
-    },
-    {
-      "id": 12010,
-      "title": "SHADOW - Super Human Assistance Department Office Worker",
-      "score": 0.215,
-      "r18": false
-    },
-    {
-      "id": 45672,
-      "title": "Martial Arts of Demonic Humans",
-      "score": 0.184,
-      "r18": false
-    },
-    {
-      "id": 44575,
-      "title": "Reverse Villain",
-      "score": 0.181,
-      "r18": false
+      "score": 0.153,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 49326,
       "title": "Inverse Hero",
-      "score": 0.18,
-      "r18": false
+      "score": 0.143,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "it"
+      ]
     },
     {
-      "id": 38569,
-      "title": "Zero One Daoist",
-      "score": 0.177,
-      "r18": false
-    },
-    {
-      "id": 45457,
-      "title": "Villain Initialization",
-      "score": 0.176,
-      "r18": false
+      "id": 43310,
+      "title": "Marvel + JUMP Collaboration",
+      "score": 0.11,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "de",
+        "tr",
+        "fr",
+        "ua"
+      ]
     },
     {
       "id": 50058,
       "title": "Zipsa Rangers",
-      "score": 0.174,
-      "r18": false
+      "score": 0.104,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 54614,
-      "title": "Journey to the West",
-      "score": 0.159,
-      "r18": false
-    },
-    {
-      "id": 54065,
-      "title": "Take Me Out",
-      "score": 0.144,
-      "r18": false
+      "id": 45457,
+      "title": "Villain Initialization",
+      "score": 0.096,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr",
+        "pl",
+        "br"
+      ]
     },
     {
       "id": 50115,
       "title": "Otherworld Squad",
-      "score": 0.113,
-      "r18": false
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 38569,
+      "title": "Zero One Daoist",
+      "score": 0.087,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 44575,
+      "title": "Reverse Villain",
+      "score": 0.08,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "ru",
+        "it",
+        "pl",
+        "id"
+      ]
+    },
+    {
+      "id": 54614,
+      "title": "Journey to the West",
+      "score": 0.08,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 45672,
+      "title": "Martial Arts of Demonic Humans",
+      "score": 0.074,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 54065,
+      "title": "Take Me Out",
+      "score": 0.065,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "tr"
+      ]
     }
   ]
 }

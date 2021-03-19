@@ -2,25 +2,49 @@
   "id": 6775,
   "title": "Black Jack",
   "url": "https://mangadex.org/manga/6775",
-  "last_updated": "March 14, 2021 16:34:17 UTC",
+  "last_updated": "March 18, 2021 06:43:31 UTC",
   "matches": [
     {
       "id": 3779,
       "title": "Hokuto no Ken",
-      "score": 0.206,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "fr",
+        "br",
+        "pl"
+      ]
     },
     {
       "id": 429,
       "title": "Shingeki no Kyojin",
       "score": 0.145,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "sa",
+        "gb",
+        "fr",
+        "br",
+        "hu",
+        "ru",
+        "tr",
+        "it",
+        "id",
+        "es",
+        "pl"
+      ]
     },
     {
       "id": 20016,
       "title": "RYOKO",
-      "score": 0.137,
-      "r18": false
+      "score": 0.136,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

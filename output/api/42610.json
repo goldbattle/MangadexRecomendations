@@ -1,158 +1,273 @@
 {
   "id": 42610,
   "title": "Hai Gamer na Imouto to Hajimeru VRMMO Seikatsu",
-  "url": "https://api.mangadex.org/v2/manga/42610",
-  "last_updated": "February 11, 2021 12:27:54 UTC",
+  "url": "https://mangadex.org/manga/42610",
+  "last_updated": "March 18, 2021 12:16:06 UTC",
   "matches": [
-    {
-      "id": 22148,
-      "title": "Infinite Dendrogram",
-      "score": 0.717,
-      "r18": false
-    },
     {
       "id": 36653,
       "title": "Crow Record: Infinite Dendrogram Another",
-      "score": 0.712,
-      "r18": false
+      "score": 0.303,
+      "r18": false,
+      "languages": [
+        "gb",
+        "th"
+      ]
     },
     {
-      "id": 20348,
-      "title": "The King's Avatar",
-      "score": 0.694,
-      "r18": false
+      "id": 22148,
+      "title": "Infinite Dendrogram",
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 12453,
-      "title": "Toaru Ossan no VRMMO Katsudouki",
-      "score": 0.692,
-      "r18": false
+      "id": 24244,
+      "title": "Kuma Kuma Kuma Bear",
+      "score": 0.234,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "ru",
+        "br",
+        "id",
+        "tr"
+      ]
     },
     {
-      "id": 10974,
-      "title": "Full Metal Panic! Another",
-      "score": 0.691,
-      "r18": false
+      "id": 24408,
+      "title": "Rockman EXE",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 47295,
+      "title": "Saisoku Musou no B-kyuu Mahou Tsukai: Ippatsu Utareru Mae ni Senpatsu Uchikaesu!",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 54813,
+      "title": "Lost Universe Special",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 189,
+      "title": "Lost Universe",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr"
+      ]
+    },
+    {
+      "id": 38362,
+      "title": "Koryuu Nara Sude de Taosemasu Kedo, Kore tte Joushiki Janain Desu ka?",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 9619,
+      "title": "Cat's World",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 39328,
+      "title": "Cookie Run: Science Basics",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55871,
+      "title": "Ryuusei no Rockman",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 28905,
+      "title": "Splatoon",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "it",
+        "ru"
+      ]
+    },
+    {
+      "id": 9049,
+      "title": "Choubaku Mahouden Slayers",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 44836,
+      "title": "Kanchigai no Atelier Meister",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 31485,
       "title": "VRMMO de Summoner Hajimemashita",
-      "score": 0.69,
-      "r18": false
-    },
-    {
-      "id": 23842,
-      "title": "EDEN",
-      "score": 0.688,
-      "r18": false
-    },
-    {
-      "id": 52739,
-      "title": "The King's Avatar",
-      "score": 0.687,
-      "r18": false
-    },
-    {
-      "id": 1911,
-      "title": "Infinity Game",
-      "score": 0.687,
-      "r18": false
-    },
-    {
-      "id": 34387,
-      "title": "Lonely Attack on the Different World",
-      "score": 0.687,
-      "r18": false
-    },
-    {
-      "id": 46773,
-      "title": "Overgeared",
-      "score": 0.685,
-      "r18": false
-    },
-    {
-      "id": 14408,
-      "title": "I Am the Only One Who Knows This World Is a Game",
-      "score": 0.685,
-      "r18": false
-    },
-    {
-      "id": 52695,
-      "title": "Isekai Kenja no Tensei Musou ~Geemu no Chishiki de Isekai Saikyou~",
-      "score": 0.684,
-      "r18": false
-    },
-    {
-      "id": 14810,
-      "title": "Only Sense Online",
-      "score": 0.682,
-      "r18": false
-    },
-    {
-      "id": 24374,
-      "title": ".hack//Link - Tasogare no Kishidan",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 13800,
-      "title": "The New Gate",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 42835,
-      "title": "I Will Live Freely in Another World with Equipment Manufacturing Cheat",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 102,
-      "title": "1/2 Prince",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 29329,
-      "title": "Itai no wa Iya nanode Bougyo-Ryoku ni Kyokufuri Shitai to Omoimasu",
-      "score": 0.676,
-      "r18": false
+      "score": 0.219,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "mx"
+      ]
     },
     {
       "id": 57593,
       "title": "Retire Shita Ningyoushi no MMO Kikou Jojishi",
-      "score": 0.673,
-      "r18": false
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx"
+      ]
     },
     {
-      "id": 34196,
-      "title": "Moto Sekai Ichi'i Subchara Ikusei Nikki: Hai Player, Isekai wo Kouryakuchuu!",
-      "score": 0.672,
-      "r18": false
+      "id": 39414,
+      "title": "100-nin no Eiyuu o Sodateta Saikyou Yogensha wa, Boukensha ni Natte mo Sekaijuu no Deshi kara Shitawarete Masu",
+      "score": 0.212,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "mx",
+        "br",
+        "ru",
+        "es",
+        "fr"
+      ]
     },
     {
-      "id": 31002,
-      "title": "Jimi na Kensei wa Sore Demo Saikyou Desu",
-      "score": 0.668,
-      "r18": false
+      "id": 52148,
+      "title": "Shangri-La Frontier ~ Kusoge Hunter, Kamige ni Idoman to su~",
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "mx"
+      ]
+    },
+    {
+      "id": 24592,
+      "title": "Phantasy Star III - Character Book",
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14408,
+      "title": "I Am the Only One Who Knows This World Is a Game",
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id"
+      ]
+    },
+    {
+      "id": 42835,
+      "title": "I Will Live Freely in Another World with Equipment Manufacturing Cheat",
+      "score": 0.206,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
     },
     {
       "id": 22017,
       "title": "Manuke na FPS Player ga Isekai e Ochita Baai",
-      "score": 0.667,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br",
+        "mx",
+        "fr",
+        "ru",
+        "id"
+      ]
     },
     {
-      "id": 13364,
-      "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Daiisshou - Outo no Ichinichi Hen",
-      "score": 0.667,
-      "r18": false
+      "id": 24374,
+      "title": ".hack//Link - Tasogare no Kishidan",
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 39816,
-      "title": "Fantasy Sister!",
-      "score": 0.666,
-      "r18": false
+      "id": 56123,
+      "title": "Hell Mode: Yarikomi Suki no Gamer wa Hai Settei no Isekai de Musou Suru",
+      "score": 0.203,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 49095,
+      "title": "Reverse the Dimension",
+      "score": 0.201,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -1,158 +1,284 @@
 {
   "id": 44923,
   "title": "Tsukushi Biyori",
-  "url": "https://api.mangadex.org/v2/manga/44923",
-  "last_updated": "February 11, 2021 20:17:26 UTC",
+  "url": "https://mangadex.org/manga/44923",
+  "last_updated": "March 18, 2021 12:35:26 UTC",
   "matches": [
     {
-      "id": 870,
-      "title": "Family Compo",
-      "score": 0.699,
-      "r18": false
+      "id": 52951,
+      "title": "Is a Mother in Her 30s Like Me Alright?",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn",
+        "cn",
+        "br"
+      ]
     },
     {
-      "id": 86,
-      "title": "Anedoki",
-      "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 564,
-      "title": "Nagasarete Airantou",
-      "score": 0.691,
-      "r18": false
-    },
-    {
-      "id": 17079,
-      "title": "Kyouhaku DOG's -Another Secret-",
-      "score": 0.689,
-      "r18": false
-    },
-    {
-      "id": 32290,
-      "title": "High Position",
-      "score": 0.688,
-      "r18": false
-    },
-    {
-      "id": 23992,
-      "title": "Yuragi-sou no Yuuna-san - Digital Colored Comics",
-      "score": 0.688,
-      "r18": false
-    },
-    {
-      "id": 1907,
-      "title": "Kono Kanojo wa Fiction desu.",
-      "score": 0.686,
-      "r18": false
-    },
-    {
-      "id": 12850,
-      "title": "Watari-kun no &times;&times; ga Houkai Sunzen",
-      "score": 0.684,
-      "r18": false
-    },
-    {
-      "id": 7700,
-      "title": "Mashiroiro Symphony",
-      "score": 0.683,
-      "r18": false
-    },
-    {
-      "id": 31459,
-      "title": "Arakure Ojousama wa Monmon Shiteiru",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 725,
-      "title": "Hajimete no Aku",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 36647,
-      "title": "Ponkotsu-chan Kenshouchuu",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 5156,
-      "title": "Chokotto Sister",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 626,
-      "title": "Ane Comi",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 7289,
-      "title": "Kuzu no Honkai",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 21854,
-      "title": "Boku no Heya ga Dungeon no Kyuukeijo ni Natteshimatta Ken",
-      "score": 0.675,
-      "r18": false
+      "id": 40961,
+      "title": "Let's Slack Off",
+      "score": 0.318,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "mx",
+        "br"
+      ]
     },
     {
       "id": 5334,
       "title": "Renai Shimasen ka?",
-      "score": 0.674,
-      "r18": false
+      "score": 0.312,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru"
+      ]
     },
     {
-      "id": 6766,
-      "title": "Half &amp; Half",
-      "score": 0.673,
-      "r18": false
+      "id": 408,
+      "title": "Otaku no Musume-san",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
-      "id": 27467,
-      "title": "Ore no Ie ga Maryoku Spot datta Ken &ndash; Sundeiru dake de Sekai Saikyou",
-      "score": 0.672,
-      "r18": false
+      "id": 57475,
+      "title": "I'm the Best Strategy for the Strongest Bastards",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "th"
+      ]
+    },
+    {
+      "id": 41065,
+      "title": "Asanami-san to Shinde mo Ikitai.",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 52324,
+      "title": "The Dark Brown Editor and the Shota Mangaka",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru"
+      ]
+    },
+    {
+      "id": 1624,
+      "title": "Ganota no Onna",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 51011,
+      "title": "Jinja Yell!",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 43370,
+      "title": "Shingeki no Eroko-san",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx"
+      ]
+    },
+    {
+      "id": 47540,
+      "title": "Higyaku Danshi Fujisaki-kun",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6260,
+      "title": "Okusan",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de",
+        "br",
+        "id"
+      ]
+    },
+    {
+      "id": 15331,
+      "title": "Henjo - The Strange Female High-Schooler Amaguri Senko",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn",
+        "hu",
+        "fr",
+        "tr",
+        "id"
+      ]
+    },
+    {
+      "id": 37167,
+      "title": "Sokuochi Mayuri-chan - Pixiv Shorts",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 38634,
+      "title": "Futari Solo Camp",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
+    },
+    {
+      "id": 43632,
+      "title": "Matome Groggy Heaven",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "vn",
+        "gb"
+      ]
+    },
+    {
+      "id": 48896,
+      "title": "Nakayoshi Fuufu no Memorial",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "cn",
+        "gb",
+        "br",
+        "id"
+      ]
+    },
+    {
+      "id": 7363,
+      "title": "La Pomme Prisonniere",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "de",
+        "gb",
+        "bg",
+        "fr",
+        "ru"
+      ]
+    },
+    {
+      "id": 43208,
+      "title": "A Wife Who Heals with Tights",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru",
+        "vn",
+        "tr",
+        "br"
+      ]
+    },
+    {
+      "id": 2944,
+      "title": "Papa no Iukoto wo Kikinasai! -Chronicles of Street Observation Research-",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 59883,
+      "title": "Sabae to Yattara Owaru",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 6430,
       "title": "Onegai Twins",
-      "score": 0.671,
-      "r18": false
+      "score": 0.256,
+      "r18": false,
+      "languages": [
+        "de",
+        "es",
+        "gb"
+      ]
     },
     {
-      "id": 5838,
-      "title": "Akihabara@DEEP",
-      "score": 0.671,
-      "r18": false
+      "id": 5249,
+      "title": "Boku wa Hajikko ga Suki",
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
-      "id": 30,
-      "title": "Sora no Otoshimono",
-      "score": 0.671,
-      "r18": false
+      "id": 5156,
+      "title": "Chokotto Sister",
+      "score": 0.253,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr"
+      ]
     },
     {
-      "id": 4280,
-      "title": "Monster Musume no Iru Nichijou",
-      "score": 0.671,
-      "r18": false
-    },
-    {
-      "id": 651,
-      "title": "Asa made Jugyou Chu!",
-      "score": 0.671,
-      "r18": false
-    },
-    {
-      "id": 30763,
-      "title": "Shishunki Renaissance David-kun",
-      "score": 0.671,
-      "r18": false
+      "id": 31205,
+      "title": "We May Be an Inexperienced Couple but...",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru"
+      ]
     }
   ]
 }

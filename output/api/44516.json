@@ -1,158 +1,287 @@
 {
   "id": 44516,
   "title": "15 Minutes 'Til They Actually Start Dating",
-  "url": "https://api.mangadex.org/v2/manga/44516",
-  "last_updated": "February 11, 2021 16:42:26 UTC",
+  "url": "https://mangadex.org/manga/44516",
+  "last_updated": "March 18, 2021 12:32:02 UTC",
   "matches": [
     {
-      "id": 345,
-      "title": "5 Centimeters Per Second",
-      "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 4615,
-      "title": "Itou-san",
-      "score": 0.657,
-      "r18": false
-    },
-    {
-      "id": 49477,
-      "title": "Tantei wa Mou, Shindeiru",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 20173,
-      "title": "Freezing Colour Edition",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 8495,
-      "title": "Persona 3",
-      "score": 0.65,
-      "r18": false
-    },
-    {
-      "id": 12955,
-      "title": "Mill",
-      "score": 0.65,
-      "r18": false
-    },
-    {
-      "id": 48139,
-      "title": "Otonari Voice Chat",
-      "score": 0.43,
-      "r18": false
-    },
-    {
-      "id": 29976,
-      "title": "Peach Milk Crown",
-      "score": 0.426,
-      "r18": false
-    },
-    {
-      "id": 39490,
-      "title": "Love Letter for my Love Then and Now",
-      "score": 0.421,
-      "r18": false
-    },
-    {
-      "id": 22143,
-      "title": "Jikkyou!! Izumi-kun no Koi Moyou",
-      "score": 0.419,
-      "r18": false
-    },
-    {
-      "id": 40994,
-      "title": "Ookiku Nattara Kekkon Suru!",
-      "score": 0.415,
-      "r18": false
-    },
-    {
-      "id": 26966,
-      "title": "Mobuko no Koi",
-      "score": 0.415,
-      "r18": false
-    },
-    {
-      "id": 7455,
-      "title": "Bamora!",
-      "score": 0.413,
-      "r18": false
-    },
-    {
-      "id": 37498,
-      "title": "Kimi wa Houkago Insomnia",
-      "score": 0.412,
-      "r18": false
-    },
-    {
-      "id": 17199,
-      "title": "Higashi no Kurume to Tonari no Meguru",
-      "score": 0.411,
-      "r18": false
-    },
-    {
-      "id": 47687,
-      "title": "This Chubby Girl Can't Stop Acting Like a Little Devil",
-      "score": 0.41,
-      "r18": false
-    },
-    {
-      "id": 38436,
-      "title": "Himari no Mawari",
-      "score": 0.41,
-      "r18": false
-    },
-    {
-      "id": 875,
-      "title": "Bokura wa Minna Kawai-sou",
-      "score": 0.409,
-      "r18": false
+      "id": 53379,
+      "title": "The Cute One Is You!",
+      "score": 0.358,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru",
+        "br"
+      ]
     },
     {
       "id": 13610,
       "title": "Seifuku Aventure - Chemical Reaction Of High School Students",
-      "score": 0.409,
-      "r18": false
-    },
-    {
-      "id": 9496,
-      "title": "Love Calendar",
-      "score": 0.409,
-      "r18": false
-    },
-    {
-      "id": 1690,
-      "title": "Yashikoh Shodai Seitokai",
-      "score": 0.407,
-      "r18": false
-    },
-    {
-      "id": 37562,
-      "title": "Reiwa Hanamaru Gakuen",
-      "score": 0.405,
-      "r18": false
-    },
-    {
-      "id": 17880,
-      "title": "Mikako-san",
-      "score": 0.405,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 33670,
       "title": "Skip to Loafer",
-      "score": 0.401,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "vn",
+        "mx",
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 12022,
       "title": "Tenshi-chan to Akuma-kun",
-      "score": 0.399,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 463,
+      "title": "Sensen Spike Hills",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 47687,
+      "title": "This Chubby Girl Can't Stop Acting Like a Little Devil",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "mx",
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 12032,
+      "title": "Bocchi na Bokura no Renai Jijou",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "de",
+        "fr",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 17199,
+      "title": "Higashi no Kurume to Tonari no Meguru",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 875,
+      "title": "Bokura wa Minna Kawai-sou",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it",
+        "ru",
+        "id",
+        "pl",
+        "fr"
+      ]
+    },
+    {
+      "id": 29976,
+      "title": "Peach Milk Crown",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 748,
+      "title": "Yesterday wo Utatte",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "cn",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 39490,
+      "title": "Love Letter for my Love Then and Now",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37498,
+      "title": "Kimi wa Houkago Insomnia",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "mx",
+        "fr",
+        "cn"
+      ]
+    },
+    {
+      "id": 445,
+      "title": "Tonari no Kashiwagi-san",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "br",
+        "de",
+        "ru",
+        "id",
+        "it"
+      ]
+    },
+    {
+      "id": 26966,
+      "title": "Mobuko no Koi",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
+    },
+    {
+      "id": 14162,
+      "title": "7 Jikanme no Note",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 32911,
+      "title": "Tonari no Furi-san ga Tonikaku Kowai",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "id",
+        "br"
+      ]
+    },
+    {
+      "id": 7455,
+      "title": "Bamora!",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 6533,
+      "title": "Momorubu",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 23203,
+      "title": "Futari no Jikan",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 37562,
+      "title": "Reiwa Hanamaru Gakuen",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "ru",
+        "br"
+      ]
+    },
+    {
+      "id": 22615,
+      "title": "Onii-chan Is Done For!",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it",
+        "fr",
+        "ru",
+        "id",
+        "mx"
+      ]
+    },
+    {
+      "id": 45076,
+      "title": "Houkago no Tetsugaku-san",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 43622,
+      "title": "Kono Koi wa Fukami-kun no Plan ni wa Nai",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn",
+        "mx",
+        "id"
+      ]
+    },
+    {
+      "id": 51584,
+      "title": "Mizuki-senpai's Love Fortune-Telling",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "br",
+        "ru",
+        "it"
+      ]
     }
   ]
 }

@@ -2,25 +2,36 @@
   "id": 28288,
   "title": "Brandoll",
   "url": "https://mangadex.org/manga/28288",
-  "last_updated": "March 17, 2021 00:38:25 UTC",
+  "last_updated": "March 18, 2021 10:16:38 UTC",
   "matches": [
     {
       "id": 45335,
       "title": "Princess Silver and the Raven",
       "score": 0.151,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 53957,
       "title": "North by Northwest",
-      "score": 0.136,
-      "r18": false
+      "score": 0.125,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "vn"
+      ]
     },
     {
       "id": 17992,
       "title": "Starry Night Club",
       "score": 0.114,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -2,157 +2,297 @@
   "id": 58185,
   "title": "Punderworld",
   "url": "https://mangadex.org/manga/58185",
-  "last_updated": "March 13, 2021 04:19:26 UTC",
+  "last_updated": "March 18, 2021 14:26:18 UTC",
   "matches": [
-    {
-      "id": 42267,
-      "title": "Kimi no Jinsei Zenbu wo Shiawase ni Shite Agetai Hanashi",
-      "score": 0.21,
-      "r18": false
-    },
-    {
-      "id": 44545,
-      "title": "Crescent",
-      "score": 0.21,
-      "r18": false
-    },
-    {
-      "id": 56352,
-      "title": "Crimson Priestess",
-      "score": 0.21,
-      "r18": false
-    },
-    {
-      "id": 20696,
-      "title": "World of Super Sand Box",
-      "score": 0.168,
-      "r18": false
-    },
-    {
-      "id": 37424,
-      "title": "There's Nothing Else to Eat but You",
-      "score": 0.168,
-      "r18": false
-    },
-    {
-      "id": 38551,
-      "title": "Starfall",
-      "score": 0.168,
-      "r18": false
-    },
-    {
-      "id": 38934,
-      "title": "Mire's Corridor",
-      "score": 0.168,
-      "r18": false
-    },
-    {
-      "id": 38987,
-      "title": "Almight Network",
-      "score": 0.168,
-      "r18": false
-    },
-    {
-      "id": 41127,
-      "title": "A Tree Spirit",
-      "score": 0.168,
-      "r18": false
-    },
-    {
-      "id": 41968,
-      "title": "The Ultimate Love Bazaar",
-      "score": 0.168,
-      "r18": false
-    },
-    {
-      "id": 42523,
-      "title": "A Story About a Grandpa and Grandma Who Returned Back to Their Youth",
-      "score": 0.168,
-      "r18": false
-    },
-    {
-      "id": 44736,
-      "title": "The Golden Axe and the Silver Axe ~ The Goddess of the Lake Falls in Love ~",
-      "score": 0.168,
-      "r18": false
-    },
     {
       "id": 44742,
       "title": "The Striking Mage and the Maverick Hero",
-      "score": 0.168,
-      "r18": false
-    },
-    {
-      "id": 51450,
-      "title": "Two People",
-      "score": 0.168,
-      "r18": false
-    },
-    {
-      "id": 51695,
-      "title": "Nymph",
-      "score": 0.168,
-      "r18": false
-    },
-    {
-      "id": 52147,
-      "title": "Netherworld Exchange Group",
-      "score": 0.168,
-      "r18": false
-    },
-    {
-      "id": 52806,
-      "title": "Level 1 Housewife",
-      "score": 0.168,
-      "r18": false
-    },
-    {
-      "id": 53516,
-      "title": "The Two Did Not Make It in Time for Tanabata",
-      "score": 0.168,
-      "r18": false
-    },
-    {
-      "id": 54443,
-      "title": "Girl of Dreams",
-      "score": 0.168,
-      "r18": false
-    },
-    {
-      "id": 54665,
-      "title": "Obey Me!",
-      "score": 0.168,
-      "r18": false
-    },
-    {
-      "id": 57600,
-      "title": "Upon the White Tiger",
-      "score": 0.168,
-      "r18": false
-    },
-    {
-      "id": 22084,
-      "title": "Cat Queen",
-      "score": 0.14,
-      "r18": false
-    },
-    {
-      "id": 25569,
-      "title": "Azure's Forte",
-      "score": 0.14,
-      "r18": false
-    },
-    {
-      "id": 33328,
-      "title": "Living as an Emperor's Fianc&eacute;e",
-      "score": 0.14,
-      "r18": false
+      "score": 0.167,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 34509,
       "title": "King's Concubine",
-      "score": 0.14,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 42523,
+      "title": "A Story About a Grandpa and Grandma Who Returned Back to Their Youth",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "id",
+        "ru",
+        "tr",
+        "mx",
+        "it",
+        "es"
+      ]
+    },
+    {
+      "id": 43047,
+      "title": "The Dragon Prince's Bride",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "br",
+        "ru"
+      ]
+    },
+    {
+      "id": 55490,
+      "title": "Crown Prince, Are You Stupid?",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 57115,
+      "title": "The Witch's Heart",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 14246,
+      "title": "Pok&eacute;mon - Dating a Team Magma Grunt (Doujinshi)",
+      "score": 0.119,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "id",
+        "br"
+      ]
+    },
+    {
+      "id": 34382,
+      "title": "Magickology",
+      "score": 0.119,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br"
+      ]
+    },
+    {
+      "id": 37794,
+      "title": "Ivy King",
+      "score": 0.119,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 37957,
+      "title": "Fianc&eacute;e Be Chosen by the Ring",
+      "score": 0.119,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br"
+      ]
+    },
+    {
+      "id": 41242,
+      "title": "The Library Needs a Witch",
+      "score": 0.119,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "id",
+        "br"
+      ]
+    },
+    {
+      "id": 47171,
+      "title": "Always Be Your Guardian Angel",
+      "score": 0.119,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 51069,
+      "title": "Settia",
+      "score": 0.119,
+      "r18": false,
+      "languages": [
+        "br"
+      ]
+    },
+    {
+      "id": 51162,
+      "title": "Confession Series",
+      "score": 0.119,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "fr",
+        "ru",
+        "mx"
+      ]
+    },
+    {
+      "id": 52305,
+      "title": "Momotarou and the Crimson Demon",
+      "score": 0.119,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 55644,
+      "title": "On Walpurgis night,",
+      "score": 0.119,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 58606,
+      "title": "Beyond The Manhwa",
+      "score": 0.119,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "tr",
+        "fr"
+      ]
+    },
+    {
+      "id": 13641,
+      "title": "Dating was the Easiest",
+      "score": 0.104,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 16490,
+      "title": "Bocchan to Maid",
+      "score": 0.104,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "tr",
+        "id",
+        "mx"
+      ]
+    },
+    {
+      "id": 16498,
+      "title": "Witch Workshop",
+      "score": 0.104,
+      "r18": false,
+      "languages": [
+        "br",
+        "tr"
+      ]
+    },
+    {
+      "id": 23044,
+      "title": "Yuan Zun",
+      "score": 0.104,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "mx",
+        "id"
+      ]
+    },
+    {
+      "id": 26191,
+      "title": "The Portal of Wonderland",
+      "score": 0.104,
+      "r18": false,
+      "languages": [
+        "br",
+        "id",
+        "gb",
+        "ru",
+        "fr"
+      ]
+    },
+    {
+      "id": 31198,
+      "title": "SubZero",
+      "score": 0.104,
+      "r18": false,
+      "languages": [
+        "pl",
+        "br"
+      ]
+    },
+    {
+      "id": 34740,
+      "title": "My Wife Is a Demon Queen",
+      "score": 0.104,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "pt",
+        "mx",
+        "tr",
+        "ru",
+        "id",
+        "pl"
+      ]
+    },
+    {
+      "id": 36918,
+      "title": "By the Way, Dragon Mistress!",
+      "score": 0.104,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "tr",
+        "br"
+      ]
     }
   ]
 }

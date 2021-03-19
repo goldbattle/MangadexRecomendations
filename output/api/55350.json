@@ -1,20 +1,27 @@
 {
   "id": 55350,
   "title": "The Three Kingdoms",
-  "url": "https://api.mangadex.org/v2/manga/55350",
-  "last_updated": "March 12, 2021 20:36:43 UTC",
+  "url": "https://mangadex.org/manga/55350",
+  "last_updated": "March 18, 2021 14:02:37 UTC",
   "matches": [
     {
       "id": 51958,
       "title": "The Devil Knows Your Name",
-      "score": 0.28,
-      "r18": false
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "id"
+      ]
     },
     {
       "id": 47603,
       "title": "For Each Retweet, Two Straight Girls Who Don't Get Along Will Kiss for One Second",
-      "score": 0.256,
-      "r18": false
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "cn",
+        "gb"
+      ]
     }
   ]
 }

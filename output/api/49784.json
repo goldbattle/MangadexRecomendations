@@ -1,158 +1,326 @@
 {
   "id": 49784,
   "title": "Worlds Connection",
-  "url": "https://api.mangadex.org/v2/manga/49784",
-  "last_updated": "February 05, 2021 08:13:13 UTC",
+  "url": "https://mangadex.org/manga/49784",
+  "last_updated": "March 18, 2021 13:16:09 UTC",
   "matches": [
     {
-      "id": 33985,
-      "title": "Densetsu Kousa (Crossover Doujinshi)",
-      "score": 0.683,
-      "r18": false
+      "id": 18849,
+      "title": "Above the Cloud Sea",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "id",
+        "mx"
+      ]
     },
     {
-      "id": 42684,
-      "title": "The Strongest Cheat Player",
-      "score": 0.658,
-      "r18": false
+      "id": 26610,
+      "title": "The Heaven's List",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "es",
+        "id",
+        "pl"
+      ]
     },
     {
-      "id": 46134,
-      "title": "The Peerless Sword God",
-      "score": 0.657,
-      "r18": false
+      "id": 59445,
+      "title": "Terror vs Revival",
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "fr",
+        "sa",
+        "ru"
+      ]
     },
     {
-      "id": 23231,
-      "title": "Wu Dong Qian Kun",
-      "score": 0.652,
-      "r18": false
+      "id": 45148,
+      "title": "Stairs",
+      "score": 0.19,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru",
+        "id",
+        "it"
+      ]
     },
     {
-      "id": 23195,
-      "title": "The Great Ruler",
-      "score": 0.652,
-      "r18": false
+      "id": 21283,
+      "title": "Persona 5",
+      "score": 0.185,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "es"
+      ]
     },
     {
-      "id": 1790,
-      "title": "Arata Kangatari",
-      "score": 0.651,
-      "r18": false
+      "id": 36554,
+      "title": "Gong Heon Ja",
+      "score": 0.185,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "pl",
+        "id",
+        "fr",
+        "sa"
+      ]
     },
     {
-      "id": 38437,
-      "title": "Dragon Ball - DBSP (Doujinshi)",
-      "score": 0.651,
-      "r18": false
+      "id": 33277,
+      "title": "Raid",
+      "score": 0.182,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx",
+        "id",
+        "ru"
+      ]
     },
     {
-      "id": 48343,
-      "title": "City Of Sanctuary",
-      "score": 0.651,
-      "r18": false
+      "id": 32077,
+      "title": "Nine Sun God King",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id",
+        "br",
+        "fr"
+      ]
     },
     {
-      "id": 29558,
-      "title": "JoJo's Bizarre Adventure - Wings of Crime (Doujinshi)",
-      "score": 0.401,
-      "r18": false
+      "id": 31067,
+      "title": "Kuroha to Nijisuke: Kuroki Majo no Divertimento",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "vn",
+        "gb",
+        "it"
+      ]
     },
     {
-      "id": 7344,
-      "title": "Shin Sekai Yori",
-      "score": 0.368,
-      "r18": false
+      "id": 39,
+      "title": "One Piece",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "br",
+        "sa",
+        "it",
+        "fr",
+        "mn",
+        "gb",
+        "ct",
+        "il",
+        "pl",
+        "tr",
+        "id",
+        "mx",
+        "ru",
+        "de",
+        "es",
+        "bg",
+        "vn",
+        "in"
+      ]
     },
     {
-      "id": 1552,
-      "title": "Melty Blood",
-      "score": 0.368,
-      "r18": false
+      "id": 37759,
+      "title": "Beautiful Legends",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "ru",
+        "br",
+        "id"
+      ]
     },
     {
-      "id": 6228,
-      "title": "Kagijin",
-      "score": 0.362,
-      "r18": false
+      "id": 50024,
+      "title": "Changan Fantasy",
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
-      "id": 11700,
-      "title": "Mokushiroku Alice",
-      "score": 0.358,
-      "r18": false
+      "id": 14674,
+      "title": "Desolate Era",
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "fr"
+      ]
     },
     {
-      "id": 5607,
-      "title": "Shin Megami Tensei: Devil Summoner - Kuzunoha Raidou Tai Kodokuno Marebito",
-      "score": 0.357,
-      "r18": false
+      "id": 56004,
+      "title": "Taebaek: The Tutorial Man",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "fr"
+      ]
     },
     {
-      "id": 10207,
-      "title": "Saint Seiya - Episode G",
-      "score": 0.356,
-      "r18": false
+      "id": 53347,
+      "title": "Peerless Saint Emperor",
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
-      "id": 14830,
-      "title": "Toaru Majutsu no Heavy Zashiki Warashi ga Kantan na Satsujinhi no Konkatsu Jijou",
-      "score": 0.356,
-      "r18": false
+      "id": 53731,
+      "title": "Beginning of the Human Age",
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "id"
+      ]
     },
     {
-      "id": 6204,
-      "title": "Devil Devil",
-      "score": 0.355,
-      "r18": false
+      "id": 45200,
+      "title": "Solo Login",
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "id",
+        "pl",
+        "tr",
+        "br"
+      ]
     },
     {
-      "id": 31571,
-      "title": "Black Clover Gaiden: Quartet Knights",
-      "score": 0.355,
-      "r18": false
+      "id": 28558,
+      "title": "Versatile Mage",
+      "score": 0.158,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "br",
+        "fr",
+        "it",
+        "pl",
+        "ru"
+      ]
     },
     {
-      "id": 4994,
-      "title": "Saint Seiya",
-      "score": 0.354,
-      "r18": false
+      "id": 27368,
+      "title": "Ernak",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "fr"
+      ]
     },
     {
-      "id": 1107,
-      "title": "En Passant",
-      "score": 0.353,
-      "r18": false
+      "id": 44638,
+      "title": "Dragon Pulse",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "fr",
+        "br",
+        "id",
+        "gb"
+      ]
     },
     {
-      "id": 28900,
-      "title": "Burn the Witch",
-      "score": 0.352,
-      "r18": false
+      "id": 14702,
+      "title": "Panlong",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "tr",
+        "it",
+        "fr",
+        "ru"
+      ]
     },
     {
-      "id": 10046,
-      "title": "Colossus Order",
-      "score": 0.352,
-      "r18": false
+      "id": 49273,
+      "title": "Legend of the Northern Blade",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "id",
+        "fr",
+        "gb"
+      ]
     },
     {
-      "id": 14749,
-      "title": "Autophagy Regulation",
-      "score": 0.349,
-      "r18": false
+      "id": 49522,
+      "title": "Danwu Supreme",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "id",
+        "fr",
+        "br",
+        "gb"
+      ]
     },
     {
-      "id": 3023,
-      "title": "Hungry Joker",
-      "score": 0.348,
-      "r18": false
+      "id": 36331,
+      "title": "How to Be God",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "pl",
+        "id",
+        "fr"
+      ]
     },
     {
-      "id": 27716,
-      "title": "Freedoomers",
-      "score": 0.347,
-      "r18": false
+      "id": 45428,
+      "title": "Flower War",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     }
   ]
 }

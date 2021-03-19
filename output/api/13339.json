@@ -2,31 +2,53 @@
   "id": 13339,
   "title": "NUDE",
   "url": "https://mangadex.org/manga/13339",
-  "last_updated": "March 15, 2021 08:33:16 UTC",
+  "last_updated": "March 18, 2021 07:39:30 UTC",
   "matches": [
     {
       "id": 19636,
       "title": "8 Tales of the ZQN",
-      "score": 0.15,
-      "r18": false
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 5588,
       "title": "Satanic Sweet",
-      "score": 0.12,
-      "r18": false
+      "score": 0.119,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 13684,
       "title": "Robot",
-      "score": 0.096,
-      "r18": false
+      "score": 0.095,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg",
+        "fr"
+      ]
     },
     {
       "id": 20563,
       "title": "Melancholia",
       "score": 0.044,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "vn",
+        "tr",
+        "hu",
+        "fr"
+      ]
     }
   ]
 }

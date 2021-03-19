@@ -2,157 +2,276 @@
   "id": 1337,
   "title": "Knights of Sidonia",
   "url": "https://mangadex.org/manga/1337",
-  "last_updated": "March 14, 2021 01:11:39 UTC",
+  "last_updated": "March 18, 2021 05:54:02 UTC",
   "matches": [
     {
       "id": 1731,
       "title": "Asobi ni Iku yo!",
       "score": 0.256,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 9064,
       "title": "Infinite Stratos (YUUKI Homura)",
       "score": 0.253,
-      "r18": false
-    },
-    {
-      "id": 37495,
-      "title": "Killing Ghosts",
-      "score": 0.239,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 775,
       "title": "Tsuki Tsuki!",
-      "score": 0.239,
-      "r18": false
+      "score": 0.238,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr"
+      ]
     },
     {
       "id": 523,
       "title": "Unbreakable Machine-Doll",
       "score": 0.236,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "id",
+        "fr"
+      ]
     },
     {
       "id": 10135,
       "title": "Meiyaku no Leviathan",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "pl"
+      ]
     },
     {
       "id": 438,
       "title": "Sekirei",
-      "score": 0.23,
-      "r18": false
+      "score": 0.229,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "pl"
+      ]
     },
     {
       "id": 3113,
       "title": "Maoyuu Maou Yuusha - Oka no Mukou e",
-      "score": 0.23,
-      "r18": false
+      "score": 0.229,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6985,
       "title": "Madan no Ou to Vanadis",
-      "score": 0.229,
-      "r18": false
+      "score": 0.228,
+      "r18": false,
+      "languages": [
+        "fr",
+        "ru",
+        "es",
+        "gb"
+      ]
     },
     {
       "id": 4120,
       "title": "Sai:Taker - Futari no Artemis",
-      "score": 0.227,
-      "r18": false
+      "score": 0.226,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 8862,
       "title": "Maou na Ore to Fushihime no Yubiwa",
-      "score": 0.224,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5838,
       "title": "Akihabara@DEEP",
-      "score": 0.224,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1655,
       "title": "Seikoku no Dragonar",
       "score": 0.222,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "br"
+      ]
     },
     {
       "id": 10504,
       "title": "Magika no Kenshi to Shoukan Maou",
-      "score": 0.222,
-      "r18": false
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "es",
+        "fr",
+        "tr"
+      ]
     },
     {
       "id": 8058,
       "title": "Gakusen Toshi Asterisk",
       "score": 0.221,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 9687,
       "title": "Otogi Taisen Fantasma",
-      "score": 0.221,
-      "r18": false
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 54,
       "title": "Wrestle! The Under Ground",
       "score": 0.22,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 9457,
       "title": "Ochitekita Ryuuou to Horobiyuku Majo no Kuni",
-      "score": 0.22,
-      "r18": false
+      "score": 0.219,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 6933,
       "title": "Seirei Tsukai no Blade Dance",
-      "score": 0.217,
-      "r18": false
+      "score": 0.216,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru"
+      ]
     },
     {
       "id": 3672,
       "title": "Full Metal Panic! &Sigma;",
       "score": 0.215,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "fr"
+      ]
+    },
+    {
+      "id": 9615,
+      "title": "Nejimaki Kagyu",
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18922,
+      "title": "Black Kanojo",
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "br",
+        "mx",
+        "gb",
+        "ru",
+        "id"
+      ]
     },
     {
       "id": 43,
       "title": "Freezing",
-      "score": 0.214,
-      "r18": false
+      "score": 0.213,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "it"
+      ]
     },
     {
       "id": 17000,
       "title": "Sekai no Owari no Encore",
-      "score": 0.213,
-      "r18": false
+      "score": 0.212,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "es",
+        "fr",
+        "br",
+        "id",
+        "ru",
+        "pl"
+      ]
     },
     {
       "id": 7717,
       "title": "Kidou Senshi Gundam Thunderbolt",
-      "score": 0.211,
-      "r18": false
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 47193,
       "title": "Maou Gakuen no Hangyakusha",
-      "score": 0.207,
-      "r18": false
-    },
-    {
-      "id": 9803,
-      "title": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka",
-      "score": 0.205,
-      "r18": false
+      "score": 0.206,
+      "r18": false,
+      "languages": [
+        "br",
+        "id",
+        "gb",
+        "ru"
+      ]
     }
   ]
 }

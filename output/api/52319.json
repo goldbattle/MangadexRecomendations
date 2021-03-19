@@ -1,68 +1,290 @@
 {
   "id": 52319,
   "title": "My Life as Inukai-san's Dog",
-  "url": "https://api.mangadex.org/v2/manga/52319",
-  "last_updated": "February 05, 2021 12:22:30 UTC",
+  "url": "https://mangadex.org/manga/52319",
+  "last_updated": "March 18, 2021 13:37:18 UTC",
   "matches": [
     {
-      "id": 41216,
-      "title": "Cherry Teacher Sakura Naoki (Web Manga)",
-      "score": 0.276,
-      "r18": false
+      "id": 6710,
+      "title": "Inakami",
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 19312,
-      "title": "Nan demo Shite Ageru",
-      "score": 0.23,
-      "r18": false
+      "id": 31019,
+      "title": "The Boy in the All-Girls School",
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "tr",
+        "fr",
+        "mx"
+      ]
     },
     {
-      "id": 41139,
-      "title": "Ookii Kouhai wa Suki Desu ka?",
-      "score": 0.23,
-      "r18": false
+      "id": 3770,
+      "title": "Yamada-kun to 7-nin no Majo",
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "ct",
+        "ru",
+        "gb",
+        "hu"
+      ]
     },
     {
-      "id": 50517,
-      "title": "Hired by a Highschool Eromanga Artist",
-      "score": 0.23,
-      "r18": false
+      "id": 86,
+      "title": "Anedoki",
+      "score": 0.201,
+      "r18": false,
+      "languages": [
+        "de",
+        "pl",
+        "gb"
+      ]
     },
     {
-      "id": 37770,
-      "title": "Iwa kakeru! -Climbing Girls-",
-      "score": 0.197,
-      "r18": false
+      "id": 24595,
+      "title": "The Wild Kingdom",
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 56465,
-      "title": "Hahazuka-san wo &times;&times; ni Shitai",
-      "score": 0.172,
-      "r18": false
+      "id": 1009,
+      "title": "Gamble Fish",
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "ru",
+        "pl",
+        "fr"
+      ]
     },
     {
-      "id": 32893,
-      "title": "Shachiku Succubus no Hanashi",
-      "score": 0.153,
-      "r18": false
+      "id": 51647,
+      "title": "Just a Story About Miyamoto Sakura Being Cute",
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "mx",
+        "id"
+      ]
     },
     {
-      "id": 38480,
-      "title": "Shachiku Succubus no Hanashi (Fan Colored)",
-      "score": 0.126,
-      "r18": false
+      "id": 8732,
+      "title": "Seifuku!",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 43511,
-      "title": "Seiken Gakuin no Maken Tsukai",
-      "score": 0.086,
-      "r18": false
+      "id": 651,
+      "title": "Asa made Jugyou Chu!",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 564,
-      "title": "Nagasarete Airantou",
-      "score": 0.058,
-      "r18": false
+      "id": 905,
+      "title": "Yotsunoha",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2651,
+      "title": "Denpa Kyoushi",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 724,
+      "title": "Pastel",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it",
+        "fr"
+      ]
+    },
+    {
+      "id": 5197,
+      "title": "Otome wa Boku ni Koishiteru",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7238,
+      "title": "Shurabara!",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "pl"
+      ]
+    },
+    {
+      "id": 23515,
+      "title": "Megami-ryou no Ryoubo-kun",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "fr",
+        "ru"
+      ]
+    },
+    {
+      "id": 26936,
+      "title": "Ojousama no Shimobe",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx"
+      ]
+    },
+    {
+      "id": 16041,
+      "title": "Ore ga Ojou-sama Gakkou ni &quot;Shomin Sample&quot; Toshite Spinoff Sareta Ken",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 692,
+      "title": "Open Sesame",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 824,
+      "title": "Nozomi x Kimio",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "mx",
+        "it",
+        "fr"
+      ]
+    },
+    {
+      "id": 10753,
+      "title": "Koi ga Saku Koro Sakura Doki -Charming Scarlet-",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18930,
+      "title": "Hajimete no Gal",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "br",
+        "id",
+        "ru",
+        "mx",
+        "pl",
+        "it"
+      ]
+    },
+    {
+      "id": 655,
+      "title": "Ichigo 100%",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 45939,
+      "title": "Kanojo mo Kanojo",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "ua",
+        "hk",
+        "it",
+        "ru",
+        "mx"
+      ]
+    },
+    {
+      "id": 22900,
+      "title": "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 40241,
+      "title": "Boku ga Yuusha de Maou mo Boku de",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "th",
+        "br",
+        "gb",
+        "mx"
+      ]
     }
   ]
 }

@@ -1,158 +1,254 @@
 {
   "id": 34488,
   "title": "Boku ga Josou Shite Hiite Mitara Baresou na Ken",
-  "url": "https://api.mangadex.org/v2/manga/34488",
-  "last_updated": "February 10, 2021 16:29:26 UTC",
+  "url": "https://mangadex.org/manga/34488",
+  "last_updated": "March 18, 2021 11:08:20 UTC",
   "matches": [
-    {
-      "id": 2496,
-      "title": "Aoharu x Kikanjuu",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 18,
-      "title": "Prunus Girl",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 20316,
-      "title": "Rokudou no Onna-tachi",
-      "score": 0.652,
-      "r18": false
-    },
     {
       "id": 4637,
       "title": "THE iDOLM@STER Neue Green for Dearly Stars",
-      "score": 0.37,
-      "r18": false
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2796,
       "title": "Otokonoko wa Maid Fuku ga Osuki!?",
-      "score": 0.301,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3742,
       "title": "White Dragon",
-      "score": 0.292,
-      "r18": false
-    },
-    {
-      "id": 2490,
-      "title": "Idol A",
-      "score": 0.283,
-      "r18": false
-    },
-    {
-      "id": 7746,
-      "title": "Omaera Minna Damasareteiru!",
-      "score": 0.278,
-      "r18": false
-    },
-    {
-      "id": 14122,
-      "title": "Stop!! Hibari-kun!",
-      "score": 0.272,
-      "r18": false
-    },
-    {
-      "id": 18132,
-      "title": "Seitokai Fukukaichou Yagami Sayuri wa Ganbatte Iru!",
-      "score": 0.27,
-      "r18": false
-    },
-    {
-      "id": 11860,
-      "title": "HEROINIC HERO",
-      "score": 0.269,
-      "r18": false
-    },
-    {
-      "id": 23949,
-      "title": "Adesugata Junjou Boy",
-      "score": 0.266,
-      "r18": false
-    },
-    {
-      "id": 3087,
-      "title": "Aku no Meshitsukai",
-      "score": 0.266,
-      "r18": false
-    },
-    {
-      "id": 722,
-      "title": "Kunisaki Izumo no Jijou",
-      "score": 0.26,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 46323,
       "title": "The Story About My Ex-Girlfriend's Younger Brother Being Cute",
-      "score": 0.257,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 43305,
-      "title": "Mission In Harem",
-      "score": 0.248,
-      "r18": false
+      "id": 11860,
+      "title": "HEROINIC HERO",
+      "score": 0.177,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11130,
       "title": "Alice Royale",
-      "score": 0.248,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 2597,
-      "title": "Sayonara Football",
-      "score": 0.247,
-      "r18": false
+      "id": 2490,
+      "title": "Idol A",
+      "score": 0.157,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 46105,
-      "title": "Okaeri Alice",
-      "score": 0.246,
-      "r18": false
+      "id": 45049,
+      "title": "Tomodachi ga Skirt haite mitai tte Itte kita Ken",
+      "score": 0.151,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "id",
+        "es"
+      ]
     },
     {
-      "id": 14569,
-      "title": "Ookami Shounen wa Kyou mo Uso o Kasaneru",
-      "score": 0.243,
-      "r18": false
+      "id": 23949,
+      "title": "Adesugata Junjou Boy",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 195,
-      "title": "Tripeace",
-      "score": 0.242,
-      "r18": false
+      "id": 722,
+      "title": "Kunisaki Izumo no Jijou",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18132,
+      "title": "Seitokai Fukukaichou Yagami Sayuri wa Ganbatte Iru!",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "es"
+      ]
     },
     {
       "id": 11649,
       "title": "Gakumon! School of Monsters",
-      "score": 0.233,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7746,
+      "title": "Omaera Minna Damasareteiru!",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59864,
+      "title": "Niizuma Danshi",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
+    },
+    {
+      "id": 14122,
+      "title": "Stop!! Hibari-kun!",
+      "score": 0.147,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "tr"
+      ]
+    },
+    {
+      "id": 2597,
+      "title": "Sayonara Football",
+      "score": 0.142,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2496,
+      "title": "Aoharu x Kikanjuu",
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 38914,
+      "title": "Nibiiro no Chameleon",
+      "score": 0.125,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 23263,
       "title": "Trap Heroine",
-      "score": 0.233,
-      "r18": false
+      "score": 0.125,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 4192,
-      "title": "It Vorspiel",
-      "score": 0.232,
-      "r18": false
+      "id": 3087,
+      "title": "Aku no Meshitsukai",
+      "score": 0.125,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 29840,
       "title": "Fukakai na Boku no Subete o",
-      "score": 0.224,
-      "r18": false
+      "score": 0.125,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "id"
+      ]
+    },
+    {
+      "id": 46105,
+      "title": "Welcome Back Alice",
+      "score": 0.125,
+      "r18": false,
+      "languages": [
+        "br",
+        "fr",
+        "gb",
+        "hk",
+        "id"
+      ]
+    },
+    {
+      "id": 4192,
+      "title": "It Vorspiel",
+      "score": 0.125,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 28432,
+      "title": "About Getting Asked Out by the Biggest Misogynist in School",
+      "score": 0.125,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 43305,
+      "title": "Mission In Harem",
+      "score": 0.125,
+      "r18": false,
+      "languages": [
+        "id",
+        "fr",
+        "gb"
+      ]
     }
   ]
 }

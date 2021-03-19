@@ -1,158 +1,242 @@
 {
   "id": 35219,
   "title": "Flowers &amp; Thorns",
-  "url": "https://api.mangadex.org/v2/manga/35219",
-  "last_updated": "February 10, 2021 16:40:28 UTC",
+  "url": "https://mangadex.org/manga/35219",
+  "last_updated": "March 18, 2021 11:14:26 UTC",
   "matches": [
     {
       "id": 12789,
       "title": "Vespa",
-      "score": 0.24,
-      "r18": false
+      "score": 0.213,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 31178,
       "title": "Aikatsu! - Does Snow White's Dream End Happily Ever After? (Doujinshi)",
-      "score": 0.24,
-      "r18": false
+      "score": 0.213,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 49439,
       "title": "The Forest Where the Goddess Lives",
-      "score": 0.24,
-      "r18": false
+      "score": 0.213,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 53733,
       "title": "The Struggle-Free Life of the Witch's Sacrifice",
-      "score": 0.24,
-      "r18": false
-    },
-    {
-      "id": 56630,
-      "title": "6th",
-      "score": 0.24,
-      "r18": false
+      "score": 0.213,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru"
+      ]
     },
     {
       "id": 4882,
       "title": "Mahou Shoujo Madoka\u2605Magica - AnAn SayaSaya (Doujinshi)",
-      "score": 0.18,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5380,
       "title": "Touhou - MA (Doujinshi)",
-      "score": 0.18,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6724,
       "title": "Weise Frau",
-      "score": 0.18,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 23724,
+      "title": "Touhou - Vector Spectacle (Doujinshi)",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 24724,
       "title": "Tsuki ga Kirei Desu ne",
-      "score": 0.18,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn"
+      ]
     },
     {
       "id": 29744,
       "title": "Touhou - Oborotsuki no Ai (Doujinshi)",
-      "score": 0.18,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 34694,
       "title": "Karura",
-      "score": 0.18,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 48821,
       "title": "Touhou - TWINSPARK! (Doujinshi)",
-      "score": 0.18,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 49731,
       "title": "The Witches and Their Dear Apprentice",
-      "score": 0.18,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 53156,
       "title": "Witches' Marriage",
-      "score": 0.18,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 59627,
       "title": "Hero's Marriage",
-      "score": 0.18,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 4784,
       "title": "Shuumatsu no Maristella",
-      "score": 0.144,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5119,
       "title": "Touhou - Petite (Doujinshi)",
-      "score": 0.144,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 14256,
       "title": "Touhou - Grand Guignol (Doujinshi)",
-      "score": 0.144,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 14565,
       "title": "Touhou - MariAri ga Kosodate wo Suru Hanashi (Doujinshi)",
-      "score": 0.144,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22889,
       "title": "Alice Sherlock: The Rubious Nebula",
-      "score": 0.144,
-      "r18": false
-    },
-    {
-      "id": 23862,
-      "title": "Bocchi Kaibutsu to Moumoku Shoujo",
-      "score": 0.144,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 31691,
       "title": "Maid in a Dream",
-      "score": 0.144,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 35220,
       "title": "Succuba &amp; Siren",
-      "score": 0.144,
-      "r18": false
-    },
-    {
-      "id": 49012,
-      "title": "Witch Guild Fantasia",
-      "score": 0.144,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 52971,
       "title": "Touhou - Kanofuku! (Doujinshi)",
-      "score": 0.144,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53157,
+      "title": "The Married Moon and Sun",
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55360,
+      "title": "Touhou - Relentless Repo Writer (Doujinshi)",
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "br"
+      ]
     }
   ]
 }

@@ -1,158 +1,252 @@
 {
   "id": 40656,
   "title": "The Devil Eats Love",
-  "url": "https://api.mangadex.org/v2/manga/40656",
-  "last_updated": "February 11, 2021 08:26:59 UTC",
+  "url": "https://mangadex.org/manga/40656",
+  "last_updated": "March 18, 2021 11:59:48 UTC",
   "matches": [
-    {
-      "id": 39469,
-      "title": "Devil Wants to Hug",
-      "score": 0.692,
-      "r18": false
-    },
     {
       "id": 52744,
       "title": "Demon King, your big brother wants you home for dinner.",
-      "score": 0.673,
-      "r18": false
-    },
-    {
-      "id": 22954,
-      "title": "This Can't Be Love",
-      "score": 0.673,
-      "r18": false
-    },
-    {
-      "id": 55690,
-      "title": "Your Dream Is Delicious",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 39203,
-      "title": "Other's Romance",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 42244,
-      "title": "A Witch's Hopeless Wish",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 22334,
-      "title": "The Strange Story Of A Guy Next Door And A Novelist",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 45628,
-      "title": "Heaven Official's Blessing",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 42236,
-      "title": "Heaven Official's Blessing (old version)",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 30354,
-      "title": "Digitalis",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 49083,
-      "title": "Angel's Use",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 54659,
-      "title": "Between the Devil and Me",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 43925,
-      "title": "Reapers Don't Love",
-      "score": 0.415,
-      "r18": false
-    },
-    {
-      "id": 56615,
-      "title": "The way to appeal to the Devil",
-      "score": 0.398,
-      "r18": false
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 47590,
       "title": "In or Out",
-      "score": 0.395,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
-      "id": 45905,
-      "title": "The Art of Taming A Tiger",
-      "score": 0.364,
-      "r18": false
+      "id": 54659,
+      "title": "Between the Devil and Me",
+      "score": 0.292,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 54301,
-      "title": "Unspeakable Contact",
-      "score": 0.355,
-      "r18": false
+      "id": 39469,
+      "title": "Devil Wants to Hug",
+      "score": 0.285,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "it",
+        "id",
+        "tr"
+      ]
+    },
+    {
+      "id": 56615,
+      "title": "The way to appeal to the Devil",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 43925,
+      "title": "Reapers Don't Love",
+      "score": 0.265,
+      "r18": false,
+      "languages": [
+        "mn"
+      ]
+    },
+    {
+      "id": 55690,
+      "title": "Your Dream Is Delicious",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx"
+      ]
     },
     {
       "id": 22858,
       "title": "Tengu no Yomeiri",
-      "score": 0.351,
-      "r18": false
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb"
+      ]
     },
     {
-      "id": 41517,
-      "title": "The Beauty of the Apricot Forest",
-      "score": 0.343,
-      "r18": false
+      "id": 45905,
+      "title": "The Art of Taming A Tiger",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 38170,
       "title": "Get off of Me!",
-      "score": 0.335,
-      "r18": false
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 45816,
       "title": "Love or Die",
-      "score": 0.335,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 54301,
+      "title": "Unspeakable Contact",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "mx"
+      ]
+    },
+    {
+      "id": 22954,
+      "title": "This Can't Be Love",
+      "score": 0.229,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 48305,
+      "title": "To the Yesterday You",
+      "score": 0.217,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 41517,
+      "title": "The Beauty of the Apricot Forest",
+      "score": 0.216,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 48822,
       "title": "The Demon from the Bloodstained Dark Jade",
-      "score": 0.329,
-      "r18": false
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "fr"
+      ]
     },
     {
-      "id": 31030,
-      "title": "Vampire Heart",
-      "score": 0.324,
-      "r18": false
+      "id": 51317,
+      "title": "Becoming Human!",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
+    },
+    {
+      "id": 41900,
+      "title": "Boss wants to eat me!",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 47597,
+      "title": "Cut",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 51069,
+      "title": "Settia",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "br"
+      ]
     },
     {
       "id": 54173,
       "title": "Do You Know a Fairy?",
-      "score": 0.321,
-      "r18": false
+      "score": 0.213,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 31335,
+      "title": "Summer Scent",
+      "score": 0.212,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55972,
+      "title": "Cultivator x Contract Spirit",
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 52309,
       "title": "Angel Sweetheart Attack",
-      "score": 0.316,
-      "r18": false
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29449,
+      "title": "Not for the Faint of Heart",
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

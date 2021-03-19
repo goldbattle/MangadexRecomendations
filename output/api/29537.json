@@ -2,37 +2,61 @@
   "id": 29537,
   "title": "Sense of Values of Wine",
   "url": "https://mangadex.org/manga/29537",
-  "last_updated": "January 13, 2021 06:56:28 UTC",
+  "last_updated": "March 18, 2021 10:27:03 UTC",
   "matches": [
-    {
-      "id": 42516,
-      "title": "Shoya -Virgin Night-",
-      "score": 0.791,
-      "r18": false
-    },
-    {
-      "id": 25308,
-      "title": "Tissue Guzzler",
-      "score": 0.674,
-      "r18": false
-    },
     {
       "id": 34517,
       "title": "Until Summer Ends",
-      "score": 0.34,
-      "r18": false
+      "score": 0.279,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 42516,
+      "title": "Shoya -Virgin Night-",
+      "score": 0.26,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29995,
       "title": "Osananajimi",
-      "score": 0.249,
-      "r18": false
+      "score": 0.175,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 25308,
+      "title": "Tissue Guzzler",
+      "score": 0.165,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 49146,
+      "title": "Freshman",
+      "score": 0.139,
+      "r18": true,
+      "languages": [
+        "br"
+      ]
     },
     {
       "id": 33015,
       "title": "Hougan Kanojo",
-      "score": 0.113,
-      "r18": false
+      "score": 0.093,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

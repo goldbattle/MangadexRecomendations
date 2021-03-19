@@ -1,68 +1,102 @@
 {
   "id": 44644,
   "title": "Love Live! - Crystal Sugar and Machine Gun (Doujinshi)",
-  "url": "https://api.mangadex.org/v2/manga/44644",
-  "last_updated": "February 11, 2021 16:44:34 UTC",
+  "url": "https://mangadex.org/manga/44644",
+  "last_updated": "March 18, 2021 12:33:07 UTC",
   "matches": [
     {
       "id": 10903,
       "title": "Mahou Shoujo Lyrical Nanoha - Kodomo ja Nai Mon (Doujinshi)",
-      "score": 0.288,
-      "r18": false
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 14424,
       "title": "Love Live! - Cowgirl Position (Doujinshi)",
-      "score": 0.288,
-      "r18": false
-    },
-    {
-      "id": 45611,
-      "title": "Mahou Shoujo Lyrical Nanoha - Egoist (Doujinshi)",
-      "score": 0.288,
-      "r18": false
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 46878,
       "title": "Past",
-      "score": 0.288,
-      "r18": false
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 56818,
       "title": "The Girl With a Mirrored Heart",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "it",
+        "mx",
+        "ua",
+        "gb",
+        "de",
+        "id",
+        "fr",
+        "tr"
+      ]
     },
     {
       "id": 6044,
       "title": "Dare nimo Ienai",
-      "score": 0.24,
-      "r18": false
+      "score": 0.213,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 43657,
       "title": "Yuru Camp - Rin and Nadeshiko ~Preparing For Summer Camp On a City Date!~",
-      "score": 0.24,
-      "r18": false
+      "score": 0.213,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "br"
+      ]
     },
     {
       "id": 50925,
       "title": "Shoujo Kageki Revue Starlight - Last Night, Here With You (Doujinshi)",
-      "score": 0.24,
-      "r18": false
+      "score": 0.213,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 10077,
       "title": "Fragtime",
-      "score": 0.206,
-      "r18": false
+      "score": 0.182,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 25970,
       "title": "Ashita no Kimi ni Dekiru Koto",
-      "score": 0.206,
-      "r18": false
+      "score": 0.182,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb"
+      ]
     }
   ]
 }

@@ -1,158 +1,245 @@
 {
   "id": 55453,
   "title": "Nether Cram School",
-  "url": "https://api.mangadex.org/v2/manga/55453",
-  "last_updated": "March 12, 2021 20:38:01 UTC",
+  "url": "https://mangadex.org/manga/55453",
+  "last_updated": "March 18, 2021 14:03:29 UTC",
   "matches": [
-    {
-      "id": 58419,
-      "title": "Secret Of The Netherworld",
-      "score": 0.672,
-      "r18": false
-    },
-    {
-      "id": 31551,
-      "title": "A Returner's Magic Should Be Special",
-      "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 44432,
-      "title": "Just a Girl He Knows",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 40,
-      "title": "Crepuscule",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 21317,
-      "title": "Excuse Me, But The World Will Be Gone For A While",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 33863,
-      "title": "The Beginning After the End",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 33277,
-      "title": "Raid",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 43719,
-      "title": "Stairway of Time",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 22954,
-      "title": "This Can't Be Love",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 8017,
-      "title": "Trump",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 34063,
-      "title": "Uglyhood",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 1021,
-      "title": "Girls of the Wild's",
-      "score": 0.65,
-      "r18": false
-    },
-    {
-      "id": 28113,
-      "title": "Impulse",
-      "score": 0.65,
-      "r18": false
-    },
-    {
-      "id": 53460,
-      "title": "Supernatural Beast Academy",
-      "score": 0.385,
-      "r18": false
-    },
-    {
-      "id": 51317,
-      "title": "Becoming Human!",
-      "score": 0.38,
-      "r18": false
-    },
     {
       "id": 55036,
       "title": "Girl On Trial",
-      "score": 0.363,
-      "r18": false
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29398,
       "title": "Devil Down Under",
-      "score": 0.361,
-      "r18": false
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 58269,
+      "title": "Home Inhabited by the Heavens",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 51317,
+      "title": "Becoming Human!",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
+    },
+    {
+      "id": 29776,
+      "title": "July Found by Chance",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx",
+        "es",
+        "id",
+        "br"
+      ]
+    },
+    {
+      "id": 37594,
+      "title": "The Cursed Sculpture",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 56294,
+      "title": "Not Alone",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 47597,
+      "title": "Cut",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 19143,
+      "title": "Ghost Wife",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 54173,
+      "title": "Do You Know a Fairy?",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 31335,
+      "title": "Summer Scent",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 43833,
+      "title": "The Last Chapter",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
+    },
+    {
+      "id": 53460,
+      "title": "Supernatural Beast Academy",
+      "score": 0.243,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 45816,
       "title": "Love or Die",
-      "score": 0.36,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 36257,
-      "title": "Gang of School",
-      "score": 0.359,
-      "r18": false
+      "id": 19778,
+      "title": "Flying in the Darkness",
+      "score": 0.238,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 16305,
-      "title": "Where Tangents Meet",
-      "score": 0.355,
-      "r18": false
+      "id": 21317,
+      "title": "Excuse Me, But The World Will Be Gone For A While",
+      "score": 0.234,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 55690,
-      "title": "Your Dream Is Delicious",
-      "score": 0.355,
-      "r18": false
+      "id": 38915,
+      "title": "To Kill a Mirror",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 56551,
+      "title": "I Must Be A Good Man",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 52892,
       "title": "It&rsquo;s Neither Windy or Rainy, and nor Is It Clear",
-      "score": 0.345,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 21453,
-      "title": "Tomorrow",
-      "score": 0.342,
-      "r18": false
+      "id": 59227,
+      "title": "1cm Inexperienced Us",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 50594,
-      "title": "I Only Love Hana",
-      "score": 0.339,
-      "r18": false
+      "id": 31657,
+      "title": "PATCH",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 39195,
-      "title": "Crisis",
-      "score": 0.338,
-      "r18": false
+      "id": 22525,
+      "title": "Sleeping Princess and Dreaming Devil",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 52157,
+      "title": "If I Love, It's Unrequited!",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 43031,
+      "title": "Get Back",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru"
+      ]
+    },
+    {
+      "id": 42677,
+      "title": "Till The Next Time",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

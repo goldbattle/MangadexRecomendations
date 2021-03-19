@@ -1,158 +1,329 @@
 {
   "id": 41213,
   "title": "The Ashen Snowfield",
-  "url": "https://api.mangadex.org/v2/manga/41213",
-  "last_updated": "February 11, 2021 08:35:37 UTC",
+  "url": "https://mangadex.org/manga/41213",
+  "last_updated": "March 18, 2021 12:04:27 UTC",
   "matches": [
     {
-      "id": 40156,
-      "title": "7 Seeds Gaiden",
-      "score": 0.733,
-      "r18": false
-    },
-    {
-      "id": 55773,
-      "title": "Isekai ni Otosareta&hellip; Jouka wa Kihon!",
-      "score": 0.708,
-      "r18": false
-    },
-    {
-      "id": 17709,
-      "title": "Kumo Desu ga, Nani ka?",
-      "score": 0.706,
-      "r18": false
-    },
-    {
-      "id": 580,
-      "title": "Kodoku Experiment",
-      "score": 0.705,
-      "r18": false
-    },
-    {
-      "id": 2712,
-      "title": "Blame!",
-      "score": 0.703,
-      "r18": false
-    },
-    {
-      "id": 35199,
-      "title": "Isekai Cheat Survival Meshi",
-      "score": 0.702,
-      "r18": false
-    },
-    {
-      "id": 402,
-      "title": "7 Seeds",
-      "score": 0.701,
-      "r18": false
-    },
-    {
-      "id": 58327,
-      "title": "The Runaway Tanker",
-      "score": 0.699,
-      "r18": false
+      "id": 42644,
+      "title": "East, Into The Night",
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 36276,
       "title": "The Blue Hole",
-      "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 18675,
-      "title": "Survival: Shounen S no Kiroku",
-      "score": 0.697,
-      "r18": false
-    },
-    {
-      "id": 44529,
-      "title": "JK Musou - Owaru Sekai no Sukuikata",
-      "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 45790,
-      "title": "Dragon Claw",
-      "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 36595,
-      "title": "Ryoumin 0-nin Start no Henkyou Ryoushusama",
-      "score": 0.693,
-      "r18": false
-    },
-    {
-      "id": 7710,
-      "title": "Kidou Senshi Crossbone Gundam",
-      "score": 0.691,
-      "r18": false
-    },
-    {
-      "id": 54153,
-      "title": "Cool Age",
-      "score": 0.689,
-      "r18": false
-    },
-    {
-      "id": 33438,
-      "title": "Kidou Senshi Gundam NT (Narrative)",
-      "score": 0.686,
-      "r18": false
+      "score": 0.164,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 46350,
       "title": "Trace of Doomsday",
-      "score": 0.682,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "id"
+      ]
     },
     {
-      "id": 3553,
-      "title": "Kidou Senshi Gundam MSV-R - Johnny Ridden no Kikan",
-      "score": 0.68,
-      "r18": false
+      "id": 20882,
+      "title": "Dr. Stone",
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "it",
+        "sa",
+        "es",
+        "pl",
+        "hu",
+        "mn",
+        "ru",
+        "de"
+      ]
     },
     {
-      "id": 39376,
-      "title": "Hooves of Death",
-      "score": 0.68,
-      "r18": false
+      "id": 18675,
+      "title": "Survival: Shounen S no Kiroku",
+      "score": 0.135,
+      "r18": false,
+      "languages": [
+        "ru",
+        "mx",
+        "gb",
+        "tr",
+        "br",
+        "sa",
+        "id"
+      ]
     },
     {
-      "id": 47057,
-      "title": "Realms of Death",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 48994,
-      "title": "Strongest Caveman",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 59118,
-      "title": "Jigoku no Gouka de Yaka re Tsuzuketa Shounen. Saikyou no Honou Tsukai to Natte Fukkatsu Suru.",
-      "score": 0.676,
-      "r18": false
+      "id": 48469,
+      "title": "The First Hunter",
+      "score": 0.133,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "pl",
+        "fr",
+        "ru",
+        "it"
+      ]
     },
     {
       "id": 23532,
       "title": "Providence at Dawn",
-      "score": 0.675,
-      "r18": false
+      "score": 0.126,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
-      "id": 47431,
-      "title": "The Werewolf Killings",
-      "score": 0.674,
-      "r18": false
+      "id": 46847,
+      "title": "Return Survival",
+      "score": 0.122,
+      "r18": false,
+      "languages": [
+        "ru",
+        "tr",
+        "gb",
+        "br",
+        "fr",
+        "id",
+        "pl",
+        "ir"
+      ]
     },
     {
-      "id": 1287,
-      "title": "Bio-Meat: Nectar",
-      "score": 0.673,
-      "r18": false
+      "id": 12848,
+      "title": "NOA",
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "br",
+        "pl",
+        "it",
+        "gb"
+      ]
+    },
+    {
+      "id": 42965,
+      "title": "This Village Sim NPC Could Only Be Human",
+      "score": 0.11,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 17709,
+      "title": "Kumo Desu ga, Nani ka?",
+      "score": 0.109,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "ru",
+        "br",
+        "ir",
+        "pl",
+        "fr",
+        "mx",
+        "it",
+        "nl"
+      ]
+    },
+    {
+      "id": 45778,
+      "title": "Spellcross",
+      "score": 0.105,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru"
+      ]
+    },
+    {
+      "id": 8727,
+      "title": "Futatabi",
+      "score": 0.104,
+      "r18": false,
+      "languages": [
+        "br",
+        "it",
+        "gb"
+      ]
+    },
+    {
+      "id": 50721,
+      "title": "Gakkou Gurashi! Otayori",
+      "score": 0.104,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "br",
+        "hu",
+        "ru",
+        "mx"
+      ]
+    },
+    {
+      "id": 48688,
+      "title": "Kang-Ho",
+      "score": 0.104,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 48676,
+      "title": "BLAME! Fort of Silicon Creatures",
+      "score": 0.104,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 37378,
+      "title": "Second Life Ranker",
+      "score": 0.103,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu",
+        "fr",
+        "id",
+        "sa",
+        "ru",
+        "br",
+        "it",
+        "tr",
+        "pl"
+      ]
+    },
+    {
+      "id": 48600,
+      "title": "Murim Login",
+      "score": 0.102,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "id",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 44494,
+      "title": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru ~Level Up wa Jinsei wo Kaeta~",
+      "score": 0.099,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "pl",
+        "ru",
+        "fr",
+        "de"
+      ]
+    },
+    {
+      "id": 35199,
+      "title": "Isekai Cheat Survival Meshi",
+      "score": 0.099,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "br",
+        "ru",
+        "fr"
+      ]
+    },
+    {
+      "id": 45790,
+      "title": "Dragon Claw",
+      "score": 0.099,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "mx",
+        "fr",
+        "it"
+      ]
+    },
+    {
+      "id": 59118,
+      "title": "Jigoku no Gouka de Yaka re Tsuzuketa Shounen. Saikyou no Honou Tsukai to Natte Fukkatsu Suru.",
+      "score": 0.098,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 503,
+      "title": "Coppelion",
+      "score": 0.097,
+      "r18": false,
+      "languages": [
+        "mx",
+        "it",
+        "br"
+      ]
+    },
+    {
+      "id": 48994,
+      "title": "Strongest Caveman",
+      "score": 0.096,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br"
+      ]
+    },
+    {
+      "id": 37856,
+      "title": "Player Reborn",
+      "score": 0.095,
+      "r18": false,
+      "languages": [
+        "gb",
+        "th",
+        "fr",
+        "br",
+        "tr",
+        "id",
+        "mx",
+        "es"
+      ]
     }
   ]
 }

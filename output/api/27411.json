@@ -2,157 +2,313 @@
   "id": 27411,
   "title": "Red Spirit",
   "url": "https://mangadex.org/manga/27411",
-  "last_updated": "March 16, 2021 20:31:41 UTC",
+  "last_updated": "March 18, 2021 10:09:19 UTC",
   "matches": [
-    {
-      "id": 5618,
-      "title": "Castle of Dawn",
-      "score": 0.269,
-      "r18": false
-    },
     {
       "id": 37302,
       "title": "The Sword of Glory",
-      "score": 0.268,
-      "r18": false
-    },
-    {
-      "id": 51466,
-      "title": "Come Out, Romeo",
-      "score": 0.255,
-      "r18": false
+      "score": 0.267,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "fr",
+        "id",
+        "br"
+      ]
     },
     {
       "id": 13,
       "title": "Zusun",
-      "score": 0.247,
-      "r18": false
-    },
-    {
-      "id": 35725,
-      "title": "The Peerless Concubine",
-      "score": 0.239,
-      "r18": false
-    },
-    {
-      "id": 59736,
-      "title": "Fire Dragon King",
-      "score": 0.239,
-      "r18": false
+      "score": 0.246,
+      "r18": false,
+      "languages": [
+        "de",
+        "fr",
+        "gb",
+        "it",
+        "pl"
+      ]
     },
     {
       "id": 49522,
       "title": "Danwu Supreme",
       "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 49960,
-      "title": "A Record of a Mortal's Journey to Immortality",
-      "score": 0.232,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "id",
+        "fr",
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 45121,
       "title": "Daddy From Hell",
-      "score": 0.23,
-      "r18": false
-    },
-    {
-      "id": 8809,
-      "title": "Itsuwaribito Utsuho",
-      "score": 0.225,
-      "r18": false
-    },
-    {
-      "id": 12637,
-      "title": "Musketeer",
-      "score": 0.225,
-      "r18": false
-    },
-    {
-      "id": 657,
-      "title": "Shinobi no Kuni",
-      "score": 0.225,
-      "r18": false
+      "score": 0.229,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 44299,
       "title": "Rakshasa Li San",
       "score": 0.225,
-      "r18": false
-    },
-    {
-      "id": 37642,
-      "title": "Tenko",
-      "score": 0.225,
-      "r18": false
-    },
-    {
-      "id": 20372,
-      "title": "Yamato Takeru",
-      "score": 0.225,
-      "r18": false
-    },
-    {
-      "id": 12688,
-      "title": "Pok&eacute;mon + Nobunaga's Ambition ~ Ransei's Color Picture Scroll ~",
-      "score": 0.225,
-      "r18": false
-    },
-    {
-      "id": 34443,
-      "title": "Xuan Yuan-Sword Legend: The Gate of Firmament",
-      "score": 0.224,
-      "r18": false
-    },
-    {
-      "id": 3250,
-      "title": "Baccano! 1931 The Grand Punk Railroad",
-      "score": 0.223,
-      "r18": false
-    },
-    {
-      "id": 42718,
-      "title": "The Descent of the Demonic Master",
-      "score": 0.222,
-      "r18": false
-    },
-    {
-      "id": 20284,
-      "title": "X - Epoch of the Dragon",
-      "score": 0.222,
-      "r18": false
-    },
-    {
-      "id": 1410,
-      "title": "Teiden Shoujo to Hanemushi no Orchestra",
-      "score": 0.22,
-      "r18": false
-    },
-    {
-      "id": 44913,
-      "title": "Infinite Gold God",
-      "score": 0.219,
-      "r18": false
-    },
-    {
-      "id": 18841,
-      "title": "Ultramarine Magmel",
-      "score": 0.219,
-      "r18": false
-    },
-    {
-      "id": 559,
-      "title": "Dark Air",
-      "score": 0.219,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "sa",
+        "ir",
+        "gb",
+        "fr",
+        "it",
+        "pl"
+      ]
     },
     {
       "id": 27258,
       "title": "Tower Into the Clouds",
-      "score": 0.219,
-      "r18": false
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "sa",
+        "id",
+        "tr"
+      ]
+    },
+    {
+      "id": 447,
+      "title": "Black Wind",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 49199,
+      "title": "Endeavor&rsquo;s Cross",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 37759,
+      "title": "Beautiful Legends",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "ru",
+        "br",
+        "id"
+      ]
+    },
+    {
+      "id": 55908,
+      "title": "One Sword Reigns Supreme",
+      "score": 0.217,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "pl",
+        "br"
+      ]
+    },
+    {
+      "id": 34287,
+      "title": "Master of Legendary Realms",
+      "score": 0.216,
+      "r18": false,
+      "languages": [
+        "ru",
+        "id",
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 1434,
+      "title": "Sengoku Youko",
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "es",
+        "fr",
+        "id"
+      ]
+    },
+    {
+      "id": 50679,
+      "title": "Divine Spirit Martial Emperor",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 13404,
+      "title": "Hero Waltz",
+      "score": 0.212,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de",
+        "fr",
+        "br"
+      ]
+    },
+    {
+      "id": 47571,
+      "title": "The Blade of Evolution-Walking Alone in the Dungeon",
+      "score": 0.212,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "ru",
+        "sa",
+        "it",
+        "il"
+      ]
+    },
+    {
+      "id": 45869,
+      "title": "Godly Mobile Game",
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "id"
+      ]
+    },
+    {
+      "id": 44627,
+      "title": "Don't Mess With Me, Miss",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 4948,
+      "title": "Last Ranker -Be the Last One-",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "es"
+      ]
+    },
+    {
+      "id": 45320,
+      "title": "Ultimate Soldier",
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br"
+      ]
+    },
+    {
+      "id": 43803,
+      "title": "Martial Arts Reigns",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 45148,
+      "title": "Stairs",
+      "score": 0.206,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru",
+        "id",
+        "it"
+      ]
+    },
+    {
+      "id": 54090,
+      "title": "Capture the Golem and Escape Poverty",
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "it"
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Kubera",
+      "score": 0.204,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ir",
+        "it",
+        "pl",
+        "sa",
+        "fr",
+        "br",
+        "de"
+      ]
+    },
+    {
+      "id": 46134,
+      "title": "The Peerless Sword God",
+      "score": 0.202,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "fr"
+      ]
+    },
+    {
+      "id": 32905,
+      "title": "Kimetsu no Yaiba - Digital Colored Comics",
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr",
+        "br",
+        "mx",
+        "ua",
+        "sa"
+      ]
     }
   ]
 }

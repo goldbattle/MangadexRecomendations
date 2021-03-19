@@ -2,157 +2,251 @@
   "id": 11157,
   "title": "Mayoke no Darling",
   "url": "https://mangadex.org/manga/11157",
-  "last_updated": "March 15, 2021 04:33:50 UTC",
+  "last_updated": "March 18, 2021 07:20:50 UTC",
   "matches": [
     {
       "id": 7446,
       "title": "End Love",
       "score": 0.275,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 15370,
       "title": "Itoshi no Nekokke: Otaru-hen",
       "score": 0.275,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8304,
       "title": "Akunin o Nakaseru Houhou",
-      "score": 0.267,
-      "r18": false
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 34633,
       "title": "Happy Ending Kuso Kurae",
-      "score": 0.267,
-      "r18": false
-    },
-    {
-      "id": 4557,
-      "title": "Mousou Cherry",
-      "score": 0.258,
-      "r18": false
-    },
-    {
-      "id": 25950,
-      "title": "Mayou Otoko",
-      "score": 0.258,
-      "r18": false
-    },
-    {
-      "id": 37493,
-      "title": "K-sensei no Himitsu no Netsujou",
-      "score": 0.258,
-      "r18": false
-    },
-    {
-      "id": 10179,
-      "title": "K-sensei no Yajuu na Aijou",
-      "score": 0.258,
-      "r18": false
-    },
-    {
-      "id": 37494,
-      "title": "K-sensei no Renai na Nichijou",
-      "score": 0.258,
-      "r18": false
-    },
-    {
-      "id": 10183,
-      "title": "K-sensei no Yaban na Renai",
-      "score": 0.258,
-      "r18": false
-    },
-    {
-      "id": 28909,
-      "title": "K-sensei no Furachi na Junai",
-      "score": 0.258,
-      "r18": false
-    },
-    {
-      "id": 27246,
-      "title": "Seiheki Strike",
-      "score": 0.258,
-      "r18": false
-    },
-    {
-      "id": 1415,
-      "title": "Mousou Elektel",
-      "score": 0.258,
-      "r18": false
-    },
-    {
-      "id": 8617,
-      "title": "Himananode Hajimete Mimasu.",
-      "score": 0.258,
-      "r18": false
-    },
-    {
-      "id": 18128,
-      "title": "Hanakoi Tsurane",
-      "score": 0.258,
-      "r18": false
-    },
-    {
-      "id": 56166,
-      "title": "Sunao ni Narenai Otokotachi",
-      "score": 0.258,
-      "r18": false
-    },
-    {
-      "id": 15125,
-      "title": "Doutei Hitsuji to Abazure Ookami",
-      "score": 0.258,
-      "r18": false
-    },
-    {
-      "id": 34846,
-      "title": "Ikenai Otoko",
-      "score": 0.258,
-      "r18": false
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20181,
       "title": "Stray Bullet Baby",
       "score": 0.258,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4557,
+      "title": "Mousou Cherry",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "hu"
+      ]
+    },
+    {
+      "id": 25950,
+      "title": "Mayou Otoko",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37493,
+      "title": "K-sensei no Himitsu no Netsujou",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10179,
+      "title": "K-sensei no Yajuu na Aijou",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 37494,
+      "title": "K-sensei no Renai na Nichijou",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10183,
+      "title": "K-sensei no Yaban na Renai",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 28909,
+      "title": "K-sensei no Furachi na Junai",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 27246,
+      "title": "Seiheki Strike",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 17702,
+      "title": "Tomodachi Ijou no Koto, Shitai",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 1415,
+      "title": "Mousou Elektel",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "tr"
+      ]
+    },
+    {
+      "id": 8617,
+      "title": "Himananode Hajimete Mimasu.",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "pl"
+      ]
+    },
+    {
+      "id": 18128,
+      "title": "Hanakoi Tsurane",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 56166,
+      "title": "Sunao ni Narenai Otokotachi",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 15125,
+      "title": "Doutei Hitsuji to Abazure Ookami",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 34846,
+      "title": "Ikenai Otoko",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 6669,
       "title": "Chiisana Koi no Melody",
       "score": 0.258,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 12692,
       "title": "Chikatetsu no Inu",
       "score": 0.258,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 17187,
       "title": "Haru wo Daiteita",
       "score": 0.258,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "pl"
+      ]
     },
     {
       "id": 45548,
       "title": "Koiiro Soft Focus",
       "score": 0.258,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 37420,
       "title": "Suki, Kamo",
       "score": 0.258,
-      "r18": false
-    },
-    {
-      "id": 18605,
-      "title": "Kuzu de Baka ni wa Nido to Awanai",
-      "score": 0.258,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

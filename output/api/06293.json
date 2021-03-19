@@ -2,19 +2,29 @@
   "id": 6293,
   "title": "Dethrone",
   "url": "https://mangadex.org/manga/6293",
-  "last_updated": "March 14, 2021 16:26:43 UTC",
+  "last_updated": "March 18, 2021 06:39:20 UTC",
   "matches": [
     {
       "id": 617,
       "title": "Aiki",
       "score": 0.208,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "fr",
+        "de"
+      ]
     },
     {
       "id": 11358,
       "title": "Sentou Hakai Gakuen Dangerous",
-      "score": 0.145,
-      "r18": false
+      "score": 0.144,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     }
   ]
 }

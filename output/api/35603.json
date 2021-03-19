@@ -1,158 +1,254 @@
 {
   "id": 35603,
   "title": "Honey Rose",
-  "url": "https://api.mangadex.org/v2/manga/35603",
-  "last_updated": "February 10, 2021 16:46:14 UTC",
+  "url": "https://mangadex.org/manga/35603",
+  "last_updated": "March 18, 2021 11:17:38 UTC",
   "matches": [
     {
-      "id": 4880,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
-      "score": 0.736,
-      "r18": false
+      "id": 46053,
+      "title": "Tomoji",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 3409,
-      "title": "Otoyomegatari",
-      "score": 0.733,
-      "r18": false
+      "id": 4525,
+      "title": "Color of Rage",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "br"
+      ]
     },
     {
-      "id": 28617,
-      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run",
-      "score": 0.722,
-      "r18": false
+      "id": 2932,
+      "title": "Sister Generator",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 4135,
-      "title": "Mushishi",
-      "score": 0.721,
-      "r18": false
+      "id": 774,
+      "title": "Billy Bat",
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "it"
+      ]
     },
     {
-      "id": 17623,
-      "title": "Iwaihime",
-      "score": 0.721,
-      "r18": false
+      "id": 1289,
+      "title": "Hell Blade",
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "bg",
+        "pl",
+        "gb"
+      ]
     },
     {
-      "id": 3491,
-      "title": "Master Keaton",
-      "score": 0.718,
-      "r18": false
+      "id": 19790,
+      "title": "Kings' Viking",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 1016,
-      "title": "Emma",
-      "score": 0.713,
-      "r18": false
+      "id": 19918,
+      "title": "Op: The Colourless Days of Yoake Itaru",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.711,
-      "r18": false
+      "id": 9247,
+      "title": "Chichikogusa",
+      "score": 0.276,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "vn",
+        "sa"
+      ]
     },
     {
-      "id": 5755,
-      "title": "Yuunagi no Machi Sakura no Kuni",
-      "score": 0.71,
-      "r18": false
+      "id": 1355,
+      "title": "Struck by Black Rain",
+      "score": 0.269,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
-      "id": 1110,
-      "title": "Yokohama Kaidashi Kikou",
-      "score": 0.71,
-      "r18": false
+      "id": 17189,
+      "title": "Arte",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
     },
     {
-      "id": 17393,
-      "title": "The Case Records of Professor Munakata",
-      "score": 0.706,
-      "r18": false
-    },
-    {
-      "id": 897,
-      "title": "Boku wa Beatles",
-      "score": 0.702,
-      "r18": false
-    },
-    {
-      "id": 7775,
-      "title": "El Alamein no Shinden",
-      "score": 0.702,
-      "r18": false
-    },
-    {
-      "id": 17720,
-      "title": "Koushaku Reijou no Tashinami",
-      "score": 0.701,
-      "r18": false
-    },
-    {
-      "id": 6182,
-      "title": "Sexy Voice and Robo",
-      "score": 0.699,
-      "r18": false
-    },
-    {
-      "id": 1876,
-      "title": "Blood Alone",
-      "score": 0.699,
-      "r18": false
-    },
-    {
-      "id": 14672,
-      "title": "Chikyuu no Houkago",
-      "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 1569,
-      "title": "HE&forall;DS",
-      "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 3447,
-      "title": "Memories of Emanon",
-      "score": 0.697,
-      "r18": false
-    },
-    {
-      "id": 23209,
-      "title": "Go With the Clouds to the North-Northwest",
-      "score": 0.697,
-      "r18": false
-    },
-    {
-      "id": 6272,
-      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
-      "score": 0.694,
-      "r18": false
-    },
-    {
-      "id": 534,
-      "title": "&quot;Bungaku Shoujo&quot; to Shinitagari no Pierrot",
-      "score": 0.69,
-      "r18": false
-    },
-    {
-      "id": 1117,
-      "title": "Adventure Boys",
-      "score": 0.689,
-      "r18": false
-    },
-    {
-      "id": 4242,
-      "title": "Hyouge Mono",
-      "score": 0.689,
-      "r18": false
+      "id": 7069,
+      "title": "Biblia Koshodou no Jiken Techou",
+      "score": 0.265,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21956,
       "title": "Joker Game The Animation",
-      "score": 0.688,
-      "r18": false
+      "score": 0.265,
+      "r18": false,
+      "languages": [
+        "it"
+      ]
+    },
+    {
+      "id": 2249,
+      "title": "Cloud",
+      "score": 0.263,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3858,
+      "title": "Kami no Shizuku",
+      "score": 0.261,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5001,
+      "title": "Ms. Mayple's Afternoon Tea Time",
+      "score": 0.261,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 16164,
+      "title": "Hyakki Tsurezure Bukuro",
+      "score": 0.26,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6182,
+      "title": "Sexy Voice and Robo",
+      "score": 0.259,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8763,
+      "title": "Adolf ni Tsugu",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14974,
+      "title": "Kono Sekai no Katasumini",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 36279,
+      "title": "Peleliu: Guernica of Paradise",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5755,
+      "title": "Yuunagi no Machi Sakura no Kuni",
+      "score": 0.248,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa"
+      ]
+    },
+    {
+      "id": 3409,
+      "title": "Otoyomegatari",
+      "score": 0.247,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu",
+        "br",
+        "ru",
+        "bg"
+      ]
+    },
+    {
+      "id": 29749,
+      "title": "Red",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1473,
+      "title": "Henjin Henkutsu Retsuden",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 23209,
+      "title": "Go With the Clouds to the North-Northwest",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "tr",
+        "ru"
+      ]
     }
   ]
 }

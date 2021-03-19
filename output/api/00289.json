@@ -2,157 +2,274 @@
   "id": 289,
   "title": "Tokyo Ravens",
   "url": "https://mangadex.org/manga/289",
-  "last_updated": "March 14, 2021 00:52:26 UTC",
+  "last_updated": "March 18, 2021 05:45:01 UTC",
   "matches": [
     {
       "id": 1627,
       "title": "Hekikai no AiON",
       "score": 0.35,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "ru",
+        "es"
+      ]
     },
     {
       "id": 511,
       "title": "Ga-rei",
       "score": 0.35,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 2296,
       "title": "Gan-Kon",
-      "score": 0.313,
-      "r18": false
+      "score": 0.312,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 13943,
       "title": "Sensou Gekijou",
       "score": 0.306,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3907,
       "title": "Sky Blue",
       "score": 0.3,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3620,
       "title": "Kyoukai no Rinne",
       "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 20722,
-      "title": "U19",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 14065,
-      "title": "Koibana Kiseki",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 22585,
-      "title": "Oni Futatsu",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 669,
-      "title": "Tiji-kun!",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 8632,
-      "title": "&quot;Aoi&quot; Hikaru ga Chikyuu ni Ita Koro......",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 331,
-      "title": "Kamichu!",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 6075,
-      "title": "Busou Renkin",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 21310,
-      "title": "Jibaku Shounen Hanako-kun",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 5204,
-      "title": "Kanon - Honto no Omoi wa Egao no Mukougawa ni",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 1898,
-      "title": "Legend Hustle",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 2346,
-      "title": "Shakugan no Shana",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 799,
-      "title": "Kannagi",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 6534,
-      "title": "Wingman",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 13961,
-      "title": "Youkai no Oisha-san",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 2872,
-      "title": "Ghost Logic",
-      "score": 0.3,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 10456,
       "title": "Sousei no Onmyouji",
       "score": 0.3,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "mx",
+        "br",
+        "ru",
+        "es"
+      ]
+    },
+    {
+      "id": 20722,
+      "title": "U19",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 14065,
+      "title": "Koibana Kiseki",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 22585,
+      "title": "Oni Futatsu",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 669,
+      "title": "Tiji-kun!",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8632,
+      "title": "&quot;Aoi&quot; Hikaru ga Chikyuu ni Ita Koro......",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id",
+        "pl"
+      ]
+    },
+    {
+      "id": 331,
+      "title": "Kamichu!",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru"
+      ]
+    },
+    {
+      "id": 6075,
+      "title": "Busou Renkin",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 21310,
+      "title": "Jibaku Shounen Hanako-kun",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "th",
+        "gb",
+        "id",
+        "ru",
+        "br",
+        "vn",
+        "fr",
+        "ua"
+      ]
+    },
+    {
+      "id": 5204,
+      "title": "Kanon - Honto no Omoi wa Egao no Mukougawa ni",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de",
+        "pl"
+      ]
+    },
+    {
+      "id": 1898,
+      "title": "Legend Hustle",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2346,
+      "title": "Shakugan no Shana",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "fr"
+      ]
+    },
+    {
+      "id": 799,
+      "title": "Kannagi",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 6534,
+      "title": "Wingman",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 13961,
+      "title": "Youkai no Oisha-san",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 12900,
       "title": "Fudatsuki no Kyoko-chan",
       "score": 0.3,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "tr",
+        "br",
+        "sa"
+      ]
+    },
+    {
+      "id": 2872,
+      "title": "Ghost Logic",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "de"
+      ]
     },
     {
       "id": 12118,
       "title": "Kanon (Key)",
       "score": 0.3,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 15728,
       "title": "Kanojo wa Rokurokubi",
       "score": 0.3,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "fr",
+        "pl"
+      ]
     }
   ]
 }

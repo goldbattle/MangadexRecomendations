@@ -1,20 +1,26 @@
 {
   "id": 32507,
   "title": "Bunkou no Hito-tachi",
-  "url": "https://api.mangadex.org/v2/manga/32507",
-  "last_updated": "February 10, 2021 08:36:34 UTC",
+  "url": "https://mangadex.org/manga/32507",
+  "last_updated": "March 18, 2021 10:51:49 UTC",
   "matches": [
     {
       "id": 51435,
       "title": "Sensei wa Seiyoku o Osaerarenai",
-      "score": 0.435,
-      "r18": true
+      "score": 0.35,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 53804,
       "title": "P@idol M@ster!",
-      "score": 0.33,
-      "r18": true
+      "score": 0.233,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

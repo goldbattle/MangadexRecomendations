@@ -2,157 +2,259 @@
   "id": 2377,
   "title": "No Side",
   "url": "https://mangadex.org/manga/2377",
-  "last_updated": "March 14, 2021 04:27:35 UTC",
+  "last_updated": "March 18, 2021 06:03:00 UTC",
   "matches": [
     {
       "id": 160,
       "title": "Saki",
       "score": 0.273,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "hk"
+      ]
     },
     {
       "id": 18986,
       "title": "Kyoukai No Nai Sekai",
-      "score": 0.266,
-      "r18": false
-    },
-    {
-      "id": 526,
-      "title": "Itadaki!",
-      "score": 0.229,
-      "r18": false
-    },
-    {
-      "id": 1332,
-      "title": "Yakuza Girl",
-      "score": 0.226,
-      "r18": false
-    },
-    {
-      "id": 34501,
-      "title": "HEN - Suzuki &amp; Satou",
-      "score": 0.226,
-      "r18": false
-    },
-    {
-      "id": 6793,
-      "title": "Mizutama Rindou",
-      "score": 0.223,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 15780,
       "title": "Yuri na Watashi to Akuma na Kanojo (?)",
-      "score": 0.223,
-      "r18": false
-    },
-    {
-      "id": 5593,
-      "title": "Kagome Kagome",
       "score": 0.222,
-      "r18": false
-    },
-    {
-      "id": 625,
-      "title": "Idol Pretender",
-      "score": 0.221,
-      "r18": false
-    },
-    {
-      "id": 1409,
-      "title": "Seijou Kouchakan no Jijou",
-      "score": 0.22,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "pl"
+      ]
     },
     {
       "id": 18223,
       "title": "Unbalance School Life",
-      "score": 0.22,
-      "r18": false
+      "score": 0.219,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 11938,
       "title": "Mayonaka no X Giten",
       "score": 0.218,
-      "r18": false
-    },
-    {
-      "id": 2203,
-      "title": "Sekainohate de Aimashou",
-      "score": 0.216,
-      "r18": false
-    },
-    {
-      "id": 7469,
-      "title": "Tsuri Chichi Nagisa",
-      "score": 0.214,
-      "r18": false
-    },
-    {
-      "id": 29991,
-      "title": "Zanguard",
-      "score": 0.214,
-      "r18": false
-    },
-    {
-      "id": 988,
-      "title": "Baka to Boin",
-      "score": 0.212,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 621,
       "title": "Shuukyuu Shoujo",
       "score": 0.211,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 47240,
       "title": "Zenbu Kimi no Sei",
       "score": 0.211,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 1332,
+      "title": "Yakuza Girl",
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 34501,
+      "title": "HEN - Suzuki &amp; Satou",
+      "score": 0.204,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4120,
+      "title": "Sai:Taker - Futari no Artemis",
+      "score": 0.203,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 454,
+      "title": "Gou-dere Bishoujo Nagihara Sora",
+      "score": 0.202,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "pl"
+      ]
+    },
+    {
+      "id": 6793,
+      "title": "Mizutama Rindou",
+      "score": 0.201,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 625,
+      "title": "Idol Pretender",
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 526,
+      "title": "Itadaki!",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de"
+      ]
+    },
+    {
+      "id": 3856,
+      "title": "Nuiguru Mix",
+      "score": 0.198,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1409,
+      "title": "Seijou Kouchakan no Jijou",
+      "score": 0.198,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 5528,
+      "title": "Tokage no Ou",
+      "score": 0.195,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru",
+        "pl"
+      ]
+    },
+    {
+      "id": 988,
+      "title": "Baka to Boin",
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "it",
+        "fr"
+      ]
     },
     {
       "id": 2116,
       "title": "Cu-Cu-Cute!",
-      "score": 0.21,
-      "r18": false
+      "score": 0.19,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 270,
       "title": "Oto x Maho",
-      "score": 0.21,
-      "r18": false
+      "score": 0.189,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 601,
+      "title": "Let's Lagoon",
+      "score": 0.188,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it",
+        "mx",
+        "es"
+      ]
     },
     {
       "id": 11512,
       "title": "Nozomu Nozomi",
-      "score": 0.209,
-      "r18": false
+      "score": 0.188,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr"
+      ]
     },
     {
-      "id": 10643,
-      "title": "Boku Girl",
-      "score": 0.207,
-      "r18": false
+      "id": 7469,
+      "title": "Tsuri Chichi Nagisa",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29991,
+      "title": "Zanguard",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 16454,
       "title": "Jigokuren - Death Life",
-      "score": 0.207,
-      "r18": false
-    },
-    {
-      "id": 10435,
-      "title": "trans-trans",
-      "score": 0.207,
-      "r18": false
-    },
-    {
-      "id": 2543,
-      "title": "Greed Packet Unlimited",
-      "score": 0.207,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     }
   ]
 }

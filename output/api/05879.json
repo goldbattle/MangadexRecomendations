@@ -2,25 +2,54 @@
   "id": 5879,
   "title": "Toudo no Tabibito",
   "url": "https://mangadex.org/manga/5879",
-  "last_updated": "March 14, 2021 12:43:12 UTC",
+  "last_updated": "March 18, 2021 06:35:39 UTC",
   "matches": [
     {
       "id": 29893,
       "title": "Isle of Dogs",
       "score": 0.325,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "hk"
+      ]
     },
     {
       "id": 17579,
       "title": "Ginga Densetsu Weed",
-      "score": 0.262,
-      "r18": false
+      "score": 0.261,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu"
+      ]
+    },
+    {
+      "id": 54155,
+      "title": "Mazarian",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 12672,
       "title": "Tate no Yuusha no Nariagari",
-      "score": 0.118,
-      "r18": false
+      "score": 0.123,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "ru",
+        "br",
+        "mx",
+        "id",
+        "pl",
+        "hu",
+        "it",
+        "sa"
+      ]
     }
   ]
 }

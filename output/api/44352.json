@@ -1,38 +1,54 @@
 {
   "id": 44352,
   "title": "A Pervert in Love Is a Demon",
-  "url": "https://api.mangadex.org/v2/manga/44352",
-  "last_updated": "February 11, 2021 16:39:50 UTC",
+  "url": "https://mangadex.org/manga/44352",
+  "last_updated": "March 18, 2021 12:30:40 UTC",
   "matches": [
-    {
-      "id": 51420,
-      "title": "Jingai-san no Yome",
-      "score": 0.316,
-      "r18": false
-    },
     {
       "id": 53602,
       "title": "AandD",
-      "score": 0.289,
-      "r18": false
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 30304,
-      "title": "The Masterful Cat Is Depressed Again Today",
-      "score": 0.288,
-      "r18": false
+      "id": 51420,
+      "title": "Jingai-san no Yome",
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 44587,
       "title": "New Lily Apartment",
-      "score": 0.276,
-      "r18": false
+      "score": 0.177,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 46840,
       "title": "Online Adventures of a Mistaken Sadist",
-      "score": 0.274,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3758,
+      "title": "Shima Shima Everyday",
+      "score": 0.142,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

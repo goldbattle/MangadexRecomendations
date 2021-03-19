@@ -2,157 +2,271 @@
   "id": 30035,
   "title": "Mahou Daisakusen",
   "url": "https://mangadex.org/manga/30035",
-  "last_updated": "January 13, 2021 12:45:31 UTC",
+  "last_updated": "March 18, 2021 10:31:13 UTC",
   "matches": [
-    {
-      "id": 20348,
-      "title": "The King's Avatar",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 53985,
-      "title": "Dragon Raja 3",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 47385,
-      "title": "Elf Deck To Senjou Gurashi",
-      "score": 0.662,
-      "r18": false
-    },
-    {
-      "id": 7759,
-      "title": ".hack//XXXX",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 24374,
-      "title": ".hack//Link - Tasogare no Kishidan",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 1911,
-      "title": "Infinity Game",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 53969,
-      "title": "Dragon Raja",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 14676,
-      "title": "The Legendary Moonlight Sculptor",
-      "score": 0.654,
-      "r18": false
-    },
     {
       "id": 24963,
       "title": "Sonic the Hedgehog Story Comic",
-      "score": 0.479,
-      "r18": false
-    },
-    {
-      "id": 29303,
-      "title": "Donkey Kong",
-      "score": 0.385,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 38776,
       "title": "Zelda Encyclopedia",
-      "score": 0.351,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 38780,
       "title": "The Hyrule Fantasy (Famicom RPG Book)",
-      "score": 0.344,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 25828,
-      "title": "Legendz",
-      "score": 0.337,
-      "r18": false
+      "id": 29303,
+      "title": "Donkey Kong",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 47531,
       "title": "Minecraft: Journey to the World&rsquo;s End",
-      "score": 0.33,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 34398,
-      "title": "Sonic Comic",
-      "score": 0.324,
-      "r18": false
+      "id": 25828,
+      "title": "Legendz",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 14408,
-      "title": "I Am the Only One Who Knows This World Is a Game",
-      "score": 0.307,
-      "r18": false
+      "id": 7759,
+      "title": ".hack//XXXX",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 13800,
-      "title": "The New Gate",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 3804,
-      "title": "Pok&eacute;mon Special",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 34196,
-      "title": "Moto Sekai Ichi'i Subchara Ikusei Nikki: Hai Player, Isekai wo Kouryakuchuu!",
-      "score": 0.286,
-      "r18": false
-    },
-    {
-      "id": 22148,
-      "title": "Infinite Dendrogram",
-      "score": 0.285,
-      "r18": false
-    },
-    {
-      "id": 21898,
-      "title": "Long Live the King",
-      "score": 0.285,
-      "r18": false
-    },
-    {
-      "id": 55675,
-      "title": "Monster Rancher DS",
-      "score": 0.281,
-      "r18": false
-    },
-    {
-      "id": 38449,
-      "title": "Final Fantasy VII: The Sevening (Doujinshi)",
-      "score": 0.28,
-      "r18": false
+      "id": 38779,
+      "title": "The Hyrule Fantasy",
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 50286,
       "title": "Fossil Fighters",
-      "score": 0.276,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 102,
-      "title": "1/2 Prince",
-      "score": 0.276,
-      "r18": false
+      "id": 34398,
+      "title": "Sonic Comic",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3804,
+      "title": "Pok&eacute;mon Special",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "es",
+        "tr",
+        "it",
+        "my",
+        "fr",
+        "no"
+      ]
+    },
+    {
+      "id": 55675,
+      "title": "Monster Rancher DS",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24374,
+      "title": ".hack//Link - Tasogare no Kishidan",
+      "score": 0.188,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 20348,
+      "title": "The King's Avatar",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "id",
+        "it",
+        "fr",
+        "de"
+      ]
+    },
+    {
+      "id": 32540,
+      "title": "I'm a Fake NPC",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "tr",
+        "es",
+        "mx"
+      ]
+    },
+    {
+      "id": 38449,
+      "title": "Final Fantasy VII: The Sevening (Doujinshi)",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3105,
+      "title": "EXEcutional",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 46779,
+      "title": "The Legend of Zelda Breath of the Wild - Attention-Seeker (Doujinshi)",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14408,
+      "title": "I Am the Only One Who Knows This World Is a Game",
+      "score": 0.167,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id"
+      ]
+    },
+    {
+      "id": 13800,
+      "title": "The New Gate",
+      "score": 0.163,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "fr",
+        "it",
+        "id",
+        "mx",
+        "sa",
+        "tr",
+        "nl"
+      ]
+    },
+    {
+      "id": 21898,
+      "title": "Long Live the King",
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "tr",
+        "fr"
+      ]
+    },
+    {
+      "id": 22148,
+      "title": "Infinite Dendrogram",
+      "score": 0.156,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1911,
+      "title": "Infinity Game",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50951,
+      "title": "Gundam Build Diver Rize",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 12453,
+      "title": "Toaru Ossan no VRMMO Katsudouki",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru",
+        "br",
+        "fr"
+      ]
     }
   ]
 }

@@ -1,32 +1,60 @@
 {
   "id": 50472,
   "title": "Monster and Parent",
-  "url": "https://api.mangadex.org/v2/manga/50472",
-  "last_updated": "February 05, 2021 08:24:12 UTC",
+  "url": "https://mangadex.org/manga/50472",
+  "last_updated": "March 18, 2021 13:21:53 UTC",
   "matches": [
-    {
-      "id": 51928,
-      "title": "Laos Chronicles",
-      "score": 0.229,
-      "r18": false
-    },
     {
       "id": 28659,
       "title": "Itou-kun wa Koi wo Shiranai.",
-      "score": 0.228,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
-      "id": 51541,
-      "title": "Together with Shinsun",
-      "score": 0.153,
-      "r18": false
+      "id": 51928,
+      "title": "Laos Chronicles",
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 59476,
+      "title": "The Tyrant's Guardian Is an Evil Witch",
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "tr",
+        "br",
+        "it",
+        "id"
+      ]
     },
     {
       "id": 55397,
       "title": "Kyuukou, Escape, Mermaid.",
-      "score": 0.124,
-      "r18": false
+      "score": 0.101,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 51541,
+      "title": "Together with Shinsun",
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

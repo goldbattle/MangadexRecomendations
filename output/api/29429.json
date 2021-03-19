@@ -2,73 +2,123 @@
   "id": 29429,
   "title": "Crawling Dreams",
   "url": "https://mangadex.org/manga/29429",
-  "last_updated": "January 13, 2021 06:55:25 UTC",
+  "last_updated": "March 18, 2021 10:26:09 UTC",
   "matches": [
+    {
+      "id": 57721,
+      "title": "Lovecraft Girls - or How to Prevent the Apocalypse",
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
     {
       "id": 38441,
       "title": "@17 Years Old, We Start Living Together From Today!",
-      "score": 0.328,
-      "r18": false
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 56195,
       "title": "Love's Revenge Game",
-      "score": 0.31,
-      "r18": false
-    },
-    {
-      "id": 52740,
-      "title": "Scream Queen",
-      "score": 0.282,
-      "r18": false
-    },
-    {
-      "id": 29330,
-      "title": "Circle Zero's Otherworldly Hero Business",
-      "score": 0.258,
-      "r18": false
+      "score": 0.204,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 39563,
       "title": "Hello Zombie Girl",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 41732,
-      "title": "Shitai no \u2661 Karen-san!!",
-      "score": 0.224,
-      "r18": false
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 56465,
       "title": "Hahazuka-san wo &times;&times; ni Shitai",
-      "score": 0.219,
-      "r18": false
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 36504,
-      "title": "Ping Dan's Inflatable Doll: Zoe-17",
-      "score": 0.219,
-      "r18": false
-    },
-    {
-      "id": 38364,
-      "title": "My Girlfriend Is a Zombie",
-      "score": 0.212,
-      "r18": false
+      "id": 52740,
+      "title": "Scream Queen",
+      "score": 0.161,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 50785,
       "title": "I Have Twin Girlfriends",
-      "score": 0.211,
-      "r18": false
+      "score": 0.161,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id"
+      ]
     },
     {
-      "id": 59429,
-      "title": "My world legion of Doom",
-      "score": 0.163,
-      "r18": false
+      "id": 29330,
+      "title": "Circle Zero's Otherworldly Hero Business",
+      "score": 0.138,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "id",
+        "br"
+      ]
+    },
+    {
+      "id": 41732,
+      "title": "Shitai no \u2661 Karen-san!!",
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx"
+      ]
+    },
+    {
+      "id": 38364,
+      "title": "My Girlfriend Is a Zombie",
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "mx",
+        "fr",
+        "th",
+        "pl",
+        "it",
+        "id",
+        "es"
+      ]
+    },
+    {
+      "id": 36504,
+      "title": "Ping Dan's Inflatable Doll: Zoe-17",
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -2,13 +2,30 @@
   "id": 18583,
   "title": "Ashita wa Doyoubi",
   "url": "https://mangadex.org/manga/18583",
-  "last_updated": "March 16, 2021 00:08:39 UTC",
+  "last_updated": "March 18, 2021 08:41:28 UTC",
   "matches": [
     {
       "id": 5264,
       "title": "Rizelmine",
       "score": 0.214,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 18045,
+      "title": "Gabriel DropOut",
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "fr",
+        "br",
+        "gb",
+        "ru",
+        "id"
+      ]
     }
   ]
 }

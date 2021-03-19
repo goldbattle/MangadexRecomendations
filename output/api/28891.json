@@ -2,61 +2,90 @@
   "id": 28891,
   "title": "Shoujo\u2606Kageki Revue Starlight Overture",
   "url": "https://mangadex.org/manga/28891",
-  "last_updated": "March 17, 2021 00:45:28 UTC",
+  "last_updated": "March 18, 2021 10:21:40 UTC",
   "matches": [
     {
       "id": 37429,
       "title": "Voice Rush",
       "score": 0.29,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb"
+      ]
     },
     {
       "id": 45492,
       "title": "Sono Shukujo wa Guuzou to Naru",
-      "score": 0.29,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "cn"
+      ]
     },
     {
       "id": 6488,
       "title": "Mashiro no Oto",
-      "score": 0.29,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2999,
       "title": "Pyu to Fuku! Jaguar",
-      "score": 0.29,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 13742,
       "title": "Fujicue!!! - Fujicue's Music",
       "score": 0.249,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4731,
       "title": "Hallelujah Overdrive!",
-      "score": 0.23,
-      "r18": false
+      "score": 0.229,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 51897,
       "title": "Hanazono Twins",
       "score": 0.207,
-      "r18": false
-    },
-    {
-      "id": 6056,
-      "title": "Shigatsu wa Kimi no Uso",
-      "score": 0.172,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "mx",
+        "ru"
+      ]
     },
     {
       "id": 9707,
       "title": "Kono Oto Tomare!",
       "score": 0.161,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn",
+        "br",
+        "id",
+        "fr",
+        "it",
+        "hu"
+      ]
     }
   ]
 }

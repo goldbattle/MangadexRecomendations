@@ -1,158 +1,247 @@
 {
   "id": 31166,
   "title": "Mudazumo Naki Kaikaku - Princess of Zipang",
-  "url": "https://api.mangadex.org/v2/manga/31166",
-  "last_updated": "February 10, 2021 08:15:52 UTC",
+  "url": "https://mangadex.org/manga/31166",
+  "last_updated": "March 18, 2021 10:40:39 UTC",
   "matches": [
     {
       "id": 24671,
       "title": "Olympic Circles",
-      "score": 0.22,
-      "r18": false
+      "score": 0.19,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2147,
       "title": "Kutsuzure Sensen",
-      "score": 0.215,
-      "r18": false
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22485,
       "title": "Necrologue",
-      "score": 0.215,
-      "r18": false
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 24309,
       "title": "Shin Angyo Onshi Gaiden",
-      "score": 0.215,
-      "r18": false
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 30640,
       "title": "Van Helsing - Darkness Blood",
-      "score": 0.215,
-      "r18": false
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 44832,
       "title": "Toudoku ni Ita",
-      "score": 0.215,
-      "r18": false
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de",
+        "es"
+      ]
     },
     {
       "id": 1985,
       "title": "Hellsing - The Dawn",
-      "score": 0.206,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 9578,
       "title": "Kakuriyo Monogatari",
-      "score": 0.191,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 14398,
       "title": "Nejimaki Seirei Senki - Tenkyou no Alderamin",
-      "score": 0.189,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 32288,
       "title": "3-gatsu no Lion Shouwa Ibun - Shakunetsu no Jidai",
-      "score": 0.177,
-      "r18": false
-    },
-    {
-      "id": 187,
-      "title": "Hayate x Blade",
-      "score": 0.175,
-      "r18": false
-    },
-    {
-      "id": 276,
-      "title": "Karate Shoukoushi Kohinata Minoru",
-      "score": 0.175,
-      "r18": false
-    },
-    {
-      "id": 2279,
-      "title": "Koukou Tekken-den Tough",
-      "score": 0.175,
-      "r18": false
-    },
-    {
-      "id": 3866,
-      "title": "Asahinagu",
-      "score": 0.175,
-      "r18": false
-    },
-    {
-      "id": 10697,
-      "title": "Suberuwo Itowazu",
-      "score": 0.175,
-      "r18": false
-    },
-    {
-      "id": 15382,
-      "title": "GIRLS und PANZER - Comic Anthology",
-      "score": 0.175,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19434,
       "title": "Toki",
-      "score": 0.175,
-      "r18": false
-    },
-    {
-      "id": 20014,
-      "title": "GIRLS und PANZER - phase.ERIKA",
-      "score": 0.175,
-      "r18": false
-    },
-    {
-      "id": 23155,
-      "title": "Tokurei Sochi Dantai Stella Jogakuin Koutouka C&sup3; Bu",
-      "score": 0.175,
-      "r18": false
-    },
-    {
-      "id": 23159,
-      "title": "Tokurei Sochi Dantai Stella Jogakuin Chuutouka C&sup3; Bu VS Anime Tenchou",
-      "score": 0.175,
-      "r18": false
-    },
-    {
-      "id": 27133,
-      "title": "F",
-      "score": 0.175,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 47302,
       "title": "Mahjong Diva Obaka Miiko",
-      "score": 0.175,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 51992,
       "title": "Nakasete Kurenai Kamiya-san",
-      "score": 0.175,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 187,
+      "title": "Hayate x Blade",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 276,
+      "title": "Karate Shoukoushi Kohinata Minoru",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 2279,
+      "title": "Koukou Tekken-den Tough",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 3866,
+      "title": "Asahinagu",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "ru",
+        "es",
+        "gb"
+      ]
+    },
+    {
+      "id": 10697,
+      "title": "Suberuwo Itowazu",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 15382,
+      "title": "GIRLS und PANZER - Comic Anthology",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20014,
+      "title": "GIRLS und PANZER - phase.ERIKA",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx",
+        "de"
+      ]
+    },
+    {
+      "id": 23155,
+      "title": "Tokurei Sochi Dantai Stella Jogakuin Koutouka C&sup3; Bu",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 23159,
+      "title": "Tokurei Sochi Dantai Stella Jogakuin Chuutouka C&sup3; Bu VS Anime Tenchou",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 27133,
+      "title": "F",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 48,
       "title": "Genpei Tenshou Emaki Azamaru",
-      "score": 0.172,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 527,
       "title": "Yougen no Chi",
-      "score": 0.172,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -2,31 +2,45 @@
   "id": 6077,
   "title": "Arigatou",
   "url": "https://mangadex.org/manga/6077",
-  "last_updated": "March 14, 2021 12:46:13 UTC",
+  "last_updated": "March 18, 2021 06:37:25 UTC",
   "matches": [
-    {
-      "id": 7327,
-      "title": "Doctor Du Ming",
-      "score": 0.233,
-      "r18": false
-    },
     {
       "id": 13840,
       "title": "The Inferno in Bottles",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7327,
+      "title": "Doctor Du Ming",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 21636,
       "title": "Mashira",
-      "score": 0.2,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 18813,
       "title": "House of Dolls",
-      "score": 0.156,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     }
   ]
 }

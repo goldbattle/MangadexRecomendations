@@ -1,158 +1,249 @@
 {
   "id": 33946,
   "title": "Princess Knight",
-  "url": "https://api.mangadex.org/v2/manga/33946",
-  "last_updated": "February 10, 2021 12:46:22 UTC",
+  "url": "https://mangadex.org/manga/33946",
+  "last_updated": "March 18, 2021 11:03:49 UTC",
   "matches": [
     {
-      "id": 59999,
-      "title": "Save Me, Princess",
-      "score": 0.774,
-      "r18": false
+      "id": 21811,
+      "title": "Hinoko",
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 11945,
-      "title": "Okobore Hime to Entaku no Kishi",
-      "score": 0.769,
-      "r18": false
+      "id": 5572,
+      "title": "Kami no Na wa, Hinomoto Shinwa Ibun",
+      "score": 0.285,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 10945,
-      "title": "Otoko Hime to Mahou no Lamp",
-      "score": 0.736,
-      "r18": false
-    },
-    {
-      "id": 4547,
-      "title": "Alfheim no Kishi",
-      "score": 0.734,
-      "r18": false
-    },
-    {
-      "id": 58853,
-      "title": "Lineage",
-      "score": 0.732,
-      "r18": false
-    },
-    {
-      "id": 35063,
-      "title": "Dragon Knights",
-      "score": 0.73,
-      "r18": false
-    },
-    {
-      "id": 19144,
-      "title": "Kashou no Tsuki",
-      "score": 0.724,
-      "r18": false
-    },
-    {
-      "id": 6399,
-      "title": "Fushigi Yuugi - Genbu Kaiden",
-      "score": 0.72,
-      "r18": false
-    },
-    {
-      "id": 20153,
-      "title": "Tripitaka Torinique",
-      "score": 0.718,
-      "r18": false
-    },
-    {
-      "id": 3941,
-      "title": "Four Daughters of Armian",
-      "score": 0.715,
-      "r18": false
+      "id": 50959,
+      "title": "Tenshi no Fukuin",
+      "score": 0.276,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4730,
       "title": "Ludwig Fantasia",
-      "score": 0.715,
-      "r18": false
-    },
-    {
-      "id": 2008,
-      "title": "Amakusa 1637",
-      "score": 0.713,
-      "r18": false
-    },
-    {
-      "id": 5235,
-      "title": "Aoki Umi no Toraware Hime",
-      "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 999,
-      "title": "Akagami no Shirayukihime",
-      "score": 0.71,
-      "r18": false
-    },
-    {
-      "id": 2137,
-      "title": "Global Garden",
-      "score": 0.706,
-      "r18": false
-    },
-    {
-      "id": 6434,
-      "title": "Wanted",
-      "score": 0.701,
-      "r18": false
-    },
-    {
-      "id": 6021,
-      "title": "Harukanaru Toki no Naka de",
-      "score": 0.699,
-      "r18": false
-    },
-    {
-      "id": 4508,
-      "title": "Butterfly Read Book",
-      "score": 0.694,
-      "r18": false
-    },
-    {
-      "id": 854,
-      "title": "Ouke no Monshou",
-      "score": 0.694,
-      "r18": false
-    },
-    {
-      "id": 47363,
-      "title": "The Precious Sister of the Villainous Grand Duke",
-      "score": 0.693,
-      "r18": false
+      "score": 0.269,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 27729,
       "title": "Ouji to Yamori",
-      "score": 0.689,
-      "r18": false
+      "score": 0.269,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 14357,
-      "title": "Toukaidou HISAME -Kagerou-",
-      "score": 0.689,
-      "r18": false
+      "id": 5235,
+      "title": "Aoki Umi no Toraware Hime",
+      "score": 0.263,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 48468,
-      "title": "Master Drifting Away Again",
-      "score": 0.687,
-      "r18": false
+      "id": 58853,
+      "title": "Lineage",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 9662,
-      "title": "Vahlia no Hanamuko",
-      "score": 0.683,
-      "r18": false
+      "id": 10945,
+      "title": "Otoko Hime to Mahou no Lamp",
+      "score": 0.247,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2137,
+      "title": "Global Garden",
+      "score": 0.244,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6434,
+      "title": "Wanted",
+      "score": 0.235,
+      "r18": false,
+      "languages": [
+        "bg",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 4547,
+      "title": "Alfheim no Kishi",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 3941,
+      "title": "Four Daughters of Armian",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2971,
+      "title": "Chun Hyang Bi Hwa",
+      "score": 0.228,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 17375,
+      "title": "Renai Tripper",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14223,
+      "title": "Teikoku Kyoudai",
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 11945,
+      "title": "Okobore Hime to Entaku no Kishi",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 20844,
       "title": "Harukanaru Toki no Naka de 6",
-      "score": 0.682,
-      "r18": false
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 32831,
+      "title": "Taketori Monogatari",
+      "score": 0.216,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3070,
+      "title": "Hakushaku to Yousei",
+      "score": 0.212,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu"
+      ]
+    },
+    {
+      "id": 4140,
+      "title": "Hana wa Sakura yori mo Hana no Gotoku",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21448,
+      "title": "Miao Shou Xian Dan",
+      "score": 0.201,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9662,
+      "title": "Vahlia no Hanamuko",
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "fr",
+        "pl",
+        "de",
+        "gb",
+        "bg",
+        "pt",
+        "it",
+        "br"
+      ]
+    },
+    {
+      "id": 59999,
+      "title": "Save Me, Princess",
+      "score": 0.197,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb"
+      ]
+    },
+    {
+      "id": 3940,
+      "title": "Apothecarius Argentum",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2008,
+      "title": "Amakusa 1637",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

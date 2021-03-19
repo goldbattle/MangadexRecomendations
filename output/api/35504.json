@@ -1,38 +1,54 @@
 {
   "id": 35504,
   "title": "Gaman Shinakute Iinda yo",
-  "url": "https://api.mangadex.org/v2/manga/35504",
-  "last_updated": "February 10, 2021 16:44:40 UTC",
+  "url": "https://mangadex.org/manga/35504",
+  "last_updated": "March 18, 2021 11:16:48 UTC",
   "matches": [
     {
       "id": 31980,
       "title": "You Can Surrender to Mei as Many Times as You Want (Doujinshi)",
-      "score": 0.14,
-      "r18": true
+      "score": 0.12,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 40406,
       "title": "Micro Decisive Corps",
-      "score": 0.14,
-      "r18": true
+      "score": 0.12,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 42368,
       "title": "Osananajimi ( &acute;\u0414`) Haa Haa (decensored)",
-      "score": 0.14,
-      "r18": true
+      "score": 0.12,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 44701,
       "title": "First Love in Pasio",
-      "score": 0.1,
-      "r18": true
+      "score": 0.085,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 28751,
       "title": "Boku no Hero Academia - Ukiseikou (Doujinshi)",
-      "score": 0.064,
-      "r18": true
+      "score": 0.054,
+      "r18": true,
+      "languages": [
+        "br",
+        "gb"
+      ]
     }
   ]
 }

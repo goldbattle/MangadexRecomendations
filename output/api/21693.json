@@ -2,31 +2,45 @@
   "id": 21693,
   "title": "Tomogui",
   "url": "https://mangadex.org/manga/21693",
-  "last_updated": "March 16, 2021 08:19:28 UTC",
+  "last_updated": "March 18, 2021 09:07:27 UTC",
   "matches": [
     {
       "id": 24399,
       "title": "An Island Named Desire",
       "score": 0.208,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20176,
       "title": "Freak Island",
       "score": 0.16,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "br"
+      ]
     },
     {
       "id": 6978,
       "title": "Alice from Hell",
-      "score": 0.156,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2720,
       "title": "Eden: It's an Endless World!",
-      "score": 0.129,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

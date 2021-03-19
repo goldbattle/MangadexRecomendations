@@ -1,140 +1,243 @@
 {
   "id": 41878,
   "title": "I Bet the Chief is...",
-  "url": "https://api.mangadex.org/v2/manga/41878",
-  "last_updated": "February 11, 2021 12:16:59 UTC",
+  "url": "https://mangadex.org/manga/41878",
+  "last_updated": "March 18, 2021 12:10:00 UTC",
   "matches": [
-    {
-      "id": 47478,
-      "title": "Kono Otoko ha Jinsei Saidai no Ayamachidesu",
-      "score": 0.681,
-      "r18": false
-    },
     {
       "id": 59906,
       "title": "Kakekara Hajimaru Sayonara no Koi",
-      "score": 0.668,
-      "r18": false
-    },
-    {
-      "id": 58387,
-      "title": "His 10,000 Romantic Traps",
-      "score": 0.657,
-      "r18": false
-    },
-    {
-      "id": 17073,
-      "title": "Wotaku ni Koi wa Muzukashii",
-      "score": 0.654,
-      "r18": false
+      "score": 0.364,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 19510,
       "title": "Koisuru Nante Kiitenai",
-      "score": 0.481,
-      "r18": false
+      "score": 0.355,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 11349,
+      "title": "Chou yo Hana yo",
+      "score": 0.337,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 47478,
+      "title": "Kono Otoko ha Jinsei Saidai no Ayamachidesu",
+      "score": 0.283,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 26853,
       "title": "Watashi-tachi no Himitsu Jijou",
-      "score": 0.399,
-      "r18": false
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 17073,
+      "title": "Wotaku ni Koi wa Muzukashii",
+      "score": 0.263,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "mx",
+        "id",
+        "es"
+      ]
     },
     {
       "id": 59191,
       "title": "Hana Wants This Flower to Bloom!",
-      "score": 0.397,
-      "r18": false
+      "score": 0.254,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 48691,
       "title": "The Senior and Junior Broke up Three Months Ago",
-      "score": 0.372,
-      "r18": false
-    },
-    {
-      "id": 58145,
-      "title": "Kuuki ga &quot;Yomeru&quot; Shinnyushain to Buaiso na Senpai no Hanashi (Serialization)",
-      "score": 0.355,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 49752,
       "title": "Kijima-san to Yamada-san",
-      "score": 0.353,
-      "r18": false
+      "score": 0.228,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "br",
+        "id"
+      ]
     },
     {
-      "id": 11240,
-      "title": "31 Ai Dream",
-      "score": 0.341,
-      "r18": false
+      "id": 58145,
+      "title": "Kuuki ga &quot;Yomeru&quot; Shinnyushain to Buaiso na Senpai no Hanashi (Serialization)",
+      "score": 0.226,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "mx"
+      ]
     },
     {
       "id": 45834,
       "title": "Let's Go to Work Tomorrow!",
-      "score": 0.307,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29512,
       "title": "What's Wrong with Secretary Kim",
-      "score": 0.306,
-      "r18": false
-    },
-    {
-      "id": 36841,
-      "title": "The Problem of My Love Affair",
-      "score": 0.289,
-      "r18": false
-    },
-    {
-      "id": 54011,
-      "title": "Project S",
-      "score": 0.287,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
     },
     {
       "id": 41050,
       "title": "Deadline Is Coming",
-      "score": 0.264,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 50972,
-      "title": "Kiss Me Please",
-      "score": 0.263,
-      "r18": false
+      "id": 50399,
+      "title": "Related to Love",
+      "score": 0.198,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 51349,
-      "title": "1/24 Romance",
-      "score": 0.263,
-      "r18": false
+      "id": 11240,
+      "title": "31 Ai Dream",
+      "score": 0.197,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 37070,
-      "title": "A Business Proposal",
-      "score": 0.257,
-      "r18": false
-    },
-    {
-      "id": 50113,
-      "title": "Please Take Care of Me in This Life as Well",
-      "score": 0.24,
-      "r18": false
+      "id": 58387,
+      "title": "His 10,000 Romantic Traps",
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
     },
     {
       "id": 23113,
       "title": "Ii ne! Hikaru Genji-kun",
-      "score": 0.234,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 42764,
-      "title": "Caramel, Cinnamon, Popcorn",
-      "score": 0.227,
-      "r18": false
+      "id": 36841,
+      "title": "The Problem of My Love Affair",
+      "score": 0.173,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50113,
+      "title": "Please Take Care of Me in This Life as Well",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 55266,
+      "title": "A Bittersweet Couple",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 54011,
+      "title": "Project S",
+      "score": 0.153,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ir",
+        "br"
+      ]
+    },
+    {
+      "id": 46731,
+      "title": "Wolf Crying Pharmacy",
+      "score": 0.153,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 51349,
+      "title": "1/24 Romance",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ir",
+        "it"
+      ]
+    },
+    {
+      "id": 50972,
+      "title": "Kiss Me Please",
+      "score": 0.147,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

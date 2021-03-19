@@ -2,25 +2,36 @@
   "id": 52650,
   "title": "A Pleasure Killing Princess",
   "url": "https://mangadex.org/manga/52650",
-  "last_updated": "January 16, 2021 00:59:04 UTC",
+  "last_updated": "March 18, 2021 13:40:04 UTC",
   "matches": [
-    {
-      "id": 34522,
-      "title": "Himenospia",
-      "score": 0.684,
-      "r18": false
-    },
     {
       "id": 26461,
       "title": "Ijousha no Ai",
-      "score": 0.353,
-      "r18": false
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru"
+      ]
     },
     {
       "id": 272,
       "title": "Gantz",
-      "score": 0.339,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl",
+        "br",
+        "ru",
+        "es",
+        "hu",
+        "ro",
+        "hk",
+        "sa"
+      ]
     }
   ]
 }

@@ -1,158 +1,248 @@
 {
   "id": 52065,
   "title": "Super Aleste",
-  "url": "https://api.mangadex.org/v2/manga/52065",
-  "last_updated": "February 05, 2021 12:18:19 UTC",
+  "url": "https://mangadex.org/manga/52065",
+  "last_updated": "March 18, 2021 13:35:11 UTC",
   "matches": [
-    {
-      "id": 39846,
-      "title": "Kidou Senshi Gundam AGE -First Evolution-",
-      "score": 0.682,
-      "r18": false
-    },
-    {
-      "id": 3862,
-      "title": "Super Robot Taisen OG - Divine Wars - Record of ATX",
-      "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 3861,
-      "title": "Super Robot Taisen OG - The Inspector - Record of ATX",
-      "score": 0.673,
-      "r18": false
-    },
-    {
-      "id": 5899,
-      "title": "Shin Kidou Senki Gundam W",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 1386,
-      "title": "Red Eyes",
-      "score": 0.662,
-      "r18": false
-    },
-    {
-      "id": 6126,
-      "title": "Kidou Senshi Gundam Senki - Lost War Chronicles",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 7702,
-      "title": "Shin Kidou Senki Gundam W - Endless Waltz: Haishatachi no Eikou",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 23340,
-      "title": "Kidou Senshi Gundam - MS Senki Reboot",
-      "score": 0.65,
-      "r18": false
-    },
-    {
-      "id": 50076,
-      "title": "Unparalleled Path ~ Reincarnated as the AI for a Space Battleship ~",
-      "score": 0.65,
-      "r18": false
-    },
-    {
-      "id": 7719,
-      "title": "Kidou Senshi Gundam - Zeon no Saiko",
-      "score": 0.417,
-      "r18": false
-    },
-    {
-      "id": 4801,
-      "title": "Super Robot Retsuden",
-      "score": 0.401,
-      "r18": false
-    },
     {
       "id": 45671,
       "title": "Kidou Senshi Gundam 00I",
-      "score": 0.392,
-      "r18": false
-    },
-    {
-      "id": 48827,
-      "title": "Trigger Keeper",
-      "score": 0.386,
-      "r18": false
-    },
-    {
-      "id": 7817,
-      "title": "Kidou Senshi Gundam U.C. 0094 - Across The Sky",
-      "score": 0.368,
-      "r18": false
-    },
-    {
-      "id": 23327,
-      "title": "Kidou Senshi Moon Gundam",
-      "score": 0.354,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 52480,
       "title": "space battleship SILVER SEVEN",
-      "score": 0.339,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "br",
+        "mx"
+      ]
     },
     {
-      "id": 24567,
-      "title": "Kidou Senshi Gundam Senki U.C. 0081 - Suiten no Namida",
-      "score": 0.338,
-      "r18": false
+      "id": 4801,
+      "title": "Super Robot Retsuden",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 19688,
-      "title": "Red Sprite",
-      "score": 0.338,
-      "r18": false
+      "id": 3862,
+      "title": "Super Robot Taisen OG - Divine Wars - Record of ATX",
+      "score": 0.263,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 3215,
-      "title": "Advance of &Zeta; - Titans no Hata no Moto ni",
-      "score": 0.335,
-      "r18": false
+      "id": 3861,
+      "title": "Super Robot Taisen OG - The Inspector - Record of ATX",
+      "score": 0.26,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 18729,
-      "title": "Kidou Senshi Gundam - Tekketsu no Orphans Gekkou",
-      "score": 0.327,
-      "r18": false
+      "id": 7719,
+      "title": "Kidou Senshi Gundam - Zeon no Saiko",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 7780,
-      "title": "Kidou Senshi Crossbone Gundam - Skullheart",
-      "score": 0.318,
-      "r18": false
+      "id": 48827,
+      "title": "Trigger Keeper",
+      "score": 0.253,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 30802,
-      "title": "Cyborg 009",
-      "score": 0.318,
-      "r18": false
+      "id": 23327,
+      "title": "Kidou Senshi Moon Gundam",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 7721,
-      "title": "Kidou Senshi Gundam Silhouette Formula 91 in U.C.0123",
-      "score": 0.315,
-      "r18": false
+      "id": 1386,
+      "title": "Red Eyes",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 14335,
-      "title": "Kidou Senshi Gundam Acguy - Hokubei Oudan 2250 Miles",
-      "score": 0.314,
-      "r18": false
+      "id": 50370,
+      "title": "MY LITTLE MARS",
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "hk",
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 7817,
+      "title": "Kidou Senshi Gundam U.C. 0094 - Across The Sky",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 23340,
+      "title": "Kidou Senshi Gundam - MS Senki Reboot",
+      "score": 0.212,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 38601,
       "title": "BITMAX",
-      "score": 0.305,
-      "r18": false
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 18729,
+      "title": "Kidou Senshi Gundam - Tekketsu no Orphans Gekkou",
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 23329,
+      "title": "Kidou Senshi Gundam UC (Unicorn) - Bande Dessin&eacute;e: Episode 0",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50954,
+      "title": "Kaiju No. 8",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "it",
+        "ru",
+        "tr",
+        "ua",
+        "pl"
+      ]
+    },
+    {
+      "id": 7702,
+      "title": "Shin Kidou Senki Gundam W - Endless Waltz: Haishatachi no Eikou",
+      "score": 0.198,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 39846,
+      "title": "Kidou Senshi Gundam AGE -First Evolution-",
+      "score": 0.198,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 31070,
+      "title": "Cyborg Kuro-chan",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3215,
+      "title": "Advance of &Zeta; - Titans no Hata no Moto ni",
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24567,
+      "title": "Kidou Senshi Gundam Senki U.C. 0081 - Suiten no Namida",
+      "score": 0.188,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7780,
+      "title": "Kidou Senshi Crossbone Gundam - Skullheart",
+      "score": 0.188,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19688,
+      "title": "Red Sprite",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 5899,
+      "title": "Shin Kidou Senki Gundam W",
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7779,
+      "title": "Kidou Senshi Crossbone Gundam - Koutetsu no 7 Nin",
+      "score": 0.179,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

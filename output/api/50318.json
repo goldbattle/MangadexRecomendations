@@ -1,158 +1,265 @@
 {
   "id": 50318,
   "title": "Itsuwari no Ai wo Haramu",
-  "url": "https://api.mangadex.org/v2/manga/50318",
-  "last_updated": "February 05, 2021 08:21:44 UTC",
+  "url": "https://mangadex.org/manga/50318",
+  "last_updated": "March 18, 2021 13:20:36 UTC",
   "matches": [
     {
-      "id": 55977,
-      "title": "Ways of Parting",
-      "score": 0.724,
-      "r18": false
+      "id": 15218,
+      "title": "Ai ga Matteru",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
-      "id": 53763,
-      "title": "Riesgo en zona de trabajo",
-      "score": 0.71,
-      "r18": false
+      "id": 20797,
+      "title": "Inukei Danshi ni Natsukarechuu",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 55045,
-      "title": "MisMatched",
-      "score": 0.69,
-      "r18": false
+      "id": 30371,
+      "title": "Hinadori wa Shiokaze ni Madoromu",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx",
+        "tr"
+      ]
     },
     {
-      "id": 59264,
-      "title": "The Royal Prince's  First Love",
-      "score": 0.683,
-      "r18": false
+      "id": 32511,
+      "title": "Nights Before Night",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx"
+      ]
     },
     {
       "id": 56144,
       "title": "Double king",
-      "score": 0.675,
-      "r18": false
+      "score": 0.367,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 36308,
-      "title": "The Love of God's Punishment",
-      "score": 0.667,
-      "r18": false
+      "id": 18995,
+      "title": "Tadaima, Okaeri",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "mx",
+        "pl"
+      ]
     },
     {
-      "id": 30922,
-      "title": "Karasu no Yomeiri",
-      "score": 0.666,
-      "r18": false
+      "id": 17887,
+      "title": "To Take an Enemy's Heart",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "pl"
+      ]
+    },
+    {
+      "id": 4793,
+      "title": "Kanashii Doubutsu",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 48911,
+      "title": "Tsubanakasu Haru",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 24531,
+      "title": "Cinderella Plot",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 20326,
+      "title": "Barbarities",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 20083,
+      "title": "Kimagure to Amagami",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 30175,
+      "title": "1\u4e00",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 28904,
+      "title": "Lie Cry Like",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "it"
+      ]
+    },
+    {
+      "id": 29604,
+      "title": "In August",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 53763,
+      "title": "Riesgo en zona de trabajo",
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
+    },
+    {
+      "id": 26960,
+      "title": "Shuchuu ni Otoshite Ii Desu ka",
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 16394,
+      "title": "Charao-kun to Haraguro-kun no Himitsu",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 22296,
+      "title": "Tsugou no Ii Kimi",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 59792,
+      "title": "Hoezura ni Kamitsuku Kisu",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 48244,
       "title": "El Sr. 100% perfecto",
-      "score": 0.659,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
-      "id": 12846,
-      "title": "Trattoria Yamiichi",
-      "score": 0.657,
-      "r18": false
+      "id": 55977,
+      "title": "Ways of Parting",
+      "score": 0.197,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 10561,
-      "title": "Kuma to Interi",
-      "score": 0.655,
-      "r18": false
+      "id": 35640,
+      "title": "The Fifth Encounter",
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
-      "id": 55118,
-      "title": "Kodou no Yokan - Vital Zero",
-      "score": 0.487,
-      "r18": false
+      "id": 19679,
+      "title": "5-nin no Ou",
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "mx",
+        "ru",
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 55255,
-      "title": "Senaka kara Daite",
-      "score": 0.484,
-      "r18": false
-    },
-    {
-      "id": 55117,
-      "title": "Sarou no Ryoshuu",
-      "score": 0.482,
-      "r18": false
-    },
-    {
-      "id": 12725,
-      "title": "Suki mo Kirai mo Jikangai",
-      "score": 0.474,
-      "r18": false
-    },
-    {
-      "id": 37931,
-      "title": "Secret Note",
-      "score": 0.474,
-      "r18": false
-    },
-    {
-      "id": 5273,
-      "title": "Hanataba ni Te o Agero!",
-      "score": 0.474,
-      "r18": false
-    },
-    {
-      "id": 53839,
-      "title": "Shihaisuru Yubisaki",
-      "score": 0.473,
-      "r18": false
-    },
-    {
-      "id": 53196,
-      "title": "Love Together",
-      "score": 0.472,
-      "r18": false
-    },
-    {
-      "id": 26528,
-      "title": "Hisho wa Shachou ni Kudokareru",
-      "score": 0.47,
-      "r18": false
-    },
-    {
-      "id": 24605,
-      "title": "Ao no Sekai",
-      "score": 0.469,
-      "r18": false
-    },
-    {
-      "id": 53841,
-      "title": "Nude na Shisen",
-      "score": 0.468,
-      "r18": false
-    },
-    {
-      "id": 13416,
-      "title": "Kooru Shakunetsu",
-      "score": 0.468,
-      "r18": false
-    },
-    {
-      "id": 53842,
-      "title": "Tsumi to Kuchizuke",
-      "score": 0.467,
-      "r18": false
-    },
-    {
-      "id": 56671,
-      "title": "Hisuiiro no Kaze",
-      "score": 0.465,
-      "r18": false
-    },
-    {
-      "id": 37641,
-      "title": "Hizamazuite Ai ni Kogarero",
-      "score": 0.464,
-      "r18": false
+      "id": 24741,
+      "title": "Shounen to Kusuriuri",
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     }
   ]
 }

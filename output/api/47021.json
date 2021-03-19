@@ -1,14 +1,19 @@
 {
   "id": 47021,
   "title": "Four-way Stop",
-  "url": "https://api.mangadex.org/v2/manga/47021",
-  "last_updated": "February 12, 2021 01:04:10 UTC",
+  "url": "https://mangadex.org/manga/47021",
+  "last_updated": "March 18, 2021 12:52:59 UTC",
   "matches": [
     {
       "id": 21379,
       "title": "Unripened Expression",
-      "score": 0.674,
-      "r18": false
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "vn"
+      ]
     }
   ]
 }

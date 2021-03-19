@@ -2,61 +2,91 @@
   "id": 49158,
   "title": "Tate no Yuusha no Oshinagaki",
   "url": "https://mangadex.org/manga/49158",
-  "last_updated": "January 15, 2021 12:40:41 UTC",
+  "last_updated": "March 18, 2021 13:10:56 UTC",
   "matches": [
+    {
+      "id": 31084,
+      "title": "Gensou Gourmet",
+      "score": 0.278,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id",
+        "es"
+      ]
+    },
     {
       "id": 33943,
       "title": "Isekai Healthy Kitchen",
-      "score": 0.721,
-      "r18": false
-    },
-    {
-      "id": 36694,
-      "title": "Heart-Warming Meals with Mother Fenrir",
-      "score": 0.701,
-      "r18": false
-    },
-    {
-      "id": 21055,
-      "title": "Tondemo Skill de Isekai Hourou Meshi",
-      "score": 0.689,
-      "r18": false
-    },
-    {
-      "id": 33529,
-      "title": "Mazumeshi Elf to Yuboku gurashi",
-      "score": 0.687,
-      "r18": false
+      "score": 0.251,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 30646,
       "title": "Isekai Ekisha no Kissaten",
-      "score": 0.685,
-      "r18": false
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 38975,
       "title": "Ryuu Majin Hime Valalice no Haiboku \uff5e Makai Saikyou no Hime ga Jinrui no Gurume ni Makeru Hazu ga Nai",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 41175,
-      "title": "Harapeko na Joushi no I wo Tsukamu Houhou ~Sasensaki wa Kyuutei Madoushi no Senzoku Chef~",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 31084,
-      "title": "Gensou Gourmet",
-      "score": 0.663,
-      "r18": false
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 37392,
       "title": "Tondemo Skill de Isekai Hourou Meshi: Sui no Daibouken",
-      "score": 0.203,
-      "r18": false
+      "score": 0.177,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 33529,
+      "title": "Mazumeshi Elf to Yuboku gurashi",
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 21055,
+      "title": "Tondemo Skill de Isekai Hourou Meshi",
+      "score": 0.151,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "pl"
+      ]
+    },
+    {
+      "id": 36694,
+      "title": "Heart-Warming Meals with Mother Fenrir",
+      "score": 0.129,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "mx"
+      ]
     }
   ]
 }

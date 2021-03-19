@@ -1,158 +1,257 @@
 {
   "id": 54712,
   "title": "Somnia",
-  "url": "https://api.mangadex.org/v2/manga/54712",
-  "last_updated": "March 12, 2021 20:28:58 UTC",
+  "url": "https://mangadex.org/manga/54712",
+  "last_updated": "March 18, 2021 13:57:17 UTC",
   "matches": [
-    {
-      "id": 23195,
-      "title": "The Great Ruler",
-      "score": 0.716,
-      "r18": false
-    },
-    {
-      "id": 6270,
-      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo (Official Colored)",
-      "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 28525,
-      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo",
-      "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 28542,
-      "title": "JoJo's Bizarre Adventure Part 6 - Stone Ocean",
-      "score": 0.705,
-      "r18": false
-    },
-    {
-      "id": 4994,
-      "title": "Saint Seiya",
-      "score": 0.701,
-      "r18": false
-    },
-    {
-      "id": 303,
-      "title": "Claymore",
-      "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 25435,
-      "title": "Madara",
-      "score": 0.697,
-      "r18": false
-    },
-    {
-      "id": 5573,
-      "title": "Saiyuki",
-      "score": 0.697,
-      "r18": false
-    },
-    {
-      "id": 30802,
-      "title": "Cyborg 009",
-      "score": 0.697,
-      "r18": false
-    },
-    {
-      "id": 189,
-      "title": "Lost Universe",
-      "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 11841,
-      "title": "Saint Seiya - Episode G Assassin",
-      "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 54813,
-      "title": "Lost Universe Special",
-      "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 11354,
-      "title": "Kamen Rider ZO",
-      "score": 0.695,
-      "r18": false
-    },
-    {
-      "id": 15886,
-      "title": "The Isolator: Realization of Absolute Solitude",
-      "score": 0.695,
-      "r18": false
-    },
-    {
-      "id": 10526,
-      "title": "Iron Knight",
-      "score": 0.694,
-      "r18": false
-    },
-    {
-      "id": 10207,
-      "title": "Saint Seiya - Episode G",
-      "score": 0.693,
-      "r18": false
-    },
-    {
-      "id": 2844,
-      "title": "Eureka Seven",
-      "score": 0.692,
-      "r18": false
-    },
-    {
-      "id": 30000,
-      "title": "Fight! Super Robot Lifeform Transformers: The Comics",
-      "score": 0.691,
-      "r18": false
-    },
-    {
-      "id": 11923,
-      "title": "Monster X Monster",
-      "score": 0.691,
-      "r18": false
-    },
-    {
-      "id": 20231,
-      "title": "Majo no Geboku to Maou no Tsuno",
-      "score": 0.69,
-      "r18": false
-    },
-    {
-      "id": 19688,
-      "title": "Red Sprite",
-      "score": 0.69,
-      "r18": false
-    },
-    {
-      "id": 50434,
-      "title": "Monster Bar",
-      "score": 0.69,
-      "r18": false
-    },
     {
       "id": 17280,
       "title": "Choujin Locke",
-      "score": 0.69,
-      "r18": false
+      "score": 0.308,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 1751,
-      "title": "D.Gray-man",
-      "score": 0.689,
-      "r18": false
+      "id": 16267,
+      "title": "Dragon Ball Heroes - Victory Mission",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
-      "id": 597,
-      "title": "Mardock Scramble",
-      "score": 0.689,
-      "r18": false
+      "id": 28585,
+      "title": "Super Dragon Ball Heroes: Dark Demon Realm Mission!",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "pl"
+      ]
+    },
+    {
+      "id": 28586,
+      "title": "Super Dragon Ball Heroes: Universe Mission",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 7885,
+      "title": "Babel II",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37659,
+      "title": "Never Dead",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "id"
+      ]
+    },
+    {
+      "id": 24362,
+      "title": "Samurai Spirits - Makai Bugeichou",
+      "score": 0.281,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 35104,
+      "title": "Saigo no Saiyuuki",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "vn",
+        "ru"
+      ]
+    },
+    {
+      "id": 29143,
+      "title": "Shaman King: Red Crimson",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "ru",
+        "mx",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 12648,
+      "title": "Tale of Fairy Tail ~Koori no Kiseki~",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "de",
+        "es",
+        "gb"
+      ]
+    },
+    {
+      "id": 24532,
+      "title": "Dragon Ball - Episode of Bardock",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "pl"
+      ]
+    },
+    {
+      "id": 24310,
+      "title": "Taiyou Shounen Jango",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2248,
+      "title": "E's",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 51503,
+      "title": "CROSS Blood",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3929,
+      "title": "Spray King",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 51699,
+      "title": "Fatalizer",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20840,
+      "title": "Aposimz",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "ru",
+        "mx",
+        "it",
+        "gb",
+        "bg",
+        "pl",
+        "hu"
+      ]
+    },
+    {
+      "id": 25185,
+      "title": "Metroid EX: Samus and Joey",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2239,
+      "title": "Hand x Red",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "it"
+      ]
+    },
+    {
+      "id": 24890,
+      "title": "Star Fox",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24273,
+      "title": "Star Fox: Farewell, Beloved Falco",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20602,
+      "title": "Myth Front",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1754,
+      "title": "Strobo",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 28379,
+      "title": "Count Over",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "id",
+        "br",
+        "hk"
+      ]
+    },
+    {
+      "id": 11487,
+      "title": "Kimi to Shitai to Boku no Kaitou",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

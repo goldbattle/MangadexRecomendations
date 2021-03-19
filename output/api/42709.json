@@ -1,26 +1,38 @@
 {
   "id": 42709,
   "title": "Fetish BL",
-  "url": "https://api.mangadex.org/v2/manga/42709",
-  "last_updated": "February 11, 2021 12:29:24 UTC",
+  "url": "https://mangadex.org/manga/42709",
+  "last_updated": "March 18, 2021 12:16:56 UTC",
   "matches": [
     {
       "id": 41055,
       "title": "Scandal",
-      "score": 0.31,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 58790,
+      "title": "Cannot Help it",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "vn",
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 55078,
       "title": "The Crescent Scholar",
-      "score": 0.254,
-      "r18": false
-    },
-    {
-      "id": 58790,
-      "title": "Can&rsquo;t Help It",
-      "score": 0.247,
-      "r18": false
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

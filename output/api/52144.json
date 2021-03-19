@@ -1,158 +1,233 @@
 {
   "id": 52144,
   "title": "It's Okay, Senpai",
-  "url": "https://api.mangadex.org/v2/manga/52144",
-  "last_updated": "February 05, 2021 12:19:35 UTC",
+  "url": "https://mangadex.org/manga/52144",
+  "last_updated": "March 18, 2021 13:35:51 UTC",
   "matches": [
     {
       "id": 51731,
       "title": "Hoshizoranosita's Short Manga",
-      "score": 0.331,
-      "r18": false
-    },
-    {
-      "id": 55873,
-      "title": "The Barefoot Nina",
-      "score": 0.316,
-      "r18": false
-    },
-    {
-      "id": 3201,
-      "title": "Girl x Girl x Boy",
-      "score": 0.289,
-      "r18": false
-    },
-    {
-      "id": 43753,
-      "title": "The End of the World and a Witch's Love",
-      "score": 0.28,
-      "r18": false
+      "score": 0.308,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 54890,
       "title": "Sensei ni wa Mada Iwanai",
-      "score": 0.28,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 4056,
-      "title": "Shuuden ni wa Kaeshimasu",
-      "score": 0.277,
-      "r18": false
+      "id": 3201,
+      "title": "Girl x Girl x Boy",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
-      "id": 47558,
-      "title": "Cute and Cruel",
-      "score": 0.27,
-      "r18": false
-    },
-    {
-      "id": 58991,
-      "title": "Shoujo Kageki \u2606 Revue Starlight - Jealousy (Doujinshi)",
-      "score": 0.266,
-      "r18": false
-    },
-    {
-      "id": 44318,
-      "title": "Hisokana Hana Emi",
-      "score": 0.259,
-      "r18": false
-    },
-    {
-      "id": 57775,
-      "title": "Today I'll (Make You) Confess",
-      "score": 0.257,
-      "r18": false
-    },
-    {
-      "id": 46395,
-      "title": "Shoujo Kageki Revue Starlight - My Single Wing (Doujinshi)",
-      "score": 0.253,
-      "r18": false
+      "id": 43753,
+      "title": "The End of the World and a Witch's Love",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 57731,
       "title": "Shoujo Kageki Revue Starlight - The Rumor Has Already Spread (Doujinshi)",
-      "score": 0.25,
-      "r18": false
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 54446,
-      "title": "Shoujo Kageki Revue Starlight - The Rumored Two (Doujinshi)",
-      "score": 0.244,
-      "r18": false
+      "id": 58991,
+      "title": "Shoujo Kageki \u2606 Revue Starlight - Jealousy (Doujinshi)",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 55681,
-      "title": "Drunk On The Moon",
-      "score": 0.241,
-      "r18": false
-    },
-    {
-      "id": 54096,
-      "title": "Wish We Were",
-      "score": 0.233,
-      "r18": false
+      "id": 46395,
+      "title": "Shoujo Kageki Revue Starlight - My Single Wing (Doujinshi)",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 58318,
       "title": "Suddenly I Like Girls!",
-      "score": 0.233,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 47558,
+      "title": "Cute and Cruel",
+      "score": 0.198,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4056,
+      "title": "Shuuden ni wa Kaeshimasu",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "tr",
+        "it",
+        "pl"
+      ]
+    },
+    {
+      "id": 55681,
+      "title": "Drunk On The Moon",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 54446,
+      "title": "Shoujo Kageki Revue Starlight - The Rumored Two (Doujinshi)",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 44318,
+      "title": "Hisokana Hana Emi",
+      "score": 0.185,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 46001,
       "title": "Haruru's Short Stories",
-      "score": 0.217,
-      "r18": false
-    },
-    {
-      "id": 57909,
-      "title": "Shoujo Kageki \u2606 Revue Starlight - Study Abroad (Doujinshi)",
-      "score": 0.216,
-      "r18": false
-    },
-    {
-      "id": 59665,
-      "title": "Hi, My Lady",
-      "score": 0.211,
-      "r18": false
-    },
-    {
-      "id": 44697,
-      "title": "Chun and Alice",
-      "score": 0.211,
-      "r18": false
-    },
-    {
-      "id": 46090,
-      "title": "Shoujo Kageki Revue Starlight - Maya and Claudine in Hogwarts School Of Witchcraft and Wizardry (Doujinshi)",
-      "score": 0.208,
-      "r18": false
-    },
-    {
-      "id": 57618,
-      "title": "Shoujo Kageki Revue Starlight - Fox Demon Maya and Human Claudine (Doujinshi)",
-      "score": 0.206,
-      "r18": false
-    },
-    {
-      "id": 53734,
-      "title": "Tendou Maya Erased",
-      "score": 0.201,
-      "r18": false
+      "score": 0.185,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 30312,
       "title": "Winter to Summer",
-      "score": 0.2,
-      "r18": false
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 46090,
+      "title": "Shoujo Kageki Revue Starlight - Maya and Claudine in Hogwarts School Of Witchcraft and Wizardry (Doujinshi)",
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 58116,
+      "title": "Sora &amp; Haena!",
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 44697,
+      "title": "Chun and Alice",
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 57909,
+      "title": "Shoujo Kageki \u2606 Revue Starlight - Study Abroad (Doujinshi)",
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53734,
+      "title": "Tendou Maya Erased",
+      "score": 0.154,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59665,
+      "title": "Hi, My Lady",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 57618,
+      "title": "Shoujo Kageki Revue Starlight - Fox Demon Maya and Human Claudine (Doujinshi)",
+      "score": 0.136,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 53282,
       "title": "Maya and Claudine (MayaKuro) Short Comics Compilation",
-      "score": 0.171,
-      "r18": false
+      "score": 0.136,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50141,
+      "title": "Reflection (Remake)",
+      "score": 0.133,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

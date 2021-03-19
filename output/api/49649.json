@@ -1,158 +1,253 @@
 {
   "id": 49649,
   "title": "Pumpkin Night Gaiden - Naoko",
-  "url": "https://api.mangadex.org/v2/manga/49649",
-  "last_updated": "February 05, 2021 08:10:58 UTC",
+  "url": "https://mangadex.org/manga/49649",
+  "last_updated": "March 18, 2021 13:15:01 UTC",
   "matches": [
-    {
-      "id": 46498,
-      "title": "Kemono Giga",
-      "score": 0.689,
-      "r18": false
-    },
-    {
-      "id": 22123,
-      "title": "Masked Rider KUUGA",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 2488,
-      "title": "Maken X Another",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 4629,
-      "title": "Burning Hell",
-      "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 3850,
-      "title": "Kamen Rider SPIRITS",
-      "score": 0.672,
-      "r18": false
-    },
-    {
-      "id": 21069,
-      "title": "Shokuryou Jinrui",
-      "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 13355,
-      "title": "Ousama Game - Shuukyoku",
-      "score": 0.667,
-      "r18": false
-    },
-    {
-      "id": 13280,
-      "title": "Kamisama, Kisama wo Koroshitai.",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 247,
-      "title": "Gangsta",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 114,
-      "title": "Hellsing",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 2379,
-      "title": "Dorohedoro",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 1018,
-      "title": "Parasyte",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 6125,
-      "title": "Battle Royale II - Blitz Royale",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 4851,
-      "title": "Green Blood",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 1207,
-      "title": "Jigokusei Lemina",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 57939,
-      "title": "Heroes Tournament",
-      "score": 0.657,
-      "r18": false
-    },
-    {
-      "id": 38345,
-      "title": "The Surviving",
-      "score": 0.657,
-      "r18": false
-    },
-    {
-      "id": 10854,
-      "title": "All You Need Is Kill",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 45755,
-      "title": "Angelic Syndrome",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 13136,
-      "title": "Jinrou Game",
-      "score": 0.404,
-      "r18": false
-    },
-    {
-      "id": 51132,
-      "title": "The Devil of the Gods",
-      "score": 0.395,
-      "r18": false
-    },
-    {
-      "id": 46631,
-      "title": "Signal 100",
-      "score": 0.385,
-      "r18": false
-    },
     {
       "id": 22343,
       "title": "Killing Morph",
-      "score": 0.37,
-      "r18": false
-    },
-    {
-      "id": 2774,
-      "title": "Hinamizawa Teiryuujo - Higurashi no Naku Koro ni Genten",
-      "score": 0.337,
-      "r18": false
+      "score": 0.277,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru",
+        "br",
+        "tr",
+        "pl"
+      ]
     },
     {
       "id": 37556,
       "title": "Offal Island",
-      "score": 0.335,
-      "r18": false
+      "score": 0.238,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "id"
+      ]
+    },
+    {
+      "id": 3056,
+      "title": "Tokyo Ghoul",
+      "score": 0.238,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br",
+        "ru",
+        "hu",
+        "es",
+        "il",
+        "ph"
+      ]
+    },
+    {
+      "id": 2379,
+      "title": "Dorohedoro",
+      "score": 0.227,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "tr",
+        "cn",
+        "br",
+        "mx",
+        "sa",
+        "ru",
+        "ua",
+        "fr"
+      ]
+    },
+    {
+      "id": 13502,
+      "title": "Tokyo Ghoul:re",
+      "score": 0.217,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "ru",
+        "id",
+        "br",
+        "es"
+      ]
+    },
+    {
+      "id": 13781,
+      "title": "Kimi Shi ni Tamafu Koto Nakare",
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "ru",
+        "br"
+      ]
+    },
+    {
+      "id": 22144,
+      "title": "Issak",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "br",
+        "ru"
+      ]
+    },
+    {
+      "id": 29541,
+      "title": "Under Ninja",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "fr"
+      ]
+    },
+    {
+      "id": 33537,
+      "title": "Shuumatsu no Valkyrie",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "br",
+        "it",
+        "mx",
+        "gb",
+        "hk",
+        "tr",
+        "sa",
+        "ir",
+        "ru",
+        "fr",
+        "pl"
+      ]
+    },
+    {
+      "id": 646,
+      "title": "Usogui",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "es",
+        "it"
+      ]
+    },
+    {
+      "id": 247,
+      "title": "Gangsta",
+      "score": 0.169,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "tr",
+        "id",
+        "it",
+        "pl"
+      ]
+    },
+    {
+      "id": 4276,
+      "title": "Sound of Bones",
+      "score": 0.163,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it"
+      ]
+    },
+    {
+      "id": 32665,
+      "title": "VS EVIL",
+      "score": 0.161,
+      "r18": false,
+      "languages": [
+        "hk",
+        "es",
+        "gb",
+        "ir",
+        "id",
+        "br",
+        "ru"
+      ]
+    },
+    {
+      "id": 44496,
+      "title": "Gantz:E",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "th",
+        "mx",
+        "br",
+        "hk",
+        "tr",
+        "ru",
+        "hu",
+        "it",
+        "sa",
+        "pl"
+      ]
+    },
+    {
+      "id": 31534,
+      "title": "Batuque",
+      "score": 0.134,
+      "r18": false,
+      "languages": [
+        "hk",
+        "br",
+        "gb",
+        "it",
+        "mx"
+      ]
+    },
+    {
+      "id": 16663,
+      "title": "Golden Kamuy",
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa",
+        "ru",
+        "id",
+        " ",
+        "se",
+        "ro",
+        "it",
+        "br",
+        "pl",
+        "hu",
+        "il"
+      ]
+    },
+    {
+      "id": 4533,
+      "title": "Otome Youkai Zakuro",
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "tr",
+        "br"
+      ]
     }
   ]
 }

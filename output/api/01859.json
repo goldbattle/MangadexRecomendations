@@ -2,61 +2,92 @@
   "id": 1859,
   "title": "Anatolia Story",
   "url": "https://mangadex.org/manga/1859",
-  "last_updated": "March 14, 2021 04:18:30 UTC",
+  "last_updated": "March 18, 2021 05:58:28 UTC",
   "matches": [
     {
       "id": 41750,
       "title": "Ou no Kemono",
-      "score": 0.225,
-      "r18": false
+      "score": 0.224,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 51146,
       "title": "Evil Knight",
       "score": 0.222,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7921,
       "title": "Kaze to Ki no Uta",
       "score": 0.184,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx",
+        "es"
+      ]
     },
     {
       "id": 6435,
       "title": "Soredemo Sekai wa Utsukushii",
-      "score": 0.172,
-      "r18": false
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru",
+        "pl"
+      ]
     },
     {
       "id": 45693,
       "title": "Empress in Turbulent Days",
       "score": 0.171,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
     },
     {
       "id": 55608,
       "title": "Heavenly Bride",
-      "score": 0.169,
-      "r18": false
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 2042,
       "title": "Fairy Cube",
-      "score": 0.164,
-      "r18": false
+      "score": 0.163,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 21430,
       "title": "Shen Yi Di Nu",
       "score": 0.151,
-      "r18": false
-    },
-    {
-      "id": 30281,
-      "title": "The Abandoned Empress",
-      "score": 0.143,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "tr",
+        "id"
+      ]
     }
   ]
 }

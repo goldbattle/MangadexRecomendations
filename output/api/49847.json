@@ -1,158 +1,260 @@
 {
   "id": 49847,
   "title": "Crows Gaiden Housenka - the beginning of HOUSEN",
-  "url": "https://api.mangadex.org/v2/manga/49847",
-  "last_updated": "February 05, 2021 08:14:18 UTC",
+  "url": "https://mangadex.org/manga/49847",
+  "last_updated": "March 18, 2021 13:16:40 UTC",
   "matches": [
     {
       "id": 1424,
       "title": "Worst",
-      "score": 0.732,
-      "r18": false
+      "score": 0.353,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
-      "id": 26774,
-      "title": "Saigo no Worst",
-      "score": 0.712,
-      "r18": false
-    },
-    {
-      "id": 1021,
-      "title": "Girls of the Wild's",
-      "score": 0.712,
-      "r18": false
-    },
-    {
-      "id": 3241,
-      "title": "Drop",
-      "score": 0.71,
-      "r18": false
-    },
-    {
-      "id": 45249,
-      "title": "Mahouka Koukou no Rettousei - Shiba Tatsuya Ansatsu Keikaku",
-      "score": 0.71,
-      "r18": false
-    },
-    {
-      "id": 50672,
-      "title": "My Hero Academia - League Of Villains: Undercover (Fan Colored)",
-      "score": 0.71,
-      "r18": false
+      "id": 6103,
+      "title": "Shonan Bakusozoku",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2093,
       "title": "Crows",
-      "score": 0.709,
-      "r18": false
+      "score": 0.343,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "es"
+      ]
     },
     {
-      "id": 12714,
-      "title": "Boku no Hero Academia",
-      "score": 0.707,
-      "r18": false
+      "id": 51168,
+      "title": "Worst Gaiden Mr. Zetton",
+      "score": 0.33,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "it"
+      ]
     },
     {
-      "id": 20604,
-      "title": "B Group no Shounen X",
-      "score": 0.704,
-      "r18": false
-    },
-    {
-      "id": 16298,
-      "title": "B Group no Shounen",
-      "score": 0.704,
-      "r18": false
-    },
-    {
-      "id": 10596,
-      "title": "elDLIVE",
-      "score": 0.703,
-      "r18": false
-    },
-    {
-      "id": 37391,
-      "title": "Mahouka Koukou no Rettousei - Koto Nairan-hen",
-      "score": 0.703,
-      "r18": false
-    },
-    {
-      "id": 353,
-      "title": "Shibatora",
-      "score": 0.703,
-      "r18": false
+      "id": 1008,
+      "title": "High School",
+      "score": 0.315,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8854,
       "title": "A-bout!",
-      "score": 0.702,
-      "r18": false
+      "score": 0.313,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "id",
+        "fr"
+      ]
     },
     {
-      "id": 3918,
-      "title": "Magic Kaito",
-      "score": 0.702,
-      "r18": false
+      "id": 26774,
+      "title": "Saigo no Worst",
+      "score": 0.312,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
-      "id": 47146,
-      "title": "God of Blackfield",
-      "score": 0.702,
-      "r18": false
-    },
-    {
-      "id": 56535,
-      "title": "Makai Kaeri no Rettou Nouryokusha",
-      "score": 0.702,
-      "r18": false
-    },
-    {
-      "id": 3290,
-      "title": "Mahouka Koukou no Rettousei - Nyuugaku-hen",
-      "score": 0.701,
-      "r18": false
-    },
-    {
-      "id": 2221,
-      "title": "Toraneko Folklore",
-      "score": 0.7,
-      "r18": false
-    },
-    {
-      "id": 3620,
-      "title": "Kyoukai no Rinne",
-      "score": 0.699,
-      "r18": false
-    },
-    {
-      "id": 20235,
-      "title": "Seikimatsu Leader Den Takeshi!",
-      "score": 0.699,
-      "r18": false
-    },
-    {
-      "id": 1946,
-      "title": "Worst Gaiden",
-      "score": 0.698,
-      "r18": false
+      "id": 46062,
+      "title": "Suzuran is Going Strong!",
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 14496,
       "title": "Crows Gaiden - Katagiri Ken Monogatari",
-      "score": 0.696,
-      "r18": false
+      "score": 0.302,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
-      "id": 3738,
-      "title": "Shinakoi",
-      "score": 0.696,
-      "r18": false
+      "id": 1946,
+      "title": "Worst Gaiden",
+      "score": 0.301,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
     },
     {
-      "id": 4548,
-      "title": "Rokudenashi Blues",
-      "score": 0.696,
-      "r18": false
+      "id": 19765,
+      "title": "Sono Go No Crows",
+      "score": 0.301,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 19764,
+      "title": "Crows Gaiden",
+      "score": 0.295,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 694,
+      "title": "Ocha Nigosu",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 14011,
+      "title": "Crows Explode -Gaiden-",
+      "score": 0.283,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 14793,
+      "title": "Cheating Craft",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3417,
+      "title": "Nina Jalhae!",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 49843,
+      "title": "Worst Gaiden Dokuro",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 750,
+      "title": "BaggataWay",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1992,
+      "title": "Sugarless",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 68,
+      "title": "SWOT",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "de"
+      ]
+    },
+    {
+      "id": 2255,
+      "title": "Shunkan Heroism",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24540,
+      "title": "OMG",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21312,
+      "title": "Toaru Kagaku no Railgun Gaiden - Astral Buddy",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "cn",
+        "ru",
+        "br",
+        "de",
+        "fr",
+        "it"
+      ]
+    },
+    {
+      "id": 24358,
+      "title": "Sakura Ganbaru!",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9926,
+      "title": "Twinkle Saber Nova",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

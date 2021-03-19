@@ -1,158 +1,253 @@
 {
   "id": 55473,
   "title": "My Girlfriend Is A Bit Weird, but She Is Very Cute",
-  "url": "https://api.mangadex.org/v2/manga/55473",
-  "last_updated": "March 12, 2021 20:38:16 UTC",
+  "url": "https://mangadex.org/manga/55473",
+  "last_updated": "March 18, 2021 14:03:39 UTC",
   "matches": [
-    {
-      "id": 992,
-      "title": "Narue no Sekai",
-      "score": 0.356,
-      "r18": false
-    },
     {
       "id": 325,
       "title": "Galaxy Angel",
-      "score": 0.342,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 992,
+      "title": "Narue no Sekai",
+      "score": 0.254,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 47821,
       "title": "Amasawa-kun and Kamuna-chan",
-      "score": 0.315,
-      "r18": false
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 10596,
       "title": "elDLIVE",
-      "score": 0.298,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 13191,
       "title": "Kakumeiki Valvrave Anthology Comic",
-      "score": 0.294,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 720,
       "title": "Harukaze BITTER\u2605BOP",
-      "score": 0.274,
-      "r18": false
-    },
-    {
-      "id": 1055,
-      "title": "Classmate, Kamimura Yuuka wa Kou Itta",
-      "score": 0.263,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6977,
       "title": "Fukanzen Shinsei Kikan Iris",
-      "score": 0.257,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 10818,
       "title": "Clockwork Planet",
-      "score": 0.248,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "ru",
+        "es"
+      ]
     },
     {
-      "id": 31119,
-      "title": "Ban Shou Dao - Island of Hybrids",
-      "score": 0.243,
-      "r18": false
-    },
-    {
-      "id": 25924,
-      "title": "Oogiri",
-      "score": 0.236,
-      "r18": false
-    },
-    {
-      "id": 48220,
-      "title": "Macross Delta",
-      "score": 0.234,
-      "r18": false
+      "id": 1055,
+      "title": "Classmate, Kamimura Yuuka wa Kou Itta",
+      "score": 0.195,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 56193,
       "title": "Ginga wa Kanojo Hodo ni",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 37391,
-      "title": "Mahouka Koukou no Rettousei - Koto Nairan-hen",
-      "score": 0.224,
-      "r18": false
-    },
-    {
-      "id": 1911,
-      "title": "Infinity Game",
-      "score": 0.224,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 41611,
       "title": "hello (rom-com) world",
-      "score": 0.218,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37391,
+      "title": "Mahouka Koukou no Rettousei - Koto Nairan-hen",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 48220,
+      "title": "Macross Delta",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 25924,
+      "title": "Oogiri",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn",
+        "fr"
+      ]
     },
     {
       "id": 31068,
       "title": "Love Fighter Shuravan",
-      "score": 0.218,
-      "r18": false
-    },
-    {
-      "id": 27180,
-      "title": "Brigadoon Marin to Melan",
-      "score": 0.211,
-      "r18": false
-    },
-    {
-      "id": 4555,
-      "title": "Date A Live",
-      "score": 0.206,
-      "r18": false
-    },
-    {
-      "id": 44534,
-      "title": "Mezametara Saikyou Soubi to Uchuusen-mochi Datta no de, Ikkodate Mezashite Youhei Toshite Jiyuu ni Ikitai",
-      "score": 0.203,
-      "r18": false
-    },
-    {
-      "id": 5274,
-      "title": "Nijiiro Togarashi",
-      "score": 0.203,
-      "r18": false
-    },
-    {
-      "id": 635,
-      "title": "Toaru Majutsu no Index",
-      "score": 0.203,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 40789,
       "title": "Universal X System",
-      "score": 0.201,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
-      "id": 22148,
-      "title": "Infinite Dendrogram",
-      "score": 0.2,
-      "r18": false
+      "id": 44534,
+      "title": "Mezametara Saikyou Soubi to Uchuusen-mochi Datta no de, Ikkodate Mezashite Youhei Toshite Jiyuu ni Ikitai",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 1911,
+      "title": "Infinity Game",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8219,
+      "title": "Break-Age",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 27180,
+      "title": "Brigadoon Marin to Melan",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4677,
       "title": "Mahouka Koukou no Yuutousei",
-      "score": 0.199,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 635,
+      "title": "Toaru Majutsu no Index",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "cn",
+        "sa",
+        "fr"
+      ]
+    },
+    {
+      "id": 4555,
+      "title": "Date A Live",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 10198,
+      "title": "Mahouka Koukou no Rettousei - Yokohama Souran-hen",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5274,
+      "title": "Nijiiro Togarashi",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa"
+      ]
     }
   ]
 }

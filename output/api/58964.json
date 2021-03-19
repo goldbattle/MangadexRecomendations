@@ -2,37 +2,66 @@
   "id": 58964,
   "title": "MANGA Day to Day #88",
   "url": "https://mangadex.org/manga/58964",
-  "last_updated": "March 13, 2021 08:25:37 UTC",
+  "last_updated": "March 18, 2021 14:32:50 UTC",
   "matches": [
     {
       "id": 41598,
       "title": "Pesu on My Head",
-      "score": 0.29,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "hk",
+        "fr",
+        "ru",
+        "br"
+      ]
     },
     {
       "id": 6989,
       "title": "Narukou Shiikubu",
-      "score": 0.242,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21812,
       "title": "My Little Noir",
-      "score": 0.232,
-      "r18": false
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "tr",
+        "it",
+        "fr",
+        "vn",
+        "id"
+      ]
     },
     {
       "id": 59058,
       "title": "A Little Story about a Fish Thief who Steals with Impunity",
       "score": 0.161,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 51842,
       "title": "Kitsune-chan Won't Give in to Such a Despicable Curse",
-      "score": 0.132,
-      "r18": false
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "vn",
+        "id"
+      ]
     }
   ]
 }

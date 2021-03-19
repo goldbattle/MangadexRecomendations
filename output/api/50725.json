@@ -1,158 +1,287 @@
 {
   "id": 50725,
   "title": "Kimi wa Shinenai Hai Kaburi no Majo",
-  "url": "https://api.mangadex.org/v2/manga/50725",
-  "last_updated": "February 05, 2021 08:28:06 UTC",
+  "url": "https://mangadex.org/manga/50725",
+  "last_updated": "March 18, 2021 13:23:59 UTC",
   "matches": [
     {
-      "id": 13280,
-      "title": "Kamisama, Kisama wo Koroshitai.",
-      "score": 0.721,
-      "r18": false
-    },
-    {
-      "id": 46498,
-      "title": "Kemono Giga",
-      "score": 0.719,
-      "r18": false
-    },
-    {
-      "id": 53233,
-      "title": "Romero Won't Save the World",
-      "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 1207,
-      "title": "Jigokusei Lemina",
-      "score": 0.706,
-      "r18": false
-    },
-    {
-      "id": 4629,
-      "title": "Burning Hell",
-      "score": 0.699,
-      "r18": false
-    },
-    {
-      "id": 50976,
-      "title": "The Executed Sage Is Reincarnated as a Lich and Starts an All-Out War",
-      "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 13355,
-      "title": "Ousama Game - Shuukyoku",
-      "score": 0.695,
-      "r18": false
-    },
-    {
-      "id": 4851,
-      "title": "Green Blood",
-      "score": 0.693,
-      "r18": false
-    },
-    {
-      "id": 22123,
-      "title": "Masked Rider KUUGA",
-      "score": 0.693,
-      "r18": false
+      "id": 44053,
+      "title": "Eden no Majotachi",
+      "score": 0.244,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 52602,
-      "title": "Her Majesty&rsquo;s Swarm",
-      "score": 0.691,
-      "r18": false
-    },
-    {
-      "id": 114,
-      "title": "Hellsing",
-      "score": 0.69,
-      "r18": false
-    },
-    {
-      "id": 1497,
-      "title": "Wendy",
-      "score": 0.686,
-      "r18": false
-    },
-    {
-      "id": 50019,
-      "title": "Rooftop Sword Master",
-      "score": 0.686,
-      "r18": false
-    },
-    {
-      "id": 10854,
-      "title": "All You Need Is Kill",
-      "score": 0.684,
-      "r18": false
-    },
-    {
-      "id": 2379,
-      "title": "Dorohedoro",
-      "score": 0.683,
-      "r18": false
-    },
-    {
-      "id": 1357,
-      "title": "Mitsurin Shounen",
-      "score": 0.682,
-      "r18": false
-    },
-    {
-      "id": 247,
-      "title": "Gangsta",
-      "score": 0.681,
-      "r18": false
-    },
-    {
-      "id": 40770,
-      "title": "Shinigami ni Sodaterareta Shoujo wa Shikkoku no Tsurugi wo Mune ni Idaku",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 6125,
-      "title": "Battle Royale II - Blitz Royale",
-      "score": 0.674,
-      "r18": false
-    },
-    {
-      "id": 5694,
-      "title": "Heureka",
-      "score": 0.673,
-      "r18": false
-    },
-    {
-      "id": 43372,
-      "title": "Lockdown No Escape",
-      "score": 0.67,
-      "r18": false
-    },
-    {
-      "id": 18509,
-      "title": "Gakkou Gurashi! - Tomodachi (Kari) (Doujinshi)",
-      "score": 0.669,
-      "r18": false
+      "title": "Her Majesty's Swarm",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "br",
+        "fr"
+      ]
     },
     {
       "id": 17945,
       "title": "Adu of Hades",
-      "score": 0.667,
-      "r18": false
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn"
+      ]
     },
     {
-      "id": 1018,
-      "title": "Parasyte",
-      "score": 0.667,
-      "r18": false
+      "id": 50170,
+      "title": "Viper in the Vale",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 42419,
-      "title": "Player",
-      "score": 0.665,
-      "r18": false
+      "id": 40770,
+      "title": "Shinigami ni Sodaterareta Shoujo wa Shikkoku no Tsurugi wo Mune ni Idaku",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "mx",
+        "id"
+      ]
+    },
+    {
+      "id": 10778,
+      "title": "Oh-oku no Sakura - Gendai Oooku Jogakuin",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50976,
+      "title": "The Executed Sage Is Reincarnated as a Lich and Starts an All-Out War",
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "mx",
+        "fr",
+        "tr",
+        "id"
+      ]
+    },
+    {
+      "id": 13280,
+      "title": "Kamisama, Kisama wo Koroshitai.",
+      "score": 0.163,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2379,
+      "title": "Dorohedoro",
+      "score": 0.161,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "tr",
+        "cn",
+        "br",
+        "mx",
+        "sa",
+        "ru",
+        "ua",
+        "fr"
+      ]
+    },
+    {
+      "id": 53233,
+      "title": "Romero Won't Save the World",
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18509,
+      "title": "Gakkou Gurashi! - Tomodachi (Kari) (Doujinshi)",
+      "score": 0.157,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 43476,
+      "title": "Yakuza Reincarnation",
+      "score": 0.157,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru",
+        "br",
+        "id"
+      ]
+    },
+    {
+      "id": 247,
+      "title": "Gangsta",
+      "score": 0.154,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "tr",
+        "id",
+        "it",
+        "pl"
+      ]
+    },
+    {
+      "id": 12588,
+      "title": "Gunjou Senki",
+      "score": 0.153,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 6248,
+      "title": "Koukoku no Shugosha",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr"
+      ]
+    },
+    {
+      "id": 1207,
+      "title": "Jigokusei Lemina",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 6125,
+      "title": "Battle Royale II - Blitz Royale",
+      "score": 0.148,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 45755,
+      "title": "Angelic Syndrome",
+      "score": 0.148,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "fr",
+        "ru",
+        "br"
+      ]
+    },
+    {
+      "id": 10854,
+      "title": "All You Need Is Kill",
+      "score": 0.148,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "ru",
+        "tr"
+      ]
+    },
+    {
+      "id": 4851,
+      "title": "Green Blood",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "hu"
+      ]
+    },
+    {
+      "id": 1357,
+      "title": "Mitsurin Shounen",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 34621,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana",
+      "score": 0.144,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "hu"
+      ]
+    },
+    {
+      "id": 13355,
+      "title": "Ousama Game - Shuukyoku",
+      "score": 0.143,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 25334,
+      "title": "Buchimaru Chaos",
+      "score": 0.143,
+      "r18": false,
+      "languages": [
+        "it",
+        "ru",
+        "mx",
+        "br",
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 58284,
+      "title": "Usagi ga Nihiki",
+      "score": 0.142,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

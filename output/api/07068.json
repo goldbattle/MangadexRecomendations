@@ -2,43 +2,59 @@
   "id": 7068,
   "title": "Tama to Tama to",
   "url": "https://mangadex.org/manga/7068",
-  "last_updated": "March 14, 2021 16:38:36 UTC",
+  "last_updated": "March 18, 2021 06:45:58 UTC",
   "matches": [
     {
       "id": 6197,
       "title": "Tenbin wa Hana to Asobu",
-      "score": 0.237,
-      "r18": false
+      "score": 0.236,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
+    },
+    {
+      "id": 35854,
+      "title": "Koishikawa-san Is a Carnivore",
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb",
+        "mx",
+        "fr"
+      ]
     },
     {
       "id": 6841,
       "title": "Nekogami Yaoyorozu",
       "score": 0.226,
-      "r18": false
-    },
-    {
-      "id": 36399,
-      "title": "Vampeerz",
-      "score": 0.188,
-      "r18": false
-    },
-    {
-      "id": 35854,
-      "title": "Koishikawa-san Is a Carnivore",
-      "score": 0.183,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 52895,
       "title": "My Master Has No Tail",
       "score": 0.15,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6966,
       "title": "Centaur's Worries",
       "score": 0.148,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "br",
+        "gb",
+        "fr"
+      ]
     }
   ]
 }

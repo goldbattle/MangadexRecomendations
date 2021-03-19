@@ -2,127 +2,253 @@
   "id": 48680,
   "title": "Senbonzakura",
   "url": "https://mangadex.org/manga/48680",
-  "last_updated": "January 15, 2021 12:35:49 UTC",
+  "last_updated": "March 18, 2021 13:06:57 UTC",
   "matches": [
-    {
-      "id": 42236,
-      "title": "Heaven Official's Blessing (old version)",
-      "score": 0.715,
-      "r18": false
-    },
-    {
-      "id": 9558,
-      "title": "Arslan Senki",
-      "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 18936,
-      "title": "Fate/Apocrypha",
-      "score": 0.693,
-      "r18": false
-    },
-    {
-      "id": 38701,
-      "title": "Sengoku Night Blood",
-      "score": 0.69,
-      "r18": false
-    },
-    {
-      "id": 54612,
-      "title": "Dinghai Fusheng Records",
-      "score": 0.686,
-      "r18": false
-    },
     {
       "id": 23950,
       "title": "Samurai Spirits - Shimabara Amakusa Jashin Shiro Kouryaku-hen",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 51803,
-      "title": "A Villainess? No, a Heinous Young Lady",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 17917,
-      "title": "Hyakuren no Haou to Seiyaku no Ikusa Otome",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 22395,
-      "title": "Reminiscence Adonis",
-      "score": 0.672,
-      "r18": false
-    },
-    {
-      "id": 45265,
-      "title": "Greatest Boss System",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 34605,
-      "title": "Release That Witch",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 54282,
-      "title": "Hortensia Saga",
-      "score": 0.655,
-      "r18": false
+      "score": 0.234,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 50786,
       "title": "Onmyoji",
-      "score": 0.654,
-      "r18": false
+      "score": 0.219,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 45073,
-      "title": "Return of the Avenger",
-      "score": 0.652,
-      "r18": false
+      "id": 18936,
+      "title": "Fate/Apocrypha",
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa",
+        "br",
+        "tr",
+        "id"
+      ]
     },
     {
-      "id": 52723,
-      "title": "Hunter and Snow",
-      "score": 0.286,
-      "r18": false
-    },
-    {
-      "id": 46603,
-      "title": "The Youngest Princess",
-      "score": 0.262,
-      "r18": false
+      "id": 41776,
+      "title": "Madou no Keifu",
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "th"
+      ]
     },
     {
       "id": 35725,
       "title": "The Peerless Concubine",
-      "score": 0.26,
-      "r18": false
+      "score": 0.161,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru",
+        "mx"
+      ]
+    },
+    {
+      "id": 38701,
+      "title": "Sengoku Night Blood",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 17917,
+      "title": "Hyakuren no Haou to Seiyaku no Ikusa Otome",
+      "score": 0.148,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 51803,
+      "title": "A Villainess? No, a Heinous Young Lady",
+      "score": 0.147,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 52723,
+      "title": "Hunter and Snow",
+      "score": 0.144,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 54282,
+      "title": "Hortensia Saga",
+      "score": 0.137,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 59999,
+      "title": "Save Me, Princess",
+      "score": 0.129,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb"
+      ]
+    },
+    {
+      "id": 45073,
+      "title": "Return of the Avenger",
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 46603,
+      "title": "The Youngest Princess",
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "hu",
+        "fr"
+      ]
+    },
+    {
+      "id": 45265,
+      "title": "Greatest Boss System",
+      "score": 0.118,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "fr",
+        "tr",
+        "th"
+      ]
+    },
+    {
+      "id": 59692,
+      "title": "I'm a Martial Art Villainess but I'm the Strongest!",
+      "score": 0.115,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 54612,
+      "title": "Dinghai Fusheng Records",
+      "score": 0.112,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 42236,
+      "title": "Heaven Official's Blessing (old version)",
+      "score": 0.112,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 54614,
       "title": "Journey to the West",
-      "score": 0.251,
-      "r18": false
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 59230,
       "title": "Path of the Shaman",
-      "score": 0.246,
-      "r18": false
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "pl",
+        "fr"
+      ]
     },
     {
-      "id": 47995,
-      "title": "Fate/Grand Order Cries of The Avenger  in the Prison Tower",
-      "score": 0.178,
-      "r18": false
+      "id": 34187,
+      "title": "Fate/Grand Order: Epic of Remnant - Pseudo-Singularity I: Quarantined Territory of Malice, Shinjuku - Shinjuku Phantom Incident",
+      "score": 0.103,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru",
+        "id"
+      ]
+    },
+    {
+      "id": 34605,
+      "title": "Release That Witch",
+      "score": 0.096,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "br",
+        "id",
+        "tr",
+        "fr",
+        "mx",
+        "ua",
+        "es"
+      ]
+    },
+    {
+      "id": 34870,
+      "title": "Fate/Grand Order: Epic of Remnant - Variant Singularity III: A Stage of Corpse Hills and Bloody Rivers - Shimousanokuni: Showdown with the Seven Swordmaster Heroic Spirits",
+      "score": 0.085,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "mx",
+        "ru",
+        "id",
+        "es",
+        "br",
+        "sa"
+      ]
     }
   ]
 }

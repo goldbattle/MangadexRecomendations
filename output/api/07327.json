@@ -2,55 +2,83 @@
   "id": 7327,
   "title": "Doctor Du Ming",
   "url": "https://mangadex.org/manga/7327",
-  "last_updated": "March 14, 2021 16:42:41 UTC",
+  "last_updated": "March 18, 2021 06:48:08 UTC",
   "matches": [
     {
       "id": 13840,
       "title": "The Inferno in Bottles",
       "score": 0.3,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21636,
       "title": "Mashira",
       "score": 0.257,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 18813,
       "title": "House of Dolls",
-      "score": 0.239,
-      "r18": false
+      "score": 0.238,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 45960,
       "title": "Boy's Abyss",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "mx",
+        "it",
+        "fr",
+        "id",
+        "tr",
+        "ru",
+        "ir",
+        "sa"
+      ]
     },
     {
       "id": 18033,
       "title": "Genocider (Akiyoshi Takahiro)",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6077,
       "title": "Arigatou",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 1769,
       "title": "Umibe no Onnanoko",
       "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 46689,
-      "title": "Eros no Shushi",
-      "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ir"
+      ]
     }
   ]
 }

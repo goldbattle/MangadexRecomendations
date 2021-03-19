@@ -2,25 +2,29 @@
   "id": 27929,
   "title": "Saotome Shimai wa Manga no Tame nara!?",
   "url": "https://mangadex.org/manga/27929",
-  "last_updated": "March 17, 2021 00:34:09 UTC",
+  "last_updated": "March 18, 2021 10:13:39 UTC",
   "matches": [
-    {
-      "id": 12152,
-      "title": "Eromanga-sensei",
-      "score": 0.306,
-      "r18": false
-    },
     {
       "id": 3090,
       "title": "CHERRY X CHERRY",
-      "score": 0.302,
-      "r18": false
+      "score": 0.301,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 8173,
       "title": "No Game No Life",
-      "score": 0.163,
-      "r18": false
+      "score": 0.162,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "es"
+      ]
     }
   ]
 }

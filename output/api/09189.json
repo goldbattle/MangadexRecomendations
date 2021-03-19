@@ -2,43 +2,64 @@
   "id": 9189,
   "title": "Kaede Purple",
   "url": "https://mangadex.org/manga/9189",
-  "last_updated": "March 14, 2021 20:27:57 UTC",
+  "last_updated": "March 18, 2021 07:04:01 UTC",
   "matches": [
     {
       "id": 19760,
       "title": "Harta Cover Stories",
-      "score": 0.3,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 10533,
       "title": "Bruise-Covered Angel",
-      "score": 0.24,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11090,
       "title": "Chibi to Pocchari de Renai Shimasu kedo, Nani ka?",
-      "score": 0.233,
-      "r18": false
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 50473,
       "title": "Welcome to the Competitive Dance Club",
-      "score": 0.201,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 49091,
       "title": "Kinniku o Kimie",
       "score": 0.171,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22120,
       "title": "Natsu no Rakugaki",
       "score": 0.15,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "it"
+      ]
     }
   ]
 }

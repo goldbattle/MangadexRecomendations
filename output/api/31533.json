@@ -1,158 +1,300 @@
 {
   "id": 31533,
   "title": "I Am Not a Goddess",
-  "url": "https://api.mangadex.org/v2/manga/31533",
-  "last_updated": "February 10, 2021 08:21:34 UTC",
+  "url": "https://mangadex.org/manga/31533",
+  "last_updated": "March 18, 2021 10:43:42 UTC",
   "matches": [
-    {
-      "id": 31349,
-      "title": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka (Fan Colored)",
-      "score": 0.725,
-      "r18": false
-    },
-    {
-      "id": 31032,
-      "title": "The World of Otome Games Is Tough for Mobs",
-      "score": 0.725,
-      "r18": false
-    },
-    {
-      "id": 8357,
-      "title": "12 Beast",
-      "score": 0.721,
-      "r18": false
-    },
     {
       "id": 31414,
       "title": "Against the Gods",
-      "score": 0.721,
-      "r18": false
+      "score": 0.216,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr",
+        "mx",
+        "it"
+      ]
     },
     {
-      "id": 22004,
-      "title": "Kamen Rider W: Fuuto Tantei",
-      "score": 0.716,
-      "r18": false
+      "id": 18571,
+      "title": "Trinity Wonder",
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "mx",
+        "tr",
+        "br"
+      ]
     },
     {
-      "id": 36948,
-      "title": "Ponkotsu megami no isekai sousei-roku",
-      "score": 0.716,
-      "r18": false
+      "id": 43807,
+      "title": "The Super Doctor From 2089",
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "sa",
+        "id",
+        "it"
+      ]
     },
     {
       "id": 45361,
       "title": "Immortal Swordsman in the Reverse World",
-      "score": 0.715,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "fr",
+        "th",
+        "hu",
+        "it",
+        "sa"
+      ]
     },
     {
-      "id": 24976,
-      "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
-      "score": 0.714,
-      "r18": false
+      "id": 35456,
+      "title": "Girl and Science",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br",
+        "fr",
+        "sa"
+      ]
     },
     {
-      "id": 17563,
-      "title": "Silver Gravekeeper",
-      "score": 0.712,
-      "r18": false
-    },
-    {
-      "id": 564,
-      "title": "Nagasarete Airantou",
-      "score": 0.706,
-      "r18": false
-    },
-    {
-      "id": 121,
-      "title": "Mahou Sensei Negima!",
-      "score": 0.704,
-      "r18": false
-    },
-    {
-      "id": 55893,
-      "title": "Mortal's Cultivation: journey to immortality",
-      "score": 0.703,
-      "r18": false
-    },
-    {
-      "id": 13684,
-      "title": "Robot",
-      "score": 0.703,
-      "r18": false
-    },
-    {
-      "id": 3638,
-      "title": "Ragnar&ouml;k: Into the Abyss",
-      "score": 0.703,
-      "r18": false
-    },
-    {
-      "id": 15449,
-      "title": "Kurenai no Ansatsusha",
-      "score": 0.7,
-      "r18": false
-    },
-    {
-      "id": 24288,
-      "title": "Sentouin, Hakenshimasu!",
-      "score": 0.7,
-      "r18": false
-    },
-    {
-      "id": 4774,
-      "title": "Dragon Quest: Dai no Daibouken",
-      "score": 0.699,
-      "r18": false
-    },
-    {
-      "id": 10504,
-      "title": "Magika no Kenshi to Shoukan Maou",
-      "score": 0.699,
-      "r18": false
-    },
-    {
-      "id": 42183,
-      "title": "Mashima HERO'S",
-      "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 4597,
-      "title": "Kyoukai Senjou no Horizon",
-      "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 57,
-      "title": "Carnivorous Princess Yegrinna",
-      "score": 0.696,
-      "r18": false
+      "id": 22297,
+      "title": "Honkai Impact 3rd",
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id",
+        "fr",
+        "it",
+        "tr",
+        "cz",
+        "es",
+        "br"
+      ]
     },
     {
       "id": 51562,
       "title": "Dark Star Emperor",
-      "score": 0.694,
-      "r18": false
+      "score": 0.204,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "id"
+      ]
     },
     {
-      "id": 26638,
-      "title": "Birdy the Mighty Evolution",
-      "score": 0.693,
-      "r18": false
+      "id": 17563,
+      "title": "Silver Gravekeeper",
+      "score": 0.198,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr"
+      ]
     },
     {
-      "id": 31881,
-      "title": "Attack of Heaven",
-      "score": 0.692,
-      "r18": false
+      "id": 43666,
+      "title": "I Picked up a Demon Lord as a Maid",
+      "score": 0.19,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br"
+      ]
     },
     {
-      "id": 9604,
-      "title": "Sword Art Online - Progressive",
-      "score": 0.691,
-      "r18": false
+      "id": 49351,
+      "title": "Lord, It Doesn't Matter",
+      "score": 0.19,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br"
+      ]
+    },
+    {
+      "id": 54275,
+      "title": "Son-in-Law Does Cheap Cultivation",
+      "score": 0.19,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 23368,
+      "title": "Hero? I Quit a Long Time Ago",
+      "score": 0.19,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "fr",
+        "ru",
+        "hu",
+        "pl",
+        "id"
+      ]
+    },
+    {
+      "id": 12682,
+      "title": "When I Woke Up, I Became A Bagel Girl!",
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 49350,
+      "title": "Cultivators in the City",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 54209,
+      "title": "The Strongest Tang XuanZang",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50187,
+      "title": "The God of &quot;Game of Gods&quot;",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br"
+      ]
+    },
+    {
+      "id": 36504,
+      "title": "Ping Dan's Inflatable Doll: Zoe-17",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 15771,
+      "title": "4 Cut Hero",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "ru",
+        "it",
+        "br",
+        "gb",
+        "ua"
+      ]
+    },
+    {
+      "id": 14875,
+      "title": "BUILDER",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br"
+      ]
+    },
+    {
+      "id": 52576,
+      "title": "Metropolitan Prodigal",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29223,
+      "title": "Munchkin Quest",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 18393,
+      "title": "Demon Spirit Seed Manual",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru",
+        "br",
+        "id",
+        "de",
+        "pl"
+      ]
+    },
+    {
+      "id": 17976,
+      "title": "Valkyrie Agency",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 57922,
+      "title": "My Apocalyptic Miss",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "id"
+      ]
+    },
+    {
+      "id": 35353,
+      "title": "Magician of Memories",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     }
   ]
 }

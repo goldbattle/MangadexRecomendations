@@ -1,14 +1,20 @@
 {
   "id": 54482,
   "title": "AI Kareshi to Mojyo Hakase",
-  "url": "https://api.mangadex.org/v2/manga/54482",
-  "last_updated": "March 12, 2021 20:26:10 UTC",
+  "url": "https://mangadex.org/manga/54482",
+  "last_updated": "March 18, 2021 13:55:21 UTC",
   "matches": [
     {
       "id": 17801,
       "title": "Ashi-Girl",
-      "score": 0.294,
-      "r18": false
+      "score": 0.156,
+      "r18": false,
+      "languages": [
+        "mx",
+        "tr",
+        "gb",
+        "fr"
+      ]
     }
   ]
 }

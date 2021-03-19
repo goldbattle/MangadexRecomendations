@@ -2,67 +2,102 @@
   "id": 19956,
   "title": "Beloved",
   "url": "https://mangadex.org/manga/19956",
-  "last_updated": "March 16, 2021 00:25:12 UTC",
+  "last_updated": "March 18, 2021 08:52:54 UTC",
   "matches": [
-    {
-      "id": 29745,
-      "title": "Just Right There!",
-      "score": 0.3,
-      "r18": false
-    },
     {
       "id": 58459,
       "title": "Kill Switch",
       "score": 0.275,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx"
+      ]
     },
     {
       "id": 54183,
       "title": "Sinful Duty",
       "score": 0.255,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
       "id": 29570,
       "title": "Addictive",
-      "score": 0.25,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de",
+        "br"
+      ]
     },
     {
       "id": 57796,
       "title": "Hate Me",
-      "score": 0.25,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 30379,
       "title": "Two Lives in the Same House",
       "score": 0.247,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 16076,
       "title": "What Does the Fox Say?",
       "score": 0.228,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 18288,
       "title": "Pulse",
       "score": 0.225,
-      "r18": false
-    },
-    {
-      "id": 27640,
-      "title": "On a Leash",
-      "score": 0.2,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "de",
+        "tr",
+        "hu",
+        "it"
+      ]
     },
     {
       "id": 40397,
       "title": "Shimeji Simulation (Oneshot)",
-      "score": 0.2,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 27640,
+      "title": "On a Leash",
+      "score": 0.188,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     }
   ]
 }

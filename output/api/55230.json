@@ -1,158 +1,254 @@
 {
   "id": 55230,
   "title": "The Seven Princes of the Thousand Year Labyrinth Gaiden: The Champion of the Dawn",
-  "url": "https://api.mangadex.org/v2/manga/55230",
-  "last_updated": "March 12, 2021 20:35:13 UTC",
+  "url": "https://mangadex.org/manga/55230",
+  "last_updated": "March 18, 2021 14:01:37 UTC",
   "matches": [
-    {
-      "id": 24844,
-      "title": "Eve no Nemuri",
-      "score": 0.387,
-      "r18": false
-    },
     {
       "id": 7097,
       "title": "Shirogane no Ou - Fenrir Craft",
-      "score": 0.372,
-      "r18": false
-    },
-    {
-      "id": 9038,
-      "title": "inGrid",
-      "score": 0.371,
-      "r18": false
-    },
-    {
-      "id": 4788,
-      "title": "Karneval",
-      "score": 0.37,
-      "r18": false
-    },
-    {
-      "id": 4455,
-      "title": "Arcana 09 - Transformation\u2606Personification",
-      "score": 0.37,
-      "r18": false
-    },
-    {
-      "id": 3063,
-      "title": "+C: Sword and Cornett",
-      "score": 0.368,
-      "r18": false
-    },
-    {
-      "id": 25624,
-      "title": "Fire Emblem if - Nibelung no Houkan",
-      "score": 0.368,
-      "r18": false
-    },
-    {
-      "id": 10023,
-      "title": "Shinigami x Doctor",
-      "score": 0.368,
-      "r18": false
-    },
-    {
-      "id": 4528,
-      "title": "Yasha",
-      "score": 0.366,
-      "r18": false
-    },
-    {
-      "id": 11405,
-      "title": "Switch - the Volume on Dragon Fruit",
-      "score": 0.365,
-      "r18": false
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 12002,
       "title": "Saihate no Ao",
-      "score": 0.365,
-      "r18": false
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3063,
+      "title": "+C: Sword and Cornett",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "br",
+        "pl"
+      ]
+    },
+    {
+      "id": 4455,
+      "title": "Arcana 09 - Transformation\u2606Personification",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "hu",
+        "pl"
+      ]
+    },
+    {
+      "id": 24844,
+      "title": "Eve no Nemuri",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6423,
       "title": "Wild Adapter",
-      "score": 0.363,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 23909,
-      "title": "Avian Wander",
-      "score": 0.356,
-      "r18": false
+      "id": 4528,
+      "title": "Yasha",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
-      "id": 10193,
-      "title": "Yami no Alexandra",
-      "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 8794,
-      "title": "Kemono Kingdom - Zoo",
-      "score": 0.352,
-      "r18": false
-    },
-    {
-      "id": 3684,
-      "title": "Are You Alice?",
-      "score": 0.349,
-      "r18": false
-    },
-    {
-      "id": 4457,
-      "title": "Arcana 11 - Time Travel / Time Traveller",
-      "score": 0.335,
-      "r18": false
-    },
-    {
-      "id": 42743,
-      "title": "Missing Link",
-      "score": 0.334,
-      "r18": false
-    },
-    {
-      "id": 16807,
-      "title": "Shunkan Lyle",
-      "score": 0.325,
-      "r18": false
+      "id": 4788,
+      "title": "Karneval",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "bg"
+      ]
     },
     {
       "id": 18030,
       "title": "Telcel",
-      "score": 0.323,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10193,
+      "title": "Yami no Alexandra",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 18514,
       "title": "Ogeha",
-      "score": 0.32,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 2710,
-      "title": "Neko Mix Genkitan Toraji",
-      "score": 0.319,
-      "r18": false
+      "id": 42743,
+      "title": "Missing Link",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10023,
+      "title": "Shinigami x Doctor",
+      "score": 0.254,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 11405,
+      "title": "Switch - the Volume on Dragon Fruit",
+      "score": 0.253,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9038,
+      "title": "inGrid",
+      "score": 0.252,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8794,
+      "title": "Kemono Kingdom - Zoo",
+      "score": 0.251,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 23909,
+      "title": "Avian Wander",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3684,
+      "title": "Are You Alice?",
+      "score": 0.238,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2668,
       "title": "Suna no Ue no Rakuen",
-      "score": 0.316,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
-      "id": 12587,
-      "title": "Saiyuki Gaiden",
-      "score": 0.314,
-      "r18": false
+      "id": 1202,
+      "title": "Chronos - DEEP",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "de",
+        "pl",
+        "it"
+      ]
     },
     {
-      "id": 3712,
-      "title": "Dolls",
-      "score": 0.313,
-      "r18": false
+      "id": 2693,
+      "title": "Mahoutsukai Syd &amp; Lid",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20470,
+      "title": "Halcyon",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4457,
+      "title": "Arcana 11 - Time Travel / Time Traveller",
+      "score": 0.217,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2710,
+      "title": "Neko Mix Genkitan Toraji",
+      "score": 0.217,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 25624,
+      "title": "Fire Emblem if - Nibelung no Houkan",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "it"
+      ]
     }
   ]
 }

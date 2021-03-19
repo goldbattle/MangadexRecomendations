@@ -1,20 +1,36 @@
 {
   "id": 32787,
   "title": "The Diligent Senpai and the Delinquent Kouhai",
-  "url": "https://api.mangadex.org/v2/manga/32787",
-  "last_updated": "February 10, 2021 12:27:10 UTC",
+  "url": "https://mangadex.org/manga/32787",
+  "last_updated": "March 18, 2021 10:54:09 UTC",
   "matches": [
+    {
+      "id": 13446,
+      "title": "Ai Rabu Yuu yori Aishiteru",
+      "score": 0.213,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de"
+      ]
+    },
     {
       "id": 32693,
       "title": "A Yuri Manga Between a Delinquent and a Quiet Girl That Starts From a Misunderstanding",
-      "score": 0.24,
-      "r18": false
+      "score": 0.213,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 49512,
-      "title": "Tonari no Senpai to Kininaru Kouhai",
-      "score": 0.206,
-      "r18": false
+      "id": 58732,
+      "title": "Class President and Delinquent",
+      "score": 0.213,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -1,56 +1,88 @@
 {
   "id": 54678,
   "title": "Mystery House",
-  "url": "https://api.mangadex.org/v2/manga/54678",
-  "last_updated": "March 12, 2021 20:28:34 UTC",
+  "url": "https://mangadex.org/manga/54678",
+  "last_updated": "March 18, 2021 13:57:00 UTC",
   "matches": [
     {
       "id": 22504,
       "title": "The Witch's Hammer - Malleus Maleficarum",
-      "score": 0.265,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29142,
       "title": "Blackbird of Destiny",
-      "score": 0.212,
-      "r18": false
+      "score": 0.184,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 4758,
       "title": "Paros no Ken",
-      "score": 0.177,
-      "r18": false
+      "score": 0.153,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
     },
     {
       "id": 21376,
       "title": "Yuusha no Mago to Maou no Musume",
-      "score": 0.151,
-      "r18": false
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "fr"
+      ]
     },
     {
       "id": 34210,
       "title": "Story of The White Phoenix",
-      "score": 0.151,
-      "r18": false
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 31251,
       "title": "Touhou - Relation Valley Anthology (Doujinshi)",
-      "score": 0.133,
-      "r18": false
+      "score": 0.115,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "vn"
+      ]
     },
     {
       "id": 52895,
       "title": "My Master Has No Tail",
-      "score": 0.133,
-      "r18": false
+      "score": 0.115,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 310,
       "title": "Ciel~the Last Autumn Story",
-      "score": 0.106,
-      "r18": false
+      "score": 0.092,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     }
   ]
 }

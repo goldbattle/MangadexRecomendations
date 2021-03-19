@@ -1,158 +1,283 @@
 {
   "id": 40846,
   "title": "OneeLoli Manga",
-  "url": "https://api.mangadex.org/v2/manga/40846",
-  "last_updated": "February 11, 2021 08:29:52 UTC",
+  "url": "https://mangadex.org/manga/40846",
+  "last_updated": "March 18, 2021 12:01:23 UTC",
   "matches": [
     {
       "id": 36840,
       "title": "Gold-digger Sebiri-chan",
-      "score": 0.18,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 47335,
       "title": "Geesen Shoujo to Ibunka Kouryuu",
-      "score": 0.18,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "cn",
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 49085,
       "title": "My Adopted Daughter Is an Assassin",
-      "score": 0.18,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn"
+      ]
     },
     {
       "id": 52098,
       "title": "Loli Hero and Demon Lord",
-      "score": 0.18,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru",
+        "br",
+        "mx"
+      ]
     },
     {
       "id": 58343,
       "title": "Dorei no Onnanoko wo Guhehe suru",
-      "score": 0.18,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "id",
+        "ru"
+      ]
     },
     {
       "id": 58395,
       "title": "The Cat Came to My House!",
-      "score": 0.18,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "ru",
+        "id",
+        "gb",
+        "vn",
+        "br",
+        "de",
+        "it"
+      ]
     },
     {
       "id": 47456,
       "title": "Uchi no Neko ga Onnanoko de Kawaii",
-      "score": 0.144,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr",
+        "de",
+        "it"
+      ]
+    },
+    {
+      "id": 50712,
+      "title": "Ayashii Tsubo Kattara, Naka kara Bishoujo ga Detekita Hanashi",
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29234,
       "title": "A Cat-Like Girl",
-      "score": 0.12,
-      "r18": false
+      "score": 0.106,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 38839,
-      "title": "Saikyou no Kyuuketsuhime wa Imouto ga Hoshii!!",
-      "score": 0.12,
-      "r18": false
+      "id": 42988,
+      "title": "Ookami-chan no Ohanashi",
+      "score": 0.106,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 35985,
       "title": "Ms. Corporate Slave Wants to Be Healed by a Loli Spirit",
-      "score": 0.103,
-      "r18": false
+      "score": 0.091,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "tr",
+        "id",
+        "br"
+      ]
     },
     {
       "id": 51256,
       "title": "Vamp Car",
-      "score": 0.103,
-      "r18": false
+      "score": 0.091,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 51990,
       "title": "Taishou Roman Seiyou Ga \u0304ru",
-      "score": 0.103,
-      "r18": false
-    },
-    {
-      "id": 56569,
-      "title": "Tettoku yamete!?",
-      "score": 0.103,
-      "r18": false
-    },
-    {
-      "id": 58840,
-      "title": "Painappuru - Another side",
-      "score": 0.103,
-      "r18": false
+      "score": 0.091,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 23061,
       "title": "Taimashi to Akuma-chan (pixiv)",
-      "score": 0.09,
-      "r18": false
+      "score": 0.08,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br"
+      ]
     },
     {
       "id": 35758,
       "title": "Ike Loli",
-      "score": 0.09,
-      "r18": false
+      "score": 0.08,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr",
+        "de",
+        "id"
+      ]
     },
     {
       "id": 50770,
       "title": "I Won't Marry the Villainous Prince",
-      "score": 0.09,
-      "r18": false
+      "score": 0.08,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 51806,
       "title": "Seven Dwarfs",
-      "score": 0.09,
-      "r18": false
+      "score": 0.08,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 44079,
       "title": "Path of the Sword",
-      "score": 0.08,
-      "r18": false
+      "score": 0.071,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 44578,
       "title": "Modern MoGal if - Oni's Love Rule",
-      "score": 0.08,
-      "r18": false
+      "score": 0.071,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 44992,
       "title": "I Was Summoned by the Demon Lord, but I Can't Understand Her Language",
-      "score": 0.08,
-      "r18": false
+      "score": 0.071,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "br",
+        "it",
+        "mx",
+        "fr",
+        "pl",
+        "th",
+        "ru"
+      ]
     },
     {
       "id": 50655,
       "title": "I, Who Blocked the Demon King's Ultimate Attack, Ended up as the Little Hero's Nanny!",
-      "score": 0.08,
-      "r18": false
+      "score": 0.071,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 53600,
       "title": "Rinjin-chan ga Shinpai",
-      "score": 0.08,
-      "r18": false
+      "score": 0.071,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru",
+        "mx"
+      ]
     },
     {
       "id": 44952,
       "title": "The Correct Way to Catch Pet Waifus",
-      "score": 0.072,
-      "r18": false
+      "score": 0.064,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 47808,
       "title": "Elves Dream of Loli",
-      "score": 0.072,
-      "r18": false
+      "score": 0.064,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 11140,
+      "title": "Kuro",
+      "score": 0.058,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "tr",
+        "fr"
+      ]
     }
   ]
 }

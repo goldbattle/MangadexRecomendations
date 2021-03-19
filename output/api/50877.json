@@ -1,158 +1,253 @@
 {
   "id": 50877,
   "title": "Futsuu na Bokura no",
-  "url": "https://api.mangadex.org/v2/manga/50877",
-  "last_updated": "February 05, 2021 08:30:33 UTC",
+  "url": "https://mangadex.org/manga/50877",
+  "last_updated": "March 18, 2021 13:25:15 UTC",
   "matches": [
-    {
-      "id": 4824,
-      "title": "Rabu Kare - Gokujou Men Dokuhon!",
-      "score": 0.785,
-      "r18": false
-    },
-    {
-      "id": 11867,
-      "title": "Hotarubi no Mori e",
-      "score": 0.783,
-      "r18": false
-    },
-    {
-      "id": 6082,
-      "title": "Yume Miru Happa",
-      "score": 0.78,
-      "r18": false
-    },
-    {
-      "id": 16007,
-      "title": "Present",
-      "score": 0.77,
-      "r18": false
-    },
-    {
-      "id": 14320,
-      "title": "Seishun Otome Banchou!",
-      "score": 0.769,
-      "r18": false
-    },
     {
       "id": 2485,
       "title": "Koiiro Omoi",
-      "score": 0.768,
-      "r18": false
+      "score": 0.41,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 5333,
-      "title": "Miyasaka Kaho Kessakushuu",
-      "score": 0.764,
-      "r18": false
+      "id": 21596,
+      "title": "Osananajimi to, Kiss shitakunakunai.",
+      "score": 0.386,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 33526,
+      "title": "Futari de Koi wo suru Riyuu",
+      "score": 0.38,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "id"
+      ]
+    },
+    {
+      "id": 16517,
+      "title": "Aoba-kun ni Kikitai Koto",
+      "score": 0.375,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2226,
+      "title": "Mitsumeteitai",
+      "score": 0.367,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50856,
+      "title": "Kawaii Nante Kiitenai",
+      "score": 0.362,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn"
+      ]
+    },
+    {
+      "id": 18559,
+      "title": "Charai Hayama ni Kyun to Kita",
+      "score": 0.362,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 52987,
+      "title": "Haru to Arashi",
+      "score": 0.359,
+      "r18": false,
+      "languages": [
+        "vn",
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 5589,
+      "title": "Kono Ie de Kimi to",
+      "score": 0.358,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 49868,
+      "title": "Takane no Hanao-kun",
+      "score": 0.357,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 49554,
+      "title": "Kiss de Okoshite.",
+      "score": 0.356,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21891,
+      "title": "Sakura to Sensei",
+      "score": 0.356,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br"
+      ]
+    },
+    {
+      "id": 52727,
+      "title": "Chihiro-kun wa, Atashi Holic",
+      "score": 0.355,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "es"
+      ]
+    },
+    {
+      "id": 54618,
+      "title": "AM8:02, hatsukoi",
+      "score": 0.353,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3441,
+      "title": "Ibitsu na Hoshi no Katachi",
+      "score": 0.353,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9182,
+      "title": "Oshaberi na Jikanwari",
+      "score": 0.352,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9452,
+      "title": "Suki yori mo Chikaku",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7579,
+      "title": "Onnanoko wa Yoyuu!",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14282,
+      "title": "Ougon no Ringo",
+      "score": 0.348,
+      "r18": false,
+      "languages": [
+        "de",
+        "gb"
+      ]
+    },
+    {
+      "id": 5946,
+      "title": "Renren Zakari",
+      "score": 0.348,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 15585,
+      "title": "Hoshikuzu Drop",
+      "score": 0.348,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2136,
       "title": "Shite, Okeba Yokatta Koukai",
-      "score": 0.763,
-      "r18": false
+      "score": 0.347,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 1919,
-      "title": "Hoshi wa Utau",
-      "score": 0.762,
-      "r18": false
+      "id": 9156,
+      "title": "Stand Up!",
+      "score": 0.344,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
-      "id": 6515,
-      "title": "Himikoi",
-      "score": 0.761,
-      "r18": false
+      "id": 46650,
+      "title": "Arashi-kun no Dakimakura",
+      "score": 0.344,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id",
+        "fr"
+      ]
     },
     {
-      "id": 3352,
-      "title": "Kimi ga Suki",
-      "score": 0.758,
-      "r18": false
-    },
-    {
-      "id": 204,
-      "title": "Kore wa Koi no Hanashi",
-      "score": 0.757,
-      "r18": false
-    },
-    {
-      "id": 2504,
-      "title": "Kirarin Revolution",
-      "score": 0.755,
-      "r18": false
-    },
-    {
-      "id": 3396,
-      "title": "Bye-Bye, Little",
-      "score": 0.753,
-      "r18": false
-    },
-    {
-      "id": 18844,
-      "title": "Kore wa Ai ja Nai no de, Yoroshiku",
-      "score": 0.753,
-      "r18": false
-    },
-    {
-      "id": 1899,
-      "title": "His and Her Circumstances",
-      "score": 0.752,
-      "r18": false
-    },
-    {
-      "id": 11421,
-      "title": "Pii Natsu ga Ippai",
-      "score": 0.752,
-      "r18": false
-    },
-    {
-      "id": 12616,
-      "title": "Hatsukoi Monster",
-      "score": 0.751,
-      "r18": false
-    },
-    {
-      "id": 6473,
-      "title": "Mimi wo Sumaseba - Shiawase na Jikan",
-      "score": 0.75,
-      "r18": false
-    },
-    {
-      "id": 23586,
-      "title": "Kanshakudama no Yuuutsu",
-      "score": 0.75,
-      "r18": false
-    },
-    {
-      "id": 491,
-      "title": "Ao Haru Ride",
-      "score": 0.748,
-      "r18": false
-    },
-    {
-      "id": 5210,
-      "title": "Baby Blue",
-      "score": 0.746,
-      "r18": false
-    },
-    {
-      "id": 2440,
-      "title": "Aa! Itoshi no Banchou-sama",
-      "score": 0.744,
-      "r18": false
-    },
-    {
-      "id": 5998,
-      "title": "Shinshi Doumei &dagger;",
-      "score": 0.744,
-      "r18": false
-    },
-    {
-      "id": 8527,
-      "title": "Akaiito",
-      "score": 0.743,
-      "r18": false
+      "id": 56359,
+      "title": "Orange x Dreamin' Sun",
+      "score": 0.343,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hk"
+      ]
     }
   ]
 }

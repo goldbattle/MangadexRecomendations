@@ -2,19 +2,28 @@
   "id": 2640,
   "title": "Ookami no Dou",
   "url": "https://mangadex.org/manga/2640",
-  "last_updated": "March 14, 2021 04:32:08 UTC",
+  "last_updated": "March 18, 2021 06:05:22 UTC",
   "matches": [
     {
       "id": 48754,
       "title": "USCA English Edition",
-      "score": 0.166,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22468,
       "title": "Umwelt - Igarashi Daisuke Anthology",
-      "score": 0.129,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "mx",
+        "br"
+      ]
     }
   ]
 }

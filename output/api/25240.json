@@ -2,31 +2,40 @@
   "id": 25240,
   "title": "Tract",
   "url": "https://mangadex.org/manga/25240",
-  "last_updated": "March 16, 2021 16:28:50 UTC",
+  "last_updated": "March 18, 2021 09:50:15 UTC",
   "matches": [
     {
       "id": 4965,
       "title": "Aokushimitama Blue Seed",
       "score": 0.193,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "hu",
+        "gb"
+      ]
     },
     {
       "id": 16215,
       "title": "Smokin' Parade",
-      "score": 0.129,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "pl",
+        "ru",
+        "it",
+        "id",
+        "es",
+        "gb"
+      ]
     },
     {
       "id": 23583,
       "title": "Kuuchuu Teien no Hitobito",
-      "score": 0.129,
-      "r18": false
-    },
-    {
-      "id": 3006,
-      "title": "Occult Academy",
-      "score": 0.116,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

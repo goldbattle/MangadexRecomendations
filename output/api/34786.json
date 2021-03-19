@@ -1,56 +1,83 @@
 {
   "id": 34786,
   "title": "King's Prophet",
-  "url": "https://api.mangadex.org/v2/manga/34786",
-  "last_updated": "February 10, 2021 16:33:52 UTC",
+  "url": "https://mangadex.org/manga/34786",
+  "last_updated": "March 18, 2021 11:10:49 UTC",
   "matches": [
     {
       "id": 3014,
       "title": "Kao no Nai Otoko",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "bg",
+        "gb"
+      ]
     },
     {
       "id": 13714,
       "title": "Shoku no Hana",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 17369,
       "title": "Covered in Cinders",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "pl"
+      ]
     },
     {
       "id": 20372,
       "title": "Yamato Takeru",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 47438,
       "title": "Forgetful River",
-      "score": 0.172,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 42646,
       "title": "Shinigami no Lament",
-      "score": 0.158,
-      "r18": false
+      "score": 0.137,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 58286,
       "title": "Perfect Appearance",
-      "score": 0.156,
-      "r18": false
+      "score": 0.133,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8286,
       "title": "The Legend of Genghis",
-      "score": 0.126,
-      "r18": false
+      "score": 0.105,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     }
   ]
 }

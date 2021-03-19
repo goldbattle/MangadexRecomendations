@@ -1,38 +1,63 @@
 {
   "id": 41654,
   "title": "Close Sister",
-  "url": "https://api.mangadex.org/v2/manga/41654",
-  "last_updated": "February 11, 2021 08:42:13 UTC",
+  "url": "https://mangadex.org/manga/41654",
+  "last_updated": "March 18, 2021 12:08:07 UTC",
   "matches": [
     {
       "id": 1906,
       "title": "Sore wa Totsuzen, Unmei no Aite ga",
-      "score": 0.251,
-      "r18": false
+      "score": 0.217,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 4502,
       "title": "Kimi ga Aruji de Shitsuji ga Ore de",
-      "score": 0.2,
-      "r18": false
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 48844,
-      "title": "Imouto ga 1-nichi 1-kai shika me wo awasete kurenai",
-      "score": 0.2,
-      "r18": false
+      "title": "Imouto ga Ichi Nichi Ikkai Shika Me wo Awasete Kurenai",
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "id",
+        "it",
+        "gb",
+        "cn",
+        "br",
+        "fr"
+      ]
     },
     {
       "id": 13431,
       "title": "Kyoudai hodo Chikaku Tooimono wa Nai",
-      "score": 0.176,
-      "r18": false
+      "score": 0.152,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru"
+      ]
     },
     {
       "id": 33298,
       "title": "Mahouka Koukou no Rettousei - Kaichou Senkyo-hen",
-      "score": 0.156,
-      "r18": false
+      "score": 0.133,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "pl"
+      ]
     }
   ]
 }

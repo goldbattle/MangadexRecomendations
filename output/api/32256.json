@@ -1,158 +1,256 @@
 {
   "id": 32256,
   "title": "Arcana+ 02 - Male Seniors",
-  "url": "https://api.mangadex.org/v2/manga/32256",
-  "last_updated": "February 10, 2021 08:32:38 UTC",
+  "url": "https://mangadex.org/manga/32256",
+  "last_updated": "March 18, 2021 10:49:44 UTC",
   "matches": [
     {
       "id": 8914,
       "title": "Arcana+ 01 - Boys in Uniform",
-      "score": 0.957,
-      "r18": false
+      "score": 0.95,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4461,
       "title": "Arcana 15 - School / Uniform",
-      "score": 0.798,
-      "r18": false
-    },
-    {
-      "id": 5676,
-      "title": "Kawa Yori mo Nagaku Yuruyaka ni",
-      "score": 0.689,
-      "r18": false
-    },
-    {
-      "id": 26134,
-      "title": "Shuuseki Kairo no Himawari",
-      "score": 0.689,
-      "r18": false
-    },
-    {
-      "id": 1063,
-      "title": "Chihayafuru",
-      "score": 0.685,
-      "r18": false
-    },
-    {
-      "id": 10369,
-      "title": "Kakukaku Shikajika",
-      "score": 0.682,
-      "r18": false
-    },
-    {
-      "id": 50321,
-      "title": "Totsuzen desu ga, Kyou Ai ni Kite",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 9109,
-      "title": "Shiki no Zenjitsu",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 15822,
-      "title": "Let Dai",
-      "score": 0.672,
-      "r18": false
-    },
-    {
-      "id": 4334,
-      "title": "Sakamichi no Apollon",
-      "score": 0.67,
-      "r18": false
-    },
-    {
-      "id": 6992,
-      "title": "Tensai Family Company",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 38891,
-      "title": "1st Kiss",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 15352,
-      "title": "Kore kara Hajimaru Koi o Oshiete",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 7466,
-      "title": "Nodame Cantabile Encore - Opera-hen",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 24707,
-      "title": "Chihayafuru: Middle School Arc",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 2120,
-      "title": "Nodame Cantabile",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 24384,
-      "title": "Housekiiro no Koi",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 5209,
-      "title": "Asa ga Kuru Tabi",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 17055,
-      "title": "Tada, Kimi wo aishiteru",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 58239,
-      "title": "Nandaka Sekai ga Utsukushii no wa",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 1857,
-      "title": "Hachimitsu to Clover",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 6329,
-      "title": "Blue",
-      "score": 0.65,
-      "r18": false
-    },
-    {
-      "id": 20911,
-      "title": "Boku no Giovanni",
-      "score": 0.65,
-      "r18": false
+      "score": 0.712,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8353,
       "title": "Omoino-Kakera",
-      "score": 0.424,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 11417,
+      "title": "Hisohiso - Silent Voice",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 16252,
+      "title": "Tenohira Size",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 24384,
+      "title": "Housekiiro no Koi",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "it"
+      ]
+    },
+    {
+      "id": 5209,
+      "title": "Asa ga Kuru Tabi",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 17030,
+      "title": "Assari Chocolate",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 6329,
+      "title": "Blue",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "pl"
+      ]
+    },
+    {
+      "id": 7568,
+      "title": "Applause",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24299,
+      "title": "Mahou ga Tsukaenakutemo",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 9109,
+      "title": "Shiki no Zenjitsu",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "tr"
+      ]
+    },
+    {
+      "id": 31336,
+      "title": "Zassou-tachi yo Taishi o Idake",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg"
+      ]
     },
     {
       "id": 1126,
       "title": "River's Edge",
-      "score": 0.423,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 36160,
+      "title": "The Net Generation Teacher",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9054,
+      "title": "Tsuzuki wa Mata Ashita",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 12772,
+      "title": "Tsukikage Baby",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "it",
+        "mx",
+        "br"
+      ]
+    },
+    {
+      "id": 10369,
+      "title": "Kakukaku Shikajika",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "sa"
+      ]
+    },
+    {
+      "id": 20911,
+      "title": "Boku no Giovanni",
+      "score": 0.263,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu",
+        "vn"
+      ]
+    },
+    {
+      "id": 52691,
+      "title": "Wakeari Senpai no Kanojo ni Narimashita",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6992,
+      "title": "Tensai Family Company",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50321,
+      "title": "Totsuzen desu ga, Kyou Ai ni Kite",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53728,
+      "title": "A Breeze of Kanome",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 12830,
+      "title": "Kokoro Kimiiro Sakurairo",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 39057,
+      "title": "JK to Sutego no Akachan",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "it"
+      ]
     }
   ]
 }

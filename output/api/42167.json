@@ -1,56 +1,90 @@
 {
   "id": 42167,
   "title": "Duelant",
-  "url": "https://api.mangadex.org/v2/manga/42167",
-  "last_updated": "February 11, 2021 12:21:18 UTC",
+  "url": "https://mangadex.org/manga/42167",
+  "last_updated": "March 18, 2021 12:12:24 UTC",
   "matches": [
-    {
-      "id": 10078,
-      "title": "Meng Wu and Chu Zi",
-      "score": 0.67,
-      "r18": false
-    },
-    {
-      "id": 9692,
-      "title": "Li Mu",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 1160,
-      "title": "Because Goodbyes Are Coming Soon",
-      "score": 0.661,
-      "r18": false
-    },
     {
       "id": 2677,
       "title": "Kiri Keisuke to Johnny Yonhyaku Tsukumo Hitokiri",
-      "score": 0.426,
-      "r18": false
+      "score": 0.362,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 852,
       "title": "Zatoichi",
-      "score": 0.413,
-      "r18": false
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1160,
+      "title": "Because Goodbyes Are Coming Soon",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "br",
+        "fr",
+        "it",
+        "gb"
+      ]
+    },
+    {
+      "id": 10078,
+      "title": "Meng Wu and Chu Zi",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "it",
+        "ru",
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 9692,
+      "title": "Li Mu",
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "ru",
+        "mx",
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 58697,
       "title": "Kingdom Highlights",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": 8286,
       "title": "The Legend of Genghis",
-      "score": 0.217,
-      "r18": false
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 21274,
       "title": "Courtesan Rascal Kikyoumaru",
-      "score": 0.153,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

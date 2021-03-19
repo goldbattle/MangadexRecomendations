@@ -1,38 +1,60 @@
 {
   "id": 41450,
   "title": "Bokura no Shikisai",
-  "url": "https://api.mangadex.org/v2/manga/41450",
-  "last_updated": "February 11, 2021 08:39:09 UTC",
+  "url": "https://mangadex.org/manga/41450",
+  "last_updated": "March 18, 2021 12:06:25 UTC",
   "matches": [
     {
-      "id": 15976,
-      "title": "Shimanami Tasogare",
-      "score": 0.679,
-      "r18": false
+      "id": 12773,
+      "title": "Omi-sensei no Binetsu",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8871,
       "title": "Brother",
-      "score": 0.399,
-      "r18": false
-    },
-    {
-      "id": 12773,
-      "title": "Omi-sensei no Binetsu",
-      "score": 0.382,
-      "r18": false
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 17256,
       "title": "Otouto no Otto",
-      "score": 0.379,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "br",
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 21,
       "title": "Sazanami Cherry",
-      "score": 0.328,
-      "r18": false
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 15976,
+      "title": "Shimanami Tasogare",
+      "score": 0.206,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "tr",
+        "it"
+      ]
     }
   ]
 }

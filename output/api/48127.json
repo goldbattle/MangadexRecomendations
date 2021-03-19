@@ -2,13 +2,50 @@
   "id": 48127,
   "title": "The Bushi",
   "url": "https://mangadex.org/manga/48127",
-  "last_updated": "January 15, 2021 12:29:56 UTC",
+  "last_updated": "March 18, 2021 13:02:15 UTC",
   "matches": [
+    {
+      "id": 44496,
+      "title": "Gantz:E",
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "gb",
+        "th",
+        "mx",
+        "br",
+        "hk",
+        "tr",
+        "ru",
+        "hu",
+        "it",
+        "sa",
+        "pl"
+      ]
+    },
     {
       "id": 4533,
       "title": "Otome Youkai Zakuro",
-      "score": 0.106,
-      "r18": false
+      "score": 0.089,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "tr",
+        "br"
+      ]
+    },
+    {
+      "id": 34621,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana",
+      "score": 0.065,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "hu"
+      ]
     }
   ]
 }

@@ -2,61 +2,79 @@
   "id": 29619,
   "title": "Kigenzen Ichimannen no Ota",
   "url": "https://mangadex.org/manga/29619",
-  "last_updated": "January 13, 2021 06:57:16 UTC",
+  "last_updated": "March 18, 2021 10:27:45 UTC",
   "matches": [
-    {
-      "id": 32555,
-      "title": "Love &amp; Devil",
-      "score": 0.354,
-      "r18": false
-    },
     {
       "id": 23857,
       "title": "Anata wo Sutte mo Ii Desu ka?",
-      "score": 0.351,
-      "r18": false
-    },
-    {
-      "id": 45025,
-      "title": "MaMAmama!",
-      "score": 0.274,
-      "r18": false
+      "score": 0.25,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 53752,
       "title": "&quot;Musume.&quot; no Iru Fuuzoku Biru",
-      "score": 0.266,
-      "r18": false
+      "score": 0.25,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 23502,
-      "title": "Hanafuda",
-      "score": 0.26,
-      "r18": false
-    },
-    {
-      "id": 23454,
-      "title": "Tail Chaser",
-      "score": 0.258,
-      "r18": false
+      "id": 32555,
+      "title": "Love &amp; Devil",
+      "score": 0.237,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 28613,
       "title": "Oyomesan wa Maou!?",
-      "score": 0.233,
-      "r18": false
+      "score": 0.2,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 23454,
+      "title": "Tail Chaser",
+      "score": 0.187,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 45025,
+      "title": "MaMAmama!",
+      "score": 0.15,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 26314,
       "title": "Mahou Shoujo",
-      "score": 0.14,
-      "r18": false
+      "score": 0.12,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29905,
       "title": "It's Like Chichichichi at Sunohara-sou",
-      "score": 0.1,
-      "r18": false
+      "score": 0.085,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

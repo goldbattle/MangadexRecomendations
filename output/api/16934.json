@@ -2,43 +2,64 @@
   "id": 16934,
   "title": "Tir na Nog",
   "url": "https://mangadex.org/manga/16934",
-  "last_updated": "March 15, 2021 16:49:31 UTC",
+  "last_updated": "March 18, 2021 08:17:58 UTC",
   "matches": [
     {
       "id": 5575,
       "title": "Ningen Isu",
       "score": 0.184,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 13711,
       "title": "Gengenji",
       "score": 0.153,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 17369,
-      "title": "Covered in Cinders",
-      "score": 0.131,
-      "r18": false
+      "id": 42666,
+      "title": "Kukurihime",
+      "score": 0.153,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 22426,
       "title": "Return To The Hidden",
       "score": 0.131,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
     },
     {
       "id": 13536,
       "title": "World Apartment Horror",
       "score": 0.102,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 42646,
       "title": "Shinigami no Lament",
       "score": 0.102,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

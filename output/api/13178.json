@@ -2,61 +2,105 @@
   "id": 13178,
   "title": "Reader",
   "url": "https://mangadex.org/manga/13178",
-  "last_updated": "March 15, 2021 08:31:24 UTC",
+  "last_updated": "March 18, 2021 07:38:09 UTC",
   "matches": [
     {
       "id": 10643,
       "title": "Boku Girl",
-      "score": 0.242,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "pl",
+        "ru",
+        "br",
+        "fr",
+        "de",
+        "es"
+      ]
     },
     {
       "id": 1024,
       "title": "Teizokurei Monophobia",
       "score": 0.207,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1705,
       "title": "raven;od",
       "score": 0.207,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 835,
       "title": "K&auml;mpfer",
       "score": 0.181,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 18223,
       "title": "Unbalance School Life",
       "score": 0.181,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 3856,
       "title": "Nuiguru Mix",
       "score": 0.181,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 15780,
       "title": "Yuri na Watashi to Akuma na Kanojo (?)",
       "score": 0.181,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "pl"
+      ]
     },
     {
       "id": 4120,
       "title": "Sai:Taker - Futari no Artemis",
       "score": 0.161,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 20563,
       "title": "Melancholia",
       "score": 0.061,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "vn",
+        "tr",
+        "hu",
+        "fr"
+      ]
     }
   ]
 }

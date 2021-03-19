@@ -1,38 +1,54 @@
 {
   "id": 33861,
   "title": "Kingyotsuma",
-  "url": "https://api.mangadex.org/v2/manga/33861",
-  "last_updated": "February 10, 2021 12:45:00 UTC",
+  "url": "https://mangadex.org/manga/33861",
+  "last_updated": "March 18, 2021 11:03:06 UTC",
   "matches": [
-    {
-      "id": 34368,
-      "title": "Yukionna to Kani wo Kuu",
-      "score": 0.272,
-      "r18": false
-    },
     {
       "id": 6159,
       "title": "/Blush-DC ~Hi&hearts;mitsu~",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "de"
+      ]
     },
     {
       "id": 6925,
       "title": "Himegoto - Juukyuusai no Seifuku",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "pl",
+        "it"
+      ]
     },
     {
       "id": 38738,
       "title": "Kimi ni Aisarete Itakatta",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "hk",
+        "ru"
+      ]
     },
     {
       "id": 282,
       "title": "Wolf Guy - Ookami no Monshou",
-      "score": 0.136,
-      "r18": false
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "it"
+      ]
     }
   ]
 }

@@ -1,158 +1,292 @@
 {
   "id": 54540,
   "title": "Seidon no Ryuu",
-  "url": "https://api.mangadex.org/v2/manga/54540",
-  "last_updated": "March 12, 2021 20:26:52 UTC",
+  "url": "https://mangadex.org/manga/54540",
+  "last_updated": "March 18, 2021 13:55:50 UTC",
   "matches": [
-    {
-      "id": 52602,
-      "title": "Her Majesty&rsquo;s Swarm",
-      "score": 0.756,
-      "r18": false
-    },
     {
       "id": 29138,
       "title": "Peach Boy Riverside",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 4629,
-      "title": "Burning Hell",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 1404,
-      "title": "Guin Saga",
-      "score": 0.672,
-      "r18": false
-    },
-    {
-      "id": 56738,
-      "title": "Shintouki: Teogonia",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 36139,
-      "title": "A Story About Treating a Female Knight, Who Has Never Been Treated as a Woman, as a Woman (Sirius contest entry)",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 43437,
-      "title": "Yobidasareta Satsurikusha",
-      "score": 0.37,
-      "r18": false
-    },
-    {
-      "id": 17945,
-      "title": "Adu of Hades",
-      "score": 0.349,
-      "r18": false
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "fr"
+      ]
     },
     {
       "id": 44205,
       "title": "Yuwakashi Yuusha no Fukushuutan",
-      "score": 0.346,
-      "r18": false
-    },
-    {
-      "id": 7953,
-      "title": "Baoh Raihousha",
-      "score": 0.324,
-      "r18": false
-    },
-    {
-      "id": 7163,
-      "title": "Henshin Ninja Arashi",
-      "score": 0.317,
-      "r18": false
-    },
-    {
-      "id": 27202,
-      "title": "The Ride-On King",
-      "score": 0.31,
-      "r18": false
-    },
-    {
-      "id": 23551,
-      "title": "Nidome no Yuusha",
-      "score": 0.301,
-      "r18": false
-    },
-    {
-      "id": 50976,
-      "title": "The Executed Sage Is Reincarnated as a Lich and Starts an All-Out War",
-      "score": 0.297,
-      "r18": false
-    },
-    {
-      "id": 53260,
-      "title": "Tales Of Herding Gods",
-      "score": 0.296,
-      "r18": false
-    },
-    {
-      "id": 31069,
-      "title": "Satsujinki to Fushi no Majutsu-shi",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 43476,
-      "title": "Yakuza Reincarnation",
-      "score": 0.275,
-      "r18": false
-    },
-    {
-      "id": 40712,
-      "title": "Yajin Tensei: Karate Survivor in Another World",
-      "score": 0.27,
-      "r18": false
-    },
-    {
-      "id": 36344,
-      "title": "The World Is Full of Monsters Now, Therefore I Want to Live as I Wish",
-      "score": 0.269,
-      "r18": false
-    },
-    {
-      "id": 28595,
-      "title": "Bestia",
-      "score": 0.266,
-      "r18": false
-    },
-    {
-      "id": 14704,
-      "title": "Kyomu Senki",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 59112,
-      "title": "Fate Combaters",
-      "score": 0.247,
-      "r18": false
-    },
-    {
-      "id": 6248,
-      "title": "Koukoku no Shugosha",
-      "score": 0.246,
-      "r18": false
-    },
-    {
-      "id": 48440,
-      "title": "TimeLine: Unknown (\u4e0d\u660e\u306a\u6642\u9593)",
-      "score": 0.245,
-      "r18": false
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "th"
+      ]
     },
     {
       "id": 38810,
       "title": "Dark Arts Master",
-      "score": 0.244,
-      "r18": false
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr"
+      ]
+    },
+    {
+      "id": 17945,
+      "title": "Adu of Hades",
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn"
+      ]
+    },
+    {
+      "id": 7953,
+      "title": "Baoh Raihousha",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "fr"
+      ]
+    },
+    {
+      "id": 7163,
+      "title": "Henshin Ninja Arashi",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1404,
+      "title": "Guin Saga",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 50727,
+      "title": "The Reincarnated Inferior Magic Swordsman",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru",
+        "br",
+        "fr",
+        "it",
+        "pl"
+      ]
+    },
+    {
+      "id": 44053,
+      "title": "Eden no Majotachi",
+      "score": 0.188,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 52602,
+      "title": "Her Majesty's Swarm",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 27202,
+      "title": "The Ride-On King",
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "pl",
+        "ru",
+        "id",
+        "it"
+      ]
+    },
+    {
+      "id": 53260,
+      "title": "Tales Of Herding Gods",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru"
+      ]
+    },
+    {
+      "id": 23551,
+      "title": "Nidome no Yuusha",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "fr",
+        "it",
+        "gb",
+        "id",
+        "mx",
+        "ru",
+        "hu"
+      ]
+    },
+    {
+      "id": 50976,
+      "title": "The Executed Sage Is Reincarnated as a Lich and Starts an All-Out War",
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "mx",
+        "fr",
+        "tr",
+        "id"
+      ]
+    },
+    {
+      "id": 31069,
+      "title": "Satsujinki to Fushi no Majutsu-shi",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 43476,
+      "title": "Yakuza Reincarnation",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru",
+        "br",
+        "id"
+      ]
+    },
+    {
+      "id": 56738,
+      "title": "Shintouki: Teogonia",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 25334,
+      "title": "Buchimaru Chaos",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "it",
+        "ru",
+        "mx",
+        "br",
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 28595,
+      "title": "Bestia",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 48440,
+      "title": "TimeLine: Unknown (\u4e0d\u660e\u306a\u6642\u9593)",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 52064,
+      "title": "Ramia-Yana",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "es",
+        "fr"
+      ]
+    },
+    {
+      "id": 36344,
+      "title": "The World Is Full of Monsters Now, Therefore I Want to Live as I Wish",
+      "score": 0.134,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 17317,
+      "title": "Acaria",
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 35838,
+      "title": "Slayer Volte",
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 4629,
+      "title": "Burning Hell",
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu"
+      ]
     }
   ]
 }

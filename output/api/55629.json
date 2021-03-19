@@ -1,14 +1,18 @@
 {
   "id": 55629,
   "title": "Hadaka no Kozue-chan",
-  "url": "https://api.mangadex.org/v2/manga/55629",
-  "last_updated": "March 12, 2021 20:40:14 UTC",
+  "url": "https://mangadex.org/manga/55629",
+  "last_updated": "March 18, 2021 14:04:57 UTC",
   "matches": [
     {
       "id": 48191,
       "title": "Eve no Okusuri",
-      "score": 0.183,
-      "r18": true
+      "score": 0.166,
+      "r18": true,
+      "languages": [
+        "gb",
+        "es"
+      ]
     }
   ]
 }

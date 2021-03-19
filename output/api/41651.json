@@ -1,158 +1,276 @@
 {
   "id": 41651,
   "title": "FanPartRun Magazine Manga",
-  "url": "https://api.mangadex.org/v2/manga/41651",
-  "last_updated": "February 11, 2021 08:42:11 UTC",
+  "url": "https://mangadex.org/manga/41651",
+  "last_updated": "March 18, 2021 12:08:06 UTC",
   "matches": [
     {
       "id": 2086,
       "title": "Kingdom Hearts 358/2 Days",
-      "score": 0.24,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 4464,
       "title": "Mirror Girl",
-      "score": 0.229,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 93,
       "title": "Tegami Bachi",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "pl"
+      ]
     },
     {
       "id": 597,
       "title": "Mardock Scramble",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1510,
       "title": "Kamisama no Inai Nichiyoubi",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "pl",
+        "ru"
+      ]
     },
     {
       "id": 3889,
       "title": "Denma",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 9959,
       "title": "Gringo 2061",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 12306,
       "title": "Hero",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 14603,
       "title": "Kagamigami",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru",
+        "es"
+      ]
     },
     {
       "id": 17001,
       "title": "Survival",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 18675,
       "title": "Survival: Shounen S no Kiroku",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "ru",
+        "mx",
+        "gb",
+        "tr",
+        "br",
+        "sa",
+        "id"
+      ]
     },
     {
       "id": 28525,
       "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo",
-      "score": 0.206,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 1238,
       "title": "Q.E.D",
-      "score": 0.191,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3091,
       "title": "Suzumiya Haruhi no Yuuutsu",
-      "score": 0.191,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 10553,
       "title": "Mob Psycho 100",
-      "score": 0.191,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id",
+        "br",
+        "tr",
+        "hu"
+      ]
     },
     {
       "id": 25754,
       "title": "Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta",
-      "score": 0.191,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id"
+      ]
     },
     {
       "id": 30297,
       "title": "Q.E.D. iff",
-      "score": 0.191,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 35870,
       "title": "Heart Gear",
-      "score": 0.191,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "mx",
+        "id"
+      ]
     },
     {
       "id": 84,
       "title": "Deadman Wonderland",
-      "score": 0.189,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "il",
+        "gb",
+        "br",
+        "ru",
+        "bg"
+      ]
     },
     {
       "id": 134,
       "title": "en&iacute;gm\u04d9",
-      "score": 0.189,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "de"
+      ]
     },
     {
       "id": 312,
       "title": "Layers",
-      "score": 0.189,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br"
+      ]
     },
     {
       "id": 495,
       "title": "Rakshasa Street",
-      "score": 0.189,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "pl"
+      ]
     },
     {
       "id": 552,
       "title": "Megami Ibunroku - Persona",
-      "score": 0.189,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 1087,
       "title": "Code Geass: Shikkoku no Renya",
-      "score": 0.189,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1704,
       "title": "Big Order",
-      "score": 0.189,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "ru",
+        "br",
+        "gb",
+        "pl"
+      ]
     }
   ]
 }

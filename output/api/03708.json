@@ -2,55 +2,98 @@
   "id": 3708,
   "title": "Violence Jack",
   "url": "https://mangadex.org/manga/3708",
-  "last_updated": "March 14, 2021 08:22:40 UTC",
+  "last_updated": "March 18, 2021 06:15:10 UTC",
   "matches": [
     {
       "id": 6864,
       "title": "Black Lion",
       "score": 0.152,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6666,
       "title": "Shin Mazinger Zero",
-      "score": 0.134,
-      "r18": false
-    },
-    {
-      "id": 28544,
-      "title": "Yondome wa Iya na Shizokusei Majutsushi",
-      "score": 0.12,
-      "r18": false
+      "score": 0.133,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 10847,
       "title": "Shin Devilman",
-      "score": 0.118,
-      "r18": false
+      "score": 0.122,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 28544,
+      "title": "Yondome wa Iya na Shizokusei Majutsushi",
+      "score": 0.119,
+      "r18": false,
+      "languages": [
+        "ru",
+        "br",
+        "tr",
+        "es",
+        "gb",
+        "id",
+        "fr",
+        "pl"
+      ]
     },
     {
       "id": 37415,
       "title": "Samayoeru Tensei-sha-tachi no Relive Game",
       "score": 0.108,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id",
+        "fr",
+        "br"
+      ]
     },
     {
       "id": 623,
       "title": "Franken Fran",
       "score": 0.106,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "pl"
+      ]
     },
     {
       "id": 11981,
       "title": "Red Blood Red Legacy",
       "score": 0.094,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "pl"
+      ]
     },
     {
       "id": 22207,
       "title": "Redman Princess: Akuryou Koujo",
-      "score": 0.073,
-      "r18": false
+      "score": 0.072,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

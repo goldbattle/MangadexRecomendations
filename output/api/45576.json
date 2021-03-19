@@ -1,158 +1,259 @@
 {
   "id": 45576,
   "title": "Sewa ashi",
-  "url": "https://api.mangadex.org/v2/manga/45576",
-  "last_updated": "February 11, 2021 20:27:56 UTC",
+  "url": "https://mangadex.org/manga/45576",
+  "last_updated": "March 18, 2021 12:40:53 UTC",
   "matches": [
     {
-      "id": 31250,
-      "title": "Torimibu no Takanashi-san",
-      "score": 0.367,
-      "r18": false
+      "id": 39288,
+      "title": "Lazy Skies",
+      "score": 0.39,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 334,
-      "title": "Hidamari Sketch",
-      "score": 0.275,
-      "r18": false
-    },
-    {
-      "id": 3426,
-      "title": "Sadomi",
-      "score": 0.275,
-      "r18": false
-    },
-    {
-      "id": 3427,
-      "title": "Sadomi the Sadist Girl Strikes Back",
-      "score": 0.275,
-      "r18": false
-    },
-    {
-      "id": 3871,
-      "title": "Silva",
-      "score": 0.275,
-      "r18": false
-    },
-    {
-      "id": 8428,
-      "title": "Kounago Sensei",
-      "score": 0.275,
-      "r18": false
-    },
-    {
-      "id": 9502,
-      "title": "Quick Start!!",
-      "score": 0.275,
-      "r18": false
-    },
-    {
-      "id": 13010,
-      "title": "Aquarium (Hiro)",
-      "score": 0.275,
-      "r18": false
-    },
-    {
-      "id": 13321,
-      "title": "Slow Start",
-      "score": 0.275,
-      "r18": false
-    },
-    {
-      "id": 16861,
-      "title": "Nyoroko's Live Broadcasting!",
-      "score": 0.275,
-      "r18": false
-    },
-    {
-      "id": 17273,
-      "title": "Custom Maid!",
-      "score": 0.275,
-      "r18": false
-    },
-    {
-      "id": 18736,
-      "title": "Sketchbook Shucchouban",
-      "score": 0.275,
-      "r18": false
-    },
-    {
-      "id": 19431,
-      "title": "Danganronpa - The Academy of Hope and the High School Students of Despair 4-koma Kings",
-      "score": 0.275,
-      "r18": false
-    },
-    {
-      "id": 29975,
-      "title": "The Embarrassing Daily Life of Hazu-kun and Kashii-san",
-      "score": 0.275,
-      "r18": false
-    },
-    {
-      "id": 45,
-      "title": "Azumanga Daioh",
-      "score": 0.22,
-      "r18": false
-    },
-    {
-      "id": 179,
-      "title": "Sketchbook",
-      "score": 0.22,
-      "r18": false
-    },
-    {
-      "id": 384,
-      "title": "Morita-san wa Mukuchi",
-      "score": 0.22,
-      "r18": false
+      "id": 16904,
+      "title": "Crazy for You",
+      "score": 0.325,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 1732,
       "title": "Kiniro Mosaic",
-      "score": 0.22,
-      "r18": false
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
-      "id": 2063,
-      "title": "Itsukasei Metsubou Syndrome",
-      "score": 0.22,
-      "r18": false
+      "id": 17273,
+      "title": "Custom Maid!",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 2354,
-      "title": "Kill Me Baby",
-      "score": 0.22,
-      "r18": false
+      "id": 15941,
+      "title": "Tsurezure Children",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "fr",
+        "it",
+        "id",
+        "ro",
+        "in"
+      ]
     },
     {
-      "id": 2608,
-      "title": "Seitokai no Wotanoshimi",
-      "score": 0.22,
-      "r18": false
+      "id": 18736,
+      "title": "Sketchbook Shucchouban",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 2859,
-      "title": "Chiro-chan",
-      "score": 0.22,
-      "r18": false
+      "id": 48203,
+      "title": "Kenage na Seitou Kaicho to Yokoshima na Fuku Kaichou",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 2973,
-      "title": "Gu-Pan!",
-      "score": 0.22,
-      "r18": false
+      "id": 17081,
+      "title": "Fudanshi Koukou Seikatsu",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 3875,
-      "title": "Acchi Kocchi",
-      "score": 0.22,
-      "r18": false
+      "id": 179,
+      "title": "Sketchbook",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 4333,
       "title": "Waratte! Sotomura-san",
-      "score": 0.22,
-      "r18": false
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 28714,
+      "title": "Doushite Watashi ga Bijutsuka ni!?",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6687,
+      "title": "A-Channel",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "id"
+      ]
+    },
+    {
+      "id": 16320,
+      "title": "Pan de Peace!",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 31193,
+      "title": "Yume Miru Prima Girl!",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21574,
+      "title": "Chihaya-san's Fine that Way",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 3875,
+      "title": "Acchi Kocchi",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de",
+        "fr"
+      ]
+    },
+    {
+      "id": 32970,
+      "title": "Seirei-sama no Nangi na Nichijou",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9502,
+      "title": "Quick Start!!",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2354,
+      "title": "Kill Me Baby",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 21983,
+      "title": "Stella no Mahou",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru"
+      ]
+    },
+    {
+      "id": 9553,
+      "title": "Yuyushiki",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 384,
+      "title": "Morita-san wa Mukuchi",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 30569,
+      "title": "Hokenshitsu no Tsumuri-san",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 16591,
+      "title": "Futsuu no Joshikousei ga Locodol yatte mita.",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14508,
+      "title": "Hitoribocchi no \u25cb\u25cb Seikatsu",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "mx",
+        "br",
+        "fr",
+        "id"
+      ]
     }
   ]
 }

@@ -1,44 +1,63 @@
 {
   "id": 55386,
   "title": "Akuma no Kare",
-  "url": "https://api.mangadex.org/v2/manga/55386",
-  "last_updated": "March 12, 2021 20:37:10 UTC",
+  "url": "https://mangadex.org/manga/55386",
+  "last_updated": "March 18, 2021 14:02:56 UTC",
   "matches": [
     {
-      "id": 53988,
-      "title": "Tokyo Yaban Gaiden - Geboku Shounen Bushi",
-      "score": 0.667,
-      "r18": false
+      "id": 34891,
+      "title": "Ai wa Kane Nari",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 44586,
       "title": "Tabetemo Oishiku Arimasen",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 34891,
-      "title": "Ai wa Kane Nari",
-      "score": 0.404,
-      "r18": false
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 48630,
       "title": "Inma-kun wa Oshigoto Dekinai",
-      "score": 0.356,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 32973,
       "title": "Koi no Sekken Hour",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53988,
+      "title": "Tokyo Yaban Gaiden - Geboku Shounen Bushi",
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 52717,
       "title": "The Devil and S-13",
-      "score": 0.175,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "ir"
+      ]
     }
   ]
 }

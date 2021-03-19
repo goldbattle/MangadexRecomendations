@@ -1,62 +1,54 @@
 {
   "id": 31564,
   "title": "Overdrive",
-  "url": "https://api.mangadex.org/v2/manga/31564",
-  "last_updated": "February 10, 2021 08:22:04 UTC",
+  "url": "https://mangadex.org/manga/31564",
+  "last_updated": "March 18, 2021 10:43:58 UTC",
   "matches": [
-    {
-      "id": 29724,
-      "title": "I'm so Cute I Might Explode",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 892,
-      "title": "I'm Not Spy",
-      "score": 0.265,
-      "r18": false
-    },
     {
       "id": 51349,
       "title": "1/24 Romance",
-      "score": 0.238,
-      "r18": false
-    },
-    {
-      "id": 18993,
-      "title": "San Yan Xiao Tian Lu",
-      "score": 0.237,
-      "r18": false
-    },
-    {
-      "id": 18453,
-      "title": "The Hero is a Girl?!",
-      "score": 0.235,
-      "r18": false
+      "score": 0.161,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ir",
+        "it"
+      ]
     },
     {
       "id": 19160,
-      "title": "I Am My Wife",
-      "score": 0.222,
-      "r18": false
-    },
-    {
-      "id": 38755,
-      "title": "I Only Want To Meet You",
-      "score": 0.204,
-      "r18": false
+      "title": "I Am My Wife!?",
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "bd",
+        "br",
+        "es"
+      ]
     },
     {
       "id": 20116,
       "title": "Xuan Ji Ci",
-      "score": 0.2,
-      "r18": false
+      "score": 0.103,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 54065,
       "title": "Take Me Out",
-      "score": 0.16,
-      "r18": false
+      "score": 0.09,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "tr"
+      ]
     }
   ]
 }

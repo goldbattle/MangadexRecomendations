@@ -1,158 +1,159 @@
 {
   "id": 54352,
   "title": "Netsu wo Samase!",
-  "url": "https://api.mangadex.org/v2/manga/54352",
-  "last_updated": "March 12, 2021 20:24:32 UTC",
+  "url": "https://mangadex.org/manga/54352",
+  "last_updated": "March 18, 2021 13:54:16 UTC",
   "matches": [
-    {
-      "id": 13268,
-      "title": "Magic Mail Chocolate",
-      "score": 0.687,
-      "r18": false
-    },
-    {
-      "id": 18517,
-      "title": "Joshi BL (Anthology)",
-      "score": 0.686,
-      "r18": false
-    },
-    {
-      "id": 19632,
-      "title": "Hitorijime My Hero",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 18216,
-      "title": "Sorekara, Kimi o Kangaeru",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 12747,
-      "title": "Electric Hands",
-      "score": 0.671,
-      "r18": false
-    },
-    {
-      "id": 15031,
-      "title": "Hitorijime Boyfriend",
-      "score": 0.67,
-      "r18": false
-    },
-    {
-      "id": 12477,
-      "title": "Koi no Jumon",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 9579,
-      "title": "Sekai wa Kimi de Mawatteru",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 8905,
-      "title": "Hana no Miyako de",
-      "score": 0.662,
-      "r18": false
-    },
-    {
-      "id": 16295,
-      "title": "Kare to Kare no Ijiwaru na Kyori",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 11706,
-      "title": "Sono Kuchibiru wo Hirake",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 8241,
-      "title": "Darenimo Iwanaide",
-      "score": 0.492,
-      "r18": false
-    },
     {
       "id": 19614,
       "title": "Danshi Koukouseiteki Kazoku Keikaku!",
-      "score": 0.483,
-      "r18": false
+      "score": 0.416,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
-      "id": 29163,
-      "title": "Sekai no Oto ga Shinai",
-      "score": 0.475,
-      "r18": false
-    },
-    {
-      "id": 21030,
-      "title": "Yukidoke no Koi",
-      "score": 0.424,
-      "r18": false
-    },
-    {
-      "id": 32061,
-      "title": "Tian Zi Yu Dun",
-      "score": 0.418,
-      "r18": false
-    },
-    {
-      "id": 22401,
-      "title": "Hokenshitsu Made Nan M?",
-      "score": 0.414,
-      "r18": false
-    },
-    {
-      "id": 6528,
-      "title": "Kono Ore ga Omae Nanka Suki na Wakenai",
-      "score": 0.409,
-      "r18": false
-    },
-    {
-      "id": 9695,
-      "title": "Love Kids!!",
-      "score": 0.407,
-      "r18": false
-    },
-    {
-      "id": 22535,
-      "title": "Kunkou Schale",
-      "score": 0.406,
-      "r18": false
+      "id": 1413,
+      "title": "Otona Keikenchi",
+      "score": 0.312,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 4945,
       "title": "Sono Koi ni wa Wake ga Aru",
-      "score": 0.401,
-      "r18": false
+      "score": 0.312,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
     },
     {
-      "id": 16030,
-      "title": "Hanyuu-sensei no Ryou Seikatsu",
-      "score": 0.401,
-      "r18": false
+      "id": 9614,
+      "title": "Koi ni Nare!",
+      "score": 0.312,
+      "r18": false,
+      "languages": [
+        "tr",
+        "pl",
+        "gb"
+      ]
     },
     {
-      "id": 9237,
-      "title": "Koi Nante Shinai!",
-      "score": 0.401,
-      "r18": false
+      "id": 4670,
+      "title": "Houkago no Love Call",
+      "score": 0.312,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "hu",
+        "tr"
+      ]
     },
     {
-      "id": 19745,
-      "title": "Kijima-kun",
-      "score": 0.397,
-      "r18": false
+      "id": 12667,
+      "title": "Dounimo Naranai",
+      "score": 0.312,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
     },
     {
-      "id": 8143,
-      "title": "Bikkuri Suru Hodo Doji na Koi",
-      "score": 0.395,
-      "r18": false
+      "id": 6528,
+      "title": "Kono Ore ga Omae Nanka Suki na Wakenai",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "fr",
+        "id"
+      ]
+    },
+    {
+      "id": 9579,
+      "title": "Sekai wa Kimi de Mawatteru",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "pl",
+        "tr",
+        "gb"
+      ]
+    },
+    {
+      "id": 9268,
+      "title": "Gosan no Heart",
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
+    },
+    {
+      "id": 20898,
+      "title": "Oko-sama Star",
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "tr"
+      ]
+    },
+    {
+      "id": 14963,
+      "title": "Kitto Kiss o Suru Toki",
+      "score": 0.201,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "vn",
+        "tr"
+      ]
+    },
+    {
+      "id": 8905,
+      "title": "Hana no Miyako de",
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 7191,
+      "title": "Udagawachou de Mattete yo",
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "tr"
+      ]
+    },
+    {
+      "id": 5185,
+      "title": "Slow Starter",
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
     }
   ]
 }

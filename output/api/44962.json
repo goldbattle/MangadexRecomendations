@@ -1,158 +1,271 @@
 {
   "id": 44962,
   "title": "Puyan",
-  "url": "https://api.mangadex.org/v2/manga/44962",
-  "last_updated": "February 11, 2021 20:18:04 UTC",
+  "url": "https://mangadex.org/manga/44962",
+  "last_updated": "March 18, 2021 12:35:45 UTC",
   "matches": [
     {
       "id": 858,
       "title": "Hikaru no Go",
-      "score": 0.263,
-      "r18": false
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 684,
       "title": "Kuroko no Basket",
-      "score": 0.22,
-      "r18": false
+      "score": 0.19,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "tr",
+        "de"
+      ]
     },
     {
       "id": 1291,
       "title": "Itsumo Misora",
-      "score": 0.22,
-      "r18": false
+      "score": 0.19,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "fr",
+        "ru"
+      ]
     },
     {
       "id": 1367,
       "title": "Q and A",
-      "score": 0.22,
-      "r18": false
-    },
-    {
-      "id": 5557,
-      "title": "Tetsugaku Letra",
-      "score": 0.22,
-      "r18": false
-    },
-    {
-      "id": 13275,
-      "title": "Baki Gaiden: SCARFACE",
-      "score": 0.22,
-      "r18": false
+      "score": 0.19,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 14217,
       "title": "Kuroko no Basket - Extra Game",
-      "score": 0.22,
-      "r18": false
-    },
-    {
-      "id": 16468,
-      "title": "Mononofu",
-      "score": 0.22,
-      "r18": false
+      "score": 0.19,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 49167,
       "title": "Ryuu to Ichigo",
-      "score": 0.22,
-      "r18": false
+      "score": 0.19,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 12096,
-      "title": "Chrono Monochrome",
-      "score": 0.217,
-      "r18": false
+      "id": 5557,
+      "title": "Tetsugaku Letra",
+      "score": 0.189,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg",
+        "mx",
+        "br",
+        "tr",
+        "pl"
+      ]
+    },
+    {
+      "id": 13275,
+      "title": "Baki Gaiden: SCARFACE",
+      "score": 0.189,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 16468,
+      "title": "Mononofu",
+      "score": 0.189,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
     },
     {
       "id": 36067,
       "title": "Ultimate Rock-Paper-Scissors",
-      "score": 0.217,
-      "r18": false
+      "score": 0.185,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it"
+      ]
+    },
+    {
+      "id": 12096,
+      "title": "Chrono Monochrome",
+      "score": 0.184,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 343,
       "title": "Shinryaku! Ika Musume",
-      "score": 0.215,
-      "r18": false
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "pl"
+      ]
     },
     {
       "id": 958,
       "title": "Binbougami ga!",
-      "score": 0.215,
-      "r18": false
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1265,
       "title": "Liberamente",
-      "score": 0.215,
-      "r18": false
-    },
-    {
-      "id": 3607,
-      "title": "All Around Type-Moon",
-      "score": 0.215,
-      "r18": false
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 3717,
       "title": "Hana Michi Otome",
-      "score": 0.215,
-      "r18": false
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6133,
       "title": "The Time of Cherry Blossoms",
-      "score": 0.215,
-      "r18": false
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7645,
       "title": "Flying Witch",
-      "score": 0.215,
-      "r18": false
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "it",
+        "br",
+        "de",
+        "pl",
+        "fr"
+      ]
     },
     {
       "id": 10553,
       "title": "Mob Psycho 100",
-      "score": 0.215,
-      "r18": false
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id",
+        "br",
+        "tr",
+        "hu"
+      ]
     },
     {
       "id": 14337,
       "title": "Takeo-chan Bukkairoku",
-      "score": 0.215,
-      "r18": false
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 15858,
       "title": "Fukigen na Mononokean",
-      "score": 0.215,
-      "r18": false
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "vn",
+        "fr"
+      ]
     },
     {
       "id": 16019,
       "title": "Gendai Majo Zukan",
-      "score": 0.215,
-      "r18": false
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 16753,
       "title": "Kami to Yobareta Kyuuketsuki",
-      "score": 0.215,
-      "r18": false
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21513,
       "title": "Sodatechi Maou!",
-      "score": 0.215,
-      "r18": false
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 26984,
       "title": "Suginami Toubatsu Koumuin: Dungeon Kinmu no Hitobito",
-      "score": 0.215,
-      "r18": false
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 40969,
+      "title": "Yofukashi no Uta",
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "id",
+        "mx",
+        "tr",
+        "ru"
+      ]
     }
   ]
 }

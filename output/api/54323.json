@@ -1,158 +1,238 @@
 {
   "id": 54323,
   "title": "Durarara!! DJ - Asleep or Awake",
-  "url": "https://api.mangadex.org/v2/manga/54323",
-  "last_updated": "March 12, 2021 20:24:11 UTC",
+  "url": "https://mangadex.org/manga/54323",
+  "last_updated": "March 18, 2021 13:54:02 UTC",
   "matches": [
-    {
-      "id": 54329,
-      "title": "Durarara!! DJ - Waaarning!",
-      "score": 0.827,
-      "r18": false
-    },
     {
       "id": 54322,
       "title": "Durarara!! DJ - Count Down",
-      "score": 0.81,
-      "r18": false
+      "score": 0.824,
+      "r18": false,
+      "languages": [
+        "tr"
+      ]
     },
     {
-      "id": 41048,
-      "title": "Durarara!! - Love and Hate (Doujinshi)",
-      "score": 0.806,
-      "r18": false
-    },
-    {
-      "id": 35017,
-      "title": "Durarara!! - Aka Tsuyu (Doujinshi)",
-      "score": 0.797,
-      "r18": false
-    },
-    {
-      "id": 28984,
-      "title": "Minna Kyou mo Genki",
-      "score": 0.45,
-      "r18": false
-    },
-    {
-      "id": 31524,
-      "title": "Kanraku Destiny",
-      "score": 0.446,
-      "r18": false
-    },
-    {
-      "id": 29092,
-      "title": "Mawaru Sekai no Kimi to Boku - Meguru Sekai no 60 Byou (Doujinshi)",
-      "score": 0.445,
-      "r18": false
-    },
-    {
-      "id": 35739,
-      "title": "Renai Junkie - 100% Fresh Juice (Doujinshi)",
-      "score": 0.44,
-      "r18": false
-    },
-    {
-      "id": 35055,
-      "title": "Haru wo Daiteita - Balalaika (Doujinshi)",
-      "score": 0.431,
-      "r18": false
-    },
-    {
-      "id": 34864,
-      "title": "Captain Tsubasa - Yayoi Shinjuu (Doujinshi)",
-      "score": 0.424,
-      "r18": false
-    },
-    {
-      "id": 34865,
-      "title": "Captain Tsubasa - Charisma (Doujinshi)",
-      "score": 0.424,
-      "r18": false
-    },
-    {
-      "id": 44825,
-      "title": "Eyeshield 21 - Devil Mania (Doujinshi)",
-      "score": 0.424,
-      "r18": false
-    },
-    {
-      "id": 54395,
-      "title": "Katekyo Hitman Reborn! dj - Kazoku",
-      "score": 0.423,
-      "r18": false
-    },
-    {
-      "id": 27058,
-      "title": "Devil x Devil - Storm from the West (Doujinshi)",
-      "score": 0.422,
-      "r18": false
+      "id": 54329,
+      "title": "Durarara!! DJ - Waaarning!",
+      "score": 0.766,
+      "r18": false,
+      "languages": [
+        "tr"
+      ]
     },
     {
       "id": 54201,
       "title": "Free! DJ - Hatsujou Suru Hi",
-      "score": 0.422,
-      "r18": false
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "tr"
+      ]
     },
     {
-      "id": 59820,
-      "title": "Naruto dj - 30's Calborn",
-      "score": 0.421,
-      "r18": false
-    },
-    {
-      "id": 32322,
-      "title": "Haikyuu!! - Get Well Soon!",
-      "score": 0.421,
-      "r18": false
-    },
-    {
-      "id": 48733,
-      "title": "Naruto - NSRevolution (Doujinshi)",
-      "score": 0.419,
-      "r18": false
-    },
-    {
-      "id": 52465,
-      "title": "Bleach - Bibou no Aozora (Doujinshi)",
-      "score": 0.41,
-      "r18": false
+      "id": 54395,
+      "title": "Katekyo Hitman Reborn! dj - Kazoku",
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "tr"
+      ]
     },
     {
       "id": 19486,
       "title": "Haikyuu!! - Kuro-Ken! (Doujinshi)",
-      "score": 0.409,
-      "r18": false
-    },
-    {
-      "id": 37263,
-      "title": "DRAMAtical Murder - Dankeschoen, St. Nikolaus. (Doujinshi)",
-      "score": 0.409,
-      "r18": false
-    },
-    {
-      "id": 35719,
-      "title": "Gintama - Fake (Doujinshi)",
-      "score": 0.408,
-      "r18": false
-    },
-    {
-      "id": 5279,
-      "title": "Bleach - After Iris (Doujinshi)",
-      "score": 0.407,
-      "r18": false
-    },
-    {
-      "id": 25771,
-      "title": "Yuri!!! on Ice - My Dear Dear Coach (Doujinshi)",
-      "score": 0.406,
-      "r18": false
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
     },
     {
       "id": 37095,
       "title": "Haikyuu!! - Neko no Henji wa Yes Janai (Doujinshi)",
-      "score": 0.405,
-      "r18": false
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 4917,
+      "title": "Uta no\u2606Prince-sama\u266a - Little Darling (Doujinshi)",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "br",
+        "tr"
+      ]
+    },
+    {
+      "id": 5367,
+      "title": "No. 6 - Tune The Rainbow (Doujinshi)",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "tr"
+      ]
+    },
+    {
+      "id": 24747,
+      "title": "Mousou Elektel - Gosouteki Mannerism (Doujinshi)",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "tr"
+      ]
+    },
+    {
+      "id": 49269,
+      "title": "Karneval dj - Koi ga Ai ni Kawaru Toki",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "tr"
+      ]
+    },
+    {
+      "id": 54326,
+      "title": "Durarara!! DJ - Divergence Blue",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "tr"
+      ]
+    },
+    {
+      "id": 54327,
+      "title": "Durarara!! DJ - It's All About You.",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "tr"
+      ]
+    },
+    {
+      "id": 54330,
+      "title": "Free! dj - Kimazui Otomari.",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "tr"
+      ]
+    },
+    {
+      "id": 54338,
+      "title": "Free! DJ - Ofuro de Mizugi wa Nugimashou",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "tr"
+      ]
+    },
+    {
+      "id": 54340,
+      "title": "Free! dj - Rin to Haru ga Karada de Nakayokusuru Hon",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "tr"
+      ]
+    },
+    {
+      "id": 54341,
+      "title": "Free! dj - Better than Mackerel",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "tr"
+      ]
+    },
+    {
+      "id": 54342,
+      "title": "Free! dj - Invisible!",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "tr"
+      ]
+    },
+    {
+      "id": 54344,
+      "title": "Free! DJ - Himitsu no Shower Room",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "tr"
+      ]
+    },
+    {
+      "id": 54347,
+      "title": "Free! dj - You Can't Beat Me.",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "tr"
+      ]
+    },
+    {
+      "id": 54396,
+      "title": "Katekyo Hitman Reborn! dj - Chijoku no Namimori Kaisoku",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "tr"
+      ]
+    },
+    {
+      "id": 54401,
+      "title": "Kuroko no Basuke dj - Aomine Daiki's Dream",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "tr"
+      ]
+    },
+    {
+      "id": 54406,
+      "title": "Kuroko no Basuke dj - Just the Two of Us",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "tr"
+      ]
+    },
+    {
+      "id": 54407,
+      "title": "Kuroko no Basuke dj - Kise-kun Nemui Desu",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "tr"
+      ]
+    },
+    {
+      "id": 54412,
+      "title": "Magi dj - Astinenza",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "tr"
+      ]
+    },
+    {
+      "id": 54414,
+      "title": "Naruto dj - Twilight's Insanity",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "tr"
+      ]
     }
   ]
 }

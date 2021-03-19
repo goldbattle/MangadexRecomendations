@@ -2,25 +2,36 @@
   "id": 3894,
   "title": "Tenshin Ranman",
   "url": "https://mangadex.org/manga/3894",
-  "last_updated": "March 14, 2021 08:24:56 UTC",
+  "last_updated": "March 18, 2021 06:17:02 UTC",
   "matches": [
     {
       "id": 1396,
       "title": "Nemureru Hoshi",
       "score": 0.29,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 19456,
       "title": "Bokura no Fushidara",
-      "score": 0.274,
-      "r18": false
+      "score": 0.273,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 14677,
       "title": "Tokkaten",
-      "score": 0.156,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

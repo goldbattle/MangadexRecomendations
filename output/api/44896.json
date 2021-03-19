@@ -1,68 +1,122 @@
 {
   "id": 44896,
   "title": "The Two of Them Are Pretty Much Like This",
-  "url": "https://api.mangadex.org/v2/manga/44896",
-  "last_updated": "February 11, 2021 20:16:59 UTC",
+  "url": "https://mangadex.org/manga/44896",
+  "last_updated": "March 18, 2021 12:35:12 UTC",
   "matches": [
     {
       "id": 1109,
       "title": "Husky and Medley",
-      "score": 0.294,
-      "r18": false
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55411,
+      "title": "Yuri Couple",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id",
+        "fr",
+        "mx"
+      ]
     },
     {
       "id": 57885,
       "title": "Senpai 4koma.",
-      "score": 0.279,
-      "r18": false
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "tr"
+      ]
     },
     {
       "id": 19436,
       "title": "Ouji-sama Nante Iranai",
-      "score": 0.254,
-      "r18": false
-    },
-    {
-      "id": 51039,
-      "title": "This Is Obviously a Yuri Manhua",
-      "score": 0.22,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "id",
+        "de",
+        "ph"
+      ]
     },
     {
       "id": 52028,
       "title": "Sawada-san, the Girl Who Works at the Soba Shop Next Door, and the OL Who Pops By Once a Week",
-      "score": 0.212,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 51039,
+      "title": "This Is Obviously a Yuri Manhua",
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "mx",
+        "br"
+      ]
     },
     {
       "id": 59665,
       "title": "Hi, My Lady",
-      "score": 0.208,
-      "r18": false
-    },
-    {
-      "id": 47355,
-      "title": "Soulmate",
-      "score": 0.19,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 13939,
       "title": "Tamen de Gushi",
-      "score": 0.177,
-      "r18": false
-    },
-    {
-      "id": 51715,
-      "title": "Hertz Around You",
-      "score": 0.168,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ct",
+        "mx",
+        "br",
+        "hu",
+        "ua",
+        "it",
+        "pl",
+        "ro"
+      ]
     },
     {
       "id": 50141,
       "title": "Reflection (Remake)",
-      "score": 0.158,
-      "r18": false
+      "score": 0.137,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 47355,
+      "title": "Soulmate",
+      "score": 0.11,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr"
+      ]
     }
   ]
 }

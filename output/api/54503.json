@@ -1,158 +1,251 @@
 {
   "id": 54503,
   "title": "Our First Day",
-  "url": "https://api.mangadex.org/v2/manga/54503",
-  "last_updated": "March 12, 2021 20:26:25 UTC",
+  "url": "https://mangadex.org/manga/54503",
+  "last_updated": "March 18, 2021 13:55:32 UTC",
   "matches": [
     {
-      "id": 31358,
-      "title": "10 Years That I Loved You the Most",
-      "score": 0.735,
-      "r18": false
-    },
-    {
-      "id": 43493,
-      "title": "To Catch A Falling Star",
-      "score": 0.724,
-      "r18": false
-    },
-    {
-      "id": 43471,
-      "title": "Baby, Punk Kid",
-      "score": 0.71,
-      "r18": false
-    },
-    {
-      "id": 33269,
-      "title": "Cat in a Cardboard Box",
-      "score": 0.685,
-      "r18": false
-    },
-    {
-      "id": 48331,
-      "title": "Drunken Truth",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 57028,
-      "title": "Together With Woo Rae",
-      "score": 0.651,
-      "r18": false
+      "id": 30665,
+      "title": "Behind the Scenes",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "tr",
+        "ru",
+        "fr"
+      ]
     },
     {
       "id": 42702,
       "title": "Winter That Year",
-      "score": 0.472,
-      "r18": false
-    },
-    {
-      "id": 30665,
-      "title": "Behind the Scenes",
-      "score": 0.463,
-      "r18": false
-    },
-    {
-      "id": 51453,
-      "title": "Seasons' Cafe",
-      "score": 0.442,
-      "r18": false
-    },
-    {
-      "id": 52089,
-      "title": "Six Sense",
-      "score": 0.432,
-      "r18": false
-    },
-    {
-      "id": 56035,
-      "title": "BOUNDARY",
-      "score": 0.432,
-      "r18": false
-    },
-    {
-      "id": 46956,
-      "title": "Why Is It You?",
-      "score": 0.43,
-      "r18": false
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 29661,
       "title": "Private Scandal",
-      "score": 0.429,
-      "r18": false
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 57997,
-      "title": "An Omega's Love Affair",
-      "score": 0.426,
-      "r18": false
+      "id": 52089,
+      "title": "Six Sense",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 49532,
-      "title": "Down and Dirty",
-      "score": 0.425,
-      "r18": false
+      "id": 50850,
+      "title": "No More Innocence",
+      "score": 0.314,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 52947,
-      "title": "Form of Sympathy",
-      "score": 0.42,
-      "r18": false
+      "id": 30331,
+      "title": "Antinomy",
+      "score": 0.314,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 35640,
-      "title": "The Fifth Encounter",
-      "score": 0.418,
-      "r18": false
+      "id": 20892,
+      "title": "If You Hate Me That Much",
+      "score": 0.314,
+      "r18": false,
+      "languages": [
+        "fr",
+        "tr",
+        "id",
+        "gb"
+      ]
     },
     {
-      "id": 52946,
-      "title": "From Now On, I'm Your Dog",
-      "score": 0.415,
-      "r18": false
+      "id": 29676,
+      "title": "Please Save the Fox!",
+      "score": 0.314,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 46501,
-      "title": "Solar Eclipse",
-      "score": 0.415,
-      "r18": false
+      "id": 51453,
+      "title": "Seasons' Cafe",
+      "score": 0.314,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 57765,
       "title": "Summer Guest",
-      "score": 0.414,
-      "r18": false
+      "score": 0.314,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59967,
+      "title": "Heat and Love",
+      "score": 0.314,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 27423,
+      "title": "Naive",
+      "score": 0.314,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 40486,
+      "title": "PAID",
+      "score": 0.314,
+      "r18": false,
+      "languages": [
+        "tr",
+        "fr"
+      ]
+    },
+    {
+      "id": 43802,
+      "title": "Zhiming Yangqi",
+      "score": 0.314,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb"
+      ]
+    },
+    {
+      "id": 59309,
+      "title": "Deep",
+      "score": 0.314,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 59664,
+      "title": "1 vision 1",
+      "score": 0.308,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53405,
+      "title": "Struggle",
+      "score": 0.308,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 55415,
+      "title": "Dear, My Lover",
+      "score": 0.308,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 49532,
+      "title": "Down and Dirty",
+      "score": 0.308,
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
     },
     {
       "id": 55867,
       "title": "No More Lonely Night",
-      "score": 0.414,
-      "r18": false
+      "score": 0.308,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 39270,
-      "title": "Behind the Desks",
-      "score": 0.409,
-      "r18": false
+      "id": 52946,
+      "title": "From Now On, I'm Your Dog",
+      "score": 0.308,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 31329,
-      "title": "Love or Hate",
-      "score": 0.408,
-      "r18": false
+      "id": 57440,
+      "title": "Fate Between Neighbors",
+      "score": 0.308,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 57323,
-      "title": "Dangerous Convenience Store",
-      "score": 0.408,
-      "r18": false
+      "id": 38593,
+      "title": "Cry for Me",
+      "score": 0.308,
+      "r18": false,
+      "languages": [
+        "fr",
+        "id"
+      ]
     },
     {
-      "id": 50290,
-      "title": "Knock Me Out",
-      "score": 0.407,
-      "r18": false
+      "id": 50849,
+      "title": "The Trajectory of Venus",
+      "score": 0.308,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr"
+      ]
+    },
+    {
+      "id": 44410,
+      "title": "Movie Emperor X Movie Emperor",
+      "score": 0.308,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

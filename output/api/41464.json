@@ -1,116 +1,200 @@
 {
   "id": 41464,
   "title": "Akujiki Ou",
-  "url": "https://api.mangadex.org/v2/manga/41464",
-  "last_updated": "February 11, 2021 08:39:23 UTC",
+  "url": "https://mangadex.org/manga/41464",
+  "last_updated": "March 18, 2021 12:06:32 UTC",
   "matches": [
     {
       "id": 13317,
       "title": "Judith of Conviction",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 17172,
       "title": "Tatoe Hai ni Nattemo",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 47052,
       "title": "HENTAI",
-      "score": 0.23,
-      "r18": false
-    },
-    {
-      "id": 45930,
-      "title": "Bastard!! Complete Edition",
-      "score": 0.227,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 22115,
       "title": "Dangerous Female Teacher",
-      "score": 0.215,
-      "r18": false
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 34617,
+      "title": "Libidors",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "cn",
+        "gb",
+        "br",
+        "it",
+        "ru",
+        "id"
+      ]
     },
     {
       "id": 585,
       "title": "Elfen Lied",
-      "score": 0.172,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br",
+        "pl"
+      ]
     },
     {
       "id": 33778,
       "title": "Zombie 100 ~Zombie ni Naru Made ni Shitai 100 no Koto~",
-      "score": 0.172,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "ru"
+      ]
     },
     {
       "id": 9024,
       "title": "Imawabi no Dakini",
-      "score": 0.143,
-      "r18": false
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 1657,
       "title": "Yondemasu yo, Azazel-san.",
-      "score": 0.142,
-      "r18": false
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "hu"
+      ]
     },
     {
       "id": 56288,
       "title": "Dead Maximum",
-      "score": 0.138,
-      "r18": false
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20573,
       "title": "Machigatta Ko wo Mahou Shoujo ni shite shimatta",
-      "score": 0.126,
-      "r18": false
-    },
-    {
-      "id": 40113,
-      "title": "Touge Oni",
-      "score": 0.124,
-      "r18": false
+      "score": 0.105,
+      "r18": false,
+      "languages": [
+        "mx",
+        "ru",
+        "tr",
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 7660,
       "title": "Keyman - The Hand of Judgement",
-      "score": 0.123,
-      "r18": false
+      "score": 0.102,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "ru",
+        "fr",
+        "es"
+      ]
+    },
+    {
+      "id": 40113,
+      "title": "Touge Oni",
+      "score": 0.101,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 12797,
       "title": "Dororon Enbi-chan",
-      "score": 0.115,
-      "r18": false
+      "score": 0.096,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 41922,
       "title": "Every Minute Ends",
-      "score": 0.113,
-      "r18": false
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "id",
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 19620,
       "title": "Devilman vs. Hades",
-      "score": 0.106,
-      "r18": false
+      "score": 0.089,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1400,
       "title": "Eater",
-      "score": 0.101,
-      "r18": false
+      "score": 0.084,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 759,
       "title": "Drifters",
-      "score": 0.072,
-      "r18": false
+      "score": 0.058,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu",
+        "tr",
+        "es"
+      ]
     }
   ]
 }

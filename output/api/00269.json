@@ -2,31 +2,50 @@
   "id": 269,
   "title": "Natsu no Zenjitsu",
   "url": "https://mangadex.org/manga/269",
-  "last_updated": "March 14, 2021 00:51:59 UTC",
+  "last_updated": "March 18, 2021 05:44:50 UTC",
   "matches": [
     {
       "id": 13233,
       "title": "Hare-Kon",
       "score": 0.24,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "pl",
+        "it",
+        "sa"
+      ]
     },
     {
       "id": 1769,
       "title": "Umibe no Onnanoko",
-      "score": 0.224,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ir"
+      ]
     },
     {
       "id": 45138,
       "title": "Furin Shokudou",
       "score": 0.207,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11492,
       "title": "Musume no Iede",
-      "score": 0.199,
-      "r18": false
+      "score": 0.198,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

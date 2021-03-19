@@ -2,31 +2,46 @@
   "id": 20027,
   "title": "Koi no Kotoba",
   "url": "https://mangadex.org/manga/20027",
-  "last_updated": "March 16, 2021 00:26:02 UTC",
+  "last_updated": "March 18, 2021 08:53:30 UTC",
   "matches": [
     {
       "id": 8166,
       "title": "Mujaki no Rakuen",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 23290,
       "title": "Mujaki no Rakuen Parallel",
       "score": 0.237,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19087,
       "title": "Oshioki X-Cute",
       "score": 0.231,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "mx"
+      ]
     },
     {
       "id": 8532,
       "title": "Grisaia no Kajitsu - Sanctuary Fellows",
       "score": 0.204,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -2,157 +2,306 @@
   "id": 503,
   "title": "Coppelion",
   "url": "https://mangadex.org/manga/503",
-  "last_updated": "March 14, 2021 00:56:31 UTC",
+  "last_updated": "March 18, 2021 05:46:49 UTC",
   "matches": [
     {
       "id": 2712,
       "title": "Blame!",
-      "score": 0.296,
-      "r18": false
+      "score": 0.295,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "bg",
+        "br",
+        "ua",
+        "hu",
+        "es",
+        "ro",
+        "id"
+      ]
     },
     {
       "id": 9570,
       "title": "Ajin",
       "score": 0.273,
-      "r18": false
-    },
-    {
-      "id": 36332,
-      "title": "Monkey Peak",
-      "score": 0.267,
-      "r18": false
-    },
-    {
-      "id": 907,
-      "title": "I Am a Hero",
-      "score": 0.254,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "ru",
+        "it",
+        "tr",
+        "gb"
+      ]
     },
     {
       "id": 7691,
       "title": "Skull Man",
       "score": 0.246,
-      "r18": false
-    },
-    {
-      "id": 9554,
-      "title": "Gakkou Gurashi!",
-      "score": 0.237,
-      "r18": false
-    },
-    {
-      "id": 27292,
-      "title": ".flow - Untitled (Doujinshi)",
-      "score": 0.237,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 50721,
       "title": "Gakkou Gurashi! Otayori",
       "score": 0.237,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "br",
+        "hu",
+        "ru",
+        "mx"
+      ]
     },
     {
       "id": 6506,
       "title": "Torikago no Tsugai",
       "score": 0.237,
-      "r18": false
-    },
-    {
-      "id": 12707,
-      "title": "Ryuuma no Gagou",
-      "score": 0.237,
-      "r18": false
-    },
-    {
-      "id": 50085,
-      "title": "Legend of the Galactic Heroes",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 50714,
-      "title": "Legend of the Galactic Heroes - Golden Wings",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 25314,
-      "title": "Skull Man (SHIMAMOTO Kazuhiko)",
-      "score": 0.229,
-      "r18": false
-    },
-    {
-      "id": 580,
-      "title": "Kodoku Experiment",
-      "score": 0.225,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "th",
+        "tr",
+        "br"
+      ]
     },
     {
       "id": 5166,
       "title": "Dragon Head",
-      "score": 0.223,
-      "r18": false
-    },
-    {
-      "id": 8789,
-      "title": "Afterschool War Activities",
-      "score": 0.217,
-      "r18": false
-    },
-    {
-      "id": 3056,
-      "title": "Tokyo Ghoul",
-      "score": 0.214,
-      "r18": false
-    },
-    {
-      "id": 470,
-      "title": "Sprite",
-      "score": 0.208,
-      "r18": false
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
     },
     {
       "id": 16215,
       "title": "Smokin' Parade",
       "score": 0.208,
-      "r18": false
-    },
-    {
-      "id": 19086,
-      "title": "Ushiro - The Somber God of Death",
-      "score": 0.208,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "pl",
+        "ru",
+        "it",
+        "id",
+        "es",
+        "gb"
+      ]
     },
     {
       "id": 2777,
       "title": "Bokurano",
       "score": 0.208,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "pl",
+        "es",
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 1765,
       "title": "Umineko no Naku Koro ni Chiru Episode 6: Dawn of the Golden Witch",
       "score": 0.208,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "vn",
+        "br"
+      ]
     },
     {
       "id": 1764,
       "title": "Umineko no Naku Koro ni Chiru Episode 5: End of the Golden Witch",
       "score": 0.208,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "vn",
+        "fr",
+        "gb",
+        "pl",
+        "sa",
+        "br"
+      ]
     },
     {
       "id": 2678,
       "title": "6000",
       "score": 0.208,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "hu"
+      ]
     },
     {
       "id": 2096,
       "title": "Doll Star",
       "score": 0.208,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mn",
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 816,
+      "title": "World Embryo",
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "pl",
+        "es"
+      ]
+    },
+    {
+      "id": 21488,
+      "title": "Isekai Goumon Hime",
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "ru"
+      ]
+    },
+    {
+      "id": 33945,
+      "title": "Project SHaDe",
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 37449,
+      "title": "PIGPEN",
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "it",
+        "tr",
+        "fr",
+        "id",
+        "br"
+      ]
+    },
+    {
+      "id": 14763,
+      "title": "Yakushoku Distopiary - Gesellschaft Blume",
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "br",
+        "it",
+        "gb"
+      ]
+    },
+    {
+      "id": 36698,
+      "title": "Nine Lives Man",
+      "score": 0.204,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 13140,
+      "title": "Q",
+      "score": 0.204,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "it"
+      ]
+    },
+    {
+      "id": 41102,
+      "title": "Tsugumi Project",
+      "score": 0.202,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 29740,
+      "title": "Parasyte Reversi",
+      "score": 0.201,
+      "r18": false,
+      "languages": [
+        "hk",
+        "vn",
+        "gb",
+        "it",
+        "mx"
+      ]
+    },
+    {
+      "id": 9829,
+      "title": "Immortal Hounds",
+      "score": 0.197,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 28617,
+      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run",
+      "score": 0.197,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "it",
+        "fr"
+      ]
+    },
+    {
+      "id": 53831,
+      "title": "Over the Moon",
+      "score": 0.195,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru"
+      ]
+    },
+    {
+      "id": 46735,
+      "title": "Dead Company",
+      "score": 0.195,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     }
   ]
 }

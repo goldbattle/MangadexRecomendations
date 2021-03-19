@@ -1,32 +1,26 @@
 {
   "id": 55176,
   "title": "Erito joshi no amakute furachina himitsu",
-  "url": "https://api.mangadex.org/v2/manga/55176",
-  "last_updated": "March 12, 2021 20:34:34 UTC",
+  "url": "https://mangadex.org/manga/55176",
+  "last_updated": "March 18, 2021 14:01:10 UTC",
   "matches": [
-    {
-      "id": 54796,
-      "title": "Tonari no Kire na Hito",
-      "score": 0.272,
-      "r18": false
-    },
     {
       "id": 56531,
       "title": "Oni kakarich\u014d wa ahona ko o aishitai",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "hk"
+      ]
     },
     {
-      "id": 53991,
-      "title": "Mousou OL wa Incubus to xxx Shitai",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 54355,
-      "title": "Yumekui ~Watashi, Maiban Akuma (Kedamono) ni Dakarete masu.~",
-      "score": 0.227,
-      "r18": false
+      "id": 56933,
+      "title": "Maish\u016b kin'y\u014d, shibarare ni kite",
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "hk"
+      ]
     }
   ]
 }

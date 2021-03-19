@@ -1,158 +1,271 @@
 {
   "id": 33538,
   "title": "Kengan Omega",
-  "url": "https://api.mangadex.org/v2/manga/33538",
-  "last_updated": "February 10, 2021 12:39:42 UTC",
+  "url": "https://mangadex.org/manga/33538",
+  "last_updated": "March 18, 2021 11:00:25 UTC",
   "matches": [
     {
       "id": 34853,
       "title": "Abyss Rage",
-      "score": 0.384,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br"
+      ]
     },
     {
       "id": 3844,
       "title": "Keiji of The Flowers",
-      "score": 0.346,
-      "r18": false
-    },
-    {
-      "id": 6520,
-      "title": "Ninku",
-      "score": 0.334,
-      "r18": false
-    },
-    {
-      "id": 15581,
-      "title": "Shishang Zui Qiang Jiazu",
-      "score": 0.33,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2933,
       "title": "Urooboe Uroboros!",
-      "score": 0.329,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "id",
+        "ct",
+        "gb"
+      ]
     },
     {
-      "id": 24383,
-      "title": "Rurouni Kenshin Ibun: Ashitarou Zenka Ari",
-      "score": 0.328,
-      "r18": false
-    },
-    {
-      "id": 25194,
-      "title": "The King of Fighters: A New Beginning",
-      "score": 0.322,
-      "r18": false
+      "id": 6520,
+      "title": "Ninku",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 46111,
       "title": "BLACK999",
-      "score": 0.305,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 36636,
-      "title": "Return From the World of Immortals",
-      "score": 0.303,
-      "r18": false
+      "id": 15581,
+      "title": "Shishang Zui Qiang Jiazu",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 34375,
       "title": "Dragon Ball - Zeroverse (Doujinshi)",
-      "score": 0.302,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 36636,
+      "title": "Return From the World of Immortals",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "id",
+        "fr",
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 24383,
+      "title": "Rurouni Kenshin Ibun: Ashitarou Zenka Ari",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "br"
+      ]
     },
     {
       "id": 1958,
       "title": "Hajime no Ippo",
-      "score": 0.298,
-      "r18": false
-    },
-    {
-      "id": 3239,
-      "title": "Bari Haken",
-      "score": 0.298,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa",
+        "br",
+        "fr",
+        "es",
+        "ru",
+        "pl"
+      ]
     },
     {
       "id": 7610,
       "title": "Yae no Sakura",
-      "score": 0.285,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
-      "id": 4566,
-      "title": "Hero Tales",
-      "score": 0.281,
-      "r18": false
-    },
-    {
-      "id": 7095,
-      "title": "Samurai Ragazzi - Sengoku Shounen Seihou Kenbunroku",
-      "score": 0.268,
-      "r18": false
-    },
-    {
-      "id": 2280,
-      "title": "Shaman King",
-      "score": 0.267,
-      "r18": false
+      "id": 25194,
+      "title": "The King of Fighters: A New Beginning",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 13110,
       "title": "Hinomaru Zumou",
-      "score": 0.265,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "it",
+        "pl"
+      ]
     },
     {
-      "id": 216,
-      "title": "Rurouni Kenshin",
-      "score": 0.262,
-      "r18": false
+      "id": 3239,
+      "title": "Bari Haken",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 15833,
-      "title": "The Great Conqueror",
-      "score": 0.262,
-      "r18": false
-    },
-    {
-      "id": 23798,
-      "title": "Sword Art Online - Ordinal Scale",
-      "score": 0.254,
-      "r18": false
-    },
-    {
-      "id": 669,
-      "title": "Tiji-kun!",
-      "score": 0.252,
-      "r18": false
-    },
-    {
-      "id": 27460,
-      "title": "Dear Boy",
-      "score": 0.251,
-      "r18": false
+      "id": 4566,
+      "title": "Hero Tales",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 15772,
       "title": "Sheng Wang",
-      "score": 0.248,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
-      "id": 48759,
-      "title": "Kimetsu no Yaiba: Rengoku Kyoujurou Gaiden",
-      "score": 0.247,
-      "r18": false
+      "id": 7095,
+      "title": "Samurai Ragazzi - Sengoku Shounen Seihou Kenbunroku",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1602,
+      "title": "Samurai Usagi",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2190,
+      "title": "Nabari no Ou",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": 154,
       "title": "The Breaker - New Waves",
-      "score": 0.245,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 669,
+      "title": "Tiji-kun!",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2946,
+      "title": "Souten no Koumori",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "fr",
+        "ct"
+      ]
+    },
+    {
+      "id": 15833,
+      "title": "The Great Conqueror",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 27460,
+      "title": "Dear Boy",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br"
+      ]
+    },
+    {
+      "id": 23105,
+      "title": "Boruto: Naruto Next Generations",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "sa",
+        "es",
+        "ru",
+        "de",
+        "mx"
+      ]
     }
   ]
 }

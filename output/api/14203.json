@@ -2,157 +2,266 @@
   "id": 14203,
   "title": "Nekonotemo",
   "url": "https://mangadex.org/manga/14203",
-  "last_updated": "March 15, 2021 12:27:56 UTC",
+  "last_updated": "March 18, 2021 07:46:44 UTC",
   "matches": [
     {
       "id": 726,
       "title": "Futagami Double",
       "score": 0.3,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 55900,
       "title": "Ayame-senpai wa Boku to Himitsu no Keiyaku wo",
-      "score": 0.263,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5216,
+      "title": "Momoiro Sabbath",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 821,
       "title": "Midori no Hibi",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 632,
       "title": "Kami Sen",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19496,
       "title": "Her Love is so heavy, it hurts.",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 17070,
       "title": "Nanai Sanami ga Kiratte Kurenai",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 10642,
       "title": "Aizawa-san Zoushoku",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 21092,
+      "title": "Devilchi",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "es",
+        "id"
+      ]
     },
     {
       "id": 3252,
       "title": "Majimoji Rurumo",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 795,
       "title": "Kagami no Kuni no Harisugawa",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "tr",
+        "ru",
+        "de"
+      ]
     },
     {
       "id": 9990,
       "title": "Kami-sama Drop",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 19674,
       "title": "Love Rush!",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "ru"
+      ]
     },
     {
       "id": 37,
       "title": "Popcorn Avatar",
       "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 7265,
-      "title": "Gaku Ou - The Twinkle Star Story",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 482,
-      "title": "Dakara Boku wa, H ga Dekinai.",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 8119,
-      "title": "Wagatsuma-san wa Ore no Yome",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 1046,
-      "title": "Momi-Baraishi",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 51,
-      "title": "To Love-Ru Darkness",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 40766,
-      "title": "Gal Kazoku",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 7509,
-      "title": "Okitsune-sama de Chu&hearts;",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 3901,
-      "title": "Miniature",
-      "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1391,
       "title": "Loose Relation Between Wizard &amp; Apprentice",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 7265,
+      "title": "Gaku Ou - The Twinkle Star Story",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 482,
+      "title": "Dakara Boku wa, H ga Dekinai.",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 8119,
+      "title": "Wagatsuma-san wa Ore no Yome",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 51,
+      "title": "To Love-Ru Darkness",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "id",
+        "ru",
+        "br",
+        "pl"
+      ]
+    },
+    {
+      "id": 40766,
+      "title": "Gal Kazoku",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "br",
+        "mx",
+        "it",
+        "ru"
+      ]
+    },
+    {
+      "id": 7509,
+      "title": "Okitsune-sama de Chu&hearts;",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3901,
+      "title": "Miniature",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "sa"
+      ]
+    },
+    {
+      "id": 1046,
+      "title": "Momi-Baraishi",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1573,
       "title": "Princess School",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 36647,
       "title": "Ponkotsu-chan Kenshouchuu",
       "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 1052,
-      "title": "Ratman",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 11155,
-      "title": "Ten de Showaru Cupid",
-      "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "ru"
+      ]
     }
   ]
 }

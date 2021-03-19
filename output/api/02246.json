@@ -2,25 +2,55 @@
   "id": 2246,
   "title": "Gold",
   "url": "https://mangadex.org/manga/2246",
-  "last_updated": "March 14, 2021 04:25:16 UTC",
+  "last_updated": "March 18, 2021 06:01:51 UTC",
   "matches": [
     {
       "id": 53709,
       "title": "The Gentle Goblin's Bird",
       "score": 0.186,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "vn",
+        "it"
+      ]
+    },
+    {
+      "id": 53753,
+      "title": "Under the Oak Tree",
+      "score": 0.182,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "ru",
+        "br",
+        "hu",
+        "it",
+        "fr"
+      ]
     },
     {
       "id": 46221,
       "title": "Pure Love",
       "score": 0.171,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "br"
+      ]
     },
     {
-      "id": 53753,
-      "title": "Under the Oak Tree",
-      "score": 0.156,
-      "r18": false
+      "id": 40728,
+      "title": "Tensei Danzou Oujo wa Kekkon Aite wo Sagasanai",
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb",
+        "th"
+      ]
     }
   ]
 }

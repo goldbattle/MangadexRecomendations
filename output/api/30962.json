@@ -1,158 +1,251 @@
 {
   "id": 30962,
   "title": "Devil Hunter Youko",
-  "url": "https://api.mangadex.org/v2/manga/30962",
-  "last_updated": "February 10, 2021 08:12:38 UTC",
+  "url": "https://mangadex.org/manga/30962",
+  "last_updated": "March 18, 2021 10:38:57 UTC",
   "matches": [
     {
-      "id": 1417,
-      "title": "Shingetsutan Tsukihime",
-      "score": 0.694,
-      "r18": false
+      "id": 20694,
+      "title": "Sora no Kiseki Gaiden - L&ouml;we Monogatari",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 25435,
-      "title": "Madara",
-      "score": 0.687,
-      "r18": false
+      "id": 789,
+      "title": "XBlade",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
-      "id": 1858,
-      "title": "Kanata Kara",
-      "score": 0.685,
-      "r18": false
+      "id": 6493,
+      "title": "Rebirth",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 1714,
-      "title": "Kara no Kyoukai - The Garden of Sinners",
-      "score": 0.684,
-      "r18": false
+      "id": 28851,
+      "title": "7 Wonders",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 6521,
-      "title": "Nishi no Yoki Majo",
-      "score": 0.683,
-      "r18": false
+      "id": 9287,
+      "title": "Yami no Naka no Crown",
+      "score": 0.259,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 5201,
-      "title": "Bloodline - Fantasy Day",
-      "score": 0.682,
-      "r18": false
+      "id": 10023,
+      "title": "Shinigami x Doctor",
+      "score": 0.259,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 4880,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
-      "score": 0.681,
-      "r18": false
+      "id": 5964,
+      "title": "Guilty Gear Xtra",
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 2340,
-      "title": "Fate/stay night",
-      "score": 0.678,
-      "r18": false
+      "id": 11820,
+      "title": "Carnaval Glare",
+      "score": 0.254,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "es"
+      ]
     },
     {
-      "id": 2280,
-      "title": "Shaman King",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 5573,
-      "title": "Saiyuki",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 590,
-      "title": "Mahou Shoujo Madoka\u2605Magica",
-      "score": 0.676,
-      "r18": false
+      "id": 6380,
+      "title": "Na mo Naki Tori no Tobu Yoake",
+      "score": 0.254,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 6961,
       "title": "March Story",
-      "score": 0.676,
-      "r18": false
+      "score": 0.236,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5386,
+      "title": "Shin Seiki Evangelion - Gakuen Datenroku",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 980,
+      "title": "Final Fantasy XII",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7456,
+      "title": "Laughter in the End of the World",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "tr",
+        "hu",
+        "fr"
+      ]
+    },
+    {
+      "id": 17996,
+      "title": "Futago no Teikoku",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 1770,
+      "title": "Klan",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "pl",
+        "br"
+      ]
+    },
+    {
+      "id": 12002,
+      "title": "Saihate no Ao",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8481,
+      "title": "Wolf's Rain",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "fr",
+        "es",
+        "gb"
+      ]
+    },
+    {
+      "id": 19865,
+      "title": "Ryle and Louis",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 15901,
+      "title": "Shuumatsu no Tenki",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18124,
+      "title": "Shingeki no Kyojin - Lost Girls",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 319,
+      "title": "Break Hands",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 14865,
+      "title": "Pilgrim Jager",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7934,
       "title": "Mahou Shoujo Madoka\u2605Magica ~The different story~",
-      "score": 0.675,
-      "r18": false
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 6610,
-      "title": "Jinjuu Houretsuden",
-      "score": 0.675,
-      "r18": false
+      "id": 1853,
+      "title": "Stigmata",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 7344,
-      "title": "Shin Sekai Yori",
-      "score": 0.673,
-      "r18": false
-    },
-    {
-      "id": 26380,
-      "title": "Mahoutsukai no Konyakusha",
-      "score": 0.673,
-      "r18": false
-    },
-    {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.672,
-      "r18": false
-    },
-    {
-      "id": 848,
-      "title": "Konjiki no Gash!!",
-      "score": 0.672,
-      "r18": false
-    },
-    {
-      "id": 9844,
-      "title": "Shingeki no Kyojin - Before the Fall",
-      "score": 0.672,
-      "r18": false
-    },
-    {
-      "id": 10341,
-      "title": "Kokushi Musou!!",
-      "score": 0.671,
-      "r18": false
-    },
-    {
-      "id": 430,
-      "title": "Hotel",
-      "score": 0.671,
-      "r18": false
-    },
-    {
-      "id": 16807,
-      "title": "Shunkan Lyle",
-      "score": 0.67,
-      "r18": false
-    },
-    {
-      "id": 42236,
-      "title": "Heaven Official's Blessing (old version)",
-      "score": 0.67,
-      "r18": false
-    },
-    {
-      "id": 610,
-      "title": "Mahou Shoujo Kazumi\u2605Magica ~The Innocent Malice~",
-      "score": 0.67,
-      "r18": false
-    },
-    {
-      "id": 2383,
-      "title": "Sola",
-      "score": 0.669,
-      "r18": false
+      "id": 9140,
+      "title": "Gensou Suikoden III - Unmei no Keishousha",
+      "score": 0.217,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

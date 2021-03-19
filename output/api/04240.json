@@ -2,37 +2,52 @@
   "id": 4240,
   "title": "Hiiro no Marionetta",
   "url": "https://mangadex.org/manga/4240",
-  "last_updated": "March 14, 2021 08:29:01 UTC",
+  "last_updated": "March 18, 2021 06:20:26 UTC",
   "matches": [
     {
       "id": 23020,
       "title": "Siscon Ani to Brocon Imouto ga Shoujiki ni Nattara",
-      "score": 0.188,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it",
+        "de",
+        "ru",
+        "id",
+        "mx",
+        "tr"
+      ]
     },
     {
       "id": 21433,
       "title": "Mahouka Koukou no Rettousei - Double Seven-hen",
       "score": 0.179,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 10197,
       "title": "Mahouka Koukou no Rettousei - Kyuukousen-hen",
-      "score": 0.153,
-      "r18": false
-    },
-    {
-      "id": 32084,
-      "title": "Saikyou Juzoku Tensei: Cheat Majutsushi no Slow Life",
       "score": 0.152,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 46748,
       "title": "Isekai One Turn Kill Nee-san",
       "score": 0.15,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

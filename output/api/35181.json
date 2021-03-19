@@ -1,38 +1,56 @@
 {
   "id": 35181,
   "title": "A-chan no Pudding",
-  "url": "https://api.mangadex.org/v2/manga/35181",
-  "last_updated": "February 10, 2021 16:39:56 UTC",
+  "url": "https://mangadex.org/manga/35181",
+  "last_updated": "March 18, 2021 11:14:07 UTC",
   "matches": [
-    {
-      "id": 53000,
-      "title": "Himitsu no Hodaka-kun wa Amai Nioi ga Suru",
-      "score": 0.414,
-      "r18": false
-    },
     {
       "id": 8643,
       "title": "Amai Kaori ga Surun Desu",
-      "score": 0.37,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "br",
+        "tr",
+        "gb"
+      ]
+    },
+    {
+      "id": 53000,
+      "title": "Himitsu no Hodaka-kun wa Amai Nioi ga Suru",
+      "score": 0.285,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 59168,
       "title": "Dear Mr. Candy",
-      "score": 0.278,
-      "r18": false
-    },
-    {
-      "id": 50260,
-      "title": "Mr. Snail",
-      "score": 0.22,
-      "r18": false
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 38342,
       "title": "Ho Shi Jung",
-      "score": 0.154,
-      "r18": false
+      "score": 0.137,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50260,
+      "title": "Mr. Snail",
+      "score": 0.133,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

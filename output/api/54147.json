@@ -2,55 +2,110 @@
   "id": 54147,
   "title": "Karasu wa Aruji wo Erabanai",
   "url": "https://mangadex.org/manga/54147",
-  "last_updated": "January 16, 2021 06:29:16 UTC",
+  "last_updated": "March 18, 2021 13:52:34 UTC",
   "matches": [
-    {
-      "id": 17917,
-      "title": "Hyakuren no Haou to Seiyaku no Ikusa Otome",
-      "score": 0.655,
-      "r18": false
-    },
     {
       "id": 10051,
       "title": "Assassin's Creed 4: Black Flag - Kakusei",
-      "score": 0.481,
-      "r18": false
-    },
-    {
-      "id": 18936,
-      "title": "Fate/Apocrypha",
-      "score": 0.337,
-      "r18": false
+      "score": 0.316,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 42751,
       "title": "Chitei Ryokou",
-      "score": 0.319,
-      "r18": false
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 18936,
+      "title": "Fate/Apocrypha",
+      "score": 0.201,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa",
+        "br",
+        "tr",
+        "id"
+      ]
+    },
+    {
+      "id": 41776,
+      "title": "Madou no Keifu",
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "th"
+      ]
+    },
+    {
+      "id": 17917,
+      "title": "Hyakuren no Haou to Seiyaku no Ikusa Otome",
+      "score": 0.156,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 51803,
       "title": "A Villainess? No, a Heinous Young Lady",
-      "score": 0.279,
-      "r18": false
+      "score": 0.141,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 54282,
       "title": "Hortensia Saga",
-      "score": 0.258,
-      "r18": false
+      "score": 0.134,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 45265,
       "title": "Greatest Boss System",
-      "score": 0.237,
-      "r18": false
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "fr",
+        "tr",
+        "th"
+      ]
     },
     {
       "id": 34605,
       "title": "Release That Witch",
-      "score": 0.217,
-      "r18": false
+      "score": 0.095,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "br",
+        "id",
+        "tr",
+        "fr",
+        "mx",
+        "ua",
+        "es"
+      ]
     }
   ]
 }

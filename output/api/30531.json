@@ -2,43 +2,71 @@
   "id": 30531,
   "title": "Sailor Suit Is Dyed in Black",
   "url": "https://mangadex.org/manga/30531",
-  "last_updated": "January 13, 2021 12:51:17 UTC",
+  "last_updated": "March 18, 2021 10:35:21 UTC",
   "matches": [
     {
-      "id": 10439,
-      "title": "Yuki ni Tsubasa",
-      "score": 0.714,
-      "r18": false
+      "id": 23536,
+      "title": "Yakedo Shoujo",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "cn",
+        "mx"
+      ]
     },
     {
       "id": 18398,
       "title": "Chuusotsu Worker kara Hajimeru Koukou Seikatsu",
-      "score": 0.709,
-      "r18": false
+      "score": 0.276,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx"
+      ]
     },
     {
       "id": 110,
       "title": "Bitter Virgin",
-      "score": 0.685,
-      "r18": false
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de",
+        "pl"
+      ]
+    },
+    {
+      "id": 10439,
+      "title": "Yuki ni Tsubasa",
+      "score": 0.259,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 23828,
       "title": "Sensei no Shiroi Uso",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 23536,
-      "title": "Yakedo Shoujo",
-      "score": 0.413,
-      "r18": false
+      "score": 0.229,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "es"
+      ]
     },
     {
       "id": 2819,
       "title": "System of Romance",
-      "score": 0.32,
-      "r18": false
+      "score": 0.212,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
     }
   ]
 }

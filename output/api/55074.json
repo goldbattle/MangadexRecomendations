@@ -1,158 +1,243 @@
 {
   "id": 55074,
   "title": "Rockman -Dr Wily's Revenge-",
-  "url": "https://api.mangadex.org/v2/manga/55074",
-  "last_updated": "March 12, 2021 20:33:20 UTC",
+  "url": "https://mangadex.org/manga/55074",
+  "last_updated": "March 18, 2021 14:00:19 UTC",
   "matches": [
     {
       "id": 35498,
       "title": "Rockman 8",
-      "score": 0.693,
-      "r18": false
-    },
-    {
-      "id": 55871,
-      "title": "Ryuusei no Rockman",
-      "score": 0.687,
-      "r18": false
-    },
-    {
-      "id": 24267,
-      "title": "Rockman &amp; Forte",
-      "score": 0.686,
-      "r18": false
+      "score": 0.683,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 24332,
       "title": "Rockman Megamix",
-      "score": 0.662,
-      "r18": false
+      "score": 0.344,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 39846,
-      "title": "Kidou Senshi Gundam AGE -First Evolution-",
-      "score": 0.388,
-      "r18": false
+      "id": 24267,
+      "title": "Rockman &amp; Forte",
+      "score": 0.315,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22527,
       "title": "Irregular Hunter Rockman X",
-      "score": 0.384,
-      "r18": false
+      "score": 0.314,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 8334,
-      "title": "Rockman ZX",
-      "score": 0.382,
-      "r18": false
-    },
-    {
-      "id": 41769,
-      "title": "Kidou Senshi Gundam AGE -Second Evolution-",
-      "score": 0.376,
-      "r18": false
-    },
-    {
-      "id": 3862,
-      "title": "Super Robot Taisen OG - Divine Wars - Record of ATX",
-      "score": 0.375,
-      "r18": false
-    },
-    {
-      "id": 3861,
-      "title": "Super Robot Taisen OG - The Inspector - Record of ATX",
-      "score": 0.374,
-      "r18": false
-    },
-    {
-      "id": 42556,
-      "title": "Kidou Senshi Gundam AGE -Final Evolution-",
-      "score": 0.372,
-      "r18": false
-    },
-    {
-      "id": 2844,
-      "title": "Eureka Seven",
-      "score": 0.37,
-      "r18": false
-    },
-    {
-      "id": 24261,
-      "title": "Mugen no Frontier: Super Robot Taisen OG Saga",
-      "score": 0.369,
-      "r18": false
-    },
-    {
-      "id": 37053,
-      "title": "Search and Destroy",
-      "score": 0.369,
-      "r18": false
-    },
-    {
-      "id": 54813,
-      "title": "Lost Universe Special",
-      "score": 0.365,
-      "r18": false
-    },
-    {
-      "id": 6780,
-      "title": "Getter Robo Hien ~THE EARTH SUICIDE~",
-      "score": 0.365,
-      "r18": false
-    },
-    {
-      "id": 189,
-      "title": "Lost Universe",
-      "score": 0.364,
-      "r18": false
-    },
-    {
-      "id": 30000,
-      "title": "Fight! Super Robot Lifeform Transformers: The Comics",
-      "score": 0.362,
-      "r18": false
+      "id": 24333,
+      "title": "Rockman Gigamix",
+      "score": 0.278,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22374,
       "title": "Ratchet &amp; Clank",
-      "score": 0.361,
-      "r18": false
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 10974,
-      "title": "Full Metal Panic! Another",
-      "score": 0.36,
-      "r18": false
+      "id": 39846,
+      "title": "Kidou Senshi Gundam AGE -First Evolution-",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 23842,
       "title": "EDEN",
-      "score": 0.36,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id",
+        "br"
+      ]
     },
     {
-      "id": 35856,
-      "title": "Katsugeki / Touken Ranbu",
-      "score": 0.359,
-      "r18": false
-    },
-    {
-      "id": 55736,
-      "title": "Astro Boy 2003",
-      "score": 0.355,
-      "r18": false
+      "id": 41769,
+      "title": "Kidou Senshi Gundam AGE -Second Evolution-",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 57514,
       "title": "Medarot Re-Reloaded",
-      "score": 0.353,
-      "r18": false
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 46608,
-      "title": "Sword Art Online - Lycoris",
-      "score": 0.351,
-      "r18": false
+      "id": 30000,
+      "title": "Fight! Super Robot Lifeform Transformers: The Comics",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 25185,
+      "title": "Metroid EX: Samus and Joey",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6780,
+      "title": "Getter Robo Hien ~THE EARTH SUICIDE~",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 40911,
+      "title": "Danball Senki Gaiden",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 7817,
+      "title": "Kidou Senshi Gundam U.C. 0094 - Across The Sky",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 30837,
+      "title": "Hakaiou ~GaoGaiGar vs Betterman~ the COMIC",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3215,
+      "title": "Advance of &Zeta; - Titans no Hata no Moto ni",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 47791,
+      "title": "Medarot 7",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 23329,
+      "title": "Kidou Senshi Gundam UC (Unicorn) - Bande Dessin&eacute;e: Episode 0",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 42556,
+      "title": "Kidou Senshi Gundam AGE -Final Evolution-",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24261,
+      "title": "Mugen no Frontier: Super Robot Taisen OG Saga",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55736,
+      "title": "Astro Boy 2003",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 54813,
+      "title": "Lost Universe Special",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24659,
+      "title": "Live Dungeon!",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br",
+        "ru",
+        "fr"
+      ]
+    },
+    {
+      "id": 189,
+      "title": "Lost Universe",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr"
+      ]
     }
   ]
 }

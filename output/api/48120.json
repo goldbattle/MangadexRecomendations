@@ -2,157 +2,239 @@
   "id": 48120,
   "title": "Monotone Blue",
   "url": "https://mangadex.org/manga/48120",
-  "last_updated": "January 15, 2021 12:29:49 UTC",
+  "last_updated": "March 18, 2021 13:02:11 UTC",
   "matches": [
-    {
-      "id": 11719,
-      "title": "Brother Auto Spot",
-      "score": 0.48,
-      "r18": false
-    },
     {
       "id": 22179,
       "title": "Blue! Blue! Blue!",
-      "score": 0.478,
-      "r18": false
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 37405,
-      "title": "Orokamono ga Koi o Shitara.",
-      "score": 0.464,
-      "r18": false
-    },
-    {
-      "id": 46537,
-      "title": "Suki ni Sasete Miseru Kara!",
-      "score": 0.45,
-      "r18": false
-    },
-    {
-      "id": 39827,
-      "title": "Ikurou-san (43-sai) wa Amaetai",
-      "score": 0.447,
-      "r18": false
-    },
-    {
-      "id": 38462,
-      "title": "Otoko Yamome mo Hana ha Saku",
-      "score": 0.446,
-      "r18": false
+      "id": 11719,
+      "title": "Brother Auto Spot",
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 20903,
       "title": "Gin no Kutsu",
-      "score": 0.444,
-      "r18": false
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb"
+      ]
+    },
+    {
+      "id": 37405,
+      "title": "Orokamono ga Koi o Shitara.",
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 50038,
       "title": "Restart wa Onaka wo Sukasete",
-      "score": 0.432,
-      "r18": false
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 39340,
-      "title": "Uchi no Ouji Irimasen ka",
-      "score": 0.401,
-      "r18": false
+      "id": 46537,
+      "title": "Suki ni Sasete Miseru Kara!",
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "gb",
+        "th"
+      ]
     },
     {
-      "id": 25768,
-      "title": "Sweet vs. Home",
-      "score": 0.39,
-      "r18": false
-    },
-    {
-      "id": 10797,
-      "title": "Osewa Yakimasu",
-      "score": 0.388,
-      "r18": false
-    },
-    {
-      "id": 50918,
-      "title": "Koi De Wa Nai to Omoitai",
-      "score": 0.386,
-      "r18": false
-    },
-    {
-      "id": 36844,
-      "title": "Hirano to Kagiura",
-      "score": 0.382,
-      "r18": false
-    },
-    {
-      "id": 33862,
-      "title": "Otona Gokko",
-      "score": 0.382,
-      "r18": false
-    },
-    {
-      "id": 26161,
-      "title": "Flowerpot",
-      "score": 0.374,
-      "r18": false
-    },
-    {
-      "id": 35522,
-      "title": "Rokugatsu no Hengen-san",
-      "score": 0.372,
-      "r18": false
-    },
-    {
-      "id": 21776,
-      "title": "Amadare no Koro",
-      "score": 0.368,
-      "r18": false
-    },
-    {
-      "id": 17133,
-      "title": "Shiro no Koro",
-      "score": 0.365,
-      "r18": false
-    },
-    {
-      "id": 24094,
-      "title": "Mabataki no Aida",
-      "score": 0.362,
-      "r18": false
-    },
-    {
-      "id": 37565,
-      "title": "BLT",
-      "score": 0.362,
-      "r18": false
-    },
-    {
-      "id": 1933,
-      "title": "Seven Days",
-      "score": 0.36,
-      "r18": false
+      "id": 38462,
+      "title": "Otoko Yamome mo Hana ha Saku",
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 14340,
       "title": "Hoshikuzu Lemonade",
-      "score": 0.36,
-      "r18": false
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 50464,
-      "title": "KIZUNA - special",
-      "score": 0.36,
-      "r18": false
+      "id": 21776,
+      "title": "Amadare no Koro",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 5242,
-      "title": "Higouhou Junai",
-      "score": 0.359,
-      "r18": false
+      "id": 17133,
+      "title": "Shiro no Koro",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 25768,
+      "title": "Sweet vs. Home",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10797,
+      "title": "Osewa Yakimasu",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 39340,
+      "title": "Uchi no Ouji Irimasen ka",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 36844,
+      "title": "Hirano to Kagiura",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 24094,
+      "title": "Mabataki no Aida",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50918,
+      "title": "Koi De Wa Nai to Omoitai",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20689,
       "title": "Bokura no Shokutaku",
-      "score": 0.358,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5242,
+      "title": "Higouhou Junai",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 33862,
+      "title": "Otona Gokko",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 43027,
+      "title": "Akai Me o Shita Shounen wa",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37565,
+      "title": "BLT",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 35522,
+      "title": "Rokugatsu no Hengen-san",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 24088,
+      "title": "Kage Aru Tokoro ni",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 39562,
+      "title": "Ashita wa Ieru Kana",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53017,
+      "title": "Dojikko Pants",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

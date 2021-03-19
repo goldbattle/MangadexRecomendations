@@ -1,158 +1,264 @@
 {
   "id": 43122,
   "title": "Hakusai",
-  "url": "https://api.mangadex.org/v2/manga/43122",
-  "last_updated": "February 11, 2021 12:35:30 UTC",
+  "url": "https://mangadex.org/manga/43122",
+  "last_updated": "March 18, 2021 12:20:23 UTC",
   "matches": [
     {
       "id": 1702,
       "title": "Durarara!!",
-      "score": 0.24,
-      "r18": false
-    },
-    {
-      "id": 7352,
-      "title": "TheLastPierrot",
-      "score": 0.229,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 107,
       "title": "Toriko",
-      "score": 0.229,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "es",
+        "mx",
+        "pl"
+      ]
     },
     {
       "id": 858,
       "title": "Hikaru no Go",
-      "score": 0.229,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1720,
       "title": "Under Prin",
-      "score": 0.229,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 3091,
       "title": "Suzumiya Haruhi no Yuuutsu",
-      "score": 0.229,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6133,
       "title": "The Time of Cherry Blossoms",
-      "score": 0.229,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7352,
+      "title": "TheLastPierrot",
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7783,
       "title": "RiN (HAROLD Sakuishi)",
-      "score": 0.229,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 17954,
       "title": "Fureru to Kikoeru",
-      "score": 0.229,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 19162,
       "title": "Sasaki-kun ga Judan Tometa",
-      "score": 0.229,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19421,
       "title": "Hoshi ni Negai wo",
-      "score": 0.229,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "ru",
+        "it",
+        "fr",
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 22516,
       "title": "Dioti Manual ~Kamisamatachi no Ren'ai Daikou~",
-      "score": 0.229,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "br",
+        "vn",
+        "mx",
+        "id",
+        "fr"
+      ]
     },
     {
       "id": 49394,
       "title": "Dream Life: Yume no Isekai Seikatsu",
-      "score": 0.229,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 51461,
+      "title": "Boku to Kimi no Nijuu Tantei",
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 134,
       "title": "en&iacute;gm\u04d9",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "de"
+      ]
     },
     {
       "id": 358,
       "title": "C&Oslash;DE:BREAKER",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "id"
+      ]
     },
     {
       "id": 556,
       "title": "Mirai Nikki Mosaic",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 654,
       "title": "Koorihime Kitan",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "fr"
+      ]
     },
     {
       "id": 3489,
-      "title": "Death Note C-Kira Arc",
-      "score": 0.227,
-      "r18": false
+      "title": "Death Note: C-Kira-hen",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru"
+      ]
     },
     {
       "id": 3829,
       "title": "Shindere Shoujo to Kodoku na Shinigami",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa"
+      ]
     },
     {
       "id": 6832,
       "title": "&quot;Bungaku Shoujo&quot; to Ue Kawaku Yuurei",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 10502,
       "title": "Fujimi Lovers",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "de"
+      ]
     },
     {
       "id": 11207,
       "title": "Inu to Hasami wa Tsukaiyou",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 12844,
       "title": "Saike Mata Shite mo",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 15150,
       "title": "Jitsuryokuha Elite Jin",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 18609,
-      "title": "Killer Killer",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

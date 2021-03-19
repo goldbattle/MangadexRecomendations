@@ -2,25 +2,36 @@
   "id": 39004,
   "title": "Taberarechaukei Danshi",
   "url": "https://mangadex.org/manga/39004",
-  "last_updated": "March 18, 2021 04:17:50 UTC",
+  "last_updated": "March 18, 2021 11:46:02 UTC",
   "matches": [
     {
       "id": 14280,
       "title": "Kyoushi no Junjou Seito no Yokubou",
-      "score": 0.3,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 13676,
       "title": "Dekiru Otoko ga Suki Nanda!",
-      "score": 0.3,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 18540,
       "title": "Nani ka Ii no Mitsuketa!",
-      "score": 0.267,
-      "r18": false
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn"
+      ]
     }
   ]
 }

@@ -1,14 +1,17 @@
 {
   "id": 55428,
   "title": "Crimson Yuri Party",
-  "url": "https://api.mangadex.org/v2/manga/55428",
-  "last_updated": "March 12, 2021 20:37:42 UTC",
+  "url": "https://mangadex.org/manga/55428",
+  "last_updated": "March 18, 2021 14:03:16 UTC",
   "matches": [
     {
       "id": 31277,
       "title": "After Release the Spyce",
-      "score": 0.122,
-      "r18": false
+      "score": 0.109,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

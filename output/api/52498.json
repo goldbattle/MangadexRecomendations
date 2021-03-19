@@ -1,14 +1,20 @@
 {
   "id": 52498,
   "title": "Love Me, You Brat!",
-  "url": "https://api.mangadex.org/v2/manga/52498",
-  "last_updated": "February 05, 2021 12:25:29 UTC",
+  "url": "https://mangadex.org/manga/52498",
+  "last_updated": "March 18, 2021 13:38:48 UTC",
   "matches": [
     {
       "id": 48712,
       "title": "5 Years Later...",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "vn",
+        "mx"
+      ]
     }
   ]
 }

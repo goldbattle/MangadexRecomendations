@@ -2,19 +2,25 @@
   "id": 6070,
   "title": "Kannazuki no Miko",
   "url": "https://mangadex.org/manga/6070",
-  "last_updated": "March 14, 2021 12:46:07 UTC",
+  "last_updated": "March 18, 2021 06:37:21 UTC",
   "matches": [
     {
       "id": 48404,
       "title": "Marriage Black",
       "score": 0.213,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 43699,
       "title": "It's Maka! Not baka!!!",
-      "score": 0.125,
-      "r18": false
+      "score": 0.124,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

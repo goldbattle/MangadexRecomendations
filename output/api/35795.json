@@ -2,25 +2,35 @@
   "id": 35795,
   "title": "Touhou - Ganbare! (Na) Kogasa-chan!! (Doujinshi)",
   "url": "https://mangadex.org/manga/35795",
-  "last_updated": "March 17, 2021 20:17:52 UTC",
+  "last_updated": "March 18, 2021 11:19:14 UTC",
   "matches": [
-    {
-      "id": 47056,
-      "title": "Youkai Izakaya Nonbereke",
-      "score": 0.234,
-      "r18": false
-    },
     {
       "id": 19974,
       "title": "What Would You Do If You Were To Die Tomorrow?",
       "score": 0.229,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 47056,
+      "title": "Youkai Izakaya Nonbereke",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 23002,
       "title": "Monster Hunter - Rex's Dieting Plan (Doujinshi)",
       "score": 0.214,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

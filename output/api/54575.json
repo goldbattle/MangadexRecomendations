@@ -1,158 +1,263 @@
 {
   "id": 54575,
   "title": "Jealousy Inducers",
-  "url": "https://api.mangadex.org/v2/manga/54575",
-  "last_updated": "March 12, 2021 20:27:17 UTC",
+  "url": "https://mangadex.org/manga/54575",
+  "last_updated": "March 18, 2021 13:56:08 UTC",
   "matches": [
-    {
-      "id": 16305,
-      "title": "Where Tangents Meet",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 29903,
-      "title": "Getting Married Is Not Easy",
-      "score": 0.396,
-      "r18": false
-    },
     {
       "id": 29139,
       "title": "Wanzhang Guangmang Buji Ni",
-      "score": 0.377,
-      "r18": false
-    },
-    {
-      "id": 40477,
-      "title": "Gatabutata",
-      "score": 0.374,
-      "r18": false
-    },
-    {
-      "id": 33261,
-      "title": "Uncle Cool",
-      "score": 0.373,
-      "r18": false
-    },
-    {
-      "id": 21579,
-      "title": "Star Dream Idol Project",
-      "score": 0.373,
-      "r18": false
-    },
-    {
-      "id": 23701,
-      "title": "Full Marks, Hidden Marriage",
-      "score": 0.368,
-      "r18": false
-    },
-    {
-      "id": 42712,
-      "title": "Born Beauty",
-      "score": 0.368,
-      "r18": false
-    },
-    {
-      "id": 52300,
-      "title": "The Devious New Employee",
-      "score": 0.368,
-      "r18": false
-    },
-    {
-      "id": 49775,
-      "title": "Love Dream Come True",
-      "score": 0.367,
-      "r18": false
-    },
-    {
-      "id": 19012,
-      "title": "KAKAO 79%",
-      "score": 0.363,
-      "r18": false
-    },
-    {
-      "id": 39319,
-      "title": "Love War's Victory",
-      "score": 0.363,
-      "r18": false
-    },
-    {
-      "id": 40836,
-      "title": "Perfect Relationship",
-      "score": 0.363,
-      "r18": false
-    },
-    {
-      "id": 11821,
-      "title": "My Beautiful World",
-      "score": 0.362,
-      "r18": false
-    },
-    {
-      "id": 38433,
-      "title": "Four Years Apart",
-      "score": 0.362,
-      "r18": false
-    },
-    {
-      "id": 19153,
-      "title": "Weekly Boys' Dating Agency",
-      "score": 0.361,
-      "r18": false
-    },
-    {
-      "id": 41602,
-      "title": "Honey Bunny",
-      "score": 0.36,
-      "r18": false
-    },
-    {
-      "id": 19105,
-      "title": "I Hate Love",
-      "score": 0.359,
-      "r18": false
-    },
-    {
-      "id": 49715,
-      "title": "Bunny and Her Boys",
-      "score": 0.358,
-      "r18": false
-    },
-    {
-      "id": 41887,
-      "title": "Full Marks, Hidden Marriage",
-      "score": 0.357,
-      "r18": false
-    },
-    {
-      "id": 35443,
-      "title": "Forced Marriage, True Love",
-      "score": 0.357,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "br",
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 39592,
       "title": "CEO's Top Secret",
-      "score": 0.356,
-      "r18": false
+      "score": 0.311,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 48038,
-      "title": "Demon's Ear",
-      "score": 0.356,
-      "r18": false
+      "id": 1302,
+      "title": "Serendipity",
+      "score": 0.311,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 36156,
-      "title": "Uchi no neko ga mononoke ni narimashite",
-      "score": 0.355,
-      "r18": false
+      "id": 47577,
+      "title": "200% Lilac",
+      "score": 0.311,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 52300,
+      "title": "The Devious New Employee",
+      "score": 0.311,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 40733,
+      "title": "My Wife Is Cold-Hearted",
+      "score": 0.311,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 51770,
+      "title": "New Year's Taste",
+      "score": 0.286,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "fr",
+        "br"
+      ]
+    },
+    {
+      "id": 31623,
+      "title": "To Be Winner",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "id",
+        "tr",
+        "fr",
+        "vn"
+      ]
+    },
+    {
+      "id": 46143,
+      "title": "Office Witch Falls in Love",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 39319,
+      "title": "Love War's Victory",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 33261,
+      "title": "Uncle Cool",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "sa",
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 29903,
+      "title": "Getting Married Is Not Easy",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 35443,
+      "title": "Forced Marriage, True Love",
+      "score": 0.277,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 39082,
+      "title": "Infinite Sky",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18685,
+      "title": "Lovely Bokhee-ssi",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 31505,
       "title": "Shine and Sweet",
-      "score": 0.352,
-      "r18": false
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 40477,
+      "title": "Gatabutata",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 50688,
+      "title": "Suki Ai",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 48178,
+      "title": "2D Partner",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9460,
+      "title": "Cheonsaeng Yeonbun",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 38433,
+      "title": "Four Years Apart",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 30553,
+      "title": "True Beauty",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br",
+        "gb",
+        "fr",
+        "ru"
+      ]
+    },
+    {
+      "id": 45906,
+      "title": "How to Draw an Eclipse",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19516,
+      "title": "Chao Hua Xi Shi",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa"
+      ]
+    },
+    {
+      "id": 42712,
+      "title": "Born Beauty",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

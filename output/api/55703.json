@@ -1,80 +1,135 @@
 {
   "id": 55703,
   "title": "My Little Pony: Nightmare Knights",
-  "url": "https://api.mangadex.org/v2/manga/55703",
-  "last_updated": "March 12, 2021 20:41:09 UTC",
+  "url": "https://mangadex.org/manga/55703",
+  "last_updated": "March 18, 2021 14:05:35 UTC",
   "matches": [
-    {
-      "id": 58327,
-      "title": "The Runaway Tanker",
-      "score": 0.668,
-      "r18": false
-    },
     {
       "id": 3084,
       "title": "Mahoutsukai no Neko",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 55773,
-      "title": "Isekai ni Otosareta&hellip; Jouka wa Kihon!",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 48994,
-      "title": "Strongest Caveman",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 12672,
-      "title": "Tate no Yuusha no Nariagari",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 36801,
-      "title": "L.O.R.D: Legend of Ravaging Dynasties",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 50434,
-      "title": "Monster Bar",
-      "score": 0.654,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 44368,
       "title": "Kamisama ni Kago 2 Nin Bun Moraimashita",
-      "score": 0.26,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 58327,
+      "title": "The Runaway Tanker",
+      "score": 0.14,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 58630,
       "title": "Sekai Saikyou no Shinjuu Tsukai",
-      "score": 0.245,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 12672,
+      "title": "Tate no Yuusha no Nariagari",
+      "score": 0.134,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "ru",
+        "br",
+        "mx",
+        "id",
+        "pl",
+        "hu",
+        "it",
+        "sa"
+      ]
+    },
+    {
+      "id": 36801,
+      "title": "L.O.R.D: Legend of Ravaging Dynasties",
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "id",
+        "br"
+      ]
+    },
+    {
+      "id": 55773,
+      "title": "Isekai ni Otosareta&hellip; Jouka wa Kihon!",
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 48994,
+      "title": "Strongest Caveman",
+      "score": 0.107,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br"
+      ]
     },
     {
       "id": 39376,
       "title": "Hooves of Death",
-      "score": 0.243,
-      "r18": false
+      "score": 0.107,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": 35199,
       "title": "Isekai Cheat Survival Meshi",
-      "score": 0.238,
-      "r18": false
+      "score": 0.099,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "br",
+        "ru",
+        "fr"
+      ]
     },
     {
       "id": 56080,
       "title": "Rainbow Bridge Watchman",
-      "score": 0.113,
-      "r18": false
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50434,
+      "title": "Monster Bar",
+      "score": 0.087,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     }
   ]
 }

@@ -1,158 +1,263 @@
 {
   "id": 31154,
   "title": "Nekodomo",
-  "url": "https://api.mangadex.org/v2/manga/31154",
-  "last_updated": "February 10, 2021 08:15:42 UTC",
+  "url": "https://mangadex.org/manga/31154",
+  "last_updated": "March 18, 2021 10:40:33 UTC",
   "matches": [
-    {
-      "id": 8495,
-      "title": "Persona 3",
-      "score": 0.69,
-      "r18": false
-    },
-    {
-      "id": 4880,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
-      "score": 0.687,
-      "r18": false
-    },
-    {
-      "id": 4135,
-      "title": "Mushishi",
-      "score": 0.684,
-      "r18": false
-    },
-    {
-      "id": 12033,
-      "title": "Shoujo Shuumatsu Ryokou",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 1614,
-      "title": "Aa! Megami-sama!",
-      "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 44045,
-      "title": "Ordinary Emperor",
-      "score": 0.668,
-      "r18": false
-    },
-    {
-      "id": 24661,
-      "title": "Isekai Izakaya &quot;Gen&quot;",
-      "score": 0.667,
-      "r18": false
-    },
-    {
-      "id": 20348,
-      "title": "The King's Avatar",
-      "score": 0.667,
-      "r18": false
-    },
-    {
-      "id": 39550,
-      "title": "A Mild Noble's Vacation Suggestion",
-      "score": 0.667,
-      "r18": false
-    },
-    {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 14672,
-      "title": "Chikyuu no Houkago",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 1168,
-      "title": "Spice and Wolf",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 593,
-      "title": "Kabu no Isaki",
-      "score": 0.66,
-      "r18": false
-    },
     {
       "id": 12172,
       "title": "Burapa - The Black Parade",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 36204,
-      "title": "Shinsetsu Ookami to Koushinryou: Ookami to Youhishi",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 6158,
-      "title": "Ritou no Umi",
-      "score": 0.408,
-      "r18": false
-    },
-    {
-      "id": 5350,
-      "title": "Mugentou",
-      "score": 0.405,
-      "r18": false
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21823,
       "title": "An Interstellar Voyage Fit for a Baron",
-      "score": 0.372,
-      "r18": false
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20817,
+      "title": "Yurucamp \u25b3",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "id",
+        "mx",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 48382,
+      "title": "Tabi Gyaru!",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6158,
+      "title": "Ritou no Umi",
+      "score": 0.261,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 20023,
       "title": "RAPID COMMUTER UNDERGROUND",
-      "score": 0.361,
-      "r18": false
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 33632,
-      "title": "ENDRO!",
-      "score": 0.347,
-      "r18": false
+      "id": 593,
+      "title": "Kabu no Isaki",
+      "score": 0.246,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "fr"
+      ]
+    },
+    {
+      "id": 5350,
+      "title": "Mugentou",
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20764,
       "title": "Maou no Hisho",
-      "score": 0.345,
-      "r18": false
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
-      "id": 6513,
-      "title": "Noru",
-      "score": 0.326,
-      "r18": false
-    },
-    {
-      "id": 4525,
-      "title": "Color of Rage",
-      "score": 0.324,
-      "r18": false
+      "id": 33632,
+      "title": "ENDRO!",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29297,
       "title": "Yama to Shokuyoku to Watashi",
-      "score": 0.322,
-      "r18": false
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 6513,
+      "title": "Noru",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 1022,
+      "title": "Tsubame - Hidamari Shoujo Kikou",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "de",
+        "gb"
+      ]
+    },
+    {
+      "id": 23482,
+      "title": "Fushigi no Kuni no Bird",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2932,
+      "title": "Sister Generator",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 35108,
+      "title": "The Terrarium With Key",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 8041,
+      "title": "Sunshine",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "br",
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 24661,
+      "title": "Isekai Izakaya &quot;Gen&quot;",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 9472,
+      "title": "Maousama Chotto Sore Totte!!",
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2092,
+      "title": "Gon",
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg",
+        "tr",
+        "hu"
+      ]
+    },
+    {
+      "id": 28792,
+      "title": "Eizouken ni wa Te wo Dasu na!",
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "cn",
+        "gb",
+        "mx",
+        "br",
+        "tr"
+      ]
     },
     {
       "id": 23209,
       "title": "Go With the Clouds to the North-Northwest",
-      "score": 0.322,
-      "r18": false
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "tr",
+        "ru"
+      ]
+    },
+    {
+      "id": 26226,
+      "title": "Mahou no Yama",
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21372,
+      "title": "Nicola's Leisurely Demon World Travelogue",
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "ru",
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 16513,
+      "title": "Lady &amp; Oldman",
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     }
   ]
 }

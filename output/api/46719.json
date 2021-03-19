@@ -1,44 +1,83 @@
 {
   "id": 46719,
   "title": "Age Gap Sisters Who Have Reached That Age",
-  "url": "https://api.mangadex.org/v2/manga/46719",
-  "last_updated": "February 12, 2021 00:58:52 UTC",
+  "url": "https://mangadex.org/manga/46719",
+  "last_updated": "March 18, 2021 12:50:27 UTC",
   "matches": [
+    {
+      "id": 50240,
+      "title": "Mutually Unrequited Twin Sisters",
+      "score": 0.26,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "mx",
+        "tr",
+        "br"
+      ]
+    },
     {
       "id": 31112,
       "title": "Siscon Oneechan to Kinishinai Imouto",
-      "score": 0.224,
-      "r18": false
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "it"
+      ]
     },
     {
       "id": 32731,
       "title": "Citrus +",
-      "score": 0.224,
-      "r18": false
-    },
-    {
-      "id": 50240,
-      "title": "Mutually Unrequited Twin Sisters",
-      "score": 0.224,
-      "r18": false
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "tr",
+        "it",
+        "ru"
+      ]
     },
     {
       "id": 23424,
       "title": "1 x &frac12;",
-      "score": 0.187,
-      "r18": false
+      "score": 0.173,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "br"
+      ]
     },
     {
       "id": 8772,
       "title": "Citrus",
-      "score": 0.16,
-      "r18": false
+      "score": 0.148,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "tr",
+        "ru",
+        "id",
+        "ir"
+      ]
     },
     {
       "id": 18467,
       "title": "Sayuri-san no Imouto wa Tenshi",
-      "score": 0.124,
-      "r18": false
+      "score": 0.115,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "ru"
+      ]
     }
   ]
 }

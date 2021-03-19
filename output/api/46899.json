@@ -1,98 +1,155 @@
 {
   "id": 46899,
   "title": "Saki re: King's Tile Draw",
-  "url": "https://api.mangadex.org/v2/manga/46899",
-  "last_updated": "February 12, 2021 01:01:59 UTC",
+  "url": "https://mangadex.org/manga/46899",
+  "last_updated": "March 18, 2021 12:51:57 UTC",
   "matches": [
     {
       "id": 14937,
       "title": "Koma Hibiki",
-      "score": 0.24,
-      "r18": false
+      "score": 0.213,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 47302,
       "title": "Mahjong Diva Obaka Miiko",
-      "score": 0.18,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 51992,
       "title": "Nakasete Kurenai Kamiya-san",
-      "score": 0.144,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 32288,
       "title": "3-gatsu no Lion Shouwa Ibun - Shakunetsu no Jidai",
-      "score": 0.12,
-      "r18": false
+      "score": 0.106,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 49167,
       "title": "Ryuu to Ichigo",
-      "score": 0.12,
-      "r18": false
+      "score": 0.106,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19434,
       "title": "Toki",
-      "score": 0.103,
-      "r18": false
+      "score": 0.091,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 36067,
       "title": "Ultimate Rock-Paper-Scissors",
-      "score": 0.103,
-      "r18": false
+      "score": 0.091,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it"
+      ]
     },
     {
       "id": 31166,
       "title": "Mudazumo Naki Kaikaku - Princess of Zipang",
-      "score": 0.09,
-      "r18": false
+      "score": 0.08,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 528,
       "title": "3-gatsu no Lion",
-      "score": 0.08,
-      "r18": false
+      "score": 0.071,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "vn"
+      ]
     },
     {
       "id": 1063,
       "title": "Chihayafuru",
-      "score": 0.08,
-      "r18": false
+      "score": 0.071,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "it",
+        "br",
+        "pl"
+      ]
     },
     {
       "id": 24707,
       "title": "Chihayafuru: Middle School Arc",
-      "score": 0.08,
-      "r18": false
+      "score": 0.071,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 45794,
       "title": "Blitz",
-      "score": 0.066,
-      "r18": false
+      "score": 0.058,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 47321,
       "title": "Starlight Manaburn",
-      "score": 0.06,
-      "r18": false
+      "score": 0.053,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 40967,
       "title": "Starlight Wizards",
-      "score": 0.055,
-      "r18": false
+      "score": 0.049,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2268,
       "title": "Mudazumo Naki Kaikaku",
-      "score": 0.048,
-      "r18": false
+      "score": 0.042,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it"
+      ]
     }
   ]
 }

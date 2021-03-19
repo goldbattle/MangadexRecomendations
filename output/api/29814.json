@@ -2,31 +2,46 @@
   "id": 29814,
   "title": "Datenshi ni Sasageru Uta",
   "url": "https://mangadex.org/manga/29814",
-  "last_updated": "January 13, 2021 06:59:15 UTC",
+  "last_updated": "March 18, 2021 10:29:22 UTC",
   "matches": [
-    {
-      "id": 10465,
-      "title": "Dame BL (Anthology)",
-      "score": 0.707,
-      "r18": false
-    },
     {
       "id": 55756,
       "title": "Mugen no Roukaku",
-      "score": 0.699,
-      "r18": false
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 30567,
       "title": "S.E.X &amp; Love",
-      "score": 0.433,
-      "r18": false
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 14651,
       "title": "Ze - Kami no Hon",
-      "score": 0.339,
-      "r18": false
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "pl",
+        "tr",
+        "gb"
+      ]
+    },
+    {
+      "id": 10465,
+      "title": "Dame BL (Anthology)",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     }
   ]
 }

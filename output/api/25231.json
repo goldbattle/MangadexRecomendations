@@ -2,19 +2,25 @@
   "id": 25231,
   "title": "Bishoujo Club",
   "url": "https://mangadex.org/manga/25231",
-  "last_updated": "March 16, 2021 16:28:43 UTC",
+  "last_updated": "March 18, 2021 09:50:06 UTC",
   "matches": [
     {
       "id": 23456,
       "title": "My Neighbors Are Aliens",
       "score": 0.3,
-      "r18": true
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 55208,
       "title": "Petit-Roid 3",
       "score": 0.3,
-      "r18": true
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

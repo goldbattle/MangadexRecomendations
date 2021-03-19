@@ -1,158 +1,238 @@
 {
   "id": 31456,
   "title": "Kyle's Final Fantasy",
-  "url": "https://api.mangadex.org/v2/manga/31456",
-  "last_updated": "February 10, 2021 08:20:25 UTC",
+  "url": "https://mangadex.org/manga/31456",
+  "last_updated": "March 18, 2021 10:43:04 UTC",
   "matches": [
-    {
-      "id": 3038,
-      "title": "Kyou Kara Ma no Tsuku Jiyuugyou!",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 1858,
-      "title": "Kanata Kara",
-      "score": 0.66,
-      "r18": false
-    },
     {
       "id": 13826,
       "title": "Fairy Tail - Blue Mistral",
-      "score": 0.453,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
     },
     {
       "id": 11369,
       "title": "Kero Kero Chime",
-      "score": 0.444,
-      "r18": false
-    },
-    {
-      "id": 37631,
-      "title": "Final Fantasy XV Official Comic Anthology  V1-V2",
-      "score": 0.441,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4186,
       "title": "Fushigi na Melmo",
-      "score": 0.419,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 15914,
       "title": "Cutlass",
-      "score": 0.402,
-      "r18": false
-    },
-    {
-      "id": 6084,
-      "title": "Jikuu Ihoujin KYOKO",
-      "score": 0.396,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4319,
       "title": "Jauhara Lailah",
-      "score": 0.385,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 18092,
       "title": "Maou Voice",
-      "score": 0.382,
-      "r18": false
-    },
-    {
-      "id": 5182,
-      "title": "Platina",
-      "score": 0.376,
-      "r18": false
-    },
-    {
-      "id": 2604,
-      "title": "Gin no Yuusha",
-      "score": 0.372,
-      "r18": false
-    },
-    {
-      "id": 39184,
-      "title": "Miracle Nikki",
-      "score": 0.369,
-      "r18": false
-    },
-    {
-      "id": 3433,
-      "title": "Time Limit! Nina",
-      "score": 0.365,
-      "r18": false
-    },
-    {
-      "id": 6434,
-      "title": "Wanted",
-      "score": 0.36,
-      "r18": false
-    },
-    {
-      "id": 13124,
-      "title": "+a no tachiichi",
-      "score": 0.359,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 12778,
       "title": "Magical Pok&eacute;mon Journey",
-      "score": 0.358,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 46559,
-      "title": "Itsuka Yume no Naka de",
-      "score": 0.349,
-      "r18": false
+      "id": 2604,
+      "title": "Gin no Yuusha",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
-      "id": 8141,
-      "title": "Oujisama Lv1",
-      "score": 0.346,
-      "r18": false
-    },
-    {
-      "id": 2204,
-      "title": "Bara no Maria",
-      "score": 0.341,
-      "r18": false
-    },
-    {
-      "id": 4730,
-      "title": "Ludwig Fantasia",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 27335,
-      "title": "Bad Moon",
-      "score": 0.336,
-      "r18": false
+      "id": 5182,
+      "title": "Platina",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5266,
       "title": "Himitsu no Bara Juujidan",
-      "score": 0.334,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8141,
+      "title": "Oujisama Lv1",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6084,
+      "title": "Jikuu Ihoujin KYOKO",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "bg",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 46559,
+      "title": "Itsuka Yume no Naka de",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 39184,
+      "title": "Miracle Nikki",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2204,
+      "title": "Bara no Maria",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 13124,
+      "title": "+a no tachiichi",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 4730,
+      "title": "Ludwig Fantasia",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 17375,
+      "title": "Renai Tripper",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3433,
+      "title": "Time Limit! Nina",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 27335,
+      "title": "Bad Moon",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29886,
+      "title": "Travel To The Cats' Territory",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5822,
+      "title": "Shin\u2606Daa! Daa! Daa!",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 55927,
       "title": "Miracle Girls",
-      "score": 0.327,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 24016,
-      "title": "Neo Angelique",
-      "score": 0.327,
-      "r18": false
+      "id": 14223,
+      "title": "Teikoku Kyoudai",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1165,
+      "title": "Anti-Gravity Boy",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

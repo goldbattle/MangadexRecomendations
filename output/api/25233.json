@@ -2,31 +2,44 @@
   "id": 25233,
   "title": "Jisatsu Yuugi",
   "url": "https://mangadex.org/manga/25233",
-  "last_updated": "March 16, 2021 16:28:45 UTC",
+  "last_updated": "March 18, 2021 09:50:08 UTC",
   "matches": [
     {
       "id": 59377,
-      "title": "From another world",
+      "title": "From Another World",
       "score": 0.176,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 56981,
       "title": "Gestation of Kalavinka",
-      "score": 0.147,
-      "r18": false
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 58609,
       "title": "HIGH SCHxxl G@L",
-      "score": 0.147,
-      "r18": false
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7929,
       "title": "Violence Jack - Sengoku Majinden",
       "score": 0.11,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -2,19 +2,25 @@
   "id": 56125,
   "title": "Meet me beneath the mask",
   "url": "https://mangadex.org/manga/56125",
-  "last_updated": "March 13, 2021 00:22:15 UTC",
+  "last_updated": "March 18, 2021 14:09:06 UTC",
   "matches": [
     {
       "id": 47473,
       "title": "Adulthood",
       "score": 0.15,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 57866,
       "title": "Urban Legend",
-      "score": 0.1,
-      "r18": false
+      "score": 0.099,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

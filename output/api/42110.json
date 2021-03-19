@@ -1,158 +1,282 @@
 {
   "id": 42110,
   "title": "The Archmage's Daughter",
-  "url": "https://api.mangadex.org/v2/manga/42110",
-  "last_updated": "February 11, 2021 12:20:28 UTC",
+  "url": "https://mangadex.org/manga/42110",
+  "last_updated": "March 18, 2021 12:11:56 UTC",
   "matches": [
     {
-      "id": 7816,
-      "title": "Folk Tail Tonakai",
-      "score": 0.698,
-      "r18": false
+      "id": 54736,
+      "title": "Cheerful Countess Sisters",
+      "score": 0.311,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru",
+        "br"
+      ]
+    },
+    {
+      "id": 36635,
+      "title": "The Monster Duchess and Contract Princess",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx",
+        "ru",
+        "br",
+        "pl",
+        "hu"
+      ]
+    },
+    {
+      "id": 36400,
+      "title": "Wendy the Florist",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "hu"
+      ]
+    },
+    {
+      "id": 50117,
+      "title": "Beginner's Test for Infinite Power",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 56244,
+      "title": "Big Life",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 43292,
+      "title": "The Duchess With an Empty Soul",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "it",
+        "id"
+      ]
+    },
+    {
+      "id": 42780,
+      "title": "Remarried Empress",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "br",
+        "hu",
+        "it"
+      ]
+    },
+    {
+      "id": 59857,
+      "title": "I Tamed a Tyrant and Ran Away",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru",
+        "fr"
+      ]
     },
     {
       "id": 42737,
       "title": "I Was Born as the Demon Lord's Daughter",
-      "score": 0.688,
-      "r18": false
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id"
+      ]
     },
     {
-      "id": 41743,
-      "title": "Charlotte and Her 5 Disciples",
-      "score": 0.683,
-      "r18": false
+      "id": 208,
+      "title": "Magician",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "ru",
+        "fr",
+        "gb",
+        "pl",
+        "br",
+        "de"
+      ]
     },
     {
-      "id": 10801,
-      "title": "Mahoutsukai no Yome",
-      "score": 0.681,
-      "r18": false
-    },
-    {
-      "id": 44107,
-      "title": "The Great Prophet Is Running From Her Previous Life",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 54218,
-      "title": "The Lady and the Beast",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 49198,
-      "title": "I Was Just an Ordinary Lady",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 52120,
-      "title": "Becoming the Villain's Family",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 19586,
-      "title": "That House Where I Live With You",
-      "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 43950,
-      "title": "The Goddess of Healing",
-      "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 45073,
-      "title": "Return of the Avenger",
-      "score": 0.674,
-      "r18": false
-    },
-    {
-      "id": 18059,
-      "title": "Grimoire of Zero",
-      "score": 0.672,
-      "r18": false
-    },
-    {
-      "id": 57496,
-      "title": "I Will Be Selfish in a Different World! The Story of a Selfish Saint Candidate",
-      "score": 0.671,
-      "r18": false
-    },
-    {
-      "id": 54736,
-      "title": "Cheerful Countess Sisters",
-      "score": 0.671,
-      "r18": false
-    },
-    {
-      "id": 46793,
-      "title": "Nidoto Ie ni wa Kaerimasen!",
-      "score": 0.67,
-      "r18": false
-    },
-    {
-      "id": 47120,
-      "title": "The Evil Sorceress Plans to Survive!",
-      "score": 0.67,
-      "r18": false
-    },
-    {
-      "id": 23467,
-      "title": "Eiyuu no Musume Toshite Umarekawatta Eiyuu wa Futatabi Eiyuu o Mezasu",
-      "score": 0.668,
-      "r18": false
-    },
-    {
-      "id": 34664,
-      "title": "Tales of Hearts",
-      "score": 0.668,
-      "r18": false
-    },
-    {
-      "id": 23231,
-      "title": "Wu Dong Qian Kun",
-      "score": 0.667,
-      "r18": false
-    },
-    {
-      "id": 53232,
-      "title": "It's Time to Look for a New Family",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 55773,
-      "title": "Isekai ni Otosareta&hellip; Jouka wa Kihon!",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 51318,
+      "id": 54518,
       "title": "Truthfully, They Only Remembered Her",
-      "score": 0.666,
-      "r18": false
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
-      "id": 31475,
-      "title": "Yeon's Letters",
-      "score": 0.666,
-      "r18": false
+      "id": 34355,
+      "title": "Between Two Lips",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "fr"
+      ]
     },
     {
-      "id": 47371,
-      "title": "A Breakthrough Brought by Forbidden Master and Disciple",
-      "score": 0.665,
-      "r18": false
+      "id": 34558,
+      "title": "The Mermaid Wears a Dress",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
-      "id": 32944,
-      "title": "I Am a Child of This House",
-      "score": 0.664,
-      "r18": false
+      "id": 49024,
+      "title": "Bewitched Brothers",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 40868,
+      "title": "Unbending Flower",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "fr",
+        "id"
+      ]
+    },
+    {
+      "id": 47685,
+      "title": "Memory-Erasing Bell",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59248,
+      "title": "Dragon's Savior",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 43140,
+      "title": "The Black-Haired Princess",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "id"
+      ]
+    },
+    {
+      "id": 30282,
+      "title": "Empress of Another World",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "br",
+        "tr",
+        "it"
+      ]
+    },
+    {
+      "id": 45255,
+      "title": "Lamia Orphe Is Dead",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "es",
+        "id",
+        "tr"
+      ]
+    },
+    {
+      "id": 58129,
+      "title": "Drunk",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50562,
+      "title": "I Refuse the Duke",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 47342,
+      "title": "The King Wants Me Dead",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 45052,
+      "title": "The Cute Wife of the Cold Chairman",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 51746,
+      "title": "The Antagonistic Goddess Attacks",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     }
   ]
 }

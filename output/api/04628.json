@@ -2,31 +2,49 @@
   "id": 4628,
   "title": "Kurozuka",
   "url": "https://mangadex.org/manga/4628",
-  "last_updated": "March 14, 2021 08:33:38 UTC",
+  "last_updated": "March 18, 2021 06:24:07 UTC",
   "matches": [
     {
       "id": 10699,
       "title": "Manga of the Dead",
-      "score": 0.168,
-      "r18": false
+      "score": 0.167,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 47565,
-      "title": "Perennial",
-      "score": 0.141,
-      "r18": false
+      "id": 51563,
+      "title": "Zombie darake no Kono Sekai de wa Sex shinai to Ikinokorenai",
+      "score": 0.115,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "th"
+      ]
     },
     {
       "id": 16868,
       "title": "Angolmois - Genkou Kassenki",
-      "score": 0.107,
-      "r18": false
+      "score": 0.106,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 6002,
       "title": "The World Is Mine",
       "score": 0.082,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
     }
   ]
 }

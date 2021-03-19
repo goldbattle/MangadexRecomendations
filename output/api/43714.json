@@ -1,38 +1,32 @@
 {
   "id": 43714,
   "title": "Innocent\u2606Angel ~Yotsuba Masumi's Otoko no Ko Collection~",
-  "url": "https://api.mangadex.org/v2/manga/43714",
-  "last_updated": "February 11, 2021 16:29:22 UTC",
+  "url": "https://mangadex.org/manga/43714",
+  "last_updated": "March 18, 2021 12:25:19 UTC",
   "matches": [
     {
       "id": 23534,
       "title": "Oniisan no Hikkoshi no Katazuke ga Susumanai",
-      "score": 0.28,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "br",
+        "mx"
+      ]
     },
     {
       "id": 42364,
       "title": "Dentist-San, Your Boobs Are Touching Me!",
-      "score": 0.254,
-      "r18": false
-    },
-    {
-      "id": 651,
-      "title": "Asa made Jugyou Chu!",
-      "score": 0.2,
-      "r18": false
-    },
-    {
-      "id": 4596,
-      "title": "Josei Danshi",
-      "score": 0.2,
-      "r18": false
-    },
-    {
-      "id": 5197,
-      "title": "Otome wa Boku ni Koishiteru",
-      "score": 0.175,
-      "r18": false
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hk",
+        "it",
+        "id"
+      ]
     }
   ]
 }

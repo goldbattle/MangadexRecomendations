@@ -2,49 +2,71 @@
   "id": 48188,
   "title": "Tabegoro! Haitoku no Kajitsu",
   "url": "https://mangadex.org/manga/48188",
-  "last_updated": "January 15, 2021 12:30:35 UTC",
+  "last_updated": "March 18, 2021 13:02:46 UTC",
   "matches": [
-    {
-      "id": 52887,
-      "title": "My Beloved Auntie",
-      "score": 0.672,
-      "r18": false
-    },
     {
       "id": 46595,
       "title": "Chijou no Hito",
-      "score": 0.371,
-      "r18": false
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 47647,
       "title": "Ichigeki Nousatsu Satsuki-sensei",
-      "score": 0.332,
-      "r18": false
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 35433,
       "title": "Sister Complex",
-      "score": 0.24,
-      "r18": false
+      "score": 0.213,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 35986,
       "title": "Older Sister Experience - The Girls' Dormitory",
-      "score": 0.24,
-      "r18": false
+      "score": 0.213,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 51208,
       "title": "Keibo Ryouko",
-      "score": 0.24,
-      "r18": false
+      "score": 0.213,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 52887,
+      "title": "My Beloved Auntie",
+      "score": 0.201,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 26721,
       "title": "Seifuku no Mama Aishinasai! - Love in school uniform",
-      "score": 0.09,
-      "r18": false
+      "score": 0.08,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

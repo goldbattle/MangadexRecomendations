@@ -1,158 +1,251 @@
 {
   "id": 33321,
   "title": "I wish you luck with love!",
-  "url": "https://api.mangadex.org/v2/manga/33321",
-  "last_updated": "February 10, 2021 12:36:09 UTC",
+  "url": "https://mangadex.org/manga/33321",
+  "last_updated": "March 18, 2021 10:58:36 UTC",
   "matches": [
-    {
-      "id": 59476,
-      "title": "The Tyrant&rsquo;s Guardian Is an Evil Witch",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 58487,
-      "title": "Happy Ending for the Time-Limited Villainess",
-      "score": 0.671,
-      "r18": false
-    },
-    {
-      "id": 42236,
-      "title": "Heaven Official's Blessing (old version)",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 24055,
-      "title": "Snowman - Frozen Heart",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 3038,
-      "title": "Kyou Kara Ma no Tsuku Jiyuugyou!",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 22334,
-      "title": "The Strange Story Of A Guy Next Door And A Novelist",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 46579,
-      "title": "Liar, Where Are Vampires!",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 18792,
-      "title": "The Chart of Priest",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 58412,
-      "title": "Elegy of the Heavens",
-      "score": 0.65,
-      "r18": false
-    },
-    {
-      "id": 34614,
-      "title": "Meeting Him",
-      "score": 0.424,
-      "r18": false
-    },
-    {
-      "id": 29596,
-      "title": "Rebirth",
-      "score": 0.404,
-      "r18": false
-    },
     {
       "id": 6380,
       "title": "Na mo Naki Tori no Tobu Yoake",
-      "score": 0.39,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 32781,
       "title": "Rain Shower",
-      "score": 0.38,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "tr",
+        "pl"
+      ]
     },
     {
-      "id": 19805,
-      "title": "Double Self",
-      "score": 0.38,
-      "r18": false
-    },
-    {
-      "id": 27093,
-      "title": "Gekka Kajin",
-      "score": 0.376,
-      "r18": false
-    },
-    {
-      "id": 21955,
-      "title": "The Closer",
-      "score": 0.372,
-      "r18": false
-    },
-    {
-      "id": 27526,
-      "title": "Dousaibou Seibutsu",
-      "score": 0.369,
-      "r18": false
-    },
-    {
-      "id": 15520,
-      "title": "Kuro Ookami to Kin Kitsune",
-      "score": 0.367,
-      "r18": false
-    },
-    {
-      "id": 33983,
-      "title": "Vending Machine",
-      "score": 0.362,
-      "r18": false
-    },
-    {
-      "id": 6807,
-      "title": "Tsumasaki ni Kourozu",
-      "score": 0.359,
-      "r18": false
-    },
-    {
-      "id": 9927,
-      "title": "Mister Mermaid",
-      "score": 0.354,
-      "r18": false
-    },
-    {
-      "id": 6610,
-      "title": "Jinjuu Houretsuden",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 31520,
-      "title": "The Eyes of Sora",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 45905,
-      "title": "The Art of Taming A Tiger",
-      "score": 0.349,
-      "r18": false
+      "id": 34614,
+      "title": "Meeting Him",
+      "score": 0.286,
+      "r18": false,
+      "languages": [
+        "tr"
+      ]
     },
     {
       "id": 28851,
       "title": "7 Wonders",
-      "score": 0.347,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19805,
+      "title": "Double Self",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29596,
+      "title": "Rebirth",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
+    },
+    {
+      "id": 59676,
+      "title": "You Will Love",
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 27093,
+      "title": "Gekka Kajin",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9927,
+      "title": "Mister Mermaid",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14998,
+      "title": "Jinrou Chronicle",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6807,
+      "title": "Tsumasaki ni Kourozu",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 45905,
+      "title": "The Art of Taming A Tiger",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 17008,
+      "title": "Raising A Bat",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "pl",
+        "fr"
+      ]
+    },
+    {
+      "id": 28036,
+      "title": "Cynical World",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18901,
+      "title": "Curse Note",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21955,
+      "title": "The Closer",
+      "score": 0.237,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 27526,
+      "title": "Dousaibou Seibutsu",
+      "score": 0.235,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 12063,
+      "title": "Flower Petal",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu"
+      ]
+    },
+    {
+      "id": 33983,
+      "title": "Vending Machine",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14620,
+      "title": "Lucid Dream",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "it"
+      ]
+    },
+    {
+      "id": 45262,
+      "title": "Animus",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
+    },
+    {
+      "id": 15520,
+      "title": "Kuro Ookami to Kin Kitsune",
+      "score": 0.227,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "hu",
+        "it"
+      ]
+    },
+    {
+      "id": 30193,
+      "title": "Whose Baby Is It?",
+      "score": 0.224,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 22334,
+      "title": "The Strange Story Of A Guy Next Door And A Novelist",
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
+    },
+    {
+      "id": 31520,
+      "title": "The Eyes of Sora",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

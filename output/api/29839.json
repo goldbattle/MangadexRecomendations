@@ -2,49 +2,66 @@
   "id": 29839,
   "title": "Kangtawoo",
   "url": "https://mangadex.org/manga/29839",
-  "last_updated": "January 13, 2021 06:59:30 UTC",
+  "last_updated": "March 18, 2021 10:29:35 UTC",
   "matches": [
     {
-      "id": 47584,
-      "title": "It's Not Easy to Be a Man After Traveling to the Future",
-      "score": 0.65,
-      "r18": false
+      "id": 20986,
+      "title": "Doll Change",
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 28562,
       "title": "EMPYREA",
-      "score": 0.291,
-      "r18": false
-    },
-    {
-      "id": 46649,
-      "title": "The Second Journey to the West",
-      "score": 0.275,
-      "r18": false
+      "score": 0.161,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
       "id": 23532,
       "title": "Providence at Dawn",
-      "score": 0.265,
-      "r18": false
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 57586,
       "title": "Sleep Mode",
-      "score": 0.232,
-      "r18": false
-    },
-    {
-      "id": 20986,
-      "title": "Doll Change",
-      "score": 0.197,
-      "r18": false
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 38641,
       "title": "ALPHA",
-      "score": 0.138,
-      "r18": false
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "fr",
+        "mx",
+        "br"
+      ]
+    },
+    {
+      "id": 47584,
+      "title": "It's Not Easy to Be a Man After Traveling to the Future",
+      "score": 0.114,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

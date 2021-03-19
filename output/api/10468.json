@@ -2,31 +2,45 @@
   "id": 10468,
   "title": "Gentei Kareshi",
   "url": "https://mangadex.org/manga/10468",
-  "last_updated": "March 15, 2021 00:29:01 UTC",
+  "last_updated": "March 18, 2021 07:14:48 UTC",
   "matches": [
     {
       "id": 7191,
       "title": "Udagawachou de Mattete yo",
-      "score": 0.242,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "tr"
+      ]
     },
     {
       "id": 16295,
       "title": "Kare to Kare no Ijiwaru na Kyori",
-      "score": 0.229,
-      "r18": false
+      "score": 0.228,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8243,
       "title": "Syrup! [bitter]",
       "score": 0.206,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 46680,
       "title": "Your Highness, Please Don't Be a Demon",
-      "score": 0.138,
-      "r18": false
+      "score": 0.137,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

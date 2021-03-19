@@ -2,25 +2,37 @@
   "id": 6189,
   "title": "J no Subete",
   "url": "https://mangadex.org/manga/6189",
-  "last_updated": "March 14, 2021 12:47:49 UTC",
+  "last_updated": "March 18, 2021 06:38:25 UTC",
   "matches": [
     {
       "id": 14310,
       "title": "Sugar Dark",
-      "score": 0.313,
-      "r18": false
+      "score": 0.312,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 45267,
       "title": "Mofuku no Hanayome",
-      "score": 0.256,
-      "r18": false
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 18135,
       "title": "Sayonara Koibito, Mata Kite Tomodachi",
       "score": 0.251,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "pl",
+        "it"
+      ]
     }
   ]
 }

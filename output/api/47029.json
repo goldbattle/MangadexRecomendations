@@ -1,14 +1,17 @@
 {
   "id": 47029,
   "title": "Hallow Hallow",
-  "url": "https://api.mangadex.org/v2/manga/47029",
-  "last_updated": "February 12, 2021 01:04:19 UTC",
+  "url": "https://mangadex.org/manga/47029",
+  "last_updated": "March 18, 2021 12:53:03 UTC",
   "matches": [
     {
       "id": 46918,
       "title": "World is Mine",
-      "score": 0.34,
-      "r18": true
+      "score": 0.279,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

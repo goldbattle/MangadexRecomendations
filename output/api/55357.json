@@ -1,38 +1,27 @@
 {
   "id": 55357,
   "title": "Jefe Incomodo",
-  "url": "https://api.mangadex.org/v2/manga/55357",
-  "last_updated": "March 12, 2021 20:36:48 UTC",
+  "url": "https://mangadex.org/manga/55357",
+  "last_updated": "March 18, 2021 14:02:41 UTC",
   "matches": [
     {
       "id": 55347,
       "title": "Ley De Labios Y Lengua",
-      "score": 0.714,
-      "r18": false
-    },
-    {
-      "id": 29660,
-      "title": "Not a Sugar Daddy",
-      "score": 0.373,
-      "r18": false
-    },
-    {
-      "id": 57443,
-      "title": "Through the Rumors",
-      "score": 0.306,
-      "r18": false
-    },
-    {
-      "id": 38754,
-      "title": "City of Blood",
-      "score": 0.234,
-      "r18": false
+      "score": 0.367,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
       "id": 22242,
       "title": "King's Maker",
-      "score": 0.208,
-      "r18": false
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br"
+      ]
     }
   ]
 }

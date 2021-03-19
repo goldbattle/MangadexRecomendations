@@ -2,73 +2,137 @@
   "id": 170,
   "title": "Soil",
   "url": "https://mangadex.org/manga/170",
-  "last_updated": "March 14, 2021 00:50:08 UTC",
+  "last_updated": "March 18, 2021 05:44:00 UTC",
   "matches": [
     {
       "id": 14660,
       "title": "Sasori",
       "score": 0.215,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21524,
       "title": "Guru Guru Circus",
       "score": 0.2,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "pl",
+        "es",
+        "gb"
+      ]
     },
     {
       "id": 19252,
       "title": "Prison Lab",
       "score": 0.198,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 10285,
       "title": "Hyouryuu Net Cafe",
       "score": 0.182,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 518,
       "title": "17-sai.",
       "score": 0.174,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 28110,
       "title": "Ikenie Touhyou",
       "score": 0.168,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 48961,
       "title": "Until the End",
-      "score": 0.157,
-      "r18": false
+      "score": 0.156,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 28694,
       "title": "We Shall Now Begin Ethics",
-      "score": 0.156,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hk",
+        "br",
+        "pl",
+        "mx",
+        "ru",
+        "fr",
+        "tr",
+        "id"
+      ]
     },
     {
       "id": 46391,
       "title": "Adabana",
-      "score": 0.156,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "hk",
+        "br",
+        "mx",
+        "ru",
+        "fr",
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 3021,
       "title": "City of the Dead Sorcerer",
-      "score": 0.152,
-      "r18": false
+      "score": 0.151,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "fr"
+      ]
     },
     {
       "id": 43521,
       "title": "Dog Nigga",
-      "score": 0.074,
-      "r18": false
+      "score": 0.073,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "tr",
+        "id",
+        " ",
+        "it",
+        "in",
+        "sa",
+        "hk",
+        "cn"
+      ]
     }
   ]
 }

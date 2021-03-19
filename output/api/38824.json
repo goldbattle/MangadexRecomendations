@@ -2,25 +2,37 @@
   "id": 38824,
   "title": "Erostica",
   "url": "https://mangadex.org/manga/38824",
-  "last_updated": "March 18, 2021 04:15:16 UTC",
+  "last_updated": "March 18, 2021 11:44:31 UTC",
   "matches": [
     {
       "id": 19561,
       "title": "Fukumaden",
       "score": 0.207,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 14601,
       "title": "Blind Faith Descent",
       "score": 0.194,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "fr",
+        "it"
+      ]
     },
     {
       "id": 29547,
       "title": "Kono Yo o Hana ni Suru Tame ni",
       "score": 0.161,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -1,26 +1,45 @@
 {
   "id": 50201,
   "title": "Shokei Shoujo no Ikirumichi",
-  "url": "https://api.mangadex.org/v2/manga/50201",
-  "last_updated": "February 05, 2021 08:19:51 UTC",
+  "url": "https://mangadex.org/manga/50201",
+  "last_updated": "March 18, 2021 13:19:37 UTC",
   "matches": [
-    {
-      "id": 19376,
-      "title": "Nogi Wakaba wa Yuusha de Aru",
-      "score": 0.706,
-      "r18": false
-    },
     {
       "id": 51857,
       "title": "The Magical Revolution of the Reincarnated Princess and the Genius Young Lady",
-      "score": 0.686,
-      "r18": false
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx"
+      ]
     },
     {
       "id": 15514,
       "title": "Kobayashi-san Chi no Maid Dragon",
-      "score": 0.671,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "pl",
+        "it",
+        "fr"
+      ]
+    },
+    {
+      "id": 19376,
+      "title": "Nogi Wakaba wa Yuusha de Aru",
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "mx",
+        "br"
+      ]
     }
   ]
 }

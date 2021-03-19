@@ -2,25 +2,29 @@
   "id": 49215,
   "title": "The Mission",
   "url": "https://mangadex.org/manga/49215",
-  "last_updated": "January 15, 2021 12:41:16 UTC",
+  "last_updated": "March 18, 2021 13:11:24 UTC",
   "matches": [
-    {
-      "id": 1187,
-      "title": "Kage no Matsuri",
-      "score": 0.276,
-      "r18": false
-    },
     {
       "id": 19000,
       "title": "You no Ou",
-      "score": 0.276,
-      "r18": false
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "ct",
+        "bg"
+      ]
     },
     {
       "id": 8286,
       "title": "The Legend of Genghis",
-      "score": 0.126,
-      "r18": false
+      "score": 0.105,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     }
   ]
 }

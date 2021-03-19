@@ -1,158 +1,310 @@
 {
   "id": 31326,
   "title": "Senmon Gakkou JK",
-  "url": "https://api.mangadex.org/v2/manga/31326",
-  "last_updated": "February 10, 2021 08:18:26 UTC",
+  "url": "https://mangadex.org/manga/31326",
+  "last_updated": "March 18, 2021 10:41:59 UTC",
   "matches": [
-    {
-      "id": 5579,
-      "title": "Hatoful Kareshi",
-      "score": 0.36,
-      "r18": false
-    },
-    {
-      "id": 6702,
-      "title": "Clannad - 4-koma Manga Gekijou",
-      "score": 0.36,
-      "r18": false
-    },
-    {
-      "id": 11874,
-      "title": "Sachiusu",
-      "score": 0.36,
-      "r18": false
-    },
-    {
-      "id": 12455,
-      "title": "Paraiso",
-      "score": 0.36,
-      "r18": false
-    },
-    {
-      "id": 13236,
-      "title": "Yahari 4-koma Demo Ore no Seishun Love Come wa Machigatteiru",
-      "score": 0.36,
-      "r18": false
-    },
-    {
-      "id": 24187,
-      "title": "Card Game Shiyoko",
-      "score": 0.36,
-      "r18": false
-    },
-    {
-      "id": 2161,
-      "title": "Little Busters! EX The 4koma",
-      "score": 0.27,
-      "r18": false
-    },
-    {
-      "id": 3426,
-      "title": "Sadomi",
-      "score": 0.27,
-      "r18": false
-    },
-    {
-      "id": 3427,
-      "title": "Sadomi the Sadist Girl Strikes Back",
-      "score": 0.27,
-      "r18": false
-    },
-    {
-      "id": 3871,
-      "title": "Silva",
-      "score": 0.27,
-      "r18": false
-    },
-    {
-      "id": 6291,
-      "title": "Gekibuno.",
-      "score": 0.27,
-      "r18": false
-    },
-    {
-      "id": 6566,
-      "title": "Date A Origami",
-      "score": 0.27,
-      "r18": false
-    },
-    {
-      "id": 8408,
-      "title": "Flight Highschool",
-      "score": 0.27,
-      "r18": false
-    },
-    {
-      "id": 8428,
-      "title": "Kounago Sensei",
-      "score": 0.27,
-      "r18": false
-    },
-    {
-      "id": 8685,
-      "title": "Angel Beats! the 4-Koma - Bokura no Sensen Koushinkyoku",
-      "score": 0.27,
-      "r18": false
-    },
-    {
-      "id": 9502,
-      "title": "Quick Start!!",
-      "score": 0.27,
-      "r18": false
-    },
     {
       "id": 9820,
       "title": "Wakabayashi Toshiya's 4-koma Collection",
-      "score": 0.27,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "br"
+      ]
     },
     {
-      "id": 9923,
-      "title": "Akuno Himitsu Kessha",
-      "score": 0.27,
-      "r18": false
+      "id": 20120,
+      "title": "Evergreen Stories",
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
-      "id": 11084,
-      "title": "Free!",
-      "score": 0.27,
-      "r18": false
+      "id": 41740,
+      "title": "A Story About Wanting to Commit Suicide, but It's Scary so I Find a Yandere Girl to Kill Me, but It Doesn't Work",
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx",
+        "fr",
+        "vn",
+        "br",
+        "id",
+        "de",
+        "tr"
+      ]
     },
     {
-      "id": 12716,
-      "title": "Osaka Expo (Azumanga Daioh 10th Anniversary Tribute)",
-      "score": 0.27,
-      "r18": false
+      "id": 1732,
+      "title": "Kiniro Mosaic",
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
-      "id": 15690,
-      "title": "Armored Highschool",
-      "score": 0.27,
-      "r18": false
+      "id": 6687,
+      "title": "A-Channel",
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "id"
+      ]
     },
     {
-      "id": 16026,
-      "title": "Koakuma Meringue",
-      "score": 0.27,
-      "r18": false
+      "id": 14508,
+      "title": "Hitoribocchi no \u25cb\u25cb Seikatsu",
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "mx",
+        "br",
+        "fr",
+        "id"
+      ]
     },
     {
-      "id": 16419,
-      "title": "Shojo Kairo",
-      "score": 0.27,
-      "r18": false
+      "id": 15941,
+      "title": "Tsurezure Children",
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "fr",
+        "it",
+        "id",
+        "ro",
+        "in"
+      ]
     },
     {
-      "id": 16861,
-      "title": "Nyoroko's Live Broadcasting!",
-      "score": 0.27,
-      "r18": false
+      "id": 18419,
+      "title": "Danchigai",
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "ru",
+        "id"
+      ]
     },
     {
-      "id": 17273,
-      "title": "Custom Maid!",
-      "score": 0.27,
-      "r18": false
+      "id": 20991,
+      "title": "Kuzu to Megane to Bungaku Shoujo (Nise)",
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "id",
+        "br"
+      ]
+    },
+    {
+      "id": 29338,
+      "title": "We Want to Talk About Kaguya",
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "fr",
+        "it",
+        "id"
+      ]
+    },
+    {
+      "id": 35099,
+      "title": "Koisuru Asteroid",
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "br",
+        "mx"
+      ]
+    },
+    {
+      "id": 41693,
+      "title": "Social Game Girlfriend",
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id"
+      ]
+    },
+    {
+      "id": 43503,
+      "title": "Homura-sensei Is Probably Unpopular",
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id",
+        "ru"
+      ]
+    },
+    {
+      "id": 44134,
+      "title": "-PIQUANT-",
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "mx",
+        "br"
+      ]
+    },
+    {
+      "id": 9842,
+      "title": "Love Lab",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "mx"
+      ]
+    },
+    {
+      "id": 24065,
+      "title": "K-ON! College",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "es",
+        "id"
+      ]
+    },
+    {
+      "id": 1880,
+      "title": "Gekkan Shoujo Nozaki-kun",
+      "score": 0.137,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br",
+        "sa",
+        "id",
+        "ru",
+        "de"
+      ]
+    },
+    {
+      "id": 15722,
+      "title": "Tomo-chan wa Onna no ko!",
+      "score": 0.137,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "tr",
+        "br",
+        "mx",
+        "ua",
+        "ct",
+        "fr",
+        "pl",
+        "de",
+        "id"
+      ]
+    },
+    {
+      "id": 48697,
+      "title": "This Girl Will Express Herself in 100 Days",
+      "score": 0.137,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "fr",
+        "ir",
+        "it",
+        "ru"
+      ]
+    },
+    {
+      "id": 49353,
+      "title": "My Cute Deskmate",
+      "score": 0.137,
+      "r18": false,
+      "languages": [
+        "cn",
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 56888,
+      "title": "Bijutsubu Girl",
+      "score": 0.137,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 29657,
+      "title": "Houfuku Kanojo to Koukatsu Kareshi",
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 49120,
+      "title": "A Story About a Blonde Virgin Girl Who Acquires Sexual Knowledge",
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "vn"
+      ]
+    },
+    {
+      "id": 19915,
+      "title": "Mousou Telepathy",
+      "score": 0.106,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "id",
+        "ru",
+        "sa"
+      ]
     }
   ]
 }

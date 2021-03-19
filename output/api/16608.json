@@ -2,25 +2,35 @@
   "id": 16608,
   "title": "Sakitcho Dakedemo",
   "url": "https://mangadex.org/manga/16608",
-  "last_updated": "March 15, 2021 16:44:15 UTC",
+  "last_updated": "March 18, 2021 08:12:37 UTC",
   "matches": [
     {
       "id": 21724,
       "title": "I Love BL Comics",
       "score": 0.212,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 34732,
       "title": "She Likes Homos, Not Me",
-      "score": 0.133,
-      "r18": false
+      "score": 0.132,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11492,
       "title": "Musume no Iede",
       "score": 0.128,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

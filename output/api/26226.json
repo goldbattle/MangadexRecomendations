@@ -2,157 +2,267 @@
   "id": 26226,
   "title": "Mahou no Yama",
   "url": "https://mangadex.org/manga/26226",
-  "last_updated": "March 16, 2021 16:40:17 UTC",
+  "last_updated": "March 18, 2021 09:59:24 UTC",
   "matches": [
     {
       "id": 21372,
       "title": "Nicola's Leisurely Demon World Travelogue",
       "score": 0.3,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 8481,
       "title": "Wolf's Rain",
-      "score": 0.292,
-      "r18": false
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "fr",
+        "es",
+        "gb"
+      ]
     },
     {
       "id": 23209,
       "title": "Go With the Clouds to the North-Northwest",
       "score": 0.279,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "tr",
+        "ru"
+      ]
     },
     {
       "id": 9140,
       "title": "Gensou Suikoden III - Unmei no Keishousha",
       "score": 0.276,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 17889,
       "title": "Beast of East",
       "score": 0.273,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4135,
       "title": "Mushishi",
-      "score": 0.269,
-      "r18": false
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "ru",
+        "mx",
+        "gb",
+        "ct",
+        "br"
+      ]
     },
     {
       "id": 21975,
       "title": "Mahou Tsukai no Oshigoto",
       "score": 0.268,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 28489,
       "title": "Yotsukoto",
-      "score": 0.263,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx"
+      ]
     },
     {
       "id": 2521,
       "title": "Kaijuu no Kodomo",
-      "score": 0.259,
-      "r18": false
-    },
-    {
-      "id": 17776,
-      "title": "Nein \uff5e9th Story\uff5e",
-      "score": 0.257,
-      "r18": false
-    },
-    {
-      "id": 10705,
-      "title": "Asagiri no Miko",
-      "score": 0.257,
-      "r18": false
-    },
-    {
-      "id": 785,
-      "title": "Waters",
-      "score": 0.257,
-      "r18": false
-    },
-    {
-      "id": 12948,
-      "title": "Gingitsune",
-      "score": 0.257,
-      "r18": false
-    },
-    {
-      "id": 10172,
-      "title": "Kui Ryouko Sakuhin-shuu: Ryuu no Kawaii Nanatsu no Ko",
-      "score": 0.257,
-      "r18": false
-    },
-    {
-      "id": 53778,
-      "title": "A Ruined Princess and Alternate World Hero Make a Great Country!",
-      "score": 0.257,
-      "r18": false
-    },
-    {
-      "id": 30642,
-      "title": "Majo-senpai Nippou",
-      "score": 0.257,
-      "r18": false
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 4051,
       "title": "Haruka na Machi e",
       "score": 0.257,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 17776,
+      "title": "Nein \uff5e9th Story\uff5e",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10705,
+      "title": "Asagiri no Miko",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 785,
+      "title": "Waters",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg",
+        "it",
+        "mx",
+        "vn"
+      ]
+    },
+    {
+      "id": 12948,
+      "title": "Gingitsune",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 10172,
+      "title": "Kui Ryouko Sakuhin-shuu: Ryuu no Kawaii Nanatsu no Ko",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53778,
+      "title": "A Ruined Princess and Alternate World Hero Make a Great Country!",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 30642,
+      "title": "Majo-senpai Nippou",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "it",
+        "ru",
+        "fr",
+        "id"
+      ]
     },
     {
       "id": 20576,
       "title": "RDB",
-      "score": 0.257,
-      "r18": false
+      "score": 0.256,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 207,
       "title": "Kiss Wood",
-      "score": 0.251,
-      "r18": false
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 9441,
       "title": "Yongbyeong Maluhan",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 28193,
       "title": "Houshin Engi Gaiden",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "hk",
+        "vn",
+        "gb"
+      ]
     },
     {
       "id": 39550,
       "title": "A Mild Noble's Vacation Suggestion",
       "score": 0.244,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 12955,
       "title": "Mill",
       "score": 0.244,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5867,
       "title": "Window",
       "score": 0.242,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "it",
+        "fr",
+        "bg"
+      ]
     },
     {
-      "id": 51993,
-      "title": "Jikyuu 300 yen no Shinigami",
-      "score": 0.242,
-      "r18": false
+      "id": 26702,
+      "title": "Nivawa to Saitou",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     }
   ]
 }

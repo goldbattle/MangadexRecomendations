@@ -2,67 +2,99 @@
   "id": 27112,
   "title": "West End",
   "url": "https://mangadex.org/manga/27112",
-  "last_updated": "March 16, 2021 20:28:21 UTC",
+  "last_updated": "March 18, 2021 10:06:49 UTC",
   "matches": [
     {
       "id": 14713,
       "title": "Crimson Spell",
       "score": 0.264,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 27572,
       "title": "Black Sun Doreiou",
       "score": 0.214,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 25773,
       "title": "Maiden Rose",
       "score": 0.214,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "it"
+      ]
     },
     {
       "id": 25003,
       "title": "Tokusen Sukimono BL (Anthology)",
       "score": 0.214,
-      "r18": false
-    },
-    {
-      "id": 52039,
-      "title": "A Matter of Life and Death",
-      "score": 0.214,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5968,
       "title": "Animal X",
-      "score": 0.19,
-      "r18": false
+      "score": 0.189,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29080,
       "title": "Dakishimetakunai",
-      "score": 0.188,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "it",
+        "pl"
+      ]
     },
     {
       "id": 35455,
       "title": "Maiden Rose ~The Rose of a Hundred Days ~",
       "score": 0.171,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 57981,
       "title": "A Broken Heart Flows",
-      "score": 0.15,
-      "r18": false
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 29901,
       "title": "Dear Door",
       "score": 0.136,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "it",
+        "pl",
+        "gb"
+      ]
     }
   ]
 }

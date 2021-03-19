@@ -1,56 +1,86 @@
 {
   "id": 54178,
-  "title": "Wanting to force open",
+  "title": "Wanting to Force Open",
   "url": "https://mangadex.org/manga/54178",
-  "last_updated": "January 16, 2021 06:29:34 UTC",
+  "last_updated": "March 18, 2021 13:52:49 UTC",
   "matches": [
     {
       "id": 51961,
       "title": "A Model Best Friend",
-      "score": 0.871,
-      "r18": false
+      "score": 0.813,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 25363,
       "title": "Baka Demo Kawaii Hito Dakara",
-      "score": 0.293,
-      "r18": false
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 28435,
       "title": "The Four Best People in the World",
-      "score": 0.239,
-      "r18": false
-    },
-    {
-      "id": 50382,
-      "title": "Ocean by the Forest",
-      "score": 0.221,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 45279,
       "title": "There Is No Way a Pretty Virtual Girl Is a Girl!",
       "score": 0.219,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 50382,
+      "title": "Ocean by the Forest",
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 52450,
       "title": "How We Met",
-      "score": 0.166,
-      "r18": false
+      "score": 0.143,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 58286,
       "title": "Perfect Appearance",
-      "score": 0.147,
-      "r18": false
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 55067,
       "title": "Childhood Friend",
-      "score": 0.133,
-      "r18": false
+      "score": 0.115,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn"
+      ]
     }
   ]
 }

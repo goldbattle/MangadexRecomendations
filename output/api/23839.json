@@ -2,25 +2,40 @@
   "id": 23839,
   "title": "Fire Candy",
   "url": "https://mangadex.org/manga/23839",
-  "last_updated": "March 16, 2021 12:33:49 UTC",
+  "last_updated": "March 18, 2021 09:29:14 UTC",
   "matches": [
     {
       "id": 29547,
       "title": "Kono Yo o Hana ni Suru Tame ni",
-      "score": 0.15,
-      "r18": false
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5775,
       "title": "Ai",
-      "score": 0.148,
-      "r18": false
+      "score": 0.147,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22687,
       "title": "GIGANT",
       "score": 0.131,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "it",
+        "mx",
+        "br",
+        "gb",
+        "fr",
+        "ru",
+        "ro"
+      ]
     }
   ]
 }

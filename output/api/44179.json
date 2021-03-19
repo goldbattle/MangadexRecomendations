@@ -1,158 +1,293 @@
 {
   "id": 44179,
   "title": "Kurakari no Kyuuketsuki",
-  "url": "https://api.mangadex.org/v2/manga/44179",
-  "last_updated": "February 11, 2021 16:37:03 UTC",
+  "url": "https://mangadex.org/manga/44179",
+  "last_updated": "March 18, 2021 12:29:13 UTC",
   "matches": [
     {
       "id": 416,
       "title": "Bloody Cross",
-      "score": 0.206,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "ru",
+        "br",
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 7423,
       "title": "Owari no Seraph",
-      "score": 0.206,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "ru",
+        "br",
+        "tr",
+        "it",
+        "hu",
+        "id"
+      ]
+    },
+    {
+      "id": 15016,
+      "title": "Black Clover",
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "br",
+        "hu",
+        "gb",
+        "sa",
+        "mn",
+        "it",
+        "pl",
+        "ru",
+        "mx",
+        "es",
+        "de",
+        "fr",
+        "id",
+        "my"
+      ]
     },
     {
       "id": 22916,
       "title": "Marry Grave",
-      "score": 0.204,
-      "r18": false
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "es",
+        "fr",
+        "it"
+      ]
     },
     {
       "id": 40714,
       "title": "Taiworld",
-      "score": 0.204,
-      "r18": false
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 43541,
       "title": "The Overlord's Wish",
-      "score": 0.204,
-      "r18": false
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 44333,
       "title": "Anemone",
-      "score": 0.204,
-      "r18": false
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 55656,
       "title": "Red Hood",
-      "score": 0.204,
-      "r18": false
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr"
+      ]
     },
     {
       "id": 303,
       "title": "Claymore",
-      "score": 0.198,
-      "r18": false
+      "score": 0.163,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "pl",
+        "es",
+        "hk"
+      ]
     },
     {
       "id": 40513,
       "title": "Soul Render",
-      "score": 0.185,
-      "r18": false
+      "score": 0.152,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 45901,
-      "title": "Ascension to Godhood by Slaying Demons",
-      "score": 0.185,
-      "r18": false
+      "title": "Ascension by Slaying Demons",
+      "score": 0.152,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "br",
+        "fr"
+      ]
     },
     {
       "id": 1734,
       "title": "BLOOD-C",
-      "score": 0.172,
-      "r18": false
+      "score": 0.144,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5840,
       "title": "BLOOD+",
-      "score": 0.172,
-      "r18": false
+      "score": 0.144,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 11709,
+      "title": "Rain Gaiden - Vampire Master",
+      "score": 0.144,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr"
+      ]
     },
     {
       "id": 16821,
       "title": "Vanitas no Carte",
-      "score": 0.172,
-      "r18": false
+      "score": 0.144,
+      "r18": false,
+      "languages": [
+        "it",
+        "br",
+        "ru",
+        "mx",
+        "es",
+        "hu"
+      ]
     },
     {
       "id": 28346,
       "title": "Melty Blood - Back Alley Alliance Nightmare",
-      "score": 0.172,
-      "r18": false
+      "score": 0.144,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 41894,
       "title": "Gotouge Koyoharu Tanpenshuu",
-      "score": 0.172,
-      "r18": false
+      "score": 0.144,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "ru",
+        "ua"
+      ]
     },
     {
       "id": 57431,
       "title": "Hikikomari Kyuuketsuki no Monmon",
-      "score": 0.172,
-      "r18": false
+      "score": 0.144,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 19089,
+      "title": "100-man no Inochi no Ue ni Ore wa Tatteiru",
+      "score": 0.14,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "mx",
+        "id"
+      ]
     },
     {
       "id": 5272,
       "title": "Majutsushi Orphen Hagure Tabi",
-      "score": 0.17,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11923,
       "title": "Monster X Monster",
-      "score": 0.17,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ro"
+      ]
     },
     {
       "id": 14783,
       "title": "Satsui no Senki",
-      "score": 0.17,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 14899,
       "title": "Nemuri no Fuchi",
-      "score": 0.17,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 15150,
       "title": "Jitsuryokuha Elite Jin",
-      "score": 0.17,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 16444,
       "title": "Radiant",
-      "score": 0.17,
-      "r18": false
-    },
-    {
-      "id": 20274,
-      "title": "Jinrou e no Tensei, Maou no Fukukan",
-      "score": 0.17,
-      "r18": false
-    },
-    {
-      "id": 21071,
-      "title": "Journey To The West",
-      "score": 0.17,
-      "r18": false
-    },
-    {
-      "id": 21124,
-      "title": "Oretachi no Party wa Machigatteiru",
-      "score": 0.17,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx"
+      ]
     }
   ]
 }

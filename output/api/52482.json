@@ -1,32 +1,55 @@
 {
   "id": 52482,
   "title": "A Warm Sister and a Tsundere Brother",
-  "url": "https://api.mangadex.org/v2/manga/52482",
-  "last_updated": "February 05, 2021 12:25:14 UTC",
+  "url": "https://mangadex.org/manga/52482",
+  "last_updated": "March 18, 2021 13:38:40 UTC",
   "matches": [
     {
       "id": 57458,
       "title": "Shota Oni",
-      "score": 0.26,
-      "r18": false
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "tr",
+        "fr",
+        "id"
+      ]
     },
     {
       "id": 42620,
       "title": "My Recently Hired Maid Is Suspicious (Webcomic)",
-      "score": 0.208,
-      "r18": false
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "il",
+        "pl",
+        "id",
+        "ru"
+      ]
     },
     {
       "id": 42462,
       "title": "Devil and Song",
-      "score": 0.069,
-      "r18": false
+      "score": 0.058,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 50434,
       "title": "Monster Bar",
-      "score": 0.065,
-      "r18": false
+      "score": 0.055,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     }
   ]
 }

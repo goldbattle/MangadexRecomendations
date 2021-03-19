@@ -1,158 +1,249 @@
 {
   "id": 41554,
   "title": "Furukoto Fuhito",
-  "url": "https://api.mangadex.org/v2/manga/41554",
-  "last_updated": "February 11, 2021 08:40:43 UTC",
+  "url": "https://mangadex.org/manga/41554",
+  "last_updated": "March 18, 2021 12:07:17 UTC",
   "matches": [
     {
       "id": 10639,
       "title": "Hansu no Kikan",
-      "score": 0.347,
-      "r18": false
+      "score": 0.293,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 2437,
+      "title": "Ore to Akuma no Blues",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 7853,
       "title": "Pharaoh no Haka",
-      "score": 0.26,
-      "r18": false
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 9407,
       "title": "Alexandros - Dream for World Conquest",
-      "score": 0.26,
-      "r18": false
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21775,
       "title": "Royal Dragon",
-      "score": 0.26,
-      "r18": false
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 24042,
       "title": "Ruten no Teruma",
-      "score": 0.26,
-      "r18": false
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 26248,
       "title": "D'arc: The Legend of Jeanne D'arc",
-      "score": 0.26,
-      "r18": false
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 34531,
       "title": "Flowers Crossing the Aegean Sea",
-      "score": 0.26,
-      "r18": false
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 45636,
       "title": "Kublai - Completion of World Conquest",
-      "score": 0.26,
-      "r18": false
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 254,
       "title": "Agrippa",
-      "score": 0.208,
-      "r18": false
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1495,
+      "title": "Ichi",
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 2271,
       "title": "Home",
-      "score": 0.208,
-      "r18": false
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 2932,
       "title": "Sister Generator",
-      "score": 0.208,
-      "r18": false
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 2976,
       "title": "Pineapple Army",
-      "score": 0.208,
-      "r18": false
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 4525,
       "title": "Color of Rage",
-      "score": 0.208,
-      "r18": false
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "br"
+      ]
     },
     {
       "id": 7235,
       "title": "Ashita no Nadja",
-      "score": 0.208,
-      "r18": false
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 9004,
       "title": "Era of Death",
-      "score": 0.208,
-      "r18": false
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 9050,
       "title": "Brave 10 S",
-      "score": 0.208,
-      "r18": false
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 9765,
       "title": "Chang Ge Xing",
-      "score": 0.208,
-      "r18": false
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "br",
+        "id"
+      ]
     },
     {
       "id": 10572,
       "title": "Futagashira",
-      "score": 0.208,
-      "r18": false
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 16346,
       "title": "Umi no Cradle",
-      "score": 0.208,
-      "r18": false
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 17588,
       "title": "Seiten ni Tsurugi wo Kazase",
-      "score": 0.208,
-      "r18": false
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 21127,
       "title": "Sultan Boueitai",
-      "score": 0.208,
-      "r18": false
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22950,
       "title": "Black Tiger",
-      "score": 0.208,
-      "r18": false
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "ru",
+        "es",
+        "gb"
+      ]
     },
     {
       "id": 26211,
       "title": "Samurai Legend",
-      "score": 0.208,
-      "r18": false
-    },
-    {
-      "id": 26302,
-      "title": "Karasu",
-      "score": 0.208,
-      "r18": false
-    },
-    {
-      "id": 26739,
-      "title": "Lord",
-      "score": 0.208,
-      "r18": false
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg"
+      ]
     }
   ]
 }

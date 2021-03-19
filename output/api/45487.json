@@ -1,62 +1,103 @@
 {
   "id": 45487,
   "title": "The Three-Body Problem",
-  "url": "https://api.mangadex.org/v2/manga/45487",
-  "last_updated": "February 11, 2021 20:26:35 UTC",
+  "url": "https://mangadex.org/manga/45487",
+  "last_updated": "March 18, 2021 12:40:09 UTC",
   "matches": [
     {
-      "id": 51520,
-      "title": "Dark Blood Age",
-      "score": 0.707,
-      "r18": false
-    },
-    {
-      "id": 23532,
-      "title": "Providence at Dawn",
-      "score": 0.703,
-      "r18": false
-    },
-    {
-      "id": 8789,
-      "title": "Afterschool War Activities",
-      "score": 0.681,
-      "r18": false
+      "id": 30776,
+      "title": "Greetings! Earthling!",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 38601,
       "title": "BITMAX",
-      "score": 0.678,
-      "r18": false
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 44584,
-      "title": "My Universe",
-      "score": 0.66,
-      "r18": false
+      "id": 23532,
+      "title": "Providence at Dawn",
+      "score": 0.143,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 32404,
       "title": "Linked Soul",
-      "score": 0.265,
-      "r18": false
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "tr",
+        "ru",
+        "gb"
+      ]
     },
     {
-      "id": 30776,
-      "title": "Greetings! Earthling!",
-      "score": 0.228,
-      "r18": false
+      "id": 8789,
+      "title": "Afterschool War Activities",
+      "score": 0.124,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "tr"
+      ]
     },
     {
-      "id": 34063,
-      "title": "Uglyhood",
-      "score": 0.227,
-      "r18": false
+      "id": 44584,
+      "title": "My Universe",
+      "score": 0.108,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 51520,
+      "title": "Dark Blood Age",
+      "score": 0.095,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 49557,
       "title": "Rendezvous",
-      "score": 0.185,
-      "r18": false
+      "score": 0.095,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "ru",
+        "tr",
+        "id"
+      ]
+    },
+    {
+      "id": 34063,
+      "title": "Uglyhood",
+      "score": 0.087,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "es"
+      ]
     }
   ]
 }

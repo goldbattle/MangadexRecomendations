@@ -2,157 +2,341 @@
   "id": 2363,
   "title": "InuYasha",
   "url": "https://mangadex.org/manga/2363",
-  "last_updated": "March 14, 2021 04:27:20 UTC",
+  "last_updated": "March 18, 2021 06:02:52 UTC",
   "matches": [
-    {
-      "id": 292,
-      "title": "Ryuurouden",
-      "score": 0.262,
-      "r18": false
-    },
     {
       "id": 283,
       "title": "Ao no Exorcist",
-      "score": 0.249,
-      "r18": false
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "mx",
+        "it",
+        "br",
+        "es",
+        "il",
+        "fr"
+      ]
+    },
+    {
+      "id": 292,
+      "title": "Ryuurouden",
+      "score": 0.261,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19589,
       "title": "Hiraheishi wa Kako wo Yumemiru",
       "score": 0.243,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "br",
+        "tr",
+        "fr"
+      ]
     },
     {
       "id": 15176,
       "title": "Pochi Kuro",
-      "score": 0.243,
-      "r18": false
-    },
-    {
-      "id": 47371,
-      "title": "A Breakthrough Brought by Forbidden Master and Disciple",
       "score": 0.242,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "hu"
+      ]
     },
     {
       "id": 848,
       "title": "Konjiki no Gash!!",
-      "score": 0.242,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 1434,
       "title": "Sengoku Youko",
-      "score": 0.241,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "es",
+        "fr",
+        "id"
+      ]
     },
     {
       "id": 5657,
       "title": "Watashi wa Kagome",
       "score": 0.239,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1751,
       "title": "D.Gray-man",
-      "score": 0.239,
-      "r18": false
+      "score": 0.238,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "tr",
+        "sa",
+        "mx",
+        "pl",
+        "ru",
+        "es",
+        "bg"
+      ]
     },
     {
       "id": 5573,
       "title": "Saiyuki",
       "score": 0.238,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 42296,
       "title": "Piratebent",
       "score": 0.237,
-      "r18": false
-    },
-    {
-      "id": 10004,
-      "title": "One Piece - Digital Colored Comics",
-      "score": 0.237,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20231,
       "title": "Majo no Geboku to Maou no Tsuno",
       "score": 0.235,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "es"
+      ]
+    },
+    {
+      "id": 10004,
+      "title": "One Piece - Digital Colored Comics",
+      "score": 0.234,
+      "r18": false,
+      "languages": [
+        "sa",
+        "tr",
+        "it",
+        "gb",
+        "br",
+        "id",
+        "fr"
+      ]
     },
     {
       "id": 18198,
       "title": "Kimetsu no Yaiba",
-      "score": 0.235,
-      "r18": false
+      "score": 0.234,
+      "r18": false,
+      "languages": [
+        "il",
+        "gb",
+        "br",
+        "ru",
+        "mx",
+        "hk",
+        "es",
+        "sa",
+        "ua",
+        "id",
+        "it",
+        "de",
+        "tr"
+      ]
     },
     {
       "id": 5274,
       "title": "Nijiiro Togarashi",
-      "score": 0.234,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa"
+      ]
     },
     {
-      "id": 28486,
-      "title": "Avatar: The Last Airbender - The Lost Adventures",
+      "id": 15016,
+      "title": "Black Clover",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "hu",
+        "gb",
+        "sa",
+        "mn",
+        "it",
+        "pl",
+        "ru",
+        "mx",
+        "es",
+        "de",
+        "fr",
+        "id",
+        "my"
+      ]
     },
     {
       "id": 286,
       "title": "Fullmetal Alchemist",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg",
+        "ru",
+        "br",
+        "tr",
+        "it",
+        "hu",
+        "id",
+        " "
+      ]
     },
     {
       "id": 12548,
       "title": "Mad God",
-      "score": 0.233,
-      "r18": false
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "fr",
+        "br"
+      ]
+    },
+    {
+      "id": 47371,
+      "title": "A Breakthrough Brought by Forbidden Master and Disciple",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "ru"
+      ]
     },
     {
       "id": 12329,
       "title": "Tsuyokute New Saga",
-      "score": 0.229,
-      "r18": false
+      "score": 0.228,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id",
+        "it",
+        "ru",
+        "br",
+        "de"
+      ]
     },
     {
       "id": 23195,
       "title": "The Great Ruler",
       "score": 0.228,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "br",
+        "pl",
+        "mx"
+      ]
     },
     {
       "id": 2474,
       "title": "Sengoku Strays",
-      "score": 0.228,
-      "r18": false
+      "score": 0.227,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 15316,
       "title": "Bleach - Digital Colored Comics",
       "score": 0.227,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "id",
+        "mx"
+      ]
     },
     {
       "id": 1790,
       "title": "Arata Kangatari",
       "score": 0.227,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 39,
       "title": "One Piece",
-      "score": 0.227,
-      "r18": false
+      "score": 0.226,
+      "r18": false,
+      "languages": [
+        "br",
+        "sa",
+        "it",
+        "fr",
+        "mn",
+        "gb",
+        "ct",
+        "il",
+        "pl",
+        "tr",
+        "id",
+        "mx",
+        "ru",
+        "de",
+        "es",
+        "bg",
+        "vn",
+        "in"
+      ]
     },
     {
       "id": 8,
       "title": "Psyren",
-      "score": 0.227,
-      "r18": false
+      "score": 0.226,
+      "r18": false,
+      "languages": [
+        "il",
+        "gb",
+        "ru",
+        "pl"
+      ]
     }
   ]
 }

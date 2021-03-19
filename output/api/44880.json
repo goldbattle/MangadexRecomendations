@@ -1,158 +1,265 @@
 {
   "id": 44880,
   "title": "Shachiku Kishi ga S Rank Boukensha ni Hirowarete Himo ni Naru Hanashi",
-  "url": "https://api.mangadex.org/v2/manga/44880",
-  "last_updated": "February 11, 2021 16:48:18 UTC",
+  "url": "https://mangadex.org/manga/44880",
+  "last_updated": "March 18, 2021 12:35:04 UTC",
   "matches": [
     {
-      "id": 44107,
-      "title": "The Great Prophet Is Running From Her Previous Life",
-      "score": 0.707,
-      "r18": false
+      "id": 54085,
+      "title": "&ldquo;Ou no Saien&rdquo; no Kishi to, &ldquo;Yasai&rdquo; no Ojou-sama",
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 41744,
-      "title": "Shi ni Modori, Subete wo Sukuu Tame ni Saikyou he to Itaru",
-      "score": 0.707,
-      "r18": false
+      "id": 42207,
+      "title": "Souda, Baikoku Shiyou: Tensai Ouji no Akaji Kokka Saisei Jutsu",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb",
+        "th",
+        "mx"
+      ]
     },
     {
-      "id": 34196,
-      "title": "Moto Sekai Ichi'i Subchara Ikusei Nikki: Hai Player, Isekai wo Kouryakuchuu!",
-      "score": 0.707,
-      "r18": false
+      "id": 11359,
+      "title": "Escha &amp; Logy no Atelier - Tasogare no Sora no Renkinjutsushi",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "fr"
+      ]
     },
     {
-      "id": 34387,
-      "title": "Lonely Attack on the Different World",
-      "score": 0.702,
-      "r18": false
+      "id": 58612,
+      "title": "The Dark Dragon King, Will Live a Slow Life",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "th",
+        "gb"
+      ]
     },
     {
-      "id": 42236,
-      "title": "Heaven Official's Blessing (old version)",
-      "score": 0.701,
-      "r18": false
+      "id": 24366,
+      "title": "Marie to Elie no Atelier - Zarlburge no Renkinjutsushi",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 46793,
-      "title": "Nidoto Ie ni wa Kaerimasen!",
-      "score": 0.701,
-      "r18": false
+      "id": 4721,
+      "title": "7th Dragon",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 38749,
-      "title": "Yakudatazu Skill ni Jinsei o Sosogikomi 25-nen, Imasara Saikyou no Boukentan Midori Kashi no Akira",
-      "score": 0.701,
-      "r18": false
+      "id": 31470,
+      "title": "Yami no Moribito",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg",
+        "ru"
+      ]
     },
     {
-      "id": 29296,
-      "title": "Mahou? Sonna Koto Yori Kinniku da!",
-      "score": 0.7,
-      "r18": false
+      "id": 38562,
+      "title": "Sobiwaku Zero no Saikyou Kenshi Demo, Noroi no Soubi (kawaii) Nara 9999-ko Tsuke-hodai",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "br",
+        "es",
+        "th"
+      ]
     },
     {
-      "id": 54218,
-      "title": "The Lady and the Beast",
-      "score": 0.699,
-      "r18": false
+      "id": 55510,
+      "title": "Atelier Ryza - Ever Darkness &amp; the Secret Hideout",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 48680,
+      "title": "Senbonzakura",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 23273,
+      "title": "Soul Land - Legend of The Gods' Realm",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 24248,
+      "title": "Grandia II",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 52268,
+      "title": "Bungo to Alchemist: Shinpan no Haguruma Spinoff",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 46504,
+      "title": "Will sama wa kyou mo mahou de asondeimasu .",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 59063,
+      "title": "Tenisaki wa Kusushi ga Sukunai Sekaideshita",
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "th",
+        "gb"
+      ]
+    },
+    {
+      "id": 44836,
+      "title": "Kanchigai no Atelier Meister",
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 40578,
       "title": "Sairin Yuusha no Fukushuu Hanashi",
-      "score": 0.699,
-      "r18": false
+      "score": 0.151,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 31002,
-      "title": "Jimi na Kensei wa Sore Demo Saikyou Desu",
-      "score": 0.696,
-      "r18": false
+      "id": 7860,
+      "title": "Obito no Hime to Kubinashi Kishi",
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "hu",
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 38777,
-      "title": "Sono Ossan, Isekai de Nishuume Play wo Mankitsuchuu",
-      "score": 0.695,
-      "r18": false
+      "id": 43738,
+      "title": "Kurogane no Mahoutsukai",
+      "score": 0.143,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
-      "id": 11945,
-      "title": "Okobore Hime to Entaku no Kishi",
-      "score": 0.693,
-      "r18": false
+      "id": 46079,
+      "title": "Gedou Majutsushi no Hyouitan ~Saikyou Kenshi wo Nottottara, Jibun no Shintai wo Sagasu koto ni Natta~",
+      "score": 0.142,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 44910,
-      "title": "Starvation and Reincarnation",
-      "score": 0.693,
-      "r18": false
+      "id": 46793,
+      "title": "Nidoto Ie ni wa Kaerimasen!",
+      "score": 0.141,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 50766,
-      "title": "Cheat Skill &quot;Shisha Sosei&quot; ga Kakusei Shite, Inishie no Maougun wo Fukkatsu Sasete Shimaimashita",
-      "score": 0.692,
-      "r18": false
+      "id": 39414,
+      "title": "100-nin no Eiyuu o Sodateta Saikyou Yogensha wa, Boukensha ni Natte mo Sekaijuu no Deshi kara Shitawarete Masu",
+      "score": 0.14,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "mx",
+        "br",
+        "ru",
+        "es",
+        "fr"
+      ]
     },
     {
-      "id": 38892,
-      "title": "The Tyrant's Whereabouts",
-      "score": 0.692,
-      "r18": false
+      "id": 41104,
+      "title": "The Dragon Knight's Favorite",
+      "score": 0.14,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr"
+      ]
     },
     {
-      "id": 33099,
-      "title": "This Girl Is a Little Wild",
-      "score": 0.692,
-      "r18": false
+      "id": 44089,
+      "title": "Isekai Teni, Jirai Tsuki.",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 23709,
-      "title": "Moto Saikyou no Kenshi wa, Isekai Mahou ni Akogareru",
-      "score": 0.692,
-      "r18": false
-    },
-    {
-      "id": 26504,
-      "title": "Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta",
-      "score": 0.691,
-      "r18": false
-    },
-    {
-      "id": 51186,
-      "title": "I Just Want to Disappear",
-      "score": 0.691,
-      "r18": false
-    },
-    {
-      "id": 41771,
-      "title": "Shijou Saikyou Orc-san no Tanoshii Tanetsuke Harem Zukuri",
-      "score": 0.688,
-      "r18": false
-    },
-    {
-      "id": 42278,
-      "title": "Emperor and the Female Knight",
-      "score": 0.688,
-      "r18": false
-    },
-    {
-      "id": 29130,
-      "title": "Peerless Dad",
-      "score": 0.686,
-      "r18": false
-    },
-    {
-      "id": 18642,
-      "title": "Tensei Shichattayo (Iya, Gomen)",
-      "score": 0.686,
-      "r18": false
-    },
-    {
-      "id": 23231,
-      "title": "Wu Dong Qian Kun",
-      "score": 0.686,
-      "r18": false
+      "id": 39561,
+      "title": "The Villainess' Slow Prison Life Began with Her Broken Engagement",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id"
+      ]
     }
   ]
 }

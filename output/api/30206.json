@@ -2,73 +2,138 @@
   "id": 30206,
   "title": "Road to the End of the World",
   "url": "https://mangadex.org/manga/30206",
-  "last_updated": "January 13, 2021 12:47:19 UTC",
+  "last_updated": "March 18, 2021 10:32:38 UTC",
   "matches": [
-    {
-      "id": 32117,
-      "title": "Dead Life",
-      "score": 0.682,
-      "r18": false
-    },
-    {
-      "id": 35246,
-      "title": "The Last Dynasty",
-      "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 46789,
-      "title": "Apocalyptic Super System",
-      "score": 0.657,
-      "r18": false
-    },
     {
       "id": 29656,
       "title": "Undead",
-      "score": 0.345,
-      "r18": false
-    },
-    {
-      "id": 474,
-      "title": "S.I.D. - Supernatural Investigation Department",
-      "score": 0.285,
-      "r18": false
-    },
-    {
-      "id": 51987,
-      "title": "Lost in the Wrong World",
-      "score": 0.276,
-      "r18": false
-    },
-    {
-      "id": 52805,
-      "title": "Dead Bug Parasitism",
-      "score": 0.268,
-      "r18": false
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 39190,
       "title": "Promised Orchid",
-      "score": 0.261,
-      "r18": false
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "pl",
+        "ir",
+        "de"
+      ]
+    },
+    {
+      "id": 35246,
+      "title": "The Last Dynasty",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 51987,
+      "title": "Lost in the Wrong World",
+      "score": 0.164,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14800,
+      "title": "Reveries of the Moonlight",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "tr",
+        "br",
+        "gb",
+        "sa"
+      ]
+    },
+    {
+      "id": 52805,
+      "title": "Dead Bug Parasitism",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 32117,
+      "title": "Dead Life",
+      "score": 0.144,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 54498,
       "title": "Fullmetal Alchemist",
-      "score": 0.242,
-      "r18": false
+      "score": 0.132,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
+    },
+    {
+      "id": 474,
+      "title": "S.I.D. - Supernatural Investigation Department",
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 46789,
+      "title": "Apocalyptic Super System",
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "tr",
+        "pl"
+      ]
     },
     {
       "id": 50526,
       "title": "Division 8's Record of Secrets",
-      "score": 0.215,
-      "r18": false
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 16499,
       "title": "MIA: Lost in Operation",
-      "score": 0.199,
-      "r18": false
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa"
+      ]
+    },
+    {
+      "id": 57003,
+      "title": "Mosquito War",
+      "score": 0.096,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

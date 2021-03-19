@@ -1,20 +1,27 @@
 {
   "id": 40458,
   "title": "Lovely Heroine TS Kikiippatsu!!",
-  "url": "https://api.mangadex.org/v2/manga/40458",
-  "last_updated": "February 11, 2021 08:23:53 UTC",
+  "url": "https://mangadex.org/manga/40458",
+  "last_updated": "March 18, 2021 11:58:09 UTC",
   "matches": [
     {
       "id": 35698,
       "title": "There's Absolutely No Way I'll Become My Childhood Friend's \u2640 Lover",
-      "score": 0.117,
-      "r18": true
+      "score": 0.1,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 48549,
       "title": "Sakyubasu \u2640 ni Kyousei Tenshoku Saserareta Ore \u2642",
-      "score": 0.117,
-      "r18": true
+      "score": 0.1,
+      "r18": true,
+      "languages": [
+        "gb",
+        "br"
+      ]
     }
   ]
 }

@@ -1,158 +1,248 @@
 {
   "id": 32068,
   "title": "The King of Fighters R2",
-  "url": "https://api.mangadex.org/v2/manga/32068",
-  "last_updated": "February 10, 2021 08:29:54 UTC",
+  "url": "https://mangadex.org/manga/32068",
+  "last_updated": "March 18, 2021 10:48:10 UTC",
   "matches": [
-    {
-      "id": 25194,
-      "title": "The King of Fighters: A New Beginning",
-      "score": 0.701,
-      "r18": false
-    },
     {
       "id": 12691,
       "title": "The King of Fighters Zillion",
-      "score": 0.672,
-      "r18": false
-    },
-    {
-      "id": 13276,
-      "title": "Garouden Boy",
-      "score": 0.659,
-      "r18": false
+      "score": 0.424,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 24340,
       "title": "The King of Fighters RX",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 4994,
-      "title": "Saint Seiya",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 6572,
-      "title": "Kaiouki",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 9637,
-      "title": "Saint Seiya - Saintia Shou",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 38543,
-      "title": "Fights Break Sphere &ndash; Return of the Beasts",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 1377,
-      "title": "Ssen Nom",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 22053,
-      "title": "Dragon Ball Z TV Special Jump Anime Comics",
-      "score": 0.458,
-      "r18": false
-    },
-    {
-      "id": 12452,
-      "title": "Fuuma no Kojiro",
-      "score": 0.446,
-      "r18": false
-    },
-    {
-      "id": 21350,
-      "title": "Super Street Fighter II Cammy Gaiden",
-      "score": 0.435,
-      "r18": false
-    },
-    {
-      "id": 19588,
-      "title": "King of the Ants",
-      "score": 0.421,
-      "r18": false
-    },
-    {
-      "id": 39193,
-      "title": "Grappler Baki Remake",
-      "score": 0.416,
-      "r18": false
-    },
-    {
-      "id": 30146,
-      "title": "Wu Ling Hou",
-      "score": 0.411,
-      "r18": false
+      "score": 0.409,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4177,
       "title": "Family of Brahman",
-      "score": 0.409,
-      "r18": false
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19588,
+      "title": "King of the Ants",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 12452,
+      "title": "Fuuma no Kojiro",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 30146,
+      "title": "Wu Ling Hou",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 186,
       "title": "Sakigake!! Otokojuku",
-      "score": 0.408,
-      "r18": false
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 24493,
-      "title": "Street Fighter II",
-      "score": 0.404,
-      "r18": false
+      "id": 39193,
+      "title": "Grappler Baki Remake",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "sa"
+      ]
     },
     {
-      "id": 10464,
-      "title": "Saint Seiya - Next Dimension",
-      "score": 0.394,
-      "r18": false
+      "id": 21350,
+      "title": "Super Street Fighter II Cammy Gaiden",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
     },
     {
-      "id": 21247,
-      "title": "Street Fighter ZERO",
-      "score": 0.393,
-      "r18": false
+      "id": 22053,
+      "title": "Dragon Ball Z TV Special Jump Anime Comics",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
+    },
+    {
+      "id": 19065,
+      "title": "Super Ninja Dan",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20112,
+      "title": "Hokuto No Ken Origins",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21624,
       "title": "777",
-      "score": 0.39,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 16355,
       "title": "Fuuma no Kojiro - Yagyu Ansatsu Cho",
-      "score": 0.375,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "br",
+        "it"
+      ]
+    },
+    {
+      "id": 18206,
+      "title": "Dragon Ball Z: The History of Trunks Anime Comic",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
+    },
+    {
+      "id": 9020,
+      "title": "Mutou Black",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 30470,
       "title": "Kung Fu Tao",
-      "score": 0.375,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5473,
       "title": "Ultra Red",
-      "score": 0.371,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 19622,
-      "title": "Baki Gaiden - Kenjin",
-      "score": 0.37,
-      "r18": false
+      "id": 15652,
+      "title": "Mutsu Enmei Ryuu Gaiden - Shura no Toki",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 32454,
+      "title": "Soul Land IV - The Ultimate Combat",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "th",
+        "id",
+        "vn"
+      ]
+    },
+    {
+      "id": 3751,
+      "title": "Aterui II",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2826,
+      "title": "Kowashiya Gamon",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10984,
+      "title": "Black Dog",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 34853,
+      "title": "Abyss Rage",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br"
+      ]
+    },
+    {
+      "id": 52143,
+      "title": "Dream DB",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

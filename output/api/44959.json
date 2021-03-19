@@ -1,158 +1,282 @@
 {
   "id": 44959,
   "title": "Ashita Tenpei",
-  "url": "https://api.mangadex.org/v2/manga/44959",
-  "last_updated": "February 11, 2021 20:18:01 UTC",
+  "url": "https://mangadex.org/manga/44959",
+  "last_updated": "March 18, 2021 12:35:44 UTC",
   "matches": [
     {
       "id": 1283,
       "title": "Rough",
-      "score": 0.3,
-      "r18": false
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 1284,
       "title": "Nine",
-      "score": 0.3,
-      "r18": false
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 1367,
       "title": "Q and A",
-      "score": 0.3,
-      "r18": false
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 3910,
       "title": "Katsu!",
-      "score": 0.3,
-      "r18": false
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 6860,
       "title": "Adachi Mitsuru Shoki Kessakushuu",
-      "score": 0.3,
-      "r18": false
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 9597,
       "title": "Natsuzora and Run",
-      "score": 0.3,
-      "r18": false
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 14876,
       "title": "Kuroko no Basket - Replace Plus",
-      "score": 0.3,
-      "r18": false
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 25960,
       "title": "Shogi Senpai",
-      "score": 0.294,
-      "r18": false
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id",
+        "br"
+      ]
     },
     {
       "id": 34944,
       "title": "Soredemo Ayumu wa Yosetekuru",
-      "score": 0.294,
-      "r18": false
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "ru",
+        "tr",
+        "sa",
+        "fr",
+        "it",
+        "cz"
+      ]
     },
     {
       "id": 37632,
       "title": "Soredemo Ayumu wa Yosetekuru (Fan Colored)",
-      "score": 0.294,
-      "r18": false
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 42,
       "title": "Baby Steps",
-      "score": 0.263,
-      "r18": false
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "pl",
+        "fr",
+        "it"
+      ]
     },
     {
       "id": 1385,
       "title": "H2",
-      "score": 0.263,
-      "r18": false
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 22120,
       "title": "Natsu no Rakugaki",
-      "score": 0.263,
-      "r18": false
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "it"
+      ]
     },
     {
       "id": 145,
       "title": "Smash!",
-      "score": 0.251,
-      "r18": false
+      "score": 0.217,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 838,
       "title": "Donten Prism Solar Car",
-      "score": 0.251,
-      "r18": false
+      "score": 0.217,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "br",
+        "it"
+      ]
     },
     {
       "id": 856,
       "title": "Amanchu!",
-      "score": 0.251,
-      "r18": false
+      "score": 0.217,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1291,
       "title": "Itsumo Misora",
-      "score": 0.251,
-      "r18": false
+      "score": 0.217,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "fr",
+        "ru"
+      ]
     },
     {
       "id": 4640,
       "title": "Mix",
-      "score": 0.251,
-      "r18": false
+      "score": 0.217,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru"
+      ]
     },
     {
       "id": 10271,
       "title": "Ballroom e Youkoso",
-      "score": 0.251,
-      "r18": false
+      "score": 0.217,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "es",
+        "fr"
+      ]
     },
     {
       "id": 11710,
       "title": "Days",
-      "score": 0.251,
-      "r18": false
+      "score": 0.217,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru"
+      ]
     },
     {
       "id": 12088,
       "title": "Yugami-kun ni wa Tomodachi ga Inai",
-      "score": 0.251,
-      "r18": false
+      "score": 0.217,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "id"
+      ]
     },
     {
       "id": 16468,
       "title": "Mononofu",
-      "score": 0.251,
-      "r18": false
+      "score": 0.217,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
     },
     {
       "id": 17688,
       "title": "Bucchigiri",
-      "score": 0.251,
-      "r18": false
+      "score": 0.217,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "es"
+      ]
     },
     {
       "id": 21117,
       "title": "Robot &times; Laserbeam",
-      "score": 0.251,
-      "r18": false
+      "score": 0.217,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "ru"
+      ]
     },
     {
       "id": 37155,
       "title": "Haikyuu-bu!!",
-      "score": 0.251,
-      "r18": false
+      "score": 0.217,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
     }
   ]
 }

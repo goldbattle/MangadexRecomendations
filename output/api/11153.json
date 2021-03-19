@@ -2,31 +2,47 @@
   "id": 11153,
   "title": "Imouto ga Dekimashita.",
   "url": "https://mangadex.org/manga/11153",
-  "last_updated": "March 15, 2021 04:33:46 UTC",
+  "last_updated": "March 18, 2021 07:20:48 UTC",
   "matches": [
     {
       "id": 7559,
       "title": "Otome Cake",
-      "score": 0.279,
-      "r18": false
+      "score": 0.278,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de",
+        "tr",
+        "it"
+      ]
     },
     {
       "id": 32845,
       "title": "Love Live! Comic Anthology &micro;'s Precious Days",
       "score": 0.221,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 35177,
       "title": "Love Live! Sunshine!! Comic Anthology - The School Idol Movie Over the Rainbow",
       "score": 0.221,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 30541,
       "title": "Love Live! Comic Anthology &micro;'s Sweet Memories",
-      "score": 0.194,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     }
   ]
 }

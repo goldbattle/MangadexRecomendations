@@ -1,14 +1,17 @@
 {
   "id": 54274,
   "title": "1 Not Love",
-  "url": "https://api.mangadex.org/v2/manga/54274",
-  "last_updated": "March 12, 2021 20:23:36 UTC",
+  "url": "https://mangadex.org/manga/54274",
+  "last_updated": "March 18, 2021 13:53:37 UTC",
   "matches": [
     {
       "id": 56141,
       "title": "Smoke &amp; Rain",
-      "score": 0.287,
-      "r18": false
+      "score": 0.219,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

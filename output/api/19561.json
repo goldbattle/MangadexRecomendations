@@ -2,43 +2,66 @@
   "id": 19561,
   "title": "Fukumaden",
   "url": "https://mangadex.org/manga/19561",
-  "last_updated": "March 16, 2021 00:20:32 UTC",
+  "last_updated": "March 18, 2021 08:49:37 UTC",
   "matches": [
     {
       "id": 13233,
       "title": "Hare-Kon",
-      "score": 0.293,
-      "r18": false
+      "score": 0.292,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "pl",
+        "it",
+        "sa"
+      ]
     },
     {
       "id": 6311,
       "title": "Koi wa Misoji wo Sugite kara",
-      "score": 0.242,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 37982,
       "title": "Bicco.",
-      "score": 0.242,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29547,
       "title": "Kono Yo o Hana ni Suru Tame ni",
-      "score": 0.22,
-      "r18": false
+      "score": 0.219,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11492,
       "title": "Musume no Iede",
       "score": 0.219,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 45138,
       "title": "Furin Shokudou",
-      "score": 0.203,
-      "r18": false
+      "score": 0.202,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -1,158 +1,260 @@
 {
   "id": 31887,
   "title": "The Straw Hat and the Carp",
-  "url": "https://api.mangadex.org/v2/manga/31887",
-  "last_updated": "February 10, 2021 08:27:03 UTC",
+  "url": "https://mangadex.org/manga/31887",
+  "last_updated": "March 18, 2021 10:46:39 UTC",
   "matches": [
     {
       "id": 30699,
       "title": "Ougon no Koku",
-      "score": 0.34,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 38736,
       "title": "In the Rose Garden",
-      "score": 0.34,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "vn",
+        "br",
+        "fr"
+      ]
     },
     {
       "id": 2626,
       "title": "Sabaki no Mon",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3186,
       "title": "Jewel to Canary",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg"
+      ]
     },
     {
       "id": 7346,
       "title": "A Doll and His Master",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "de",
+        "br",
+        "it",
+        "gb"
+      ]
     },
     {
       "id": 7615,
       "title": "Sabaku no Requiem",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 10746,
       "title": "Mahou Tsukai to Koi no Biyaku",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "it",
+        "tr",
+        "gb"
+      ]
     },
     {
       "id": 23459,
       "title": "Winter Flower",
-      "score": 0.272,
-      "r18": false
-    },
-    {
-      "id": 1505,
-      "title": "In the Cage",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 9120,
-      "title": "Chiko no Negai",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 17269,
-      "title": "Hyouketsu Kiss Mate",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 17437,
-      "title": "Koi o Kanaderu Kisetsu",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 21679,
-      "title": "Higanbana",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 46651,
-      "title": "Ookami-san to Shinizokonai",
-      "score": 0.227,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "pl",
+        "ro"
+      ]
     },
     {
       "id": 59378,
       "title": "The Starlight Prince",
-      "score": 0.227,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1505,
+      "title": "In the Cage",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 9120,
+      "title": "Chiko no Negai",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 17269,
+      "title": "Hyouketsu Kiss Mate",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "br",
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 17437,
+      "title": "Koi o Kanaderu Kisetsu",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 21679,
+      "title": "Higanbana",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 28036,
+      "title": "Cynical World",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2361,
       "title": "Touhou Shinigami: Meteor Methuselah Gaiden",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 3014,
       "title": "Kao no Nai Otoko",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "bg",
+        "gb"
+      ]
     },
     {
       "id": 3104,
       "title": "Birthday Presents",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 3223,
       "title": "Yowaito Nikki",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5844,
       "title": "Kon no Ki Konoha",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ct",
+        "fr"
+      ]
     },
     {
       "id": 13714,
       "title": "Shoku no Hana",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 17271,
       "title": "Ryuuguu Fantastica",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 23460,
       "title": "Nanairo no Mukou",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "de"
+      ]
     },
     {
       "id": 46071,
       "title": "Akujin no Oboshimeshi",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 52053,
       "title": "Ritsuka to Sousetsu no Kamui",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

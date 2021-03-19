@@ -1,110 +1,194 @@
 {
   "id": 55309,
   "title": "ZOMBIES",
-  "url": "https://api.mangadex.org/v2/manga/55309",
-  "last_updated": "March 12, 2021 20:36:12 UTC",
+  "url": "https://mangadex.org/manga/55309",
+  "last_updated": "March 18, 2021 14:02:17 UTC",
   "matches": [
     {
       "id": 4613,
       "title": "Love Suicide",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "it",
+        "pl",
+        "fr",
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 5832,
       "title": "Rome Rome",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 35779,
       "title": "Koisuru Twintail",
-      "score": 0.23,
-      "r18": false
-    },
-    {
-      "id": 38250,
-      "title": "JUNKDEAD!",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1491,
       "title": "Jeep and Wagon",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 46136,
       "title": "Shitabashiri",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 55820,
       "title": "Ghost Stories",
-      "score": 0.193,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "vn",
+        "es",
+        "rs",
+        "br",
+        "pl"
+      ]
     },
     {
       "id": 2195,
       "title": "Zombie-Loan",
-      "score": 0.175,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 56164,
       "title": "A Manga Where Rapper Bites Turn You Into A Rapper",
-      "score": 0.175,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3882,
       "title": "Obake Life",
-      "score": 0.172,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8953,
       "title": "Kokodake no Himitsu",
-      "score": 0.172,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "pl",
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 23429,
       "title": "The Last Human",
-      "score": 0.145,
-      "r18": false
+      "score": 0.123,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "sa",
+        "ru",
+        "fr"
+      ]
     },
     {
       "id": 5057,
       "title": "Apocalypse no Toride",
-      "score": 0.14,
-      "r18": false
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "hu",
+        "gb"
+      ]
     },
     {
       "id": 32117,
       "title": "Dead Life",
-      "score": 0.108,
-      "r18": false
+      "score": 0.092,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 57003,
       "title": "Mosquito War",
-      "score": 0.092,
-      "r18": false
+      "score": 0.077,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 36278,
       "title": "King of Apocalypse",
-      "score": 0.092,
-      "r18": false
+      "score": 0.077,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "th",
+        "id",
+        "fr",
+        "it"
+      ]
     },
     {
       "id": 46789,
       "title": "Apocalyptic Super System",
-      "score": 0.087,
-      "r18": false
+      "score": 0.075,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "tr",
+        "pl"
+      ]
+    },
+    {
+      "id": 22261,
+      "title": "Fate/Grand Order -turas r&eacute;alta-",
+      "score": 0.057,
+      "r18": false,
+      "languages": [
+        "vn",
+        "es",
+        "sa",
+        "gb",
+        "fr"
+      ]
     }
   ]
 }

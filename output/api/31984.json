@@ -1,158 +1,254 @@
 {
   "id": 31984,
   "title": "Tomoi",
-  "url": "https://api.mangadex.org/v2/manga/31984",
-  "last_updated": "February 10, 2021 08:28:35 UTC",
+  "url": "https://mangadex.org/manga/31984",
+  "last_updated": "March 18, 2021 10:47:28 UTC",
   "matches": [
     {
-      "id": 5429,
-      "title": "Game Over",
-      "score": 0.704,
-      "r18": false
-    },
-    {
-      "id": 2966,
-      "title": "Kimi wa Petto",
-      "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 8952,
-      "title": "Ketchup Mayonnaise",
-      "score": 0.694,
-      "r18": false
-    },
-    {
-      "id": 2797,
-      "title": "Le Th&eacute;&acirc;tre de B",
-      "score": 0.693,
-      "r18": false
-    },
-    {
-      "id": 5026,
-      "title": "Bara no Tame ni",
-      "score": 0.69,
-      "r18": false
-    },
-    {
-      "id": 9762,
-      "title": "Dame na Watashi ni Koishite Kudasai",
-      "score": 0.689,
-      "r18": false
-    },
-    {
-      "id": 12756,
-      "title": "Totsuzen Desu ga, Ashita Kekkon Shimasu",
-      "score": 0.688,
-      "r18": false
-    },
-    {
-      "id": 3364,
-      "title": "Taiyou no Uta",
-      "score": 0.687,
-      "r18": false
-    },
-    {
-      "id": 6463,
-      "title": "Pen to Chocolate",
-      "score": 0.685,
-      "r18": false
-    },
-    {
-      "id": 2732,
-      "title": "Oishii Kankei",
-      "score": 0.684,
-      "r18": false
-    },
-    {
-      "id": 32047,
-      "title": "Gisou Furin",
-      "score": 0.683,
-      "r18": false
-    },
-    {
-      "id": 26134,
-      "title": "Shuuseki Kairo no Himawari",
-      "score": 0.683,
-      "r18": false
-    },
-    {
-      "id": 50267,
-      "title": "Totsuzen desu ga, Konya Sarai ni Ikimasu",
-      "score": 0.681,
-      "r18": false
-    },
-    {
-      "id": 2185,
-      "title": "Ashita no Ousama",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 20463,
-      "title": "Dame na Watashi ni Koishite Kudasai R",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 14536,
-      "title": "Kagerou Inazuma Mizu no Tsuki",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 15822,
-      "title": "Let Dai",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 17610,
-      "title": "Made in Heaven",
-      "score": 0.674,
-      "r18": false
-    },
-    {
-      "id": 55338,
-      "title": "Chijou no Seppun",
-      "score": 0.674,
-      "r18": false
-    },
-    {
-      "id": 1063,
-      "title": "Chihayafuru",
-      "score": 0.672,
-      "r18": false
-    },
-    {
-      "id": 7466,
-      "title": "Nodame Cantabile Encore - Opera-hen",
-      "score": 0.672,
-      "r18": false
+      "id": 43941,
+      "title": "Gemini wa Otoshigoro",
+      "score": 0.316,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 4573,
       "title": "Paradise Kiss",
-      "score": 0.672,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
-      "id": 17073,
-      "title": "Wotaku ni Koi wa Muzukashii",
-      "score": 0.671,
-      "r18": false
+      "id": 25431,
+      "title": "Sora no Seibun",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
-      "id": 4472,
-      "title": "Heartbroken Chocolatier",
-      "score": 0.671,
-      "r18": false
+      "id": 53782,
+      "title": "Tsuki to Kin no Shangri-La",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "vn",
+        "gb"
+      ]
     },
     {
-      "id": 2120,
-      "title": "Nodame Cantabile",
-      "score": 0.67,
-      "r18": false
+      "id": 1440,
+      "title": "Otona no Mondai",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb"
+      ]
+    },
+    {
+      "id": 54125,
+      "title": "Senshun Kansoku",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 19329,
+      "title": "Tenshi no Tamago",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 19986,
+      "title": "Renai Anagram",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 20305,
+      "title": "Haru no Noroi",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "ru",
+        "fr",
+        "tr",
+        "ua"
+      ]
+    },
+    {
+      "id": 28741,
+      "title": "True Blue wa Kesshite Iro Asenai",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50267,
+      "title": "Totsuzen desu ga, Konya Sarai ni Ikimasu",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5497,
+      "title": "Otoko no Issho",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4477,
+      "title": "3 AM Dangerous Zone",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "ru",
+        "br"
+      ]
+    },
+    {
+      "id": 20034,
+      "title": "Kiryuu-sensei wa Renai ga Wakaranai.",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 44506,
+      "title": "Onna no Sono no Hoshi",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb"
+      ]
+    },
+    {
+      "id": 4473,
+      "title": "Toribako House",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 28733,
+      "title": "Onee na Kareshi to Boyish Kanojo",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 26857,
+      "title": "3 AM Terrible Zone",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 15751,
+      "title": "Ginban Kishi",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 50321,
+      "title": "Totsuzen desu ga, Kyou Ai ni Kite",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 15633,
+      "title": "Watashi no Joushi",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 9846,
+      "title": "Shuuden na Kankei",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4706,
+      "title": "Nomino",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 2732,
+      "title": "Oishii Kankei",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 22623,
+      "title": "Ojisan to Neko to Shoujo",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

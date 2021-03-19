@@ -2,43 +2,79 @@
   "id": 4418,
   "title": "Sumikko no Sora-san",
   "url": "https://mangadex.org/manga/4418",
-  "last_updated": "March 14, 2021 08:31:06 UTC",
+  "last_updated": "March 18, 2021 06:22:07 UTC",
   "matches": [
     {
       "id": 12903,
       "title": "ACCA - 13-ku Kansatsuka",
       "score": 0.207,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 3646,
       "title": "Dainana Joshikai Houkou",
       "score": 0.207,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29475,
       "title": "Rojica to Rakkasei",
       "score": 0.207,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 222,
       "title": "Hoshi no Samidare",
-      "score": 0.192,
-      "r18": false
+      "score": 0.17,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 32265,
       "title": "Azur Lane - A Journal (Doujinshi)",
-      "score": 0.145,
-      "r18": false
+      "score": 0.144,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6966,
       "title": "Centaur's Worries",
-      "score": 0.132,
-      "r18": false
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "ru",
+        "br",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 20583,
+      "title": "The Mermaid Princess's Guilty Meal",
+      "score": 0.117,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     }
   ]
 }

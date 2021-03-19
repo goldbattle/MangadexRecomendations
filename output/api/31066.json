@@ -1,158 +1,265 @@
 {
   "id": 31066,
   "title": "Kami-sama no iru Keshiki",
-  "url": "https://api.mangadex.org/v2/manga/31066",
-  "last_updated": "February 10, 2021 08:14:15 UTC",
+  "url": "https://mangadex.org/manga/31066",
+  "last_updated": "March 18, 2021 10:39:49 UTC",
   "matches": [
-    {
-      "id": 10086,
-      "title": "Gyakushuu no Dragon Rider",
-      "score": 0.701,
-      "r18": false
-    },
-    {
-      "id": 21782,
-      "title": "Dragon, Ie wo Kau.",
-      "score": 0.44,
-      "r18": false
-    },
-    {
-      "id": 34658,
-      "title": "Hira yakunin yatte 1500-nen, maou no chikara de daijin ni sa re chaimashita",
-      "score": 0.424,
-      "r18": false
-    },
     {
       "id": 51881,
       "title": "Kishi-tan wa Jouheki no Naka de Hana Hiraku",
-      "score": 0.416,
-      "r18": false
+      "score": 0.36,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19423,
       "title": "Gendai Majo no Shuushoku Jijou",
-      "score": 0.414,
-      "r18": false
+      "score": 0.36,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 6637,
-      "title": "Material Puzzle",
-      "score": 0.414,
-      "r18": false
+      "id": 21782,
+      "title": "Dragon, Ie wo Kau.",
+      "score": 0.36,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 14694,
-      "title": "One Piece Party",
-      "score": 0.4,
-      "r18": false
-    },
-    {
-      "id": 7918,
-      "title": "Mahou Gakuen Lunar!",
-      "score": 0.394,
-      "r18": false
-    },
-    {
-      "id": 5861,
-      "title": "Slayers - Suiriyuuou no Kishi",
-      "score": 0.392,
-      "r18": false
-    },
-    {
-      "id": 3651,
-      "title": "Dragon Nest - Shungeki no Sedo",
-      "score": 0.392,
-      "r18": false
-    },
-    {
-      "id": 6677,
-      "title": "Slayers REVOLUTION",
-      "score": 0.387,
-      "r18": false
-    },
-    {
-      "id": 8190,
-      "title": "Seiken Densetsu - Legend of Mana",
-      "score": 0.384,
-      "r18": false
-    },
-    {
-      "id": 5925,
-      "title": "Tales of Destiny",
-      "score": 0.383,
-      "r18": false
-    },
-    {
-      "id": 176,
-      "title": "Monster Hunter Orage",
-      "score": 0.382,
-      "r18": false
-    },
-    {
-      "id": 7758,
-      "title": ".hack//GnU",
-      "score": 0.382,
-      "r18": false
-    },
-    {
-      "id": 6389,
-      "title": "Valkyrie Profile - The Dark Alchemist",
-      "score": 0.382,
-      "r18": false
-    },
-    {
-      "id": 19963,
-      "title": "Digimon Universe: Appli Monsters",
-      "score": 0.381,
-      "r18": false
-    },
-    {
-      "id": 15494,
-      "title": "Chain Chronicle Crimson",
-      "score": 0.381,
-      "r18": false
-    },
-    {
-      "id": 1755,
-      "title": "Watashi no Ookami-san",
-      "score": 0.38,
-      "r18": false
-    },
-    {
-      "id": 15445,
-      "title": "Digimon Xros Wars",
-      "score": 0.38,
-      "r18": false
-    },
-    {
-      "id": 10459,
-      "title": "Log Horizon - Nishikaze no Ryodan",
-      "score": 0.379,
-      "r18": false
+      "id": 34658,
+      "title": "Hira yakunin yatte 1500-nen, maou no chikara de daijin ni sa re chaimashita",
+      "score": 0.36,
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb"
+      ]
     },
     {
       "id": 12339,
       "title": "Rock Lee no Seishun Full-Power Ninden",
-      "score": 0.379,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
-      "id": 948,
-      "title": "Kashikoi Inu Rilienthal",
-      "score": 0.379,
-      "r18": false
+      "id": 22008,
+      "title": "Evil Queen's Holiday",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 9057,
-      "title": "Kai Pilgrim",
-      "score": 0.379,
-      "r18": false
+      "id": 3607,
+      "title": "All Around Type-Moon",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 29723,
-      "title": "Treasure Hunter Jubei",
-      "score": 0.376,
-      "r18": false
+      "id": 22085,
+      "title": "Keyboard Warrior",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21851,
+      "title": "Garden Sphere",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "br"
+      ]
+    },
+    {
+      "id": 29557,
+      "title": "Slime Life",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "fr",
+        "ru"
+      ]
+    },
+    {
+      "id": 35314,
+      "title": "Isekai C-MART Hanjouki",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 43546,
+      "title": "Tapris Sugar Step",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 343,
+      "title": "Shinryaku! Ika Musume",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "pl"
+      ]
+    },
+    {
+      "id": 22761,
+      "title": "Beelzebub-jou no Oki ni Mesu mama.",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "ru",
+        "br"
+      ]
+    },
+    {
+      "id": 1838,
+      "title": "Tetsunagi Kooni",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21513,
+      "title": "Sodatechi Maou!",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 33536,
+      "title": "Saint Cecilia &amp; Pastor Lawrence",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "vn",
+        "id",
+        "br"
+      ]
+    },
+    {
+      "id": 31565,
+      "title": "Hoshi no Kirby - Pupupu Hero",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 23068,
+      "title": "Touhou Sangetsusei ~ Visionary Fairies in Shrine.",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "br",
+        "ru"
+      ]
+    },
+    {
+      "id": 35940,
+      "title": "It's Time for &quot;Interrogation,&quot; Princess!",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hk",
+        "de",
+        "br",
+        "fr",
+        "mx",
+        "id"
+      ]
+    },
+    {
+      "id": 10086,
+      "title": "Gyakushuu no Dragon Rider",
+      "score": 0.286,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7918,
+      "title": "Mahou Gakuen Lunar!",
+      "score": 0.282,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 7758,
+      "title": ".hack//GnU",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 176,
+      "title": "Monster Hunter Orage",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "br",
+        "ct"
+      ]
+    },
+    {
+      "id": 6389,
+      "title": "Valkyrie Profile - The Dark Alchemist",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

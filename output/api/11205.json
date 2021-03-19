@@ -2,19 +2,30 @@
   "id": 11205,
   "title": "Blood Rain",
   "url": "https://mangadex.org/manga/11205",
-  "last_updated": "March 15, 2021 04:34:34 UTC",
+  "last_updated": "March 18, 2021 07:21:16 UTC",
   "matches": [
     {
       "id": 4654,
       "title": "Caterpillar",
       "score": 0.217,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 12019,
       "title": "Deathtopia",
       "score": 0.145,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "ru",
+        "it",
+        "pl",
+        "de"
+      ]
     }
   ]
 }

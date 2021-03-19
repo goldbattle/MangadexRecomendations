@@ -2,157 +2,319 @@
   "id": 28125,
   "title": "Jupiter",
   "url": "https://mangadex.org/manga/28125",
-  "last_updated": "March 17, 2021 00:36:32 UTC",
+  "last_updated": "March 18, 2021 10:15:17 UTC",
   "matches": [
-    {
-      "id": 5938,
-      "title": "Dahlia no Obi",
-      "score": 0.275,
-      "r18": false
-    },
-    {
-      "id": 2412,
-      "title": "Taiyou no Ijiwaru",
-      "score": 0.275,
-      "r18": false
-    },
-    {
-      "id": 47488,
-      "title": "Tokyo Kaido",
-      "score": 0.275,
-      "r18": false
-    },
-    {
-      "id": 10819,
-      "title": "Are You Enemy?",
-      "score": 0.275,
-      "r18": false
-    },
-    {
-      "id": 680,
-      "title": "Chinatsu no Uta",
-      "score": 0.275,
-      "r18": false
-    },
-    {
-      "id": 1313,
-      "title": "The Chronicles of the Clueless Age",
-      "score": 0.275,
-      "r18": false
-    },
-    {
-      "id": 25481,
-      "title": "Hikari to Tomo ni...: Jiheishouji wo Kakaete",
-      "score": 0.275,
-      "r18": false
-    },
-    {
-      "id": 29133,
-      "title": "An Incomplete Life.",
-      "score": 0.275,
-      "r18": false
-    },
     {
       "id": 198,
       "title": "Bartender",
       "score": 0.275,
-      "r18": false
-    },
-    {
-      "id": 24071,
-      "title": "Toukyou Ubasuteyama",
-      "score": 0.275,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "tr"
+      ]
     },
     {
       "id": 19288,
       "title": "Itomeguri no Sobyou",
       "score": 0.275,
-      "r18": false
-    },
-    {
-      "id": 15519,
-      "title": "Coffee Mou Ippai",
-      "score": 0.275,
-      "r18": false
-    },
-    {
-      "id": 1472,
-      "title": "City in the Sea",
-      "score": 0.275,
-      "r18": false
-    },
-    {
-      "id": 45728,
-      "title": "Kodomo Otona",
-      "score": 0.275,
-      "r18": false
-    },
-    {
-      "id": 15164,
-      "title": "Plastic Girl (Furuya Usamaru)",
-      "score": 0.275,
-      "r18": false
-    },
-    {
-      "id": 15735,
-      "title": "Yoru no Taiko",
-      "score": 0.275,
-      "r18": false
-    },
-    {
-      "id": 33327,
-      "title": "Sabbath Cafe",
-      "score": 0.251,
-      "r18": false
-    },
-    {
-      "id": 37709,
-      "title": "CEREUS",
-      "score": 0.247,
-      "r18": false
-    },
-    {
-      "id": 2094,
-      "title": "Ping Pong",
-      "score": 0.22,
-      "r18": false
-    },
-    {
-      "id": 2343,
-      "title": "Deep Love - Real",
-      "score": 0.22,
-      "r18": false
-    },
-    {
-      "id": 30150,
-      "title": "LiveRevolt",
-      "score": 0.22,
-      "r18": false
-    },
-    {
-      "id": 1503,
-      "title": "Twisted",
-      "score": 0.22,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "bg",
+        "es"
+      ]
     },
     {
       "id": 10911,
       "title": "Once Again",
       "score": 0.22,
-      "r18": false
-    },
-    {
-      "id": 58011,
-      "title": "Gokko",
-      "score": 0.22,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 20879,
       "title": "Chi no Wadachi",
       "score": 0.22,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "fr",
+        "gb",
+        "hk",
+        "ru",
+        "it",
+        "pl",
+        "mx"
+      ]
+    },
+    {
+      "id": 19790,
+      "title": "Kings' Viking",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 22284,
+      "title": "Sachiiro no One Room",
+      "score": 0.213,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "fr",
+        "mx"
+      ]
+    },
+    {
+      "id": 38175,
+      "title": "Asuperu Kanojo",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "cn",
+        "gb",
+        "ru",
+        "br",
+        "id",
+        "fr",
+        "es"
+      ]
+    },
+    {
+      "id": 46105,
+      "title": "Welcome Back Alice",
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "br",
+        "fr",
+        "gb",
+        "hk",
+        "id"
+      ]
+    },
+    {
+      "id": 33545,
+      "title": "Watashi to Watashi",
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg",
+        "fr",
+        "pl",
+        "it"
+      ]
+    },
+    {
+      "id": 30814,
+      "title": "Life 2 Giver Taker",
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 23242,
+      "title": "Act-Age",
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br",
+        "sa",
+        "ru",
+        "id",
+        "es",
+        "fr",
+        "tr"
+      ]
+    },
+    {
+      "id": 20305,
+      "title": "Haru no Noroi",
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "ru",
+        "fr",
+        "tr",
+        "ua"
+      ]
+    },
+    {
+      "id": 40765,
+      "title": "Musume no Tomodachi",
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "hk",
+        "fr",
+        "mx",
+        "br",
+        "ru"
+      ]
+    },
+    {
+      "id": 1728,
+      "title": "Ever Green",
+      "score": 0.157,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "de",
+        "it"
+      ]
+    },
+    {
+      "id": 52,
+      "title": "Watashi ni xx Shinasai!",
+      "score": 0.157,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "fr"
+      ]
+    },
+    {
+      "id": 22006,
+      "title": "Waltz",
+      "score": 0.157,
+      "r18": false,
+      "languages": [
+        "fr",
+        "it",
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 31509,
+      "title": "Kaguya-sama: Love Is War - Digital Colored Comics",
+      "score": 0.137,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 14987,
+      "title": "Colorless Girl",
+      "score": 0.137,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "tr",
+        "fr"
+      ]
+    },
+    {
+      "id": 10848,
+      "title": "Shishunki Bitter Change",
+      "score": 0.137,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr",
+        "tr",
+        "de",
+        "it",
+        "pl"
+      ]
+    },
+    {
+      "id": 534,
+      "title": "&quot;Bungaku Shoujo&quot; to Shinitagari no Pierrot",
+      "score": 0.11,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "fr"
+      ]
+    },
+    {
+      "id": 6966,
+      "title": "Centaur's Worries",
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "ru",
+        "br",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 22194,
+      "title": "Beast Complex",
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "vn",
+        "it",
+        "gb",
+        "hk",
+        "br",
+        "mx",
+        "ru",
+        "fr"
+      ]
+    },
+    {
+      "id": 48208,
+      "title": "BEASTARS (Fan-Colored)",
+      "score": 0.091,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 28843,
+      "title": "JoJo's Bizarre Adventure Part 4 - Diamond is Unbreakable",
+      "score": 0.091,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br"
+      ]
+    },
+    {
+      "id": 21647,
+      "title": "Fight Class 3",
+      "score": 0.091,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx",
+        "fr",
+        "br"
+      ]
     }
   ]
 }

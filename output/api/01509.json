@@ -2,91 +2,125 @@
   "id": 1509,
   "title": "Blanc Marie",
   "url": "https://mangadex.org/manga/1509",
-  "last_updated": "March 14, 2021 01:14:37 UTC",
+  "last_updated": "March 18, 2021 05:55:29 UTC",
   "matches": [
-    {
-      "id": 17287,
-      "title": "Watashi no Ouji-sama",
-      "score": 0.35,
-      "r18": false
-    },
     {
       "id": 49411,
       "title": "Koi Monogatari Anthology",
       "score": 0.35,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 17287,
+      "title": "Watashi no Ouji-sama",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 10042,
       "title": "The Girl on the Other Side of the Glass",
-      "score": 0.28,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 48692,
       "title": "Heir to the Cabbage Patch",
-      "score": 0.28,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 13736,
       "title": "Sweet Spot",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 57561,
-      "title": "Baby Love",
-      "score": 0.28,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8184,
       "title": "Le Th&eacute;&acirc;tre de A",
-      "score": 0.244,
-      "r18": false
-    },
-    {
-      "id": 40935,
-      "title": "Futsutsukana Ani Desu ga",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 15443,
-      "title": "Boku no Petto ni Narinasai.",
-      "score": 0.224,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg",
+        "tr",
+        "pl",
+        "br",
+        "hu",
+        "fr",
+        "de"
+      ]
     },
     {
       "id": 10173,
       "title": "How to Massage",
-      "score": 0.212,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 40935,
+      "title": "Futsutsukana Ani Desu ga",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11150,
       "title": "Usagi Drop - The Kiss Following the End of Chapter 56 (Doujinshi)",
-      "score": 0.187,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 57560,
       "title": "The Flower Doll and her Husband",
-      "score": 0.182,
-      "r18": false
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 54034,
-      "title": "Kuu Nomu Tokoro ni Taberu Toko",
+      "title": "Dining Where You Eat and Drink",
       "score": 0.16,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 58802,
       "title": "Don't Be Obsessed With a Spirit Like Me",
-      "score": 0.156,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "ru"
+      ]
     }
   ]
 }

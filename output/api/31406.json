@@ -1,158 +1,253 @@
 {
   "id": 31406,
   "title": "Yari Sugita Majin Senmetsu-sha no Nana-tai Tsumi Yuugi (New Game)",
-  "url": "https://api.mangadex.org/v2/manga/31406",
-  "last_updated": "February 10, 2021 08:19:40 UTC",
+  "url": "https://mangadex.org/manga/31406",
+  "last_updated": "March 18, 2021 10:42:39 UTC",
   "matches": [
     {
-      "id": 11615,
-      "title": "Rakudai Kishi no Eiyuutan",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 30381,
-      "title": "Zettai ni Yatte wa Ikenai Isekai Shoukan",
-      "score": 0.671,
-      "r18": false
+      "id": 6865,
+      "title": "Celestial Clothes",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 688,
       "title": "11 Eyes -Tsumi to Batsu to Aganai no Shoujo-",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 31583,
-      "title": "Dorei Shounin shika Sentakushi ga Nai desu yo? Harem? Nani Sore Oishii no?",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 3819,
-      "title": "Classmate (\u2640) to Meikyuu no Futekisetsu na Kouryakuhou",
-      "score": 0.663,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 757,
       "title": "Kami to Sengoku Seitokai",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 23801,
-      "title": "Bakemonogatari",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 9175,
-      "title": "Shinmai Maou no Testament",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 6865,
-      "title": "Celestial Clothes",
-      "score": 0.453,
-      "r18": false
-    },
-    {
-      "id": 667,
-      "title": "Lilim Kiss",
-      "score": 0.384,
-      "r18": false
-    },
-    {
-      "id": 23495,
-      "title": "Eyami no Kami",
-      "score": 0.382,
-      "r18": false
-    },
-    {
-      "id": 33035,
-      "title": "Crimson Grimoire",
-      "score": 0.382,
-      "r18": false
-    },
-    {
-      "id": 5460,
-      "title": "GOD EATER - The Summer Wars",
-      "score": 0.382,
-      "r18": false
-    },
-    {
-      "id": 1391,
-      "title": "Loose Relation Between Wizard &amp; Apprentice",
-      "score": 0.378,
-      "r18": false
-    },
-    {
-      "id": 975,
-      "title": "Yellow Dragon ga Arawareta!",
-      "score": 0.378,
-      "r18": false
-    },
-    {
-      "id": 6759,
-      "title": "Daiaku Kojou",
-      "score": 0.371,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2389,
       "title": "EArTh",
-      "score": 0.369,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 1884,
-      "title": "Muramasa",
-      "score": 0.369,
-      "r18": false
+      "id": 5460,
+      "title": "GOD EATER - The Summer Wars",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 28103,
-      "title": "Kyoshirou to Towa no Sora",
-      "score": 0.366,
-      "r18": false
+      "id": 23495,
+      "title": "Eyami no Kami",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 975,
+      "title": "Yellow Dragon ga Arawareta!",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ct"
+      ]
+    },
+    {
+      "id": 33035,
+      "title": "Crimson Grimoire",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hk"
+      ]
     },
     {
       "id": 6892,
       "title": "Megami no Carnaval",
-      "score": 0.358,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 667,
+      "title": "Lilim Kiss",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "bg",
+        "es",
+        "fr",
+        "it"
+      ]
+    },
+    {
+      "id": 6759,
+      "title": "Daiaku Kojou",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1391,
+      "title": "Loose Relation Between Wizard &amp; Apprentice",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 2473,
       "title": "Heaven",
-      "score": 0.356,
-      "r18": false
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4621,
       "title": "Inukami!",
-      "score": 0.356,
-      "r18": false
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 535,
+      "title": "Chou Dokyuu Shoujo 4946",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 28021,
+      "title": "Stray Little Devil",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 37,
       "title": "Popcorn Avatar",
-      "score": 0.355,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 26034,
+      "title": "The Girl With Horns",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr"
+      ]
+    },
+    {
+      "id": 12526,
+      "title": "Wangpai Yushi",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 19368,
+      "title": "The Vanisher King and his 12 Starlight Maidens",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 28103,
+      "title": "Kyoshirou to Towa no Sora",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 11093,
+      "title": "Chess Time",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "es"
+      ]
+    },
+    {
+      "id": 9810,
+      "title": "Tamanyan",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 299,
       "title": "Maken-Ki!",
-      "score": 0.346,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "br",
+        "fr",
+        "pl"
+      ]
     },
     {
-      "id": 29270,
-      "title": "Fairy Tail: 100 Years Quest",
-      "score": 0.346,
-      "r18": false
+      "id": 5295,
+      "title": "Mai-HiME",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

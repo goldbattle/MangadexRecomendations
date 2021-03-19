@@ -1,158 +1,241 @@
 {
   "id": 55725,
   "title": "Haru to Ao no Obentoubako",
-  "url": "https://api.mangadex.org/v2/manga/55725",
-  "last_updated": "March 12, 2021 20:41:24 UTC",
+  "url": "https://mangadex.org/manga/55725",
+  "last_updated": "March 18, 2021 14:05:46 UTC",
   "matches": [
-    {
-      "id": 29917,
-      "title": "Slow Loop",
-      "score": 0.685,
-      "r18": false
-    },
-    {
-      "id": 14163,
-      "title": "Takasugi-san Chi no Obentou",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 36222,
-      "title": "Okashi na Tensei",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 31762,
-      "title": "Ao no Shima to Neko Ippiki",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 36258,
-      "title": "Houkago Teibou Nisshi",
-      "score": 0.653,
-      "r18": false
-    },
     {
       "id": 9143,
       "title": "Little Forest",
-      "score": 0.482,
-      "r18": false
-    },
-    {
-      "id": 51698,
-      "title": "Izakaya Bottakuri",
-      "score": 0.474,
-      "r18": false
-    },
-    {
-      "id": 43675,
-      "title": "Kitchen of Witch Hat",
-      "score": 0.467,
-      "r18": false
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru"
+      ]
     },
     {
       "id": 12908,
       "title": "Wakako-Zake",
-      "score": 0.466,
-      "r18": false
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 51698,
+      "title": "Izakaya Bottakuri",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29891,
       "title": "Rokuhoudou Yotsuiro Biyori",
-      "score": 0.464,
-      "r18": false
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 43675,
+      "title": "Kitchen of Witch Hat",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7712,
       "title": "Cooking Papa",
-      "score": 0.447,
-      "r18": false
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 17069,
-      "title": "Konbini Ojousama",
-      "score": 0.412,
-      "r18": false
-    },
-    {
-      "id": 10800,
-      "title": "Bambino! Secondo",
-      "score": 0.403,
-      "r18": false
-    },
-    {
-      "id": 16737,
-      "title": "Papa to Oyaji no Uchi Gohan",
-      "score": 0.403,
-      "r18": false
-    },
-    {
-      "id": 8194,
-      "title": "Kuneru Maruta",
-      "score": 0.396,
-      "r18": false
-    },
-    {
-      "id": 21973,
-      "title": "Hokusai to Meshi Saeareba",
-      "score": 0.391,
-      "r18": false
-    },
-    {
-      "id": 29736,
-      "title": "Ichinichi Gaishutsuroku Hanchou",
-      "score": 0.387,
-      "r18": false
-    },
-    {
-      "id": 35934,
-      "title": "Someya Mako no Jansou Meshi",
-      "score": 0.385,
-      "r18": false
-    },
-    {
-      "id": 53388,
-      "title": "Job hunting, Living together, Everyday meal",
-      "score": 0.378,
-      "r18": false
-    },
-    {
-      "id": 50649,
-      "title": "Maid-san wa Taberu Dake",
-      "score": 0.364,
-      "r18": false
-    },
-    {
-      "id": 2205,
-      "title": "Shinya Shokudou",
-      "score": 0.354,
-      "r18": false
-    },
-    {
-      "id": 32267,
-      "title": "Rin-chan Cookie no Himitsu",
-      "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 85,
-      "title": "Bambino!",
-      "score": 0.352,
-      "r18": false
-    },
-    {
-      "id": 18712,
-      "title": "Emiya-san Chi no Kyou no Gohan",
-      "score": 0.347,
-      "r18": false
+      "id": 14163,
+      "title": "Takasugi-san Chi no Obentou",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 19108,
       "title": "Bar Lemon Heart",
-      "score": 0.346,
-      "r18": false
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 16737,
+      "title": "Papa to Oyaji no Uchi Gohan",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2205,
+      "title": "Shinya Shokudou",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 32267,
+      "title": "Rin-chan Cookie no Himitsu",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10800,
+      "title": "Bambino! Secondo",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29736,
+      "title": "Ichinichi Gaishutsuroku Hanchou",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 22379,
+      "title": "Chotto Ippai!",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8194,
+      "title": "Kuneru Maruta",
+      "score": 0.284,
+      "r18": false,
+      "languages": [
+        "pt",
+        "gb"
+      ]
+    },
+    {
+      "id": 17069,
+      "title": "Konbini Ojousama",
+      "score": 0.282,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 35934,
+      "title": "Someya Mako no Jansou Meshi",
+      "score": 0.276,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 21973,
+      "title": "Hokusai to Meshi Saeareba",
+      "score": 0.27,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53388,
+      "title": "Job hunting, Living together, Everyday meal",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50649,
+      "title": "Maid-san wa Taberu Dake",
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 51040,
+      "title": "Aikagi-kun to Shiawase Gohan",
+      "score": 0.234,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 43785,
+      "title": "A Meal Makes Her Forget",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18389,
+      "title": "Mogusa-san",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 15177,
+      "title": "The Chef",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 46834,
+      "title": "Kesaran Nanigashi ja Keitto Shop",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     }
   ]
 }

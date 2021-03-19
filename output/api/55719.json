@@ -1,158 +1,299 @@
 {
   "id": 55719,
   "title": "Nyaight of the Living Cat",
-  "url": "https://api.mangadex.org/v2/manga/55719",
-  "last_updated": "March 12, 2021 20:41:20 UTC",
+  "url": "https://mangadex.org/manga/55719",
+  "last_updated": "March 18, 2021 14:05:43 UTC",
   "matches": [
-    {
-      "id": 2814,
-      "title": "El El",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 4298,
-      "title": "Gakkou Kaidan",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 6882,
-      "title": "IWGP - Denshi no Hoshi",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 7110,
-      "title": "Haunted Junction",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 16959,
-      "title": "Yokai Hunter",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 27952,
-      "title": "Majo no Ie: Ellen no Nikki",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 35615,
-      "title": "UndeadEd",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 1401,
-      "title": "Shoujo Kidan Makora",
-      "score": 0.175,
-      "r18": false
-    },
-    {
-      "id": 1799,
-      "title": "Fuan no Tane",
-      "score": 0.175,
-      "r18": false
-    },
-    {
-      "id": 1801,
-      "title": "Fuan no Tane +",
-      "score": 0.175,
-      "r18": false
-    },
-    {
-      "id": 2553,
-      "title": "Survival of the Dead",
-      "score": 0.175,
-      "r18": false
-    },
     {
       "id": 2733,
       "title": "Leviathan",
-      "score": 0.175,
-      "r18": false
-    },
-    {
-      "id": 2775,
-      "title": "Phase 20",
-      "score": 0.175,
-      "r18": false
-    },
-    {
-      "id": 3301,
-      "title": "Kuusou Garou",
-      "score": 0.175,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "es"
+      ]
     },
     {
       "id": 3448,
       "title": "Anne Freaks",
-      "score": 0.175,
-      "r18": false
-    },
-    {
-      "id": 5616,
-      "title": "Biohazard: Umbrella Chronicles - Houkai e no Jokyoku",
-      "score": 0.175,
-      "r18": false
-    },
-    {
-      "id": 6422,
-      "title": "WORLDS - Fujisaki Ryu Tanpenshuu",
-      "score": 0.175,
-      "r18": false
-    },
-    {
-      "id": 6945,
-      "title": "BAROQUE - Ketsuraku no Paradigm",
-      "score": 0.175,
-      "r18": false
-    },
-    {
-      "id": 7894,
-      "title": "Biohazard: Marhawa Desire",
-      "score": 0.175,
-      "r18": false
-    },
-    {
-      "id": 8812,
-      "title": "2 x Bone",
-      "score": 0.175,
-      "r18": false
-    },
-    {
-      "id": 8851,
-      "title": "Ruler of the Dark Region",
-      "score": 0.175,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg",
+        "br",
+        "ru"
+      ]
     },
     {
       "id": 9644,
       "title": "D.Y.N. Freaks",
-      "score": 0.175,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru",
+        "hu"
+      ]
     },
     {
-      "id": 10672,
-      "title": "Kaidan to Odorou, Soshite Anata wa Kaidan de Odoru",
-      "score": 0.175,
-      "r18": false
+      "id": 30288,
+      "title": "Tokyo Metropolitan Magic Technical School",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "hk",
+        "it",
+        "tr",
+        "id",
+        "fr",
+        "br",
+        "ru",
+        "gb"
+      ]
     },
     {
-      "id": 13384,
-      "title": "Kaze no Stra",
-      "score": 0.175,
-      "r18": false
+      "id": 5555,
+      "title": "Thus Spoke Kishibe Rohan",
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "br",
+        "id",
+        "mx",
+        "fr",
+        "ru"
+      ]
     },
     {
-      "id": 14311,
-      "title": "Outer Zone",
-      "score": 0.175,
-      "r18": false
+      "id": 15534,
+      "title": "Crimson Skies",
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 33183,
+      "title": "Thus Spoke Kishibe Rohan [Official Colored]",
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "br",
+        "id",
+        "ru"
+      ]
+    },
+    {
+      "id": 1287,
+      "title": "Bio-Meat: Nectar",
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "pl"
+      ]
+    },
+    {
+      "id": 1828,
+      "title": "Ch&auml;oS;HEAd",
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "de",
+        "pl",
+        "gb",
+        "ru",
+        "it"
+      ]
+    },
+    {
+      "id": 5483,
+      "title": "Bokke-san",
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "pl",
+        "ru",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 11223,
+      "title": "Bocchiman",
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 19082,
+      "title": "Rengoku Deadroll",
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "fr",
+        "ru"
+      ]
+    },
+    {
+      "id": 19257,
+      "title": "Kyoudai - Shoujo Tantei to Yuurei Keikan no Kaiki Jikenbo",
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
+    },
+    {
+      "id": 26224,
+      "title": "This Man",
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "ru",
+        "es",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 27870,
+      "title": "Yajin",
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx"
+      ]
+    },
+    {
+      "id": 32638,
+      "title": "Shichi Ha Gojuroku",
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "hk"
+      ]
+    },
+    {
+      "id": 55545,
+      "title": "The Overworked and the Undead",
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 2038,
+      "title": "Blood Parade",
+      "score": 0.085,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "ru"
+      ]
+    },
+    {
+      "id": 2541,
+      "title": "Doubt",
+      "score": 0.085,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg",
+        "ru"
+      ]
+    },
+    {
+      "id": 7374,
+      "title": "Psycho-Pass - Kanshikan Tsunemori Akane",
+      "score": 0.085,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 14787,
+      "title": "Rengoku no Karma",
+      "score": 0.085,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 16519,
+      "title": "Totsukuni no Shoujo",
+      "score": 0.085,
+      "r18": false,
+      "languages": [
+        "it",
+        "tr",
+        "br",
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 16792,
+      "title": "Vanilla Spider",
+      "score": 0.085,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 21941,
+      "title": "Psycho-Pass 2",
+      "score": 0.085,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 28857,
+      "title": "Yoru ni Naru to Boku wa",
+      "score": 0.085,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "mx",
+        "fr",
+        "ru",
+        "tr",
+        "it"
+      ]
     }
   ]
 }

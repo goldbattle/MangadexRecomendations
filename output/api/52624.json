@@ -1,158 +1,270 @@
 {
   "id": 52624,
   "title": "Creep",
-  "url": "https://api.mangadex.org/v2/manga/52624",
-  "last_updated": "February 05, 2021 12:27:34 UTC",
+  "url": "https://mangadex.org/manga/52624",
+  "last_updated": "March 18, 2021 13:39:51 UTC",
   "matches": [
     {
       "id": 27870,
       "title": "Yajin",
-      "score": 0.249,
-      "r18": false
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx"
+      ]
     },
     {
       "id": 45304,
       "title": "Furious Yama",
-      "score": 0.206,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11108,
       "title": "Daidai wa, Hantoumei ni Nidone Suru",
-      "score": 0.2,
-      "r18": false
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "it"
+      ]
     },
     {
       "id": 8181,
       "title": "How to Hug an Elephant",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29896,
       "title": "I Was Wrong",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "it",
+        "id"
+      ]
     },
     {
       "id": 33183,
       "title": "Thus Spoke Kishibe Rohan [Official Colored]",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "br",
+        "id",
+        "ru"
+      ]
     },
     {
       "id": 35683,
       "title": "Phantom Seer",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "br",
+        "fr",
+        "gb",
+        "hk",
+        "mx",
+        "ru"
+      ]
     },
     {
       "id": 41110,
       "title": "All Alone in Hyakki Demon Village",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 49304,
       "title": "Apartment Ghost",
-      "score": 0.197,
-      "r18": false
-    },
-    {
-      "id": 51607,
-      "title": "Kyouka-sama no sweet sweet boro house",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 55545,
       "title": "The Overworked and the Undead",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 55820,
+      "title": "Ghost Stories",
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "vn",
+        "es",
+        "rs",
+        "br",
+        "pl"
+      ]
     },
     {
       "id": 56419,
       "title": "There's a Ghost Behind the Gyaru",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "cn",
+        "gb"
+      ]
     },
     {
       "id": 20965,
       "title": "Overly Handsome",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 51987,
       "title": "Lost in the Wrong World",
-      "score": 0.191,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 50542,
       "title": "Ako and Bambi",
-      "score": 0.187,
-      "r18": false
+      "score": 0.156,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 14710,
       "title": "Happiness",
-      "score": 0.175,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "br",
+        "ru",
+        "mx",
+        "ir"
+      ]
     },
     {
       "id": 47461,
       "title": "Earth Spirit",
-      "score": 0.172,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1720,
       "title": "Under Prin",
-      "score": 0.153,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 4464,
       "title": "Mirror Girl",
-      "score": 0.153,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 35246,
       "title": "The Last Dynasty",
-      "score": 0.153,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 49116,
       "title": "Kami-Yome",
-      "score": 0.153,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 33276,
       "title": "Whole Body",
-      "score": 0.151,
-      "r18": false
+      "score": 0.124,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 48343,
       "title": "City Of Sanctuary",
-      "score": 0.151,
-      "r18": false
+      "score": 0.124,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 16499,
       "title": "MIA: Lost in Operation",
-      "score": 0.143,
-      "r18": false
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa"
+      ]
     },
     {
-      "id": 47105,
-      "title": "Strongest Cultivation App",
-      "score": 0.143,
-      "r18": false
+      "id": 50526,
+      "title": "Division 8's Record of Secrets",
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

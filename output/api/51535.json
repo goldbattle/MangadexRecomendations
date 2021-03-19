@@ -1,50 +1,90 @@
 {
   "id": 51535,
   "title": "Hell Ghost Wife",
-  "url": "https://api.mangadex.org/v2/manga/51535",
-  "last_updated": "February 05, 2021 12:09:31 UTC",
+  "url": "https://mangadex.org/manga/51535",
+  "last_updated": "March 18, 2021 13:30:45 UTC",
   "matches": [
     {
       "id": 45140,
       "title": "Oh My Ghost",
-      "score": 0.72,
-      "r18": false
-    },
-    {
-      "id": 45628,
-      "title": "Heaven Official's Blessing",
-      "score": 0.674,
-      "r18": false
-    },
-    {
-      "id": 56692,
-      "title": "Their Heavenly Fires",
-      "score": 0.281,
-      "r18": false
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 50142,
       "title": "My Spiritual Girlfriends",
-      "score": 0.246,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 56692,
+      "title": "Their Heavenly Fires",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 45628,
+      "title": "Heaven Official's Blessing",
+      "score": 0.134,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "pl",
+        "tr",
+        "br",
+        "fr"
+      ]
     },
     {
       "id": 17524,
       "title": "West-North's Grim Reaper",
-      "score": 0.185,
-      "r18": false
+      "score": 0.107,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 43343,
+      "title": "Phantom in the Twilight",
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 45353,
       "title": "Bliss In Another World",
-      "score": 0.181,
-      "r18": false
+      "score": 0.082,
+      "r18": false,
+      "languages": [
+        "es"
+      ]
     },
     {
       "id": 40778,
       "title": "Cheating Men Must Die",
-      "score": 0.166,
-      "r18": false
+      "score": 0.06,
+      "r18": false,
+      "languages": [
+        "fr",
+        "mx",
+        "id",
+        "gb",
+        "it"
+      ]
     }
   ]
 }

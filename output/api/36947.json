@@ -2,73 +2,122 @@
   "id": 36947,
   "title": "Kiteretsu Daihyakka",
   "url": "https://mangadex.org/manga/36947",
-  "last_updated": "March 17, 2021 20:33:33 UTC",
+  "last_updated": "March 18, 2021 11:28:52 UTC",
   "matches": [
     {
       "id": 1831,
       "title": "Aqua",
-      "score": 0.242,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "br",
+        "bg",
+        "id"
+      ]
     },
     {
       "id": 2007,
       "title": "Aria",
-      "score": 0.242,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "es",
+        "br"
+      ]
     },
     {
       "id": 47985,
       "title": "Doraemon Plus",
-      "score": 0.232,
-      "r18": false
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1791,
       "title": "Doraemon",
       "score": 0.207,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 23055,
       "title": "Uchuu Senkan Tiramis&ugrave;",
       "score": 0.207,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 59171,
       "title": "Lup Sarada",
       "score": 0.193,
-      "r18": false
-    },
-    {
-      "id": 41568,
-      "title": "Moon You",
-      "score": 0.161,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 27758,
       "title": "Rumic World",
-      "score": 0.145,
-      "r18": false
+      "score": 0.144,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 44657,
       "title": "Blanc Project",
-      "score": 0.145,
-      "r18": false
+      "score": 0.144,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29329,
       "title": "Itai no wa Iya nanode Bougyo-Ryoku ni Kyokufuri Shitai to Omoimasu",
-      "score": 0.132,
-      "r18": false
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "it",
+        "de",
+        "id",
+        "br"
+      ]
     },
     {
       "id": 59608,
       "title": "ELEMENTS: Users Of The Universe",
-      "score": 0.091,
-      "r18": false
+      "score": 0.09,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 44028,
+      "title": "Fate/Grand Order From Lostbelt",
+      "score": 0.085,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "es"
+      ]
     }
   ]
 }

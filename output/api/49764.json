@@ -1,50 +1,78 @@
 {
   "id": 49764,
   "title": "My Phone Doesn't Seem to Be Okay",
-  "url": "https://api.mangadex.org/v2/manga/49764",
-  "last_updated": "February 05, 2021 08:12:53 UTC",
+  "url": "https://mangadex.org/manga/49764",
+  "last_updated": "March 18, 2021 13:15:59 UTC",
   "matches": [
     {
       "id": 45337,
       "title": "Hibike! Euphonium - I Scream. / Happy I Scream.(Doujinshi)",
-      "score": 0.275,
-      "r18": false
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5767,
       "title": "Hanjuku Joshi",
-      "score": 0.22,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 10346,
       "title": "Witches' Sabbath",
-      "score": 0.22,
-      "r18": false
-    },
-    {
-      "id": 53284,
-      "title": "Mahou Shoujo Lyrical Nanoha - Junketsu Dressage (Doujinshi)",
-      "score": 0.22,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "tr",
+        "fr",
+        "vn",
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 53463,
       "title": "Love Live - Kirakira Future (Doujinshi)",
-      "score": 0.22,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20739,
       "title": "Akaneiro no Kisu wa Okujou de",
-      "score": 0.183,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 34396,
+      "title": "After School",
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id"
+      ]
     },
     {
       "id": 50367,
       "title": "Shoujo Kageki Revue Starlight - Bonne Saint Valentin (Doujinshi)",
-      "score": 0.138,
-      "r18": false
+      "score": 0.125,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

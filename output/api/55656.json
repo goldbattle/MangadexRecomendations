@@ -1,158 +1,298 @@
 {
   "id": 55656,
   "title": "Red Hood",
-  "url": "https://api.mangadex.org/v2/manga/55656",
-  "last_updated": "March 12, 2021 20:40:34 UTC",
+  "url": "https://mangadex.org/manga/55656",
+  "last_updated": "March 18, 2021 14:05:11 UTC",
   "matches": [
     {
       "id": 8,
       "title": "Psyren",
-      "score": 0.238,
-      "r18": false
+      "score": 0.196,
+      "r18": false,
+      "languages": [
+        "il",
+        "gb",
+        "ru",
+        "pl"
+      ]
     },
     {
       "id": 107,
       "title": "Toriko",
-      "score": 0.238,
-      "r18": false
+      "score": 0.196,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "es",
+        "mx",
+        "pl"
+      ]
     },
     {
       "id": 142,
       "title": "Tsubasa -RESERVoir CHRoNiCLE-",
-      "score": 0.238,
-      "r18": false
+      "score": 0.196,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 950,
       "title": "GATE 7",
-      "score": 0.238,
-      "r18": false
+      "score": 0.196,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 1036,
       "title": "Rave",
-      "score": 0.238,
-      "r18": false
+      "score": 0.196,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa",
+        "ua",
+        "br"
+      ]
     },
     {
       "id": 4016,
       "title": "AREA D",
-      "score": 0.238,
-      "r18": false
+      "score": 0.196,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "ru",
+        "mn",
+        "es"
+      ]
     },
     {
       "id": 4350,
       "title": "Shaman King Flowers",
-      "score": 0.238,
-      "r18": false
+      "score": 0.196,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru"
+      ]
     },
     {
       "id": 5014,
       "title": "Noragami",
-      "score": 0.238,
-      "r18": false
+      "score": 0.196,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "br",
+        "tr",
+        "fr",
+        "es",
+        "hu"
+      ]
     },
     {
       "id": 6521,
       "title": "Nishi no Yoki Majo",
-      "score": 0.238,
-      "r18": false
+      "score": 0.196,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11041,
       "title": "Stealth Symphony",
-      "score": 0.238,
-      "r18": false
+      "score": 0.196,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "pl"
+      ]
     },
     {
       "id": 11923,
       "title": "Monster X Monster",
-      "score": 0.238,
-      "r18": false
+      "score": 0.196,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ro"
+      ]
     },
     {
       "id": 13050,
       "title": "Tsubasa WoRLD CHRoNiCLE - Nirai Kanai-hen",
-      "score": 0.238,
-      "r18": false
+      "score": 0.196,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 13963,
       "title": "Yu-Gi-Oh! GX",
-      "score": 0.238,
-      "r18": false
+      "score": 0.196,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 15016,
+      "title": "Black Clover",
+      "score": 0.196,
+      "r18": false,
+      "languages": [
+        "br",
+        "hu",
+        "gb",
+        "sa",
+        "mn",
+        "it",
+        "pl",
+        "ru",
+        "mx",
+        "es",
+        "de",
+        "fr",
+        "id",
+        "my"
+      ]
     },
     {
       "id": 15150,
       "title": "Jitsuryokuha Elite Jin",
-      "score": 0.238,
-      "r18": false
+      "score": 0.196,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 16444,
       "title": "Radiant",
-      "score": 0.238,
-      "r18": false
+      "score": 0.196,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx"
+      ]
     },
     {
       "id": 20131,
       "title": "Fumetsu no Anata e",
-      "score": 0.238,
-      "r18": false
+      "score": 0.196,
+      "r18": false,
+      "languages": [
+        "br",
+        "ru",
+        "tr",
+        "gb"
+      ]
     },
     {
       "id": 22705,
       "title": "Majo no Kaigashuu",
-      "score": 0.238,
-      "r18": false
+      "score": 0.196,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "de"
+      ]
     },
     {
       "id": 30443,
       "title": "Muhyo to Roji no Mahouritsu Soudan Jimusho: Mazoku Magushi-hen",
-      "score": 0.238,
-      "r18": false
+      "score": 0.196,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 36824,
       "title": "Rust-Eater Bisco",
-      "score": 0.238,
-      "r18": false
+      "score": 0.196,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru"
+      ]
     },
     {
       "id": 1950,
       "title": "Darren Shan",
-      "score": 0.216,
-      "r18": false
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "pl"
+      ]
     },
     {
       "id": 15355,
       "title": "Kyokou Suiri",
-      "score": 0.216,
-      "r18": false
-    },
-    {
-      "id": 28486,
-      "title": "Avatar: The Last Airbender - The Lost Adventures",
-      "score": 0.216,
-      "r18": false
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "ru",
+        "it",
+        "fr",
+        "br"
+      ]
     },
     {
       "id": 36801,
       "title": "L.O.R.D: Legend of Ravaging Dynasties",
-      "score": 0.216,
-      "r18": false
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "id",
+        "br"
+      ]
     },
     {
       "id": 45901,
-      "title": "Ascension to Godhood by Slaying Demons",
-      "score": 0.216,
-      "r18": false
+      "title": "Ascension by Slaying Demons",
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "br",
+        "fr"
+      ]
     },
     {
       "id": 59249,
       "title": "Hook",
-      "score": 0.216,
-      "r18": false
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

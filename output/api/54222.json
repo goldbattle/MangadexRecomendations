@@ -1,20 +1,27 @@
 {
   "id": 54222,
   "title": "Shoujo Kageki Revue Starlight - Voice (Doujinshi)",
-  "url": "https://api.mangadex.org/v2/manga/54222",
-  "last_updated": "March 12, 2021 20:22:57 UTC",
+  "url": "https://mangadex.org/manga/54222",
+  "last_updated": "March 18, 2021 13:53:11 UTC",
   "matches": [
     {
       "id": 54215,
       "title": "BanG Dream! - SPICY Misaki x Kokoro (Doujinshi)",
-      "score": 0.727,
-      "r18": false
+      "score": 0.443,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 48970,
       "title": "Shoujo Kageki Revue Starlight - Unscripted Feelings and Their Several Accompanying Circumstances (Doujinshi)",
-      "score": 0.655,
-      "r18": false
+      "score": 0.328,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

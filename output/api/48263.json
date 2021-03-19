@@ -2,31 +2,35 @@
   "id": 48263,
   "title": "Planet of Wheat",
   "url": "https://mangadex.org/manga/48263",
-  "last_updated": "January 15, 2021 12:31:25 UTC",
+  "last_updated": "March 18, 2021 13:03:23 UTC",
   "matches": [
-    {
-      "id": 26134,
-      "title": "Shuuseki Kairo no Himawari",
-      "score": 0.672,
-      "r18": false
-    },
     {
       "id": 37463,
       "title": "Ihou no Oswald",
-      "score": 0.381,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb"
+      ]
     },
     {
       "id": 53728,
       "title": "A Breeze of Kanome",
-      "score": 0.355,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 51716,
-      "title": "Wish Shop",
-      "score": 0.163,
-      "r18": false
+      "id": 26134,
+      "title": "Shuuseki Kairo no Himawari",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

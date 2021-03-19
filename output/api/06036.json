@@ -2,115 +2,110 @@
   "id": 6036,
   "title": "Dororo",
   "url": "https://mangadex.org/manga/6036",
-  "last_updated": "March 14, 2021 12:45:36 UTC",
+  "last_updated": "March 18, 2021 06:37:03 UTC",
   "matches": [
-    {
-      "id": 7163,
-      "title": "Henshin Ninja Arashi",
-      "score": 0.207,
-      "r18": false
-    },
     {
       "id": 23215,
       "title": "Jigokuraku",
-      "score": 0.198,
-      "r18": false
+      "score": 0.197,
+      "r18": false,
+      "languages": [
+        "hk",
+        "br",
+        "gb",
+        "vn",
+        "ru",
+        "mx",
+        "th",
+        "tr",
+        "it",
+        "de"
+      ]
     },
     {
       "id": 29138,
       "title": "Peach Boy Riverside",
-      "score": 0.192,
-      "r18": false
-    },
-    {
-      "id": 37002,
-      "title": "Efu no Shichinin",
-      "score": 0.171,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "fr"
+      ]
     },
     {
       "id": 3779,
       "title": "Hokuto no Ken",
       "score": 0.168,
-      "r18": false
-    },
-    {
-      "id": 6645,
-      "title": "Ragouden",
-      "score": 0.165,
-      "r18": false
-    },
-    {
-      "id": 53891,
-      "title": "From the Red Fog",
-      "score": 0.161,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "fr",
+        "br",
+        "pl"
+      ]
     },
     {
       "id": 1404,
       "title": "Guin Saga",
-      "score": 0.155,
-      "r18": false
+      "score": 0.154,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 19594,
       "title": "Cyborg 009 VS Devilman - Breakdown",
-      "score": 0.135,
-      "r18": false
-    },
-    {
-      "id": 3389,
-      "title": "Kinnikuman",
       "score": 0.134,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 16665,
       "title": "Reiri",
       "score": 0.132,
-      "r18": false
-    },
-    {
-      "id": 59112,
-      "title": "Fate Combaters",
-      "score": 0.132,
-      "r18": false
-    },
-    {
-      "id": 14704,
-      "title": "Kyomu Senki",
-      "score": 0.131,
-      "r18": false
-    },
-    {
-      "id": 17317,
-      "title": "Acaria",
-      "score": 0.127,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "tr",
+        "sa",
+        "br"
+      ]
     },
     {
       "id": 8448,
       "title": "Kamen Rider",
-      "score": 0.119,
-      "r18": false
+      "score": 0.118,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 31688,
       "title": "Dai Dark",
-      "score": 0.108,
-      "r18": false
-    },
-    {
-      "id": 40363,
-      "title": "Wilderness Hut",
-      "score": 0.08,
-      "r18": false
-    },
-    {
-      "id": 40362,
-      "title": "Borderline Bestial Corpse",
-      "score": 0.078,
-      "r18": false
+      "score": 0.107,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "sa",
+        "hk",
+        "ru",
+        "br",
+        "tr",
+        "ua",
+        "it"
+      ]
     }
   ]
 }

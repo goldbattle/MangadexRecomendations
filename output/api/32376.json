@@ -1,158 +1,244 @@
 {
   "id": 32376,
   "title": "Gakuran no Nakamade Sawatte Hoshii",
-  "url": "https://api.mangadex.org/v2/manga/32376",
-  "last_updated": "February 10, 2021 08:34:28 UTC",
+  "url": "https://mangadex.org/manga/32376",
+  "last_updated": "March 18, 2021 10:50:44 UTC",
   "matches": [
     {
-      "id": 53660,
-      "title": "Honenuki ni Saretai",
-      "score": 0.698,
-      "r18": false
+      "id": 24002,
+      "title": "Anata no Tonarini Suwarasete",
+      "score": 0.379,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 37280,
-      "title": "Kimi no Ai wa Mienikui",
-      "score": 0.695,
-      "r18": false
-    },
-    {
-      "id": 12817,
-      "title": "Furue Tsumore Shiawase no Hana",
-      "score": 0.695,
-      "r18": false
-    },
-    {
-      "id": 56390,
-      "title": "Shijou Senyuuritsu",
-      "score": 0.692,
-      "r18": false
-    },
-    {
-      "id": 26915,
-      "title": "Shinu hodo Suki",
-      "score": 0.691,
-      "r18": false
-    },
-    {
-      "id": 17966,
-      "title": "Paradise View",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 21107,
-      "title": "Itoshi Koishi Kimi Dake ni",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 55072,
-      "title": "Gekkou no Rankan ni Kuchinashi no Nioi",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 15696,
-      "title": "Dreamers High",
-      "score": 0.674,
-      "r18": false
-    },
-    {
-      "id": 30156,
-      "title": "Junjou Escape",
-      "score": 0.673,
-      "r18": false
-    },
-    {
-      "id": 7922,
-      "title": "Doushitemo Furetakunai",
-      "score": 0.673,
-      "r18": false
+      "id": 20900,
+      "title": "Oko-sama Box",
+      "score": 0.379,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 27828,
       "title": "Uminari",
-      "score": 0.673,
-      "r18": false
+      "score": 0.379,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 54262,
+      "title": "Itaike na Bokura",
+      "score": 0.379,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14649,
+      "title": "Omowaseburi na Kimi no Tonari",
+      "score": 0.379,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7792,
+      "title": "Kimi to Parade",
+      "score": 0.379,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 5377,
+      "title": "Karada Meate de Warui ka",
+      "score": 0.379,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 56171,
+      "title": "My Bodyguard",
+      "score": 0.379,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 33279,
+      "title": "Hishakai Shindo",
+      "score": 0.379,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu"
+      ]
+    },
+    {
+      "id": 9508,
+      "title": "Ouji no Hakoniwa",
+      "score": 0.379,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 35008,
+      "title": "Innocent Blue",
+      "score": 0.379,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 9199,
+      "title": "Seinen wa Ai o Kou",
+      "score": 0.379,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 59532,
+      "title": "Shokuinshitsu no Himegoto",
+      "score": 0.379,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59792,
+      "title": "Hoezura ni Kamitsuku Kisu",
+      "score": 0.379,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 39321,
+      "title": "Hoshi ni Ochiru Efude",
+      "score": 0.379,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 30477,
+      "title": "Kimi no Mukougawa",
+      "score": 0.379,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8342,
+      "title": "Mahoutsukai no Koi",
+      "score": 0.379,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 36778,
+      "title": "Meguriau yo Baby",
+      "score": 0.379,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 30156,
+      "title": "Junjou Escape",
+      "score": 0.337,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 26922,
+      "title": "Sweet Bitter Candy",
+      "score": 0.33,
+      "r18": false,
+      "languages": [
+        "tr",
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 14941,
+      "title": "Ii Kankei de Komatteru",
+      "score": 0.316,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37292,
+      "title": "Kimi to Iru Asu",
+      "score": 0.316,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 53787,
       "title": "Orangenia na Hibi",
-      "score": 0.673,
-      "r18": false
+      "score": 0.316,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 10213,
-      "title": "Otodokemono Desu!",
-      "score": 0.672,
-      "r18": false
+      "id": 7872,
+      "title": "Dramatic Maestro",
+      "score": 0.316,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 16544,
-      "title": "ULTRAS",
-      "score": 0.671,
-      "r18": false
-    },
-    {
-      "id": 15000,
-      "title": "Umibe no &Eacute;tranger",
-      "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 16040,
-      "title": "Joushi to Ore no Himitsu",
-      "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 36148,
-      "title": "Ai no Kotoba o Uragaeshi",
-      "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 58208,
-      "title": "Kaerenain Da Yo",
-      "score": 0.668,
-      "r18": false
-    },
-    {
-      "id": 55586,
-      "title": "On the Quiet",
-      "score": 0.668,
-      "r18": false
-    },
-    {
-      "id": 12505,
-      "title": "Dog Style",
-      "score": 0.667,
-      "r18": false
-    },
-    {
-      "id": 27578,
-      "title": "Boku wa Boku Narini",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 43289,
-      "title": "Himegimi wa Ore no Mono",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 58353,
-      "title": "Kiss to Kirai no Hantai",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 10293,
-      "title": "Omae de Nakya Dame Mitai",
-      "score": 0.665,
-      "r18": false
+      "id": 46534,
+      "title": "Shoujo Mangaka no Koi",
+      "score": 0.316,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -1,158 +1,286 @@
 {
   "id": 42735,
   "title": "Eirun Last Code",
-  "url": "https://api.mangadex.org/v2/manga/42735",
-  "last_updated": "February 11, 2021 12:29:50 UTC",
+  "url": "https://mangadex.org/manga/42735",
+  "last_updated": "March 18, 2021 12:17:09 UTC",
   "matches": [
     {
-      "id": 281,
-      "title": "Trigun Maximum",
-      "score": 0.775,
-      "r18": false
+      "id": 23845,
+      "title": "The Big O",
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 2500,
-      "title": "ChunRangYulJun",
-      "score": 0.765,
-      "r18": false
+      "id": 18663,
+      "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Daisanshou - Truth of Zero",
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "br",
+        "mx",
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 55365,
-      "title": "MEMORIZE",
-      "score": 0.765,
-      "r18": false
+      "id": 7707,
+      "title": "Kidou Senshi Gundam UC (Unicorn) - Bande Dessin&eacute;e",
+      "score": 0.227,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1714,
       "title": "Kara no Kyoukai - The Garden of Sinners",
-      "score": 0.761,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "mx"
+      ]
     },
     {
-      "id": 42686,
-      "title": "Yuusha Shoukan ni Makikomareta kedo, Isekai wa Heiwa deshita",
-      "score": 0.759,
-      "r18": false
+      "id": 12108,
+      "title": "Mushoku Tensei ~Isekai Ittara Honki Dasu~",
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "sa",
+        "it",
+        "vn",
+        "ru",
+        "mx",
+        "id",
+        "fr",
+        "tr",
+        "pl",
+        "hu"
+      ]
+    },
+    {
+      "id": 23332,
+      "title": "Kidou Senshi Gundam Twilight Axis",
+      "score": 0.219,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50766,
+      "title": "Cheat Skill &quot;Shisha Sosei&quot; ga Kakusei Shite, Inishie no Maougun wo Fukkatsu Sasete Shimaimashita",
+      "score": 0.219,
+      "r18": false,
+      "languages": [
+        "br",
+        "mx",
+        "fr",
+        "id",
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 55365,
+      "title": "MEMORIZE",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "id",
+        "pl"
+      ]
+    },
+    {
+      "id": 13791,
+      "title": "Crest of the Stars",
+      "score": 0.217,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 17917,
+      "title": "Hyakuren no Haou to Seiyaku no Ikusa Otome",
+      "score": 0.217,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 22842,
+      "title": "Isekai Tensei ni Kansha o",
+      "score": 0.216,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7869,
+      "title": "Arashi no Hana Murakumo no Uta",
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 39510,
+      "title": "Isekai Meikyuu no Saishinbu o Mezasou",
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "ru",
+        "br",
+        "es",
+        "id",
+        "fr"
+      ]
+    },
+    {
+      "id": 35626,
+      "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Kenki Koiuta",
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru"
+      ]
+    },
+    {
+      "id": 24380,
+      "title": "Megami Kouhosei",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2888,
+      "title": "Trace 1.5",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 23941,
+      "title": "Berserk of Gluttony",
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "br",
+        "sa",
+        "ru",
+        "de",
+        "hu",
+        "pl",
+        "ro"
+      ]
+    },
+    {
+      "id": 22381,
+      "title": "Mushikago no Cagaster",
+      "score": 0.204,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru"
+      ]
     },
     {
       "id": 1085,
       "title": "Code Geass: Lelouch of the Rebellion",
-      "score": 0.758,
-      "r18": false
+      "score": 0.204,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 29740,
-      "title": "Parasyte Reversi",
-      "score": 0.758,
-      "r18": false
+      "id": 9096,
+      "title": "Magdala de Nemure",
+      "score": 0.204,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "pl"
+      ]
     },
     {
-      "id": 843,
-      "title": "20th Century Boys",
-      "score": 0.758,
-      "r18": false
+      "id": 30057,
+      "title": "Persona 4 The Ultimax Suplex Hold",
+      "score": 0.203,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 1591,
-      "title": "21st Century Boys",
-      "score": 0.758,
-      "r18": false
+      "id": 16825,
+      "title": "Ginga Eiyuu Densetsu",
+      "score": 0.203,
+      "r18": false,
+      "languages": [
+        "ru",
+        "br",
+        "gb"
+      ]
     },
     {
-      "id": 2110,
-      "title": "Souten no Ken",
-      "score": 0.757,
-      "r18": false
+      "id": 50085,
+      "title": "Legend of the Galactic Heroes",
+      "score": 0.203,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
-      "id": 18059,
-      "title": "Grimoire of Zero",
-      "score": 0.757,
-      "r18": false
+      "id": 51966,
+      "title": "Heroic Chronicles of the Three Continents",
+      "score": 0.203,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 1120,
-      "title": "Ultra Heaven",
-      "score": 0.757,
-      "r18": false
-    },
-    {
-      "id": 4880,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
-      "score": 0.757,
-      "r18": false
-    },
-    {
-      "id": 27156,
-      "title": "Hiru",
-      "score": 0.756,
-      "r18": false
-    },
-    {
-      "id": 17623,
-      "title": "Iwaihime",
-      "score": 0.756,
-      "r18": false
-    },
-    {
-      "id": 18150,
-      "title": "Dies irae ~Amantes Amentes~",
-      "score": 0.755,
-      "r18": false
-    },
-    {
-      "id": 8495,
-      "title": "Persona 3",
-      "score": 0.754,
-      "r18": false
-    },
-    {
-      "id": 430,
-      "title": "Hotel",
-      "score": 0.754,
-      "r18": false
-    },
-    {
-      "id": 7126,
-      "title": "Dimension W",
-      "score": 0.753,
-      "r18": false
-    },
-    {
-      "id": 15165,
-      "title": "Vampire Hunter D",
-      "score": 0.753,
-      "r18": false
-    },
-    {
-      "id": 398,
-      "title": "Tsumi to Batsu - A Falsified Romance",
-      "score": 0.751,
-      "r18": false
-    },
-    {
-      "id": 104,
-      "title": "Liar Game",
-      "score": 0.751,
-      "r18": false
-    },
-    {
-      "id": 20348,
-      "title": "The King's Avatar",
-      "score": 0.75,
-      "r18": false
-    },
-    {
-      "id": 890,
-      "title": "Dogs / Bullets &amp; Carnage",
-      "score": 0.75,
-      "r18": false
-    },
-    {
-      "id": 9829,
-      "title": "Immortal Hounds",
-      "score": 0.749,
-      "r18": false
+      "id": 38251,
+      "title": "Guilty Children",
+      "score": 0.202,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru"
+      ]
     }
   ]
 }

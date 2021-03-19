@@ -1,158 +1,248 @@
 {
   "id": 51238,
   "title": "Momoiro Dogubako",
-  "url": "https://api.mangadex.org/v2/manga/51238",
-  "last_updated": "February 05, 2021 12:04:37 UTC",
+  "url": "https://mangadex.org/manga/51238",
+  "last_updated": "March 18, 2021 13:28:16 UTC",
   "matches": [
     {
       "id": 6867,
       "title": "Tasogare wa Karera no Jikan",
-      "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 21732,
-      "title": "Nikushoku Kemono no Amai Yubi",
-      "score": 0.353,
-      "r18": false
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 36739,
       "title": "Sawaranaide, Kowareteimasu",
-      "score": 0.353,
-      "r18": false
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 55842,
       "title": "Zense to Gense to Kimi to Ore",
-      "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 2909,
-      "title": "Devil's Bride",
-      "score": 0.265,
-      "r18": false
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5903,
       "title": "Onigari no Mori de",
-      "score": 0.265,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6083,
       "title": "Sex Pistols",
-      "score": 0.265,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 6208,
       "title": "Silence",
-      "score": 0.265,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19645,
       "title": "Sayonara, Otokonoko",
-      "score": 0.265,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 23858,
       "title": "Bokura wa Nando mo Koi o Suru",
-      "score": 0.265,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 24143,
       "title": "Hachiue no Juunin",
-      "score": 0.265,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 26617,
       "title": "Ikusen no Toki o Koete",
-      "score": 0.265,
-      "r18": false
-    },
-    {
-      "id": 29300,
-      "title": "Royal Servant",
-      "score": 0.265,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 35646,
       "title": "Kanawanu Koi no Musubikata",
-      "score": 0.265,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 42993,
       "title": "Tsunaida Koi no Kanaekata",
-      "score": 0.265,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
     },
     {
       "id": 48911,
       "title": "Tsubanakasu Haru",
-      "score": 0.265,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 56731,
       "title": "Kimi o Watareba",
-      "score": 0.265,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 56858,
       "title": "Unmei no Hana",
-      "score": 0.265,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 56938,
       "title": "Meikon",
-      "score": 0.265,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4336,
       "title": "Goshintou",
-      "score": 0.212,
-      "r18": false
+      "score": 0.184,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4660,
       "title": "Unlucky Strike",
-      "score": 0.212,
-      "r18": false
+      "score": 0.184,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6527,
       "title": "Konya mo Nemurenai",
-      "score": 0.212,
-      "r18": false
+      "score": 0.184,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 8007,
       "title": "Itsuka Ame ga Furu You ni",
-      "score": 0.212,
-      "r18": false
+      "score": 0.184,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 8627,
       "title": "Bamford Koushakuke no Shitsuji",
-      "score": 0.212,
-      "r18": false
+      "score": 0.184,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 10393,
       "title": "Kare Otoko ni Izumi wo",
-      "score": 0.212,
-      "r18": false
+      "score": 0.184,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 11323,
+      "title": "Kami-sama, Onegai!",
+      "score": 0.184,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 12462,
+      "title": "Lovers&hearts;Doll",
+      "score": 0.184,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 12831,
+      "title": "Renai Prism",
+      "score": 0.184,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

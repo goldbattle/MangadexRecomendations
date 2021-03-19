@@ -1,56 +1,86 @@
 {
   "id": 31796,
   "title": "Sono Oshi, XX ni Tsuki",
-  "url": "https://api.mangadex.org/v2/manga/31796",
-  "last_updated": "February 10, 2021 08:25:41 UTC",
+  "url": "https://mangadex.org/manga/31796",
+  "last_updated": "March 18, 2021 10:45:54 UTC",
   "matches": [
     {
-      "id": 52476,
-      "title": "Amayakasanaide Fuku Shachou: Danna-sama wa SSR",
-      "score": 0.708,
-      "r18": false
-    },
-    {
-      "id": 46731,
-      "title": "Wolf Crying Pharmacy",
-      "score": 0.701,
-      "r18": false
-    },
-    {
-      "id": 46221,
-      "title": "Pure Love",
-      "score": 0.692,
-      "r18": false
-    },
-    {
-      "id": 41851,
-      "title": "Arienai! Do S futago ni kakimazerarechau",
-      "score": 0.692,
-      "r18": false
+      "id": 53057,
+      "title": "Tonari no Seki no Hen na Senpai",
+      "score": 0.316,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 46057,
       "title": "Make Me Hard: My Boss Won't Let Me Go",
-      "score": 0.673,
-      "r18": false
+      "score": 0.315,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 50399,
-      "title": "Related to Love",
-      "score": 0.66,
-      "r18": false
+      "id": 58488,
+      "title": "Idakarete Tamaru ka! - Rival Douki ga Watashi o Ai de Oitsumeru",
+      "score": 0.305,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 41851,
+      "title": "Arienai! Do S futago ni kakimazerarechau",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
     },
     {
       "id": 55405,
-      "title": "Sakuraba-kun no &quot;do zetsurin&quot;, Dada Morenandesu...",
-      "score": 0.395,
-      "r18": false
+      "title": "Sakuraba-kun no 'Do Zetsurin', Dada More Nandesu...",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "hk"
+      ]
+    },
+    {
+      "id": 52476,
+      "title": "Amayakasanaide Fuku Shachou ~Danna-sama wa SSR~",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "vn",
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 17851,
       "title": "Arrogance and Romance",
-      "score": 0.289,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 46221,
+      "title": "Pure Love",
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "br"
+      ]
     }
   ]
 }

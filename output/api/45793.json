@@ -1,158 +1,263 @@
 {
   "id": 45793,
   "title": "The ComiQ",
-  "url": "https://api.mangadex.org/v2/manga/45793",
-  "last_updated": "February 11, 2021 20:31:30 UTC",
+  "url": "https://mangadex.org/manga/45793",
+  "last_updated": "March 18, 2021 12:42:42 UTC",
   "matches": [
-    {
-      "id": 6270,
-      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo (Official Colored)",
-      "score": 0.7,
-      "r18": false
-    },
-    {
-      "id": 153,
-      "title": "Detective Conan",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 5523,
-      "title": "Alabaster",
-      "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 82,
-      "title": "Death Note",
-      "score": 0.668,
-      "r18": false
-    },
-    {
-      "id": 3374,
-      "title": "Kidou Senshi Gundam - Gihren Ansatsu Keikaku",
-      "score": 0.668,
-      "r18": false
-    },
     {
       "id": 41660,
       "title": "Nazotoki Drill",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 9039,
-      "title": "Chousuinou Kei ~Makafushigi Jiken File~",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 2589,
-      "title": "Tantei Gakuen Q",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 9240,
-      "title": "Tantei Gakuen Q Premium",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 13382,
-      "title": "Kindaichi Shounen no Jikenbo - Short File Series",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 48155,
-      "title": "JoJo's Bizarre Adventure: Cost of information (Doujinshi)",
-      "score": 0.652,
-      "r18": false
+      "score": 0.247,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 23050,
       "title": "Detective Xeno and the Seven Locked Murder Rooms",
-      "score": 0.331,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "sa",
+        "gb",
+        "pl",
+        "ru"
+      ]
+    },
+    {
+      "id": 9039,
+      "title": "Chousuinou Kei ~Makafushigi Jiken File~",
+      "score": 0.197,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 13382,
+      "title": "Kindaichi Shounen no Jikenbo - Short File Series",
+      "score": 0.19,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 38914,
       "title": "Nibiiro no Chameleon",
-      "score": 0.285,
-      "r18": false
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 21338,
       "title": "Moriarty the Patriot",
-      "score": 0.282,
-      "r18": false
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "vn",
+        "gb",
+        "ru",
+        "br"
+      ]
     },
     {
       "id": 21555,
       "title": "Route End",
-      "score": 0.28,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 4610,
       "title": "Bishounen de Meitantei de Doesu",
-      "score": 0.269,
-      "r18": false
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 57755,
-      "title": "The Messenger",
-      "score": 0.245,
-      "r18": false
+      "id": 5523,
+      "title": "Alabaster",
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 58461,
       "title": "Midoriyama Police Gang",
-      "score": 0.229,
-      "r18": false
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 50913,
-      "title": "Urban Beasts",
-      "score": 0.22,
-      "r18": false
+      "id": 82,
+      "title": "Death Note",
+      "score": 0.119,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "es",
+        "br"
+      ]
+    },
+    {
+      "id": 57755,
+      "title": "The Messenger",
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 2589,
+      "title": "Tantei Gakuen Q",
+      "score": 0.112,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 820,
       "title": "Zettai Karen Children",
-      "score": 0.214,
-      "r18": false
+      "score": 0.109,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "pl"
+      ]
     },
     {
-      "id": 36922,
-      "title": "Pale Throne",
-      "score": 0.193,
-      "r18": false
+      "id": 9240,
+      "title": "Tantei Gakuen Q Premium",
+      "score": 0.108,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3374,
+      "title": "Kidou Senshi Gundam - Gihren Ansatsu Keikaku",
+      "score": 0.104,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 49443,
       "title": "Spy Room",
-      "score": 0.185,
-      "r18": false
+      "score": 0.104,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "id"
+      ]
+    },
+    {
+      "id": 153,
+      "title": "Detective Conan",
+      "score": 0.104,
+      "r18": false,
+      "languages": [
+        "id",
+        "sa",
+        "gb",
+        "it",
+        "es",
+        "ct",
+        "fr",
+        "mx",
+        "ru",
+        "pl",
+        "br",
+        "mn",
+        "tr",
+        "bg"
+      ]
+    },
+    {
+      "id": 6270,
+      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo (Official Colored)",
+      "score": 0.099,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "ru",
+        "br",
+        "de"
+      ]
+    },
+    {
+      "id": 48155,
+      "title": "JoJo's Bizarre Adventure - Cost of information (Doujinshi)",
+      "score": 0.089,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 59302,
       "title": "Amazing Rumor",
-      "score": 0.182,
-      "r18": false
+      "score": 0.087,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 36922,
+      "title": "Pale Throne",
+      "score": 0.087,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "id"
+      ]
     },
     {
       "id": 58583,
       "title": "Tirkom",
-      "score": 0.182,
-      "r18": false
+      "score": 0.087,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 55820,
-      "title": "Ghost Stories",
-      "score": 0.113,
-      "r18": false
+      "id": 38984,
+      "title": "Detective Conan - Zero The Enforcer",
+      "score": 0.076,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

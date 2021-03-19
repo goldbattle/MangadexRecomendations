@@ -1,158 +1,244 @@
 {
   "id": 32051,
   "title": "Kanxingfeng",
-  "url": "https://api.mangadex.org/v2/manga/32051",
-  "last_updated": "February 10, 2021 08:29:38 UTC",
+  "url": "https://mangadex.org/manga/32051",
+  "last_updated": "March 18, 2021 10:48:01 UTC",
   "matches": [
     {
       "id": 17707,
       "title": "Yeonliji",
-      "score": 0.37,
-      "r18": false
+      "score": 0.34,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 28480,
       "title": "Madman",
-      "score": 0.37,
-      "r18": false
+      "score": 0.34,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8562,
       "title": "The Shadow of the Moon",
-      "score": 0.247,
-      "r18": false
+      "score": 0.226,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 52779,
       "title": "Hetalia dj - Million Lies",
-      "score": 0.247,
-      "r18": false
+      "score": 0.226,
+      "r18": false,
+      "languages": [
+        "hu"
+      ]
     },
     {
       "id": 52786,
       "title": "Hetalia dj - Besame Mucho",
-      "score": 0.247,
-      "r18": false
+      "score": 0.226,
+      "r18": false,
+      "languages": [
+        "hu"
+      ]
     },
     {
       "id": 12435,
       "title": "Hoshi yo Oka yo Fuyu no Ao yo",
-      "score": 0.185,
-      "r18": false
+      "score": 0.17,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "tr"
+      ]
     },
     {
       "id": 15424,
       "title": "Eiyuu to Shounen",
-      "score": 0.185,
-      "r18": false
+      "score": 0.17,
+      "r18": false,
+      "languages": [
+        "mx",
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 24600,
       "title": "11-gatsu no Gymnasium",
-      "score": 0.185,
-      "r18": false
+      "score": 0.17,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 26802,
       "title": "Taizi",
-      "score": 0.185,
-      "r18": false
+      "score": 0.17,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 28547,
       "title": "The Beast In The Tower",
-      "score": 0.185,
-      "r18": false
+      "score": 0.17,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 28727,
       "title": "Hyakuyou Daichou",
-      "score": 0.185,
-      "r18": false
+      "score": 0.17,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 31480,
       "title": "Full Moon",
-      "score": 0.185,
-      "r18": false
+      "score": 0.17,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 36319,
       "title": "Qing Rusi",
-      "score": 0.185,
-      "r18": false
+      "score": 0.17,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": 44187,
       "title": "Hensoukyoku",
-      "score": 0.185,
-      "r18": false
+      "score": 0.17,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 50065,
       "title": "Machigitsune to Hito no Ko",
-      "score": 0.185,
-      "r18": false
+      "score": 0.17,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 53525,
       "title": "Futago no Goshisoku-sama",
-      "score": 0.185,
-      "r18": false
+      "score": 0.17,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 58104,
       "title": "Aka no Washupiel",
-      "score": 0.185,
-      "r18": false
+      "score": 0.17,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2674,
       "title": "Taishou Mugen Kitan",
-      "score": 0.148,
-      "r18": false
+      "score": 0.136,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 3728,
       "title": "Boku no Chopin",
-      "score": 0.148,
-      "r18": false
+      "score": 0.136,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 11018,
       "title": "Blue Gray no Kutsuoto",
-      "score": 0.148,
-      "r18": false
+      "score": 0.136,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20632,
       "title": "Mute Uncle",
-      "score": 0.148,
-      "r18": false
+      "score": 0.136,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20633,
       "title": "The Defiant Subject",
-      "score": 0.148,
-      "r18": false
+      "score": 0.136,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 25905,
       "title": "YuZe of the Peach Blossom Springs",
-      "score": 0.148,
-      "r18": false
+      "score": 0.136,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "mx"
+      ]
     },
     {
       "id": 35442,
       "title": "Seinenki Abe no Seimei Ibun - Reimei no Hana",
-      "score": 0.148,
-      "r18": false
+      "score": 0.136,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 47463,
       "title": "As Lovely as the Peach Blossoms",
-      "score": 0.148,
-      "r18": false
+      "score": 0.136,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     }
   ]
 }

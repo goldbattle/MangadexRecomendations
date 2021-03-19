@@ -1,158 +1,252 @@
 {
   "id": 31211,
   "title": "Maid in Hikkomuse",
-  "url": "https://api.mangadex.org/v2/manga/31211",
-  "last_updated": "February 10, 2021 08:16:35 UTC",
+  "url": "https://mangadex.org/manga/31211",
+  "last_updated": "March 18, 2021 10:41:01 UTC",
   "matches": [
     {
-      "id": 79,
-      "title": "Mizukami Satoshi Tanpenshuu",
-      "score": 0.668,
-      "r18": false
-    },
-    {
-      "id": 164,
-      "title": "Soredemo Machi wa Mawatteiru",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 1110,
-      "title": "Yokohama Kaidashi Kikou",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 6436,
-      "title": "Ikaryaku",
-      "score": 0.486,
-      "r18": false
-    },
-    {
-      "id": 18763,
-      "title": "Challenging the Manga Dojos",
-      "score": 0.485,
-      "r18": false
-    },
-    {
-      "id": 3733,
-      "title": "HoneyComb",
-      "score": 0.483,
-      "r18": false
+      "id": 26308,
+      "title": "Together with Gau",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 9822,
       "title": "Comic Master J",
-      "score": 0.471,
-      "r18": false
-    },
-    {
-      "id": 19886,
-      "title": "CITY",
-      "score": 0.47,
-      "r18": false
-    },
-    {
-      "id": 10200,
-      "title": "Crayon Shin-chan",
-      "score": 0.467,
-      "r18": false
-    },
-    {
-      "id": 52093,
-      "title": "Tonari no Seki-kun Junior",
-      "score": 0.454,
-      "r18": false
-    },
-    {
-      "id": 26308,
-      "title": "Together with Gau",
-      "score": 0.453,
-      "r18": false
-    },
-    {
-      "id": 50564,
-      "title": "Club 9",
-      "score": 0.453,
-      "r18": false
-    },
-    {
-      "id": 797,
-      "title": "Yurumates",
-      "score": 0.451,
-      "r18": false
-    },
-    {
-      "id": 25873,
-      "title": "NEW GAME! Anthology Comic",
-      "score": 0.447,
-      "r18": false
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 16198,
       "title": "Bokura no Funkasai",
-      "score": 0.446,
-      "r18": false
-    },
-    {
-      "id": 19298,
-      "title": "Higurashi No Naku Koro Ni - Kokoroiyashi-hen",
-      "score": 0.444,
-      "r18": false
-    },
-    {
-      "id": 8110,
-      "title": "Kyouko to Tousan",
-      "score": 0.442,
-      "r18": false
-    },
-    {
-      "id": 620,
-      "title": "Chi's Sweet Home",
-      "score": 0.442,
-      "r18": false
-    },
-    {
-      "id": 17828,
-      "title": "Sentou Hawaii",
-      "score": 0.44,
-      "r18": false
-    },
-    {
-      "id": 57653,
-      "title": "Famiresu Iko.",
-      "score": 0.435,
-      "r18": false
-    },
-    {
-      "id": 10545,
-      "title": "Sen to Man",
-      "score": 0.433,
-      "r18": false
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 938,
       "title": "Yuru Yuru",
-      "score": 0.431,
-      "r18": false
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 473,
-      "title": "Dageki Joi Saori",
-      "score": 0.43,
-      "r18": false
+      "id": 19886,
+      "title": "CITY",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "vn",
+        "ru",
+        "mx",
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 620,
+      "title": "Chi's Sweet Home",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "bg",
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 797,
+      "title": "Yurumates",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 52093,
+      "title": "Tonari no Seki-kun Junior",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 10545,
+      "title": "Sen to Man",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 383,
+      "title": "Flat &amp; Flow",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 15287,
       "title": "Hatarakanai Futari",
-      "score": 0.429,
-      "r18": false
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "tr"
+      ]
     },
     {
-      "id": 23612,
-      "title": "Umareru Seibetsu wo Machigaeta!",
-      "score": 0.429,
-      "r18": false
+      "id": 31760,
+      "title": "Warera Contactee",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50564,
+      "title": "Club 9",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 25873,
+      "title": "NEW GAME! Anthology Comic",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8110,
+      "title": "Kyouko to Tousan",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1249,
+      "title": "Kachou Baka Ichidachi",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 11698,
+      "title": "Nekogurui Minako-san",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 473,
+      "title": "Dageki Joi Saori",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de",
+        "ru"
+      ]
+    },
+    {
+      "id": 5831,
+      "title": "Ikioku - The Cooler Half",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19298,
+      "title": "Higurashi No Naku Koro Ni - Kokoroiyashi-hen",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 15895,
+      "title": "Romeo ga Rival",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1671,
+      "title": "Yoningurashi",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5842,
+      "title": "Sayonara Nippon",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 29989,
+      "title": "Kinjo no Nanako-san",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "id",
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 21162,
+      "title": "If You're Gonna Dress Up, Do It Like This",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     }
   ]
 }

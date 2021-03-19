@@ -2,31 +2,55 @@
   "id": 48375,
   "title": "Shachiku to shoujo no 1800-nichi",
   "url": "https://mangadex.org/manga/48375",
-  "last_updated": "January 15, 2021 12:32:35 UTC",
+  "last_updated": "March 18, 2021 13:04:19 UTC",
   "matches": [
-    {
-      "id": 19472,
-      "title": "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai",
-      "score": 0.692,
-      "r18": false
-    },
     {
       "id": 54235,
       "title": "Mamagoto",
-      "score": 0.422,
-      "r18": false
+      "score": 0.282,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 34223,
       "title": "Roujoteki Shoujo Hinata-chan",
-      "score": 0.325,
-      "r18": false
+      "score": 0.188,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br",
+        "vn"
+      ]
     },
     {
       "id": 31118,
       "title": "Long Yin",
-      "score": 0.204,
-      "r18": false
+      "score": 0.154,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "fr"
+      ]
+    },
+    {
+      "id": 19472,
+      "title": "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai",
+      "score": 0.152,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "pl",
+        "mx",
+        "id",
+        "fr"
+      ]
     }
   ]
 }

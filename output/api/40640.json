@@ -1,50 +1,83 @@
 {
   "id": 40640,
   "title": "Ginga: The Last Wars",
-  "url": "https://api.mangadex.org/v2/manga/40640",
-  "last_updated": "February 11, 2021 08:26:43 UTC",
+  "url": "https://mangadex.org/manga/40640",
+  "last_updated": "March 18, 2021 11:59:40 UTC",
   "matches": [
     {
       "id": 17579,
       "title": "Ginga Densetsu Weed",
-      "score": 0.81,
-      "r18": false
+      "score": 0.724,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu"
+      ]
     },
     {
       "id": 40046,
       "title": "Ojou to Nanahiki no Inu",
-      "score": 0.736,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 6420,
       "title": "Cat Shit One",
-      "score": 0.73,
-      "r18": false
-    },
-    {
-      "id": 7775,
-      "title": "El Alamein no Shinden",
-      "score": 0.705,
-      "r18": false
-    },
-    {
-      "id": 12672,
-      "title": "Tate no Yuusha no Nariagari",
-      "score": 0.693,
-      "r18": false
-    },
-    {
-      "id": 41244,
-      "title": "Kyomu no Higan",
-      "score": 0.684,
-      "r18": false
+      "score": 0.184,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8595,
       "title": "Cat Shit One '80",
-      "score": 0.312,
-      "r18": false
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 41244,
+      "title": "Kyomu no Higan",
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "id"
+      ]
+    },
+    {
+      "id": 7775,
+      "title": "El Alamein no Shinden",
+      "score": 0.13,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 12672,
+      "title": "Tate no Yuusha no Nariagari",
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "ru",
+        "br",
+        "mx",
+        "id",
+        "pl",
+        "hu",
+        "it",
+        "sa"
+      ]
     }
   ]
 }

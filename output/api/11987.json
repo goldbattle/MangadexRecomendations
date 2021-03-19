@@ -2,25 +2,35 @@
   "id": 11987,
   "title": "Ana Satsujin",
   "url": "https://mangadex.org/manga/11987",
-  "last_updated": "March 15, 2021 04:45:52 UTC",
+  "last_updated": "March 18, 2021 07:28:00 UTC",
   "matches": [
     {
       "id": 471,
       "title": "Taboo-Tattoo",
       "score": 0.227,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 6222,
       "title": "Knights",
-      "score": 0.2,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19706,
       "title": "God Mazinger",
       "score": 0.145,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

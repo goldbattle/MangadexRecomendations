@@ -1,14 +1,17 @@
 {
   "id": 55625,
   "title": "Sex x Delivery",
-  "url": "https://api.mangadex.org/v2/manga/55625",
-  "last_updated": "March 12, 2021 20:40:11 UTC",
+  "url": "https://mangadex.org/manga/55625",
+  "last_updated": "March 18, 2021 14:04:55 UTC",
   "matches": [
     {
       "id": 55134,
       "title": "Home Sweet Home",
-      "score": 0.237,
-      "r18": false
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     }
   ]
 }

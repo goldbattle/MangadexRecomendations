@@ -1,14 +1,19 @@
 {
   "id": 45664,
   "title": "Gemini",
-  "url": "https://api.mangadex.org/v2/manga/45664",
-  "last_updated": "February 11, 2021 20:29:23 UTC",
+  "url": "https://mangadex.org/manga/45664",
+  "last_updated": "March 18, 2021 12:41:37 UTC",
   "matches": [
     {
       "id": 41922,
       "title": "Every Minute Ends",
-      "score": 0.113,
-      "r18": false
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "id",
+        "fr",
+        "gb"
+      ]
     }
   ]
 }

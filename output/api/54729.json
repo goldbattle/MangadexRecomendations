@@ -1,158 +1,272 @@
 {
   "id": 54729,
   "title": "Tokyo University Story",
-  "url": "https://api.mangadex.org/v2/manga/54729",
-  "last_updated": "March 12, 2021 20:29:10 UTC",
+  "url": "https://mangadex.org/manga/54729",
+  "last_updated": "March 18, 2021 13:57:25 UTC",
   "matches": [
-    {
-      "id": 656,
-      "title": "Nogizaka Haruka no Himitsu",
-      "score": 0.729,
-      "r18": false
-    },
-    {
-      "id": 537,
-      "title": "Hentai Ouji to Warawanai Neko.",
-      "score": 0.728,
-      "r18": false
-    },
-    {
-      "id": 3594,
-      "title": "Gokukoku no Brynhildr",
-      "score": 0.725,
-      "r18": false
-    },
-    {
-      "id": 438,
-      "title": "Sekirei",
-      "score": 0.72,
-      "r18": false
-    },
-    {
-      "id": 3672,
-      "title": "Full Metal Panic! &Sigma;",
-      "score": 0.718,
-      "r18": false
-    },
-    {
-      "id": 609,
-      "title": "Musunde Hiraite",
-      "score": 0.714,
-      "r18": false
-    },
-    {
-      "id": 1070,
-      "title": "Ladies versus Butlers!",
-      "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 32290,
-      "title": "High Position",
-      "score": 0.71,
-      "r18": false
-    },
-    {
-      "id": 34501,
-      "title": "HEN - Suzuki &amp; Satou",
-      "score": 0.709,
-      "r18": false
-    },
     {
       "id": 728,
       "title": "Ore no Kanojo to Osananajimi ga Shuraba Sugiru",
-      "score": 0.709,
-      "r18": false
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 19629,
-      "title": "Chisa X Pon",
-      "score": 0.707,
-      "r18": false
+      "id": 33062,
+      "title": "Nana to Kaoru: Last Year",
+      "score": 0.308,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 2203,
-      "title": "Sekainohate de Aimashou",
-      "score": 0.705,
-      "r18": false
+      "id": 35345,
+      "title": "Temple",
+      "score": 0.308,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "fr",
+        "mx",
+        "tr"
+      ]
     },
     {
-      "id": 10478,
-      "title": "Saenai Kanojo (Heroine) no Sodatekata - Koisuru Metronome",
-      "score": 0.702,
-      "r18": false
-    },
-    {
-      "id": 50000,
-      "title": "Kurofuku Monogatari",
-      "score": 0.702,
-      "r18": false
-    },
-    {
-      "id": 15780,
-      "title": "Yuri na Watashi to Akuma na Kanojo (?)",
-      "score": 0.702,
-      "r18": false
+      "id": 23430,
+      "title": "Hinomoto Sanshimai wa Kamatte Hoshii",
+      "score": 0.308,
+      "r18": false,
+      "languages": [
+        "br",
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 515,
       "title": "Mama wa Doukyuusei",
-      "score": 0.7,
-      "r18": false
+      "score": 0.308,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 6942,
-      "title": "Flip Flap",
-      "score": 0.7,
-      "r18": false
+      "id": 7289,
+      "title": "Kuzu no Honkai",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "vn",
+        "it",
+        "fr",
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 6371,
-      "title": "HEN",
-      "score": 0.7,
-      "r18": false
+      "id": 42681,
+      "title": "By Spring",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "mx",
+        "ru",
+        "gb",
+        "fr",
+        "id",
+        "vn",
+        "br"
+      ]
     },
     {
-      "id": 9693,
-      "title": "Love Theory",
-      "score": 0.7,
-      "r18": false
+      "id": 33662,
+      "title": "Renai Shikou Seitokai",
+      "score": 0.296,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id"
+      ]
     },
     {
-      "id": 10504,
-      "title": "Magika no Kenshi to Shoukan Maou",
-      "score": 0.699,
-      "r18": false
+      "id": 243,
+      "title": "Nana to Kaoru: Black Label",
+      "score": 0.292,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "es",
+        "br"
+      ]
     },
     {
-      "id": 43,
-      "title": "Freezing",
-      "score": 0.699,
-      "r18": false
+      "id": 6641,
+      "title": "Iinazuke Kyoutei",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 21854,
-      "title": "Boku no Heya ga Dungeon no Kyuukeijo ni Natteshimatta Ken",
-      "score": 0.699,
-      "r18": false
+      "id": 10085,
+      "title": "Hitotsu Yane no Shita no",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 35724,
-      "title": "Sekirara Hime to Minus Ouji",
-      "score": 0.699,
-      "r18": false
-    },
-    {
-      "id": 12850,
-      "title": "Watari-kun no &times;&times; ga Houkai Sunzen",
-      "score": 0.699,
-      "r18": false
+      "id": 13093,
+      "title": "Union!",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
     },
     {
       "id": 13428,
       "title": "Life Alive! The Student Council Elections I Started with You",
-      "score": 0.698,
-      "r18": false
+      "score": 0.286,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 12154,
+      "title": "Melty Moment",
+      "score": 0.285,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 736,
+      "title": "Ai Yori Aoshi",
+      "score": 0.284,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Mayo Chiki!",
+      "score": 0.282,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "ru"
+      ]
+    },
+    {
+      "id": 475,
+      "title": "Ore no Kouhai ga Konna ni Kawaii Wake ga Nai",
+      "score": 0.281,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 817,
+      "title": "Kono Naka ni Hitori, Imouto ga Iru!",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 105,
+      "title": "Unbalance X Unbalance",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de",
+        "tr",
+        "ru",
+        "it"
+      ]
+    },
+    {
+      "id": 266,
+      "title": "Umi no Misaki",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "de",
+        "it"
+      ]
+    },
+    {
+      "id": 840,
+      "title": "Come Come Vanilla!",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 11109,
+      "title": "Princess Lover! ~Eternal Love for My Lady~",
+      "score": 0.274,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 656,
+      "title": "Nogizaka Haruka no Himitsu",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 33456,
+      "title": "Suzunone",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24662,
+      "title": "Sakura Tsuushin",
+      "score": 0.271,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb"
+      ]
     }
   ]
 }

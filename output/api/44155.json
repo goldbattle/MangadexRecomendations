@@ -1,32 +1,44 @@
 {
   "id": 44155,
   "title": "HUMINT",
-  "url": "https://api.mangadex.org/v2/manga/44155",
-  "last_updated": "February 11, 2021 16:36:42 UTC",
+  "url": "https://mangadex.org/manga/44155",
+  "last_updated": "March 18, 2021 12:29:01 UTC",
   "matches": [
     {
       "id": 1384,
       "title": "Yama Fu-Tang",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6961,
       "title": "March Story",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 42898,
       "title": "Versailles of the Dead",
-      "score": 0.153,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": 27841,
       "title": "Venus Wars",
-      "score": 0.092,
-      "r18": false
+      "score": 0.077,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

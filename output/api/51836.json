@@ -1,158 +1,263 @@
 {
   "id": 51836,
   "title": "Rules for Keeping a Dragon",
-  "url": "https://api.mangadex.org/v2/manga/51836",
-  "last_updated": "February 05, 2021 12:14:30 UTC",
+  "url": "https://mangadex.org/manga/51836",
+  "last_updated": "March 18, 2021 13:33:16 UTC",
   "matches": [
     {
       "id": 51874,
       "title": "The Life of a Black Cat",
-      "score": 0.965,
-      "r18": false
-    },
-    {
-      "id": 53503,
-      "title": "The Journey of the Brave Hero and his Harem",
-      "score": 0.873,
-      "r18": false
+      "score": 0.914,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "vn"
+      ]
     },
     {
       "id": 56300,
       "title": "Maid and Skate",
-      "score": 0.871,
-      "r18": false
+      "score": 0.766,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 52223,
-      "title": "A Story About Becoming Temporary Lovers With a Classmate Who I Fell In Love With at First Sight",
-      "score": 0.865,
-      "r18": false
+      "id": 53503,
+      "title": "The Journey of the Brave Hero and his Harem",
+      "score": 0.764,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 58958,
       "title": "Living with a Kitsune",
-      "score": 0.854,
-      "r18": false
+      "score": 0.754,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 59670,
       "title": "The Story of How I Became a Girl's Dog",
-      "score": 0.851,
-      "r18": false
+      "score": 0.753,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 52223,
+      "title": "A Story About Becoming Temporary Lovers With a Classmate Who I Fell In Love With at First Sight",
+      "score": 0.752,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn",
+        "it"
+      ]
     },
     {
       "id": 55058,
       "title": "Kono Subarashii Sekai ni Shukufuku wo! - KazuMegu's Tanabata",
-      "score": 0.84,
-      "r18": false
-    },
-    {
-      "id": 58465,
-      "title": "The Monster Who Wanted to Return a Favor",
-      "score": 0.814,
-      "r18": false
-    },
-    {
-      "id": 59935,
-      "title": "Genshin Impact - Soft Emergency Pillow",
-      "score": 0.797,
-      "r18": false
-    },
-    {
-      "id": 58673,
-      "title": "When I Went to Another World, My Little Sister Was Already Reigning as The Demon Lord (Webcomic)",
-      "score": 0.795,
-      "r18": false
-    },
-    {
-      "id": 48758,
-      "title": "10,000 Light-Year Binoculars",
-      "score": 0.794,
-      "r18": false
+      "score": 0.718,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 54013,
       "title": "Dream Maker Hatsune Miku",
-      "score": 0.793,
-      "r18": false
+      "score": 0.697,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 58671,
+      "title": "When I Went to Another World, My Little Sister Was Already Reigning as The Demon Lord",
+      "score": 0.671,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 48758,
+      "title": "10,000 Light-Year Binoculars",
+      "score": 0.669,
+      "r18": false,
+      "languages": [
+        "ru",
+        "id",
+        "gb",
+        "vn",
+        "fr"
+      ]
     },
     {
       "id": 49156,
       "title": "The Convenience Store Lady That I've Loved Since Middle School",
-      "score": 0.782,
-      "r18": false
+      "score": 0.668,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 49483,
-      "title": "Neon Genesis Evangelion - Savage Dog Asuka and Grown-up Shin-chan (Doujinshi)",
-      "score": 0.78,
-      "r18": false
+      "id": 59935,
+      "title": "Genshin Impact - Soft Emergency Pillow",
+      "score": 0.668,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 58673,
+      "title": "When I Went to Another World, My Little Sister Was Already Reigning as The Demon Lord (Webcomic)",
+      "score": 0.333,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 56404,
       "title": "White Reaper",
-      "score": 0.776,
-      "r18": false
+      "score": 0.284,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 51842,
-      "title": "Kitsune-chan Won't Give in to Such a Despicable Curse",
-      "score": 0.762,
-      "r18": false
-    },
-    {
-      "id": 17524,
-      "title": "West-North's Grim Reaper",
-      "score": 0.738,
-      "r18": false
+      "id": 49483,
+      "title": "Neon Genesis Evangelion - Savage Dog Asuka and Grown-up Shin-chan (Doujinshi)",
+      "score": 0.277,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 41598,
       "title": "Pesu on My Head",
-      "score": 0.712,
-      "r18": false
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "hk",
+        "fr",
+        "ru",
+        "br"
+      ]
     },
     {
       "id": 30821,
       "title": "Kemoraifu",
-      "score": 0.709,
-      "r18": false
+      "score": 0.251,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hk",
+        "br"
+      ]
+    },
+    {
+      "id": 59058,
+      "title": "A Little Story about a Fish Thief who Steals with Impunity",
+      "score": 0.238,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 49326,
+      "title": "Inverse Hero",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 59579,
+      "title": "Rasud",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 54174,
       "title": "Pokemon: The World Champion Season",
-      "score": 0.694,
-      "r18": false
+      "score": 0.229,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 32265,
-      "title": "Azur Lane - A Journal (Doujinshi)",
-      "score": 0.687,
-      "r18": false
-    },
-    {
-      "id": 58978,
-      "title": "Together with Suzunyan",
-      "score": 0.668,
-      "r18": false
-    },
-    {
-      "id": 44294,
-      "title": "Gyo",
-      "score": 0.666,
-      "r18": false
+      "id": 51842,
+      "title": "Kitsune-chan Won't Give in to Such a Despicable Curse",
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "vn",
+        "id"
+      ]
     },
     {
       "id": 35587,
       "title": "Valentine's Day and White Day",
-      "score": 0.664,
-      "r18": false
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "ir",
+        "pl"
+      ]
     },
     {
-      "id": 51822,
-      "title": "The Blood Princess and the Knight",
-      "score": 0.664,
-      "r18": false
+      "id": 32265,
+      "title": "Azur Lane - A Journal (Doujinshi)",
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 44294,
+      "title": "Gyo",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     }
   ]
 }

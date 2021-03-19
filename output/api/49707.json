@@ -1,158 +1,241 @@
 {
   "id": 49707,
   "title": "Saishuu Heiki Kareshi",
-  "url": "https://api.mangadex.org/v2/manga/49707",
-  "last_updated": "February 05, 2021 08:11:50 UTC",
+  "url": "https://mangadex.org/manga/49707",
+  "last_updated": "March 18, 2021 13:15:30 UTC",
   "matches": [
-    {
-      "id": 50971,
-      "title": "Koiyami Archive",
-      "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 10875,
-      "title": "Koi wo Shimashou",
-      "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 40990,
-      "title": "Yume ga Kanau 12-gatsu",
-      "score": 0.688,
-      "r18": false
-    },
-    {
-      "id": 25005,
-      "title": "Hakoniwa",
-      "score": 0.685,
-      "r18": false
-    },
     {
       "id": 25116,
       "title": "Hotel Traffic",
-      "score": 0.685,
-      "r18": false
-    },
-    {
-      "id": 28280,
-      "title": "Bitansan Ekisu",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 28927,
-      "title": "Ouji-sama Game",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 40984,
-      "title": "Chiisana Garasu no Sora",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 18517,
-      "title": "Joshi BL (Anthology)",
-      "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 28921,
-      "title": "Kaizoku Game",
-      "score": 0.673,
-      "r18": false
-    },
-    {
-      "id": 39106,
-      "title": "Don't Cry My Baby",
-      "score": 0.656,
-      "r18": false
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
     },
     {
       "id": 8823,
       "title": "Hatsukoi ni Kisu",
-      "score": 0.483,
-      "r18": false
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
     },
     {
       "id": 29777,
       "title": "Taikutsu wa Warawanai",
-      "score": 0.464,
-      "r18": false
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "tr"
+      ]
     },
     {
       "id": 24731,
       "title": "Virgin Night",
-      "score": 0.432,
-      "r18": false
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 28832,
-      "title": "Natsume Isaku 10th Anniversary Booklet",
-      "score": 0.39,
-      "r18": false
-    },
-    {
-      "id": 40987,
-      "title": "Yarashii Hirusagari",
-      "score": 0.383,
-      "r18": false
+      "id": 27782,
+      "title": "Wagamama na Kimi Dakara",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 41048,
       "title": "Durarara!! - Love and Hate (Doujinshi)",
-      "score": 0.381,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "pl"
+      ]
     },
     {
-      "id": 11614,
-      "title": "Honto Yajuu / Sukitte Iwasete? Crossover",
-      "score": 0.377,
-      "r18": false
+      "id": 28832,
+      "title": "Natsume Isaku 10th Anniversary Booklet",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 34324,
       "title": "Sis-con",
-      "score": 0.372,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 28280,
+      "title": "Bitansan Ekisu",
+      "score": 0.276,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 11614,
+      "title": "Honto Yajuu / Sukitte Iwasete? Crossover",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 44515,
       "title": "Free! - Side by Side (Doujinshi)",
-      "score": 0.362,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22571,
       "title": "Kimi to Date",
-      "score": 0.344,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 28927,
+      "title": "Ouji-sama Game",
+      "score": 0.246,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 40990,
+      "title": "Yume ga Kanau 12-gatsu",
+      "score": 0.246,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50971,
+      "title": "Koiyami Archive",
+      "score": 0.244,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18461,
+      "title": "Seventeen Maple",
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24137,
+      "title": "Punch &uarr; + Jinan Joutou",
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 43320,
+      "title": "Himegoto wa Ouji no Tashinami",
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 25005,
+      "title": "Hakoniwa",
+      "score": 0.237,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 40987,
+      "title": "Yarashii Hirusagari",
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 40984,
+      "title": "Chiisana Garasu no Sora",
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 57259,
+      "title": "Not/Love dj - The reason why we live together",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 36879,
       "title": "Rules / Hydra - Double Trouble (Doujinshi)",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 57262,
-      "title": "Not/Love dj - Demonic Conversations",
-      "score": 0.325,
-      "r18": false
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "pl"
+      ]
     },
     {
       "id": 25742,
       "title": "Ze Fanbook (Anthology)",
-      "score": 0.312,
-      "r18": false
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 57266,
-      "title": "Lizards, Angels, and Daemons",
-      "score": 0.308,
-      "r18": false
+      "id": 10875,
+      "title": "Koi wo Shimashou",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

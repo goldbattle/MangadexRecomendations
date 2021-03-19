@@ -1,158 +1,265 @@
 {
   "id": 50810,
   "title": "Natsu no Mamono",
-  "url": "https://api.mangadex.org/v2/manga/50810",
-  "last_updated": "February 05, 2021 08:29:27 UTC",
+  "url": "https://mangadex.org/manga/50810",
+  "last_updated": "March 18, 2021 13:24:42 UTC",
   "matches": [
     {
       "id": 23712,
       "title": "Aono-kun ni Sawaritai kara Shinitai",
-      "score": 0.411,
-      "r18": false
-    },
-    {
-      "id": 13610,
-      "title": "Seifuku Aventure - Chemical Reaction Of High School Students",
-      "score": 0.392,
-      "r18": false
+      "score": 0.362,
+      "r18": false,
+      "languages": [
+        "cn"
+      ]
     },
     {
       "id": 8063,
       "title": "Oui Oui Days",
-      "score": 0.388,
-      "r18": false
-    },
-    {
-      "id": 48139,
-      "title": "Otonari Voice Chat",
-      "score": 0.378,
-      "r18": false
-    },
-    {
-      "id": 32911,
-      "title": "Tonari no Furi-san ga Tonikaku Kowai",
-      "score": 0.378,
-      "r18": false
-    },
-    {
-      "id": 23864,
-      "title": "Sensei Lock-On! 2nd",
-      "score": 0.372,
-      "r18": false
-    },
-    {
-      "id": 51584,
-      "title": "Mizuki-senpai's Love Fortune-Telling",
-      "score": 0.368,
-      "r18": false
-    },
-    {
-      "id": 439,
-      "title": "Tomehane!",
-      "score": 0.367,
-      "r18": false
-    },
-    {
-      "id": 59528,
-      "title": "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru",
-      "score": 0.366,
-      "r18": false
-    },
-    {
-      "id": 32017,
-      "title": "Miageru to Kimi wa",
-      "score": 0.366,
-      "r18": false
-    },
-    {
-      "id": 445,
-      "title": "Tonari no Kashiwagi-san",
       "score": 0.362,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 604,
-      "title": "Sora no Manimani",
-      "score": 0.361,
-      "r18": false
+      "id": 41808,
+      "title": "SSSS.GRIDMAN: Heroine Archive",
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 13610,
+      "title": "Seifuku Aventure - Chemical Reaction Of High School Students",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50518,
+      "title": "The Story of a Girl Who Wants to Hear the Voice of the Person She Likes",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 9496,
       "title": "Love Calendar",
-      "score": 0.361,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 27170,
-      "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e &radic;Horikita",
-      "score": 0.36,
-      "r18": false
+      "id": 55533,
+      "title": "Fukinoshita-san Is Small",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "vn",
+        "th"
+      ]
     },
     {
-      "id": 745,
-      "title": "Love Roma",
-      "score": 0.36,
-      "r18": false
-    },
-    {
-      "id": 638,
-      "title": "Hoshi no Furu Machi",
-      "score": 0.359,
-      "r18": false
+      "id": 439,
+      "title": "Tomehane!",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 13545,
       "title": "1518!",
-      "score": 0.358,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11104,
       "title": "Saigo no Seifuku",
-      "score": 0.355,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 26963,
+      "title": "Shinobuna! Chiyo-chan",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id"
+      ]
+    },
+    {
+      "id": 745,
+      "title": "Love Roma",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 38436,
       "title": "Himari no Mawari",
-      "score": 0.354,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 40994,
-      "title": "Ookiku Nattara Kekkon Suru!",
-      "score": 0.353,
-      "r18": false
+      "id": 32017,
+      "title": "Miageru to Kimi wa",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
-      "id": 23203,
-      "title": "Futari no Jikan",
-      "score": 0.352,
-      "r18": false
-    },
-    {
-      "id": 12022,
-      "title": "Tenshi-chan to Akuma-kun",
-      "score": 0.351,
-      "r18": false
-    },
-    {
-      "id": 33670,
-      "title": "Skip to Loafer",
-      "score": 0.349,
-      "r18": false
-    },
-    {
-      "id": 520,
-      "title": "Juukinzoku Kanojo",
-      "score": 0.347,
-      "r18": false
+      "id": 638,
+      "title": "Hoshi no Furu Machi",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 47687,
       "title": "This Chubby Girl Can't Stop Acting Like a Little Devil",
-      "score": 0.346,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "mx",
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 23864,
+      "title": "Sensei Lock-On! 2nd",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 27170,
+      "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e &radic;Horikita",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 604,
+      "title": "Sora no Manimani",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 12022,
+      "title": "Tenshi-chan to Akuma-kun",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 520,
+      "title": "Juukinzoku Kanojo",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 36864,
+      "title": "Kurusu Alice is so COOOOL!",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 40994,
+      "title": "Ookiku Nattara Kekkon Suru!",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "mx",
+        "id"
+      ]
+    },
+    {
+      "id": 42390,
+      "title": "Kubo-san wa Boku (Mobu) wo Yurusanai",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id",
+        "hk",
+        "br",
+        "ru",
+        "fr",
+        "it",
+        "pl"
+      ]
+    },
+    {
+      "id": 445,
+      "title": "Tonari no Kashiwagi-san",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "br",
+        "de",
+        "ru",
+        "id",
+        "it"
+      ]
     }
   ]
 }

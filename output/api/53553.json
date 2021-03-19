@@ -2,157 +2,260 @@
   "id": 53553,
   "title": "Beyond the Mirror",
   "url": "https://mangadex.org/manga/53553",
-  "last_updated": "January 16, 2021 01:07:14 UTC",
+  "last_updated": "March 18, 2021 13:47:35 UTC",
   "matches": [
-    {
-      "id": 8184,
-      "title": "Le Th&eacute;&acirc;tre de A",
-      "score": 0.668,
-      "r18": false
-    },
-    {
-      "id": 2797,
-      "title": "Le Th&eacute;&acirc;tre de B",
-      "score": 0.661,
-      "r18": false
-    },
     {
       "id": 57560,
       "title": "The Flower Doll and her Husband",
-      "score": 0.37,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 2668,
-      "title": "Suna no Ue no Rakuen",
-      "score": 0.31,
-      "r18": false
+      "id": 37448,
+      "title": "Witch of Thistle Castle",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb"
+      ]
     },
     {
-      "id": 6061,
-      "title": "Hyakki Yakoushou",
-      "score": 0.309,
-      "r18": false
-    },
-    {
-      "id": 35539,
-      "title": "Midnight Blue",
-      "score": 0.307,
-      "r18": false
+      "id": 27477,
+      "title": "Kutsunashi Hime",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 4458,
       "title": "Arcana 12 - Demons",
-      "score": 0.307,
-      "r18": false
+      "score": 0.198,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "it"
+      ]
+    },
+    {
+      "id": 6061,
+      "title": "Hyakki Yakoushou",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 52163,
       "title": "Our House is a Haunted Rental Bookstore",
-      "score": 0.299,
-      "r18": false
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
-      "id": 3084,
-      "title": "Mahoutsukai no Neko",
-      "score": 0.299,
-      "r18": false
-    },
-    {
-      "id": 1173,
-      "title": "Makai Ouji - Devils and Realist",
-      "score": 0.298,
-      "r18": false
+      "id": 13959,
+      "title": "E? Heibon Desu yo??",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr"
+      ]
     },
     {
       "id": 42244,
       "title": "A Witch's Hopeless Wish",
-      "score": 0.298,
-      "r18": false
+      "score": 0.188,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "br"
+      ]
     },
     {
-      "id": 6379,
-      "title": "Shin Pet Shop of Horrors",
-      "score": 0.297,
-      "r18": false
-    },
-    {
-      "id": 23631,
-      "title": "Seijo no Maryoku wa Bannou Desu",
-      "score": 0.296,
-      "r18": false
-    },
-    {
-      "id": 16807,
-      "title": "Shunkan Lyle",
-      "score": 0.296,
-      "r18": false
-    },
-    {
-      "id": 2652,
-      "title": "Mukashi no Hanashi",
-      "score": 0.295,
-      "r18": false
-    },
-    {
-      "id": 31754,
-      "title": "Kanyou Shoujo",
-      "score": 0.295,
-      "r18": false
-    },
-    {
-      "id": 4070,
-      "title": "Shirube no Michi",
-      "score": 0.294,
-      "r18": false
-    },
-    {
-      "id": 29883,
-      "title": "The Testimony of the White Rose",
-      "score": 0.293,
-      "r18": false
+      "id": 8184,
+      "title": "Le Th&eacute;&acirc;tre de A",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg",
+        "tr",
+        "pl",
+        "br",
+        "hu",
+        "fr",
+        "de"
+      ]
     },
     {
       "id": 19174,
       "title": "Akuma no Namida",
-      "score": 0.292,
-      "r18": false
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 48334,
+      "title": "Aewol's Dream",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1139,
+      "title": "Cain",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6379,
+      "title": "Shin Pet Shop of Horrors",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 49794,
+      "title": "Another World Where I Can't Even Collapse and Die",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "br"
+      ]
     },
     {
       "id": 19080,
       "title": "Frau Faust",
-      "score": 0.292,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "ru",
+        "tr",
+        "gb"
+      ]
     },
     {
       "id": 1918,
       "title": "Saiyuki RELOAD BLAST",
-      "score": 0.288,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 4446,
-      "title": "Arcana 07 - Wizard / Magician",
-      "score": 0.285,
-      "r18": false
-    },
-    {
-      "id": 12587,
-      "title": "Saiyuki Gaiden",
-      "score": 0.284,
-      "r18": false
+      "id": 10577,
+      "title": "Leave",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 10023,
       "title": "Shinigami x Doctor",
-      "score": 0.282,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 37904,
-      "title": "Mienai Hito-tachi",
-      "score": 0.282,
-      "r18": false
+      "id": 290,
+      "title": "Aruosumente",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 59704,
+      "title": "Petshop of Horrors: Ark Adrift",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29883,
+      "title": "The Testimony of the White Rose",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 35539,
+      "title": "Midnight Blue",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 2652,
+      "title": "Mukashi no Hanashi",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "it"
+      ]
+    },
+    {
+      "id": 6444,
+      "title": "Saikyou no Tenshi Nishite Saiai no Akuma",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 12587,
+      "title": "Saiyuki Gaiden",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it"
+      ]
     }
   ]
 }

@@ -1,20 +1,27 @@
 {
   "id": 31914,
   "title": "Kantai Collection -KanColle- The Shape of Feelings (Doujinshi)",
-  "url": "https://api.mangadex.org/v2/manga/31914",
-  "last_updated": "February 10, 2021 08:27:29 UTC",
+  "url": "https://mangadex.org/manga/31914",
+  "last_updated": "March 18, 2021 10:46:53 UTC",
   "matches": [
     {
       "id": 42028,
       "title": "K-ON! - Mio's Birthday Present (Doujinshi)",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 32582,
       "title": "Toaru Majutsu no Index: Accelerator to Misaka Worst ga Uniforms o shiy\u014d suru baai",
-      "score": 0.138,
-      "r18": false
+      "score": 0.115,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     }
   ]
 }

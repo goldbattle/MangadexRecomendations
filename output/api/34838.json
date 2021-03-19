@@ -1,32 +1,53 @@
 {
   "id": 34838,
   "title": "Suikatou no Hibi",
-  "url": "https://api.mangadex.org/v2/manga/34838",
-  "last_updated": "February 10, 2021 16:34:44 UTC",
+  "url": "https://mangadex.org/manga/34838",
+  "last_updated": "March 18, 2021 11:11:15 UTC",
   "matches": [
     {
       "id": 1187,
       "title": "Kage no Matsuri",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "hu",
+        "it",
+        "bg"
+      ]
     },
     {
       "id": 28433,
       "title": "The Beautiful Ones",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "fr",
+        "br",
+        "vn",
+        "tr"
+      ]
     },
     {
       "id": 20868,
       "title": "Kokenoshima",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
     },
     {
       "id": 20541,
       "title": "Mercy",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     }
   ]
 }

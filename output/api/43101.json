@@ -1,158 +1,237 @@
 {
   "id": 43101,
   "title": "Isekai Harem Paradise",
-  "url": "https://api.mangadex.org/v2/manga/43101",
-  "last_updated": "February 11, 2021 12:35:12 UTC",
+  "url": "https://mangadex.org/manga/43101",
+  "last_updated": "March 18, 2021 12:20:12 UTC",
   "matches": [
     {
       "id": 29767,
       "title": "Lovemare",
-      "score": 0.696,
-      "r18": true
-    },
-    {
-      "id": 59287,
-      "title": "Hell's Harem",
-      "score": 0.668,
-      "r18": true
-    },
-    {
-      "id": 29202,
-      "title": "Shikoshisu",
-      "score": 0.665,
-      "r18": true
-    },
-    {
-      "id": 32555,
-      "title": "Love &amp; Devil",
-      "score": 0.664,
-      "r18": true
-    },
-    {
-      "id": 37819,
-      "title": "Cheers!",
-      "score": 0.66,
-      "r18": true
+      "score": 0.217,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 23857,
       "title": "Anata wo Sutte mo Ii Desu ka?",
-      "score": 0.656,
-      "r18": true
+      "score": 0.151,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 30939,
-      "title": "La\u2606Blue Girl",
-      "score": 0.651,
-      "r18": true
+      "id": 32555,
+      "title": "Love &amp; Devil",
+      "score": 0.151,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29202,
+      "title": "Shikoshisu",
+      "score": 0.141,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37819,
+      "title": "Cheers!",
+      "score": 0.136,
+      "r18": true,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 59287,
+      "title": "Hell's Harem",
+      "score": 0.131,
+      "r18": true,
+      "languages": [
+        "ir"
+      ]
     },
     {
       "id": 28765,
       "title": "Mo-Retsu! Boin Sensei",
-      "score": 0.258,
-      "r18": true
+      "score": 0.129,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 23616,
       "title": "Two Dimensions Girlfriend",
-      "score": 0.247,
-      "r18": true
-    },
-    {
-      "id": 24672,
-      "title": "Tentacles Training",
-      "score": 0.227,
-      "r18": true
+      "score": 0.127,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 23454,
       "title": "Tail Chaser",
-      "score": 0.223,
-      "r18": true
-    },
-    {
-      "id": 32688,
-      "title": "Fate/stay night - Modern Life Standard Knowledge (Doujinshi)",
-      "score": 0.21,
-      "r18": true
+      "score": 0.125,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 24558,
       "title": "Enjo Kouhai",
-      "score": 0.199,
-      "r18": true
+      "score": 0.125,
+      "r18": true,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 23611,
       "title": "Sore wa Rekishi ni Kakanaide!",
-      "score": 0.197,
-      "r18": true
-    },
-    {
-      "id": 32240,
-      "title": "Kindan No Ero Trap Board Game -Libidotopia-",
-      "score": 0.193,
-      "r18": true
-    },
-    {
-      "id": 26065,
-      "title": "Monster Musume no Otoshikata",
-      "score": 0.181,
-      "r18": true
-    },
-    {
-      "id": 53131,
-      "title": "Witch, 30 Years Old",
-      "score": 0.17,
-      "r18": true
+      "score": 0.125,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 43673,
       "title": "5Toubun no Hanayome - Gotoubun no Sorayume (Doujinshi)",
-      "score": 0.163,
-      "r18": true
+      "score": 0.125,
+      "r18": true,
+      "languages": [
+        "it",
+        "ru"
+      ]
+    },
+    {
+      "id": 30939,
+      "title": "La\u2606Blue Girl",
+      "score": 0.122,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 40052,
       "title": "Monster Master Nina",
-      "score": 0.146,
-      "r18": true
+      "score": 0.119,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24672,
+      "title": "Tentacles Training",
+      "score": 0.119,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 32688,
+      "title": "Fate/stay night - Modern Life Standard Knowledge (Doujinshi)",
+      "score": 0.116,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 26065,
+      "title": "Monster Musume no Otoshikata",
+      "score": 0.116,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 32240,
+      "title": "Kindan No Ero Trap Board Game -Libidotopia-",
+      "score": 0.11,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29796,
       "title": "Kono Subarashii Sekai ni Shukufuku wo! - Damegami-sama wa Nomisugi ni Gochuui o! (Doujinshi)",
-      "score": 0.12,
-      "r18": true
+      "score": 0.106,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 18489,
       "title": "My Sister Has Amnesia&mdash; What's Sex?",
-      "score": 0.117,
-      "r18": true
+      "score": 0.1,
+      "r18": true,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 23951,
       "title": "Maid Graffiti",
-      "score": 0.117,
-      "r18": true
+      "score": 0.1,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 23956,
       "title": "Pura-Tina Plus",
-      "score": 0.117,
-      "r18": true
+      "score": 0.1,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 24188,
       "title": "Nuko Miko-tan",
-      "score": 0.117,
-      "r18": true
+      "score": 0.1,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 24298,
       "title": "At Home Harem FudeoroSisters",
-      "score": 0.117,
-      "r18": true
+      "score": 0.1,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 26314,
+      "title": "Mahou Shoujo",
+      "score": 0.1,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

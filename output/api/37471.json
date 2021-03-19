@@ -2,67 +2,91 @@
   "id": 37471,
   "title": "Cynical Dog",
   "url": "https://mangadex.org/manga/37471",
-  "last_updated": "March 18, 2021 00:45:55 UTC",
+  "last_updated": "March 18, 2021 11:33:14 UTC",
   "matches": [
-    {
-      "id": 54226,
-      "title": "The Christmas Eve Couple",
-      "score": 0.335,
-      "r18": false
-    },
-    {
-      "id": 54227,
-      "title": "Daisy",
-      "score": 0.335,
-      "r18": false
-    },
     {
       "id": 47200,
       "title": "Chandelier",
-      "score": 0.307,
-      "r18": false
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 54204,
       "title": "Christmas Eve Present",
       "score": 0.287,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 6295,
       "title": "Yuri Hime Wildrose",
       "score": 0.287,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        " ",
+        "ct",
+        "it",
+        "pl",
+        "sa"
+      ]
     },
     {
       "id": 37103,
       "title": "-Rain-",
       "score": 0.23,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br",
+        "it"
+      ]
     },
     {
       "id": 38743,
       "title": "Pure White Sigh",
       "score": 0.23,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 54825,
       "title": "Granblue Fantasy - Before My Sins Are Absolved (Doujinshi)",
       "score": 0.184,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 31217,
       "title": "Avalon~bitter~ (Anthology)",
       "score": 0.164,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "de"
+      ]
     },
     {
       "id": 20739,
       "title": "Akaneiro no Kisu wa Okujou de",
       "score": 0.153,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

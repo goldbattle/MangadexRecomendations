@@ -2,25 +2,40 @@
   "id": 2907,
   "title": "Sweet Blood",
   "url": "https://mangadex.org/manga/2907",
-  "last_updated": "March 14, 2021 04:36:42 UTC",
+  "last_updated": "March 18, 2021 06:07:51 UTC",
   "matches": [
     {
       "id": 20732,
       "title": "Vampire and Hunter",
       "score": 0.19,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "hu"
+      ]
     },
     {
       "id": 53396,
       "title": "Blood and Love",
-      "score": 0.188,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx"
+      ]
     },
     {
       "id": 50628,
       "title": "Kare to Obake to Ren'ai Shousetsuka",
       "score": 0.168,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "vn",
+        "gb"
+      ]
     }
   ]
 }

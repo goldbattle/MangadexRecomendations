@@ -2,61 +2,87 @@
   "id": 8200,
   "title": "Stranger",
   "url": "https://mangadex.org/manga/8200",
-  "last_updated": "March 14, 2021 20:16:35 UTC",
+  "last_updated": "March 18, 2021 06:55:32 UTC",
   "matches": [
-    {
-      "id": 49182,
-      "title": "Lone Swan",
-      "score": 0.412,
-      "r18": false
-    },
     {
       "id": 12999,
       "title": "Hakuyou Ayakashi Gatari",
       "score": 0.294,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11263,
       "title": "Equus",
-      "score": 0.275,
-      "r18": false
+      "score": 0.274,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 14017,
       "title": "Ouji no Hakobune",
-      "score": 0.234,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
     },
     {
       "id": 8905,
       "title": "Hana no Miyako de",
       "score": 0.223,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 13884,
       "title": "Akai Hana",
-      "score": 0.22,
-      "r18": false
+      "score": 0.219,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "it"
+      ]
     },
     {
       "id": 8716,
       "title": "Nennen Saisai",
-      "score": 0.197,
-      "r18": false
+      "score": 0.196,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "tr"
+      ]
     },
     {
       "id": 21642,
       "title": "Crow's Library of Danmei",
       "score": 0.15,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 46680,
       "title": "Your Highness, Please Don't Be a Demon",
-      "score": 0.138,
-      "r18": false
+      "score": 0.137,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

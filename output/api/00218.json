@@ -2,157 +2,251 @@
   "id": 218,
   "title": "Kuragehime",
   "url": "https://mangadex.org/manga/218",
-  "last_updated": "March 14, 2021 00:51:04 UTC",
+  "last_updated": "March 18, 2021 05:44:24 UTC",
   "matches": [
-    {
-      "id": 6478,
-      "title": "Umimachi Diary",
-      "score": 0.307,
-      "r18": false
-    },
     {
       "id": 1857,
       "title": "Hachimitsu to Clover",
       "score": 0.307,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "pl",
+        "sa"
+      ]
+    },
+    {
+      "id": 6478,
+      "title": "Umimachi Diary",
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "cn",
+        "gb"
+      ]
     },
     {
       "id": 2966,
       "title": "Kimi wa Petto",
-      "score": 0.28,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 4472,
       "title": "Heartbroken Chocolatier",
-      "score": 0.279,
-      "r18": false
+      "score": 0.278,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5026,
       "title": "Bara no Tame ni",
       "score": 0.278,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2120,
       "title": "Nodame Cantabile",
-      "score": 0.269,
-      "r18": false
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 34556,
       "title": "Mokuyoubi wa Kimi to Nakitai",
       "score": 0.264,
-      "r18": false
-    },
-    {
-      "id": 29746,
-      "title": "Sanju Mariko",
-      "score": 0.257,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 2732,
       "title": "Oishii Kankei",
       "score": 0.257,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 36150,
       "title": "Otona-Najimi",
       "score": 0.257,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "it",
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 7466,
       "title": "Nodame Cantabile Encore - Opera-hen",
       "score": 0.257,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 17307,
-      "title": "Kakafukaka",
+      "id": 29746,
+      "title": "Sanju Mariko",
       "score": 0.257,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4573,
       "title": "Paradise Kiss",
       "score": 0.257,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 18141,
       "title": "Negattari Kanattari",
       "score": 0.257,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6406,
       "title": "Nikoniko Nikki",
       "score": 0.257,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6992,
       "title": "Tensai Family Company",
       "score": 0.257,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3443,
       "title": "5-ji kara 9-ji made",
       "score": 0.257,
-      "r18": false
-    },
-    {
-      "id": 8834,
-      "title": "Spicy Pink",
-      "score": 0.257,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 8204,
       "title": "Mani Mani",
       "score": 0.257,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 8834,
+      "title": "Spicy Pink",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 50267,
       "title": "Totsuzen desu ga, Konya Sarai ni Ikimasu",
       "score": 0.257,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 52801,
       "title": "Only for You",
       "score": 0.257,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 4334,
       "title": "Sakamichi no Apollon",
       "score": 0.257,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br"
+      ]
     },
     {
       "id": 50321,
       "title": "Totsuzen desu ga, Kyou Ai ni Kite",
       "score": 0.257,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 13274,
       "title": "SP x Baby",
       "score": 0.257,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "fr",
+        "hu"
+      ]
     },
     {
       "id": 2274,
       "title": "Clover",
       "score": 0.257,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 28733,
+      "title": "Onee na Kareshi to Boyish Kanojo",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

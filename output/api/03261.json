@@ -2,31 +2,46 @@
   "id": 3261,
   "title": "Gekka no Kimi",
   "url": "https://mangadex.org/manga/3261",
-  "last_updated": "March 14, 2021 08:17:11 UTC",
+  "last_updated": "March 18, 2021 06:11:08 UTC",
   "matches": [
     {
       "id": 28418,
       "title": "Teito Hatsukoi Shinjyu",
       "score": 0.29,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 9433,
       "title": "Shinobi no Onna",
-      "score": 0.246,
-      "r18": false
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 13166,
       "title": "B-men Kazoku",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1921,
       "title": "Black Bird",
       "score": 0.149,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     }
   ]
 }

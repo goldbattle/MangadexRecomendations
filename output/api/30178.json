@@ -2,97 +2,172 @@
   "id": 30178,
   "title": "Owari Nochi, Asanagi Kurashi.",
   "url": "https://mangadex.org/manga/30178",
-  "last_updated": "January 13, 2021 12:47:02 UTC",
+  "last_updated": "March 18, 2021 10:32:24 UTC",
   "matches": [
     {
-      "id": 14672,
-      "title": "Chikyuu no Houkago",
-      "score": 0.688,
-      "r18": false
-    },
-    {
-      "id": 54210,
-      "title": "Lisa's Table of Inedibles",
-      "score": 0.683,
-      "r18": false
-    },
-    {
-      "id": 13871,
-      "title": "Dungeon Meshi",
-      "score": 0.674,
-      "r18": false
+      "id": 46834,
+      "title": "Kesaran Nanigashi ja Keitto Shop",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 42104,
       "title": "Ginga no Shinanai Kodomotachi he",
-      "score": 0.671,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "cn"
+      ]
+    },
+    {
+      "id": 14672,
+      "title": "Chikyuu no Houkago",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 17782,
       "title": "Somali to Mori no Kami-sama",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 35199,
-      "title": "Isekai Cheat Survival Meshi",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 46834,
-      "title": "Kesaran Nanigashi ja Keitto Shop",
-      "score": 0.347,
-      "r18": false
-    },
-    {
-      "id": 24100,
-      "title": "Yaoyorozu Girl",
-      "score": 0.274,
-      "r18": false
-    },
-    {
-      "id": 9554,
-      "title": "Gakkou Gurashi!",
-      "score": 0.265,
-      "r18": false
-    },
-    {
-      "id": 22723,
-      "title": "Sewayaki Kitsune no Senko-san",
-      "score": 0.26,
-      "r18": false
-    },
-    {
-      "id": 22410,
-      "title": "Isekai Ryouridou",
-      "score": 0.26,
-      "r18": false
-    },
-    {
-      "id": 907,
-      "title": "I Am a Hero",
-      "score": 0.232,
-      "r18": false
-    },
-    {
-      "id": 53831,
-      "title": "Over the Moon",
-      "score": 0.219,
-      "r18": false
+      "score": 0.162,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br",
+        "ru",
+        "tr",
+        "id",
+        "sa"
+      ]
     },
     {
       "id": 59179,
       "title": "A Snowman&rsquo;s Gratitude",
-      "score": 0.21,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 24100,
+      "title": "Yaoyorozu Girl",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9554,
+      "title": "Gakkou Gurashi!",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru",
+        "hu",
+        "de",
+        "fr"
+      ]
     },
     {
       "id": 50721,
       "title": "Gakkou Gurashi! Otayori",
-      "score": 0.195,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "br",
+        "hu",
+        "ru",
+        "mx"
+      ]
+    },
+    {
+      "id": 13871,
+      "title": "Dungeon Meshi",
+      "score": 0.14,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx",
+        "es"
+      ]
+    },
+    {
+      "id": 22410,
+      "title": "Isekai Ryouridou",
+      "score": 0.136,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "hu",
+        "it"
+      ]
+    },
+    {
+      "id": 22723,
+      "title": "Sewayaki Kitsune no Senko-san",
+      "score": 0.136,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr",
+        "pl",
+        "cz"
+      ]
+    },
+    {
+      "id": 35199,
+      "title": "Isekai Cheat Survival Meshi",
+      "score": 0.129,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "br",
+        "ru",
+        "fr"
+      ]
+    },
+    {
+      "id": 907,
+      "title": "I Am a Hero",
+      "score": 0.099,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "sa",
+        "pl"
+      ]
+    },
+    {
+      "id": 53831,
+      "title": "Over the Moon",
+      "score": 0.099,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru"
+      ]
     }
   ]
 }

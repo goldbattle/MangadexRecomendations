@@ -2,19 +2,31 @@
   "id": 8173,
   "title": "No Game No Life",
   "url": "https://mangadex.org/manga/8173",
-  "last_updated": "March 14, 2021 20:16:16 UTC",
+  "last_updated": "March 18, 2021 06:55:18 UTC",
   "matches": [
     {
       "id": 3090,
       "title": "CHERRY X CHERRY",
-      "score": 0.163,
-      "r18": false
+      "score": 0.162,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 27929,
       "title": "Saotome Shimai wa Manga no Tame nara!?",
-      "score": 0.163,
-      "r18": false
+      "score": 0.162,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id",
+        "es",
+        "ru",
+        "br"
+      ]
     }
   ]
 }

@@ -1,158 +1,251 @@
 {
   "id": 31900,
   "title": "Judicial Duel",
-  "url": "https://api.mangadex.org/v2/manga/31900",
-  "last_updated": "February 10, 2021 08:27:16 UTC",
+  "url": "https://mangadex.org/manga/31900",
+  "last_updated": "March 18, 2021 10:46:46 UTC",
   "matches": [
     {
-      "id": 31194,
-      "title": "Hunter Age",
-      "score": 0.699,
-      "r18": false
+      "id": 46861,
+      "title": "Saiyouki",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 281,
-      "title": "Trigun Maximum",
-      "score": 0.688,
-      "r18": false
+      "id": 41553,
+      "title": "The Man who Killed Nobunaga",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 8339,
-      "title": "Tales of the World - Radiant Mythology",
-      "score": 0.686,
-      "r18": false
+      "id": 4622,
+      "title": "Sengoku",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 8111,
-      "title": "Magic: The Gathering - Moe Tsukinu Honoo",
-      "score": 0.684,
-      "r18": false
+      "id": 2463,
+      "title": "Tenshou no Ryoma",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 16825,
-      "title": "Ginga Eiyuu Densetsu",
-      "score": 0.682,
-      "r18": false
+      "id": 16344,
+      "title": "Ni Ming Shi",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 4880,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
-      "score": 0.682,
-      "r18": false
+      "id": 26302,
+      "title": "Karasu",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 17889,
-      "title": "Beast of East",
-      "score": 0.681,
-      "r18": false
+      "id": 21127,
+      "title": "Sultan Boueitai",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 28617,
-      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run",
-      "score": 0.681,
-      "r18": false
+      "id": 1495,
+      "title": "Ichi",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 36817,
-      "title": "Blade of the Immortal - Bakumatsu Arc",
-      "score": 0.681,
-      "r18": false
+      "id": 28136,
+      "title": "Kazan",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bd"
+      ]
     },
     {
-      "id": 430,
-      "title": "Hotel",
-      "score": 0.679,
-      "r18": false
+      "id": 22736,
+      "title": "Shan Hai Ni Zhan",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 55365,
-      "title": "MEMORIZE",
-      "score": 0.678,
-      "r18": false
+      "id": 24354,
+      "title": "Godo",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 33137,
-      "title": "Blade of the Phantom Master",
-      "score": 0.676,
-      "r18": false
+      "id": 23476,
+      "title": "Drag-On Dragoon - Utahime Five",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "it"
+      ]
     },
     {
-      "id": 15286,
-      "title": "Fate/stay night: Heaven's Feel",
-      "score": 0.676,
-      "r18": false
+      "id": 15741,
+      "title": "Dragon's Dogma Progress",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 2110,
-      "title": "Souten no Ken",
-      "score": 0.676,
-      "r18": false
+      "id": 1603,
+      "title": "Dangu",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "de",
+        "gb",
+        "mx",
+        "my"
+      ]
     },
     {
-      "id": 6961,
-      "title": "March Story",
-      "score": 0.676,
-      "r18": false
+      "id": 12136,
+      "title": "Ad Astra - Scipio to Hannibal",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 3388,
-      "title": "Fate/Zero",
-      "score": 0.676,
-      "r18": false
+      "id": 9765,
+      "title": "Chang Ge Xing",
+      "score": 0.285,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "br",
+        "id"
+      ]
     },
     {
       "id": 9140,
       "title": "Gensou Suikoden III - Unmei no Keishousha",
-      "score": 0.675,
-      "r18": false
+      "score": 0.282,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 9096,
-      "title": "Magdala de Nemure",
-      "score": 0.674,
-      "r18": false
+      "id": 17889,
+      "title": "Beast of East",
+      "score": 0.278,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 8495,
-      "title": "Persona 3",
-      "score": 0.674,
-      "r18": false
+      "id": 22950,
+      "title": "Black Tiger",
+      "score": 0.274,
+      "r18": false,
+      "languages": [
+        "ru",
+        "es",
+        "gb"
+      ]
     },
     {
-      "id": 10078,
-      "title": "Meng Wu and Chu Zi",
-      "score": 0.673,
-      "r18": false
+      "id": 14865,
+      "title": "Pilgrim Jager",
+      "score": 0.273,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.673,
-      "r18": false
+      "id": 3142,
+      "title": "Threads of Time",
+      "score": 0.273,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 2500,
-      "title": "ChunRangYulJun",
-      "score": 0.673,
-      "r18": false
+      "id": 8098,
+      "title": "Eiyuu Densetsu - Sora no Kiseki",
+      "score": 0.27,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 6283,
-      "title": "Vandemieru no Tsubasa",
-      "score": 0.673,
-      "r18": false
+      "id": 2976,
+      "title": "Pineapple Army",
+      "score": 0.27,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
-      "id": 2712,
-      "title": "Blame!",
-      "score": 0.672,
-      "r18": false
+      "id": 26739,
+      "title": "Lord",
+      "score": 0.269,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 1770,
-      "title": "Klan",
-      "score": 0.672,
-      "r18": false
+      "id": 19887,
+      "title": "Uratarou",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "tr",
+        "ru",
+        "es",
+        "mx",
+        "br"
+      ]
     }
   ]
 }

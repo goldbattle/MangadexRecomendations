@@ -2,25 +2,40 @@
   "id": 19156,
   "title": "Oni Yashiki",
   "url": "https://mangadex.org/manga/19156",
-  "last_updated": "March 16, 2021 00:15:28 UTC",
+  "last_updated": "March 18, 2021 08:46:14 UTC",
   "matches": [
     {
       "id": 1121,
       "title": "12-ji no Kane ga Naru",
-      "score": 0.242,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "de",
+        "pl",
+        "it",
+        "mn",
+        "ct"
+      ]
     },
     {
       "id": 7815,
       "title": "Miyuki no Ori",
-      "score": 0.201,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 9160,
       "title": "Mint de Kiss me - Watase Yuu Masterpiece Collection 5",
-      "score": 0.132,
-      "r18": false
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

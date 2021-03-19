@@ -1,44 +1,80 @@
 {
   "id": 31217,
   "title": "Avalon~bitter~ (Anthology)",
-  "url": "https://api.mangadex.org/v2/manga/31217",
-  "last_updated": "February 10, 2021 08:16:42 UTC",
+  "url": "https://mangadex.org/manga/31217",
+  "last_updated": "March 18, 2021 10:41:04 UTC",
   "matches": [
     {
       "id": 37103,
       "title": "-Rain-",
-      "score": 0.286,
-      "r18": false
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br",
+        "it"
+      ]
     },
     {
-      "id": 14685,
-      "title": "Fujiyuu Sekai",
-      "score": 0.225,
-      "r18": false
+      "id": 7583,
+      "title": "Girl's Only",
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 17401,
+      "title": "Sensual Trigger",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 34946,
       "title": "Tousaku Shoujo Shoukougun",
-      "score": 0.217,
-      "r18": false
+      "score": 0.185,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 10346,
       "title": "Witches' Sabbath",
-      "score": 0.2,
-      "r18": false
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "tr",
+        "fr",
+        "vn",
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 20739,
       "title": "Akaneiro no Kisu wa Okujou de",
-      "score": 0.2,
-      "r18": false
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 38743,
       "title": "Pure White Sigh",
-      "score": 0.2,
-      "r18": false
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

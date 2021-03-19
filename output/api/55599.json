@@ -1,26 +1,26 @@
 {
   "id": 55599,
   "title": "Granblue Fantasy - Afterglow",
-  "url": "https://api.mangadex.org/v2/manga/55599",
-  "last_updated": "March 12, 2021 20:39:52 UTC",
+  "url": "https://mangadex.org/manga/55599",
+  "last_updated": "March 18, 2021 14:04:42 UTC",
   "matches": [
-    {
-      "id": 44236,
-      "title": "Ooame Kouta",
-      "score": 0.206,
-      "r18": false
-    },
     {
       "id": 56131,
       "title": "Jealousy",
       "score": 0.16,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 57055,
       "title": "Seducing My Senior",
-      "score": 0.144,
-      "r18": false
+      "score": 0.142,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

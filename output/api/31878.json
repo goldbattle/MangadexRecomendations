@@ -1,158 +1,264 @@
 {
   "id": 31878,
   "title": "Akuma no Mama",
-  "url": "https://api.mangadex.org/v2/manga/31878",
-  "last_updated": "February 10, 2021 08:26:55 UTC",
+  "url": "https://mangadex.org/manga/31878",
+  "last_updated": "March 18, 2021 10:46:35 UTC",
   "matches": [
     {
-      "id": 2797,
-      "title": "Le Th&eacute;&acirc;tre de B",
-      "score": 0.711,
-      "r18": false
+      "id": 14953,
+      "title": "Gate - Teikoku no Bara Kishidan - Pinya Co Lada 14-sai",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 23013,
-      "title": "The Vengeful White Cat Lounging on the Dragon King's Lap",
-      "score": 0.704,
-      "r18": false
+      "id": 19749,
+      "title": "Ingress GO",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 3038,
-      "title": "Kyou Kara Ma no Tsuku Jiyuugyou!",
-      "score": 0.701,
-      "r18": false
+      "id": 31408,
+      "title": "Negative Hero and Demon King's General",
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "de",
+        "gb",
+        "fr",
+        "br",
+        "ru",
+        "tr",
+        "id",
+        "vn"
+      ]
     },
     {
-      "id": 56273,
-      "title": "Rascal Does Not Dream of Logical Witch",
-      "score": 0.7,
-      "r18": false
+      "id": 1471,
+      "title": "Little Little",
+      "score": 0.261,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "bg",
+        "tr",
+        "it"
+      ]
     },
     {
-      "id": 969,
-      "title": "Kamisama Hajimemashita",
-      "score": 0.698,
-      "r18": false
+      "id": 3277,
+      "title": "Gakkou no Sensei",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 4880,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
-      "score": 0.697,
-      "r18": false
+      "id": 23284,
+      "title": "Ojiichan Shinanai",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "es"
+      ]
     },
     {
-      "id": 47273,
-      "title": "Yuusha-sama no Osananajimi to Iu Settei no Make Heroine ni Tensei shita no de, Chougoushi ni Job Change Shimasu",
-      "score": 0.694,
-      "r18": false
+      "id": 16019,
+      "title": "Gendai Majo Zukan",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 31158,
+      "title": "Kurasu Hako",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14337,
+      "title": "Takeo-chan Bukkairoku",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 13399,
+      "title": "Mahou Tsukai no Hako - Starlit Marmalade",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 22107,
+      "title": "Hakase no Kimagure Homunculus",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 10117,
+      "title": "Tsukiyo no Toratsugumi",
+      "score": 0.227,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg",
+        "fr",
+        "mx"
+      ]
+    },
+    {
+      "id": 52948,
+      "title": "Uchi no Maou ga Tenshi de tsurai",
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "vn"
+      ]
+    },
+    {
+      "id": 12948,
+      "title": "Gingitsune",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 5962,
+      "title": "Full Moon o Sagashite",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 5443,
+      "title": "Pita-Ten",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "br"
+      ]
+    },
+    {
+      "id": 11240,
+      "title": "31 Ai Dream",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 10172,
+      "title": "Kui Ryouko Sakuhin-shuu: Ryuu no Kawaii Nanatsu no Ko",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5896,
+      "title": "Ranman",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1265,
+      "title": "Liberamente",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 53778,
+      "title": "A Ruined Princess and Alternate World Hero Make a Great Country!",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 34367,
+      "title": "A Tale of Royal Disturbance: Now He's Gone from Echo Valley",
+      "score": 0.202,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 31915,
+      "title": "Honzuki no Gekokujou ~Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen~ Dai 2-bu \u300cHon no Tamenara Miko ni Naru!\u300d",
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 2596,
+      "title": "The Duck of Mr. Fredward",
+      "score": 0.197,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 14316,
       "title": "Monku no Tsukeyou ga nai Rabukome",
-      "score": 0.694,
-      "r18": false
-    },
-    {
-      "id": 2086,
-      "title": "Kingdom Hearts 358/2 Days",
-      "score": 0.694,
-      "r18": false
-    },
-    {
-      "id": 1023,
-      "title": "Inari, Konkon, Koi Iroha.",
-      "score": 0.692,
-      "r18": false
-    },
-    {
-      "id": 13432,
-      "title": "Ningen Deshita",
-      "score": 0.691,
-      "r18": false
-    },
-    {
-      "id": 36595,
-      "title": "Ryoumin 0-nin Start no Henkyou Ryoushusama",
-      "score": 0.689,
-      "r18": false
-    },
-    {
-      "id": 21325,
-      "title": "Botsuraku Yotei Nanode, Kajishokunin wo Mezasu",
-      "score": 0.685,
-      "r18": false
-    },
-    {
-      "id": 1937,
-      "title": "Tsukimi no Soba",
-      "score": 0.683,
-      "r18": false
-    },
-    {
-      "id": 28843,
-      "title": "JoJo's Bizarre Adventure Part 4 - Diamond is Unbreakable",
-      "score": 0.683,
-      "r18": false
-    },
-    {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.682,
-      "r18": false
-    },
-    {
-      "id": 6269,
-      "title": "JoJo's Bizarre Adventure Part 4 - Diamond is Unbreakable (Official Colored)",
-      "score": 0.682,
-      "r18": false
-    },
-    {
-      "id": 8472,
-      "title": "Hakkenden: Touhou Hakken Ibun",
-      "score": 0.682,
-      "r18": false
-    },
-    {
-      "id": 53913,
-      "title": "My Noble Family Is Headed for Ruin, so I May as Well Study Magic in My Free Time",
-      "score": 0.681,
-      "r18": false
-    },
-    {
-      "id": 1720,
-      "title": "Under Prin",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 999,
-      "title": "Akagami no Shirayukihime",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 36694,
-      "title": "Heart-Warming Meals with Mother Fenrir",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 28652,
-      "title": "Mahou Tsukai PreCure!",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 27758,
-      "title": "Rumic World",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 18491,
-      "title": "It's My Life",
-      "score": 0.677,
-      "r18": false
+      "score": 0.197,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "br"
+      ]
     }
   ]
 }

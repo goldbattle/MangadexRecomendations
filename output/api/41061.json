@@ -1,32 +1,38 @@
 {
   "id": 41061,
   "title": "Shirouto Yankee Kikiippatsu!!",
-  "url": "https://api.mangadex.org/v2/manga/41061",
-  "last_updated": "February 11, 2021 08:33:15 UTC",
+  "url": "https://mangadex.org/manga/41061",
+  "last_updated": "March 18, 2021 12:03:11 UTC",
   "matches": [
     {
       "id": 33857,
       "title": "Sensei Punch!",
-      "score": 0.254,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 24021,
       "title": "Enjo Mate",
-      "score": 0.242,
-      "r18": false
-    },
-    {
-      "id": 54025,
-      "title": "Sex and World's End",
-      "score": 0.219,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1455,
       "title": "Okane ga Nai",
-      "score": 0.159,
-      "r18": false
+      "score": 0.072,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "it",
+        "pl"
+      ]
     }
   ]
 }

@@ -1,158 +1,91 @@
 {
   "id": 49859,
   "title": "In Secret",
-  "url": "https://api.mangadex.org/v2/manga/49859",
-  "last_updated": "February 05, 2021 08:14:29 UTC",
+  "url": "https://mangadex.org/manga/49859",
+  "last_updated": "March 18, 2021 13:16:46 UTC",
   "matches": [
-    {
-      "id": 59034,
-      "title": "Unholy Night",
-      "score": 0.688,
-      "r18": false
-    },
-    {
-      "id": 55657,
-      "title": "Ang Ang",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 56675,
-      "title": "When a Yakuza falls in love",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 59175,
-      "title": "Love Script",
-      "score": 0.467,
-      "r18": false
-    },
-    {
-      "id": 43916,
-      "title": "Marry You? Yes, I Will!",
-      "score": 0.463,
-      "r18": false
-    },
-    {
-      "id": 54007,
-      "title": "Pleasure Principle",
-      "score": 0.46,
-      "r18": false
-    },
-    {
-      "id": 58051,
-      "title": "Modernist",
-      "score": 0.459,
-      "r18": false
-    },
-    {
-      "id": 39457,
-      "title": "Master Baek's Case Notes",
-      "score": 0.452,
-      "r18": false
-    },
     {
       "id": 55778,
       "title": "Vanilla Soda Sky",
-      "score": 0.447,
-      "r18": false
+      "score": 0.37,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id"
+      ]
     },
     {
-      "id": 35907,
-      "title": "Restless",
-      "score": 0.437,
-      "r18": false
-    },
-    {
-      "id": 57441,
-      "title": "Highest Order",
-      "score": 0.435,
-      "r18": false
-    },
-    {
-      "id": 57822,
-      "title": "Housekeepers Love Affair",
-      "score": 0.429,
-      "r18": false
-    },
-    {
-      "id": 52199,
-      "title": "Affectionately",
-      "score": 0.428,
-      "r18": false
-    },
-    {
-      "id": 59268,
-      "title": "Santa Will Always Grant Your Wishes",
-      "score": 0.416,
-      "r18": false
-    },
-    {
-      "id": 47189,
-      "title": "Pian Pian",
-      "score": 0.413,
-      "r18": false
-    },
-    {
-      "id": 55341,
-      "title": "Please Teach Me",
-      "score": 0.411,
-      "r18": false
-    },
-    {
-      "id": 23594,
-      "title": "A Week of Lust",
-      "score": 0.408,
-      "r18": false
+      "id": 59034,
+      "title": "Unholy Night",
+      "score": 0.336,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "vn",
+        "tr"
+      ]
     },
     {
       "id": 23544,
-      "title": "Love Is An Illusion",
-      "score": 0.406,
-      "r18": false
+      "title": "Love Is an Illusion",
+      "score": 0.286,
+      "r18": false,
+      "languages": [
+        "tr",
+        "fr",
+        "id",
+        "gb",
+        "hu",
+        "it",
+        "mx",
+        "br"
+      ]
     },
     {
-      "id": 44078,
-      "title": "The Time Between Dog and Wolf",
-      "score": 0.402,
-      "r18": false
+      "id": 36619,
+      "title": "I Got Married With a Goblin",
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "fr",
+        "id"
+      ]
     },
     {
-      "id": 58528,
-      "title": "Help Me, Uncle!",
-      "score": 0.398,
-      "r18": false
+      "id": 40039,
+      "title": "How to Snag an Alpha",
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "id",
+        "fr",
+        "gb"
+      ]
     },
     {
-      "id": 51452,
-      "title": "Mania",
-      "score": 0.398,
-      "r18": false
+      "id": 40174,
+      "title": "Red Candy",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "mx",
+        "tr",
+        "id"
+      ]
     },
     {
-      "id": 59128,
-      "title": "Shuffle",
-      "score": 0.397,
-      "r18": false
-    },
-    {
-      "id": 40966,
-      "title": "Falling",
-      "score": 0.395,
-      "r18": false
-    },
-    {
-      "id": 58849,
-      "title": "Will You Subscribe?",
-      "score": 0.394,
-      "r18": false
-    },
-    {
-      "id": 45212,
-      "title": "Decision",
-      "score": 0.394,
-      "r18": false
+      "id": 56007,
+      "title": "I Was Reborn as the Villainess' Father and I Need XXX to Survive?!",
+      "score": 0.142,
+      "r18": false,
+      "languages": [
+        "mx",
+        "id"
+      ]
     }
   ]
 }

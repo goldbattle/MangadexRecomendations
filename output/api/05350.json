@@ -2,43 +2,47 @@
   "id": 5350,
   "title": "Mugentou",
   "url": "https://mangadex.org/manga/5350",
-  "last_updated": "March 14, 2021 12:35:05 UTC",
+  "last_updated": "March 18, 2021 06:30:43 UTC",
   "matches": [
     {
       "id": 26,
       "title": "Nam Gi-han To be an Elite",
       "score": 0.207,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 53997,
       "title": "Shark",
-      "score": 0.177,
-      "r18": false
-    },
-    {
-      "id": 17782,
-      "title": "Somali to Mori no Kami-sama",
-      "score": 0.128,
-      "r18": false
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 34369,
       "title": "Along With The Gods",
       "score": 0.114,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 10618,
       "title": "Wind Breaker",
-      "score": 0.112,
-      "r18": false
-    },
-    {
-      "id": 48116,
-      "title": "LOW LIFE",
-      "score": 0.105,
-      "r18": false
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "br",
+        "mx",
+        "tr",
+        "gb",
+        "pl"
+      ]
     }
   ]
 }

@@ -2,25 +2,49 @@
   "id": 12542,
   "title": "Gamma",
   "url": "https://mangadex.org/manga/12542",
-  "last_updated": "March 15, 2021 08:23:58 UTC",
+  "last_updated": "March 18, 2021 07:32:46 UTC",
   "matches": [
     {
       "id": 20988,
       "title": "Bakuretsu Tenshi: Angel's Adolescence",
-      "score": 0.32,
-      "r18": false
+      "score": 0.319,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg"
+      ]
+    },
+    {
+      "id": 49393,
+      "title": "Himegami no Miko",
+      "score": 0.244,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "id",
+        "mx"
+      ]
     },
     {
       "id": 23582,
       "title": "Otome x Chigiri",
-      "score": 0.21,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 7231,
       "title": "Mondlicht - Tsuki no Tsubasa",
-      "score": 0.202,
-      "r18": false
+      "score": 0.201,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     }
   ]
 }

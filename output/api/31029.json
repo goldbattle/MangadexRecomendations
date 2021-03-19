@@ -1,158 +1,247 @@
 {
   "id": 31029,
   "title": "Annoying Alice",
-  "url": "https://api.mangadex.org/v2/manga/31029",
-  "last_updated": "February 10, 2021 08:13:43 UTC",
+  "url": "https://mangadex.org/manga/31029",
+  "last_updated": "March 18, 2021 10:39:30 UTC",
   "matches": [
     {
-      "id": 49274,
-      "title": "I'm Not the Overlord!",
-      "score": 0.652,
-      "r18": false
+      "id": 11483,
+      "title": "For Alice",
+      "score": 0.653,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 47104,
       "title": "We Are Not Familiar",
-      "score": 0.441,
-      "r18": false
-    },
-    {
-      "id": 52300,
-      "title": "The Devious New Employee",
-      "score": 0.409,
-      "r18": false
-    },
-    {
-      "id": 15437,
-      "title": "Our Relationship Is...",
-      "score": 0.401,
-      "r18": false
-    },
-    {
-      "id": 59508,
-      "title": "Straight Girl Trap",
-      "score": 0.392,
-      "r18": false
-    },
-    {
-      "id": 58387,
-      "title": "His 10,000 Romantic Traps",
-      "score": 0.385,
-      "r18": false
-    },
-    {
-      "id": 36634,
-      "title": "Masked Woman",
-      "score": 0.385,
-      "r18": false
-    },
-    {
-      "id": 30766,
-      "title": "Back to the Highteen",
-      "score": 0.383,
-      "r18": false
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 39592,
       "title": "CEO's Top Secret",
-      "score": 0.38,
-      "r18": false
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 56497,
-      "title": "Blind &amp; Homeless",
-      "score": 0.376,
-      "r18": false
+      "id": 36841,
+      "title": "The Problem of My Love Affair",
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 42128,
       "title": "Restrain",
-      "score": 0.376,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 7483,
-      "title": "Salon H",
-      "score": 0.375,
-      "r18": false
-    },
-    {
-      "id": 18685,
-      "title": "Lovely Bokhee-ssi",
-      "score": 0.373,
-      "r18": false
-    },
-    {
-      "id": 18622,
-      "title": "Que sera, sera",
-      "score": 0.372,
-      "r18": false
-    },
-    {
-      "id": 22260,
-      "title": "A Good Day to Be a Dog",
-      "score": 0.371,
-      "r18": false
+      "id": 30766,
+      "title": "Back to the Highteen",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 51138,
       "title": "Don't Move, Spy!",
-      "score": 0.37,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 19130,
-      "title": "Falls In Love Too Late",
-      "score": 0.37,
-      "r18": false
+      "id": 36634,
+      "title": "Masked Woman",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
-      "id": 21533,
-      "title": "I Love Yoo",
-      "score": 0.369,
-      "r18": false
-    },
-    {
-      "id": 35216,
-      "title": "Black Dragon Romance",
-      "score": 0.369,
-      "r18": false
-    },
-    {
-      "id": 52440,
-      "title": "Entangled With His Cold Excellency, the Scourge",
-      "score": 0.368,
-      "r18": false
+      "id": 18685,
+      "title": "Lovely Bokhee-ssi",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 50343,
       "title": "Love Lock",
-      "score": 0.367,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "ru"
+      ]
+    },
+    {
+      "id": 52639,
+      "title": "Dog Food Acorn",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 15437,
+      "title": "Our Relationship Is...",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "tr"
+      ]
+    },
+    {
+      "id": 59508,
+      "title": "Straight Girl Trap",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 20853,
+      "title": "Flawless",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19130,
+      "title": "Falls In Love Too Late",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 55938,
+      "title": "Face With Love, Affection, and Time",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 59411,
       "title": "We're Soulmates Starting From Today",
-      "score": 0.366,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 50904,
-      "title": "One Thing I Can't Say",
-      "score": 0.365,
-      "r18": false
+      "id": 39082,
+      "title": "Infinite Sky",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 29512,
-      "title": "What's Wrong with Secretary Kim",
-      "score": 0.365,
-      "r18": false
+      "id": 52920,
+      "title": "Dangerous New Employee",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa"
+      ]
     },
     {
-      "id": 20373,
-      "title": "His House",
-      "score": 0.363,
-      "r18": false
+      "id": 39294,
+      "title": "Celebgram",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 58387,
+      "title": "His 10,000 Romantic Traps",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
+    },
+    {
+      "id": 35216,
+      "title": "Black Dragon Romance",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18622,
+      "title": "Que sera, sera",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "id"
+      ]
+    },
+    {
+      "id": 41050,
+      "title": "Deadline Is Coming",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21533,
+      "title": "I Love Yoo",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "br"
+      ]
     }
   ]
 }

@@ -2,37 +2,55 @@
   "id": 29410,
   "title": "Kamakiri",
   "url": "https://mangadex.org/manga/29410",
-  "last_updated": "March 17, 2021 00:51:34 UTC",
+  "last_updated": "March 18, 2021 10:26:00 UTC",
   "matches": [
     {
       "id": 1269,
       "title": "The Flowers of Evil",
       "score": 0.214,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6405,
       "title": "Cantarella",
-      "score": 0.2,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 5158,
       "title": "Hakushaku Cain Series",
       "score": 0.179,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1633,
       "title": "Die",
       "score": 0.15,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 2132,
       "title": "After School Nightmare",
-      "score": 0.148,
-      "r18": false
+      "score": 0.147,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

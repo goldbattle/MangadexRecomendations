@@ -1,158 +1,240 @@
 {
   "id": 34847,
   "title": "Youkoso New World",
-  "url": "https://api.mangadex.org/v2/manga/34847",
-  "last_updated": "February 10, 2021 16:34:52 UTC",
+  "url": "https://mangadex.org/manga/34847",
+  "last_updated": "March 18, 2021 11:11:20 UTC",
   "matches": [
+    {
+      "id": 55593,
+      "title": "Zankoku na Kimi to Tomo ni",
+      "score": 0.4,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
     {
       "id": 55546,
       "title": "Ore-sama wa Koi no Dorei",
-      "score": 0.454,
-      "r18": true
+      "score": 0.4,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21370,
       "title": "Sukidesu, Zenbukudasai",
-      "score": 0.453,
-      "r18": true
+      "score": 0.4,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29797,
       "title": "Fuck Buddy",
-      "score": 0.441,
-      "r18": true
+      "score": 0.4,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 35210,
       "title": "No Color Baby",
-      "score": 0.429,
-      "r18": true
-    },
-    {
-      "id": 55593,
-      "title": "Zankoku na Kimi to Tomo ni",
-      "score": 0.423,
-      "r18": true
-    },
-    {
-      "id": 25912,
-      "title": "Ore no Ushiro ni Tatsuna!!",
-      "score": 0.366,
-      "r18": true
+      "score": 0.4,
+      "r18": true,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 20244,
       "title": "Jealousy",
-      "score": 0.36,
-      "r18": true
+      "score": 0.32,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 39053,
       "title": "Shunshou Nawageshou",
-      "score": 0.36,
-      "r18": true
-    },
-    {
-      "id": 38365,
-      "title": "Ai ni Naburareru",
-      "score": 0.358,
-      "r18": true
-    },
-    {
-      "id": 14486,
-      "title": "Aruhi Totsuzen Koi wa Kuru?!",
-      "score": 0.358,
-      "r18": true
-    },
-    {
-      "id": 10840,
-      "title": "Dakenai Jikan",
-      "score": 0.357,
-      "r18": true
-    },
-    {
-      "id": 34859,
-      "title": "Zetsuai - Teikoku Juurin (Doujinshi)",
-      "score": 0.354,
-      "r18": true
-    },
-    {
-      "id": 31199,
-      "title": "Mobius Strip",
-      "score": 0.354,
-      "r18": true
-    },
-    {
-      "id": 19430,
-      "title": "Romantic Joutou",
-      "score": 0.349,
-      "r18": true
-    },
-    {
-      "id": 29601,
-      "title": "Anata wa Iyarashii Hito",
-      "score": 0.345,
-      "r18": true
-    },
-    {
-      "id": 35368,
-      "title": "Suki Nante Iwantoite",
-      "score": 0.345,
-      "r18": true
-    },
-    {
-      "id": 22111,
-      "title": "Erito &Omega; wa Yoru ni Oborete",
-      "score": 0.344,
-      "r18": true
-    },
-    {
-      "id": 38401,
-      "title": "Kyokan Hunter",
-      "score": 0.34,
-      "r18": true
-    },
-    {
-      "id": 28959,
-      "title": "Konna Hazu ja Nakatta no ni",
-      "score": 0.339,
-      "r18": true
-    },
-    {
-      "id": 37621,
-      "title": "Mister Fiction",
-      "score": 0.338,
-      "r18": true
-    },
-    {
-      "id": 43070,
-      "title": "Chou Dakaretai Otoko",
-      "score": 0.329,
-      "r18": true
-    },
-    {
-      "id": 33470,
-      "title": "Kamengoshi ni, Kiss",
-      "score": 0.324,
-      "r18": true
+      "score": 0.32,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 55595,
       "title": "Mandayuu to Ore",
-      "score": 0.323,
-      "r18": true
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 55071,
-      "title": "Erotic M",
-      "score": 0.322,
-      "r18": true
+      "id": 38401,
+      "title": "Kyokan Hunter",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14486,
+      "title": "Aruhi Totsuzen Koi wa Kuru?!",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37621,
+      "title": "Mister Fiction",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 28959,
+      "title": "Konna Hazu ja Nakatta no ni",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 22111,
+      "title": "Erito &Omega; wa Yoru ni Oborete",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "vn",
+        "gb"
+      ]
+    },
+    {
+      "id": 19430,
+      "title": "Romantic Joutou",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10840,
+      "title": "Dakenai Jikan",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 38365,
+      "title": "Ai ni Naburareru",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21239,
+      "title": "Yuri!!! on Ice - Eros: Captured In The Pleasure Garden (Doujinshi)",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 25912,
+      "title": "Ore no Ushiro ni Tatsuna!!",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 31199,
+      "title": "Mobius Strip",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 43070,
+      "title": "Chou Dakaretai Otoko",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 35368,
+      "title": "Suki Nante Iwantoite",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 42215,
       "title": "Kedamono Hatsujouki!!",
-      "score": 0.314,
-      "r18": true
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55071,
+      "title": "Erotic M",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 40842,
+      "title": "Jun'ai Dropout",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb",
+        "fr",
+        "mx"
+      ]
+    },
+    {
+      "id": 26116,
+      "title": "Fuyushirazu no Koi",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -1,158 +1,307 @@
 {
   "id": 45269,
   "title": "Ping Kong",
-  "url": "https://api.mangadex.org/v2/manga/45269",
-  "last_updated": "February 11, 2021 20:22:59 UTC",
+  "url": "https://mangadex.org/manga/45269",
+  "last_updated": "March 18, 2021 12:38:20 UTC",
   "matches": [
-    {
-      "id": 3597,
-      "title": "Ashita no Joe",
-      "score": 0.293,
-      "r18": false
-    },
-    {
-      "id": 51964,
-      "title": "Skyaway's",
-      "score": 0.293,
-      "r18": false
-    },
-    {
-      "id": 392,
-      "title": "Fantasista",
-      "score": 0.237,
-      "r18": false
-    },
-    {
-      "id": 838,
-      "title": "Donten Prism Solar Car",
-      "score": 0.237,
-      "r18": false
-    },
     {
       "id": 3547,
       "title": "1/11",
-      "score": 0.237,
-      "r18": false
+      "score": 0.206,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "vn"
+      ]
     },
     {
       "id": 4640,
       "title": "Mix",
-      "score": 0.237,
-      "r18": false
-    },
-    {
-      "id": 6178,
-      "title": "Crazy Kouzo BC",
-      "score": 0.237,
-      "r18": false
-    },
-    {
-      "id": 10040,
-      "title": "Sweet Poolside",
-      "score": 0.237,
-      "r18": false
-    },
-    {
-      "id": 14217,
-      "title": "Kuroko no Basket - Extra Game",
-      "score": 0.237,
-      "r18": false
+      "score": 0.206,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru"
+      ]
     },
     {
       "id": 16552,
-      "title": "BE BLUES ~Ao ni nare~",
-      "score": 0.237,
-      "r18": false
+      "title": "BE BLUES ~Ao ni Nare~",
+      "score": 0.206,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "br",
+        "ru",
+        "vn",
+        "sa"
+      ]
     },
     {
       "id": 21117,
       "title": "Robot &times; Laserbeam",
-      "score": 0.237,
-      "r18": false
+      "score": 0.206,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "ru"
+      ]
     },
     {
-      "id": 21697,
-      "title": "Zenikko",
-      "score": 0.237,
-      "r18": false
-    },
-    {
-      "id": 42446,
-      "title": "SK8",
-      "score": 0.237,
-      "r18": false
-    },
-    {
-      "id": 43665,
-      "title": "Fantasista Stella",
-      "score": 0.237,
-      "r18": false
-    },
-    {
-      "id": 47570,
-      "title": "Burning Kabaddi",
-      "score": 0.237,
-      "r18": false
-    },
-    {
-      "id": 49167,
-      "title": "Ryuu to Ichigo",
-      "score": 0.237,
-      "r18": false
-    },
-    {
-      "id": 51976,
-      "title": "Otaku Plays Basketball",
-      "score": 0.237,
-      "r18": false
-    },
-    {
-      "id": 883,
-      "title": "Eyeshield 21",
-      "score": 0.233,
-      "r18": false
+      "id": 708,
+      "title": "Buyuden",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr"
+      ]
     },
     {
       "id": 1958,
       "title": "Hajime no Ippo",
-      "score": 0.233,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa",
+        "br",
+        "fr",
+        "es",
+        "ru",
+        "pl"
+      ]
     },
     {
-      "id": 2056,
-      "title": "Ganbare Genki",
-      "score": 0.233,
-      "r18": false
+      "id": 29394,
+      "title": "Blue Lock",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx",
+        "pl",
+        "br",
+        "it",
+        "vn",
+        "tr",
+        "fr",
+        "hu"
+      ]
     },
     {
-      "id": 13110,
-      "title": "Hinomaru Zumou",
-      "score": 0.233,
-      "r18": false
+      "id": 684,
+      "title": "Kuroko no Basket",
+      "score": 0.189,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "tr",
+        "de"
+      ]
     },
     {
-      "id": 13953,
-      "title": "B't X",
-      "score": 0.233,
-      "r18": false
+      "id": 1873,
+      "title": "Haikyuu!!",
+      "score": 0.189,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "it",
+        "id",
+        "br",
+        "ru",
+        "bg",
+        "tr"
+      ]
     },
     {
-      "id": 18204,
-      "title": "Houkago Sword Club",
-      "score": 0.233,
-      "r18": false
+      "id": 1283,
+      "title": "Rough",
+      "score": 0.177,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 20665,
-      "title": "Ginpaku no Paladin - Seikishi",
-      "score": 0.233,
-      "r18": false
+      "id": 11710,
+      "title": "Days",
+      "score": 0.177,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru"
+      ]
     },
     {
-      "id": 24035,
-      "title": "Money Fight",
-      "score": 0.233,
-      "r18": false
+      "id": 13275,
+      "title": "Baki Gaiden: SCARFACE",
+      "score": 0.177,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 45783,
+      "title": "Kami-sama wa Racket o Furanai",
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
+    },
+    {
+      "id": 837,
+      "title": "Yankee-kun to Megane-chan",
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "ru",
+        "ct",
+        "gb",
+        "br",
+        "es",
+        "id"
+      ]
+    },
+    {
+      "id": 1385,
+      "title": "H2",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 52471,
+      "title": "Build Up",
+      "score": 0.152,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru"
+      ]
+    },
+    {
+      "id": 5438,
+      "title": "Short Program",
+      "score": 0.137,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 496,
+      "title": "Gin no Saji",
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb",
+        "br",
+        "bg",
+        "id",
+        "ru"
+      ]
+    },
+    {
+      "id": 1403,
+      "title": "Sayonara Zetsubou Sensei",
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru",
+        "br",
+        "mx"
+      ]
+    },
+    {
+      "id": 28289,
+      "title": "Living in This World With Cut &amp; Paste",
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 21647,
+      "title": "Fight Class 3",
+      "score": 0.126,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx",
+        "fr",
+        "br"
+      ]
+    },
+    {
+      "id": 127,
+      "title": "Soul Eater Not!",
+      "score": 0.115,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 410,
+      "title": "Hayate no Gotoku!",
+      "score": 0.115,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 1702,
+      "title": "Durarara!!",
+      "score": 0.115,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 31889,
+      "title": "Outlaws",
+      "score": 0.115,
+      "r18": false,
+      "languages": [
+        "ru",
+        "id"
+      ]
     }
   ]
 }

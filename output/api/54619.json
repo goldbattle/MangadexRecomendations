@@ -1,158 +1,253 @@
 {
   "id": 54619,
   "title": "Akaku Naru no wa Kiminosei",
-  "url": "https://api.mangadex.org/v2/manga/54619",
-  "last_updated": "March 12, 2021 20:27:51 UTC",
+  "url": "https://mangadex.org/manga/54619",
+  "last_updated": "March 18, 2021 13:56:30 UTC",
   "matches": [
     {
-      "id": 12094,
-      "title": "Mou Tamago wa Korosanai",
-      "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 49117,
-      "title": "Can I Kiss You Tomorrow?",
-      "score": 0.668,
-      "r18": false
-    },
-    {
-      "id": 3441,
-      "title": "Ibitsu na Hoshi no Katachi",
-      "score": 0.447,
-      "r18": false
-    },
-    {
-      "id": 9816,
-      "title": "Shiny Doll",
-      "score": 0.443,
-      "r18": false
+      "id": 6053,
+      "title": "Zettai Ren'ai Program",
+      "score": 0.362,
+      "r18": false,
+      "languages": [
+        "pl",
+        "tr"
+      ]
     },
     {
       "id": 2485,
       "title": "Koiiro Omoi",
-      "score": 0.443,
-      "r18": false
+      "score": 0.362,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 21891,
-      "title": "Sakura to Sensei",
-      "score": 0.438,
-      "r18": false
-    },
-    {
-      "id": 46650,
-      "title": "Arashi-kun no Dakimakura",
-      "score": 0.429,
-      "r18": false
-    },
-    {
-      "id": 13980,
-      "title": "Shinomiya-kun no Sekai ga Owatte mo",
-      "score": 0.428,
-      "r18": false
-    },
-    {
-      "id": 52447,
-      "title": "Hana to Konjou: Boudai Danshi ni Koishimashita.",
-      "score": 0.427,
-      "r18": false
-    },
-    {
-      "id": 9156,
-      "title": "Stand Up!",
-      "score": 0.426,
-      "r18": false
-    },
-    {
-      "id": 15590,
-      "title": "Hatsukoi Hajimemashita.",
-      "score": 0.42,
-      "r18": false
-    },
-    {
-      "id": 50856,
-      "title": "Kawaii Nante Kiitenai",
-      "score": 0.415,
-      "r18": false
-    },
-    {
-      "id": 49868,
-      "title": "Takane no Hanao-kun",
-      "score": 0.415,
-      "r18": false
-    },
-    {
-      "id": 50877,
-      "title": "Futsuu na Bokura no",
-      "score": 0.412,
-      "r18": false
-    },
-    {
-      "id": 6053,
-      "title": "Zettai Ren'ai Program",
-      "score": 0.411,
-      "r18": false
-    },
-    {
-      "id": 9981,
-      "title": "Vivid Cherry",
-      "score": 0.411,
-      "r18": false
-    },
-    {
-      "id": 12681,
-      "title": "Bye Bye, Ame.",
-      "score": 0.409,
-      "r18": false
-    },
-    {
-      "id": 50637,
-      "title": "Saihate no Polaris",
-      "score": 0.409,
-      "r18": false
-    },
-    {
-      "id": 9182,
-      "title": "Oshaberi na Jikanwari",
-      "score": 0.408,
-      "r18": false
-    },
-    {
-      "id": 33526,
-      "title": "Futari de Koi wo suru Riyuu",
-      "score": 0.406,
-      "r18": false
-    },
-    {
-      "id": 21596,
-      "title": "Osananajimi to, Kiss shitakunakunai.",
-      "score": 0.406,
-      "r18": false
+      "id": 9452,
+      "title": "Suki yori mo Chikaku",
+      "score": 0.362,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 49205,
       "title": "Sentimental Kiss",
-      "score": 0.404,
-      "r18": false
+      "score": 0.362,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
-      "id": 15585,
-      "title": "Hoshikuzu Drop",
-      "score": 0.4,
-      "r18": false
+      "id": 52727,
+      "title": "Chihiro-kun wa, Atashi Holic",
+      "score": 0.362,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "es"
+      ]
+    },
+    {
+      "id": 14282,
+      "title": "Ougon no Ringo",
+      "score": 0.362,
+      "r18": false,
+      "languages": [
+        "de",
+        "gb"
+      ]
+    },
+    {
+      "id": 13980,
+      "title": "Shinomiya-kun no Sekai ga Owatte mo",
+      "score": 0.362,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 7579,
+      "title": "Onnanoko wa Yoyuu!",
+      "score": 0.362,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3441,
+      "title": "Ibitsu na Hoshi no Katachi",
+      "score": 0.362,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21596,
+      "title": "Osananajimi to, Kiss shitakunakunai.",
+      "score": 0.362,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 51757,
+      "title": "Uruwashi no Yoi no Tsuki",
+      "score": 0.362,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "br",
+        "fr",
+        "mx"
+      ]
+    },
+    {
+      "id": 50637,
+      "title": "Saihate no Polaris",
+      "score": 0.362,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 49554,
+      "title": "Kiss de Okoshite.",
+      "score": 0.362,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 12681,
+      "title": "Bye Bye, Ame.",
+      "score": 0.362,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9573,
+      "title": "Akuma no Ichigo",
+      "score": 0.362,
+      "r18": false,
+      "languages": [
+        "br"
+      ]
+    },
+    {
+      "id": 49868,
+      "title": "Takane no Hanao-kun",
+      "score": 0.362,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 46650,
+      "title": "Arashi-kun no Dakimakura",
+      "score": 0.362,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id",
+        "fr"
+      ]
+    },
+    {
+      "id": 50877,
+      "title": "Futsuu na Bokura no",
+      "score": 0.362,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 15590,
+      "title": "Hatsukoi Hajimemashita.",
+      "score": 0.362,
+      "r18": false,
+      "languages": [
+        "br"
+      ]
+    },
+    {
+      "id": 9816,
+      "title": "Shiny Doll",
+      "score": 0.362,
+      "r18": false,
+      "languages": [
+        "br",
+        "pl"
+      ]
     },
     {
       "id": 18559,
       "title": "Charai Hayama ni Kyun to Kita",
-      "score": 0.399,
-      "r18": false
+      "score": 0.362,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 54099,
-      "title": "Natsuaki-kun wa Kyou mo Kokuhaku shitai",
-      "score": 0.399,
-      "r18": false
+      "id": 16517,
+      "title": "Aoba-kun ni Kikitai Koto",
+      "score": 0.362,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 15585,
+      "title": "Hoshikuzu Drop",
+      "score": 0.362,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4517,
+      "title": "Together on Sunday",
+      "score": 0.362,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2226,
+      "title": "Mitsumeteitai",
+      "score": 0.362,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

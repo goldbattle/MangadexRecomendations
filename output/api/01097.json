@@ -2,49 +2,90 @@
   "id": 1097,
   "title": "Say Hello to Black Jack",
   "url": "https://mangadex.org/manga/1097",
-  "last_updated": "March 14, 2021 01:07:30 UTC",
+  "last_updated": "March 18, 2021 05:51:53 UTC",
   "matches": [
     {
       "id": 10698,
       "title": "Lucifer no Migite",
       "score": 0.294,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 13215,
       "title": "Kounodori",
       "score": 0.291,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 16787,
+      "title": "Fragile - Byourii Kishi Keiichirou no Shoken",
+      "score": 0.277,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1915,
       "title": "Team Medical Dragon",
       "score": 0.259,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "pl"
+      ]
     },
     {
       "id": 3339,
       "title": "Kansen Rettou",
       "score": 0.245,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "fr",
+        "br"
+      ]
     },
     {
       "id": 1101,
       "title": "Monster",
-      "score": 0.203,
-      "r18": false
+      "score": 0.202,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 521,
       "title": "Shi ni Itaru Yamai",
       "score": 0.196,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 15,
       "title": "Dr. Frost",
-      "score": 0.129,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "br"
+      ]
     }
   ]
 }

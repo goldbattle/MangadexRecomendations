@@ -1,158 +1,280 @@
 {
   "id": 51036,
   "title": "El Romance de una Chica Gorda",
-  "url": "https://api.mangadex.org/v2/manga/51036",
-  "last_updated": "February 05, 2021 08:33:08 UTC",
+  "url": "https://mangadex.org/manga/51036",
+  "last_updated": "March 18, 2021 13:26:35 UTC",
   "matches": [
-    {
-      "id": 44543,
-      "title": "Lost Princess",
-      "score": 0.662,
-      "r18": false
-    },
-    {
-      "id": 37057,
-      "title": "The Hidden Descendants",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 50594,
-      "title": "I Only Love Hana",
-      "score": 0.364,
-      "r18": false
-    },
     {
       "id": 54375,
       "title": "My Days With You",
-      "score": 0.361,
-      "r18": false
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
+    },
+    {
+      "id": 22136,
+      "title": "My Male Friend",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 54703,
+      "title": "Play, Playlist",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "mm"
+      ]
+    },
+    {
+      "id": 41917,
+      "title": "Choco Latte",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "tr",
+        "mx",
+        "fr"
+      ]
     },
     {
       "id": 56299,
       "title": "This Question Is Super Difficult",
-      "score": 0.36,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 52892,
-      "title": "It&rsquo;s Neither Windy or Rainy, and nor Is It Clear",
-      "score": 0.353,
-      "r18": false
+      "id": 56425,
+      "title": "Three Lies, One Kiss",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
-      "id": 16305,
-      "title": "Where Tangents Meet",
-      "score": 0.349,
-      "r18": false
+      "id": 30553,
+      "title": "True Beauty",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br",
+        "gb",
+        "fr",
+        "ru"
+      ]
     },
     {
-      "id": 52694,
-      "title": "Love Song",
-      "score": 0.349,
-      "r18": false
+      "id": 22276,
+      "title": "Yaonie Jiaozhu Kuai Tang Xia",
+      "score": 0.212,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr"
+      ]
     },
     {
-      "id": 31896,
-      "title": "Kiss Fure Kiss Shiterukedo Koibito Janai",
-      "score": 0.346,
-      "r18": false
+      "id": 24641,
+      "title": "Love and Sweet Drugs",
+      "score": 0.206,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 21405,
-      "title": "Milk Tea",
-      "score": 0.345,
-      "r18": false
+      "id": 17218,
+      "title": "Adonis Next Door",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "mx",
+        "pl"
+      ]
     },
     {
-      "id": 25971,
-      "title": "after My Pre-Wedding",
-      "score": 0.34,
-      "r18": false
+      "id": 21700,
+      "title": "Zero Point Idol",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "mx"
+      ]
     },
     {
-      "id": 56727,
-      "title": "Incomplete Theorem",
-      "score": 0.34,
-      "r18": false
+      "id": 22346,
+      "title": "Hidden Surface Town",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "mx"
+      ]
     },
     {
-      "id": 43435,
-      "title": "Paranoid Love",
-      "score": 0.337,
-      "r18": false
+      "id": 46265,
+      "title": "I Became a Millionaire's Daughter",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
-      "id": 57178,
-      "title": "A Thousand Miles Across the River: Qin Chuan and Zhixia",
-      "score": 0.336,
-      "r18": false
+      "id": 45668,
+      "title": "Whatever the Princess Desires!",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 46817,
-      "title": "61 Days with You",
-      "score": 0.335,
-      "r18": false
+      "id": 51817,
+      "title": "Concealed and Blended",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 48782,
-      "title": "Love",
-      "score": 0.334,
-      "r18": false
+      "id": 53424,
+      "title": "Your Distance",
+      "score": 0.197,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 26386,
-      "title": "Love Never Fails",
-      "score": 0.331,
-      "r18": false
+      "id": 44432,
+      "title": "Just a Girl He Knows",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 55207,
-      "title": "Sorry If I'm So Ugly",
-      "score": 0.331,
-      "r18": false
+      "id": 59849,
+      "title": "Unreachable Girl",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 51345,
-      "title": "Please Stamp Me!",
-      "score": 0.33,
-      "r18": false
+      "id": 55482,
+      "title": "Summer Is Hot!",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "br",
+        "mx"
+      ]
     },
     {
-      "id": 27142,
-      "title": "Honey Honey Wedding",
-      "score": 0.329,
-      "r18": false
+      "id": 24845,
+      "title": "DOLO's Destiny Pill",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx",
+        "mn",
+        "id"
+      ]
     },
     {
-      "id": 57623,
-      "title": "Last Game (Official Coloured)",
-      "score": 0.327,
-      "r18": false
+      "id": 55448,
+      "title": "It's Not That I Want to Wear Women's Clothing",
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "mx"
+      ]
     },
     {
-      "id": 49486,
-      "title": "Dream Lover",
-      "score": 0.326,
-      "r18": false
+      "id": 56891,
+      "title": "Sworn Enemy or Lover?",
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 59087,
-      "title": "Hello, Mr. Blue",
-      "score": 0.323,
-      "r18": false
+      "id": 42171,
+      "title": "Salad Days",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "mx",
+        "ph"
+      ]
     },
     {
-      "id": 57706,
-      "title": "Isn't the Contrast Cute?",
-      "score": 0.322,
-      "r18": false
+      "id": 29789,
+      "title": "Dear Future You",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 54856,
-      "title": "I'll Hog Your Kiss",
-      "score": 0.32,
-      "r18": false
+      "id": 16490,
+      "title": "Bocchan to Maid",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "tr",
+        "id",
+        "mx"
+      ]
     }
   ]
 }

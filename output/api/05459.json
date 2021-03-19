@@ -2,79 +2,131 @@
   "id": 5459,
   "title": "Dream Vendor",
   "url": "https://mangadex.org/manga/5459",
-  "last_updated": "March 14, 2021 12:36:41 UTC",
+  "last_updated": "March 18, 2021 06:31:43 UTC",
   "matches": [
     {
       "id": 1982,
       "title": "New Voices in the Dark",
       "score": 0.232,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ct",
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 9723,
       "title": "Torch Song Ecology",
       "score": 0.232,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19953,
       "title": "Inai Boku wa Hotarumachi ni Iru",
       "score": 0.232,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 26133,
       "title": "Beautiful People",
       "score": 0.193,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 13965,
       "title": "Worldend: Debugger",
-      "score": 0.166,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 22279,
       "title": "Tetsunagi Oni",
-      "score": 0.166,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29883,
       "title": "The Testimony of the White Rose",
       "score": 0.145,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 31754,
       "title": "Kanyou Shoujo",
       "score": 0.145,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 16407,
       "title": "Hyaku Monogatari",
       "score": 0.133,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3324,
       "title": "Itou Junji Kyoufu Manga Collection",
-      "score": 0.129,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "br",
+        "it",
+        "hu"
+      ]
     },
     {
       "id": 2659,
       "title": "Omae ga Sekai wo Kowashitai nara",
       "score": 0.116,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "it"
+      ]
     },
     {
       "id": 2797,
       "title": "Le Th&eacute;&acirc;tre de B",
-      "score": 0.097,
-      "r18": false
+      "score": 0.096,
+      "r18": false,
+      "languages": [
+        "bg",
+        "tr",
+        "gb",
+        "pl",
+        "hu",
+        "it"
+      ]
     }
   ]
 }

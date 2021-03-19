@@ -2,25 +2,40 @@
   "id": 4447,
   "title": "Arcana 08 - Butler II",
   "url": "https://mangadex.org/manga/4447",
-  "last_updated": "March 14, 2021 08:31:28 UTC",
+  "last_updated": "March 18, 2021 06:22:24 UTC",
   "matches": [
     {
       "id": 50321,
       "title": "Totsuzen desu ga, Kyou Ai ni Kite",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 47275,
       "title": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta",
       "score": 0.173,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 3324,
       "title": "Itou Junji Kyoufu Manga Collection",
-      "score": 0.156,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "br",
+        "it",
+        "hu"
+      ]
     }
   ]
 }

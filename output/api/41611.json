@@ -1,158 +1,282 @@
 {
   "id": 41611,
   "title": "hello (rom-com) world",
-  "url": "https://api.mangadex.org/v2/manga/41611",
-  "last_updated": "February 11, 2021 08:41:37 UTC",
+  "url": "https://mangadex.org/manga/41611",
+  "last_updated": "March 18, 2021 12:07:46 UTC",
   "matches": [
     {
-      "id": 22236,
-      "title": "Rurouni Kenshin: Hokkaido-hen",
-      "score": 0.724,
-      "r18": false
+      "id": 13943,
+      "title": "Sensou Gekijou",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 992,
-      "title": "Narue no Sekai",
-      "score": 0.709,
-      "r18": false
+      "id": 27925,
+      "title": "Jun and Kaoru",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "id",
+        "br"
+      ]
     },
     {
-      "id": 436,
-      "title": "Aku no Hana",
-      "score": 0.708,
-      "r18": false
+      "id": 1044,
+      "title": "Kimagure Orange Road",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "mx",
+        "it"
+      ]
     },
     {
-      "id": 25155,
-      "title": "To Heart",
-      "score": 0.707,
-      "r18": false
+      "id": 36230,
+      "title": "Kimagure Orange Road (Colored)",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "fr",
+        "br",
+        "mx",
+        "es",
+        "it",
+        "gb"
+      ]
     },
     {
-      "id": 23811,
-      "title": "Boku no Kokoro no Yabai Yatsu",
-      "score": 0.706,
-      "r18": false
+      "id": 958,
+      "title": "Binbougami ga!",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 5274,
-      "title": "Nijiiro Togarashi",
-      "score": 0.704,
-      "r18": false
+      "id": 23591,
+      "title": "Is It Okay to Touch Mino-san There?",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "hu",
+        "br"
+      ]
     },
     {
-      "id": 13546,
-      "title": "Gesu to Kami-sama",
-      "score": 0.704,
-      "r18": false
+      "id": 3717,
+      "title": "Hana Michi Otome",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 7232,
-      "title": "Cat's Eye",
-      "score": 0.703,
-      "r18": false
+      "id": 17954,
+      "title": "Fureru to Kikoeru",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 21871,
-      "title": "Yuki to Sumi",
-      "score": 0.702,
-      "r18": false
+      "id": 18301,
+      "title": "Kanojo wa Rokurokubi - Drafts",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 1790,
-      "title": "Arata Kangatari",
-      "score": 0.702,
-      "r18": false
+      "id": 15728,
+      "title": "Kanojo wa Rokurokubi",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "fr",
+        "pl"
+      ]
+    },
+    {
+      "id": 19421,
+      "title": "Hoshi ni Negai wo",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "ru",
+        "it",
+        "fr",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 36413,
+      "title": "Houkago Shounen Hanako-kun",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "br",
+        "hu"
+      ]
+    },
+    {
+      "id": 48157,
+      "title": "Kongouji-san is Annoying",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 22516,
+      "title": "Dioti Manual ~Kamisamatachi no Ren'ai Daikou~",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "br",
+        "vn",
+        "mx",
+        "id",
+        "fr"
+      ]
+    },
+    {
+      "id": 21876,
+      "title": "Chick Bomb",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 22695,
+      "title": "Curiosity Killed the Schoolgirl",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37391,
+      "title": "Mahouka Koukou no Rettousei - Koto Nairan-hen",
+      "score": 0.254,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 3749,
       "title": "Again!!",
-      "score": 0.701,
-      "r18": false
+      "score": 0.254,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "ru",
+        "mx",
+        "fr",
+        "tr"
+      ]
     },
     {
-      "id": 25435,
-      "title": "Madara",
-      "score": 0.701,
-      "r18": false
+      "id": 32081,
+      "title": "Bokutachi no Remake",
+      "score": 0.252,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "mx",
+        "ru"
+      ]
     },
     {
-      "id": 22816,
-      "title": "Class ga Isekai Shoukan sareta Naka Ore dake Nokotta n desu ga",
-      "score": 0.7,
-      "r18": false
+      "id": 7783,
+      "title": "RiN (HAROLD Sakuishi)",
+      "score": 0.252,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
-      "id": 6754,
-      "title": "Persona - Tsumi to Bachi",
-      "score": 0.699,
-      "r18": false
+      "id": 11900,
+      "title": "Kyou no Cerberus",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "fr",
+        "id",
+        "br",
+        "de",
+        "gb"
+      ]
     },
     {
-      "id": 3757,
-      "title": "Youkai Apaato no Yuuga na Nichijou",
-      "score": 0.699,
-      "r18": false
+      "id": 2492,
+      "title": "Gift - Under the Rainbow",
+      "score": 0.248,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 6270,
-      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo (Official Colored)",
-      "score": 0.698,
-      "r18": false
+      "id": 1367,
+      "title": "Q and A",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
-      "id": 23195,
-      "title": "The Great Ruler",
-      "score": 0.698,
-      "r18": false
+      "id": 331,
+      "title": "Kamichu!",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru"
+      ]
     },
     {
-      "id": 21565,
-      "title": "Ao no Flag",
-      "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 28525,
-      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo",
-      "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 10801,
-      "title": "Mahoutsukai no Yome",
-      "score": 0.697,
-      "r18": false
-    },
-    {
-      "id": 1293,
-      "title": "Miyuki",
-      "score": 0.697,
-      "r18": false
-    },
-    {
-      "id": 9674,
-      "title": "Saenai Kanojo (Heroine) no Sodatekata",
-      "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 1317,
-      "title": "Choku!",
-      "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 8165,
-      "title": "Sakura no Uta - The Fear Flows Because of Tenderness.",
-      "score": 0.695,
-      "r18": false
-    },
-    {
-      "id": 4773,
-      "title": "Clannad",
-      "score": 0.695,
-      "r18": false
+      "id": 12118,
+      "title": "Kanon (Key)",
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     }
   ]
 }

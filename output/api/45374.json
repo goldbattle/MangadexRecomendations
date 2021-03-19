@@ -1,158 +1,271 @@
 {
   "id": 45374,
   "title": "Pupillary Master",
-  "url": "https://api.mangadex.org/v2/manga/45374",
-  "last_updated": "February 11, 2021 20:24:46 UTC",
+  "url": "https://mangadex.org/manga/45374",
+  "last_updated": "March 18, 2021 12:39:12 UTC",
   "matches": [
     {
-      "id": 11867,
-      "title": "Hotarubi no Mori e",
-      "score": 0.787,
-      "r18": false
-    },
-    {
-      "id": 6146,
-      "title": "U wa Uchuusen no U",
-      "score": 0.782,
-      "r18": false
+      "id": 50183,
+      "title": "Please Throw Me Away",
+      "score": 0.327,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr",
+        "id"
+      ]
     },
     {
       "id": 49338,
       "title": "I Just Want to Be a Useless Duke's Daughter",
-      "score": 0.778,
-      "r18": false
-    },
-    {
-      "id": 52958,
-      "title": "I&rsquo;m the Villainess, but the Capture Targets Are Too Abnormal",
-      "score": 0.776,
-      "r18": false
-    },
-    {
-      "id": 3027,
-      "title": "Sora Oto",
-      "score": 0.776,
-      "r18": false
-    },
-    {
-      "id": 23013,
-      "title": "The Vengeful White Cat Lounging on the Dragon King's Lap",
-      "score": 0.774,
-      "r18": false
-    },
-    {
-      "id": 51165,
-      "title": "Rebirth: The Turnabout of a Mistreated Concubine",
-      "score": 0.772,
-      "r18": false
+      "score": 0.323,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 52261,
       "title": "God of War Mad Concubine: The Path to Obtaining the World",
-      "score": 0.772,
-      "r18": false
+      "score": 0.321,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 48351,
-      "title": "Wish to Say Farewell",
-      "score": 0.771,
-      "r18": false
+      "id": 21607,
+      "title": "Chasing Star Moon",
+      "score": 0.304,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59024,
+      "title": "The Meaning of You",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 53096,
+      "title": "Father, I Won't Do Anything",
+      "score": 0.295,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
+    },
+    {
+      "id": 49134,
+      "title": "For My Hero",
+      "score": 0.292,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br"
+      ]
+    },
+    {
+      "id": 42784,
+      "title": "I Don't Want to Be Empress!",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
+    },
+    {
+      "id": 59476,
+      "title": "The Tyrant's Guardian Is an Evil Witch",
+      "score": 0.288,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "tr",
+        "br",
+        "it",
+        "id"
+      ]
+    },
+    {
+      "id": 55378,
+      "title": "Feathers of Light",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 58413,
+      "title": "I'll Be the Matriarch in This Life",
+      "score": 0.282,
+      "r18": false,
+      "languages": [
+        "br",
+        "ru",
+        "gb",
+        "id",
+        "vn",
+        "fr"
+      ]
+    },
+    {
+      "id": 52297,
+      "title": "The Young Lady Is a Royal Chef",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 44387,
+      "title": "Living as the Tyrant's Older Sister",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "tr",
+        "ru"
+      ]
+    },
+    {
+      "id": 32944,
+      "title": "I Am a Child of This House",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "br",
+        "es",
+        "gb",
+        "tr",
+        "id"
+      ]
+    },
+    {
+      "id": 52194,
+      "title": "The Lady's Law of Survival",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br"
+      ]
+    },
+    {
+      "id": 47815,
+      "title": "I'll Protect the 2nd ML's Love",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 46121,
+      "title": "I Became the Chef of the Dragon King",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 51165,
+      "title": "Rebirth: The Turnabout of a Mistreated Concubine",
+      "score": 0.274,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 41453,
+      "title": "Miss Not-So Sidekick",
+      "score": 0.273,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 57978,
+      "title": "Everything Was a Mistake",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mm",
+        "tr",
+        "fr"
+      ]
     },
     {
       "id": 50651,
       "title": "Saving the Villain Who Was Abandoned by the Female Lead",
-      "score": 0.771,
-      "r18": false
-    },
-    {
-      "id": 10514,
-      "title": "Twin Cross",
-      "score": 0.77,
-      "r18": false
-    },
-    {
-      "id": 44107,
-      "title": "The Great Prophet Is Running From Her Previous Life",
-      "score": 0.77,
-      "r18": false
-    },
-    {
-      "id": 52697,
-      "title": "A Trivial Extra in a Dating Sim",
-      "score": 0.768,
-      "r18": false
-    },
-    {
-      "id": 49198,
-      "title": "I Was Just an Ordinary Lady",
-      "score": 0.767,
-      "r18": false
-    },
-    {
-      "id": 28369,
-      "title": "A Lonesome Fragrance Waiting to Be Appreciated",
-      "score": 0.767,
-      "r18": false
-    },
-    {
-      "id": 42208,
-      "title": "The Golden-Haired Elementalist",
-      "score": 0.767,
-      "r18": false
-    },
-    {
-      "id": 42278,
-      "title": "Emperor and the Female Knight",
-      "score": 0.766,
-      "r18": false
-    },
-    {
-      "id": 51318,
-      "title": "Truthfully, They Only Remembered Her",
-      "score": 0.765,
-      "r18": false
-    },
-    {
-      "id": 45898,
-      "title": "Revenge Wedding",
-      "score": 0.765,
-      "r18": false
-    },
-    {
-      "id": 58617,
-      "title": "I Became the Ugly Lady",
-      "score": 0.765,
-      "r18": false
-    },
-    {
-      "id": 1858,
-      "title": "Kanata Kara",
-      "score": 0.764,
-      "r18": false
-    },
-    {
-      "id": 1654,
-      "title": "Liselotte to Majo no Mori",
-      "score": 0.761,
-      "r18": false
-    },
-    {
-      "id": 39066,
-      "title": "I'm Not a Villainess!! Just Because I Can Control Darkness Doesn't Mean I'm a Bad Person!",
-      "score": 0.761,
-      "r18": false
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 53232,
       "title": "It's Time to Look for a New Family",
-      "score": 0.761,
-      "r18": false
+      "score": 0.27,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn"
+      ]
     },
     {
-      "id": 59476,
-      "title": "The Tyrant&rsquo;s Guardian Is an Evil Witch",
-      "score": 0.761,
-      "r18": false
+      "id": 38721,
+      "title": "The Lady Is a Stalker",
+      "score": 0.27,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 44112,
+      "title": "Cute Princess Strikes: The Panda from Heaven Wants Hugs",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 51427,
+      "title": "Forget About My Husband, I'd Rather Go Make Money",
+      "score": 0.267,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "tr"
+      ]
     }
   ]
 }

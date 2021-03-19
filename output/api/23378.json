@@ -2,49 +2,85 @@
   "id": 23378,
   "title": "Switch",
   "url": "https://mangadex.org/manga/23378",
-  "last_updated": "March 16, 2021 12:27:58 UTC",
+  "last_updated": "March 18, 2021 09:21:47 UTC",
   "matches": [
     {
       "id": 23477,
       "title": "Mom Cafe",
       "score": 0.175,
-      "r18": true
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19837,
       "title": "Lady Garden",
       "score": 0.14,
-      "r18": true
+      "r18": true,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 20572,
       "title": "Siren",
-      "score": 0.14,
-      "r18": true
+      "score": 0.139,
+      "r18": true,
+      "languages": [
+        "gb",
+        "fr",
+        "br"
+      ]
     },
     {
       "id": 19328,
       "title": "Lilith's Cord",
       "score": 0.12,
-      "r18": true
+      "r18": true,
+      "languages": [
+        "ru",
+        "br",
+        "gb",
+        "fr",
+        "sa",
+        "pl"
+      ]
     },
     {
       "id": 19235,
       "title": "Canine Tooth",
-      "score": 0.117,
-      "r18": true
+      "score": 0.116,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 17919,
       "title": "Woodman Dyeon",
-      "score": 0.112,
-      "r18": true
+      "score": 0.111,
+      "r18": true,
+      "languages": [
+        "gb",
+        "br",
+        "de"
+      ]
     },
     {
       "id": 23319,
       "title": "Perfect Half",
       "score": 0.097,
-      "r18": true
+      "r18": true,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "fr",
+        "sa",
+        "ir"
+      ]
     }
   ]
 }

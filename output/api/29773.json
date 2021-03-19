@@ -2,37 +2,53 @@
   "id": 29773,
   "title": "2013 - Dawn of the World",
   "url": "https://mangadex.org/manga/29773",
-  "last_updated": "January 13, 2021 06:58:45 UTC",
+  "last_updated": "March 18, 2021 10:29:02 UTC",
   "matches": [
     {
       "id": 42695,
       "title": "A Dead Crow's Stare",
-      "score": 0.315,
-      "r18": false
+      "score": 0.202,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 33135,
       "title": "Ghost Child",
-      "score": 0.262,
-      "r18": false
-    },
-    {
-      "id": 21642,
-      "title": "Crow's Library of Danmei",
-      "score": 0.184,
-      "r18": false
-    },
-    {
-      "id": 57866,
-      "title": "Urban Legend",
-      "score": 0.171,
-      "r18": false
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 42643,
       "title": "Name",
-      "score": 0.154,
-      "r18": false
+      "score": 0.137,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21642,
+      "title": "Crow's Library of Danmei",
+      "score": 0.109,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 57866,
+      "title": "Urban Legend",
+      "score": 0.08,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -2,55 +2,96 @@
   "id": 56876,
   "title": "EX-ARM EXA",
   "url": "https://mangadex.org/manga/56876",
-  "last_updated": "March 13, 2021 00:31:21 UTC",
+  "last_updated": "March 18, 2021 14:15:23 UTC",
   "matches": [
     {
       "id": 19620,
       "title": "Devilman vs. Hades",
       "score": 0.201,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7531,
       "title": "Black Joke",
       "score": 0.175,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 17430,
+      "title": "Golosseum",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": 9406,
       "title": "Wallman",
-      "score": 0.173,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "ro"
+      ]
+    },
+    {
+      "id": 22390,
+      "title": "Gift&plusmn;",
+      "score": 0.167,
+      "r18": false,
+      "languages": [
+        "ru",
+        "mx"
+      ]
     },
     {
       "id": 24899,
       "title": "Cutie Honey '90",
-      "score": 0.14,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 31928,
       "title": "Getter Robo High",
-      "score": 0.121,
-      "r18": false
-    },
-    {
-      "id": 14048,
-      "title": "Overlord",
-      "score": 0.102,
-      "r18": false
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7660,
       "title": "Keyman - The Hand of Judgement",
-      "score": 0.1,
-      "r18": false
+      "score": 0.099,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "ru",
+        "fr",
+        "es"
+      ]
     },
     {
       "id": 1400,
       "title": "Eater",
       "score": 0.082,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

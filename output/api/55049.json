@@ -1,158 +1,110 @@
 {
   "id": 55049,
   "title": "Keppeki Danshi Kouryakuhou",
-  "url": "https://api.mangadex.org/v2/manga/55049",
-  "last_updated": "March 12, 2021 20:33:02 UTC",
+  "url": "https://mangadex.org/manga/55049",
+  "last_updated": "March 18, 2021 14:00:05 UTC",
   "matches": [
     {
-      "id": 9419,
-      "title": "Sayonara Note",
-      "score": 0.692,
-      "r18": false
+      "id": 56003,
+      "title": "Naisho ni Shite ne",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 53660,
-      "title": "Honenuki ni Saretai",
-      "score": 0.682,
-      "r18": false
+      "id": 18978,
+      "title": "Okubyoumono ni I Love You",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "pl",
+        "ru",
+        "mx",
+        "it",
+        "gb"
+      ]
     },
     {
-      "id": 21107,
-      "title": "Itoshi Koishi Kimi Dake ni",
-      "score": 0.68,
-      "r18": false
+      "id": 59792,
+      "title": "Hoezura ni Kamitsuku Kisu",
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 37280,
-      "title": "Kimi no Ai wa Mienikui",
-      "score": 0.679,
-      "r18": false
+      "id": 43431,
+      "title": "Usagi no Mori",
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 27828,
-      "title": "Uminari",
-      "score": 0.677,
-      "r18": false
+      "id": 53763,
+      "title": "Riesgo en zona de trabajo",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
-      "id": 35296,
-      "title": "Evergreen Days",
-      "score": 0.673,
-      "r18": false
+      "id": 14902,
+      "title": "Shinjo-kun to Sasahara-kun",
+      "score": 0.248,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
-      "id": 27578,
-      "title": "Boku wa Boku Narini",
-      "score": 0.671,
-      "r18": false
+      "id": 150,
+      "title": "Chuchun ga Chun",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "pl",
+        "mx",
+        "gb"
+      ]
     },
     {
-      "id": 37292,
-      "title": "Kimi to Iru Asu",
-      "score": 0.67,
-      "r18": false
+      "id": 53808,
+      "title": "Hoy es el Plan D",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
-      "id": 24002,
-      "title": "Anata no Tonarini Suwarasete",
-      "score": 0.668,
-      "r18": false
+      "id": 24225,
+      "title": "Here U Are",
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "it",
+        "mx",
+        "gb"
+      ]
     },
     {
-      "id": 55805,
-      "title": "Renai Jikaku Shoujou",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 5377,
-      "title": "Karada Meate de Warui ka",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 27658,
-      "title": "Takaramono",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 55072,
-      "title": "Gekkou no Rankan ni Kuchinashi no Nioi",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 19632,
-      "title": "Hitorijime My Hero",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 4673,
-      "title": "From Yesterday",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 15031,
-      "title": "Hitorijime Boyfriend",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 8905,
-      "title": "Hana no Miyako de",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 26922,
-      "title": "Sweet Bitter Candy",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 5069,
-      "title": "Koi to Wana",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 38831,
-      "title": "Bokura no Katakoi Melancholy",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 53787,
-      "title": "Orangenia na Hibi",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 10213,
-      "title": "Otodokemono Desu!",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 10923,
-      "title": "Kooporasu e Youkoso",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 34548,
-      "title": "Koi wa Genjitsushugi de Yumemigachi",
-      "score": 0.486,
-      "r18": false
-    },
-    {
-      "id": 52647,
-      "title": "Kino to Yano",
-      "score": 0.483,
-      "r18": false
+      "id": 53106,
+      "title": "A Wisdom Tooth",
+      "score": 0.129,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     }
   ]
 }

@@ -1,32 +1,44 @@
 {
   "id": 52315,
   "title": "THE iDOLM@STER: Shiny Colors",
-  "url": "https://api.mangadex.org/v2/manga/52315",
-  "last_updated": "February 05, 2021 12:22:26 UTC",
+  "url": "https://mangadex.org/manga/52315",
+  "last_updated": "March 18, 2021 13:37:16 UTC",
   "matches": [
     {
       "id": 57072,
       "title": "Akiba Zaijuu",
-      "score": 0.343,
-      "r18": false
-    },
-    {
-      "id": 38931,
-      "title": "Beatlyfe",
-      "score": 0.215,
-      "r18": false
-    },
-    {
-      "id": 46875,
-      "title": "Beauty&rsquo;s online game",
-      "score": 0.214,
-      "r18": false
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 44811,
       "title": "Chat-Room",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 38931,
+      "title": "Beatlyfe",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 46875,
+      "title": "Beauty&rsquo;s online game",
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

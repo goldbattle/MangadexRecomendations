@@ -2,43 +2,53 @@
   "id": 8025,
   "title": "Ningyo Ouji",
   "url": "https://mangadex.org/manga/8025",
-  "last_updated": "March 14, 2021 20:14:34 UTC",
+  "last_updated": "March 18, 2021 06:54:04 UTC",
   "matches": [
     {
       "id": 2170,
       "title": "Soryanaize Darling",
       "score": 0.251,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3212,
       "title": "Love Cruise",
-      "score": 0.237,
-      "r18": false
+      "score": 0.236,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3781,
       "title": "Zoku - Kindan no Koi wo Shiyou",
-      "score": 0.224,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
     },
     {
       "id": 4821,
       "title": "Mangetsu no Yoru ni Akuma no Kiss",
-      "score": 0.2,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4132,
       "title": "Mitsu Iro Devil",
-      "score": 0.193,
-      "r18": false
-    },
-    {
-      "id": 53569,
-      "title": "Parasol Protectorate",
-      "score": 0.112,
-      "r18": false
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

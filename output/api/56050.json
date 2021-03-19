@@ -2,19 +2,26 @@
   "id": 56050,
   "title": "Touhou - Scarlet and Scarlet",
   "url": "https://mangadex.org/manga/56050",
-  "last_updated": "March 13, 2021 00:21:21 UTC",
+  "last_updated": "March 18, 2021 14:08:29 UTC",
   "matches": [
     {
       "id": 56044,
       "title": "Touhou - Here No More",
       "score": 0.291,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 58826,
       "title": "Killer Shark in Another World",
-      "score": 0.067,
-      "r18": false
+      "score": 0.066,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn"
+      ]
     }
   ]
 }

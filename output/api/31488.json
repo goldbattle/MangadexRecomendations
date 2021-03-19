@@ -1,158 +1,278 @@
 {
   "id": 31488,
   "title": "Isekai Ojisan",
-  "url": "https://api.mangadex.org/v2/manga/31488",
-  "last_updated": "February 10, 2021 08:20:55 UTC",
+  "url": "https://mangadex.org/manga/31488",
+  "last_updated": "March 18, 2021 10:43:20 UTC",
   "matches": [
-    {
-      "id": 3745,
-      "title": "Comic Studio",
-      "score": 0.657,
-      "r18": false
-    },
     {
       "id": 28838,
       "title": "Isekai de Kojiin wo Hiraitakedo, nazeka Darehitori Sudatou to Shinai Ken",
-      "score": 0.654,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "id",
+        "ru",
+        "fr"
+      ]
     },
     {
       "id": 182,
       "title": "Rotte no Omocha!",
-      "score": 0.419,
-      "r18": false
+      "score": 0.276,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "it"
+      ]
     },
     {
       "id": 23388,
       "title": "Isekai Death Game ni Tensou sarete Tsurai",
-      "score": 0.402,
-      "r18": false
+      "score": 0.27,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 1553,
       "title": "Kanojo no Kagi wo Akeru Houhou",
-      "score": 0.365,
-      "r18": false
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "fr",
+        "de"
+      ]
     },
     {
       "id": 13529,
       "title": "Kudamimi no Neko",
-      "score": 0.357,
-      "r18": false
-    },
-    {
-      "id": 960,
-      "title": "Papa no Iukoto wo Kikinasai!",
-      "score": 0.343,
-      "r18": false
-    },
-    {
-      "id": 29336,
-      "title": "Lazy Dungeon Master",
-      "score": 0.341,
-      "r18": false
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "tr",
+        "mx",
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 55950,
       "title": "Tsumuji Magari x Spring",
-      "score": 0.331,
-      "r18": false
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 3111,
-      "title": "Domina no Do!",
-      "score": 0.32,
-      "r18": false
-    },
-    {
-      "id": 45433,
-      "title": "Shou5 na Kanojo to Otona no Ai",
-      "score": 0.32,
-      "r18": false
-    },
-    {
-      "id": 7120,
-      "title": "Shinshi na Meets Girl",
-      "score": 0.319,
-      "r18": false
-    },
-    {
-      "id": 44661,
-      "title": "I'm Not a Lolicon!",
-      "score": 0.31,
-      "r18": false
-    },
-    {
-      "id": 15001,
-      "title": "Gion no Tsugai",
-      "score": 0.31,
-      "r18": false
+      "id": 29336,
+      "title": "Lazy Dungeon Master",
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr",
+        "id",
+        "br",
+        "mx"
+      ]
     },
     {
       "id": 35468,
       "title": "Night Bound \u25c6 Aubade",
-      "score": 0.307,
-      "r18": false
-    },
-    {
-      "id": 6579,
-      "title": "Kodomo no Jikan",
-      "score": 0.3,
-      "r18": false
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 25662,
       "title": "Kyou Kara Ore wa Loli no Himo!",
-      "score": 0.295,
-      "r18": false
-    },
-    {
-      "id": 700,
-      "title": "Ro-Kyu-Bu!",
-      "score": 0.295,
-      "r18": false
-    },
-    {
-      "id": 34154,
-      "title": "ChinChin KemoKemo",
-      "score": 0.294,
-      "r18": false
-    },
-    {
-      "id": 1049,
-      "title": "Lolicon Saga",
-      "score": 0.273,
-      "r18": false
-    },
-    {
-      "id": 7635,
-      "title": "Fate/kaleid liner PRISMA\u2606ILLYA 3rei!!",
-      "score": 0.271,
-      "r18": false
-    },
-    {
-      "id": 20380,
-      "title": "Elf-san wa Yaserarenai",
-      "score": 0.27,
-      "r18": false
-    },
-    {
-      "id": 22331,
-      "title": "Enjigakari",
-      "score": 0.264,
-      "r18": false
-    },
-    {
-      "id": 415,
-      "title": "Needless",
-      "score": 0.261,
-      "r18": false
+      "score": 0.216,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx"
+      ]
     },
     {
       "id": 41967,
       "title": "Hoshihimemura no Naishobanashi",
-      "score": 0.257,
-      "r18": false
+      "score": 0.216,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "id"
+      ]
+    },
+    {
+      "id": 3111,
+      "title": "Domina no Do!",
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 700,
+      "title": "Ro-Kyu-Bu!",
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1049,
+      "title": "Lolicon Saga",
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 34154,
+      "title": "ChinChin KemoKemo",
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 45433,
+      "title": "Shou5 na Kanojo to Otona no Ai",
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 960,
+      "title": "Papa no Iukoto wo Kikinasai!",
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 15001,
+      "title": "Gion no Tsugai",
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7635,
+      "title": "Fate/kaleid liner PRISMA\u2606ILLYA 3rei!!",
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx",
+        "ua",
+        "fr",
+        "br"
+      ]
+    },
+    {
+      "id": 3745,
+      "title": "Comic Studio",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 44661,
+      "title": "I'm Not a Lolicon!",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "th",
+        "gb",
+        "id",
+        "ru",
+        "br"
+      ]
+    },
+    {
+      "id": 7120,
+      "title": "Shinshi na Meets Girl",
+      "score": 0.195,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20380,
+      "title": "Elf-san wa Yaserarenai",
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 8077,
+      "title": "Joshi Shougakusei Hajimemashita",
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb",
+        " ",
+        "hu",
+        "br"
+      ]
+    },
+    {
+      "id": 22331,
+      "title": "Enjigakari",
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 12062,
+      "title": "Omocha no Kyouso-sama",
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

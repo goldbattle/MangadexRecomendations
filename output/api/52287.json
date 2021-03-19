@@ -1,38 +1,46 @@
 {
   "id": 52287,
   "title": "Mimasaka-kun to Mayoeru Kobuta",
-  "url": "https://api.mangadex.org/v2/manga/52287",
-  "last_updated": "February 05, 2021 12:22:01 UTC",
+  "url": "https://mangadex.org/manga/52287",
+  "last_updated": "March 18, 2021 13:37:02 UTC",
   "matches": [
     {
       "id": 55673,
       "title": "Kasenjiki RomiJuri Kousou Kyoku",
-      "score": 0.468,
-      "r18": false
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5069,
       "title": "Koi to Wana",
-      "score": 0.291,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 45362,
       "title": "You Are My All",
-      "score": 0.277,
-      "r18": false
-    },
-    {
-      "id": 58557,
-      "title": "Ijime-kko ni Fukushuu!",
-      "score": 0.249,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 13212,
       "title": "Hare Tokidoki, Wakabasou",
-      "score": 0.151,
-      "r18": false
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

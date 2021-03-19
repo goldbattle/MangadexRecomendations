@@ -2,25 +2,39 @@
   "id": 58726,
   "title": "Twitter Plays a Visual Novel",
   "url": "https://mangadex.org/manga/58726",
-  "last_updated": "March 13, 2021 04:26:07 UTC",
+  "last_updated": "March 18, 2021 14:30:51 UTC",
   "matches": [
     {
       "id": 53977,
       "title": "Dragon Raja 2",
       "score": 0.118,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 54153,
       "title": "Cool Age",
-      "score": 0.108,
-      "r18": false
+      "score": 0.107,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 36278,
       "title": "King of Apocalypse",
       "score": 0.093,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "th",
+        "id",
+        "fr",
+        "it"
+      ]
     }
   ]
 }

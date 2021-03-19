@@ -2,157 +2,280 @@
   "id": 6178,
   "title": "Crazy Kouzo BC",
   "url": "https://mangadex.org/manga/6178",
-  "last_updated": "March 14, 2021 12:47:39 UTC",
+  "last_updated": "March 18, 2021 06:38:19 UTC",
   "matches": [
+    {
+      "id": 684,
+      "title": "Kuroko no Basket",
+      "score": 0.659,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "tr",
+        "de"
+      ]
+    },
     {
       "id": 21697,
       "title": "Zenikko",
-      "score": 0.364,
-      "r18": false
-    },
-    {
-      "id": 43665,
-      "title": "Fantasista Stella",
-      "score": 0.361,
-      "r18": false
+      "score": 0.363,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 42446,
       "title": "SK8",
       "score": 0.31,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 392,
       "title": "Fantasista",
-      "score": 0.304,
-      "r18": false
+      "score": 0.303,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 684,
-      "title": "Kuroko no Basket",
-      "score": 0.3,
-      "r18": false
+      "id": 4640,
+      "title": "Mix",
+      "score": 0.288,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru"
+      ]
     },
     {
       "id": 1284,
       "title": "Nine",
       "score": 0.283,
-      "r18": false
-    },
-    {
-      "id": 838,
-      "title": "Donten Prism Solar Car",
-      "score": 0.277,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 10040,
       "title": "Sweet Poolside",
-      "score": 0.276,
-      "r18": false
+      "score": 0.277,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "pl"
+      ]
     },
     {
-      "id": 4640,
-      "title": "Mix",
-      "score": 0.26,
-      "r18": false
+      "id": 838,
+      "title": "Donten Prism Solar Car",
+      "score": 0.276,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "br",
+        "it"
+      ]
     },
     {
       "id": 3597,
       "title": "Ashita no Joe",
       "score": 0.258,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 3547,
       "title": "1/11",
       "score": 0.257,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "vn"
+      ]
     },
     {
       "id": 43650,
       "title": "Buttobi Itto",
       "score": 0.254,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 1385,
-      "title": "H2",
-      "score": 0.243,
-      "r18": false
-    },
-    {
-      "id": 16552,
-      "title": "BE BLUES ~Ao ni nare~",
-      "score": 0.242,
-      "r18": false
-    },
-    {
-      "id": 5557,
-      "title": "Tetsugaku Letra",
-      "score": 0.239,
-      "r18": false
-    },
-    {
-      "id": 9597,
-      "title": "Natsuzora and Run",
-      "score": 0.237,
-      "r18": false
-    },
-    {
-      "id": 21117,
-      "title": "Robot &times; Laserbeam",
-      "score": 0.236,
-      "r18": false
-    },
-    {
-      "id": 11710,
-      "title": "Days",
-      "score": 0.233,
-      "r18": false
+      "id": 51614,
+      "title": "Shoot!",
+      "score": 0.252,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1281,
       "title": "Touch",
-      "score": 0.224,
-      "r18": false
+      "score": 0.243,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
+    },
+    {
+      "id": 16552,
+      "title": "BE BLUES ~Ao ni Nare~",
+      "score": 0.242,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "br",
+        "ru",
+        "vn",
+        "sa"
+      ]
+    },
+    {
+      "id": 5557,
+      "title": "Tetsugaku Letra",
+      "score": 0.238,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg",
+        "mx",
+        "br",
+        "tr",
+        "pl"
+      ]
+    },
+    {
+      "id": 9597,
+      "title": "Natsuzora and Run",
+      "score": 0.236,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 21117,
+      "title": "Robot &times; Laserbeam",
+      "score": 0.235,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "ru"
+      ]
+    },
+    {
+      "id": 11710,
+      "title": "Days",
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru"
+      ]
+    },
+    {
+      "id": 1385,
+      "title": "H2",
+      "score": 0.229,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 1873,
       "title": "Haikyuu!!",
       "score": 0.223,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "it",
+        "id",
+        "br",
+        "ru",
+        "bg",
+        "tr"
+      ]
     },
     {
       "id": 10271,
       "title": "Ballroom e Youkoso",
-      "score": 0.22,
-      "r18": false
+      "score": 0.219,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "es",
+        "fr"
+      ]
     },
     {
       "id": 1283,
       "title": "Rough",
       "score": 0.217,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 50473,
       "title": "Welcome to the Competitive Dance Club",
-      "score": 0.216,
-      "r18": false
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3910,
       "title": "Katsu!",
       "score": 0.211,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 858,
       "title": "Hikaru no Go",
       "score": 0.209,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -1,158 +1,267 @@
 {
   "id": 47154,
   "title": "Undead",
-  "url": "https://api.mangadex.org/v2/manga/47154",
-  "last_updated": "February 12, 2021 01:06:30 UTC",
+  "url": "https://mangadex.org/manga/47154",
+  "last_updated": "March 18, 2021 12:54:05 UTC",
   "matches": [
     {
       "id": 34852,
       "title": "KoLD8: King of the Living Dead",
-      "score": 0.175,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 51434,
       "title": "Shikabane-Gatana",
-      "score": 0.14,
-      "r18": false
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "it",
+        "th"
+      ]
     },
     {
       "id": 39315,
       "title": "Houkai Gakuen - Side Stories",
-      "score": 0.117,
-      "r18": false
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 55658,
-      "title": "The Last Hero",
-      "score": 0.117,
-      "r18": false
+      "title": "The Last Hero , I am picking up attributes and items in last days",
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 56126,
       "title": "Delivering in Apocalyptic World",
-      "score": 0.117,
-      "r18": false
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 18422,
       "title": "Boys Be Zombitious",
-      "score": 0.1,
-      "r18": false
+      "score": 0.085,
+      "r18": false,
+      "languages": [
+        "ru",
+        "it",
+        "pl",
+        "fr",
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 38991,
       "title": "A Pretty&rsquo;s Super Zombie",
-      "score": 0.1,
-      "r18": false
+      "score": 0.085,
+      "r18": false,
+      "languages": [
+        "br"
+      ]
     },
     {
       "id": 48330,
       "title": "Zoombie City",
-      "score": 0.1,
-      "r18": false
+      "score": 0.085,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 51017,
       "title": "I Am Carrying Gold From the Post-Apocalyptic World",
-      "score": 0.1,
-      "r18": false
+      "score": 0.085,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 59274,
-      "title": "Eschaton game",
-      "score": 0.1,
-      "r18": false
+      "title": "Eschaton Game",
+      "score": 0.085,
+      "r18": false,
+      "languages": [
+        "fr",
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 2195,
       "title": "Zombie-Loan",
-      "score": 0.087,
-      "r18": false
+      "score": 0.075,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 31152,
       "title": "Zomviguarna",
-      "score": 0.087,
-      "r18": false
+      "score": 0.075,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 48812,
-      "title": "Kaibutsu Maid no Kareinaru Oshigoto",
-      "score": 0.087,
-      "r18": false
+      "title": "The Splendid Job of a Monster Maid",
+      "score": 0.075,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 56164,
       "title": "A Manga Where Rapper Bites Turn You Into A Rapper",
-      "score": 0.087,
-      "r18": false
+      "score": 0.075,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 56619,
       "title": "Lifeafter",
-      "score": 0.087,
-      "r18": false
+      "score": 0.075,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "id",
+        "br",
+        "ro",
+        "it"
+      ]
     },
     {
       "id": 42898,
       "title": "Versailles of the Dead",
-      "score": 0.078,
-      "r18": false
+      "score": 0.066,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": 46350,
       "title": "Trace of Doomsday",
-      "score": 0.078,
-      "r18": false
+      "score": 0.066,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "id"
+      ]
     },
     {
       "id": 49423,
       "title": "My Tenant Is a Monster",
-      "score": 0.078,
-      "r18": false
+      "score": 0.066,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 55882,
       "title": "Starting From Zero in Doomsday",
-      "score": 0.078,
-      "r18": false
+      "score": 0.066,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 56177,
       "title": "The King Of Keepers",
-      "score": 0.078,
-      "r18": false
+      "score": 0.066,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 57130,
       "title": "Post-apocalyptic Dispatch Company",
-      "score": 0.078,
-      "r18": false
+      "score": 0.066,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 59431,
       "title": "The Lost Story",
-      "score": 0.078,
-      "r18": false
+      "score": 0.066,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa"
+      ]
     },
     {
       "id": 5057,
       "title": "Apocalypse no Toride",
-      "score": 0.07,
-      "r18": false
+      "score": 0.06,
+      "r18": false,
+      "languages": [
+        "hu",
+        "gb"
+      ]
     },
     {
       "id": 9554,
       "title": "Gakkou Gurashi!",
-      "score": 0.07,
-      "r18": false
+      "score": 0.06,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru",
+        "hu",
+        "de",
+        "fr"
+      ]
     },
     {
       "id": 44529,
       "title": "JK Musou - Owaru Sekai no Sukuikata",
-      "score": 0.07,
-      "r18": false
+      "score": 0.06,
+      "r18": false,
+      "languages": [
+        "th",
+        "gb"
+      ]
     }
   ]
 }

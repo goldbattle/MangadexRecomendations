@@ -1,158 +1,273 @@
 {
   "id": 40969,
   "title": "Yofukashi no Uta",
-  "url": "https://api.mangadex.org/v2/manga/40969",
-  "last_updated": "February 11, 2021 08:31:49 UTC",
+  "url": "https://mangadex.org/manga/40969",
+  "last_updated": "March 18, 2021 12:02:25 UTC",
   "matches": [
     {
-      "id": 32912,
-      "title": "Welcome to Japan, Elf-san!",
-      "score": 0.691,
-      "r18": false
+      "id": 31899,
+      "title": "Tokedase! Mizore-chan",
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br"
+      ]
+    },
+    {
+      "id": 1728,
+      "title": "Ever Green",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "de",
+        "it"
+      ]
+    },
+    {
+      "id": 21876,
+      "title": "Chick Bomb",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4437,
+      "title": "Golden Time",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 1044,
+      "title": "Kimagure Orange Road",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "mx",
+        "it"
+      ]
+    },
+    {
+      "id": 36230,
+      "title": "Kimagure Orange Road (Colored)",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "fr",
+        "br",
+        "mx",
+        "es",
+        "it",
+        "gb"
+      ]
+    },
+    {
+      "id": 15728,
+      "title": "Kanojo wa Rokurokubi",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "fr",
+        "pl"
+      ]
+    },
+    {
+      "id": 18301,
+      "title": "Kanojo wa Rokurokubi - Drafts",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 23591,
+      "title": "Is It Okay to Touch Mino-san There?",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "hu",
+        "br"
+      ]
+    },
+    {
+      "id": 32945,
+      "title": "Parasite in Love",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "sa",
+        "ru",
+        "id"
+      ]
+    },
+    {
+      "id": 5389,
+      "title": "The Bestest Method of Vampire Breeding",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 12118,
+      "title": "Kanon (Key)",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 331,
+      "title": "Kamichu!",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru"
+      ]
+    },
+    {
+      "id": 366,
+      "title": "Choujin Gakuen - Konton Mouryou Seishun Jihen",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3587,
+      "title": "Happy Project",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 17005,
+      "title": "Kiitarou Shounen no Youkai Enikki",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 11590,
+      "title": "Shuukan Shounen Girl",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br"
+      ]
+    },
+    {
+      "id": 2006,
+      "title": "Karin",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg"
+      ]
+    },
+    {
+      "id": 27925,
+      "title": "Jun and Kaoru",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "id",
+        "br"
+      ]
+    },
+    {
+      "id": 2913,
+      "title": "Tokyo Innocent",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 48157,
+      "title": "Kongouji-san is Annoying",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 36413,
+      "title": "Houkago Shounen Hanako-kun",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "br",
+        "hu"
+      ]
     },
     {
       "id": 6133,
       "title": "The Time of Cherry Blossoms",
-      "score": 0.689,
-      "r18": false
+      "score": 0.256,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 5840,
-      "title": "BLOOD+",
-      "score": 0.686,
-      "r18": false
+      "id": 9408,
+      "title": "Durarara!! Saika-hen",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 3757,
-      "title": "Youkai Apaato no Yuuga na Nichijou",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 22236,
-      "title": "Rurouni Kenshin: Hokkaido-hen",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 14417,
-      "title": "Toumei Ningen no Tsukurikata",
-      "score": 0.674,
-      "r18": false
-    },
-    {
-      "id": 33897,
-      "title": "Ossan Boukensha Kane no Zenkou",
-      "score": 0.673,
-      "r18": false
-    },
-    {
-      "id": 10801,
-      "title": "Mahoutsukai no Yome",
-      "score": 0.672,
-      "r18": false
-    },
-    {
-      "id": 12900,
-      "title": "Fudatsuki no Kyoko-chan",
-      "score": 0.67,
-      "r18": false
-    },
-    {
-      "id": 436,
-      "title": "Aku no Hana",
-      "score": 0.668,
-      "r18": false
-    },
-    {
-      "id": 446,
-      "title": "Ushiro no Shindere-san",
-      "score": 0.668,
-      "r18": false
-    },
-    {
-      "id": 951,
-      "title": "Nisekoi",
-      "score": 0.668,
-      "r18": false
-    },
-    {
-      "id": 4780,
-      "title": "Umineko no Naku Koro ni Chiru Episode 8: Twilight of the Golden Witch",
-      "score": 0.667,
-      "r18": false
-    },
-    {
-      "id": 1552,
-      "title": "Melty Blood",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 6270,
-      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo (Official Colored)",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 28525,
-      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 23811,
-      "title": "Boku no Kokoro no Yabai Yatsu",
-      "score": 0.662,
-      "r18": false
-    },
-    {
-      "id": 353,
-      "title": "Shibatora",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 17695,
-      "title": "Mahouka Koukou no Rettousei - Raihousha-hen",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 3607,
-      "title": "All Around Type-Moon",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 55576,
-      "title": "Ikemen ni Tensei Shita kedo Cheat wa Dekimasen Deshita",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 17883,
-      "title": "Taishou Otome Otogibanashi",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 20231,
-      "title": "Majo no Geboku to Maou no Tsuno",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 7232,
-      "title": "Cat's Eye",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 32081,
-      "title": "Bokutachi no Remake",
-      "score": 0.659,
-      "r18": false
+      "id": 53556,
+      "title": "Sheeply Horned Witch Romi",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id"
+      ]
     }
   ]
 }

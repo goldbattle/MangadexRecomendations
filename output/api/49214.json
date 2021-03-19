@@ -2,13 +2,16 @@
   "id": 49214,
   "title": "My Close Friend",
   "url": "https://mangadex.org/manga/49214",
-  "last_updated": "January 15, 2021 12:41:15 UTC",
+  "last_updated": "March 18, 2021 13:11:24 UTC",
   "matches": [
     {
       "id": 31503,
       "title": "Gigantic Girl",
-      "score": 0.113,
-      "r18": false
+      "score": 0.093,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -1,152 +1,241 @@
 {
   "id": 33819,
   "title": "Bomango",
-  "url": "https://api.mangadex.org/v2/manga/33819",
-  "last_updated": "February 10, 2021 12:44:17 UTC",
+  "url": "https://mangadex.org/manga/33819",
+  "last_updated": "March 18, 2021 11:02:45 UTC",
   "matches": [
     {
-      "id": 31928,
-      "title": "Getter Robo High",
-      "score": 0.296,
-      "r18": false
+      "id": 1657,
+      "title": "Yondemasu yo, Azazel-san.",
+      "score": 0.203,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "hu"
+      ]
     },
     {
       "id": 24899,
       "title": "Cutie Honey '90",
-      "score": 0.294,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 40113,
       "title": "Touge Oni",
-      "score": 0.281,
-      "r18": false
-    },
-    {
-      "id": 7660,
-      "title": "Keyman - The Hand of Judgement",
-      "score": 0.26,
-      "r18": false
-    },
-    {
-      "id": 1657,
-      "title": "Yondemasu yo, Azazel-san.",
-      "score": 0.258,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1400,
       "title": "Eater",
-      "score": 0.253,
-      "r18": false
+      "score": 0.185,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 31928,
+      "title": "Getter Robo High",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7660,
+      "title": "Keyman - The Hand of Judgement",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "ru",
+        "fr",
+        "es"
+      ]
     },
     {
       "id": 19620,
       "title": "Devilman vs. Hades",
-      "score": 0.247,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 41922,
       "title": "Every Minute Ends",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 14048,
-      "title": "Overlord",
-      "score": 0.22,
-      "r18": false
-    },
-    {
-      "id": 18964,
-      "title": "Kenja no Mago",
-      "score": 0.217,
-      "r18": false
-    },
-    {
-      "id": 9024,
-      "title": "Imawabi no Dakini",
-      "score": 0.201,
-      "r18": false
-    },
-    {
-      "id": 759,
-      "title": "Drifters",
-      "score": 0.2,
-      "r18": false
-    },
-    {
-      "id": 20573,
-      "title": "Machigatta Ko wo Mahou Shoujo ni shite shimatta",
-      "score": 0.197,
-      "r18": false
-    },
-    {
-      "id": 9406,
-      "title": "Wallman",
-      "score": 0.194,
-      "r18": false
-    },
-    {
-      "id": 12704,
-      "title": "Dog Soldier",
-      "score": 0.184,
-      "r18": false
-    },
-    {
-      "id": 34404,
-      "title": "Fukushuu o Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou Suru",
-      "score": 0.18,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "id",
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 17430,
       "title": "Golosseum",
-      "score": 0.179,
-      "r18": false
-    },
-    {
-      "id": 38821,
-      "title": "Chronicle of the Searing Winds of Tianzhu",
-      "score": 0.174,
-      "r18": false
-    },
-    {
-      "id": 56288,
-      "title": "Dead Maximum",
-      "score": 0.169,
-      "r18": false
-    },
-    {
-      "id": 45930,
-      "title": "Bastard!! Complete Edition",
-      "score": 0.169,
-      "r18": false
-    },
-    {
-      "id": 7531,
-      "title": "Black Joke",
-      "score": 0.159,
-      "r18": false
-    },
-    {
-      "id": 33778,
-      "title": "Zombie 100 ~Zombie ni Naru Made ni Shitai 100 no Koto~",
-      "score": 0.151,
-      "r18": false
-    },
-    {
-      "id": 22115,
-      "title": "Dangerous Female Teacher",
       "score": 0.15,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
+    },
+    {
+      "id": 759,
+      "title": "Drifters",
+      "score": 0.147,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu",
+        "tr",
+        "es"
+      ]
+    },
+    {
+      "id": 34617,
+      "title": "Libidors",
+      "score": 0.125,
+      "r18": false,
+      "languages": [
+        "cn",
+        "gb",
+        "br",
+        "it",
+        "ru",
+        "id"
+      ]
+    },
+    {
+      "id": 9024,
+      "title": "Imawabi no Dakini",
+      "score": 0.125,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 20573,
+      "title": "Machigatta Ko wo Mahou Shoujo ni shite shimatta",
+      "score": 0.125,
+      "r18": false,
+      "languages": [
+        "mx",
+        "ru",
+        "tr",
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 12797,
       "title": "Dororon Enbi-chan",
-      "score": 0.146,
-      "r18": false
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18964,
+      "title": "Kenja no Mago",
+      "score": 0.103,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "es",
+        "it",
+        "fr",
+        "pl",
+        "ua"
+      ]
+    },
+    {
+      "id": 9406,
+      "title": "Wallman",
+      "score": 0.099,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "ro"
+      ]
+    },
+    {
+      "id": 56288,
+      "title": "Dead Maximum",
+      "score": 0.099,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 33778,
+      "title": "Zombie 100 ~Zombie ni Naru Made ni Shitai 100 no Koto~",
+      "score": 0.099,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "ru"
+      ]
+    },
+    {
+      "id": 12704,
+      "title": "Dog Soldier",
+      "score": 0.099,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7531,
+      "title": "Black Joke",
+      "score": 0.099,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 38821,
+      "title": "Chronicle of the Searing Winds of Tianzhu",
+      "score": 0.099,
+      "r18": false,
+      "languages": [
+        "hk",
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 22115,
+      "title": "Dangerous Female Teacher",
+      "score": 0.099,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

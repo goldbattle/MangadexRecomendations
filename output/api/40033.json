@@ -2,37 +2,46 @@
   "id": 40033,
   "title": "Ingrid-san no (Taimanin Asagi Kessen Arena)",
   "url": "https://mangadex.org/manga/40033",
-  "last_updated": "March 18, 2021 04:31:57 UTC",
+  "last_updated": "March 18, 2021 11:54:37 UTC",
   "matches": [
     {
       "id": 53760,
       "title": "Golden Scale",
-      "score": 0.085,
-      "r18": true
+      "score": 0.084,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 18173,
       "title": "Aharoo",
       "score": 0.062,
-      "r18": true
-    },
-    {
-      "id": 56684,
-      "title": "I Live With Sister-in-Law",
-      "score": 0.058,
-      "r18": true
+      "r18": true,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 23542,
       "title": "Loser",
       "score": 0.058,
-      "r18": true
+      "r18": true,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 52997,
       "title": "Boss Reverse",
       "score": 0.058,
-      "r18": true
+      "r18": true,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     }
   ]
 }

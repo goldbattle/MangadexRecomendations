@@ -2,43 +2,59 @@
   "id": 21339,
   "title": "Aku Yori Aku",
   "url": "https://mangadex.org/manga/21339",
-  "last_updated": "March 16, 2021 04:24:33 UTC",
+  "last_updated": "March 18, 2021 09:04:30 UTC",
   "matches": [
     {
       "id": 20149,
       "title": "Kashikomarimashita, Destiny",
       "score": 0.383,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 20518,
       "title": "Namida Kareru na",
       "score": 0.287,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 20545,
       "title": "Shounen no Kyoukai",
       "score": 0.23,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "tr",
+        "it"
+      ]
     },
     {
       "id": 17344,
       "title": "Magical\u2605Travel Boy",
-      "score": 0.181,
-      "r18": false
-    },
-    {
-      "id": 38754,
-      "title": "City of Blood",
-      "score": 0.128,
-      "r18": false
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22242,
       "title": "King's Maker",
       "score": 0.115,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "br"
+      ]
     }
   ]
 }

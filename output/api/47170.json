@@ -1,104 +1,47 @@
 {
   "id": 47170,
-  "title": "Manshuu Ahen Squad",
-  "url": "https://api.mangadex.org/v2/manga/47170",
-  "last_updated": "February 12, 2021 01:06:47 UTC",
+  "title": "Manchuria Opium Squad",
+  "url": "https://mangadex.org/manga/47170",
+  "last_updated": "March 18, 2021 12:54:13 UTC",
   "matches": [
     {
-      "id": 3491,
-      "title": "Master Keaton",
-      "score": 0.23,
-      "r18": false
+      "id": 11849,
+      "title": "Otome Sensou",
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 4996,
-      "title": "Sabu to Ichi Torimonohikae",
-      "score": 0.23,
-      "r18": false
+      "id": 10285,
+      "title": "Hyouryuu Net Cafe",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 41219,
-      "title": "The Adventures of Totoko, Investigative Reporter",
-      "score": 0.23,
-      "r18": false
+      "id": 20535,
+      "title": "Gaikou Kakkaku",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 1500,
-      "title": "Golgo 13",
-      "score": 0.197,
-      "r18": false
-    },
-    {
-      "id": 17787,
-      "title": "Grateful Dead",
-      "score": 0.197,
-      "r18": false
-    },
-    {
-      "id": 24871,
-      "title": "Doctor Mordrid",
-      "score": 0.197,
-      "r18": false
-    },
-    {
-      "id": 2500,
-      "title": "ChunRangYulJun",
-      "score": 0.172,
-      "r18": false
-    },
-    {
-      "id": 22746,
-      "title": "Mononobe Koshoten Kaikitan",
-      "score": 0.172,
-      "r18": false
-    },
-    {
-      "id": 9578,
-      "title": "Kakuriyo Monogatari",
-      "score": 0.153,
-      "r18": false
-    },
-    {
-      "id": 42898,
-      "title": "Versailles of the Dead",
-      "score": 0.153,
-      "r18": false
-    },
-    {
-      "id": 18150,
-      "title": "Dies irae ~Amantes Amentes~",
-      "score": 0.138,
-      "r18": false
-    },
-    {
-      "id": 30908,
-      "title": "The Wanderers Trilogy",
-      "score": 0.138,
-      "r18": false
-    },
-    {
-      "id": 8286,
-      "title": "The Legend of Genghis",
-      "score": 0.126,
-      "r18": false
-    },
-    {
-      "id": 7775,
-      "title": "El Alamein no Shinden",
-      "score": 0.099,
-      "r18": false
-    },
-    {
-      "id": 28617,
-      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run",
-      "score": 0.099,
-      "r18": false
-    },
-    {
-      "id": 6272,
-      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
-      "score": 0.086,
-      "r18": false
+      "id": 3021,
+      "title": "City of the Dead Sorcerer",
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "fr"
+      ]
     }
   ]
 }

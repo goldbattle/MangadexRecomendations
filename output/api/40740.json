@@ -1,158 +1,275 @@
 {
   "id": 40740,
   "title": "Welcome to the Ocean Club!",
-  "url": "https://api.mangadex.org/v2/manga/40740",
-  "last_updated": "February 11, 2021 08:28:16 UTC",
+  "url": "https://mangadex.org/manga/40740",
+  "last_updated": "March 18, 2021 12:00:30 UTC",
   "matches": [
     {
       "id": 20869,
       "title": "Last One",
-      "score": 0.294,
-      "r18": false
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 3137,
       "title": "Kingdom of Stars",
-      "score": 0.287,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3841,
       "title": "Kitto Kawaii Onnanoko Dakara",
-      "score": 0.287,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8197,
       "title": "Kiyoku Yawaku",
-      "score": 0.287,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 14846,
       "title": "Clear Color",
-      "score": 0.287,
-      "r18": false
-    },
-    {
-      "id": 20391,
-      "title": "The Final Loop",
-      "score": 0.287,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de",
+        "pl"
+      ]
     },
     {
       "id": 21108,
       "title": "Hibiki - Shousetsuka ni Naru Houhou",
-      "score": 0.287,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 42102,
       "title": "Two Pawns",
-      "score": 0.287,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 46531,
       "title": "Mizu wa Umi ni Mukatte Nagareru",
-      "score": 0.287,
-      "r18": false
-    },
-    {
-      "id": 47487,
-      "title": "Promessa di Mezza Estate",
-      "score": 0.287,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
     },
     {
       "id": 48709,
       "title": "Otome no Itari",
-      "score": 0.287,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 52052,
       "title": "Kanoko High",
-      "score": 0.287,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20489,
       "title": "Untouchable Lover",
-      "score": 0.258,
-      "r18": false
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21645,
       "title": "Twinkling Stars",
-      "score": 0.258,
-      "r18": false
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "vn",
+        "gb"
+      ]
     },
     {
       "id": 414,
       "title": "Sket Dance",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "ru",
+        "mx",
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 452,
       "title": "Kimi ni Todoke",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 898,
       "title": "Bokura ga Ita",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 1293,
       "title": "Miyuki",
-      "score": 0.246,
-      "r18": false
-    },
-    {
-      "id": 1857,
-      "title": "Hachimitsu to Clover",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "fr"
+      ]
     },
     {
       "id": 2689,
       "title": "Boyfriend",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4334,
       "title": "Sakamichi no Apollon",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br"
+      ]
     },
     {
       "id": 5426,
       "title": "Kodomo no Omocha",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7279,
       "title": "Ore Monogatari!!",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "mx",
+        "pl",
+        "gb",
+        "br",
+        "es"
+      ]
     },
     {
       "id": 11802,
       "title": "P to JK",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "pl"
+      ]
     },
     {
       "id": 17274,
       "title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "id",
+        "it",
+        "mx",
+        " ",
+        "kr",
+        "ph",
+        "in",
+        "ru",
+        "pl",
+        "sa",
+        "tr"
+      ]
+    },
+    {
+      "id": 21863,
+      "title": "Kimi no Suizou wo Tabetai",
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "ru",
+        "mx",
+        "tr",
+        "id"
+      ]
+    },
+    {
+      "id": 52696,
+      "title": "Mahiro-chan's Secret",
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 70,
+      "title": "Okujouhime",
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br"
+      ]
     }
   ]
 }

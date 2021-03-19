@@ -1,86 +1,269 @@
 {
   "id": 44028,
   "title": "Fate/Grand Order From Lostbelt",
-  "url": "https://api.mangadex.org/v2/manga/44028",
-  "last_updated": "February 11, 2021 16:34:32 UTC",
+  "url": "https://mangadex.org/manga/44028",
+  "last_updated": "March 18, 2021 12:27:57 UTC",
   "matches": [
-    {
-      "id": 21967,
-      "title": "Fairy Tail Specials",
-      "score": 0.273,
-      "r18": false
-    },
-    {
-      "id": 53020,
-      "title": "Saint Seiya - Taizen Encyclopedia",
-      "score": 0.264,
-      "r18": false
-    },
-    {
-      "id": 49405,
-      "title": "Tate no Yuusha no Nariagari Anthology - Raphtalia to issho",
-      "score": 0.253,
-      "r18": false
-    },
-    {
-      "id": 51312,
-      "title": "Tate no Yuusha no Nariagari Anthology - Filo to issho",
-      "score": 0.24,
-      "r18": false
-    },
-    {
-      "id": 13415,
-      "title": "Moon Walker LTD",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 22468,
-      "title": "Umwelt - Igarashi Daisuke Anthology",
-      "score": 0.224,
-      "r18": false
-    },
-    {
-      "id": 5610,
-      "title": "Mashima-en",
-      "score": 0.212,
-      "r18": false
-    },
-    {
-      "id": 53949,
-      "title": "Welcome to Other Gentle Worlds",
-      "score": 0.201,
-      "r18": false
-    },
-    {
-      "id": 28486,
-      "title": "Avatar: The Last Airbender - The Lost Adventures",
-      "score": 0.189,
-      "r18": false
-    },
-    {
-      "id": 19294,
-      "title": "+C: Sword and Cornett Appendix",
-      "score": 0.17,
-      "r18": false
-    },
-    {
-      "id": 45047,
-      "title": "Itai no wa Iya nanode Bougyo-Ryoku ni Kyokufuri Shitai to Omoimasu Comic Anthology",
-      "score": 0.151,
-      "r18": false
-    },
-    {
-      "id": 58602,
-      "title": "SF Mix",
-      "score": 0.124,
-      "r18": false
-    },
     {
       "id": 36343,
       "title": "The Distant Dawn",
-      "score": 0.117,
-      "r18": false
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 59999,
+      "title": "Save Me, Princess",
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb"
+      ]
+    },
+    {
+      "id": 54612,
+      "title": "Dinghai Fusheng Records",
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 59608,
+      "title": "ELEMENTS: Users Of The Universe",
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53985,
+      "title": "Dragon Raja 3",
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 18937,
+      "title": "The Dragon's School is on the Top of the Mountain",
+      "score": 0.198,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 58487,
+      "title": "Happy Ending for the Time-Limited Villainess",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 36510,
+      "title": "My Lord, the Wolf Queen",
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 27758,
+      "title": "Rumic World",
+      "score": 0.188,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5274,
+      "title": "Nijiiro Togarashi",
+      "score": 0.188,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa"
+      ]
+    },
+    {
+      "id": 36595,
+      "title": "Ryoumin 0-nin Start no Henkyou Ryoushusama",
+      "score": 0.188,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 35063,
+      "title": "Dragon Knights",
+      "score": 0.188,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8877,
+      "title": "The Lawless",
+      "score": 0.188,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59754,
+      "title": "Divine Beast System",
+      "score": 0.188,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 54441,
+      "title": "Sun and Moon Undecimber",
+      "score": 0.188,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 34605,
+      "title": "Release That Witch",
+      "score": 0.188,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "br",
+        "id",
+        "tr",
+        "fr",
+        "mx",
+        "ua",
+        "es"
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Be Heun",
+      "score": 0.188,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 292,
+      "title": "Ryuurouden",
+      "score": 0.188,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 40351,
+      "title": "Black Gentleman",
+      "score": 0.188,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 54065,
+      "title": "Take Me Out",
+      "score": 0.188,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "tr"
+      ]
+    },
+    {
+      "id": 23195,
+      "title": "The Great Ruler",
+      "score": 0.185,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "br",
+        "pl",
+        "mx"
+      ]
+    },
+    {
+      "id": 12325,
+      "title": "World Customize Creator",
+      "score": 0.185,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "fr",
+        "br",
+        "it",
+        "pl"
+      ]
+    },
+    {
+      "id": 14676,
+      "title": "The Legendary Moonlight Sculptor",
+      "score": 0.185,
+      "r18": false,
+      "languages": [
+        "il",
+        "gb",
+        "ru",
+        "br",
+        "tr",
+        "pl"
+      ]
+    },
+    {
+      "id": 48266,
+      "title": "Crack of Dawn",
+      "score": 0.185,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53977,
+      "title": "Dragon Raja 2",
+      "score": 0.185,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -1,98 +1,153 @@
 {
   "id": 55149,
   "title": "The Children of the Mountain",
-  "url": "https://api.mangadex.org/v2/manga/55149",
-  "last_updated": "March 12, 2021 20:34:15 UTC",
+  "url": "https://mangadex.org/manga/55149",
+  "last_updated": "March 18, 2021 14:00:56 UTC",
   "matches": [
     {
       "id": 57479,
       "title": "Ghost Speaker",
-      "score": 0.429,
-      "r18": false
-    },
-    {
-      "id": 2652,
-      "title": "Mukashi no Hanashi",
-      "score": 0.402,
-      "r18": false
-    },
-    {
-      "id": 19174,
-      "title": "Akuma no Namida",
-      "score": 0.381,
-      "r18": false
-    },
-    {
-      "id": 35539,
-      "title": "Midnight Blue",
-      "score": 0.36,
-      "r18": false
-    },
-    {
-      "id": 51368,
-      "title": "The Man From the Past",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 51402,
-      "title": "In the Pocket",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 46234,
-      "title": "Yanagi Ki",
-      "score": 0.319,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 27477,
       "title": "Kutsunashi Hime",
-      "score": 0.318,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 41152,
-      "title": "A Happy Child",
-      "score": 0.304,
-      "r18": false
+      "id": 46234,
+      "title": "Yanagi Ki",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "tr",
+        "in"
+      ]
+    },
+    {
+      "id": 51368,
+      "title": "The Man From the Past",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 51402,
+      "title": "In the Pocket",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 35539,
+      "title": "Midnight Blue",
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 2652,
+      "title": "Mukashi no Hanashi",
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "it"
+      ]
+    },
+    {
+      "id": 19174,
+      "title": "Akuma no Namida",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 10577,
       "title": "Leave",
-      "score": 0.295,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 5558,
-      "title": "Chijou 10 Meter no Ori kara",
-      "score": 0.283,
-      "r18": false
+      "id": 41152,
+      "title": "A Happy Child",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 57910,
       "title": "The Cat Witch",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5558,
+      "title": "Chijou 10 Meter no Ori kara",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "pl"
+      ]
     },
     {
       "id": 57560,
       "title": "The Flower Doll and her Husband",
-      "score": 0.262,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 53553,
       "title": "Beyond the Mirror",
-      "score": 0.245,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 41295,
       "title": "Record of the Dead",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

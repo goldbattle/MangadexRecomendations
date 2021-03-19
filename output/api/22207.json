@@ -2,43 +2,75 @@
   "id": 22207,
   "title": "Redman Princess: Akuryou Koujo",
   "url": "https://mangadex.org/manga/22207",
-  "last_updated": "March 16, 2021 08:27:01 UTC",
+  "last_updated": "March 18, 2021 09:11:44 UTC",
   "matches": [
     {
       "id": 11981,
       "title": "Red Blood Red Legacy",
-      "score": 0.2,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "pl"
+      ]
     },
     {
       "id": 623,
       "title": "Franken Fran",
-      "score": 0.156,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "pl"
+      ]
     },
     {
       "id": 6666,
       "title": "Shin Mazinger Zero",
-      "score": 0.146,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 10847,
       "title": "Shin Devilman",
-      "score": 0.131,
-      "r18": false
+      "score": 0.13,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 2875,
       "title": "Devilman",
       "score": 0.112,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa",
+        "es",
+        "tr"
+      ]
     },
     {
       "id": 3708,
       "title": "Violence Jack",
-      "score": 0.073,
-      "r18": false
+      "score": 0.072,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "br"
+      ]
     }
   ]
 }

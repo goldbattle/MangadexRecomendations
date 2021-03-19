@@ -2,157 +2,255 @@
   "id": 49246,
   "title": "Bakana Shinigami",
   "url": "https://mangadex.org/manga/49246",
-  "last_updated": "January 15, 2021 12:41:35 UTC",
+  "last_updated": "March 18, 2021 13:11:40 UTC",
   "matches": [
     {
-      "id": 9091,
-      "title": "Pajama de Ojama",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 9756,
-      "title": "Pandora",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 10280,
-      "title": "Ore Nante Galge?",
-      "score": 0.657,
-      "r18": false
-    },
-    {
-      "id": 19401,
-      "title": "Binbougami Irimasen ka?",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 11752,
-      "title": "Peach Pluck",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 57431,
-      "title": "Hikikomari Kyuuketsuki no Monmon",
-      "score": 0.65,
-      "r18": false
+      "id": 21259,
+      "title": "For once story",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 19158,
       "title": "Aranagi-sama",
-      "score": 0.451,
-      "r18": false
-    },
-    {
-      "id": 21259,
-      "title": "For once story",
-      "score": 0.425,
-      "r18": false
-    },
-    {
-      "id": 19373,
-      "title": "BOZE",
-      "score": 0.405,
-      "r18": false
-    },
-    {
-      "id": 15642,
-      "title": "Warai no Kamigami",
-      "score": 0.399,
-      "r18": false
-    },
-    {
-      "id": 2825,
-      "title": "Birthday",
-      "score": 0.389,
-      "r18": false
-    },
-    {
-      "id": 6721,
-      "title": "Yoru to Yakusoku",
-      "score": 0.383,
-      "r18": false
-    },
-    {
-      "id": 17726,
-      "title": "The Flustered Shabby Santa Claus",
-      "score": 0.382,
-      "r18": false
-    },
-    {
-      "id": 3473,
-      "title": "Jigomezuki!!",
-      "score": 0.374,
-      "r18": false
-    },
-    {
-      "id": 28390,
-      "title": "Noenoto",
-      "score": 0.357,
-      "r18": false
-    },
-    {
-      "id": 21578,
-      "title": "Smile Death Match",
-      "score": 0.354,
-      "r18": false
-    },
-    {
-      "id": 6071,
-      "title": "Oshiire kara Ai o Komete",
-      "score": 0.354,
-      "r18": false
-    },
-    {
-      "id": 4368,
-      "title": "Koishichatta no Yo",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 3855,
-      "title": "Akuma Yashiki no Kyouikugakari",
-      "score": 0.347,
-      "r18": false
-    },
-    {
-      "id": 2478,
-      "title": "Godland Company",
-      "score": 0.346,
-      "r18": false
-    },
-    {
-      "id": 2928,
-      "title": "Shitateya Shinikami",
-      "score": 0.342,
-      "r18": false
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "cn",
+        "gb"
+      ]
     },
     {
       "id": 17522,
       "title": "Ashita wa Kyouso-sama",
-      "score": 0.34,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 43104,
       "title": "Loli Baba",
-      "score": 0.34,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 45116,
       "title": "Sakai-kun to Ch\u012bsana Kanrinin-san",
-      "score": 0.34,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 15642,
+      "title": "Warai no Kamigami",
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 11752,
+      "title": "Peach Pluck",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 6721,
+      "title": "Yoru to Yakusoku",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 28390,
+      "title": "Noenoto",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 6071,
+      "title": "Oshiire kara Ai o Komete",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de"
+      ]
+    },
+    {
+      "id": 17726,
+      "title": "The Flustered Shabby Santa Claus",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "pl"
+      ]
+    },
+    {
+      "id": 19373,
+      "title": "BOZE",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "br"
+      ]
+    },
+    {
+      "id": 4368,
+      "title": "Koishichatta no Yo",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 52565,
+      "title": "The Results of Awakening to Over-Strong Power",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
+    },
+    {
+      "id": 13492,
+      "title": "Tsukigime Lunatic",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18140,
+      "title": "Deochi Girls",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 28815,
+      "title": "Demons Harem",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br"
+      ]
+    },
+    {
+      "id": 21578,
+      "title": "Smile Death Match",
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 3473,
+      "title": "Jigomezuki!!",
+      "score": 0.238,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2825,
+      "title": "Birthday",
+      "score": 0.235,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 2478,
+      "title": "Godland Company",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2495,
+      "title": "Dr. Psyche",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "bg"
+      ]
+    },
+    {
+      "id": 9091,
+      "title": "Pajama de Ojama",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19274,
+      "title": "Gazer",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 9802,
       "title": "Maou no Kyoushitsu",
-      "score": 0.339,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ct"
+      ]
     }
   ]
 }

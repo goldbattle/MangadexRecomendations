@@ -2,157 +2,293 @@
   "id": 9573,
   "title": "Akuma no Ichigo",
   "url": "https://mangadex.org/manga/9573",
-  "last_updated": "March 15, 2021 00:18:39 UTC",
+  "last_updated": "March 18, 2021 07:07:17 UTC",
   "matches": [
-    {
-      "id": 15585,
-      "title": "Hoshikuzu Drop",
-      "score": 0.375,
-      "r18": false
-    },
-    {
-      "id": 49554,
-      "title": "Kiss de Okoshite.",
-      "score": 0.362,
-      "r18": false
-    },
     {
       "id": 5946,
       "title": "Renren Zakari",
       "score": 0.362,
-      "r18": false
-    },
-    {
-      "id": 7579,
-      "title": "Onnanoko wa Yoyuu!",
-      "score": 0.362,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 21891,
       "title": "Sakura to Sensei",
       "score": 0.362,
-      "r18": false
-    },
-    {
-      "id": 9452,
-      "title": "Suki yori mo Chikaku",
-      "score": 0.362,
-      "r18": false
-    },
-    {
-      "id": 49205,
-      "title": "Sentimental Kiss",
-      "score": 0.362,
-      "r18": false
-    },
-    {
-      "id": 46650,
-      "title": "Arashi-kun no Dakimakura",
-      "score": 0.362,
-      "r18": false
-    },
-    {
-      "id": 12681,
-      "title": "Bye Bye, Ame.",
-      "score": 0.362,
-      "r18": false
-    },
-    {
-      "id": 52987,
-      "title": "Haru to Arashi",
-      "score": 0.362,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "br"
+      ]
     },
     {
       "id": 9816,
       "title": "Shiny Doll",
       "score": 0.362,
-      "r18": false
-    },
-    {
-      "id": 49868,
-      "title": "Takane no Hanao-kun",
-      "score": 0.362,
-      "r18": false
-    },
-    {
-      "id": 6053,
-      "title": "Zettai Ren'ai Program",
-      "score": 0.362,
-      "r18": false
-    },
-    {
-      "id": 1930,
-      "title": "360&deg; Material",
-      "score": 0.362,
-      "r18": false
-    },
-    {
-      "id": 1916,
-      "title": "Sugar Soldier",
-      "score": 0.362,
-      "r18": false
-    },
-    {
-      "id": 50856,
-      "title": "Kawaii Nante Kiitenai",
-      "score": 0.362,
-      "r18": false
-    },
-    {
-      "id": 9182,
-      "title": "Oshaberi na Jikanwari",
-      "score": 0.362,
-      "r18": false
-    },
-    {
-      "id": 3441,
-      "title": "Ibitsu na Hoshi no Katachi",
-      "score": 0.362,
-      "r18": false
-    },
-    {
-      "id": 9981,
-      "title": "Vivid Cherry",
-      "score": 0.362,
-      "r18": false
-    },
-    {
-      "id": 21596,
-      "title": "Osananajimi to, Kiss shitakunakunai.",
-      "score": 0.362,
-      "r18": false
-    },
-    {
-      "id": 14282,
-      "title": "Ougon no Ringo",
-      "score": 0.362,
-      "r18": false
-    },
-    {
-      "id": 4517,
-      "title": "Together on Sunday",
-      "score": 0.362,
-      "r18": false
-    },
-    {
-      "id": 5589,
-      "title": "Kono Ie de Kimi to",
-      "score": 0.362,
-      "r18": false
-    },
-    {
-      "id": 54618,
-      "title": "AM8:02, hatsukoi",
-      "score": 0.362,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "pl"
+      ]
     },
     {
       "id": 51757,
       "title": "Uruwashi no Yoi no Tsuki",
       "score": 0.362,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "br",
+        "fr",
+        "mx"
+      ]
+    },
+    {
+      "id": 15590,
+      "title": "Hatsukoi Hajimemashita.",
+      "score": 0.326,
+      "r18": false,
+      "languages": [
+        "br"
+      ]
+    },
+    {
+      "id": 33526,
+      "title": "Futari de Koi wo suru Riyuu",
+      "score": 0.315,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "id"
+      ]
+    },
+    {
+      "id": 20909,
+      "title": "Risou no Koi no, Sono Ato ni.",
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 9663,
+      "title": "Sensei Kunshu",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "tr"
+      ]
+    },
+    {
+      "id": 3046,
+      "title": "Boku to Kimi to de Niji ni Naru",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 22429,
+      "title": "Don't Call Me &quot;Milady&quot;",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 33151,
+      "title": "Heroine Hajimemashita",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 9690,
+      "title": "Mako to Aki-chan no Koigokoro",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "br"
+      ]
+    },
+    {
+      "id": 16396,
+      "title": "Bambi to Dhole",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "br",
+        "mx"
+      ]
+    },
+    {
+      "id": 20363,
+      "title": "Lens Sou no Sankaku",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "es",
+        "it"
+      ]
+    },
+    {
+      "id": 46599,
+      "title": "Tsuki no Oki ni Mesu mama",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "th",
+        "gb",
+        "mx",
+        "id",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 22192,
+      "title": "Takane no Ran-san",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "mx",
+        "it",
+        "br"
+      ]
+    },
+    {
+      "id": 22960,
+      "title": "Hananoi-kun to Koi no Yamai",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "hu",
+        "gb",
+        "it",
+        "br",
+        "mx"
+      ]
+    },
+    {
+      "id": 6188,
+      "title": "Hana-kun to Koisuru Watashi",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "pl"
+      ]
+    },
+    {
+      "id": 30950,
+      "title": "Sakuraba-san Can't Be Stopped!",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "br",
+        "mx",
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 18684,
+      "title": "Hana o Meshimase",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "fr",
+        "es",
+        "gb",
+        "tr",
+        "br",
+        "pl",
+        "it"
+      ]
+    },
+    {
+      "id": 792,
+      "title": "Tonari no Kaibutsu-kun",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id",
+        "br"
+      ]
+    },
+    {
+      "id": 14701,
+      "title": "Sunrise!",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "mx",
+        "br"
+      ]
+    },
+    {
+      "id": 14972,
+      "title": "Ouji ga Watashi wo Akiramenai!",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 11072,
+      "title": "Bokkonrinri",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "fr",
+        "it",
+        "br",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 5132,
+      "title": "Tokimeki Gakuen&hearts;Ouji Kumi",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "br",
+        "fr"
+      ]
     }
   ]
 }

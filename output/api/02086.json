@@ -2,157 +2,290 @@
   "id": 2086,
   "title": "Kingdom Hearts 358/2 Days",
   "url": "https://mangadex.org/manga/2086",
-  "last_updated": "March 14, 2021 04:22:28 UTC",
+  "last_updated": "March 18, 2021 06:00:27 UTC",
   "matches": [
-    {
-      "id": 1510,
-      "title": "Kamisama no Inai Nichiyoubi",
-      "score": 0.3,
-      "r18": false
-    },
     {
       "id": 28525,
       "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo",
       "score": 0.293,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 1751,
-      "title": "D.Gray-man",
-      "score": 0.283,
-      "r18": false
+      "id": 1510,
+      "title": "Kamisama no Inai Nichiyoubi",
+      "score": 0.281,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "pl",
+        "ru"
+      ]
     },
     {
       "id": 8,
       "title": "Psyren",
       "score": 0.281,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "il",
+        "gb",
+        "ru",
+        "pl"
+      ]
     },
     {
       "id": 11041,
       "title": "Stealth Symphony",
+      "score": 0.281,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "pl"
+      ]
+    },
+    {
+      "id": 4016,
+      "title": "AREA D",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "ru",
+        "mn",
+        "es"
+      ]
+    },
+    {
+      "id": 1751,
+      "title": "D.Gray-man",
       "score": 0.279,
-      "r18": false
-    },
-    {
-      "id": 810,
-      "title": "Rewrite: SIDE-B",
-      "score": 0.277,
-      "r18": false
-    },
-    {
-      "id": 28843,
-      "title": "JoJo's Bizarre Adventure Part 4 - Diamond is Unbreakable",
-      "score": 0.276,
-      "r18": false
-    },
-    {
-      "id": 4780,
-      "title": "Umineko no Naku Koro ni Chiru Episode 8: Twilight of the Golden Witch",
-      "score": 0.274,
-      "r18": false
-    },
-    {
-      "id": 13432,
-      "title": "Ningen Deshita",
-      "score": 0.272,
-      "r18": false
-    },
-    {
-      "id": 21352,
-      "title": "Rewrite: SIDE-TERRA",
-      "score": 0.271,
-      "r18": false
-    },
-    {
-      "id": 9497,
-      "title": "Rewrite: SIDE-R",
-      "score": 0.27,
-      "r18": false
-    },
-    {
-      "id": 13963,
-      "title": "Yu-Gi-Oh! GX",
-      "score": 0.269,
-      "r18": false
-    },
-    {
-      "id": 20131,
-      "title": "Fumetsu no Anata e",
-      "score": 0.268,
-      "r18": false
-    },
-    {
-      "id": 2589,
-      "title": "Tantei Gakuen Q",
-      "score": 0.268,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "tr",
+        "sa",
+        "mx",
+        "pl",
+        "ru",
+        "es",
+        "bg"
+      ]
     },
     {
       "id": 5014,
       "title": "Noragami",
-      "score": 0.267,
-      "r18": false
+      "score": 0.276,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "br",
+        "tr",
+        "fr",
+        "es",
+        "hu"
+      ]
+    },
+    {
+      "id": 28843,
+      "title": "JoJo's Bizarre Adventure Part 4 - Diamond is Unbreakable",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br"
+      ]
+    },
+    {
+      "id": 4780,
+      "title": "Umineko no Naku Koro ni Chiru Episode 8: Twilight of the Golden Witch",
+      "score": 0.269,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4350,
       "title": "Shaman King Flowers",
-      "score": 0.267,
-      "r18": false
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru"
+      ]
     },
     {
-      "id": 17844,
-      "title": "Good Night World",
-      "score": 0.266,
-      "r18": false
+      "id": 21352,
+      "title": "Rewrite: SIDE-TERRA",
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 93,
-      "title": "Tegami Bachi",
-      "score": 0.265,
-      "r18": false
+      "id": 9497,
+      "title": "Rewrite: SIDE-R",
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 38106,
-      "title": "King of Hell",
-      "score": 0.262,
-      "r18": false
+      "id": 13963,
+      "title": "Yu-Gi-Oh! GX",
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20131,
+      "title": "Fumetsu no Anata e",
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "br",
+        "ru",
+        "tr",
+        "gb"
+      ]
+    },
+    {
+      "id": 13432,
+      "title": "Ningen Deshita",
+      "score": 0.263,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "pl"
+      ]
     },
     {
       "id": 28526,
       "title": "JoJo's Bizarre Adventure Part 3 - Stardust Crusaders",
-      "score": 0.261,
-      "r18": false
+      "score": 0.263,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 6268,
       "title": "JoJo's Bizarre Adventure Part 3 - Stardust Crusaders (Official Colored)",
-      "score": 0.261,
-      "r18": false
+      "score": 0.263,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "ru",
+        "tr",
+        "sa"
+      ]
+    },
+    {
+      "id": 93,
+      "title": "Tegami Bachi",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "pl"
+      ]
     },
     {
       "id": 336,
       "title": "Kuroshitsuji",
       "score": 0.26,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "fr",
+        "mx",
+        "tr",
+        "hu",
+        "bg"
+      ]
     },
     {
       "id": 1790,
       "title": "Arata Kangatari",
-      "score": 0.26,
-      "r18": false
+      "score": 0.259,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 959,
-      "title": "Shaman",
-      "score": 0.26,
-      "r18": false
+      "id": 2589,
+      "title": "Tantei Gakuen Q",
+      "score": 0.259,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 24374,
       "title": ".hack//Link - Tasogare no Kishidan",
-      "score": 0.26,
-      "r18": false
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 38106,
+      "title": "King of Hell",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb"
+      ]
+    },
+    {
+      "id": 512,
+      "title": "Amagoi",
+      "score": 0.256,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 3079,
+      "title": "Doubutsu no Kuni",
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     }
   ]
 }

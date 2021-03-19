@@ -1,158 +1,295 @@
 {
   "id": 33014,
   "title": "Insects",
-  "url": "https://api.mangadex.org/v2/manga/33014",
-  "last_updated": "February 10, 2021 12:30:57 UTC",
+  "url": "https://mangadex.org/manga/33014",
+  "last_updated": "March 18, 2021 10:56:03 UTC",
   "matches": [
-    {
-      "id": 26575,
-      "title": "Tokyo Interstellar Immigration",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 37897,
-      "title": "Kanojo nikubittake",
-      "score": 0.34,
-      "r18": false
-    },
     {
       "id": 1235,
       "title": "Abara",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 3392,
-      "title": "Suzu Rogu",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 5131,
-      "title": "X-Gene",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 10256,
-      "title": "Frame Saber",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 18494,
-      "title": "Red Doll",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 18750,
-      "title": "Astral Walker",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 24233,
-      "title": "Armagedon",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 24581,
-      "title": "Forte and Serenade - The Legendary Battle",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 24583,
-      "title": "Rockman Maniax",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 24584,
-      "title": "Rockman 9 - For Whose Sake?",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 25497,
-      "title": "Grey",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br",
+        "hu",
+        "bg",
+        "ru",
+        "it",
+        "es"
+      ]
     },
     {
       "id": 36939,
       "title": "Chromosome 47",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 37099,
-      "title": "Twinkle Nora",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 41555,
-      "title": "Yoake Mae ni Shinu",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "fr",
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 41849,
       "title": "Psycho-Pass 3",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 44837,
-      "title": "Path a Way",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 51870,
-      "title": "Advance of Zeta Re-Boot: Gundam Inle - Black Rabbit Had a Dream",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 58176,
-      "title": "Red Data Planet",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 2248,
-      "title": "E's",
-      "score": 0.17,
-      "r18": false
-    },
-    {
-      "id": 4265,
-      "title": "Moon Edge",
-      "score": 0.17,
-      "r18": false
-    },
-    {
-      "id": 4315,
-      "title": "Space Adventure Cobra",
-      "score": 0.17,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": 4484,
       "title": "GUNNM",
-      "score": 0.17,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "mx",
+        "ru",
+        "tr",
+        "ir"
+      ]
     },
     {
-      "id": 6364,
-      "title": "Dogla+Magla",
-      "score": 0.17,
-      "r18": false
+      "id": 20840,
+      "title": "Aposimz",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "ru",
+        "mx",
+        "it",
+        "gb",
+        "bg",
+        "pl",
+        "hu"
+      ]
+    },
+    {
+      "id": 22486,
+      "title": "Hana Samurai no Sahara",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru",
+        "it"
+      ]
+    },
+    {
+      "id": 29839,
+      "title": "Kangtawoo",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 34376,
+      "title": "Psycho-Pass: Sinners of the System Case 1 - Crime and Punishment",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 38525,
+      "title": "Psycho-Pass: Sinners of the System Case 2 - First Guardian",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 40131,
+      "title": "Ninja Slayer: Kyoto, Hell, On, Earth",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
+    },
+    {
+      "id": 2715,
+      "title": "BioMega",
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg",
+        "pl",
+        "br",
+        "ru"
+      ]
+    },
+    {
+      "id": 20950,
+      "title": "Gekkou no Arcadia",
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "mx",
+        "ru",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 21481,
+      "title": "Blue Phobia",
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "ru",
+        "mx",
+        "id"
+      ]
+    },
+    {
+      "id": 30186,
+      "title": "Levius/est",
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
+    },
+    {
+      "id": 34257,
+      "title": "God Eater 2",
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 37053,
+      "title": "Search and Destroy",
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "hk",
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 41876,
+      "title": "Alma",
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "hk",
+        "br",
+        "gb",
+        "ru",
+        "tr"
+      ]
+    },
+    {
+      "id": 43741,
+      "title": "Fullmetal Daemon Muramasa: Netherworld",
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
+    },
+    {
+      "id": 189,
+      "title": "Lost Universe",
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr"
+      ]
+    },
+    {
+      "id": 1386,
+      "title": "Red Eyes",
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 11223,
+      "title": "Bocchiman",
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 12286,
+      "title": "Levius",
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 19722,
+      "title": "Origin",
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "tr",
+        "mn",
+        "it",
+        "ru",
+        "br",
+        "ir",
+        "sa"
+      ]
+    },
+    {
+      "id": 23043,
+      "title": "Bozebeats",
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "ru",
+        "br",
+        "hk",
+        "mx"
+      ]
+    },
+    {
+      "id": 28905,
+      "title": "Splatoon",
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "it",
+        "ru"
+      ]
     }
   ]
 }

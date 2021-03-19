@@ -2,67 +2,61 @@
   "id": 1187,
   "title": "Kage no Matsuri",
   "url": "https://mangadex.org/manga/1187",
-  "last_updated": "March 14, 2021 01:09:03 UTC",
+  "last_updated": "March 18, 2021 05:52:39 UTC",
   "matches": [
     {
       "id": 19000,
       "title": "You no Ou",
       "score": 0.277,
-      "r18": false
-    },
-    {
-      "id": 28433,
-      "title": "The Beautiful Ones",
-      "score": 0.26,
-      "r18": false
-    },
-    {
-      "id": 20868,
-      "title": "Kokenoshima",
-      "score": 0.238,
-      "r18": false
-    },
-    {
-      "id": 49215,
-      "title": "The Mission",
-      "score": 0.232,
-      "r18": false
-    },
-    {
-      "id": 20541,
-      "title": "Mercy",
-      "score": 0.225,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "ct",
+        "bg"
+      ]
     },
     {
       "id": 1378,
       "title": "Basilisk",
-      "score": 0.162,
-      "r18": false
-    },
-    {
-      "id": 4873,
-      "title": "Jin",
-      "score": 0.14,
-      "r18": false
+      "score": 0.161,
+      "r18": false,
+      "languages": [
+        "bg",
+        "gb",
+        "hu",
+        "pl",
+        "ru"
+      ]
     },
     {
       "id": 28617,
       "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run",
-      "score": 0.134,
-      "r18": false
-    },
-    {
-      "id": 8286,
-      "title": "The Legend of Genghis",
-      "score": 0.132,
-      "r18": false
+      "score": 0.133,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "it",
+        "fr"
+      ]
     },
     {
       "id": 6272,
       "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
-      "score": 0.091,
-      "r18": false
+      "score": 0.09,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "br",
+        "ru",
+        "it",
+        "id",
+        "il",
+        "de"
+      ]
     }
   ]
 }

@@ -1,50 +1,46 @@
 {
   "id": 44693,
   "title": "Lies Like Lies",
-  "url": "https://api.mangadex.org/v2/manga/44693",
-  "last_updated": "February 11, 2021 16:45:18 UTC",
+  "url": "https://mangadex.org/manga/44693",
+  "last_updated": "March 18, 2021 12:33:31 UTC",
   "matches": [
     {
       "id": 46321,
       "title": "Palace of Bardo",
-      "score": 0.286,
-      "r18": false
-    },
-    {
-      "id": 22242,
-      "title": "King's Maker",
-      "score": 0.278,
-      "r18": false
-    },
-    {
-      "id": 29660,
-      "title": "Not a Sugar Daddy",
-      "score": 0.256,
-      "r18": false
-    },
-    {
-      "id": 38754,
-      "title": "City of Blood",
-      "score": 0.256,
-      "r18": false
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 46008,
       "title": "Sexy Effect 96",
-      "score": 0.255,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 57443,
       "title": "Through the Rumors",
-      "score": 0.219,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 56579,
       "title": "Him+Him",
-      "score": 0.216,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

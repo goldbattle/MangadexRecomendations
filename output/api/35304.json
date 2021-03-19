@@ -1,158 +1,287 @@
 {
   "id": 35304,
   "title": "Omoi ga Omoi Omoi-san",
-  "url": "https://api.mangadex.org/v2/manga/35304",
-  "last_updated": "February 10, 2021 16:41:42 UTC",
+  "url": "https://mangadex.org/manga/35304",
+  "last_updated": "March 18, 2021 11:15:08 UTC",
   "matches": [
-    {
-      "id": 3092,
-      "title": "Koaka Head",
-      "score": 0.417,
-      "r18": false
-    },
-    {
-      "id": 9496,
-      "title": "Love Calendar",
-      "score": 0.411,
-      "r18": false
-    },
-    {
-      "id": 38436,
-      "title": "Himari no Mawari",
-      "score": 0.411,
-      "r18": false
-    },
-    {
-      "id": 875,
-      "title": "Bokura wa Minna Kawai-sou",
-      "score": 0.405,
-      "r18": false
-    },
-    {
-      "id": 22143,
-      "title": "Jikkyou!! Izumi-kun no Koi Moyou",
-      "score": 0.403,
-      "r18": false
-    },
-    {
-      "id": 29976,
-      "title": "Peach Milk Crown",
-      "score": 0.401,
-      "r18": false
-    },
-    {
-      "id": 14642,
-      "title": "Otonari-san Game",
-      "score": 0.401,
-      "r18": false
-    },
-    {
-      "id": 13610,
-      "title": "Seifuku Aventure - Chemical Reaction Of High School Students",
-      "score": 0.399,
-      "r18": false
-    },
-    {
-      "id": 43622,
-      "title": "Kono Koi wa Fukami-kun no Plan ni wa Nai",
-      "score": 0.396,
-      "r18": false
-    },
-    {
-      "id": 23203,
-      "title": "Futari no Jikan",
-      "score": 0.396,
-      "r18": false
-    },
     {
       "id": 505,
       "title": "Nagato Yuki-chan no Shoushitsu",
-      "score": 0.395,
-      "r18": false
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
-      "id": 520,
-      "title": "Juukinzoku Kanojo",
-      "score": 0.395,
-      "r18": false
-    },
-    {
-      "id": 32911,
-      "title": "Tonari no Furi-san ga Tonikaku Kowai",
-      "score": 0.393,
-      "r18": false
-    },
-    {
-      "id": 33670,
-      "title": "Skip to Loafer",
-      "score": 0.393,
-      "r18": false
-    },
-    {
-      "id": 7455,
-      "title": "Bamora!",
-      "score": 0.392,
-      "r18": false
-    },
-    {
-      "id": 48139,
-      "title": "Otonari Voice Chat",
-      "score": 0.39,
-      "r18": false
-    },
-    {
-      "id": 31509,
-      "title": "Kaguya-sama: Love Is War - Digital Colored Comics",
-      "score": 0.389,
-      "r18": false
-    },
-    {
-      "id": 445,
-      "title": "Tonari no Kashiwagi-san",
-      "score": 0.388,
-      "r18": false
-    },
-    {
-      "id": 26966,
-      "title": "Mobuko no Koi",
-      "score": 0.388,
-      "r18": false
-    },
-    {
-      "id": 51280,
-      "title": "Dancin' Respawn",
-      "score": 0.388,
-      "r18": false
+      "id": 10049,
+      "title": "Mozuya-san Goes on a Rampage",
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 59528,
       "title": "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru",
-      "score": 0.388,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 17199,
-      "title": "Higashi no Kurume to Tonari no Meguru",
-      "score": 0.386,
-      "r18": false
+      "id": 14642,
+      "title": "Otonari-san Game",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
-      "id": 1690,
-      "title": "Yashikoh Shodai Seitokai",
-      "score": 0.385,
-      "r18": false
+      "id": 29976,
+      "title": "Peach Milk Crown",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 32911,
+      "title": "Tonari no Furi-san ga Tonikaku Kowai",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "id",
+        "br"
+      ]
+    },
+    {
+      "id": 9496,
+      "title": "Love Calendar",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 45076,
+      "title": "Houkago no Tetsugaku-san",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 48139,
+      "title": "Otonari Voice Chat",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 43622,
+      "title": "Kono Koi wa Fukami-kun no Plan ni wa Nai",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn",
+        "mx",
+        "id"
+      ]
+    },
+    {
+      "id": 42390,
+      "title": "Kubo-san wa Boku (Mobu) wo Yurusanai",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id",
+        "hk",
+        "br",
+        "ru",
+        "fr",
+        "it",
+        "pl"
+      ]
+    },
+    {
+      "id": 27394,
+      "title": "Enami-kun wa Ikiru no ga tsurai",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "ru",
+        "mx",
+        "id"
+      ]
     },
     {
       "id": 51584,
       "title": "Mizuki-senpai's Love Fortune-Telling",
-      "score": 0.384,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "br",
+        "ru",
+        "it"
+      ]
     },
     {
-      "id": 17880,
-      "title": "Mikako-san",
-      "score": 0.383,
-      "r18": false
+      "id": 1690,
+      "title": "Yashikoh Shodai Seitokai",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 875,
+      "title": "Bokura wa Minna Kawai-sou",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it",
+        "ru",
+        "id",
+        "pl",
+        "fr"
+      ]
+    },
+    {
+      "id": 13610,
+      "title": "Seifuku Aventure - Chemical Reaction Of High School Students",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 445,
+      "title": "Tonari no Kashiwagi-san",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "br",
+        "de",
+        "ru",
+        "id",
+        "it"
+      ]
+    },
+    {
+      "id": 40994,
+      "title": "Ookiku Nattara Kekkon Suru!",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "mx",
+        "id"
+      ]
+    },
+    {
+      "id": 1550,
+      "title": "Mathematical Girls",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 37498,
+      "title": "Kimi wa Houkago Insomnia",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "mx",
+        "fr",
+        "cn"
+      ]
+    },
+    {
+      "id": 47687,
+      "title": "This Chubby Girl Can't Stop Acting Like a Little Devil",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "mx",
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 17199,
+      "title": "Higashi no Kurume to Tonari no Meguru",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 23864,
+      "title": "Sensei Lock-On! 2nd",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 23203,
+      "title": "Futari no Jikan",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 14162,
+      "title": "7 Jikanme no Note",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     }
   ]
 }

@@ -1,158 +1,259 @@
 {
   "id": 50799,
   "title": "Genesis Code",
-  "url": "https://api.mangadex.org/v2/manga/50799",
-  "last_updated": "February 05, 2021 08:29:16 UTC",
+  "url": "https://mangadex.org/manga/50799",
+  "last_updated": "March 18, 2021 13:24:36 UTC",
   "matches": [
     {
-      "id": 104,
-      "title": "Liar Game",
-      "score": 0.706,
-      "r18": false
+      "id": 1242,
+      "title": "Nijigahara Holograph",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
-      "id": 1872,
-      "title": "Hikari no Machi",
-      "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 843,
-      "title": "20th Century Boys",
-      "score": 0.694,
-      "r18": false
-    },
-    {
-      "id": 13433,
-      "title": "Okitenemuru",
-      "score": 0.692,
-      "r18": false
-    },
-    {
-      "id": 34328,
-      "title": "H.P. Lovecraft's The Hound and Other Stories",
-      "score": 0.689,
-      "r18": false
-    },
-    {
-      "id": 1591,
-      "title": "21st Century Boys",
-      "score": 0.689,
-      "r18": false
-    },
-    {
-      "id": 2678,
-      "title": "6000",
-      "score": 0.685,
-      "r18": false
-    },
-    {
-      "id": 7126,
-      "title": "Dimension W",
-      "score": 0.685,
-      "r18": false
-    },
-    {
-      "id": 1120,
-      "title": "Ultra Heaven",
-      "score": 0.684,
-      "r18": false
-    },
-    {
-      "id": 9829,
-      "title": "Immortal Hounds",
-      "score": 0.682,
-      "r18": false
-    },
-    {
-      "id": 17623,
-      "title": "Iwaihime",
-      "score": 0.682,
-      "r18": false
-    },
-    {
-      "id": 7691,
-      "title": "Skull Man",
-      "score": 0.682,
-      "r18": false
-    },
-    {
-      "id": 7574,
-      "title": "Kokushi no Shima",
-      "score": 0.682,
-      "r18": false
-    },
-    {
-      "id": 398,
-      "title": "Tsumi to Batsu - A Falsified Romance",
-      "score": 0.681,
-      "r18": false
-    },
-    {
-      "id": 2712,
-      "title": "Blame!",
-      "score": 0.681,
-      "r18": false
-    },
-    {
-      "id": 28617,
-      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 191,
-      "title": "Kimi no Knife",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 19505,
-      "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 430,
-      "title": "Hotel",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 1766,
-      "title": "Umineko no Naku Koro ni Chiru Episode 7: Requiem of the Golden Witch",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 148,
-      "title": "Destroy and Revolution",
-      "score": 0.676,
-      "r18": false
+      "id": 21979,
+      "title": "Steins;Gate 0",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
     },
     {
       "id": 27634,
       "title": "MW",
-      "score": 0.676,
-      "r18": false
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "pl"
+      ]
     },
     {
-      "id": 3917,
-      "title": "Waltz",
-      "score": 0.676,
-      "r18": false
+      "id": 40936,
+      "title": "Pet",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 1429,
-      "title": "Umineko no Naku Koro ni Episode 4: Alliance of the Golden Witch",
-      "score": 0.674,
-      "r18": false
+      "id": 1419,
+      "title": "Life Is Money",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "de",
+        "it"
+      ]
     },
     {
-      "id": 1085,
-      "title": "Code Geass: Lelouch of the Rebellion",
-      "score": 0.674,
-      "r18": false
+      "id": 72,
+      "title": "Superior Day",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5853,
+      "title": "SWWEEET",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "pl"
+      ]
+    },
+    {
+      "id": 23568,
+      "title": "Rurimiya Mugen Kobutsuten",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 19790,
+      "title": "Kings' Viking",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 4106,
+      "title": "Shikeisyu 042",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2975,
+      "title": "Ikigami",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 485,
+      "title": "Usotsuki Mi-kun to Kowareta Ma-chan Totteoki no Uso",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "bg",
+        "fr"
+      ]
+    },
+    {
+      "id": 43325,
+      "title": "Mizutamari ni Ukabu Shima",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id",
+        "br"
+      ]
+    },
+    {
+      "id": 13305,
+      "title": "Genji The Death's Friend",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5669,
+      "title": "Gankutsuou",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "it"
+      ]
+    },
+    {
+      "id": 6939,
+      "title": "AGAPE",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 17184,
+      "title": "Shoujo Fujuubun",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "ct",
+        "mx",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 27708,
+      "title": "Kirihito Sanka",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "es"
+      ]
+    },
+    {
+      "id": 2343,
+      "title": "Deep Love - Real",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4490,
+      "title": "Livingstone",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru",
+        "it"
+      ]
+    },
+    {
+      "id": 2232,
+      "title": "Waraenu Douji - 108 no Gou",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 22791,
+      "title": "Ningen Shikkaku (Variety Art Works)",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21537,
+      "title": "Rasputin the Patriot",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21273,
+      "title": "Warau Salesman",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5001,
+      "title": "Ms. Mayple's Afternoon Tea Time",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

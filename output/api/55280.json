@@ -1,158 +1,271 @@
 {
   "id": 55280,
   "title": "Mousugu Are ni Naru",
-  "url": "https://api.mangadex.org/v2/manga/55280",
-  "last_updated": "March 12, 2021 20:35:50 UTC",
+  "url": "https://mangadex.org/manga/55280",
+  "last_updated": "March 18, 2021 14:02:02 UTC",
   "matches": [
     {
-      "id": 1337,
-      "title": "Knights of Sidonia",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 24850,
-      "title": "Jishou F-Rank no Oniisama ga Game de Hyouka sareru Gakuen no Chouten ni Kunrin suru Sou desu yo?",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 564,
-      "title": "Nagasarete Airantou",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 10504,
-      "title": "Magika no Kenshi to Shoukan Maou",
-      "score": 0.672,
-      "r18": false
-    },
-    {
-      "id": 22004,
-      "title": "Kamen Rider W: Fuuto Tantei",
-      "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 24976,
-      "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
-      "score": 0.669,
-      "r18": false
+      "id": 1623,
+      "title": "Black City",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 7868,
       "title": "Kidou Senshi Gundam C.D.A. - Wakaki Suisei no Shouzou",
-      "score": 0.662,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 30155,
-      "title": "Stardust Nina",
-      "score": 0.657,
-      "r18": false
-    },
-    {
-      "id": 3672,
-      "title": "Full Metal Panic! &Sigma;",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 43511,
-      "title": "Seiken Gakuin no Maken Tsukai",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 23036,
-      "title": "Darling in the FranXX",
-      "score": 0.331,
-      "r18": false
-    },
-    {
-      "id": 6942,
-      "title": "Flip Flap",
-      "score": 0.311,
-      "r18": false
+      "id": 4315,
+      "title": "Space Adventure Cobra",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6151,
       "title": "BLASSREITER -genetic-",
-      "score": 0.311,
-      "r18": false
-    },
-    {
-      "id": 1623,
-      "title": "Black City",
-      "score": 0.31,
-      "r18": false
-    },
-    {
-      "id": 24898,
-      "title": "Ray",
-      "score": 0.305,
-      "r18": false
-    },
-    {
-      "id": 46207,
-      "title": "Rasu to Kisu",
-      "score": 0.304,
-      "r18": false
-    },
-    {
-      "id": 9,
-      "title": "Air Gear",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 1153,
-      "title": "Not Lives",
-      "score": 0.299,
-      "r18": false
-    },
-    {
-      "id": 5838,
-      "title": "Akihabara@DEEP",
-      "score": 0.287,
-      "r18": false
-    },
-    {
-      "id": 42457,
-      "title": "Darling in the FranXX (Fan Colored)",
-      "score": 0.281,
-      "r18": false
-    },
-    {
-      "id": 16679,
-      "title": "Gakuen Dragon Slayer",
-      "score": 0.267,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 28852,
       "title": "Warhammer 40K - Front Armour 11 (Doujinshi)",
-      "score": 0.262,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 26357,
       "title": "Hamazura-Stalker",
-      "score": 0.247,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 30606,
+      "title": "NieR: Automata - 2B Is A Little Bit Silly (Doujinshi)",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it"
+      ]
+    },
+    {
+      "id": 23036,
+      "title": "Darling in the FranXX",
+      "score": 0.185,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru",
+        "br",
+        "id",
+        "fr",
+        "it",
+        "pl",
+        "vn",
+        "tr"
+      ]
+    },
+    {
+      "id": 6942,
+      "title": "Flip Flap",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "fr",
+        "pl",
+        "gb",
+        "de"
+      ]
+    },
+    {
+      "id": 24898,
+      "title": "Ray",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 16679,
+      "title": "Gakuen Dragon Slayer",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Air Gear",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "tr",
+        "ru"
+      ]
+    },
+    {
+      "id": 30155,
+      "title": "Stardust Nina",
+      "score": 0.17,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 41844,
+      "title": "To Know The Stars Again",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 56861,
+      "title": "Heart-Shaped Box",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1337,
+      "title": "Knights of Sidonia",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 5838,
+      "title": "Akihabara@DEEP",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1153,
+      "title": "Not Lives",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 42457,
+      "title": "Darling in the FranXX (Fan Colored)",
+      "score": 0.142,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 22004,
+      "title": "Kamen Rider W: Fuuto Tantei",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "br",
+        "id",
+        "gb"
+      ]
+    },
+    {
+      "id": 24850,
+      "title": "Jishou F-Rank no Oniisama ga Game de Hyouka sareru Gakuen no Chouten ni Kunrin suru Sou desu yo?",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "mx",
+        "br",
+        "id"
+      ]
+    },
+    {
+      "id": 10504,
+      "title": "Magika no Kenshi to Shoukan Maou",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "es",
+        "fr",
+        "tr"
+      ]
+    },
+    {
+      "id": 3672,
+      "title": "Full Metal Panic! &Sigma;",
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "fr"
+      ]
     },
     {
       "id": 7717,
       "title": "Kidou Senshi Gundam Thunderbolt",
-      "score": 0.245,
-      "r18": false
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 13684,
-      "title": "Robot",
-      "score": 0.243,
-      "r18": false
+      "id": 24976,
+      "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
+      "score": 0.125,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "mx",
+        "br",
+        "tr"
+      ]
     }
   ]
 }

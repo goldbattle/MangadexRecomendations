@@ -1,158 +1,264 @@
 {
   "id": 54241,
   "title": "Maison de Pilote",
-  "url": "https://api.mangadex.org/v2/manga/54241",
-  "last_updated": "March 12, 2021 20:23:11 UTC",
+  "url": "https://mangadex.org/manga/54241",
+  "last_updated": "March 18, 2021 13:53:21 UTC",
   "matches": [
     {
-      "id": 31551,
-      "title": "A Returner's Magic Should Be Special",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 48652,
-      "title": "Japanese History Detective Conan",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 34503,
-      "title": "Dolls Frontline Comic anthology",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 32081,
-      "title": "Bokutachi no Remake",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 41568,
-      "title": "Moon You",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 43310,
-      "title": "Marvel + JUMP Collaboration",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 23609,
-      "title": "Re:CREATORS One More",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 12515,
-      "title": "Kidou Keisatsu Patlabor",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 37588,
-      "title": "Space Family Carlvinson",
-      "score": 0.65,
-      "r18": false
-    },
-    {
-      "id": 29329,
-      "title": "Itai no wa Iya nanode Bougyo-Ryoku ni Kyokufuri Shitai to Omoimasu",
-      "score": 0.65,
-      "r18": false
-    },
-    {
-      "id": 43035,
-      "title": "SSSS.GRIDMAN: Neon Genesis Junior High School Students Diary",
-      "score": 0.41,
-      "r18": false
+      "id": 26060,
+      "title": "Moromono no Jijou",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5674,
       "title": "Ichigeki Sacchu!! Hoihoi-san",
-      "score": 0.403,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 26060,
-      "title": "Moromono no Jijou",
-      "score": 0.399,
-      "r18": false
+      "id": 43035,
+      "title": "SSSS.GRIDMAN: Neon Genesis Junior High School Students Diary",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it"
+      ]
     },
     {
       "id": 2007,
       "title": "Aria",
-      "score": 0.364,
-      "r18": false
-    },
-    {
-      "id": 41611,
-      "title": "hello (rom-com) world",
-      "score": 0.352,
-      "r18": false
-    },
-    {
-      "id": 34752,
-      "title": "Robot Izonkei Joshi no Meiwaku na Nichijou",
-      "score": 0.34,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "es",
+        "br"
+      ]
     },
     {
       "id": 22695,
       "title": "Curiosity Killed the Schoolgirl",
-      "score": 0.316,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22107,
       "title": "Hakase no Kimagure Homunculus",
-      "score": 0.302,
-      "r18": false
-    },
-    {
-      "id": 5414,
-      "title": "Daichouhen Doraemon",
-      "score": 0.292,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 25949,
       "title": "Omakase! Peace Denkiten",
-      "score": 0.276,
-      "r18": false
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 31051,
       "title": "Mobile Suit Gundam - Someday Surely",
-      "score": 0.276,
-      "r18": false
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 41611,
+      "title": "hello (rom-com) world",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 34752,
+      "title": "Robot Izonkei Joshi no Meiwaku na Nichijou",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 23609,
+      "title": "Re:CREATORS One More",
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 56193,
+      "title": "Ginga wa Kanojo Hodo ni",
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 34503,
+      "title": "Dolls Frontline Comic anthology",
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 32081,
+      "title": "Bokutachi no Remake",
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "mx",
+        "ru"
+      ]
+    },
+    {
+      "id": 48652,
+      "title": "Japanese History Detective Conan",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5414,
+      "title": "Daichouhen Doraemon",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 33529,
+      "title": "Mazumeshi Elf to Yuboku gurashi",
+      "score": 0.161,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 12515,
+      "title": "Kidou Keisatsu Patlabor",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 44657,
       "title": "Blanc Project",
-      "score": 0.265,
-      "r18": false
-    },
-    {
-      "id": 45794,
-      "title": "Blitz",
-      "score": 0.262,
-      "r18": false
-    },
-    {
-      "id": 50432,
-      "title": "DRAGON BALL Z TV Animation Comics",
-      "score": 0.259,
-      "r18": false
+      "score": 0.144,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 9409,
       "title": "Hitoribocchi no Chikyuu Shinryaku",
-      "score": 0.257,
-      "r18": false
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 45794,
+      "title": "Blitz",
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29329,
+      "title": "Itai no wa Iya nanode Bougyo-Ryoku ni Kyokufuri Shitai to Omoimasu",
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "it",
+        "de",
+        "id",
+        "br"
+      ]
+    },
+    {
+      "id": 46852,
+      "title": "11me",
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19160,
+      "title": "I Am My Wife!?",
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "bd",
+        "br",
+        "es"
+      ]
+    },
+    {
+      "id": 31551,
+      "title": "A Returner's Magic Should Be Special",
+      "score": 0.108,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx",
+        "id",
+        "it",
+        "ru",
+        "fr",
+        "br",
+        "sa",
+        "pl"
+      ]
     }
   ]
 }

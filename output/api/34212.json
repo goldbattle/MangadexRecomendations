@@ -1,158 +1,284 @@
 {
   "id": 34212,
   "title": "Shishunki-chan no Shitsukekata",
-  "url": "https://api.mangadex.org/v2/manga/34212",
-  "last_updated": "February 10, 2021 16:25:09 UTC",
+  "url": "https://mangadex.org/manga/34212",
+  "last_updated": "March 18, 2021 11:06:02 UTC",
   "matches": [
     {
-      "id": 86,
-      "title": "Anedoki",
-      "score": 0.714,
-      "r18": false
-    },
-    {
-      "id": 10753,
-      "title": "Koi ga Saku Koro Sakura Doki -Charming Scarlet-",
-      "score": 0.672,
-      "r18": false
-    },
-    {
-      "id": 23992,
-      "title": "Yuragi-sou no Yuuna-san - Digital Colored Comics",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 817,
-      "title": "Kono Naka ni Hitori, Imouto ga Iru!",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 692,
-      "title": "Open Sesame",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 12850,
-      "title": "Watari-kun no &times;&times; ga Houkai Sunzen",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 724,
-      "title": "Pastel",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 651,
-      "title": "Asa made Jugyou Chu!",
-      "score": 0.651,
-      "r18": false
+      "id": 4168,
+      "title": "Koi to Senkyo to Chocolate",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 12154,
       "title": "Melty Moment",
-      "score": 0.426,
-      "r18": false
+      "score": 0.273,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 4168,
-      "title": "Koi to Senkyo to Chocolate",
-      "score": 0.421,
-      "r18": false
-    },
-    {
-      "id": 8732,
-      "title": "Seifuku!",
-      "score": 0.376,
-      "r18": false
-    },
-    {
-      "id": 14570,
-      "title": "Ane Kurabe",
-      "score": 0.372,
-      "r18": false
-    },
-    {
-      "id": 45939,
-      "title": "Kanojo mo Kanojo",
-      "score": 0.369,
-      "r18": false
-    },
-    {
-      "id": 31019,
-      "title": "The Boy in the All-Girls School",
-      "score": 0.368,
-      "r18": false
-    },
-    {
-      "id": 20774,
-      "title": "Bokutachi wa Benkyou ga Dekinai",
-      "score": 0.354,
-      "r18": false
-    },
-    {
-      "id": 33662,
-      "title": "Renai Shikou Seitokai",
-      "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 17,
-      "title": "Mayo Chiki!",
-      "score": 0.352,
-      "r18": false
-    },
-    {
-      "id": 7238,
-      "title": "Shurabara!",
-      "score": 0.349,
-      "r18": false
-    },
-    {
-      "id": 26936,
-      "title": "Ojousama no Shimobe",
-      "score": 0.348,
-      "r18": false
+      "id": 86,
+      "title": "Anedoki",
+      "score": 0.261,
+      "r18": false,
+      "languages": [
+        "de",
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 35964,
       "title": "Boku no Kanojo Sensei",
-      "score": 0.346,
-      "r18": false
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "mx",
+        "fr",
+        "ru",
+        "vn"
+      ]
     },
     {
-      "id": 683,
-      "title": "Mayoi Neko Overrun!",
-      "score": 0.343,
-      "r18": false
-    },
-    {
-      "id": 21437,
-      "title": "Atsumare! Fushigi Kenkyu-bu",
-      "score": 0.342,
-      "r18": false
-    },
-    {
-      "id": 824,
-      "title": "Nozomi x Kimio",
-      "score": 0.341,
-      "r18": false
+      "id": 17,
+      "title": "Mayo Chiki!",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "ru"
+      ]
     },
     {
       "id": 23430,
       "title": "Hinomoto Sanshimai wa Kamatte Hoshii",
-      "score": 0.336,
-      "r18": false
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "br",
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 33062,
+      "title": "Nana to Kaoru: Last Year",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 20774,
+      "title": "Bokutachi wa Benkyou ga Dekinai",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "hk",
+        "ru",
+        "it",
+        "br",
+        "sa"
+      ]
+    },
+    {
+      "id": 26936,
+      "title": "Ojousama no Shimobe",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx"
+      ]
+    },
+    {
+      "id": 45939,
+      "title": "Kanojo mo Kanojo",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "ua",
+        "hk",
+        "it",
+        "ru",
+        "mx"
+      ]
+    },
+    {
+      "id": 683,
+      "title": "Mayoi Neko Overrun!",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 3510,
+      "title": "Tona-Gura!",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 35345,
       "title": "Temple",
-      "score": 0.334,
-      "r18": false
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "fr",
+        "mx",
+        "tr"
+      ]
+    },
+    {
+      "id": 2166,
+      "title": "Ore no Kanojo to Osananajimi ga Shuraba Sugiru + H",
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8732,
+      "title": "Seifuku!",
+      "score": 0.236,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 33662,
+      "title": "Renai Shikou Seitokai",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id"
+      ]
+    },
+    {
+      "id": 817,
+      "title": "Kono Naka ni Hitori, Imouto ga Iru!",
+      "score": 0.228,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14570,
+      "title": "Ane Kurabe",
+      "score": 0.227,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6641,
+      "title": "Iinazuke Kyoutei",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 22900,
+      "title": "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 54812,
+      "title": "Nogizaka Asuka no Himitsu",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 728,
+      "title": "Ore no Kanojo to Osananajimi ga Shuraba Sugiru",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 10642,
+      "title": "Aizawa-san Zoushoku",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "ru",
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 166,
+      "title": "Kenkoo Zenrakei Suieibu Umishou",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "it"
+      ]
+    },
+    {
+      "id": 51647,
+      "title": "Just a Story About Miyamoto Sakura Being Cute",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "mx",
+        "id"
+      ]
     }
   ]
 }

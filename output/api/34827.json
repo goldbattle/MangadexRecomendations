@@ -1,158 +1,270 @@
 {
   "id": 34827,
   "title": "Frau Trude - Grimm-Adjacent Tales",
-  "url": "https://api.mangadex.org/v2/manga/34827",
-  "last_updated": "February 10, 2021 16:34:32 UTC",
+  "url": "https://mangadex.org/manga/34827",
+  "last_updated": "March 18, 2021 11:11:10 UTC",
   "matches": [
     {
       "id": 36557,
       "title": "Two Guys in a Garden",
-      "score": 0.746,
-      "r18": false
+      "score": 0.293,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg",
+        "ru",
+        "hk"
+      ]
     },
     {
-      "id": 34328,
-      "title": "H.P. Lovecraft's The Hound and Other Stories",
-      "score": 0.721,
-      "r18": false
+      "id": 20625,
+      "title": "Monkey Mountain",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "ru",
+        "br"
+      ]
     },
     {
-      "id": 39187,
-      "title": "Bad Candy You Give Me",
-      "score": 0.72,
-      "r18": false
+      "id": 1428,
+      "title": "Umineko no Naku Koro ni Episode 3: Banquet of the Golden Witch",
+      "score": 0.277,
+      "r18": false,
+      "languages": [
+        "vn",
+        "fr",
+        "gb",
+        "br",
+        "pl"
+      ]
     },
     {
-      "id": 10146,
-      "title": "Soratobi Tamashii",
-      "score": 0.718,
-      "r18": false
-    },
-    {
-      "id": 430,
-      "title": "Hotel",
-      "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 35626,
-      "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Kenki Koiuta",
-      "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 4880,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
-      "score": 0.71,
-      "r18": false
+      "id": 1427,
+      "title": "Umineko no Naku Koro ni Episode 2: Turn of the Golden Witch",
+      "score": 0.276,
+      "r18": false,
+      "languages": [
+        "fr",
+        "vn",
+        "es",
+        "gb",
+        "br",
+        "pl"
+      ]
     },
     {
       "id": 11985,
       "title": "Kirisame ga Furu Mori",
-      "score": 0.707,
-      "r18": false
+      "score": 0.261,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "ru",
+        "es",
+        "de"
+      ]
     },
     {
-      "id": 19086,
-      "title": "Ushiro - The Somber God of Death",
-      "score": 0.705,
-      "r18": false
+      "id": 2622,
+      "title": "Higurashi no Naku Koro ni - Yoigoshi-hen",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 28617,
-      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run",
-      "score": 0.705,
-      "r18": false
+      "id": 2523,
+      "title": "Higurashi no Naku Koro ni - Watanagashi-hen",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de",
+        "fr",
+        "br"
+      ]
     },
     {
-      "id": 9829,
-      "title": "Immortal Hounds",
-      "score": 0.703,
-      "r18": false
+      "id": 8975,
+      "title": "Higurashi no Naku Koro ni - Onikakushi-hen",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "de",
+        "vn",
+        "gb",
+        "br",
+        "fr"
+      ]
     },
     {
-      "id": 7869,
-      "title": "Arashi no Hana Murakumo no Uta",
-      "score": 0.702,
-      "r18": false
+      "id": 2582,
+      "title": "Higurashi no Naku Koro ni Kai - Minagoroshi-hen",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 7574,
-      "title": "Kokushi no Shima",
-      "score": 0.701,
-      "r18": false
+      "id": 10437,
+      "title": "Draw: Majo no Nemuru Umi de",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 6283,
-      "title": "Vandemieru no Tsubasa",
-      "score": 0.7,
-      "r18": false
+      "id": 2539,
+      "title": "Higurashi no Naku Koro ni Kai - Meakashi-hen",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 17623,
-      "title": "Iwaihime",
-      "score": 0.7,
-      "r18": false
+      "id": 2616,
+      "title": "Higurashi no Naku Koro ni Kai - Utsutsukowashi-hen",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 2777,
-      "title": "Bokurano",
-      "score": 0.697,
-      "r18": false
+      "id": 23402,
+      "title": "Higurashi no Naku Koro ni Rei - Saikoroshi-hen",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 610,
-      "title": "Mahou Shoujo Kazumi\u2605Magica ~The Innocent Malice~",
-      "score": 0.695,
-      "r18": false
+      "id": 707,
+      "title": "Saviour",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
     },
     {
-      "id": 4135,
-      "title": "Mushishi",
-      "score": 0.693,
-      "r18": false
+      "id": 2602,
+      "title": "Higurashi no Naku Koro ni Kai - Matsuribayashi-hen",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa"
+      ]
     },
     {
-      "id": 191,
-      "title": "Kimi no Knife",
-      "score": 0.693,
-      "r18": false
+      "id": 19030,
+      "title": "Mayoiga: Tsumi to Batsu",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.693,
-      "r18": false
+      "id": 5449,
+      "title": "Necro Dancer",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de",
+        "fr"
+      ]
     },
     {
-      "id": 11898,
-      "title": "Rohan at the Louvre",
-      "score": 0.693,
-      "r18": false
+      "id": 31109,
+      "title": "Black Terror",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 1766,
-      "title": "Umineko no Naku Koro ni Chiru Episode 7: Requiem of the Golden Witch",
-      "score": 0.692,
-      "r18": false
+      "id": 32361,
+      "title": "Siren ReBIRTH",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 18016,
-      "title": "Under Execution, Under Jailbreak",
-      "score": 0.692,
-      "r18": false
+      "id": 15270,
+      "title": "Sekisei Inko",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "mx",
+        "fr"
+      ]
     },
     {
-      "id": 2712,
-      "title": "Blame!",
-      "score": 0.692,
-      "r18": false
+      "id": 11851,
+      "title": "Dorobou Night Trick",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
-      "id": 91,
-      "title": "Dantalian no Shoka",
-      "score": 0.691,
-      "r18": false
+      "id": 10429,
+      "title": "Sousouki Reginald",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1429,
+      "title": "Umineko no Naku Koro ni Episode 4: Alliance of the Golden Witch",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "fr",
+        "vn",
+        "gb"
+      ]
+    },
+    {
+      "id": 6609,
+      "title": "Paperweight Eye",
+      "score": 0.246,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1782,
+      "title": "Umineko no Naku Koro ni Episode X",
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

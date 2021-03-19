@@ -1,158 +1,280 @@
 {
   "id": 52183,
   "title": "Tsurenai Kanojo wo Tsuru Houhou",
-  "url": "https://api.mangadex.org/v2/manga/52183",
-  "last_updated": "February 05, 2021 12:20:12 UTC",
+  "url": "https://mangadex.org/manga/52183",
+  "last_updated": "March 18, 2021 13:36:10 UTC",
   "matches": [
-    {
-      "id": 7142,
-      "title": "FamiDol!",
-      "score": 0.65,
-      "r18": false
-    },
-    {
-      "id": 3901,
-      "title": "Miniature",
-      "score": 0.42,
-      "r18": false
-    },
     {
       "id": 978,
       "title": "Boku no Idol",
-      "score": 0.402,
-      "r18": false
-    },
-    {
-      "id": 17070,
-      "title": "Nanai Sanami ga Kiratte Kurenai",
-      "score": 0.4,
-      "r18": false
-    },
-    {
-      "id": 59401,
-      "title": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai",
-      "score": 0.393,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 1573,
       "title": "Princess School",
-      "score": 0.391,
-      "r18": false
-    },
-    {
-      "id": 5675,
-      "title": "Itsudatte My Santa!",
-      "score": 0.373,
-      "r18": false
-    },
-    {
-      "id": 18897,
-      "title": "Gachipin.",
-      "score": 0.37,
-      "r18": false
-    },
-    {
-      "id": 8984,
-      "title": "Are na Kare tono Kurashikata",
-      "score": 0.367,
-      "r18": false
-    },
-    {
-      "id": 55358,
-      "title": "Yumemiru Shounen Shoujo",
-      "score": 0.358,
-      "r18": false
-    },
-    {
-      "id": 54440,
-      "title": "The Cat Who Wanted to be a Bride",
-      "score": 0.35,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 53349,
       "title": "Make Heroine wo Katasetai!!",
-      "score": 0.344,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "tr"
+      ]
+    },
+    {
+      "id": 17070,
+      "title": "Nanai Sanami ga Kiratte Kurenai",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 5675,
+      "title": "Itsudatte My Santa!",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "it"
+      ]
+    },
+    {
+      "id": 8984,
+      "title": "Are na Kare tono Kurashikata",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59401,
+      "title": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "th",
+        "br",
+        "gb",
+        "id",
+        "ru"
+      ]
+    },
+    {
+      "id": 18897,
+      "title": "Gachipin.",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "mx",
+        "pl",
+        "br",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 55358,
+      "title": "Yumemiru Shounen Shoujo",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 7142,
+      "title": "FamiDol!",
+      "score": 0.251,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de"
+      ]
+    },
+    {
+      "id": 3901,
+      "title": "Miniature",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "sa"
+      ]
     },
     {
       "id": 36633,
       "title": "To Love-Ru - Kentaro Yabuki 20th Anniversary",
-      "score": 0.339,
-      "r18": false
-    },
-    {
-      "id": 19496,
-      "title": "Her Love is so heavy, it hurts.",
-      "score": 0.316,
-      "r18": false
-    },
-    {
-      "id": 19104,
-      "title": "Murenase! Shiiton Gakuen",
-      "score": 0.308,
-      "r18": false
-    },
-    {
-      "id": 726,
-      "title": "Futagami Double",
-      "score": 0.302,
-      "r18": false
-    },
-    {
-      "id": 20481,
-      "title": "Haruyo, Koi!",
-      "score": 0.295,
-      "r18": false
-    },
-    {
-      "id": 14203,
-      "title": "Nekonotemo",
-      "score": 0.292,
-      "r18": false
-    },
-    {
-      "id": 40736,
-      "title": "Majime Succubus Hiragi-san",
-      "score": 0.292,
-      "r18": false
-    },
-    {
-      "id": 40766,
-      "title": "Gal Kazoku",
-      "score": 0.273,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "id",
+        "ru"
+      ]
     },
     {
       "id": 10428,
       "title": "Puppet Panic",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 50031,
       "title": "A Story of a Senpai, Who Is Proud of Her Swimsuit Because She Thinks It Looks Cool",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "id",
+        "it"
+      ]
     },
     {
       "id": 57068,
       "title": "A sea bream came from the sea to be my wife!",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "id",
+        "ru"
+      ]
+    },
+    {
+      "id": 19496,
+      "title": "Her Love is so heavy, it hurts.",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20481,
+      "title": "Haruyo, Koi!",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 40736,
+      "title": "Majime Succubus Hiragi-san",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 14203,
+      "title": "Nekonotemo",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 726,
+      "title": "Futagami Double",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 19104,
+      "title": "Murenase! Shiiton Gakuen",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 40766,
+      "title": "Gal Kazoku",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "br",
+        "mx",
+        "it",
+        "ru"
+      ]
+    },
+    {
+      "id": 40455,
+      "title": "Kemunimaku",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50517,
+      "title": "Hired by a Highschool Eromanga Artist",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "fr",
+        "vn",
+        "id"
+      ]
     },
     {
       "id": 16679,
       "title": "Gakuen Dragon Slayer",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 8720,
-      "title": "Sakuran (IWASHIRO Toshiaki)",
-      "score": 0.247,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     }
   ]
 }

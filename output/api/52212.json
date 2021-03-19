@@ -1,158 +1,245 @@
 {
   "id": 52212,
   "title": "Chugui Tonggao",
-  "url": "https://api.mangadex.org/v2/manga/52212",
-  "last_updated": "February 05, 2021 12:20:42 UTC",
+  "url": "https://mangadex.org/manga/52212",
+  "last_updated": "March 18, 2021 13:36:25 UTC",
   "matches": [
     {
-      "id": 24619,
-      "title": "Amai Kimi ga Suki",
-      "score": 0.657,
-      "r18": false
-    },
-    {
-      "id": 50735,
-      "title": "Breaking Through the Clouds",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 58561,
-      "title": "Boku no Naka ni Kimi ga Inai",
-      "score": 0.49,
-      "r18": false
-    },
-    {
-      "id": 6007,
-      "title": "Secrecy",
-      "score": 0.489,
-      "r18": false
-    },
-    {
-      "id": 55372,
-      "title": "Everyday Is a Good Day",
-      "score": 0.479,
-      "r18": false
-    },
-    {
-      "id": 49841,
-      "title": "riht.",
-      "score": 0.475,
-      "r18": false
-    },
-    {
-      "id": 13771,
-      "title": "Colorful Line",
-      "score": 0.466,
-      "r18": false
-    },
-    {
-      "id": 24613,
-      "title": "Ai Daro",
-      "score": 0.451,
-      "r18": false
+      "id": 19408,
+      "title": "Kimimachi Terminal",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 56749,
       "title": "Hatsukoi Omoidashitara Kisu Shiyo?",
-      "score": 0.448,
-      "r18": false
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55372,
+      "title": "Everyday Is a Good Day",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 13771,
+      "title": "Colorful Line",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "pl",
+        "tr",
+        "gb"
+      ]
+    },
+    {
+      "id": 24613,
+      "title": "Ai Daro",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 50841,
       "title": "Okama Waltz",
-      "score": 0.42,
-      "r18": false
-    },
-    {
-      "id": 26151,
-      "title": "Blue Cheese Table",
-      "score": 0.394,
-      "r18": false
-    },
-    {
-      "id": 26802,
-      "title": "Taizi",
-      "score": 0.388,
-      "r18": false
-    },
-    {
-      "id": 31022,
-      "title": "Hibari ga Naitara Tsukamaete",
-      "score": 0.384,
-      "r18": false
-    },
-    {
-      "id": 35522,
-      "title": "Rokugatsu no Hengen-san",
       "score": 0.383,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 26161,
-      "title": "Flowerpot",
-      "score": 0.378,
-      "r18": false
+      "id": 58561,
+      "title": "Boku no Naka ni Kimi ga Inai",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 55981,
-      "title": "Hitomi no Mukougawa",
-      "score": 0.377,
-      "r18": false
+      "id": 6007,
+      "title": "Secrecy",
+      "score": 0.341,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 16619,
-      "title": "Hello Again",
-      "score": 0.375,
-      "r18": false
+      "id": 49841,
+      "title": "riht.",
+      "score": 0.338,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 24270,
-      "title": "Challengers",
-      "score": 0.373,
-      "r18": false
-    },
-    {
-      "id": 7998,
-      "title": "Hanazakari no Niwa",
-      "score": 0.373,
-      "r18": false
-    },
-    {
-      "id": 24094,
-      "title": "Mabataki no Aida",
-      "score": 0.367,
-      "r18": false
-    },
-    {
-      "id": 20689,
-      "title": "Bokura no Shokutaku",
-      "score": 0.366,
-      "r18": false
-    },
-    {
-      "id": 31985,
-      "title": "Nemureru Mori no Binan",
-      "score": 0.36,
-      "r18": false
-    },
-    {
-      "id": 5242,
-      "title": "Higouhou Junai",
-      "score": 0.359,
-      "r18": false
-    },
-    {
-      "id": 12864,
-      "title": "Kaze ni Chiru Hanabira to Kisu",
-      "score": 0.358,
-      "r18": false
+      "id": 50950,
+      "title": "Kimi wa Boku no Uso",
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29663,
       "title": "Unintentional Love Story",
-      "score": 0.357,
-      "r18": false
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 12864,
+      "title": "Kaze ni Chiru Hanabira to Kisu",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 53729,
+      "title": "Ameiro Curriculum",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 20689,
+      "title": "Bokura no Shokutaku",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37590,
+      "title": "Last Target",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 24094,
+      "title": "Mabataki no Aida",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24270,
+      "title": "Challengers",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 55981,
+      "title": "Hitomi no Mukougawa",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24088,
+      "title": "Kage Aru Tokoro ni",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24835,
+      "title": "Bokura no Oukoku - Arabian Night",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 35522,
+      "title": "Rokugatsu no Hengen-san",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 37565,
+      "title": "BLT",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 46245,
+      "title": "Tonight The Night",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "it"
+      ]
+    },
+    {
+      "id": 5242,
+      "title": "Higouhou Junai",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 14930,
+      "title": "Shingeki no Kyojin - Child Of The Stars (Doujinshi)",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

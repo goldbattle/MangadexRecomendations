@@ -1,158 +1,279 @@
 {
   "id": 55313,
   "title": "Yan Tiehua",
-  "url": "https://api.mangadex.org/v2/manga/55313",
-  "last_updated": "March 12, 2021 20:36:15 UTC",
+  "url": "https://mangadex.org/manga/55313",
+  "last_updated": "March 18, 2021 14:02:19 UTC",
   "matches": [
     {
       "id": 2712,
       "title": "Blame!",
-      "score": 0.247,
-      "r18": false
+      "score": 0.203,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "bg",
+        "br",
+        "ua",
+        "hu",
+        "es",
+        "ro",
+        "id"
+      ]
     },
     {
       "id": 58582,
       "title": "Murderer",
-      "score": 0.235,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 503,
       "title": "Coppelion",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "mx",
+        "it",
+        "br"
+      ]
     },
     {
       "id": 867,
       "title": "A Fairytale for the Demon Lord",
-      "score": 0.216,
-      "r18": false
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 1764,
       "title": "Umineko no Naku Koro ni Chiru Episode 5: End of the Golden Witch",
-      "score": 0.216,
-      "r18": false
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "vn",
+        "fr",
+        "gb",
+        "pl",
+        "sa",
+        "br"
+      ]
     },
     {
       "id": 1765,
       "title": "Umineko no Naku Koro ni Chiru Episode 6: Dawn of the Golden Witch",
-      "score": 0.216,
-      "r18": false
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "vn",
+        "br"
+      ]
     },
     {
       "id": 6506,
       "title": "Torikago no Tsugai",
-      "score": 0.216,
-      "r18": false
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "gb",
+        "th",
+        "tr",
+        "br"
+      ]
     },
     {
       "id": 7478,
       "title": "Montage",
-      "score": 0.216,
-      "r18": false
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 12707,
       "title": "Ryuuma no Gagou",
-      "score": 0.216,
-      "r18": false
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 13140,
       "title": "Q",
-      "score": 0.216,
-      "r18": false
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "it"
+      ]
     },
     {
       "id": 14457,
       "title": "Black Out",
-      "score": 0.216,
-      "r18": false
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 14763,
       "title": "Yakushoku Distopiary - Gesellschaft Blume",
-      "score": 0.216,
-      "r18": false
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "br",
+        "it",
+        "gb"
+      ]
     },
     {
       "id": 15992,
       "title": "Tokumu Houkoukan Yumihari",
-      "score": 0.216,
-      "r18": false
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 18150,
       "title": "Dies irae ~Amantes Amentes~",
-      "score": 0.216,
-      "r18": false
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 21488,
       "title": "Isekai Goumon Hime",
-      "score": 0.216,
-      "r18": false
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "ru"
+      ]
     },
     {
       "id": 27292,
       "title": ".flow - Untitled (Doujinshi)",
-      "score": 0.216,
-      "r18": false
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 34351,
       "title": "LESSA - Servant of Cosmos",
-      "score": 0.216,
-      "r18": false
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "de"
+      ]
     },
     {
       "id": 36332,
       "title": "Monkey Peak",
-      "score": 0.216,
-      "r18": false
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "ru"
+      ]
     },
     {
       "id": 36571,
       "title": "The Dreamers of the Louvre",
-      "score": 0.216,
-      "r18": false
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 36698,
       "title": "Nine Lives Man",
-      "score": 0.216,
-      "r18": false
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 39510,
       "title": "Isekai Meikyuu no Saishinbu o Mezasou",
-      "score": 0.216,
-      "r18": false
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "ru",
+        "br",
+        "es",
+        "id",
+        "fr"
+      ]
     },
     {
       "id": 43005,
       "title": "One Day in the Life of Ivan Dejavu",
-      "score": 0.216,
-      "r18": false
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 45083,
+      "title": "Nightmare Busters",
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "hk"
+      ]
     },
     {
       "id": 50085,
       "title": "Legend of the Galactic Heroes",
-      "score": 0.216,
-      "r18": false
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 50714,
       "title": "Legend of the Galactic Heroes - Golden Wings",
-      "score": 0.216,
-      "r18": false
-    },
-    {
-      "id": 7691,
-      "title": "Skull Man",
-      "score": 0.209,
-      "r18": false
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
     }
   ]
 }

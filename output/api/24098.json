@@ -2,73 +2,82 @@
   "id": 24098,
   "title": "Devilman vs Getter Robo",
   "url": "https://mangadex.org/manga/24098",
-  "last_updated": "March 16, 2021 12:37:02 UTC",
+  "last_updated": "March 18, 2021 09:32:45 UTC",
   "matches": [
-    {
-      "id": 43741,
-      "title": "Fullmetal Daemon Muramasa: Netherworld",
-      "score": 0.29,
-      "r18": false
-    },
     {
       "id": 128,
       "title": "Solty Rei -Aka no Shukujo-",
-      "score": 0.269,
-      "r18": false
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7763,
       "title": "JINKI",
       "score": 0.26,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 14830,
       "title": "Toaru Majutsu no Heavy Zashiki Warashi ga Kantan na Satsujinhi no Konkatsu Jijou",
       "score": 0.231,
-      "r18": false
-    },
-    {
-      "id": 9388,
-      "title": "Kakumeiki Valvrave",
-      "score": 0.162,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 6731,
       "title": "Rean no Tsubasa",
       "score": 0.161,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4555,
       "title": "Date A Live",
-      "score": 0.16,
-      "r18": false
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 48701,
       "title": "The Ridge at the End",
       "score": 0.146,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 33438,
       "title": "Kidou Senshi Gundam NT (Narrative)",
       "score": 0.129,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 54240,
       "title": "FusionFall: Worlds Collide",
-      "score": 0.121,
-      "r18": false
-    },
-    {
-      "id": 417,
-      "title": "Shin Seiki Evangelion",
-      "score": 0.112,
-      "r18": false
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

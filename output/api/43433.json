@@ -1,158 +1,324 @@
 {
   "id": 43433,
   "title": "Love-X",
-  "url": "https://api.mangadex.org/v2/manga/43433",
-  "last_updated": "February 11, 2021 16:24:48 UTC",
+  "url": "https://mangadex.org/manga/43433",
+  "last_updated": "March 18, 2021 12:22:58 UTC",
   "matches": [
-    {
-      "id": 14377,
-      "title": "ReLIFE",
-      "score": 0.264,
-      "r18": false
-    },
-    {
-      "id": 8232,
-      "title": "Abnormal-kei Joshi",
-      "score": 0.24,
-      "r18": false
-    },
-    {
-      "id": 54242,
-      "title": "Tensai Kusoyarou no Jikenbo",
-      "score": 0.238,
-      "r18": false
-    },
-    {
-      "id": 341,
-      "title": "Boku wa Tomodachi ga Sukunai",
-      "score": 0.229,
-      "r18": false
-    },
-    {
-      "id": 962,
-      "title": "Genshiken Nidaime - The Society for the Study of Modern Visual Culture II",
-      "score": 0.229,
-      "r18": false
-    },
-    {
-      "id": 1649,
-      "title": "Fortune Arterial - Character's Prelude",
-      "score": 0.229,
-      "r18": false
-    },
-    {
-      "id": 1697,
-      "title": "Kyoumen no Silhouette",
-      "score": 0.229,
-      "r18": false
-    },
-    {
-      "id": 3884,
-      "title": "Namiiro",
-      "score": 0.229,
-      "r18": false
-    },
-    {
-      "id": 11067,
-      "title": "Omaera Zenin Mendokusai!",
-      "score": 0.229,
-      "r18": false
-    },
-    {
-      "id": 46662,
-      "title": "I Am Gao Fu Shuai",
-      "score": 0.229,
-      "r18": false
-    },
-    {
-      "id": 20173,
-      "title": "Freezing Colour Edition",
-      "score": 0.228,
-      "r18": false
-    },
-    {
-      "id": 1023,
-      "title": "Inari, Konkon, Koi Iroha.",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 1779,
-      "title": "Mushi to Medama to Teddy Bear",
-      "score": 0.227,
-      "r18": false
-    },
     {
       "id": 3308,
       "title": "Can't See Can't Hear But Love",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
-      "id": 8152,
-      "title": "Over Steam",
-      "score": 0.227,
-      "r18": false
+      "id": 21678,
+      "title": "Assassin's Pride",
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "mx",
+        "it",
+        "fr",
+        "id",
+        "es"
+      ]
     },
     {
-      "id": 9473,
-      "title": "Nagi no Asukara",
-      "score": 0.227,
-      "r18": false
+      "id": 20540,
+      "title": "God of Martial Arts",
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "id",
+        "ru",
+        "mx",
+        "it",
+        "pl",
+        "sa",
+        "th"
+      ]
     },
     {
-      "id": 9501,
-      "title": "The Vampire and the Bachelor Next Door",
-      "score": 0.227,
-      "r18": false
+      "id": 23941,
+      "title": "Berserk of Gluttony",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "br",
+        "sa",
+        "ru",
+        "de",
+        "hu",
+        "pl",
+        "ro"
+      ]
     },
     {
-      "id": 13396,
-      "title": "By Chance, We... and...",
-      "score": 0.227,
-      "r18": false
+      "id": 35299,
+      "title": "Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyou Shu Nekomimi Shojo to Deau",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
-      "id": 28268,
-      "title": "Nanatsuiro Drops",
-      "score": 0.227,
-      "r18": false
+      "id": 36651,
+      "title": "Nageki no Bourei wa Intai Shitai - Saijiyaku Hanta ni Yoru Saikiyou Patei Ikusei Jutsu",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "hk",
+        "ru",
+        "br"
+      ]
     },
     {
-      "id": 30397,
-      "title": "Faust In Love",
-      "score": 0.227,
-      "r18": false
+      "id": 42686,
+      "title": "Yuusha Shoukan ni Makikomareta kedo, Isekai wa Heiwa deshita",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru"
+      ]
     },
     {
-      "id": 30543,
-      "title": "My Student Can't Be a Psychopath",
-      "score": 0.227,
-      "r18": false
+      "id": 55907,
+      "title": "Martial God Asura",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "fr",
+        "id"
+      ]
     },
     {
-      "id": 34367,
-      "title": "A Tale of Royal Disturbance: Now He's Gone from Echo Valley",
-      "score": 0.227,
-      "r18": false
+      "id": 22733,
+      "title": "Free Life: Isekai Nandemoya Funtouki",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "mx",
+        "fr",
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 40312,
-      "title": "Mother, I'm Sorry",
-      "score": 0.227,
-      "r18": false
+      "id": 35448,
+      "title": "Strongest Abandoned Son",
+      "score": 0.156,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "fr",
+        "tr",
+        "sa"
+      ]
     },
     {
-      "id": 40478,
-      "title": "This Witch of Mine",
-      "score": 0.227,
-      "r18": false
+      "id": 46,
+      "title": "Witch Craft Works",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "vn",
+        "de"
+      ]
     },
     {
-      "id": 3305,
-      "title": "Dragon's Son Changsik",
-      "score": 0.204,
-      "r18": false
+      "id": 100,
+      "title": "Onani Master Kurosawa",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "ua"
+      ]
+    },
+    {
+      "id": 875,
+      "title": "Bokura wa Minna Kawai-sou",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it",
+        "ru",
+        "id",
+        "pl",
+        "fr"
+      ]
+    },
+    {
+      "id": 955,
+      "title": "Hanamaru Kindergarten",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 7287,
+      "title": "Yahari Ore no Seishun Love Come wa Machigatteiru -Monologue-",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru",
+        "br",
+        "tr",
+        "id"
+      ]
+    },
+    {
+      "id": 10117,
+      "title": "Tsukiyo no Toratsugumi",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg",
+        "fr",
+        "mx"
+      ]
+    },
+    {
+      "id": 13974,
+      "title": "Yahari Ore no Seishun Love Come wa Machigatteiru @comic",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
+    },
+    {
+      "id": 14316,
+      "title": "Monku no Tsukeyou ga nai Rabukome",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 15472,
+      "title": "Kimi to Boku wo Tsunagumono",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 15991,
+      "title": "Koi wa Ameagari no You ni",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "th"
+      ]
+    },
+    {
+      "id": 16193,
+      "title": "Charlotte",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "tr"
+      ]
+    },
+    {
+      "id": 17274,
+      "title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "id",
+        "it",
+        "mx",
+        " ",
+        "kr",
+        "ph",
+        "in",
+        "ru",
+        "pl",
+        "sa",
+        "tr"
+      ]
+    },
+    {
+      "id": 21065,
+      "title": "Fulldrum",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 21767,
+      "title": "A Bouquet for an Ugly Girl",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 23181,
+      "title": "Cigarette and Cherry",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "id"
+      ]
     }
   ]
 }

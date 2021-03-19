@@ -1,50 +1,77 @@
 {
   "id": 33956,
   "title": "Girlfriends for 3 Seconds",
-  "url": "https://api.mangadex.org/v2/manga/33956",
-  "last_updated": "February 10, 2021 12:46:34 UTC",
+  "url": "https://mangadex.org/manga/33956",
+  "last_updated": "March 18, 2021 11:03:54 UTC",
   "matches": [
     {
       "id": 35184,
       "title": "Wolf x Rabbit",
-      "score": 0.25,
-      "r18": false
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 39254,
       "title": "Wol-hwa x Mok-gum",
-      "score": 0.233,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29967,
       "title": "Hantai no Koi",
-      "score": 0.2,
-      "r18": false
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "mx"
+      ]
     },
     {
       "id": 31128,
       "title": "Salieri &amp; Mozart",
-      "score": 0.2,
-      "r18": false
-    },
-    {
-      "id": 41094,
-      "title": "Living Will",
-      "score": 0.195,
-      "r18": false
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 44697,
       "title": "Chun and Alice",
-      "score": 0.191,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 31102,
+      "title": "The One I Yearn For",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 40443,
       "title": "The Professor Who Reads Love Stories",
-      "score": 0.175,
-      "r18": false
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

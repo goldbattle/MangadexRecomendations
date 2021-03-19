@@ -2,43 +2,67 @@
   "id": 5447,
   "title": "Sora-Roma",
   "url": "https://mangadex.org/manga/5447",
-  "last_updated": "March 14, 2021 12:36:30 UTC",
+  "last_updated": "March 18, 2021 06:31:36 UTC",
   "matches": [
     {
       "id": 42674,
       "title": "Destined to Be Eaten Within a Year By the Predacious Heroine",
       "score": 0.271,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
     },
     {
       "id": 21849,
       "title": "My Alien Days",
-      "score": 0.225,
-      "r18": false
+      "score": 0.224,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11087,
       "title": "RaButa",
       "score": 0.221,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 58253,
       "title": "Money, Maidens, Love, and Innocence",
-      "score": 0.207,
-      "r18": false
+      "score": 0.206,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 55056,
       "title": "Yamada-san wa gyaru ni nari kirenai",
       "score": 0.155,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 31970,
       "title": "Sekai no Owari ni Shiba Inu to",
       "score": 0.103,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id"
+      ]
     }
   ]
 }

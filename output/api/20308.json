@@ -2,157 +2,296 @@
   "id": 20308,
   "title": "Hooky",
   "url": "https://mangadex.org/manga/20308",
-  "last_updated": "March 16, 2021 04:09:12 UTC",
+  "last_updated": "March 18, 2021 08:55:51 UTC",
   "matches": [
-    {
-      "id": 20611,
-      "title": "Stanle",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 28998,
-      "title": "Birth of Evil",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 33535,
-      "title": "Pick Up A Goldfish As Girlfriend",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 16253,
-      "title": "The Song of the Beast",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 35424,
-      "title": "Welcome to Luna Shop",
-      "score": 0.249,
-      "r18": false
-    },
-    {
-      "id": 12245,
-      "title": "Save the World in 80 Days",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 13124,
-      "title": "+a no tachiichi",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 10248,
-      "title": "Fable",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 49718,
-      "title": "The Descent of the Spiritual Deity",
-      "score": 0.233,
-      "r18": false
-    },
     {
       "id": 18534,
       "title": "Wizardly Tower",
       "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 26818,
-      "title": "Limbless Schira",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 27335,
-      "title": "Bad Moon",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 9729,
-      "title": "Shuuten Unknown",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 59522,
-      "title": "My Majesty Wants to Ruin The Country",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 1719,
-      "title": "Mr. Morning",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 1047,
-      "title": "Chaser",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 31322,
-      "title": "A Gust of Wind Blows at Daybreak",
-      "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "mx",
+        "br"
+      ]
     },
     {
       "id": 29841,
       "title": "Immortal Merchant",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 10610,
       "title": "Dragon Recipe",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "mx",
+        "br"
+      ]
     },
     {
-      "id": 4021,
-      "title": "Son Yeon Jeon [Limit]",
-      "score": 0.233,
-      "r18": false
+      "id": 31709,
+      "title": "Rise of the Demon King",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "fr",
+        "ru"
+      ]
     },
     {
-      "id": 22008,
-      "title": "Evil Queen's Holiday",
-      "score": 0.233,
-      "r18": false
+      "id": 53572,
+      "title": "Call Me Master",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id"
+      ]
     },
     {
-      "id": 27464,
-      "title": "Kidultic Showtime",
-      "score": 0.224,
-      "r18": false
+      "id": 33580,
+      "title": "The Koi Returns",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
-      "id": 30501,
-      "title": "Looking for Group",
-      "score": 0.224,
-      "r18": false
+      "id": 22809,
+      "title": "Soukyuu no Ariadne",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "es"
+      ]
     },
     {
-      "id": 42603,
-      "title": "El Karim Will Grant Your Wish!",
-      "score": 0.224,
-      "r18": false
+      "id": 32077,
+      "title": "Nine Sun God King",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id",
+        "br",
+        "fr"
+      ]
     },
     {
-      "id": 18110,
-      "title": "The Kingdom of Caliburn",
-      "score": 0.2,
-      "r18": false
+      "id": 58419,
+      "title": "Secret Of The Netherworld",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
+    },
+    {
+      "id": 17855,
+      "title": "Legend of Phoenix",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr",
+        "tr"
+      ]
+    },
+    {
+      "id": 55520,
+      "title": "I Was Forced to Fix a Bug in the Other World",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
+    },
+    {
+      "id": 3593,
+      "title": "07-Ghost",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "pl",
+        "tr",
+        "bg"
+      ]
+    },
+    {
+      "id": 29885,
+      "title": "Her Summon",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "tr",
+        "ru",
+        "it",
+        "br"
+      ]
+    },
+    {
+      "id": 1596,
+      "title": "Esprit",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 32540,
+      "title": "I'm a Fake NPC",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "tr",
+        "es",
+        "mx"
+      ]
+    },
+    {
+      "id": 13425,
+      "title": "M&auml;rchen - The Embodiment of Tales",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "fr",
+        "mx",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 48140,
+      "title": "Reader",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "ru",
+        "mx"
+      ]
+    },
+    {
+      "id": 8478,
+      "title": "xxxHOLiC Rei",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 40745,
+      "title": "Flowers in the Secret Place",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 208,
+      "title": "Magician",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "ru",
+        "fr",
+        "gb",
+        "pl",
+        "br",
+        "de"
+      ]
+    },
+    {
+      "id": 3079,
+      "title": "Doubutsu no Kuni",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 107,
+      "title": "Toriko",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "es",
+        "mx",
+        "pl"
+      ]
+    },
+    {
+      "id": 31013,
+      "title": "Eleceed",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "tr",
+        "fr",
+        "pl"
+      ]
+    },
+    {
+      "id": 45192,
+      "title": "Banished Disciple's Counterattack",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
+    },
+    {
+      "id": 35082,
+      "title": "War-Ble",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "ru",
+        "tr",
+        "it"
+      ]
     }
   ]
 }

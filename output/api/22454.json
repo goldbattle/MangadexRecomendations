@@ -2,61 +2,96 @@
   "id": 22454,
   "title": "Egomix",
   "url": "https://mangadex.org/manga/22454",
-  "last_updated": "March 16, 2021 08:30:41 UTC",
+  "last_updated": "March 18, 2021 09:13:48 UTC",
   "matches": [
     {
       "id": 8007,
       "title": "Itsuka Ame ga Furu You ni",
       "score": 0.184,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 10314,
       "title": "Samenai Yume",
       "score": 0.184,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 24920,
       "title": "BxP Anx",
       "score": 0.184,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 55262,
       "title": "Nishimachi Shinryoujo no Himitsu - The Secret of Fuyuki",
       "score": 0.184,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 31550,
       "title": "Copernicus no Kokyuu",
       "score": 0.153,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "pl"
+      ]
     },
     {
       "id": 36173,
       "title": "My Devil Prison Guard",
       "score": 0.153,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8716,
       "title": "Nennen Saisai",
       "score": 0.115,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "tr"
+      ]
     },
     {
       "id": 50628,
       "title": "Kare to Obake to Ren'ai Shousetsuka",
       "score": 0.102,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "vn",
+        "gb"
+      ]
     },
     {
       "id": 57844,
       "title": "Kaibutsu Ouji",
       "score": 0.102,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

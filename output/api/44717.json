@@ -1,20 +1,32 @@
 {
   "id": 44717,
   "title": "Harem Kakumei",
-  "url": "https://api.mangadex.org/v2/manga/44717",
-  "last_updated": "February 11, 2021 16:45:40 UTC",
+  "url": "https://mangadex.org/manga/44717",
+  "last_updated": "March 18, 2021 12:33:43 UTC",
   "matches": [
-    {
-      "id": 13233,
-      "title": "Hare-Kon",
-      "score": 0.691,
-      "r18": false
-    },
     {
       "id": 1396,
       "title": "Nemureru Hoshi",
-      "score": 0.382,
-      "r18": false
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 13233,
+      "title": "Hare-Kon",
+      "score": 0.261,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "pl",
+        "it",
+        "sa"
+      ]
     }
   ]
 }

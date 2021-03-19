@@ -1,158 +1,245 @@
 {
   "id": 52336,
   "title": "Dragon Ball - Awfully (Doujinshi)",
-  "url": "https://api.mangadex.org/v2/manga/52336",
-  "last_updated": "February 05, 2021 12:22:47 UTC",
+  "url": "https://mangadex.org/manga/52336",
+  "last_updated": "March 18, 2021 13:37:27 UTC",
   "matches": [
-    {
-      "id": 19792,
-      "title": "Fate/stay night - Der Held einer Kamelie (Doujinshi)",
-      "score": 0.724,
-      "r18": false
-    },
     {
       "id": 41892,
       "title": "Toaru Majutsu no Index - Heart no Yukue (Doujinshi)",
-      "score": 0.689,
-      "r18": false
+      "score": 0.325,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 44241,
       "title": "Fullmetal Alchemist - Which One of You is The Dense One? (Doujinshi)",
-      "score": 0.48,
-      "r18": false
+      "score": 0.316,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 28759,
-      "title": "Aikatsu! - Kanojo to Pancake o Taberu 100 no Houhou (Doujinshi)",
-      "score": 0.425,
-      "r18": false
-    },
-    {
-      "id": 32883,
-      "title": "Fate/hollow ataraxia - Mitsuzurision (Doujinshi)",
-      "score": 0.392,
-      "r18": false
-    },
-    {
-      "id": 46573,
-      "title": "The Sir Knight Experience",
-      "score": 0.389,
-      "r18": false
-    },
-    {
-      "id": 44710,
-      "title": "Fullmetal Alchemist - The Reason to Return (Doujinshi)",
-      "score": 0.385,
-      "r18": false
-    },
-    {
-      "id": 49502,
-      "title": "Neon Genesis Evangelion - A lovey-dovey fanfic about Evangelion's Asuka and a slightly grown-up Shinji-kun (Doujinshi)",
-      "score": 0.384,
-      "r18": false
-    },
-    {
-      "id": 29387,
-      "title": "Fullmetal Alchemist - You see, actually I'm... (Doujinshi)",
-      "score": 0.361,
-      "r18": false
-    },
-    {
-      "id": 32155,
-      "title": "I'm Sorry for Lying About my Gender!",
-      "score": 0.353,
-      "r18": false
+      "id": 19792,
+      "title": "Fate/stay night - Der Held einer Kamelie (Doujinshi)",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4304,
       "title": "Clannad - The World Is Mine (Doujinshi)",
-      "score": 0.345,
-      "r18": false
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 49483,
-      "title": "Neon Genesis Evangelion - Savage Dog Asuka and Grown-up Shin-chan (Doujinshi)",
-      "score": 0.306,
-      "r18": false
+      "id": 28759,
+      "title": "Aikatsu! - Kanojo to Pancake o Taberu 100 no Houhou (Doujinshi)",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 57261,
-      "title": "Not/Love dj - Dog Days",
-      "score": 0.298,
-      "r18": false
+      "id": 46573,
+      "title": "The Sir Knight Experience",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 44710,
+      "title": "Fullmetal Alchemist - The Reason to Return (Doujinshi)",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
+    },
+    {
+      "id": 49502,
+      "title": "Neon Genesis Evangelion - A lovey-dovey fanfic about Evangelion's Asuka and a slightly grown-up Shinji-kun (Doujinshi)",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 32883,
+      "title": "Fate/hollow ataraxia - Mitsuzurision (Doujinshi)",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 32155,
+      "title": "I'm Sorry for Lying About my Gender!",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29387,
+      "title": "Fullmetal Alchemist - You see, actually I'm... (Doujinshi)",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11552,
       "title": "Touhou - Sweet Catastrophe (Doujinshi)",
-      "score": 0.276,
-      "r18": false
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11814,
       "title": "Kuroko no Basuke - Onsen ni Iko (Doujinshi)",
-      "score": 0.276,
-      "r18": false
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 12644,
       "title": "Haikyuu!! - Nibun no Ichi (Doujinshi)",
-      "score": 0.276,
-      "r18": false
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx",
+        "hu"
+      ]
     },
     {
       "id": 18102,
       "title": "TokoTokoNatsu",
-      "score": 0.276,
-      "r18": false
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 32881,
       "title": "Fate/hollow ataraxia - Mitsuzuri Ayako wa Kangaeta (doujinshi)",
-      "score": 0.276,
-      "r18": false
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 39336,
       "title": "Shingeki no Kyojin - Unforgettable People (Doujinshi)",
-      "score": 0.276,
-      "r18": false
-    },
-    {
-      "id": 47380,
-      "title": "Hirozero",
-      "score": 0.276,
-      "r18": false
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 59612,
       "title": "Persona 4 - 100% Lovers",
-      "score": 0.276,
-      "r18": false
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 41842,
-      "title": "Kimetsu No Yaiba - X years later - Tanjiro proposes (Doujinshi)",
-      "score": 0.265,
-      "r18": false
+      "id": 49483,
+      "title": "Neon Genesis Evangelion - Savage Dog Asuka and Grown-up Shin-chan (Doujinshi)",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 11901,
       "title": "Don't Mind \u2605 Count Fruit Punch Sensei!!",
-      "score": 0.264,
-      "r18": false
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 41842,
+      "title": "Kimetsu No Yaiba - X years later - Tanjiro proposes (Doujinshi)",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 11150,
       "title": "Usagi Drop - The Kiss Following the End of Chapter 56 (Doujinshi)",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 23856,
       "title": "Kimi no Na wa. - Okashii Onee-chan (Doujinshi)",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 35083,
+      "title": "Jareai",
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "tr"
+      ]
+    },
+    {
+      "id": 39787,
+      "title": "Watashi no Ki ni Kuwanai Kouhai",
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     }
   ]
 }

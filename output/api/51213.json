@@ -1,158 +1,248 @@
 {
   "id": 51213,
   "title": "Boku to Roboko",
-  "url": "https://api.mangadex.org/v2/manga/51213",
-  "last_updated": "February 05, 2021 12:04:13 UTC",
+  "url": "https://mangadex.org/manga/51213",
+  "last_updated": "March 18, 2021 13:28:03 UTC",
   "matches": [
     {
-      "id": 25435,
-      "title": "Madara",
-      "score": 0.663,
-      "r18": false
+      "id": 1158,
+      "title": "Dr. Haido's Experiment Note",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 1911,
-      "title": "Infinity Game",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 24408,
-      "title": "Rockman EXE",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 53977,
-      "title": "Dragon Raja 2",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 53969,
-      "title": "Dragon Raja",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 24374,
-      "title": ".hack//Link - Tasogare no Kishidan",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 10974,
-      "title": "Full Metal Panic! Another",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 26060,
-      "title": "Moromono no Jijou",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 5674,
-      "title": "Ichigeki Sacchu!! Hoihoi-san",
-      "score": 0.65,
-      "r18": false
-    },
-    {
-      "id": 37588,
-      "title": "Space Family Carlvinson",
-      "score": 0.381,
-      "r18": false
-    },
-    {
-      "id": 27594,
-      "title": "Dominion",
-      "score": 0.374,
-      "r18": false
-    },
-    {
-      "id": 28001,
-      "title": "Dorabase - Doraemon Chouyakyuu Gaiden",
-      "score": 0.371,
-      "r18": false
+      "id": 59912,
+      "title": "Tesla Note",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 43649,
       "title": "Agravity Boys",
-      "score": 0.36,
-      "r18": false
-    },
-    {
-      "id": 992,
-      "title": "Narue no Sekai",
-      "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 1158,
-      "title": "Dr. Haido's Experiment Note",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 25593,
-      "title": "Eat-Man - The Main Dish",
-      "score": 0.346,
-      "r18": false
-    },
-    {
-      "id": 5698,
-      "title": "Haco",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 325,
-      "title": "Galaxy Angel",
-      "score": 0.339,
-      "r18": false
-    },
-    {
-      "id": 55473,
-      "title": "My Girlfriend Is A Bit Weird, but She Is Very Cute",
-      "score": 0.333,
-      "r18": false
-    },
-    {
-      "id": 24306,
-      "title": "Battle Story Rockman.EXE",
-      "score": 0.331,
-      "r18": false
-    },
-    {
-      "id": 43035,
-      "title": "SSSS.GRIDMAN: Neon Genesis Junior High School Students Diary",
-      "score": 0.33,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hk",
+        "br",
+        "ru"
+      ]
     },
     {
       "id": 28534,
       "title": "Secretary to the Managing President, General Time Industries, Seiji Tanaka",
-      "score": 0.33,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 26060,
+      "title": "Moromono no Jijou",
+      "score": 0.256,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5674,
+      "title": "Ichigeki Sacchu!! Hoihoi-san",
+      "score": 0.251,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55473,
+      "title": "My Girlfriend Is A Bit Weird, but She Is Very Cute",
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 992,
+      "title": "Narue no Sekai",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21815,
+      "title": "Poppy no Negai",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "ru",
+        "it",
+        "fr",
+        "ir",
+        "br"
+      ]
     },
     {
       "id": 1274,
       "title": "Sakuratetsu Taiwahen",
-      "score": 0.327,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 325,
+      "title": "Galaxy Angel",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 43035,
+      "title": "SSSS.GRIDMAN: Neon Genesis Junior High School Students Diary",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it"
+      ]
+    },
+    {
+      "id": 55871,
+      "title": "Ryuusei no Rockman",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 54241,
       "title": "Maison de Pilote",
-      "score": 0.324,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 189,
-      "title": "Lost Universe",
-      "score": 0.311,
-      "r18": false
+      "id": 24386,
+      "title": "Sachie-chan Guu!!",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 47821,
+      "title": "Amasawa-kun and Kamuna-chan",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 1095,
+      "title": "Murahagane",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 32260,
+      "title": "Blood Null",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5698,
+      "title": "Haco",
+      "score": 0.206,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 25593,
+      "title": "Eat-Man - The Main Dish",
+      "score": 0.198,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24306,
+      "title": "Battle Story Rockman.EXE",
+      "score": 0.195,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24408,
+      "title": "Rockman EXE",
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10596,
+      "title": "elDLIVE",
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 28001,
+      "title": "Dorabase - Doraemon Chouyakyuu Gaiden",
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29250,
+      "title": "Boundary Apocalypse - Starfall",
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     }
   ]
 }

@@ -1,158 +1,296 @@
 {
   "id": 51690,
   "title": "Fairy Gone",
-  "url": "https://api.mangadex.org/v2/manga/51690",
-  "last_updated": "February 05, 2021 12:12:06 UTC",
+  "url": "https://mangadex.org/manga/51690",
+  "last_updated": "March 18, 2021 13:32:03 UTC",
   "matches": [
-    {
-      "id": 3779,
-      "title": "Hokuto no Ken",
-      "score": 0.753,
-      "r18": false
-    },
-    {
-      "id": 36124,
-      "title": "Shin Kamen Rider - Prologue",
-      "score": 0.75,
-      "r18": false
-    },
-    {
-      "id": 44902,
-      "title": "The Undead Lord of the Palace of Darkness",
-      "score": 0.738,
-      "r18": false
-    },
-    {
-      "id": 29138,
-      "title": "Peach Boy Riverside",
-      "score": 0.734,
-      "r18": false
-    },
-    {
-      "id": 13381,
-      "title": "Dolly Kill Kill",
-      "score": 0.73,
-      "r18": false
-    },
-    {
-      "id": 4842,
-      "title": "Getter Robo",
-      "score": 0.73,
-      "r18": false
-    },
-    {
-      "id": 5024,
-      "title": "Getter Robo Go",
-      "score": 0.728,
-      "r18": false
-    },
-    {
-      "id": 55371,
-      "title": "Jojo's Bizarre Adventure: City Living (Doujinshi)",
-      "score": 0.724,
-      "r18": false
-    },
-    {
-      "id": 56738,
-      "title": "Shintouki: Teogonia",
-      "score": 0.724,
-      "r18": false
-    },
-    {
-      "id": 429,
-      "title": "Shingeki no Kyojin",
-      "score": 0.724,
-      "r18": false
-    },
-    {
-      "id": 19531,
-      "title": "Yakusoku no Neverland",
-      "score": 0.723,
-      "r18": false
-    },
     {
       "id": 1404,
       "title": "Guin Saga",
-      "score": 0.719,
-      "r18": false
-    },
-    {
-      "id": 56197,
-      "title": "Baki Gaiden - Retsu Kaioh Isekai Tensei Shitemo Ikk\u014d Kamawan!",
-      "score": 0.716,
-      "r18": false
-    },
-    {
-      "id": 1761,
-      "title": "Karakuri Circus",
-      "score": 0.716,
-      "r18": false
-    },
-    {
-      "id": 1271,
-      "title": "Toujuushi Bestialious",
-      "score": 0.716,
-      "r18": false
-    },
-    {
-      "id": 40362,
-      "title": "Borderline Bestial Corpse",
-      "score": 0.712,
-      "r18": false
-    },
-    {
-      "id": 23991,
-      "title": "Shibuya Kingyo",
-      "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 36139,
-      "title": "A Story About Treating a Female Knight, Who Has Never Been Treated as a Woman, as a Woman (Sirius contest entry)",
-      "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 23215,
-      "title": "Jigokuraku",
-      "score": 0.707,
-      "r18": false
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 7953,
       "title": "Baoh Raihousha",
-      "score": 0.706,
-      "r18": false
+      "score": 0.247,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "fr"
+      ]
     },
     {
-      "id": 9632,
-      "title": "UFO Robo Grendizer",
-      "score": 0.705,
-      "r18": false
+      "id": 50727,
+      "title": "The Reincarnated Inferior Magic Swordsman",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru",
+        "br",
+        "fr",
+        "it",
+        "pl"
+      ]
     },
     {
-      "id": 4928,
-      "title": "Getter Robo G",
-      "score": 0.703,
-      "r18": false
-    },
-    {
-      "id": 31069,
-      "title": "Satsujinki to Fushi no Majutsu-shi",
-      "score": 0.702,
-      "r18": false
+      "id": 37002,
+      "title": "Efu no Shichinin",
+      "score": 0.228,
+      "r18": false,
+      "languages": [
+        "hk"
+      ]
     },
     {
       "id": 22751,
       "title": "Jinmen",
-      "score": 0.701,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "it",
+        "br",
+        "id"
+      ]
     },
     {
-      "id": 48788,
-      "title": "Eat Chicken and Save the World",
-      "score": 0.701,
-      "r18": false
+      "id": 29138,
+      "title": "Peach Boy Riverside",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "fr"
+      ]
+    },
+    {
+      "id": 27202,
+      "title": "The Ride-On King",
+      "score": 0.219,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "pl",
+        "ru",
+        "id",
+        "it"
+      ]
+    },
+    {
+      "id": 23551,
+      "title": "Nidome no Yuusha",
+      "score": 0.219,
+      "r18": false,
+      "languages": [
+        "fr",
+        "it",
+        "gb",
+        "id",
+        "mx",
+        "ru",
+        "hu"
+      ]
+    },
+    {
+      "id": 56738,
+      "title": "Shintouki: Teogonia",
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7163,
+      "title": "Henshin Ninja Arashi",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 31069,
+      "title": "Satsujinki to Fushi no Majutsu-shi",
+      "score": 0.201,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 3779,
+      "title": "Hokuto no Ken",
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "fr",
+        "br",
+        "pl"
+      ]
+    },
+    {
+      "id": 40712,
+      "title": "Yajin Tensei: Karate Survivor in Another World",
+      "score": 0.195,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5024,
+      "title": "Getter Robo Go",
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 56197,
+      "title": "Baki Gaiden - Retsu Kaioh Isekai Tensei Shitemo Ikk\u014d Kamawan!",
+      "score": 0.185,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 13381,
+      "title": "Dolly Kill Kill",
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "ru",
+        "pl"
+      ]
+    },
+    {
+      "id": 23991,
+      "title": "Shibuya Kingyo",
+      "score": 0.179,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4842,
+      "title": "Getter Robo",
+      "score": 0.179,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 9632,
+      "title": "UFO Robo Grendizer",
+      "score": 0.179,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 23215,
+      "title": "Jigokuraku",
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "hk",
+        "br",
+        "gb",
+        "vn",
+        "ru",
+        "mx",
+        "th",
+        "tr",
+        "it",
+        "de"
+      ]
+    },
+    {
+      "id": 4624,
+      "title": "Getter Robo Arc",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 44902,
+      "title": "The Undead Lord of the Palace of Darkness",
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "pl",
+        "fr",
+        "mx"
+      ]
+    },
+    {
+      "id": 4928,
+      "title": "Getter Robo G",
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 939,
+      "title": "Hunter x Hunter",
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "it",
+        "br",
+        "ru",
+        "es",
+        "gb",
+        "pl",
+        "sa"
+      ]
+    },
+    {
+      "id": 49754,
+      "title": "Tougen Anki",
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "sa",
+        "gb",
+        "br",
+        "tr",
+        "pl",
+        "fr",
+        "ru",
+        "my"
+      ]
     }
   ]
 }

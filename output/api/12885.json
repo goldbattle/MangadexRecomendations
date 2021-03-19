@@ -2,37 +2,31 @@
   "id": 12885,
   "title": "Taiyou ga Miteiru (Kamoshirenai Kara)",
   "url": "https://mangadex.org/manga/12885",
-  "last_updated": "March 15, 2021 08:27:58 UTC",
+  "last_updated": "March 18, 2021 07:35:42 UTC",
   "matches": [
-    {
-      "id": 1963,
-      "title": "Hana wa Knife wo Mi ni Matou",
-      "score": 0.269,
-      "r18": false
-    },
-    {
-      "id": 36434,
-      "title": "Karubania Monogatari",
-      "score": 0.242,
-      "r18": false
-    },
-    {
-      "id": 17036,
-      "title": "Ibara no Koi",
-      "score": 0.233,
-      "r18": false
-    },
     {
       "id": 6435,
       "title": "Soredemo Sekai wa Utsukushii",
-      "score": 0.188,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru",
+        "pl"
+      ]
     },
     {
       "id": 7921,
       "title": "Kaze to Ki no Uta",
       "score": 0.174,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx",
+        "es"
+      ]
     }
   ]
 }

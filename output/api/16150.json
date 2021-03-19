@@ -2,157 +2,296 @@
   "id": 16150,
   "title": "Ai no Jidai - Ichigo Ichie",
   "url": "https://mangadex.org/manga/16150",
-  "last_updated": "March 15, 2021 16:36:42 UTC",
+  "last_updated": "March 18, 2021 08:05:04 UTC",
   "matches": [
-    {
-      "id": 1674,
-      "title": "Deep Love - Pao no Monogatari",
-      "score": 0.22,
-      "r18": false
-    },
-    {
-      "id": 2697,
-      "title": "Hitori-tachi",
-      "score": 0.22,
-      "r18": false
-    },
-    {
-      "id": 19281,
-      "title": "&quot;Haikai Roujin&quot; Don Quixote",
-      "score": 0.22,
-      "r18": false
-    },
     {
       "id": 22425,
       "title": "Three Video Messages",
       "score": 0.22,
-      "r18": false
-    },
-    {
-      "id": 26624,
-      "title": "Nora to Zassou",
-      "score": 0.22,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ct",
+        "id",
+        "br",
+        "ru",
+        "fr",
+        "it",
+        "gb"
+      ]
     },
     {
       "id": 26670,
       "title": "I'm Still Alive...",
       "score": 0.22,
-      "r18": false
-    },
-    {
-      "id": 30122,
-      "title": "Yuubae ni Niji",
-      "score": 0.22,
-      "r18": false
-    },
-    {
-      "id": 54879,
-      "title": "Sore wa, Kimi ga Mita Ao Datta",
-      "score": 0.22,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "sa"
+      ]
     },
     {
       "id": 328,
       "title": "RRR",
       "score": 0.176,
-      "r18": false
-    },
-    {
-      "id": 744,
-      "title": "Dear Friends",
-      "score": 0.176,
-      "r18": false
-    },
-    {
-      "id": 1234,
-      "title": "Shibou to Iu Na no Fuku o Kite",
-      "score": 0.176,
-      "r18": false
-    },
-    {
-      "id": 1355,
-      "title": "Struck by Black Rain",
-      "score": 0.176,
-      "r18": false
-    },
-    {
-      "id": 1872,
-      "title": "Hikari no Machi",
-      "score": 0.176,
-      "r18": false
-    },
-    {
-      "id": 2040,
-      "title": "Daddy Long Legs",
-      "score": 0.176,
-      "r18": false
-    },
-    {
-      "id": 2343,
-      "title": "Deep Love - Real",
-      "score": 0.176,
-      "r18": false
-    },
-    {
-      "id": 3364,
-      "title": "Taiyou no Uta",
-      "score": 0.176,
-      "r18": false
-    },
-    {
-      "id": 3691,
-      "title": "The Story of a White Mouse",
-      "score": 0.176,
-      "r18": false
-    },
-    {
-      "id": 4106,
-      "title": "Shikeisyu 042",
-      "score": 0.176,
-      "r18": false
-    },
-    {
-      "id": 4307,
-      "title": "Saishuu Heiki Kanojo Gaiden - Sekai no Hate ni wa Kimi to Futari de",
-      "score": 0.176,
-      "r18": false
-    },
-    {
-      "id": 4618,
-      "title": "Kimi to, Sekai ga Owaru made",
-      "score": 0.176,
-      "r18": false
-    },
-    {
-      "id": 5001,
-      "title": "Ms. Mayple's Afternoon Tea Time",
-      "score": 0.176,
-      "r18": false
-    },
-    {
-      "id": 5605,
-      "title": "Persona 3 - AraHamu Manga (Doujinshi)",
-      "score": 0.176,
-      "r18": false
-    },
-    {
-      "id": 5898,
-      "title": "Happiness",
-      "score": 0.176,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 8790,
       "title": "Kami-sama ga Uso wo Tsuku",
       "score": 0.176,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "ct",
+        "it"
+      ]
     },
     {
       "id": 8861,
       "title": "Golondrina",
       "score": 0.176,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 9838,
+      "title": "HOPE",
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 10911,
+      "title": "Once Again",
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 10953,
+      "title": "Yomawari Sensei",
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 17170,
+      "title": "Ani no Yome to Kurashite Imasu.",
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "ru",
+        "br",
+        "de"
+      ]
+    },
+    {
+      "id": 20466,
+      "title": "Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?",
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "vn",
+        "fr"
+      ]
+    },
+    {
+      "id": 34457,
+      "title": "Knite",
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
+    },
+    {
+      "id": 36661,
+      "title": "50 senchi no Isshou",
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 38399,
+      "title": "Spirited Away by the Rain Woman Youkai",
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn",
+        "br",
+        "ru",
+        "es"
+      ]
+    },
+    {
+      "id": 46462,
+      "title": "Kimi wa Tsukiyo ni Hikari Kagayaku",
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
+    },
+    {
+      "id": 2334,
+      "title": "Oyasumi Punpun",
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa",
+        "br",
+        "th",
+        "id",
+        "it"
+      ]
+    },
+    {
+      "id": 2554,
+      "title": "Saikyou Densetsu Kurosawa",
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "br",
+        "tr"
+      ]
+    },
+    {
+      "id": 3191,
+      "title": "Endo Hiroki Tanpenshuu",
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it"
+      ]
+    },
+    {
+      "id": 3597,
+      "title": "Ashita no Joe",
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 6226,
+      "title": "Ookami Kodomo no Ame to Yuki",
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "hu",
+        "ru",
+        "br",
+        "bg"
+      ]
+    },
+    {
+      "id": 8070,
+      "title": "Steins;Gate - Aishin Meizu no Babel",
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "mx"
+      ]
+    },
+    {
+      "id": 16661,
+      "title": "23:45",
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "fr"
+      ]
+    },
+    {
+      "id": 17055,
+      "title": "Tada, Kimi wo aishiteru",
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "fr",
+        "pl"
+      ]
+    },
+    {
+      "id": 20305,
+      "title": "Haru no Noroi",
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "ru",
+        "fr",
+        "tr",
+        "ua"
+      ]
+    },
+    {
+      "id": 21386,
+      "title": "Love Letter (Ozaki Kaori)",
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ct",
+        "br",
+        "tr",
+        "fr",
+        "ir",
+        "id"
+      ]
+    },
+    {
+      "id": 25431,
+      "title": "Sora no Seibun",
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     }
   ]
 }

@@ -1,62 +1,83 @@
 {
   "id": 55346,
   "title": "Fall in Love",
-  "url": "https://api.mangadex.org/v2/manga/55346",
-  "last_updated": "March 12, 2021 20:36:41 UTC",
+  "url": "https://mangadex.org/manga/55346",
+  "last_updated": "March 18, 2021 14:02:35 UTC",
   "matches": [
+    {
+      "id": 52047,
+      "title": "Bread's Collection of One-shots",
+      "score": 0.308,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
     {
       "id": 58272,
       "title": "Who Cares",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 50353,
-      "title": "Hidden Hobbies",
-      "score": 0.387,
-      "r18": false
-    },
-    {
-      "id": 51276,
-      "title": "I Don't Have Schizophrenia",
-      "score": 0.365,
-      "r18": false
+      "score": 0.283,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 50051,
       "title": "No Choice but Accept Me",
-      "score": 0.354,
-      "r18": false
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
+    },
+    {
+      "id": 50353,
+      "title": "Hidden Hobbies",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 51276,
+      "title": "I Don't Have Schizophrenia",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 59011,
       "title": "Yesterday was like Death",
-      "score": 0.354,
-      "r18": false
-    },
-    {
-      "id": 52047,
-      "title": "Bread's Collection of One-shots",
-      "score": 0.326,
-      "r18": false
+      "score": 0.244,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 56502,
       "title": "One Photo (BL)",
-      "score": 0.249,
-      "r18": false
-    },
-    {
-      "id": 40608,
-      "title": "AoAo Waiting to Be Eaten (Caught!!)",
-      "score": 0.217,
-      "r18": false
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
       "id": 57243,
       "title": "Please, Kill me",
-      "score": 0.2,
-      "r18": false
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     }
   ]
 }

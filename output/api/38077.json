@@ -2,37 +2,72 @@
   "id": 38077,
   "title": "The Last Man",
   "url": "https://mangadex.org/manga/38077",
-  "last_updated": "March 18, 2021 00:56:57 UTC",
+  "last_updated": "March 18, 2021 11:38:18 UTC",
   "matches": [
     {
       "id": 4628,
       "title": "Kurozuka",
       "score": 0.219,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "it"
+      ]
     },
     {
       "id": 47565,
       "title": "Perennial",
-      "score": 0.168,
-      "r18": false
+      "score": 0.167,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": 10699,
       "title": "Manga of the Dead",
       "score": 0.161,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 51563,
+      "title": "Zombie darake no Kono Sekai de wa Sex shinai to Ikinokorenai",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "th"
+      ]
     },
     {
       "id": 22772,
       "title": "Grashros",
       "score": 0.093,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "br",
+        "id",
+        "fr"
+      ]
     },
     {
       "id": 6002,
       "title": "The World Is Mine",
       "score": 0.093,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
     }
   ]
 }

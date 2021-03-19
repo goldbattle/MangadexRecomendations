@@ -2,31 +2,26 @@
   "id": 39822,
   "title": "Yuzurenai",
   "url": "https://mangadex.org/manga/39822",
-  "last_updated": "March 18, 2021 04:29:12 UTC",
+  "last_updated": "March 18, 2021 11:52:51 UTC",
   "matches": [
     {
       "id": 37853,
       "title": "Hitori Yogari",
       "score": 0.23,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 52333,
       "title": "So You're Not Alone, I Will",
       "score": 0.23,
-      "r18": false
-    },
-    {
-      "id": 53722,
-      "title": "Mada Futatsu no Kokoro",
-      "score": 0.23,
-      "r18": false
-    },
-    {
-      "id": 35488,
-      "title": "Namida Fuumi Escargot",
-      "score": 0.153,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

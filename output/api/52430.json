@@ -1,158 +1,317 @@
 {
   "id": 52430,
   "title": "Chikita Gugu",
-  "url": "https://api.mangadex.org/v2/manga/52430",
-  "last_updated": "February 05, 2021 12:24:23 UTC",
+  "url": "https://mangadex.org/manga/52430",
+  "last_updated": "March 18, 2021 13:38:14 UTC",
   "matches": [
     {
-      "id": 17916,
-      "title": "Hachinan tte, Sore wa Nai Deshou!",
-      "score": 0.714,
-      "r18": false
+      "id": 416,
+      "title": "Bloody Cross",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "ru",
+        "br",
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 1417,
-      "title": "Shingetsutan Tsukihime",
-      "score": 0.711,
-      "r18": false
+      "id": 10801,
+      "title": "The Ancient Magus' Bride",
+      "score": 0.254,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br",
+        "es",
+        "hu"
+      ]
     },
     {
-      "id": 77,
-      "title": "Shinigami-sama ni Saigo no Onegai wo",
-      "score": 0.706,
-      "r18": false
+      "id": 15355,
+      "title": "Kyokou Suiri",
+      "score": 0.254,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "ru",
+        "it",
+        "fr",
+        "br"
+      ]
     },
     {
-      "id": 34387,
-      "title": "Lonely Attack on the Different World",
-      "score": 0.706,
-      "r18": false
+      "id": 57188,
+      "title": "Genshitan Janome",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6521,
+      "title": "Nishi no Yoki Majo",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2340,
       "title": "Fate/stay night",
-      "score": 0.7,
-      "r18": false
+      "score": 0.226,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "sa",
+        "bg"
+      ]
     },
     {
-      "id": 44910,
-      "title": "Starvation and Reincarnation",
-      "score": 0.697,
-      "r18": false
+      "id": 9844,
+      "title": "Shingeki no Kyojin - Before the Fall",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "es",
+        "ru",
+        "br",
+        "pl",
+        "hu",
+        "gb"
+      ]
     },
     {
-      "id": 21969,
-      "title": "Kuro no Souzou Shoukanshi - Tenseisha no Hangyaku",
-      "score": 0.697,
-      "r18": false
+      "id": 5014,
+      "title": "Noragami",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "br",
+        "tr",
+        "fr",
+        "es",
+        "hu"
+      ]
     },
     {
-      "id": 3820,
-      "title": "Maou - Juvenile Remix",
-      "score": 0.697,
-      "r18": false
+      "id": 950,
+      "title": "GATE 7",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
-      "id": 13546,
-      "title": "Gesu to Kami-sama",
-      "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 39547,
-      "title": "Shinigami-sama ni Saigo no Onegai wo RE",
-      "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 5201,
-      "title": "Bloodline - Fantasy Day",
-      "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 1790,
-      "title": "Arata Kangatari",
-      "score": 0.694,
-      "r18": false
-    },
-    {
-      "id": 1552,
-      "title": "Melty Blood",
-      "score": 0.69,
-      "r18": false
+      "id": 2221,
+      "title": "Toraneko Folklore",
+      "score": 0.213,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4780,
       "title": "Umineko no Naku Koro ni Chiru Episode 8: Twilight of the Golden Witch",
-      "score": 0.689,
-      "r18": false
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 219,
-      "title": "Akame ga KILL!",
-      "score": 0.688,
-      "r18": false
+      "id": 820,
+      "title": "Zettai Karen Children",
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "pl"
+      ]
     },
     {
-      "id": 6831,
-      "title": "Kimi no Kakera",
-      "score": 0.687,
-      "r18": false
+      "id": 11923,
+      "title": "Monster X Monster",
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ro"
+      ]
     },
     {
-      "id": 3918,
-      "title": "Magic Kaito",
-      "score": 0.687,
-      "r18": false
+      "id": 16444,
+      "title": "Radiant",
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx"
+      ]
     },
     {
-      "id": 47146,
-      "title": "God of Blackfield",
-      "score": 0.687,
-      "r18": false
+      "id": 15016,
+      "title": "Black Clover",
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "br",
+        "hu",
+        "gb",
+        "sa",
+        "mn",
+        "it",
+        "pl",
+        "ru",
+        "mx",
+        "es",
+        "de",
+        "fr",
+        "id",
+        "my"
+      ]
     },
     {
-      "id": 5840,
-      "title": "BLOOD+",
-      "score": 0.686,
-      "r18": false
+      "id": 142,
+      "title": "Tsubasa -RESERVoir CHRoNiCLE-",
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 11804,
-      "title": "Fights Breaking Through The Heavens",
-      "score": 0.686,
-      "r18": false
+      "id": 22916,
+      "title": "Marry Grave",
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "es",
+        "fr",
+        "it"
+      ]
     },
     {
-      "id": 25435,
-      "title": "Madara",
-      "score": 0.685,
-      "r18": false
+      "id": 1720,
+      "title": "Under Prin",
+      "score": 0.203,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
-      "id": 10341,
-      "title": "Kokushi Musou!!",
-      "score": 0.685,
-      "r18": false
+      "id": 21390,
+      "title": "Densetsu no Yuusha no Konkatsu",
+      "score": 0.202,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "ru",
+        "br"
+      ]
     },
     {
-      "id": 6652,
-      "title": "Utawarerumono",
-      "score": 0.685,
-      "r18": false
+      "id": 11041,
+      "title": "Stealth Symphony",
+      "score": 0.201,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "pl"
+      ]
     },
     {
-      "id": 5573,
-      "title": "Saiyuki",
-      "score": 0.684,
-      "r18": false
+      "id": 22529,
+      "title": "Tokyo\u534dRevengers",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "vn",
+        "hk",
+        "th",
+        "ru",
+        "tr",
+        "mx",
+        "id",
+        "pl"
+      ]
     },
     {
-      "id": 4773,
-      "title": "Clannad",
-      "score": 0.684,
-      "r18": false
+      "id": 22816,
+      "title": "Class ga Isekai Shoukan sareta Naka Ore dake Nokotta n desu ga",
+      "score": 0.198,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru",
+        "br",
+        "hk",
+        "id",
+        "mx"
+      ]
+    },
+    {
+      "id": 21599,
+      "title": "Ragna Crimson",
+      "score": 0.197,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru",
+        "sa",
+        "br",
+        "es"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Psyren",
+      "score": 0.196,
+      "r18": false,
+      "languages": [
+        "il",
+        "gb",
+        "ru",
+        "pl"
+      ]
+    },
+    {
+      "id": 1477,
+      "title": "Ability Shop",
+      "score": 0.196,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     }
   ]
 }

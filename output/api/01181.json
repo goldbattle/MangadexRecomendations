@@ -2,157 +2,249 @@
   "id": 1181,
   "title": "Shanhai Kaijinzoku",
   "url": "https://mangadex.org/manga/1181",
-  "last_updated": "March 14, 2021 01:08:58 UTC",
+  "last_updated": "March 18, 2021 05:52:36 UTC",
   "matches": [
     {
       "id": 3289,
       "title": "Yuusha Dan",
       "score": 0.35,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 12693,
       "title": "Phantom Thief Pok&eacute;mon 7",
       "score": 0.35,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 24252,
       "title": "Fire Emblem Gaiden",
       "score": 0.35,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 15488,
       "title": "Pok&eacute;mon SPECIAL ORAS",
       "score": 0.35,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 20511,
       "title": "Pok&eacute;mon SPECIAL Sun &amp; Moon",
       "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 54867,
-      "title": "Captain Kid",
-      "score": 0.35,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7278,
       "title": "Fushigi no Chocobo",
       "score": 0.35,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 24433,
       "title": "Pok&eacute;mon The Movie I Choose You! Remix",
       "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 17738,
-      "title": "Akaneiro no Kaze",
-      "score": 0.35,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 18472,
       "title": "Battle Spirits: Shounen Toppa Bashin",
       "score": 0.35,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8490,
       "title": "New Treasure Island",
-      "score": 0.307,
-      "r18": false
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3896,
       "title": "Subarashiki Kono Sekai",
       "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 44673,
-      "title": "Solte the Traveler",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 15874,
-      "title": "Final Re:Quest",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 5792,
-      "title": "+Anima",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 13175,
-      "title": "Dragon Ball Minus",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 53201,
-      "title": "Evil Hunter",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 4415,
-      "title": "Queen Emeraldas",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 6524,
-      "title": "Ignite",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 13286,
-      "title": "Strider Hiryu",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 4721,
-      "title": "7th Dragon",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 24268,
-      "title": "Dragon Quest - Tenkuu Monogatari",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 38955,
-      "title": "Fate/Grand Order: Epic of Remnant: Pseudo-Singularity IV: The Forbidden Advent Garden, Salem - Heretical Salem",
-      "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 5712,
       "title": "Lodoss Tousenki - Pharis no Seijo",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 44673,
+      "title": "Solte the Traveler",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru"
+      ]
+    },
+    {
+      "id": 15874,
+      "title": "Final Re:Quest",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5792,
+      "title": "+Anima",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "bg",
+        "gb",
+        "br",
+        "vn"
+      ]
+    },
+    {
+      "id": 13175,
+      "title": "Dragon Ball Minus",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "pt",
+        "pl"
+      ]
+    },
+    {
+      "id": 53201,
+      "title": "Evil Hunter",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6524,
+      "title": "Ignite",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 13286,
+      "title": "Strider Hiryu",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24268,
+      "title": "Dragon Quest - Tenkuu Monogatari",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 35961,
       "title": "Saint Seiya: Origin",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 15845,
+      "title": "Pok&eacute;mon The Movie XY - The Archdjinni of the Rings: Hoopa (Doujinshi)",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 42242,
+      "title": "Cowardly Crybaby Shokatsu Koumei",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10930,
+      "title": "Ginga Nagareboshi Gin",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "hu",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 5541,
+      "title": "Sakon - Record of the Upheaval of the Warring States",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 36623,
+      "title": "Kingdom Hearts III",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "br"
+      ]
     }
   ]
 }

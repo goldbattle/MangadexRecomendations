@@ -2,157 +2,244 @@
   "id": 29891,
   "title": "Rokuhoudou Yotsuiro Biyori",
   "url": "https://mangadex.org/manga/29891",
-  "last_updated": "January 13, 2021 07:00:01 UTC",
+  "last_updated": "March 18, 2021 10:30:01 UTC",
   "matches": [
-    {
-      "id": 36222,
-      "title": "Okashi na Tensei",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 24661,
-      "title": "Isekai Izakaya &quot;Gen&quot;",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 528,
-      "title": "3-gatsu no Lion",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 31762,
-      "title": "Ao no Shima to Neko Ippiki",
-      "score": 0.65,
-      "r18": false
-    },
-    {
-      "id": 51698,
-      "title": "Izakaya Bottakuri",
-      "score": 0.483,
-      "r18": false
-    },
-    {
-      "id": 9143,
-      "title": "Little Forest",
-      "score": 0.478,
-      "r18": false
-    },
-    {
-      "id": 7712,
-      "title": "Cooking Papa",
-      "score": 0.468,
-      "r18": false
-    },
-    {
-      "id": 43675,
-      "title": "Kitchen of Witch Hat",
-      "score": 0.463,
-      "r18": false
-    },
     {
       "id": 12908,
       "title": "Wakako-Zake",
-      "score": 0.463,
-      "r18": false
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 55725,
       "title": "Haru to Ao no Obentoubako",
-      "score": 0.456,
-      "r18": false
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 29736,
-      "title": "Ichinichi Gaishutsuroku Hanchou",
-      "score": 0.406,
-      "r18": false
+      "id": 9143,
+      "title": "Little Forest",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru"
+      ]
     },
     {
-      "id": 16737,
-      "title": "Papa to Oyaji no Uchi Gohan",
-      "score": 0.402,
-      "r18": false
+      "id": 7712,
+      "title": "Cooking Papa",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 51698,
+      "title": "Izakaya Bottakuri",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 43675,
+      "title": "Kitchen of Witch Hat",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 17069,
       "title": "Konbini Ojousama",
-      "score": 0.401,
-      "r18": false
-    },
-    {
-      "id": 10800,
-      "title": "Bambino! Secondo",
-      "score": 0.4,
-      "r18": false
-    },
-    {
-      "id": 50649,
-      "title": "Maid-san wa Taberu Dake",
-      "score": 0.398,
-      "r18": false
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 53388,
       "title": "Job hunting, Living together, Everyday meal",
-      "score": 0.396,
-      "r18": false
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8194,
       "title": "Kuneru Maruta",
-      "score": 0.39,
-      "r18": false
-    },
-    {
-      "id": 21973,
-      "title": "Hokusai to Meshi Saeareba",
-      "score": 0.386,
-      "r18": false
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "pt",
+        "gb"
+      ]
     },
     {
       "id": 2205,
       "title": "Shinya Shokudou",
-      "score": 0.383,
-      "r18": false
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50649,
+      "title": "Maid-san wa Taberu Dake",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 35934,
       "title": "Someya Mako no Jansou Meshi",
-      "score": 0.382,
-      "r18": false
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 14163,
-      "title": "Takasugi-san Chi no Obentou",
-      "score": 0.37,
-      "r18": false
+      "id": 10800,
+      "title": "Bambino! Secondo",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 16737,
+      "title": "Papa to Oyaji no Uchi Gohan",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21973,
+      "title": "Hokusai to Meshi Saeareba",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29736,
+      "title": "Ichinichi Gaishutsuroku Hanchou",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 22379,
+      "title": "Chotto Ippai!",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 32267,
       "title": "Rin-chan Cookie no Himitsu",
-      "score": 0.365,
-      "r18": false
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 29917,
-      "title": "Slow Loop",
-      "score": 0.358,
-      "r18": false
+      "id": 14163,
+      "title": "Takasugi-san Chi no Obentou",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 19108,
       "title": "Bar Lemon Heart",
-      "score": 0.356,
-      "r18": false
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18712,
+      "title": "Emiya-san Chi no Kyou no Gohan",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn",
+        "ru"
+      ]
+    },
+    {
+      "id": 46834,
+      "title": "Kesaran Nanigashi ja Keitto Shop",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 51040,
+      "title": "Aikagi-kun to Shiawase Gohan",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 43785,
+      "title": "A Meal Makes Her Forget",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 85,
       "title": "Bambino!",
-      "score": 0.352,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "br"
+      ]
     }
   ]
 }

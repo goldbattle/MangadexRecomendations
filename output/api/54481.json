@@ -1,80 +1,130 @@
 {
   "id": 54481,
   "title": "Nostalgic Skirt ~Memory~",
-  "url": "https://api.mangadex.org/v2/manga/54481",
-  "last_updated": "March 12, 2021 20:26:09 UTC",
+  "url": "https://mangadex.org/manga/54481",
+  "last_updated": "March 18, 2021 13:55:21 UTC",
   "matches": [
     {
       "id": 46361,
       "title": "The Vocaloid and the Last Girls",
-      "score": 0.782,
-      "r18": false
+      "score": 0.705,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 44322,
       "title": "A Space Love Story",
-      "score": 0.273,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 42104,
       "title": "Ginga no Shinanai Kodomotachi he",
-      "score": 0.266,
-      "r18": false
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "cn"
+      ]
     },
     {
       "id": 20585,
       "title": "Like a Laika",
-      "score": 0.236,
-      "r18": false
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 55210,
       "title": "A Story in the Future",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "id",
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 28882,
       "title": "Someone's Laughing Outside the Room",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 59255,
       "title": "Hanataba Keikaku",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 40670,
       "title": "Is Love Covered by Insurance?",
-      "score": 0.214,
-      "r18": false
-    },
-    {
-      "id": 52836,
-      "title": "DD Fist of the North Star",
-      "score": 0.19,
-      "r18": false
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 58049,
       "title": "Coffee",
-      "score": 0.172,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 58585,
+      "title": "Florappi",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 52836,
+      "title": "DD Fist of the North Star",
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 56747,
       "title": "No Country for Zombie",
-      "score": 0.134,
-      "r18": false
+      "score": 0.121,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 59608,
       "title": "ELEMENTS: Users Of The Universe",
-      "score": 0.132,
-      "r18": false
+      "score": 0.09,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

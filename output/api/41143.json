@@ -1,158 +1,238 @@
 {
   "id": 41143,
   "title": "Papa Sex Caramelized",
-  "url": "https://api.mangadex.org/v2/manga/41143",
-  "last_updated": "February 11, 2021 08:34:34 UTC",
+  "url": "https://mangadex.org/manga/41143",
+  "last_updated": "March 18, 2021 12:03:52 UTC",
   "matches": [
-    {
-      "id": 17233,
-      "title": "Rakka Sokudo",
-      "score": 0.483,
-      "r18": false
-    },
-    {
-      "id": 34808,
-      "title": "Aoi Tori Yori",
-      "score": 0.472,
-      "r18": false
-    },
-    {
-      "id": 21382,
-      "title": "Osananajimi ga Do M de Tsundere Nan Desu ga",
-      "score": 0.468,
-      "r18": false
-    },
-    {
-      "id": 26100,
-      "title": "Nichijou Climax",
-      "score": 0.468,
-      "r18": false
-    },
-    {
-      "id": 20652,
-      "title": "Binetsu Shuukan",
-      "score": 0.468,
-      "r18": false
-    },
-    {
-      "id": 34441,
-      "title": "Kouzuka Kottouya no Akujiki",
-      "score": 0.463,
-      "r18": false
-    },
-    {
-      "id": 26029,
-      "title": "Mujintou ni Motte Iku Nara",
-      "score": 0.462,
-      "r18": false
-    },
-    {
-      "id": 8645,
-      "title": "Soshite Tsuzuki ga Aru no Nara",
-      "score": 0.462,
-      "r18": false
-    },
-    {
-      "id": 23985,
-      "title": "Anata Dake wo Matteru",
-      "score": 0.462,
-      "r18": false
-    },
     {
       "id": 22967,
       "title": "Aishiteru",
-      "score": 0.461,
-      "r18": false
+      "score": 0.425,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 55672,
       "title": "Kimi to Iru Shima",
-      "score": 0.461,
-      "r18": false
+      "score": 0.425,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 35406,
-      "title": "Tengoku Iki Tsuuka Ressha",
-      "score": 0.459,
-      "r18": false
-    },
-    {
-      "id": 57426,
-      "title": "Sore wo Koi to Yobazuni Nanto Iu",
-      "score": 0.458,
-      "r18": false
-    },
-    {
-      "id": 59257,
-      "title": "Funky Yankee Baby-kun",
-      "score": 0.456,
-      "r18": false
-    },
-    {
-      "id": 23452,
-      "title": "Shuwashuwa, Kirari",
-      "score": 0.455,
-      "r18": false
-    },
-    {
-      "id": 18190,
-      "title": "Amai Koi no Sodate Kata",
-      "score": 0.454,
-      "r18": false
+      "id": 34441,
+      "title": "Kouzuka Kottouya no Akujiki",
+      "score": 0.425,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 28453,
       "title": "Share House Netherland",
-      "score": 0.454,
-      "r18": false
+      "score": 0.425,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8645,
+      "title": "Soshite Tsuzuki ga Aru no Nara",
+      "score": 0.425,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 17233,
+      "title": "Rakka Sokudo",
+      "score": 0.425,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
+    },
+    {
+      "id": 26029,
+      "title": "Mujintou ni Motte Iku Nara",
+      "score": 0.425,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 34808,
+      "title": "Aoi Tori Yori",
+      "score": 0.425,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 35406,
+      "title": "Tengoku Iki Tsuuka Ressha",
+      "score": 0.425,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 23985,
+      "title": "Anata Dake wo Matteru",
+      "score": 0.425,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 23452,
+      "title": "Shuwashuwa, Kirari",
+      "score": 0.425,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 57426,
+      "title": "Sore wo Koi to Yobazuni Nanto Iu",
+      "score": 0.425,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 18625,
       "title": "From 701 Goushitsu",
-      "score": 0.447,
-      "r18": false
-    },
-    {
-      "id": 55518,
-      "title": "My Sweet Home",
-      "score": 0.444,
-      "r18": false
-    },
-    {
-      "id": 40597,
-      "title": "Ring a Bell",
-      "score": 0.44,
-      "r18": false
-    },
-    {
-      "id": 51021,
-      "title": "Naka-san no Nagare",
-      "score": 0.434,
-      "r18": false
+      "score": 0.425,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 35945,
       "title": "Hidamari to Bentou Danshi to",
-      "score": 0.432,
-      "r18": false
+      "score": 0.425,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 8741,
-      "title": "Doushiyoumo Nai Keredo",
-      "score": 0.39,
-      "r18": false
+      "id": 55518,
+      "title": "My Sweet Home",
+      "score": 0.425,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 16373,
-      "title": "Ryouri Danshi no Kakushi Aji",
-      "score": 0.388,
-      "r18": false
+      "id": 59257,
+      "title": "Funky Yankee Baby-kun",
+      "score": 0.425,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 21208,
-      "title": "Family Simulation!!",
-      "score": 0.387,
-      "r18": false
+      "id": 26100,
+      "title": "Nichijou Climax",
+      "score": 0.425,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18190,
+      "title": "Amai Koi no Sodate Kata",
+      "score": 0.425,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20652,
+      "title": "Binetsu Shuukan",
+      "score": 0.425,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 51021,
+      "title": "Naka-san no Nagare",
+      "score": 0.425,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 30177,
+      "title": "Accompany You To Stray",
+      "score": 0.34,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 32964,
+      "title": "Dorobou Neko ni wa Nusumenai",
+      "score": 0.34,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55543,
+      "title": "Otonari-san to Issho",
+      "score": 0.34,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 38954,
+      "title": "Don't Cry Baby",
+      "score": 0.283,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19824,
+      "title": "Michizure Policy",
+      "score": 0.283,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

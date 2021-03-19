@@ -1,14 +1,18 @@
 {
   "id": 55303,
   "title": "Isshiki-san wa Koi wo shiritai",
-  "url": "https://api.mangadex.org/v2/manga/55303",
-  "last_updated": "March 12, 2021 20:36:07 UTC",
+  "url": "https://mangadex.org/manga/55303",
+  "last_updated": "March 18, 2021 14:02:14 UTC",
   "matches": [
     {
       "id": 1781,
       "title": "Zero In",
-      "score": 0.286,
-      "r18": false
+      "score": 0.138,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     }
   ]
 }

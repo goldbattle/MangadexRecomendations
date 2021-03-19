@@ -2,43 +2,68 @@
   "id": 10314,
   "title": "Samenai Yume",
   "url": "https://mangadex.org/manga/10314",
-  "last_updated": "March 15, 2021 00:27:15 UTC",
+  "last_updated": "March 18, 2021 07:13:30 UTC",
   "matches": [
     {
       "id": 8007,
       "title": "Itsuka Ame ga Furu You ni",
-      "score": 0.283,
-      "r18": false
+      "score": 0.282,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 31550,
       "title": "Copernicus no Kokyuu",
-      "score": 0.25,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "pl"
+      ]
     },
     {
       "id": 57844,
       "title": "Kaibutsu Ouji",
-      "score": 0.214,
-      "r18": false
+      "score": 0.213,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8716,
       "title": "Nennen Saisai",
       "score": 0.192,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "tr"
+      ]
     },
     {
       "id": 11789,
       "title": "Yami BL (Anthology)",
       "score": 0.172,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 21642,
       "title": "Crow's Library of Danmei",
-      "score": 0.141,
-      "r18": false
+      "score": 0.14,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

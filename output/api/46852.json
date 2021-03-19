@@ -1,158 +1,278 @@
 {
   "id": 46852,
   "title": "11me",
-  "url": "https://api.mangadex.org/v2/manga/46852",
-  "last_updated": "February 12, 2021 01:01:12 UTC",
+  "url": "https://mangadex.org/manga/46852",
+  "last_updated": "March 18, 2021 12:51:33 UTC",
   "matches": [
+    {
+      "id": 19160,
+      "title": "I Am My Wife!?",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "bd",
+        "br",
+        "es"
+      ]
+    },
     {
       "id": 34063,
       "title": "Uglyhood",
-      "score": 0.255,
-      "r18": false
-    },
-    {
-      "id": 31889,
-      "title": "Outlaws",
-      "score": 0.228,
-      "r18": false
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "es"
+      ]
     },
     {
       "id": 47105,
       "title": "Strongest Cultivation App",
-      "score": 0.228,
-      "r18": false
+      "score": 0.19,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 52471,
       "title": "Build Up",
-      "score": 0.228,
-      "r18": false
+      "score": 0.19,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru"
+      ]
     },
     {
       "id": 16400,
       "title": "We On - Be the Shield",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 24669,
       "title": "MODE \u2161",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 17524,
       "title": "West-North's Grim Reaper",
-      "score": 0.209,
-      "r18": false
-    },
-    {
-      "id": 28558,
-      "title": "Versatile Mage",
-      "score": 0.209,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7606,
       "title": "17 Years Old, That Summer Day's Miracle",
-      "score": 0.2,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 9409,
       "title": "Hitoribocchi no Chikyuu Shinryaku",
-      "score": 0.2,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 15962,
       "title": "Back Alley Life",
-      "score": 0.2,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "tr",
+        "mx"
+      ]
     },
     {
       "id": 29130,
       "title": "Peerless Dad",
-      "score": 0.2,
-      "r18": false
-    },
-    {
-      "id": 41568,
-      "title": "Moon You",
-      "score": 0.2,
-      "r18": false
-    },
-    {
-      "id": 45284,
-      "title": "Bullet 6mm",
-      "score": 0.2,
-      "r18": false
-    },
-    {
-      "id": 47239,
-      "title": "Special Bodyguard for the School's Maidens",
-      "score": 0.2,
-      "r18": false
-    },
-    {
-      "id": 59513,
-      "title": "Hades School",
-      "score": 0.2,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "ru",
+        "fr",
+        "br",
+        "mx",
+        "id"
+      ]
     },
     {
       "id": 41611,
       "title": "hello (rom-com) world",
-      "score": 0.2,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 45284,
+      "title": "Bullet 6mm",
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 46308,
       "title": "Gangnam Dokkaebi",
-      "score": 0.2,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br"
+      ]
     },
     {
-      "id": 47153,
-      "title": "Demons Can't Be Pretty",
-      "score": 0.2,
-      "r18": false
+      "id": 47239,
+      "title": "Special Bodyguard for the School's Maidens",
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 47461,
       "title": "Earth Spirit",
-      "score": 0.2,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 49119,
       "title": "I Stack Experience Through Reading Books",
-      "score": 0.2,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "hu",
+        "fr",
+        "it",
+        "mx"
+      ]
     },
     {
       "id": 50542,
       "title": "Ako and Bambi",
-      "score": 0.2,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59513,
+      "title": "Hades School",
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 280,
       "title": "The God of High School",
-      "score": 0.198,
-      "r18": false
+      "score": 0.163,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "it",
+        "mm",
+        "in"
+      ]
     },
     {
       "id": 474,
       "title": "S.I.D. - Supernatural Investigation Department",
-      "score": 0.198,
-      "r18": false
+      "score": 0.163,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 1021,
       "title": "Girls of the Wild's",
-      "score": 0.198,
-      "r18": false
+      "score": 0.163,
+      "r18": false,
+      "languages": [
+        "br",
+        "ru",
+        "it",
+        "gb",
+        "de",
+        "sa"
+      ]
+    },
+    {
+      "id": 9812,
+      "title": "Ultimate Legend - Kang Hae Hyo",
+      "score": 0.163,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ro"
+      ]
+    },
+    {
+      "id": 11260,
+      "title": "Free Draw",
+      "score": 0.163,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 14423,
+      "title": "He Is a High School Girl",
+      "score": 0.163,
+      "r18": false,
+      "languages": [
+        "mn",
+        "gb",
+        "tr",
+        "fr"
+      ]
     }
   ]
 }

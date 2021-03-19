@@ -1,158 +1,276 @@
 {
   "id": 44336,
   "title": "Samurai ZOMBIE",
-  "url": "https://api.mangadex.org/v2/manga/44336",
-  "last_updated": "February 11, 2021 16:39:35 UTC",
+  "url": "https://mangadex.org/manga/44336",
+  "last_updated": "March 18, 2021 12:30:32 UTC",
   "matches": [
     {
       "id": 53758,
       "title": "7 Samurai Folding",
-      "score": 0.206,
-      "r18": false
-    },
-    {
-      "id": 56164,
-      "title": "A Manga Where Rapper Bites Turn You Into A Rapper",
-      "score": 0.193,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3250,
       "title": "Baccano! 1931 The Grand Punk Railroad",
-      "score": 0.193,
-      "r18": false
+      "score": 0.164,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 12975,
       "title": "Reincarnation no Kaben",
-      "score": 0.193,
-      "r18": false
+      "score": 0.164,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "vn",
+        "es",
+        "id",
+        "tr",
+        "pl"
+      ]
     },
     {
-      "id": 94,
-      "title": "Gintama",
-      "score": 0.191,
-      "r18": false
+      "id": 56164,
+      "title": "A Manga Where Rapper Bites Turn You Into A Rapper",
+      "score": 0.164,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1491,
       "title": "Jeep and Wagon",
-      "score": 0.191,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 7371,
       "title": "Amanusya",
-      "score": 0.191,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 18038,
       "title": "Zenei no Archer",
-      "score": 0.191,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 28739,
       "title": "Rurouni Kenshin: Haru ni Sakura",
-      "score": 0.191,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 37642,
       "title": "Tenko",
-      "score": 0.191,
-      "r18": false
-    },
-    {
-      "id": 49423,
-      "title": "My Tenant Is a Monster",
-      "score": 0.191,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 55119,
       "title": "Kimetsu no Yaiba Rengoku Special Oneshot",
-      "score": 0.191,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "tr"
+      ]
+    },
+    {
+      "id": 57084,
+      "title": "Nikai Bongai Barabarujura",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 49423,
+      "title": "My Tenant Is a Monster",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 43541,
       "title": "The Overlord's Wish",
-      "score": 0.189,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 53814,
       "title": "Noroi",
-      "score": 0.189,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5538,
       "title": "JoJo's Bizarre Adventure Part 2 - Battle Tendency",
-      "score": 0.174,
-      "r18": false
-    },
-    {
-      "id": 18198,
-      "title": "Kimetsu no Yaiba",
-      "score": 0.172,
-      "r18": false
+      "score": 0.148,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "ru"
+      ]
     },
     {
       "id": 23606,
       "title": "Sengoku Komachi Kuroutan: Noukou Giga",
-      "score": 0.172,
-      "r18": false
-    },
-    {
-      "id": 35792,
-      "title": "Legend Of Sho",
-      "score": 0.172,
-      "r18": false
-    },
-    {
-      "id": 44314,
-      "title": "Fate/Grand Order: Epic of Remnant: Pseudo-Singularity II: Women of Agartha",
-      "score": 0.172,
-      "r18": false
+      "score": 0.144,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id"
+      ]
     },
     {
       "id": 47995,
       "title": "Fate/Grand Order Cries of The Avenger  in the Prison Tower",
-      "score": 0.172,
-      "r18": false
+      "score": 0.144,
+      "r18": false,
+      "languages": [
+        "ru",
+        "sa"
+      ]
+    },
+    {
+      "id": 18198,
+      "title": "Kimetsu no Yaiba",
+      "score": 0.144,
+      "r18": false,
+      "languages": [
+        "il",
+        "gb",
+        "br",
+        "ru",
+        "mx",
+        "hk",
+        "es",
+        "sa",
+        "ua",
+        "id",
+        "it",
+        "de",
+        "tr"
+      ]
+    },
+    {
+      "id": 35792,
+      "title": "Legend Of Sho",
+      "score": 0.144,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
+    },
+    {
+      "id": 44314,
+      "title": "Fate/Grand Order: Epic of Remnant: Pseudo-Singularity II: Women of Agartha",
+      "score": 0.144,
+      "r18": false,
+      "languages": [
+        "fr",
+        "es"
+      ]
+    },
+    {
+      "id": 33656,
+      "title": "Dororo to Hyakkimaru-Den",
+      "score": 0.143,
+      "r18": false,
+      "languages": [
+        "hk",
+        "ru",
+        "mx",
+        "tr",
+        "gb",
+        "br",
+        "it",
+        "id"
+      ]
     },
     {
       "id": 5454,
       "title": "JoJo's Bizarre Adventure Part 1 - Phantom Blood",
-      "score": 0.158,
-      "r18": false
+      "score": 0.134,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "es",
+        "ro"
+      ]
     },
     {
       "id": 2195,
       "title": "Zombie-Loan",
-      "score": 0.156,
-      "r18": false
+      "score": 0.133,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 2364,
       "title": "Sakura no Ichiban",
-      "score": 0.156,
-      "r18": false
+      "score": 0.133,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3122,
       "title": "Embalming -The Another Tale of Frankenstein-",
-      "score": 0.156,
-      "r18": false
-    },
-    {
-      "id": 4610,
-      "title": "Bishounen de Meitantei de Doesu",
-      "score": 0.156,
-      "r18": false
+      "score": 0.133,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

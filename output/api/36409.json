@@ -2,61 +2,99 @@
   "id": 36409,
   "title": "Buzzy Noise",
   "url": "https://mangadex.org/manga/36409",
-  "last_updated": "March 17, 2021 20:26:23 UTC",
+  "last_updated": "March 18, 2021 11:24:23 UTC",
   "matches": [
     {
       "id": 296,
       "title": "Sayonara Piano Sonata",
       "score": 0.244,
-      "r18": false
-    },
-    {
-      "id": 40505,
-      "title": "Carole &amp; Tuesday",
-      "score": 0.242,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "de",
+        "pl"
+      ]
     },
     {
       "id": 14162,
       "title": "7 Jikanme no Note",
-      "score": 0.242,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 4274,
       "title": "Boku to Watashi no Henai Jijou",
-      "score": 0.242,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 5699,
       "title": "Straight no Chaser",
-      "score": 0.226,
-      "r18": false
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 12331,
       "title": "Solanin",
       "score": 0.207,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "it",
+        "br",
+        "gb",
+        "mx",
+        "ru",
+        "es",
+        "bg",
+        "ct"
+      ]
     },
     {
       "id": 26471,
       "title": "Oshi ga Budoukan Ittekuretara Shinu",
       "score": 0.207,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 897,
       "title": "Boku wa Beatles",
       "score": 0.181,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 46835,
       "title": "Oshi no Ko",
-      "score": 0.132,
-      "r18": false
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "mx",
+        "fr",
+        "br",
+        "gb",
+        "ru",
+        "it",
+        "id"
+      ]
     }
   ]
 }

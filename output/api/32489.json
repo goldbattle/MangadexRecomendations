@@ -1,158 +1,248 @@
 {
   "id": 32489,
   "title": "#muted",
-  "url": "https://api.mangadex.org/v2/manga/32489",
-  "last_updated": "February 10, 2021 08:36:15 UTC",
+  "url": "https://mangadex.org/manga/32489",
+  "last_updated": "March 18, 2021 10:51:40 UTC",
   "matches": [
-    {
-      "id": 53953,
-      "title": "Dinner at Night",
-      "score": 0.676,
-      "r18": false
-    },
     {
       "id": 35614,
       "title": "Small World",
-      "score": 0.355,
-      "r18": false
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
     },
     {
       "id": 19502,
       "title": "Delivery Boy Debacle",
-      "score": 0.354,
-      "r18": false
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 20632,
       "title": "Mute Uncle",
-      "score": 0.345,
-      "r18": false
-    },
-    {
-      "id": 38885,
-      "title": "Give Up The Kingdom for you",
-      "score": 0.341,
-      "r18": false
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 56472,
       "title": "It Has to Be You",
-      "score": 0.337,
-      "r18": false
-    },
-    {
-      "id": 36506,
-      "title": "Can't Take My Eyes off You!",
-      "score": 0.333,
-      "r18": false
-    },
-    {
-      "id": 39026,
-      "title": "You're In The Deep Starlight",
-      "score": 0.33,
-      "r18": false
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 31904,
       "title": "Love Potion",
-      "score": 0.326,
-      "r18": false
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 19473,
-      "title": "NAN&amp;BEI",
-      "score": 0.294,
-      "r18": false
+      "id": 36506,
+      "title": "Can't Take My Eyes off You!",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "br",
+        "tr"
+      ]
+    },
+    {
+      "id": 38885,
+      "title": "Give Up The Kingdom for you",
+      "score": 0.276,
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
     },
     {
       "id": 20735,
       "title": "So My Landlord is a Hottie",
-      "score": 0.291,
-      "r18": false
-    },
-    {
-      "id": 35420,
-      "title": "Flat Lay",
-      "score": 0.289,
-      "r18": false
-    },
-    {
-      "id": 56296,
-      "title": "Another Happy Ending with My Jerk Friend",
-      "score": 0.288,
-      "r18": false
-    },
-    {
-      "id": 26571,
-      "title": "Lock You up",
-      "score": 0.285,
-      "r18": false
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 23848,
       "title": "Ji Ye and Guan Shan",
-      "score": 0.283,
-      "r18": false
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19473,
+      "title": "NAN&amp;BEI",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 35420,
+      "title": "Flat Lay",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 39026,
+      "title": "You're In The Deep Starlight",
+      "score": 0.254,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 53953,
+      "title": "Dinner at Night",
+      "score": 0.252,
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
     },
     {
       "id": 34910,
       "title": "Never Understand",
-      "score": 0.283,
-      "r18": false
+      "score": 0.237,
+      "r18": false,
+      "languages": [
+        "tr",
+        "fr",
+        "hu"
+      ]
     },
     {
-      "id": 51962,
-      "title": "Fools Remaster",
-      "score": 0.275,
-      "r18": false
-    },
-    {
-      "id": 39298,
-      "title": "Don't Provoke a Reborned Bamboo Horse",
-      "score": 0.258,
-      "r18": false
-    },
-    {
-      "id": 56891,
-      "title": "Sworn Enemy or Lover?",
-      "score": 0.257,
-      "r18": false
-    },
-    {
-      "id": 44859,
-      "title": "I Can't Say No to Him",
-      "score": 0.256,
-      "r18": false
-    },
-    {
-      "id": 39437,
-      "title": "A Shoulder to Cry On",
-      "score": 0.256,
-      "r18": false
+      "id": 51382,
+      "title": "Amnesia Doesn&rsquo;t Make Me Your Boyfriend!",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 51387,
       "title": "Turing Code",
-      "score": 0.254,
-      "r18": false
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
-      "id": 52592,
-      "title": "Play House",
-      "score": 0.251,
-      "r18": false
+      "id": 43109,
+      "title": "Pond Snail Robber",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "mx"
+      ]
     },
     {
-      "id": 49997,
-      "title": "The Moon God Doesn't Understand Love",
-      "score": 0.247,
-      "r18": false
+      "id": 44859,
+      "title": "I Can't Say No to Him",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 56051,
+      "title": "Men's Wear Store and &quot;Her Royal Highness&quot;",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "id"
+      ]
+    },
+    {
+      "id": 51962,
+      "title": "Fools Remaster",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 26571,
+      "title": "Lock You up",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 40323,
       "title": "More Than Just &quot;Like&quot;",
-      "score": 0.247,
-      "r18": false
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 39437,
+      "title": "A Shoulder to Cry On",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "mx",
+        "pl",
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 56296,
+      "title": "Another Happy Ending with My Jerk Friend",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 27502,
+      "title": "Too Close",
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

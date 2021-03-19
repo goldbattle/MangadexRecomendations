@@ -1,158 +1,257 @@
 {
   "id": 34466,
   "title": "My classmate, Maejima, is really cute",
-  "url": "https://api.mangadex.org/v2/manga/34466",
-  "last_updated": "February 10, 2021 16:29:04 UTC",
+  "url": "https://mangadex.org/manga/34466",
+  "last_updated": "March 18, 2021 11:08:09 UTC",
   "matches": [
     {
       "id": 43141,
       "title": "A Girl Who Thinks &quot;I'm the Support Role&quot;",
-      "score": 0.372,
-      "r18": false
-    },
-    {
-      "id": 35546,
-      "title": "The Way Back To You",
-      "score": 0.368,
-      "r18": false
-    },
-    {
-      "id": 50423,
-      "title": "The Untold Story of a High School Debut",
-      "score": 0.368,
-      "r18": false
-    },
-    {
-      "id": 47191,
-      "title": "A story about a senpai who wants to reject a girl at least once.",
-      "score": 0.368,
-      "r18": false
-    },
-    {
-      "id": 54607,
-      "title": "I Want to Listen to xx",
-      "score": 0.368,
-      "r18": false
-    },
-    {
-      "id": 43006,
-      "title": "The Omniscient Point of View of an Unrequited Love",
-      "score": 0.359,
-      "r18": false
-    },
-    {
-      "id": 19893,
-      "title": "The Elementary School Student That I Love",
-      "score": 0.341,
-      "r18": false
+      "score": 0.357,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 27486,
       "title": "My Love Confession to My Cool Senpai",
-      "score": 0.329,
-      "r18": false
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 57706,
-      "title": "Isn't the Contrast Cute?",
-      "score": 0.329,
-      "r18": false
+      "id": 19893,
+      "title": "The Elementary School Student That I Love",
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 48138,
-      "title": "Obscene Devil But It's Fine",
-      "score": 0.322,
-      "r18": false
+      "id": 50423,
+      "title": "The Untold Story of a High School Debut",
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 52677,
-      "title": "Kisses x Kiss x Kisses",
-      "score": 0.322,
-      "r18": false
+      "id": 47191,
+      "title": "A story about a senpai who wants to reject a girl at least once.",
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 45788,
-      "title": "Does Love Need a Translation App?",
-      "score": 0.322,
-      "r18": false
+      "id": 54607,
+      "title": "I Want to Listen to xx",
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "id",
+        "mx"
+      ]
     },
     {
-      "id": 19305,
-      "title": "How to Open a Triangular Riceball",
-      "score": 0.322,
-      "r18": false
-    },
-    {
-      "id": 26235,
-      "title": "Hongshi Loves Me!",
-      "score": 0.322,
-      "r18": false
-    },
-    {
-      "id": 39517,
-      "title": "Seiseidoudou Futamata suru Hanashi",
-      "score": 0.322,
-      "r18": false
-    },
-    {
-      "id": 40676,
-      "title": "Red Velvet",
-      "score": 0.32,
-      "r18": false
-    },
-    {
-      "id": 40477,
-      "title": "Gatabutata",
-      "score": 0.316,
-      "r18": false
+      "id": 35546,
+      "title": "The Way Back To You",
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 35973,
       "title": "Secret Love",
-      "score": 0.312,
-      "r18": false
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "it"
+      ]
+    },
+    {
+      "id": 59406,
+      "title": "Secret Love (Pre-Serialization)",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "fr",
+        "br",
+        "it"
+      ]
+    },
+    {
+      "id": 17890,
+      "title": "Pride Complex",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 35050,
+      "title": "Cinema Next Door",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 48138,
+      "title": "Obscene Devil But It's Fine",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 22359,
+      "title": "Love Is a Cherry Color",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 52677,
+      "title": "Kisses x Kiss x Kisses",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 23235,
+      "title": "The Tyrant Falls in Love",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55174,
+      "title": "Yeon Woo's Innocence",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 45788,
+      "title": "Does Love Need a Translation App?",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 36226,
+      "title": "Starting With a Lie",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr"
+      ]
     },
     {
       "id": 35703,
       "title": "The Story About You x Me",
-      "score": 0.312,
-      "r18": false
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn",
+        "mx"
+      ]
     },
     {
-      "id": 54049,
-      "title": "I Still Haven't Experienced a Kiss",
-      "score": 0.311,
-      "r18": false
+      "id": 19305,
+      "title": "How to Open a Triangular Riceball",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 52560,
-      "title": "Touch Touch You",
-      "score": 0.31,
-      "r18": false
+      "id": 57706,
+      "title": "Isn't the Contrast Cute?",
+      "score": 0.263,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 53102,
-      "title": "Virgin vs. Chad",
-      "score": 0.307,
-      "r18": false
+      "id": 11145,
+      "title": "Gun &amp; Girls",
+      "score": 0.26,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 52223,
-      "title": "A Story About Becoming Temporary Lovers With a Classmate Who I Fell In Love With at First Sight",
-      "score": 0.307,
-      "r18": false
+      "id": 51669,
+      "title": "A Tsun Couple that isn't really Tsun!",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb",
+        "cn"
+      ]
     },
     {
-      "id": 21377,
-      "title": "Damage Danshi",
-      "score": 0.307,
-      "r18": false
+      "id": 35625,
+      "title": "Tale of a Girl and a Delinquent Who's Bad with Women",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "it",
+        "br"
+      ]
     },
     {
-      "id": 58901,
-      "title": "The Cutest Girl in School Might Like Me!",
-      "score": 0.307,
-      "r18": false
+      "id": 19535,
+      "title": "Balls Friend",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

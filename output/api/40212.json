@@ -2,61 +2,95 @@
   "id": 40212,
   "title": "Iron Girl Natsuki",
   "url": "https://mangadex.org/manga/40212",
-  "last_updated": "March 18, 2021 04:34:18 UTC",
+  "last_updated": "March 18, 2021 11:56:06 UTC",
   "matches": [
     {
       "id": 18576,
       "title": "Space-Time Prisoner",
       "score": 0.124,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "es",
+        "gb"
+      ]
     },
     {
       "id": 8448,
       "title": "Kamen Rider",
-      "score": 0.097,
-      "r18": false
+      "score": 0.096,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 38411,
       "title": "One Punch Man (Webcomic/Fan Colored)",
       "score": 0.086,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
     },
     {
       "id": 42419,
       "title": "Player",
       "score": 0.086,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 36124,
       "title": "Shin Kamen Rider - Prologue",
-      "score": 0.083,
-      "r18": false
+      "score": 0.082,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 40363,
       "title": "Wilderness Hut",
       "score": 0.078,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 14704,
       "title": "Kyomu Senki",
       "score": 0.072,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22123,
       "title": "Masked Rider KUUGA",
       "score": 0.072,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 275,
       "title": "Knight Run",
       "score": 0.062,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br"
+      ]
     }
   ]
 }

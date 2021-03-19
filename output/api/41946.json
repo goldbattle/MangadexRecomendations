@@ -1,140 +1,260 @@
 {
   "id": 41946,
   "title": "Genocide Online",
-  "url": "https://api.mangadex.org/v2/manga/41946",
-  "last_updated": "February 11, 2021 12:18:04 UTC",
+  "url": "https://mangadex.org/manga/41946",
+  "last_updated": "March 18, 2021 12:10:34 UTC",
   "matches": [
     {
-      "id": 56738,
-      "title": "Shintouki: Teogonia",
-      "score": 0.703,
-      "r18": false
+      "id": 44205,
+      "title": "Yuwakashi Yuusha no Fukushuutan",
+      "score": 0.17,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "th"
+      ]
     },
     {
       "id": 1404,
       "title": "Guin Saga",
-      "score": 0.69,
-      "r18": false
-    },
-    {
-      "id": 50725,
-      "title": "Kimi wa Shinenai Hai Kaburi no Majo",
-      "score": 0.681,
-      "r18": false
-    },
-    {
-      "id": 275,
-      "title": "Knight Run",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 40362,
-      "title": "Borderline Bestial Corpse",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 42419,
-      "title": "Player",
-      "score": 0.668,
-      "r18": false
-    },
-    {
-      "id": 40712,
-      "title": "Yajin Tensei: Karate Survivor in Another World",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 44205,
-      "title": "Yuwakashi Yuusha no Fukushuutan",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 50019,
-      "title": "Rooftop Sword Master",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 939,
-      "title": "Hunter x Hunter",
-      "score": 0.658,
-      "r18": false
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 48788,
       "title": "Eat Chicken and Save the World",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 50976,
-      "title": "The Executed Sage Is Reincarnated as a Lich and Starts an All-Out War",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 48440,
-      "title": "TimeLine: Unknown (\u4e0d\u660e\u306a\u6642\u9593)",
-      "score": 0.657,
-      "r18": false
-    },
-    {
-      "id": 36344,
-      "title": "The World Is Full of Monsters Now, Therefore I Want to Live as I Wish",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 43372,
-      "title": "Lockdown No Escape",
-      "score": 0.652,
-      "r18": false
+      "score": 0.153,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 27202,
       "title": "The Ride-On King",
-      "score": 0.294,
-      "r18": false
+      "score": 0.151,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "pl",
+        "ru",
+        "id",
+        "it"
+      ]
     },
     {
-      "id": 6248,
-      "title": "Koukoku no Shugosha",
-      "score": 0.242,
-      "r18": false
+      "id": 56738,
+      "title": "Shintouki: Teogonia",
+      "score": 0.148,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 939,
+      "title": "Hunter x Hunter",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "it",
+        "br",
+        "ru",
+        "es",
+        "gb",
+        "pl",
+        "sa"
+      ]
+    },
+    {
+      "id": 50725,
+      "title": "Kimi wa Shinenai Hai Kaburi no Majo",
+      "score": 0.143,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru",
+        "br",
+        "vn"
+      ]
+    },
+    {
+      "id": 48440,
+      "title": "TimeLine: Unknown (\u4e0d\u660e\u306a\u6642\u9593)",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 52064,
+      "title": "Ramia-Yana",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "es",
+        "fr"
+      ]
+    },
+    {
+      "id": 50019,
+      "title": "Rooftop Sword Master",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "id"
+      ]
+    },
+    {
+      "id": 50976,
+      "title": "The Executed Sage Is Reincarnated as a Lich and Starts an All-Out War",
+      "score": 0.135,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "mx",
+        "fr",
+        "tr",
+        "id"
+      ]
+    },
+    {
+      "id": 275,
+      "title": "Knight Run",
+      "score": 0.129,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br"
+      ]
+    },
+    {
+      "id": 40712,
+      "title": "Yajin Tensei: Karate Survivor in Another World",
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 39252,
       "title": "Mountie Chronicles",
-      "score": 0.235,
-      "r18": false
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 43476,
-      "title": "Yakuza Reincarnation",
-      "score": 0.214,
-      "r18": false
+      "id": 36344,
+      "title": "The World Is Full of Monsters Now, Therefore I Want to Live as I Wish",
+      "score": 0.119,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "br",
+        "fr"
+      ]
     },
     {
-      "id": 52064,
-      "title": "Ramia - Hero &amp; Demon Lord Chronicles",
-      "score": 0.214,
-      "r18": false
+      "id": 6248,
+      "title": "Koukoku no Shugosha",
+      "score": 0.106,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr"
+      ]
     },
     {
-      "id": 40363,
-      "title": "Wilderness Hut",
-      "score": 0.21,
-      "r18": false
+      "id": 34621,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana",
+      "score": 0.102,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "hu"
+      ]
     },
     {
       "id": 17317,
       "title": "Acaria",
-      "score": 0.124,
-      "r18": false
+      "score": 0.101,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 43476,
+      "title": "Yakuza Reincarnation",
+      "score": 0.099,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru",
+        "br",
+        "id"
+      ]
+    },
+    {
+      "id": 42419,
+      "title": "Player",
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 40362,
+      "title": "Borderline Bestial Corpse",
+      "score": 0.091,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 43372,
+      "title": "Lockdown No Escape",
+      "score": 0.076,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 40363,
+      "title": "Wilderness Hut",
+      "score": 0.063,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

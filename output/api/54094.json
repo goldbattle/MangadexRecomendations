@@ -2,19 +2,29 @@
   "id": 54094,
   "title": "Nakanai Tori no Kaeru Ki wa",
   "url": "https://mangadex.org/manga/54094",
-  "last_updated": "January 16, 2021 06:28:48 UTC",
+  "last_updated": "March 18, 2021 13:52:07 UTC",
   "matches": [
-    {
-      "id": 10581,
-      "title": "The Girl in the Diary of Unrequited Love",
-      "score": 0.296,
-      "r18": false
-    },
     {
       "id": 22006,
       "title": "Waltz",
-      "score": 0.275,
-      "r18": false
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "fr",
+        "it",
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 10581,
+      "title": "The Girl in the Diary of Unrequited Love",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     }
   ]
 }

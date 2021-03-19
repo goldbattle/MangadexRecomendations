@@ -1,158 +1,253 @@
 {
   "id": 51570,
   "title": "Ninjala",
-  "url": "https://api.mangadex.org/v2/manga/51570",
-  "last_updated": "February 05, 2021 12:10:07 UTC",
+  "url": "https://mangadex.org/manga/51570",
+  "last_updated": "March 18, 2021 13:31:03 UTC",
   "matches": [
+    {
+      "id": 4721,
+      "title": "7th Dragon",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
     {
       "id": 56097,
       "title": "Ore no Megane wa Tabun Sekai Seifuku Dekiru to Omou.",
-      "score": 0.34,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
+    },
+    {
+      "id": 3445,
+      "title": "Rorona no Atelier - Watashi no Takaramono",
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10382,
+      "title": "Golden Sun - Dark Dawn",
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 23509,
       "title": "Kono Subarashii Sekai ni Shukufuku wo! Spin-off: Kono Kamen no Akuma ni Soudan wo!",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx"
+      ]
     },
     {
       "id": 33815,
-      "title": "Jouhai Shougun, Mata Yabureru",
-      "score": 0.272,
-      "r18": false
+      "title": "The Always Losing General has Fallen Again",
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hk"
+      ]
     },
     {
       "id": 43788,
       "title": "The Servant of the Ultimate Party",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 55054,
-      "title": "Ie ga Moete Jinsei Dou Demo Yoku Natta kara, Nokotta Nakenashi no Kin de Dark Elf no Dorei o Katta",
-      "score": 0.272,
-      "r18": false
+      "id": 53607,
+      "title": "When I Reincarnated I Was a Soldier?! ~A Man Called the Red Shinigami~",
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 9049,
+      "title": "Choubaku Mahouden Slayers",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 15252,
       "title": "Hai to Gensou no Grimgar",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 20901,
-      "title": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka - Familia Chronicle: Episode Ryuu",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 23765,
-      "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 26504,
-      "title": "Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 38499,
-      "title": "Mewtwo Strikes Back Evolution",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 38926,
-      "title": "Pocket Monsters: Mewtwo! Ware wa koko ni ari",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 39725,
-      "title": "The Snack World",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 46608,
-      "title": "Sword Art Online - Lycoris",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 47272,
-      "title": "Granblue Fantasy Side Story: Memories of Arshivelle",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 49655,
-      "title": "Clearing an Isekai with the Zero-Believers Goddess",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 50317,
-      "title": "Dungeon Sherpa: Meikyuu Michisaki Annainin",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 52510,
-      "title": "Ippanjin Enpou Yori Kaeru. Mata Hatara Kaneba!",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 58659,
-      "title": "Sword Art Online - Material Edition: Remix",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 3452,
-      "title": "Zelda no Densetsu - Toki no Ocarina",
-      "score": 0.194,
-      "r18": false
-    },
-    {
-      "id": 12956,
-      "title": "Hero Union BBS",
-      "score": 0.194,
-      "r18": false
-    },
-    {
-      "id": 13066,
-      "title": "Kakusansei Million Arthur - Gunjou no Sorcery Road",
-      "score": 0.194,
-      "r18": false
-    },
-    {
-      "id": 21962,
-      "title": "Isekai Cheat Magician",
-      "score": 0.194,
-      "r18": false
-    },
-    {
-      "id": 22190,
-      "title": "Didn&rsquo;t I Say to Make My Abilities Average in the Next Life?!",
-      "score": 0.194,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 23025,
       "title": "Souzai Saishuka no Isekai Ryokouki",
-      "score": 0.194,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "fr"
+      ]
     },
     {
-      "id": 23433,
-      "title": "Fairy Tail The Movie: Priestess Of The Phoenix",
-      "score": 0.194,
-      "r18": false
+      "id": 23765,
+      "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "fr",
+        "id",
+        "pl"
+      ]
+    },
+    {
+      "id": 38499,
+      "title": "Mewtwo Strikes Back Evolution",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 38926,
+      "title": "Pocket Monsters: Mewtwo! Ware wa koko ni ari",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 39725,
+      "title": "The Snack World",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 46608,
+      "title": "Sword Art Online - Lycoris",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn"
+      ]
+    },
+    {
+      "id": 47272,
+      "title": "Granblue Fantasy Side Story: Memories of Arshivelle",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50317,
+      "title": "Dungeon Sherpa: Meikyuu Michisaki Annainin",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 52510,
+      "title": "Ippanjin Enpou Yori Kaeru. Mata Hatara Kaneba!",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55054,
+      "title": "Ie ga Moete Jinsei Dou Demo Yoku Natta kara, Nokotta Nakenashi no Kin de Dark Elf no Dorei o Katta",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 58659,
+      "title": "Sword Art Online - Material Edition: Remix",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3452,
+      "title": "Zelda no Densetsu - Toki no Ocarina",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4454,
+      "title": "Fire Emblem: Hasha no Tsurugi",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 12956,
+      "title": "Hero Union BBS",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 13066,
+      "title": "Kakusansei Million Arthur - Gunjou no Sorcery Road",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     }
   ]
 }

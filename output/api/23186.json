@@ -2,25 +2,26 @@
   "id": 23186,
   "title": "Slow Down",
   "url": "https://mangadex.org/manga/23186",
-  "last_updated": "March 16, 2021 08:41:26 UTC",
+  "last_updated": "March 18, 2021 09:20:04 UTC",
   "matches": [
-    {
-      "id": 27593,
-      "title": "DOLL: IC in a Doll",
-      "score": 0.233,
-      "r18": false
-    },
     {
       "id": 26134,
       "title": "Shuuseki Kairo no Himawari",
       "score": 0.175,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5810,
       "title": "Normal City",
-      "score": 0.14,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     }
   ]
 }

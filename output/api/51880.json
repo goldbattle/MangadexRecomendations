@@ -1,158 +1,261 @@
 {
   "id": 51880,
   "title": "Lady Chinoiserie",
-  "url": "https://api.mangadex.org/v2/manga/51880",
-  "last_updated": "February 05, 2021 12:15:10 UTC",
+  "url": "https://mangadex.org/manga/51880",
+  "last_updated": "March 18, 2021 13:33:38 UTC",
   "matches": [
     {
-      "id": 17961,
-      "title": "Tenshi",
-      "score": 0.726,
-      "r18": false
-    },
-    {
-      "id": 17960,
-      "title": "Tenshi no Su",
-      "score": 0.725,
-      "r18": false
-    },
-    {
-      "id": 8952,
-      "title": "Ketchup Mayonnaise",
-      "score": 0.724,
-      "r18": false
-    },
-    {
-      "id": 2797,
-      "title": "Le Th&eacute;&acirc;tre de B",
-      "score": 0.721,
-      "r18": false
-    },
-    {
-      "id": 4741,
-      "title": "Falls in Love with a 300-Year-Old Girl",
-      "score": 0.706,
-      "r18": false
-    },
-    {
-      "id": 26665,
-      "title": "Imaginary",
-      "score": 0.702,
-      "r18": false
-    },
-    {
-      "id": 4070,
-      "title": "Shirube no Michi",
-      "score": 0.694,
-      "r18": false
-    },
-    {
-      "id": 43455,
-      "title": "Red Thread Gods",
-      "score": 0.687,
-      "r18": false
-    },
-    {
-      "id": 46403,
-      "title": "Life in Another World as a Housekeeping Mage",
-      "score": 0.685,
-      "r18": false
-    },
-    {
-      "id": 7896,
-      "title": "Matsuru Kami",
-      "score": 0.684,
-      "r18": false
-    },
-    {
-      "id": 12311,
-      "title": "Pandora",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 47525,
-      "title": "We Swore to Meet in the Next Life and That&rsquo;s When Things Got Weird!",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 6429,
-      "title": "Kiiroi Hon - Jacques Thibault to Iu na no Yuujin",
-      "score": 0.671,
-      "r18": false
-    },
-    {
-      "id": 36510,
-      "title": "My Lord, the Wolf Queen",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 13959,
-      "title": "E? Heibon Desu yo??",
-      "score": 0.662,
-      "r18": false
-    },
-    {
-      "id": 11417,
-      "title": "Hisohiso - Silent Voice",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 26133,
-      "title": "Beautiful People",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 15032,
-      "title": "Hoshigahara Ao Manjuu no Mori",
-      "score": 0.657,
-      "r18": false
-    },
-    {
-      "id": 24299,
-      "title": "Mahou ga Tsukaenakutemo",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 20081,
-      "title": "Minato Machi Neko Machi",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 19953,
-      "title": "Inai Boku wa Hotarumachi ni Iru",
-      "score": 0.651,
-      "r18": false
+      "id": 12422,
+      "title": "Tsukikage Cafe",
+      "score": 0.293,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 50266,
       "title": "Tonari no Youkai-san",
-      "score": 0.388,
-      "r18": false
-    },
-    {
-      "id": 11394,
-      "title": "Sumika Sumire",
-      "score": 0.357,
-      "r18": false
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 30200,
       "title": "I Don't Really Know Gully",
-      "score": 0.351,
-      "r18": false
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20079,
+      "title": "Cotton no Mahou",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "it",
+        "fr",
+        "br",
+        "ru"
+      ]
+    },
+    {
+      "id": 12311,
+      "title": "Pandora",
+      "score": 0.269,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 17961,
+      "title": "Tenshi",
+      "score": 0.248,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 17960,
+      "title": "Tenshi no Su",
+      "score": 0.247,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 15032,
+      "title": "Hoshigahara Ao Manjuu no Mori",
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19953,
+      "title": "Inai Boku wa Hotarumachi ni Iru",
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 47525,
+      "title": "We Swore to Meet in the Next Life and That&rsquo;s When Things Got Weird!",
+      "score": 0.228,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn",
+        "mx"
+      ]
+    },
+    {
+      "id": 24299,
+      "title": "Mahou ga Tsukaenakutemo",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 29326,
+      "title": "Chiisako no Niwa",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9723,
+      "title": "Torch Song Ecology",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 11394,
+      "title": "Sumika Sumire",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "tr"
+      ]
+    },
+    {
+      "id": 7465,
+      "title": "Hikari no Umi",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 46234,
+      "title": "Yanagi Ki",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "tr",
+        "in"
+      ]
+    },
+    {
+      "id": 15707,
+      "title": "Koudaike no Hitobito",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 2850,
+      "title": "Black Cat Tunnel",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "de",
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 22484,
+      "title": "Kottou Nekoya",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb"
+      ]
+    },
+    {
+      "id": 23474,
+      "title": "Samenai Machi no Kissaten",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru",
+        "vn"
+      ]
+    },
+    {
+      "id": 26735,
+      "title": "Mahou",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "sa"
+      ]
+    },
+    {
+      "id": 4741,
+      "title": "Falls in Love with a 300-Year-Old Girl",
+      "score": 0.217,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4070,
+      "title": "Shirube no Michi",
+      "score": 0.216,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 30733,
       "title": "Yumi to Kurumi",
-      "score": 0.351,
-      "r18": false
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "ru"
+      ]
+    },
+    {
+      "id": 20081,
+      "title": "Minato Machi Neko Machi",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

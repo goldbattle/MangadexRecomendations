@@ -2,13 +2,27 @@
   "id": 17400,
   "title": "Nekojiru Dango",
   "url": "https://mangadex.org/manga/17400",
-  "last_updated": "March 15, 2021 21:38:54 UTC",
+  "last_updated": "March 18, 2021 08:25:44 UTC",
   "matches": [
     {
       "id": 7775,
       "title": "El Alamein no Shinden",
-      "score": 0.1,
-      "r18": false
+      "score": 0.099,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 20583,
+      "title": "The Mermaid Princess's Guilty Meal",
+      "score": 0.099,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     }
   ]
 }

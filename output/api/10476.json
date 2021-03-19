@@ -2,25 +2,35 @@
   "id": 10476,
   "title": "Ekrano",
   "url": "https://mangadex.org/manga/10476",
-  "last_updated": "March 15, 2021 00:29:07 UTC",
+  "last_updated": "March 18, 2021 07:14:52 UTC",
   "matches": [
     {
       "id": 25437,
       "title": "Kidou Senshi Gundam: Aru Hi - H.D.A.",
       "score": 0.22,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6909,
       "title": "Tiger &amp; Bunny - Good luck and bad luck alternate like the strands of a rope",
       "score": 0.176,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 9643,
       "title": "Bigger Hunter",
       "score": 0.157,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     }
   ]
 }

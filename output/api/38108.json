@@ -2,25 +2,42 @@
   "id": 38108,
   "title": "Madoka no Himitsu",
   "url": "https://mangadex.org/manga/38108",
-  "last_updated": "March 18, 2021 00:57:30 UTC",
+  "last_updated": "March 18, 2021 11:38:33 UTC",
   "matches": [
     {
       "id": 34556,
       "title": "Mokuyoubi wa Kimi to Nakitai",
       "score": 0.214,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 22006,
       "title": "Waltz",
-      "score": 0.205,
-      "r18": false
+      "score": 0.204,
+      "r18": false,
+      "languages": [
+        "fr",
+        "it",
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 218,
       "title": "Kuragehime",
-      "score": 0.198,
-      "r18": false
+      "score": 0.197,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "br",
+        "pl"
+      ]
     }
   ]
 }

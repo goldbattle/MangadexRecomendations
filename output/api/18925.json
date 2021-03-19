@@ -2,31 +2,39 @@
   "id": 18925,
   "title": "Oiran Chirashi",
   "url": "https://mangadex.org/manga/18925",
-  "last_updated": "March 16, 2021 00:12:43 UTC",
+  "last_updated": "March 18, 2021 08:44:19 UTC",
   "matches": [
     {
       "id": 27406,
       "title": "Marshal, Your Wife Ran Away Again",
       "score": 0.29,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "es",
+        "gb"
+      ]
     },
     {
       "id": 53709,
       "title": "The Gentle Goblin's Bird",
       "score": 0.161,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "vn",
+        "it"
+      ]
     },
     {
       "id": 52880,
       "title": "Herbalist",
       "score": 0.161,
-      "r18": false
-    },
-    {
-      "id": 42742,
-      "title": "The Blood of Madam Giselle",
-      "score": 0.161,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     }
   ]
 }

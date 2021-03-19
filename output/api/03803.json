@@ -2,43 +2,73 @@
   "id": 3803,
   "title": "Fly, Daddy, Fly",
   "url": "https://mangadex.org/manga/3803",
-  "last_updated": "March 14, 2021 08:23:49 UTC",
+  "last_updated": "March 18, 2021 06:16:05 UTC",
   "matches": [
     {
       "id": 4534,
       "title": "Bakuon Rettou",
-      "score": 0.266,
-      "r18": false
+      "score": 0.265,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 52318,
       "title": "Young Lady, I'm a Yankee Butler",
       "score": 0.207,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 34327,
       "title": "Blue Period",
-      "score": 0.207,
-      "r18": false
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "ru",
+        "tr"
+      ]
     },
     {
       "id": 22520,
       "title": "Itaewon Class",
-      "score": 0.156,
-      "r18": false
+      "score": 0.163,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 5927,
       "title": "Subarashii Sekai",
-      "score": 0.145,
-      "r18": false
+      "score": 0.144,
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 10618,
       "title": "Wind Breaker",
-      "score": 0.112,
-      "r18": false
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "br",
+        "mx",
+        "tr",
+        "gb",
+        "pl"
+      ]
     }
   ]
 }

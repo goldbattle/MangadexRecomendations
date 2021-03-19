@@ -2,157 +2,246 @@
   "id": 5517,
   "title": "Natsumeki!!",
   "url": "https://mangadex.org/manga/5517",
-  "last_updated": "March 14, 2021 12:37:31 UTC",
+  "last_updated": "March 18, 2021 06:32:17 UTC",
   "matches": [
     {
       "id": 28661,
       "title": "Otome no Houkago",
       "score": 0.357,
-      "r18": false
-    },
-    {
-      "id": 16302,
-      "title": "Koi Furu Colorful - Zenbu Kimi to Hajimete",
-      "score": 0.35,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4434,
       "title": "Seishun Panda!",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 16463,
-      "title": "Uirabu. - Uiuishii Love no Ohanashi",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 3412,
-      "title": "Gakkou Hotel",
-      "score": 0.35,
-      "r18": false
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19793,
       "title": "Koi no Mizu Kudasai",
-      "score": 0.35,
-      "r18": false
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2879,
       "title": "Mebae no March",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 22020,
-      "title": "Koi desu ga Koi Janai",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 20798,
-      "title": "Stand By Me, Love Letter",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 2172,
-      "title": "Suiren",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 15591,
-      "title": "Otonari wa 1-ken de 2-do oishii",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 9372,
-      "title": "Cosmic Color",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 26498,
-      "title": "Kare wa, Ano Ko no Mono",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 35361,
-      "title": "Koi ni Dokubari",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 14111,
-      "title": "Dakara Koi to Yobanaide",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 5225,
-      "title": "Seishun Location",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 19307,
-      "title": "Prince Collection",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 5489,
-      "title": "Nobles' Love Company",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 25983,
-      "title": "Sayonara demo Aishiteru",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 1762,
-      "title": "Sagashimono",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 2192,
-      "title": "Kono Sora ni Hibike",
-      "score": 0.35,
-      "r18": false
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 23271,
       "title": "Na no ni, Chigira-kun ga Amasugiru",
-      "score": 0.35,
-      "r18": false
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 22193,
-      "title": "Kimi ga Kirai na Koi no Hanashi",
-      "score": 0.35,
-      "r18": false
+      "id": 22020,
+      "title": "Koi desu ga Koi Janai",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2172,
+      "title": "Suiren",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3412,
+      "title": "Gakkou Hotel",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9372,
+      "title": "Cosmic Color",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 26498,
+      "title": "Kare wa, Ano Ko no Mono",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 35361,
+      "title": "Koi ni Dokubari",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx"
+      ]
+    },
+    {
+      "id": 14111,
+      "title": "Dakara Koi to Yobanaide",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5225,
+      "title": "Seishun Location",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19307,
+      "title": "Prince Collection",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5489,
+      "title": "Nobles' Love Company",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 25983,
+      "title": "Sayonara demo Aishiteru",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1762,
+      "title": "Sagashimono",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 9515,
       "title": "Usotsuki Kusuriyubi",
-      "score": 0.35,
-      "r18": false
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu"
+      ]
     },
     {
-      "id": 19031,
-      "title": "Sekai wa Nakajima ni Koi o Suru!!",
-      "score": 0.35,
-      "r18": false
+      "id": 22193,
+      "title": "Kimi ga Kirai na Koi no Hanashi",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "it",
+        "pl"
+      ]
+    },
+    {
+      "id": 15432,
+      "title": "Datte... Gaman Dekinai",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10882,
+      "title": "Koi Koinegau",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 59919,
+      "title": "Senpai wa, Ijiwaru ni Tsuki",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 22951,
+      "title": "Usotsuki Ouji no Karekano Gokko",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 8283,
+      "title": "Uso Kano",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 4602,
+      "title": "7-gatsu no Mahoutsukai",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

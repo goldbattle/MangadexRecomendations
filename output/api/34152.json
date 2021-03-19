@@ -1,80 +1,131 @@
 {
   "id": 34152,
   "title": "Alice Everlasting",
-  "url": "https://api.mangadex.org/v2/manga/34152",
-  "last_updated": "February 10, 2021 16:24:14 UTC",
+  "url": "https://mangadex.org/manga/34152",
+  "last_updated": "March 18, 2021 11:05:32 UTC",
   "matches": [
-    {
-      "id": 49368,
-      "title": "Kamisama to",
-      "score": 0.366,
-      "r18": false
-    },
     {
       "id": 21415,
       "title": "Renri no Eda (Shimokawa Saki)",
-      "score": 0.317,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20628,
       "title": "The Traveler",
-      "score": 0.285,
-      "r18": false
-    },
-    {
-      "id": 20489,
-      "title": "Untouchable Lover",
-      "score": 0.277,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "de",
+        "vn",
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 13725,
       "title": "Goodbye Body",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 22544,
       "title": "Hoshi ni Negai o Futatabi",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 20489,
+      "title": "Untouchable Lover",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 43557,
       "title": "The Mermaid and...",
-      "score": 0.205,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "hu",
+        "fr",
+        "ir",
+        "th",
+        "it"
+      ]
     },
     {
       "id": 51557,
       "title": "The Love and Lies of a...",
-      "score": 0.194,
-      "r18": false
-    },
-    {
-      "id": 8286,
-      "title": "The Legend of Genghis",
-      "score": 0.19,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "vn"
+      ]
     },
     {
       "id": 59384,
       "title": "Shigoite! Gina-chan",
-      "score": 0.17,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8286,
+      "title": "The Legend of Genghis",
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 19017,
       "title": "The Zombie Maria",
-      "score": 0.151,
-      "r18": false
+      "score": 0.124,
+      "r18": false,
+      "languages": [
+        "de",
+        "ru",
+        "it",
+        "pl",
+        "br",
+        "gb",
+        "fr",
+        "id",
+        "ir"
+      ]
     },
     {
       "id": 50166,
       "title": "The Ghost and...",
-      "score": 0.151,
-      "r18": false
+      "score": 0.124,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu",
+        "vn"
+      ]
     }
   ]
 }

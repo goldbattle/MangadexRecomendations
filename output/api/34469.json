@@ -1,158 +1,248 @@
 {
   "id": 34469,
   "title": "Claws of the Waves",
-  "url": "https://api.mangadex.org/v2/manga/34469",
-  "last_updated": "February 10, 2021 16:29:06 UTC",
+  "url": "https://mangadex.org/manga/34469",
+  "last_updated": "March 18, 2021 11:08:11 UTC",
   "matches": [
-    {
-      "id": 55745,
-      "title": "Gensou Shounen Koimonogatari",
-      "score": 0.695,
-      "r18": false
-    },
-    {
-      "id": 16208,
-      "title": "Kyouken Breeder",
-      "score": 0.69,
-      "r18": false
-    },
-    {
-      "id": 15501,
-      "title": "Feng Yu Jiu Tian",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 29579,
-      "title": "Thirty Years Old",
-      "score": 0.674,
-      "r18": false
-    },
-    {
-      "id": 29112,
-      "title": "Yami ni Tooboe, Mune ni Toge",
-      "score": 0.674,
-      "r18": false
-    },
-    {
-      "id": 43410,
-      "title": "Angel Buddy",
-      "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 55763,
-      "title": "Hashire! Ouji-sama",
-      "score": 0.668,
-      "r18": false
-    },
-    {
-      "id": 22515,
-      "title": "Shitsuji Game",
-      "score": 0.668,
-      "r18": false
-    },
-    {
-      "id": 36782,
-      "title": "Namida mo Tooku -Aonibi no Nemuri-",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 40974,
-      "title": "Scumbag System",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 9393,
-      "title": "Akuma\u2605Game",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 59359,
-      "title": "Daehyun's Laundry~ I wash everything~",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 7329,
-      "title": "Natsu, Kimi ga Saku.",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 21266,
-      "title": "They Are a Couple",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 41452,
-      "title": "BL Motel",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 42487,
-      "title": "Biting the Tiger",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 22181,
-      "title": "Ookami Papa wa Hitsuji Tsura Shite Yatte Kuru",
-      "score": 0.654,
-      "r18": false
-    },
     {
       "id": 31487,
       "title": "The Wizard And The NEET",
-      "score": 0.652,
-      "r18": false
+      "score": 0.304,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 53599,
       "title": "Hetare Maou to Tsundere Yuusha",
-      "score": 0.429,
-      "r18": false
-    },
-    {
-      "id": 59267,
-      "title": "Kitsune no Omuko-san",
-      "score": 0.42,
-      "r18": false
+      "score": 0.277,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 43755,
       "title": "Wild Fish",
-      "score": 0.403,
-      "r18": false
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59267,
+      "title": "Kitsune no Omuko-san",
+      "score": 0.265,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59359,
+      "title": "Daehyun's Laundry~ I wash everything~",
+      "score": 0.251,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8069,
+      "title": "Koketsu Dining",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 57323,
+      "title": "Dangerous Convenience Store",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 8937,
+      "title": "Koisuru Bicchi-kun",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 59639,
+      "title": "A Grand Ambition",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 26028,
+      "title": "Hoshii Mono Zenbu",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 57200,
+      "title": "Elf and Orc BL",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 58756,
       "title": "Fox Cream Tart",
-      "score": 0.381,
-      "r18": false
+      "score": 0.244,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 25005,
-      "title": "Hakoniwa",
-      "score": 0.372,
-      "r18": false
+      "id": 24125,
+      "title": "Demon Baby Diary",
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 22181,
+      "title": "Ookami Papa wa Hitsuji Tsura Shite Yatte Kuru",
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 22515,
+      "title": "Shitsuji Game",
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 26296,
       "title": "I, the Emperor, am not a Superstar",
-      "score": 0.369,
-      "r18": false
+      "score": 0.238,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29579,
+      "title": "Thirty Years Old",
+      "score": 0.234,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "br",
+        "fr",
+        "it"
+      ]
+    },
+    {
+      "id": 25005,
+      "title": "Hakoniwa",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 16208,
+      "title": "Kyouken Breeder",
+      "score": 0.228,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 29112,
+      "title": "Yami ni Tooboe, Mune ni Toge",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 20732,
       "title": "Vampire and Hunter",
-      "score": 0.363,
-      "r18": false
+      "score": 0.219,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "hu"
+      ]
+    },
+    {
+      "id": 55122,
+      "title": "Xiu Zhen Nai Ba",
+      "score": 0.216,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 27423,
+      "title": "Naive",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 33708,
+      "title": "Saru to Momo",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59309,
+      "title": "Deep",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     }
   ]
 }

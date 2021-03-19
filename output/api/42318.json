@@ -1,20 +1,52 @@
 {
   "id": 42318,
   "title": "Nijitte Monogatari",
-  "url": "https://api.mangadex.org/v2/manga/42318",
-  "last_updated": "February 11, 2021 12:23:34 UTC",
+  "url": "https://mangadex.org/manga/42318",
+  "last_updated": "March 18, 2021 12:13:40 UTC",
   "matches": [
     {
       "id": 12171,
       "title": "Re:Monster",
-      "score": 0.106,
-      "r18": false
+      "score": 0.089,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "id",
+        "fr",
+        "de"
+      ]
     },
     {
       "id": 5353,
       "title": "GATE - Jieitai Kanochi nite, Kaku Tatakaeri",
-      "score": 0.092,
-      "r18": false
+      "score": 0.077,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "id",
+        "br",
+        "mx",
+        "ru",
+        "fr",
+        "tr",
+        "pl"
+      ]
+    },
+    {
+      "id": 14048,
+      "title": "Overlord",
+      "score": 0.077,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "sa",
+        "mx",
+        "id"
+      ]
     }
   ]
 }

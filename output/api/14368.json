@@ -2,157 +2,303 @@
   "id": 14368,
   "title": "Domu - A Child's Dream",
   "url": "https://mangadex.org/manga/14368",
-  "last_updated": "March 15, 2021 12:30:09 UTC",
+  "last_updated": "March 18, 2021 07:48:09 UTC",
   "matches": [
-    {
-      "id": 33688,
-      "title": "Kiriko Kill",
-      "score": 0.33,
-      "r18": false
-    },
-    {
-      "id": 2535,
-      "title": "Tsumitsuki",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 1257,
-      "title": "Alive!",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 1366,
-      "title": "Skyhigh - Shinshou",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 5920,
-      "title": "Devilman Mokushiroku - STRANGE DAYS",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 842,
-      "title": "Necrophilia of Darkside Sister",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 15582,
-      "title": "Jacarand&aacute;",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 32361,
-      "title": "Siren ReBIRTH",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 7439,
-      "title": "Melody of Iron",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 7772,
-      "title": "Yume no Soko",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 13853,
-      "title": "The Little Match Girl",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 2232,
-      "title": "Waraenu Douji - 108 no Gou",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 18548,
-      "title": "Dead Word Puzzle",
-      "score": 0.267,
-      "r18": false
-    },
-    {
-      "id": 705,
-      "title": "Collapse of the World as We Know It",
-      "score": 0.267,
-      "r18": false
-    },
-    {
-      "id": 251,
-      "title": "Ibitsu",
-      "score": 0.264,
-      "r18": false
-    },
-    {
-      "id": 351,
-      "title": "Neighbor No. 13",
-      "score": 0.261,
-      "r18": false
-    },
-    {
-      "id": 27636,
-      "title": "Night Head Genesis",
-      "score": 0.26,
-      "r18": false
-    },
-    {
-      "id": 27981,
-      "title": "Cossette no Shouzou",
-      "score": 0.257,
-      "r18": false
-    },
-    {
-      "id": 12149,
-      "title": "Hoshi no Ponko to Toufuya Reiko",
-      "score": 0.257,
-      "r18": false
-    },
-    {
-      "id": 9589,
-      "title": "Kasane",
-      "score": 0.257,
-      "r18": false
-    },
-    {
-      "id": 335,
-      "title": "Eternal Sabbath",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 9862,
-      "title": "Savanna Game - The Comic",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 17569,
-      "title": "Kiriko",
-      "score": 0.248,
-      "r18": false
-    },
-    {
-      "id": 11985,
-      "title": "Kirisame ga Furu Mori",
-      "score": 0.246,
-      "r18": false
-    },
     {
       "id": 106,
       "title": "Uzumaki",
-      "score": 0.242,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "tr",
+        "mx",
+        "es",
+        "br",
+        "ua"
+      ]
+    },
+    {
+      "id": 40936,
+      "title": "Pet",
+      "score": 0.236,
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 23568,
+      "title": "Rurimiya Mugen Kobutsuten",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 32058,
+      "title": "Mushihime",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "sa"
+      ]
+    },
+    {
+      "id": 23932,
+      "title": "Wakusei Closet",
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "ru",
+        "mx",
+        "br"
+      ]
+    },
+    {
+      "id": 29740,
+      "title": "Parasyte Reversi",
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "hk",
+        "vn",
+        "gb",
+        "it",
+        "mx"
+      ]
+    },
+    {
+      "id": 148,
+      "title": "Destroy and Revolution",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 3700,
+      "title": "Wolfsmund",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 30868,
+      "title": "Lost At The End Of The World",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx"
+      ]
+    },
+    {
+      "id": 35793,
+      "title": "Zeus no Te",
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "hk",
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 22036,
+      "title": "Zanuff the Butcher",
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "mx",
+        "pl",
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 57650,
+      "title": "BIBLIOMANIA",
+      "score": 0.161,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br",
+        "gb",
+        "tr",
+        "fr",
+        "it"
+      ]
+    },
+    {
+      "id": 28617,
+      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run",
+      "score": 0.152,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "it",
+        "fr"
+      ]
+    },
+    {
+      "id": 3366,
+      "title": "Feng Shen Ji",
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx",
+        "fr",
+        "tr"
+      ]
+    },
+    {
+      "id": 50721,
+      "title": "Gakkou Gurashi! Otayori",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "br",
+        "hu",
+        "ru",
+        "mx"
+      ]
+    },
+    {
+      "id": 45785,
+      "title": "Edogawa Osamu's Anthology",
+      "score": 0.144,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn",
+        "br",
+        "mx"
+      ]
+    },
+    {
+      "id": 5049,
+      "title": "Boku dake ga Inai Machi",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "mx",
+        "br",
+        "it",
+        "sa"
+      ]
+    },
+    {
+      "id": 46835,
+      "title": "Oshi no Ko",
+      "score": 0.125,
+      "r18": false,
+      "languages": [
+        "mx",
+        "fr",
+        "br",
+        "gb",
+        "ru",
+        "it",
+        "id"
+      ]
+    },
+    {
+      "id": 503,
+      "title": "Coppelion",
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "mx",
+        "it",
+        "br"
+      ]
+    },
+    {
+      "id": 57026,
+      "title": "Majo Taisen - The War of Greedy Witches",
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "vn",
+        "id",
+        "ru",
+        "tr"
+      ]
+    },
+    {
+      "id": 6272,
+      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
+      "score": 0.112,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "br",
+        "ru",
+        "it",
+        "id",
+        "il",
+        "de"
+      ]
+    },
+    {
+      "id": 23900,
+      "title": "Feng Shen Ji II",
+      "score": 0.105,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru",
+        "fr"
+      ]
+    },
+    {
+      "id": 23902,
+      "title": "Feng Shen Ji III",
+      "score": 0.105,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru"
+      ]
+    },
+    {
+      "id": 53831,
+      "title": "Over the Moon",
+      "score": 0.103,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru"
+      ]
     }
   ]
 }

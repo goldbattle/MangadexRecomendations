@@ -1,158 +1,244 @@
 {
   "id": 40870,
   "title": "Bad Luck Prince",
-  "url": "https://api.mangadex.org/v2/manga/40870",
-  "last_updated": "February 11, 2021 08:30:14 UTC",
+  "url": "https://mangadex.org/manga/40870",
+  "last_updated": "March 18, 2021 12:01:35 UTC",
   "matches": [
-    {
-      "id": 27458,
-      "title": "Bingo!",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 53144,
-      "title": "Renai Sousa x Nekobon.",
-      "score": 0.473,
-      "r18": false
-    },
     {
       "id": 58069,
       "title": "Sokuseki Ad-Lib Lover",
-      "score": 0.462,
-      "r18": false
-    },
-    {
-      "id": 12854,
-      "title": "Liberty\u2606Liberty!",
-      "score": 0.454,
-      "r18": false
-    },
-    {
-      "id": 14222,
-      "title": "Merry Go Round",
-      "score": 0.441,
-      "r18": false
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 28924,
       "title": "Okome-chan",
-      "score": 0.441,
-      "r18": false
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 55264,
-      "title": "Ore-sama na Pet",
-      "score": 0.367,
-      "r18": false
+      "id": 53144,
+      "title": "Renai Sousa x Nekobon.",
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 38137,
-      "title": "Kankei wa Mada Lv.1",
-      "score": 0.36,
-      "r18": false
+      "id": 14222,
+      "title": "Merry Go Round",
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 13683,
-      "title": "Extrastrous",
-      "score": 0.359,
-      "r18": false
-    },
-    {
-      "id": 57857,
-      "title": "Ebisu",
-      "score": 0.356,
-      "r18": false
+      "id": 12854,
+      "title": "Liberty\u2606Liberty!",
+      "score": 0.346,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu",
+        "tr"
+      ]
     },
     {
       "id": 18616,
       "title": "House Backer",
-      "score": 0.354,
-      "r18": false
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "it"
+      ]
     },
     {
-      "id": 27822,
-      "title": "Uchi ni Oide yo.",
-      "score": 0.35,
-      "r18": false
+      "id": 57857,
+      "title": "Ebisu",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 17311,
-      "title": "Yuri Danshi-kun",
-      "score": 0.35,
-      "r18": false
+      "id": 38137,
+      "title": "Kankei wa Mada Lv.1",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 32728,
-      "title": "Zettai BL ni Naru Sekai vs. Zettai BL ni Naritakunai Otoko",
-      "score": 0.349,
-      "r18": false
-    },
-    {
-      "id": 59479,
-      "title": "Come on-a My House",
-      "score": 0.346,
-      "r18": false
-    },
-    {
-      "id": 58720,
-      "title": "Onajikakera de Dekite Iru",
-      "score": 0.345,
-      "r18": false
-    },
-    {
-      "id": 34857,
-      "title": "Zetsuai/Bronze - Birth (Doujinshi)",
-      "score": 0.344,
-      "r18": false
-    },
-    {
-      "id": 11984,
-      "title": "Junjou Electric",
-      "score": 0.344,
-      "r18": false
-    },
-    {
-      "id": 9665,
-      "title": "Migite ni Juu, Hidarite ni Ai",
-      "score": 0.343,
-      "r18": false
-    },
-    {
-      "id": 37100,
-      "title": "Koi no Mimi Yori Chuuihou",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 6183,
-      "title": "Sora to Hara",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 37238,
-      "title": "Self Portrait",
-      "score": 0.335,
-      "r18": false
-    },
-    {
-      "id": 27084,
-      "title": "Kuchibiru ni Amai Doku",
-      "score": 0.335,
-      "r18": false
+      "id": 4045,
+      "title": "Hard Romantica",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5183,
       "title": "Otoko no Ko Days",
-      "score": 0.335,
-      "r18": false
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 29048,
-      "title": "Free! - Yukkuri Tsuzukimasu (Doujinshi)",
-      "score": 0.334,
-      "r18": false
+      "id": 17311,
+      "title": "Yuri Danshi-kun",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 27084,
+      "title": "Kuchibiru ni Amai Doku",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 37100,
+      "title": "Koi no Mimi Yori Chuuihou",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "pl"
+      ]
+    },
+    {
+      "id": 55264,
+      "title": "Ore-sama na Pet",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59479,
+      "title": "Come on-a My House",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37238,
+      "title": "Self Portrait",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 23978,
+      "title": "Asakura Ke no Hitobito",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6183,
+      "title": "Sora to Hara",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 28073,
+      "title": "Dorobou to Keiji",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 9665,
+      "title": "Migite ni Juu, Hidarite ni Ai",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 8036,
+      "title": "Honjitsu wa Seiten nari!",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 32728,
+      "title": "Zettai BL ni Naru Sekai vs. Zettai BL ni Naritakunai Otoko",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 57330,
+      "title": "Natsuyasumi",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55747,
+      "title": "Hatsukoi Elegy",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21735,
+      "title": "Guidance of Paranoia",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

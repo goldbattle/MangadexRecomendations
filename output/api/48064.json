@@ -2,157 +2,246 @@
   "id": 48064,
   "title": "Truth",
   "url": "https://mangadex.org/manga/48064",
-  "last_updated": "January 15, 2021 12:29:09 UTC",
+  "last_updated": "March 18, 2021 13:01:43 UTC",
   "matches": [
     {
-      "id": 5029,
-      "title": "To Where the Rail Goes",
-      "score": 0.417,
-      "r18": false
-    },
-    {
-      "id": 10475,
-      "title": "Cocytus",
-      "score": 0.415,
-      "r18": false
-    },
-    {
-      "id": 44048,
-      "title": "Ano Koro no Aoi Hoshi",
-      "score": 0.412,
-      "r18": false
-    },
-    {
-      "id": 42856,
-      "title": "Boku wa Ane ni Youbun o Suwaremashita",
-      "score": 0.402,
-      "r18": false
-    },
-    {
-      "id": 28253,
-      "title": "Shoujo&sup2;",
-      "score": 0.401,
-      "r18": false
-    },
-    {
-      "id": 20513,
-      "title": "Alice",
-      "score": 0.4,
-      "r18": false
+      "id": 7556,
+      "title": "Baku Ai",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 28156,
       "title": "Kimiiro Shoujo",
-      "score": 0.4,
-      "r18": false
-    },
-    {
-      "id": 7556,
-      "title": "Baku Ai",
-      "score": 0.395,
-      "r18": false
-    },
-    {
-      "id": 57862,
-      "title": "Girls' Lives",
-      "score": 0.386,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 31755,
       "title": "Heartsick",
-      "score": 0.368,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 28325,
-      "title": "Himitsu, Hitotsu",
-      "score": 0.337,
-      "r18": false
-    },
-    {
-      "id": 20953,
-      "title": "Koi ni Wazurai",
-      "score": 0.334,
-      "r18": false
+      "id": 42856,
+      "title": "Boku wa Ane ni Youbun o Suwaremashita",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 58723,
       "title": "The Afterschool Angel",
-      "score": 0.327,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 23204,
-      "title": "Mix Flavor",
-      "score": 0.324,
-      "r18": false
+      "id": 28325,
+      "title": "Himitsu, Hitotsu",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 58547,
-      "title": "A Girl Who Wants To Get Close With the Girl She Likes",
-      "score": 0.311,
-      "r18": false
-    },
-    {
-      "id": 47558,
-      "title": "Cute and Cruel",
-      "score": 0.298,
-      "r18": false
-    },
-    {
-      "id": 52466,
-      "title": "Love Live! Sunshine!! - Rewrite Stars (Doujinshi)",
-      "score": 0.295,
-      "r18": false
-    },
-    {
-      "id": 53045,
-      "title": "Love Live! Sunshine!! - Mattete Koigokoro  (Doujinshi)",
+      "id": 57862,
+      "title": "Girls' Lives",
       "score": 0.294,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 52683,
-      "title": "Love Live! Sunshine!! - Endless Love ~Sure Chigatta Omoi~ (Doujinshi)",
-      "score": 0.291,
-      "r18": false
+      "id": 28253,
+      "title": "Shoujo&sup2;",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10475,
+      "title": "Cocytus",
+      "score": 0.273,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 20513,
+      "title": "Alice",
+      "score": 0.271,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 5029,
+      "title": "To Where the Rail Goes",
+      "score": 0.269,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 44048,
+      "title": "Ano Koro no Aoi Hoshi",
+      "score": 0.265,
+      "r18": false,
+      "languages": [
+        "vn",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 20953,
+      "title": "Koi ni Wazurai",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 49926,
       "title": "Only Need to Love Once",
-      "score": 0.29,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 23204,
+      "title": "Mix Flavor",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb"
+      ]
+    },
+    {
+      "id": 58547,
+      "title": "A Girl Who Wants To Get Close With the Girl She Likes",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4156,
       "title": "Chocolate Kiss Kiss",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "tr"
+      ]
+    },
+    {
+      "id": 26219,
+      "title": "Friends",
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 43304,
       "title": "Love Live! - Tegami to Nozomi (Doujinshi)",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 46172,
       "title": "Six AM Love Affair",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
-      "id": 20325,
-      "title": "Eclair - Anata ni Hibiku Yuri Anthology (Anthology)",
-      "score": 0.253,
-      "r18": false
+      "id": 52466,
+      "title": "Love Live! Sunshine!! - Rewrite Stars (Doujinshi)",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 20132,
-      "title": "Shitto na Watashi to Shikku na Aitsu",
-      "score": 0.233,
-      "r18": false
+      "id": 53045,
+      "title": "Love Live! Sunshine!! - Mattete Koigokoro  (Doujinshi)",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 52683,
+      "title": "Love Live! Sunshine!! - Endless Love ~Sure Chigatta Omoi~ (Doujinshi)",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 54287,
+      "title": "Rapunzel",
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx"
+      ]
+    },
+    {
+      "id": 47558,
+      "title": "Cute and Cruel",
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

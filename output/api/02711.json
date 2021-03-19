@@ -2,25 +2,36 @@
   "id": 2711,
   "title": "Dawn - Tsumetai Te",
   "url": "https://mangadex.org/manga/2711",
-  "last_updated": "March 14, 2021 04:33:21 UTC",
+  "last_updated": "March 18, 2021 06:06:01 UTC",
   "matches": [
     {
       "id": 6658,
       "title": "Hikari",
-      "score": 0.181,
-      "r18": false
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 51483,
       "title": "Breaking Through the Clouds 2: Swallow the Sea",
       "score": 0.165,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "mx"
+      ]
     },
     {
       "id": 50722,
       "title": "Glotoneria",
-      "score": 0.145,
-      "r18": false
+      "score": 0.144,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

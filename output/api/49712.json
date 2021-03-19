@@ -1,62 +1,89 @@
 {
   "id": 49712,
   "title": "She Is Possessed by the Strongest Evil Spirit",
-  "url": "https://api.mangadex.org/v2/manga/49712",
-  "last_updated": "February 05, 2021 08:11:57 UTC",
+  "url": "https://mangadex.org/manga/49712",
+  "last_updated": "March 18, 2021 13:15:33 UTC",
   "matches": [
     {
       "id": 47332,
       "title": "The Strongest Haunted House and the Guy With No Spiritual Sense",
-      "score": 0.389,
-      "r18": false
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn",
+        "cn",
+        "id",
+        "br",
+        "ru"
+      ]
     },
     {
       "id": 53703,
       "title": "Mono no Kemonogurashi",
-      "score": 0.315,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn"
+      ]
     },
     {
       "id": 52690,
       "title": "I've Been Cursed by Her, but Since I'm Happy It's OK!",
-      "score": 0.258,
-      "r18": false
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 30630,
       "title": "Mieru Ko-chan (pixiv)",
-      "score": 0.242,
-      "r18": false
-    },
-    {
-      "id": 45304,
-      "title": "Furious Yama",
-      "score": 0.208,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru"
+      ]
     },
     {
       "id": 58682,
       "title": "Do you believe in ghost?",
-      "score": 0.195,
-      "r18": false
+      "score": 0.161,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 59848,
-      "title": "Urban Exorcist",
-      "score": 0.19,
-      "r18": false
+      "id": 45304,
+      "title": "Furious Yama",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 46516,
-      "title": "I'd Rather Believe",
-      "score": 0.179,
-      "r18": false
+      "id": 43343,
+      "title": "Phantom in the Twilight",
+      "score": 0.096,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 45140,
       "title": "Oh My Ghost",
-      "score": 0.137,
-      "r18": false
+      "score": 0.08,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     }
   ]
 }

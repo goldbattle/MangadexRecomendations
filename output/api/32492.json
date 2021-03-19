@@ -1,86 +1,135 @@
 {
   "id": 32492,
   "title": "Kyoudai Complex",
-  "url": "https://api.mangadex.org/v2/manga/32492",
-  "last_updated": "February 10, 2021 08:36:18 UTC",
+  "url": "https://mangadex.org/manga/32492",
+  "last_updated": "March 18, 2021 10:51:42 UTC",
   "matches": [
-    {
-      "id": 4823,
-      "title": "Kiken Junai D.N.A.",
-      "score": 0.702,
-      "r18": false
-    },
-    {
-      "id": 10197,
-      "title": "Mahouka Koukou no Rettousei - Kyuukousen-hen",
-      "score": 0.701,
-      "r18": false
-    },
-    {
-      "id": 734,
-      "title": "Mao Marimo",
-      "score": 0.699,
-      "r18": false
-    },
-    {
-      "id": 21433,
-      "title": "Mahouka Koukou no Rettousei - Double Seven-hen",
-      "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 2227,
-      "title": "Six Half",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 11384,
-      "title": "Return",
-      "score": 0.663,
-      "r18": false
-    },
     {
       "id": 23020,
       "title": "Siscon Ani to Brocon Imouto ga Shoujiki ni Nattara",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 55274,
-      "title": "My stepsister who says Go die go die to me every day, tries to hypnotize me to fall for her while I was sleeping...!",
-      "score": 0.415,
-      "r18": false
-    },
-    {
-      "id": 1161,
-      "title": "Shiro no Eden",
-      "score": 0.391,
-      "r18": false
+      "score": 0.303,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it",
+        "de",
+        "ru",
+        "id",
+        "mx",
+        "tr"
+      ]
     },
     {
       "id": 13160,
       "title": "Yukimura-sensei to Kei-kun",
-      "score": 0.381,
-      "r18": false
-    },
-    {
-      "id": 48471,
-      "title": "The Twins' Circumstances",
-      "score": 0.373,
-      "r18": false
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 12853,
       "title": "Haikei, Niisan-sama",
-      "score": 0.364,
-      "r18": false
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4823,
+      "title": "Kiken Junai D.N.A.",
+      "score": 0.254,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1161,
+      "title": "Shiro no Eden",
+      "score": 0.244,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4833,
       "title": "Momoyama Kyoudai",
-      "score": 0.363,
-      "r18": false
+      "score": 0.236,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 55274,
+      "title": "My stepsister who says Go die go die to me every day, tries to hypnotize me to fall for her while I was sleeping...!",
+      "score": 0.229,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id",
+        "br",
+        "tr",
+        "it",
+        "ru",
+        "th"
+      ]
+    },
+    {
+      "id": 734,
+      "title": "Mao Marimo",
+      "score": 0.219,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 10685,
+      "title": "Medicine",
+      "score": 0.206,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 10197,
+      "title": "Mahouka Koukou no Rettousei - Kyuukousen-hen",
+      "score": 0.173,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 21433,
+      "title": "Mahouka Koukou no Rettousei - Double Seven-hen",
+      "score": 0.161,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 11384,
+      "title": "Return",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

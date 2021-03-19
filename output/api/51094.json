@@ -1,158 +1,252 @@
 {
   "id": 51094,
   "title": "Gin no Vendetta",
-  "url": "https://api.mangadex.org/v2/manga/51094",
-  "last_updated": "February 05, 2021 12:02:17 UTC",
+  "url": "https://mangadex.org/manga/51094",
+  "last_updated": "March 18, 2021 13:27:04 UTC",
   "matches": [
     {
       "id": 2717,
       "title": "Black Blood Brothers ver.C",
-      "score": 0.175,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "pl"
+      ]
     },
     {
       "id": 7055,
       "title": "Pure Blood",
-      "score": 0.175,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "pl"
+      ]
     },
     {
       "id": 10571,
       "title": "Dance in the Vampire Bund - Sledge Hammer no Tsuioku",
-      "score": 0.175,
-      "r18": false
-    },
-    {
-      "id": 42015,
-      "title": "CODE VEIN -Memory Echoes-",
-      "score": 0.175,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 52737,
       "title": "Our Blood Oath",
-      "score": 0.175,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 18588,
       "title": "Kyuuketsuki Sugu Shinu",
-      "score": 0.14,
-      "r18": false
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 18597,
       "title": "Sono Vampir wa Tadashikunai Yume wo Miru",
-      "score": 0.14,
-      "r18": false
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 50893,
       "title": "Kyuketsuki Mahiru-chan",
-      "score": 0.14,
-      "r18": false
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "cn"
+      ]
     },
     {
       "id": 1638,
       "title": "Blood Soul",
-      "score": 0.117,
-      "r18": false
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "bg",
+        "fr"
+      ]
+    },
+    {
+      "id": 3919,
+      "title": "Melty Blood ACT:2",
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 6657,
       "title": "Vampire Savior - Tamashii no Mayoigo",
-      "score": 0.117,
-      "r18": false
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 10973,
       "title": "BLOOD+ - Yakou Joushi",
-      "score": 0.117,
-      "r18": false
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 24217,
       "title": "Soft Metal Vampire",
-      "score": 0.117,
-      "r18": false
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "br"
+      ]
     },
     {
       "id": 27837,
       "title": "Vampire Hunter Maira",
-      "score": 0.117,
-      "r18": false
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29567,
       "title": "Kesshoku no Shuugosha",
-      "score": 0.117,
-      "r18": false
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29622,
       "title": "Vampir J&auml;ger",
-      "score": 0.117,
-      "r18": false
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 33703,
       "title": "Blood Blade",
-      "score": 0.117,
-      "r18": false
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 53439,
       "title": "Henkyou Gurashi no Maou, Tensei shite Saikyou no Majutsushi ni naru",
-      "score": 0.117,
-      "r18": false
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 103,
       "title": "RustBlaster",
-      "score": 0.1,
-      "r18": false
+      "score": 0.085,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg"
+      ]
     },
     {
       "id": 527,
       "title": "Yougen no Chi",
-      "score": 0.1,
-      "r18": false
+      "score": 0.085,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 545,
       "title": "Vampire",
-      "score": 0.1,
-      "r18": false
+      "score": 0.085,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 2038,
       "title": "Blood Parade",
-      "score": 0.1,
-      "r18": false
+      "score": 0.085,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "ru"
+      ]
+    },
+    {
+      "id": 3226,
+      "title": "Melty Blood X",
+      "score": 0.085,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5201,
       "title": "Bloodline - Fantasy Day",
-      "score": 0.1,
-      "r18": false
+      "score": 0.085,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 11709,
+      "title": "Rain Gaiden - Vampire Master",
+      "score": 0.085,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr"
+      ]
     },
     {
       "id": 14726,
       "title": "Devils' Line",
-      "score": 0.1,
-      "r18": false
-    },
-    {
-      "id": 19562,
-      "title": "Ginrou Blood Bone",
-      "score": 0.1,
-      "r18": false
-    },
-    {
-      "id": 19881,
-      "title": "Chocolate Vampire",
-      "score": 0.1,
-      "r18": false
+      "score": 0.085,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br",
+        "ua",
+        "hu"
+      ]
     }
   ]
 }

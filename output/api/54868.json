@@ -1,158 +1,239 @@
 {
   "id": 54868,
   "title": "Shasei Kanri Dou Deshou",
-  "url": "https://api.mangadex.org/v2/manga/54868",
-  "last_updated": "March 12, 2021 20:30:51 UTC",
+  "url": "https://mangadex.org/manga/54868",
+  "last_updated": "March 18, 2021 13:58:35 UTC",
   "matches": [
     {
-      "id": 12337,
-      "title": "Bousou Kareshi",
-      "score": 0.704,
-      "r18": true
+      "id": 25913,
+      "title": "Ore-tachi no Kijou Jitai!!",
+      "score": 0.383,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 12823,
-      "title": "Hatsujou Kareshi",
-      "score": 0.698,
-      "r18": true
+      "id": 10798,
+      "title": "Laundry",
+      "score": 0.306,
+      "r18": true,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 25912,
-      "title": "Ore no Ushiro ni Tatsuna!!",
-      "score": 0.696,
-      "r18": true
+      "id": 12591,
+      "title": "Momoiro Salesman",
+      "score": 0.306,
+      "r18": true,
+      "languages": [
+        "tr",
+        "gb"
+      ]
     },
     {
-      "id": 54984,
-      "title": "Love Trial",
-      "score": 0.676,
-      "r18": true
+      "id": 35537,
+      "title": "Ai no Sanbon Shoubu",
+      "score": 0.306,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37340,
+      "title": "The Holy Night",
+      "score": 0.306,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59173,
+      "title": "Haikyuu!! - Wish Upon a Milkyway (doujinshi)",
+      "score": 0.287,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19485,
+      "title": "Fallintrash",
+      "score": 0.287,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20410,
       "title": "Mujikaku Love Factor",
-      "score": 0.676,
-      "r18": true
-    },
-    {
-      "id": 13945,
-      "title": "Mix Mix Chocolate",
-      "score": 0.658,
-      "r18": true
-    },
-    {
-      "id": 55066,
-      "title": "Kouya no Seifukuou",
-      "score": 0.656,
-      "r18": true
-    },
-    {
-      "id": 55190,
-      "title": "Ore-sama o Kurae!",
-      "score": 0.654,
-      "r18": true
-    },
-    {
-      "id": 55272,
-      "title": "Yumemiru Otokonoko",
-      "score": 0.654,
-      "r18": true
-    },
-    {
-      "id": 25913,
-      "title": "Ore-tachi no Kijou Jitai!!",
-      "score": 0.466,
-      "r18": true
-    },
-    {
-      "id": 36259,
-      "title": "Diamond no Ace - Konnano Hajimete (Doujinshi)",
-      "score": 0.389,
-      "r18": true
-    },
-    {
-      "id": 27002,
-      "title": "Misekake Oresama-kun",
-      "score": 0.389,
-      "r18": true
-    },
-    {
-      "id": 36475,
-      "title": "Tojikometai!",
-      "score": 0.387,
-      "r18": true
-    },
-    {
-      "id": 55192,
-      "title": "Tenshi wo Otose",
-      "score": 0.385,
-      "r18": true
-    },
-    {
-      "id": 54982,
-      "title": "Jungle King (Sakurai Shushushu)",
-      "score": 0.385,
-      "r18": true
-    },
-    {
-      "id": 19952,
-      "title": "Poji",
-      "score": 0.384,
-      "r18": true
-    },
-    {
-      "id": 54983,
-      "title": "Vibrator Company",
-      "score": 0.384,
-      "r18": true
-    },
-    {
-      "id": 16916,
-      "title": "Ai no Gebokutachi",
-      "score": 0.379,
-      "r18": true
-    },
-    {
-      "id": 10840,
-      "title": "Dakenai Jikan",
-      "score": 0.378,
-      "r18": true
+      "score": 0.282,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 38261,
       "title": "Tenshi-kun!",
-      "score": 0.378,
-      "r18": true
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53526,
+      "title": "Tojikome Chatte mo Iinda yo?",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 23548,
+      "title": "Kuso Miso Technique",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb",
+        "ru",
+        "pl"
+      ]
+    },
+    {
+      "id": 49978,
+      "title": "Shisen Beya",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 26020,
+      "title": "Tokyo Boy Meets Country",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37394,
+      "title": "Ore no Honki o Misete Yaru",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 46656,
+      "title": "Diamond no Ace - Mei-san wa Kisu ga Suki (Doujinshi)",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55192,
+      "title": "Tenshi wo Otose",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14179,
+      "title": "Ryoute ni Darling",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 34845,
+      "title": "3P, Hajimemashita!",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 57493,
       "title": "Osananajimi no Hatsukoi Kyoushitsu",
-      "score": 0.377,
-      "r18": true
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 58717,
-      "title": "Akkan Complete!",
-      "score": 0.375,
-      "r18": true
+      "id": 57799,
+      "title": "Daiya no Ace - Ubatta Monogachi (Doujinshi)",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 18650,
-      "title": "Junjou Sadistic",
-      "score": 0.37,
-      "r18": true
+      "id": 31563,
+      "title": "Hashi no XL Saizu",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 53540,
-      "title": "Omae to Dynamite!!",
-      "score": 0.369,
-      "r18": true
+      "id": 25911,
+      "title": "Itoshi no Hige Otome-chan",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 20090,
-      "title": "Shiri Fechi Nanka ni Sukarete Tamaru ka",
-      "score": 0.367,
-      "r18": true
+      "id": 31219,
+      "title": "Tachi Neko Soudatsu BL (Anthology)",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 32488,
+      "title": "Mitsu ni Kiba",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37623,
+      "title": "Romantic Pornography",
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -1,158 +1,284 @@
 {
   "id": 50046,
   "title": "Nano Machine",
-  "url": "https://api.mangadex.org/v2/manga/50046",
-  "last_updated": "February 05, 2021 08:17:30 UTC",
+  "url": "https://mangadex.org/manga/50046",
+  "last_updated": "March 18, 2021 13:18:20 UTC",
   "matches": [
     {
       "id": 34144,
       "title": "Chronicles of Heavenly Demon",
-      "score": 0.691,
-      "r18": false
+      "score": 0.348,
+      "r18": false,
+      "languages": [
+        "fr",
+        "ru",
+        "tr",
+        "pl",
+        "gb"
+      ]
     },
     {
-      "id": 59966,
-      "title": "The Lord of Money",
-      "score": 0.69,
-      "r18": false
+      "id": 48962,
+      "title": "Record of the War God",
+      "score": 0.33,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr"
+      ]
     },
     {
-      "id": 57962,
-      "title": "Cinderella at 2 A.M",
-      "score": 0.69,
-      "r18": false
+      "id": 53658,
+      "title": "Absolute Martial Arts",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb"
+      ]
     },
     {
-      "id": 37378,
-      "title": "Second Life Ranker",
-      "score": 0.684,
-      "r18": false
+      "id": 44271,
+      "title": "Lightning Degree",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
-      "id": 5051,
-      "title": "Pink Lady Classic",
-      "score": 0.682,
-      "r18": false
+      "id": 19069,
+      "title": "Soul Land III - The Legend of the Dragon King",
+      "score": 0.295,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr"
+      ]
     },
     {
-      "id": 48137,
-      "title": "Welcome to the Impregnable Demon King Castle ~The Black Mage Who Got Kicked Out of the Hero Party Due to His Unnecessary Debuffs Gets Welcomed by the Top Brass of the Demon King's Army~",
-      "score": 0.677,
-      "r18": false
+      "id": 58713,
+      "title": "99 Ways to Become Heroes by Beauty Masters",
+      "score": 0.295,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 2500,
-      "title": "ChunRangYulJun",
-      "score": 0.675,
-      "r18": false
+      "id": 48832,
+      "title": "Tale of a Scribe Who Retires to the Countryside",
+      "score": 0.295,
+      "r18": false,
+      "languages": [
+        "it",
+        "fr",
+        "es",
+        "br"
+      ]
     },
     {
-      "id": 14578,
-      "title": "Wu Ji Jian Shen",
-      "score": 0.674,
-      "r18": false
+      "id": 42591,
+      "title": "Dominate the Three Realms",
+      "score": 0.295,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "fr",
+        "id"
+      ]
     },
     {
-      "id": 23231,
-      "title": "Wu Dong Qian Kun",
-      "score": 0.672,
-      "r18": false
+      "id": 50090,
+      "title": "Devouring Eternity",
+      "score": 0.295,
+      "r18": false,
+      "languages": [
+        "gb",
+        "th"
+      ]
+    },
+    {
+      "id": 48778,
+      "title": "Shenwu Tianzun",
+      "score": 0.295,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 51140,
+      "title": "The Undefeatable Swordsman",
+      "score": 0.295,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 55898,
+      "title": "The Strongest Golden Kidney System",
+      "score": 0.295,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 30032,
+      "title": "Warring States",
+      "score": 0.295,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru",
+        "es"
+      ]
+    },
+    {
+      "id": 29344,
+      "title": "Lang Huan Academy",
+      "score": 0.295,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "ru"
+      ]
     },
     {
       "id": 23232,
       "title": "Volcanic Age",
-      "score": 0.672,
-      "r18": false
+      "score": 0.281,
+      "r18": false,
+      "languages": [
+        "tr",
+        "fr",
+        "ru",
+        "gb",
+        "de",
+        "br",
+        "sa"
+      ]
     },
     {
-      "id": 30408,
-      "title": "Supreme Demon",
-      "score": 0.671,
-      "r18": false
+      "id": 59435,
+      "title": "Wizard's Martial World",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 42858,
-      "title": "Wan Gu Shen Wang",
-      "score": 0.67,
-      "r18": false
+      "id": 50191,
+      "title": "Life and Death: The Awakening",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 45928,
-      "title": "Dazzlingly Bright",
-      "score": 0.669,
-      "r18": false
+      "id": 52723,
+      "title": "Hunter and Snow",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 42740,
-      "title": "The Strongest Warlord Goes to School",
-      "score": 0.669,
-      "r18": false
+      "id": 50117,
+      "title": "Beginner's Test for Infinite Power",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 55608,
-      "title": "Heavenly Bride",
-      "score": 0.668,
-      "r18": false
+      "id": 55269,
+      "title": "Bowblade Spirit",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "es",
+        "it"
+      ]
     },
     {
-      "id": 55205,
-      "title": "Night Crying Crow",
-      "score": 0.668,
-      "r18": false
+      "id": 52042,
+      "title": "My Dad Is Too Strong",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "br",
+        "ir"
+      ]
     },
     {
-      "id": 16069,
-      "title": "Tales of Demons and Gods",
-      "score": 0.667,
-      "r18": false
+      "id": 37397,
+      "title": "Child of Light",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "ru",
+        "id",
+        "mx"
+      ]
     },
     {
-      "id": 52079,
-      "title": "Peerless Martial Spirit",
-      "score": 0.667,
-      "r18": false
+      "id": 43421,
+      "title": "I'm Not The Cult Leader",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 24230,
-      "title": "World of Cultivation",
-      "score": 0.667,
-      "r18": false
+      "id": 40248,
+      "title": "Rebirth: City Deity",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "pl",
+        "fr",
+        "id",
+        "in"
+      ]
     },
     {
-      "id": 54218,
-      "title": "The Lady and the Beast",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 56385,
-      "title": "Itan Empire's Jacheongbi",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 12329,
-      "title": "Tsuyokute New Saga",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 43692,
-      "title": "Demonic Emperor",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 51000,
-      "title": "I Want to Do It, Even If It Hurts",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 38543,
-      "title": "Fights Break Sphere &ndash; Return of the Beasts",
-      "score": 0.663,
-      "r18": false
+      "id": 49768,
+      "title": "A Will Eternal",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "ru"
+      ]
     }
   ]
 }

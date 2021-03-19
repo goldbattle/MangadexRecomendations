@@ -1,26 +1,28 @@
 {
   "id": 42460,
   "title": "Obake no Q-Taro",
-  "url": "https://api.mangadex.org/v2/manga/42460",
-  "last_updated": "February 11, 2021 12:25:39 UTC",
+  "url": "https://mangadex.org/manga/42460",
+  "last_updated": "March 18, 2021 12:14:51 UTC",
   "matches": [
     {
       "id": 49304,
       "title": "Apartment Ghost",
-      "score": 0.303,
-      "r18": false
-    },
-    {
-      "id": 51607,
-      "title": "Kyouka-sama no sweet sweet boro house",
-      "score": 0.275,
-      "r18": false
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 56419,
       "title": "There's a Ghost Behind the Gyaru",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "cn",
+        "gb"
+      ]
     }
   ]
 }

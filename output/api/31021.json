@@ -1,158 +1,146 @@
 {
   "id": 31021,
   "title": "OK",
-  "url": "https://api.mangadex.org/v2/manga/31021",
-  "last_updated": "February 10, 2021 08:13:35 UTC",
+  "url": "https://mangadex.org/manga/31021",
+  "last_updated": "March 18, 2021 10:39:26 UTC",
   "matches": [
-    {
-      "id": 1503,
-      "title": "Twisted",
-      "score": 0.276,
-      "r18": false
-    },
-    {
-      "id": 2850,
-      "title": "Black Cat Tunnel",
-      "score": 0.276,
-      "r18": false
-    },
-    {
-      "id": 3192,
-      "title": "Meikyuu Yaburi no Hananusubito",
-      "score": 0.276,
-      "r18": false
-    },
-    {
-      "id": 19654,
-      "title": "Ningyo Ouji (OZAKI Kaori)",
-      "score": 0.276,
-      "r18": false
-    },
-    {
-      "id": 26280,
-      "title": "Liar Princess and the Blind Prince",
-      "score": 0.276,
-      "r18": false
-    },
-    {
-      "id": 55728,
-      "title": "The Perch of Dreams",
-      "score": 0.276,
-      "r18": false
-    },
-    {
-      "id": 57076,
-      "title": "Ombre Majestueuse",
-      "score": 0.276,
-      "r18": false
-    },
-    {
-      "id": 3008,
-      "title": "Kamisama Permanent",
-      "score": 0.272,
-      "r18": false
-    },
-    {
-      "id": 1517,
-      "title": "Red Road",
-      "score": 0.23,
-      "r18": false
-    },
-    {
-      "id": 4436,
-      "title": "Akuma ni Itsukushimi no Te o",
-      "score": 0.23,
-      "r18": false
-    },
-    {
-      "id": 9984,
-      "title": "Hajimari no Hako",
-      "score": 0.23,
-      "r18": false
-    },
-    {
-      "id": 19162,
-      "title": "Sasaki-kun ga Judan Tometa",
-      "score": 0.23,
-      "r18": false
-    },
-    {
-      "id": 20628,
-      "title": "The Traveler",
-      "score": 0.23,
-      "r18": false
-    },
-    {
-      "id": 22777,
-      "title": "Hagure Roji",
-      "score": 0.23,
-      "r18": false
-    },
-    {
-      "id": 24653,
-      "title": "Ashita, Kimi ni Aetara",
-      "score": 0.23,
-      "r18": false
-    },
-    {
-      "id": 26456,
-      "title": "Watashi to Kare to Mou Hitori\u2661",
-      "score": 0.23,
-      "r18": false
-    },
-    {
-      "id": 28081,
-      "title": "Hwaja",
-      "score": 0.23,
-      "r18": false
-    },
-    {
-      "id": 35542,
-      "title": "Rainbow-Coloured World",
-      "score": 0.23,
-      "r18": false
-    },
-    {
-      "id": 53442,
-      "title": "The Boy Who Could Stop Time and the Girl Sitting Next to Him",
-      "score": 0.23,
-      "r18": false
-    },
-    {
-      "id": 10577,
-      "title": "Leave",
-      "score": 0.227,
-      "r18": false
-    },
     {
       "id": 49102,
       "title": "Long Past That Summer",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
-      "id": 12094,
-      "title": "Mou Tamago wa Korosanai",
-      "score": 0.215,
-      "r18": false
+      "id": 31973,
+      "title": "Kodomo no Kamisama",
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr",
+        "id"
+      ]
     },
     {
-      "id": 7616,
-      "title": "See You Again",
-      "score": 0.197,
-      "r18": false
+      "id": 32945,
+      "title": "Parasite in Love",
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "sa",
+        "ru",
+        "id"
+      ]
     },
     {
-      "id": 16440,
-      "title": "Merikuron no Namida",
-      "score": 0.197,
-      "r18": false
+      "id": 40969,
+      "title": "Yofukashi no Uta",
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "id",
+        "mx",
+        "tr",
+        "ru"
+      ]
     },
     {
-      "id": 21876,
-      "title": "Chick Bomb",
-      "score": 0.197,
-      "r18": false
+      "id": 54607,
+      "title": "I Want to Listen to xx",
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "id",
+        "mx"
+      ]
+    },
+    {
+      "id": 15733,
+      "title": "Ohayou, Ibarahime",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "it",
+        "br",
+        "id",
+        "gb"
+      ]
+    },
+    {
+      "id": 1295,
+      "title": "Semete, Ano Yuki no You ni",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "pl",
+        "id",
+        "gb"
+      ]
+    },
+    {
+      "id": 36161,
+      "title": "Dark Mortal",
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "id"
+      ]
+    },
+    {
+      "id": 15306,
+      "title": "Rengoku no Ashe",
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "de",
+        "it",
+        "hk",
+        "tr",
+        "id"
+      ]
+    },
+    {
+      "id": 51842,
+      "title": "Kitsune-chan Won't Give in to Such a Despicable Curse",
+      "score": 0.105,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "vn",
+        "id"
+      ]
+    },
+    {
+      "id": 46835,
+      "title": "Oshi no Ko",
+      "score": 0.096,
+      "r18": false,
+      "languages": [
+        "mx",
+        "fr",
+        "br",
+        "gb",
+        "ru",
+        "it",
+        "id"
+      ]
     }
   ]
 }

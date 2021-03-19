@@ -1,98 +1,160 @@
 {
   "id": 41243,
   "title": "The Terrifying Hitman and the Little Girl He Took in",
-  "url": "https://api.mangadex.org/v2/manga/41243",
-  "last_updated": "February 11, 2021 08:36:03 UTC",
+  "url": "https://mangadex.org/manga/41243",
+  "last_updated": "March 18, 2021 12:04:42 UTC",
   "matches": [
-    {
-      "id": 34802,
-      "title": "Kitsune to Pancake",
-      "score": 0.368,
-      "r18": false
-    },
-    {
-      "id": 21867,
-      "title": "Kyou no Ryuuko-chan",
-      "score": 0.342,
-      "r18": false
-    },
-    {
-      "id": 54235,
-      "title": "Mamagoto",
-      "score": 0.33,
-      "r18": false
-    },
-    {
-      "id": 16764,
-      "title": "Ryuuou no Oshigoto!",
-      "score": 0.329,
-      "r18": false
-    },
     {
       "id": 23993,
       "title": "Madonna ga Glass Case no Naka",
-      "score": 0.328,
-      "r18": false
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 34209,
       "title": "Oh, Our General Myao",
-      "score": 0.32,
-      "r18": false
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id",
+        "cn",
+        "th"
+      ]
     },
     {
-      "id": 30845,
-      "title": "Okaa-san (10) to Boku.",
-      "score": 0.298,
-      "r18": false
+      "id": 16764,
+      "title": "Ryuuou no Oshigoto!",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 10517,
       "title": "Watashi no Oniichan",
-      "score": 0.289,
-      "r18": false
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 34223,
-      "title": "Roujoteki Shoujo Hinata-chan",
-      "score": 0.268,
-      "r18": false
+      "id": 30845,
+      "title": "Okaa-san (10) to Boku.",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 34802,
+      "title": "Kitsune to Pancake",
+      "score": 0.253,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "fr",
+        "mx"
+      ]
+    },
+    {
+      "id": 54235,
+      "title": "Mamagoto",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21867,
+      "title": "Kyou no Ryuuko-chan",
+      "score": 0.244,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 51990,
       "title": "Taishou Roman Seiyou Ga \u0304ru",
-      "score": 0.238,
-      "r18": false
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21899,
       "title": "Angelic",
-      "score": 0.237,
-      "r18": false
+      "score": 0.206,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 31118,
-      "title": "Long Yin",
-      "score": 0.228,
-      "r18": false
+      "id": 34223,
+      "title": "Roujoteki Shoujo Hinata-chan",
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br",
+        "vn"
+      ]
     },
     {
       "id": 5598,
       "title": "Oomuro-ke",
-      "score": 0.203,
-      "r18": false
+      "score": 0.177,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 43458,
       "title": "Choujigen Game Neptune: The Animation - Hello New World - Yuusha Hon",
-      "score": 0.203,
-      "r18": false
+      "score": 0.177,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 49238,
       "title": "Imouto wa Neko",
-      "score": 0.203,
-      "r18": false
+      "score": 0.177,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 31118,
+      "title": "Long Yin",
+      "score": 0.154,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "fr"
+      ]
     }
   ]
 }

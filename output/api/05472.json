@@ -2,67 +2,97 @@
   "id": 5472,
   "title": "Love Blog!!",
   "url": "https://mangadex.org/manga/5472",
-  "last_updated": "March 14, 2021 12:36:53 UTC",
+  "last_updated": "March 18, 2021 06:31:51 UTC",
   "matches": [
     {
       "id": 50458,
       "title": "Honnou Switch",
-      "score": 0.365,
-      "r18": false
+      "score": 0.364,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br"
+      ]
     },
     {
       "id": 28045,
       "title": "Futari Ecchi for Ladies",
       "score": 0.362,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru"
+      ]
+    },
+    {
+      "id": 38269,
+      "title": "Batsukoi",
+      "score": 0.362,
+      "r18": false,
+      "languages": [
+        "cn"
+      ]
     },
     {
       "id": 43217,
       "title": "Ai ni Nante Oborenai",
       "score": 0.362,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br"
+      ]
     },
     {
       "id": 3711,
       "title": "Darling wa Namamono ni Tsuki",
-      "score": 0.333,
-      "r18": false
-    },
-    {
-      "id": 38269,
-      "title": "Batsukoi",
-      "score": 0.317,
-      "r18": false
+      "score": 0.332,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 16618,
       "title": "Renai Metro",
-      "score": 0.317,
-      "r18": false
+      "score": 0.316,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 52476,
-      "title": "Amayakasanaide Fuku Shachou: Danna-sama wa SSR",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 20687,
-      "title": "Onegai, Sore o Yamenai de",
-      "score": 0.29,
-      "r18": false
+      "title": "Amayakasanaide Fuku Shachou ~Danna-sama wa SSR~",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "vn",
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 32438,
       "title": "Chippai Kanojo to Bijin Kareshi",
       "score": 0.282,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 50029,
       "title": "Renai Gokko Sayokyoku",
       "score": 0.257,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     }
   ]
 }

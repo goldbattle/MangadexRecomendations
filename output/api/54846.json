@@ -1,158 +1,242 @@
 {
   "id": 54846,
   "title": "Charming Taoist",
-  "url": "https://api.mangadex.org/v2/manga/54846",
-  "last_updated": "March 12, 2021 20:30:35 UTC",
+  "url": "https://mangadex.org/manga/54846",
+  "last_updated": "March 18, 2021 13:58:24 UTC",
   "matches": [
-    {
-      "id": 32835,
-      "title": "Unknown Feeling",
-      "score": 0.305,
-      "r18": true
-    },
     {
       "id": 53131,
       "title": "Witch, 30 Years Old",
-      "score": 0.285,
-      "r18": true
-    },
-    {
-      "id": 23502,
-      "title": "Hanafuda",
-      "score": 0.281,
-      "r18": true
-    },
-    {
-      "id": 54426,
-      "title": "Hero Manager",
-      "score": 0.28,
-      "r18": true
+      "score": 0.25,
+      "r18": true,
+      "languages": [
+        "es"
+      ]
     },
     {
       "id": 19246,
       "title": "Guest House",
-      "score": 0.274,
-      "r18": true
+      "score": 0.233,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 30913,
-      "title": "An Innocent Sin",
-      "score": 0.263,
-      "r18": true
+      "id": 32835,
+      "title": "Unknown Feeling",
+      "score": 0.233,
+      "r18": true,
+      "languages": [
+        "mx",
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 46511,
-      "title": "Teach Me How to Please You",
-      "score": 0.25,
-      "r18": true
-    },
-    {
-      "id": 59287,
-      "title": "Hell's Harem",
-      "score": 0.229,
-      "r18": true
+      "id": 54426,
+      "title": "Hero Manager",
+      "score": 0.199,
+      "r18": true,
+      "languages": [
+        "it",
+        "fr",
+        "ir",
+        "ru"
+      ]
     },
     {
       "id": 35595,
       "title": "Dark Elf no Ninkatsu Schale",
-      "score": 0.224,
-      "r18": true
+      "score": 0.174,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 35698,
-      "title": "There's Absolutely No Way I'll Become My Childhood Friend's \u2640 Lover",
-      "score": 0.211,
-      "r18": true
+      "id": 30913,
+      "title": "An Innocent Sin",
+      "score": 0.174,
+      "r18": true,
+      "languages": [
+        "fr",
+        "ua"
+      ]
     },
     {
-      "id": 30496,
-      "title": "Shocking Dispenser",
-      "score": 0.208,
-      "r18": true
+      "id": 23502,
+      "title": "Hanafuda",
+      "score": 0.174,
+      "r18": true,
+      "languages": [
+        "it",
+        "fr",
+        "pl"
+      ]
     },
     {
-      "id": 30939,
-      "title": "La\u2606Blue Girl",
-      "score": 0.206,
-      "r18": true
+      "id": 49146,
+      "title": "Freshman",
+      "score": 0.174,
+      "r18": true,
+      "languages": [
+        "br"
+      ]
     },
     {
-      "id": 23895,
-      "title": "Seka x Seka",
-      "score": 0.2,
-      "r18": true
-    },
-    {
-      "id": 32611,
-      "title": "Committee Chairman, Didn't You Just Masturbate in the Bathroom? I Can See the Number of Times People Orgasm",
-      "score": 0.196,
-      "r18": true
-    },
-    {
-      "id": 27744,
-      "title": "Polyamory",
-      "score": 0.196,
-      "r18": true
+      "id": 46511,
+      "title": "Teach Me How to Please You",
+      "score": 0.174,
+      "r18": true,
+      "languages": [
+        "fr",
+        "br"
+      ]
     },
     {
       "id": 18866,
       "title": "Twin Slaves",
-      "score": 0.19,
-      "r18": true
+      "score": 0.116,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 18277,
-      "title": "Seduction",
-      "score": 0.185,
-      "r18": true
+      "id": 59287,
+      "title": "Hell's Harem",
+      "score": 0.116,
+      "r18": true,
+      "languages": [
+        "ir"
+      ]
     },
     {
-      "id": 33295,
-      "title": "Ren Arisugawa Is Actually a Girl",
-      "score": 0.179,
-      "r18": true
+      "id": 30939,
+      "title": "La\u2606Blue Girl",
+      "score": 0.116,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 30496,
+      "title": "Shocking Dispenser",
+      "score": 0.116,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 53303,
       "title": "Kanojo Face",
-      "score": 0.175,
-      "r18": true
-    },
-    {
-      "id": 30554,
-      "title": "Best Friend Girlfriend",
-      "score": 0.174,
-      "r18": true
-    },
-    {
-      "id": 28728,
-      "title": "Mohan-teki de Iincho!?",
-      "score": 0.173,
-      "r18": true
+      "score": 0.116,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 55466,
       "title": "Shinonon",
-      "score": 0.17,
-      "r18": true
+      "score": 0.116,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 31767,
-      "title": "Futanari Himekishi Elis",
-      "score": 0.167,
-      "r18": true
+      "id": 27744,
+      "title": "Polyamory",
+      "score": 0.116,
+      "r18": true,
+      "languages": [
+        "fr"
+      ]
     },
     {
-      "id": 40120,
-      "title": "Iede Gyaru ni Nama Nakadashi Shimakutte, Seishori Dousei Hajimemashita",
-      "score": 0.166,
-      "r18": true
+      "id": 35698,
+      "title": "There's Absolutely No Way I'll Become My Childhood Friend's \u2640 Lover",
+      "score": 0.116,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 52668,
       "title": "Succubus Shougakusei Extra",
-      "score": 0.165,
-      "r18": true
+      "score": 0.116,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 23895,
+      "title": "Seka x Seka",
+      "score": 0.116,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18277,
+      "title": "Seduction",
+      "score": 0.116,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 32611,
+      "title": "Committee Chairman, Didn't You Just Masturbate in the Bathroom? I Can See the Number of Times People Orgasm",
+      "score": 0.116,
+      "r18": true,
+      "languages": [
+        "br"
+      ]
+    },
+    {
+      "id": 31767,
+      "title": "Futanari Himekishi Elis",
+      "score": 0.116,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 30554,
+      "title": "Best Friend Girlfriend",
+      "score": 0.116,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 28728,
+      "title": "Mohan-teki de Iincho!?",
+      "score": 0.116,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 33295,
+      "title": "Ren Arisugawa Is Actually a Girl",
+      "score": 0.116,
+      "r18": true,
+      "languages": [
+        "br"
+      ]
     }
   ]
 }

@@ -2,55 +2,85 @@
   "id": 23424,
   "title": "1 x &frac12;",
   "url": "https://mangadex.org/manga/23424",
-  "last_updated": "March 16, 2021 12:28:30 UTC",
+  "last_updated": "March 18, 2021 09:22:30 UTC",
   "matches": [
     {
       "id": 4452,
       "title": "Free Soul",
-      "score": 0.301,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
     },
     {
       "id": 8772,
       "title": "Citrus",
-      "score": 0.297,
-      "r18": false
+      "score": 0.296,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "tr",
+        "ru",
+        "id",
+        "ir"
+      ]
     },
     {
       "id": 22045,
       "title": "Yuridori Midori",
       "score": 0.283,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 18467,
       "title": "Sayuri-san no Imouto wa Tenshi",
       "score": 0.282,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "ru"
+      ]
     },
     {
       "id": 32731,
       "title": "Citrus +",
       "score": 0.275,
-      "r18": false
-    },
-    {
-      "id": 50240,
-      "title": "Mutually Unrequited Twin Sisters",
-      "score": 0.275,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "tr",
+        "it",
+        "ru"
+      ]
     },
     {
       "id": 3135,
       "title": "Under the Rose",
-      "score": 0.227,
-      "r18": false
+      "score": 0.226,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
     },
     {
       "id": 52056,
       "title": "Kantai Collection - Hello &amp; Hello (Doujinshi)",
       "score": 0.163,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

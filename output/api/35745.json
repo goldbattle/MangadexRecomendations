@@ -2,67 +2,93 @@
   "id": 35745,
   "title": "Love Prism",
   "url": "https://mangadex.org/manga/35745",
-  "last_updated": "March 17, 2021 20:17:03 UTC",
+  "last_updated": "March 18, 2021 11:18:49 UTC",
   "matches": [
     {
       "id": 24138,
       "title": "Aniki Joutou",
       "score": 0.312,
-      "r18": true
+      "r18": true,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 39342,
       "title": "Kabeana Heaven Hole",
       "score": 0.3,
-      "r18": true
+      "r18": true,
+      "languages": [
+        "it",
+        "gb"
+      ]
     },
     {
       "id": 41720,
       "title": "Hoshigari Sugi da yo, Sumida-kun!",
       "score": 0.3,
-      "r18": true
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 55061,
       "title": "Kono Kimochi wa Koi ni Naru",
       "score": 0.273,
-      "r18": true
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 25494,
       "title": "No Toy",
       "score": 0.24,
-      "r18": true
-    },
-    {
-      "id": 47953,
-      "title": "Osomatsu-san - Chounan-sama no Omocha (Doujinshi)",
-      "score": 0.24,
-      "r18": true
+      "r18": true,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 44997,
       "title": "Houtou Musuko to Koi no Ana",
       "score": 0.225,
-      "r18": true
+      "r18": true,
+      "languages": [
+        "mx",
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 55062,
       "title": "Morning Kiss",
       "score": 0.213,
-      "r18": true
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 48649,
       "title": "Eh!",
       "score": 0.15,
-      "r18": true
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 48657,
       "title": "Oikko-kun datte Musubaretai",
       "score": 0.144,
-      "r18": true
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

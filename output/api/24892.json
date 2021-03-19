@@ -2,19 +2,26 @@
   "id": 24892,
   "title": "Deathpedia",
   "url": "https://mangadex.org/manga/24892",
-  "last_updated": "March 16, 2021 16:24:53 UTC",
+  "last_updated": "March 18, 2021 09:44:32 UTC",
   "matches": [
     {
       "id": 11241,
       "title": "Haru Meguru",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 45928,
       "title": "Dazzlingly Bright",
       "score": 0.115,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

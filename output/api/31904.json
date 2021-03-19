@@ -1,158 +1,249 @@
 {
   "id": 31904,
   "title": "Love Potion",
-  "url": "https://api.mangadex.org/v2/manga/31904",
-  "last_updated": "February 10, 2021 08:27:20 UTC",
+  "url": "https://mangadex.org/manga/31904",
+  "last_updated": "March 18, 2021 10:46:48 UTC",
   "matches": [
     {
-      "id": 17721,
-      "title": "I Love You, Black Coffee",
-      "score": 0.404,
-      "r18": false
-    },
-    {
-      "id": 1933,
-      "title": "Seven Days",
-      "score": 0.402,
-      "r18": false
-    },
-    {
-      "id": 26151,
-      "title": "Blue Cheese Table",
-      "score": 0.398,
-      "r18": false
+      "id": 20735,
+      "title": "So My Landlord is a Hottie",
+      "score": 0.316,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 11801,
       "title": "Koi no Hanashi ga Shitai",
-      "score": 0.392,
-      "r18": false
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 34614,
-      "title": "Meeting Him",
-      "score": 0.388,
-      "r18": false
-    },
-    {
-      "id": 36506,
-      "title": "Can't Take My Eyes off You!",
-      "score": 0.386,
-      "r18": false
-    },
-    {
-      "id": 48399,
-      "title": "Starlight Scandal",
-      "score": 0.386,
-      "r18": false
-    },
-    {
-      "id": 26161,
-      "title": "Flowerpot",
-      "score": 0.385,
-      "r18": false
-    },
-    {
-      "id": 31985,
-      "title": "Nemureru Mori no Binan",
-      "score": 0.385,
-      "r18": false
-    },
-    {
-      "id": 40814,
-      "title": "Low Temperature Blanket",
-      "score": 0.377,
-      "r18": false
-    },
-    {
-      "id": 35522,
-      "title": "Rokugatsu no Hengen-san",
-      "score": 0.373,
-      "r18": false
+      "id": 17721,
+      "title": "I Love You, Black Coffee",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20632,
       "title": "Mute Uncle",
-      "score": 0.371,
-      "r18": false
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 20735,
-      "title": "So My Landlord is a Hottie",
-      "score": 0.369,
-      "r18": false
+      "id": 40814,
+      "title": "Low Temperature Blanket",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 49710,
-      "title": "Hidamari no Orange",
-      "score": 0.365,
-      "r18": false
+      "id": 14406,
+      "title": "Warui Ko no Tame no Wasuremono Techou",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 27682,
-      "title": "Yes It's Me",
-      "score": 0.364,
-      "r18": false
+      "id": 1933,
+      "title": "Seven Days",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "tr",
+        "ua"
+      ]
     },
     {
       "id": 28912,
       "title": "7 Nenme no Dou Kyonin",
-      "score": 0.361,
-      "r18": false
-    },
-    {
-      "id": 37565,
-      "title": "BLT",
-      "score": 0.359,
-      "r18": false
-    },
-    {
-      "id": 24094,
-      "title": "Mabataki no Aida",
-      "score": 0.357,
-      "r18": false
-    },
-    {
-      "id": 56472,
-      "title": "It Has to Be You",
-      "score": 0.357,
-      "r18": false
-    },
-    {
-      "id": 59501,
-      "title": "Minato Shoji Koinrandori",
-      "score": 0.357,
-      "r18": false
-    },
-    {
-      "id": 51962,
-      "title": "Fools Remaster",
-      "score": 0.356,
-      "r18": false
-    },
-    {
-      "id": 15647,
-      "title": "Doukyuusei",
-      "score": 0.355,
-      "r18": false
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 5242,
       "title": "Higouhou Junai",
-      "score": 0.353,
-      "r18": false
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 46667,
-      "title": "Mistake Lover",
-      "score": 0.352,
-      "r18": false
+      "id": 15647,
+      "title": "Doukyuusei",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 19631,
+      "title": "Ikumen After",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 31985,
+      "title": "Nemureru Mori no Binan",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37214,
+      "title": "Dousokai",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 49710,
+      "title": "Hidamari no Orange",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 20689,
       "title": "Bokura no Shokutaku",
-      "score": 0.352,
-      "r18": false
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24094,
+      "title": "Mabataki no Aida",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37565,
+      "title": "BLT",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59501,
+      "title": "Minato Shoji Koinrandori",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 24088,
+      "title": "Kage Aru Tokoro ni",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 56472,
+      "title": "It Has to Be You",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7096,
+      "title": "Tsuki to Mizu no Yoru",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 35522,
+      "title": "Rokugatsu no Hengen-san",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 19502,
+      "title": "Delivery Boy Debacle",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 19024,
+      "title": "Boku wa Sakana",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "pl"
+      ]
+    },
+    {
+      "id": 26151,
+      "title": "Blue Cheese Table",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

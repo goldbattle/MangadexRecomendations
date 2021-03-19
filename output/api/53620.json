@@ -2,55 +2,103 @@
   "id": 53620,
   "title": "Marika",
   "url": "https://mangadex.org/manga/53620",
-  "last_updated": "January 16, 2021 06:23:57 UTC",
+  "last_updated": "March 18, 2021 13:48:09 UTC",
   "matches": [
     {
       "id": 39669,
       "title": "Shin Karura Mau!",
-      "score": 0.23,
-      "r18": false
+      "score": 0.229,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 16342,
       "title": "Caramel Kiss",
-      "score": 0.194,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 52530,
       "title": "Hengen Taima Yakou Karura Mau! - Gaiden Abe no Seimei Hen",
-      "score": 0.172,
-      "r18": false
+      "score": 0.179,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 51928,
       "title": "Laos Chronicles",
-      "score": 0.124,
-      "r18": false
+      "score": 0.129,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 59476,
+      "title": "The Tyrant's Guardian Is an Evil Witch",
+      "score": 0.121,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "tr",
+        "br",
+        "it",
+        "id"
+      ]
     },
     {
       "id": 35064,
       "title": "I'm a Villainous Daughter, so I'm going to keep the Last Boss",
-      "score": 0.097,
-      "r18": false
-    },
-    {
-      "id": 51541,
-      "title": "Together with Shinsun",
-      "score": 0.091,
-      "r18": false
-    },
-    {
-      "id": 45140,
-      "title": "Oh My Ghost",
-      "score": 0.077,
-      "r18": false
+      "score": 0.114,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "ru",
+        "fr",
+        "br",
+        "it",
+        "id"
+      ]
     },
     {
       "id": 47424,
       "title": "Welcome to the Nightmare Game",
-      "score": 0.073,
-      "r18": false
+      "score": 0.095,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru"
+      ]
+    },
+    {
+      "id": 51541,
+      "title": "Together with Shinsun",
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 45140,
+      "title": "Oh My Ghost",
+      "score": 0.08,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     }
   ]
 }

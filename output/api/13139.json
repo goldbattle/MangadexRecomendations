@@ -2,25 +2,37 @@
   "id": 13139,
   "title": "Sister Blood",
   "url": "https://mangadex.org/manga/13139",
-  "last_updated": "March 15, 2021 08:30:57 UTC",
+  "last_updated": "March 18, 2021 07:37:50 UTC",
   "matches": [
     {
       "id": 274,
       "title": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai",
-      "score": 0.215,
-      "r18": false
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 673,
       "title": "Onii-chan no Koto Nanka Zenzen Suki ja Nain da Kara ne!!",
-      "score": 0.21,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 13431,
       "title": "Kyoudai hodo Chikaku Tooimono wa Nai",
-      "score": 0.193,
-      "r18": false
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru"
+      ]
     }
   ]
 }

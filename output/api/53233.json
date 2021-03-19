@@ -2,151 +2,276 @@
   "id": 53233,
   "title": "Romero Won't Save the World",
   "url": "https://mangadex.org/manga/53233",
-  "last_updated": "January 16, 2021 01:04:22 UTC",
+  "last_updated": "March 18, 2021 13:44:55 UTC",
   "matches": [
-    {
-      "id": 46498,
-      "title": "Kemono Giga",
-      "score": 0.716,
-      "r18": false
-    },
     {
       "id": 4851,
       "title": "Green Blood",
-      "score": 0.711,
-      "r18": false
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "hu"
+      ]
     },
     {
-      "id": 1207,
-      "title": "Jigokusei Lemina",
-      "score": 0.701,
-      "r18": false
-    },
-    {
-      "id": 13355,
-      "title": "Ousama Game - Shuukyoku",
-      "score": 0.701,
-      "r18": false
-    },
-    {
-      "id": 1357,
-      "title": "Mitsurin Shounen",
-      "score": 0.697,
-      "r18": false
-    },
-    {
-      "id": 247,
-      "title": "Gangsta",
-      "score": 0.684,
-      "r18": false
-    },
-    {
-      "id": 10854,
-      "title": "All You Need Is Kill",
-      "score": 0.681,
-      "r18": false
-    },
-    {
-      "id": 13280,
-      "title": "Kamisama, Kisama wo Koroshitai.",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 42975,
-      "title": "Kizu Darake no Jinsei",
-      "score": 0.674,
-      "r18": false
-    },
-    {
-      "id": 6125,
-      "title": "Battle Royale II - Blitz Royale",
-      "score": 0.674,
-      "r18": false
-    },
-    {
-      "id": 18509,
-      "title": "Gakkou Gurashi! - Tomodachi (Kari) (Doujinshi)",
-      "score": 0.667,
-      "r18": false
-    },
-    {
-      "id": 43372,
-      "title": "Lockdown No Escape",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 42419,
-      "title": "Player",
-      "score": 0.662,
-      "r18": false
-    },
-    {
-      "id": 50170,
-      "title": "Viper in the Vale",
-      "score": 0.65,
-      "r18": false
-    },
-    {
-      "id": 37556,
-      "title": "Offal Island",
-      "score": 0.326,
-      "r18": false
-    },
-    {
-      "id": 28665,
-      "title": "Pumpkin Night",
-      "score": 0.321,
-      "r18": false
-    },
-    {
-      "id": 13136,
-      "title": "Jinrou Game",
-      "score": 0.297,
-      "r18": false
+      "id": 58284,
+      "title": "Usagi ga Nihiki",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 47449,
       "title": "Rediscovering Kantian Ethics",
-      "score": 0.287,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 46631,
-      "title": "Signal 100",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 22766,
-      "title": "Shikabanechou Undead",
-      "score": 0.236,
-      "r18": false
-    },
-    {
-      "id": 24198,
-      "title": "Saber Tiger",
+      "id": 28665,
+      "title": "Pumpkin Night",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "tr",
+        "it",
+        "id",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 42975,
+      "title": "Kizu Darake no Jinsei",
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18509,
+      "title": "Gakkou Gurashi! - Tomodachi (Kari) (Doujinshi)",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6125,
+      "title": "Battle Royale II - Blitz Royale",
+      "score": 0.203,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 37556,
+      "title": "Offal Island",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "id"
+      ]
+    },
+    {
+      "id": 13355,
+      "title": "Ousama Game - Shuukyoku",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 13280,
+      "title": "Kamisama, Kisama wo Koroshitai.",
+      "score": 0.184,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1207,
+      "title": "Jigokusei Lemina",
+      "score": 0.17,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 31885,
+      "title": "Noah of the Blood Sea",
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "ir",
+        "id"
+      ]
+    },
+    {
+      "id": 46498,
+      "title": "Kemono Giga",
+      "score": 0.163,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id",
+        "br",
+        "fr"
+      ]
     },
     {
       "id": 2055,
       "title": "Paperakyu",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 45976,
-      "title": "Game of Doppelg&auml;nger",
-      "score": 0.177,
-      "r18": false
+      "id": 1357,
+      "title": "Mitsurin Shounen",
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50725,
+      "title": "Kimi wa Shinenai Hai Kaburi no Majo",
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru",
+        "br",
+        "vn"
+      ]
+    },
+    {
+      "id": 13136,
+      "title": "Jinrou Game",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "mx"
+      ]
+    },
+    {
+      "id": 46631,
+      "title": "Signal 100",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx"
+      ]
+    },
+    {
+      "id": 247,
+      "title": "Gangsta",
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "tr",
+        "id",
+        "it",
+        "pl"
+      ]
+    },
+    {
+      "id": 10854,
+      "title": "All You Need Is Kill",
+      "score": 0.126,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "ru",
+        "tr"
+      ]
     },
     {
       "id": 34888,
       "title": "Messiah's Hammer",
-      "score": 0.113,
-      "r18": false
+      "score": 0.122,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hk",
+        "mx",
+        "ru",
+        "fr"
+      ]
+    },
+    {
+      "id": 22766,
+      "title": "Shikabanechou Undead",
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 50170,
+      "title": "Viper in the Vale",
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24198,
+      "title": "Saber Tiger",
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 42419,
+      "title": "Player",
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

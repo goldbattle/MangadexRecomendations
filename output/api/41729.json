@@ -1,158 +1,258 @@
 {
   "id": 41729,
   "title": "Harukawa-san is Hungry Today Too.",
-  "url": "https://api.mangadex.org/v2/manga/41729",
-  "last_updated": "February 11, 2021 08:43:21 UTC",
+  "url": "https://mangadex.org/manga/41729",
+  "last_updated": "March 18, 2021 12:08:45 UTC",
   "matches": [
     {
-      "id": 38436,
-      "title": "Himari no Mawari",
-      "score": 0.685,
-      "r18": false
-    },
-    {
-      "id": 2518,
-      "title": "Ten yori Takaku",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 28664,
-      "title": "Ano Hito no I ni wa Boku ga Tarinai",
-      "score": 0.662,
-      "r18": false
-    },
-    {
-      "id": 43341,
-      "title": "Kirei na Onee-san to Nomu Osake wa Suki desu ka?",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 37769,
-      "title": "Itai Onee-san wa Suki Desu ka?",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 5734,
-      "title": "Moteki",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 21978,
-      "title": "Game Yaru kara 100-en Kashite!",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 875,
-      "title": "Bokura wa Minna Kawai-sou",
-      "score": 0.652,
-      "r18": false
+      "id": 30318,
+      "title": "Gohoubi Ohitori Sushi",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21428,
       "title": "Osake wa Fuufu ni Natte Kara",
-      "score": 0.441,
-      "r18": false
-    },
-    {
-      "id": 30318,
-      "title": "Gohoubi Ohitori Sushi",
-      "score": 0.43,
-      "r18": false
-    },
-    {
-      "id": 45852,
-      "title": "Chicchai Kanojo Senpai ga Kawaisugiru.",
-      "score": 0.419,
-      "r18": false
-    },
-    {
-      "id": 31227,
-      "title": "Mado Kara Madoka-chan",
-      "score": 0.418,
-      "r18": false
-    },
-    {
-      "id": 26955,
-      "title": "Chocolate Confusion",
-      "score": 0.413,
-      "r18": false
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx"
+      ]
     },
     {
       "id": 51040,
       "title": "Aikagi-kun to Shiawase Gohan",
-      "score": 0.413,
-      "r18": false
-    },
-    {
-      "id": 20716,
-      "title": "Kumika no Mikaku",
-      "score": 0.407,
-      "r18": false
-    },
-    {
-      "id": 19969,
-      "title": "Yakumo-san wa Ezuke ga Shitai.",
-      "score": 0.4,
-      "r18": false
-    },
-    {
-      "id": 34823,
-      "title": "Masaki no Pan",
-      "score": 0.399,
-      "r18": false
-    },
-    {
-      "id": 15991,
-      "title": "Koi wa Ameagari no You ni",
-      "score": 0.386,
-      "r18": false
-    },
-    {
-      "id": 43785,
-      "title": "A Meal Makes Her Forget",
-      "score": 0.378,
-      "r18": false
-    },
-    {
-      "id": 17069,
-      "title": "Konbini Ojousama",
-      "score": 0.378,
-      "r18": false
-    },
-    {
-      "id": 4615,
-      "title": "Itou-san",
-      "score": 0.378,
-      "r18": false
-    },
-    {
-      "id": 51584,
-      "title": "Mizuki-senpai's Love Fortune-Telling",
-      "score": 0.377,
-      "r18": false
-    },
-    {
-      "id": 14163,
-      "title": "Takasugi-san Chi no Obentou",
-      "score": 0.376,
-      "r18": false
-    },
-    {
-      "id": 85,
-      "title": "Bambino!",
-      "score": 0.375,
-      "r18": false
+      "score": 0.308,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 18389,
       "title": "Mogusa-san",
-      "score": 0.375,
-      "r18": false
+      "score": 0.308,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 43785,
+      "title": "A Meal Makes Her Forget",
+      "score": 0.308,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 34823,
+      "title": "Masaki no Pan",
+      "score": 0.308,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 19969,
+      "title": "Yakumo-san wa Ezuke ga Shitai.",
+      "score": 0.308,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 30941,
+      "title": "Love Diner",
+      "score": 0.308,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55921,
+      "title": "A Rare Marriage: How to Grill Our Love",
+      "score": 0.308,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru"
+      ]
+    },
+    {
+      "id": 31227,
+      "title": "Mado Kara Madoka-chan",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 45852,
+      "title": "Chicchai Kanojo Senpai ga Kawaisugiru.",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 26955,
+      "title": "Chocolate Confusion",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 38448,
+      "title": "Futari Ashita mo Sorenari ni",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "mx",
+        "id",
+        "it"
+      ]
+    },
+    {
+      "id": 35766,
+      "title": "Shounen, Chotto Sabotteko?",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "ru",
+        "id"
+      ]
+    },
+    {
+      "id": 20716,
+      "title": "Kumika no Mikaku",
+      "score": 0.274,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 56231,
+      "title": "Story of a Small Senior In My Company",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 15991,
+      "title": "Koi wa Ameagari no You ni",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "th"
+      ]
+    },
+    {
+      "id": 12093,
+      "title": "Amaama to Inazuma",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 28535,
+      "title": "Heaven?",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29736,
+      "title": "Ichinichi Gaishutsuroku Hanchou",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8194,
+      "title": "Kuneru Maruta",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "pt",
+        "gb"
+      ]
+    },
+    {
+      "id": 85,
+      "title": "Bambino!",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "br"
+      ]
+    },
+    {
+      "id": 21973,
+      "title": "Hokusai to Meshi Saeareba",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14163,
+      "title": "Takasugi-san Chi no Obentou",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 53388,
+      "title": "Job hunting, Living together, Everyday meal",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

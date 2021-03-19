@@ -1,158 +1,303 @@
 {
   "id": 50714,
   "title": "Legend of the Galactic Heroes - Golden Wings",
-  "url": "https://api.mangadex.org/v2/manga/50714",
-  "last_updated": "February 05, 2021 08:27:57 UTC",
+  "url": "https://mangadex.org/manga/50714",
+  "last_updated": "March 18, 2021 13:23:54 UTC",
   "matches": [
     {
-      "id": 14676,
-      "title": "The Legendary Moonlight Sculptor",
-      "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 8495,
-      "title": "Persona 3",
-      "score": 0.688,
-      "r18": false
-    },
-    {
-      "id": 6580,
-      "title": "Taiyou no Mokishiroku",
-      "score": 0.683,
-      "r18": false
-    },
-    {
-      "id": 31975,
-      "title": "Asebi and Adventurers of Sky World",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 1766,
-      "title": "Umineko no Naku Koro ni Chiru Episode 7: Requiem of the Golden Witch",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 1764,
-      "title": "Umineko no Naku Koro ni Chiru Episode 5: End of the Golden Witch",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 580,
-      "title": "Kodoku Experiment",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 843,
-      "title": "20th Century Boys",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 2714,
-      "title": "NOiSE",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 1765,
-      "title": "Umineko no Naku Koro ni Chiru Episode 6: Dawn of the Golden Witch",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 4880,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 35626,
-      "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Kenki Koiuta",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 1591,
-      "title": "21st Century Boys",
-      "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 28617,
-      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run",
-      "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 202,
-      "title": "RAINBOW",
-      "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 22791,
-      "title": "Ningen Shikkaku (Variety Art Works)",
-      "score": 0.674,
-      "r18": false
-    },
-    {
-      "id": 281,
-      "title": "Trigun Maximum",
-      "score": 0.674,
-      "r18": false
-    },
-    {
-      "id": 104,
-      "title": "Liar Game",
-      "score": 0.672,
-      "r18": false
-    },
-    {
-      "id": 890,
-      "title": "Dogs / Bullets &amp; Carnage",
-      "score": 0.672,
-      "r18": false
-    },
-    {
-      "id": 27634,
-      "title": "MW",
-      "score": 0.672,
-      "r18": false
-    },
-    {
-      "id": 3340,
-      "title": "Jormungand",
-      "score": 0.672,
-      "r18": false
+      "id": 51629,
+      "title": "Legend of the Galactic Heroes - Portraits of Heroes",
+      "score": 0.7,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": 8789,
       "title": "Afterschool War Activities",
-      "score": 0.672,
-      "r18": false
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "tr"
+      ]
     },
     {
-      "id": 3586,
-      "title": "Oyaji",
-      "score": 0.672,
-      "r18": false
+      "id": 9470,
+      "title": "Marginal Operation",
+      "score": 0.251,
+      "r18": false,
+      "languages": [
+        "ru",
+        "es",
+        "gb"
+      ]
     },
     {
-      "id": 1714,
-      "title": "Kara no Kyoukai - The Garden of Sinners",
-      "score": 0.672,
-      "r18": false
+      "id": 16215,
+      "title": "Smokin' Parade",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "pl",
+        "ru",
+        "it",
+        "id",
+        "es",
+        "gb"
+      ]
     },
     {
-      "id": 4568,
-      "title": "Galaxy Express 999",
-      "score": 0.671,
-      "r18": false
+      "id": 13791,
+      "title": "Crest of the Stars",
+      "score": 0.224,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 843,
+      "title": "20th Century Boys",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 281,
+      "title": "Trigun Maximum",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 19459,
+      "title": "Suzuki-san wa Tada Shizuka ni Kurashitai",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 23931,
+      "title": "Majo to Yajuu",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 23607,
+      "title": "Tantei no Tantei",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 30975,
+      "title": "Lost in Zombie City",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
+    },
+    {
+      "id": 29298,
+      "title": "Memento Memori",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 15101,
+      "title": "Heroes",
+      "score": 0.217,
+      "r18": false,
+      "languages": [
+        "it",
+        "pl",
+        "fr",
+        "ru",
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 9570,
+      "title": "Ajin",
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "br",
+        "ru",
+        "it",
+        "tr",
+        "gb"
+      ]
+    },
+    {
+      "id": 12033,
+      "title": "Shoujo Shuumatsu Ryokou",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "it",
+        "br",
+        "gb",
+        "ru",
+        "es",
+        "de",
+        "ua",
+        "mx",
+        "pl",
+        "ph"
+      ]
+    },
+    {
+      "id": 52095,
+      "title": "Kage no Eiyuu no Nichijou-tan",
+      "score": 0.213,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "ru"
+      ]
+    },
+    {
+      "id": 3340,
+      "title": "Jormungand",
+      "score": 0.213,
+      "r18": false,
+      "languages": [
+        "ru",
+        "de",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 10006,
+      "title": "Innocent",
+      "score": 0.212,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "ru",
+        "sa",
+        "pl"
+      ]
+    },
+    {
+      "id": 19887,
+      "title": "Uratarou",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "tr",
+        "ru",
+        "es",
+        "mx",
+        "br"
+      ]
+    },
+    {
+      "id": 23399,
+      "title": "Zankyou",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "br",
+        "es",
+        "tr",
+        "ru",
+        "cn",
+        "fr"
+      ]
+    },
+    {
+      "id": 10078,
+      "title": "Meng Wu and Chu Zi",
+      "score": 0.206,
+      "r18": false,
+      "languages": [
+        "it",
+        "ru",
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 9692,
+      "title": "Li Mu",
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "ru",
+        "mx",
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 3801,
+      "title": "Silver and Gold",
+      "score": 0.203,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "it"
+      ]
+    },
+    {
+      "id": 7478,
+      "title": "Montage",
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 7691,
+      "title": "Skull Man",
+      "score": 0.198,
+      "r18": false,
+      "languages": [
+        "br",
+        "ru",
+        "gb"
+      ]
     }
   ]
 }

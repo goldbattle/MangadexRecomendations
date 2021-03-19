@@ -2,37 +2,54 @@
   "id": 48624,
   "title": "Akumateki! TS Monogatari",
   "url": "https://mangadex.org/manga/48624",
-  "last_updated": "January 15, 2021 12:35:12 UTC",
+  "last_updated": "March 18, 2021 13:06:29 UTC",
   "matches": [
     {
       "id": 40630,
       "title": "Kawarimi no Hari",
-      "score": 0.233,
-      "r18": false
+      "score": 0.2,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 35334,
       "title": "Inmakon no Nie",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 45025,
       "title": "MaMAmama!",
-      "score": 0.136,
-      "r18": false
+      "score": 0.111,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 39021,
       "title": "Trans Girl -Henshitsu-kei Shoujo-",
-      "score": 0.117,
-      "r18": false
+      "score": 0.1,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 23265,
       "title": "Ane Naru Mono (Pochi-Goya.)",
-      "score": 0.085,
-      "r18": false
+      "score": 0.069,
+      "r18": true,
+      "languages": [
+        "gb",
+        "mx",
+        "it"
+      ]
     }
   ]
 }

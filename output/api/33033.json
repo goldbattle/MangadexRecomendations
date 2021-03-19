@@ -1,158 +1,248 @@
 {
   "id": 33033,
   "title": "4-banme no Iinazuke Kouho",
-  "url": "https://api.mangadex.org/v2/manga/33033",
-  "last_updated": "February 10, 2021 12:31:17 UTC",
+  "url": "https://mangadex.org/manga/33033",
+  "last_updated": "March 18, 2021 10:56:12 UTC",
   "matches": [
     {
       "id": 15430,
       "title": "Douse Mou Nigerarenai",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 26853,
       "title": "Watashi-tachi no Himitsu Jijou",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 32985,
       "title": "Light Snowfall",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 37069,
       "title": "The Duchess of the Attic",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "br",
+        "fr"
+      ]
     },
     {
       "id": 48007,
       "title": "The Blossoms Are Still Beautiful Even If They Fall",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 48158,
+      "title": "Pudding Tanaka Is a Beast",
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 56053,
       "title": "Portrait of Queen Berta",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 57319,
       "title": "Mukuchi na Kare ga Zangyousuru Riyuu",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 13407,
       "title": "Nigeru wa Haji da ga Yaku ni Tatsu",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br"
+      ]
     },
     {
       "id": 23604,
       "title": "Primal",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 33225,
       "title": "Akachan Ryuu no Osewagakari ni Ninmei Saremashita",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 42764,
       "title": "Caramel, Cinnamon, Popcorn",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
       "id": 51439,
       "title": "Kanpeki Shugi Otoko ni Semarareteimasu",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "br"
+      ]
     },
     {
       "id": 53081,
       "title": "Boxed Garden",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 54086,
       "title": "Reijou Elizabeth no Kareinaru Migawari Seikatsu",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2817,
       "title": "Crimson Empire - Circumstances to Serve a Noble",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11240,
       "title": "31 Ai Dream",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 33379,
       "title": "The Wolf Lord's Lady",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 39432,
+      "title": "Marielle Clarac's Engagement",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 42128,
       "title": "Restrain",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 46858,
       "title": "Invitation of Mystic Messenger",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru"
+      ]
     },
     {
       "id": 51000,
       "title": "I Want to Do It, Even If It Hurts",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 53628,
       "title": "Koukyuu Kinkaden",
-      "score": 0.194,
-      "r18": false
-    },
-    {
-      "id": 55266,
-      "title": "A Bittersweet Couple",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn"
+      ]
     },
     {
       "id": 58387,
       "title": "His 10,000 Romantic Traps",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
     },
     {
       "id": 54011,
       "title": "Project S",
-      "score": 0.189,
-      "r18": false
-    },
-    {
-      "id": 59930,
-      "title": "A Relationship of Intended Carelessness",
-      "score": 0.189,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ir",
+        "br"
+      ]
     }
   ]
 }

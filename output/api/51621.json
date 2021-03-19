@@ -1,158 +1,250 @@
 {
   "id": 51621,
   "title": "Girlfriend",
-  "url": "https://api.mangadex.org/v2/manga/51621",
-  "last_updated": "February 05, 2021 12:10:57 UTC",
+  "url": "https://mangadex.org/manga/51621",
+  "last_updated": "March 18, 2021 13:31:28 UTC",
   "matches": [
-    {
-      "id": 42128,
-      "title": "Restrain",
-      "score": 0.739,
-      "r18": false
-    },
-    {
-      "id": 47104,
-      "title": "We Are Not Familiar",
-      "score": 0.73,
-      "r18": false
-    },
-    {
-      "id": 52300,
-      "title": "The Devious New Employee",
-      "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 45928,
-      "title": "Dazzlingly Bright",
-      "score": 0.71,
-      "r18": false
-    },
-    {
-      "id": 35216,
-      "title": "Black Dragon Romance",
-      "score": 0.706,
-      "r18": false
-    },
-    {
-      "id": 55636,
-      "title": "My Wife Is Back",
-      "score": 0.705,
-      "r18": false
-    },
-    {
-      "id": 43719,
-      "title": "Stairway of Time",
-      "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 39592,
-      "title": "CEO's Top Secret",
-      "score": 0.694,
-      "r18": false
-    },
-    {
-      "id": 9460,
-      "title": "Cheonsaeng Yeonbun",
-      "score": 0.689,
-      "r18": false
-    },
-    {
-      "id": 54011,
-      "title": "Project S",
-      "score": 0.687,
-      "r18": false
-    },
-    {
-      "id": 36634,
-      "title": "Masked Woman",
-      "score": 0.687,
-      "r18": false
-    },
-    {
-      "id": 37665,
-      "title": "Subzero Temperature",
-      "score": 0.682,
-      "r18": false
-    },
     {
       "id": 49243,
       "title": "Get Ready With Me",
-      "score": 0.681,
-      "r18": false
+      "score": 0.263,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 55448,
-      "title": "It's Not That I Want to Wear Women's Clothing",
-      "score": 0.68,
-      "r18": false
+      "id": 42128,
+      "title": "Restrain",
+      "score": 0.237,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 36841,
-      "title": "The Problem of My Love Affair",
-      "score": 0.678,
-      "r18": false
+      "id": 52762,
+      "title": "Pygmalion",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 59508,
-      "title": "Straight Girl Trap",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 48038,
-      "title": "Demon's Ear",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 46143,
-      "title": "Office Witch Falls in Love",
-      "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 59273,
-      "title": "Before I Lose You",
-      "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 29512,
-      "title": "What's Wrong with Secretary Kim",
-      "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 29903,
-      "title": "Getting Married Is Not Easy",
-      "score": 0.667,
-      "r18": false
+      "id": 55938,
+      "title": "Face With Love, Affection, and Time",
+      "score": 0.219,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 54468,
       "title": "All I Want Is You",
-      "score": 0.667,
-      "r18": false
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 54143,
-      "title": "My Secret Recipe",
-      "score": 0.664,
-      "r18": false
+      "id": 47104,
+      "title": "We Are Not Familiar",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 49284,
-      "title": "It Is My First Love",
-      "score": 0.662,
-      "r18": false
+      "id": 41050,
+      "title": "Deadline Is Coming",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 47641,
-      "title": "A Tail Love",
-      "score": 0.661,
-      "r18": false
+      "id": 55570,
+      "title": "My Office Noona's Story",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "pl",
+        "ru",
+        "br"
+      ]
+    },
+    {
+      "id": 50399,
+      "title": "Related to Love",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53404,
+      "title": "Good Night, Liang Xiao",
+      "score": 0.198,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx"
+      ]
+    },
+    {
+      "id": 55636,
+      "title": "My Wife Is Back",
+      "score": 0.197,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ir"
+      ]
+    },
+    {
+      "id": 59508,
+      "title": "Straight Girl Trap",
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 36634,
+      "title": "Masked Woman",
+      "score": 0.189,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 35216,
+      "title": "Black Dragon Romance",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53754,
+      "title": "Zhou Cheng Yi&rsquo;s Bumpy First Love",
+      "score": 0.185,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 37665,
+      "title": "Subzero Temperature",
+      "score": 0.182,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 36841,
+      "title": "The Problem of My Love Affair",
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50746,
+      "title": "My Ex-Boyfriends Fell in Love With Me",
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 54213,
+      "title": "A Butterfly Metamorphoses Three Times",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 47340,
+      "title": "Day Off",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 46662,
+      "title": "I Am Gao Fu Shuai",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55364,
+      "title": "Rubber Duck Debugging",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 52300,
+      "title": "The Devious New Employee",
+      "score": 0.173,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 54011,
+      "title": "Project S",
+      "score": 0.169,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ir",
+        "br"
+      ]
+    },
+    {
+      "id": 59273,
+      "title": "Before I Lose You",
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

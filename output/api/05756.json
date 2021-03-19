@@ -2,19 +2,25 @@
   "id": 5756,
   "title": "Korokoro Soushi",
   "url": "https://mangadex.org/manga/5756",
-  "last_updated": "March 14, 2021 12:41:13 UTC",
+  "last_updated": "March 18, 2021 06:34:33 UTC",
   "matches": [
     {
       "id": 25239,
       "title": "Ekimae Hanayome",
-      "score": 0.231,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 13643,
       "title": "Garden",
       "score": 0.15,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

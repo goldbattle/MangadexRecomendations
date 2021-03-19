@@ -1,158 +1,289 @@
 {
   "id": 41475,
   "title": "Devilman (Masaru Isako)",
-  "url": "https://api.mangadex.org/v2/manga/41475",
-  "last_updated": "February 11, 2021 08:39:33 UTC",
+  "url": "https://mangadex.org/manga/41475",
+  "last_updated": "March 18, 2021 12:06:38 UTC",
   "matches": [
+    {
+      "id": 1417,
+      "title": "Shingetsutan Tsukihime",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "id",
+        "sa"
+      ]
+    },
     {
       "id": 13341,
       "title": "Mahou Shoujo of the End vs Hakaijuu vs Versus Earth",
-      "score": 0.249,
-      "r18": false
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
       "id": 84,
       "title": "Deadman Wonderland",
-      "score": 0.24,
-      "r18": false
-    },
-    {
-      "id": 1417,
-      "title": "Shingetsutan Tsukihime",
-      "score": 0.24,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "il",
+        "gb",
+        "br",
+        "ru",
+        "bg"
+      ]
     },
     {
       "id": 1734,
       "title": "BLOOD-C",
-      "score": 0.24,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3089,
       "title": "Corpse Party - Another Child",
-      "score": 0.24,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 3386,
       "title": "Variante",
-      "score": 0.24,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 4016,
       "title": "AREA D",
-      "score": 0.24,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "ru",
+        "mn",
+        "es"
+      ]
     },
     {
       "id": 4209,
       "title": "Hakaijuu",
-      "score": 0.24,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa",
+        "pl",
+        "br"
+      ]
     },
     {
       "id": 4780,
       "title": "Umineko no Naku Koro ni Chiru Episode 8: Twilight of the Golden Witch",
-      "score": 0.24,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8785,
       "title": "Fate/Extra",
-      "score": 0.24,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 9813,
       "title": "Mahou Shoujo Site",
-      "score": 0.24,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "br",
+        "pl",
+        "hu"
+      ]
     },
     {
       "id": 9844,
       "title": "Shingeki no Kyojin - Before the Fall",
-      "score": 0.24,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "es",
+        "ru",
+        "br",
+        "pl",
+        "hu",
+        "gb"
+      ]
     },
     {
       "id": 9959,
       "title": "Gringo 2061",
-      "score": 0.24,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11039,
       "title": "Illegal Rare",
-      "score": 0.24,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 12140,
       "title": "Hito Kui",
-      "score": 0.24,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 14899,
       "title": "Nemuri no Fuchi",
-      "score": 0.24,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 14800,
+      "title": "Reveries of the Moonlight",
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "tr",
+        "br",
+        "gb",
+        "sa"
+      ]
     },
     {
       "id": 35287,
       "title": "Devil May Cry 5 -Visions of V-",
-      "score": 0.24,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "ru",
+        "vn",
+        "gb",
+        "mx",
+        "id",
+        "hu",
+        "fr"
+      ]
     },
     {
       "id": 336,
       "title": "Kuroshitsuji",
-      "score": 0.218,
-      "r18": false
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "fr",
+        "mx",
+        "tr",
+        "hu",
+        "bg"
+      ]
     },
     {
       "id": 474,
       "title": "S.I.D. - Supernatural Investigation Department",
-      "score": 0.218,
-      "r18": false
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 494,
       "title": "Suashi no Meteorite",
-      "score": 0.218,
-      "r18": false
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 1950,
       "title": "Darren Shan",
-      "score": 0.218,
-      "r18": false
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "pl"
+      ]
     },
     {
       "id": 5454,
       "title": "JoJo's Bizarre Adventure Part 1 - Phantom Blood",
-      "score": 0.218,
-      "r18": false
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "es",
+        "ro"
+      ]
     },
     {
       "id": 16678,
       "title": "Choujin Sensen",
-      "score": 0.218,
-      "r18": false
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 9679,
       "title": "Birdmen",
-      "score": 0.216,
-      "r18": false
-    },
-    {
-      "id": 391,
-      "title": "Shiki",
-      "score": 0.206,
-      "r18": false
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "pl",
+        "es",
+        "id",
+        "de"
+      ]
     }
   ]
 }

@@ -1,158 +1,324 @@
 {
   "id": 40764,
   "title": "Tokyo Hell Heavens",
-  "url": "https://api.mangadex.org/v2/manga/40764",
-  "last_updated": "February 11, 2021 08:28:37 UTC",
+  "url": "https://mangadex.org/manga/40764",
+  "last_updated": "March 18, 2021 12:00:42 UTC",
   "matches": [
     {
-      "id": 25435,
-      "title": "Madara",
-      "score": 0.717,
-      "r18": false
+      "id": 21578,
+      "title": "Smile Death Match",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
-      "id": 23195,
-      "title": "The Great Ruler",
-      "score": 0.709,
-      "r18": false
+      "id": 21815,
+      "title": "Poppy no Negai",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "ru",
+        "it",
+        "fr",
+        "ir",
+        "br"
+      ]
     },
     {
-      "id": 8006,
-      "title": "Kekkai Sensen",
-      "score": 0.698,
-      "r18": false
+      "id": 2936,
+      "title": "Hokenshitsu no Shinigami",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id"
+      ]
     },
     {
-      "id": 28542,
-      "title": "JoJo's Bizarre Adventure Part 6 - Stone Ocean",
-      "score": 0.698,
-      "r18": false
+      "id": 38250,
+      "title": "JUNKDEAD!",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
-      "id": 11752,
-      "title": "Peach Pluck",
-      "score": 0.698,
-      "r18": false
+      "id": 21310,
+      "title": "Jibaku Shounen Hanako-kun",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "th",
+        "gb",
+        "id",
+        "ru",
+        "br",
+        "vn",
+        "fr",
+        "ua"
+      ]
     },
     {
-      "id": 10341,
-      "title": "Kokushi Musou!!",
-      "score": 0.696,
-      "r18": false
+      "id": 23220,
+      "title": "Matano Okoshiwo",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 848,
-      "title": "Konjiki no Gash!!",
-      "score": 0.694,
-      "r18": false
+      "id": 39580,
+      "title": "Kamio Yui wa Kami wo Yui",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru",
+        "mx",
+        "de"
+      ]
     },
     {
-      "id": 53985,
-      "title": "Dragon Raja 3",
-      "score": 0.692,
-      "r18": false
+      "id": 32049,
+      "title": "Asagaya Geijutu Koukou Eizouka e Youkoso",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br"
+      ]
+    },
+    {
+      "id": 59427,
+      "title": "One-Armed Amy",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "mx",
+        "ru",
+        "id"
+      ]
+    },
+    {
+      "id": 45197,
+      "title": "Death Note: Never Complete",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "br",
+        "it",
+        "ct",
+        "pl",
+        "tr",
+        "ru",
+        "hk",
+        "gb",
+        "ir"
+      ]
+    },
+    {
+      "id": 45853,
+      "title": "Shuumatsu no Koe",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "ru",
+        "mx",
+        "fr",
+        "gb",
+        "vn"
+      ]
+    },
+    {
+      "id": 58407,
+      "title": "Matchmaking of the Amagami Household (Oneshot)",
+      "score": 0.229,
+      "r18": false,
+      "languages": [
+        "ru",
+        "mx",
+        "id",
+        "br",
+        "gb",
+        "it",
+        "fr"
+      ]
+    },
+    {
+      "id": 41623,
+      "title": "Hiiragi-san Chi no Kyuuketsu Jijou",
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
+    },
+    {
+      "id": 36966,
+      "title": "Mao",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb",
+        "ct",
+        "br",
+        "ru",
+        "es"
+      ]
+    },
+    {
+      "id": 19421,
+      "title": "Hoshi ni Negai wo",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "ru",
+        "it",
+        "fr",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 25621,
+      "title": "Shaman King: The Super Star",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "ru",
+        "mx",
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 2013,
       "title": "King of Hell",
-      "score": 0.691,
-      "r18": false
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "hu"
+      ]
     },
     {
-      "id": 5573,
-      "title": "Saiyuki",
-      "score": 0.691,
-      "r18": false
+      "id": 12900,
+      "title": "Fudatsuki no Kyoko-chan",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "tr",
+        "br",
+        "sa"
+      ]
     },
     {
-      "id": 6270,
-      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo (Official Colored)",
-      "score": 0.691,
-      "r18": false
+      "id": 3749,
+      "title": "Again!!",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "ru",
+        "mx",
+        "fr",
+        "tr"
+      ]
     },
     {
-      "id": 28525,
-      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo",
-      "score": 0.69,
-      "r18": false
+      "id": 9408,
+      "title": "Durarara!! Saika-hen",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 47385,
-      "title": "Elf Deck To Senjou Gurashi",
-      "score": 0.689,
-      "r18": false
+      "id": 10456,
+      "title": "Sousei no Onmyouji",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "mx",
+        "br",
+        "ru",
+        "es"
+      ]
     },
     {
-      "id": 1790,
-      "title": "Arata Kangatari",
-      "score": 0.686,
-      "r18": false
+      "id": 15728,
+      "title": "Kanojo wa Rokurokubi",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "fr",
+        "pl"
+      ]
     },
     {
-      "id": 556,
-      "title": "Mirai Nikki Mosaic",
-      "score": 0.686,
-      "r18": false
+      "id": 18609,
+      "title": "Killer Killer",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "ru",
+        "br"
+      ]
     },
     {
-      "id": 53969,
-      "title": "Dragon Raja",
-      "score": 0.686,
-      "r18": false
+      "id": 35,
+      "title": "Bleach",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "ru",
+        "es",
+        "br",
+        "vn",
+        "ct",
+        "bg",
+        "hu",
+        "id",
+        "mx"
+      ]
     },
     {
-      "id": 353,
-      "title": "Shibatora",
-      "score": 0.683,
-      "r18": false
-    },
-    {
-      "id": 2280,
-      "title": "Shaman King",
-      "score": 0.683,
-      "r18": false
-    },
-    {
-      "id": 6271,
-      "title": "JoJo's Bizarre Adventure Part 6 - Stone Ocean (Official Colored)",
-      "score": 0.682,
-      "r18": false
-    },
-    {
-      "id": 1751,
-      "title": "D.Gray-man",
-      "score": 0.681,
-      "r18": false
-    },
-    {
-      "id": 6269,
-      "title": "JoJo's Bizarre Adventure Part 4 - Diamond is Unbreakable (Official Colored)",
-      "score": 0.681,
-      "r18": false
-    },
-    {
-      "id": 1720,
-      "title": "Under Prin",
-      "score": 0.681,
-      "r18": false
-    },
-    {
-      "id": 28843,
-      "title": "JoJo's Bizarre Adventure Part 4 - Diamond is Unbreakable",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 48759,
-      "title": "Kimetsu no Yaiba: Rengoku Kyoujurou Gaiden",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 283,
-      "title": "Ao no Exorcist",
-      "score": 0.68,
-      "r18": false
+      "id": 331,
+      "title": "Kamichu!",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru"
+      ]
     }
   ]
 }

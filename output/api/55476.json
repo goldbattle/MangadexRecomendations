@@ -1,86 +1,134 @@
 {
   "id": 55476,
   "title": "Child",
-  "url": "https://api.mangadex.org/v2/manga/55476",
-  "last_updated": "March 12, 2021 20:38:19 UTC",
+  "url": "https://mangadex.org/manga/55476",
+  "last_updated": "March 18, 2021 14:03:40 UTC",
   "matches": [
     {
       "id": 51874,
       "title": "The Life of a Black Cat",
-      "score": 0.23,
-      "r18": false
-    },
-    {
-      "id": 26688,
-      "title": "Panda Tanteisha",
-      "score": 0.197,
-      "r18": false
-    },
-    {
-      "id": 38375,
-      "title": "Welcome",
-      "score": 0.197,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "vn"
+      ]
     },
     {
       "id": 45118,
       "title": "Nogonhaut",
-      "score": 0.197,
-      "r18": false
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 38375,
+      "title": "Welcome",
+      "score": 0.196,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 46720,
       "title": "Southern Bird and Northern Bird",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "fr",
+        "br"
+      ]
     },
     {
       "id": 53858,
       "title": "I Don't Mind Being Eaten by You",
-      "score": 0.197,
-      "r18": false
-    },
-    {
-      "id": 21566,
-      "title": "Miss Kitty and Her Bodyguards",
-      "score": 0.172,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 51836,
       "title": "Rules for Keeping a Dragon",
-      "score": 0.153,
-      "r18": false
+      "score": 0.161,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn"
+      ]
     },
     {
       "id": 59983,
       "title": "Nya! Art School",
-      "score": 0.153,
-      "r18": false
+      "score": 0.158,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 49953,
       "title": "Clover Under Foot",
-      "score": 0.138,
-      "r18": false
+      "score": 0.148,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21566,
+      "title": "Miss Kitty and Her Bodyguards",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 58585,
+      "title": "Florappi",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 52180,
       "title": "Mr. Ostrich",
-      "score": 0.126,
-      "r18": false
-    },
-    {
-      "id": 56080,
-      "title": "Rainbow Bridge Watchman",
-      "score": 0.115,
-      "r18": false
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 36510,
       "title": "My Lord, the Wolf Queen",
-      "score": 0.099,
-      "r18": false
+      "score": 0.108,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 56080,
+      "title": "Rainbow Bridge Watchman",
+      "score": 0.096,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

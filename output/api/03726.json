@@ -2,55 +2,84 @@
   "id": 3726,
   "title": "Zanbara!",
   "url": "https://mangadex.org/manga/3726",
-  "last_updated": "March 14, 2021 08:22:54 UTC",
+  "last_updated": "March 18, 2021 06:15:21 UTC",
   "matches": [
     {
       "id": 14250,
       "title": "Saiyuki Ibun",
-      "score": 0.224,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1918,
       "title": "Saiyuki RELOAD BLAST",
-      "score": 0.198,
-      "r18": false
+      "score": 0.197,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8621,
       "title": "Izayakaku",
-      "score": 0.196,
-      "r18": false
+      "score": 0.195,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 30929,
       "title": "Saiyuki Offroad",
-      "score": 0.166,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2258,
       "title": "The Queen's Knight",
       "score": 0.161,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6093,
       "title": "Saiyuki RELOAD",
       "score": 0.152,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19294,
       "title": "+C: Sword and Cornett Appendix",
       "score": 0.145,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 40778,
       "title": "Cheating Men Must Die",
       "score": 0.063,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "fr",
+        "mx",
+        "id",
+        "gb",
+        "it"
+      ]
     }
   ]
 }

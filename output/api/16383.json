@@ -2,25 +2,41 @@
   "id": 16383,
   "title": "Onkai no Miyako",
   "url": "https://mangadex.org/manga/16383",
-  "last_updated": "March 15, 2021 16:40:30 UTC",
+  "last_updated": "March 18, 2021 08:08:55 UTC",
   "matches": [
     {
       "id": 37904,
       "title": "Mienai Hito-tachi",
-      "score": 0.228,
-      "r18": false
+      "score": 0.227,
+      "r18": false,
+      "languages": [
+        "br",
+        "it",
+        "hk",
+        "gb",
+        "fr",
+        "ir"
+      ]
     },
     {
       "id": 19794,
       "title": "Transparent Museum",
-      "score": 0.224,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "tr"
+      ]
     },
     {
       "id": 47702,
       "title": "Bokura no Kiseki ~another stories~",
-      "score": 0.14,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

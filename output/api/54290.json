@@ -1,20 +1,26 @@
 {
   "id": 54290,
   "title": "Ichizude Karen na Ore-sama",
-  "url": "https://api.mangadex.org/v2/manga/54290",
-  "last_updated": "March 12, 2021 20:23:48 UTC",
+  "url": "https://mangadex.org/manga/54290",
+  "last_updated": "March 18, 2021 13:53:45 UTC",
   "matches": [
     {
       "id": 9580,
       "title": "Khaki P to Sumire-hime",
-      "score": 0.381,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8243,
       "title": "Syrup! [bitter]",
-      "score": 0.28,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -1,62 +1,118 @@
 {
   "id": 31470,
   "title": "Yami no Moribito",
-  "url": "https://api.mangadex.org/v2/manga/31470",
-  "last_updated": "February 10, 2021 08:20:38 UTC",
+  "url": "https://mangadex.org/manga/31470",
+  "last_updated": "March 18, 2021 10:43:11 UTC",
   "matches": [
+    {
+      "id": 43910,
+      "title": "Neko no Te demo Yoroshikereba",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 25624,
+      "title": "Fire Emblem if - Nibelung no Houkan",
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "it"
+      ]
+    },
+    {
+      "id": 23780,
+      "title": "Makai Senki Disgaea",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "de",
+        "gb",
+        "es"
+      ]
+    },
     {
       "id": 2817,
       "title": "Crimson Empire - Circumstances to Serve a Noble",
-      "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 37549,
-      "title": "Herscherik - The Epic of the Reincarnated Prince",
-      "score": 0.695,
-      "r18": false
-    },
-    {
-      "id": 50099,
-      "title": "Herscherik R  - The Epic of the Reincarnated Prince",
-      "score": 0.686,
-      "r18": false
-    },
-    {
-      "id": 47568,
-      "title": "Fuyu Fenrir no Itoshigo to Natta Watashi ga, Zetsubou kara Iyasareteiku Hanashi",
-      "score": 0.681,
-      "r18": false
-    },
-    {
-      "id": 54696,
-      "title": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
-      "score": 0.681,
-      "r18": false
-    },
-    {
-      "id": 48968,
-      "title": "Wake Up, Warrior",
-      "score": 0.674,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 57418,
       "title": "Hazure Potion ga Shouyu datta no de Ryouri suru koto ni shimashita",
-      "score": 0.663,
-      "r18": false
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx"
+      ]
+    },
+    {
+      "id": 50099,
+      "title": "Herscherik R  - The Epic of the Reincarnated Prince",
+      "score": 0.148,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37549,
+      "title": "Herscherik - The Epic of the Reincarnated Prince",
+      "score": 0.148,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 54696,
+      "title": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 47568,
+      "title": "Fuyu Fenrir no Itoshigo to Natta Watashi ga, Zetsubou kara Iyasareteiku Hanashi",
+      "score": 0.14,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "th"
+      ]
     },
     {
       "id": 46403,
       "title": "Life in Another World as a Housekeeping Mage",
-      "score": 0.661,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 43910,
-      "title": "Neko no Te demo Yoroshikereba",
-      "score": 0.36,
-      "r18": false
+      "id": 48968,
+      "title": "Wake Up, Warrior",
+      "score": 0.115,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "tr"
+      ]
     }
   ]
 }

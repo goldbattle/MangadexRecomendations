@@ -1,38 +1,64 @@
 {
   "id": 55377,
   "title": "Juujin Kareshi ni Aisare Anthology",
-  "url": "https://api.mangadex.org/v2/manga/55377",
-  "last_updated": "March 12, 2021 20:37:04 UTC",
+  "url": "https://mangadex.org/manga/55377",
+  "last_updated": "March 18, 2021 14:02:51 UTC",
   "matches": [
     {
       "id": 4442,
       "title": "Arcana 04 - Vampire",
-      "score": 0.352,
-      "r18": false
-    },
-    {
-      "id": 35539,
-      "title": "Midnight Blue",
-      "score": 0.346,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "fr",
+        "hu"
+      ]
     },
     {
       "id": 22543,
       "title": "Mayonaka no Waltz",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "it",
+        "br",
+        "fr",
+        "vn",
+        "sa"
+      ]
+    },
+    {
+      "id": 35539,
+      "title": "Midnight Blue",
+      "score": 0.212,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 46300,
       "title": "Fluffy",
-      "score": 0.263,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 36510,
       "title": "My Lord, the Wolf Queen",
-      "score": 0.22,
-      "r18": false
+      "score": 0.099,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     }
   ]
 }

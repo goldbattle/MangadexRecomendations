@@ -2,31 +2,47 @@
   "id": 19451,
   "title": "Soukyoku",
   "url": "https://mangadex.org/manga/19451",
-  "last_updated": "March 16, 2021 00:19:09 UTC",
+  "last_updated": "March 18, 2021 08:48:42 UTC",
   "matches": [
     {
       "id": 38994,
       "title": "Ojisan to Ore no Koiwazurai",
-      "score": 0.283,
-      "r18": false
+      "score": 0.282,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 57326,
       "title": "Pink Butterfly",
-      "score": 0.267,
-      "r18": false
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 10706,
       "title": "Rakuda Tsukai to Ouji no Yoru",
       "score": 0.201,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 50969,
       "title": "Rakuen no Pet",
-      "score": 0.189,
-      "r18": false
+      "score": 0.188,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     }
   ]
 }

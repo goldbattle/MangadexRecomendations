@@ -1,158 +1,258 @@
 {
   "id": 41784,
   "title": "Shihonron",
-  "url": "https://api.mangadex.org/v2/manga/41784",
-  "last_updated": "February 11, 2021 08:44:16 UTC",
+  "url": "https://mangadex.org/manga/41784",
+  "last_updated": "March 18, 2021 12:09:13 UTC",
   "matches": [
     {
-      "id": 20929,
-      "title": "Hadashi no Gen",
-      "score": 0.744,
-      "r18": false
+      "id": 3964,
+      "title": "Cesare",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "ru",
+        "tr",
+        "gb"
+      ]
     },
     {
-      "id": 2797,
-      "title": "Le Th&eacute;&acirc;tre de B",
-      "score": 0.733,
-      "r18": false
+      "id": 16164,
+      "title": "Hyakki Tsurezure Bukuro",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 28617,
-      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run",
-      "score": 0.733,
-      "r18": false
+      "id": 15595,
+      "title": "Tendou-ke Monogatari",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "br",
+        "hu"
+      ]
     },
     {
-      "id": 202,
-      "title": "RAINBOW",
-      "score": 0.724,
-      "r18": false
+      "id": 1248,
+      "title": "Kakumeika no Gogo",
+      "score": 0.213,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 3089,
-      "title": "Corpse Party - Another Child",
-      "score": 0.723,
-      "r18": false
-    },
-    {
-      "id": 10908,
-      "title": "The Strange Tale of Panorama Island",
-      "score": 0.72,
-      "r18": false
-    },
-    {
-      "id": 6429,
-      "title": "Kiiroi Hon - Jacques Thibault to Iu na no Yuujin",
-      "score": 0.72,
-      "r18": false
-    },
-    {
-      "id": 43950,
-      "title": "The Goddess of Healing",
-      "score": 0.719,
-      "r18": false
-    },
-    {
-      "id": 33124,
-      "title": "Shouwa Otome Otogibanashi",
-      "score": 0.716,
-      "r18": false
-    },
-    {
-      "id": 336,
-      "title": "Kuroshitsuji",
-      "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 665,
-      "title": "Zipang",
-      "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 5600,
-      "title": "El Halc&oacute;n -Taka-",
-      "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 6272,
-      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
-      "score": 0.71,
-      "r18": false
-    },
-    {
-      "id": 3447,
-      "title": "Memories of Emanon",
-      "score": 0.709,
-      "r18": false
-    },
-    {
-      "id": 2659,
-      "title": "Omae ga Sekai wo Kowashitai nara",
-      "score": 0.707,
-      "r18": false
-    },
-    {
-      "id": 7653,
-      "title": "Poe no Ichizoku",
-      "score": 0.707,
-      "r18": false
-    },
-    {
-      "id": 6283,
-      "title": "Vandemieru no Tsubasa",
-      "score": 0.706,
-      "r18": false
-    },
-    {
-      "id": 4242,
-      "title": "Hyouge Mono",
-      "score": 0.705,
-      "r18": false
-    },
-    {
-      "id": 10141,
-      "title": "Elhanburg no Tenshi",
-      "score": 0.701,
-      "r18": false
-    },
-    {
-      "id": 34369,
-      "title": "Along With The Gods",
-      "score": 0.696,
-      "r18": false
+      "id": 2467,
+      "title": "Floral Mirror of the Moon",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 774,
       "title": "Billy Bat",
-      "score": 0.694,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "it"
+      ]
+    },
+    {
+      "id": 1221,
+      "title": "In Full Bloom",
+      "score": 0.204,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr"
+      ]
+    },
+    {
+      "id": 33124,
+      "title": "Shouwa Otome Otogibanashi",
+      "score": 0.198,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 20929,
+      "title": "Hadashi no Gen",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 13421,
+      "title": "Shin Kurosawa - Saikyou Densetsu",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "tr"
+      ]
     },
     {
       "id": 29749,
       "title": "Red",
-      "score": 0.693,
-      "r18": false
+      "score": 0.185,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 12096,
-      "title": "Chrono Monochrome",
-      "score": 0.692,
-      "r18": false
+      "id": 1473,
+      "title": "Henjin Henkutsu Retsuden",
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
-      "id": 290,
-      "title": "Aruosumente",
-      "score": 0.691,
-      "r18": false
+      "id": 4396,
+      "title": "Cassandra",
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 18305,
-      "title": "A Night of a Thousand Dreams",
-      "score": 0.689,
-      "r18": false
+      "id": 21338,
+      "title": "Moriarty the Patriot",
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "vn",
+        "gb",
+        "ru",
+        "br"
+      ]
+    },
+    {
+      "id": 2344,
+      "title": "Hadashi De Bara Wo Fume",
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 5600,
+      "title": "El Halc&oacute;n -Taka-",
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 43057,
+      "title": "Hamlet",
+      "score": 0.179,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 36218,
+      "title": "Kotou no Oni",
+      "score": 0.177,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4536,
+      "title": "Washizu -Enma no Touhai-",
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 12136,
+      "title": "Ad Astra - Scipio to Hannibal",
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 54794,
+      "title": "Peony Elegy: Winter",
+      "score": 0.167,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1920,
+      "title": "The Ravages of Time",
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "it"
+      ]
+    },
+    {
+      "id": 10006,
+      "title": "Innocent",
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "ru",
+        "sa",
+        "pl"
+      ]
+    },
+    {
+      "id": 3700,
+      "title": "Wolfsmund",
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 10141,
+      "title": "Elhanburg no Tenshi",
+      "score": 0.164,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     }
   ]
 }

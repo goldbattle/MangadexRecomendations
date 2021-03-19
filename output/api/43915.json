@@ -1,20 +1,40 @@
 {
   "id": 43915,
   "title": "Eikoku Monogatari Shunka torikae Shou",
-  "url": "https://api.mangadex.org/v2/manga/43915",
-  "last_updated": "February 11, 2021 16:32:41 UTC",
+  "url": "https://mangadex.org/manga/43915",
+  "last_updated": "March 18, 2021 12:27:00 UTC",
   "matches": [
     {
       "id": 48123,
       "title": "Please Fall Asleep, Emperor",
-      "score": 0.209,
-      "r18": false
+      "score": 0.137,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 52767,
-      "title": "Your Highness, I'm Pregnant",
-      "score": 0.196,
-      "r18": false
+      "id": 53957,
+      "title": "North by Northwest",
+      "score": 0.125,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "vn"
+      ]
+    },
+    {
+      "id": 56186,
+      "title": "Your Majesty, Please Don't Kill Me Again",
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "fr",
+        "id"
+      ]
     }
   ]
 }

@@ -2,19 +2,39 @@
   "id": 8860,
   "title": "Ritz",
   "url": "https://mangadex.org/manga/8860",
-  "last_updated": "March 14, 2021 20:24:06 UTC",
+  "last_updated": "March 18, 2021 07:01:12 UTC",
   "matches": [
     {
       "id": 2268,
       "title": "Mudazumo Naki Kaikaku",
       "score": 0.653,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it"
+      ]
+    },
+    {
+      "id": 444,
+      "title": "D-Frag!",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id",
+        "fr"
+      ]
     },
     {
       "id": 31166,
       "title": "Mudazumo Naki Kaikaku - Princess of Zipang",
-      "score": 0.14,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

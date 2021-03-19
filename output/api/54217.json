@@ -1,158 +1,254 @@
 {
   "id": 54217,
   "title": "Shihou Yuugi",
-  "url": "https://api.mangadex.org/v2/manga/54217",
-  "last_updated": "March 12, 2021 20:22:52 UTC",
+  "url": "https://mangadex.org/manga/54217",
+  "last_updated": "March 18, 2021 13:53:09 UTC",
   "matches": [
     {
-      "id": 6744,
-      "title": "Goblin Knight",
-      "score": 0.789,
-      "r18": false
+      "id": 1975,
+      "title": "Karakuri",
+      "score": 0.325,
+      "r18": false,
+      "languages": [
+        "pl",
+        "it",
+        "gb"
+      ]
     },
     {
-      "id": 36937,
-      "title": "The Guardian of Mt. Moon",
-      "score": 0.77,
-      "r18": false
-    },
-    {
-      "id": 2917,
-      "title": "Continue",
-      "score": 0.767,
-      "r18": false
+      "id": 6127,
+      "title": "Minds",
+      "score": 0.317,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 3933,
       "title": "CROSS",
-      "score": 0.762,
-      "r18": false
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de"
+      ]
     },
     {
-      "id": 28739,
-      "title": "Rurouni Kenshin: Haru ni Sakura",
-      "score": 0.762,
-      "r18": false
+      "id": 8696,
+      "title": "Little War",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 20498,
+      "title": "Ryuudan Shounen",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 31009,
+      "title": "Another Vanguard - Vanguard Frontier",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 46621,
+      "title": "Gokurakugai Sanbandori no Ken",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "mx",
+        "id",
+        "gb",
+        "br",
+        "it",
+        "sa",
+        "ru",
+        "fr",
+        "vn"
+      ]
     },
     {
       "id": 28740,
       "title": "Rurouni Kenshin: Yahiko no Sakabatou",
-      "score": 0.758,
-      "r18": false
+      "score": 0.278,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 16700,
-      "title": "Shijou Saikyou no Gaiden",
-      "score": 0.751,
-      "r18": false
+      "id": 36937,
+      "title": "The Guardian of Mt. Moon",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3511,
       "title": "Dandelion",
-      "score": 0.75,
-      "r18": false
+      "score": 0.267,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 9677,
-      "title": "Cyborg 009 (SHIMAMOTO Kazuhiko)",
-      "score": 0.745,
-      "r18": false
+      "id": 10184,
+      "title": "Onihime",
+      "score": 0.267,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 15150,
-      "title": "Jitsuryokuha Elite Jin",
-      "score": 0.745,
-      "r18": false
+      "id": 2579,
+      "title": "Rico",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 7527,
-      "title": "One Piece: Strong World",
-      "score": 0.744,
-      "r18": false
+      "id": 2848,
+      "title": "Tokyo Depato Sensou Taikenki",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 1937,
-      "title": "Tsukimi no Soba",
-      "score": 0.743,
-      "r18": false
+      "id": 22328,
+      "title": "Joreishi Rentaro no Yakusoku",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "hk"
+      ]
     },
     {
-      "id": 24176,
-      "title": "Zero no Dai Kenja ~ Wakagaetta Saikyou Kenja Wa Shoutai o Kakushite Nariagaru",
-      "score": 0.741,
-      "r18": false
+      "id": 22152,
+      "title": "Yo-kai Watch Treasure Busters",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 15197,
-      "title": "Dragon Ball Z: Fukkatsu no F",
-      "score": 0.74,
-      "r18": false
+      "id": 29345,
+      "title": "99.9",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 40636,
-      "title": "Hakugin no Tei\u014d",
-      "score": 0.74,
-      "r18": false
+      "id": 17947,
+      "title": "AI07",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 15571,
-      "title": "GARDEN",
-      "score": 0.74,
-      "r18": false
+      "id": 1947,
+      "title": "Fizon Core",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 8953,
-      "title": "Kokodake no Himitsu",
-      "score": 0.74,
-      "r18": false
+      "id": 18206,
+      "title": "Dragon Ball Z: The History of Trunks Anime Comic",
+      "score": 0.261,
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
     },
     {
-      "id": 7435,
-      "title": "A Midnight Opera",
-      "score": 0.739,
-      "r18": false
+      "id": 18341,
+      "title": "Double Bullet",
+      "score": 0.259,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 12560,
-      "title": "Oingo Boingo Brothers Adventure",
-      "score": 0.738,
-      "r18": false
+      "id": 3627,
+      "title": "Enma",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 37610,
-      "title": "Black Clover (One-shot)",
-      "score": 0.733,
-      "r18": false
+      "id": 20983,
+      "title": "SKY CLAW",
+      "score": 0.256,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     },
     {
-      "id": 58293,
-      "title": "Jungle Emperor (Mighty Atom Club)",
-      "score": 0.73,
-      "r18": false
+      "id": 3676,
+      "title": "Kid",
+      "score": 0.254,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 1020,
-      "title": "Adabana",
-      "score": 0.729,
-      "r18": false
+      "id": 34028,
+      "title": "Survival 2000",
+      "score": 0.252,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 40635,
-      "title": "Bear Hunter &mdash; Fubuki-g\u014d",
-      "score": 0.727,
-      "r18": false
-    },
-    {
-      "id": 57431,
-      "title": "Hikikomari Kyuuketsuki no Monmon",
-      "score": 0.726,
-      "r18": false
-    },
-    {
-      "id": 18038,
-      "title": "Zenei no Archer",
-      "score": 0.726,
-      "r18": false
+      "id": 5758,
+      "title": "Jump Super Stars",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     }
   ]
 }

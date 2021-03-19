@@ -2,73 +2,131 @@
   "id": 48807,
   "title": "Kuma to Karasu",
   "url": "https://mangadex.org/manga/48807",
-  "last_updated": "January 15, 2021 12:37:07 UTC",
+  "last_updated": "March 18, 2021 13:08:00 UTC",
   "matches": [
     {
       "id": 3648,
       "title": "Mokuyoubi no Furutto",
-      "score": 0.345,
-      "r18": false
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hk"
+      ]
     },
     {
       "id": 23450,
       "title": "Kainushi Juujin to Pet Joshikousei",
-      "score": 0.276,
-      "r18": false
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 43111,
       "title": "I Am Their Catships' Catservant",
-      "score": 0.276,
-      "r18": false
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 58425,
       "title": "Nekomaki",
-      "score": 0.276,
-      "r18": false
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 42108,
       "title": "Pocket Monsters HGSS",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 38120,
+      "title": "Rojiura Brothers",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 496,
-      "title": "Silver Spoon",
-      "score": 0.153,
-      "r18": false
+      "title": "Gin no Saji",
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb",
+        "br",
+        "bg",
+        "id",
+        "ru"
+      ]
     },
     {
       "id": 43115,
       "title": "Pocket Monsters",
-      "score": 0.153,
-      "r18": false
-    },
-    {
-      "id": 58445,
-      "title": "Shokubutsu Mahou Chito de Nonbiri Ryoshu Seikatsu Hajimemasu Zense no Chishiki o Kushi Shite Nogyo Shitara, Gyakuten Jinsei Hajimatta Kudan",
-      "score": 0.138,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22194,
       "title": "Beast Complex",
-      "score": 0.126,
-      "r18": false
+      "score": 0.105,
+      "r18": false,
+      "languages": [
+        "vn",
+        "it",
+        "gb",
+        "hk",
+        "br",
+        "mx",
+        "ru",
+        "fr"
+      ]
+    },
+    {
+      "id": 58445,
+      "title": "Shokubutsu Mahou Chito de Nonbiri Ryoshu Seikatsu Hajimemasu Zense no Chishiki o Kushi Shite Nogyo Shitara, Gyakuten Jinsei Hajimatta Kudan",
+      "score": 0.105,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 48208,
       "title": "BEASTARS (Fan-Colored)",
-      "score": 0.115,
-      "r18": false
+      "score": 0.096,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 50434,
       "title": "Monster Bar",
-      "score": 0.086,
-      "r18": false
+      "score": 0.072,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     }
   ]
 }

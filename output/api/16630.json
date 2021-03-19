@@ -2,19 +2,35 @@
   "id": 16630,
   "title": "Achira Kochira Bokura",
   "url": "https://mangadex.org/manga/16630",
-  "last_updated": "March 15, 2021 16:44:36 UTC",
+  "last_updated": "March 18, 2021 08:12:57 UTC",
   "matches": [
     {
       "id": 12773,
       "title": "Omi-sensei no Binetsu",
-      "score": 0.31,
-      "r18": false
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 48813,
+      "title": "Suki koso momo no Jouzu nare!",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 54000,
       "title": "Tonari ni Ringo ga Todokimashita",
-      "score": 0.207,
-      "r18": false
+      "score": 0.206,
+      "r18": false,
+      "languages": [
+        "cn"
+      ]
     }
   ]
 }

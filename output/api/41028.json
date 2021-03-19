@@ -1,158 +1,254 @@
 {
   "id": 41028,
   "title": "Inochi o Odoru",
-  "url": "https://api.mangadex.org/v2/manga/41028",
-  "last_updated": "February 11, 2021 08:32:46 UTC",
+  "url": "https://mangadex.org/manga/41028",
+  "last_updated": "March 18, 2021 12:02:54 UTC",
   "matches": [
-    {
-      "id": 1215,
-      "title": "Cute Devil: A Shimura Takako Collection",
-      "score": 0.4,
-      "r18": false
-    },
     {
       "id": 3234,
       "title": "Aosora",
-      "score": 0.374,
-      "r18": false
-    },
-    {
-      "id": 1096,
-      "title": "Smargs Won't Sing",
-      "score": 0.349,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 34028,
       "title": "Survival 2000",
-      "score": 0.348,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 2612,
-      "title": "Fragment",
-      "score": 0.331,
-      "r18": false
-    },
-    {
-      "id": 8550,
-      "title": "Anastasia no Shinei Taichou",
-      "score": 0.331,
-      "r18": false
-    },
-    {
-      "id": 11891,
-      "title": "Nyan-Nyan Oratorio",
-      "score": 0.329,
-      "r18": false
+      "id": 1215,
+      "title": "Cute Devil: A Shimura Takako Collection",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 23756,
       "title": "Ushiro no Pleiades",
-      "score": 0.328,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 9677,
-      "title": "Cyborg 009 (SHIMAMOTO Kazuhiko)",
-      "score": 0.328,
-      "r18": false
-    },
-    {
-      "id": 41029,
-      "title": "Kanojo wa Itsumo Kagayaiteita",
-      "score": 0.327,
-      "r18": false
-    },
-    {
-      "id": 40636,
-      "title": "Hakugin no Tei\u014d",
-      "score": 0.324,
-      "r18": false
+      "id": 1096,
+      "title": "Smargs Won't Sing",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "it",
+        "fr"
+      ]
     },
     {
       "id": 3676,
       "title": "Kid",
-      "score": 0.323,
-      "r18": false
-    },
-    {
-      "id": 2930,
-      "title": "Hello Baby",
-      "score": 0.322,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 22565,
       "title": "Waon Nijuusou",
-      "score": 0.322,
-      "r18": false
-    },
-    {
-      "id": 17268,
-      "title": "Tsukigui Youma Taijishi",
-      "score": 0.321,
-      "r18": false
-    },
-    {
-      "id": 52181,
-      "title": "Captain Tsubasa - 25th Anniversary",
-      "score": 0.313,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 58963,
       "title": "A Lantern's Light",
-      "score": 0.31,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 40635,
-      "title": "Bear Hunter &mdash; Fubuki-g\u014d",
-      "score": 0.307,
-      "r18": false
+      "id": 17268,
+      "title": "Tsukigui Youma Taijishi",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 15571,
-      "title": "GARDEN",
-      "score": 0.301,
-      "r18": false
+      "id": 54190,
+      "title": "Coward Cross World",
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 11891,
+      "title": "Nyan-Nyan Oratorio",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 32815,
+      "title": "Esora Hikouki",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19213,
+      "title": "Gyakuten Saiban - Turnabout Crossover",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2612,
+      "title": "Fragment",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9677,
+      "title": "Cyborg 009 (SHIMAMOTO Kazuhiko)",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2930,
+      "title": "Hello Baby",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "pl",
+        "hu",
+        "ro",
+        "gb",
+        "ct",
+        "de"
+      ]
     },
     {
       "id": 21261,
       "title": "Yoru Naku Suzume",
-      "score": 0.3,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 59870,
-      "title": "Wilted Flower",
-      "score": 0.297,
-      "r18": false
+      "id": 15571,
+      "title": "GARDEN",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 40635,
+      "title": "Bear Hunter &mdash; Fubuki-g\u014d",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 40636,
+      "title": "Hakugin no Tei\u014d",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2933,
+      "title": "Urooboe Uroboros!",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "id",
+        "ct",
+        "gb"
+      ]
     },
     {
       "id": 10063,
       "title": "Pom the Panda",
-      "score": 0.293,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "fr",
+        "pl",
+        "it",
+        "gb"
+      ]
     },
     {
-      "id": 58407,
-      "title": "Matchmaking of the Amagami Household (Oneshot)",
-      "score": 0.291,
-      "r18": false
+      "id": 1194,
+      "title": "Tengoku no Honya",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de"
+      ]
     },
     {
-      "id": 19162,
-      "title": "Sasaki-kun ga Judan Tometa",
-      "score": 0.289,
-      "r18": false
+      "id": 59870,
+      "title": "Wilted Flower",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "th"
+      ]
     },
     {
-      "id": 32049,
-      "title": "Asagaya Geijutu Koukou Eizouka e Youkoso",
-      "score": 0.287,
-      "r18": false
+      "id": 39185,
+      "title": "Shuumatsu wa Aoi Haru",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     }
   ]
 }

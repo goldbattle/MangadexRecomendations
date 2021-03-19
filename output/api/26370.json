@@ -2,25 +2,37 @@
   "id": 26370,
   "title": "Salyune",
   "url": "https://mangadex.org/manga/26370",
-  "last_updated": "March 16, 2021 20:19:54 UTC",
+  "last_updated": "March 18, 2021 10:00:38 UTC",
   "matches": [
     {
       "id": 26187,
       "title": "Eden no Otome",
-      "score": 0.2,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4765,
       "title": "Kashimashi ~Girl Meets Girl~",
       "score": 0.15,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21054,
       "title": "Ano Ko ni Yasashii Sekai ga Ii",
       "score": 0.133,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn",
+        "ru",
+        "es"
+      ]
     }
   ]
 }

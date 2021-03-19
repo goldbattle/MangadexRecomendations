@@ -2,31 +2,37 @@
   "id": 53031,
   "title": "Samoto ke no Nike",
   "url": "https://mangadex.org/manga/53031",
-  "last_updated": "January 16, 2021 01:02:32 UTC",
+  "last_updated": "March 18, 2021 13:43:14 UTC",
   "matches": [
     {
       "id": 40736,
       "title": "Majime Succubus Hiragi-san",
-      "score": 0.3,
-      "r18": false
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 20481,
       "title": "Haruyo, Koi!",
-      "score": 0.265,
-      "r18": false
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 8720,
       "title": "Sakuran (IWASHIRO Toshiaki)",
-      "score": 0.238,
-      "r18": false
-    },
-    {
-      "id": 20964,
-      "title": "Rash!!",
-      "score": 0.236,
-      "r18": false
+      "score": 0.161,
+      "r18": false,
+      "languages": [
+        "fr",
+        "es"
+      ]
     }
   ]
 }

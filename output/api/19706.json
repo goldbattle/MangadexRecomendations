@@ -2,61 +2,95 @@
   "id": 19706,
   "title": "God Mazinger",
   "url": "https://mangadex.org/manga/19706",
-  "last_updated": "March 16, 2021 00:22:20 UTC",
+  "last_updated": "March 18, 2021 08:50:49 UTC",
   "matches": [
     {
       "id": 471,
       "title": "Taboo-Tattoo",
       "score": 0.203,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 6222,
       "title": "Knights",
       "score": 0.186,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 27005,
       "title": "Tou no Kanri o Shite Miyou",
-      "score": 0.179,
-      "r18": false
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru",
+        "br",
+        "mx"
+      ]
     },
     {
       "id": 57017,
       "title": "Tensei Inja wa Hokusoemu",
       "score": 0.164,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11987,
       "title": "Ana Satsujin",
       "score": 0.145,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "pl"
+      ]
     },
     {
       "id": 58092,
       "title": "Hazure Akamadoushi ha Kenjyatime ni Musou suru",
-      "score": 0.145,
-      "r18": false
-    },
-    {
-      "id": 22162,
-      "title": "Futoku no Guild",
       "score": 0.144,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 21699,
       "title": "Isekai Meikyuu de Harem wo",
       "score": 0.132,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "cn",
+        "ru",
+        "mx",
+        "it",
+        "br",
+        "fr",
+        "es",
+        "id"
+      ]
     },
     {
       "id": 20841,
       "title": "Devilman Brutus Mercedes-Benz SLR",
-      "score": 0.112,
-      "r18": false
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

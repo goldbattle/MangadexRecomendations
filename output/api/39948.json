@@ -2,49 +2,97 @@
   "id": 39948,
   "title": "Ultra Gash Inferno",
   "url": "https://mangadex.org/manga/39948",
-  "last_updated": "March 18, 2021 04:30:49 UTC",
+  "last_updated": "March 18, 2021 11:53:54 UTC",
   "matches": [
     {
       "id": 7753,
       "title": "The Caterpillar",
       "score": 0.29,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1543,
       "title": "Homunculus",
-      "score": 0.242,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "it",
+        "br",
+        "id"
+      ]
     },
     {
       "id": 4747,
       "title": "Terra Formars",
       "score": 0.145,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "tr"
+      ]
     },
     {
       "id": 1073,
       "title": "Vagabond",
-      "score": 0.132,
-      "r18": false
-    },
-    {
-      "id": 22283,
-      "title": "Goblin Slayer Side Story: Year One",
-      "score": 0.121,
-      "r18": false
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "it",
+        "hu",
+        "pl",
+        "id",
+        "sa"
+      ]
     },
     {
       "id": 56617,
       "title": "Vagabond (Official Colored)",
-      "score": 0.112,
-      "r18": false
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 22283,
+      "title": "Goblin Slayer Side Story: Year One",
+      "score": 0.09,
+      "r18": false,
+      "languages": [
+        "br",
+        "it",
+        "ru",
+        "mx",
+        "id",
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 607,
       "title": "Berserk",
       "score": 0.076,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it",
+        "mx",
+        "tr",
+        "sa",
+        "ru",
+        "fr",
+        "hk"
+      ]
     }
   ]
 }

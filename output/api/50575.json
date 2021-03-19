@@ -1,44 +1,75 @@
 {
   "id": 50575,
   "title": "Denpa teki na Kanojo",
-  "url": "https://api.mangadex.org/v2/manga/50575",
-  "last_updated": "February 05, 2021 08:25:53 UTC",
+  "url": "https://mangadex.org/manga/50575",
+  "last_updated": "March 18, 2021 13:22:44 UTC",
   "matches": [
     {
       "id": 24539,
       "title": "Rule - Annihilation Classroom -",
-      "score": 0.667,
-      "r18": false
+      "score": 0.212,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "it"
+      ]
     },
     {
       "id": 45755,
       "title": "Angelic Syndrome",
-      "score": 0.325,
-      "r18": false
-    },
-    {
-      "id": 31534,
-      "title": "Batuque",
-      "score": 0.229,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "fr",
+        "ru",
+        "br"
+      ]
     },
     {
       "id": 42473,
       "title": "Haunted (\u30db\u30fc\u30f3\u30c6\u30c3\u30c9)",
-      "score": 0.211,
-      "r18": false
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 43372,
-      "title": "Lockdown No Escape",
-      "score": 0.197,
-      "r18": false
+      "id": 31534,
+      "title": "Batuque",
+      "score": 0.107,
+      "r18": false,
+      "languages": [
+        "hk",
+        "br",
+        "gb",
+        "it",
+        "mx"
+      ]
     },
     {
       "id": 45976,
       "title": "Game of Doppelg&auml;nger",
-      "score": 0.174,
-      "r18": false
+      "score": 0.099,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 43372,
+      "title": "Lockdown No Escape",
+      "score": 0.049,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     }
   ]
 }

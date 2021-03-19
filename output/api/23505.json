@@ -2,37 +2,55 @@
   "id": 23505,
   "title": "Anego!!",
   "url": "https://mangadex.org/manga/23505",
-  "last_updated": "March 16, 2021 12:29:35 UTC",
+  "last_updated": "March 18, 2021 09:23:51 UTC",
   "matches": [
     {
       "id": 6077,
       "title": "Arigatou",
-      "score": 0.238,
-      "r18": false
+      "score": 0.235,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 13840,
       "title": "The Inferno in Bottles",
-      "score": 0.175,
-      "r18": false
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7327,
       "title": "Doctor Du Ming",
-      "score": 0.175,
-      "r18": false
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 21636,
       "title": "Mashira",
-      "score": 0.15,
-      "r18": false
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 18813,
       "title": "House of Dolls",
-      "score": 0.117,
-      "r18": false
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     }
   ]
 }

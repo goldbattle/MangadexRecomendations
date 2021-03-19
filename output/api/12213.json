@@ -2,49 +2,68 @@
   "id": 12213,
   "title": "Tennen Gokuraku Mahoutsukai",
   "url": "https://mangadex.org/manga/12213",
-  "last_updated": "March 15, 2021 04:49:04 UTC",
+  "last_updated": "March 18, 2021 07:29:56 UTC",
   "matches": [
     {
       "id": 9951,
       "title": "Nekoka Kareshi no Ayashikata",
-      "score": 0.3,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 30158,
       "title": "Red Hood",
-      "score": 0.25,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 23965,
       "title": "After 5 wa Kiss no Ame",
       "score": 0.214,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 27684,
       "title": "Yokubou Shounen",
-      "score": 0.197,
-      "r18": false
+      "score": 0.196,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29080,
       "title": "Dakishimetakunai",
-      "score": 0.181,
-      "r18": false
-    },
-    {
-      "id": 52717,
-      "title": "The Devil and S-13",
-      "score": 0.15,
-      "r18": false
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "it",
+        "pl"
+      ]
     },
     {
       "id": 29901,
       "title": "Dear Door",
       "score": 0.136,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "it",
+        "pl",
+        "gb"
+      ]
     }
   ]
 }

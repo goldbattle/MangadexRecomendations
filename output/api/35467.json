@@ -1,104 +1,149 @@
 {
   "id": 35467,
   "title": "Namaiki Kareshi",
-  "url": "https://api.mangadex.org/v2/manga/35467",
-  "last_updated": "February 10, 2021 16:44:07 UTC",
+  "url": "https://mangadex.org/manga/35467",
+  "last_updated": "March 18, 2021 11:16:30 UTC",
   "matches": [
-    {
-      "id": 13479,
-      "title": "So Cute?",
-      "score": 0.7,
-      "r18": false
-    },
     {
       "id": 25255,
       "title": "Shitasaki ni Yoake no Aji",
-      "score": 0.692,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29012,
       "title": "Sore wa Are da, Ai Kamo ne",
-      "score": 0.692,
-      "r18": false
-    },
-    {
-      "id": 7898,
-      "title": "Recipe no Ouji-sama",
-      "score": 0.692,
-      "r18": false
-    },
-    {
-      "id": 34668,
-      "title": "From Green Kitchen",
-      "score": 0.685,
-      "r18": false
-    },
-    {
-      "id": 59724,
-      "title": "Heartrate Presto",
-      "score": 0.683,
-      "r18": false
+      "score": 0.347,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 31176,
       "title": "Shiawase Gohan - Maki to Hanazawa",
-      "score": 0.682,
-      "r18": false
-    },
-    {
-      "id": 48273,
-      "title": "Sukiyanen Kedo Dou Yaro ka",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 46021,
-      "title": "Nekasenaide",
-      "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 34143,
-      "title": "Atatamete Kureru Hito",
-      "score": 0.413,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 12656,
       "title": "Bitter Sweet Caf&eacute;",
-      "score": 0.4,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "tr",
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 24668,
       "title": "Koi Saku Potager",
-      "score": 0.372,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 27844,
       "title": "Violence na Kimi ga Suki",
-      "score": 0.36,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7898,
+      "title": "Recipe no Ouji-sama",
+      "score": 0.278,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 48273,
+      "title": "Sukiyanen Kedo Dou Yaro ka",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 34143,
+      "title": "Atatamete Kureru Hito",
+      "score": 0.267,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 46021,
+      "title": "Nekasenaide",
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 34668,
+      "title": "From Green Kitchen",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 13479,
+      "title": "So Cute?",
+      "score": 0.206,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 59823,
       "title": "Konya mo Kimi ni Gochisousama",
-      "score": 0.292,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59724,
+      "title": "Heartrate Presto",
+      "score": 0.185,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 51453,
       "title": "Seasons' Cafe",
-      "score": 0.278,
-      "r18": false
-    },
-    {
-      "id": 56201,
-      "title": "Por mi cuenta",
-      "score": 0.24,
-      "r18": false
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     }
   ]
 }

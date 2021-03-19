@@ -1,38 +1,27 @@
 {
   "id": 47289,
   "title": "Snow Kingdom",
-  "url": "https://api.mangadex.org/v2/manga/47289",
-  "last_updated": "February 12, 2021 01:08:50 UTC",
+  "url": "https://mangadex.org/manga/47289",
+  "last_updated": "March 18, 2021 12:55:13 UTC",
   "matches": [
-    {
-      "id": 59011,
-      "title": "Yesterday was like Death",
-      "score": 0.273,
-      "r18": false
-    },
     {
       "id": 52047,
       "title": "Bread's Collection of One-shots",
-      "score": 0.195,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 40608,
-      "title": "AoAo Waiting to Be Eaten (Caught!!)",
-      "score": 0.156,
-      "r18": false
-    },
-    {
-      "id": 56502,
-      "title": "One Photo (BL)",
-      "score": 0.156,
-      "r18": false
-    },
-    {
-      "id": 57243,
-      "title": "Please, Kill me",
-      "score": 0.156,
-      "r18": false
+      "id": 59011,
+      "title": "Yesterday was like Death",
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     }
   ]
 }

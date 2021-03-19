@@ -1,158 +1,254 @@
 {
   "id": 55482,
   "title": "Summer Is Hot!",
-  "url": "https://api.mangadex.org/v2/manga/55482",
-  "last_updated": "March 12, 2021 20:38:23 UTC",
+  "url": "https://mangadex.org/manga/55482",
+  "last_updated": "March 18, 2021 14:03:43 UTC",
   "matches": [
-    {
-      "id": 5140,
-      "title": "Houou Gakuen Misoragumi",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 52456,
-      "title": "Unpredictable",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 47426,
-      "title": "I'm the Ex-Girlfriend of a Soldier",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 14407,
-      "title": "Jidokhage Kkeureoango Jidokhage Kiseuhago",
-      "score": 0.653,
-      "r18": false
-    },
     {
       "id": 29381,
       "title": "Zhe Ge Hei Dao You Dian Meng",
-      "score": 0.405,
-      "r18": false
-    },
-    {
-      "id": 59248,
-      "title": "Dragon's Savior",
-      "score": 0.395,
-      "r18": false
+      "score": 0.311,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29118,
       "title": "A Guide to Proper Dating",
-      "score": 0.388,
-      "r18": false
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 55205,
-      "title": "Night Crying Crow",
-      "score": 0.388,
-      "r18": false
-    },
-    {
-      "id": 59364,
-      "title": "Hydrangea Melancholy",
-      "score": 0.386,
-      "r18": false
-    },
-    {
-      "id": 59849,
-      "title": "Unreachable Girl",
-      "score": 0.382,
-      "r18": false
-    },
-    {
-      "id": 24845,
-      "title": "DOLO's Destiny Pill",
-      "score": 0.381,
-      "r18": false
-    },
-    {
-      "id": 47165,
-      "title": "When You're Targeted by the Bully",
-      "score": 0.38,
-      "r18": false
-    },
-    {
-      "id": 40477,
-      "title": "Gatabutata",
-      "score": 0.377,
-      "r18": false
-    },
-    {
-      "id": 38079,
-      "title": "His Barcode Tattoo",
-      "score": 0.373,
-      "r18": false
+      "id": 59248,
+      "title": "Dragon's Savior",
+      "score": 0.285,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 49792,
       "title": "The Sunshine Powerhouse",
-      "score": 0.373,
-      "r18": false
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 36287,
-      "title": "I Was XXX By My Idol",
-      "score": 0.371,
-      "r18": false
+      "id": 50311,
+      "title": "Saving My Class 8 Seniors",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 18951,
-      "title": "Koe Koi",
-      "score": 0.371,
-      "r18": false
+      "id": 24845,
+      "title": "DOLO's Destiny Pill",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx",
+        "mn",
+        "id"
+      ]
     },
     {
-      "id": 48839,
-      "title": "Daybreaking Romance",
-      "score": 0.371,
-      "r18": false
+      "id": 52858,
+      "title": "Absolute Territory",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 18688,
-      "title": "Tian Jiang Xian Shu Nan",
-      "score": 0.37,
-      "r18": false
+      "id": 55669,
+      "title": "In That Relationship",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 40477,
+      "title": "Gatabutata",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 47124,
+      "title": "The Prince Disguised as the Clown",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 56245,
+      "title": "Call Me by My Name",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53531,
+      "title": "Someday I Never Knew",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 15694,
+      "title": "Yungsu's Spring",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 38079,
+      "title": "His Barcode Tattoo",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "br",
+        "ru"
+      ]
+    },
+    {
+      "id": 26235,
+      "title": "Hongshi Loves Me!",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 44432,
       "title": "Just a Girl He Knows",
-      "score": 0.369,
-      "r18": false
-    },
-    {
-      "id": 20094,
-      "title": "That Summer",
-      "score": 0.368,
-      "r18": false
-    },
-    {
-      "id": 46856,
-      "title": "The Careful Empress",
-      "score": 0.368,
-      "r18": false
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 38433,
       "title": "Four Years Apart",
-      "score": 0.362,
-      "r18": false
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 39883,
       "title": "My Bad Boyfriend",
-      "score": 0.361,
-      "r18": false
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 22136,
-      "title": "My Male Friend",
-      "score": 0.36,
-      "r18": false
+      "id": 54703,
+      "title": "Play, Playlist",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "mm"
+      ]
+    },
+    {
+      "id": 43986,
+      "title": "Although Life May Deceive Us",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14447,
+      "title": "Evergreen Tea House",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 36448,
+      "title": "That Year, Under the Starry Sky",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "es"
+      ]
+    },
+    {
+      "id": 43538,
+      "title": "Weak Prince Chases Love",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19153,
+      "title": "Weekly Boys' Dating Agency",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 51770,
+      "title": "New Year's Taste",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "fr",
+        "br"
+      ]
     }
   ]
 }

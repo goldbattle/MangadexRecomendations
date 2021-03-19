@@ -1,158 +1,239 @@
 {
   "id": 52412,
   "title": "Hitodenai Ookami",
-  "url": "https://api.mangadex.org/v2/manga/52412",
-  "last_updated": "February 05, 2021 12:24:07 UTC",
+  "url": "https://mangadex.org/manga/52412",
+  "last_updated": "March 18, 2021 13:38:05 UTC",
   "matches": [
-    {
-      "id": 47203,
-      "title": "Elliot in the Underland",
-      "score": 0.74,
-      "r18": false
-    },
-    {
-      "id": 36308,
-      "title": "The Love of God's Punishment",
-      "score": 0.726,
-      "r18": false
-    },
-    {
-      "id": 30922,
-      "title": "Karasu no Yomeiri",
-      "score": 0.725,
-      "r18": false
-    },
-    {
-      "id": 57846,
-      "title": "Sanbika",
-      "score": 0.716,
-      "r18": false
-    },
     {
       "id": 34356,
       "title": "DANGEUM &amp; JIGYO",
-      "score": 0.709,
-      "r18": false
+      "score": 0.404,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
-      "id": 36950,
-      "title": "Koi wa Maiorita",
-      "score": 0.702,
-      "r18": false
+      "id": 55470,
+      "title": "Kemono no Noroi wa Koi de Hodoku",
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 15501,
-      "title": "Feng Yu Jiu Tian",
-      "score": 0.698,
-      "r18": false
+      "id": 29099,
+      "title": "Mori no Koe",
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "it"
+      ]
     },
     {
-      "id": 40002,
-      "title": "Sit, Wait, Kiss Me",
-      "score": 0.695,
-      "r18": false
+      "id": 24015,
+      "title": "Fading Colors",
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 22311,
-      "title": "Ookami wa Hana no Kaori",
-      "score": 0.694,
-      "r18": false
-    },
-    {
-      "id": 55745,
-      "title": "Gensou Shounen Koimonogatari",
-      "score": 0.694,
-      "r18": false
-    },
-    {
-      "id": 18980,
-      "title": "Ookami wa Koi ni Naku",
-      "score": 0.693,
-      "r18": false
-    },
-    {
-      "id": 26022,
-      "title": "Midnight Make Love",
-      "score": 0.693,
-      "r18": false
-    },
-    {
-      "id": 58861,
-      "title": "Feel Free to Hug Me",
-      "score": 0.691,
-      "r18": false
-    },
-    {
-      "id": 46492,
-      "title": "Inferior Doll",
-      "score": 0.685,
-      "r18": false
-    },
-    {
-      "id": 34818,
-      "title": "Sentimental Garden Lover",
-      "score": 0.683,
-      "r18": false
-    },
-    {
-      "id": 36782,
-      "title": "Namida mo Tooku -Aonibi no Nemuri-",
-      "score": 0.683,
-      "r18": false
-    },
-    {
-      "id": 57103,
-      "title": "Sono Ude de Boku o Daite",
-      "score": 0.682,
-      "r18": false
+      "id": 27054,
+      "title": "Fancy Love",
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 13065,
       "title": "Maigo no Kare to Kuma no Onegai",
-      "score": 0.682,
-      "r18": false
-    },
-    {
-      "id": 45740,
-      "title": "White Guardian",
-      "score": 0.682,
-      "r18": false
-    },
-    {
-      "id": 27076,
-      "title": "Jadou",
-      "score": 0.682,
-      "r18": false
-    },
-    {
-      "id": 44912,
-      "title": "Zhi Zi Zhi Jian",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 47454,
-      "title": "You Yao lai zhi hua zhong xian",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 29112,
-      "title": "Yami ni Tooboe, Mune ni Toge",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 24229,
-      "title": "Toware no Mi",
-      "score": 0.678,
-      "r18": false
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 27062,
       "title": "Flowering",
-      "score": 0.676,
-      "r18": false
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 58858,
+      "title": "Invader wa Ai wo Idaku",
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53447,
+      "title": "Yousei-san wa Yaritai Houdai",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 25992,
+      "title": "Suzu no Ne ga Kikoeru",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 27808,
+      "title": "Takuhai Cupid",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24068,
+      "title": "Rabu Kue",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 30167,
+      "title": "Hengoku no Calendula",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 14396,
+      "title": "Aigan Kitty",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 36850,
+      "title": "Banbi",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 22311,
+      "title": "Ookami wa Hana no Kaori",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 27657,
+      "title": "Taiyou no Kishi",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18980,
+      "title": "Ookami wa Koi ni Naku",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4672,
+      "title": "Neo Arcadia ~Yami ni Saku Niji~",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 31011,
+      "title": "Hachi",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 45859,
+      "title": "Yasashii Kare to Fukigen Kitsune no Renai Jijou",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 45740,
+      "title": "White Guardian",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53239,
+      "title": "Mori no Animal Company",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 39088,
+      "title": "Kagen no Tsukiyo no Monogatari",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14399,
+      "title": "Love Neko",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     }
   ]
 }

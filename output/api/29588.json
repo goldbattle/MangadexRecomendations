@@ -2,85 +2,48 @@
   "id": 29588,
   "title": "Goshu Wushuang",
   "url": "https://mangadex.org/manga/29588",
-  "last_updated": "January 13, 2021 06:56:59 UTC",
+  "last_updated": "March 18, 2021 10:27:29 UTC",
   "matches": [
-    {
-      "id": 33467,
-      "title": "Karate Shoukoushi Monogatari",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 10601,
-      "title": "Super Combat Legend: Shine Tomorrow",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 915,
-      "title": "Evil Heart",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 22598,
-      "title": "Hanakaku - The Last Girl Standing",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 338,
-      "title": "Tough",
-      "score": 0.35,
-      "r18": false
-    },
     {
       "id": 31224,
       "title": "Tough Gaiden - Ryuu o Tsugu Otoko",
-      "score": 0.332,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": 1768,
       "title": "All-Rounder Meguru",
-      "score": 0.292,
-      "r18": false
-    },
-    {
-      "id": 161,
-      "title": "Fist of Legend",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 187,
-      "title": "Hayate x Blade",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 499,
-      "title": "Teppu",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 926,
-      "title": "Gekiryuuchi",
-      "score": 0.219,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 3866,
       "title": "Asahinagu",
-      "score": 0.219,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "ru",
+        "es",
+        "gb"
+      ]
     },
     {
-      "id": 19949,
-      "title": "Kinnikuman Nisei: Ultimate Chojin Tag",
-      "score": 0.194,
-      "r18": false
+      "id": 926,
+      "title": "Gekiryuuchi",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "pl"
+      ]
     }
   ]
 }

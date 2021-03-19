@@ -2,19 +2,26 @@
   "id": 3003,
   "title": "Kageroi",
   "url": "https://mangadex.org/manga/3003",
-  "last_updated": "March 14, 2021 04:38:21 UTC",
+  "last_updated": "March 18, 2021 06:08:47 UTC",
   "matches": [
     {
       "id": 9144,
       "title": "Hidamari no Ki",
-      "score": 0.242,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22746,
       "title": "Mononobe Koshoten Kaikitan",
-      "score": 0.188,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "vn",
+        "gb"
+      ]
     }
   ]
 }

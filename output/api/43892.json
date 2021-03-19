@@ -1,158 +1,253 @@
 {
   "id": 43892,
   "title": "The Heart Has Its Reasons",
-  "url": "https://api.mangadex.org/v2/manga/43892",
-  "last_updated": "February 11, 2021 16:32:15 UTC",
+  "url": "https://mangadex.org/manga/43892",
+  "last_updated": "March 18, 2021 12:26:49 UTC",
   "matches": [
-    {
-      "id": 54218,
-      "title": "The Lady and the Beast",
-      "score": 0.738,
-      "r18": false
-    },
-    {
-      "id": 50735,
-      "title": "Breaking Through the Clouds",
-      "score": 0.735,
-      "r18": false
-    },
-    {
-      "id": 58463,
-      "title": "I Raised the Beast Well",
-      "score": 0.734,
-      "r18": false
-    },
-    {
-      "id": 32047,
-      "title": "Gisou Furin",
-      "score": 0.728,
-      "r18": false
-    },
-    {
-      "id": 38891,
-      "title": "1st Kiss",
-      "score": 0.727,
-      "r18": false
-    },
-    {
-      "id": 44702,
-      "title": "Genius Cool Treasure: President's Wife Is Too Powerful",
-      "score": 0.726,
-      "r18": false
-    },
-    {
-      "id": 53070,
-      "title": "Otome Game no Hametsu Flag shika nai Akuyaku Reijou ni Tensei shite shimatta... Web Comic",
-      "score": 0.726,
-      "r18": false
-    },
-    {
-      "id": 53527,
-      "title": "These Years in Quest of Honour Mine",
-      "score": 0.724,
-      "r18": false
-    },
-    {
-      "id": 51000,
-      "title": "I Want to Do It, Even If It Hurts",
-      "score": 0.722,
-      "r18": false
-    },
-    {
-      "id": 54052,
-      "title": "It Looks Like I've Fallen into the World of a Reverse Harem Game",
-      "score": 0.722,
-      "r18": false
-    },
-    {
-      "id": 59440,
-      "title": "The Flower Dances and the Wind Sings",
-      "score": 0.721,
-      "r18": false
-    },
-    {
-      "id": 50294,
-      "title": "The Villain Demands I Love Him",
-      "score": 0.721,
-      "r18": false
-    },
-    {
-      "id": 43724,
-      "title": "Golden Time",
-      "score": 0.72,
-      "r18": false
-    },
     {
       "id": 48043,
       "title": "Fiery Enemies",
-      "score": 0.718,
-      "r18": false
-    },
-    {
-      "id": 58041,
-      "title": "Aideen",
-      "score": 0.717,
-      "r18": false
-    },
-    {
-      "id": 56460,
-      "title": "As the Lady Wishes",
-      "score": 0.717,
-      "r18": false
-    },
-    {
-      "id": 58084,
-      "title": "A Kind Goblin's Bird",
-      "score": 0.717,
-      "r18": false
-    },
-    {
-      "id": 29859,
-      "title": "Light and Shadow",
-      "score": 0.716,
-      "r18": false
-    },
-    {
-      "id": 51257,
-      "title": "I Stole the Male Lead's First Night",
-      "score": 0.715,
-      "r18": false
+      "score": 0.342,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 42128,
       "title": "Restrain",
-      "score": 0.713,
-      "r18": false
+      "score": 0.312,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 43950,
-      "title": "The Goddess of Healing",
-      "score": 0.711,
-      "r18": false
+      "id": 27373,
+      "title": "Reluctant To Go",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 48383,
-      "title": "Two Ways for Lovers",
-      "score": 0.707,
-      "r18": false
+      "id": 44702,
+      "title": "Genius Cool Treasure: President's Wife Is Too Powerful",
+      "score": 0.308,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id"
+      ]
     },
     {
-      "id": 54213,
-      "title": "A Butterfly Metamorphoses Three Times",
-      "score": 0.706,
-      "r18": false
+      "id": 44606,
+      "title": "No Longer a Heroine!",
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 51000,
+      "title": "I Want to Do It, Even If It Hurts",
+      "score": 0.305,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 52920,
+      "title": "Dangerous New Employee",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa"
+      ]
+    },
+    {
+      "id": 39294,
+      "title": "Celebgram",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 33963,
+      "title": "So I Married an Anti-Fan",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "fr"
+      ]
+    },
+    {
+      "id": 35976,
+      "title": "An Exorbitant Wife",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
+    },
+    {
+      "id": 54468,
+      "title": "All I Want Is You",
+      "score": 0.296,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 46858,
+      "title": "Invitation of Mystic Messenger",
+      "score": 0.294,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru"
+      ]
+    },
+    {
+      "id": 46384,
+      "title": "Pomegranate Blooms in Spring",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr"
+      ]
+    },
+    {
+      "id": 35445,
+      "title": "Give Me Your Hands",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
+    },
+    {
+      "id": 44995,
+      "title": "Love Alarm",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 56460,
+      "title": "As the Lady Wishes",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 43786,
       "title": "Love in Murder",
-      "score": 0.706,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 58870,
+      "title": "My Butler, Not Lover",
+      "score": 0.277,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 44537,
+      "title": "Love Your Enemies",
+      "score": 0.277,
+      "r18": false,
+      "languages": [
+        "pl",
+        "br",
+        "es",
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 48524,
+      "title": "She's My Type",
+      "score": 0.27,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19402,
+      "title": "Why Did You Come To My Home",
+      "score": 0.269,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 55636,
       "title": "My Wife Is Back",
-      "score": 0.704,
-      "r18": false
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ir"
+      ]
+    },
+    {
+      "id": 38100,
+      "title": "Flighty Love",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 28638,
+      "title": "Haomen Qifu de Chuntian",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "sa",
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 43068,
+      "title": "My Oppa Is an Idol",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

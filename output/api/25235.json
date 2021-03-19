@@ -2,25 +2,35 @@
   "id": 25235,
   "title": "Kagayake! Daitoua Kyoueiken",
   "url": "https://mangadex.org/manga/25235",
-  "last_updated": "March 16, 2021 16:28:46 UTC",
+  "last_updated": "March 18, 2021 09:50:10 UTC",
   "matches": [
     {
       "id": 10778,
       "title": "Oh-oku no Sakura - Gendai Oooku Jogakuin",
       "score": 0.159,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20167,
       "title": "The Seiten Wars Flieder Bug",
-      "score": 0.136,
-      "r18": false
+      "score": 0.135,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22123,
       "title": "Masked Rider KUUGA",
-      "score": 0.091,
-      "r18": false
+      "score": 0.09,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     }
   ]
 }

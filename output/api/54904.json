@@ -1,14 +1,17 @@
 {
   "id": 54904,
   "title": "Physical Classroom",
-  "url": "https://api.mangadex.org/v2/manga/54904",
-  "last_updated": "March 12, 2021 20:31:17 UTC",
+  "url": "https://mangadex.org/manga/54904",
+  "last_updated": "March 18, 2021 13:58:53 UTC",
   "matches": [
     {
       "id": 51468,
       "title": "Chastity Ring Challenge",
-      "score": 0.191,
-      "r18": true
+      "score": 0.116,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

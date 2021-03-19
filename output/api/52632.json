@@ -1,158 +1,256 @@
 {
   "id": 52632,
   "title": "The Sweet Taste Is Red",
-  "url": "https://api.mangadex.org/v2/manga/52632",
-  "last_updated": "February 05, 2021 12:27:43 UTC",
+  "url": "https://mangadex.org/manga/52632",
+  "last_updated": "March 18, 2021 13:39:55 UTC",
   "matches": [
     {
       "id": 52564,
       "title": "Raiding the Vampire Count",
-      "score": 0.293,
-      "r18": false
+      "score": 0.253,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 54152,
       "title": "I Offer My Neck to You",
-      "score": 0.293,
-      "r18": false
-    },
-    {
-      "id": 58296,
-      "title": "Sweet Blood",
-      "score": 0.293,
-      "r18": false
+      "score": 0.253,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id"
+      ]
     },
     {
       "id": 38170,
       "title": "Get off of Me!",
-      "score": 0.29,
-      "r18": false
+      "score": 0.246,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 45905,
       "title": "The Art of Taming A Tiger",
-      "score": 0.29,
-      "r18": false
+      "score": 0.246,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 47590,
       "title": "In or Out",
-      "score": 0.29,
-      "r18": false
+      "score": 0.246,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 54301,
       "title": "Unspeakable Contact",
-      "score": 0.29,
-      "r18": false
+      "score": 0.246,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "mx"
+      ]
     },
     {
       "id": 11231,
       "title": "unTOUCHable",
-      "score": 0.287,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "tr",
+        "ru",
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 31030,
       "title": "Vampire Heart",
-      "score": 0.263,
-      "r18": false
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "fr",
+        "tr",
+        "gb"
+      ]
     },
     {
       "id": 46579,
       "title": "Liar, Where Are Vampires!",
-      "score": 0.263,
-      "r18": false
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
     },
     {
       "id": 58711,
       "title": "Captivated by the Moonlight",
-      "score": 0.251,
-      "r18": false
+      "score": 0.217,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22954,
       "title": "This Can't Be Love",
-      "score": 0.249,
-      "r18": false
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 29449,
       "title": "Not for the Faint of Heart",
-      "score": 0.249,
-      "r18": false
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 31335,
       "title": "Summer Scent",
-      "score": 0.249,
-      "r18": false
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 41517,
       "title": "The Beauty of the Apricot Forest",
-      "score": 0.249,
-      "r18": false
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 41900,
       "title": "Boss wants to eat me!",
-      "score": 0.249,
-      "r18": false
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 45816,
       "title": "Love or Die",
-      "score": 0.249,
-      "r18": false
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 47597,
       "title": "Cut",
-      "score": 0.249,
-      "r18": false
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 51317,
       "title": "Becoming Human!",
-      "score": 0.249,
-      "r18": false
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
       "id": 52309,
       "title": "Angel Sweetheart Attack",
-      "score": 0.249,
-      "r18": false
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 52744,
       "title": "Demon King, your big brother wants you home for dinner.",
-      "score": 0.249,
-      "r18": false
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 54173,
       "title": "Do You Know a Fairy?",
-      "score": 0.249,
-      "r18": false
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 56615,
       "title": "The way to appeal to the Devil",
-      "score": 0.249,
-      "r18": false
-    },
-    {
-      "id": 45417,
-      "title": "Vampire Gamer Girl",
-      "score": 0.246,
-      "r18": false
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29404,
       "title": "Bloody Taboo",
-      "score": 0.237,
-      "r18": false
+      "score": 0.206,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb"
+      ]
+    },
+    {
+      "id": 45417,
+      "title": "Vampire Gamer Girl",
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 20846,
+      "title": "Fools",
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "fr",
+        "pl"
+      ]
     }
   ]
 }

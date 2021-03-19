@@ -2,25 +2,39 @@
   "id": 423,
   "title": "Hapi Mari",
   "url": "https://mangadex.org/manga/423",
-  "last_updated": "March 14, 2021 00:55:01 UTC",
+  "last_updated": "March 18, 2021 05:46:08 UTC",
   "matches": [
     {
       "id": 6375,
       "title": "Love Celeb",
       "score": 0.322,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 3767,
       "title": "Gakuen Ouji",
-      "score": 0.172,
-      "r18": false
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 15460,
       "title": "Flaming Hot Desire",
-      "score": 0.168,
-      "r18": false
+      "score": 0.167,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "fr",
+        "br",
+        "pl"
+      ]
     }
   ]
 }

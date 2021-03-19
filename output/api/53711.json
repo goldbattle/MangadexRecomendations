@@ -2,31 +2,46 @@
   "id": 53711,
   "title": "I Am A God Of Medicine",
   "url": "https://mangadex.org/manga/53711",
-  "last_updated": "January 16, 2021 06:24:46 UTC",
+  "last_updated": "March 18, 2021 13:48:54 UTC",
   "matches": [
-    {
-      "id": 49371,
-      "title": "Peerless Doctor in the City",
-      "score": 0.689,
-      "r18": false
-    },
     {
       "id": 53970,
       "title": "Metropolitan Super Doctor",
-      "score": 0.674,
-      "r18": false
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 49371,
+      "title": "Peerless Doctor in the City",
+      "score": 0.203,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 58493,
       "title": "Best Fairy Doctor",
-      "score": 0.671,
-      "r18": false
+      "score": 0.157,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 56064,
       "title": "Return to Earth to Be a God",
-      "score": 0.229,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     }
   ]
 }

@@ -1,158 +1,250 @@
 {
   "id": 33429,
   "title": "Kippo",
-  "url": "https://api.mangadex.org/v2/manga/33429",
-  "last_updated": "February 10, 2021 12:37:54 UTC",
+  "url": "https://mangadex.org/manga/33429",
+  "last_updated": "March 18, 2021 10:59:30 UTC",
   "matches": [
     {
-      "id": 4880,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
-      "score": 0.738,
-      "r18": false
+      "id": 17170,
+      "title": "Ani no Yome to Kurashite Imasu.",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "ru",
+        "br",
+        "de"
+      ]
     },
     {
-      "id": 52836,
-      "title": "DD Fist of the North Star",
-      "score": 0.729,
-      "r18": false
+      "id": 22824,
+      "title": "Saitsuyo Densetsu Nakane",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
-      "id": 8495,
-      "title": "Persona 3",
-      "score": 0.723,
-      "r18": false
+      "id": 24151,
+      "title": "Betsu ni Houridashita Waje ja Nai n Dakedo.... - Mikan no Manga ga Aru Riyuu",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 5260,
-      "title": "Saishuu Heiki Kanojo",
-      "score": 0.719,
-      "r18": false
+      "id": 23155,
+      "title": "Tokurei Sochi Dantai Stella Jogakuin Koutouka C&sup3; Bu",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 19086,
-      "title": "Ushiro - The Somber God of Death",
-      "score": 0.715,
-      "r18": false
+      "id": 5835,
+      "title": "Tanpen Manga Shuu - Bunnies Hoka",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.713,
-      "r18": false
+      "id": 11852,
+      "title": "Taiho Shichau zo",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 28617,
-      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run",
-      "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 20348,
-      "title": "The King's Avatar",
-      "score": 0.71,
-      "r18": false
-    },
-    {
-      "id": 2070,
-      "title": "Jintori Game",
-      "score": 0.706,
-      "r18": false
-    },
-    {
-      "id": 7126,
-      "title": "Dimension W",
-      "score": 0.706,
-      "r18": false
+      "id": 11145,
+      "title": "Gun &amp; Girls",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11576,
       "title": "Genso Ginekokurasy",
-      "score": 0.704,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 2888,
-      "title": "Trace 1.5",
-      "score": 0.703,
-      "r18": false
+      "id": 2070,
+      "title": "Jintori Game",
+      "score": 0.236,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 10697,
-      "title": "Suberuwo Itowazu",
-      "score": 0.698,
-      "r18": false
+      "id": 3004,
+      "title": "Hero Co., Ltd.",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1338,
+      "title": "QP",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 38594,
+      "title": "Yankee Juku e Iku",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 2554,
       "title": "Saikyou Densetsu Kurosawa",
-      "score": 0.697,
-      "r18": false
+      "score": 0.227,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "br",
+        "tr"
+      ]
     },
     {
-      "id": 100,
-      "title": "Onani Master Kurosawa",
-      "score": 0.696,
-      "r18": false
+      "id": 6470,
+      "title": "GIRLS und PANZER",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 10785,
-      "title": "Trace 2.0",
-      "score": 0.696,
-      "r18": false
+      "id": 56689,
+      "title": "Himawari Den!",
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 34369,
-      "title": "Along With The Gods",
-      "score": 0.695,
-      "r18": false
+      "id": 15382,
+      "title": "GIRLS und PANZER - Comic Anthology",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 50185,
-      "title": "The Most Notorious &quot;Talker&quot; Runs the World's Greatest Clan",
-      "score": 0.695,
-      "r18": false
+      "id": 3589,
+      "title": "Gangking",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 112,
-      "title": "Trace",
-      "score": 0.693,
-      "r18": false
+      "id": 19459,
+      "title": "Suzuki-san wa Tada Shizuka ni Kurashitai",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 1614,
-      "title": "Aa! Megami-sama!",
-      "score": 0.692,
-      "r18": false
+      "id": 23159,
+      "title": "Tokurei Sochi Dantai Stella Jogakuin Chuutouka C&sup3; Bu VS Anime Tenchou",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 45807,
-      "title": "Life Completely Ruined",
-      "score": 0.69,
-      "r18": false
+      "id": 4241,
+      "title": "Transfer Student Storm Bringer - Reboot",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 7775,
-      "title": "El Alamein no Shinden",
-      "score": 0.69,
-      "r18": false
+      "id": 52318,
+      "title": "Young Lady, I'm a Yankee Butler",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 222,
-      "title": "Hoshi no Samidare",
-      "score": 0.686,
-      "r18": false
+      "id": 36446,
+      "title": "DOUBLE DECKER! Doug &amp; Kirill",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 88,
-      "title": "Covertly Gloriously",
-      "score": 0.686,
-      "r18": false
+      "id": 5260,
+      "title": "Saishuu Heiki Kanojo",
+      "score": 0.204,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 11,
-      "title": "Noblesse",
-      "score": 0.686,
-      "r18": false
+      "id": 10697,
+      "title": "Suberuwo Itowazu",
+      "score": 0.204,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 363,
+      "title": "Angel Heart",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

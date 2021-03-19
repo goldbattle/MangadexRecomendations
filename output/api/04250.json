@@ -2,37 +2,59 @@
   "id": 4250,
   "title": "Lequios",
   "url": "https://mangadex.org/manga/4250",
-  "last_updated": "March 14, 2021 08:29:07 UTC",
+  "last_updated": "March 18, 2021 06:20:31 UTC",
   "matches": [
     {
       "id": 12798,
       "title": "Zetsurin!",
-      "score": 0.2,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 267,
       "title": "The Phantom King",
       "score": 0.175,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 17230,
       "title": "Gantz:G",
       "score": 0.175,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "es",
+        "ru",
+        "hu"
+      ]
     },
     {
       "id": 11358,
       "title": "Sentou Hakai Gakuen Dangerous",
-      "score": 0.117,
-      "r18": false
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 19908,
       "title": "Go-Chan Magazine",
       "score": 0.093,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     }
   ]
 }

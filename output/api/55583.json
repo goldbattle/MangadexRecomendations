@@ -1,20 +1,26 @@
 {
   "id": 55583,
   "title": "Junshin, Hisashikarazu",
-  "url": "https://api.mangadex.org/v2/manga/55583",
-  "last_updated": "March 12, 2021 20:39:40 UTC",
+  "url": "https://mangadex.org/manga/55583",
+  "last_updated": "March 18, 2021 14:04:34 UTC",
   "matches": [
     {
       "id": 29089,
       "title": "Koi no Yami",
-      "score": 0.664,
-      "r18": false
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 10791,
       "title": "Ichigo no Yume - Shimatsuya Risuke no Kaii Jikenchou",
-      "score": 0.262,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

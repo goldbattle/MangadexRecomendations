@@ -2,67 +2,93 @@
   "id": 2493,
   "title": "Octave",
   "url": "https://mangadex.org/manga/2493",
-  "last_updated": "March 14, 2021 04:29:35 UTC",
+  "last_updated": "March 18, 2021 06:04:03 UTC",
   "matches": [
-    {
-      "id": 26361,
-      "title": "My Solo Exchange Diary",
-      "score": 0.325,
-      "r18": false
-    },
     {
       "id": 20224,
       "title": "A Certain Marriage",
       "score": 0.31,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3502,
       "title": "Manga no Tsukurikata",
-      "score": 0.262,
-      "r18": false
+      "score": 0.261,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 51973,
       "title": "Mizuno and Chayama",
-      "score": 0.262,
-      "r18": false
+      "score": 0.261,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 15514,
       "title": "Kobayashi-san Chi no Maid Dragon",
       "score": 0.253,
-      "r18": false
-    },
-    {
-      "id": 26471,
-      "title": "Oshi ga Budoukan Ittekuretara Shinu",
-      "score": 0.253,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "pl",
+        "it",
+        "fr"
+      ]
     },
     {
       "id": 381,
       "title": "Aoi Hana",
       "score": 0.239,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "br"
+      ]
     },
     {
       "id": 28794,
       "title": "Useless Princesses",
-      "score": 0.238,
-      "r18": false
+      "score": 0.237,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "id"
+      ]
     },
     {
       "id": 6263,
       "title": "Balance Policy",
       "score": 0.203,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 19376,
       "title": "Nogi Wakaba wa Yuusha de Aru",
-      "score": 0.147,
-      "r18": false
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "mx",
+        "br"
+      ]
     }
   ]
 }

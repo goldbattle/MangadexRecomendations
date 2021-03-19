@@ -1,44 +1,68 @@
 {
   "id": 54272,
   "title": "Kai Byoui Ramune",
-  "url": "https://api.mangadex.org/v2/manga/54272",
-  "last_updated": "March 12, 2021 20:23:34 UTC",
+  "url": "https://mangadex.org/manga/54272",
+  "last_updated": "March 18, 2021 13:53:36 UTC",
   "matches": [
     {
       "id": 23847,
       "title": "Doctor!",
-      "score": 0.739,
-      "r18": false
-    },
-    {
-      "id": 391,
-      "title": "Shiki",
-      "score": 0.718,
-      "r18": false
-    },
-    {
-      "id": 16426,
-      "title": "Genjuui Toteku",
-      "score": 0.708,
-      "r18": false
-    },
-    {
-      "id": 237,
-      "title": "Kaitai Shinsho &Oslash;",
-      "score": 0.704,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 9791,
       "title": "Dr. Duo",
-      "score": 0.662,
-      "r18": false
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 16426,
+      "title": "Genjuui Toteku",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "ct",
+        "pl",
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 391,
+      "title": "Shiki",
+      "score": 0.147,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 237,
+      "title": "Kaitai Shinsho &Oslash;",
+      "score": 0.124,
+      "r18": false,
+      "languages": [
+        "ru",
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 16678,
       "title": "Choujin Sensen",
-      "score": 0.651,
-      "r18": false
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

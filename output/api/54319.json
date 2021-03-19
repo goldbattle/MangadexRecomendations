@@ -1,38 +1,39 @@
 {
   "id": 54319,
   "title": "Zettai Unmei Houteishiki",
-  "url": "https://api.mangadex.org/v2/manga/54319",
-  "last_updated": "March 12, 2021 20:24:08 UTC",
+  "url": "https://mangadex.org/manga/54319",
+  "last_updated": "March 18, 2021 13:54:00 UTC",
   "matches": [
     {
       "id": 55120,
       "title": "Usagi to Ookami no Shinshikyoutei",
-      "score": 0.706,
-      "r18": false
+      "score": 0.234,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 27532,
       "title": "1999 Shanghai",
-      "score": 0.366,
-      "r18": false
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 7960,
       "title": "Tight Rope",
-      "score": 0.328,
-      "r18": false
-    },
-    {
-      "id": 53893,
-      "title": "Mayday, Mayday, Mayday!",
-      "score": 0.256,
-      "r18": false
-    },
-    {
-      "id": 55045,
-      "title": "MisMatched",
-      "score": 0.203,
-      "r18": false
+      "score": 0.204,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl"
+      ]
     }
   ]
 }

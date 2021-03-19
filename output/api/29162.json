@@ -2,67 +2,141 @@
   "id": 29162,
   "title": "Onigami",
   "url": "https://mangadex.org/manga/29162",
-  "last_updated": "March 17, 2021 00:48:39 UTC",
+  "last_updated": "March 18, 2021 10:23:56 UTC",
   "matches": [
     {
       "id": 2497,
       "title": "Oni ni Itaru Doro",
-      "score": 0.2,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 48526,
+      "title": "Hundred Demon Spectrum",
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 41521,
       "title": "Kogetsu no Yume",
-      "score": 0.156,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 28055,
       "title": "Hakuouki - Junrenka",
-      "score": 0.133,
-      "r18": false
+      "score": 0.132,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 40513,
       "title": "Soul Render",
       "score": 0.127,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 50471,
       "title": "Kami no Kora no Regret",
       "score": 0.127,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 48834,
       "title": "Samurai POUPAN !",
-      "score": 0.12,
-      "r18": false
+      "score": 0.119,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
+    },
+    {
+      "id": 33656,
+      "title": "Dororo to Hyakkimaru-Den",
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "hk",
+        "ru",
+        "mx",
+        "tr",
+        "gb",
+        "br",
+        "it",
+        "id"
+      ]
     },
     {
       "id": 57026,
       "title": "Majo Taisen - The War of Greedy Witches",
-      "score": 0.117,
-      "r18": false
-    },
-    {
-      "id": 34621,
-      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana",
-      "score": 0.112,
-      "r18": false
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "vn",
+        "id",
+        "ru",
+        "tr"
+      ]
     },
     {
       "id": 46704,
       "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana (Original Version)",
-      "score": 0.112,
-      "r18": false
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "br",
+        "mx"
+      ]
     },
     {
       "id": 58931,
       "title": "GUARDIAN DOGS",
-      "score": 0.1,
-      "r18": false
+      "score": 0.099,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "id"
+      ]
+    },
+    {
+      "id": 22261,
+      "title": "Fate/Grand Order -turas r&eacute;alta-",
+      "score": 0.069,
+      "r18": false,
+      "languages": [
+        "vn",
+        "es",
+        "sa",
+        "gb",
+        "fr"
+      ]
     }
   ]
 }

@@ -1,158 +1,278 @@
 {
   "id": 55560,
   "title": "Devil's Romance",
-  "url": "https://api.mangadex.org/v2/manga/55560",
-  "last_updated": "March 12, 2021 20:39:23 UTC",
+  "url": "https://mangadex.org/manga/55560",
+  "last_updated": "March 18, 2021 14:04:22 UTC",
   "matches": [
-    {
-      "id": 1028,
-      "title": "Bonten no Morito",
-      "score": 0.72,
-      "r18": false
-    },
-    {
-      "id": 38337,
-      "title": "Jinrou e no Tensei, Maou no Fukkan: Hajimari no Shou",
-      "score": 0.715,
-      "r18": false
-    },
-    {
-      "id": 49960,
-      "title": "A Record of a Mortal's Journey to Immortality",
-      "score": 0.713,
-      "r18": false
-    },
-    {
-      "id": 44432,
-      "title": "Just a Girl He Knows",
-      "score": 0.713,
-      "r18": false
-    },
-    {
-      "id": 22954,
-      "title": "This Can't Be Love",
-      "score": 0.712,
-      "r18": false
-    },
-    {
-      "id": 16069,
-      "title": "Tales of Demons and Gods",
-      "score": 0.71,
-      "r18": false
-    },
-    {
-      "id": 1389,
-      "title": "Superior Cross",
-      "score": 0.71,
-      "r18": false
-    },
-    {
-      "id": 6270,
-      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo (Official Colored)",
-      "score": 0.709,
-      "r18": false
-    },
-    {
-      "id": 23231,
-      "title": "Wu Dong Qian Kun",
-      "score": 0.709,
-      "r18": false
-    },
-    {
-      "id": 15176,
-      "title": "Pochi Kuro",
-      "score": 0.707,
-      "r18": false
-    },
-    {
-      "id": 52120,
-      "title": "Becoming the Villain's Family",
-      "score": 0.705,
-      "r18": false
-    },
-    {
-      "id": 34785,
-      "title": "Maou Desu. Onna Yuusha no Hahaoya to Saikon Shita no de, Onna Yuusha ga Giri no Musume ni Narimashita.",
-      "score": 0.704,
-      "r18": false
-    },
-    {
-      "id": 19589,
-      "title": "Hiraheishi wa Kako wo Yumemiru",
-      "score": 0.703,
-      "r18": false
-    },
-    {
-      "id": 848,
-      "title": "Konjiki no Gash!!",
-      "score": 0.703,
-      "r18": false
-    },
-    {
-      "id": 42858,
-      "title": "Wan Gu Shen Wang",
-      "score": 0.703,
-      "r18": false
-    },
-    {
-      "id": 34509,
-      "title": "King's Concubine",
-      "score": 0.702,
-      "r18": false
-    },
-    {
-      "id": 1417,
-      "title": "Shingetsutan Tsukihime",
-      "score": 0.702,
-      "r18": false
-    },
-    {
-      "id": 8017,
-      "title": "Trump",
-      "score": 0.701,
-      "r18": false
-    },
     {
       "id": 55486,
       "title": "The Demon Queen Has a Death Wish",
-      "score": 0.7,
-      "r18": false
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "id"
+      ]
     },
     {
-      "id": 283,
-      "title": "Ao no Exorcist",
-      "score": 0.699,
-      "r18": false
+      "id": 26510,
+      "title": "Specters : Karma",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 3635,
-      "title": "Trump (Best Challenge version)",
-      "score": 0.699,
-      "r18": false
+      "id": 50690,
+      "title": "Demonic Awakening",
+      "score": 0.261,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "id"
+      ]
     },
     {
-      "id": 1388,
-      "title": "Superior",
-      "score": 0.699,
-      "r18": false
+      "id": 55487,
+      "title": "Silver Demon King",
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 1714,
-      "title": "Kara no Kyoukai - The Garden of Sinners",
-      "score": 0.698,
-      "r18": false
+      "id": 39464,
+      "title": "The Demon King Who Lost His Job",
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr"
+      ]
     },
     {
-      "id": 58419,
-      "title": "Secret Of The Netherworld",
-      "score": 0.698,
-      "r18": false
+      "id": 48006,
+      "title": "Hell's Developer",
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 10801,
-      "title": "Mahoutsukai no Yome",
-      "score": 0.698,
-      "r18": false
+      "id": 44898,
+      "title": "White Blood",
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru",
+        "ir",
+        "br",
+        "es",
+        "pl",
+        "fr"
+      ]
+    },
+    {
+      "id": 16086,
+      "title": "Tiger Brother - Barkhan",
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 54671,
+      "title": "Wasteful Ability Alliance",
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 43207,
+      "title": "Lucifer's Bodyguard",
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21740,
+      "title": "Shaman Girl",
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55942,
+      "title": "Grim Reaper Online",
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 37513,
+      "title": "Mejaz - Regulus in the World",
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "es",
+        "id"
+      ]
+    },
+    {
+      "id": 58093,
+      "title": "Fate Through a Glass Darkly",
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 54903,
+      "title": "DevilShot",
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 38505,
+      "title": "Master of the Divine Beasts",
+      "score": 0.236,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru"
+      ]
+    },
+    {
+      "id": 49083,
+      "title": "Angel's Use",
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 53653,
+      "title": "Alongside Demons and Deities",
+      "score": 0.229,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 46402,
+      "title": "In the Dark",
+      "score": 0.226,
+      "r18": false,
+      "languages": [
+        "tr",
+        "br",
+        "fr",
+        "mx",
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 59733,
+      "title": "Asmodian's Contract",
+      "score": 0.224,
+      "r18": false,
+      "languages": [
+        "ru",
+        "id",
+        "gb",
+        "fr",
+        "tr",
+        "br"
+      ]
+    },
+    {
+      "id": 1999,
+      "title": "The Devil King Is Bored",
+      "score": 0.224,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 36521,
+      "title": "The Immortal Girl and Her Contract With the Hundred Demons",
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "tr",
+        "id",
+        "vn"
+      ]
+    },
+    {
+      "id": 53731,
+      "title": "Beginning of the Human Age",
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 6481,
+      "title": "Heavenly Match",
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 49744,
+      "title": "God's Eye Appraiser",
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "tr"
+      ]
     }
   ]
 }

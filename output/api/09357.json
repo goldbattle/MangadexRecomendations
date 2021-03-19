@@ -2,43 +2,60 @@
   "id": 9357,
   "title": "Omerta: Kochou no Yume no Hate",
   "url": "https://mangadex.org/manga/9357",
-  "last_updated": "March 15, 2021 00:16:08 UTC",
+  "last_updated": "March 18, 2021 07:05:26 UTC",
   "matches": [
     {
       "id": 17228,
       "title": "Last Client",
       "score": 0.326,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 39104,
       "title": "Tengoku mo Jigoku mo",
       "score": 0.271,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 27532,
       "title": "1999 Shanghai",
-      "score": 0.25,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 1461,
       "title": "Negai Kanae Tamae",
-      "score": 0.25,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "it",
+        "pl"
+      ]
     },
     {
       "id": 1142,
       "title": "Acid Town",
-      "score": 0.228,
-      "r18": false
-    },
-    {
-      "id": 55045,
-      "title": "MisMatched",
-      "score": 0.15,
-      "r18": false
+      "score": 0.227,
+      "r18": false,
+      "languages": [
+        "mx",
+        "tr",
+        "gb",
+        "ir"
+      ]
     }
   ]
 }

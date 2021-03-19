@@ -1,158 +1,249 @@
 {
   "id": 35101,
   "title": "Julia ga Kubittake",
-  "url": "https://api.mangadex.org/v2/manga/35101",
-  "last_updated": "February 10, 2021 16:38:42 UTC",
+  "url": "https://mangadex.org/manga/35101",
+  "last_updated": "March 18, 2021 11:13:27 UTC",
   "matches": [
-    {
-      "id": 53787,
-      "title": "Orangenia na Hibi",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 12443,
-      "title": "Junjou Romantica",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 37280,
-      "title": "Kimi no Ai wa Mienikui",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 53786,
-      "title": "Naturalist no Kare",
-      "score": 0.651,
-      "r18": false
-    },
     {
       "id": 4810,
       "title": "Boku no Shiru Anata no Hanashi",
-      "score": 0.498,
-      "r18": false
-    },
-    {
-      "id": 26351,
-      "title": "Mad Cinderella",
-      "score": 0.481,
-      "r18": false
-    },
-    {
-      "id": 14485,
-      "title": "Kirepapa",
-      "score": 0.48,
-      "r18": false
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 37604,
       "title": "Kafe Kara Hajimaru Love Life",
-      "score": 0.48,
-      "r18": false
-    },
-    {
-      "id": 8322,
-      "title": "Kachou wa Kakko Ii",
-      "score": 0.48,
-      "r18": false
-    },
-    {
-      "id": 46229,
-      "title": "Morotomo",
-      "score": 0.479,
-      "r18": false
-    },
-    {
-      "id": 39216,
-      "title": "Kare no Shouzou",
-      "score": 0.477,
-      "r18": false
-    },
-    {
-      "id": 58356,
-      "title": "Finger Stinger",
-      "score": 0.474,
-      "r18": false
-    },
-    {
-      "id": 15059,
-      "title": "Dekichatta Shitsuji",
-      "score": 0.473,
-      "r18": false
-    },
-    {
-      "id": 55806,
-      "title": "Koibito no Jikan",
-      "score": 0.473,
-      "r18": false
-    },
-    {
-      "id": 26577,
-      "title": "Okusama wa Alpha",
-      "score": 0.471,
-      "r18": false
-    },
-    {
-      "id": 5399,
-      "title": "Ikenai Ezuke Keikaku",
-      "score": 0.471,
-      "r18": false
-    },
-    {
-      "id": 24464,
-      "title": "Mezase Hero!",
-      "score": 0.467,
-      "r18": false
-    },
-    {
-      "id": 8129,
-      "title": "Hitomi no Dokusenyoku",
-      "score": 0.462,
-      "r18": false
-    },
-    {
-      "id": 42056,
-      "title": "Crossover Love",
-      "score": 0.459,
-      "r18": false
-    },
-    {
-      "id": 37535,
-      "title": "Itsuka wa Kuma Goroshi!!",
-      "score": 0.456,
-      "r18": false
-    },
-    {
-      "id": 6767,
-      "title": "Mukuchi na Koi no Tsutaekata",
-      "score": 0.455,
-      "r18": false
-    },
-    {
-      "id": 16223,
-      "title": "Waraibanashi no You da",
-      "score": 0.455,
-      "r18": false
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 31972,
       "title": "Kekkon Shite Kudasai!",
-      "score": 0.455,
-      "r18": false
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 14485,
+      "title": "Kirepapa",
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 8322,
+      "title": "Kachou wa Kakko Ii",
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 15059,
+      "title": "Dekichatta Shitsuji",
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 26633,
       "title": "Pet wo Kaimashou",
-      "score": 0.453,
-      "r18": false
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 58356,
+      "title": "Finger Stinger",
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55806,
+      "title": "Koibito no Jikan",
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24464,
+      "title": "Mezase Hero!",
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 38110,
+      "title": "Croquis",
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 39216,
+      "title": "Kare no Shouzou",
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8129,
+      "title": "Hitomi no Dokusenyoku",
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 32960,
+      "title": "Gray to Blue no Ai Made",
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 33072,
+      "title": "Sayonara Alpha",
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 12105,
+      "title": "Hito ni Ienai Aidagara",
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 5399,
+      "title": "Ikenai Ezuke Keikaku",
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29810,
+      "title": "Room 1/2",
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 12075,
+      "title": "Ouji ga Aishita Spy",
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 26577,
+      "title": "Okusama wa Alpha",
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "ru",
+        "br"
+      ]
+    },
+    {
+      "id": 6935,
+      "title": "Porno Superstar",
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "pl",
+        "tr",
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 6767,
+      "title": "Mukuchi na Koi no Tsutaekata",
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 46229,
+      "title": "Morotomo",
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 17012,
       "title": "Inu Catalog",
-      "score": 0.452,
-      "r18": false
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 49150,
+      "title": "Sensei, Mou Dame Desu",
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     }
   ]
 }

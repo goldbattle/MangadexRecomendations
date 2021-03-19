@@ -2,31 +2,40 @@
   "id": 30379,
   "title": "Two Lives in the Same House",
   "url": "https://mangadex.org/manga/30379",
-  "last_updated": "January 13, 2021 12:49:09 UTC",
+  "last_updated": "March 18, 2021 10:34:05 UTC",
   "matches": [
     {
       "id": 16076,
       "title": "What Does the Fox Say?",
-      "score": 0.395,
-      "r18": false
-    },
-    {
-      "id": 32033,
-      "title": "Us Right Now",
-      "score": 0.292,
-      "r18": false
+      "score": 0.283,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 43108,
       "title": "Run Away With Me, Girl",
-      "score": 0.29,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
     },
     {
-      "id": 54183,
-      "title": "Sinful Duty",
-      "score": 0.285,
-      "r18": false
+      "id": 32033,
+      "title": "Us Right Now",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx"
+      ]
     }
   ]
 }

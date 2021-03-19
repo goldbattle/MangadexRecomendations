@@ -2,43 +2,49 @@
   "id": 20149,
   "title": "Kashikomarimashita, Destiny",
   "url": "https://mangadex.org/manga/20149",
-  "last_updated": "March 16, 2021 04:06:57 UTC",
+  "last_updated": "March 18, 2021 08:54:32 UTC",
   "matches": [
     {
       "id": 21339,
       "title": "Aku Yori Aku",
       "score": 0.383,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr"
+      ]
     },
     {
       "id": 20518,
       "title": "Namida Kareru na",
       "score": 0.287,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 20545,
       "title": "Shounen no Kyoukai",
-      "score": 0.212,
-      "r18": false
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "tr",
+        "it"
+      ]
     },
     {
       "id": 17344,
       "title": "Magical\u2605Travel Boy",
       "score": 0.199,
-      "r18": false
-    },
-    {
-      "id": 22242,
-      "title": "King's Maker",
-      "score": 0.15,
-      "r18": false
-    },
-    {
-      "id": 38754,
-      "title": "City of Blood",
-      "score": 0.135,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

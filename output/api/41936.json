@@ -1,14 +1,21 @@
 {
   "id": 41936,
   "title": "Daddy's Working",
-  "url": "https://api.mangadex.org/v2/manga/41936",
-  "last_updated": "February 11, 2021 12:17:53 UTC",
+  "url": "https://mangadex.org/manga/41936",
+  "last_updated": "March 18, 2021 12:10:29 UTC",
   "matches": [
     {
       "id": 22303,
       "title": "Isekai Kenkokuki",
-      "score": 0.252,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it",
+        "fr",
+        "id"
+      ]
     }
   ]
 }

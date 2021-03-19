@@ -1,158 +1,256 @@
 {
   "id": 50324,
   "title": "Yasumin",
-  "url": "https://api.mangadex.org/v2/manga/50324",
-  "last_updated": "February 05, 2021 08:21:51 UTC",
+  "url": "https://mangadex.org/manga/50324",
+  "last_updated": "March 18, 2021 13:20:39 UTC",
   "matches": [
     {
       "id": 20605,
       "title": "Nyankees",
-      "score": 0.136,
-      "r18": false
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "ru",
+        "it"
+      ]
     },
     {
       "id": 36934,
       "title": "Shark Girl",
-      "score": 0.136,
-      "r18": false
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "hk",
+        "ru",
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 45623,
       "title": "Flying Ben",
-      "score": 0.136,
-      "r18": false
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 52556,
       "title": "Mission of Shin Se the dog",
-      "score": 0.136,
-      "r18": false
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "vn"
+      ]
     },
     {
       "id": 58324,
       "title": "Papamupa",
-      "score": 0.136,
-      "r18": false
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 58727,
       "title": "Strongest Animal System",
-      "score": 0.136,
-      "r18": false
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 2710,
       "title": "Neko Mix Genkitan Toraji",
-      "score": 0.113,
-      "r18": false
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 15037,
+      "title": "Black Bear Killer",
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 17579,
       "title": "Ginga Densetsu Weed",
-      "score": 0.113,
-      "r18": false
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu"
+      ]
     },
     {
       "id": 45269,
       "title": "Ping Kong",
-      "score": 0.113,
-      "r18": false
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": 45862,
       "title": "Tokyo Mew Mew Au Lait",
-      "score": 0.113,
-      "r18": false
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 46727,
       "title": "Dracorun",
-      "score": 0.113,
-      "r18": false
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 53982,
       "title": "Fun! Fun! Fun!",
-      "score": 0.113,
-      "r18": false
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 58293,
       "title": "Jungle Emperor (Mighty Atom Club)",
-      "score": 0.113,
-      "r18": false
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 14415,
       "title": "Jungle Emperor",
-      "score": 0.097,
-      "r18": false
+      "score": 0.08,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22494,
       "title": "Hana no Kishi Dakini",
-      "score": 0.097,
-      "r18": false
+      "score": 0.08,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 30506,
       "title": "The Planet Garaga",
-      "score": 0.097,
-      "r18": false
+      "score": 0.08,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 43422,
       "title": "Pok&eacute;mon SPECIAL Sword and Shield",
-      "score": 0.097,
-      "r18": false
+      "score": 0.08,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "br"
+      ]
     },
     {
       "id": 46826,
       "title": "Jungle Emperor (Third  Grader)",
-      "score": 0.097,
-      "r18": false
-    },
-    {
-      "id": 49474,
-      "title": "BNA",
-      "score": 0.097,
-      "r18": false
+      "score": 0.08,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 50286,
       "title": "Fossil Fighters",
-      "score": 0.097,
-      "r18": false
+      "score": 0.08,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 55563,
       "title": "Tomba! The Wild Adventures",
-      "score": 0.097,
-      "r18": false
+      "score": 0.08,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 59195,
       "title": "Rooster Fighter",
-      "score": 0.097,
-      "r18": false
+      "score": 0.08,
+      "r18": false,
+      "languages": [
+        "id",
+        "th",
+        "it",
+        "gb",
+        "br",
+        "tr",
+        "ru",
+        "my",
+        "fr",
+        "mx"
+      ]
     },
     {
       "id": 3084,
       "title": "Mahoutsukai no Neko",
-      "score": 0.085,
-      "r18": false
+      "score": 0.069,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6420,
       "title": "Cat Shit One",
-      "score": 0.085,
-      "r18": false
+      "score": 0.069,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6848,
       "title": "Servamp",
-      "score": 0.085,
-      "r18": false
+      "score": 0.069,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru",
+        "hu"
+      ]
     }
   ]
 }

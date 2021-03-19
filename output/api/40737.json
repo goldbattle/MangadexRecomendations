@@ -1,158 +1,240 @@
 {
   "id": 40737,
   "title": "Tokyo Angels",
-  "url": "https://api.mangadex.org/v2/manga/40737",
-  "last_updated": "February 11, 2021 08:28:14 UTC",
+  "url": "https://mangadex.org/manga/40737",
+  "last_updated": "March 18, 2021 12:00:29 UTC",
   "matches": [
     {
-      "id": 7164,
-      "title": "Tokyo Photograph",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 6428,
-      "title": "Tenshi ni Bara no Hanataba wo",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 6357,
-      "title": "Shin Seiki Evangelion - Koutetsu no Girlfriend 2nd",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 27965,
-      "title": "Charm Angel",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 15670,
-      "title": "Magic Knight Rayearth",
-      "score": 0.65,
-      "r18": false
+      "id": 24302,
+      "title": "Lunar - Lunatic Parade",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3437,
       "title": "Sugars",
-      "score": 0.444,
-      "r18": false
-    },
-    {
-      "id": 24302,
-      "title": "Lunar - Lunatic Parade",
-      "score": 0.433,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 44438,
       "title": "Toricon!!! Triple Complex",
-      "score": 0.428,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 57575,
       "title": "Idolish 7 MEZZO: Murasaki Ao no Hekireki",
-      "score": 0.413,
-      "r18": false
-    },
-    {
-      "id": 39373,
-      "title": "Wagaya wa Machi no Ogamiya-san",
-      "score": 0.357,
-      "r18": false
-    },
-    {
-      "id": 48429,
-      "title": "Kameba Kamu Hodo Amaku Naru",
-      "score": 0.351,
-      "r18": false
-    },
-    {
-      "id": 16185,
-      "title": "Wakusei Drops",
-      "score": 0.351,
-      "r18": false
-    },
-    {
-      "id": 10029,
-      "title": "Corrector Yui",
-      "score": 0.346,
-      "r18": false
-    },
-    {
-      "id": 5422,
-      "title": "Milk Crown",
-      "score": 0.346,
-      "r18": false
-    },
-    {
-      "id": 26489,
-      "title": "Cafe d&eacute; Hanadan",
-      "score": 0.344,
-      "r18": false
-    },
-    {
-      "id": 19325,
-      "title": "Delicious Seasons",
-      "score": 0.343,
-      "r18": false
-    },
-    {
-      "id": 13744,
-      "title": "Beauty Bunny",
-      "score": 0.343,
-      "r18": false
-    },
-    {
-      "id": 9439,
-      "title": "Shoujo Shounen - Go! Go! Ichigo",
-      "score": 0.342,
-      "r18": false
-    },
-    {
-      "id": 7383,
-      "title": "Tokumu Sentai Shinesman",
-      "score": 0.342,
-      "r18": false
-    },
-    {
-      "id": 7093,
-      "title": "Runway wo Produce!!",
-      "score": 0.341,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6858,
       "title": "Rozen Maiden - Dolls Talk",
-      "score": 0.34,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29169,
       "title": "Nanatsu no Taizai Production",
-      "score": 0.34,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10029,
+      "title": "Corrector Yui",
+      "score": 0.236,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7164,
+      "title": "Tokyo Photograph",
+      "score": 0.234,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 4902,
+      "title": "Shounen Maid",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5422,
+      "title": "Milk Crown",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 2367,
+      "title": "Complex",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3582,
+      "title": "Kamakura Deco &amp; Kofu Life",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5960,
+      "title": "Ichiban!!!",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 26489,
+      "title": "Cafe d&eacute; Hanadan",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "es"
+      ]
+    },
+    {
+      "id": 18487,
+      "title": "Boku to Furusato Restaurant",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4036,
+      "title": "Hyakujuu Kingdom",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 23148,
+      "title": "The Sakazuki Stepbrothers",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 17574,
+      "title": "Fukuda Ayano Monogatari",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7711,
+      "title": "funfun Koubou",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 16315,
+      "title": "Yo-kai Watch ~Waku Waku Nyanderful Days~",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 48429,
+      "title": "Kameba Kamu Hodo Amaku Naru",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 13744,
+      "title": "Beauty Bunny",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5431,
       "title": "Milk Crown H!",
-      "score": 0.34,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 3950,
-      "title": "Safe Again Today",
-      "score": 0.338,
-      "r18": false
+      "id": 19355,
+      "title": "SSB - Chou Seisyun Kyoudai",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 29380,
-      "title": "Renai Flag Zero Joshi no Meisou",
-      "score": 0.336,
-      "r18": false
+      "id": 26260,
+      "title": "Ookami Nanka Kowakunai!?",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de"
+      ]
     }
   ]
 }

@@ -2,31 +2,37 @@
   "id": 1381,
   "title": "Kanon",
   "url": "https://mangadex.org/manga/1381",
-  "last_updated": "March 14, 2021 01:12:25 UTC",
+  "last_updated": "March 18, 2021 05:54:24 UTC",
   "matches": [
     {
       "id": 17094,
       "title": "Saraba, Yoki Hi",
       "score": 0.3,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "it"
+      ]
     },
     {
       "id": 37395,
       "title": "The View Beyond",
-      "score": 0.229,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 9740,
       "title": "Tsumetaku, Amai",
       "score": 0.214,
-      "r18": false
-    },
-    {
-      "id": 52044,
-      "title": "The Devil",
-      "score": 0.138,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

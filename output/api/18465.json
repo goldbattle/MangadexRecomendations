@@ -2,19 +2,27 @@
   "id": 18465,
   "title": "Taka ga Koi Daro",
   "url": "https://mangadex.org/manga/18465",
-  "last_updated": "March 15, 2021 21:55:42 UTC",
+  "last_updated": "March 18, 2021 08:40:28 UTC",
   "matches": [
     {
       "id": 52772,
       "title": "Yajuu Shugi",
-      "score": 0.3,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu"
+      ]
     },
     {
       "id": 4541,
       "title": "Honto Yajuu",
       "score": 0.217,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
     }
   ]
 }

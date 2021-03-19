@@ -1,158 +1,80 @@
 {
   "id": 32080,
   "title": "Happily Ever Now",
-  "url": "https://api.mangadex.org/v2/manga/32080",
-  "last_updated": "February 10, 2021 08:30:07 UTC",
+  "url": "https://mangadex.org/manga/32080",
+  "last_updated": "March 18, 2021 10:48:16 UTC",
   "matches": [
-    {
-      "id": 34910,
-      "title": "Never Understand",
-      "score": 0.673,
-      "r18": false
-    },
     {
       "id": 19502,
       "title": "Delivery Boy Debacle",
-      "score": 0.374,
-      "r18": false
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 36506,
-      "title": "Can't Take My Eyes off You!",
-      "score": 0.357,
-      "r18": false
-    },
-    {
-      "id": 19473,
-      "title": "NAN&amp;BEI",
-      "score": 0.331,
-      "r18": false
-    },
-    {
-      "id": 15362,
-      "title": "Hey, Your Cat Ears Are Showing!",
-      "score": 0.329,
-      "r18": false
-    },
-    {
-      "id": 20735,
-      "title": "So My Landlord is a Hottie",
-      "score": 0.321,
-      "r18": false
-    },
-    {
-      "id": 22031,
-      "title": "Dasadanan",
-      "score": 0.318,
-      "r18": false
-    },
-    {
-      "id": 56296,
-      "title": "Another Happy Ending with My Jerk Friend",
-      "score": 0.306,
-      "r18": false
-    },
-    {
-      "id": 52746,
-      "title": "Demon Apartment",
-      "score": 0.294,
-      "r18": false
-    },
-    {
-      "id": 50745,
-      "title": "Botanic Romance",
-      "score": 0.294,
-      "r18": false
-    },
-    {
-      "id": 59710,
-      "title": "Curious Recipe",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 52592,
-      "title": "Play House",
-      "score": 0.286,
-      "r18": false
-    },
-    {
-      "id": 56891,
-      "title": "Sworn Enemy or Lover?",
-      "score": 0.285,
-      "r18": false
-    },
-    {
-      "id": 46709,
-      "title": "Wolf Butler and His Cat Master",
-      "score": 0.284,
-      "r18": false
-    },
-    {
-      "id": 51382,
-      "title": "Amnesia Doesn&rsquo;t Make Me Your Boyfriend!",
-      "score": 0.27,
-      "r18": false
+      "id": 34910,
+      "title": "Never Understand",
+      "score": 0.204,
+      "r18": false,
+      "languages": [
+        "tr",
+        "fr",
+        "hu"
+      ]
     },
     {
       "id": 36226,
       "title": "Starting With a Lie",
-      "score": 0.269,
-      "r18": false
-    },
-    {
-      "id": 35703,
-      "title": "The Story About You x Me",
-      "score": 0.267,
-      "r18": false
-    },
-    {
-      "id": 45322,
-      "title": "Save Me Gently",
-      "score": 0.259,
-      "r18": false
-    },
-    {
-      "id": 28861,
-      "title": "The Chronicle of Teenage Boys",
-      "score": 0.255,
-      "r18": false
-    },
-    {
-      "id": 44154,
-      "title": "Cat's Suit, Dog's Tie",
-      "score": 0.254,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr"
+      ]
     },
     {
       "id": 35050,
       "title": "Cinema Next Door",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 47340,
-      "title": "Day Off",
-      "score": 0.247,
-      "r18": false
-    },
-    {
-      "id": 52677,
-      "title": "Kisses x Kiss x Kisses",
-      "score": 0.243,
-      "r18": false
-    },
-    {
-      "id": 23216,
-      "title": "Classmate Relationship?",
-      "score": 0.24,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 30193,
       "title": "Whose Baby Is It?",
-      "score": 0.234,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 13942,
+      "title": "19 Tian",
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "tr",
+        "hu",
+        "gb",
+        "pl",
+        "id",
+        "fr",
+        "ru",
+        "br",
+        "it",
+        "ro"
+      ]
     }
   ]
 }

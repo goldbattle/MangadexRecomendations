@@ -2,31 +2,45 @@
   "id": 48787,
   "title": "Ichigo 100% Alternate Ending (Doujinshi)",
   "url": "https://mangadex.org/manga/48787",
-  "last_updated": "January 15, 2021 12:36:54 UTC",
+  "last_updated": "March 18, 2021 13:07:50 UTC",
   "matches": [
-    {
-      "id": 22877,
-      "title": "Comic Maplestory Offline RPG",
-      "score": 0.268,
-      "r18": false
-    },
     {
       "id": 41842,
       "title": "Kimetsu No Yaiba - X years later - Tanjiro proposes (Doujinshi)",
-      "score": 0.267,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 39350,
       "title": "5Toubun no Hanayome -  Sanama's Itsuki Doujins (Doujinshi)",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 53828,
       "title": "Full Metal Alchemist - The Origin of the Braids (Doujinshi)",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 22877,
+      "title": "Comic Maplestory Offline RPG",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

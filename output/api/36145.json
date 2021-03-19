@@ -2,31 +2,36 @@
   "id": 36145,
   "title": "Narippanashi no Ai no Kane",
   "url": "https://mangadex.org/manga/36145",
-  "last_updated": "March 17, 2021 20:22:41 UTC",
+  "last_updated": "March 18, 2021 11:22:09 UTC",
   "matches": [
     {
       "id": 24668,
       "title": "Koi Saku Potager",
       "score": 0.3,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 7898,
       "title": "Recipe no Ouji-sama",
-      "score": 0.291,
-      "r18": false
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 59823,
       "title": "Konya mo Kimi ni Gochisousama",
-      "score": 0.2,
-      "r18": false
-    },
-    {
-      "id": 56201,
-      "title": "Por mi cuenta",
-      "score": 0.15,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -1,158 +1,249 @@
 {
   "id": 43814,
   "title": "Obaa-chan no Poi",
-  "url": "https://api.mangadex.org/v2/manga/43814",
-  "last_updated": "February 11, 2021 16:31:00 UTC",
+  "url": "https://mangadex.org/manga/43814",
+  "last_updated": "March 18, 2021 12:26:09 UTC",
   "matches": [
     {
       "id": 17157,
       "title": "Love is Sky Blue",
-      "score": 0.427,
-      "r18": false
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 30335,
       "title": "Mikami-san wo Furimukasetai",
-      "score": 0.421,
-      "r18": false
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 13222,
       "title": "Mukashi no Hanashi",
-      "score": 0.399,
-      "r18": false
-    },
-    {
-      "id": 1375,
-      "title": "Until I Turn Around the Corner",
-      "score": 0.39,
-      "r18": false
-    },
-    {
-      "id": 6965,
-      "title": "Angel (KURODA Iou)",
-      "score": 0.385,
-      "r18": false
-    },
-    {
-      "id": 21362,
-      "title": "Milk Cake in the Reflection",
-      "score": 0.367,
-      "r18": false
-    },
-    {
-      "id": 15100,
-      "title": "A Train at the End of Summer",
-      "score": 0.354,
-      "r18": false
-    },
-    {
-      "id": 35665,
-      "title": "Bishoujo Sakka to Mezasu Million Selleeeeeeeeer!!",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 8065,
-      "title": "Cecile no Kimochi",
-      "score": 0.349,
-      "r18": false
-    },
-    {
-      "id": 34901,
-      "title": "A Cliche Story with a Childhood Friend Onee-san.",
-      "score": 0.343,
-      "r18": false
+      "score": 0.294,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19411,
       "title": "Aru Asa",
-      "score": 0.34,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 35166,
       "title": "The Goldfish Osushi",
-      "score": 0.34,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "ru"
+      ]
     },
     {
-      "id": 3707,
-      "title": "Schizanthus",
-      "score": 0.336,
-      "r18": false
+      "id": 21362,
+      "title": "Milk Cake in the Reflection",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 35665,
+      "title": "Bishoujo Sakka to Mezasu Million Selleeeeeeeeer!!",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6965,
+      "title": "Angel (KURODA Iou)",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8065,
+      "title": "Cecile no Kimochi",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 15100,
+      "title": "A Train at the End of Summer",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 34152,
       "title": "Alice Everlasting",
-      "score": 0.324,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 19000,
-      "title": "You no Ou",
-      "score": 0.319,
-      "r18": false
+      "id": 1375,
+      "title": "Until I Turn Around the Corner",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3707,
+      "title": "Schizanthus",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 10583,
       "title": "White Lover",
-      "score": 0.313,
-      "r18": false
-    },
-    {
-      "id": 49368,
-      "title": "Kamisama to",
-      "score": 0.305,
-      "r18": false
-    },
-    {
-      "id": 5699,
-      "title": "Straight no Chaser",
-      "score": 0.296,
-      "r18": false
-    },
-    {
-      "id": 19532,
-      "title": "Owatte miru no mo Warukunai",
-      "score": 0.294,
-      "r18": false
-    },
-    {
-      "id": 56008,
-      "title": "The Day I Became My Sister",
-      "score": 0.293,
-      "r18": false
-    },
-    {
-      "id": 11591,
-      "title": "Ikenai Kacchan Love Story",
-      "score": 0.293,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 1860,
       "title": "Amon Game",
-      "score": 0.293,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 10043,
-      "title": "No no Kagi",
-      "score": 0.293,
-      "r18": false
+      "id": 19532,
+      "title": "Owatte miru no mo Warukunai",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 8835,
       "title": "Kiyomizu Iroha Doesn't Know Love",
-      "score": 0.288,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 2105,
-      "title": "Bus Hashiru",
-      "score": 0.287,
-      "r18": false
+      "id": 58358,
+      "title": "The Place Where Hands Never Touch",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 10043,
+      "title": "No no Kagi",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 11591,
+      "title": "Ikenai Kacchan Love Story",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8064,
+      "title": "Baby Cinnamon",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18405,
+      "title": "Look at Me",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 30311,
+      "title": "Pine Needle, Love Needle",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19000,
+      "title": "You no Ou",
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "ct",
+        "bg"
+      ]
+    },
+    {
+      "id": 48097,
+      "title": "Suicidal Companyman &amp; Vampire Schoolgirl",
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

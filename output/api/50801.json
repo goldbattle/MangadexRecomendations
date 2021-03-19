@@ -1,158 +1,274 @@
 {
   "id": 50801,
   "title": "Escandalo M",
-  "url": "https://api.mangadex.org/v2/manga/50801",
-  "last_updated": "February 05, 2021 08:29:18 UTC",
+  "url": "https://mangadex.org/manga/50801",
+  "last_updated": "March 18, 2021 13:24:37 UTC",
   "matches": [
     {
       "id": 47189,
       "title": "Pian Pian",
-      "score": 0.691,
-      "r18": false
-    },
-    {
-      "id": 54177,
-      "title": "One Step From Hell",
-      "score": 0.688,
-      "r18": false
-    },
-    {
-      "id": 48769,
-      "title": "The Heart of Red Cloak",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 56675,
-      "title": "When a Yakuza falls in love",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 59423,
-      "title": "Eunsoo's Good Day",
-      "score": 0.435,
-      "r18": false
-    },
-    {
-      "id": 39707,
-      "title": "Anglerfish",
-      "score": 0.426,
-      "r18": false
-    },
-    {
-      "id": 51452,
-      "title": "Mania",
-      "score": 0.425,
-      "r18": false
-    },
-    {
-      "id": 45467,
-      "title": "Cherish",
-      "score": 0.42,
-      "r18": false
-    },
-    {
-      "id": 58217,
-      "title": "Hoobae's Touch Is Healing",
-      "score": 0.382,
-      "r18": false
-    },
-    {
-      "id": 59034,
-      "title": "Unholy Night",
-      "score": 0.379,
-      "r18": false
-    },
-    {
-      "id": 45212,
-      "title": "Decision",
-      "score": 0.373,
-      "r18": false
-    },
-    {
-      "id": 39457,
-      "title": "Master Baek's Case Notes",
-      "score": 0.372,
-      "r18": false
-    },
-    {
-      "id": 54007,
-      "title": "Pleasure Principle",
-      "score": 0.372,
-      "r18": false
-    },
-    {
-      "id": 44078,
-      "title": "The Time Between Dog and Wolf",
-      "score": 0.371,
-      "r18": false
-    },
-    {
-      "id": 49859,
-      "title": "In Secret",
-      "score": 0.37,
-      "r18": false
-    },
-    {
-      "id": 44969,
-      "title": "Evergreen",
-      "score": 0.37,
-      "r18": false
-    },
-    {
-      "id": 55778,
-      "title": "Vanilla Soda Sky",
-      "score": 0.369,
-      "r18": false
+      "score": 0.346,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
       "id": 59175,
       "title": "Love Script",
-      "score": 0.365,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 58051,
-      "title": "Modernist",
-      "score": 0.365,
-      "r18": false
+      "id": 44078,
+      "title": "The Time Between Dog and Wolf",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "es",
+        "mx"
+      ]
     },
     {
-      "id": 35907,
-      "title": "Restless",
-      "score": 0.361,
-      "r18": false
+      "id": 51452,
+      "title": "Mania",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "tr"
+      ]
     },
     {
-      "id": 56332,
-      "title": "Lucky Paradise",
-      "score": 0.359,
-      "r18": false
+      "id": 55778,
+      "title": "Vanilla Soda Sky",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id"
+      ]
     },
     {
-      "id": 43916,
-      "title": "Marry You? Yes, I Will!",
-      "score": 0.358,
-      "r18": false
+      "id": 48769,
+      "title": "The Heart of Red Cloak",
+      "score": 0.269,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
-      "id": 57441,
-      "title": "Highest Order",
-      "score": 0.358,
-      "r18": false
+      "id": 54177,
+      "title": "One Step From Hell",
+      "score": 0.253,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 38206,
-      "title": "Incidentally Living Together",
-      "score": 0.357,
-      "r18": false
+      "id": 52037,
+      "title": "Holding Room",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr"
+      ]
     },
     {
-      "id": 51494,
-      "title": "Love Me Dramatically",
-      "score": 0.355,
-      "r18": false
+      "id": 48372,
+      "title": "The Good Teacher",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "mx",
+        "tr",
+        "fr"
+      ]
+    },
+    {
+      "id": 23544,
+      "title": "Love Is an Illusion",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "tr",
+        "fr",
+        "id",
+        "gb",
+        "hu",
+        "it",
+        "mx",
+        "br"
+      ]
+    },
+    {
+      "id": 54664,
+      "title": "The Knight's Unfulfilled Dreams",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
+    },
+    {
+      "id": 34848,
+      "title": "Wagging the Tail",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "pl",
+        "mx",
+        "fr",
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 47612,
+      "title": "Obscura",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 51813,
+      "title": "Our Future",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
+    },
+    {
+      "id": 23594,
+      "title": "A Week of Lust",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru"
+      ]
+    },
+    {
+      "id": 44969,
+      "title": "Evergreen",
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr"
+      ]
+    },
+    {
+      "id": 44808,
+      "title": "Private Lessons",
+      "score": 0.228,
+      "r18": false,
+      "languages": [
+        "mx",
+        "fr"
+      ]
+    },
+    {
+      "id": 50736,
+      "title": "Willow Romance",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 44804,
+      "title": "Be Sweet to Me",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr"
+      ]
+    },
+    {
+      "id": 50851,
+      "title": "Shh, You'll Wake up the Child",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 42487,
+      "title": "Biting the Tiger",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "fr",
+        "mx"
+      ]
+    },
+    {
+      "id": 40174,
+      "title": "Red Candy",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "mx",
+        "tr",
+        "id"
+      ]
+    },
+    {
+      "id": 40063,
+      "title": "Seventh Strikes",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 53432,
+      "title": "Hand in Hand",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
+    },
+    {
+      "id": 55657,
+      "title": "Ang Ang",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
     }
   ]
 }

@@ -1,26 +1,40 @@
 {
   "id": 46618,
   "title": "Namekawa-san Won't Be Mocked",
-  "url": "https://api.mangadex.org/v2/manga/46618",
-  "last_updated": "February 12, 2021 00:57:06 UTC",
+  "url": "https://mangadex.org/manga/46618",
+  "last_updated": "March 18, 2021 12:49:36 UTC",
   "matches": [
     {
       "id": 29730,
       "title": "Ijimekko to Ijimerarekko",
-      "score": 0.439,
-      "r18": false
+      "score": 0.34,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 54373,
-      "title": "Susuhara is a Demon!",
-      "score": 0.27,
-      "r18": false
+      "id": 13446,
+      "title": "Ai Rabu Yuu yori Aishiteru",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de"
+      ]
     },
     {
       "id": 54891,
       "title": "Banchou to Shatei",
-      "score": 0.204,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "id",
+        "mx",
+        "gb",
+        "br",
+        "fr"
+      ]
     }
   ]
 }

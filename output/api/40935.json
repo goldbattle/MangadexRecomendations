@@ -1,158 +1,253 @@
 {
   "id": 40935,
   "title": "Futsutsukana Ani Desu ga",
-  "url": "https://api.mangadex.org/v2/manga/40935",
-  "last_updated": "February 11, 2021 08:31:14 UTC",
+  "url": "https://mangadex.org/manga/40935",
+  "last_updated": "March 18, 2021 12:02:08 UTC",
   "matches": [
-    {
-      "id": 2482,
-      "title": "Watashi ga Itemo Inakutemo",
-      "score": 0.686,
-      "r18": false
-    },
-    {
-      "id": 3979,
-      "title": "Do Da Dancin'!",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 44472,
-      "title": "Bring the Love",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 17960,
-      "title": "Tenshi no Su",
-      "score": 0.679,
-      "r18": false
-    },
     {
       "id": 2732,
       "title": "Oishii Kankei",
-      "score": 0.676,
-      "r18": false
+      "score": 0.311,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 5429,
-      "title": "Game Over",
-      "score": 0.675,
-      "r18": false
+      "id": 50321,
+      "title": "Totsuzen desu ga, Kyou Ai ni Kite",
+      "score": 0.301,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 17961,
-      "title": "Tenshi",
-      "score": 0.674,
-      "r18": false
+      "id": 13274,
+      "title": "SP x Baby",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "fr",
+        "hu"
+      ]
     },
     {
-      "id": 9762,
-      "title": "Dame na Watashi ni Koishite Kudasai",
-      "score": 0.674,
-      "r18": false
+      "id": 26857,
+      "title": "3 AM Terrible Zone",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 15034,
-      "title": "Ohana Holoholo",
-      "score": 0.674,
-      "r18": false
+      "id": 3443,
+      "title": "5-ji kara 9-ji made",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
-      "id": 6463,
-      "title": "Pen to Chocolate",
-      "score": 0.673,
-      "r18": false
+      "id": 12830,
+      "title": "Kokoro Kimiiro Sakurairo",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
-      "id": 17959,
-      "title": "Aishiau Koto Shika Dekinai",
-      "score": 0.671,
-      "r18": false
+      "id": 8834,
+      "title": "Spicy Pink",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 32047,
-      "title": "Gisou Furin",
-      "score": 0.67,
-      "r18": false
+      "id": 6992,
+      "title": "Tensai Family Company",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10056,
+      "title": "Caf&eacute; Velomano",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10042,
+      "title": "The Girl on the Other Side of the Glass",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 6160,
+      "title": "Teke Teke \u2605 Rendezvous",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 13736,
+      "title": "Sweet Spot",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10173,
+      "title": "How to Massage",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 58625,
+      "title": "Kon'ya, Shousetsuka Sensei to Naisho de",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 52801,
+      "title": "Only for You",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 36150,
+      "title": "Otona-Najimi",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "mx",
+        "it",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 3145,
+      "title": "Fukuyadou Honpo",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18141,
+      "title": "Negattari Kanattari",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21468,
+      "title": "Hakoiri no Musume",
+      "score": 0.296,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8204,
+      "title": "Mani Mani",
+      "score": 0.296,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 5026,
       "title": "Bara no Tame ni",
-      "score": 0.669,
-      "r18": false
+      "score": 0.295,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 12756,
-      "title": "Totsuzen Desu ga, Ashita Kekkon Shimasu",
-      "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 31621,
-      "title": "Imagine 29",
-      "score": 0.668,
-      "r18": false
-    },
-    {
-      "id": 4316,
-      "title": "Haru Koi",
-      "score": 0.667,
-      "r18": false
+      "id": 9762,
+      "title": "Dame na Watashi ni Koishite Kudasai",
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br",
+        "pl",
+        "gb",
+        "hu"
+      ]
     },
     {
       "id": 20463,
       "title": "Dame na Watashi ni Koishite Kudasai R",
-      "score": 0.667,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 17801,
-      "title": "Ashi-Girl",
-      "score": 0.666,
-      "r18": false
+      "id": 4473,
+      "title": "Toribako House",
+      "score": 0.288,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
-      "id": 17384,
-      "title": "Holiday Love - Fuufukan Renai",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 38891,
-      "title": "1st Kiss",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 8952,
-      "title": "Ketchup Mayonnaise",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 31110,
-      "title": "Genderless Danshi ni Ai Sarete Imasu.",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 2358,
-      "title": "Ano Koro ni Aitai",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 2185,
-      "title": "Ashita no Ousama",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 14536,
-      "title": "Kagerou Inazuma Mizu no Tsuki",
-      "score": 0.661,
-      "r18": false
+      "id": 50267,
+      "title": "Totsuzen desu ga, Konya Sarai ni Ikimasu",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

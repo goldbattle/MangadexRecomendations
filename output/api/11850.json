@@ -2,19 +2,31 @@
   "id": 11850,
   "title": "GTO Paradise Lost",
   "url": "https://mangadex.org/manga/11850",
-  "last_updated": "March 15, 2021 04:43:50 UTC",
+  "last_updated": "March 18, 2021 07:26:49 UTC",
   "matches": [
     {
       "id": 39814,
       "title": "The Rapeman",
-      "score": 0.236,
-      "r18": false
+      "score": 0.235,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29236,
       "title": "Adamasu no Majotachi",
-      "score": 0.209,
-      "r18": false
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "th",
+        "it",
+        "gb",
+        "br",
+        "fr",
+        "id",
+        "mx"
+      ]
     }
   ]
 }

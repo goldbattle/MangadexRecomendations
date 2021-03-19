@@ -1,158 +1,281 @@
 {
   "id": 41917,
   "title": "Choco Latte",
-  "url": "https://api.mangadex.org/v2/manga/41917",
-  "last_updated": "February 11, 2021 12:17:34 UTC",
+  "url": "https://mangadex.org/manga/41917",
+  "last_updated": "March 18, 2021 12:10:19 UTC",
   "matches": [
-    {
-      "id": 56365,
-      "title": "Why Do You Love Me When I Refuse Your Request?",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 58143,
-      "title": "The Provincial Commander's Self-Cultivation",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 5482,
-      "title": "In the Chocolate",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 49338,
-      "title": "I Just Want to Be a Useless Duke's Daughter",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 4824,
-      "title": "Rabu Kare - Gokujou Men Dokuhon!",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 6082,
-      "title": "Yume Miru Happa",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 52697,
-      "title": "A Trivial Extra in a Dating Sim",
-      "score": 0.657,
-      "r18": false
-    },
-    {
-      "id": 46230,
-      "title": "The Kind Older Sister Is No More",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 36401,
-      "title": "One Life, One Reincarnation",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 58617,
-      "title": "I Became the Ugly Lady",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 8527,
-      "title": "Akaiito",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 47426,
-      "title": "I'm the Ex-Girlfriend of a Soldier",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 59476,
-      "title": "The Tyrant&rsquo;s Guardian Is an Evil Witch",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 6515,
-      "title": "Himikoi",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 18688,
-      "title": "Tian Jiang Xian Shu Nan",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 49134,
-      "title": "For My Hero",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 739,
-      "title": "Anta Nanka Daikirai",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 50877,
-      "title": "Futsuu na Bokura no",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 5333,
-      "title": "Miyasaka Kaho Kessakushuu",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 14320,
-      "title": "Seishun Otome Banchou!",
-      "score": 0.65,
-      "r18": false
-    },
-    {
-      "id": 51186,
-      "title": "I Just Want to Disappear",
-      "score": 0.65,
-      "r18": false
-    },
-    {
-      "id": 57706,
-      "title": "Isn't the Contrast Cute?",
-      "score": 0.468,
-      "r18": false
-    },
     {
       "id": 47651,
       "title": "The Stars and I",
-      "score": 0.448,
-      "r18": false
+      "score": 0.357,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "id",
+        "ru"
+      ]
     },
     {
-      "id": 49460,
-      "title": "Autumn Wind and Rain",
-      "score": 0.448,
-      "r18": false
+      "id": 22359,
+      "title": "Love Is a Cherry Color",
+      "score": 0.312,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "es"
+      ]
     },
     {
-      "id": 48719,
-      "title": "How to Love You",
-      "score": 0.439,
-      "r18": false
+      "id": 59406,
+      "title": "Secret Love (Pre-Serialization)",
+      "score": 0.312,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "fr",
+        "br",
+        "it"
+      ]
+    },
+    {
+      "id": 35973,
+      "title": "Secret Love",
+      "score": 0.312,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "it"
+      ]
+    },
+    {
+      "id": 53531,
+      "title": "Someday I Never Knew",
+      "score": 0.312,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 30253,
+      "title": "Lonely, Lonely Fireflies",
+      "score": 0.312,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "es"
+      ]
+    },
+    {
+      "id": 46908,
+      "title": "Today Living With You",
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 45957,
+      "title": "Give Me a Flower, and I'll Give You All of Me",
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "tr",
+        "id"
+      ]
+    },
+    {
+      "id": 42121,
+      "title": "Once More",
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr",
+        "id",
+        "vn"
+      ]
+    },
+    {
+      "id": 41460,
+      "title": "One Day",
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 43717,
+      "title": "The Rest of My Life With You",
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 17218,
+      "title": "Adonis Next Door",
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "mx",
+        "pl"
+      ]
+    },
+    {
+      "id": 22767,
+      "title": "When Winter Comes to the Way Station",
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "es",
+        "br"
+      ]
+    },
+    {
+      "id": 19143,
+      "title": "Ghost Wife",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 36448,
+      "title": "That Year, Under the Starry Sky",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "es"
+      ]
+    },
+    {
+      "id": 37823,
+      "title": "She's Not an Angel",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 54703,
+      "title": "Play, Playlist",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "mm"
+      ]
+    },
+    {
+      "id": 50311,
+      "title": "Saving My Class 8 Seniors",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 22136,
+      "title": "My Male Friend",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 56299,
+      "title": "This Question Is Super Difficult",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 31117,
+      "title": "I Want to Kiss you, in that Moment",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 51048,
+      "title": "Hello, Summer",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "ua"
+      ]
+    },
+    {
+      "id": 40477,
+      "title": "Gatabutata",
+      "score": 0.277,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 18951,
+      "title": "Koe Koi",
+      "score": 0.277,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr"
+      ]
+    },
+    {
+      "id": 38433,
+      "title": "Four Years Apart",
+      "score": 0.277,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     }
   ]
 }

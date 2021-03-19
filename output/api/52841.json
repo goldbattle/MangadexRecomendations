@@ -2,25 +2,46 @@
   "id": 52841,
   "title": "Chihone no Shanikusai",
   "url": "https://mangadex.org/manga/52841",
-  "last_updated": "January 16, 2021 01:00:48 UTC",
+  "last_updated": "March 18, 2021 13:41:39 UTC",
   "matches": [
     {
       "id": 5628,
       "title": "Satanister",
-      "score": 0.175,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 13508,
       "title": "Misu Misou",
-      "score": 0.14,
-      "r18": false
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "br",
+        "ru"
+      ]
     },
     {
       "id": 50722,
       "title": "Glotoneria",
-      "score": 0.078,
-      "r18": false
+      "score": 0.066,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2711,
+      "title": "Dawn - Tsumetai Te",
+      "score": 0.06,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

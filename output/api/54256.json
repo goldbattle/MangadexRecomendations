@@ -1,158 +1,238 @@
 {
   "id": 54256,
   "title": "Black Diamond",
-  "url": "https://api.mangadex.org/v2/manga/54256",
-  "last_updated": "March 12, 2021 20:23:21 UTC",
+  "url": "https://mangadex.org/manga/54256",
+  "last_updated": "March 18, 2021 13:53:28 UTC",
   "matches": [
     {
-      "id": 4810,
-      "title": "Boku no Shiru Anata no Hanashi",
-      "score": 0.756,
-      "r18": false
+      "id": 56671,
+      "title": "Hisuiiro no Kaze",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 7331,
-      "title": "Kare no Niwa ni Saku Hana",
-      "score": 0.745,
-      "r18": false
+      "id": 27333,
+      "title": "Binetsu no Karute",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 26528,
-      "title": "Hisho wa Shachou ni Kudokareru",
-      "score": 0.745,
-      "r18": false
+      "id": 28922,
+      "title": "Kuro Koi",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 55117,
-      "title": "Sarou no Ryoshuu",
-      "score": 0.745,
-      "r18": false
+      "id": 55889,
+      "title": "Me wo Tojite Oide yo",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 42641,
-      "title": "Subarashii Shitsuren",
-      "score": 0.744,
-      "r18": false
+      "id": 55123,
+      "title": "Roumantei no Juunin",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 17966,
-      "title": "Paradise View",
-      "score": 0.744,
-      "r18": false
+      "id": 43737,
+      "title": "Koisuru Daigo-sensei",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 13263,
-      "title": "Trompe-l'&oelig;il no Yubisaki",
-      "score": 0.743,
-      "r18": false
+      "id": 36905,
+      "title": "Juusha no Heki",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 31471,
-      "title": "Show ga Hanetara Aimashou",
-      "score": 0.743,
-      "r18": false
+      "id": 9760,
+      "title": "Takaramono wa Hako no Naka",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 53839,
-      "title": "Shihaisuru Yubisaki",
-      "score": 0.742,
-      "r18": false
+      "id": 4470,
+      "title": "Sono Te no Netsu wo Kasanete",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 37280,
-      "title": "Kimi no Ai wa Mienikui",
-      "score": 0.741,
-      "r18": false
+      "id": 26114,
+      "title": "Nigai no Theme",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 55255,
-      "title": "Senaka kara Daite",
-      "score": 0.74,
-      "r18": false
+      "id": 22305,
+      "title": "Tsuki wo Naite Hoshigaru Kimi",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
-      "id": 43243,
-      "title": "Ginchou Kidan",
-      "score": 0.738,
-      "r18": false
+      "id": 44998,
+      "title": "Sono Suki Honto",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 27828,
-      "title": "Uminari",
-      "score": 0.738,
-      "r18": false
+      "id": 30743,
+      "title": "Toshishita Kareshi ni Hirowaremashita",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 45973,
-      "title": "Koukyuu no Arika",
-      "score": 0.736,
-      "r18": false
+      "id": 58848,
+      "title": "Ore wo Mite.",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
-      "id": 14277,
-      "title": "Suna no Ue no Koibitotachi",
-      "score": 0.734,
-      "r18": false
+      "id": 26568,
+      "title": "Doutei ni Ai Nante Sakebenai!",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 37573,
-      "title": "Shitsuji wa Oose no Mama ni",
-      "score": 0.734,
-      "r18": false
+      "id": 12657,
+      "title": "Love or Pride",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "pl",
+        "tr",
+        "gb"
+      ]
     },
     {
-      "id": 10293,
-      "title": "Omae de Nakya Dame Mitai",
-      "score": 0.731,
-      "r18": false
+      "id": 58137,
+      "title": "Koi Kirari, Kage Sururi",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 12817,
-      "title": "Furue Tsumore Shiawase no Hana",
-      "score": 0.731,
-      "r18": false
+      "id": 53872,
+      "title": "Cool Down",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 38717,
-      "title": "Konya wa Take-out Nite",
-      "score": 0.73,
-      "r18": false
+      "id": 35634,
+      "title": "Shinjou Kokyuu",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "vn",
+        "gb"
+      ]
     },
     {
-      "id": 36950,
-      "title": "Koi wa Maiorita",
-      "score": 0.73,
-      "r18": false
+      "id": 23243,
+      "title": "Itoshi no Doctor Coat  ",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 24006,
-      "title": "Anata wa Boku Dake no Hana",
-      "score": 0.73,
-      "r18": false
+      "id": 55251,
+      "title": "Ibara no Ori",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 37931,
-      "title": "Secret Note",
-      "score": 0.73,
-      "r18": false
+      "id": 6820,
+      "title": "Osoba de Misasete!",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 58065,
-      "title": "Honey Baby",
-      "score": 0.73,
-      "r18": false
+      "id": 52267,
+      "title": "Ienekonora wa Oogataken ga Nigate",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 16544,
-      "title": "ULTRAS",
-      "score": 0.729,
-      "r18": false
+      "id": 57720,
+      "title": "Nakittsura ni Hug",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 53198,
-      "title": "Kimi ga Kono Te o Hanareru nara",
-      "score": 0.728,
-      "r18": false
+      "id": 27540,
+      "title": "Ai ga Kami o Korosu Toki",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

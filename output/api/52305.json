@@ -1,158 +1,270 @@
 {
   "id": 52305,
   "title": "Momotarou and the Crimson Demon",
-  "url": "https://api.mangadex.org/v2/manga/52305",
-  "last_updated": "February 05, 2021 12:22:17 UTC",
+  "url": "https://mangadex.org/manga/52305",
+  "last_updated": "March 18, 2021 13:37:11 UTC",
   "matches": [
-    {
-      "id": 51162,
-      "title": "Confession Stories",
-      "score": 0.94,
-      "r18": false
-    },
     {
       "id": 54607,
       "title": "I Want to Listen to xx",
-      "score": 0.929,
-      "r18": false
+      "score": 0.877,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "id",
+        "mx"
+      ]
     },
     {
       "id": 48484,
       "title": "The Story of Her Amnesia",
-      "score": 0.928,
-      "r18": false
+      "score": 0.863,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb"
+      ]
     },
     {
       "id": 53503,
       "title": "The Journey of the Brave Hero and his Harem",
-      "score": 0.927,
-      "r18": false
+      "score": 0.848,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 52223,
       "title": "A Story About Becoming Temporary Lovers With a Classmate Who I Fell In Love With at First Sight",
-      "score": 0.913,
-      "r18": false
+      "score": 0.826,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn",
+        "it"
+      ]
     },
     {
       "id": 50423,
       "title": "The Untold Story of a High School Debut",
-      "score": 0.904,
-      "r18": false
+      "score": 0.816,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 55058,
       "title": "Kono Subarashii Sekai ni Shukufuku wo! - KazuMegu's Tanabata",
-      "score": 0.892,
-      "r18": false
-    },
-    {
-      "id": 58465,
-      "title": "The Monster Who Wanted to Return a Favor",
-      "score": 0.884,
-      "r18": false
-    },
-    {
-      "id": 49003,
-      "title": "My Senpai's Voice Is Too Soft so I Tried Wearing a Hearing Aid, It Unexpectedly Made Me Go to Heaven",
-      "score": 0.882,
-      "r18": false
+      "score": 0.787,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 49427,
       "title": "The Legend of Zelda Breath of the Wild - The Unfinished &quot;Happily Ever After&quot; (Doujinshi)",
-      "score": 0.865,
-      "r18": false
+      "score": 0.78,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 49003,
+      "title": "My Senpai's Voice Is Too Soft so I Tried Wearing a Hearing Aid, It Unexpectedly Made Me Go to Heaven",
+      "score": 0.768,
+      "r18": false,
+      "languages": [
+        "cn",
+        "br",
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 47191,
       "title": "A story about a senpai who wants to reject a girl at least once.",
-      "score": 0.838,
-      "r18": false
-    },
-    {
-      "id": 53136,
-      "title": "Lunch Break at the Secret Table",
-      "score": 0.799,
-      "r18": false
-    },
-    {
-      "id": 51842,
-      "title": "Kitsune-chan Won't Give in to Such a Despicable Curse",
-      "score": 0.797,
-      "r18": false
-    },
-    {
-      "id": 17524,
-      "title": "West-North's Grim Reaper",
-      "score": 0.771,
-      "r18": false
+      "score": 0.766,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 58078,
       "title": "Oh My God",
-      "score": 0.771,
-      "r18": false
+      "score": 0.703,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 51091,
-      "title": "The Witch's Dealings with a Boy",
-      "score": 0.738,
-      "r18": false
-    },
-    {
-      "id": 44044,
-      "title": "Ryuunen Shita Senpai to Moto Kouhai no Hanashi",
-      "score": 0.73,
-      "r18": false
-    },
-    {
-      "id": 47559,
-      "title": "Part-Timer turned Heroine",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 35587,
-      "title": "Valentine's Day and White Day",
+      "id": 51842,
+      "title": "Kitsune-chan Won't Give in to Such a Despicable Curse",
       "score": 0.673,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "vn",
+        "id"
+      ]
     },
     {
-      "id": 29540,
-      "title": "Oni no Youna LoveCome",
-      "score": 0.664,
-      "r18": false
+      "id": 53136,
+      "title": "Lunch Break at the Secret Table",
+      "score": 0.67,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 53758,
-      "title": "7 Samurai Folding",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 54174,
-      "title": "Pokemon: The World Champion Season",
-      "score": 0.657,
-      "r18": false
+      "id": 17524,
+      "title": "West-North's Grim Reaper",
+      "score": 0.658,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 36818,
       "title": "The Female Knight and the Barbarians",
-      "score": 0.364,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 59467,
-      "title": "Isekai Truck",
-      "score": 0.326,
-      "r18": false
+      "id": 35587,
+      "title": "Valentine's Day and White Day",
+      "score": 0.298,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "ir",
+        "pl"
+      ]
+    },
+    {
+      "id": 51091,
+      "title": "The Witch's Dealings with a Boy",
+      "score": 0.285,
+      "r18": false,
+      "languages": [
+        "cn",
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 40451,
+      "title": "\u2640Demon and \u2642Body Double Princess",
+      "score": 0.281,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 44044,
+      "title": "Ryuunen Shita Senpai to Moto Kouhai no Hanashi",
+      "score": 0.277,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
+    },
+    {
+      "id": 50454,
+      "title": "Aru Mazoku to &quot;Boku&quot; no Monogatari",
+      "score": 0.271,
+      "r18": false,
+      "languages": [
+        "cn",
+        "gb"
+      ]
+    },
+    {
+      "id": 46246,
+      "title": "The Wife Who Can Read Her Husband's Mind",
+      "score": 0.271,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "vn"
+      ]
     },
     {
       "id": 53712,
       "title": "I Received Half of the World From the Demon King!",
-      "score": 0.326,
-      "r18": false
+      "score": 0.267,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "vn",
+        "id",
+        "fr",
+        "it"
+      ]
+    },
+    {
+      "id": 59467,
+      "title": "Isekai Truck",
+      "score": 0.259,
+      "r18": false,
+      "languages": [
+        "vn",
+        "gb",
+        "th"
+      ]
+    },
+    {
+      "id": 56168,
+      "title": "Jinx at First Sight",
+      "score": 0.251,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 34785,
+      "title": "Maou Desu. Onna Yuusha no Hahaoya to Saikon Shita no de, Onna Yuusha ga Giri no Musume ni Narimashita.",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "sa",
+        "fr",
+        "mx"
+      ]
+    },
+    {
+      "id": 25850,
+      "title": "Kacchan and Deku",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

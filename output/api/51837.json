@@ -1,146 +1,170 @@
 {
   "id": 51837,
   "title": "Deal",
-  "url": "https://api.mangadex.org/v2/manga/51837",
-  "last_updated": "February 05, 2021 12:14:30 UTC",
+  "url": "https://mangadex.org/manga/51837",
+  "last_updated": "March 18, 2021 13:33:16 UTC",
   "matches": [
     {
       "id": 38481,
       "title": "Aporia",
-      "score": 0.18,
-      "r18": false
-    },
-    {
-      "id": 54230,
-      "title": "Checkmate",
-      "score": 0.18,
-      "r18": false
-    },
-    {
-      "id": 39266,
-      "title": "Painter of the Night",
-      "score": 0.144,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx"
+      ]
     },
     {
       "id": 45967,
       "title": "In Your Eyes",
-      "score": 0.144,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 59713,
-      "title": "Put On A Smile",
-      "score": 0.144,
-      "r18": false
-    },
-    {
-      "id": 20826,
-      "title": "Hogu ha Gyeongsoo",
-      "score": 0.12,
-      "r18": false
+      "id": 29660,
+      "title": "Not a Sugar Daddy",
+      "score": 0.106,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
     },
     {
       "id": 44786,
       "title": "Kinks in Development",
-      "score": 0.12,
-      "r18": false
+      "score": 0.106,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 56009,
       "title": "Exotic Love",
-      "score": 0.12,
-      "r18": false
+      "score": 0.106,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 58528,
+      "title": "Help Me, Uncle!",
+      "score": 0.106,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 59683,
       "title": "Flip Turn",
-      "score": 0.12,
-      "r18": false
+      "score": 0.106,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 38140,
       "title": "Sun's Blood",
-      "score": 0.103,
-      "r18": false
+      "score": 0.091,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "es"
+      ]
     },
     {
       "id": 38961,
       "title": "Love Is Not Real",
-      "score": 0.103,
-      "r18": false
+      "score": 0.091,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 40281,
       "title": "Cover Up",
-      "score": 0.103,
-      "r18": false
-    },
-    {
-      "id": 40591,
-      "title": "Holiday",
-      "score": 0.103,
-      "r18": false
+      "score": 0.091,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 45634,
       "title": "Kiss Me, Liar",
-      "score": 0.103,
-      "r18": false
-    },
-    {
-      "id": 49857,
-      "title": "Trace of Witch",
-      "score": 0.103,
-      "r18": false
-    },
-    {
-      "id": 53674,
-      "title": "Bitten by Moonlight",
-      "score": 0.103,
-      "r18": false
+      "score": 0.091,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "mx"
+      ]
     },
     {
       "id": 56010,
       "title": "Arthur",
-      "score": 0.103,
-      "r18": false
+      "score": 0.091,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 43958,
       "title": "My Partner's Tastes and Fetishes",
-      "score": 0.09,
-      "r18": false
+      "score": 0.08,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 56993,
       "title": "Business Performance",
-      "score": 0.09,
-      "r18": false
-    },
-    {
-      "id": 22160,
-      "title": "Killing Stalking",
       "score": 0.08,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 45224,
       "title": "Dear Benjamin",
-      "score": 0.08,
-      "r18": false
-    },
-    {
-      "id": 56606,
-      "title": "Wild Love of Beasts",
-      "score": 0.072,
-      "r18": false
+      "score": 0.071,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 55457,
       "title": "Who's Your Daddy?",
-      "score": 0.066,
-      "r18": false
+      "score": 0.058,
+      "r18": false,
+      "languages": [
+        "mx",
+        "tr",
+        "gb",
+        "fr"
+      ]
     }
   ]
 }

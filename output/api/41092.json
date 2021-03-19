@@ -1,26 +1,18 @@
 {
   "id": 41092,
   "title": "Boyfriend of the Dead",
-  "url": "https://api.mangadex.org/v2/manga/41092",
-  "last_updated": "February 11, 2021 08:33:43 UTC",
+  "url": "https://mangadex.org/manga/41092",
+  "last_updated": "March 18, 2021 12:03:26 UTC",
   "matches": [
-    {
-      "id": 36278,
-      "title": "King of Apocalypse",
-      "score": 0.675,
-      "r18": false
-    },
     {
       "id": 48032,
       "title": "My friend Mono",
-      "score": 0.205,
-      "r18": false
-    },
-    {
-      "id": 39443,
-      "title": "Manga de Wakaru! Magic Story",
-      "score": 0.106,
-      "r18": false
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     }
   ]
 }

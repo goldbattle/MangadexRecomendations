@@ -1,20 +1,37 @@
 {
   "id": 45031,
   "title": "Biribiri Yankee Hamerarete Masu",
-  "url": "https://api.mangadex.org/v2/manga/45031",
-  "last_updated": "February 11, 2021 20:19:11 UTC",
+  "url": "https://mangadex.org/manga/45031",
+  "last_updated": "March 18, 2021 12:36:20 UTC",
   "matches": [
-    {
-      "id": 16769,
-      "title": "Henai",
-      "score": 0.664,
-      "r18": true
-    },
     {
       "id": 20171,
       "title": "Do S Obake ga Nekasetekurenai",
-      "score": 0.384,
-      "r18": true
+      "score": 0.266,
+      "r18": true,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 29159,
+      "title": "Yagi to Ookami no Hatsujou Jijou",
+      "score": 0.2,
+      "r18": true,
+      "languages": [
+        "id",
+        "gb"
+      ]
+    },
+    {
+      "id": 16769,
+      "title": "Henai",
+      "score": 0.156,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

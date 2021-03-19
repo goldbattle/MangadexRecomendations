@@ -1,80 +1,115 @@
 {
   "id": 46674,
   "title": "Look over here, Hamppoya",
-  "url": "https://api.mangadex.org/v2/manga/46674",
-  "last_updated": "February 12, 2021 00:58:06 UTC",
+  "url": "https://mangadex.org/manga/46674",
+  "last_updated": "March 18, 2021 12:50:04 UTC",
   "matches": [
-    {
-      "id": 19804,
-      "title": "Everyday Lily",
-      "score": 0.355,
-      "r18": false
-    },
     {
       "id": 15357,
       "title": "Magan&amp;Danai",
-      "score": 0.284,
-      "r18": false
+      "score": 0.248,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "fr",
+        "mx",
+        "it"
+      ]
     },
     {
       "id": 20479,
       "title": "It Would Be Great if You Didn't Exist",
-      "score": 0.203,
-      "r18": false
-    },
-    {
-      "id": 22228,
-      "title": "The Love Doctor",
-      "score": 0.203,
-      "r18": false
+      "score": 0.177,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 26863,
       "title": "My Girlfriend Is a Gamer!!",
-      "score": 0.203,
-      "r18": false
+      "score": 0.177,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "mx",
+        "fr"
+      ]
     },
     {
       "id": 19436,
       "title": "Ouji-sama Nante Iranai",
-      "score": 0.177,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "id",
+        "de",
+        "ph"
+      ]
     },
     {
       "id": 50141,
       "title": "Reflection (Remake)",
-      "score": 0.158,
-      "r18": false
+      "score": 0.137,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 51039,
       "title": "This Is Obviously a Yuri Manhua",
-      "score": 0.158,
-      "r18": false
+      "score": 0.137,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "mx",
+        "br"
+      ]
     },
     {
       "id": 13939,
       "title": "Tamen de Gushi",
-      "score": 0.142,
-      "r18": false
+      "score": 0.124,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ct",
+        "mx",
+        "br",
+        "hu",
+        "ua",
+        "it",
+        "pl",
+        "ro"
+      ]
     },
     {
       "id": 59665,
       "title": "Hi, My Lady",
-      "score": 0.142,
-      "r18": false
-    },
-    {
-      "id": 51715,
-      "title": "Hertz Around You",
-      "score": 0.109,
-      "r18": false
+      "score": 0.124,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 47355,
       "title": "Soulmate",
-      "score": 0.101,
-      "r18": false
+      "score": 0.088,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr"
+      ]
     }
   ]
 }

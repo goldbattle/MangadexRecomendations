@@ -1,158 +1,259 @@
 {
   "id": 31108,
   "title": "Otto no Chinpo ga Hairanai",
-  "url": "https://api.mangadex.org/v2/manga/31108",
-  "last_updated": "February 10, 2021 08:14:57 UTC",
+  "url": "https://mangadex.org/manga/31108",
+  "last_updated": "March 18, 2021 10:40:10 UTC",
   "matches": [
     {
-      "id": 17623,
-      "title": "Iwaihime",
-      "score": 0.74,
-      "r18": false
-    },
-    {
-      "id": 38175,
-      "title": "Asuperu Kanojo",
-      "score": 0.735,
-      "r18": false
-    },
-    {
-      "id": 15976,
-      "title": "Shimanami Tasogare",
-      "score": 0.729,
-      "r18": false
-    },
-    {
-      "id": 1016,
-      "title": "Emma",
-      "score": 0.729,
-      "r18": false
-    },
-    {
-      "id": 345,
-      "title": "5 Centimeters Per Second",
-      "score": 0.729,
-      "r18": false
-    },
-    {
-      "id": 5734,
-      "title": "Moteki",
-      "score": 0.728,
-      "r18": false
-    },
-    {
-      "id": 528,
-      "title": "3-gatsu no Lion",
-      "score": 0.724,
-      "r18": false
-    },
-    {
-      "id": 35626,
-      "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Kenki Koiuta",
-      "score": 0.724,
-      "r18": false
-    },
-    {
-      "id": 650,
-      "title": "School Days",
-      "score": 0.724,
-      "r18": false
-    },
-    {
-      "id": 1569,
-      "title": "HE&forall;DS",
-      "score": 0.723,
-      "r18": false
-    },
-    {
-      "id": 15991,
-      "title": "Koi wa Ameagari no You ni",
-      "score": 0.722,
-      "r18": false
-    },
-    {
-      "id": 19185,
-      "title": "Ohikkoshi",
-      "score": 0.72,
-      "r18": false
-    },
-    {
-      "id": 85,
-      "title": "Bambino!",
-      "score": 0.719,
-      "r18": false
-    },
-    {
-      "id": 32017,
-      "title": "Miageru to Kimi wa",
-      "score": 0.718,
-      "r18": false
-    },
-    {
-      "id": 42735,
-      "title": "Eirun Last Code",
-      "score": 0.716,
-      "r18": false
-    },
-    {
-      "id": 5260,
-      "title": "Saishuu Heiki Kanojo",
-      "score": 0.715,
-      "r18": false
-    },
-    {
-      "id": 14676,
-      "title": "The Legendary Moonlight Sculptor",
-      "score": 0.715,
-      "r18": false
+      "id": 29226,
+      "title": "Tobakushi wa Inoranai",
+      "score": 0.319,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 38090,
       "title": "Anata ga Shitekurenakute mo",
-      "score": 0.713,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 49758,
-      "title": "Tell Me How to Forget About You",
-      "score": 0.712,
-      "r18": false
+      "id": 56037,
+      "title": "When I Rescued a Beautiful Girl Who Was About to Be Molested, It Was My Childhood Friend Sitting Next to Me",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "id",
+        "vn"
+      ]
     },
     {
-      "id": 8795,
-      "title": "Chiisaku Furikabutte",
-      "score": 0.712,
-      "r18": false
+      "id": 5898,
+      "title": "Happiness",
+      "score": 0.293,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 39511,
-      "title": "Tenki no Ko",
-      "score": 0.71,
-      "r18": false
+      "id": 38175,
+      "title": "Asuperu Kanojo",
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "cn",
+        "gb",
+        "ru",
+        "br",
+        "id",
+        "fr",
+        "es"
+      ]
     },
     {
-      "id": 6581,
-      "title": "Dr. Koto Shinryoujo",
-      "score": 0.71,
-      "r18": false
+      "id": 3327,
+      "title": "Maison Ikkoku",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
-      "id": 42686,
-      "title": "Yuusha Shoukan ni Makikomareta kedo, Isekai wa Heiwa deshita",
-      "score": 0.71,
-      "r18": false
+      "id": 23823,
+      "title": "Inubaka",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 17720,
-      "title": "Koushaku Reijou no Tashinami",
-      "score": 0.709,
-      "r18": false
+      "id": 15940,
+      "title": "Sasen mo Warukunai",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 505,
-      "title": "Nagato Yuki-chan no Shoushitsu",
-      "score": 0.709,
-      "r18": false
+      "id": 23782,
+      "title": "Aoi no Yuuwaku",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 627,
+      "title": "Shikii no Juunin",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2892,
+      "title": "Baka to Gogh",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 584,
+      "title": "Booking Life",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21906,
+      "title": "Kirei ni Shitemoraemasuka",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "id"
+      ]
+    },
+    {
+      "id": 1726,
+      "title": "Shima Shima",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2731,
+      "title": "Yume no Atosaki",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 41263,
+      "title": "Kimi no Okaasan wo Boku ni Kudasai!",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb"
+      ]
+    },
+    {
+      "id": 46310,
+      "title": "Are You Really Getting Married?",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ua",
+        "mx",
+        "ru",
+        "vn",
+        "br"
+      ]
+    },
+    {
+      "id": 29535,
+      "title": "Yasashii Hikari",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18062,
+      "title": "Strobe Light",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 15139,
+      "title": "Chicha Koi Nikki",
+      "score": 0.286,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7011,
+      "title": "My Dream, My Work",
+      "score": 0.283,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1820,
+      "title": "Kamiigusa Animators",
+      "score": 0.283,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 41794,
+      "title": "Boku wa mata, kimi ni sayonara no kazu o miru",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2342,
+      "title": "Ciguatera",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 17984,
+      "title": "My Bride is His Wife",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -2,25 +2,47 @@
   "id": 6608,
   "title": "Zettai Kunshu Shoukougun",
   "url": "https://mangadex.org/manga/6608",
-  "last_updated": "March 14, 2021 16:31:46 UTC",
+  "last_updated": "March 18, 2021 06:42:04 UTC",
   "matches": [
     {
       "id": 550,
       "title": "Aki Sora",
-      "score": 0.218,
-      "r18": false
+      "score": 0.217,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "fr",
+        "pl"
+      ]
     },
     {
       "id": 1653,
       "title": "Minamoto-kun Monogatari",
       "score": 0.214,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "id",
+        "br",
+        "it",
+        "mx",
+        "sa"
+      ]
     },
     {
       "id": 522,
       "title": "Kiss x Sis",
       "score": 0.199,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "pl",
+        "fr",
+        "it"
+      ]
     }
   ]
 }

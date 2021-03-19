@@ -2,19 +2,27 @@
   "id": 21134,
   "title": "Elena",
   "url": "https://mangadex.org/manga/21134",
-  "last_updated": "March 16, 2021 04:21:34 UTC",
+  "last_updated": "March 18, 2021 09:02:47 UTC",
   "matches": [
     {
       "id": 34109,
       "title": "5 Seconds Before a Witch Falls in Love",
       "score": 0.2,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6162,
       "title": "Moyashi Otoko to Tane Shoujo",
       "score": 0.185,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "it"
+      ]
     }
   ]
 }

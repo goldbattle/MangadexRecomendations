@@ -1,158 +1,254 @@
 {
   "id": 55325,
   "title": "Bukuro Kicks",
-  "url": "https://api.mangadex.org/v2/manga/55325",
-  "last_updated": "March 12, 2021 20:36:24 UTC",
+  "url": "https://mangadex.org/manga/55325",
+  "last_updated": "March 18, 2021 14:02:25 UTC",
   "matches": [
     {
-      "id": 323,
-      "title": "Moon",
-      "score": 0.684,
-      "r18": false
+      "id": 18941,
+      "title": "Love Buzz",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 877,
-      "title": "Ookiku Furikabutte",
-      "score": 0.681,
-      "r18": false
-    },
-    {
-      "id": 10697,
-      "title": "Suberuwo Itowazu",
-      "score": 0.674,
-      "r18": false
-    },
-    {
-      "id": 528,
-      "title": "3-gatsu no Lion",
-      "score": 0.667,
-      "r18": false
-    },
-    {
-      "id": 2094,
-      "title": "Ping Pong",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 13258,
-      "title": "Supinamarada!",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 1768,
-      "title": "All-Rounder Meguru",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 8795,
-      "title": "Chiisaku Furikabutte",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 328,
-      "title": "RRR",
-      "score": 0.657,
-      "r18": false
-    },
-    {
-      "id": 2335,
-      "title": "Happy!",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 1590,
-      "title": "87 Clockers",
-      "score": 0.651,
-      "r18": false
+      "id": 14460,
+      "title": "The Magnificent Grand Scene",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx"
+      ]
     },
     {
       "id": 10397,
       "title": "Aki",
-      "score": 0.502,
-      "r18": false
+      "score": 0.335,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 14460,
-      "title": "Kenrantaru grande sc&egrave;ne",
-      "score": 0.492,
-      "r18": false
-    },
-    {
-      "id": 18941,
-      "title": "Love Buzz",
-      "score": 0.47,
-      "r18": false
-    },
-    {
-      "id": 2964,
-      "title": "Regatta",
-      "score": 0.43,
-      "r18": false
-    },
-    {
-      "id": 2781,
-      "title": "Gaku",
-      "score": 0.427,
-      "r18": false
-    },
-    {
-      "id": 8861,
-      "title": "Golondrina",
-      "score": 0.426,
-      "r18": false
-    },
-    {
-      "id": 13283,
-      "title": "Riman Gambler Mouse",
-      "score": 0.415,
-      "r18": false
+      "id": 58385,
+      "title": "The Music Is Beautiful Pain",
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3432,
       "title": "Gun-Jou",
-      "score": 0.409,
-      "r18": false
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3488,
       "title": "Initial D",
-      "score": 0.391,
-      "r18": false
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "pl",
+        "mx",
+        "br",
+        "ro"
+      ]
     },
     {
-      "id": 32288,
-      "title": "3-gatsu no Lion Shouwa Ibun - Shakunetsu no Jidai",
-      "score": 0.386,
-      "r18": false
+      "id": 2094,
+      "title": "Ping Pong",
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
-      "id": 9683,
-      "title": "Shinohayu - The Dawn of Age",
-      "score": 0.384,
-      "r18": false
+      "id": 13283,
+      "title": "Riman Gambler Mouse",
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4246,
       "title": "Fuyu Hanabi",
-      "score": 0.381,
-      "r18": false
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 1712,
-      "title": "Noel no Kimochi",
-      "score": 0.379,
-      "r18": false
+      "id": 2964,
+      "title": "Regatta",
+      "score": 0.301,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8861,
+      "title": "Golondrina",
+      "score": 0.277,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 2781,
+      "title": "Gaku",
+      "score": 0.274,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 328,
+      "title": "RRR",
+      "score": 0.274,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 8795,
+      "title": "Chiisaku Furikabutte",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1590,
+      "title": "87 Clockers",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 13258,
+      "title": "Supinamarada!",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2498,
       "title": "REAL",
-      "score": 0.375,
-      "r18": false
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "ru",
+        "sa",
+        "tr",
+        "id"
+      ]
+    },
+    {
+      "id": 1712,
+      "title": "Noel no Kimochi",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 16808,
+      "title": "Dance Dance Danseur",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de"
+      ]
+    },
+    {
+      "id": 323,
+      "title": "Moon",
+      "score": 0.242,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2335,
+      "title": "Happy!",
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 32288,
+      "title": "3-gatsu no Lion Shouwa Ibun - Shakunetsu no Jidai",
+      "score": 0.237,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9683,
+      "title": "Shinohayu - The Dawn of Age",
+      "score": 0.236,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 1768,
+      "title": "All-Rounder Meguru",
+      "score": 0.236,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 15586,
+      "title": "Juuni Banme no Tenshi",
+      "score": 0.236,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

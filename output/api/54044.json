@@ -2,31 +2,47 @@
   "id": 54044,
   "title": "Console Her",
   "url": "https://mangadex.org/manga/54044",
-  "last_updated": "January 16, 2021 06:28:19 UTC",
+  "last_updated": "March 18, 2021 13:51:42 UTC",
   "matches": [
+    {
+      "id": 54043,
+      "title": "Blithe",
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
+    },
     {
       "id": 51007,
       "title": "Ghosts of Greywoods",
-      "score": 0.321,
-      "r18": false
-    },
-    {
-      "id": 30315,
-      "title": "Her Shim-Cheong",
-      "score": 0.304,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
       "id": 55081,
       "title": "After the Curtain Call",
-      "score": 0.296,
-      "r18": false
+      "score": 0.185,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 54043,
-      "title": "Blithe",
-      "score": 0.288,
-      "r18": false
+      "id": 30315,
+      "title": "Her Shim-Cheong",
+      "score": 0.177,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
     }
   ]
 }

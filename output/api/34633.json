@@ -1,32 +1,49 @@
 {
   "id": 34633,
   "title": "Happy Ending Kuso Kurae",
-  "url": "https://api.mangadex.org/v2/manga/34633",
-  "last_updated": "February 10, 2021 16:31:37 UTC",
+  "url": "https://mangadex.org/manga/34633",
+  "last_updated": "March 18, 2021 11:09:33 UTC",
   "matches": [
     {
       "id": 8304,
       "title": "Akunin o Nakaseru Houhou",
-      "score": 0.4,
-      "r18": false
-    },
-    {
-      "id": 13269,
-      "title": "Koi Made Hyakurin",
-      "score": 0.355,
-      "r18": false
+      "score": 0.319,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 11157,
       "title": "Mayoke no Darling",
-      "score": 0.354,
-      "r18": false
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "vn"
+      ]
+    },
+    {
+      "id": 13269,
+      "title": "Koi Made Hyakurin",
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 58790,
-      "title": "Can&rsquo;t Help It",
-      "score": 0.229,
-      "r18": false
+      "title": "Cannot Help it",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "vn",
+        "gb",
+        "tr"
+      ]
     }
   ]
 }

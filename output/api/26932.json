@@ -2,37 +2,35 @@
   "id": 26932,
   "title": "Badass",
   "url": "https://mangadex.org/manga/26932",
-  "last_updated": "March 16, 2021 20:26:14 UTC",
+  "last_updated": "March 18, 2021 10:05:19 UTC",
   "matches": [
-    {
-      "id": 24007,
-      "title": "Fake",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 28015,
-      "title": "Fake: Second",
-      "score": 0.226,
-      "r18": false
-    },
     {
       "id": 55763,
       "title": "Hashire! Ouji-sama",
-      "score": 0.208,
-      "r18": false
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 54196,
       "title": "Cat &amp; Master Dog",
       "score": 0.171,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 42699,
       "title": "A Curse Beyond the Witch's Intentions",
       "score": 0.136,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

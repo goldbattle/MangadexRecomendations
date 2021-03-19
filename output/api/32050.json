@@ -1,158 +1,248 @@
 {
   "id": 32050,
   "title": "Around",
-  "url": "https://api.mangadex.org/v2/manga/32050",
-  "last_updated": "February 10, 2021 08:29:36 UTC",
+  "url": "https://mangadex.org/manga/32050",
+  "last_updated": "March 18, 2021 10:48:01 UTC",
   "matches": [
     {
-      "id": 12045,
-      "title": "Atsumare! Gakuen Tengoku",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 27458,
-      "title": "Bingo!",
-      "score": 0.657,
-      "r18": false
-    },
-    {
-      "id": 15822,
-      "title": "Let Dai",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 4469,
-      "title": "Gakuen Heaven - Revolution",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 13604,
-      "title": "Hito wa Sore o Koi to Yobu",
-      "score": 0.51,
-      "r18": false
+      "id": 5983,
+      "title": "Soutaisei Renaidan",
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 49067,
       "title": "Shining Star",
-      "score": 0.481,
-      "r18": false
-    },
-    {
-      "id": 39087,
-      "title": "Okujou Fuukei",
-      "score": 0.453,
-      "r18": false
-    },
-    {
-      "id": 1897,
-      "title": "Saburina",
-      "score": 0.45,
-      "r18": false
-    },
-    {
-      "id": 6494,
-      "title": "Mizu no Haru",
-      "score": 0.428,
-      "r18": false
-    },
-    {
-      "id": 4356,
-      "title": "Jig + Zag",
-      "score": 0.425,
-      "r18": false
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 12424,
       "title": "Kokoro Kikai",
-      "score": 0.416,
-      "r18": false
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "br",
+        "pl"
+      ]
     },
     {
-      "id": 8533,
-      "title": "Honki ni Natta Merryman",
-      "score": 0.389,
-      "r18": false
+      "id": 39087,
+      "title": "Okujou Fuukei",
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 4337,
-      "title": "Cello Mellow",
-      "score": 0.387,
-      "r18": false
+      "id": 4356,
+      "title": "Jig + Zag",
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1897,
+      "title": "Saburina",
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6494,
+      "title": "Mizu no Haru",
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 13604,
+      "title": "Hito wa Sore o Koi to Yobu",
+      "score": 0.354,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8921,
+      "title": "Soshite Shunpuu ni Sasayaite",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 41667,
+      "title": "Inoue-kun Hajimemasen ka?",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5324,
+      "title": "Barairo no Hoo no Koro",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 4045,
+      "title": "Hard Romantica",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 27001,
+      "title": "Suki Dakara Kisushita no?",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7418,
       "title": "Endou-kun no Kansatsu Nikki",
-      "score": 0.386,
-      "r18": false
-    },
-    {
-      "id": 34559,
-      "title": "Heesu in Class 2",
-      "score": 0.38,
-      "r18": false
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "hu"
+      ]
     },
     {
       "id": 8242,
       "title": "Endou-kun no Jikken Note",
-      "score": 0.378,
-      "r18": false
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 14614,
-      "title": "Gakuen Heaven - Double Scramble",
-      "score": 0.378,
-      "r18": false
+      "id": 26334,
+      "title": "Igarashi-kun to Nakahara-kun",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 19372,
-      "title": "Gunjou no Subete",
-      "score": 0.375,
-      "r18": false
+      "id": 17311,
+      "title": "Yuri Danshi-kun",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 28122,
-      "title": "Junjou de Wagamama na Kare",
-      "score": 0.374,
-      "r18": false
+      "id": 30404,
+      "title": "Natsu ni Mebuku wa Koi no Oto",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 10221,
-      "title": "Body Yori Soul",
-      "score": 0.372,
-      "r18": false
+      "id": 10987,
+      "title": "Walking With You",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 7194,
-      "title": "Senpai",
-      "score": 0.371,
-      "r18": false
+      "id": 3401,
+      "title": "Sukusuku Otokonoko",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 57271,
-      "title": "Donuts Tsuushin",
-      "score": 0.37,
-      "r18": false
+      "id": 28742,
+      "title": "Houkago Guitar",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 29882,
-      "title": "In Search Of The Twelve Golden Hairpins",
-      "score": 0.37,
-      "r18": false
+      "id": 23903,
+      "title": "Rolling",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 7190,
-      "title": "Wakaba no - Shounenki",
-      "score": 0.369,
-      "r18": false
+      "id": 15884,
+      "title": "Yamete Kudasai, Mabushii Desu",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 35738,
-      "title": "Aitsu to Ore.",
-      "score": 0.368,
-      "r18": false
+      "id": 53238,
+      "title": "Niichan, Icchatte!",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59955,
+      "title": "Luminograph",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

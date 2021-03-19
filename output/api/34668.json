@@ -1,158 +1,244 @@
 {
   "id": 34668,
   "title": "From Green Kitchen",
-  "url": "https://api.mangadex.org/v2/manga/34668",
-  "last_updated": "February 10, 2021 16:32:09 UTC",
+  "url": "https://mangadex.org/manga/34668",
+  "last_updated": "March 18, 2021 11:09:50 UTC",
   "matches": [
-    {
-      "id": 16040,
-      "title": "Joushi to Ore no Himitsu",
-      "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 53109,
-      "title": "Outside Flower",
-      "score": 0.695,
-      "r18": false
-    },
-    {
-      "id": 13668,
-      "title": "Shachou to Hisho, Ai no Shoumei",
-      "score": 0.693,
-      "r18": false
-    },
-    {
-      "id": 7922,
-      "title": "Doushitemo Furetakunai",
-      "score": 0.692,
-      "r18": false
-    },
-    {
-      "id": 10875,
-      "title": "Koi wo Shimashou",
-      "score": 0.69,
-      "r18": false
-    },
-    {
-      "id": 10213,
-      "title": "Otodokemono Desu!",
-      "score": 0.689,
-      "r18": false
-    },
-    {
-      "id": 44491,
-      "title": "Gaps",
-      "score": 0.685,
-      "r18": false
-    },
-    {
-      "id": 40852,
-      "title": "Mata Ashita",
-      "score": 0.684,
-      "r18": false
-    },
-    {
-      "id": 24004,
-      "title": "Renai Sousa",
-      "score": 0.683,
-      "r18": false
-    },
-    {
-      "id": 48273,
-      "title": "Sukiyanen Kedo Dou Yaro ka",
-      "score": 0.683,
-      "r18": false
-    },
-    {
-      "id": 56301,
-      "title": "Kimi no Tonari de Yurarete",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 39106,
-      "title": "Don't Cry My Baby",
-      "score": 0.674,
-      "r18": false
-    },
-    {
-      "id": 13479,
-      "title": "So Cute?",
-      "score": 0.67,
-      "r18": false
-    },
     {
       "id": 46021,
       "title": "Nekasenaide",
-      "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 57584,
-      "title": "Soredemo Mata Asa ga Kute Koiwosuru",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 34143,
-      "title": "Atatamete Kureru Hito",
-      "score": 0.435,
-      "r18": false
-    },
-    {
-      "id": 20638,
-      "title": "Yume Miru Seiza",
-      "score": 0.432,
-      "r18": false
-    },
-    {
-      "id": 45652,
-      "title": "Old-fashioned Cupcake",
-      "score": 0.421,
-      "r18": false
-    },
-    {
-      "id": 37516,
-      "title": "Koh-Boku",
-      "score": 0.42,
-      "r18": false
+      "score": 0.319,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 31176,
       "title": "Shiawase Gohan - Maki to Hanazawa",
-      "score": 0.413,
-      "r18": false
+      "score": 0.319,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 8688,
-      "title": "Docchi mo Docchi",
-      "score": 0.398,
-      "r18": false
+      "id": 44491,
+      "title": "Gaps",
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 39112,
-      "title": "Mada Ai ga Tarinai",
-      "score": 0.379,
-      "r18": false
+      "id": 45652,
+      "title": "Old-fashioned Cupcake",
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37516,
+      "title": "Koh-Boku",
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 24749,
       "title": "1/2 Cigarette",
-      "score": 0.365,
-      "r18": false
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "pl",
+        "it",
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 20638,
+      "title": "Yume Miru Seiza",
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 58089,
+      "title": "Futari de Papa Hajimemashita",
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8688,
+      "title": "Docchi mo Docchi",
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 48273,
+      "title": "Sukiyanen Kedo Dou Yaro ka",
+      "score": 0.295,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 34143,
+      "title": "Atatamete Kureru Hito",
+      "score": 0.282,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 56301,
+      "title": "Kimi no Tonari de Yurarete",
+      "score": 0.281,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 40852,
+      "title": "Mata Ashita",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24004,
+      "title": "Renai Sousa",
+      "score": 0.278,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 13668,
+      "title": "Shachou to Hisho, Ai no Shoumei",
+      "score": 0.273,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 59823,
       "title": "Konya mo Kimi ni Gochisousama",
-      "score": 0.352,
-      "r18": false
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7922,
+      "title": "Doushitemo Furetakunai",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
+    },
+    {
+      "id": 57584,
+      "title": "Soredemo Mata Asa ga Kute Koiwosuru",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 39112,
+      "title": "Mada Ai ga Tarinai",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 13479,
+      "title": "So Cute?",
+      "score": 0.254,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 16040,
+      "title": "Joushi to Ore no Himitsu",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 52320,
+      "title": "Kiss Prohibition",
+      "score": 0.248,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 10875,
+      "title": "Koi wo Shimashou",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53109,
+      "title": "Outside Flower",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 38586,
       "title": "On or Off",
-      "score": 0.328,
-      "r18": false
+      "score": 0.202,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "id"
+      ]
     }
   ]
 }

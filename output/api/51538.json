@@ -1,158 +1,252 @@
 {
   "id": 51538,
   "title": "Dream-like Lie",
-  "url": "https://api.mangadex.org/v2/manga/51538",
-  "last_updated": "February 05, 2021 12:09:35 UTC",
+  "url": "https://mangadex.org/manga/51538",
+  "last_updated": "March 18, 2021 13:30:47 UTC",
   "matches": [
     {
       "id": 55167,
       "title": "A Cold Greenhouse",
-      "score": 0.85,
-      "r18": false
-    },
-    {
-      "id": 59743,
-      "title": "My Childhood Friend Is Too Provocative for Me",
-      "score": 0.709,
-      "r18": false
-    },
-    {
-      "id": 52653,
-      "title": "It's Not Like That",
-      "score": 0.681,
-      "r18": false
+      "score": 0.768,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
     },
     {
       "id": 36619,
       "title": "I Got Married With a Goblin",
-      "score": 0.39,
-      "r18": false
+      "score": 0.318,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "fr",
+        "id"
+      ]
     },
     {
-      "id": 45108,
-      "title": "Moonlight Howling",
-      "score": 0.38,
-      "r18": false
+      "id": 58838,
+      "title": "Professor's Double Life",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 54177,
-      "title": "One Step From Hell",
-      "score": 0.369,
-      "r18": false
+      "id": 52653,
+      "title": "It's Not Like That",
+      "score": 0.278,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
-      "id": 40592,
-      "title": "The Warrior and the Deity",
-      "score": 0.369,
-      "r18": false
+      "id": 59743,
+      "title": "My Childhood Friend Is Too Provocative for Me",
+      "score": 0.277,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 27119,
+      "title": "Nightmare Building",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 41584,
       "title": "A Wolf and A Bear",
-      "score": 0.363,
-      "r18": false
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
-      "id": 45006,
-      "title": "Gorani Jeon",
-      "score": 0.357,
-      "r18": false
+      "id": 45108,
+      "title": "Moonlight Howling",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 40592,
+      "title": "The Warrior and the Deity",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 54177,
+      "title": "One Step From Hell",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 42969,
       "title": "Imae-ui Yoram.",
-      "score": 0.348,
-      "r18": false
-    },
-    {
-      "id": 54392,
-      "title": "The Tiger Who Swallowed the Moon",
-      "score": 0.346,
-      "r18": false
-    },
-    {
-      "id": 43606,
-      "title": "Broken Boy",
-      "score": 0.344,
-      "r18": false
-    },
-    {
-      "id": 36994,
-      "title": "Fate Makes No Mistakes",
-      "score": 0.344,
-      "r18": false
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 56141,
       "title": "Smoke &amp; Rain",
-      "score": 0.342,
-      "r18": false
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 54007,
-      "title": "Pleasure Principle",
-      "score": 0.34,
-      "r18": false
+      "id": 45006,
+      "title": "Gorani Jeon",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 54392,
+      "title": "The Tiger Who Swallowed the Moon",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 48769,
       "title": "The Heart of Red Cloak",
-      "score": 0.339,
-      "r18": false
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
-      "id": 31968,
-      "title": "Walk on Water",
-      "score": 0.338,
-      "r18": false
+      "id": 52947,
+      "title": "Form of Sympathy",
+      "score": 0.26,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "ru"
+      ]
     },
     {
-      "id": 44804,
-      "title": "Be Sweet to Me",
-      "score": 0.337,
-      "r18": false
+      "id": 29662,
+      "title": "K's Secret",
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 47005,
+      "title": "Woof Wolf",
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 48372,
+      "title": "The Good Teacher",
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "mx",
+        "tr",
+        "fr"
+      ]
+    },
+    {
+      "id": 42487,
+      "title": "Biting the Tiger",
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "fr",
+        "mx"
+      ]
+    },
+    {
+      "id": 57225,
+      "title": "Draig Mid Knight",
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 54598,
+      "title": "Romantical Behind",
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
       "id": 50736,
       "title": "Willow Romance",
-      "score": 0.337,
-      "r18": false
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 54158,
       "title": "Dream Sign",
-      "score": 0.331,
-      "r18": false
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 33002,
-      "title": "Romantic Box",
-      "score": 0.329,
-      "r18": false
-    },
-    {
-      "id": 35907,
-      "title": "Restless",
-      "score": 0.328,
-      "r18": false
-    },
-    {
-      "id": 23594,
-      "title": "A Week of Lust",
-      "score": 0.325,
-      "r18": false
-    },
-    {
-      "id": 52199,
-      "title": "Affectionately",
-      "score": 0.322,
-      "r18": false
-    },
-    {
-      "id": 44969,
-      "title": "Evergreen",
-      "score": 0.321,
-      "r18": false
+      "id": 51164,
+      "title": "ANTI P.T.",
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     }
   ]
 }

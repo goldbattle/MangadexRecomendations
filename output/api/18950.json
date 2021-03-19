@@ -2,67 +2,116 @@
   "id": 18950,
   "title": "Joshikai Quest",
   "url": "https://mangadex.org/manga/18950",
-  "last_updated": "March 16, 2021 00:13:01 UTC",
+  "last_updated": "March 18, 2021 08:44:31 UTC",
   "matches": [
-    {
-      "id": 59875,
-      "title": "Tadashi yokai no tabekata",
-      "score": 0.29,
-      "r18": false
-    },
     {
       "id": 18302,
       "title": "Isekai Izakaya &quot;Nobu&quot;",
       "score": 0.197,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id"
+      ]
     },
     {
       "id": 12453,
       "title": "Toaru Ossan no VRMMO Katsudouki",
       "score": 0.161,
-      "r18": false
-    },
-    {
-      "id": 20583,
-      "title": "The Mermaid Princess's Guilty Meal",
-      "score": 0.157,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru",
+        "br",
+        "fr"
+      ]
     },
     {
       "id": 19820,
       "title": "Kuutei Dragons",
       "score": 0.145,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "ru",
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 59179,
       "title": "A Snowman&rsquo;s Gratitude",
       "score": 0.145,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 22723,
       "title": "Sewayaki Kitsune no Senko-san",
-      "score": 0.132,
-      "r18": false
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr",
+        "pl",
+        "cz"
+      ]
     },
     {
       "id": 22410,
       "title": "Isekai Ryouridou",
-      "score": 0.132,
-      "r18": false
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "hu",
+        "it"
+      ]
     },
     {
       "id": 14676,
       "title": "The Legendary Moonlight Sculptor",
       "score": 0.128,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "il",
+        "gb",
+        "ru",
+        "br",
+        "tr",
+        "pl"
+      ]
     },
     {
       "id": 13871,
       "title": "Dungeon Meshi",
-      "score": 0.112,
-      "r18": false
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx",
+        "es"
+      ]
+    },
+    {
+      "id": 20583,
+      "title": "The Mermaid Princess's Guilty Meal",
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     }
   ]
 }

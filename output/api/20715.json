@@ -2,73 +2,138 @@
   "id": 20715,
   "title": "Ichigeki",
   "url": "https://mangadex.org/manga/20715",
-  "last_updated": "March 16, 2021 04:15:13 UTC",
+  "last_updated": "March 18, 2021 08:59:15 UTC",
   "matches": [
     {
       "id": 393,
       "title": "Sidooh",
       "score": 0.278,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu",
+        "tr",
+        "pl"
+      ]
     },
     {
       "id": 5526,
       "title": "Blade of the Immortal",
-      "score": 0.221,
-      "r18": false
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu"
+      ]
     },
     {
       "id": 17291,
       "title": "RED: Living On The Edge",
-      "score": 0.191,
-      "r18": false
+      "score": 0.19,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1073,
       "title": "Vagabond",
       "score": 0.19,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "it",
+        "hu",
+        "pl",
+        "id",
+        "sa"
+      ]
     },
     {
       "id": 43757,
       "title": "Minagoroshi no Arthur",
-      "score": 0.172,
-      "r18": false
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 56617,
       "title": "Vagabond (Official Colored)",
-      "score": 0.166,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 24862,
       "title": "Sousei no Taiga",
       "score": 0.161,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru",
+        "mx",
+        "fr"
+      ]
     },
     {
       "id": 1230,
       "title": "Black Lagoon",
       "score": 0.15,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "fr",
+        "ru",
+        "es",
+        "it"
+      ]
     },
     {
       "id": 4747,
       "title": "Terra Formars",
-      "score": 0.139,
-      "r18": false
+      "score": 0.138,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "tr"
+      ]
     },
     {
       "id": 1394,
       "title": "Narutaru",
-      "score": 0.108,
-      "r18": false
+      "score": 0.107,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "mx"
+      ]
     },
     {
       "id": 607,
       "title": "Berserk",
-      "score": 0.103,
-      "r18": false
+      "score": 0.102,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it",
+        "mx",
+        "tr",
+        "sa",
+        "ru",
+        "fr",
+        "hk"
+      ]
     }
   ]
 }

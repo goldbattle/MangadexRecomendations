@@ -1,158 +1,243 @@
 {
   "id": 54844,
   "title": "Reverse Age",
-  "url": "https://api.mangadex.org/v2/manga/54844",
-  "last_updated": "March 12, 2021 20:30:34 UTC",
+  "url": "https://mangadex.org/manga/54844",
+  "last_updated": "March 18, 2021 13:58:23 UTC",
   "matches": [
     {
       "id": 19246,
       "title": "Guest House",
-      "score": 0.302,
-      "r18": true
+      "score": 0.241,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 30913,
-      "title": "An Innocent Sin",
-      "score": 0.276,
-      "r18": true
-    },
-    {
-      "id": 59287,
-      "title": "Hell's Harem",
-      "score": 0.27,
-      "r18": true
+      "id": 49146,
+      "title": "Freshman",
+      "score": 0.209,
+      "r18": true,
+      "languages": [
+        "br"
+      ]
     },
     {
       "id": 32835,
       "title": "Unknown Feeling",
-      "score": 0.258,
-      "r18": true
-    },
-    {
-      "id": 45025,
-      "title": "MaMAmama!",
-      "score": 0.251,
-      "r18": true
-    },
-    {
-      "id": 29767,
-      "title": "Lovemare",
-      "score": 0.238,
-      "r18": true
-    },
-    {
-      "id": 26755,
-      "title": "Succubus Stayed Life",
-      "score": 0.237,
-      "r18": true
-    },
-    {
-      "id": 54426,
-      "title": "Hero Manager",
-      "score": 0.235,
-      "r18": true
-    },
-    {
-      "id": 23746,
-      "title": "Glass no Megami",
-      "score": 0.219,
-      "r18": true
-    },
-    {
-      "id": 28765,
-      "title": "Mo-Retsu! Boin Sensei",
-      "score": 0.215,
-      "r18": true
-    },
-    {
-      "id": 53303,
-      "title": "Kanojo Face",
       "score": 0.209,
-      "r18": true
-    },
-    {
-      "id": 33295,
-      "title": "Ren Arisugawa Is Actually a Girl",
-      "score": 0.209,
-      "r18": true
+      "r18": true,
+      "languages": [
+        "mx",
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 50579,
       "title": "Dog on Patrol",
-      "score": 0.208,
-      "r18": true
+      "score": 0.176,
+      "r18": true,
+      "languages": [
+        "br",
+        "pl"
+      ]
     },
     {
-      "id": 56415,
-      "title": "Kimisen",
-      "score": 0.199,
-      "r18": true
+      "id": 30913,
+      "title": "An Innocent Sin",
+      "score": 0.174,
+      "r18": true,
+      "languages": [
+        "fr",
+        "ua"
+      ]
     },
     {
-      "id": 53131,
-      "title": "Witch, 30 Years Old",
-      "score": 0.197,
-      "r18": true
+      "id": 59287,
+      "title": "Hell's Harem",
+      "score": 0.15,
+      "r18": true,
+      "languages": [
+        "ir"
+      ]
+    },
+    {
+      "id": 45025,
+      "title": "MaMAmama!",
+      "score": 0.15,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29767,
+      "title": "Lovemare",
+      "score": 0.15,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 26755,
+      "title": "Succubus Stayed Life",
+      "score": 0.15,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 24558,
       "title": "Enjo Kouhai",
-      "score": 0.195,
-      "r18": true
+      "score": 0.15,
+      "r18": true,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
-      "id": 27656,
-      "title": "Amagi Brilliant Park - THE PLEASURES OF PRINCESSES (Doujinshi)",
-      "score": 0.191,
-      "r18": true
+      "id": 28765,
+      "title": "Mo-Retsu! Boin Sensei",
+      "score": 0.15,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 23746,
+      "title": "Glass no Megami",
+      "score": 0.15,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 56415,
+      "title": "Kimisen",
+      "score": 0.15,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 27120,
       "title": "THE IDOLM@STER CINDERELLA GIRLS - ORDER*MAID*SISTERS Jougasaki Shimai to Maid SEX Suru Hon (Doujinshi)",
-      "score": 0.179,
-      "r18": true
+      "score": 0.15,
+      "r18": true,
+      "languages": [
+        "gb",
+        "sa"
+      ]
+    },
+    {
+      "id": 27656,
+      "title": "Amagi Brilliant Park - THE PLEASURES OF PRINCESSES (Doujinshi)",
+      "score": 0.15,
+      "r18": true,
+      "languages": [
+        "sa"
+      ]
+    },
+    {
+      "id": 54426,
+      "title": "Hero Manager",
+      "score": 0.149,
+      "r18": true,
+      "languages": [
+        "it",
+        "fr",
+        "ir",
+        "ru"
+      ]
+    },
+    {
+      "id": 53131,
+      "title": "Witch, 30 Years Old",
+      "score": 0.149,
+      "r18": true,
+      "languages": [
+        "es"
+      ]
+    },
+    {
+      "id": 53303,
+      "title": "Kanojo Face",
+      "score": 0.139,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 33295,
+      "title": "Ren Arisugawa Is Actually a Girl",
+      "score": 0.139,
+      "r18": true,
+      "languages": [
+        "br"
+      ]
     },
     {
       "id": 52668,
       "title": "Succubus Shougakusei Extra",
-      "score": 0.177,
-      "r18": true
-    },
-    {
-      "id": 46511,
-      "title": "Teach Me How to Please You",
-      "score": 0.177,
-      "r18": true
-    },
-    {
-      "id": 41095,
-      "title": "Overwatch - Extracurricular Activity (Doujinshi)",
-      "score": 0.164,
-      "r18": true
-    },
-    {
-      "id": 32240,
-      "title": "Kindan No Ero Trap Board Game -Libidotopia-",
-      "score": 0.145,
-      "r18": true
+      "score": 0.139,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 18489,
       "title": "My Sister Has Amnesia&mdash; What's Sex?",
-      "score": 0.14,
-      "r18": true
+      "score": 0.12,
+      "r18": true,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 19251,
       "title": "My Wives",
-      "score": 0.14,
-      "r18": true
+      "score": 0.12,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 31938,
       "title": "Tada Koishikute, Aitakute...",
-      "score": 0.14,
-      "r18": true
+      "score": 0.12,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37737,
+      "title": "Momojiri 400%",
+      "score": 0.12,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 43171,
+      "title": "Granblue Fantasy - Nakama to Issen Koechau Hon (Doujinshi)",
+      "score": 0.12,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

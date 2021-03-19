@@ -1,44 +1,66 @@
 {
   "id": 41248,
   "title": "Ahiru no Oujisama",
-  "url": "https://api.mangadex.org/v2/manga/41248",
-  "last_updated": "February 11, 2021 08:36:08 UTC",
+  "url": "https://mangadex.org/manga/41248",
+  "last_updated": "March 18, 2021 12:04:44 UTC",
   "matches": [
     {
       "id": 46026,
       "title": "Yandere Hitotsu Yane no Shita",
-      "score": 0.398,
-      "r18": false
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "it"
+      ]
     },
     {
-      "id": 59484,
-      "title": "Nee, Onnanoko ni Shite Ageru",
-      "score": 0.382,
-      "r18": false
-    },
-    {
-      "id": 7881,
-      "title": "Hanayome-kun",
-      "score": 0.379,
-      "r18": false
-    },
-    {
-      "id": 15274,
-      "title": "Chikan Diary",
-      "score": 0.35,
-      "r18": false
+      "id": 9746,
+      "title": "Stay Gold ~Koi no Lesson A to Z~",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 12788,
       "title": "Shampoo",
-      "score": 0.316,
-      "r18": false
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7881,
+      "title": "Hanayome-kun",
+      "score": 0.242,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 15274,
+      "title": "Chikan Diary",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1444,
       "title": "NightS",
-      "score": 0.289,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "mx"
+      ]
     }
   ]
 }

@@ -2,19 +2,31 @@
   "id": 6012,
   "title": "Yakitate!! Japan",
   "url": "https://mangadex.org/manga/6012",
-  "last_updated": "March 14, 2021 12:45:15 UTC",
+  "last_updated": "March 18, 2021 06:36:50 UTC",
   "matches": [
     {
       "id": 333,
       "title": "Mister Ajikko",
-      "score": 0.263,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 496,
       "title": "Gin no Saji",
       "score": 0.199,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb",
+        "br",
+        "bg",
+        "id",
+        "ru"
+      ]
     }
   ]
 }

@@ -1,92 +1,141 @@
 {
   "id": 43356,
   "title": "Tsuki to Suppin",
-  "url": "https://api.mangadex.org/v2/manga/43356",
-  "last_updated": "February 11, 2021 16:23:35 UTC",
+  "url": "https://mangadex.org/manga/43356",
+  "last_updated": "March 18, 2021 12:22:20 UTC",
   "matches": [
     {
       "id": 1286,
       "title": "Love My Life",
-      "score": 0.27,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 4302,
       "title": "Indigo Blue",
-      "score": 0.27,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 13998,
       "title": "An Absurd Relationship",
-      "score": 0.27,
-      "r18": false
-    },
-    {
-      "id": 54048,
-      "title": "Dice Love",
-      "score": 0.27,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr"
+      ]
     },
     {
       "id": 55002,
       "title": "Satou-san is on the left",
-      "score": 0.27,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 20493,
       "title": "Love Stories Log",
-      "score": 0.216,
-      "r18": false
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 45463,
       "title": "A Timid Woman Longing for Her Delivery Girl",
-      "score": 0.216,
-      "r18": false
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "ru",
+        "br"
+      ]
     },
     {
       "id": 53451,
       "title": "Good Night",
-      "score": 0.216,
-      "r18": false
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 53783,
       "title": "Want to Sell Me Your Body?",
-      "score": 0.216,
-      "r18": false
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 57891,
       "title": "I Decided to Offer Myself to Motivate Senpai",
-      "score": 0.216,
-      "r18": false
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "mx",
+        "ru"
+      ]
     },
     {
       "id": 16290,
       "title": "Watashi no Muchi na Watashi no Michi",
-      "score": 0.18,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 45711,
       "title": "Predawn Girls",
-      "score": 0.18,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 59299,
       "title": "Yuri-Kagi",
-      "score": 0.18,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb"
+      ]
     },
     {
       "id": 54045,
       "title": "Marriage as Friends",
-      "score": 0.154,
-      "r18": false
+      "score": 0.137,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -1,32 +1,46 @@
 {
   "id": 54276,
   "title": "Succubus vs Lesbian",
-  "url": "https://api.mangadex.org/v2/manga/54276",
-  "last_updated": "March 12, 2021 20:23:37 UTC",
+  "url": "https://mangadex.org/manga/54276",
+  "last_updated": "March 18, 2021 13:53:38 UTC",
   "matches": [
     {
       "id": 42177,
       "title": "Unicorn to sabishi-gari ya shoujo",
-      "score": 0.233,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id"
+      ]
     },
     {
       "id": 43561,
       "title": "Noroi no Aoi-chan",
-      "score": 0.233,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20597,
       "title": "Seifuku no Vampiress Lord",
-      "score": 0.156,
-      "r18": false
+      "score": 0.133,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 26218,
       "title": "From Today I'll Be a Goddess",
-      "score": 0.156,
-      "r18": false
+      "score": 0.133,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

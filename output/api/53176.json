@@ -2,67 +2,125 @@
   "id": 53176,
   "title": "Tapioca",
   "url": "https://mangadex.org/manga/53176",
-  "last_updated": "January 16, 2021 01:03:51 UTC",
+  "last_updated": "March 18, 2021 13:44:27 UTC",
   "matches": [
     {
       "id": 8944,
       "title": "Jijou Ari Undead",
-      "score": 0.276,
-      "r18": false
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 14910,
       "title": "Ghost Heights Management Association",
-      "score": 0.276,
-      "r18": false
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21535,
       "title": "Gedara",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 46136,
       "title": "Shitabashiri",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 55820,
+      "title": "Ghost Stories",
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "vn",
+        "es",
+        "rs",
+        "br",
+        "pl"
+      ]
     },
     {
       "id": 3882,
       "title": "Obake Life",
-      "score": 0.172,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8953,
       "title": "Kokodake no Himitsu",
-      "score": 0.172,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "pl",
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 13536,
       "title": "World Apartment Horror",
-      "score": 0.153,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19017,
       "title": "The Zombie Maria",
-      "score": 0.153,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "de",
+        "ru",
+        "it",
+        "pl",
+        "br",
+        "gb",
+        "fr",
+        "id",
+        "ir"
+      ]
     },
     {
       "id": 23583,
       "title": "Kuuchuu Teien no Hitobito",
-      "score": 0.153,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 9160,
       "title": "Mint de Kiss me - Watase Yuu Masterpiece Collection 5",
-      "score": 0.126,
-      "r18": false
+      "score": 0.105,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

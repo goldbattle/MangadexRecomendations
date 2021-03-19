@@ -1,158 +1,260 @@
 {
   "id": 46434,
   "title": "Neko wa Himitsu no Basho ni iru",
-  "url": "https://api.mangadex.org/v2/manga/46434",
-  "last_updated": "February 11, 2021 20:41:44 UTC",
+  "url": "https://mangadex.org/manga/46434",
+  "last_updated": "March 18, 2021 12:48:03 UTC",
   "matches": [
     {
-      "id": 2797,
-      "title": "Le Th&eacute;&acirc;tre de B",
-      "score": 0.699,
-      "r18": false
-    },
-    {
-      "id": 54218,
-      "title": "The Lady and the Beast",
-      "score": 0.693,
-      "r18": false
-    },
-    {
-      "id": 16807,
-      "title": "Shunkan Lyle",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 20409,
-      "title": "Amber",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 6093,
-      "title": "Saiyuki RELOAD",
-      "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 151,
-      "title": "Bokura no Kiseki",
-      "score": 0.673,
-      "r18": false
-    },
-    {
-      "id": 25156,
-      "title": "Tousei Gensou Hakubutsushi",
-      "score": 0.67,
-      "r18": false
-    },
-    {
-      "id": 43950,
-      "title": "The Goddess of Healing",
-      "score": 0.668,
-      "r18": false
-    },
-    {
-      "id": 10141,
-      "title": "Elhanburg no Tenshi",
-      "score": 0.665,
-      "r18": false
+      "id": 10687,
+      "title": "Ayakashi Koi Kitan",
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2084,
       "title": "Anastasia Club",
-      "score": 0.66,
-      "r18": false
+      "score": 0.265,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 5810,
-      "title": "Normal City",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 42244,
-      "title": "A Witch's Hopeless Wish",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 40651,
-      "title": "Night Actors",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 2659,
-      "title": "Omae ga Sekai wo Kowashitai nara",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 34030,
-      "title": "Risou no Tsuma no Takurami wa",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 919,
-      "title": "Loveless",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 8889,
-      "title": "Mukuro Chandelier",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 968,
-      "title": "Sainokami",
-      "score": 0.65,
-      "r18": false
+      "id": 25156,
+      "title": "Tousei Gensou Hakubutsushi",
+      "score": 0.259,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 41798,
       "title": "Tenshi no Hohoemi, Akuma no Namida",
-      "score": 0.425,
-      "r18": false
-    },
-    {
-      "id": 10687,
-      "title": "Ayakashi Koi Kitan",
-      "score": 0.403,
-      "r18": false
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7462,
       "title": "Ugetsu Monogatari",
-      "score": 0.397,
-      "r18": false
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8889,
+      "title": "Mukuro Chandelier",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "ru"
+      ]
+    },
+    {
+      "id": 968,
+      "title": "Sainokami",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 30651,
       "title": "Time Lover",
-      "score": 0.361,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "id",
+        "br"
+      ]
     },
     {
       "id": 38538,
       "title": "Akahyou no Sanctuary",
-      "score": 0.354,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 15695,
+      "title": "Usemono Yado",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "tr",
+        "it",
+        "mx"
+      ]
+    },
+    {
+      "id": 34030,
+      "title": "Risou no Tsuma no Takurami wa",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50340,
+      "title": "Baskerville-ke no Seiryaku Kekkon",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 39432,
+      "title": "Marielle Clarac's Engagement",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 53628,
       "title": "Koukyuu Kinkaden",
-      "score": 0.346,
-      "r18": false
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn"
+      ]
+    },
+    {
+      "id": 2245,
+      "title": "Amatsuki",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 290,
       "title": "Aruosumente",
-      "score": 0.342,
-      "r18": false
+      "score": 0.203,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 10141,
+      "title": "Elhanburg no Tenshi",
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 14839,
+      "title": "Operaza no Kaijin",
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20409,
+      "title": "Amber",
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 6093,
+      "title": "Saiyuki RELOAD",
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2659,
+      "title": "Omae ga Sekai wo Kowashitai nara",
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "it"
+      ]
+    },
+    {
+      "id": 36256,
+      "title": "Iwakutsuki Bukken no Yakuro-san",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "mx",
+        "ru",
+        "id"
+      ]
+    },
+    {
+      "id": 16807,
+      "title": "Shunkan Lyle",
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 28531,
+      "title": "Ao no Haha",
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2797,
+      "title": "Le Th&eacute;&acirc;tre de B",
+      "score": 0.17,
+      "r18": false,
+      "languages": [
+        "bg",
+        "tr",
+        "gb",
+        "pl",
+        "hu",
+        "it"
+      ]
     }
   ]
 }

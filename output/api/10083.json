@@ -2,25 +2,40 @@
   "id": 10083,
   "title": "1 Nen C Gumi Yoshida Kakari",
   "url": "https://mangadex.org/manga/10083",
-  "last_updated": "March 15, 2021 00:24:34 UTC",
+  "last_updated": "March 18, 2021 07:11:33 UTC",
   "matches": [
     {
       "id": 10173,
       "title": "How to Massage",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22006,
       "title": "Waltz",
       "score": 0.207,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "fr",
+        "it",
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 17801,
       "title": "Ashi-Girl",
-      "score": 0.161,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "mx",
+        "tr",
+        "gb",
+        "fr"
+      ]
     }
   ]
 }

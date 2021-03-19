@@ -1,32 +1,38 @@
 {
   "id": 41262,
   "title": "A Hundred Scenes of Girls Love",
-  "url": "https://api.mangadex.org/v2/manga/41262",
-  "last_updated": "February 11, 2021 08:36:20 UTC",
+  "url": "https://mangadex.org/manga/41262",
+  "last_updated": "March 18, 2021 12:04:51 UTC",
   "matches": [
+    {
+      "id": 7496,
+      "title": "Honto no Kanojo",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
     {
       "id": 47761,
       "title": "Sorry, but I'm Not Into Yuri",
-      "score": 0.345,
-      "r18": false
-    },
-    {
-      "id": 34789,
-      "title": "Ojou-sama wa Love Come no Shujinkou ni Naritai!",
-      "score": 0.326,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "hk",
+        "cn",
+        "gb"
+      ]
     },
     {
       "id": 23356,
       "title": "Otome no Teikoku",
-      "score": 0.313,
-      "r18": false
-    },
-    {
-      "id": 7496,
-      "title": "Honto no Kanojo",
-      "score": 0.28,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

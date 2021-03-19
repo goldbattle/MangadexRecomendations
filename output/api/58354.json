@@ -2,49 +2,77 @@
   "id": 58354,
   "title": "Shibararetai",
   "url": "https://mangadex.org/manga/58354",
-  "last_updated": "March 13, 2021 04:21:30 UTC",
+  "last_updated": "March 18, 2021 14:27:43 UTC",
   "matches": [
     {
       "id": 10569,
       "title": "Haru no E",
       "score": 0.31,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "mx"
+      ]
     },
     {
       "id": 29090,
       "title": "Mawaru Sekai no Kimi to Boku",
       "score": 0.258,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 43039,
       "title": "Chikakute Tooi",
       "score": 0.258,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 53520,
       "title": "Tsuioku",
       "score": 0.258,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8905,
       "title": "Hana no Miyako de",
-      "score": 0.211,
-      "r18": false
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 7135,
       "title": "Anata no Tame Nara Doko Made mo",
-      "score": 0.194,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "mx"
+      ]
     },
     {
       "id": 7329,
       "title": "Natsu, Kimi ga Saku.",
       "score": 0.154,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     }
   ]
 }

@@ -2,25 +2,40 @@
   "id": 15109,
   "title": "Hanayome wa Juunanasai",
   "url": "https://mangadex.org/manga/15109",
-  "last_updated": "March 15, 2021 12:40:31 UTC",
+  "last_updated": "March 18, 2021 07:54:31 UTC",
   "matches": [
     {
       "id": 20044,
       "title": "Ore to Joushi no Kakushikoto",
       "score": 0.258,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 8177,
       "title": "Tsumaranai Otoko",
-      "score": 0.209,
-      "r18": false
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "pl",
+        "tr",
+        "gb"
+      ]
     },
     {
       "id": 1455,
       "title": "Okane ga Nai",
-      "score": 0.141,
-      "r18": false
+      "score": 0.14,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "it",
+        "pl"
+      ]
     }
   ]
 }

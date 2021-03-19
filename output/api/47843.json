@@ -1,20 +1,26 @@
 {
   "id": 47843,
   "title": "Secret Plot Deep",
-  "url": "https://api.mangadex.org/v2/manga/47843",
-  "last_updated": "February 12, 2021 01:18:00 UTC",
+  "url": "https://mangadex.org/manga/47843",
+  "last_updated": "March 18, 2021 12:59:50 UTC",
   "matches": [
     {
       "id": 51190,
       "title": "Onnanoko?",
-      "score": 0.258,
-      "r18": true
+      "score": 0.187,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 45147,
       "title": "The Gentle Bitchgasm World",
-      "score": 0.172,
-      "r18": true
+      "score": 0.12,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -2,25 +2,38 @@
   "id": 15879,
   "title": "Gunjou ni Siren",
   "url": "https://mangadex.org/manga/15879",
-  "last_updated": "March 15, 2021 16:32:10 UTC",
+  "last_updated": "March 18, 2021 08:00:59 UTC",
   "matches": [
     {
       "id": 6179,
       "title": "Toumeiningen no Shissou",
-      "score": 0.269,
-      "r18": false
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1063,
       "title": "Chihayafuru",
-      "score": 0.174,
-      "r18": false
+      "score": 0.173,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "it",
+        "br",
+        "pl"
+      ]
     },
     {
       "id": 24707,
       "title": "Chihayafuru: Middle School Arc",
-      "score": 0.165,
-      "r18": false
+      "score": 0.164,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

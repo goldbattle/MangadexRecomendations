@@ -2,157 +2,251 @@
   "id": 24069,
   "title": "Mitsumete Itai",
   "url": "https://mangadex.org/manga/24069",
-  "last_updated": "March 16, 2021 12:36:41 UTC",
+  "last_updated": "March 18, 2021 09:32:24 UTC",
   "matches": [
     {
       "id": 32610,
       "title": "Motomete Yamanai",
-      "score": 0.388,
-      "r18": false
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 25966,
       "title": "Joukakei Kareshi",
-      "score": 0.388,
-      "r18": false
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "it"
+      ]
     },
     {
       "id": 10796,
       "title": "Kono Te de Yokereba",
-      "score": 0.388,
-      "r18": false
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 46343,
       "title": "Seven",
-      "score": 0.388,
-      "r18": false
-    },
-    {
-      "id": 25114,
-      "title": "Castle Mango",
-      "score": 0.388,
-      "r18": false
-    },
-    {
-      "id": 1412,
-      "title": "Kayashimashi no Yuuga na Seikatsu",
-      "score": 0.388,
-      "r18": false
-    },
-    {
-      "id": 59146,
-      "title": "Restart",
-      "score": 0.388,
-      "r18": false
-    },
-    {
-      "id": 19698,
-      "title": "Ichimai Goshi Fetish",
-      "score": 0.388,
-      "r18": false
-    },
-    {
-      "id": 10561,
-      "title": "Kuma to Interi",
-      "score": 0.388,
-      "r18": false
-    },
-    {
-      "id": 29053,
-      "title": "Soko ni Suwaru na",
-      "score": 0.388,
-      "r18": false
-    },
-    {
-      "id": 53086,
-      "title": "Egoism (Agawa Kouko)",
-      "score": 0.388,
-      "r18": false
-    },
-    {
-      "id": 27537,
-      "title": "Ochibure Shinshi ni Ai no Uta",
-      "score": 0.388,
-      "r18": false
-    },
-    {
-      "id": 10501,
-      "title": "Spotlight Lover",
-      "score": 0.388,
-      "r18": false
-    },
-    {
-      "id": 5234,
-      "title": "Tear Drop",
-      "score": 0.388,
-      "r18": false
-    },
-    {
-      "id": 14950,
-      "title": "Himitsugoto",
-      "score": 0.388,
-      "r18": false
-    },
-    {
-      "id": 56167,
-      "title": "Open Air",
-      "score": 0.388,
-      "r18": false
-    },
-    {
-      "id": 56390,
-      "title": "Shijou Senyuuritsu",
-      "score": 0.388,
-      "r18": false
-    },
-    {
-      "id": 37497,
-      "title": "Sono Yubi no Tadoru Kizu",
-      "score": 0.388,
-      "r18": false
-    },
-    {
-      "id": 12706,
-      "title": "Hishoken!",
-      "score": 0.388,
-      "r18": false
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "it"
+      ]
     },
     {
       "id": 25258,
       "title": "Yebisu Celebrities",
-      "score": 0.388,
-      "r18": false
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 25114,
+      "title": "Castle Mango",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl",
+        "it"
+      ]
+    },
+    {
+      "id": 1412,
+      "title": "Kayashimashi no Yuuga na Seikatsu",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 59146,
+      "title": "Restart",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19698,
+      "title": "Ichimai Goshi Fetish",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10561,
+      "title": "Kuma to Interi",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "tr",
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 29053,
+      "title": "Soko ni Suwaru na",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 53086,
+      "title": "Egoism (Agawa Kouko)",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10501,
+      "title": "Spotlight Lover",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5234,
+      "title": "Tear Drop",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 14950,
+      "title": "Himitsugoto",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 56167,
+      "title": "Open Air",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 56390,
+      "title": "Shijou Senyuuritsu",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37497,
+      "title": "Sono Yubi no Tadoru Kizu",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "pl",
+        "it"
+      ]
+    },
+    {
+      "id": 12706,
+      "title": "Hishoken!",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 19869,
       "title": "Paradigm Shift",
-      "score": 0.388,
-      "r18": false
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 12413,
       "title": "Cafe\u0301 Latte Rhapsody",
-      "score": 0.388,
-      "r18": false
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "tr",
+        "it",
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 36143,
       "title": "Itsumo Anata no Koto Bakari",
-      "score": 0.388,
-      "r18": false
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4793,
       "title": "Kanashii Doubutsu",
-      "score": 0.388,
-      "r18": false
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 20083,
       "title": "Kimagure to Amagami",
-      "score": 0.388,
-      "r18": false
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 9798,
+      "title": "Ouji Hiroimashita",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     }
   ]
 }

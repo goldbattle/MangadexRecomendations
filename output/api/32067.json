@@ -1,158 +1,242 @@
 {
   "id": 32067,
   "title": "Nijiiro no Trotsky",
-  "url": "https://api.mangadex.org/v2/manga/32067",
-  "last_updated": "February 10, 2021 08:29:53 UTC",
+  "url": "https://mangadex.org/manga/32067",
+  "last_updated": "March 18, 2021 10:48:09 UTC",
   "matches": [
-    {
-      "id": 2437,
-      "title": "Ore to Akuma no Blues",
-      "score": 0.35,
-      "r18": false
-    },
     {
       "id": 6010,
       "title": "Akkanbe Ikkyuu",
-      "score": 0.35,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 12078,
       "title": "Tenchi Meisatsu",
-      "score": 0.35,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 12650,
       "title": "Genghis Khan",
-      "score": 0.35,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
     },
     {
       "id": 19418,
       "title": "Justice: The Ballad of Wyatt Earp",
-      "score": 0.35,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 40891,
       "title": "Jose Rizal",
-      "score": 0.35,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
       "id": 52209,
       "title": "Mukashi no Hanashi (MATSUMOTO Taiyou)",
-      "score": 0.35,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3724,
       "title": "Child of War: The Life of Oda Saburou Nobunaga",
-      "score": 0.233,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4481,
       "title": "Chiruhi",
-      "score": 0.233,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 4894,
       "title": "Komorebi no Kuni",
-      "score": 0.233,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr"
+      ]
     },
     {
       "id": 7283,
       "title": "Genei Hakurankai",
-      "score": 0.233,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 12181,
       "title": "Waga Tousou",
-      "score": 0.233,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 13905,
       "title": "Tengoku ni Musubu Koi",
-      "score": 0.233,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
     },
     {
       "id": 15126,
       "title": "Gunka no Baltzar Gaiden &ndash; Yuukoku no Liebknecht",
-      "score": 0.233,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 16743,
+      "title": "Outen no Mon",
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 17392,
       "title": "Kamunabi",
-      "score": 0.233,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 18920,
       "title": "Yagyu Jubei Dies",
-      "score": 0.233,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19766,
       "title": "Freude",
-      "score": 0.233,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 24547,
       "title": "Pharaoh",
-      "score": 0.233,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 26306,
       "title": "Joryuu Hikoushi - Maria Mantegazza no Bouken",
-      "score": 0.233,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29563,
       "title": "Babel",
-      "score": 0.233,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
     },
     {
       "id": 30715,
       "title": "The Man of the Sun and the Woman of the Earth",
-      "score": 0.233,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 31876,
       "title": "Haou no Tsuki - Akechi Mitsuhide Shougai",
-      "score": 0.233,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 35168,
+      "title": "A un",
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 40782,
       "title": "Armored Battle",
-      "score": 0.233,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de"
+      ]
     },
     {
       "id": 41017,
       "title": "Oni no Mataoni no Amo",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 41279,
-      "title": "Musubaru Yakeato",
-      "score": 0.233,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

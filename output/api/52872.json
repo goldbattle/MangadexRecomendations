@@ -2,85 +2,141 @@
   "id": 52872,
   "title": "Extreme Fear",
   "url": "https://mangadex.org/manga/52872",
-  "last_updated": "January 16, 2021 01:01:05 UTC",
+  "last_updated": "March 18, 2021 13:41:55 UTC",
   "matches": [
-    {
-      "id": 34328,
-      "title": "H.P. Lovecraft's The Hound and Other Stories",
-      "score": 0.674,
-      "r18": false
-    },
     {
       "id": 5555,
       "title": "Thus Spoke Kishibe Rohan",
-      "score": 0.373,
-      "r18": false
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "br",
+        "id",
+        "mx",
+        "fr",
+        "ru"
+      ]
     },
     {
       "id": 34827,
       "title": "Frau Trude - Grimm-Adjacent Tales",
-      "score": 0.338,
-      "r18": false
-    },
-    {
-      "id": 43772,
-      "title": "Everyone's Loose Screw",
-      "score": 0.32,
-      "r18": false
-    },
-    {
-      "id": 16802,
-      "title": "138E",
-      "score": 0.312,
-      "r18": false
-    },
-    {
-      "id": 3324,
-      "title": "Itou Junji Kyoufu Manga Collection",
-      "score": 0.298,
-      "r18": false
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4261,
       "title": "Nickelodeon",
-      "score": 0.29,
-      "r18": false
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "tr",
+        "fr",
+        "pl",
+        "br",
+        "ru"
+      ]
     },
     {
       "id": 9871,
       "title": "2011 Mystery Short Webtoons",
-      "score": 0.275,
-      "r18": false
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 20712,
-      "title": "Comic? Kaneko Atsushi Extra Works",
-      "score": 0.172,
-      "r18": false
+      "id": 16802,
+      "title": "138E",
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 36082,
-      "title": "SCP Comic Anthology - KAI",
-      "score": 0.153,
-      "r18": false
+      "id": 43772,
+      "title": "Everyone's Loose Screw",
+      "score": 0.179,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 36343,
-      "title": "The Distant Dawn",
-      "score": 0.142,
-      "r18": false
+      "id": 3324,
+      "title": "Itou Junji Kyoufu Manga Collection",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "br",
+        "it",
+        "hu"
+      ]
     },
     {
       "id": 36083,
       "title": "SCP Comic Anthology - KI",
-      "score": 0.138,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20712,
+      "title": "Comic? Kaneko Atsushi Extra Works",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 36082,
+      "title": "SCP Comic Anthology - KAI",
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru"
+      ]
     },
     {
       "id": 45785,
       "title": "Edogawa Osamu's Anthology",
-      "score": 0.138,
-      "r18": false
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn",
+        "br",
+        "mx"
+      ]
+    },
+    {
+      "id": 36343,
+      "title": "The Distant Dawn",
+      "score": 0.096,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     }
   ]
 }

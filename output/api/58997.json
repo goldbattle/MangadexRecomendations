@@ -2,37 +2,54 @@
   "id": 58997,
   "title": "La Partita",
   "url": "https://mangadex.org/manga/58997",
-  "last_updated": "March 13, 2021 08:26:03 UTC",
+  "last_updated": "March 18, 2021 14:33:07 UTC",
   "matches": [
     {
       "id": 25767,
       "title": "Lost Child",
-      "score": 0.256,
-      "r18": false
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 12853,
       "title": "Haikei, Niisan-sama",
       "score": 0.213,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 13160,
       "title": "Yukimura-sensei to Kei-kun",
       "score": 0.213,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 54258,
       "title": "Everyday Every Night",
       "score": 0.213,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6405,
       "title": "Cantarella",
       "score": 0.16,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     }
   ]
 }

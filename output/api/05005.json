@@ -2,61 +2,86 @@
   "id": 5005,
   "title": "flower*flower",
   "url": "https://mangadex.org/manga/5005",
-  "last_updated": "March 14, 2021 12:29:36 UTC",
+  "last_updated": "March 18, 2021 06:27:35 UTC",
   "matches": [
     {
       "id": 28777,
       "title": "Mizuiro Ether",
-      "score": 0.716,
-      "r18": false
+      "score": 0.715,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 15514,
       "title": "Kobayashi-san Chi no Maid Dragon",
       "score": 0.258,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "pl",
+        "it",
+        "fr"
+      ]
     },
     {
       "id": 21233,
       "title": "Walk With Me",
       "score": 0.213,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 8222,
       "title": "Touhou - Yuka Kazami's Sunflower Field (Doujinshi)",
-      "score": 0.194,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 58769,
       "title": "&quot;The Villainess&quot; and the Woman Who Would Do Anything for the Sake of Love",
       "score": 0.178,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 59978,
       "title": "Nuestro &Uacute;ltimo Amanecer",
-      "score": 0.16,
-      "r18": false
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 56148,
       "title": "I'm the Villainess, but I'm Being Captured by the Heroine?! Anthology",
       "score": 0.148,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 53282,
       "title": "Maya and Claudine (MayaKuro) Short Comics Compilation",
-      "score": 0.141,
-      "r18": false
-    },
-    {
-      "id": 51715,
-      "title": "Hertz Around You",
-      "score": 0.119,
-      "r18": false
+      "score": 0.14,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

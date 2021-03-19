@@ -2,31 +2,49 @@
   "id": 28689,
   "title": "The Devil's Cure",
   "url": "https://mangadex.org/manga/28689",
-  "last_updated": "March 17, 2021 00:43:08 UTC",
+  "last_updated": "March 18, 2021 10:19:59 UTC",
   "matches": [
     {
       "id": 21109,
       "title": "Kami-sama no Ekohiiki",
-      "score": 0.188,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 53755,
-      "title": "Bai Lijin Among Mortals",
-      "score": 0.167,
-      "r18": false
+      "title": "Baili Jin Among Mortals",
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
     },
     {
       "id": 28652,
       "title": "Mahou Tsukai PreCure!",
       "score": 0.161,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "mx",
+        "it"
+      ]
     },
     {
       "id": 310,
       "title": "Ciel~the Last Autumn Story",
-      "score": 0.15,
-      "r18": false
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     }
   ]
 }

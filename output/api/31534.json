@@ -1,158 +1,308 @@
 {
   "id": 31534,
   "title": "Batuque",
-  "url": "https://api.mangadex.org/v2/manga/31534",
-  "last_updated": "February 10, 2021 08:21:36 UTC",
+  "url": "https://mangadex.org/manga/31534",
+  "last_updated": "March 18, 2021 10:43:43 UTC",
   "matches": [
     {
-      "id": 46498,
-      "title": "Kemono Giga",
-      "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 9934,
-      "title": "Ichi (Yamamoto Hideo)",
-      "score": 0.693,
-      "r18": false
-    },
-    {
-      "id": 4629,
-      "title": "Burning Hell",
-      "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 13355,
-      "title": "Ousama Game - Shuukyoku",
-      "score": 0.67,
-      "r18": false
+      "id": 646,
+      "title": "Usogui",
+      "score": 0.202,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "es",
+        "it"
+      ]
     },
     {
       "id": 247,
       "title": "Gangsta",
-      "score": 0.668,
-      "r18": false
-    },
-    {
-      "id": 2379,
-      "title": "Dorohedoro",
-      "score": 0.667,
-      "r18": false
-    },
-    {
-      "id": 3850,
-      "title": "Kamen Rider SPIRITS",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 10854,
-      "title": "All You Need Is Kill",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 5694,
-      "title": "Heureka",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 22123,
-      "title": "Masked Rider KUUGA",
-      "score": 0.662,
-      "r18": false
-    },
-    {
-      "id": 13280,
-      "title": "Kamisama, Kisama wo Koroshitai.",
-      "score": 0.662,
-      "r18": false
-    },
-    {
-      "id": 5397,
-      "title": "Kozure Ookami",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 50284,
-      "title": "Kingdom (fan-colored)",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 12588,
-      "title": "Gunjou Senki",
-      "score": 0.657,
-      "r18": false
-    },
-    {
-      "id": 38115,
-      "title": "One Punch-Man (Fan Colored)",
-      "score": 0.657,
-      "r18": false
-    },
-    {
-      "id": 57939,
-      "title": "Heroes Tournament",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 7139,
-      "title": "One Punch-Man",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 17945,
-      "title": "Adu of Hades",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 10778,
-      "title": "Oh-oku no Sakura - Gendai Oooku Jogakuin",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 1018,
-      "title": "Parasyte",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 10166,
-      "title": "Harem End",
-      "score": 0.651,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "tr",
+        "id",
+        "it",
+        "pl"
+      ]
     },
     {
       "id": 13414,
       "title": "No Guns Life",
-      "score": 0.329,
-      "r18": false
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "hu"
+      ]
     },
     {
-      "id": 646,
-      "title": "Usogui",
-      "score": 0.323,
-      "r18": false
+      "id": 40364,
+      "title": "MonsTABOO",
+      "score": 0.161,
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb"
+      ]
+    },
+    {
+      "id": 42473,
+      "title": "Haunted (\u30db\u30fc\u30f3\u30c6\u30c3\u30c9)",
+      "score": 0.161,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2379,
+      "title": "Dorohedoro",
+      "score": 0.157,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "tr",
+        "cn",
+        "br",
+        "mx",
+        "sa",
+        "ru",
+        "ua",
+        "fr"
+      ]
+    },
+    {
+      "id": 45976,
+      "title": "Game of Doppelg&auml;nger",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 59878,
+      "title": "Ten no Haoh - Hokuto no Ken: Raoh Gaiden",
+      "score": 0.148,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 34621,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana",
+      "score": 0.148,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "hu"
+      ]
     },
     {
       "id": 50019,
       "title": "Rooftop Sword Master",
-      "score": 0.288,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "id"
+      ]
+    },
+    {
+      "id": 16663,
+      "title": "Golden Kamuy",
+      "score": 0.14,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa",
+        "ru",
+        "id",
+        " ",
+        "se",
+        "ro",
+        "it",
+        "br",
+        "pl",
+        "hu",
+        "il"
+      ]
     },
     {
       "id": 7042,
       "title": "Ultraman",
-      "score": 0.277,
-      "r18": false
+      "score": 0.137,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4629,
+      "title": "Burning Hell",
+      "score": 0.137,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu"
+      ]
+    },
+    {
+      "id": 4276,
+      "title": "Sound of Bones",
+      "score": 0.136,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it"
+      ]
+    },
+    {
+      "id": 34800,
+      "title": "341 Sentoudan",
+      "score": 0.136,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 13355,
+      "title": "Ousama Game - Shuukyoku",
+      "score": 0.134,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10778,
+      "title": "Oh-oku no Sakura - Gendai Oooku Jogakuin",
+      "score": 0.134,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 49649,
+      "title": "Pumpkin Night Gaiden - Naoko",
+      "score": 0.134,
+      "r18": false,
+      "languages": [
+        "es",
+        "it"
+      ]
+    },
+    {
+      "id": 22813,
+      "title": "Hawkwood",
+      "score": 0.134,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 13136,
+      "title": "Jinrou Game",
+      "score": 0.134,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "mx"
+      ]
+    },
+    {
+      "id": 38115,
+      "title": "One Punch-Man (Fan Colored)",
+      "score": 0.134,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it",
+        "mx"
+      ]
+    },
+    {
+      "id": 7139,
+      "title": "One Punch-Man",
+      "score": 0.134,
+      "r18": false,
+      "languages": [
+        "ru",
+        "tr",
+        "it",
+        "sa",
+        "br",
+        "mx",
+        "mn",
+        "vn",
+        "es",
+        "il",
+        "hu",
+        "id",
+        "pl"
+      ]
+    },
+    {
+      "id": 46631,
+      "title": "Signal 100",
+      "score": 0.134,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx"
+      ]
+    },
+    {
+      "id": 1018,
+      "title": "Parasyte",
+      "score": 0.134,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de",
+        "br",
+        "pl",
+        "ru",
+        "tr",
+        "mx"
+      ]
+    },
+    {
+      "id": 18289,
+      "title": "Shibito no Koe wo Kiku ga Yoi",
+      "score": 0.134,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
     }
   ]
 }

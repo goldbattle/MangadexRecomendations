@@ -2,157 +2,275 @@
   "id": 14702,
   "title": "Panlong",
   "url": "https://mangadex.org/manga/14702",
-  "last_updated": "March 15, 2021 12:34:49 UTC",
+  "last_updated": "March 18, 2021 07:50:56 UTC",
   "matches": [
     {
       "id": 36331,
       "title": "How to Be God",
       "score": 0.311,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "pl",
+        "id",
+        "fr"
+      ]
     },
     {
       "id": 14299,
       "title": "Transcending The Nine Heavens",
       "score": 0.286,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 20284,
       "title": "X - Epoch of the Dragon",
-      "score": 0.285,
-      "r18": false
+      "score": 0.284,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 55420,
       "title": "The Greatest in the World",
       "score": 0.28,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "fr",
+        "sa",
+        "pl"
+      ]
     },
     {
       "id": 45121,
       "title": "Daddy From Hell",
-      "score": 0.28,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 50090,
-      "title": "Devouring Eternity",
+      "id": 39406,
+      "title": "Seven Knights: Alkaid",
       "score": 0.272,
-      "r18": false
-    },
-    {
-      "id": 6572,
-      "title": "Kaiouki",
-      "score": 0.272,
-      "r18": false
-    },
-    {
-      "id": 9912,
-      "title": "Shin Megami Tensei IV - Demonic Gene",
-      "score": 0.272,
-      "r18": false
-    },
-    {
-      "id": 49522,
-      "title": "Danwu Supreme",
-      "score": 0.272,
-      "r18": false
-    },
-    {
-      "id": 54050,
-      "title": "The Successor",
-      "score": 0.272,
-      "r18": false
-    },
-    {
-      "id": 48837,
-      "title": "My Three Thousand Years to the Sky",
-      "score": 0.272,
-      "r18": false
-    },
-    {
-      "id": 34287,
-      "title": "Master of Legendary Realms",
-      "score": 0.272,
-      "r18": false
-    },
-    {
-      "id": 24597,
-      "title": "White Epic",
-      "score": 0.272,
-      "r18": false
-    },
-    {
-      "id": 54161,
-      "title": "The Strongest Fate System",
-      "score": 0.272,
-      "r18": false
-    },
-    {
-      "id": 50024,
-      "title": "Changan Fantasy",
-      "score": 0.272,
-      "r18": false
-    },
-    {
-      "id": 59190,
-      "title": "Soaring Heavenly Dragon",
-      "score": 0.272,
-      "r18": false
-    },
-    {
-      "id": 58007,
-      "title": "The World's Greatest Martial Artist",
-      "score": 0.272,
-      "r18": false
-    },
-    {
-      "id": 22065,
-      "title": "Perfect World",
-      "score": 0.272,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "tr",
+        "br"
+      ]
     },
     {
       "id": 49273,
       "title": "Legend of the Northern Blade",
       "score": 0.272,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "id",
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 6572,
+      "title": "Kaiouki",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9912,
+      "title": "Shin Megami Tensei IV - Demonic Gene",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 49522,
+      "title": "Danwu Supreme",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "id",
+        "fr",
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 54050,
+      "title": "The Successor",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 34287,
+      "title": "Master of Legendary Realms",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "ru",
+        "id",
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 24597,
+      "title": "White Epic",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 54161,
+      "title": "The Strongest Fate System",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50024,
+      "title": "Changan Fantasy",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 59190,
+      "title": "Soaring Heavenly Dragon",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 58007,
+      "title": "The World's Greatest Martial Artist",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 22065,
+      "title": "Perfect World",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1071,
       "title": "Double Arts",
       "score": 0.272,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 237,
       "title": "Kaitai Shinsho &Oslash;",
       "score": 0.272,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 43152,
       "title": "Return of Immortal Emperor",
       "score": 0.272,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "es",
+        "id"
+      ]
     },
     {
       "id": 16300,
       "title": "Fenglin Tianxia - Wangfei Shisansui",
       "score": 0.272,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 45250,
       "title": "Grave Robber",
       "score": 0.272,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 37759,
       "title": "Beautiful Legends",
       "score": 0.272,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "ru",
+        "br",
+        "id"
+      ]
+    },
+    {
+      "id": 23231,
+      "title": "Wu Dong Qian Kun",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "id",
+        "fr",
+        "gb",
+        "pl"
+      ]
     }
   ]
 }

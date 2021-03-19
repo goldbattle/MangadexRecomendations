@@ -1,158 +1,295 @@
 {
   "id": 41633,
   "title": "Uruha no Sekai de Arisugawa",
-  "url": "https://api.mangadex.org/v2/manga/41633",
-  "last_updated": "February 11, 2021 08:41:55 UTC",
+  "url": "https://mangadex.org/manga/41633",
+  "last_updated": "March 18, 2021 12:07:57 UTC",
   "matches": [
+    {
+      "id": 23004,
+      "title": "Dungeon Nursery",
+      "score": 0.274,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id"
+      ]
+    },
+    {
+      "id": 31942,
+      "title": "Kono Yuusha ga Ore TUEEE Kuse ni Shinchou Sugiru",
+      "score": 0.274,
+      "r18": false,
+      "languages": [
+        "br",
+        "pl",
+        "id",
+        "ru",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 17855,
+      "title": "Legend of Phoenix",
+      "score": 0.274,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr",
+        "tr"
+      ]
+    },
+    {
+      "id": 51312,
+      "title": "Tate no Yuusha no Nariagari Anthology - Filo to issho",
+      "score": 0.274,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 22104,
+      "title": "Saikyou no Shokugyou wa Yuusha Demo Kenja Demo Naku Kanteishi (Kari) Rashii Desu yo?",
+      "score": 0.274,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id"
+      ]
+    },
+    {
+      "id": 14960,
+      "title": "Chihou Kishi Hans no Junan",
+      "score": 0.274,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "ru",
+        "sa",
+        "fr"
+      ]
+    },
+    {
+      "id": 45577,
+      "title": "Tensei Kusushi wa Isekai wo Meguru",
+      "score": 0.274,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "th"
+      ]
+    },
+    {
+      "id": 15176,
+      "title": "Pochi Kuro",
+      "score": 0.269,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "hu"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Naruto",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "bg",
+        "id",
+        "mx"
+      ]
+    },
+    {
+      "id": 56554,
+      "title": "The Useless Tamer Will Turn into the Top Unconsciously by My Previous Life Knowledge",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "fr"
+      ]
+    },
+    {
+      "id": 12432,
+      "title": "Ore to Kawazu-san no Isekai Hourouki",
+      "score": 0.256,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "fr",
+        "br"
+      ]
+    },
+    {
+      "id": 22190,
+      "title": "Didn&rsquo;t I Say to Make My Abilities Average in the Next Life?!",
+      "score": 0.254,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 14408,
+      "title": "I Am the Only One Who Knows This World Is a Game",
+      "score": 0.252,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id"
+      ]
+    },
+    {
+      "id": 21944,
+      "title": "Yasei no Last Boss ga Arawareta!",
+      "score": 0.251,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru",
+        "br",
+        "fr",
+        "id",
+        "tr"
+      ]
+    },
+    {
+      "id": 3867,
+      "title": "M&Auml;R",
+      "score": 0.251,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 32367,
+      "title": "Suterare Yuusha wa Kitakuchuu",
+      "score": 0.247,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "fr"
+      ]
+    },
+    {
+      "id": 54216,
+      "title": "Isekai de Item Collector",
+      "score": 0.247,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 35069,
+      "title": "Isekai Demo Bunan ni Ikitai Shoukougun",
+      "score": 0.247,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "mx",
+        "fr"
+      ]
+    },
+    {
+      "id": 51325,
+      "title": "Shoki Skill ga Benri Sugite Isekai Seikatsu ga Tanoshisugiru!",
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 29166,
+      "title": "Douyara Watashi no Karada wa Kanzen Muteki no You Desu ne",
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru"
+      ]
+    },
+    {
+      "id": 39256,
+      "title": "Isekai Munchkin -HP 1 no Mama de Saikyou Saisoku Danjon Kouryaku-",
+      "score": 0.244,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru"
+      ]
+    },
+    {
+      "id": 43152,
+      "title": "Return of Immortal Emperor",
+      "score": 0.244,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "es",
+        "id"
+      ]
+    },
+    {
+      "id": 19438,
+      "title": "Grimoire x Reverse - Tensei Kishin Roumantan",
+      "score": 0.244,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 22946,
+      "title": "Isekai ni Tobasareta Ossan wa Doko e Iku?",
+      "score": 0.242,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
     {
       "id": 31002,
       "title": "Jimi na Kensei wa Sore Demo Saikyou Desu",
-      "score": 0.742,
-      "r18": false
-    },
-    {
-      "id": 23231,
-      "title": "Wu Dong Qian Kun",
-      "score": 0.742,
-      "r18": false
-    },
-    {
-      "id": 20288,
-      "title": "World Teacher &ndash; Other World Style Education &amp; Agent",
-      "score": 0.733,
-      "r18": false
-    },
-    {
-      "id": 1911,
-      "title": "Infinity Game",
-      "score": 0.733,
-      "r18": false
-    },
-    {
-      "id": 21061,
-      "title": "Tales of Berseria",
-      "score": 0.733,
-      "r18": false
-    },
-    {
-      "id": 19671,
-      "title": "Sword Art Online - Project Alicization",
-      "score": 0.733,
-      "r18": false
-    },
-    {
-      "id": 8325,
-      "title": "Tales of Innocence",
-      "score": 0.728,
-      "r18": false
-    },
-    {
-      "id": 15082,
-      "title": "Tales of Zestiria - Time of Guidance",
-      "score": 0.726,
-      "r18": false
-    },
-    {
-      "id": 28542,
-      "title": "JoJo's Bizarre Adventure Part 6 - Stone Ocean",
-      "score": 0.726,
-      "r18": false
-    },
-    {
-      "id": 24374,
-      "title": ".hack//Link - Tasogare no Kishidan",
-      "score": 0.726,
-      "r18": false
-    },
-    {
-      "id": 8401,
-      "title": "Sword Art Online - Fairy Dance",
-      "score": 0.725,
-      "r18": false
-    },
-    {
-      "id": 7757,
-      "title": ".hack//G.U.+",
-      "score": 0.724,
-      "r18": false
-    },
-    {
-      "id": 3918,
-      "title": "Magic Kaito",
-      "score": 0.724,
-      "r18": false
-    },
-    {
-      "id": 176,
-      "title": "Monster Hunter Orage",
-      "score": 0.722,
-      "r18": false
-    },
-    {
-      "id": 46608,
-      "title": "Sword Art Online - Lycoris",
-      "score": 0.722,
-      "r18": false
-    },
-    {
-      "id": 5683,
-      "title": "Mononoke Hime",
-      "score": 0.721,
-      "r18": false
-    },
-    {
-      "id": 5925,
-      "title": "Tales of Destiny",
-      "score": 0.72,
-      "r18": false
-    },
-    {
-      "id": 26504,
-      "title": "Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta",
-      "score": 0.72,
-      "r18": false
-    },
-    {
-      "id": 5861,
-      "title": "Slayers - Suiriyuuou no Kishi",
-      "score": 0.719,
-      "r18": false
-    },
-    {
-      "id": 54182,
-      "title": "Ore wa Mada, Honki o Dashite Inai",
-      "score": 0.718,
-      "r18": false
-    },
-    {
-      "id": 20426,
-      "title": "Sunset Rose",
-      "score": 0.718,
-      "r18": false
-    },
-    {
-      "id": 33863,
-      "title": "The Beginning After the End",
-      "score": 0.718,
-      "r18": false
-    },
-    {
-      "id": 25435,
-      "title": "Madara",
-      "score": 0.717,
-      "r18": false
-    },
-    {
-      "id": 21946,
-      "title": "The Wrong Way to Use Healing Magic",
-      "score": 0.717,
-      "r18": false
-    },
-    {
-      "id": 19885,
-      "title": "Jui-san no Oshigoto in Isekai",
-      "score": 0.717,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "kr",
+        "fr",
+        "mx"
+      ]
     }
   ]
 }

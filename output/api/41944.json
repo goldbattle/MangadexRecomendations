@@ -1,38 +1,67 @@
 {
   "id": 41944,
   "title": "Harenchi Koumon Manyuuki",
-  "url": "https://api.mangadex.org/v2/manga/41944",
-  "last_updated": "February 11, 2021 12:18:01 UTC",
+  "url": "https://mangadex.org/manga/41944",
+  "last_updated": "March 18, 2021 12:10:33 UTC",
   "matches": [
     {
       "id": 4117,
       "title": "Transistor ni Venus",
-      "score": 0.217,
-      "r18": false
+      "score": 0.185,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6888,
       "title": "Kurogane Pukapuka Tai",
-      "score": 0.196,
-      "r18": false
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 894,
       "title": "Pantser Princess",
-      "score": 0.175,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 23743,
       "title": "Mikarun X",
-      "score": 0.175,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 24852,
       "title": "Queen's Blade Rebellion: Zero",
-      "score": 0.175,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 36283,
+      "title": "Looking up to Magical Girls",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "br",
+        "ru",
+        "sa",
+        "hu"
+      ]
     }
   ]
 }

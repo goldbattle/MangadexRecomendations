@@ -1,14 +1,25 @@
 {
   "id": 46374,
   "title": "Miku no Hanayome: Vol. 14",
-  "url": "https://api.mangadex.org/v2/manga/46374",
-  "last_updated": "February 11, 2021 20:40:48 UTC",
+  "url": "https://mangadex.org/manga/46374",
+  "last_updated": "March 18, 2021 12:47:33 UTC",
   "matches": [
     {
       "id": 51123,
       "title": "Gotoubun no Hanayome &beta;",
-      "score": 0.818,
-      "r18": false
+      "score": 0.685,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "mx",
+        "ru",
+        "fr",
+        "th",
+        "id",
+        "br",
+        "vn"
+      ]
     }
   ]
 }

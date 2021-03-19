@@ -2,19 +2,29 @@
   "id": 7666,
   "title": "Kasukabe Koukou Josou-bu",
   "url": "https://mangadex.org/manga/7666",
-  "last_updated": "March 14, 2021 16:48:06 UTC",
+  "last_updated": "March 18, 2021 06:51:02 UTC",
   "matches": [
     {
       "id": 2619,
       "title": "Himegoto",
-      "score": 0.287,
-      "r18": false
+      "score": 0.286,
+      "r18": false,
+      "languages": [
+        "br",
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 28538,
       "title": "Otome Bare",
-      "score": 0.267,
-      "r18": false
+      "score": 0.228,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx"
+      ]
     }
   ]
 }

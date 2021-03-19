@@ -2,25 +2,43 @@
   "id": 59390,
   "title": "Batman: Justice Buster",
   "url": "https://mangadex.org/manga/59390",
-  "last_updated": "March 13, 2021 08:30:15 UTC",
+  "last_updated": "March 18, 2021 14:36:23 UTC",
   "matches": [
     {
       "id": 1089,
       "title": "Zetman",
-      "score": 0.188,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "br",
+        "de"
+      ]
     },
     {
       "id": 19949,
       "title": "Kinnikuman Nisei: Ultimate Chojin Tag",
       "score": 0.183,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 16110,
       "title": "Blade Note",
-      "score": 0.112,
-      "r18": false
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru",
+        "it",
+        "br",
+        "de",
+        "id"
+      ]
     }
   ]
 }

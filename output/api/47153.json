@@ -1,158 +1,344 @@
 {
   "id": 47153,
   "title": "Demons Can't Be Pretty",
-  "url": "https://api.mangadex.org/v2/manga/47153",
-  "last_updated": "February 12, 2021 01:06:29 UTC",
+  "url": "https://mangadex.org/manga/47153",
+  "last_updated": "March 18, 2021 12:54:05 UTC",
   "matches": [
-    {
-      "id": 43453,
-      "title": "Nanatsu no Maken ga Shihai Suru",
-      "score": 0.706,
-      "r18": false
-    },
     {
       "id": 53731,
       "title": "Beginning of the Human Age",
-      "score": 0.7,
-      "r18": false
+      "score": 0.263,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "id"
+      ]
     },
     {
-      "id": 24669,
-      "title": "MODE \u2161",
-      "score": 0.693,
-      "r18": false
+      "id": 15016,
+      "title": "Black Clover",
+      "score": 0.254,
+      "r18": false,
+      "languages": [
+        "br",
+        "hu",
+        "gb",
+        "sa",
+        "mn",
+        "it",
+        "pl",
+        "ru",
+        "mx",
+        "es",
+        "de",
+        "fr",
+        "id",
+        "my"
+      ]
     },
     {
-      "id": 18991,
-      "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
-      "score": 0.691,
-      "r18": false
+      "id": 10801,
+      "title": "The Ancient Magus' Bride",
+      "score": 0.227,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br",
+        "es",
+        "hu"
+      ]
+    },
+    {
+      "id": 53969,
+      "title": "Dragon Raja",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "br"
+      ]
+    },
+    {
+      "id": 22916,
+      "title": "Marry Grave",
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "es",
+        "fr",
+        "it"
+      ]
+    },
+    {
+      "id": 20674,
+      "title": "Nanbaka",
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "br",
+        "fr",
+        "gb",
+        "es",
+        "pl"
+      ]
+    },
+    {
+      "id": 11923,
+      "title": "Monster X Monster",
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ro"
+      ]
+    },
+    {
+      "id": 47128,
+      "title": "The Azure Soul Caster",
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb"
+      ]
+    },
+    {
+      "id": 283,
+      "title": "Ao no Exorcist",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "mx",
+        "it",
+        "br",
+        "es",
+        "il",
+        "fr"
+      ]
+    },
+    {
+      "id": 21690,
+      "title": "LV999 no Murabito",
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "it",
+        "pl",
+        "es",
+        "mx",
+        "id",
+        "fr"
+      ]
     },
     {
       "id": 6271,
-      "title": "JoJo's Bizarre Adventure Part 6 - Stone Ocean (Official Colored)",
-      "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 45353,
-      "title": "Bliss In Another World",
-      "score": 0.674,
-      "r18": false
-    },
-    {
-      "id": 31962,
-      "title": "Maou Gakuin no Futekigousha",
-      "score": 0.671,
-      "r18": false
+      "title": "JoJo's Bizarre Adventure Part 6: Stone Ocean (Official Colored)",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru",
+        "mx",
+        "id",
+        "pl",
+        "es",
+        "it",
+        "il",
+        "de",
+        "br"
+      ]
     },
     {
       "id": 20231,
       "title": "Majo no Geboku to Maou no Tsuno",
-      "score": 0.671,
-      "r18": false
+      "score": 0.206,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "es"
+      ]
     },
     {
-      "id": 36694,
-      "title": "Heart-Warming Meals with Mother Fenrir",
-      "score": 0.671,
-      "r18": false
+      "id": 1751,
+      "title": "D.Gray-man",
+      "score": 0.204,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "tr",
+        "sa",
+        "mx",
+        "pl",
+        "ru",
+        "es",
+        "bg"
+      ]
     },
     {
-      "id": 47019,
-      "title": "No scope",
-      "score": 0.664,
-      "r18": false
+      "id": 45353,
+      "title": "Bliss In Another World",
+      "score": 0.201,
+      "r18": false,
+      "languages": [
+        "es"
+      ]
     },
     {
-      "id": 48720,
-      "title": "How to Fight",
-      "score": 0.66,
-      "r18": false
+      "id": 18991,
+      "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
+      "score": 0.201,
+      "r18": false,
+      "languages": [
+        "ru",
+        "es",
+        "gb",
+        "br",
+        "id",
+        "fr"
+      ]
     },
     {
-      "id": 6247,
-      "title": "Devil Survivor",
-      "score": 0.659,
-      "r18": false
+      "id": 43453,
+      "title": "Nanatsu no Maken ga Shihai Suru",
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 48759,
-      "title": "Kimetsu no Yaiba: Rengoku Kyoujurou Gaiden",
-      "score": 0.659,
-      "r18": false
+      "id": 1702,
+      "title": "Durarara!!",
+      "score": 0.195,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "es"
+      ]
     },
     {
-      "id": 15176,
-      "title": "Pochi Kuro",
-      "score": 0.658,
-      "r18": false
+      "id": 18491,
+      "title": "It's My Life",
+      "score": 0.195,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "es",
+        "id"
+      ]
     },
     {
-      "id": 47122,
-      "title": "JoJo's Bizarre Adventure: Moscow Calling (Doujinshi)",
-      "score": 0.657,
-      "r18": false
+      "id": 34063,
+      "title": "Uglyhood",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "es"
+      ]
     },
     {
-      "id": 5110,
-      "title": "Wizardry Zeo",
-      "score": 0.656,
-      "r18": false
+      "id": 19160,
+      "title": "I Am My Wife!?",
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "bd",
+        "br",
+        "es"
+      ]
     },
     {
-      "id": 21410,
-      "title": "Yong Heng Zhi Zun",
-      "score": 0.656,
-      "r18": false
+      "id": 3797,
+      "title": "666 Satan",
+      "score": 0.19,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "pl"
+      ]
     },
     {
-      "id": 848,
-      "title": "Konjiki no Gash!!",
-      "score": 0.655,
-      "r18": false
+      "id": 18198,
+      "title": "Kimetsu no Yaiba",
+      "score": 0.19,
+      "r18": false,
+      "languages": [
+        "il",
+        "gb",
+        "br",
+        "ru",
+        "mx",
+        "hk",
+        "es",
+        "sa",
+        "ua",
+        "id",
+        "it",
+        "de",
+        "tr"
+      ]
     },
     {
-      "id": 32905,
-      "title": "Kimetsu no Yaiba - Digital Colored Comics",
-      "score": 0.653,
-      "r18": false
+      "id": 21063,
+      "title": "Mairimashita! Iruma-kun",
+      "score": 0.19,
+      "r18": false,
+      "languages": [
+        "vn",
+        "gb",
+        "ru",
+        "br",
+        "id",
+        "tr",
+        "es"
+      ]
     },
     {
-      "id": 48130,
-      "title": "Kyoukoku no Recuerdo",
-      "score": 0.652,
-      "r18": false
+      "id": 21124,
+      "title": "Oretachi no Party wa Machigatteiru",
+      "score": 0.19,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "it"
+      ]
     },
     {
-      "id": 43692,
-      "title": "Demonic Emperor",
-      "score": 0.65,
-      "r18": false
-    },
-    {
-      "id": 25,
-      "title": "Kubera",
-      "score": 0.65,
-      "r18": false
-    },
-    {
-      "id": 45672,
-      "title": "Martial Arts of Demonic Humans",
-      "score": 0.381,
-      "r18": false
-    },
-    {
-      "id": 17968,
-      "title": "Ake no Tobari",
-      "score": 0.366,
-      "r18": false
-    },
-    {
-      "id": 43748,
-      "title": "The Universal Travels of the Prophet Geremias",
-      "score": 0.352,
-      "r18": false
+      "id": 1434,
+      "title": "Sengoku Youko",
+      "score": 0.19,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "es",
+        "fr",
+        "id"
+      ]
     }
   ]
 }

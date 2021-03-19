@@ -2,157 +2,273 @@
   "id": 10871,
   "title": "Latin",
   "url": "https://mangadex.org/manga/10871",
-  "last_updated": "March 15, 2021 04:29:24 UTC",
+  "last_updated": "March 18, 2021 07:18:15 UTC",
   "matches": [
     {
       "id": 4803,
       "title": "Fire Emblem - Seisen no Keifu",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 6842,
       "title": "Gunjou Gakusha",
       "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 32830,
-      "title": "Legend Of Spirit Blade",
-      "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "it",
+        "mx"
+      ]
     },
     {
       "id": 1028,
       "title": "Bonten no Morito",
       "score": 0.2,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1625,
       "title": "Sentou Jousai Masurawo",
       "score": 0.2,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3853,
       "title": "Tail Star",
       "score": 0.2,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "es",
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 9096,
       "title": "Magdala de Nemure",
       "score": 0.2,
-      "r18": false
-    },
-    {
-      "id": 23819,
-      "title": "Final Fantasy: Lost Stranger",
-      "score": 0.2,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "pl"
+      ]
     },
     {
       "id": 24660,
       "title": "Kuitsume Youhei no Gensou Kitan",
       "score": 0.2,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru",
+        "br",
+        "id"
+      ]
     },
     {
-      "id": 37291,
-      "title": "Fenrir",
+      "id": 57447,
+      "title": "Story of an &quot;Unemployed&quot; Champion and a Princess Who Together Find Their Happiness",
       "score": 0.2,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "th"
+      ]
     },
     {
       "id": 207,
       "title": "Kiss Wood",
-      "score": 0.187,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 212,
       "title": "Red Erewhon",
-      "score": 0.187,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu"
+      ]
     },
     {
       "id": 297,
       "title": "Kimera",
-      "score": 0.187,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1499,
       "title": "Kono Sekai no Owari e no Tabi",
-      "score": 0.187,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de",
+        "br"
+      ]
     },
     {
       "id": 1603,
       "title": "Dangu",
-      "score": 0.187,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "de",
+        "gb",
+        "mx",
+        "my"
+      ]
     },
     {
       "id": 1770,
       "title": "Klan",
-      "score": 0.187,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "pl",
+        "br"
+      ]
     },
     {
       "id": 2105,
       "title": "Bus Hashiru",
-      "score": 0.187,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "bg",
+        "mx",
+        "pl",
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 2521,
       "title": "Kaijuu no Kodomo",
-      "score": 0.187,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 2927,
       "title": "Mimia Hime",
-      "score": 0.187,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "pl",
+        "fr",
+        "bg",
+        "gb"
+      ]
     },
     {
       "id": 3388,
       "title": "Fate/Zero",
-      "score": 0.187,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3673,
       "title": "Marie no Kanaderu Ongaku",
-      "score": 0.187,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "it"
+      ]
     },
     {
       "id": 3689,
       "title": "Coo's World",
-      "score": 0.187,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3707,
       "title": "Schizanthus",
-      "score": 0.187,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4571,
       "title": "Captain Harlock",
-      "score": 0.187,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5385,
       "title": "Roman",
-      "score": 0.187,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6226,
+      "title": "Ookami Kodomo no Ame to Yuki",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "hu",
+        "ru",
+        "br",
+        "bg"
+      ]
+    },
+    {
+      "id": 6437,
+      "title": "My Street",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -2,25 +2,39 @@
   "id": 15885,
   "title": "Wakabaryou de, Kimi to",
   "url": "https://mangadex.org/manga/15885",
-  "last_updated": "March 15, 2021 16:32:16 UTC",
+  "last_updated": "March 18, 2021 08:01:02 UTC",
   "matches": [
     {
       "id": 8508,
       "title": "Hitotsu Futatsu Himitsu",
-      "score": 0.352,
-      "r18": false
+      "score": 0.351,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 32064,
       "title": "Urusai Kurai no Kokuhaku Kudasai",
-      "score": 0.315,
-      "r18": false
+      "score": 0.314,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 58790,
       "title": "Cannot Help it",
-      "score": 0.189,
-      "r18": false
+      "score": 0.188,
+      "r18": false,
+      "languages": [
+        "vn",
+        "gb",
+        "tr"
+      ]
     }
   ]
 }

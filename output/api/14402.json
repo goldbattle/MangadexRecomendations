@@ -2,37 +2,57 @@
   "id": 14402,
   "title": "Onimote",
   "url": "https://mangadex.org/manga/14402",
-  "last_updated": "March 15, 2021 12:30:38 UTC",
+  "last_updated": "March 18, 2021 07:48:26 UTC",
   "matches": [
     {
       "id": 29653,
       "title": "Kimi wo Mawashitai",
       "score": 0.258,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 28163,
       "title": "Uchi no Hentai Maid ni Osowareteru",
       "score": 0.238,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 1597,
       "title": "Seitokai Yakuindomo",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 4804,
       "title": "4-koma Koushiki Anthology - Toaru Kagaku no Railgun x Toaru Majutsu no Index",
-      "score": 0.207,
-      "r18": false
+      "score": 0.206,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 17933,
       "title": "Trinity Seven - 7-nin no Mahoutsukai Comic Anthology",
       "score": 0.16,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     }
   ]
 }

@@ -2,157 +2,270 @@
   "id": 27528,
   "title": "Hua Qian",
   "url": "https://mangadex.org/manga/27528",
-  "last_updated": "March 16, 2021 20:33:00 UTC",
+  "last_updated": "March 18, 2021 10:10:18 UTC",
   "matches": [
-    {
-      "id": 10498,
-      "title": "Peking Reijinshou",
-      "score": 0.362,
-      "r18": false
-    },
-    {
-      "id": 37628,
-      "title": "Kashura",
-      "score": 0.362,
-      "r18": false
-    },
-    {
-      "id": 7797,
-      "title": "Gou - Himetachi no Sengoku",
-      "score": 0.362,
-      "r18": false
-    },
-    {
-      "id": 38719,
-      "title": "Hana Yanagi",
-      "score": 0.362,
-      "r18": false
-    },
-    {
-      "id": 4732,
-      "title": "Hanamuko no Yakusoku",
-      "score": 0.362,
-      "r18": false
-    },
-    {
-      "id": 1344,
-      "title": "Antique Romance",
-      "score": 0.362,
-      "r18": false
-    },
-    {
-      "id": 6165,
-      "title": "Gu Fang Bu Zi Shang",
-      "score": 0.355,
-      "r18": false
-    },
-    {
-      "id": 2163,
-      "title": "Ninohime no Monogatari",
-      "score": 0.346,
-      "r18": false
-    },
-    {
-      "id": 38129,
-      "title": "Sim Cheong",
-      "score": 0.343,
-      "r18": false
-    },
     {
       "id": 2041,
       "title": "Mademoiselle Butterfly",
-      "score": 0.335,
-      "r18": false
+      "score": 0.334,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 10320,
       "title": "Ojou-sama no Untenshu",
       "score": 0.334,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 27817,
       "title": "Tsuki no Toiki Ai no Kizu",
-      "score": 0.331,
-      "r18": false
-    },
-    {
-      "id": 2996,
-      "title": "Yokohama Monogatari",
-      "score": 0.323,
-      "r18": false
-    },
-    {
-      "id": 4742,
-      "title": "Hakushaku Reijou",
-      "score": 0.322,
-      "r18": false
-    },
-    {
-      "id": 2955,
-      "title": "Hikari no Pansy",
-      "score": 0.321,
-      "r18": false
-    },
-    {
-      "id": 2972,
-      "title": "Alpine Rose",
-      "score": 0.319,
-      "r18": false
-    },
-    {
-      "id": 157,
-      "title": "Proclaiming and Loving",
-      "score": 0.318,
-      "r18": false
-    },
-    {
-      "id": 9796,
-      "title": "Corset ni Tsubasa",
-      "score": 0.318,
-      "r18": false
-    },
-    {
-      "id": 28369,
-      "title": "A Lonesome Fragrance Waiting to Be Appreciated",
-      "score": 0.297,
-      "r18": false
-    },
-    {
-      "id": 7134,
-      "title": "Koukyuu Days ~Shichisei Kuni Monogatari~",
-      "score": 0.291,
-      "r18": false
-    },
-    {
-      "id": 16789,
-      "title": "Yumeyume Onmyouji Kidan",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 4783,
-      "title": "Kiniro Kishi",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 3000,
-      "title": "Nise no Chigiri",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 21908,
-      "title": "Cold Game",
-      "score": 0.29,
-      "r18": false
+      "score": 0.324,
+      "r18": false,
+      "languages": [
+        "pl"
+      ]
     },
     {
       "id": 3329,
       "title": "A Silent Greeting",
       "score": 0.29,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 17588,
+      "title": "Seiten ni Tsurugi wo Kazase",
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 8003,
+      "title": "Sakurahime Kaden",
+      "score": 0.278,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 2271,
+      "title": "Home",
+      "score": 0.276,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 14587,
+      "title": "Seirou Opera",
+      "score": 0.273,
+      "r18": false,
+      "languages": [
+        "br",
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 3263,
+      "title": "Hachimitsu no Hana",
+      "score": 0.269,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 2675,
+      "title": "Waltz wa Shiroi Dress de",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 2839,
+      "title": "Shisei (YOKOBABA Ryo)",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "pl",
+        "ua",
+        "gb"
+      ]
+    },
+    {
+      "id": 1505,
+      "title": "In the Cage",
+      "score": 0.238,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 5235,
+      "title": "Aoki Umi no Toraware Hime",
+      "score": 0.227,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 2803,
+      "title": "Crazy Girl Shin Bia",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 3585,
+      "title": "Kuroorihime to Kawaki no Ou",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg",
+        "pl",
+        "fr",
+        "tr"
+      ]
+    },
+    {
+      "id": 4049,
+      "title": "Joou no Hana",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "pl"
+      ]
+    },
+    {
+      "id": 2344,
+      "title": "Hadashi De Bara Wo Fume",
+      "score": 0.219,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 337,
+      "title": "Habaegui Sinbu",
+      "score": 0.195,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa",
+        "pl"
+      ]
+    },
+    {
+      "id": 2287,
+      "title": "Sengoku Danshi Hana no Ran",
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 2319,
+      "title": "A Fairy Tale For You",
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "bg",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 1143,
+      "title": "Claudine",
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "pl",
+        "tr",
+        "gb"
+      ]
+    },
+    {
+      "id": 21203,
+      "title": "Prince, Don't Do This!",
+      "score": 0.189,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "pl",
+        "id"
+      ]
+    },
+    {
+      "id": 5302,
+      "title": "Chronicles of the Grim Peddler",
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 28055,
+      "title": "Hakuouki - Junrenka",
+      "score": 0.148,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 14476,
+      "title": "A Thousand Petals",
+      "score": 0.148,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     }
   ]
 }

@@ -2,157 +2,260 @@
   "id": 28286,
   "title": "Adume",
   "url": "https://mangadex.org/manga/28286",
-  "last_updated": "March 17, 2021 00:38:23 UTC",
+  "last_updated": "March 18, 2021 10:16:37 UTC",
   "matches": [
     {
       "id": 21415,
       "title": "Renri no Eda (Shimokawa Saki)",
-      "score": 0.292,
-      "r18": false
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 15366,
       "title": "Magi no Okurimono",
-      "score": 0.292,
-      "r18": false
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg",
+        "tr",
+        "fr",
+        "hu",
+        "br"
+      ]
     },
     {
       "id": 7699,
       "title": "Majime na Jikan",
-      "score": 0.292,
-      "r18": false
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4803,
       "title": "Fire Emblem - Seisen no Keifu",
-      "score": 0.292,
-      "r18": false
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 36204,
       "title": "Shinsetsu Ookami to Koushinryou: Ookami to Youhishi",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "it",
+        "fr",
+        "id"
+      ]
     },
     {
       "id": 14127,
       "title": "Pandemonium - Majutsushi no Mura",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "es",
+        "de"
+      ]
     },
     {
       "id": 11441,
       "title": "Aoki Ao no Atopos",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 9441,
       "title": "Yongbyeong Maluhan",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 32730,
       "title": "Hachigatsu no Ghost",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "de",
+        "ru",
+        "br"
+      ]
     },
     {
       "id": 2383,
       "title": "Sola",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 1028,
       "title": "Bonten no Morito",
       "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 11911,
-      "title": "Arion",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 309,
-      "title": "Until Death Do Us Part",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 3853,
-      "title": "Tail Star",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 3394,
-      "title": "Undead",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 25718,
-      "title": "Beank &amp; Rosa",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 37646,
-      "title": "Nejikemono",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 17804,
-      "title": "Hensoku-kei Quadrangle",
-      "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 17312,
       "title": "Mahou Shoujo Tart\u2605Magica: The Legend of &quot;Jeanne d'Arc&quot;",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
+    },
+    {
+      "id": 17804,
+      "title": "Hensoku-kei Quadrangle",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "id"
+      ]
+    },
+    {
+      "id": 3394,
+      "title": "Undead",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3853,
+      "title": "Tail Star",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "es",
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 309,
+      "title": "Until Death Do Us Part",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 11911,
+      "title": "Arion",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 25718,
+      "title": "Beank &amp; Rosa",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37646,
+      "title": "Nejikemono",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1146,
       "title": "Inugami",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 4191,
       "title": "Anorexia &ndash; Shikabane Hanako wa Kyoshokushou",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "pl"
+      ]
     },
     {
       "id": 4307,
       "title": "Saishuu Heiki Kanojo Gaiden - Sekai no Hate ni wa Kimi to Futari de",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 335,
       "title": "Eternal Sabbath",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu",
+        "pl"
+      ]
     },
     {
       "id": 41794,
       "title": "Boku wa mata, kimi ni sayonara no kazu o miru",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 12893,
       "title": "La Republique du Catch",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -1,74 +1,125 @@
 {
   "id": 54831,
   "title": "Deadly Game",
-  "url": "https://api.mangadex.org/v2/manga/54831",
-  "last_updated": "March 12, 2021 20:30:24 UTC",
+  "url": "https://mangadex.org/manga/54831",
+  "last_updated": "March 18, 2021 13:58:16 UTC",
   "matches": [
-    {
-      "id": 30913,
-      "title": "An Innocent Sin",
-      "score": 0.294,
-      "r18": true
-    },
     {
       "id": 32835,
       "title": "Unknown Feeling",
-      "score": 0.262,
-      "r18": true
+      "score": 0.209,
+      "r18": true,
+      "languages": [
+        "mx",
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 54426,
-      "title": "Hero Manager",
-      "score": 0.244,
-      "r18": true
-    },
-    {
-      "id": 46511,
-      "title": "Teach Me How to Please You",
-      "score": 0.22,
-      "r18": true
+      "id": 30913,
+      "title": "An Innocent Sin",
+      "score": 0.174,
+      "r18": true,
+      "languages": [
+        "fr",
+        "ua"
+      ]
     },
     {
       "id": 19246,
       "title": "Guest House",
-      "score": 0.214,
-      "r18": true
+      "score": 0.174,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 54426,
+      "title": "Hero Manager",
+      "score": 0.149,
+      "r18": true,
+      "languages": [
+        "it",
+        "fr",
+        "ir",
+        "ru"
+      ]
     },
     {
       "id": 53131,
       "title": "Witch, 30 Years Old",
-      "score": 0.21,
-      "r18": true
+      "score": 0.149,
+      "r18": true,
+      "languages": [
+        "es"
+      ]
+    },
+    {
+      "id": 49146,
+      "title": "Freshman",
+      "score": 0.142,
+      "r18": true,
+      "languages": [
+        "br"
+      ]
     },
     {
       "id": 52668,
       "title": "Succubus Shougakusei Extra",
-      "score": 0.183,
-      "r18": true
+      "score": 0.139,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 33295,
       "title": "Ren Arisugawa Is Actually a Girl",
-      "score": 0.18,
-      "r18": true
+      "score": 0.139,
+      "r18": true,
+      "languages": [
+        "br"
+      ]
+    },
+    {
+      "id": 46511,
+      "title": "Teach Me How to Please You",
+      "score": 0.12,
+      "r18": true,
+      "languages": [
+        "fr",
+        "br"
+      ]
     },
     {
       "id": 17781,
       "title": "Sow",
-      "score": 0.14,
-      "r18": true
+      "score": 0.12,
+      "r18": true,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 50579,
       "title": "Dog on Patrol",
-      "score": 0.136,
-      "r18": true
+      "score": 0.111,
+      "r18": true,
+      "languages": [
+        "br",
+        "pl"
+      ]
     },
     {
       "id": 59963,
       "title": "Uso, Watashi Ima Ika Sareteru... tsu ~Suki Nashi Joshi, Hatsu Deisui Nochi Muboubi taimu~",
-      "score": 0.136,
-      "r18": true
+      "score": 0.111,
+      "r18": true,
+      "languages": [
+        "br"
+      ]
     }
   ]
 }

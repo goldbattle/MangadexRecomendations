@@ -2,31 +2,36 @@
   "id": 8362,
   "title": "Hissatsu Surume Katame",
   "url": "https://mangadex.org/manga/8362",
-  "last_updated": "March 14, 2021 20:18:28 UTC",
+  "last_updated": "March 18, 2021 06:56:54 UTC",
   "matches": [
     {
       "id": 12084,
       "title": "Kyoko",
-      "score": 0.35,
-      "r18": false
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 36322,
       "title": "Kizuoibito",
-      "score": 0.21,
-      "r18": false
-    },
-    {
-      "id": 15651,
-      "title": "Lupin III",
-      "score": 0.131,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 282,
       "title": "Wolf Guy - Ookami no Monshou",
       "score": 0.109,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "it"
+      ]
     }
   ]
 }

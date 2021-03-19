@@ -1,14 +1,18 @@
 {
   "id": 35195,
   "title": "Kamisama no Koibito",
-  "url": "https://api.mangadex.org/v2/manga/35195",
-  "last_updated": "February 10, 2021 16:40:07 UTC",
+  "url": "https://mangadex.org/manga/35195",
+  "last_updated": "March 18, 2021 11:14:14 UTC",
   "matches": [
     {
       "id": 24667,
       "title": "Tadashi Ore wa Heroine Toshite",
-      "score": 0.677,
-      "r18": false
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     }
   ]
 }

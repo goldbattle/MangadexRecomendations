@@ -1,140 +1,164 @@
 {
   "id": 49987,
   "title": "Cream and Cat",
-  "url": "https://api.mangadex.org/v2/manga/49987",
-  "last_updated": "February 05, 2021 08:16:33 UTC",
+  "url": "https://mangadex.org/manga/49987",
+  "last_updated": "March 18, 2021 13:17:50 UTC",
   "matches": [
     {
       "id": 12856,
       "title": "Aisaretaino",
-      "score": 0.745,
-      "r18": false
+      "score": 0.295,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11237,
       "title": "Te o Tsunaide, Sora o",
-      "score": 0.722,
-      "r18": false
-    },
-    {
-      "id": 53053,
-      "title": "My Sweet Garden",
-      "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 26609,
-      "title": "Momo to Manji",
-      "score": 0.694,
-      "r18": false
-    },
-    {
-      "id": 53867,
-      "title": "Koushaku no Himeta Kuchizuke",
-      "score": 0.693,
-      "r18": false
-    },
-    {
-      "id": 38322,
-      "title": "Torikago no Naka no Kimi",
-      "score": 0.693,
-      "r18": false
-    },
-    {
-      "id": 29271,
-      "title": "Kedamono Arashi",
-      "score": 0.685,
-      "r18": false
-    },
-    {
-      "id": 30632,
-      "title": "Complex",
-      "score": 0.681,
-      "r18": false
-    },
-    {
-      "id": 20428,
-      "title": "Bright Light Sprout",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 37696,
-      "title": "Suki de Shikatanai",
-      "score": 0.673,
-      "r18": false
-    },
-    {
-      "id": 35205,
-      "title": "Ou-sama no Lesson",
-      "score": 0.671,
-      "r18": false
-    },
-    {
-      "id": 46008,
-      "title": "Sexy Effect 96",
-      "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 12635,
-      "title": "Ubawarerukoto Marugoto Zenbu",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 29108,
-      "title": "Three Wolves Mountain",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 38754,
-      "title": "City of Blood",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 13246,
-      "title": "Senpai no Mizugi",
-      "score": 0.402,
-      "r18": false
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 16081,
       "title": "Hatsukoi wa Gunjou ni Tokeru",
-      "score": 0.384,
-      "r18": false
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 29660,
-      "title": "Not a Sugar Daddy",
-      "score": 0.296,
-      "r18": false
+      "id": 53867,
+      "title": "Koushaku no Himeta Kuchizuke",
+      "score": 0.278,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 55347,
-      "title": "Ley De Labios Y Lengua",
-      "score": 0.294,
-      "r18": false
+      "id": 12635,
+      "title": "Ubawarerukoto Marugoto Zenbu",
+      "score": 0.267,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "pl"
+      ]
     },
     {
-      "id": 55357,
-      "title": "Jefe Incomodo",
-      "score": 0.289,
-      "r18": false
+      "id": 37696,
+      "title": "Suki de Shikatanai",
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 13246,
+      "title": "Senpai no Mizugi",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 35205,
+      "title": "Ou-sama no Lesson",
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29271,
+      "title": "Kedamono Arashi",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "tr",
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 26609,
+      "title": "Momo to Manji",
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20428,
+      "title": "Bright Light Sprout",
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29108,
+      "title": "Three Wolves Mountain",
+      "score": 0.217,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 30632,
+      "title": "Complex",
+      "score": 0.198,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx"
+      ]
+    },
+    {
+      "id": 46008,
+      "title": "Sexy Effect 96",
+      "score": 0.195,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 53053,
+      "title": "My Sweet Garden",
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 57443,
       "title": "Through the Rumors",
-      "score": 0.265,
-      "r18": false
-    },
-    {
-      "id": 22242,
-      "title": "King's Maker",
-      "score": 0.246,
-      "r18": false
+      "score": 0.164,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

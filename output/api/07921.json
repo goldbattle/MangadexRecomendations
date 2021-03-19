@@ -2,31 +2,45 @@
   "id": 7921,
   "title": "Kaze to Ki no Uta",
   "url": "https://mangadex.org/manga/7921",
-  "last_updated": "March 14, 2021 20:13:19 UTC",
+  "last_updated": "March 18, 2021 06:53:12 UTC",
   "matches": [
     {
       "id": 1859,
       "title": "Anatolia Story",
       "score": 0.184,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 1963,
       "title": "Hana wa Knife wo Mi ni Matou",
       "score": 0.178,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 50784,
       "title": "I Have Something to Tell You",
       "score": 0.175,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 12885,
       "title": "Taiyou ga Miteiru (Kamoshirenai Kara)",
       "score": 0.174,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     }
   ]
 }

@@ -1,158 +1,254 @@
 {
   "id": 45812,
   "title": "Hiiragi-sensei wa Kyoushi Shikkaku!?",
-  "url": "https://api.mangadex.org/v2/manga/45812",
-  "last_updated": "February 11, 2021 20:31:50 UTC",
+  "url": "https://mangadex.org/manga/45812",
+  "last_updated": "March 18, 2021 12:42:51 UTC",
   "matches": [
-    {
-      "id": 3076,
-      "title": "Kanchigai Musume to Buchigire Ouji",
-      "score": 0.662,
-      "r18": false
-    },
-    {
-      "id": 8184,
-      "title": "Le Th&eacute;&acirc;tre de A",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 3159,
-      "title": "Kataomoi no Mukougawa",
-      "score": 0.65,
-      "r18": false
-    },
     {
       "id": 55635,
       "title": "A manga where they can get closer with every reply",
-      "score": 0.448,
-      "r18": false
-    },
-    {
-      "id": 45614,
-      "title": "Dentist-san, Please Marry Me",
-      "score": 0.425,
-      "r18": false
-    },
-    {
-      "id": 45633,
-      "title": "An Unexpected Side of Cute Girlfriend",
-      "score": 0.425,
-      "r18": false
-    },
-    {
-      "id": 37289,
-      "title": "An Inventor and His Assistant",
-      "score": 0.394,
-      "r18": false
-    },
-    {
-      "id": 19302,
-      "title": "Lovely Banchou",
-      "score": 0.392,
-      "r18": false
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 32681,
       "title": "Choosing A Favourite",
-      "score": 0.391,
-      "r18": false
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 10662,
-      "title": "Sentimental Shounen A",
-      "score": 0.385,
-      "r18": false
+      "id": 37289,
+      "title": "An Inventor and His Assistant",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn"
+      ]
     },
     {
-      "id": 1509,
-      "title": "Blanc Marie",
-      "score": 0.378,
-      "r18": false
-    },
-    {
-      "id": 23859,
-      "title": "Karakai Jouzu no Takagi-san - Karakai Jouzu no Nishikata-kun (Doujinshi)",
-      "score": 0.375,
-      "r18": false
-    },
-    {
-      "id": 32615,
-      "title": "The Immortal's Tale",
-      "score": 0.374,
-      "r18": false
-    },
-    {
-      "id": 6927,
-      "title": "Anne-chan Tarou",
-      "score": 0.371,
-      "r18": false
+      "id": 45614,
+      "title": "Dentist-san, Please Marry Me",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "mx",
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 32679,
       "title": "The Hospitalized Girl and Death",
-      "score": 0.37,
-      "r18": false
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "mx",
+        "br",
+        "ru"
+      ]
     },
     {
-      "id": 16200,
-      "title": "Banken Hero",
-      "score": 0.366,
-      "r18": false
+      "id": 32615,
+      "title": "The Immortal's Tale",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        " "
+      ]
+    },
+    {
+      "id": 45633,
+      "title": "An Unexpected Side of Cute Girlfriend",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 11060,
+      "title": "Because you are...",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "fr"
+      ]
+    },
+    {
+      "id": 35394,
+      "title": "Tsuki ga Kirei desu ne",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "tr",
+        "ru"
+      ]
+    },
+    {
+      "id": 36804,
+      "title": "Saho-chan Won't Concentrate Properly on Her Studies.",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 45599,
+      "title": "My Girlfriend Isn't Cute",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 21852,
+      "title": "Love Is Blind",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "fr",
+        "id",
+        "it"
+      ]
+    },
+    {
+      "id": 6927,
+      "title": "Anne-chan Tarou",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9115,
+      "title": "Konjaku Overhaul",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19302,
+      "title": "Lovely Banchou",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 17287,
       "title": "Watashi no Ouji-sama",
-      "score": 0.363,
-      "r18": false
-    },
-    {
-      "id": 30514,
-      "title": "Eiyuu Densetsu - Sen no Kiseki - LINK OF HEARTS case:A.R.",
-      "score": 0.363,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5565,
       "title": "Doctor Bird",
-      "score": 0.358,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 26193,
-      "title": "Nandemo Arisa",
-      "score": 0.358,
-      "r18": false
+      "id": 21407,
+      "title": "Rabu Rabu Butabara",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 30514,
+      "title": "Eiyuu Densetsu - Sen no Kiseki - LINK OF HEARTS case:A.R.",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53960,
+      "title": "World's First Romcom: Oga and Bebe",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7164,
       "title": "Tokyo Photograph",
-      "score": 0.357,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     },
     {
-      "id": 16336,
-      "title": "Yahari Ore no Seishun Love Come wa Machigatteiru - Iro Hasu Hasu (Doujinshi)",
-      "score": 0.357,
-      "r18": false
+      "id": 5881,
+      "title": "For Someone",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 51583,
-      "title": "Tonari no Koitsu",
-      "score": 0.354,
-      "r18": false
+      "id": 30612,
+      "title": "Final Fantasy VII - Let&rsquo;s go to School (Doujinshi)",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 9091,
-      "title": "Pajama de Ojama",
-      "score": 0.353,
-      "r18": false
+      "id": 54608,
+      "title": "The Girl I Like Confessed to Me While Handing Me Cash",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 10211,
-      "title": "Darling Only You!",
-      "score": 0.351,
-      "r18": false
+      "id": 6166,
+      "title": "Ai\u2605Kaimasse!",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     }
   ]
 }

@@ -2,157 +2,271 @@
   "id": 18202,
   "title": "Heart of a Dragon",
   "url": "https://mangadex.org/manga/18202",
-  "last_updated": "March 15, 2021 21:51:42 UTC",
+  "last_updated": "March 18, 2021 08:38:16 UTC",
   "matches": [
     {
       "id": 29678,
       "title": "The Dragon Master",
       "score": 0.363,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 58422,
       "title": "The Black Dragon Emperor&rsquo;s Redo Adventure",
-      "score": 0.358,
-      "r18": false
+      "score": 0.357,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 59109,
       "title": "Sunny With a Chance of Dragons!",
-      "score": 0.324,
-      "r18": false
+      "score": 0.323,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 32540,
       "title": "I'm a Fake NPC",
       "score": 0.306,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "tr",
+        "es",
+        "mx"
+      ]
     },
     {
       "id": 49550,
       "title": "Path to the Apex",
       "score": 0.306,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 57630,
       "title": "Otaku Savior",
       "score": 0.306,
-      "r18": false
-    },
-    {
-      "id": 58128,
-      "title": "Becoming a God by Myself",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 58626,
-      "title": "My Disciples Are Super Gods",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 45167,
-      "title": "Sword Sheath's Child",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 43821,
-      "title": "Emperor LingTian",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 47586,
-      "title": "Divine Spirit",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 52492,
-      "title": "Phoenix Descends From Above",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 19872,
-      "title": "End and Save",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 54027,
-      "title": "Urban Castaway",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 56397,
-      "title": "Pantheon of Gods",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 55694,
-      "title": "Berserk Boost",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 50054,
-      "title": "Counter Cube",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 53572,
-      "title": "Call Me Master",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 19491,
-      "title": "Maze Age Z",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 42849,
-      "title": "Magic Fairy",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 48534,
-      "title": "Super Keyboard Man",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 27856,
-      "title": "Winter Moon",
-      "score": 0.3,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 46727,
       "title": "Dracorun",
       "score": 0.3,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 58626,
+      "title": "My Disciples Are Super Gods",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 43821,
+      "title": "Emperor LingTian",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 47586,
+      "title": "Divine Spirit",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "sa",
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 52492,
+      "title": "Phoenix Descends From Above",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 19872,
+      "title": "End and Save",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 54027,
+      "title": "Urban Castaway",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 56397,
+      "title": "Pantheon of Gods",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "pl",
+        "fr",
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 55694,
+      "title": "Berserk Boost",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 45617,
+      "title": "Super Cube",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50054,
+      "title": "Counter Cube",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "it"
+      ]
+    },
+    {
+      "id": 53572,
+      "title": "Call Me Master",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id"
+      ]
+    },
+    {
+      "id": 19491,
+      "title": "Maze Age Z",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 42849,
+      "title": "Magic Fairy",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 48534,
+      "title": "Super Keyboard Man",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru"
+      ]
+    },
+    {
+      "id": 27856,
+      "title": "Winter Moon",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "fr",
+        "id",
+        "pl",
+        "it",
+        "br",
+        "th",
+        "ro"
+      ]
     },
     {
       "id": 58027,
       "title": "Dawn Empire",
-      "score": 0.295,
-      "r18": false
+      "score": 0.294,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "id",
+        "br"
+      ]
     },
     {
       "id": 25942,
       "title": "Dragon Dance",
       "score": 0.293,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx",
+        "id"
+      ]
+    },
+    {
+      "id": 49780,
+      "title": "Aobing Zhuan",
+      "score": 0.292,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
     }
   ]
 }

@@ -2,55 +2,118 @@
   "id": 12171,
   "title": "Re:Monster",
   "url": "https://mangadex.org/manga/12171",
-  "last_updated": "March 15, 2021 04:48:30 UTC",
+  "last_updated": "March 18, 2021 07:29:34 UTC",
   "matches": [
     {
       "id": 5353,
       "title": "GATE - Jieitai Kanochi nite, Kaku Tatakaeri",
       "score": 0.259,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "id",
+        "br",
+        "mx",
+        "ru",
+        "fr",
+        "tr",
+        "pl"
+      ]
+    },
+    {
+      "id": 14048,
+      "title": "Overlord",
+      "score": 0.227,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "sa",
+        "mx",
+        "id"
+      ]
+    },
+    {
+      "id": 34404,
+      "title": "Fukushuu o Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou Suru",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "mx",
+        "ru",
+        "id",
+        "es"
+      ]
     },
     {
       "id": 29837,
       "title": "Nihonkoku Shoukan",
       "score": 0.193,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id",
+        "ru",
+        "fr"
+      ]
     },
     {
       "id": 9134,
       "title": "Stravaganza ~ Isai no Hime ~",
-      "score": 0.189,
-      "r18": false
-    },
-    {
-      "id": 48420,
-      "title": "Road to Kingdom",
-      "score": 0.165,
-      "r18": false
+      "score": 0.188,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 7926,
       "title": "Shin Violence Jack",
-      "score": 0.134,
-      "r18": false
+      "score": 0.133,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 16588,
       "title": "Gleipnir",
       "score": 0.12,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "tr",
+        "hu",
+        "sa",
+        "ir",
+        "pl",
+        "it"
+      ]
     },
     {
       "id": 30973,
       "title": "Gekiman! - Devilman Chapter",
-      "score": 0.108,
-      "r18": false
+      "score": 0.107,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 24157,
       "title": "Hagane",
-      "score": 0.108,
-      "r18": false
+      "score": 0.107,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

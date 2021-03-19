@@ -2,157 +2,290 @@
   "id": 12743,
   "title": "Last Wish",
   "url": "https://mangadex.org/manga/12743",
-  "last_updated": "March 15, 2021 08:26:19 UTC",
+  "last_updated": "March 18, 2021 07:34:29 UTC",
   "matches": [
-    {
-      "id": 27707,
-      "title": "Blind Point Lake",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 29770,
-      "title": "Maousa",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 5591,
-      "title": "Love Probation Witch",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 17790,
-      "title": "P Angel",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 8331,
-      "title": "Mermaid Syndrome",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 58008,
-      "title": "Tsukikage Moratorium",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 2876,
-      "title": "Elevator o Orite Massugu",
-      "score": 0.349,
-      "r18": false
-    },
-    {
-      "id": 1883,
-      "title": "Lunatic Honey",
-      "score": 0.344,
-      "r18": false
-    },
-    {
-      "id": 36652,
-      "title": "Epotoransu! Mai",
-      "score": 0.335,
-      "r18": false
-    },
-    {
-      "id": 2208,
-      "title": "Ryuu no Hanawazurai",
-      "score": 0.332,
-      "r18": false
-    },
-    {
-      "id": 25297,
-      "title": "The Sleeping Witch",
-      "score": 0.326,
-      "r18": false
-    },
-    {
-      "id": 1972,
-      "title": "Swan Prince",
-      "score": 0.324,
-      "r18": false
-    },
-    {
-      "id": 9092,
-      "title": "Piyo Piyo Tenshi",
-      "score": 0.322,
-      "r18": false
-    },
-    {
-      "id": 27404,
-      "title": "Zhe Ge Shen Shou You Dian Meng",
-      "score": 0.32,
-      "r18": false
-    },
-    {
-      "id": 24516,
-      "title": "Bishoujo Senshi Sailormoon Materials Collection",
-      "score": 0.314,
-      "r18": false
-    },
-    {
-      "id": 8810,
-      "title": "Heart no Kuni no Alice: My Fanatic Rabbit",
-      "score": 0.312,
-      "r18": false
-    },
-    {
-      "id": 4827,
-      "title": "Sweety Gem",
-      "score": 0.312,
-      "r18": false
-    },
-    {
-      "id": 47436,
-      "title": "Dear my Doll - Kimi to no Yakusoku",
-      "score": 0.311,
-      "r18": false
-    },
-    {
-      "id": 9494,
-      "title": "Other Side of the Milky Way",
-      "score": 0.31,
-      "r18": false
-    },
     {
       "id": 14532,
       "title": "Salon Diana",
       "score": 0.309,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "pl"
+      ]
     },
     {
-      "id": 24111,
-      "title": "Angel Profile",
-      "score": 0.308,
-      "r18": false
+      "id": 11884,
+      "title": "Sora no Yousei",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "pl"
+      ]
     },
     {
-      "id": 779,
-      "title": "PQ Angels",
-      "score": 0.307,
-      "r18": false
+      "id": 23123,
+      "title": "Onee Joou to Shirayuki Hime",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "br",
+        "it"
+      ]
     },
     {
-      "id": 7943,
-      "title": "Angel Myth",
-      "score": 0.305,
-      "r18": false
+      "id": 5687,
+      "title": "Natsukashi Machi no Rozione",
+      "score": 0.253,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "it"
+      ]
     },
     {
-      "id": 24510,
-      "title": "Bishoujo Senshi Sailormoon Short Stories",
-      "score": 0.305,
-      "r18": false
+      "id": 17253,
+      "title": "Tokage Ouji",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
     },
     {
-      "id": 5951,
-      "title": "Kamichama Karin",
-      "score": 0.287,
-      "r18": false
+      "id": 12254,
+      "title": "Lovephobia",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "it"
+      ]
+    },
+    {
+      "id": 11838,
+      "title": "Norn 9 - Norn + Nonet",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "pl"
+      ]
+    },
+    {
+      "id": 10746,
+      "title": "Mahou Tsukai to Koi no Biyaku",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "it",
+        "tr",
+        "gb"
+      ]
+    },
+    {
+      "id": 29555,
+      "title": "Oni no Hanayome - Karada ni Kizamareta Emono no Shirushi",
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "it",
+        "es"
+      ]
+    },
+    {
+      "id": 47784,
+      "title": "Marquis of Amnesia",
+      "score": 0.198,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 39932,
+      "title": "As You Wish, Prince",
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "it"
+      ]
+    },
+    {
+      "id": 14089,
+      "title": "Colette wa Shinu Koto ni Shita",
+      "score": 0.177,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "it",
+        "ru"
+      ]
+    },
+    {
+      "id": 43375,
+      "title": "The Savior's Book Caf&eacute; in Another World",
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "it",
+        "br"
+      ]
+    },
+    {
+      "id": 13472,
+      "title": "Dorothy wa Gokigen Naname?",
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 10483,
+      "title": "Strange Dragon",
+      "score": 0.167,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 51004,
+      "title": "The King and the Poor Girl",
+      "score": 0.162,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 41039,
+      "title": "The Great Wish",
+      "score": 0.156,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "id",
+        "it"
+      ]
+    },
+    {
+      "id": 9662,
+      "title": "Vahlia no Hanamuko",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "fr",
+        "pl",
+        "de",
+        "gb",
+        "bg",
+        "pt",
+        "it",
+        "br"
+      ]
+    },
+    {
+      "id": 26957,
+      "title": "Okyu no Trinity",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "it",
+        "id",
+        "tr"
+      ]
+    },
+    {
+      "id": 2993,
+      "title": "Tenkuu Seiryuu ~Innocent Dragon~",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 11867,
+      "title": "Hotarubi no Mori e",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "es",
+        "it"
+      ]
+    },
+    {
+      "id": 5441,
+      "title": "Seimaden",
+      "score": 0.147,
+      "r18": false,
+      "languages": [
+        "it"
+      ]
+    },
+    {
+      "id": 23019,
+      "title": "Lock Up Prince",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 49644,
+      "title": "The Villainess Lives Twice",
+      "score": 0.137,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "br",
+        "id",
+        "th",
+        "mx",
+        "it",
+        "tr"
+      ]
+    },
+    {
+      "id": 26380,
+      "title": "Mahoutsukai no Konyakusha",
+      "score": 0.132,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "mx",
+        "fr",
+        "es",
+        "br"
+      ]
     }
   ]
 }

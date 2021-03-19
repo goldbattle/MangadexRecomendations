@@ -1,158 +1,94 @@
 {
   "id": 49969,
   "title": "Beat",
-  "url": "https://api.mangadex.org/v2/manga/49969",
-  "last_updated": "February 05, 2021 08:16:15 UTC",
+  "url": "https://mangadex.org/manga/49969",
+  "last_updated": "March 18, 2021 13:17:41 UTC",
   "matches": [
     {
       "id": 34560,
       "title": "Leo x Leo",
-      "score": 0.681,
-      "r18": false
-    },
-    {
-      "id": 36633,
-      "title": "To Love-Ru - Kentaro Yabuki 20th Anniversary",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 10664,
-      "title": "Atashi no Idol",
-      "score": 0.358,
-      "r18": false
-    },
-    {
-      "id": 5675,
-      "title": "Itsudatte My Santa!",
-      "score": 0.341,
-      "r18": false
-    },
-    {
-      "id": 55358,
-      "title": "Yumemiru Shounen Shoujo",
-      "score": 0.331,
-      "r18": false
-    },
-    {
-      "id": 3901,
-      "title": "Miniature",
-      "score": 0.329,
-      "r18": false
-    },
-    {
-      "id": 7142,
-      "title": "FamiDol!",
-      "score": 0.328,
-      "r18": false
-    },
-    {
-      "id": 8984,
-      "title": "Are na Kare tono Kurashikata",
-      "score": 0.324,
-      "r18": false
-    },
-    {
-      "id": 17070,
-      "title": "Nanai Sanami ga Kiratte Kurenai",
-      "score": 0.322,
-      "r18": false
-    },
-    {
-      "id": 42986,
-      "title": "Aijima-san wa Samete Iru!",
-      "score": 0.313,
-      "r18": false
-    },
-    {
-      "id": 1065,
-      "title": "Re:LIVE",
-      "score": 0.311,
-      "r18": false
-    },
-    {
-      "id": 53349,
-      "title": "Make Heroine wo Katasetai!!",
-      "score": 0.31,
-      "r18": false
-    },
-    {
-      "id": 978,
-      "title": "Boku no Idol",
-      "score": 0.31,
-      "r18": false
-    },
-    {
-      "id": 59401,
-      "title": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai",
-      "score": 0.305,
-      "r18": false
-    },
-    {
-      "id": 1148,
-      "title": "Sonezaki Shinjuu",
-      "score": 0.293,
-      "r18": false
-    },
-    {
-      "id": 1573,
-      "title": "Princess School",
-      "score": 0.287,
-      "r18": false
-    },
-    {
-      "id": 9270,
-      "title": "High Spec Lovers",
-      "score": 0.287,
-      "r18": false
-    },
-    {
-      "id": 52183,
-      "title": "Tsurenai Kanojo wo Tsuru Houhou",
       "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 59266,
-      "title": "Nishimori-san Chi no Shinobu-kun",
-      "score": 0.277,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx"
+      ]
     },
     {
       "id": 18897,
       "title": "Gachipin.",
-      "score": 0.272,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "mx",
+        "pl",
+        "br",
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 54440,
-      "title": "The Cat Who Wanted to be a Bride",
-      "score": 0.267,
-      "r18": false
+      "id": 17070,
+      "title": "Nanai Sanami ga Kiratte Kurenai",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br",
+        "gb"
+      ]
     },
     {
-      "id": 3899,
-      "title": "Kanojo to Natsu to Boku",
-      "score": 0.267,
-      "r18": false
+      "id": 59266,
+      "title": "Nishimori-san Chi no Shinobu-kun",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
-      "id": 57068,
-      "title": "A sea bream came from the sea to be my wife!",
-      "score": 0.255,
-      "r18": false
+      "id": 36633,
+      "title": "To Love-Ru - Kentaro Yabuki 20th Anniversary",
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "id",
+        "ru"
+      ]
     },
     {
-      "id": 726,
-      "title": "Futagami Double",
-      "score": 0.251,
-      "r18": false
+      "id": 46914,
+      "title": "It May Be My Fault That My Childhood Friend's Breasts Got Bigger",
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "th",
+        "mx",
+        "id",
+        "br",
+        "gb",
+        "in"
+      ]
     },
     {
-      "id": 19496,
-      "title": "Her Love is so heavy, it hurts.",
-      "score": 0.251,
-      "r18": false
+      "id": 40766,
+      "title": "Gal Kazoku",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "br",
+        "mx",
+        "it",
+        "ru"
+      ]
     }
   ]
 }

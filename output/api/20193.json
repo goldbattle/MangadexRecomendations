@@ -2,25 +2,19 @@
   "id": 20193,
   "title": "Blood Bank",
   "url": "https://mangadex.org/manga/20193",
-  "last_updated": "March 16, 2021 04:07:36 UTC",
+  "last_updated": "March 18, 2021 08:54:54 UTC",
   "matches": [
-    {
-      "id": 53396,
-      "title": "Blood and Love",
-      "score": 0.19,
-      "r18": false
-    },
     {
       "id": 20732,
       "title": "Vampire and Hunter",
       "score": 0.181,
-      "r18": false
-    },
-    {
-      "id": 32803,
-      "title": "Scent",
-      "score": 0.164,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "hu"
+      ]
     }
   ]
 }

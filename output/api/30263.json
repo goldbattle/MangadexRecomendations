@@ -2,157 +2,261 @@
   "id": 30263,
   "title": "Shigatsu Tsuitachi",
   "url": "https://mangadex.org/manga/30263",
-  "last_updated": "January 13, 2021 12:47:55 UTC",
+  "last_updated": "March 18, 2021 10:33:07 UTC",
   "matches": [
     {
-      "id": 2797,
-      "title": "Le Th&eacute;&acirc;tre de B",
-      "score": 0.745,
-      "r18": false
-    },
-    {
-      "id": 26134,
-      "title": "Shuuseki Kairo no Himawari",
-      "score": 0.735,
-      "r18": false
-    },
-    {
-      "id": 5676,
-      "title": "Kawa Yori mo Nagaku Yuruyaka ni",
-      "score": 0.733,
-      "r18": false
-    },
-    {
-      "id": 38891,
-      "title": "1st Kiss",
-      "score": 0.727,
-      "r18": false
-    },
-    {
-      "id": 3153,
-      "title": "Kimi no Sei",
-      "score": 0.717,
-      "r18": false
-    },
-    {
-      "id": 6429,
-      "title": "Kiiroi Hon - Jacques Thibault to Iu na no Yuujin",
-      "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 20034,
-      "title": "Kiryuu-sensei wa Renai ga Wakaranai.",
-      "score": 0.706,
-      "r18": false
-    },
-    {
-      "id": 1234,
-      "title": "Shibou to Iu Na no Fuku o Kite",
-      "score": 0.695,
-      "r18": false
-    },
-    {
-      "id": 15822,
-      "title": "Let Dai",
-      "score": 0.695,
-      "r18": false
-    },
-    {
-      "id": 50821,
-      "title": "My Righteous Older Brother",
-      "score": 0.689,
-      "r18": false
-    },
-    {
-      "id": 3451,
-      "title": "Pumpkin and Mayonnaise",
-      "score": 0.688,
-      "r18": false
+      "id": 25481,
+      "title": "Hikari to Tomo ni...: Jiheishouji wo Kakaete",
+      "score": 0.325,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
       "id": 5938,
       "title": "Dahlia no Obi",
-      "score": 0.686,
-      "r18": false
-    },
-    {
-      "id": 14618,
-      "title": "Perfect World",
-      "score": 0.685,
-      "r18": false
+      "score": 0.321,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19288,
       "title": "Itomeguri no Sobyou",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 18940,
-      "title": "Memento Mori",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 21910,
-      "title": "Otona to Kodomo, Anata to Watashi.",
-      "score": 0.669,
-      "r18": false
+      "score": 0.319,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "bg",
+        "es"
+      ]
     },
     {
       "id": 4587,
       "title": "Shigeshoushi",
-      "score": 0.669,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
-      "id": 111,
-      "title": "Cheese in the Trap",
-      "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 589,
-      "title": "Nineteen, Twenty-One",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 2231,
-      "title": "Koi",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 7986,
-      "title": "Husk of Eden",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 24352,
-      "title": "Heptagon",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 26133,
-      "title": "Beautiful People",
-      "score": 0.654,
-      "r18": false
+      "id": 21910,
+      "title": "Otona to Kodomo, Anata to Watashi.",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
       "id": 2590,
       "title": "Ikasama Umigame no Soup",
-      "score": 0.41,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1234,
+      "title": "Shibou to Iu Na no Fuku o Kite",
+      "score": 0.283,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "ru",
+        "pl"
+      ]
+    },
+    {
+      "id": 3153,
+      "title": "Kimi no Sei",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 2231,
+      "title": "Koi",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg"
+      ]
+    },
+    {
+      "id": 18940,
+      "title": "Memento Mori",
+      "score": 0.27,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14618,
+      "title": "Perfect World",
+      "score": 0.263,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 3451,
+      "title": "Pumpkin and Mayonnaise",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 5676,
+      "title": "Kawa Yori mo Nagaku Yuruyaka ni",
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19986,
       "title": "Renai Anagram",
-      "score": 0.372,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 20305,
+      "title": "Haru no Noroi",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "ru",
+        "fr",
+        "tr",
+        "ua"
+      ]
+    },
+    {
+      "id": 26133,
+      "title": "Beautiful People",
+      "score": 0.235,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 38591,
+      "title": "Mirror Ball Flashing Magic",
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20034,
+      "title": "Kiryuu-sensei wa Renai ga Wakaranai.",
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7986,
+      "title": "Husk of Eden",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 589,
+      "title": "Nineteen, Twenty-One",
+      "score": 0.202,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ro",
+        "ru"
+      ]
+    },
+    {
+      "id": 22006,
+      "title": "Waltz",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "fr",
+        "it",
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 27039,
+      "title": "Unmei no Onnanoko",
+      "score": 0.196,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 26134,
+      "title": "Shuuseki Kairo no Himawari",
+      "score": 0.195,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 38891,
+      "title": "1st Kiss",
+      "score": 0.179,
+      "r18": false,
+      "languages": [
+        "es",
+        "pl",
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 50821,
+      "title": "My Righteous Older Brother",
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     }
   ]
 }

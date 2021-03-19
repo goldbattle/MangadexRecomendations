@@ -1,56 +1,85 @@
 {
   "id": 42807,
   "title": "Brand-new Star",
-  "url": "https://api.mangadex.org/v2/manga/42807",
-  "last_updated": "February 11, 2021 12:30:56 UTC",
+  "url": "https://mangadex.org/manga/42807",
+  "last_updated": "March 18, 2021 12:17:45 UTC",
   "matches": [
-    {
-      "id": 15274,
-      "title": "Chikan Diary",
-      "score": 0.754,
-      "r18": false
-    },
-    {
-      "id": 53988,
-      "title": "Tokyo Yaban Gaiden - Geboku Shounen Bushi",
-      "score": 0.715,
-      "r18": false
-    },
-    {
-      "id": 13821,
-      "title": "Nise x Koi Boyfriend",
-      "score": 0.699,
-      "r18": false
-    },
-    {
-      "id": 6319,
-      "title": "Motto Aishiaimasho",
-      "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 59484,
-      "title": "Nee, Onnanoko ni Shite Ageru",
-      "score": 0.685,
-      "r18": false
-    },
-    {
-      "id": 18128,
-      "title": "Hanakoi Tsurane",
-      "score": 0.674,
-      "r18": false
-    },
     {
       "id": 35648,
       "title": "Hana to Ikkun",
-      "score": 0.657,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20830,
       "title": "Hana ni Kuchizuke",
-      "score": 0.655,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 9746,
+      "title": "Stay Gold ~Koi no Lesson A to Z~",
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 13821,
+      "title": "Nise x Koi Boyfriend",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx"
+      ]
+    },
+    {
+      "id": 18128,
+      "title": "Hanakoi Tsurane",
+      "score": 0.229,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 6319,
+      "title": "Motto Aishiaimasho",
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 15274,
+      "title": "Chikan Diary",
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53988,
+      "title": "Tokyo Yaban Gaiden - Geboku Shounen Bushi",
+      "score": 0.162,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

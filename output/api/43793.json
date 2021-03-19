@@ -1,158 +1,251 @@
 {
   "id": 43793,
   "title": "Stalemate",
-  "url": "https://api.mangadex.org/v2/manga/43793",
-  "last_updated": "February 11, 2021 16:30:38 UTC",
+  "url": "https://mangadex.org/manga/43793",
+  "last_updated": "March 18, 2021 12:25:59 UTC",
   "matches": [
-    {
-      "id": 53948,
-      "title": "Daikirai!",
-      "score": 0.775,
-      "r18": false
-    },
-    {
-      "id": 42236,
-      "title": "Heaven Official's Blessing (old version)",
-      "score": 0.753,
-      "r18": false
-    },
-    {
-      "id": 3038,
-      "title": "Kyou Kara Ma no Tsuku Jiyuugyou!",
-      "score": 0.752,
-      "r18": false
-    },
     {
       "id": 53443,
       "title": "Sore wa Tabetewa Ikemasen",
-      "score": 0.737,
-      "r18": false
-    },
-    {
-      "id": 24834,
-      "title": "Saikou no Kimi",
-      "score": 0.733,
-      "r18": false
-    },
-    {
-      "id": 12723,
-      "title": "Vampire Library",
-      "score": 0.732,
-      "r18": false
-    },
-    {
-      "id": 15520,
-      "title": "Kuro Ookami to Kin Kitsune",
-      "score": 0.725,
-      "r18": false
-    },
-    {
-      "id": 37407,
-      "title": "Ogus's Law",
-      "score": 0.723,
-      "r18": false
-    },
-    {
-      "id": 14357,
-      "title": "Toukaidou HISAME -Kagerou-",
-      "score": 0.723,
-      "r18": false
-    },
-    {
-      "id": 9927,
-      "title": "Mister Mermaid",
-      "score": 0.721,
-      "r18": false
-    },
-    {
-      "id": 4988,
-      "title": "Silver Diamond",
-      "score": 0.709,
-      "r18": false
-    },
-    {
-      "id": 46579,
-      "title": "Liar, Where Are Vampires!",
-      "score": 0.706,
-      "r18": false
-    },
-    {
-      "id": 22974,
-      "title": "Silver Diamond Gaiden",
-      "score": 0.702,
-      "r18": false
-    },
-    {
-      "id": 3986,
-      "title": "Koori no Mamono no Monogatari",
-      "score": 0.702,
-      "r18": false
-    },
-    {
-      "id": 29077,
-      "title": "Gengetsurou Kitan",
-      "score": 0.7,
-      "r18": false
-    },
-    {
-      "id": 58110,
-      "title": "Koufuku no Ouji",
-      "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 21725,
-      "title": "The Wooden Savage And I",
-      "score": 0.688,
-      "r18": false
+      "score": 0.344,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 12110,
       "title": "Momoiro Tengu",
-      "score": 0.682,
-      "r18": false
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
-      "id": 30193,
-      "title": "Whose Baby Is It?",
-      "score": 0.68,
-      "r18": false
+      "id": 53948,
+      "title": "Daikirai!",
+      "score": 0.265,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 17008,
       "title": "Raising A Bat",
-      "score": 0.35,
-      "r18": false
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "pl",
+        "fr"
+      ]
     },
     {
-      "id": 9124,
-      "title": "I-ren",
-      "score": 0.303,
-      "r18": false
+      "id": 15520,
+      "title": "Kuro Ookami to Kin Kitsune",
+      "score": 0.247,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "hu",
+        "it"
+      ]
     },
     {
-      "id": 52180,
-      "title": "Mr. Ostrich",
-      "score": 0.27,
-      "r18": false
+      "id": 21725,
+      "title": "The Wooden Savage And I",
+      "score": 0.238,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 46516,
-      "title": "I'd Rather Believe",
-      "score": 0.236,
-      "r18": false
+      "id": 9927,
+      "title": "Mister Mermaid",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29077,
+      "title": "Gengetsurou Kitan",
+      "score": 0.228,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24834,
+      "title": "Saikou no Kimi",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3986,
+      "title": "Koori no Mamono no Monogatari",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "de",
+        "hu"
+      ]
+    },
+    {
+      "id": 12723,
+      "title": "Vampire Library",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4023,
       "title": "Koori no Mamono no Monogatari Gaiden",
-      "score": 0.233,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 46579,
+      "title": "Liar, Where Are Vampires!",
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
+    },
+    {
+      "id": 58110,
+      "title": "Koufuku no Ouji",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9124,
+      "title": "I-ren",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 30193,
+      "title": "Whose Baby Is It?",
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 22974,
+      "title": "Silver Diamond Gaiden",
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14357,
+      "title": "Toukaidou HISAME -Kagerou-",
+      "score": 0.173,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4988,
+      "title": "Silver Diamond",
+      "score": 0.163,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3038,
+      "title": "Kyou Kara Ma no Tsuku Jiyuugyou!",
+      "score": 0.162,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 46284,
       "title": "Tales of Seol Gongchan",
-      "score": 0.175,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50574,
+      "title": "Three Boys One Chinchilla",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37407,
+      "title": "Ogus's Law",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "mx",
+        "id",
+        "es",
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 52180,
+      "title": "Mr. Ostrich",
+      "score": 0.136,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 48266,
+      "title": "Crack of Dawn",
+      "score": 0.133,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

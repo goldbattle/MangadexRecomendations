@@ -1,44 +1,50 @@
 {
   "id": 55435,
   "title": "The Female Writer and Waitress",
-  "url": "https://api.mangadex.org/v2/manga/55435",
-  "last_updated": "March 12, 2021 20:37:47 UTC",
+  "url": "https://mangadex.org/manga/55435",
+  "last_updated": "March 18, 2021 14:03:20 UTC",
   "matches": [
     {
       "id": 55433,
       "title": "The Girl That Wants To Become Cuter, and the Clothing Shop Woman",
-      "score": 0.254,
-      "r18": false
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 20493,
       "title": "Love Stories Log",
-      "score": 0.24,
-      "r18": false
-    },
-    {
-      "id": 45466,
-      "title": "Taming Grace",
-      "score": 0.237,
-      "r18": false
-    },
-    {
-      "id": 51007,
-      "title": "Ghosts of Greywoods",
-      "score": 0.225,
-      "r18": false
+      "score": 0.213,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 30315,
       "title": "Her Shim-Cheong",
-      "score": 0.2,
-      "r18": false
+      "score": 0.177,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
     },
     {
       "id": 55081,
       "title": "After the Curtain Call",
-      "score": 0.18,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "br"
+      ]
     }
   ]
 }

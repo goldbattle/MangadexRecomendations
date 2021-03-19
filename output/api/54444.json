@@ -1,158 +1,244 @@
 {
   "id": 54444,
   "title": "FM Boy",
-  "url": "https://api.mangadex.org/v2/manga/54444",
-  "last_updated": "March 12, 2021 20:25:41 UTC",
+  "url": "https://mangadex.org/manga/54444",
+  "last_updated": "March 18, 2021 13:55:02 UTC",
   "matches": [
-    {
-      "id": 44507,
-      "title": "The Song of Theodor",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 30774,
-      "title": "May I Shake Your Hand",
-      "score": 0.428,
-      "r18": false
-    },
     {
       "id": 56430,
       "title": "Mommy Is Coming, Daddy Watch Out!",
-      "score": 0.405,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 56811,
       "title": "Billionaires Are Only for You",
-      "score": 0.402,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 41945,
       "title": "My Boyfriend is a Superstar",
-      "score": 0.395,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 40284,
       "title": "President Long Leg",
-      "score": 0.387,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 38551,
-      "title": "Starfall",
-      "score": 0.384,
-      "r18": false
-    },
-    {
-      "id": 55456,
-      "title": "Rise of the Strongest Master",
-      "score": 0.379,
-      "r18": false
-    },
-    {
-      "id": 50617,
-      "title": "Lucky Spring Day",
-      "score": 0.376,
-      "r18": false
-    },
-    {
-      "id": 38704,
-      "title": "Age Matters",
-      "score": 0.375,
-      "r18": false
-    },
-    {
-      "id": 43435,
-      "title": "Paranoid Love",
-      "score": 0.372,
-      "r18": false
-    },
-    {
-      "id": 56425,
-      "title": "Three Lies, One Kiss",
-      "score": 0.372,
-      "r18": false
-    },
-    {
-      "id": 52694,
-      "title": "Love Song",
-      "score": 0.371,
-      "r18": false
-    },
-    {
-      "id": 52160,
-      "title": "Time Difference",
-      "score": 0.371,
-      "r18": false
-    },
-    {
-      "id": 54443,
-      "title": "Girl of Dreams",
-      "score": 0.367,
-      "r18": false
-    },
-    {
-      "id": 52756,
-      "title": "Sister, Stop Messing With Me!",
-      "score": 0.367,
-      "r18": false
-    },
-    {
-      "id": 41154,
-      "title": "Indulged in Your Light",
-      "score": 0.366,
-      "r18": false
-    },
-    {
-      "id": 46882,
-      "title": "Lovable and Dark Wife",
-      "score": 0.364,
-      "r18": false
-    },
-    {
-      "id": 57511,
-      "title": "Black Lotus",
-      "score": 0.361,
-      "r18": false
+      "id": 30774,
+      "title": "May I Shake Your Hand",
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 51345,
       "title": "Please Stamp Me!",
-      "score": 0.36,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
-      "id": 38934,
-      "title": "Mire's Corridor",
-      "score": 0.36,
-      "r18": false
+      "id": 47348,
+      "title": "Extreme wastrel",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 46817,
-      "title": "61 Days with You",
-      "score": 0.359,
-      "r18": false
+      "id": 43435,
+      "title": "Paranoid Love",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru"
+      ]
+    },
+    {
+      "id": 56870,
+      "title": "Dancing Together",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 38551,
+      "title": "Starfall",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 52160,
+      "title": "Time Difference",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37424,
+      "title": "There's Nothing Else to Eat but You",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 47563,
+      "title": "My 36D Maid",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 58006,
+      "title": "Mysterious Love Potion",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 52147,
+      "title": "Netherworld Exchange Group",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 45594,
+      "title": "The Lover who doesn't lie",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 50880,
       "title": "The Devil in the Suit",
-      "score": 0.357,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 52694,
+      "title": "Love Song",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 56255,
       "title": "Abu Dhabi Romance",
-      "score": 0.356,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 38934,
+      "title": "Mire's Corridor",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59087,
+      "title": "Hello, Mr. Blue",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 41154,
+      "title": "Indulged in Your Light",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru"
+      ]
+    },
+    {
+      "id": 57511,
+      "title": "Black Lotus",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 51695,
       "title": "Nymph",
-      "score": 0.356,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 52756,
+      "title": "Sister, Stop Messing With Me!",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

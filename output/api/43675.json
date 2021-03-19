@@ -1,158 +1,243 @@
 {
   "id": 43675,
   "title": "Kitchen of Witch Hat",
-  "url": "https://api.mangadex.org/v2/manga/43675",
-  "last_updated": "February 11, 2021 16:28:42 UTC",
+  "url": "https://mangadex.org/manga/43675",
+  "last_updated": "March 18, 2021 12:25:00 UTC",
   "matches": [
-    {
-      "id": 24661,
-      "title": "Isekai Izakaya &quot;Gen&quot;",
-      "score": 0.671,
-      "r18": false
-    },
     {
       "id": 9143,
       "title": "Little Forest",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 528,
-      "title": "3-gatsu no Lion",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 36222,
-      "title": "Okashi na Tensei",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 85,
-      "title": "Bambino!",
-      "score": 0.657,
-      "r18": false
-    },
-    {
-      "id": 43785,
-      "title": "A Meal Makes Her Forget",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 10800,
-      "title": "Bambino! Secondo",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 54210,
-      "title": "Lisa's Table of Inedibles",
-      "score": 0.652,
-      "r18": false
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru"
+      ]
     },
     {
       "id": 51698,
       "title": "Izakaya Bottakuri",
-      "score": 0.499,
-      "r18": false
-    },
-    {
-      "id": 29891,
-      "title": "Rokuhoudou Yotsuiro Biyori",
-      "score": 0.463,
-      "r18": false
-    },
-    {
-      "id": 55725,
-      "title": "Haru to Ao no Obentoubako",
-      "score": 0.452,
-      "r18": false
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 12908,
       "title": "Wakako-Zake",
-      "score": 0.445,
-      "r18": false
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 55725,
+      "title": "Haru to Ao no Obentoubako",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29891,
+      "title": "Rokuhoudou Yotsuiro Biyori",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7712,
       "title": "Cooking Papa",
-      "score": 0.436,
-      "r18": false
-    },
-    {
-      "id": 29736,
-      "title": "Ichinichi Gaishutsuroku Hanchou",
-      "score": 0.402,
-      "r18": false
-    },
-    {
-      "id": 8194,
-      "title": "Kuneru Maruta",
-      "score": 0.392,
-      "r18": false
-    },
-    {
-      "id": 50649,
-      "title": "Maid-san wa Taberu Dake",
-      "score": 0.388,
-      "r18": false
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 17069,
       "title": "Konbini Ojousama",
-      "score": 0.388,
-      "r18": false
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 2205,
-      "title": "Shinya Shokudou",
-      "score": 0.385,
-      "r18": false
-    },
-    {
-      "id": 14163,
-      "title": "Takasugi-san Chi no Obentou",
-      "score": 0.384,
-      "r18": false
-    },
-    {
-      "id": 16737,
-      "title": "Papa to Oyaji no Uchi Gohan",
-      "score": 0.383,
-      "r18": false
-    },
-    {
-      "id": 35934,
-      "title": "Someya Mako no Jansou Meshi",
-      "score": 0.382,
-      "r18": false
+      "id": 29736,
+      "title": "Ichinichi Gaishutsuroku Hanchou",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21973,
       "title": "Hokusai to Meshi Saeareba",
-      "score": 0.372,
-      "r18": false
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 29917,
-      "title": "Slow Loop",
-      "score": 0.362,
-      "r18": false
+      "id": 32267,
+      "title": "Rin-chan Cookie no Himitsu",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 16737,
+      "title": "Papa to Oyaji no Uchi Gohan",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14163,
+      "title": "Takasugi-san Chi no Obentou",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 22379,
+      "title": "Chotto Ippai!",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19108,
+      "title": "Bar Lemon Heart",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53388,
+      "title": "Job hunting, Living together, Everyday meal",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50649,
+      "title": "Maid-san wa Taberu Dake",
+      "score": 0.267,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 10800,
+      "title": "Bambino! Secondo",
+      "score": 0.261,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 35934,
+      "title": "Someya Mako no Jansou Meshi",
+      "score": 0.261,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 8194,
+      "title": "Kuneru Maruta",
+      "score": 0.261,
+      "r18": false,
+      "languages": [
+        "pt",
+        "gb"
+      ]
+    },
+    {
+      "id": 2205,
+      "title": "Shinya Shokudou",
+      "score": 0.26,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6485,
+      "title": "Kinou Nani Tabeta?",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 18712,
       "title": "Emiya-san Chi no Kyou no Gohan",
-      "score": 0.348,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn",
+        "ru"
+      ]
+    },
+    {
+      "id": 29297,
+      "title": "Yama to Shokuyoku to Watashi",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 33619,
       "title": "Heisei Policemen!!",
-      "score": 0.347,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 15177,
+      "title": "The Chef",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

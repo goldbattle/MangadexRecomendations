@@ -1,158 +1,257 @@
 {
   "id": 33183,
   "title": "Thus Spoke Kishibe Rohan [Official Colored]",
-  "url": "https://api.mangadex.org/v2/manga/33183",
-  "last_updated": "February 10, 2021 12:33:53 UTC",
+  "url": "https://mangadex.org/manga/33183",
+  "last_updated": "March 18, 2021 10:57:27 UTC",
   "matches": [
-    {
-      "id": 4780,
-      "title": "Umineko no Naku Koro ni Chiru Episode 8: Twilight of the Golden Witch",
-      "score": 0.652,
-      "r18": false
-    },
     {
       "id": 10028,
       "title": "NOeSIS - The Story of Lying Memories",
-      "score": 0.381,
-      "r18": false
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1335,
       "title": "Kigata ga Kita! -",
-      "score": 0.363,
-      "r18": false
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 14785,
       "title": "Aku no Higan - Beyond Evil",
-      "score": 0.36,
-      "r18": false
-    },
-    {
-      "id": 1426,
-      "title": "Umineko no Naku Koro ni Episode 1: Legend of the Golden Witch",
-      "score": 0.343,
-      "r18": false
-    },
-    {
-      "id": 21384,
-      "title": "Innocent Devil",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 2917,
-      "title": "Continue",
-      "score": 0.334,
-      "r18": false
-    },
-    {
-      "id": 40997,
-      "title": "Umineko no Naku Koro ni Shi: Forgery of the Purple Logic",
-      "score": 0.33,
-      "r18": false
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 1799,
       "title": "Fuan no Tane",
-      "score": 0.329,
-      "r18": false
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 1801,
       "title": "Fuan no Tane +",
-      "score": 0.328,
-      "r18": false
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21384,
+      "title": "Innocent Devil",
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2917,
+      "title": "Continue",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "bg",
+        "gb"
+      ]
     },
     {
       "id": 7178,
       "title": "Metamorcode",
-      "score": 0.325,
-      "r18": false
-    },
-    {
-      "id": 2704,
-      "title": "8.1 - Yamada Yuusuke Gekijou",
-      "score": 0.321,
-      "r18": false
-    },
-    {
-      "id": 5149,
-      "title": "Karakuri Zoushi Ayatsuri Sakon",
-      "score": 0.32,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 467,
       "title": "Aphorism",
-      "score": 0.318,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "pl",
+        "es",
+        "gb",
+        "de"
+      ]
     },
     {
       "id": 19082,
       "title": "Rengoku Deadroll",
-      "score": 0.313,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "fr",
+        "ru"
+      ]
+    },
+    {
+      "id": 2704,
+      "title": "8.1 - Yamada Yuusuke Gekijou",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "br"
+      ]
+    },
+    {
+      "id": 5149,
+      "title": "Karakuri Zoushi Ayatsuri Sakon",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19648,
       "title": "Killer Dream",
-      "score": 0.309,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "sa"
+      ]
     },
     {
-      "id": 14936,
-      "title": "Warau Ishi",
-      "score": 0.305,
-      "r18": false
-    },
-    {
-      "id": 13842,
-      "title": "Shin Chimoguri Ringo to Kingyobachi Otoko",
-      "score": 0.301,
-      "r18": false
+      "id": 40997,
+      "title": "Umineko no Naku Koro ni Shi: Forgery of the Purple Logic",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 28857,
       "title": "Yoru ni Naru to Boku wa",
-      "score": 0.298,
-      "r18": false
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "mx",
+        "fr",
+        "ru",
+        "tr",
+        "it"
+      ]
     },
     {
-      "id": 8787,
-      "title": "Mirai Nikki Redial",
-      "score": 0.287,
-      "r18": false
-    },
-    {
-      "id": 24394,
-      "title": "Dark Edge",
-      "score": 0.283,
-      "r18": false
+      "id": 13842,
+      "title": "Shin Chimoguri Ringo to Kingyobachi Otoko",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2673,
       "title": "Higanbana no Saku Yoru ni",
-      "score": 0.282,
-      "r18": false
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 17174,
+      "title": "Youkai Ningen",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8787,
+      "title": "Mirai Nikki Redial",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24394,
+      "title": "Dark Edge",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14936,
+      "title": "Warau Ishi",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 13794,
       "title": "Online - The Comic",
-      "score": 0.282,
-      "r18": false
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 545,
-      "title": "Vampire",
-      "score": 0.279,
-      "r18": false
+      "id": 2199,
+      "title": "Majin Tantei Nougami Neuro",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 10091,
-      "title": "Sekai Oni",
-      "score": 0.279,
-      "r18": false
+      "id": 21552,
+      "title": "Munou na Nana",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "id",
+        "mx",
+        "il",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 11011,
+      "title": "The Dark Myth",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

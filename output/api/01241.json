@@ -2,31 +2,35 @@
   "id": 1241,
   "title": "Tarepanda Goes on an Adventure",
   "url": "https://mangadex.org/manga/1241",
-  "last_updated": "March 14, 2021 01:09:58 UTC",
+  "last_updated": "March 18, 2021 05:53:06 UTC",
   "matches": [
     {
       "id": 47921,
       "title": "Let's go, Torachiyo!",
-      "score": 0.232,
-      "r18": false
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 59935,
       "title": "Genshin Impact - Soft Emergency Pillow",
       "score": 0.207,
-      "r18": false
-    },
-    {
-      "id": 48116,
-      "title": "LOW LIFE",
-      "score": 0.105,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 59608,
       "title": "ELEMENTS: Users Of The Universe",
-      "score": 0.091,
-      "r18": false
+      "score": 0.09,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

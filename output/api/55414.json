@@ -1,32 +1,64 @@
 {
   "id": 55414,
   "title": "Ningyo no Hanakago",
-  "url": "https://api.mangadex.org/v2/manga/55414",
-  "last_updated": "March 12, 2021 20:37:31 UTC",
+  "url": "https://mangadex.org/manga/55414",
+  "last_updated": "March 18, 2021 14:03:09 UTC",
   "matches": [
     {
       "id": 9750,
       "title": "Jitsu wa Watashi wa",
-      "score": 0.124,
-      "r18": false
+      "score": 0.101,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "pl",
+        "fr",
+        "tr",
+        "it"
+      ]
     },
     {
       "id": 10801,
-      "title": "Mahoutsukai no Yome",
-      "score": 0.124,
-      "r18": false
+      "title": "The Ancient Magus' Bride",
+      "score": 0.101,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br",
+        "es",
+        "hu"
+      ]
     },
     {
       "id": 12672,
       "title": "Tate no Yuusha no Nariagari",
-      "score": 0.091,
-      "r18": false
+      "score": 0.08,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "ru",
+        "br",
+        "mx",
+        "id",
+        "pl",
+        "hu",
+        "it",
+        "sa"
+      ]
     },
     {
       "id": 18937,
       "title": "The Dragon's School is on the Top of the Mountain",
-      "score": 0.072,
-      "r18": false
+      "score": 0.058,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     }
   ]
 }

@@ -2,43 +2,66 @@
   "id": 550,
   "title": "Aki Sora",
   "url": "https://mangadex.org/manga/550",
-  "last_updated": "March 14, 2021 00:57:23 UTC",
+  "last_updated": "March 18, 2021 05:47:13 UTC",
   "matches": [
     {
       "id": 522,
       "title": "Kiss x Sis",
-      "score": 0.276,
-      "r18": false
-    },
-    {
-      "id": 50374,
-      "title": "Saitosanchi no Imoto wa Tottemo Mujaki na Tenshi to Akuma",
-      "score": 0.271,
-      "r18": false
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "pl",
+        "fr",
+        "it"
+      ]
     },
     {
       "id": 1653,
       "title": "Minamoto-kun Monogatari",
-      "score": 0.255,
-      "r18": false
+      "score": 0.254,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "id",
+        "br",
+        "it",
+        "mx",
+        "sa"
+      ]
     },
     {
       "id": 6608,
       "title": "Zettai Kunshu Shoukougun",
-      "score": 0.218,
-      "r18": false
-    },
-    {
-      "id": 12243,
-      "title": "Ookii Onnanoko wa Suki Desu ka?",
-      "score": 0.211,
-      "r18": false
+      "score": 0.217,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 42760,
       "title": "Onecha.",
-      "score": 0.207,
-      "r18": false
+      "score": 0.203,
+      "r18": false,
+      "languages": [
+        "fr",
+        "hk",
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 12243,
+      "title": "Ookii Onnanoko wa Suki Desu ka?",
+      "score": 0.196,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     }
   ]
 }

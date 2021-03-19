@@ -1,50 +1,91 @@
 {
   "id": 31943,
   "title": "The Story of How I met a Vampire",
-  "url": "https://api.mangadex.org/v2/manga/31943",
-  "last_updated": "February 10, 2021 08:27:56 UTC",
+  "url": "https://mangadex.org/manga/31943",
+  "last_updated": "March 18, 2021 10:47:07 UTC",
   "matches": [
     {
       "id": 2790,
       "title": "Bloody Little Circus",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 35486,
       "title": "Kono Sekai wa Tsuite Iru",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 30640,
       "title": "Van Helsing - Darkness Blood",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3928,
       "title": "Vampire Wing",
-      "score": 0.172,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 9501,
       "title": "The Vampire and the Bachelor Next Door",
-      "score": 0.153,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1985,
       "title": "Hellsing - The Dawn",
-      "score": 0.138,
-      "r18": false
+      "score": 0.115,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 17258,
+      "title": "Demi-chan wa Kataritai",
+      "score": 0.115,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "id",
+        "pl"
+      ]
     },
     {
       "id": 11,
       "title": "Noblesse",
-      "score": 0.115,
-      "r18": false
+      "score": 0.096,
+      "r18": false,
+      "languages": [
+        "ru",
+        "br",
+        "pl",
+        "it",
+        "gb"
+      ]
     }
   ]
 }

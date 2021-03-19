@@ -2,25 +2,40 @@
   "id": 17175,
   "title": "Ga-ma-n Dekinai",
   "url": "https://mangadex.org/manga/17175",
-  "last_updated": "March 15, 2021 21:35:15 UTC",
+  "last_updated": "March 18, 2021 08:21:57 UTC",
   "matches": [
     {
       "id": 37668,
       "title": "Tenshi wa Nido, Uso wo Tsuku",
-      "score": 0.232,
-      "r18": false
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 624,
       "title": "Kyou, Koi wo Hajimemasu",
       "score": 0.193,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "br",
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 16527,
       "title": "Kurohyou to 16-sai",
-      "score": 0.166,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "mx",
+        "fr"
+      ]
     }
   ]
 }

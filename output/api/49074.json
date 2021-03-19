@@ -2,43 +2,78 @@
   "id": 49074,
   "title": "Riot_404",
   "url": "https://mangadex.org/manga/49074",
-  "last_updated": "January 15, 2021 12:39:52 UTC",
+  "last_updated": "March 18, 2021 13:10:14 UTC",
   "matches": [
     {
       "id": 7710,
       "title": "Kidou Senshi Crossbone Gundam",
-      "score": 0.198,
-      "r18": false
+      "score": 0.113,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 2712,
       "title": "Blame!",
-      "score": 0.194,
-      "r18": false
-    },
-    {
-      "id": 25314,
-      "title": "Skull Man (SHIMAMOTO Kazuhiko)",
-      "score": 0.18,
-      "r18": false
+      "score": 0.095,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "bg",
+        "br",
+        "ua",
+        "hu",
+        "es",
+        "ro",
+        "id"
+      ]
     },
     {
       "id": 22580,
       "title": "Sweet Home",
-      "score": 0.13,
-      "r18": false
-    },
-    {
-      "id": 51776,
-      "title": "Another Life",
-      "score": 0.105,
-      "r18": false
+      "score": 0.08,
+      "r18": false,
+      "languages": [
+        "ru",
+        "br",
+        "pl",
+        "it",
+        "fr",
+        "ua",
+        "ir"
+      ]
     },
     {
       "id": 38984,
       "title": "Detective Conan - Zero The Enforcer",
-      "score": 0.093,
-      "r18": false
+      "score": 0.076,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 25314,
+      "title": "Skull Man (SHIMAMOTO Kazuhiko)",
+      "score": 0.074,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 51776,
+      "title": "Another Life",
+      "score": 0.074,
+      "r18": false,
+      "languages": [
+        "fr",
+        "tr",
+        "gb"
+      ]
     }
   ]
 }

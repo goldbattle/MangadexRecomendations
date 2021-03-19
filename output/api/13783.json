@@ -2,55 +2,87 @@
   "id": 13783,
   "title": "Fox Daughter",
   "url": "https://mangadex.org/manga/13783",
-  "last_updated": "March 15, 2021 08:38:24 UTC",
+  "last_updated": "March 18, 2021 07:43:12 UTC",
   "matches": [
     {
       "id": 11140,
       "title": "Kuro",
-      "score": 0.173,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "tr",
+        "fr"
+      ]
     },
     {
       "id": 36223,
       "title": "Witch of the Fire Scene",
       "score": 0.172,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 125,
       "title": "Gunslinger Girl",
-      "score": 0.16,
-      "r18": false
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 39526,
       "title": "An OL Trying to Escape the Bitterness of Work Swapped Bodies With a JS But Being an Elementary Schoolgirl Wasn't Easy Either",
       "score": 0.15,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 47082,
       "title": "Made in Abyss 47.X: Welcome Back",
       "score": 0.15,
-      "r18": false
-    },
-    {
-      "id": 16482,
-      "title": "Made in Abyss",
-      "score": 0.136,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3924,
       "title": "Extra Existence",
       "score": 0.125,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 38973,
       "title": "Made in Abyss Official Anthology",
       "score": 0.1,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 38955,
+      "title": "Fate/Grand Order: Epic of Remnant: Pseudo-Singularity IV: The Forbidden Advent Garden, Salem - Heretical Salem",
+      "score": 0.096,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "mx",
+        "es",
+        "ru"
+      ]
     }
   ]
 }

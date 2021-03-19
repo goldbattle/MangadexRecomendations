@@ -1,122 +1,173 @@
 {
   "id": 34493,
   "title": "Hanakage no Kioku",
-  "url": "https://api.mangadex.org/v2/manga/34493",
-  "last_updated": "February 10, 2021 16:29:30 UTC",
+  "url": "https://mangadex.org/manga/34493",
+  "last_updated": "March 18, 2021 11:08:23 UTC",
   "matches": [
     {
-      "id": 8905,
-      "title": "Hana no Miyako de",
-      "score": 0.728,
-      "r18": false
-    },
-    {
-      "id": 25475,
-      "title": "Tanbishugi",
-      "score": 0.704,
-      "r18": false
-    },
-    {
-      "id": 46418,
-      "title": "Ai towa Yoru ni Kizuku Mono",
-      "score": 0.69,
-      "r18": false
-    },
-    {
-      "id": 7329,
-      "title": "Natsu, Kimi ga Saku.",
-      "score": 0.688,
-      "r18": false
-    },
-    {
-      "id": 38717,
-      "title": "Konya wa Take-out Nite",
-      "score": 0.684,
-      "r18": false
-    },
-    {
-      "id": 15501,
-      "title": "Feng Yu Jiu Tian",
-      "score": 0.683,
-      "r18": false
-    },
-    {
-      "id": 28116,
-      "title": "Issho ni Kuraso",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 43039,
-      "title": "Chikakute Tooi",
-      "score": 0.677,
-      "r18": false
+      "id": 8406,
+      "title": "Dokonimo Nai Kuni",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 35513,
       "title": "Rumspringa no Joukei",
-      "score": 0.674,
-      "r18": false
+      "score": 0.284,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 8406,
-      "title": "Dokonimo Nai Kuni",
-      "score": 0.673,
-      "r18": false
+      "id": 43039,
+      "title": "Chikakute Tooi",
+      "score": 0.269,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 38796,
-      "title": "Red Thread of Fate",
-      "score": 0.668,
-      "r18": false
+      "id": 8905,
+      "title": "Hana no Miyako de",
+      "score": 0.254,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
-      "id": 39106,
-      "title": "Don't Cry My Baby",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 25119,
-      "title": "Yuuutsu na Asa",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 8716,
-      "title": "Nennen Saisai",
-      "score": 0.651,
-      "r18": false
+      "id": 28116,
+      "title": "Issho ni Kuraso",
+      "score": 0.248,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11263,
       "title": "Equus",
-      "score": 0.65,
-      "r18": false
+      "score": 0.243,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 24162,
       "title": "Haiiro no Umi",
-      "score": 0.344,
-      "r18": false
+      "score": 0.242,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
     },
     {
-      "id": 12846,
-      "title": "Trattoria Yamiichi",
-      "score": 0.314,
-      "r18": false
+      "id": 25119,
+      "title": "Yuuutsu na Asa",
+      "score": 0.242,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 25475,
+      "title": "Tanbishugi",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 38717,
+      "title": "Konya wa Take-out Nite",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8716,
+      "title": "Nennen Saisai",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "tr"
+      ]
+    },
+    {
+      "id": 7329,
+      "title": "Natsu, Kimi ga Saku.",
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 35452,
       "title": "Close Your Eyes",
-      "score": 0.294,
-      "r18": false
+      "score": 0.177,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 10791,
       "title": "Ichigo no Yume - Shimatsuya Risuke no Kaii Jikenchou",
-      "score": 0.239,
-      "r18": false
+      "score": 0.177,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 39106,
+      "title": "Don't Cry My Baby",
+      "score": 0.177,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 38796,
+      "title": "Red Thread of Fate",
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 15501,
+      "title": "Feng Yu Jiu Tian",
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "fr",
+        "it",
+        "gb"
+      ]
     }
   ]
 }

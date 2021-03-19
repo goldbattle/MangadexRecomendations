@@ -1,62 +1,118 @@
 {
   "id": 52272,
   "title": "Kurozukin",
-  "url": "https://api.mangadex.org/v2/manga/52272",
-  "last_updated": "February 05, 2021 12:21:43 UTC",
+  "url": "https://mangadex.org/manga/52272",
+  "last_updated": "March 18, 2021 13:36:55 UTC",
   "matches": [
     {
       "id": 585,
       "title": "Elfen Lied",
-      "score": 0.172,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br",
+        "pl"
+      ]
     },
     {
       "id": 33778,
       "title": "Zombie 100 ~Zombie ni Naru Made ni Shitai 100 no Koto~",
-      "score": 0.172,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "ru"
+      ]
+    },
+    {
+      "id": 34617,
+      "title": "Libidors",
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "cn",
+        "gb",
+        "br",
+        "it",
+        "ru",
+        "id"
+      ]
     },
     {
       "id": 56288,
       "title": "Dead Maximum",
-      "score": 0.138,
-      "r18": false
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20573,
       "title": "Machigatta Ko wo Mahou Shoujo ni shite shimatta",
-      "score": 0.126,
-      "r18": false
+      "score": 0.105,
+      "r18": false,
+      "languages": [
+        "mx",
+        "ru",
+        "tr",
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 9024,
       "title": "Imawabi no Dakini",
-      "score": 0.115,
-      "r18": false
+      "score": 0.096,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 12797,
       "title": "Dororon Enbi-chan",
-      "score": 0.115,
-      "r18": false
+      "score": 0.096,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19620,
       "title": "Devilman vs. Hades",
-      "score": 0.106,
-      "r18": false
+      "score": 0.089,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7660,
       "title": "Keyman - The Hand of Judgement",
-      "score": 0.099,
-      "r18": false
+      "score": 0.082,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "ru",
+        "fr",
+        "es"
+      ]
     },
     {
       "id": 1400,
       "title": "Eater",
-      "score": 0.081,
-      "r18": false
+      "score": 0.068,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

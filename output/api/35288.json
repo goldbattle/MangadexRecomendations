@@ -1,158 +1,248 @@
 {
   "id": 35288,
   "title": "Selling Me Softly",
-  "url": "https://api.mangadex.org/v2/manga/35288",
-  "last_updated": "February 10, 2021 16:41:28 UTC",
+  "url": "https://mangadex.org/manga/35288",
+  "last_updated": "March 18, 2021 11:15:00 UTC",
   "matches": [
     {
-      "id": 13943,
-      "title": "Sensou Gekijou",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 1938,
-      "title": "Ben-to",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 2250,
-      "title": "Hameln no Violin Hiki - Shchelkunchik",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 662,
-      "title": "Shinyaku",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 20426,
-      "title": "Sunset Rose",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 21898,
-      "title": "Long Live the King",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 984,
-      "title": "Angel Beats! - Heaven's Door",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 237,
-      "title": "Kaitai Shinsho &Oslash;",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 8245,
-      "title": "World Trigger",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 13963,
-      "title": "Yu-Gi-Oh! GX",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 20231,
-      "title": "Majo no Geboku to Maou no Tsuno",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 15150,
-      "title": "Jitsuryokuha Elite Jin",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 353,
-      "title": "Shibatora",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 3867,
-      "title": "M&Auml;R",
-      "score": 0.65,
-      "r18": false
-    },
-    {
-      "id": 21773,
-      "title": "Kekkai Sensen: Back 2 Back",
-      "score": 0.65,
-      "r18": false
-    },
-    {
-      "id": 16452,
-      "title": "Sonic World Adventure",
-      "score": 0.461,
-      "r18": false
+      "id": 51955,
+      "title": "Cardfight!! Vanguard G: THE PROLOGUE",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 35629,
       "title": "Another Vanguard - Seidou no Asuka",
-      "score": 0.46,
-      "r18": false
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 9583,
-      "title": "Ginga Patrol Jako",
-      "score": 0.456,
-      "r18": false
+      "id": 5103,
+      "title": "Crows ZERO II - Suzuran x Housen",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 18496,
       "title": "Shidenkai no Maki",
-      "score": 0.455,
-      "r18": false
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 3931,
-      "title": "User",
-      "score": 0.453,
-      "r18": false
-    },
-    {
-      "id": 87,
-      "title": "Checkmate (KIM SangYeop)",
-      "score": 0.452,
-      "r18": false
-    },
-    {
-      "id": 51955,
-      "title": "Cardfight!! Vanguard G: THE PROLOGUE",
-      "score": 0.451,
-      "r18": false
+      "id": 18315,
+      "title": "The Crest",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6427,
       "title": "Kidou Tenshi Angelic Layer",
-      "score": 0.448,
-      "r18": false
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 16452,
+      "title": "Sonic World Adventure",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9583,
+      "title": "Ginga Patrol Jako",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6962,
+      "title": "Keishichou 24-ji",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1750,
+      "title": "Spicy Spies",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 3931,
+      "title": "User",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 33027,
       "title": "Ne0;lation",
-      "score": 0.435,
-      "r18": false
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "hk",
+        "fr",
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 6121,
       "title": "Madofuki Park",
-      "score": 0.429,
-      "r18": false
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10357,
+      "title": "Zai x 10",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "fr"
+      ]
+    },
+    {
+      "id": 6219,
+      "title": "Chagecha",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 17689,
+      "title": "Akagi Familia",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2423,
+      "title": "Cyborg Jiichan G",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1938,
+      "title": "Ben-to",
+      "score": 0.319,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "it"
+      ]
+    },
+    {
+      "id": 87,
+      "title": "Checkmate (KIM SangYeop)",
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8604,
+      "title": "Ultimate Path Private High School",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3231,
+      "title": "Hareluya",
+      "score": 0.278,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 10984,
+      "title": "Black Dog",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 21614,
+      "title": "Poro's Foreign Exchange Records",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 2031,
+      "title": "Black Warriors",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 32110,
+      "title": "Monkz",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

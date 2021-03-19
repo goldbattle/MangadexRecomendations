@@ -2,31 +2,37 @@
   "id": 55810,
   "title": "Wasuretai Itoshii Hito",
   "url": "https://mangadex.org/manga/55810",
-  "last_updated": "March 13, 2021 00:18:24 UTC",
+  "last_updated": "March 18, 2021 14:06:29 UTC",
   "matches": [
-    {
-      "id": 35005,
-      "title": "Iron Cock",
-      "score": 0.347,
-      "r18": false
-    },
     {
       "id": 35298,
       "title": "Uso to Coffee to Amai Kiss",
       "score": 0.24,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 18021,
       "title": "Ever After",
-      "score": 0.164,
-      "r18": false
+      "score": 0.163,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 10465,
       "title": "Dame BL (Anthology)",
-      "score": 0.139,
-      "r18": false
+      "score": 0.13,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     }
   ]
 }

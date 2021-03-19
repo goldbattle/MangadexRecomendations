@@ -1,158 +1,283 @@
 {
   "id": 44210,
   "title": "Awkward Senpai",
-  "url": "https://api.mangadex.org/v2/manga/44210",
-  "last_updated": "February 11, 2021 16:37:37 UTC",
+  "url": "https://mangadex.org/manga/44210",
+  "last_updated": "March 18, 2021 12:29:28 UTC",
   "matches": [
-    {
-      "id": 35447,
-      "title": "Ice Guy and the Cool Female Colleague",
-      "score": 0.687,
-      "r18": false
-    },
-    {
-      "id": 43610,
-      "title": "My Tiny Senpai From Work",
-      "score": 0.471,
-      "r18": false
-    },
     {
       "id": 34639,
       "title": "Oji-san to Marshmallow",
-      "score": 0.402,
-      "r18": false
-    },
-    {
-      "id": 51755,
-      "title": "Koi Suru Fukurahagi",
-      "score": 0.394,
-      "r18": false
-    },
-    {
-      "id": 48063,
-      "title": "The Story of a Waitress and Her Customer",
-      "score": 0.389,
-      "r18": false
+      "score": 0.362,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 53214,
       "title": "Docchi mo Kizukanai",
-      "score": 0.384,
-      "r18": false
+      "score": 0.362,
+      "r18": false,
+      "languages": [
+        "vn",
+        "gb",
+        "br",
+        "mx"
+      ]
     },
     {
-      "id": 45852,
-      "title": "Chicchai Kanojo Senpai ga Kawaisugiru.",
-      "score": 0.382,
-      "r18": false
-    },
-    {
-      "id": 17073,
-      "title": "Wotaku ni Koi wa Muzukashii",
-      "score": 0.37,
-      "r18": false
-    },
-    {
-      "id": 58145,
-      "title": "Kuuki ga &quot;Yomeru&quot; Shinnyushain to Buaiso na Senpai no Hanashi (Serialization)",
-      "score": 0.361,
-      "r18": false
-    },
-    {
-      "id": 42225,
-      "title": "Hagemashi Yome (Pre-Serialization)",
-      "score": 0.345,
-      "r18": false
-    },
-    {
-      "id": 41112,
-      "title": "Kuuki ga &quot;Yomeru&quot; Shinnyushain to Buaiso na Senpai no Hanashi (Web-comic)",
-      "score": 0.345,
-      "r18": false
-    },
-    {
-      "id": 58291,
-      "title": "How about a friend at night?",
-      "score": 0.344,
-      "r18": false
+      "id": 43610,
+      "title": "My Tiny Senpai From Work",
+      "score": 0.346,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "br",
+        "id",
+        "tr"
+      ]
     },
     {
       "id": 38448,
       "title": "Futari Ashita mo Sorenari ni",
-      "score": 0.342,
-      "r18": false
-    },
-    {
-      "id": 20985,
-      "title": "Yagi-kun to Mei-san",
-      "score": 0.339,
-      "r18": false
-    },
-    {
-      "id": 59191,
-      "title": "Hana Wants This Flower to Bloom!",
-      "score": 0.337,
-      "r18": false
-    },
-    {
-      "id": 42164,
-      "title": "Minegishi-san wa Ootsu-kun ni Tabesasetai",
-      "score": 0.334,
-      "r18": false
-    },
-    {
-      "id": 47575,
-      "title": "Wednesday's Wondrous Lunch",
-      "score": 0.326,
-      "r18": false
-    },
-    {
-      "id": 23825,
-      "title": "Senpai ga Uzai Kouhai no Hanashi",
-      "score": 0.326,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "mx",
+        "id",
+        "it"
+      ]
     },
     {
       "id": 35766,
       "title": "Shounen, Chotto Sabotteko?",
-      "score": 0.321,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "ru",
+        "id"
+      ]
     },
     {
-      "id": 49752,
-      "title": "Kijima-san to Yamada-san",
-      "score": 0.321,
-      "r18": false
+      "id": 20985,
+      "title": "Yagi-kun to Mei-san",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
     },
     {
-      "id": 47510,
-      "title": "It's Fun Having a 300,000 Yen a Month Job Welcoming Home an Onee-san Who Doesn't Find Meaning in a Job That Pays Her 500,000 Yen a Month",
-      "score": 0.309,
-      "r18": false
+      "id": 59191,
+      "title": "Hana Wants This Flower to Bloom!",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 15991,
-      "title": "Koi wa Ameagari no You ni",
-      "score": 0.307,
-      "r18": false
+      "id": 42225,
+      "title": "Hagemashi Yome (Pre-Serialization)",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 47340,
-      "title": "Day Off",
-      "score": 0.305,
-      "r18": false
+      "id": 35447,
+      "title": "Ice Guy and the Cool Female Colleague",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "br",
+        "id"
+      ]
     },
     {
-      "id": 31227,
-      "title": "Mado Kara Madoka-chan",
-      "score": 0.304,
-      "r18": false
+      "id": 17073,
+      "title": "Wotaku ni Koi wa Muzukashii",
+      "score": 0.278,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "mx",
+        "id",
+        "es"
+      ]
+    },
+    {
+      "id": 48063,
+      "title": "The Story of a Waitress and Her Customer",
+      "score": 0.271,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "fr",
+        "ua",
+        "mx",
+        "id"
+      ]
+    },
+    {
+      "id": 51755,
+      "title": "Koi Suru Fukurahagi",
+      "score": 0.267,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 45852,
+      "title": "Chicchai Kanojo Senpai ga Kawaisugiru.",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 56231,
+      "title": "Story of a Small Senior In My Company",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 58145,
+      "title": "Kuuki ga &quot;Yomeru&quot; Shinnyushain to Buaiso na Senpai no Hanashi (Serialization)",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "mx"
+      ]
+    },
+    {
+      "id": 41112,
+      "title": "Kuuki ga &quot;Yomeru&quot; Shinnyushain to Buaiso na Senpai no Hanashi (Web-comic)",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "id"
+      ]
+    },
+    {
+      "id": 23825,
+      "title": "Senpai ga Uzai Kouhai no Hanashi",
+      "score": 0.252,
+      "r18": false,
+      "languages": [
+        "br",
+        "ro",
+        "gb",
+        "ru",
+        "it",
+        "tr",
+        "fr",
+        "id",
+        "pl"
+      ]
+    },
+    {
+      "id": 47575,
+      "title": "Wednesday's Wondrous Lunch",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 42164,
+      "title": "Minegishi-san wa Ootsu-kun ni Tabesasetai",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21428,
+      "title": "Osake wa Fuufu ni Natte Kara",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx"
+      ]
     },
     {
       "id": 48691,
       "title": "The Senior and Junior Broke up Three Months Ago",
-      "score": 0.301,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 31227,
+      "title": "Mado Kara Madoka-chan",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 30318,
+      "title": "Gohoubi Ohitori Sushi",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 26955,
+      "title": "Chocolate Confusion",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 41729,
+      "title": "Harukawa-san is Hungry Today Too.",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     }
   ]
 }

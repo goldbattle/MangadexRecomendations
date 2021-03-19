@@ -1,158 +1,253 @@
 {
   "id": 54460,
   "title": "Shaman King: Marcos",
-  "url": "https://api.mangadex.org/v2/manga/54460",
-  "last_updated": "March 12, 2021 20:25:53 UTC",
+  "url": "https://mangadex.org/manga/54460",
+  "last_updated": "March 18, 2021 13:55:10 UTC",
   "matches": [
-    {
-      "id": 2280,
-      "title": "Shaman King",
-      "score": 0.772,
-      "r18": false
-    },
     {
       "id": 25621,
       "title": "Shaman King: The Super Star",
-      "score": 0.766,
-      "r18": false
+      "score": 0.747,
+      "r18": false,
+      "languages": [
+        "ru",
+        "mx",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 2280,
+      "title": "Shaman King",
+      "score": 0.714,
+      "r18": false,
+      "languages": [
+        "il",
+        "gb",
+        "pl",
+        "ru",
+        "tr",
+        "ua"
+      ]
     },
     {
       "id": 3810,
       "title": "Shaman King Zero",
-      "score": 0.739,
-      "r18": false
-    },
-    {
-      "id": 22236,
-      "title": "Rurouni Kenshin: Hokkaido-hen",
-      "score": 0.726,
-      "r18": false
-    },
-    {
-      "id": 1417,
-      "title": "Shingetsutan Tsukihime",
-      "score": 0.721,
-      "r18": false
-    },
-    {
-      "id": 20131,
-      "title": "Fumetsu no Anata e",
-      "score": 0.72,
-      "r18": false
-    },
-    {
-      "id": 1552,
-      "title": "Melty Blood",
-      "score": 0.718,
-      "r18": false
-    },
-    {
-      "id": 9844,
-      "title": "Shingeki no Kyojin - Before the Fall",
-      "score": 0.717,
-      "r18": false
-    },
-    {
-      "id": 4994,
-      "title": "Saint Seiya",
-      "score": 0.716,
-      "r18": false
+      "score": 0.71,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 4350,
       "title": "Shaman King Flowers",
-      "score": 0.715,
-      "r18": false
+      "score": 0.678,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru"
+      ]
+    },
+    {
+      "id": 5476,
+      "title": "SandLand",
+      "score": 0.378,
+      "r18": false,
+      "languages": [
+        "bg",
+        "gb"
+      ]
+    },
+    {
+      "id": 19551,
+      "title": "Ni Luo Ya - Niraya",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 1600,
+      "title": "Othello",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5812,
+      "title": "Kacchu no Senshi Gamu!",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4583,
+      "title": "Gorgeous Irene",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 11198,
+      "title": "Daikusei Kuuki Heishidan",
+      "score": 0.326,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4684,
+      "title": "Ga-rei ~Tsuina no Shou~",
+      "score": 0.321,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9207,
+      "title": "Zettai Karen Children: THE UNLIMITED - Hyoubu Kyousuke",
+      "score": 0.315,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 2745,
+      "title": "Togari",
+      "score": 0.313,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de"
+      ]
+    },
+    {
+      "id": 26387,
+      "title": "Composi!",
+      "score": 0.312,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3061,
+      "title": "Crescent Noise",
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 13900,
+      "title": "Yo-kai Watch",
+      "score": 0.308,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 24761,
       "title": "K - Return of Kings",
-      "score": 0.714,
-      "r18": false
-    },
-    {
-      "id": 2346,
-      "title": "Shakugan no Shana",
-      "score": 0.714,
-      "r18": false
-    },
-    {
-      "id": 2340,
-      "title": "Fate/stay night",
-      "score": 0.713,
-      "r18": false
-    },
-    {
-      "id": 11841,
-      "title": "Saint Seiya - Episode G Assassin",
-      "score": 0.712,
-      "r18": false
-    },
-    {
-      "id": 5840,
-      "title": "BLOOD+",
-      "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 25435,
-      "title": "Madara",
-      "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 2250,
-      "title": "Hameln no Violin Hiki - Shchelkunchik",
-      "score": 0.71,
-      "r18": false
-    },
-    {
-      "id": 3089,
-      "title": "Corpse Party - Another Child",
-      "score": 0.71,
-      "r18": false
-    },
-    {
-      "id": 7344,
-      "title": "Shin Sekai Yori",
-      "score": 0.71,
-      "r18": false
-    },
-    {
-      "id": 4780,
-      "title": "Umineko no Naku Koro ni Chiru Episode 8: Twilight of the Golden Witch",
-      "score": 0.71,
-      "r18": false
-    },
-    {
-      "id": 6270,
-      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo (Official Colored)",
-      "score": 0.709,
-      "r18": false
+      "score": 0.303,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 47474,
       "title": "Saint Seiya (Kanzenban Edition)",
-      "score": 0.709,
-      "r18": false
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6751,
+      "title": "Genocider Mami",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 15145,
+      "title": "Surebrec -NORA the 2nd-",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 10464,
       "title": "Saint Seiya - Next Dimension",
-      "score": 0.708,
-      "r18": false
+      "score": 0.265,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "es"
+      ]
     },
     {
-      "id": 28542,
-      "title": "JoJo's Bizarre Adventure Part 6 - Stone Ocean",
-      "score": 0.707,
-      "r18": false
+      "id": 4338,
+      "title": "Naipes",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 353,
-      "title": "Shibatora",
-      "score": 0.707,
-      "r18": false
+      "id": 8820,
+      "title": "Devil Survivor 2 &mdash;Show Your Free Will&mdash;",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9644,
+      "title": "D.Y.N. Freaks",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru",
+        "hu"
+      ]
+    },
+    {
+      "id": 15116,
+      "title": "Goku",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

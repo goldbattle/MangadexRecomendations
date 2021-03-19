@@ -2,37 +2,59 @@
   "id": 57077,
   "title": "Dragon Ball Shippuden",
   "url": "https://mangadex.org/manga/57077",
-  "last_updated": "March 13, 2021 00:33:48 UTC",
+  "last_updated": "March 18, 2021 14:17:04 UTC",
   "matches": [
     {
       "id": 43578,
       "title": "O Feriadao",
       "score": 0.16,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 58242,
       "title": "Dragon Ball - I'm the Sexiest (Doujinshi)",
       "score": 0.16,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21810,
       "title": "Argate Online",
       "score": 0.1,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "it",
+        "id",
+        "mx"
+      ]
     },
     {
       "id": 6838,
       "title": "Keroro Gunsou",
       "score": 0.086,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 564,
       "title": "Nagasarete Airantou",
-      "score": 0.047,
-      "r18": false
+      "score": 0.046,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "ru"
+      ]
     }
   ]
 }

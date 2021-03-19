@@ -1,14 +1,20 @@
 {
   "id": 33140,
   "title": "Fuwatoro Jusei Chuudoku!",
-  "url": "https://api.mangadex.org/v2/manga/33140",
-  "last_updated": "February 10, 2021 12:33:11 UTC",
+  "url": "https://mangadex.org/manga/33140",
+  "last_updated": "March 18, 2021 10:57:06 UTC",
   "matches": [
     {
       "id": 31646,
       "title": "Wanting More, Wanting Better",
-      "score": 0.24,
-      "r18": true
+      "score": 0.213,
+      "r18": true,
+      "languages": [
+        "hk",
+        "gb",
+        "br",
+        "kr"
+      ]
     }
   ]
 }

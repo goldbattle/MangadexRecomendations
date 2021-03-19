@@ -1,74 +1,104 @@
 {
   "id": 50648,
   "title": "Tate no Yuusha no Nariagari Aiya Kyu Special Works - Yuusha no Shoukan",
-  "url": "https://api.mangadex.org/v2/manga/50648",
-  "last_updated": "February 05, 2021 08:26:56 UTC",
+  "url": "https://mangadex.org/manga/50648",
+  "last_updated": "March 18, 2021 13:23:21 UTC",
   "matches": [
     {
       "id": 54458,
       "title": "Tate no Yuusha No Nariagari - Mobile Game Short Comics",
-      "score": 0.838,
-      "r18": false
-    },
-    {
-      "id": 50755,
-      "title": "Kage no Jitsuryokusha ni Naritakute! Shadow Gaiden",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 23994,
-      "title": "Bokura no Meikyu",
-      "score": 0.322,
-      "r18": false
-    },
-    {
-      "id": 13277,
-      "title": "Marine Corps Yumi",
-      "score": 0.32,
-      "r18": false
-    },
-    {
-      "id": 31183,
-      "title": "Tensura Nikki Tensei Shitara Slime Datta Ken",
-      "score": 0.311,
-      "r18": false
-    },
-    {
-      "id": 45621,
-      "title": "Maburaho VS Slayers!? - Dragon All Stars Gekitou-hen",
-      "score": 0.306,
-      "r18": false
-    },
-    {
-      "id": 20482,
-      "title": "Oishii Ayakashi x Uchi no Maou Kamimasen yo",
-      "score": 0.297,
-      "r18": false
-    },
-    {
-      "id": 50890,
-      "title": "4 Panel Theater!",
-      "score": 0.295,
-      "r18": false
-    },
-    {
-      "id": 38466,
-      "title": "Divine Gate Yonkoma",
-      "score": 0.294,
-      "r18": false
-    },
-    {
-      "id": 48294,
-      "title": "Land of Heroes",
-      "score": 0.255,
-      "r18": false
+      "score": 0.807,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 30820,
       "title": "Tate no Yuusha no Toaru Ichinichi",
-      "score": 0.203,
-      "r18": false
+      "score": 0.711,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "tr",
+        "ru",
+        "es"
+      ]
+    },
+    {
+      "id": 23994,
+      "title": "Bokura no Meikyu",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20482,
+      "title": "Oishii Ayakashi x Uchi no Maou Kamimasen yo",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 50890,
+      "title": "4 Panel Theater!",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 13277,
+      "title": "Marine Corps Yumi",
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 31183,
+      "title": "Tensura Nikki Tensei Shitara Slime Datta Ken",
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru",
+        "br",
+        "it",
+        "fr"
+      ]
+    },
+    {
+      "id": 50755,
+      "title": "Kage no Jitsuryokusha ni Naritakute! Shadow Gaiden",
+      "score": 0.169,
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb"
+      ]
+    },
+    {
+      "id": 48294,
+      "title": "Land of Heroes",
+      "score": 0.154,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "br"
+      ]
     }
   ]
 }

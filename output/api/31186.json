@@ -1,158 +1,234 @@
 {
   "id": 31186,
   "title": "Doujinshi: The Scum Villain&rsquo;s Self-Saving System",
-  "url": "https://api.mangadex.org/v2/manga/31186",
-  "last_updated": "February 10, 2021 08:16:11 UTC",
+  "url": "https://mangadex.org/manga/31186",
+  "last_updated": "March 18, 2021 10:40:49 UTC",
   "matches": [
-    {
-      "id": 13945,
-      "title": "Mix Mix Chocolate",
-      "score": 0.734,
-      "r18": true
-    },
-    {
-      "id": 12337,
-      "title": "Bousou Kareshi",
-      "score": 0.731,
-      "r18": true
-    },
     {
       "id": 35193,
       "title": "Boku no Hero Academia - Oboreru Maboroshi (Doujinshi)",
-      "score": 0.723,
-      "r18": true
+      "score": 0.248,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 33242,
       "title": "Kimi no Unaji ni Kanpai! - Unapai (Doujinshi)",
-      "score": 0.709,
-      "r18": true
+      "score": 0.234,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 35743,
-      "title": "Denkou Sekka Boys Chouhatsu - Taffy (Doujinshi)",
-      "score": 0.708,
-      "r18": true
+      "id": 57004,
+      "title": "Elle to Takara dj - Ellemin",
+      "score": 0.23,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 53986,
-      "title": "Tokyo Yaban no Chizu - Full Max (Doujinshi)",
-      "score": 0.708,
-      "r18": true
+      "id": 36259,
+      "title": "Diamond no Ace - Konnano Hajimete (Doujinshi)",
+      "score": 0.23,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 25022,
-      "title": "Prince of Sahara",
-      "score": 0.704,
-      "r18": true
+      "id": 8606,
+      "title": "Namida Hanamizu Gusyogusyo Danshi",
+      "score": 0.23,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 26559,
-      "title": "Barairo no Kenkyuu to Hanakurafu Kimi",
-      "score": 0.701,
-      "r18": true
+      "id": 49462,
+      "title": "Diamond no Ace - Stop!! Sawamura kun! (Doujinshi)",
+      "score": 0.23,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 34859,
-      "title": "Zetsuai - Teikoku Juurin (Doujinshi)",
-      "score": 0.696,
-      "r18": true
+      "id": 57799,
+      "title": "Daiya no Ace - Ubatta Monogachi (Doujinshi)",
+      "score": 0.23,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 34860,
-      "title": "Zetsuai - Kreuz ID 373 (Doujinshi)",
-      "score": 0.69,
-      "r18": true
+      "id": 19857,
+      "title": "Narrow Place Collection",
+      "score": 0.23,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 49978,
+      "title": "Shisen Beya",
+      "score": 0.23,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 56694,
+      "title": "Haikyuu!! - S (Doujinshi)",
+      "score": 0.23,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 35800,
+      "title": "Diamond no Ace - Blood Is Not Thicker Than Water (Doujinshi)",
+      "score": 0.23,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 33868,
+      "title": "Shingeki no Kyojin - Nigakute Amai no (Doujinshi)",
+      "score": 0.23,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 41062,
+      "title": "Diamond no Ace - Addicted (Doujinshi)",
+      "score": 0.23,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55640,
+      "title": "Diamond no Ace - A Physical Devil (Doujinshi)",
+      "score": 0.23,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 46656,
+      "title": "Diamond no Ace - Mei-san wa Kisu ga Suki (Doujinshi)",
+      "score": 0.23,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19485,
+      "title": "Fallintrash",
+      "score": 0.23,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37045,
+      "title": "DOUBLE DECKER! Doug and Kirill - An Asshole Falls In Love (Doujinshi)",
+      "score": 0.23,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 49434,
+      "title": "Diamond no Ace - Senpai, Kocchi Muite (Doujinshi)",
+      "score": 0.23,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 45396,
+      "title": "Diamond no Ace - Sincerest Apologies For My Stupid Dog (Doujinshi)",
+      "score": 0.23,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 35801,
+      "title": "Diamond no Ace - You Say I'm Crazy (Doujinshi)",
+      "score": 0.23,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50591,
+      "title": "Hypnosis Mic - Answer (Doujinshi)",
+      "score": 0.23,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 37394,
       "title": "Ore no Honki o Misete Yaru",
-      "score": 0.689,
-      "r18": true
+      "score": 0.228,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 33241,
-      "title": "Gamerz Heaven! - Gamerz Heaven! Director's Cut (Doujinshi)",
-      "score": 0.686,
-      "r18": true
+      "id": 47917,
+      "title": "Isekai Sex Trip",
+      "score": 0.221,
+      "r18": true,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     },
     {
-      "id": 12057,
-      "title": "$10",
-      "score": 0.683,
-      "r18": true
+      "id": 59615,
+      "title": "Diamond no Ace - Peach (Doujinshi)",
+      "score": 0.216,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 37764,
-      "title": "Namaiki",
-      "score": 0.682,
-      "r18": true
-    },
-    {
-      "id": 37777,
-      "title": "Dive",
-      "score": 0.678,
-      "r18": true
-    },
-    {
-      "id": 15497,
-      "title": "Ano Hi, Seifuku de",
-      "score": 0.678,
-      "r18": true
-    },
-    {
-      "id": 44184,
-      "title": "Oboreru Omega",
-      "score": 0.674,
-      "r18": true
-    },
-    {
-      "id": 355,
-      "title": "Bachi\u2606Bachi",
-      "score": 0.674,
-      "r18": true
-    },
-    {
-      "id": 30992,
-      "title": "Doku ni mo Naranai Propose",
-      "score": 0.672,
-      "r18": true
-    },
-    {
-      "id": 21239,
-      "title": "Yuri!!! on Ice - Eros: Captured In The Pleasure Garden (Doujinshi)",
-      "score": 0.67,
-      "r18": true
-    },
-    {
-      "id": 34845,
-      "title": "3P, Hajimemashita!",
-      "score": 0.667,
-      "r18": true
-    },
-    {
-      "id": 45039,
-      "title": "Fushidara Sei no Oujisama",
-      "score": 0.667,
-      "r18": true
-    },
-    {
-      "id": 25913,
-      "title": "Ore-tachi no Kijou Jitai!!",
-      "score": 0.667,
-      "r18": true
-    },
-    {
-      "id": 24897,
-      "title": "Drugless Sex",
-      "score": 0.664,
-      "r18": true
-    },
-    {
-      "id": 54966,
-      "title": "Sensei wa Benki ja Arimasen",
-      "score": 0.664,
-      "r18": true
+      "id": 50573,
+      "title": "Diamond no Ace - The Day Before New Year's Eve (Doujinshi)",
+      "score": 0.215,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

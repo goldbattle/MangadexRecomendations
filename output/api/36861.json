@@ -2,55 +2,49 @@
   "id": 36861,
   "title": "Kirie",
   "url": "https://mangadex.org/manga/36861",
-  "last_updated": "March 17, 2021 20:32:26 UTC",
+  "last_updated": "March 18, 2021 11:28:09 UTC",
   "matches": [
-    {
-      "id": 38603,
-      "title": "Matsugo no Yume",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 26565,
-      "title": "Nakeru BL (Anthology)",
-      "score": 0.25,
-      "r18": false
-    },
     {
       "id": 18394,
       "title": "Sabita Yoru Demo Koi wa Sasayaku - Azami (Doujinshi)",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 27155,
-      "title": "Classmate",
-      "score": 0.24,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 19635,
       "title": "Fubin BL (Anthology)",
       "score": 0.214,
-      "r18": false
-    },
-    {
-      "id": 20301,
-      "title": "Ashita, Shinu",
-      "score": 0.188,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ct",
+        "gb",
+        "br",
+        "pl"
+      ]
     },
     {
       "id": 35452,
       "title": "Close Your Eyes",
-      "score": 0.167,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 11789,
       "title": "Yami BL (Anthology)",
-      "score": 0.167,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     }
   ]
 }

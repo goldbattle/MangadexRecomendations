@@ -2,31 +2,49 @@
   "id": 22823,
   "title": "Bonobono",
   "url": "https://mangadex.org/manga/22823",
-  "last_updated": "March 16, 2021 08:36:13 UTC",
+  "last_updated": "March 18, 2021 09:16:52 UTC",
   "matches": [
     {
       "id": 17507,
       "title": "Swap &hArr; Swap",
       "score": 0.213,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 23812,
       "title": "Buddha Cafe",
       "score": 0.213,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 13797,
       "title": "Tori Kissa!",
       "score": 0.16,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 19915,
       "title": "Mousou Telepathy",
       "score": 0.142,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "id",
+        "ru",
+        "sa"
+      ]
     }
   ]
 }

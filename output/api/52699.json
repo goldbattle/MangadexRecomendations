@@ -2,19 +2,25 @@
   "id": 52699,
   "title": "A Size",
   "url": "https://mangadex.org/manga/52699",
-  "last_updated": "January 16, 2021 00:59:30 UTC",
+  "last_updated": "March 18, 2021 13:40:28 UTC",
   "matches": [
     {
       "id": 52706,
       "title": "Sukide Sukide, Sukide",
-      "score": 0.744,
-      "r18": false
+      "score": 0.289,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 51529,
       "title": "Beastie Girls",
-      "score": 0.303,
-      "r18": false
+      "score": 0.25,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

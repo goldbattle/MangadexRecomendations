@@ -2,37 +2,47 @@
   "id": 10346,
   "title": "Witches' Sabbath",
   "url": "https://mangadex.org/manga/10346",
-  "last_updated": "March 15, 2021 00:27:37 UTC",
+  "last_updated": "March 18, 2021 07:13:46 UTC",
   "matches": [
-    {
-      "id": 53284,
-      "title": "Mahou Shoujo Lyrical Nanoha - Junketsu Dressage (Doujinshi)",
-      "score": 0.256,
-      "r18": false
-    },
     {
       "id": 37103,
       "title": "-Rain-",
-      "score": 0.24,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br",
+        "it"
+      ]
     },
     {
       "id": 20739,
       "title": "Akaneiro no Kisu wa Okujou de",
       "score": 0.213,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 31217,
       "title": "Avalon~bitter~ (Anthology)",
       "score": 0.171,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "de"
+      ]
     },
     {
       "id": 50367,
       "title": "Shoujo Kageki Revue Starlight - Bonne Saint Valentin (Doujinshi)",
       "score": 0.16,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

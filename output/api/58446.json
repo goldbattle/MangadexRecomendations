@@ -2,19 +2,27 @@
   "id": 58446,
   "title": "Donut",
   "url": "https://mangadex.org/manga/58446",
-  "last_updated": "March 13, 2021 04:22:38 UTC",
+  "last_updated": "March 18, 2021 14:28:29 UTC",
   "matches": [
     {
       "id": 58668,
       "title": "Love Live! Sunshine!! - Childish (Doujinshi)",
       "score": 0.33,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "tr"
+      ]
     },
     {
       "id": 52731,
       "title": "Okusawa, Don't Do That...",
       "score": 0.299,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

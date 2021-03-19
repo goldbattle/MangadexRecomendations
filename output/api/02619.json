@@ -2,79 +2,126 @@
   "id": 2619,
   "title": "Himegoto",
   "url": "https://mangadex.org/manga/2619",
-  "last_updated": "March 14, 2021 04:31:47 UTC",
+  "last_updated": "March 18, 2021 06:05:11 UTC",
   "matches": [
-    {
-      "id": 28538,
-      "title": "Otome Bare",
-      "score": 0.333,
-      "r18": false
-    },
     {
       "id": 33006,
       "title": "Usami-san wa Kamawaretai!",
       "score": 0.32,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 45151,
       "title": "Ichijouma Mankitsu Gurashi",
-      "score": 0.294,
-      "r18": false
+      "score": 0.293,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1597,
       "title": "Seitokai Yakuindomo",
-      "score": 0.292,
-      "r18": false
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 7666,
       "title": "Kasukabe Koukou Josou-bu",
-      "score": 0.287,
-      "r18": false
+      "score": 0.286,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 28538,
+      "title": "Otome Bare",
+      "score": 0.285,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx"
+      ]
     },
     {
       "id": 24701,
       "title": "Peta Girl",
-      "score": 0.284,
-      "r18": false
+      "score": 0.285,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 35388,
       "title": "Ultra Kaiju Humanization Project &quot;GALAXY DAYS&quot;",
-      "score": 0.267,
-      "r18": false
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx"
+      ]
     },
     {
       "id": 9963,
       "title": "Fresh 'n' Fruity 4-Koma",
-      "score": 0.264,
-      "r18": false
+      "score": 0.263,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11626,
       "title": "Toaru Nichijou no Index-san",
-      "score": 0.248,
-      "r18": false
+      "score": 0.247,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 500,
       "title": "B Gata H Kei",
       "score": 0.245,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 4804,
       "title": "4-koma Koushiki Anthology - Toaru Kagaku no Railgun x Toaru Majutsu no Index",
-      "score": 0.229,
-      "r18": false
+      "score": 0.228,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 34391,
-      "title": "Zannen Desu Ne. Hime Kishi-sensei (Webcomic)",
+      "title": "Zannen Desu Ne. Hime Kishi-sensei",
       "score": 0.213,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     }
   ]
 }

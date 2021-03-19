@@ -2,49 +2,74 @@
   "id": 7877,
   "title": "Getsurin ni Kiri Saku",
   "url": "https://mangadex.org/manga/7877",
-  "last_updated": "March 14, 2021 20:12:48 UTC",
+  "last_updated": "March 18, 2021 06:52:50 UTC",
   "matches": [
-    {
-      "id": 30869,
-      "title": "Human Ranch",
-      "score": 0.203,
-      "r18": false
-    },
     {
       "id": 56209,
       "title": "Virgin Extinction Island",
       "score": 0.2,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 1312,
       "title": "Freesia",
       "score": 0.194,
-      "r18": false
-    },
-    {
-      "id": 52883,
-      "title": "Doreiku - GANG AGE -",
-      "score": 0.181,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 1459,
       "title": "&Uuml;bel Blatt",
       "score": 0.157,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "es",
+        "ru",
+        "hu",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 53235,
+      "title": "My Lover Was Stolen, and I Was Kicked Out of the Hero&rsquo;s Party, but I Awakened to the EX Skill &ldquo;Fixed Damage&rdquo; and Became Invincible. Now, Let&rsquo;s Begin Some Revenge",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "id",
+        "br",
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 47000,
       "title": "Transjitter",
-      "score": 0.151,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb"
+      ]
     },
     {
       "id": 49464,
       "title": "Renkin Buraikan",
       "score": 0.124,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb",
+        "ru",
+        "br"
+      ]
     }
   ]
 }

@@ -2,61 +2,92 @@
   "id": 56135,
   "title": "World's End",
   "url": "https://mangadex.org/manga/56135",
-  "last_updated": "March 13, 2021 00:22:22 UTC",
+  "last_updated": "March 18, 2021 14:09:11 UTC",
   "matches": [
     {
       "id": 36403,
       "title": "Boku no Kanojo wa Kirei ni Warau",
       "score": 0.232,
-      "r18": false
-    },
-    {
-      "id": 15102,
-      "title": "Bastard",
-      "score": 0.166,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 51557,
       "title": "The Love and Lies of a...",
-      "score": 0.166,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "vn"
+      ]
     },
     {
       "id": 49513,
       "title": "They Who Shouldn't Have Loved, The Story of Their Cursed Love",
       "score": 0.145,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn"
+      ]
     },
     {
       "id": 50166,
       "title": "The Ghost and...",
-      "score": 0.129,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu",
+        "vn"
+      ]
     },
     {
       "id": 25848,
       "title": "A Scary Story",
       "score": 0.116,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn"
+      ]
     },
     {
       "id": 2230,
       "title": "Alive: The Final Evolution",
-      "score": 0.097,
-      "r18": false
+      "score": 0.096,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ro"
+      ]
     },
     {
       "id": 32834,
       "title": "Oversimplified SCP",
-      "score": 0.097,
-      "r18": false
+      "score": 0.096,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "mx",
+        "tr",
+        "it"
+      ]
     },
     {
       "id": 38542,
       "title": "Ghost Marriage",
-      "score": 0.083,
-      "r18": false
+      "score": 0.082,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

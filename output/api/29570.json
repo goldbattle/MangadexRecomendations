@@ -2,43 +2,74 @@
   "id": 29570,
   "title": "Addictive",
   "url": "https://mangadex.org/manga/29570",
-  "last_updated": "January 13, 2021 06:56:48 UTC",
+  "last_updated": "March 18, 2021 10:27:20 UTC",
   "matches": [
-    {
-      "id": 16076,
-      "title": "What Does the Fox Say?",
-      "score": 0.652,
-      "r18": false
-    },
     {
       "id": 18288,
       "title": "Pulse",
-      "score": 0.414,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "mx",
+        "de",
+        "tr",
+        "hu",
+        "it"
+      ]
     },
     {
       "id": 19956,
       "title": "Beloved",
-      "score": 0.341,
-      "r18": false
-    },
-    {
-      "id": 27640,
-      "title": "On a Leash",
-      "score": 0.313,
-      "r18": false
-    },
-    {
-      "id": 58459,
-      "title": "Kill Switch",
-      "score": 0.263,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "ru",
+        "br"
+      ]
     },
     {
       "id": 30379,
       "title": "Two Lives in the Same House",
-      "score": 0.262,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 58459,
+      "title": "Kill Switch",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx"
+      ]
+    },
+    {
+      "id": 16076,
+      "title": "What Does the Fox Say?",
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 27640,
+      "title": "On a Leash",
+      "score": 0.136,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     }
   ]
 }

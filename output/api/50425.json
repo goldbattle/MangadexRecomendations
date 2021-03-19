@@ -1,44 +1,72 @@
 {
   "id": 50425,
   "title": "Virtua Fighter 2: Ten Stories",
-  "url": "https://api.mangadex.org/v2/manga/50425",
-  "last_updated": "February 05, 2021 08:23:29 UTC",
+  "url": "https://mangadex.org/manga/50425",
+  "last_updated": "March 18, 2021 13:21:29 UTC",
   "matches": [
     {
       "id": 53595,
-      "title": "Your ancestor is online",
-      "score": 0.136,
-      "r18": false
-    },
-    {
-      "id": 36834,
-      "title": "Winner Takes All",
-      "score": 0.113,
-      "r18": false
+      "title": "Your Ancestor Is Online",
+      "score": 0.101,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 41695,
       "title": "Solitary Girl",
-      "score": 0.113,
-      "r18": false
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 31880,
       "title": "The Hunter",
-      "score": 0.105,
-      "r18": false
+      "score": 0.086,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "tr",
+        "sa",
+        "id"
+      ]
     },
     {
       "id": 6272,
       "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
-      "score": 0.085,
-      "r18": false
+      "score": 0.069,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "br",
+        "ru",
+        "it",
+        "id",
+        "il",
+        "de"
+      ]
     },
     {
       "id": 14676,
       "title": "The Legendary Moonlight Sculptor",
-      "score": 0.08,
-      "r18": false
+      "score": 0.065,
+      "r18": false,
+      "languages": [
+        "il",
+        "gb",
+        "ru",
+        "br",
+        "tr",
+        "pl"
+      ]
     }
   ]
 }

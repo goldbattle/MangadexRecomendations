@@ -1,158 +1,256 @@
 {
   "id": 35099,
   "title": "Koisuru Asteroid",
-  "url": "https://api.mangadex.org/v2/manga/35099",
-  "last_updated": "February 10, 2021 16:38:40 UTC",
+  "url": "https://mangadex.org/manga/35099",
+  "last_updated": "March 18, 2021 11:13:26 UTC",
   "matches": [
-    {
-      "id": 14914,
-      "title": "Hinako Note",
-      "score": 0.667,
-      "r18": false
-    },
-    {
-      "id": 31193,
-      "title": "Yume Miru Prima Girl!",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 28804,
-      "title": "K-ON! Shuffle",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 11435,
-      "title": "Pocha Pocha Suieibu",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 14120,
-      "title": "Yuuki Yuuna wa Yuusha-bu Shozoku",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 31054,
-      "title": "Rifle Is Beautiful",
-      "score": 0.65,
-      "r18": false
-    },
-    {
-      "id": 4333,
-      "title": "Waratte! Sotomura-san",
-      "score": 0.65,
-      "r18": false
-    },
     {
       "id": 15816,
       "title": "Daitai Konnande?",
-      "score": 0.504,
-      "r18": false
+      "score": 0.392,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2063,
       "title": "Itsukasei Metsubou Syndrome",
-      "score": 0.493,
-      "r18": false
-    },
-    {
-      "id": 29338,
-      "title": "We Want to Talk About Kaguya",
-      "score": 0.492,
-      "r18": false
-    },
-    {
-      "id": 18325,
-      "title": "Nakahara-kun no Kahogo na Imouto",
-      "score": 0.485,
-      "r18": false
-    },
-    {
-      "id": 30569,
-      "title": "Hokenshitsu no Tsumuri-san",
-      "score": 0.48,
-      "r18": false
-    },
-    {
-      "id": 21983,
-      "title": "Stella no Mahou",
-      "score": 0.479,
-      "r18": false
-    },
-    {
-      "id": 28714,
-      "title": "Doushite Watashi ga Bijutsuka ni!?",
-      "score": 0.471,
-      "r18": false
-    },
-    {
-      "id": 384,
-      "title": "Morita-san wa Mukuchi",
-      "score": 0.468,
-      "r18": false
+      "score": 0.389,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1732,
       "title": "Kiniro Mosaic",
-      "score": 0.467,
-      "r18": false
-    },
-    {
-      "id": 43230,
-      "title": "Hatsukoi*Rail Trip",
-      "score": 0.466,
-      "r18": false
-    },
-    {
-      "id": 2973,
-      "title": "Gu-Pan!",
-      "score": 0.462,
-      "r18": false
-    },
-    {
-      "id": 18419,
-      "title": "Danchigai",
-      "score": 0.455,
-      "r18": false
-    },
-    {
-      "id": 24067,
-      "title": "K-ON! High School",
-      "score": 0.447,
-      "r18": false
+      "score": 0.389,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 6687,
       "title": "A-Channel",
-      "score": 0.446,
-      "r18": false
+      "score": 0.389,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "id"
+      ]
+    },
+    {
+      "id": 40205,
+      "title": "Kagura Maimai!",
+      "score": 0.389,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2973,
+      "title": "Gu-Pan!",
+      "score": 0.389,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18419,
+      "title": "Danchigai",
+      "score": 0.389,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "ru",
+        "id"
+      ]
     },
     {
       "id": 23382,
       "title": "Poison Girl",
-      "score": 0.445,
-      "r18": false
+      "score": 0.389,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 24065,
-      "title": "K-ON! College",
-      "score": 0.44,
-      "r18": false
+      "id": 9553,
+      "title": "Yuyushiki",
+      "score": 0.389,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 9842,
-      "title": "Love Lab",
-      "score": 0.44,
-      "r18": false
+      "id": 2859,
+      "title": "Chiro-chan",
+      "score": 0.389,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50050,
+      "title": "Hyper Ultra Girlish",
+      "score": 0.389,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 2354,
       "title": "Kill Me Baby",
-      "score": 0.434,
-      "r18": false
+      "score": 0.389,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 31193,
+      "title": "Yume Miru Prima Girl!",
+      "score": 0.373,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21983,
+      "title": "Stella no Mahou",
+      "score": 0.356,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru"
+      ]
+    },
+    {
+      "id": 4333,
+      "title": "Waratte! Sotomura-san",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 384,
+      "title": "Morita-san wa Mukuchi",
+      "score": 0.343,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 30569,
+      "title": "Hokenshitsu no Tsumuri-san",
+      "score": 0.342,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 28714,
+      "title": "Doushite Watashi ga Bijutsuka ni!?",
+      "score": 0.34,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18325,
+      "title": "Nakahara-kun no Kahogo na Imouto",
+      "score": 0.34,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29338,
+      "title": "We Want to Talk About Kaguya",
+      "score": 0.34,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "fr",
+        "it",
+        "id"
+      ]
+    },
+    {
+      "id": 31054,
+      "title": "Rifle Is Beautiful",
+      "score": 0.329,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 15199,
+      "title": "Gochuumon wa Usagi desu ka? Anthology Comic",
+      "score": 0.324,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29227,
+      "title": "Anima Yell!",
+      "score": 0.324,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 26323,
+      "title": "Smile Style",
+      "score": 0.324,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 31507,
+      "title": "Umiiro March",
+      "score": 0.324,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it",
+        "ru"
+      ]
     }
   ]
 }

@@ -1,158 +1,289 @@
 {
   "id": 32049,
   "title": "Asagaya Geijutu Koukou Eizouka e Youkoso",
-  "url": "https://api.mangadex.org/v2/manga/32049",
-  "last_updated": "February 10, 2021 08:29:35 UTC",
+  "url": "https://mangadex.org/manga/32049",
+  "last_updated": "March 18, 2021 10:48:00 UTC",
   "matches": [
     {
-      "id": 12900,
-      "title": "Fudatsuki no Kyoko-chan",
-      "score": 0.746,
-      "r18": false
+      "id": 35850,
+      "title": "Yoroshiku! Junjou Daishou",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 3918,
-      "title": "Magic Kaito",
-      "score": 0.735,
-      "r18": false
+      "id": 8464,
+      "title": "Yowamushi Pedal",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "mx",
+        "ru"
+      ]
     },
     {
-      "id": 2869,
-      "title": "School Rumble",
-      "score": 0.727,
-      "r18": false
+      "id": 1737,
+      "title": "Diamond no Ace",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "fr",
+        "pl"
+      ]
     },
     {
-      "id": 15144,
-      "title": "Hana Nochi Hare - Hanadan Next Season",
-      "score": 0.725,
-      "r18": false
+      "id": 54190,
+      "title": "Coward Cross World",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 28542,
-      "title": "JoJo's Bizarre Adventure Part 6 - Stone Ocean",
-      "score": 0.724,
-      "r18": false
+      "id": 3943,
+      "title": "Slam Dunk",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "sa",
+        "gb",
+        "mx",
+        "br"
+      ]
     },
     {
-      "id": 5204,
-      "title": "Kanon - Honto no Omoi wa Egao no Mukougawa ni",
-      "score": 0.724,
-      "r18": false
-    },
-    {
-      "id": 13709,
-      "title": "Onegai Teacher",
-      "score": 0.724,
-      "r18": false
-    },
-    {
-      "id": 6271,
-      "title": "JoJo's Bizarre Adventure Part 6 - Stone Ocean (Official Colored)",
-      "score": 0.724,
-      "r18": false
-    },
-    {
-      "id": 1021,
-      "title": "Girls of the Wild's",
-      "score": 0.72,
-      "r18": false
-    },
-    {
-      "id": 9674,
-      "title": "Saenai Kanojo (Heroine) no Sodatekata",
-      "score": 0.72,
-      "r18": false
-    },
-    {
-      "id": 7781,
-      "title": "Houkago\u2606Idol",
-      "score": 0.719,
-      "r18": false
-    },
-    {
-      "id": 15937,
-      "title": "Ichiba Kurogane wa Kasegitai",
-      "score": 0.718,
-      "r18": false
+      "id": 20679,
+      "title": "5Toubun no Hanayome",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "mx",
+        "id",
+        "ru",
+        "br",
+        "vn",
+        "sa",
+        "tr",
+        "fr",
+        "pl"
+      ]
     },
     {
       "id": 1293,
       "title": "Miyuki",
-      "score": 0.718,
-      "r18": false
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "fr"
+      ]
     },
     {
-      "id": 22030,
-      "title": "Araburu Kisetsu no Otomedomo yo.",
-      "score": 0.717,
-      "r18": false
+      "id": 927,
+      "title": "Major",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "fr",
+        "br"
+      ]
     },
     {
-      "id": 13002,
-      "title": "Lo-Fi After School",
-      "score": 0.717,
-      "r18": false
+      "id": 11710,
+      "title": "Days",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru"
+      ]
     },
     {
-      "id": 8436,
-      "title": "Koe no Katachi",
-      "score": 0.716,
-      "r18": false
+      "id": 10271,
+      "title": "Ballroom e Youkoso",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "es",
+        "fr"
+      ]
     },
     {
-      "id": 43650,
-      "title": "Buttobi Itto",
-      "score": 0.715,
-      "r18": false
+      "id": 414,
+      "title": "Sket Dance",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "ru",
+        "mx",
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 216,
-      "title": "Rurouni Kenshin",
-      "score": 0.714,
-      "r18": false
+      "id": 2872,
+      "title": "Ghost Logic",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "de"
+      ]
     },
     {
-      "id": 51329,
-      "title": "Yumemi ga oka Wonderland",
-      "score": 0.713,
-      "r18": false
+      "id": 2056,
+      "title": "Ganbare Genki",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
-      "id": 951,
-      "title": "Nisekoi",
-      "score": 0.712,
-      "r18": false
+      "id": 12900,
+      "title": "Fudatsuki no Kyoko-chan",
+      "score": 0.236,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "tr",
+        "br",
+        "sa"
+      ]
     },
     {
-      "id": 50672,
-      "title": "My Hero Academia - League Of Villains: Undercover (Fan Colored)",
-      "score": 0.712,
-      "r18": false
+      "id": 15827,
+      "title": "One Summer's Kids Game",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 9907,
-      "title": "RDG - Red Data Girl",
-      "score": 0.71,
-      "r18": false
+      "id": 13399,
+      "title": "Mahou Tsukai no Hako - Starlit Marmalade",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 20288,
-      "title": "World Teacher &ndash; Other World Style Education &amp; Agent",
-      "score": 0.71,
-      "r18": false
-    },
-    {
-      "id": 1403,
-      "title": "Sayonara Zetsubou Sensei",
-      "score": 0.709,
-      "r18": false
+      "id": 33622,
+      "title": "Harlem Beat",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 606,
       "title": "Area no Kishi",
-      "score": 0.709,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "fr",
+        "pl"
+      ]
+    },
+    {
+      "id": 10509,
+      "title": "Imasugu Onii-chan ni Imouto da tte Iitai!",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9106,
+      "title": "Mashiroiro Symphony -Wind of silk-",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 352,
+      "title": "Over Drive",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19190,
+      "title": "Prison Princess",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 8436,
+      "title": "Koe no Katachi",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "ua",
+        "it",
+        "tr",
+        "gb",
+        "ru",
+        "pt",
+        "br",
+        "ct",
+        "de"
+      ]
+    },
+    {
+      "id": 15867,
+      "title": "Yu-Gi-Oh! Zexal",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 451,
+      "title": "Boku no Kirai na Kimi no Koto",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de"
+      ]
     }
   ]
 }

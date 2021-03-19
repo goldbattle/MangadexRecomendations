@@ -1,74 +1,115 @@
 {
   "id": 54583,
   "title": "Gunji-sensei no Hisoka na Tanoshimi",
-  "url": "https://api.mangadex.org/v2/manga/54583",
-  "last_updated": "March 12, 2021 20:27:23 UTC",
+  "url": "https://mangadex.org/manga/54583",
+  "last_updated": "March 18, 2021 13:56:12 UTC",
   "matches": [
-    {
-      "id": 53136,
-      "title": "Lunch Break at the Secret Table",
-      "score": 0.271,
-      "r18": false
-    },
     {
       "id": 58698,
       "title": "Okuri Ookami Naranu...",
-      "score": 0.269,
-      "r18": false
-    },
-    {
-      "id": 30941,
-      "title": "Love Diner",
-      "score": 0.251,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 42689,
       "title": "Kobito no Tsumamigui",
-      "score": 0.247,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     },
     {
-      "id": 37072,
-      "title": "Delinquent and Cooking Club",
-      "score": 0.234,
-      "r18": false
+      "id": 53136,
+      "title": "Lunch Break at the Secret Table",
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 30941,
+      "title": "Love Diner",
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 41286,
+      "title": "Herbivore Girl Paopao-senpai",
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 23408,
       "title": "Kashi of Osaka",
-      "score": 0.212,
-      "r18": false
+      "score": 0.184,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "vn"
+      ]
     },
     {
       "id": 38087,
       "title": "Turkey's Day of Food",
-      "score": 0.212,
-      "r18": false
+      "score": 0.184,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 57690,
       "title": "Papa's Cooking",
-      "score": 0.212,
-      "r18": false
+      "score": 0.184,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 42069,
       "title": "Curry Utopia",
-      "score": 0.183,
-      "r18": false
+      "score": 0.164,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 54034,
+      "title": "Dining Where You Eat and Drink",
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 59179,
       "title": "A Snowman&rsquo;s Gratitude",
-      "score": 0.16,
-      "r18": false
-    },
-    {
-      "id": 54034,
-      "title": "Kuu Nomu Tokoro ni Taberu Toko",
-      "score": 0.151,
-      "r18": false
+      "score": 0.115,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "pl"
+      ]
     }
   ]
 }

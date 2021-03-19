@@ -1,158 +1,242 @@
 {
   "id": 55055,
   "title": "Bespoke Engage",
-  "url": "https://api.mangadex.org/v2/manga/55055",
-  "last_updated": "March 12, 2021 20:33:06 UTC",
+  "url": "https://mangadex.org/manga/55055",
+  "last_updated": "March 18, 2021 14:00:09 UTC",
   "matches": [
-    {
-      "id": 20639,
-      "title": "Ore-sama Kiss",
-      "score": 0.67,
-      "r18": false
-    },
-    {
-      "id": 3260,
-      "title": "Furachi na Otoko Tachi",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 11478,
-      "title": "Fu Junai",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 36512,
-      "title": "Koi wa Poker Game",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 14140,
-      "title": "Wana Love - Wanna Be the Honey Trap",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 17538,
-      "title": "Anata ga Watashi to Kurashitara",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 57931,
-      "title": "Danna-sama ga Asa kara banmade Hanashitekurenai",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 11058,
-      "title": "Sekai wa Bokura no Tameni!",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 49279,
-      "title": "Gokudo to Omega ~Mukidashi no Katsuai.~",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 13199,
-      "title": "S Love",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 40788,
-      "title": "45-sai, oji-sama ha Bukiyou na Kemono",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 17480,
-      "title": "Mask - Kamen no Jouji",
-      "score": 0.482,
-      "r18": false
-    },
     {
       "id": 12348,
       "title": "Natsu no Kakera",
-      "score": 0.472,
-      "r18": false
-    },
-    {
-      "id": 58024,
-      "title": "Sasotta no wa Socchidesho ~Joushi to Buka, Megasametara Love Hotel deshita.~",
-      "score": 0.471,
-      "r18": false
-    },
-    {
-      "id": 15080,
-      "title": "Aigan Cinderella",
-      "score": 0.469,
-      "r18": false
-    },
-    {
-      "id": 10105,
-      "title": "Deep Kiss",
-      "score": 0.466,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4182,
       "title": "Tsutaeru Toiki",
-      "score": 0.464,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 14178,
-      "title": "Majo wa Nido Aegu",
-      "score": 0.457,
-      "r18": false
+      "id": 13997,
+      "title": "Tomodachi no Papa ~Hakui no Oji-sama~",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
-      "id": 59721,
-      "title": "Kekkonshiki made nan mairu?",
-      "score": 0.453,
-      "r18": false
+      "id": 41058,
+      "title": "Otaku mo Koisuru Nikushoku Shinshi - Zetchou! Oji-sama Technique",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "hk",
+        "vn"
+      ]
+    },
+    {
+      "id": 57142,
+      "title": "Kimi ni Hatsukoi Propose",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb"
+      ]
     },
     {
       "id": 27845,
       "title": "Virgin Hotel",
-      "score": 0.447,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 20469,
-      "title": "Koi o Suru made Kisanai",
-      "score": 0.446,
-      "r18": false
+      "id": 10105,
+      "title": "Deep Kiss",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 58896,
-      "title": "Cute Beast-kun! The Start of My First Love: My Foreigner Boyfriend",
-      "score": 0.445,
-      "r18": false
+      "id": 59721,
+      "title": "Kekkonshiki made nan mairu?",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 783,
       "title": "Yuuwaku no Bansan",
-      "score": 0.444,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14178,
+      "title": "Majo wa Nido Aegu",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20469,
+      "title": "Koi o Suru made Kisanai",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50101,
+      "title": "29-sai no Glass no Kutsu",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "hk"
+      ]
+    },
+    {
+      "id": 58896,
+      "title": "Cute Beast-kun! The Start of My First Love: My Foreigner Boyfriend",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 12653,
       "title": "Jekyll de Hyde na Kare",
-      "score": 0.441,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 58469,
-      "title": "Osananajimi wa Ichi Tamagosei no Shishi Supadari Futago to Torotoro 3 nin Seikatsu",
-      "score": 0.435,
-      "r18": false
+      "id": 18790,
+      "title": "Nisekon - Danna Koyou Keikaku",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4318,
+      "title": "Gozen Reiji ni Kuchizuke o",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4069,
+      "title": "Kimi wo Dare nimo Watasanai",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 13199,
+      "title": "S Love",
+      "score": 0.329,
+      "r18": false,
+      "languages": [
+        "fr",
+        "it",
+        "br",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 40788,
+      "title": "45-sai, Oji-sama wa Bukiyou na Kemono.",
+      "score": 0.319,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 15080,
+      "title": "Aigan Cinderella",
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 57931,
+      "title": "From Morning to Night, My Husband Won&rsquo;t Let Me Go",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 17480,
+      "title": "Mask - Kamen no Jouji",
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 58024,
+      "title": "Sasotta no wa Socchidesho ~Joushi to Buka, Megasametara Love Hotel deshita.~",
+      "score": 0.305,
+      "r18": false,
+      "languages": [
+        "hk"
+      ]
+    },
+    {
+      "id": 8309,
+      "title": "Four Weeks",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 35103,
+      "title": "Kedamono wa Shinshoku Suru",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

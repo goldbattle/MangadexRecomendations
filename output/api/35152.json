@@ -1,158 +1,296 @@
 {
   "id": 35152,
   "title": "Monster Child",
-  "url": "https://api.mangadex.org/v2/manga/35152",
-  "last_updated": "February 10, 2021 16:39:29 UTC",
+  "url": "https://mangadex.org/manga/35152",
+  "last_updated": "March 18, 2021 11:13:52 UTC",
   "matches": [
     {
-      "id": 7126,
-      "title": "Dimension W",
-      "score": 0.373,
-      "r18": false
-    },
-    {
-      "id": 363,
-      "title": "Angel Heart",
-      "score": 0.364,
-      "r18": false
-    },
-    {
-      "id": 7869,
-      "title": "Arashi no Hana Murakumo no Uta",
-      "score": 0.347,
-      "r18": false
-    },
-    {
-      "id": 1089,
-      "title": "Zetman",
-      "score": 0.342,
-      "r18": false
+      "id": 18383,
+      "title": "The Fairy Captivity",
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "sa"
+      ]
     },
     {
       "id": 112,
       "title": "Trace",
-      "score": 0.34,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de",
+        "id"
+      ]
     },
     {
-      "id": 890,
-      "title": "Dogs / Bullets &amp; Carnage",
-      "score": 0.338,
-      "r18": false
-    },
-    {
-      "id": 281,
-      "title": "Trigun Maximum",
-      "score": 0.337,
-      "r18": false
-    },
-    {
-      "id": 21481,
-      "title": "Blue Phobia",
-      "score": 0.336,
-      "r18": false
-    },
-    {
-      "id": 9829,
-      "title": "Immortal Hounds",
-      "score": 0.335,
-      "r18": false
+      "id": 14377,
+      "title": "ReLIFE",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "ru",
+        "it",
+        "ph"
+      ]
     },
     {
       "id": 7727,
       "title": "Uwagaki",
-      "score": 0.334,
-      "r18": false
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 19482,
-      "title": "Onideka",
-      "score": 0.33,
-      "r18": false
-    },
-    {
-      "id": 2762,
-      "title": "Kyouran Kazoku Nikki",
-      "score": 0.328,
-      "r18": false
-    },
-    {
-      "id": 49477,
-      "title": "Tantei wa Mou, Shindeiru",
-      "score": 0.328,
-      "r18": false
-    },
-    {
-      "id": 11441,
-      "title": "Aoki Ao no Atopos",
-      "score": 0.327,
-      "r18": false
+      "id": 21481,
+      "title": "Blue Phobia",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "ru",
+        "mx",
+        "id"
+      ]
     },
     {
       "id": 1110,
       "title": "Yokohama Kaidashi Kikou",
-      "score": 0.327,
-      "r18": false
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "es",
+        "br",
+        "fr",
+        "de",
+        "id"
+      ]
     },
     {
-      "id": 33431,
-      "title": "Coffin Jackson",
-      "score": 0.326,
-      "r18": false
-    },
-    {
-      "id": 35626,
-      "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Kenki Koiuta",
-      "score": 0.326,
-      "r18": false
+      "id": 131,
+      "title": "Yumekui Merry",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "pl",
+        "mx",
+        "es",
+        "it"
+      ]
     },
     {
       "id": 3790,
       "title": "Tiger &amp; Bunny",
-      "score": 0.325,
-      "r18": false
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
-      "id": 4213,
-      "title": "Little Jumper",
-      "score": 0.325,
-      "r18": false
+      "id": 19972,
+      "title": "Mattaku Saikin no Tantei to Kitara",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 46,
-      "title": "Witch Craft Works",
-      "score": 0.325,
-      "r18": false
+      "id": 11510,
+      "title": "Steins;Gate",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "tr"
+      ]
     },
     {
-      "id": 6074,
-      "title": "R.O.D - Read or Dream",
-      "score": 0.324,
-      "r18": false
+      "id": 14549,
+      "title": "Distant Sky",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "br",
+        "vn",
+        "pl"
+      ]
     },
     {
-      "id": 22485,
-      "title": "Necrologue",
-      "score": 0.323,
-      "r18": false
+      "id": 281,
+      "title": "Trigun Maximum",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 42735,
-      "title": "Eirun Last Code",
-      "score": 0.322,
-      "r18": false
+      "id": 45285,
+      "title": "Appleseed Alpha",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
-      "id": 12132,
-      "title": "Wanitokagegisu",
-      "score": 0.322,
-      "r18": false
+      "id": 492,
+      "title": "Sugar Dark: Umerareta Yami to Shoujo",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 1389,
-      "title": "Superior Cross",
-      "score": 0.32,
-      "r18": false
+      "id": 49477,
+      "title": "Tantei wa Mou, Shindeiru",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id"
+      ]
+    },
+    {
+      "id": 41102,
+      "title": "Tsugumi Project",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 13791,
+      "title": "Crest of the Stars",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 1155,
+      "title": "Kurokami",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 36982,
+      "title": "I Love You, Kyouko-san.",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "hk",
+        "br",
+        "gb",
+        "it",
+        "id"
+      ]
+    },
+    {
+      "id": 42211,
+      "title": "Disease",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "id",
+        "ir"
+      ]
+    },
+    {
+      "id": 35626,
+      "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Kenki Koiuta",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru"
+      ]
+    },
+    {
+      "id": 42846,
+      "title": "Kowloon Generic Romance",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hk",
+        "br",
+        "ru"
+      ]
+    },
+    {
+      "id": 9933,
+      "title": "Hero Mask",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "tr",
+        "fr"
+      ]
+    },
+    {
+      "id": 6506,
+      "title": "Torikago no Tsugai",
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "th",
+        "tr",
+        "br"
+      ]
+    },
+    {
+      "id": 40478,
+      "title": "This Witch of Mine",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "tr",
+        "fr"
+      ]
     }
   ]
 }

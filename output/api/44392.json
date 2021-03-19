@@ -1,38 +1,36 @@
 {
   "id": 44392,
   "title": "Yuusha no Dorei Inmon ga Maou no Musume o Youshanaku Osou!",
-  "url": "https://api.mangadex.org/v2/manga/44392",
-  "last_updated": "February 11, 2021 16:40:28 UTC",
+  "url": "https://mangadex.org/manga/44392",
+  "last_updated": "March 18, 2021 12:31:00 UTC",
   "matches": [
-    {
-      "id": 58988,
-      "title": "Onigashima Keimusho e Youkoso",
-      "score": 0.269,
-      "r18": true
-    },
-    {
-      "id": 58635,
-      "title": "Fate/ Kaleid Liner Prisma Illya - Kuro (Doujinshi)",
-      "score": 0.254,
-      "r18": true
-    },
     {
       "id": 29771,
       "title": "VictimGirls (Doujinshi)",
-      "score": 0.159,
-      "r18": true
+      "score": 0.136,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 35652,
       "title": "Suzuka-sama no Geboku",
-      "score": 0.144,
-      "r18": true
+      "score": 0.128,
+      "r18": true,
+      "languages": [
+        "hu",
+        "gb"
+      ]
     },
     {
       "id": 44699,
       "title": "Trails in the Sky - AlfA 2mg (Doujinshi)",
-      "score": 0.144,
-      "r18": true
+      "score": 0.128,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

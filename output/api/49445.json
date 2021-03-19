@@ -2,43 +2,67 @@
   "id": 49445,
   "title": "DAVID",
   "url": "https://mangadex.org/manga/49445",
-  "last_updated": "January 15, 2021 18:46:44 UTC",
+  "last_updated": "March 18, 2021 13:13:19 UTC",
   "matches": [
     {
       "id": 50656,
       "title": "Beware of Your Boyfriend",
-      "score": 0.273,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20947,
       "title": "Sugar Lamp",
-      "score": 0.268,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "tr",
+        "fr",
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 47412,
       "title": "Frame of Dot",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 47141,
-      "title": "Shell",
-      "score": 0.214,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 48790,
       "title": "Osomatsu-san - Mafiamatsu (Doujinshi)",
-      "score": 0.212,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
+    },
+    {
+      "id": 47141,
+      "title": "Shell",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 50919,
       "title": "Welcome to the Island of Cats",
-      "score": 0.17,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "br"
+      ]
     }
   ]
 }

@@ -2,25 +2,26 @@
   "id": 30690,
   "title": "Baki Domoe",
   "url": "https://mangadex.org/manga/30690",
-  "last_updated": "January 13, 2021 12:53:00 UTC",
+  "last_updated": "March 18, 2021 10:36:40 UTC",
   "matches": [
     {
       "id": 14120,
       "title": "Yuuki Yuuna wa Yuusha-bu Shozoku",
-      "score": 0.274,
-      "r18": false
-    },
-    {
-      "id": 45621,
-      "title": "Maburaho VS Slayers!? - Dragon All Stars Gekitou-hen",
-      "score": 0.247,
-      "r18": false
+      "score": 0.164,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 50755,
       "title": "Kage no Jitsuryokusha ni Naritakute! Shadow Gaiden",
-      "score": 0.245,
-      "r18": false
+      "score": 0.148,
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb"
+      ]
     }
   ]
 }

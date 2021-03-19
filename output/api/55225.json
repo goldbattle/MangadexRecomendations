@@ -1,14 +1,17 @@
 {
   "id": 55225,
   "title": "Crime And Punishment",
-  "url": "https://api.mangadex.org/v2/manga/55225",
-  "last_updated": "March 12, 2021 20:35:10 UTC",
+  "url": "https://mangadex.org/manga/55225",
+  "last_updated": "March 18, 2021 14:01:35 UTC",
   "matches": [
     {
       "id": 55472,
       "title": "Ane wa Yanmama Juniuuchuu in Atami Da~!!",
-      "score": 0.261,
-      "r18": true
+      "score": 0.16,
+      "r18": true,
+      "languages": [
+        "br"
+      ]
     }
   ]
 }

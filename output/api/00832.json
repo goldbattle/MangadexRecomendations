@@ -2,31 +2,48 @@
   "id": 832,
   "title": "Boku to Issho",
   "url": "https://mangadex.org/manga/832",
-  "last_updated": "March 14, 2021 01:02:37 UTC",
+  "last_updated": "March 18, 2021 05:49:37 UTC",
   "matches": [
     {
       "id": 13233,
       "title": "Hare-Kon",
-      "score": 0.242,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "pl",
+        "it",
+        "sa"
+      ]
     },
     {
       "id": 1201,
       "title": "Digopuri",
       "score": 0.229,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 45138,
       "title": "Furin Shokudou",
       "score": 0.207,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11492,
       "title": "Musume no Iede",
-      "score": 0.189,
-      "r18": false
+      "score": 0.188,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

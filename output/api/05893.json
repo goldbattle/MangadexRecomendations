@@ -2,31 +2,35 @@
   "id": 5893,
   "title": "Joan",
   "url": "https://mangadex.org/manga/5893",
-  "last_updated": "March 14, 2021 12:43:24 UTC",
+  "last_updated": "March 18, 2021 06:35:46 UTC",
   "matches": [
     {
       "id": 16346,
       "title": "Umi no Cradle",
       "score": 0.3,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 1384,
       "title": "Yama Fu-Tang",
       "score": 0.225,
-      "r18": false
-    },
-    {
-      "id": 42898,
-      "title": "Versailles of the Dead",
-      "score": 0.173,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 45499,
       "title": "Jeong-Nyeon",
-      "score": 0.167,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

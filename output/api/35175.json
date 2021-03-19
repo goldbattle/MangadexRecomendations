@@ -1,98 +1,153 @@
 {
   "id": 35175,
   "title": "A Lady's Table",
-  "url": "https://api.mangadex.org/v2/manga/35175",
-  "last_updated": "February 10, 2021 16:39:51 UTC",
+  "url": "https://mangadex.org/manga/35175",
+  "last_updated": "March 18, 2021 11:14:04 UTC",
   "matches": [
-    {
-      "id": 51483,
-      "title": "Breaking Through the Clouds 2: Swallow the Sea",
-      "score": 0.663,
-      "r18": false
-    },
     {
       "id": 48042,
       "title": "Shen Ze",
-      "score": 0.363,
-      "r18": false
+      "score": 0.224,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 38345,
       "title": "The Surviving",
-      "score": 0.336,
-      "r18": false
-    },
-    {
-      "id": 48497,
-      "title": "Perfect Victim",
-      "score": 0.281,
-      "r18": false
-    },
-    {
-      "id": 50722,
-      "title": "Glotoneria",
-      "score": 0.274,
-      "r18": false
-    },
-    {
-      "id": 53149,
-      "title": "Hell 58",
-      "score": 0.266,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 53247,
       "title": "Outbreak",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru"
+      ]
     },
     {
-      "id": 58123,
-      "title": "Culprit Hunt",
-      "score": 0.232,
-      "r18": false
+      "id": 53149,
+      "title": "Hell 58",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "id"
+      ]
     },
     {
-      "id": 50170,
-      "title": "Viper in the Vale",
-      "score": 0.23,
-      "r18": false
+      "id": 59329,
+      "title": "Purple Hyacinth",
+      "score": 0.19,
+      "r18": false,
+      "languages": [
+        "id"
+      ]
     },
     {
-      "id": 39252,
-      "title": "Mountie Chronicles",
-      "score": 0.216,
-      "r18": false
-    },
-    {
-      "id": 40362,
-      "title": "Borderline Bestial Corpse",
-      "score": 0.216,
-      "r18": false
-    },
-    {
-      "id": 275,
-      "title": "Knight Run",
-      "score": 0.207,
-      "r18": false
-    },
-    {
-      "id": 40363,
-      "title": "Wilderness Hut",
-      "score": 0.201,
-      "r18": false
+      "id": 48497,
+      "title": "Perfect Victim",
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr"
+      ]
     },
     {
       "id": 49638,
       "title": "Occult",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50722,
+      "title": "Glotoneria",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 45976,
       "title": "Game of Doppelg&auml;nger",
-      "score": 0.183,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 39252,
+      "title": "Mountie Chronicles",
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50170,
+      "title": "Viper in the Vale",
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 51483,
+      "title": "Breaking Through the Clouds 2: Swallow the Sea",
+      "score": 0.105,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "mx"
+      ]
+    },
+    {
+      "id": 40363,
+      "title": "Wilderness Hut",
+      "score": 0.097,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 40362,
+      "title": "Borderline Bestial Corpse",
+      "score": 0.097,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 275,
+      "title": "Knight Run",
+      "score": 0.096,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br"
+      ]
     }
   ]
 }

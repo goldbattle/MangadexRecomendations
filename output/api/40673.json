@@ -1,74 +1,119 @@
 {
   "id": 40673,
   "title": "Kamiato Kara, Hatsukoi",
-  "url": "https://api.mangadex.org/v2/manga/40673",
-  "last_updated": "February 11, 2021 08:27:13 UTC",
+  "url": "https://mangadex.org/manga/40673",
+  "last_updated": "March 18, 2021 11:59:57 UTC",
   "matches": [
     {
       "id": 34248,
       "title": "Megumi to Tsugumi",
-      "score": 0.725,
-      "r18": true
-    },
-    {
-      "id": 38579,
-      "title": "Kanraku Alpha ~Enigma~ 4 Verse",
-      "score": 0.716,
-      "r18": true
-    },
-    {
-      "id": 36577,
-      "title": "Tsugai ni Narenai!",
-      "score": 0.715,
-      "r18": true
-    },
-    {
-      "id": 45030,
-      "title": "Ijimete Ageru.",
-      "score": 0.709,
-      "r18": true
-    },
-    {
-      "id": 17936,
-      "title": "Hadakeru Kaibutsu",
-      "score": 0.685,
-      "r18": true
-    },
-    {
-      "id": 33675,
-      "title": "Furachi na Keiji-san",
-      "score": 0.666,
-      "r18": true
+      "score": 0.269,
+      "r18": true,
+      "languages": [
+        "tr",
+        "gb"
+      ]
     },
     {
       "id": 58868,
       "title": "Minasoko ni Sumu Kodomotachi",
-      "score": 0.336,
-      "r18": true
-    },
-    {
-      "id": 26019,
-      "title": "Takkun to Stalker Danshi - Kyou wa Takkun no Tissue o Tabemashita",
-      "score": 0.307,
-      "r18": true
+      "score": 0.23,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 51457,
       "title": "Koisuru Kyoushi wa Okaeri Kudasai",
-      "score": 0.265,
-      "r18": true
+      "score": 0.23,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 25779,
-      "title": "Gintama - Doujinshi Selection (Doujinshi)",
-      "score": 0.214,
-      "r18": true
+      "id": 38579,
+      "title": "Kanraku Alpha ~Enigma~ 4 Verse",
+      "score": 0.227,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 36577,
+      "title": "Tsugai ni Narenai!",
+      "score": 0.216,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59990,
+      "title": "Juuyoku no Chigiri",
+      "score": 0.2,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 26019,
+      "title": "Takkun to Stalker Danshi - Kyou wa Takkun no Tissue o Tabemashita",
+      "score": 0.2,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 45030,
+      "title": "Ijimete Ageru.",
+      "score": 0.198,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 17936,
+      "title": "Hadakeru Kaibutsu",
+      "score": 0.19,
+      "r18": true,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 33675,
+      "title": "Furachi na Keiji-san",
+      "score": 0.161,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 39813,
       "title": "Koukan Mesu Ochi Otokonoko",
-      "score": 0.18,
-      "r18": true
+      "score": 0.16,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 25779,
+      "title": "Gintama - Doujinshi Selection (Doujinshi)",
+      "score": 0.16,
+      "r18": true,
+      "languages": [
+        "gb",
+        "kr"
+      ]
     }
   ]
 }

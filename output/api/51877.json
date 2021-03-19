@@ -1,50 +1,101 @@
 {
   "id": 51877,
   "title": "Control",
-  "url": "https://api.mangadex.org/v2/manga/51877",
-  "last_updated": "February 05, 2021 12:15:08 UTC",
+  "url": "https://mangadex.org/manga/51877",
+  "last_updated": "March 18, 2021 13:33:36 UTC",
   "matches": [
-    {
-      "id": 3021,
-      "title": "City of the Dead Sorcerer",
-      "score": 0.695,
-      "r18": false
-    },
-    {
-      "id": 555,
-      "title": "Mirai Nikki",
-      "score": 0.686,
-      "r18": false
-    },
     {
       "id": 15925,
       "title": "Karada Sagashi",
-      "score": 0.67,
-      "r18": false
-    },
-    {
-      "id": 170,
-      "title": "Soil",
-      "score": 0.654,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 50784,
       "title": "I Have Something to Tell You",
-      "score": 0.339,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 170,
+      "title": "Soil",
+      "score": 0.161,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 2890,
+      "title": "Alice in Borderland",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "tr",
+        "br"
+      ]
+    },
+    {
+      "id": 555,
+      "title": "Mirai Nikki",
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 48961,
       "title": "Until the End",
-      "score": 0.259,
-      "r18": false
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 55608,
+      "title": "Heavenly Bride",
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 57456,
       "title": "A Depiction of Hell",
-      "score": 0.151,
-      "r18": false
+      "score": 0.124,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa"
+      ]
+    },
+    {
+      "id": 3021,
+      "title": "City of the Dead Sorcerer",
+      "score": 0.118,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "fr"
+      ]
     }
   ]
 }

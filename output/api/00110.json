@@ -2,61 +2,107 @@
   "id": 110,
   "title": "Bitter Virgin",
   "url": "https://mangadex.org/manga/110",
-  "last_updated": "March 14, 2021 00:48:57 UTC",
+  "last_updated": "March 18, 2021 05:43:29 UTC",
   "matches": [
     {
       "id": 18398,
       "title": "Chuusotsu Worker kara Hajimeru Koukou Seikatsu",
       "score": 0.284,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx"
+      ]
     },
     {
       "id": 30531,
       "title": "Sailor Suit Is Dyed in Black",
       "score": 0.268,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "hk"
+      ]
     },
     {
       "id": 10439,
       "title": "Yuki ni Tsubasa",
-      "score": 0.26,
-      "r18": false
+      "score": 0.259,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 23536,
       "title": "Yakedo Shoujo",
       "score": 0.253,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "cn",
+        "mx"
+      ]
     },
     {
       "id": 2819,
       "title": "System of Romance",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
     },
     {
       "id": 23828,
       "title": "Sensei no Shiroi Uso",
-      "score": 0.227,
-      "r18": false
+      "score": 0.226,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "es"
+      ]
     },
     {
       "id": 935,
       "title": "Watashitachi no Shiawase na Jikan",
-      "score": 0.2,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ct",
+        "de",
+        "id",
+        "br",
+        "pl",
+        "it",
+        "fr"
+      ]
     },
     {
       "id": 10285,
       "title": "Hyouryuu Net Cafe",
       "score": 0.194,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 48961,
       "title": "Until the End",
-      "score": 0.133,
-      "r18": false
+      "score": 0.132,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     }
   ]
 }

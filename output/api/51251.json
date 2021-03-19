@@ -1,158 +1,245 @@
 {
   "id": 51251,
   "title": "Mr.CB",
-  "url": "https://api.mangadex.org/v2/manga/51251",
-  "last_updated": "February 05, 2021 12:04:50 UTC",
+  "url": "https://mangadex.org/manga/51251",
+  "last_updated": "March 18, 2021 13:28:22 UTC",
   "matches": [
-    {
-      "id": 606,
-      "title": "Area no Kishi",
-      "score": 0.693,
-      "r18": false
-    },
-    {
-      "id": 1021,
-      "title": "Girls of the Wild's",
-      "score": 0.683,
-      "r18": false
-    },
-    {
-      "id": 13276,
-      "title": "Garouden Boy",
-      "score": 0.681,
-      "r18": false
-    },
-    {
-      "id": 43650,
-      "title": "Buttobi Itto",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 4548,
-      "title": "Rokudenashi Blues",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 23362,
-      "title": "Soukyuu Boys",
-      "score": 0.671,
-      "r18": false
-    },
-    {
-      "id": 927,
-      "title": "Major",
-      "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 4107,
-      "title": "I'll",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 663,
-      "title": "Rookies",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 11710,
-      "title": "Days",
-      "score": 0.662,
-      "r18": false
-    },
-    {
-      "id": 56106,
-      "title": "Tiempo",
-      "score": 0.662,
-      "r18": false
-    },
-    {
-      "id": 4581,
-      "title": "Blazing Transfer Student",
-      "score": 0.662,
-      "r18": false
-    },
-    {
-      "id": 14876,
-      "title": "Kuroko no Basket - Replace Plus",
-      "score": 0.658,
-      "r18": false
-    },
     {
       "id": 15948,
       "title": "G",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 2597,
-      "title": "Sayonara Football",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 936,
-      "title": "Haru Polish",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 831,
-      "title": "Shin Tennis no Oujisama",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 1281,
-      "title": "Touch",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 6600,
-      "title": "Minami Kamakura High School Girls Cycling Club",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 1385,
-      "title": "H2",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 17688,
-      "title": "Bucchigiri",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 3943,
-      "title": "Slam Dunk",
-      "score": 0.652,
-      "r18": false
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22964,
       "title": "3rd Base 4th",
-      "score": 0.652,
-      "r18": false
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 8464,
-      "title": "Yowamushi Pedal",
-      "score": 0.651,
-      "r18": false
+      "id": 25642,
+      "title": "Bench",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ct"
+      ]
     },
     {
-      "id": 22647,
-      "title": "Toji no Miko",
-      "score": 0.651,
-      "r18": false
+      "id": 6887,
+      "title": "Wind Mill",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2744,
+      "title": "Saikyou! Toritsu Aoizaka Koukou Yakyuubu",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37667,
+      "title": "Beast Children",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 25327,
+      "title": "Whistle! W",
+      "score": 0.372,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 23362,
+      "title": "Soukyuu Boys",
+      "score": 0.353,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 39549,
+      "title": "Moon Land",
+      "score": 0.345,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10099,
+      "title": "Gamushara",
+      "score": 0.334,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 56106,
+      "title": "Tiempo",
+      "score": 0.32,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 31561,
+      "title": "Inazuma Eleven: Ares no Tenbin",
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 28050,
+      "title": "Go Ahead",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 24032,
+      "title": "Basuke no Megami-sama",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 27558,
+      "title": "Ashigaru",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 31766,
+      "title": "Danball Senki Wars",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 3818,
+      "title": "15 - Meisetsu Kougyou Koukou Rugby Bu",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 4227,
+      "title": "Fight no Akatsuki",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 1949,
+      "title": "Atsuize Tenma!",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 633,
+      "title": "Over Time",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 4107,
+      "title": "I'll",
+      "score": 0.277,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 6656,
+      "title": "Get! (AZUMA Mayumi)",
+      "score": 0.273,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6600,
+      "title": "Minami Kamakura High School Girls Cycling Club",
+      "score": 0.265,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24028,
+      "title": "Chari ni Norenai!",
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20515,
+      "title": "Ole Golazo",
+      "score": 0.263,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     }
   ]
 }

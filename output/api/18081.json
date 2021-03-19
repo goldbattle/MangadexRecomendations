@@ -2,31 +2,65 @@
   "id": 18081,
   "title": "Enkyori Kekkon",
   "url": "https://mangadex.org/manga/18081",
-  "last_updated": "March 15, 2021 21:49:49 UTC",
+  "last_updated": "March 18, 2021 08:36:48 UTC",
   "matches": [
     {
       "id": 2246,
       "title": "Gold",
       "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 46221,
-      "title": "Pure Love",
-      "score": 0.157,
-      "r18": false
-    },
-    {
-      "id": 53709,
-      "title": "The Gentle Goblin's Bird",
-      "score": 0.156,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 53753,
       "title": "Under the Oak Tree",
-      "score": 0.14,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "ru",
+        "br",
+        "hu",
+        "it",
+        "fr"
+      ]
+    },
+    {
+      "id": 46221,
+      "title": "Pure Love",
+      "score": 0.156,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "br"
+      ]
+    },
+    {
+      "id": 53709,
+      "title": "The Gentle Goblin's Bird",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "vn",
+        "it"
+      ]
+    },
+    {
+      "id": 40728,
+      "title": "Tensei Danzou Oujo wa Kekkon Aite wo Sagasanai",
+      "score": 0.142,
+      "r18": false,
+      "languages": [
+        "gb",
+        "th"
+      ]
     }
   ]
 }

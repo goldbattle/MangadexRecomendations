@@ -1,134 +1,181 @@
 {
   "id": 51303,
   "title": "Mabataki yori Hayaku!!",
-  "url": "https://api.mangadex.org/v2/manga/51303",
-  "last_updated": "February 05, 2021 12:05:43 UTC",
+  "url": "https://mangadex.org/manga/51303",
+  "last_updated": "March 18, 2021 13:28:49 UTC",
   "matches": [
-    {
-      "id": 33467,
-      "title": "Karate Shoukoushi Monogatari",
-      "score": 0.344,
-      "r18": false
-    },
-    {
-      "id": 10601,
-      "title": "Super Combat Legend: Shine Tomorrow",
-      "score": 0.333,
-      "r18": false
-    },
-    {
-      "id": 29588,
-      "title": "Goshu Wushuang",
-      "score": 0.331,
-      "r18": false
-    },
-    {
-      "id": 22598,
-      "title": "Hanakaku - The Last Girl Standing",
-      "score": 0.325,
-      "r18": false
-    },
     {
       "id": 1083,
       "title": "Bamboo Blade",
-      "score": 0.318,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it"
+      ]
+    },
+    {
+      "id": 33467,
+      "title": "Karate Shoukoushi Monogatari",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 338,
       "title": "Tough",
-      "score": 0.316,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2279,
       "title": "Koukou Tekken-den Tough",
-      "score": 0.314,
-      "r18": false
-    },
-    {
-      "id": 276,
-      "title": "Karate Shoukoushi Kohinata Minoru",
-      "score": 0.307,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 915,
       "title": "Evil Heart",
-      "score": 0.295,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 187,
-      "title": "Hayate x Blade",
-      "score": 0.285,
-      "r18": false
+      "id": 10601,
+      "title": "Super Combat Legend: Shine Tomorrow",
+      "score": 0.216,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 22598,
+      "title": "Hanakaku - The Last Girl Standing",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 276,
+      "title": "Karate Shoukoushi Kohinata Minoru",
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 1768,
       "title": "All-Rounder Meguru",
-      "score": 0.285,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 31224,
-      "title": "Tough Gaiden - Ryuu o Tsugu Otoko",
-      "score": 0.266,
-      "r18": false
-    },
-    {
-      "id": 926,
-      "title": "Gekiryuuchi",
-      "score": 0.249,
-      "r18": false
-    },
-    {
-      "id": 3866,
-      "title": "Asahinagu",
-      "score": 0.244,
-      "r18": false
-    },
-    {
-      "id": 22078,
-      "title": "Saotome Senshu, Hitakakusu",
-      "score": 0.239,
-      "r18": false
+      "id": 187,
+      "title": "Hayate x Blade",
+      "score": 0.164,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 499,
       "title": "Teppu",
-      "score": 0.238,
-      "r18": false
+      "score": 0.164,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 22078,
+      "title": "Saotome Senshu, Hitakakusu",
+      "score": 0.164,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "fr",
+        "mx",
+        "es",
+        "ru",
+        "id"
+      ]
     },
     {
       "id": 3232,
       "title": "Yawara!",
-      "score": 0.238,
-      "r18": false
+      "score": 0.164,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 3866,
+      "title": "Asahinagu",
+      "score": 0.143,
+      "r18": false,
+      "languages": [
+        "ru",
+        "es",
+        "gb"
+      ]
+    },
+    {
+      "id": 926,
+      "title": "Gekiryuuchi",
+      "score": 0.143,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "pl"
+      ]
     },
     {
       "id": 19949,
       "title": "Kinnikuman Nisei: Ultimate Chojin Tag",
-      "score": 0.214,
-      "r18": false
-    },
-    {
-      "id": 161,
-      "title": "Fist of Legend",
-      "score": 0.212,
-      "r18": false
-    },
-    {
-      "id": 31106,
-      "title": "Boss in School",
-      "score": 0.205,
-      "r18": false
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2268,
       "title": "Mudazumo Naki Kaikaku",
-      "score": 0.143,
-      "r18": false
+      "score": 0.076,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it"
+      ]
     }
   ]
 }

@@ -2,67 +2,145 @@
   "id": 30127,
   "title": "Ganon",
   "url": "https://mangadex.org/manga/30127",
-  "last_updated": "January 13, 2021 12:46:26 UTC",
+  "last_updated": "March 18, 2021 10:31:59 UTC",
   "matches": [
     {
       "id": 4851,
       "title": "Green Blood",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "hu"
+      ]
     },
     {
       "id": 350,
       "title": "Vinland Saga",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "br",
+        "mx",
+        "sa",
+        "gb",
+        "ru",
+        "tr",
+        "es",
+        "it",
+        "ua"
+      ]
     },
     {
       "id": 22144,
       "title": "Issak",
-      "score": 0.191,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "br",
+        "ru"
+      ]
     },
     {
       "id": 5397,
       "title": "Kozure Ookami",
-      "score": 0.172,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "mx",
+        "ru"
+      ]
     },
     {
       "id": 12588,
       "title": "Gunjou Senki",
-      "score": 0.153,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 34800,
       "title": "341 Sentoudan",
-      "score": 0.153,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 1357,
       "title": "Mitsurin Shounen",
-      "score": 0.138,
-      "r18": false
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 44496,
+      "title": "Gantz:E",
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "gb",
+        "th",
+        "mx",
+        "br",
+        "hk",
+        "tr",
+        "ru",
+        "hu",
+        "it",
+        "sa",
+        "pl"
+      ]
     },
     {
       "id": 4629,
       "title": "Burning Hell",
-      "score": 0.126,
-      "r18": false
+      "score": 0.105,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu"
+      ]
     },
     {
       "id": 7017,
       "title": "The Sea of Fallen Beasts",
-      "score": 0.106,
-      "r18": false
+      "score": 0.089,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 16663,
       "title": "Golden Kamuy",
-      "score": 0.106,
-      "r18": false
+      "score": 0.077,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa",
+        "ru",
+        "id",
+        " ",
+        "se",
+        "ro",
+        "it",
+        "br",
+        "pl",
+        "hu",
+        "il"
+      ]
     }
   ]
 }

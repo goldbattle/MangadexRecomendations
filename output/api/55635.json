@@ -1,158 +1,256 @@
 {
   "id": 55635,
   "title": "A manga where they can get closer with every reply",
-  "url": "https://api.mangadex.org/v2/manga/55635",
-  "last_updated": "March 12, 2021 20:40:18 UTC",
+  "url": "https://mangadex.org/manga/55635",
+  "last_updated": "March 18, 2021 14:05:00 UTC",
   "matches": [
-    {
-      "id": 48141,
-      "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
-      "score": 0.662,
-      "r18": false
-    },
-    {
-      "id": 58407,
-      "title": "Matchmaking of the Amagami Household (Oneshot)",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 3076,
-      "title": "Kanchigai Musume to Buchigire Ouji",
-      "score": 0.651,
-      "r18": false
-    },
     {
       "id": 45812,
       "title": "Hiiragi-sensei wa Kyoushi Shikkaku!?",
-      "score": 0.448,
-      "r18": false
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id",
+        "ru"
+      ]
     },
     {
       "id": 32679,
       "title": "The Hospitalized Girl and Death",
-      "score": 0.411,
-      "r18": false
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "mx",
+        "br",
+        "ru"
+      ]
     },
     {
       "id": 32681,
       "title": "Choosing A Favourite",
-      "score": 0.409,
-      "r18": false
-    },
-    {
-      "id": 37289,
-      "title": "An Inventor and His Assistant",
-      "score": 0.402,
-      "r18": false
-    },
-    {
-      "id": 10662,
-      "title": "Sentimental Shounen A",
-      "score": 0.39,
-      "r18": false
-    },
-    {
-      "id": 19302,
-      "title": "Lovely Banchou",
-      "score": 0.381,
-      "r18": false
-    },
-    {
-      "id": 45614,
-      "title": "Dentist-san, Please Marry Me",
-      "score": 0.38,
-      "r18": false
-    },
-    {
-      "id": 6927,
-      "title": "Anne-chan Tarou",
-      "score": 0.379,
-      "r18": false
-    },
-    {
-      "id": 45633,
-      "title": "An Unexpected Side of Cute Girlfriend",
-      "score": 0.378,
-      "r18": false
-    },
-    {
-      "id": 23859,
-      "title": "Karakai Jouzu no Takagi-san - Karakai Jouzu no Nishikata-kun (Doujinshi)",
-      "score": 0.374,
-      "r18": false
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 32615,
       "title": "The Immortal's Tale",
-      "score": 0.371,
-      "r18": false
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        " "
+      ]
     },
     {
-      "id": 21407,
-      "title": "Rabu Rabu Butabara",
-      "score": 0.37,
-      "r18": false
+      "id": 37289,
+      "title": "An Inventor and His Assistant",
+      "score": 0.329,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn"
+      ]
+    },
+    {
+      "id": 45633,
+      "title": "An Unexpected Side of Cute Girlfriend",
+      "score": 0.311,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 45614,
+      "title": "Dentist-san, Please Marry Me",
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "mx",
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 11060,
+      "title": "Because you are...",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "fr"
+      ]
+    },
+    {
+      "id": 35394,
+      "title": "Tsuki ga Kirei desu ne",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "tr",
+        "ru"
+      ]
+    },
+    {
+      "id": 36804,
+      "title": "Saho-chan Won't Concentrate Properly on Her Studies.",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 45599,
+      "title": "My Girlfriend Isn't Cute",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 6927,
+      "title": "Anne-chan Tarou",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 51122,
       "title": "My Little Sister Shinonome-san",
-      "score": 0.37,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb"
+      ]
     },
     {
-      "id": 1509,
-      "title": "Blanc Marie",
-      "score": 0.37,
-      "r18": false
+      "id": 26193,
+      "title": "Nandemo Arisa",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 55374,
-      "title": "No Strategy, No Bullshit.",
-      "score": 0.368,
-      "r18": false
+      "id": 10211,
+      "title": "Darling Only You!",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 45441,
-      "title": "A Married Couple's Brutal Valentine&rsquo;s",
-      "score": 0.365,
-      "r18": false
+      "id": 7164,
+      "title": "Tokyo Photograph",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     },
     {
-      "id": 56609,
-      "title": "Osananajimi no Onnanoko ga Zubunure de Ie ni Oshikakete Kita!!",
-      "score": 0.363,
-      "r18": false
+      "id": 24828,
+      "title": "The Love's Red Signals",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg"
+      ]
+    },
+    {
+      "id": 19302,
+      "title": "Lovely Banchou",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 16200,
+      "title": "Banken Hero",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 46389,
+      "title": "Loving a Player",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 51583,
+      "title": "Tonari no Koitsu",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9115,
+      "title": "Konjaku Overhaul",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 30514,
       "title": "Eiyuu Densetsu - Sen no Kiseki - LINK OF HEARTS case:A.R.",
-      "score": 0.362,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 55434,
-      "title": "Makezugirai na Onna no Ko ga Shoubu wo Idondekuru Hanashi",
-      "score": 0.361,
-      "r18": false
+      "id": 21407,
+      "title": "Rabu Rabu Butabara",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 8830,
-      "title": "Love Mania Sock",
-      "score": 0.361,
-      "r18": false
-    },
-    {
-      "id": 5881,
-      "title": "For Someone",
-      "score": 0.359,
-      "r18": false
-    },
-    {
-      "id": 15515,
-      "title": "Himitsu no Sakana-pan",
-      "score": 0.358,
-      "r18": false
+      "id": 6941,
+      "title": "A Little Melody of Love",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "it"
+      ]
     }
   ]
 }

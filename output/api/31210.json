@@ -1,26 +1,46 @@
 {
   "id": 31210,
   "title": "Subete no Jinrui wo Hakai Suru. Sorera wa Saisei Dekinai.",
-  "url": "https://api.mangadex.org/v2/manga/31210",
-  "last_updated": "February 10, 2021 08:16:34 UTC",
+  "url": "https://mangadex.org/manga/31210",
+  "last_updated": "March 18, 2021 10:41:01 UTC",
   "matches": [
     {
       "id": 34944,
       "title": "Soredemo Ayumu wa Yosetekuru",
-      "score": 0.355,
-      "r18": false
-    },
-    {
-      "id": 37632,
-      "title": "Soredemo Ayumu wa Yosetekuru (Fan Colored)",
-      "score": 0.318,
-      "r18": false
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "ru",
+        "tr",
+        "sa",
+        "fr",
+        "it",
+        "cz"
+      ]
     },
     {
       "id": 25960,
       "title": "Shogi Senpai",
-      "score": 0.303,
-      "r18": false
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id",
+        "br"
+      ]
+    },
+    {
+      "id": 37632,
+      "title": "Soredemo Ayumu wa Yosetekuru (Fan Colored)",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

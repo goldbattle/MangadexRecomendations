@@ -1,158 +1,253 @@
 {
   "id": 44960,
   "title": "Ultra Eleven",
-  "url": "https://api.mangadex.org/v2/manga/44960",
-  "last_updated": "February 11, 2021 20:18:02 UTC",
+  "url": "https://mangadex.org/manga/44960",
+  "last_updated": "March 18, 2021 12:35:45 UTC",
   "matches": [
     {
       "id": 750,
       "title": "BaggataWay",
-      "score": 0.348,
-      "r18": false
+      "score": 0.296,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1035,
       "title": "Stand Up!",
-      "score": 0.348,
-      "r18": false
+      "score": 0.296,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 360,
       "title": "Takkoku!!!",
-      "score": 0.29,
-      "r18": false
+      "score": 0.246,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 662,
       "title": "Shinyaku",
-      "score": 0.29,
-      "r18": false
+      "score": 0.246,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 883,
       "title": "Eyeshield 21",
-      "score": 0.29,
-      "r18": false
+      "score": 0.246,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ct"
+      ]
     },
     {
-      "id": 2056,
-      "title": "Ganbare Genki",
-      "score": 0.29,
-      "r18": false
+      "id": 5011,
+      "title": "R.u.N.",
+      "score": 0.246,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 47570,
       "title": "Burning Kabaddi",
-      "score": 0.29,
-      "r18": false
+      "score": 0.246,
+      "r18": false,
+      "languages": [
+        "gb",
+        "in",
+        "mx"
+      ]
     },
     {
       "id": 606,
       "title": "Area no Kishi",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "fr",
+        "pl"
+      ]
     },
     {
       "id": 663,
       "title": "Rookies",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "mx",
+        "sa"
+      ]
     },
     {
       "id": 831,
       "title": "Shin Tennis no Oujisama",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "pl"
+      ]
     },
     {
       "id": 856,
       "title": "Amanchu!",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1014,
       "title": "Kurogane",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 1949,
       "title": "Atsuize Tenma!",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2475,
       "title": "Tennis no Oujisama",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2490,
       "title": "Idol A",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2768,
       "title": "Yuke!! Nangoku Ice Hockey Bu",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3561,
       "title": "Bakuten Shoot Beyblade",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 3744,
       "title": "Whistle!",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "pt"
+      ]
     },
     {
       "id": 3818,
       "title": "15 - Meisetsu Kougyou Koukou Rugby Bu",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 4227,
       "title": "Fight no Akatsuki",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 6256,
       "title": "Cross Manage",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br",
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 6511,
       "title": "Ore wa Teppei",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6656,
       "title": "Get! (AZUMA Mayumi)",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 9485,
       "title": "Kamen Boxer",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11009,
       "title": "Teekyuu",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

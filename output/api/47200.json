@@ -1,68 +1,92 @@
 {
   "id": 47200,
   "title": "Chandelier",
-  "url": "https://api.mangadex.org/v2/manga/47200",
-  "last_updated": "February 12, 2021 01:07:19 UTC",
+  "url": "https://mangadex.org/manga/47200",
+  "last_updated": "March 18, 2021 12:54:28 UTC",
   "matches": [
     {
       "id": 37471,
       "title": "Cynical Dog",
-      "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 54204,
-      "title": "Christmas Eve Present",
-      "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 54226,
-      "title": "The Christmas Eve Couple",
-      "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 54227,
-      "title": "Daisy",
-      "score": 0.353,
-      "r18": false
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 6295,
       "title": "Yuri Hime Wildrose",
-      "score": 0.265,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        " ",
+        "ct",
+        "it",
+        "pl",
+        "sa"
+      ]
     },
     {
       "id": 38743,
       "title": "Pure White Sigh",
-      "score": 0.265,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 54204,
+      "title": "Christmas Eve Present",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 37103,
       "title": "-Rain-",
-      "score": 0.212,
-      "r18": false
+      "score": 0.184,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br",
+        "it"
+      ]
     },
     {
       "id": 54825,
       "title": "Granblue Fantasy - Before My Sins Are Absolved (Doujinshi)",
-      "score": 0.212,
-      "r18": false
+      "score": 0.184,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20739,
       "title": "Akaneiro no Kisu wa Okujou de",
-      "score": 0.177,
-      "r18": false
+      "score": 0.153,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 31217,
       "title": "Avalon~bitter~ (Anthology)",
-      "score": 0.151,
-      "r18": false
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de"
+      ]
     }
   ]
 }

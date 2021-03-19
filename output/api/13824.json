@@ -2,31 +2,49 @@
   "id": 13824,
   "title": "Ana, Moji, Ketsueki Nado ga Arawareru Manga",
   "url": "https://mangadex.org/manga/13824",
-  "last_updated": "March 15, 2021 08:38:55 UTC",
+  "last_updated": "March 18, 2021 07:43:33 UTC",
   "matches": [
     {
       "id": 29340,
       "title": "R402",
       "score": 0.207,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "ru",
+        "mx",
+        "id"
+      ]
     },
     {
       "id": 21156,
       "title": "Salacia",
       "score": 0.207,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11358,
       "title": "Sentou Hakai Gakuen Dangerous",
-      "score": 0.121,
-      "r18": false
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 19908,
       "title": "Go-Chan Magazine",
-      "score": 0.097,
-      "r18": false
+      "score": 0.096,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     }
   ]
 }

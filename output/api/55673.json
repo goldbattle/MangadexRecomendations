@@ -1,32 +1,37 @@
 {
   "id": 55673,
   "title": "Kasenjiki RomiJuri Kousou Kyoku",
-  "url": "https://api.mangadex.org/v2/manga/55673",
-  "last_updated": "March 12, 2021 20:40:47 UTC",
+  "url": "https://mangadex.org/manga/55673",
+  "last_updated": "March 18, 2021 14:05:19 UTC",
   "matches": [
     {
       "id": 45362,
       "title": "You Are My All",
-      "score": 0.695,
-      "r18": false
+      "score": 0.185,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5069,
       "title": "Koi to Wana",
-      "score": 0.689,
-      "r18": false
-    },
-    {
-      "id": 58557,
-      "title": "Ijime-kko ni Fukushuu!",
-      "score": 0.276,
-      "r18": false
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 13212,
       "title": "Hare Tokidoki, Wakabasou",
-      "score": 0.151,
-      "r18": false
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

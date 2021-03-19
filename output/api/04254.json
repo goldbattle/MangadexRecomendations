@@ -2,157 +2,270 @@
   "id": 4254,
   "title": "Sorairo Square.",
   "url": "https://mangadex.org/manga/4254",
-  "last_updated": "March 14, 2021 08:29:11 UTC",
+  "last_updated": "March 18, 2021 06:20:33 UTC",
   "matches": [
-    {
-      "id": 345,
-      "title": "5 Centimeters Per Second",
-      "score": 0.328,
-      "r18": false
-    },
     {
       "id": 2335,
       "title": "Happy!",
       "score": 0.327,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 345,
+      "title": "5 Centimeters Per Second",
+      "score": 0.323,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 371,
       "title": "Hourou Musuko",
-      "score": 0.307,
-      "r18": false
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "pl"
+      ]
     },
     {
       "id": 955,
       "title": "Hanamaru Kindergarten",
       "score": 0.3,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 8790,
       "title": "Kami-sama ga Uso wo Tsuku",
       "score": 0.3,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "ct",
+        "it"
+      ]
     },
     {
       "id": 31206,
       "title": "Ijime no Jikan",
       "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 34457,
-      "title": "Knite",
-      "score": 0.3,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 17125,
       "title": "Tamayura Kitsune",
       "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 8795,
-      "title": "Chiisaku Furikabutte",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 4307,
-      "title": "Saishuu Heiki Kanojo Gaiden - Sekai no Hate ni wa Kimi to Futari de",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 32017,
-      "title": "Miageru to Kimi wa",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 21108,
-      "title": "Hibiki - Shousetsuka ni Naru Houhou",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 875,
-      "title": "Bokura wa Minna Kawai-sou",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 1690,
-      "title": "Yashikoh Shodai Seitokai",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 748,
-      "title": "Yesterday wo Utatte",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 20061,
-      "title": "Slow Motion wo Mou Ichido",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 11671,
-      "title": "Awajima Hyakkei",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 12032,
-      "title": "Bocchi na Bokura no Renai Jijou",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 40204,
-      "title": "Mayu, Matou",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 16808,
-      "title": "Dance Dance Danseur",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 463,
-      "title": "Sensen Spike Hills",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 8948,
-      "title": "Kyou no Yuiko-san",
-      "score": 0.3,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 43948,
       "title": "Kawaii",
       "score": 0.3,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 8795,
+      "title": "Chiisaku Furikabutte",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4307,
+      "title": "Saishuu Heiki Kanojo Gaiden - Sekai no Hate ni wa Kimi to Futari de",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 32017,
+      "title": "Miageru to Kimi wa",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 32911,
+      "title": "Tonari no Furi-san ga Tonikaku Kowai",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "id",
+        "br"
+      ]
+    },
+    {
+      "id": 21108,
+      "title": "Hibiki - Shousetsuka ni Naru Houhou",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 875,
+      "title": "Bokura wa Minna Kawai-sou",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it",
+        "ru",
+        "id",
+        "pl",
+        "fr"
+      ]
+    },
+    {
+      "id": 1690,
+      "title": "Yashikoh Shodai Seitokai",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 748,
+      "title": "Yesterday wo Utatte",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "cn",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 20061,
+      "title": "Slow Motion wo Mou Ichido",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 11671,
+      "title": "Awajima Hyakkei",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 12032,
+      "title": "Bocchi na Bokura no Renai Jijou",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "de",
+        "fr",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 40632,
+      "title": "Ichizu de Bitch na Kouhai",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "mx"
+      ]
+    },
+    {
+      "id": 16808,
+      "title": "Dance Dance Danseur",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de"
+      ]
+    },
+    {
+      "id": 463,
+      "title": "Sensen Spike Hills",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8948,
+      "title": "Kyou no Yuiko-san",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "pl"
+      ]
     },
     {
       "id": 2507,
       "title": "3 Level Combination",
-      "score": 0.292,
-      "r18": false
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 16032,
       "title": "Nagareboshi ni Negau Hodo Bokura wa Sunao ja Nai",
-      "score": 0.292,
-      "r18": false
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "mx"
+      ]
     }
   ]
 }

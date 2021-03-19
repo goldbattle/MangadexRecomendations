@@ -1,38 +1,60 @@
 {
   "id": 55612,
   "title": "Nobody Knows",
-  "url": "https://api.mangadex.org/v2/manga/55612",
-  "last_updated": "March 12, 2021 20:40:01 UTC",
+  "url": "https://mangadex.org/manga/55612",
+  "last_updated": "March 18, 2021 14:04:48 UTC",
   "matches": [
     {
       "id": 21534,
       "title": "12 o'clock Elevator",
-      "score": 0.255,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 58286,
       "title": "Perfect Appearance",
-      "score": 0.113,
-      "r18": false
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 30456,
       "title": "Peter Pan",
-      "score": 0.102,
-      "r18": false
+      "score": 0.083,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 50966,
       "title": "I No Longer Lift a Sword",
-      "score": 0.102,
-      "r18": false
+      "score": 0.083,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 55702,
       "title": "[ NOVEL ] Possessing a Murim Clan's Youngest Son",
-      "score": 0.085,
-      "r18": false
+      "score": 0.069,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "fr",
+        "id",
+        "pl"
+      ]
     }
   ]
 }

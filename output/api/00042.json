@@ -2,157 +2,286 @@
   "id": 42,
   "title": "Baby Steps",
   "url": "https://mangadex.org/manga/42",
-  "last_updated": "March 14, 2021 00:47:37 UTC",
+  "last_updated": "March 18, 2021 05:42:55 UTC",
   "matches": [
+    {
+      "id": 1281,
+      "title": "Touch",
+      "score": 0.327,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
+    },
     {
       "id": 991,
       "title": "Cross Game",
-      "score": 0.328,
-      "r18": false
+      "score": 0.327,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 1873,
       "title": "Haikyuu!!",
       "score": 0.325,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "it",
+        "id",
+        "br",
+        "ru",
+        "bg",
+        "tr"
+      ]
     },
     {
       "id": 10271,
       "title": "Ballroom e Youkoso",
       "score": 0.325,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "es",
+        "fr"
+      ]
+    },
+    {
+      "id": 51614,
+      "title": "Shoot!",
+      "score": 0.325,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1284,
       "title": "Nine",
       "score": 0.325,
-      "r18": false
-    },
-    {
-      "id": 1385,
-      "title": "H2",
-      "score": 0.325,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 3910,
       "title": "Katsu!",
       "score": 0.325,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 1385,
+      "title": "H2",
+      "score": 0.325,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 9597,
       "title": "Natsuzora and Run",
       "score": 0.325,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 1283,
       "title": "Rough",
       "score": 0.325,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 927,
       "title": "Major",
-      "score": 0.319,
-      "r18": false
+      "score": 0.318,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "fr",
+        "br"
+      ]
     },
     {
       "id": 1293,
       "title": "Miyuki",
       "score": 0.312,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "fr"
+      ]
     },
     {
       "id": 414,
       "title": "Sket Dance",
       "score": 0.312,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "mx",
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 11710,
       "title": "Days",
       "score": 0.296,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru"
+      ]
     },
     {
       "id": 5438,
       "title": "Short Program",
-      "score": 0.289,
-      "r18": false
-    },
-    {
-      "id": 1281,
-      "title": "Touch",
-      "score": 0.287,
-      "r18": false
-    },
-    {
-      "id": 4640,
-      "title": "Mix",
-      "score": 0.281,
-      "r18": false
+      "score": 0.288,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 838,
       "title": "Donten Prism Solar Car",
       "score": 0.281,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "br",
+        "it"
+      ]
     },
     {
       "id": 1367,
       "title": "Q and A",
       "score": 0.281,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 4640,
+      "title": "Mix",
+      "score": 0.281,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru"
+      ]
     },
     {
       "id": 5557,
       "title": "Tetsugaku Letra",
       "score": 0.281,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg",
+        "mx",
+        "br",
+        "tr",
+        "pl"
+      ]
     },
     {
       "id": 14876,
       "title": "Kuroko no Basket - Replace Plus",
       "score": 0.281,
-      "r18": false
-    },
-    {
-      "id": 684,
-      "title": "Kuroko no Basket",
-      "score": 0.281,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 43650,
       "title": "Buttobi Itto",
       "score": 0.281,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 684,
+      "title": "Kuroko no Basket",
+      "score": 0.281,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "tr",
+        "de"
+      ]
     },
     {
       "id": 16552,
-      "title": "BE BLUES ~Ao ni nare~",
+      "title": "BE BLUES ~Ao ni Nare~",
       "score": 0.281,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "br",
+        "ru",
+        "vn",
+        "sa"
+      ]
     },
     {
       "id": 858,
       "title": "Hikaru no Go",
       "score": 0.281,
-      "r18": false
-    },
-    {
-      "id": 21117,
-      "title": "Robot &times; Laserbeam",
-      "score": 0.281,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 18543,
       "title": "Tenohira no Netsu wo",
       "score": 0.281,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "fr",
+        "br",
+        "gb"
+      ]
     }
   ]
 }

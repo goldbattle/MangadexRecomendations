@@ -2,37 +2,60 @@
   "id": 18033,
   "title": "Genocider (Akiyoshi Takahiro)",
   "url": "https://mangadex.org/manga/18033",
-  "last_updated": "March 15, 2021 21:49:05 UTC",
+  "last_updated": "March 18, 2021 08:36:01 UTC",
   "matches": [
-    {
-      "id": 46689,
-      "title": "Eros no Shushi",
-      "score": 0.28,
-      "r18": false
-    },
     {
       "id": 5491,
       "title": "Hadou no Mon",
-      "score": 0.257,
-      "r18": false
+      "score": 0.256,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7327,
       "title": "Doctor Du Ming",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 22687,
+      "title": "GIGANT",
+      "score": 0.173,
+      "r18": false,
+      "languages": [
+        "it",
+        "mx",
+        "br",
+        "gb",
+        "fr",
+        "ru",
+        "ro"
+      ]
     },
     {
       "id": 18813,
       "title": "House of Dolls",
-      "score": 0.156,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 14677,
       "title": "Tokkaten",
-      "score": 0.156,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

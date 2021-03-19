@@ -2,157 +2,280 @@
   "id": 20500,
   "title": "Ryu",
   "url": "https://mangadex.org/manga/20500",
-  "last_updated": "March 16, 2021 04:11:58 UTC",
+  "last_updated": "March 18, 2021 08:57:27 UTC",
   "matches": [
     {
       "id": 24341,
       "title": "Digimon Adventure",
       "score": 0.314,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6780,
       "title": "Getter Robo Hien ~THE EARTH SUICIDE~",
       "score": 0.3,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 27762,
       "title": "Scrapped Princess",
       "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 39950,
-      "title": "Gusha no Hoshi",
-      "score": 0.3,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 31589,
       "title": "Monster Partner of The Vast Sea of Trees",
-      "score": 0.275,
-      "r18": false
+      "score": 0.274,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 22104,
       "title": "Saikyou no Shokugyou wa Yuusha Demo Kenja Demo Naku Kanteishi (Kari) Rashii Desu yo?",
-      "score": 0.275,
-      "r18": false
+      "score": 0.274,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id"
+      ]
     },
     {
       "id": 12432,
       "title": "Ore to Kawazu-san no Isekai Hourouki",
-      "score": 0.275,
-      "r18": false
-    },
-    {
-      "id": 6079,
-      "title": "Digimon Adventure V-Tamer 01",
-      "score": 0.264,
-      "r18": false
+      "score": 0.274,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "fr",
+        "br"
+      ]
     },
     {
       "id": 32367,
       "title": "Suterare Yuusha wa Kitakuchuu",
       "score": 0.264,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "fr"
+      ]
     },
     {
       "id": 43205,
       "title": "Garbage Brave",
       "score": 0.264,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "br",
+        "fr",
+        "ru"
+      ]
     },
     {
       "id": 24659,
       "title": "Live Dungeon!",
       "score": 0.264,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br",
+        "ru",
+        "fr"
+      ]
     },
     {
       "id": 21962,
       "title": "Isekai Cheat Magician",
       "score": 0.264,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "id",
+        "fr"
+      ]
     },
     {
       "id": 23765,
       "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
       "score": 0.264,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "fr",
+        "id",
+        "pl"
+      ]
     },
     {
       "id": 49405,
       "title": "Tate no Yuusha no Nariagari Anthology - Raphtalia to issho",
       "score": 0.264,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 9202,
       "title": "Tenkuu no Escaflowne",
       "score": 0.264,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 51325,
       "title": "Shoki Skill ga Benri Sugite Isekai Seikatsu ga Tanoshisugiru!",
       "score": 0.264,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 6599,
       "title": "Dragon Quest Monsters+",
       "score": 0.264,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 23834,
       "title": "Holy Ancestor",
       "score": 0.264,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "tr",
+        "ru"
+      ]
     },
     {
       "id": 22190,
       "title": "Didn&rsquo;t I Say to Make My Abilities Average in the Next Life?!",
       "score": 0.264,
-      "r18": false
-    },
-    {
-      "id": 23842,
-      "title": "EDEN",
-      "score": 0.263,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 22809,
       "title": "Soukyuu no Ariadne",
-      "score": 0.263,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "es"
+      ]
+    },
+    {
+      "id": 23842,
+      "title": "EDEN",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id",
+        "br"
+      ]
     },
     {
       "id": 25435,
       "title": "Madara",
-      "score": 0.263,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6318,
       "title": "UFO Robo Grendizer (Outa Gosaku)",
-      "score": 0.263,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22168,
       "title": "Legend",
-      "score": 0.255,
-      "r18": false
+      "score": 0.254,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "pl"
+      ]
     },
     {
       "id": 21061,
       "title": "Tales of Berseria",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 4566,
+      "title": "Hero Tales",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 2089,
+      "title": "Kingdom Hearts II",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "es"
+      ]
     }
   ]
 }

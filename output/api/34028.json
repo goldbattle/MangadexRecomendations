@@ -1,158 +1,261 @@
 {
   "id": 34028,
   "title": "Survival 2000",
-  "url": "https://api.mangadex.org/v2/manga/34028",
-  "last_updated": "February 10, 2021 12:47:45 UTC",
+  "url": "https://mangadex.org/manga/34028",
+  "last_updated": "March 18, 2021 11:04:30 UTC",
   "matches": [
-    {
-      "id": 15150,
-      "title": "Jitsuryokuha Elite Jin",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 12848,
-      "title": "NOA",
-      "score": 0.67,
-      "r18": false
-    },
-    {
-      "id": 9677,
-      "title": "Cyborg 009 (SHIMAMOTO Kazuhiko)",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 59202,
-      "title": "Rubbish Poetry",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 15571,
-      "title": "GARDEN",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 2930,
-      "title": "Hello Baby",
-      "score": 0.653,
-      "r18": false
-    },
     {
       "id": 22565,
       "title": "Waon Nijuusou",
-      "score": 0.447,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3676,
       "title": "Kid",
-      "score": 0.43,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 40636,
       "title": "Hakugin no Tei\u014d",
-      "score": 0.409,
-      "r18": false
-    },
-    {
-      "id": 40635,
-      "title": "Bear Hunter &mdash; Fubuki-g\u014d",
-      "score": 0.4,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2933,
       "title": "Urooboe Uroboros!",
-      "score": 0.386,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "id",
+        "ct",
+        "gb"
+      ]
+    },
+    {
+      "id": 9677,
+      "title": "Cyborg 009 (SHIMAMOTO Kazuhiko)",
+      "score": 0.269,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2930,
+      "title": "Hello Baby",
+      "score": 0.26,
+      "r18": false,
+      "languages": [
+        "pl",
+        "hu",
+        "ro",
+        "gb",
+        "ct",
+        "de"
+      ]
+    },
+    {
+      "id": 40635,
+      "title": "Bear Hunter &mdash; Fubuki-g\u014d",
+      "score": 0.253,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 15571,
+      "title": "GARDEN",
+      "score": 0.252,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 7157,
       "title": "Tasogare Schr&ouml;dinger",
-      "score": 0.357,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 19190,
       "title": "Prison Princess",
-      "score": 0.355,
-      "r18": false
-    },
-    {
-      "id": 1020,
-      "title": "Adabana",
-      "score": 0.344,
-      "r18": false
-    },
-    {
-      "id": 20054,
-      "title": "NANANA!!",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 23757,
-      "title": "Uso to Makoto",
-      "score": 0.332,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 17246,
       "title": "Namida wo Yurushita Jigoku no Shisha",
-      "score": 0.324,
-      "r18": false
-    },
-    {
-      "id": 1937,
-      "title": "Tsukimi no Soba",
-      "score": 0.316,
-      "r18": false
-    },
-    {
-      "id": 23433,
-      "title": "Fairy Tail The Movie: Priestess Of The Phoenix",
-      "score": 0.315,
-      "r18": false
-    },
-    {
-      "id": 37642,
-      "title": "Tenko",
-      "score": 0.302,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 46925,
       "title": "Yu-Gi-Oh! Rush Duel: Yarouze! Rush Duel!!",
-      "score": 0.301,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 2946,
-      "title": "Souten no Koumori",
-      "score": 0.297,
-      "r18": false
+      "id": 35822,
+      "title": "Lol-Immortal Jurney",
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 1191,
-      "title": "L&infin;P",
-      "score": 0.284,
-      "r18": false
+      "id": 23757,
+      "title": "Uso to Makoto",
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 15663,
       "title": "Unlucky Boy, Undead Girl",
-      "score": 0.28,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "it",
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 2946,
+      "title": "Souten no Koumori",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "fr",
+        "ct"
+      ]
+    },
+    {
+      "id": 13415,
+      "title": "Moon Walker LTD",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59202,
+      "title": "Rubbish Poetry",
+      "score": 0.197,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 12848,
+      "title": "NOA",
+      "score": 0.189,
+      "r18": false,
+      "languages": [
+        "br",
+        "pl",
+        "it",
+        "gb"
+      ]
+    },
+    {
+      "id": 23433,
+      "title": "Fairy Tail The Movie: Priestess Of The Phoenix",
+      "score": 0.189,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1020,
+      "title": "Adabana",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ct",
+        "de",
+        "ro"
+      ]
+    },
+    {
+      "id": 1937,
+      "title": "Tsukimi no Soba",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br"
+      ]
+    },
+    {
+      "id": 1191,
+      "title": "L&infin;P",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "pl",
+        "it",
+        "gb"
+      ]
     },
     {
       "id": 49402,
       "title": "A Story about a Giant Hero",
-      "score": 0.272,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7371,
+      "title": "Amanusya",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     }
   ]
 }

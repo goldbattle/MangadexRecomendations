@@ -2,79 +2,115 @@
   "id": 5805,
   "title": "Vandread",
   "url": "https://mangadex.org/manga/5805",
-  "last_updated": "March 14, 2021 12:42:02 UTC",
+  "last_updated": "March 18, 2021 06:34:59 UTC",
   "matches": [
     {
       "id": 28103,
       "title": "Kyoshirou to Towa no Sora",
       "score": 0.245,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 23036,
       "title": "Darling in the FranXX",
       "score": 0.221,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru",
+        "br",
+        "id",
+        "fr",
+        "it",
+        "pl",
+        "vn",
+        "tr"
+      ]
     },
     {
       "id": 12703,
       "title": "Saijaku Muhai no Bahamut",
       "score": 0.207,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr"
+      ]
     },
     {
       "id": 7868,
       "title": "Kidou Senshi Gundam C.D.A. - Wakaki Suisei no Shouzou",
-      "score": 0.205,
-      "r18": false
-    },
-    {
-      "id": 46088,
-      "title": "Muv-Luv Alternative: Total Eclipse Rising",
-      "score": 0.193,
-      "r18": false
+      "score": 0.204,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 10543,
       "title": "Hundred",
-      "score": 0.167,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "it"
+      ]
     },
     {
       "id": 6138,
       "title": "Full Metal Panic!",
       "score": 0.166,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 425,
       "title": "Infinite Stratos",
       "score": 0.163,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "it",
+        "id"
+      ]
     },
     {
       "id": 42457,
       "title": "Darling in the FranXX (Fan Colored)",
-      "score": 0.152,
-      "r18": false
+      "score": 0.151,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 12173,
       "title": "Ark:Romancer",
       "score": 0.145,
-      "r18": false
-    },
-    {
-      "id": 31032,
-      "title": "The World of Otome Games Is Tough for Mobs",
-      "score": 0.126,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 12595,
       "title": "Iczer Densetsu",
-      "score": 0.109,
-      "r18": false
+      "score": 0.108,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

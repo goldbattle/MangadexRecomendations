@@ -1,158 +1,242 @@
 {
   "id": 50687,
   "title": "Yasuraka Monsters",
-  "url": "https://api.mangadex.org/v2/manga/50687",
-  "last_updated": "February 05, 2021 08:27:31 UTC",
+  "url": "https://mangadex.org/manga/50687",
+  "last_updated": "March 18, 2021 13:23:40 UTC",
   "matches": [
-    {
-      "id": 1389,
-      "title": "Superior Cross",
-      "score": 0.662,
-      "r18": false
-    },
-    {
-      "id": 1388,
-      "title": "Superior",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 11923,
-      "title": "Monster X Monster",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 21664,
-      "title": "Persona x Detective Naoto",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 5573,
-      "title": "Saiyuki",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 5169,
-      "title": "Genzou Hitogata Kiwa",
-      "score": 0.657,
-      "r18": false
-    },
-    {
-      "id": 45807,
-      "title": "Life Completely Ruined",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 40764,
-      "title": "Tokyo Hell Heavens",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 22236,
-      "title": "Rurouni Kenshin: Hokkaido-hen",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 4880,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 7436,
-      "title": "Hoozuki no Reitetsu",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 20839,
-      "title": "Arcana Soul",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 353,
-      "title": "Shibatora",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.65,
-      "r18": false
-    },
     {
       "id": 6186,
       "title": "Wallaby",
-      "score": 0.454,
-      "r18": false
-    },
-    {
-      "id": 20958,
-      "title": "Chinpui",
-      "score": 0.431,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 18130,
       "title": "Kami Darake",
-      "score": 0.401,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 10496,
-      "title": "Yuurei Ryokou Dairiten - Soul Mate Tourist",
-      "score": 0.352,
-      "r18": false
-    },
-    {
-      "id": 7711,
-      "title": "funfun Koubou",
-      "score": 0.345,
-      "r18": false
-    },
-    {
-      "id": 6773,
-      "title": "Ashita no Familia",
-      "score": 0.342,
-      "r18": false
+      "id": 20958,
+      "title": "Chinpui",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29167,
       "title": "Girls, Brooms, and Tomato Sauce",
-      "score": 0.34,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 14421,
-      "title": "Difu Daili Ren",
-      "score": 0.332,
-      "r18": false
+      "id": 38680,
+      "title": "Kawazuya",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 49246,
-      "title": "Bakana Shinigami",
-      "score": 0.332,
-      "r18": false
+      "id": 41775,
+      "title": "Spring, Summer, And Winter Have Been Cursed!",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 6773,
+      "title": "Ashita no Familia",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55,
+      "title": "Wrong Soul",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7711,
+      "title": "funfun Koubou",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 10744,
+      "title": "Seimei desu ga nani ka?",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1605,
       "title": "Absorb; Ability",
-      "score": 0.329,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21259,
+      "title": "For once story",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 11277,
+      "title": "Nekowappa!",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 15019,
+      "title": "Daikinboshi",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14394,
+      "title": "Bakeneko OL Tamami-san",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6853,
+      "title": "Kaijuu no Tail",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19019,
+      "title": "Mother 2: Giygas Strikes Back - Ness's Adventure Memoirs",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19158,
+      "title": "Aranagi-sama",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "cn",
+        "gb"
+      ]
+    },
+    {
+      "id": 1879,
+      "title": "Coin Laundry no Onna",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 10804,
+      "title": "Nuigurumi Kurasshu",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb"
+      ]
+    },
+    {
+      "id": 16315,
+      "title": "Yo-kai Watch ~Waku Waku Nyanderful Days~",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3857,
       "title": "Neko Majin",
-      "score": 0.327,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 19912,
+      "title": "Bakeneko System",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 25620,
+      "title": "Amamizu Linda",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18519,
+      "title": "X-Girl",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

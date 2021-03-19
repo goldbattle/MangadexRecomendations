@@ -2,31 +2,44 @@
   "id": 24812,
   "title": "Finder no Naka no Koibito",
   "url": "https://mangadex.org/manga/24812",
-  "last_updated": "March 16, 2021 16:23:57 UTC",
+  "last_updated": "March 18, 2021 09:43:13 UTC",
   "matches": [
     {
       "id": 51057,
       "title": "Boku to Ore",
-      "score": 0.227,
-      "r18": true
+      "score": 0.226,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 28354,
+      "title": "Mood Ippon!",
+      "score": 0.16,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 49815,
       "title": "Motto Ore wo Mitte",
       "score": 0.16,
-      "r18": true
-    },
-    {
-      "id": 55692,
-      "title": "Jou-sama Baito",
-      "score": 0.16,
-      "r18": true
+      "r18": true,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 35760,
       "title": "Shiritsu Yarisaka Gakuen",
       "score": 0.128,
-      "r18": true
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

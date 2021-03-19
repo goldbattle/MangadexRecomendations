@@ -1,158 +1,275 @@
 {
   "id": 55542,
   "title": "Hoshizora no Shita, Kimi no Koe dake wo Dakishimeru",
-  "url": "https://api.mangadex.org/v2/manga/55542",
-  "last_updated": "March 12, 2021 20:39:10 UTC",
+  "url": "https://mangadex.org/manga/55542",
+  "last_updated": "March 18, 2021 14:04:13 UTC",
   "matches": [
     {
       "id": 3749,
       "title": "Again!!",
-      "score": 0.291,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "ru",
+        "mx",
+        "fr",
+        "tr"
+      ]
     },
     {
       "id": 73,
       "title": "Ginen Shounen",
-      "score": 0.283,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 735,
       "title": "D.C. II ~Da Capo II - Imaginary Future~",
-      "score": 0.283,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2346,
       "title": "Shakugan no Shana",
-      "score": 0.283,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "fr"
+      ]
     },
     {
       "id": 8471,
       "title": "D.C.S.G. ~Da Capo - Second Graduation~",
-      "score": 0.283,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 9791,
       "title": "Dr. Duo",
-      "score": 0.283,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 12900,
       "title": "Fudatsuki no Kyoko-chan",
-      "score": 0.283,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "tr",
+        "br",
+        "sa"
+      ]
     },
     {
       "id": 13546,
       "title": "Gesu to Kami-sama",
-      "score": 0.283,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19944,
       "title": "Mata, Kata Omou.",
-      "score": 0.283,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "mx"
+      ]
     },
     {
       "id": 21310,
       "title": "Jibaku Shounen Hanako-kun",
-      "score": 0.283,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "th",
+        "gb",
+        "id",
+        "ru",
+        "br",
+        "vn",
+        "fr",
+        "ua"
+      ]
     },
     {
       "id": 22786,
       "title": "Love Deathster",
-      "score": 0.283,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 23056,
       "title": "Fenrir-nee-san to Boku",
-      "score": 0.283,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 25155,
       "title": "To Heart",
-      "score": 0.283,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 40594,
+      "title": "Kon'ya wa Tsuki ga Kirei desu ga, Toriaezu Shine - last -",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 46118,
       "title": "Seishun Re:Try",
-      "score": 0.283,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "th",
+        "gb"
+      ]
     },
     {
       "id": 289,
       "title": "Tokyo Ravens",
-      "score": 0.243,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "br",
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 331,
       "title": "Kamichu!",
-      "score": 0.243,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru"
+      ]
     },
     {
       "id": 373,
       "title": "Sonna Mirai wa Uso de Aru",
-      "score": 0.243,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 511,
       "title": "Ga-rei",
-      "score": 0.243,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 799,
       "title": "Kannagi",
-      "score": 0.243,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "br",
+        "fr"
+      ]
     },
     {
       "id": 1044,
       "title": "Kimagure Orange Road",
-      "score": 0.243,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "mx",
+        "it"
+      ]
     },
     {
       "id": 1606,
       "title": "Gyakusou Shoujo - Owaranai Natsuyasumi",
-      "score": 0.243,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 1627,
       "title": "Hekikai no AiON",
-      "score": 0.243,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "ru",
+        "es"
+      ]
     },
     {
       "id": 2006,
       "title": "Karin",
-      "score": 0.243,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg"
+      ]
     },
     {
       "id": 2296,
       "title": "Gan-Kon",
-      "score": 0.243,
-      "r18": false
-    },
-    {
-      "id": 2872,
-      "title": "Ghost Logic",
-      "score": 0.243,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

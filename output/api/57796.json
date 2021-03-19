@@ -2,55 +2,80 @@
   "id": 57796,
   "title": "Hate Me",
   "url": "https://mangadex.org/manga/57796",
-  "last_updated": "March 13, 2021 04:14:32 UTC",
+  "last_updated": "March 18, 2021 14:23:04 UTC",
   "matches": [
-    {
-      "id": 29745,
-      "title": "Just Right There!",
-      "score": 0.25,
-      "r18": false
-    },
     {
       "id": 19956,
       "title": "Beloved",
-      "score": 0.25,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "ru",
+        "br"
+      ]
     },
     {
       "id": 58459,
       "title": "Kill Switch",
       "score": 0.231,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx"
+      ]
     },
     {
       "id": 54183,
       "title": "Sinful Duty",
       "score": 0.214,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
       "id": 40397,
       "title": "Shimeji Simulation (Oneshot)",
-      "score": 0.2,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 30379,
       "title": "Two Lives in the Same House",
-      "score": 0.188,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 16076,
       "title": "What Does the Fox Say?",
       "score": 0.16,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 27640,
       "title": "On a Leash",
       "score": 0.136,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     }
   ]
 }

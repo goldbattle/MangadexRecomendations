@@ -2,25 +2,41 @@
   "id": 19868,
   "title": "Cambrian",
   "url": "https://mangadex.org/manga/19868",
-  "last_updated": "March 16, 2021 00:24:09 UTC",
+  "last_updated": "March 18, 2021 08:52:10 UTC",
   "matches": [
     {
       "id": 4654,
       "title": "Caterpillar",
-      "score": 0.203,
-      "r18": false
+      "score": 0.202,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 36192,
       "title": "Ingoshima",
-      "score": 0.173,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru"
+      ]
     },
     {
       "id": 12019,
       "title": "Deathtopia",
-      "score": 0.142,
-      "r18": false
+      "score": 0.141,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "ru",
+        "it",
+        "pl",
+        "de"
+      ]
     }
   ]
 }

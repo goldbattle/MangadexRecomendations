@@ -1,44 +1,68 @@
 {
   "id": 55589,
   "title": "Otodokeshimasu",
-  "url": "https://api.mangadex.org/v2/manga/55589",
-  "last_updated": "March 12, 2021 20:39:44 UTC",
+  "url": "https://mangadex.org/manga/55589",
+  "last_updated": "March 18, 2021 14:04:37 UTC",
   "matches": [
-    {
-      "id": 8177,
-      "title": "Tsumaranai Otoko",
-      "score": 0.733,
-      "r18": false
-    },
-    {
-      "id": 56993,
-      "title": "Business Performance",
-      "score": 0.712,
-      "r18": false
-    },
     {
       "id": 30341,
       "title": "Shinobeba Koi",
-      "score": 0.709,
-      "r18": false
-    },
-    {
-      "id": 51767,
-      "title": "Shinai Naru Omega e",
-      "score": 0.699,
-      "r18": false
+      "score": 0.293,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 20044,
       "title": "Ore to Joushi no Kakushikoto",
-      "score": 0.686,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 51767,
+      "title": "Shinai Naru Omega e",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 8177,
+      "title": "Tsumaranai Otoko",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "pl",
+        "tr",
+        "gb"
+      ]
     },
     {
       "id": 21547,
       "title": "Gift",
-      "score": 0.653,
-      "r18": false
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 56993,
+      "title": "Business Performance",
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     }
   ]
 }

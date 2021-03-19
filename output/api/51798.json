@@ -1,68 +1,118 @@
 {
   "id": 51798,
   "title": "Fangs",
-  "url": "https://api.mangadex.org/v2/manga/51798",
-  "last_updated": "February 05, 2021 12:13:52 UTC",
+  "url": "https://mangadex.org/manga/51798",
+  "last_updated": "March 18, 2021 13:32:57 UTC",
   "matches": [
     {
       "id": 22591,
       "title": "My Little Vampire",
-      "score": 0.776,
-      "r18": false
-    },
-    {
-      "id": 30137,
-      "title": "Welcome to the Intimate Night",
-      "score": 0.709,
-      "r18": false
-    },
-    {
-      "id": 29662,
-      "title": "K's Secret",
-      "score": 0.7,
-      "r18": false
-    },
-    {
-      "id": 38479,
-      "title": "Kyuuketsuki ha Shinzo no Yume wo Miru",
-      "score": 0.691,
-      "r18": false
-    },
-    {
-      "id": 29087,
-      "title": "Ikujinashi no Shiawase",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 24108,
-      "title": "My Blood and Soul to You",
-      "score": 0.678,
-      "r18": false
+      "score": 0.438,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
     },
     {
       "id": 16384,
       "title": "Deep Bloody Night",
-      "score": 0.674,
-      "r18": false
+      "score": 0.364,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
     },
     {
-      "id": 54392,
-      "title": "The Tiger Who Swallowed the Moon",
-      "score": 0.275,
-      "r18": false
+      "id": 29087,
+      "title": "Ikujinashi no Shiawase",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "it"
+      ]
+    },
+    {
+      "id": 38479,
+      "title": "Kyuuketsuki ha Shinzo no Yume wo Miru",
+      "score": 0.27,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 51734,
       "title": "Platinum Blood",
-      "score": 0.27,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24108,
+      "title": "My Blood and Soul to You",
+      "score": 0.237,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 30137,
+      "title": "Welcome to the Intimate Night",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "tr"
+      ]
+    },
+    {
+      "id": 59053,
+      "title": "Smoky Nectar",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29662,
+      "title": "K's Secret",
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 39706,
       "title": "Blood Sacrifice",
-      "score": 0.247,
-      "r18": false
+      "score": 0.163,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 54392,
+      "title": "The Tiger Who Swallowed the Moon",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     }
   ]
 }

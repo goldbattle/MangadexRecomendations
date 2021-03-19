@@ -2,43 +2,72 @@
   "id": 49208,
   "title": "MUSHINUYUN",
   "url": "https://mangadex.org/manga/49208",
-  "last_updated": "January 15, 2021 12:41:11 UTC",
+  "last_updated": "March 18, 2021 13:11:21 UTC",
   "matches": [
     {
-      "id": 727,
-      "title": "Ashita Dorobou",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 19908,
-      "title": "Go-Chan Magazine",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 11358,
-      "title": "Sentou Hakai Gakuen Dangerous",
-      "score": 0.652,
-      "r18": false
+      "id": 563,
+      "title": "Kono S o, Mi yo! - Cupid no Itazura",
+      "score": 0.217,
+      "r18": false,
+      "languages": [
+        "fr",
+        "ru",
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 15864,
       "title": "nacuN",
-      "score": 0.318,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 11981,
-      "title": "Red Blood Red Legacy",
-      "score": 0.284,
-      "r18": false
+      "id": 727,
+      "title": "Ashita Dorobou",
+      "score": 0.13,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru"
+      ]
     },
     {
       "id": 339,
       "title": "Sun-ken Rock",
-      "score": 0.267,
-      "r18": false
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "sa",
+        "tr",
+        "gb",
+        "it",
+        "ir"
+      ]
+    },
+    {
+      "id": 19908,
+      "title": "Go-Chan Magazine",
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 11358,
+      "title": "Sentou Hakai Gakuen Dangerous",
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     }
   ]
 }

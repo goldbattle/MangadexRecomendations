@@ -2,61 +2,86 @@
   "id": 6222,
   "title": "Knights",
   "url": "https://mangadex.org/manga/6222",
-  "last_updated": "March 14, 2021 16:25:29 UTC",
+  "last_updated": "March 18, 2021 06:38:43 UTC",
   "matches": [
     {
       "id": 11987,
       "title": "Ana Satsujin",
-      "score": 0.2,
-      "r18": false
-    },
-    {
-      "id": 22162,
-      "title": "Futoku no Guild",
-      "score": 0.193,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "pl"
+      ]
     },
     {
       "id": 19706,
       "title": "God Mazinger",
       "score": 0.186,
-      "r18": false
-    },
-    {
-      "id": 19693,
-      "title": "Isekai Shihai no Skill Taker",
-      "score": 0.175,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 58092,
       "title": "Hazure Akamadoushi ha Kenjyatime ni Musou suru",
       "score": 0.162,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 471,
       "title": "Taboo-Tattoo",
-      "score": 0.159,
-      "r18": false
+      "score": 0.158,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 27005,
       "title": "Tou no Kanri o Shite Miyou",
       "score": 0.155,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru",
+        "br",
+        "mx"
+      ]
     },
     {
       "id": 57017,
       "title": "Tensei Inja wa Hokusoemu",
-      "score": 0.143,
-      "r18": false
+      "score": 0.142,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21699,
       "title": "Isekai Meikyuu de Harem wo",
-      "score": 0.129,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb",
+        "cn",
+        "ru",
+        "mx",
+        "it",
+        "br",
+        "fr",
+        "es",
+        "id"
+      ]
     }
   ]
 }

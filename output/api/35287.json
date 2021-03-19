@@ -1,158 +1,265 @@
 {
   "id": 35287,
   "title": "Devil May Cry 5 -Visions of V-",
-  "url": "https://api.mangadex.org/v2/manga/35287",
-  "last_updated": "February 10, 2021 16:41:27 UTC",
+  "url": "https://mangadex.org/manga/35287",
+  "last_updated": "March 18, 2021 11:15:00 UTC",
   "matches": [
     {
       "id": 24276,
       "title": "Shin Megami Tensei - Devil Children",
-      "score": 0.405,
-      "r18": false
-    },
-    {
-      "id": 43429,
-      "title": "Bungou Stray Dogs Beast",
-      "score": 0.323,
-      "r18": false
-    },
-    {
-      "id": 16519,
-      "title": "Totsukuni no Shoujo",
-      "score": 0.32,
-      "r18": false
-    },
-    {
-      "id": 25194,
-      "title": "The King of Fighters: A New Beginning",
-      "score": 0.314,
-      "r18": false
-    },
-    {
-      "id": 13842,
-      "title": "Shin Chimoguri Ringo to Kingyobachi Otoko",
-      "score": 0.307,
-      "r18": false
-    },
-    {
-      "id": 3122,
-      "title": "Embalming -The Another Tale of Frankenstein-",
-      "score": 0.304,
-      "r18": false
-    },
-    {
-      "id": 3386,
-      "title": "Variante",
-      "score": 0.304,
-      "r18": false
-    },
-    {
-      "id": 21837,
-      "title": "Owari no Seraph: Ichinose Guren, 16-sai no Catastrophe",
-      "score": 0.297,
-      "r18": false
-    },
-    {
-      "id": 8078,
-      "title": "Kingdom of Zombie",
-      "score": 0.296,
-      "r18": false
-    },
-    {
-      "id": 24614,
-      "title": "Gekijouban Mahouka Koukou no Rettousei - Hoshi wo Yobu Shoujo",
-      "score": 0.295,
-      "r18": false
-    },
-    {
-      "id": 14296,
-      "title": "Hiniiru",
-      "score": 0.294,
-      "r18": false
-    },
-    {
-      "id": 8787,
-      "title": "Mirai Nikki Redial",
-      "score": 0.293,
-      "r18": false
+      "score": 0.344,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 14479,
       "title": "Drea&bull;Mer",
-      "score": 0.288,
-      "r18": false
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 19154,
-      "title": "Persona 4 - The Magician",
-      "score": 0.288,
-      "r18": false
+      "id": 13842,
+      "title": "Shin Chimoguri Ringo to Kingyobachi Otoko",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 10091,
-      "title": "Sekai Oni",
-      "score": 0.284,
-      "r18": false
+      "id": 3386,
+      "title": "Variante",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 8078,
+      "title": "Kingdom of Zombie",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 14296,
+      "title": "Hiniiru",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11330,
       "title": "Demon Possession",
-      "score": 0.283,
-      "r18": false
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "br",
+        "pl"
+      ]
     },
     {
-      "id": 12140,
-      "title": "Hito Kui",
-      "score": 0.282,
-      "r18": false
+      "id": 3122,
+      "title": "Embalming -The Another Tale of Frankenstein-",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 5840,
-      "title": "BLOOD+",
-      "score": 0.281,
-      "r18": false
+      "id": 8787,
+      "title": "Mirai Nikki Redial",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 391,
-      "title": "Shiki",
-      "score": 0.278,
-      "r18": false
+      "id": 16519,
+      "title": "Totsukuni no Shoujo",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "it",
+        "tr",
+        "br",
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 25194,
+      "title": "The King of Fighters: A New Beginning",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 21837,
+      "title": "Owari no Seraph: Ichinose Guren, 16-sai no Catastrophe",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "mx",
+        "ru",
+        "vn",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 24614,
+      "title": "Gekijouban Mahouka Koukou no Rettousei - Hoshi wo Yobu Shoujo",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 43429,
+      "title": "Bungou Stray Dogs Beast",
+      "score": 0.236,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 19965,
       "title": "Ibitsu no Amalgam",
-      "score": 0.278,
-      "r18": false
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "ru"
+      ]
     },
     {
-      "id": 24388,
-      "title": "Undead",
-      "score": 0.277,
-      "r18": false
-    },
-    {
-      "id": 5018,
-      "title": "Chimoguri Ringo to Kingyobachi Otoko",
-      "score": 0.276,
-      "r18": false
-    },
-    {
-      "id": 511,
-      "title": "Ga-rei",
-      "score": 0.276,
-      "r18": false
-    },
-    {
-      "id": 15571,
-      "title": "GARDEN",
-      "score": 0.276,
-      "r18": false
+      "id": 10091,
+      "title": "Sekai Oni",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 8785,
       "title": "Fate/Extra",
-      "score": 0.275,
-      "r18": false
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 5018,
+      "title": "Chimoguri Ringo to Kingyobachi Otoko",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5840,
+      "title": "BLOOD+",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 12140,
+      "title": "Hito Kui",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14776,
+      "title": "Inukai x Tribe",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 84,
+      "title": "Deadman Wonderland",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "il",
+        "gb",
+        "br",
+        "ru",
+        "bg"
+      ]
+    },
+    {
+      "id": 2195,
+      "title": "Zombie-Loan",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 27105,
+      "title": "Mahou Shoujo Site Sept.",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "pl"
+      ]
+    },
+    {
+      "id": 1191,
+      "title": "L&infin;P",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "pl",
+        "it",
+        "gb"
+      ]
     }
   ]
 }

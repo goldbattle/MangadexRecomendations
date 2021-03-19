@@ -1,158 +1,272 @@
 {
   "id": 44793,
   "title": "Touta",
-  "url": "https://api.mangadex.org/v2/manga/44793",
-  "last_updated": "February 11, 2021 16:46:52 UTC",
+  "url": "https://mangadex.org/manga/44793",
+  "last_updated": "March 18, 2021 12:34:21 UTC",
   "matches": [
-    {
-      "id": 44795,
-      "title": "Yokan",
-      "score": 0.702,
-      "r18": false
-    },
     {
       "id": 35392,
       "title": "Nee",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 42006,
-      "title": "A Walk on Rainy Day",
-      "score": 0.319,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "fr",
+        "de"
+      ]
     },
     {
       "id": 32510,
       "title": "Shiawase wo Anata ni",
-      "score": 0.292,
-      "r18": false
-    },
-    {
-      "id": 56733,
-      "title": "Today I'm Still Alive",
-      "score": 0.289,
-      "r18": false
-    },
-    {
-      "id": 32645,
-      "title": "0&deg;C no Mahou",
-      "score": 0.282,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "fr",
+        "id",
+        "mx"
+      ]
     },
     {
       "id": 51848,
       "title": "Bijin Ni Naritai",
-      "score": 0.281,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
-      "id": 58408,
-      "title": "A Romantic Comedy That Only I Know",
-      "score": 0.255,
-      "r18": false
+      "id": 44795,
+      "title": "Yokan",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "mx",
+        "fr",
+        "gb"
+      ]
     },
     {
-      "id": 48484,
-      "title": "The Story of Her Amnesia",
-      "score": 0.255,
-      "r18": false
+      "id": 56733,
+      "title": "Today I'm Still Alive",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 37948,
-      "title": "My Father 68y/o, My Mother 64y/o, Me 24y/o",
-      "score": 0.255,
-      "r18": false
+      "id": 42006,
+      "title": "A Walk on Rainy Day",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
-      "id": 59220,
-      "title": "My Nightly Breath",
-      "score": 0.255,
-      "r18": false
-    },
-    {
-      "id": 38840,
-      "title": "The Two With The Wall",
-      "score": 0.255,
-      "r18": false
-    },
-    {
-      "id": 51691,
-      "title": "Tonari no Kumazawa-kun",
-      "score": 0.255,
-      "r18": false
-    },
-    {
-      "id": 56625,
-      "title": "Vtuber",
-      "score": 0.255,
-      "r18": false
-    },
-    {
-      "id": 59783,
-      "title": "Fate/Grand Order - Nobbu Shitei Kyoudai (doujinshi)",
-      "score": 0.255,
-      "r18": false
-    },
-    {
-      "id": 21001,
-      "title": "Sugar Lump",
-      "score": 0.237,
-      "r18": false
-    },
-    {
-      "id": 50382,
-      "title": "Ocean by the Forest",
-      "score": 0.237,
-      "r18": false
+      "id": 32645,
+      "title": "0&deg;C no Mahou",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "de",
+        "ct",
+        "gb",
+        "tr",
+        "br",
+        "it",
+        "mx",
+        "fr"
+      ]
     },
     {
       "id": 56102,
       "title": "The Story of a Noble Lady Raising a Boy Into a Noble Lady",
-      "score": 0.236,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59220,
+      "title": "My Nightly Breath",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "it",
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 45206,
       "title": "Nanda Kore",
-      "score": 0.234,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "br",
+        "id",
+        "gb",
+        "it",
+        "vn"
+      ]
+    },
+    {
+      "id": 48484,
+      "title": "The Story of Her Amnesia",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb"
+      ]
+    },
+    {
+      "id": 58408,
+      "title": "A Romantic Comedy That Only I Know",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "pl",
+        "id"
+      ]
+    },
+    {
+      "id": 37948,
+      "title": "My Father 68y/o, My Mother 64y/o, Me 24y/o",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 38840,
+      "title": "The Two With The Wall",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 51691,
+      "title": "Tonari no Kumazawa-kun",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 56625,
+      "title": "Vtuber",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59783,
+      "title": "Fate/Grand Order - Nobbu Shitei Kyoudai (doujinshi)",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "br",
+        "it"
+      ]
     },
     {
       "id": 45279,
       "title": "There Is No Way a Pretty Virtual Girl Is a Girl!",
-      "score": 0.216,
-      "r18": false
+      "score": 0.179,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 20947,
-      "title": "Sugar Lamp",
-      "score": 0.213,
-      "r18": false
+      "id": 50382,
+      "title": "Ocean by the Forest",
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 21001,
+      "title": "Sugar Lump",
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 52631,
+      "title": "The Crown Prince's Fianc&eacute;e",
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 29172,
       "title": "My Childhood Friend Changes Daily",
-      "score": 0.212,
-      "r18": false
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 54013,
       "title": "Dream Maker Hatsune Miku",
-      "score": 0.212,
-      "r18": false
-    },
-    {
-      "id": 51874,
-      "title": "The Life of a Black Cat",
-      "score": 0.212,
-      "r18": false
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 59320,
       "title": "Shared Boyfriend",
-      "score": 0.212,
-      "r18": false
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ua"
+      ]
+    },
+    {
+      "id": 43449,
+      "title": "Black Wings",
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     }
   ]
 }

@@ -1,158 +1,250 @@
 {
   "id": 55519,
   "title": "Motto Atsumare! Falcom Gakuen",
-  "url": "https://api.mangadex.org/v2/manga/55519",
-  "last_updated": "March 12, 2021 20:38:52 UTC",
+  "url": "https://mangadex.org/manga/55519",
+  "last_updated": "March 18, 2021 14:04:02 UTC",
   "matches": [
     {
-      "id": 13025,
-      "title": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka 4koma - Kami-sama no Nichijou",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 15865,
-      "title": "Moonlight Sculptor (4-Koma)",
-      "score": 0.671,
-      "r18": false
-    },
-    {
-      "id": 39170,
-      "title": "My Little Pony  - The Manga",
-      "score": 0.668,
-      "r18": false
-    },
-    {
-      "id": 31092,
-      "title": "Game no Naka ni Iru!",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 10075,
-      "title": "1P Comic Dragon Quest Monsters: Terry no Wonderland",
-      "score": 0.657,
-      "r18": false
-    },
-    {
-      "id": 54458,
-      "title": "Tate no Yuusha No Nariagari - Mobile Game Short Comics",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 9400,
-      "title": "Sweet Magic Syndrome",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 10457,
-      "title": "Sekai Maou",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 49077,
-      "title": "Didn&rsquo;t I Say to Make My Abilities Average in the Next Life?! Everyday Misadventures!",
-      "score": 0.651,
-      "r18": false
+      "id": 15782,
+      "title": "Arad's Merry Band of Friends",
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5740,
       "title": "Zelda no Densetsu - Kaze no Takuto: Link no 4-koma Koukaiki",
-      "score": 0.418,
-      "r18": false
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 19896,
-      "title": "Mao Zhi Ming",
-      "score": 0.406,
-      "r18": false
+      "id": 15865,
+      "title": "Moonlight Sculptor (4-Koma)",
+      "score": 0.288,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "id"
+      ]
     },
     {
-      "id": 25736,
-      "title": "Fire Emblem - Seisen no Keifu - Enix Supercomic Gekijoh",
-      "score": 0.406,
-      "r18": false
-    },
-    {
-      "id": 15782,
-      "title": "Arad's Merry Band of Friends",
-      "score": 0.372,
-      "r18": false
+      "id": 10075,
+      "title": "1P Comic Dragon Quest Monsters: Terry no Wonderland",
+      "score": 0.283,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 48773,
       "title": "Waafuri World",
-      "score": 0.367,
-      "r18": false
+      "score": 0.282,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 25731,
-      "title": "Fire Emblem: Echoes - Shadows of Valentia Comic Anthology",
-      "score": 0.354,
-      "r18": false
+      "id": 10457,
+      "title": "Sekai Maou",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 19896,
+      "title": "Mao Zhi Ming",
+      "score": 0.274,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 49077,
+      "title": "Didn&rsquo;t I Say to Make My Abilities Average in the Next Life?! Everyday Misadventures!",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb",
+        "cn",
+        "th",
+        "mx"
+      ]
     },
     {
       "id": 31507,
       "title": "Umiiro March",
-      "score": 0.335,
-      "r18": false
-    },
-    {
-      "id": 51420,
-      "title": "Jingai-san no Yome",
-      "score": 0.327,
-      "r18": false
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it",
+        "ru"
+      ]
     },
     {
       "id": 28593,
       "title": "2-A no Mahoutsukai",
-      "score": 0.322,
-      "r18": false
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 24867,
-      "title": "Persona 2 - Innocent Sin Comic Anthology",
-      "score": 0.309,
-      "r18": false
+      "id": 25731,
+      "title": "Fire Emblem: Echoes - Shadows of Valentia Comic Anthology",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 12914,
-      "title": "Shirokuma to Fumeikyoku",
-      "score": 0.306,
-      "r18": false
+      "id": 27113,
+      "title": "Grand Blues!",
+      "score": 0.247,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id",
+        "fr"
+      ]
     },
     {
-      "id": 59581,
-      "title": "The Happy Marriage of the Wizard Linn",
-      "score": 0.305,
-      "r18": false
+      "id": 30689,
+      "title": "Mono",
+      "score": 0.247,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 14120,
-      "title": "Yuuki Yuuna wa Yuusha-bu Shozoku",
-      "score": 0.303,
-      "r18": false
+      "id": 25736,
+      "title": "Fire Emblem - Seisen no Keifu - Enix Supercomic Gekijoh",
+      "score": 0.237,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9400,
+      "title": "Sweet Magic Syndrome",
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 57965,
       "title": "Sacred Sword Girl",
-      "score": 0.303,
-      "r18": false
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 38422,
-      "title": "Petit Adonis",
-      "score": 0.295,
-      "r18": false
+      "id": 59581,
+      "title": "The Happy Marriage of the Wizard Linn",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 51420,
+      "title": "Jingai-san no Yome",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 12914,
+      "title": "Shirokuma to Fumeikyoku",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 5725,
+      "title": "Youkai Gakuenki",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 15870,
       "title": "Haiko Dolls",
-      "score": 0.294,
-      "r18": false
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 13025,
+      "title": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka 4koma - Kami-sama no Nichijou",
+      "score": 0.217,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 31092,
+      "title": "Game no Naka ni Iru!",
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 17879,
+      "title": "Katatsumuri-chan",
+      "score": 0.206,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 35503,
+      "title": "Sen no Kiseki Magazine 4koma",
+      "score": 0.206,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

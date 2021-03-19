@@ -1,158 +1,295 @@
 {
   "id": 45166,
   "title": "Virtues of the Villainess",
-  "url": "https://api.mangadex.org/v2/manga/45166",
-  "last_updated": "February 11, 2021 20:21:22 UTC",
+  "url": "https://mangadex.org/manga/45166",
+  "last_updated": "March 18, 2021 12:37:27 UTC",
   "matches": [
     {
-      "id": 48351,
-      "title": "Wish to Say Farewell",
-      "score": 0.782,
-      "r18": false
-    },
-    {
-      "id": 47815,
-      "title": "I'll Protect the 2nd ML's Love",
-      "score": 0.779,
-      "r18": false
-    },
-    {
-      "id": 28359,
-      "title": "Boku ga Utau to Kimi wa Warau kara",
-      "score": 0.777,
-      "r18": false
-    },
-    {
-      "id": 50651,
-      "title": "Saving the Villain Who Was Abandoned by the Female Lead",
-      "score": 0.776,
-      "r18": false
-    },
-    {
-      "id": 49338,
-      "title": "I Just Want to Be a Useless Duke's Daughter",
-      "score": 0.772,
-      "r18": false
-    },
-    {
-      "id": 39796,
-      "title": "I Was Reincarnated, and Now I'm a Maid!",
-      "score": 0.772,
-      "r18": false
-    },
-    {
-      "id": 59476,
-      "title": "The Tyrant&rsquo;s Guardian Is an Evil Witch",
-      "score": 0.771,
-      "r18": false
-    },
-    {
-      "id": 52930,
-      "title": "I'm the Male Lead's Female Friend",
-      "score": 0.769,
-      "r18": false
-    },
-    {
-      "id": 39495,
-      "title": "The Pet of the Villainess",
-      "score": 0.767,
-      "r18": false
-    },
-    {
-      "id": 52958,
-      "title": "I&rsquo;m the Villainess, but the Capture Targets Are Too Abnormal",
-      "score": 0.766,
-      "r18": false
+      "id": 47286,
+      "title": "Beware of the Villainess!",
+      "score": 0.347,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "mx",
+        "it",
+        "fr",
+        "pl"
+      ]
     },
     {
       "id": 45776,
       "title": "The Evil Cinderella Needs a Villain",
-      "score": 0.766,
-      "r18": false
+      "score": 0.343,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
-      "id": 39066,
-      "title": "I'm Not a Villainess!! Just Because I Can Control Darkness Doesn't Mean I'm a Bad Person!",
-      "score": 0.766,
-      "r18": false
+      "id": 52930,
+      "title": "I'm the Male Lead's Female Friend",
+      "score": 0.343,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
-      "id": 46775,
-      "title": "Seduce the Villain's Father",
-      "score": 0.764,
-      "r18": false
+      "id": 35089,
+      "title": "Lady Beast",
+      "score": 0.328,
+      "r18": false,
+      "languages": [
+        "br",
+        "es",
+        "tr",
+        "gb",
+        "sa"
+      ]
+    },
+    {
+      "id": 49644,
+      "title": "The Villainess Lives Twice",
+      "score": 0.327,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "br",
+        "id",
+        "th",
+        "mx",
+        "it",
+        "tr"
+      ]
     },
     {
       "id": 44387,
       "title": "Living as the Tyrant's Older Sister",
-      "score": 0.762,
-      "r18": false
+      "score": 0.319,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "tr",
+        "ru"
+      ]
     },
     {
-      "id": 46995,
-      "title": "The Villainess's Lazy Sigh",
-      "score": 0.76,
-      "r18": false
+      "id": 49338,
+      "title": "I Just Want to Be a Useless Duke's Daughter",
+      "score": 0.317,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 47815,
+      "title": "I'll Protect the 2nd ML's Love",
+      "score": 0.315,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 46775,
+      "title": "Seduce the Villain's Father",
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "id",
+        "ru",
+        "gb",
+        "tr",
+        "fr"
+      ]
+    },
+    {
+      "id": 50651,
+      "title": "Saving the Villain Who Was Abandoned by the Female Lead",
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 45898,
+      "title": "Revenge Wedding",
+      "score": 0.305,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "th"
+      ]
+    },
+    {
+      "id": 57978,
+      "title": "Everything Was a Mistake",
+      "score": 0.305,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mm",
+        "tr",
+        "fr"
+      ]
+    },
+    {
+      "id": 54886,
+      "title": "When the Villainess Loves",
+      "score": 0.303,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru",
+        "id",
+        "pl",
+        "ph",
+        "th",
+        "tr",
+        "br"
+      ]
     },
     {
       "id": 53266,
       "title": "Limited Time Princess",
-      "score": 0.759,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 29175,
-      "title": "I Reincarnated as a White Pig Noble's Daughter from a Shoujo Manga",
-      "score": 0.757,
-      "r18": false
-    },
-    {
-      "id": 52697,
-      "title": "A Trivial Extra in a Dating Sim",
-      "score": 0.757,
-      "r18": false
-    },
-    {
-      "id": 40472,
-      "title": "Tearmoon Empire Story",
-      "score": 0.756,
-      "r18": false
-    },
-    {
-      "id": 36444,
-      "title": "Beating the Heroine at Her Own Game",
-      "score": 0.755,
-      "r18": false
+      "id": 40508,
+      "title": "Please, Ms. Gem!",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 35015,
       "title": "The Villainess Wants to Marry a Commoner!!",
-      "score": 0.754,
-      "r18": false
+      "score": 0.297,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br"
+      ]
+    },
+    {
+      "id": 39495,
+      "title": "The Pet of the Villainess",
+      "score": 0.297,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 35013,
+      "title": "Why Are You Doing This, Duke?",
+      "score": 0.296,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "fr",
+        "id",
+        "hu"
+      ]
+    },
+    {
+      "id": 47472,
+      "title": "The Flower of Prencia",
+      "score": 0.296,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 29175,
+      "title": "I Reincarnated as a White Pig Noble's Daughter from a Shoujo Manga",
+      "score": 0.292,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 32506,
+      "title": "Who Made Me a Princess",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "sa",
+        "ru",
+        "id",
+        "gb",
+        "tr",
+        "pl",
+        "it"
+      ]
+    },
+    {
+      "id": 38721,
+      "title": "The Lady Is a Stalker",
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 51579,
       "title": "I Reincarnated as a White Pig Noble's Daughter from a Shoujo Manga reBoooot!",
-      "score": 0.754,
-      "r18": false
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
-      "id": 50144,
-      "title": "You&rsquo;ve Come to the Wrong House, Villain",
-      "score": 0.753,
-      "r18": false
+      "id": 41039,
+      "title": "The Great Wish",
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "id",
+        "it"
+      ]
     },
     {
-      "id": 58617,
-      "title": "I Became the Ugly Lady",
-      "score": 0.752,
-      "r18": false
-    },
-    {
-      "id": 54140,
-      "title": "What Should a Villainess Do?",
-      "score": 0.752,
-      "r18": false
+      "id": 36918,
+      "title": "By the Way, Dragon Mistress!",
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "tr",
+        "br"
+      ]
     }
   ]
 }

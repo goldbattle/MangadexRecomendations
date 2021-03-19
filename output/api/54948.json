@@ -1,158 +1,252 @@
 {
   "id": 54948,
   "title": "Natsuyasumi no Tomo",
-  "url": "https://api.mangadex.org/v2/manga/54948",
-  "last_updated": "March 12, 2021 20:31:48 UTC",
+  "url": "https://mangadex.org/manga/54948",
+  "last_updated": "March 18, 2021 13:59:15 UTC",
   "matches": [
     {
-      "id": 8790,
-      "title": "Kami-sama ga Uso wo Tsuku",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 32730,
-      "title": "Hachigatsu no Ghost",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 15976,
-      "title": "Shimanami Tasogare",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 31509,
-      "title": "Kaguya-sama: Love Is War - Digital Colored Comics",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 32017,
-      "title": "Miageru to Kimi wa",
-      "score": 0.412,
-      "r18": false
-    },
-    {
-      "id": 11493,
-      "title": "Senaka Gurashi",
-      "score": 0.41,
-      "r18": false
-    },
-    {
-      "id": 638,
-      "title": "Hoshi no Furu Machi",
-      "score": 0.406,
-      "r18": false
-    },
-    {
-      "id": 19185,
-      "title": "Ohikkoshi",
-      "score": 0.406,
-      "r18": false
-    },
-    {
-      "id": 6632,
-      "title": "Ja Ja Uma Grooming\u2605UP!",
-      "score": 0.405,
-      "r18": false
-    },
-    {
-      "id": 5986,
-      "title": "Ii Hito. - For New Natural Life",
-      "score": 0.4,
-      "r18": false
-    },
-    {
-      "id": 38175,
-      "title": "Asuperu Kanojo",
-      "score": 0.4,
-      "r18": false
-    },
-    {
-      "id": 3242,
-      "title": "Sunny",
-      "score": 0.4,
-      "r18": false
-    },
-    {
-      "id": 31108,
-      "title": "Otto no Chinpo ga Hairanai",
-      "score": 0.398,
-      "r18": false
-    },
-    {
-      "id": 32444,
-      "title": "Tokyo Love Story",
-      "score": 0.397,
-      "r18": false
+      "id": 1043,
+      "title": "Orange Yane no Chiisana Ie",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29535,
       "title": "Yasashii Hikari",
-      "score": 0.396,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 5898,
-      "title": "Happiness",
-      "score": 0.396,
-      "r18": false
+      "id": 18166,
+      "title": "Dousei Jidai",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 1254,
-      "title": "Living Game",
-      "score": 0.391,
-      "r18": false
-    },
-    {
-      "id": 1901,
-      "title": "Yuuyake Rocket Pencil",
-      "score": 0.39,
-      "r18": false
-    },
-    {
-      "id": 468,
-      "title": "Femme Fatale",
-      "score": 0.388,
-      "r18": false
-    },
-    {
-      "id": 17984,
-      "title": "My Bride is His Wife",
-      "score": 0.388,
-      "r18": false
+      "id": 32017,
+      "title": "Miageru to Kimi wa",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 29226,
       "title": "Tobakushi wa Inoranai",
-      "score": 0.387,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 21768,
-      "title": "Kannou Sensei",
-      "score": 0.387,
-      "r18": false
+      "id": 3242,
+      "title": "Sunny",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 99,
-      "title": "Billionaire Girl",
-      "score": 0.387,
-      "r18": false
+      "id": 41263,
+      "title": "Kimi no Okaasan wo Boku ni Kudasai!",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb"
+      ]
+    },
+    {
+      "id": 32444,
+      "title": "Tokyo Love Story",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 38175,
+      "title": "Asuperu Kanojo",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "cn",
+        "gb",
+        "ru",
+        "br",
+        "id",
+        "fr",
+        "es"
+      ]
+    },
+    {
+      "id": 8611,
+      "title": "Yonensei",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1820,
+      "title": "Kamiigusa Animators",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5898,
+      "title": "Happiness",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 4307,
+      "title": "Saishuu Heiki Kanojo Gaiden - Sekai no Hate ni wa Kimi to Futari de",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53352,
+      "title": "Coffee wo Shizuka ni",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id"
+      ]
     },
     {
       "id": 38090,
       "title": "Anata ga Shitekurenakute mo",
-      "score": 0.386,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 638,
+      "title": "Hoshi no Furu Machi",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2342,
       "title": "Ciguatera",
-      "score": 0.385,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 1254,
+      "title": "Living Game",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14822,
+      "title": "Futari no Renai Shoka",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "ru",
+        "pl"
+      ]
+    },
+    {
+      "id": 17984,
+      "title": "My Bride is His Wife",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4246,
+      "title": "Fuyu Hanabi",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2964,
+      "title": "Regatta",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1901,
+      "title": "Yuuyake Rocket Pencil",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx"
+      ]
+    },
+    {
+      "id": 7069,
+      "title": "Biblia Koshodou no Jiken Techou",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5986,
+      "title": "Ii Hito. - For New Natural Life",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

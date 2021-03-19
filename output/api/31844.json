@@ -1,158 +1,245 @@
 {
   "id": 31844,
   "title": "Deatte 10-Byou No koibito",
-  "url": "https://api.mangadex.org/v2/manga/31844",
-  "last_updated": "February 10, 2021 08:26:24 UTC",
+  "url": "https://mangadex.org/manga/31844",
+  "last_updated": "March 18, 2021 10:46:18 UTC",
   "matches": [
     {
       "id": 31896,
       "title": "Kiss Fure Kiss Shiterukedo Koibito Janai",
-      "score": 0.71,
-      "r18": false
+      "score": 0.359,
+      "r18": false,
+      "languages": [
+        "fr",
+        "vn"
+      ]
     },
     {
-      "id": 51630,
-      "title": "First, Let's Hide My Younger Brother",
-      "score": 0.703,
-      "r18": false
+      "id": 22138,
+      "title": "Wanting to Touch You",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru"
+      ]
     },
     {
-      "id": 18688,
-      "title": "Tian Jiang Xian Shu Nan",
-      "score": 0.696,
-      "r18": false
+      "id": 26386,
+      "title": "Love Never Fails",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
-      "id": 34317,
-      "title": "Sweet First Love",
-      "score": 0.694,
-      "r18": false
+      "id": 51036,
+      "title": "El Romance de una Chica Gorda",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
-      "id": 57706,
-      "title": "Isn't the Contrast Cute?",
-      "score": 0.693,
-      "r18": false
+      "id": 21405,
+      "title": "Milk Tea",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 14844,
-      "title": "Ugly Duckling",
-      "score": 0.69,
-      "r18": false
+      "id": 24565,
+      "title": "Twinkle Twinkle Little...",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 24845,
-      "title": "DOLO's Destiny Pill",
-      "score": 0.689,
-      "r18": false
-    },
-    {
-      "id": 42208,
-      "title": "The Golden-Haired Elementalist",
-      "score": 0.689,
-      "r18": false
-    },
-    {
-      "id": 50594,
-      "title": "I Only Love Hana",
-      "score": 0.688,
-      "r18": false
-    },
-    {
-      "id": 19516,
-      "title": "Chao Hua Xi Shi",
-      "score": 0.687,
-      "r18": false
-    },
-    {
-      "id": 24134,
-      "title": "Neolith Girl",
-      "score": 0.685,
-      "r18": false
-    },
-    {
-      "id": 44432,
-      "title": "Just a Girl He Knows",
-      "score": 0.685,
-      "r18": false
-    },
-    {
-      "id": 47165,
-      "title": "When You're Targeted by the Bully",
-      "score": 0.685,
-      "r18": false
-    },
-    {
-      "id": 24641,
-      "title": "Love and Sweet Drugs",
-      "score": 0.685,
-      "r18": false
-    },
-    {
-      "id": 48169,
-      "title": "Sweet Plunder",
-      "score": 0.684,
-      "r18": false
-    },
-    {
-      "id": 57623,
-      "title": "Last Game (Official Coloured)",
-      "score": 0.683,
-      "r18": false
-    },
-    {
-      "id": 40477,
-      "title": "Gatabutata",
-      "score": 0.683,
-      "r18": false
-    },
-    {
-      "id": 46249,
-      "title": "Dance of the Sugar Plum Fairy",
-      "score": 0.682,
-      "r18": false
-    },
-    {
-      "id": 43006,
-      "title": "The Omniscient Point of View of an Unrequited Love",
-      "score": 0.682,
-      "r18": false
+      "id": 2527,
+      "title": "Distance Between You and Me",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 16305,
       "title": "Where Tangents Meet",
-      "score": 0.681,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "br"
+      ]
+    },
+    {
+      "id": 52892,
+      "title": "It&rsquo;s Neither Windy or Rainy, and nor Is It Clear",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 42677,
+      "title": "Till The Next Time",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50594,
+      "title": "I Only Love Hana",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 57623,
+      "title": "Last Game (Official Coloured)",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 48782,
+      "title": "Love",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 27142,
+      "title": "Honey Honey Wedding",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 49486,
+      "title": "Dream Lover",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 25273,
+      "title": "My Destiny  (Bi)",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18972,
+      "title": "Boy Meets Girl",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 31325,
+      "title": "Meng Never Falls in Love",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 43538,
+      "title": "Weak Prince Chases Love",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 41917,
+      "title": "Choco Latte",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "tr",
+        "mx",
+        "fr"
+      ]
+    },
+    {
+      "id": 59364,
+      "title": "Hydrangea Melancholy",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 54703,
+      "title": "Play, Playlist",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "mm"
+      ]
+    },
+    {
+      "id": 47317,
+      "title": "Her Weird Hobby",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 36448,
+      "title": "That Year, Under the Starry Sky",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "es"
+      ]
     },
     {
       "id": 56299,
       "title": "This Question Is Super Difficult",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 52642,
-      "title": "685 DAYS",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 41564,
-      "title": "She Is Still Cute Today",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 40819,
-      "title": "The Comic Changes My Destiny",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 58929,
-      "title": "My Observational Diary of Elena Evoy",
-      "score": 0.678,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     }
   ]
 }

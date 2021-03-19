@@ -2,67 +2,114 @@
   "id": 3535,
   "title": "H.E - The Hunt for Energy",
   "url": "https://mangadex.org/manga/3535",
-  "last_updated": "March 14, 2021 08:20:36 UTC",
+  "last_updated": "March 18, 2021 06:13:37 UTC",
   "matches": [
-    {
-      "id": 26417,
-      "title": "Kaijuu no Shiiku Iin",
-      "score": 0.28,
-      "r18": false
-    },
     {
       "id": 281,
       "title": "Trigun Maximum",
       "score": 0.235,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 26499,
       "title": "Planet With",
-      "score": 0.202,
-      "r18": false
+      "score": 0.201,
+      "r18": false,
+      "languages": [
+        "cn",
+        "gb",
+        "br",
+        "es"
+      ]
     },
     {
       "id": 33010,
       "title": "Tsukiiro no Invader",
-      "score": 0.2,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "es",
+        "ru"
+      ]
     },
     {
       "id": 4312,
       "title": "Halcyon Lunch",
-      "score": 0.2,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 16215,
       "title": "Smokin' Parade",
       "score": 0.174,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "pl",
+        "ru",
+        "it",
+        "id",
+        "es",
+        "gb"
+      ]
     },
     {
       "id": 4993,
       "title": "Spirit Circle",
       "score": 0.168,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "it",
+        "br",
+        "gb",
+        "fr",
+        "ru",
+        "es",
+        "cn",
+        "tr",
+        "mx",
+        "sa"
+      ]
     },
     {
       "id": 23583,
       "title": "Kuuchuu Teien no Hitobito",
-      "score": 0.156,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3006,
       "title": "Occult Academy",
       "score": 0.154,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "br",
+        "it"
+      ]
     },
     {
       "id": 7775,
       "title": "El Alamein no Shinden",
       "score": 0.137,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     }
   ]
 }

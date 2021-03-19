@@ -2,49 +2,76 @@
   "id": 19,
   "title": "Kaichuu!",
   "url": "https://mangadex.org/manga/19",
-  "last_updated": "March 14, 2021 00:47:08 UTC",
+  "last_updated": "March 18, 2021 05:42:42 UTC",
   "matches": [
     {
       "id": 4037,
       "title": "Coda",
       "score": 0.31,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2490,
       "title": "Idol A",
-      "score": 0.297,
-      "r18": false
+      "score": 0.296,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2597,
       "title": "Sayonara Football",
       "score": 0.253,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 23576,
       "title": "Men's Life",
-      "score": 0.229,
-      "r18": false
+      "score": 0.228,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "pl",
+        "br"
+      ]
     },
     {
       "id": 1931,
       "title": "Water Cube",
       "score": 0.221,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 476,
       "title": "My Heart is Beating",
-      "score": 0.166,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 5438,
       "title": "Short Program",
-      "score": 0.164,
-      "r18": false
+      "score": 0.163,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "it"
+      ]
     }
   ]
 }

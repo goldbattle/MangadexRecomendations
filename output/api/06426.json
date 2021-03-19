@@ -2,25 +2,34 @@
   "id": 6426,
   "title": "Haa Haa",
   "url": "https://mangadex.org/manga/6426",
-  "last_updated": "March 14, 2021 16:28:59 UTC",
+  "last_updated": "March 18, 2021 06:40:30 UTC",
   "matches": [
     {
       "id": 10157,
       "title": "Onedari Girl",
-      "score": 0.311,
-      "r18": false
-    },
-    {
-      "id": 4821,
-      "title": "Mangetsu no Yoru ni Akuma no Kiss",
-      "score": 0.201,
-      "r18": false
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4132,
       "title": "Mitsu Iro Devil",
-      "score": 0.2,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4821,
+      "title": "Mangetsu no Yoru ni Akuma no Kiss",
+      "score": 0.196,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

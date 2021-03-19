@@ -1,44 +1,63 @@
 {
   "id": 51855,
   "title": "Get Out Of Entertainment Circle",
-  "url": "https://api.mangadex.org/v2/manga/51855",
-  "last_updated": "February 05, 2021 12:14:48 UTC",
+  "url": "https://mangadex.org/manga/51855",
+  "last_updated": "March 18, 2021 13:33:25 UTC",
   "matches": [
     {
       "id": 51327,
       "title": "Sijin",
-      "score": 0.338,
-      "r18": false
-    },
-    {
-      "id": 44325,
-      "title": "Beauty and the Beasts",
-      "score": 0.335,
-      "r18": false
-    },
-    {
-      "id": 50596,
-      "title": "Asura's Bride",
-      "score": 0.303,
-      "r18": false
+      "score": 0.219,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 44391,
       "title": "The Girls Are Busy Today",
-      "score": 0.302,
-      "r18": false
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 44325,
+      "title": "Beauty and the Beasts",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50596,
+      "title": "Asura's Bride",
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "pl"
+      ]
     },
     {
       "id": 42650,
       "title": "Moonlight Garden",
-      "score": 0.256,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "tr",
+        "mn"
+      ]
     },
     {
       "id": 44296,
       "title": "Forensic princess",
-      "score": 0.244,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "pl"
+      ]
     }
   ]
 }

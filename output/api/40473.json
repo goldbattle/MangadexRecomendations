@@ -1,158 +1,275 @@
 {
   "id": 40473,
   "title": "Yo-kai Watch the Movie: Forever Friends",
-  "url": "https://api.mangadex.org/v2/manga/40473",
-  "last_updated": "February 11, 2021 08:24:07 UTC",
+  "url": "https://mangadex.org/manga/40473",
+  "last_updated": "March 18, 2021 11:58:17 UTC",
   "matches": [
     {
       "id": 40536,
       "title": "Yo-kai Watch Shadowside",
-      "score": 0.887,
-      "r18": false
+      "score": 0.854,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 22236,
-      "title": "Rurouni Kenshin: Hokkaido-hen",
-      "score": 0.756,
-      "r18": false
+      "id": 59272,
+      "title": "Perfect Girl",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 5573,
-      "title": "Saiyuki",
-      "score": 0.748,
-      "r18": false
+      "id": 1596,
+      "title": "Esprit",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 21358,
+      "title": "Undead (Kitamura Hikaru)",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
+    },
+    {
+      "id": 1036,
+      "title": "Rave",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa",
+        "ua",
+        "br"
+      ]
+    },
+    {
+      "id": 10214,
+      "title": "Shirasunamura",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 13961,
       "title": "Youkai no Oisha-san",
-      "score": 0.743,
-      "r18": false
+      "score": 0.256,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 10974,
-      "title": "Full Metal Panic! Another",
-      "score": 0.741,
-      "r18": false
+      "id": 28526,
+      "title": "JoJo's Bizarre Adventure Part 3 - Stardust Crusaders",
+      "score": 0.254,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 1417,
-      "title": "Shingetsutan Tsukihime",
-      "score": 0.737,
-      "r18": false
+      "id": 13963,
+      "title": "Yu-Gi-Oh! GX",
+      "score": 0.248,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 23231,
-      "title": "Wu Dong Qian Kun",
-      "score": 0.736,
-      "r18": false
+      "id": 24281,
+      "title": "Sokushi Cheat ga Saikyou Sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga",
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br",
+        "ru",
+        "fr"
+      ]
     },
     {
-      "id": 3918,
-      "title": "Magic Kaito",
-      "score": 0.733,
-      "r18": false
+      "id": 28542,
+      "title": "JoJo's Bizarre Adventure Part 6: Stone Ocean",
+      "score": 0.244,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 10526,
-      "title": "Iron Knight",
-      "score": 0.73,
-      "r18": false
+      "id": 2630,
+      "title": "Gegege no Kitaro",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "br"
+      ]
     },
     {
-      "id": 2340,
-      "title": "Fate/stay night",
-      "score": 0.73,
-      "r18": false
+      "id": 5573,
+      "title": "Saiyuki",
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
-      "id": 5840,
-      "title": "BLOOD+",
-      "score": 0.726,
-      "r18": false
+      "id": 24276,
+      "title": "Shin Megami Tensei - Devil Children",
+      "score": 0.238,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 9844,
-      "title": "Shingeki no Kyojin - Before the Fall",
-      "score": 0.726,
-      "r18": false
+      "id": 20902,
+      "title": "Spirit Blade Mountain",
+      "score": 0.235,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "ru",
+        "fr",
+        "br",
+        "pl"
+      ]
     },
     {
-      "id": 7232,
-      "title": "Cat's Eye",
-      "score": 0.724,
-      "r18": false
+      "id": 30443,
+      "title": "Muhyo to Roji no Mahouritsu Soudan Jimusho: Mazoku Magushi-hen",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 1890,
-      "title": "Gekka Bijin",
-      "score": 0.724,
-      "r18": false
+      "id": 134,
+      "title": "en&iacute;gm\u04d9",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "de"
+      ]
     },
     {
-      "id": 4994,
-      "title": "Saint Seiya",
-      "score": 0.723,
-      "r18": false
-    },
-    {
-      "id": 19671,
-      "title": "Sword Art Online - Project Alicization",
-      "score": 0.723,
-      "r18": false
-    },
-    {
-      "id": 25435,
-      "title": "Madara",
-      "score": 0.722,
-      "r18": false
+      "id": 8072,
+      "title": "Rocket Man",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 13127,
       "title": "Urami Koi, Koi, Urami Koi.",
-      "score": 0.722,
-      "r18": false
+      "score": 0.228,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "it",
+        "es",
+        "de"
+      ]
     },
     {
-      "id": 189,
-      "title": "Lost Universe",
-      "score": 0.722,
-      "r18": false
+      "id": 9912,
+      "title": "Shin Megami Tensei IV - Demonic Gene",
+      "score": 0.224,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 54813,
       "title": "Lost Universe Special",
-      "score": 0.721,
-      "r18": false
+      "score": 0.224,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 28542,
-      "title": "JoJo's Bizarre Adventure Part 6 - Stone Ocean",
-      "score": 0.721,
-      "r18": false
+      "id": 5171,
+      "title": "Goth",
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg",
+        "es",
+        "ro"
+      ]
     },
     {
-      "id": 17916,
-      "title": "Hachinan tte, Sore wa Nai Deshou!",
-      "score": 0.72,
-      "r18": false
+      "id": 189,
+      "title": "Lost Universe",
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr"
+      ]
     },
     {
-      "id": 9006,
-      "title": "Cafe Occult",
-      "score": 0.719,
-      "r18": false
+      "id": 15355,
+      "title": "Kyokou Suiri",
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "ru",
+        "it",
+        "fr",
+        "br"
+      ]
     },
     {
-      "id": 3867,
-      "title": "M&Auml;R",
-      "score": 0.719,
-      "r18": false
-    },
-    {
-      "id": 10207,
-      "title": "Saint Seiya - Episode G",
-      "score": 0.718,
-      "r18": false
+      "id": 14603,
+      "title": "Kagamigami",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru",
+        "es"
+      ]
     }
   ]
 }

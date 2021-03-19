@@ -2,49 +2,73 @@
   "id": 13530,
   "title": "Strike Witches - Kurenai no Majo-tachi",
   "url": "https://mangadex.org/manga/13530",
-  "last_updated": "March 15, 2021 08:35:34 UTC",
+  "last_updated": "March 18, 2021 07:41:06 UTC",
   "matches": [
     {
       "id": 1819,
       "title": "Deus Ex Machina",
-      "score": 0.242,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx",
+        "es"
+      ]
     },
     {
       "id": 28103,
       "title": "Kyoshirou to Towa no Sora",
       "score": 0.241,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 12703,
       "title": "Saijaku Muhai no Bahamut",
       "score": 0.207,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr"
+      ]
     },
     {
       "id": 1922,
       "title": "MuvLuv Alternative",
       "score": 0.201,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 10196,
       "title": "Toaru Kagaku no Accelerator",
-      "score": 0.156,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "cn",
+        "br",
+        "mx",
+        "fr",
+        "id"
+      ]
     },
     {
       "id": 12173,
       "title": "Ark:Romancer",
-      "score": 0.142,
-      "r18": false
-    },
-    {
-      "id": 31032,
-      "title": "The World of Otome Games Is Tough for Mobs",
-      "score": 0.104,
-      "r18": false
+      "score": 0.141,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     }
   ]
 }

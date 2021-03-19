@@ -2,67 +2,83 @@
   "id": 1577,
   "title": "Teirui Makura",
   "url": "https://mangadex.org/manga/1577",
-  "last_updated": "March 14, 2021 04:13:47 UTC",
+  "last_updated": "March 18, 2021 05:56:03 UTC",
   "matches": [
     {
       "id": 35967,
       "title": "Awa ni mo Narenai Koi Nara ba",
       "score": 0.263,
-      "r18": false
-    },
-    {
-      "id": 30737,
-      "title": "Ore no Otouto no Honjitsu no Onedari",
-      "score": 0.235,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 37754,
       "title": "Uchi no Ani no Renai Jijou",
       "score": 0.234,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 57326,
       "title": "Pink Butterfly",
-      "score": 0.23,
-      "r18": false
+      "score": 0.229,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 10706,
       "title": "Rakuda Tsukai to Ouji no Yoru",
       "score": 0.225,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 38994,
       "title": "Ojisan to Ore no Koiwazurai",
-      "score": 0.215,
-      "r18": false
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 50969,
       "title": "Rakuen no Pet",
-      "score": 0.204,
-      "r18": false
+      "score": 0.203,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 28805,
       "title": "Osananajimi wa Boku no Hero!",
-      "score": 0.2,
-      "r18": false
-    },
-    {
-      "id": 51981,
-      "title": "Blue, Black, Sky",
-      "score": 0.19,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 55851,
       "title": "Eyes of the Cormorant, Eyes of the Hawk",
       "score": 0.16,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

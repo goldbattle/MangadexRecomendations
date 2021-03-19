@@ -2,37 +2,46 @@
   "id": 39408,
   "title": "Green Slave",
   "url": "https://mangadex.org/manga/39408",
-  "last_updated": "March 18, 2021 04:23:28 UTC",
+  "last_updated": "March 18, 2021 11:49:24 UTC",
   "matches": [
     {
       "id": 9228,
       "title": "Mother Sarah",
       "score": 0.194,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3021,
       "title": "City of the Dead Sorcerer",
-      "score": 0.156,
-      "r18": false
-    },
-    {
-      "id": 35479,
-      "title": "Fukushuu Kansuisha no Jinsei Nishuume Isekaitan",
-      "score": 0.14,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "fr"
+      ]
     },
     {
       "id": 14660,
       "title": "Sasori",
-      "score": 0.14,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 48961,
       "title": "Until the End",
       "score": 0.132,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     }
   ]
 }

@@ -2,25 +2,34 @@
   "id": 696,
   "title": "Sayonara, Papa",
   "url": "https://mangadex.org/manga/696",
-  "last_updated": "March 14, 2021 01:00:09 UTC",
+  "last_updated": "March 18, 2021 05:48:28 UTC",
   "matches": [
-    {
-      "id": 40765,
-      "title": "Musume no Tomodachi",
-      "score": 0.241,
-      "r18": false
-    },
     {
       "id": 23828,
       "title": "Sensei no Shiroi Uso",
-      "score": 0.233,
-      "r18": false
+      "score": 0.234,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "es"
+      ]
     },
     {
       "id": 935,
       "title": "Watashitachi no Shiawase na Jikan",
       "score": 0.207,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ct",
+        "de",
+        "id",
+        "br",
+        "pl",
+        "it",
+        "fr"
+      ]
     }
   ]
 }

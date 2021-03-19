@@ -2,37 +2,47 @@
   "id": 20265,
   "title": "Zhen",
   "url": "https://mangadex.org/manga/20265",
-  "last_updated": "March 16, 2021 04:08:37 UTC",
+  "last_updated": "March 18, 2021 08:55:30 UTC",
   "matches": [
     {
       "id": 51610,
       "title": "Wadatsumi no Yometori",
       "score": 0.258,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 27572,
       "title": "Black Sun Doreiou",
-      "score": 0.237,
-      "r18": false
+      "score": 0.236,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 14713,
       "title": "Crimson Spell",
       "score": 0.221,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 18021,
       "title": "Ever After",
-      "score": 0.204,
-      "r18": false
-    },
-    {
-      "id": 56007,
-      "title": "I Was Reborn as the Villainess' Father and I Need XXX to Survive?!",
-      "score": 0.119,
-      "r18": false
+      "score": 0.203,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl"
+      ]
     }
   ]
 }

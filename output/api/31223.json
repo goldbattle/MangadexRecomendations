@@ -1,158 +1,244 @@
 {
   "id": 31223,
   "title": "King's Cafe",
-  "url": "https://api.mangadex.org/v2/manga/31223",
-  "last_updated": "February 10, 2021 08:16:48 UTC",
+  "url": "https://mangadex.org/manga/31223",
+  "last_updated": "March 18, 2021 10:41:07 UTC",
   "matches": [
-    {
-      "id": 46427,
-      "title": "Meow! Please Help, Manager!",
-      "score": 0.713,
-      "r18": false
-    },
-    {
-      "id": 7481,
-      "title": "Zenbu Chodai",
-      "score": 0.709,
-      "r18": false
-    },
-    {
-      "id": 28359,
-      "title": "Boku ga Utau to Kimi wa Warau kara",
-      "score": 0.708,
-      "r18": false
-    },
-    {
-      "id": 4824,
-      "title": "Rabu Kare - Gokujou Men Dokuhon!",
-      "score": 0.707,
-      "r18": false
-    },
-    {
-      "id": 3381,
-      "title": "Koi ni Naru Made",
-      "score": 0.707,
-      "r18": false
-    },
-    {
-      "id": 5362,
-      "title": "Megane ~ Hazushitemo Iidesuka?",
-      "score": 0.705,
-      "r18": false
-    },
-    {
-      "id": 16007,
-      "title": "Present",
-      "score": 0.703,
-      "r18": false
-    },
-    {
-      "id": 3082,
-      "title": "Get Love!! ~Field no Ouji-sama~",
-      "score": 0.702,
-      "r18": false
-    },
-    {
-      "id": 5855,
-      "title": "Cream Caramel",
-      "score": 0.701,
-      "r18": false
-    },
-    {
-      "id": 4175,
-      "title": "Cream Caramel Chocolate",
-      "score": 0.701,
-      "r18": false
-    },
-    {
-      "id": 19218,
-      "title": "Kiss Me Baby",
-      "score": 0.699,
-      "r18": false
-    },
-    {
-      "id": 3076,
-      "title": "Kanchigai Musume to Buchigire Ouji",
-      "score": 0.699,
-      "r18": false
-    },
-    {
-      "id": 19122,
-      "title": "Houkago Kiss",
-      "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 10507,
-      "title": "Kanojo ni Naru Hi Another",
-      "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 1371,
-      "title": "Penguin Prince",
-      "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 3133,
-      "title": "Shanimuni Go",
-      "score": 0.694,
-      "r18": false
-    },
-    {
-      "id": 3480,
-      "title": "Sweet 16",
-      "score": 0.694,
-      "r18": false
-    },
-    {
-      "id": 6328,
-      "title": "Nijiiro Days",
-      "score": 0.693,
-      "r18": false
-    },
-    {
-      "id": 1708,
-      "title": "Warau Kanoko-sama",
-      "score": 0.693,
-      "r18": false
-    },
-    {
-      "id": 4032,
-      "title": "Koi no Himitsu Kichi",
-      "score": 0.693,
-      "r18": false
-    },
-    {
-      "id": 7181,
-      "title": "Seishun Survival",
-      "score": 0.693,
-      "r18": false
-    },
-    {
-      "id": 3453,
-      "title": "Hizamazuite Ai wo Chikae",
-      "score": 0.692,
-      "r18": false
-    },
     {
       "id": 10139,
       "title": "Caf&eacute; Caf&eacute;",
-      "score": 0.691,
-      "r18": false
+      "score": 0.358,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 2139,
-      "title": "I Love Her",
-      "score": 0.69,
-      "r18": false
+      "id": 15716,
+      "title": "Hoshi Furu Makiba!",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 20031,
-      "title": "Peach Girl Next",
-      "score": 0.69,
-      "r18": false
+      "id": 26260,
+      "title": "Ookami Nanka Kowakunai!?",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de"
+      ]
+    },
+    {
+      "id": 11102,
+      "title": "Suspicious Scandal",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "hu"
+      ]
+    },
+    {
+      "id": 2860,
+      "title": "3 Banme no Kareshi",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 17449,
+      "title": "Fukigen na Majou to Uchiki na Kedamono",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 22758,
+      "title": "Zhiran Chenghun",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2397,
+      "title": "Angel Shop",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5422,
+      "title": "Milk Crown",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 7099,
+      "title": "Funky Yobikou",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "ro"
+      ]
+    },
+    {
+      "id": 58952,
+      "title": "With Cats Only",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
+    },
+    {
+      "id": 59660,
+      "title": "Inazuma to Romance",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "mx",
+        "it",
+        "hu",
+        "gb"
+      ]
+    },
+    {
+      "id": 13744,
+      "title": "Beauty Bunny",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5431,
+      "title": "Milk Crown H!",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 9539,
+      "title": "Otome Holic",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 34222,
+      "title": "Pujo to Yajuu",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 998,
+      "title": "Tonari no 801-chan - Fujoshiteki Koukou Seikatsu",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10860,
+      "title": "Yajuu Kanojo",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 17895,
+      "title": "Kao ga Suki",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 27444,
+      "title": "0 kara Hajimeru Manga Kyoushitsu",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 33523,
+      "title": "Kowamote Kokosei to Jimikosan",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 4674,
+      "title": "He Was Cool",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3469,
+      "title": "Plastic Girl",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "de",
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 31265,
+      "title": "Ryoubo-san wa Joshikousei",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
+    },
+    {
+      "id": 29902,
+      "title": "Yokubari na Bokura",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

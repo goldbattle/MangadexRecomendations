@@ -2,49 +2,72 @@
   "id": 8772,
   "title": "Citrus",
   "url": "https://mangadex.org/manga/8772",
-  "last_updated": "March 14, 2021 20:23:05 UTC",
+  "last_updated": "March 18, 2021 07:00:25 UTC",
   "matches": [
     {
       "id": 23424,
       "title": "1 x &frac12;",
-      "score": 0.297,
-      "r18": false
+      "score": 0.296,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "br"
+      ]
     },
     {
       "id": 18467,
       "title": "Sayuri-san no Imouto wa Tenshi",
       "score": 0.247,
-      "r18": false
-    },
-    {
-      "id": 50240,
-      "title": "Mutually Unrequited Twin Sisters",
-      "score": 0.236,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "ru"
+      ]
     },
     {
       "id": 9659,
       "title": "Onnanoko no Sekkeizu",
-      "score": 0.229,
-      "r18": false
+      "score": 0.228,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 3135,
       "title": "Under the Rose",
-      "score": 0.183,
-      "r18": false
+      "score": 0.182,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
     },
     {
       "id": 52056,
       "title": "Kantai Collection - Hello &amp; Hello (Doujinshi)",
       "score": 0.154,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 35242,
       "title": "Galette (Anthology)",
       "score": 0.091,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "tr",
+        "mx",
+        "de"
+      ]
     }
   ]
 }

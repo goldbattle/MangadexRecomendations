@@ -1,50 +1,78 @@
 {
   "id": 40614,
   "title": "Touhou - Kotoba de Sekai wa Kaerareru (Doujinshi)",
-  "url": "https://api.mangadex.org/v2/manga/40614",
-  "last_updated": "February 11, 2021 08:26:20 UTC",
+  "url": "https://mangadex.org/manga/40614",
+  "last_updated": "March 18, 2021 11:59:27 UTC",
   "matches": [
     {
       "id": 40611,
       "title": "Touhou - Heart Beat! (Doujinshi)",
-      "score": 0.255,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br"
+      ]
     },
     {
       "id": 41454,
       "title": "Touhou - THEREMIN (Doujinshi)",
-      "score": 0.255,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 41586,
       "title": "Touhou - Silen+Song (Doujinshi)",
-      "score": 0.255,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 48842,
       "title": "BanG Dream! - An Unheard Confession?",
-      "score": 0.255,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 42352,
       "title": "BanG Dream! - Turning Away the Wish Upon a Star (Doujinshi)",
-      "score": 0.204,
-      "r18": false
+      "score": 0.167,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 34545,
       "title": "Sna-Live! Snake idol project",
-      "score": 0.17,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 35391,
       "title": "The Story of Hatsune Miku",
-      "score": 0.17,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "th",
+        "fr",
+        "gb",
+        "vn",
+        "id"
+      ]
     }
   ]
 }

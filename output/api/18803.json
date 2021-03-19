@@ -2,19 +2,37 @@
   "id": 18803,
   "title": "Youjo Senki",
   "url": "https://mangadex.org/manga/18803",
-  "last_updated": "March 16, 2021 00:11:20 UTC",
+  "last_updated": "March 18, 2021 08:43:18 UTC",
   "matches": [
     {
       "id": 16482,
       "title": "Made in Abyss",
-      "score": 0.161,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "sa",
+        "ru",
+        "es",
+        "tr",
+        "se",
+        "ir",
+        "fr",
+        "hu"
+      ]
     },
     {
       "id": 6896,
       "title": "Jashin-chan Dropkick",
       "score": 0.115,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "es",
+        "ru"
+      ]
     }
   ]
 }

@@ -1,116 +1,208 @@
 {
   "id": 53789,
-  "title": "Jojo's Bizarre Adventure: Jojolite",
+  "title": "Jojo's Bizarre Adventure - Jojolite (Doujinshi)",
   "url": "https://mangadex.org/manga/53789",
-  "last_updated": "January 16, 2021 06:26:00 UTC",
+  "last_updated": "March 18, 2021 13:49:34 UTC",
   "matches": [
-    {
-      "id": 4747,
-      "title": "Terra Formars",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 21677,
-      "title": "Hinowa ga Yuku!",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 13070,
-      "title": "Japan",
-      "score": 0.288,
-      "r18": false
-    },
-    {
-      "id": 24862,
-      "title": "Sousei no Taiga",
-      "score": 0.284,
-      "r18": false
-    },
     {
       "id": 23535,
       "title": "Tengoku Daimakyou",
-      "score": 0.283,
-      "r18": false
+      "score": 0.179,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hk",
+        "br",
+        "sa",
+        "ru"
+      ]
     },
     {
       "id": 1073,
       "title": "Vagabond",
-      "score": 0.276,
-      "r18": false
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "it",
+        "hu",
+        "pl",
+        "id",
+        "sa"
+      ]
     },
     {
-      "id": 43816,
-      "title": "Wicked Trapper: Hunter of Heroes",
-      "score": 0.258,
-      "r18": false
-    },
-    {
-      "id": 56617,
-      "title": "Vagabond (Official Colored)",
-      "score": 0.251,
-      "r18": false
+      "id": 24862,
+      "title": "Sousei no Taiga",
+      "score": 0.153,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru",
+        "mx",
+        "fr"
+      ]
     },
     {
       "id": 17291,
       "title": "RED: Living On The Edge",
-      "score": 0.248,
-      "r18": false
+      "score": 0.134,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 56617,
+      "title": "Vagabond (Official Colored)",
+      "score": 0.134,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4747,
+      "title": "Terra Formars",
+      "score": 0.133,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "tr"
+      ]
+    },
+    {
+      "id": 5526,
+      "title": "Blade of the Immortal",
+      "score": 0.132,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu"
+      ]
+    },
+    {
+      "id": 43816,
+      "title": "Wicked Trapper: Hunter of Heroes",
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "id",
+        "fr",
+        "ru"
+      ]
     },
     {
       "id": 36129,
       "title": "Higanjima - Aniki-hen",
-      "score": 0.242,
-      "r18": false
-    },
-    {
-      "id": 18935,
-      "title": "Goblin Slayer",
-      "score": 0.24,
-      "r18": false
-    },
-    {
-      "id": 1394,
-      "title": "Narutaru",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 44807,
-      "title": "Instinct",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 709,
-      "title": "Higanjima",
-      "score": 0.223,
-      "r18": false
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 31554,
       "title": "Switch Witch",
-      "score": 0.22,
-      "r18": false
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 22283,
-      "title": "Goblin Slayer Side Story: Year One",
-      "score": 0.21,
-      "r18": false
+      "id": 44807,
+      "title": "Instinct",
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 607,
-      "title": "Berserk",
-      "score": 0.208,
-      "r18": false
+      "id": 44532,
+      "title": "Kyosei Tensei",
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "mx"
+      ]
     },
     {
       "id": 1230,
       "title": "Black Lagoon",
-      "score": 0.204,
-      "r18": false
+      "score": 0.125,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "fr",
+        "ru",
+        "es",
+        "it"
+      ]
+    },
+    {
+      "id": 709,
+      "title": "Higanjima",
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 1394,
+      "title": "Narutaru",
+      "score": 0.107,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "mx"
+      ]
+    },
+    {
+      "id": 607,
+      "title": "Berserk",
+      "score": 0.092,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it",
+        "mx",
+        "tr",
+        "sa",
+        "ru",
+        "fr",
+        "hk"
+      ]
+    },
+    {
+      "id": 22283,
+      "title": "Goblin Slayer Side Story: Year One",
+      "score": 0.087,
+      "r18": false,
+      "languages": [
+        "br",
+        "it",
+        "ru",
+        "mx",
+        "id",
+        "fr",
+        "gb"
+      ]
     }
   ]
 }

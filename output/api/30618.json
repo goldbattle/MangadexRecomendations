@@ -2,157 +2,259 @@
   "id": 30618,
   "title": "Gakkou Youkai Kikou: You",
   "url": "https://mangadex.org/manga/30618",
-  "last_updated": "January 13, 2021 12:52:12 UTC",
+  "last_updated": "March 18, 2021 10:36:04 UTC",
   "matches": [
-    {
-      "id": 15388,
-      "title": "Bokutachi no Ikita Riyuu",
-      "score": 0.684,
-      "r18": false
-    },
-    {
-      "id": 3820,
-      "title": "Maou - Juvenile Remix",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 3089,
-      "title": "Corpse Party - Another Child",
-      "score": 0.673,
-      "r18": false
-    },
-    {
-      "id": 13961,
-      "title": "Youkai no Oisha-san",
-      "score": 0.672,
-      "r18": false
-    },
-    {
-      "id": 2221,
-      "title": "Toraneko Folklore",
-      "score": 0.67,
-      "r18": false
-    },
-    {
-      "id": 9409,
-      "title": "Hitoribocchi no Chikyuu Shinryaku",
-      "score": 0.667,
-      "r18": false
-    },
-    {
-      "id": 3829,
-      "title": "Shindere Shoujo to Kodoku na Shinigami",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 19257,
-      "title": "Kyoudai - Shoujo Tantei to Yuurei Keikan no Kaiki Jikenbo",
-      "score": 0.657,
-      "r18": false
-    },
-    {
-      "id": 12844,
-      "title": "Saike Mata Shite mo",
-      "score": 0.657,
-      "r18": false
-    },
-    {
-      "id": 2143,
-      "title": "Torikago Gakkyuu",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 848,
-      "title": "Konjiki no Gash!!",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 14787,
-      "title": "Rengoku no Karma",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 358,
-      "title": "C&Oslash;DE:BREAKER",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 6754,
-      "title": "Persona - Tsumi to Bachi",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 882,
-      "title": "Fukashigi Philia",
-      "score": 0.651,
-      "r18": false
-    },
     {
       "id": 11185,
       "title": "Meitantei Marnie",
-      "score": 0.454,
-      "r18": false
-    },
-    {
-      "id": 10968,
-      "title": "Sakurada Reset - Cat, Ghost and Revolution Sunday",
-      "score": 0.411,
-      "r18": false
-    },
-    {
-      "id": 13790,
-      "title": "Mahou Ineko to Ibarahime",
-      "score": 0.371,
-      "r18": false
-    },
-    {
-      "id": 5439,
-      "title": "Mukuchi na Bakemono wa Yoru ni Naku",
-      "score": 0.354,
-      "r18": false
-    },
-    {
-      "id": 762,
-      "title": "St&amp;rs",
-      "score": 0.347,
-      "r18": false
-    },
-    {
-      "id": 21580,
-      "title": "Kimi ga Shinu Natsu ni",
-      "score": 0.341,
-      "r18": false
-    },
-    {
-      "id": 16476,
-      "title": "Platinum End",
-      "score": 0.34,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21368,
       "title": "The Weird Storm Boy Matenro",
-      "score": 0.339,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 7,
-      "title": "The World God Only Knows",
-      "score": 0.339,
-      "r18": false
+      "id": 762,
+      "title": "St&amp;rs",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de",
+        "es",
+        "pl"
+      ]
+    },
+    {
+      "id": 2143,
+      "title": "Torikago Gakkyuu",
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de"
+      ]
+    },
+    {
+      "id": 10968,
+      "title": "Sakurada Reset - Cat, Ghost and Revolution Sunday",
+      "score": 0.252,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 15388,
+      "title": "Bokutachi no Ikita Riyuu",
+      "score": 0.251,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4298,
+      "title": "Gakkou Kaidan",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5439,
+      "title": "Mukuchi na Bakemono wa Yoru ni Naku",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 882,
+      "title": "Fukashigi Philia",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 21580,
+      "title": "Kimi ga Shinu Natsu ni",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "id"
+      ]
+    },
+    {
+      "id": 19257,
+      "title": "Kyoudai - Shoujo Tantei to Yuurei Keikan no Kaiki Jikenbo",
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
+    },
+    {
+      "id": 13961,
+      "title": "Youkai no Oisha-san",
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 13790,
+      "title": "Mahou Ineko to Ibarahime",
+      "score": 0.212,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14787,
+      "title": "Rengoku no Karma",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 42286,
+      "title": "SCARS",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3620,
       "title": "Kyoukai no Rinne",
-      "score": 0.33,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 31151,
+      "title": "Okuru Kotoba",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id"
+      ]
+    },
+    {
+      "id": 47009,
+      "title": "24-ku no Hanako-san",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 1606,
+      "title": "Gyakusou Shoujo - Owaranai Natsuyasumi",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 18609,
+      "title": "Killer Killer",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "ru",
+        "br"
+      ]
+    },
+    {
+      "id": 1512,
+      "title": "Hajime",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "it"
+      ]
+    },
+    {
+      "id": 3820,
+      "title": "Maou - Juvenile Remix",
+      "score": 0.196,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 11330,
+      "title": "Demon Possession",
+      "score": 0.195,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "br",
+        "pl"
+      ]
+    },
+    {
+      "id": 6754,
+      "title": "Persona - Tsumi to Bachi",
+      "score": 0.189,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "The World God Only Knows",
+      "score": 0.188,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "mx",
+        "es",
+        "pl",
+        "id"
+      ]
     }
   ]
 }

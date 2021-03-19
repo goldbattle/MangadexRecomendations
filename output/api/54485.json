@@ -1,158 +1,270 @@
 {
   "id": 54485,
   "title": "The Runaway Family",
-  "url": "https://api.mangadex.org/v2/manga/54485",
-  "last_updated": "March 12, 2021 20:26:12 UTC",
+  "url": "https://mangadex.org/manga/54485",
+  "last_updated": "March 18, 2021 13:55:23 UTC",
   "matches": [
-    {
-      "id": 12808,
-      "title": "Ojou-sama wa Nigedashita",
-      "score": 0.663,
-      "r18": true
-    },
-    {
-      "id": 38461,
-      "title": "Junai Mellow",
-      "score": 0.66,
-      "r18": true
-    },
-    {
-      "id": 16071,
-      "title": "Sweet Guy",
-      "score": 0.657,
-      "r18": true
-    },
-    {
-      "id": 57038,
-      "title": "Boarding Diary",
-      "score": 0.655,
-      "r18": true
-    },
-    {
-      "id": 55125,
-      "title": "Young Boss",
-      "score": 0.654,
-      "r18": true
-    },
-    {
-      "id": 48386,
-      "title": "Stepmother's Friends",
-      "score": 0.651,
-      "r18": true
-    },
-    {
-      "id": 34597,
-      "title": "Noraneko Shoujo to no Kurashikata",
-      "score": 0.651,
-      "r18": true
-    },
-    {
-      "id": 25922,
-      "title": "Colorful Harvest",
-      "score": 0.651,
-      "r18": true
-    },
     {
       "id": 56183,
       "title": "The Delivery Man",
-      "score": 0.393,
-      "r18": true
-    },
-    {
-      "id": 55112,
-      "title": "Live With: Do You Want to Do It?",
-      "score": 0.39,
-      "r18": true
-    },
-    {
-      "id": 51082,
-      "title": "Teaching Practice",
-      "score": 0.378,
-      "r18": true
-    },
-    {
-      "id": 54594,
-      "title": "Between Us",
-      "score": 0.378,
-      "r18": true
-    },
-    {
-      "id": 17014,
-      "title": "H-Mate",
-      "score": 0.37,
-      "r18": true
-    },
-    {
-      "id": 19165,
-      "title": "Do It One More Time",
-      "score": 0.365,
-      "r18": true
-    },
-    {
-      "id": 49711,
-      "title": "Up &amp; Down",
-      "score": 0.363,
-      "r18": true
-    },
-    {
-      "id": 55304,
-      "title": "Everything Is Agreed",
-      "score": 0.351,
-      "r18": true
-    },
-    {
-      "id": 17755,
-      "title": "Brawling GO!",
-      "score": 0.35,
-      "r18": true
-    },
-    {
-      "id": 58979,
-      "title": "Suspicious Job",
-      "score": 0.349,
-      "r18": true
-    },
-    {
-      "id": 44083,
-      "title": "As If Daughter",
-      "score": 0.349,
-      "r18": true
-    },
-    {
-      "id": 55659,
-      "title": "Can I Touch It?",
-      "score": 0.348,
-      "r18": true
-    },
-    {
-      "id": 23319,
-      "title": "Perfect Half",
-      "score": 0.348,
-      "r18": true
-    },
-    {
-      "id": 18138,
-      "title": "Love Parameter",
-      "score": 0.343,
-      "r18": true
+      "score": 0.3,
+      "r18": true,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 23485,
       "title": "Love Academy",
-      "score": 0.335,
-      "r18": true
+      "score": 0.277,
+      "r18": true,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 50605,
-      "title": "My Teacher",
-      "score": 0.333,
-      "r18": true
+      "id": 55112,
+      "title": "Live With: Do You Want to Do It?",
+      "score": 0.272,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 17755,
+      "title": "Brawling GO!",
+      "score": 0.268,
+      "r18": true,
+      "languages": [
+        "gb",
+        "br",
+        "it"
+      ]
+    },
+    {
+      "id": 51082,
+      "title": "Teaching Practice",
+      "score": 0.268,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19165,
+      "title": "Do It One More Time",
+      "score": 0.262,
+      "r18": true,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 57038,
+      "title": "Boarding Diary",
+      "score": 0.25,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55304,
+      "title": "Everything Is Agreed",
+      "score": 0.25,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55695,
+      "title": "Doumi",
+      "score": 0.25,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 44083,
+      "title": "As If Daughter",
+      "score": 0.248,
+      "r18": true,
+      "languages": [
+        "gb",
+        "fr",
+        "sa"
+      ]
+    },
+    {
+      "id": 16071,
+      "title": "Sweet Guy",
+      "score": 0.241,
+      "r18": true,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "pl",
+        "sa"
+      ]
+    },
+    {
+      "id": 23319,
+      "title": "Perfect Half",
+      "score": 0.238,
+      "r18": true,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "fr",
+        "sa",
+        "ir"
+      ]
+    },
+    {
+      "id": 54594,
+      "title": "Between Us",
+      "score": 0.238,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55125,
+      "title": "Young Boss",
+      "score": 0.233,
+      "r18": true,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 58979,
+      "title": "Suspicious Job",
+      "score": 0.232,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 17014,
+      "title": "H-Mate",
+      "score": 0.227,
+      "r18": true,
+      "languages": [
+        "gb",
+        "it",
+        "fr"
+      ]
+    },
+    {
+      "id": 48386,
+      "title": "Stepmother's Friends",
+      "score": 0.227,
+      "r18": true,
+      "languages": [
+        "gb",
+        "fr",
+        "id",
+        "br",
+        "es",
+        "ru",
+        "sa",
+        "pl",
+        "mx",
+        "it",
+        "ir"
+      ]
+    },
+    {
+      "id": 49711,
+      "title": "Up &amp; Down",
+      "score": 0.226,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55659,
+      "title": "Can I Touch It?",
+      "score": 0.225,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 51632,
+      "title": "That Man's Room",
+      "score": 0.215,
+      "r18": true,
+      "languages": [
+        "gb",
+        "fr",
+        "ru"
+      ]
+    },
+    {
+      "id": 18867,
+      "title": "Will You Do as I Say?",
+      "score": 0.207,
+      "r18": true,
+      "languages": [
+        "gb",
+        "de"
+      ]
+    },
+    {
+      "id": 18138,
+      "title": "Love Parameter",
+      "score": 0.2,
+      "r18": true,
+      "languages": [
+        "gb",
+        "it",
+        "in"
+      ]
+    },
+    {
+      "id": 52382,
+      "title": "The Giving Girl",
+      "score": 0.2,
+      "r18": true,
+      "languages": [
+        "br"
+      ]
+    },
+    {
+      "id": 58890,
+      "title": "Good Girl",
+      "score": 0.2,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 37903,
       "title": "Landlord's Little Girl",
-      "score": 0.323,
-      "r18": true
+      "score": 0.199,
+      "r18": true,
+      "languages": [
+        "gb",
+        "id",
+        "ru",
+        "sa"
+      ]
     }
   ]
 }

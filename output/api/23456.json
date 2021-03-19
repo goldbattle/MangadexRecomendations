@@ -2,19 +2,26 @@
   "id": 23456,
   "title": "My Neighbors Are Aliens",
   "url": "https://mangadex.org/manga/23456",
-  "last_updated": "March 16, 2021 12:28:54 UTC",
+  "last_updated": "March 18, 2021 09:23:03 UTC",
   "matches": [
     {
       "id": 25231,
       "title": "Bishoujo Club",
       "score": 0.3,
-      "r18": true
+      "r18": true,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 55208,
       "title": "Petit-Roid 3",
       "score": 0.3,
-      "r18": true
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

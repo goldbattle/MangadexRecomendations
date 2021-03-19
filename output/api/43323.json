@@ -1,158 +1,264 @@
 {
   "id": 43323,
   "title": "Ouji to Joujin",
-  "url": "https://api.mangadex.org/v2/manga/43323",
-  "last_updated": "February 11, 2021 12:38:33 UTC",
+  "url": "https://mangadex.org/manga/43323",
+  "last_updated": "March 18, 2021 12:22:04 UTC",
   "matches": [
-    {
-      "id": 12846,
-      "title": "Trattoria Yamiichi",
-      "score": 0.297,
-      "r18": false
-    },
     {
       "id": 28116,
       "title": "Issho ni Kuraso",
-      "score": 0.297,
-      "r18": false
+      "score": 0.26,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8406,
       "title": "Dokonimo Nai Kuni",
-      "score": 0.288,
-      "r18": false
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 35513,
       "title": "Rumspringa no Joukei",
-      "score": 0.288,
-      "r18": false
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 46094,
       "title": "Rouman no Okuni de Aimashou",
-      "score": 0.288,
-      "r18": false
-    },
-    {
-      "id": 46418,
-      "title": "Ai towa Yoru ni Kizuku Mono",
-      "score": 0.288,
-      "r18": false
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1441,
       "title": "Konbini-kun",
-      "score": 0.284,
-      "r18": false
+      "score": 0.248,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "hu",
+        "ru"
+      ]
     },
     {
       "id": 1463,
       "title": "Hand Which",
-      "score": 0.284,
-      "r18": false
-    },
-    {
-      "id": 1465,
-      "title": "Merry Checker",
-      "score": 0.284,
-      "r18": false
+      "score": 0.248,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 1490,
       "title": "Himegoto Asobi",
-      "score": 0.284,
-      "r18": false
+      "score": 0.248,
+      "r18": false,
+      "languages": [
+        "tr",
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 4287,
       "title": "Akanai Tobira",
-      "score": 0.284,
-      "r18": false
+      "score": 0.248,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "hu"
+      ]
     },
     {
       "id": 4558,
       "title": "Ameiro Paradox",
-      "score": 0.284,
-      "r18": false
+      "score": 0.248,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 4565,
       "title": "Daikirai na Aitsu!",
-      "score": 0.284,
-      "r18": false
+      "score": 0.248,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "pl"
+      ]
     },
     {
       "id": 4661,
       "title": "Sukitte Iwasete?",
-      "score": 0.284,
-      "r18": false
+      "score": 0.248,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 5604,
       "title": "Miterannee yo",
-      "score": 0.284,
-      "r18": false
+      "score": 0.248,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 6904,
       "title": "Super Lovers",
-      "score": 0.284,
-      "r18": false
+      "score": 0.248,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 7421,
       "title": "Kouun no Rihatsushi",
-      "score": 0.284,
-      "r18": false
+      "score": 0.248,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7608,
       "title": "Anata no Jinsei Hikiukemasu!",
-      "score": 0.284,
-      "r18": false
+      "score": 0.248,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7725,
       "title": "Sugar Code",
-      "score": 0.284,
-      "r18": false
+      "score": 0.248,
+      "r18": false,
+      "languages": [
+        "pl",
+        "tr",
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 7791,
       "title": "Koishite Daddy",
-      "score": 0.284,
-      "r18": false
+      "score": 0.248,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "pl"
+      ]
     },
     {
       "id": 7848,
       "title": "Fukurou-kun to Kare",
-      "score": 0.284,
-      "r18": false
+      "score": 0.248,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "pl"
+      ]
     },
     {
       "id": 7883,
       "title": "Beauty Stock",
-      "score": 0.284,
-      "r18": false
+      "score": 0.248,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7997,
       "title": "Kimi ga Koi ni Oboreru",
-      "score": 0.284,
-      "r18": false
+      "score": 0.248,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "pl"
+      ]
     },
     {
       "id": 8039,
       "title": "Kaeru no\u2605Prince-sama",
-      "score": 0.284,
-      "r18": false
+      "score": 0.248,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8688,
       "title": "Docchi mo Docchi",
-      "score": 0.284,
-      "r18": false
+      "score": 0.248,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 8748,
+      "title": "Kyouju to Shitsuji no Shizuka na Seikatsu",
+      "score": 0.248,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9000,
+      "title": "Junjou Mistake",
+      "score": 0.248,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "tr"
+      ]
+    },
+    {
+      "id": 9275,
+      "title": "Heart no Kakurega",
+      "score": 0.248,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "pl"
+      ]
     }
   ]
 }

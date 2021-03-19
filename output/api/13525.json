@@ -2,25 +2,36 @@
   "id": 13525,
   "title": "DEAD Tube",
   "url": "https://mangadex.org/manga/13525",
-  "last_updated": "March 15, 2021 08:35:31 UTC",
+  "last_updated": "March 18, 2021 07:41:03 UTC",
   "matches": [
     {
       "id": 16669,
       "title": "Appli-Trap",
-      "score": 0.269,
-      "r18": false
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 4930,
       "title": "Devilman G",
-      "score": 0.154,
-      "r18": false
+      "score": 0.153,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 10771,
       "title": "Susanoou",
-      "score": 0.135,
-      "r18": false
+      "score": 0.134,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

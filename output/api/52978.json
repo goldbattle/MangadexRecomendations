@@ -2,67 +2,112 @@
   "id": 52978,
   "title": "Guruman-kun",
   "url": "https://mangadex.org/manga/52978",
-  "last_updated": "January 16, 2021 01:02:04 UTC",
+  "last_updated": "March 18, 2021 13:42:48 UTC",
   "matches": [
     {
-      "id": 16269,
-      "title": "Toriko - Digital Colored Comics",
-      "score": 0.722,
-      "r18": false
-    },
-    {
-      "id": 107,
-      "title": "Toriko",
-      "score": 0.702,
-      "r18": false
-    },
-    {
-      "id": 48217,
-      "title": "Leveling Up, by Only Eating!",
-      "score": 0.667,
-      "r18": false
-    },
-    {
-      "id": 6135,
-      "title": "Chuuka Ichiban!",
-      "score": 0.655,
-      "r18": false
+      "id": 27613,
+      "title": "Tetsunabe no Jan!",
+      "score": 0.362,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 333,
       "title": "Mister Ajikko",
-      "score": 0.493,
-      "r18": false
-    },
-    {
-      "id": 27613,
-      "title": "Tetsunabe no Jan!",
-      "score": 0.47,
-      "r18": false
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 33362,
       "title": "Shin Chuuka Ichiban!",
-      "score": 0.327,
-      "r18": false
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 21055,
-      "title": "Tondemo Skill de Isekai Hourou Meshi",
-      "score": 0.273,
-      "r18": false
+      "id": 6135,
+      "title": "Chuuka Ichiban!",
+      "score": 0.195,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 4195,
       "title": "Shoku King",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 37392,
       "title": "Tondemo Skill de Isekai Hourou Meshi: Sui no Daibouken",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 107,
+      "title": "Toriko",
+      "score": 0.154,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "es",
+        "mx",
+        "pl"
+      ]
+    },
+    {
+      "id": 16269,
+      "title": "Toriko - Digital Colored Comics",
+      "score": 0.154,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 21055,
+      "title": "Tondemo Skill de Isekai Hourou Meshi",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "pl"
+      ]
+    },
+    {
+      "id": 48217,
+      "title": "Leveling Up, by Only Eating!",
+      "score": 0.134,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "br",
+        "fr",
+        "id"
+      ]
     }
   ]
 }

@@ -2,43 +2,51 @@
   "id": 38920,
   "title": "Legend Reboot",
   "url": "https://mangadex.org/manga/38920",
-  "last_updated": "March 18, 2021 04:16:38 UTC",
+  "last_updated": "March 18, 2021 11:45:19 UTC",
   "matches": [
-    {
-      "id": 51243,
-      "title": "The Hunter",
-      "score": 0.175,
-      "r18": false
-    },
     {
       "id": 45434,
       "title": "I Picked up an Attribute",
       "score": 0.127,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br"
+      ]
     },
     {
       "id": 37856,
       "title": "Player Reborn",
-      "score": 0.117,
-      "r18": false
-    },
-    {
-      "id": 58325,
-      "title": "Worn and Torn Newbie",
-      "score": 0.093,
-      "r18": false
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "gb",
+        "th",
+        "fr",
+        "br",
+        "tr",
+        "id",
+        "mx",
+        "es"
+      ]
     },
     {
       "id": 43914,
       "title": "The Second Coming of Gluttony",
       "score": 0.087,
-      "r18": false
-    },
-    {
-      "id": 40778,
-      "title": "Cheating Men Must Die",
-      "score": 0.061,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu",
+        "br",
+        "fr",
+        "ir",
+        "ru",
+        "tr",
+        "it",
+        "sa"
+      ]
     }
   ]
 }

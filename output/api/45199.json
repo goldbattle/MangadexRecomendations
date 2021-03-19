@@ -1,86 +1,126 @@
 {
   "id": 45199,
   "title": "Kaguya-den",
-  "url": "https://api.mangadex.org/v2/manga/45199",
-  "last_updated": "February 11, 2021 20:21:53 UTC",
+  "url": "https://mangadex.org/manga/45199",
+  "last_updated": "March 18, 2021 12:37:45 UTC",
   "matches": [
-    {
-      "id": 7097,
-      "title": "Shirogane no Ou - Fenrir Craft",
-      "score": 0.346,
-      "r18": false
-    },
     {
       "id": 18030,
       "title": "Telcel",
-      "score": 0.344,
-      "r18": false
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7097,
+      "title": "Shirogane no Ou - Fenrir Craft",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 290,
       "title": "Aruosumente",
-      "score": 0.287,
-      "r18": false
-    },
-    {
-      "id": 4631,
-      "title": "Kenja no Ishi",
-      "score": 0.278,
-      "r18": false
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 35279,
       "title": "The Inner Palace Tale of a Villainess Noble Girl",
-      "score": 0.267,
-      "r18": false
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 1173,
       "title": "Makai Ouji - Devils and Realist",
-      "score": 0.264,
-      "r18": false
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 33474,
       "title": "The Queen",
-      "score": 0.248,
-      "r18": false
+      "score": 0.161,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 6093,
       "title": "Saiyuki RELOAD",
-      "score": 0.239,
-      "r18": false
-    },
-    {
-      "id": 2797,
-      "title": "Le Th&eacute;&acirc;tre de B",
-      "score": 0.225,
-      "r18": false
-    },
-    {
-      "id": 48334,
-      "title": "Aewol's Dream",
-      "score": 0.202,
-      "r18": false
-    },
-    {
-      "id": 36510,
-      "title": "My Lord, the Wolf Queen",
-      "score": 0.185,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19294,
       "title": "+C: Sword and Cornett Appendix",
-      "score": 0.172,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 59709,
       "title": "Petshop of Horrors: Passage",
-      "score": 0.153,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2797,
+      "title": "Le Th&eacute;&acirc;tre de B",
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "bg",
+        "tr",
+        "gb",
+        "pl",
+        "hu",
+        "it"
+      ]
+    },
+    {
+      "id": 48334,
+      "title": "Aewol's Dream",
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 36510,
+      "title": "My Lord, the Wolf Queen",
+      "score": 0.103,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     }
   ]
 }

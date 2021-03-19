@@ -1,14 +1,17 @@
 {
   "id": 46096,
   "title": "Nosewasure",
-  "url": "https://api.mangadex.org/v2/manga/46096",
-  "last_updated": "February 11, 2021 20:36:27 UTC",
+  "url": "https://mangadex.org/manga/46096",
+  "last_updated": "March 18, 2021 12:45:14 UTC",
   "matches": [
     {
       "id": 32240,
       "title": "Kindan No Ero Trap Board Game -Libidotopia-",
-      "score": 0.188,
-      "r18": true
+      "score": 0.1,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

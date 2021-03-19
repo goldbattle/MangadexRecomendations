@@ -1,158 +1,248 @@
 {
   "id": 55268,
   "title": "Suki da Nante Ienai",
-  "url": "https://api.mangadex.org/v2/manga/55268",
-  "last_updated": "March 12, 2021 20:35:40 UTC",
+  "url": "https://mangadex.org/manga/55268",
+  "last_updated": "March 18, 2021 14:01:56 UTC",
   "matches": [
-    {
-      "id": 55072,
-      "title": "Gekkou no Rankan ni Kuchinashi no Nioi",
-      "score": 0.773,
-      "r18": false
-    },
-    {
-      "id": 26022,
-      "title": "Midnight Make Love",
-      "score": 0.766,
-      "r18": false
-    },
-    {
-      "id": 9475,
-      "title": "Tsuki ni Hoero",
-      "score": 0.764,
-      "r18": false
-    },
-    {
-      "id": 29090,
-      "title": "Mawaru Sekai no Kimi to Boku",
-      "score": 0.76,
-      "r18": false
-    },
-    {
-      "id": 20962,
-      "title": "Natura-turaly",
-      "score": 0.76,
-      "r18": false
-    },
-    {
-      "id": 7329,
-      "title": "Natsu, Kimi ga Saku.",
-      "score": 0.742,
-      "r18": false
-    },
-    {
-      "id": 10213,
-      "title": "Otodokemono Desu!",
-      "score": 0.742,
-      "r18": false
-    },
-    {
-      "id": 7135,
-      "title": "Anata no Tame Nara Doko Made mo",
-      "score": 0.732,
-      "r18": false
-    },
-    {
-      "id": 7189,
-      "title": "Tobu, Kokoro",
-      "score": 0.73,
-      "r18": false
-    },
-    {
-      "id": 28977,
-      "title": "Chinko no Tsubuyaki - Chintsubu (Doujinshi)",
-      "score": 0.726,
-      "r18": false
-    },
-    {
-      "id": 54985,
-      "title": "Irokoi Comedy",
-      "score": 0.726,
-      "r18": false
-    },
-    {
-      "id": 55848,
-      "title": "Ushirokara Dakishimete",
-      "score": 0.72,
-      "r18": false
-    },
-    {
-      "id": 57001,
-      "title": "Koisuru Ikimono",
-      "score": 0.716,
-      "r18": false
-    },
-    {
-      "id": 46031,
-      "title": "Himitsu de, Hanazono.",
-      "score": 0.715,
-      "r18": false
-    },
-    {
-      "id": 16296,
-      "title": "Taiyou no Romance",
-      "score": 0.712,
-      "r18": false
-    },
-    {
-      "id": 29008,
-      "title": "Katsuai Monster",
-      "score": 0.708,
-      "r18": false
-    },
-    {
-      "id": 54254,
-      "title": "Trap",
-      "score": 0.699,
-      "r18": false
-    },
-    {
-      "id": 13113,
-      "title": "Amasugi Monster",
-      "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 27056,
-      "title": "Devil x Devil",
-      "score": 0.692,
-      "r18": false
-    },
     {
       "id": 27776,
       "title": "Shinshikyoutei wo Musubou!",
-      "score": 0.691,
-      "r18": false
-    },
-    {
-      "id": 18984,
-      "title": "Hana to Junketsu",
-      "score": 0.671,
-      "r18": false
+      "score": 0.338,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21140,
       "title": "Akai Ito no Shikkou Yuuyo",
-      "score": 0.671,
-      "r18": false
+      "score": 0.333,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl",
+        "fr"
+      ]
     },
     {
-      "id": 12831,
-      "title": "Renai Prism",
-      "score": 0.667,
-      "r18": false
+      "id": 20962,
+      "title": "Natura-turaly",
+      "score": 0.318,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 48703,
-      "title": "Blue de Roix",
-      "score": 0.666,
-      "r18": false
+      "id": 26022,
+      "title": "Midnight Make Love",
+      "score": 0.303,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 54985,
+      "title": "Irokoi Comedy",
+      "score": 0.301,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 28033,
+      "title": "Chinko no Tsubuyaki",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 46031,
+      "title": "Himitsu de, Hanazono.",
+      "score": 0.295,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18984,
+      "title": "Hana to Junketsu",
+      "score": 0.284,
+      "r18": false,
+      "languages": [
+        "tr",
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 16296,
+      "title": "Taiyou no Romance",
+      "score": 0.281,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55848,
+      "title": "Ushirokara Dakishimete",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 52369,
       "title": "Anata ni Muchuu",
-      "score": 0.42,
-      "r18": false
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 57001,
+      "title": "Koisuru Ikimono",
+      "score": 0.277,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 12831,
+      "title": "Renai Prism",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9475,
+      "title": "Tsuki ni Hoero",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 54254,
+      "title": "Trap",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29090,
+      "title": "Mawaru Sekai no Kimi to Boku",
+      "score": 0.259,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 23563,
+      "title": "Beware of Demons",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 28977,
+      "title": "Chinko no Tsubuyaki - Chintsubu (Doujinshi)",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 28145,
+      "title": "Kohitsuji Project",
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "hu"
+      ]
+    },
+    {
+      "id": 55072,
+      "title": "Gekkou no Rankan ni Kuchinashi no Nioi",
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7189,
+      "title": "Tobu, Kokoro",
+      "score": 0.228,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 27056,
+      "title": "Devil x Devil",
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 48703,
+      "title": "Blue de Roix",
+      "score": 0.203,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7329,
+      "title": "Natsu, Kimi ga Saku.",
+      "score": 0.201,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 7135,
+      "title": "Anata no Tame Nara Doko Made mo",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "mx"
+      ]
     }
   ]
 }

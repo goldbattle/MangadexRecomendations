@@ -1,158 +1,290 @@
 {
   "id": 54812,
   "title": "Nogizaka Asuka no Himitsu",
-  "url": "https://api.mangadex.org/v2/manga/54812",
-  "last_updated": "March 12, 2021 20:30:10 UTC",
+  "url": "https://mangadex.org/manga/54812",
+  "last_updated": "March 18, 2021 13:58:07 UTC",
   "matches": [
+    {
+      "id": 22900,
+      "title": "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?",
+      "score": 0.337,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 14570,
+      "title": "Ane Kurabe",
+      "score": 0.314,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18930,
+      "title": "Hajimete no Gal",
+      "score": 0.314,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "br",
+        "id",
+        "ru",
+        "mx",
+        "pl",
+        "it"
+      ]
+    },
+    {
+      "id": 10642,
+      "title": "Aizawa-san Zoushoku",
+      "score": 0.314,
+      "r18": false,
+      "languages": [
+        "ru",
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 683,
+      "title": "Mayoi Neko Overrun!",
+      "score": 0.314,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 25332,
+      "title": "Hiota no Kanojo ga Ore no Motteru Eroge ni Kyoumi Shinshin Nanda ga......",
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "fr",
+        "id",
+        "mx"
+      ]
+    },
+    {
+      "id": 51649,
+      "title": "Ano Oni Ky\u014dshi ga Boku no Ane ni Narundesuka?",
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "th",
+        "id",
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 86,
+      "title": "Anedoki",
+      "score": 0.304,
+      "r18": false,
+      "languages": [
+        "de",
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 8732,
+      "title": "Seifuku!",
+      "score": 0.297,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
     {
       "id": 1882,
       "title": "Baka to Test to Shoukanjuu",
-      "score": 0.727,
-      "r18": false
+      "score": 0.297,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 3834,
-      "title": "Eiken",
-      "score": 0.72,
-      "r18": false
+      "id": 905,
+      "title": "Yotsunoha",
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 17079,
       "title": "Kyouhaku DOG's -Another Secret-",
-      "score": 0.718,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 7142,
-      "title": "FamiDol!",
-      "score": 0.712,
-      "r18": false
+      "id": 51647,
+      "title": "Just a Story About Miyamoto Sakura Being Cute",
+      "score": 0.288,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "mx",
+        "id"
+      ]
     },
     {
-      "id": 14458,
-      "title": "Magical P&acirc;tissi&egrave;re Kosaki-chan!!",
-      "score": 0.707,
-      "r18": false
+      "id": 39828,
+      "title": "2.5 Dimensional Seduction",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "id",
+        "mx",
+        "fr"
+      ]
     },
     {
-      "id": 1009,
-      "title": "Gamble Fish",
-      "score": 0.706,
-      "r18": false
+      "id": 21437,
+      "title": "Atsumare! Fushigi Kenkyu-bu",
+      "score": 0.286,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "fr"
+      ]
     },
     {
-      "id": 29717,
-      "title": "Mighty Heart",
-      "score": 0.705,
-      "r18": false
+      "id": 166,
+      "title": "Kenkoo Zenrakei Suieibu Umishou",
+      "score": 0.286,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "it"
+      ]
     },
     {
-      "id": 3819,
-      "title": "Classmate (\u2640) to Meikyuu no Futekisetsu na Kouryakuhou",
-      "score": 0.705,
-      "r18": false
+      "id": 651,
+      "title": "Asa made Jugyou Chu!",
+      "score": 0.285,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 8993,
-      "title": "Absolute Duo",
-      "score": 0.702,
-      "r18": false
+      "id": 8654,
+      "title": "Okusama ga Seito Kaichou!",
+      "score": 0.283,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru",
+        "it",
+        "br"
+      ]
     },
     {
-      "id": 11615,
-      "title": "Rakudai Kishi no Eiyuutan",
-      "score": 0.702,
-      "r18": false
+      "id": 30,
+      "title": "Sora no Otoshimono",
+      "score": 0.283,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "fr",
+        "tr"
+      ]
     },
     {
-      "id": 10,
-      "title": "GE ~Good Ending~",
-      "score": 0.701,
-      "r18": false
+      "id": 824,
+      "title": "Nozomi x Kimio",
+      "score": 0.282,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "mx",
+        "it",
+        "fr"
+      ]
     },
     {
-      "id": 23571,
-      "title": "Kimi wa 008",
-      "score": 0.701,
-      "r18": false
+      "id": 3834,
+      "title": "Eiken",
+      "score": 0.282,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 3554,
-      "title": "Mei no Naisho",
-      "score": 0.7,
-      "r18": false
+      "id": 7238,
+      "title": "Shurabara!",
+      "score": 0.282,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "pl"
+      ]
     },
     {
-      "id": 7861,
-      "title": "Boku to Kanojo no Game Sensou",
-      "score": 0.7,
-      "r18": false
+      "id": 3510,
+      "title": "Tona-Gura!",
+      "score": 0.281,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 11864,
-      "title": "Inou Battle wa Nichijoukei no Naka de",
-      "score": 0.7,
-      "r18": false
+      "id": 655,
+      "title": "Ichigo 100%",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 306,
-      "title": "GTO",
-      "score": 0.7,
-      "r18": false
-    },
-    {
-      "id": 16041,
-      "title": "Ore ga Ojou-sama Gakkou ni &quot;Shomin Sample&quot; Toshite Spinoff Sareta Ken",
-      "score": 0.7,
-      "r18": false
-    },
-    {
-      "id": 34191,
-      "title": "Shoujotachi wa Kouya wo Mezasu Yukidoke no Oto",
-      "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 732,
-      "title": "To Love-Ru",
-      "score": 0.697,
-      "r18": false
-    },
-    {
-      "id": 10754,
-      "title": "Kotaro Makaritoru!",
-      "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 647,
-      "title": "Hidan no Aria",
-      "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 28735,
-      "title": "Isekai Shoukan wa Nidome Desu",
-      "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 978,
-      "title": "Boku no Idol",
-      "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 51,
-      "title": "To Love-Ru Darkness",
-      "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 51875,
-      "title": "Arifureta Gakuen de Sekai Saikyou",
-      "score": 0.695,
-      "r18": false
+      "id": 20774,
+      "title": "Bokutachi wa Benkyou ga Dekinai",
+      "score": 0.278,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "hk",
+        "ru",
+        "it",
+        "br",
+        "sa"
+      ]
     }
   ]
 }

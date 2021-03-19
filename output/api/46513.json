@@ -1,50 +1,61 @@
 {
   "id": 46513,
   "title": "Amateur E-girl Streaming a Space War",
-  "url": "https://api.mangadex.org/v2/manga/46513",
-  "last_updated": "February 12, 2021 00:55:18 UTC",
+  "url": "https://mangadex.org/manga/46513",
+  "last_updated": "March 18, 2021 12:48:43 UTC",
   "matches": [
-    {
-      "id": 16514,
-      "title": "Getter Robo Devolution: Uchuu Saigo no 3-punkan",
-      "score": 0.699,
-      "r18": false
-    },
     {
       "id": 18912,
       "title": "Steel Jeeg",
-      "score": 0.69,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 9632,
       "title": "UFO Robo Grendizer",
-      "score": 0.671,
-      "r18": false
-    },
-    {
-      "id": 40363,
-      "title": "Wilderness Hut",
-      "score": 0.657,
-      "r18": false
-    },
-    {
-      "id": 21474,
-      "title": "Souboutei Must Be Destroyed",
-      "score": 0.237,
-      "r18": false
-    },
-    {
-      "id": 31688,
-      "title": "Dai Dark",
-      "score": 0.205,
-      "r18": false
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 27517,
       "title": "Shin Kamen Rider Spirits",
-      "score": 0.142,
-      "r18": false
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 31688,
+      "title": "Dai Dark",
+      "score": 0.107,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "sa",
+        "hk",
+        "ru",
+        "br",
+        "tr",
+        "ua",
+        "it"
+      ]
+    },
+    {
+      "id": 40363,
+      "title": "Wilderness Hut",
+      "score": 0.063,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

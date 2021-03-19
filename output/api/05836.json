@@ -2,43 +2,68 @@
   "id": 5836,
   "title": "Deka Wanko",
   "url": "https://mangadex.org/manga/5836",
-  "last_updated": "March 14, 2021 12:42:32 UTC",
+  "last_updated": "March 18, 2021 06:35:16 UTC",
   "matches": [
     {
       "id": 1425,
       "title": "#000000: Ultra Black",
-      "score": 0.28,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 15127,
       "title": "Gaitou Alice",
-      "score": 0.2,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6848,
       "title": "Servamp",
       "score": 0.175,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru",
+        "hu"
+      ]
     },
     {
       "id": 3593,
       "title": "07-Ghost",
       "score": 0.175,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "pl",
+        "tr",
+        "bg"
+      ]
     },
     {
       "id": 6093,
       "title": "Saiyuki RELOAD",
-      "score": 0.147,
-      "r18": false
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 43343,
       "title": "Phantom in the Twilight",
       "score": 0.093,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

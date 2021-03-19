@@ -1,20 +1,47 @@
 {
   "id": 33514,
   "title": "Project Tokyo Dolls - Forgotten Imitation Doll",
-  "url": "https://api.mangadex.org/v2/manga/33514",
-  "last_updated": "February 10, 2021 12:39:17 UTC",
+  "url": "https://mangadex.org/manga/33514",
+  "last_updated": "March 18, 2021 11:00:13 UTC",
   "matches": [
-    {
-      "id": 33863,
-      "title": "The Beginning After the End",
-      "score": 0.669,
-      "r18": false
-    },
     {
       "id": 46652,
       "title": "Bless",
-      "score": 0.253,
-      "r18": false
+      "score": 0.129,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "it"
+      ]
+    },
+    {
+      "id": 52904,
+      "title": "Kalsarin",
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "fr"
+      ]
+    },
+    {
+      "id": 33863,
+      "title": "The Beginning After the End",
+      "score": 0.113,
+      "r18": false,
+      "languages": [
+        "tr",
+        "it",
+        "hu",
+        "ru",
+        "de",
+        "ua",
+        "br",
+        "pl",
+        "pt"
+      ]
     }
   ]
 }

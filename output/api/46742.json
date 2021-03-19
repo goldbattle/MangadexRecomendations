@@ -1,50 +1,81 @@
 {
   "id": 46742,
   "title": "The cute life of OL and cat",
-  "url": "https://api.mangadex.org/v2/manga/46742",
-  "last_updated": "February 12, 2021 00:59:14 UTC",
+  "url": "https://mangadex.org/manga/46742",
+  "last_updated": "March 18, 2021 12:50:38 UTC",
   "matches": [
     {
       "id": 19249,
       "title": "Hakka Shoujo",
-      "score": 0.721,
-      "r18": false
-    },
-    {
-      "id": 11140,
-      "title": "Kuro",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 34223,
-      "title": "Roujoteki Shoujo Hinata-chan",
-      "score": 0.659,
-      "r18": false
+      "score": 0.269,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 34802,
       "title": "Kitsune to Pancake",
-      "score": 0.382,
-      "r18": false
+      "score": 0.246,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "fr",
+        "mx"
+      ]
     },
     {
       "id": 21867,
       "title": "Kyou no Ryuuko-chan",
-      "score": 0.379,
-      "r18": false
+      "score": 0.244,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 51990,
       "title": "Taishou Roman Seiyou Ga \u0304ru",
-      "score": 0.241,
-      "r18": false
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 34223,
+      "title": "Roujoteki Shoujo Hinata-chan",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br",
+        "vn"
+      ]
     },
     {
       "id": 5598,
       "title": "Oomuro-ke",
-      "score": 0.209,
-      "r18": false
+      "score": 0.188,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 11140,
+      "title": "Kuro",
+      "score": 0.157,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "tr",
+        "fr"
+      ]
     }
   ]
 }

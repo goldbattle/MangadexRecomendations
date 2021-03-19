@@ -1,68 +1,101 @@
 {
   "id": 44803,
   "title": "Vivid Line",
-  "url": "https://api.mangadex.org/v2/manga/44803",
-  "last_updated": "February 11, 2021 16:47:05 UTC",
+  "url": "https://mangadex.org/manga/44803",
+  "last_updated": "March 18, 2021 12:34:26 UTC",
   "matches": [
-    {
-      "id": 47294,
-      "title": "Kusareen moto dokyusei",
-      "score": 0.23,
-      "r18": false
-    },
     {
       "id": 47368,
       "title": "Bijutsu Tougou Kai",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "cn",
+        "gb"
+      ]
     },
     {
       "id": 49330,
       "title": "The Story of an Otaku and a Gyaru Falling in Love",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "fr"
+      ]
     },
     {
       "id": 38441,
       "title": "@17 Years Old, We Start Living Together From Today!",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 56195,
       "title": "Love's Revenge Game",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 31019,
+      "title": "The Boy in the All-Girls School",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "tr",
+        "fr",
+        "mx"
+      ]
     },
     {
       "id": 56465,
       "title": "Hahazuka-san wo &times;&times; ni Shitai",
-      "score": 0.172,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 50785,
       "title": "I Have Twin Girlfriends",
-      "score": 0.153,
-      "r18": false
-    },
-    {
-      "id": 38480,
-      "title": "Shachiku Succubus no Hanashi (Fan Colored)",
-      "score": 0.126,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id"
+      ]
     },
     {
       "id": 41732,
       "title": "Shitai no \u2661 Karen-san!!",
-      "score": 0.126,
-      "r18": false
+      "score": 0.105,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx"
+      ]
     },
     {
       "id": 36504,
       "title": "Ping Dan's Inflatable Doll: Zoe-17",
-      "score": 0.115,
-      "r18": false
+      "score": 0.096,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

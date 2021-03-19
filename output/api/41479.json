@@ -1,158 +1,311 @@
 {
   "id": 41479,
   "title": "Toshin Devilman",
-  "url": "https://api.mangadex.org/v2/manga/41479",
-  "last_updated": "February 11, 2021 08:39:36 UTC",
+  "url": "https://mangadex.org/manga/41479",
+  "last_updated": "March 18, 2021 12:06:40 UTC",
   "matches": [
     {
-      "id": 848,
-      "title": "Konjiki no Gash!!",
-      "score": 0.777,
-      "r18": false
-    },
-    {
-      "id": 19589,
-      "title": "Hiraheishi wa Kako wo Yumemiru",
-      "score": 0.771,
-      "r18": false
-    },
-    {
-      "id": 18198,
-      "title": "Kimetsu no Yaiba",
-      "score": 0.758,
-      "r18": false
+      "id": 14823,
+      "title": "Ayashiya",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6247,
       "title": "Devil Survivor",
-      "score": 0.756,
-      "r18": false
-    },
-    {
-      "id": 303,
-      "title": "Claymore",
-      "score": 0.753,
-      "r18": false
-    },
-    {
-      "id": 32046,
-      "title": "After School Exorcism",
-      "score": 0.75,
-      "r18": false
-    },
-    {
-      "id": 1751,
-      "title": "D.Gray-man",
-      "score": 0.749,
-      "r18": false
-    },
-    {
-      "id": 20231,
-      "title": "Majo no Geboku to Maou no Tsuno",
-      "score": 0.745,
-      "r18": false
-    },
-    {
-      "id": 50434,
-      "title": "Monster Bar",
-      "score": 0.745,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 12558,
       "title": "Fatal Fury",
-      "score": 0.729,
-      "r18": false
-    },
-    {
-      "id": 24276,
-      "title": "Shin Megami Tensei - Devil Children",
-      "score": 0.729,
-      "r18": false
-    },
-    {
-      "id": 14783,
-      "title": "Satsui no Senki",
-      "score": 0.722,
-      "r18": false
-    },
-    {
-      "id": 45672,
-      "title": "Martial Arts of Demonic Humans",
-      "score": 0.719,
-      "r18": false
-    },
-    {
-      "id": 34771,
-      "title": "Heresy",
-      "score": 0.718,
-      "r18": false
-    },
-    {
-      "id": 2363,
-      "title": "InuYasha",
-      "score": 0.716,
-      "r18": false
-    },
-    {
-      "id": 32868,
-      "title": "The Devil's Boy",
-      "score": 0.716,
-      "r18": false
+      "score": 0.288,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 37295,
       "title": "Yuko Sae Tatakaeba",
-      "score": 0.714,
-      "r18": false
+      "score": 0.253,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "mx",
+        "br"
+      ]
     },
     {
       "id": 58675,
       "title": "3.11 wo Wasurenai Tame ni Heroes Comeback",
-      "score": 0.713,
-      "r18": false
+      "score": 0.228,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 41974,
-      "title": "It called an Element!",
-      "score": 0.709,
-      "r18": false
+      "id": 32046,
+      "title": "After School Exorcism",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 45353,
-      "title": "Bliss In Another World",
-      "score": 0.696,
-      "r18": false
+      "id": 24276,
+      "title": "Shin Megami Tensei - Devil Children",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 47153,
-      "title": "Demons Can't Be Pretty",
-      "score": 0.683,
-      "r18": false
+      "id": 848,
+      "title": "Konjiki no Gash!!",
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 59374,
-      "title": "Demon Fox Notes",
-      "score": 0.683,
-      "r18": false
+      "id": 19589,
+      "title": "Hiraheishi wa Kako wo Yumemiru",
+      "score": 0.213,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "br",
+        "tr",
+        "fr"
+      ]
+    },
+    {
+      "id": 283,
+      "title": "Ao no Exorcist",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "mx",
+        "it",
+        "br",
+        "es",
+        "il",
+        "fr"
+      ]
+    },
+    {
+      "id": 18198,
+      "title": "Kimetsu no Yaiba",
+      "score": 0.206,
+      "r18": false,
+      "languages": [
+        "il",
+        "gb",
+        "br",
+        "ru",
+        "mx",
+        "hk",
+        "es",
+        "sa",
+        "ua",
+        "id",
+        "it",
+        "de",
+        "tr"
+      ]
+    },
+    {
+      "id": 35287,
+      "title": "Devil May Cry 5 -Visions of V-",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "ru",
+        "vn",
+        "gb",
+        "mx",
+        "id",
+        "hu",
+        "fr"
+      ]
     },
     {
       "id": 2497,
       "title": "Oni ni Itaru Doro",
-      "score": 0.68,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 43747,
-      "title": "The Supreme Urban Heavenly Master",
-      "score": 0.678,
-      "r18": false
+      "id": 14783,
+      "title": "Satsui no Senki",
+      "score": 0.184,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 9967,
-      "title": "The Gamer",
-      "score": 0.676,
-      "r18": false
+      "id": 7423,
+      "title": "Owari no Seraph",
+      "score": 0.182,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "ru",
+        "br",
+        "tr",
+        "it",
+        "hu",
+        "id"
+      ]
+    },
+    {
+      "id": 20231,
+      "title": "Majo no Geboku to Maou no Tsuno",
+      "score": 0.177,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "es"
+      ]
+    },
+    {
+      "id": 34771,
+      "title": "Heresy",
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "hu",
+        "fr"
+      ]
+    },
+    {
+      "id": 59374,
+      "title": "Demon Fox Notes",
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 57265,
+      "title": "Summoned by Being Involved?! And I Was &quot;God&quot;??",
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2363,
+      "title": "InuYasha",
+      "score": 0.164,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1751,
+      "title": "D.Gray-man",
+      "score": 0.163,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "tr",
+        "sa",
+        "mx",
+        "pl",
+        "ru",
+        "es",
+        "bg"
+      ]
+    },
+    {
+      "id": 303,
+      "title": "Claymore",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "pl",
+        "es",
+        "hk"
+      ]
+    },
+    {
+      "id": 50434,
+      "title": "Monster Bar",
+      "score": 0.151,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 15016,
+      "title": "Black Clover",
+      "score": 0.151,
+      "r18": false,
+      "languages": [
+        "br",
+        "hu",
+        "gb",
+        "sa",
+        "mn",
+        "it",
+        "pl",
+        "ru",
+        "mx",
+        "es",
+        "de",
+        "fr",
+        "id",
+        "my"
+      ]
+    },
+    {
+      "id": 51820,
+      "title": "Righteous Evil",
+      "score": 0.148,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa"
+      ]
     }
   ]
 }

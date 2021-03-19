@@ -2,49 +2,86 @@
   "id": 19250,
   "title": "Ozanari-Kun",
   "url": "https://mangadex.org/manga/19250",
-  "last_updated": "March 16, 2021 00:16:40 UTC",
+  "last_updated": "March 18, 2021 08:47:01 UTC",
   "matches": [
     {
       "id": 14509,
       "title": "Given",
       "score": 0.221,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx",
+        "br"
+      ]
     },
     {
       "id": 58110,
       "title": "Koufuku no Ouji",
-      "score": 0.194,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5408,
       "title": "Diamond Dust",
       "score": 0.181,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 5557,
       "title": "Tetsugaku Letra",
       "score": 0.181,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg",
+        "mx",
+        "br",
+        "tr",
+        "pl"
+      ]
     },
     {
       "id": 28861,
       "title": "The Chronicle of Teenage Boys",
-      "score": 0.155,
-      "r18": false
+      "score": 0.154,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 48038,
       "title": "Demon's Ear",
-      "score": 0.145,
-      "r18": false
+      "score": 0.144,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 46835,
       "title": "Oshi no Ko",
-      "score": 0.132,
-      "r18": false
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "mx",
+        "fr",
+        "br",
+        "gb",
+        "ru",
+        "it",
+        "id"
+      ]
     }
   ]
 }

@@ -1,158 +1,262 @@
 {
   "id": 33758,
   "title": "Xin x Yu",
-  "url": "https://api.mangadex.org/v2/manga/33758",
-  "last_updated": "February 10, 2021 12:43:21 UTC",
+  "url": "https://mangadex.org/manga/33758",
+  "last_updated": "March 18, 2021 11:02:15 UTC",
   "matches": [
-    {
-      "id": 10980,
-      "title": "Bitter Sweet Cake",
-      "score": 0.341,
-      "r18": false
-    },
     {
       "id": 11332,
       "title": "Sweet Life (DOUMAN Seiman)",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 44763,
-      "title": "Parade",
-      "score": 0.33,
-      "r18": false
-    },
-    {
-      "id": 38907,
-      "title": "Triangle",
-      "score": 0.33,
-      "r18": false
-    },
-    {
-      "id": 7972,
-      "title": "Pinocchio",
-      "score": 0.326,
-      "r18": false
-    },
-    {
-      "id": 11891,
-      "title": "Nyan-Nyan Oratorio",
-      "score": 0.324,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "mx",
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 17141,
       "title": "Dare mo Shiranai Heya",
-      "score": 0.315,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 20017,
-      "title": "Toki Doki",
-      "score": 0.301,
-      "r18": false
+      "id": 44763,
+      "title": "Parade",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 10949,
-      "title": "Ringo Uri no Utakata Shoujo",
-      "score": 0.284,
-      "r18": false
+      "id": 7972,
+      "title": "Pinocchio",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 38907,
+      "title": "Triangle",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 39185,
       "title": "Shuumatsu wa Aoi Haru",
-      "score": 0.276,
-      "r18": false
-    },
-    {
-      "id": 11335,
-      "title": "Bunbetsu to Takan",
-      "score": 0.276,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 16119,
       "title": "Hatsu koi, Yoru ni Tokeru",
-      "score": 0.27,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 54438,
-      "title": "The Little Sharkmaid",
-      "score": 0.265,
-      "r18": false
+      "id": 20017,
+      "title": "Toki Doki",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "pl",
+        "br",
+        "ct",
+        "fr",
+        "mx",
+        "pt",
+        " ",
+        "hu",
+        "il"
+      ]
     },
     {
-      "id": 14265,
-      "title": "Anemone",
-      "score": 0.26,
-      "r18": false
-    },
-    {
-      "id": 56673,
-      "title": "I Liked Your Bad Sides",
-      "score": 0.26,
-      "r18": false
+      "id": 10949,
+      "title": "Ringo Uri no Utakata Shoujo",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
     },
     {
       "id": 28373,
       "title": "Tsuki no Kanon",
-      "score": 0.26,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de",
+        "fr",
+        "ru"
+      ]
+    },
+    {
+      "id": 54438,
+      "title": "The Little Sharkmaid",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14265,
+      "title": "Anemone",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 15683,
       "title": "Dana's Garden",
-      "score": 0.256,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 26312,
+      "title": "Phalene",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "bg"
+      ]
     },
     {
       "id": 21584,
       "title": "Mizuiro, Sorairo",
-      "score": 0.255,
-      "r18": false
-    },
-    {
-      "id": 7808,
-      "title": "Piercing",
-      "score": 0.255,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 16106,
       "title": "False",
-      "score": 0.255,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "tr"
+      ]
     },
     {
       "id": 19919,
       "title": "Spiritualism",
-      "score": 0.255,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 35937,
       "title": "Uchi no Tsuma wa Wasureppoi",
-      "score": 0.255,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "hk"
+      ]
+    },
+    {
+      "id": 11891,
+      "title": "Nyan-Nyan Oratorio",
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 56673,
+      "title": "I Liked Your Bad Sides",
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru"
+      ]
     },
     {
       "id": 56008,
       "title": "The Day I Became My Sister",
-      "score": 0.254,
-      "r18": false
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb"
+      ]
+    },
+    {
+      "id": 4686,
+      "title": "A Midsummer Night's Dream",
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21415,
       "title": "Renri no Eda (Shimokawa Saki)",
-      "score": 0.253,
-      "r18": false
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 3197,
-      "title": "Nageku Shinigami",
-      "score": 0.249,
-      "r18": false
+      "id": 11335,
+      "title": "Bunbetsu to Takan",
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19177,
+      "title": "Usurai ni Saku",
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

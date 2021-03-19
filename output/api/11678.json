@@ -2,31 +2,46 @@
   "id": 11678,
   "title": "Calling",
   "url": "https://mangadex.org/manga/11678",
-  "last_updated": "March 15, 2021 04:41:25 UTC",
+  "last_updated": "March 18, 2021 07:25:22 UTC",
   "matches": [
     {
       "id": 11237,
       "title": "Te o Tsunaide, Sora o",
-      "score": 0.273,
-      "r18": false
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 20428,
       "title": "Bright Light Sprout",
       "score": 0.241,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 30632,
       "title": "Complex",
-      "score": 0.2,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx"
+      ]
     },
     {
       "id": 53053,
       "title": "My Sweet Garden",
-      "score": 0.192,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -1,32 +1,47 @@
 {
   "id": 43327,
   "title": "Touhou - Sekibanki wa Osananajimi ga Nigate? (Doujinshi)",
-  "url": "https://api.mangadex.org/v2/manga/43327",
-  "last_updated": "February 11, 2021 12:38:36 UTC",
+  "url": "https://mangadex.org/manga/43327",
+  "last_updated": "March 18, 2021 12:22:06 UTC",
   "matches": [
     {
       "id": 43225,
       "title": "Touhou - Yoru ni Ugomeku Mushi no Na wa (Doujinshi)",
-      "score": 0.34,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 43074,
       "title": "Touhou - Toshinose Gensoukyou (Doujinshi)",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6799,
       "title": "Touhou - Private Touhou Academy -COMPLETE- (Doujinshi)",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 51842,
       "title": "Kitsune-chan Won't Give in to Such a Despicable Curse",
-      "score": 0.124,
-      "r18": false
+      "score": 0.101,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "vn",
+        "id"
+      ]
     }
   ]
 }

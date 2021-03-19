@@ -2,91 +2,213 @@
   "id": 30517,
   "title": "ECHOES",
   "url": "https://mangadex.org/manga/30517",
-  "last_updated": "January 13, 2021 12:51:08 UTC",
+  "last_updated": "March 18, 2021 10:35:14 UTC",
   "matches": [
     {
-      "id": 3943,
-      "title": "Slam Dunk",
-      "score": 0.743,
-      "r18": false
-    },
-    {
-      "id": 1281,
-      "title": "Touch",
-      "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 927,
-      "title": "Major",
-      "score": 0.69,
-      "r18": false
-    },
-    {
-      "id": 1737,
-      "title": "Diamond no Ace",
-      "score": 0.688,
-      "r18": false
-    },
-    {
-      "id": 8464,
-      "title": "Yowamushi Pedal",
-      "score": 0.684,
-      "r18": false
-    },
-    {
-      "id": 10271,
-      "title": "Ballroom e Youkoso",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 11710,
-      "title": "Days",
-      "score": 0.661,
-      "r18": false
+      "id": 48529,
+      "title": "Ganbare! Kickers",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 628,
       "title": "Capeta",
-      "score": 0.66,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 3943,
+      "title": "Slam Dunk",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "sa",
+        "gb",
+        "mx",
+        "br"
+      ]
+    },
+    {
+      "id": 16552,
+      "title": "BE BLUES ~Ao ni Nare~",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "br",
+        "ru",
+        "vn",
+        "sa"
+      ]
+    },
+    {
+      "id": 8464,
+      "title": "Yowamushi Pedal",
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "mx",
+        "ru"
+      ]
+    },
+    {
+      "id": 1737,
+      "title": "Diamond no Ace",
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "fr",
+        "pl"
+      ]
+    },
+    {
+      "id": 927,
+      "title": "Major",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "fr",
+        "br"
+      ]
+    },
+    {
+      "id": 2056,
+      "title": "Ganbare Genki",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 11710,
+      "title": "Days",
+      "score": 0.198,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru"
+      ]
+    },
+    {
+      "id": 10271,
+      "title": "Ballroom e Youkoso",
+      "score": 0.197,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "es",
+        "fr"
+      ]
     },
     {
       "id": 1873,
       "title": "Haikyuu!!",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 48529,
-      "title": "Ganbare! Kickers",
-      "score": 0.428,
-      "r18": false
-    },
-    {
-      "id": 16552,
-      "title": "BE BLUES ~Ao ni nare~",
-      "score": 0.357,
-      "r18": false
-    },
-    {
-      "id": 858,
-      "title": "Hikaru no Go",
-      "score": 0.323,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "it",
+        "id",
+        "br",
+        "ru",
+        "bg",
+        "tr"
+      ]
     },
     {
       "id": 42,
       "title": "Baby Steps",
-      "score": 0.312,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "pl",
+        "fr",
+        "it"
+      ]
+    },
+    {
+      "id": 51614,
+      "title": "Shoot!",
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 858,
+      "title": "Hikaru no Go",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1281,
+      "title": "Touch",
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
     },
     {
       "id": 991,
       "title": "Cross Game",
-      "score": 0.267,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 45630,
+      "title": "The Boxer",
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "br",
+        "mx",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 59442,
+      "title": "Bari Bari Densetsu",
+      "score": 0.133,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

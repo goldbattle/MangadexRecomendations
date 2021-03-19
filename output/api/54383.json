@@ -1,38 +1,75 @@
 {
   "id": 54383,
   "title": "Jibun no Yakuwari",
-  "url": "https://api.mangadex.org/v2/manga/54383",
-  "last_updated": "March 12, 2021 20:24:55 UTC",
+  "url": "https://mangadex.org/manga/54383",
+  "last_updated": "March 18, 2021 13:54:32 UTC",
   "matches": [
     {
       "id": 43911,
       "title": "Sakura, Hist&oacute;rias alternativas",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "br"
+      ]
     },
     {
       "id": 28659,
       "title": "Itou-kun wa Koi wo Shiranai.",
-      "score": 0.151,
-      "r18": false
+      "score": 0.124,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 38088,
       "title": "May I Please Ask You Just One Last Thing?",
-      "score": 0.124,
-      "r18": false
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "pl",
+        "fr",
+        "tr",
+        "ru"
+      ]
+    },
+    {
+      "id": 41743,
+      "title": "Charlotte and Her 5 Disciples",
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id",
+        "tr",
+        "br"
+      ]
     },
     {
       "id": 20164,
       "title": "They Say I Was Born a King's Daughter",
-      "score": 0.105,
-      "r18": false
+      "score": 0.086,
+      "r18": false,
+      "languages": [
+        "tr",
+        "br",
+        "ir",
+        "ru"
+      ]
     },
     {
       "id": 51541,
       "title": "Together with Shinsun",
-      "score": 0.091,
-      "r18": false
+      "score": 0.074,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

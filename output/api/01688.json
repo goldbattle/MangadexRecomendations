@@ -2,31 +2,47 @@
   "id": 1688,
   "title": "Saijou no Meii",
   "url": "https://mangadex.org/manga/1688",
-  "last_updated": "March 14, 2021 04:15:39 UTC",
+  "last_updated": "March 18, 2021 05:57:00 UTC",
   "matches": [
     {
       "id": 1971,
       "title": "GodHand Teru",
-      "score": 0.292,
-      "r18": false
+      "score": 0.288,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 16471,
       "title": "Toilet ga Hanako-san",
       "score": 0.181,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 15827,
       "title": "One Summer's Kids Game",
       "score": 0.161,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 20398,
       "title": "Isekai Yakkyoku",
-      "score": 0.148,
-      "r18": false
+      "score": 0.147,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "id"
+      ]
     }
   ]
 }

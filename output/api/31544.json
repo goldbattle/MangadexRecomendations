@@ -1,26 +1,39 @@
 {
   "id": 31544,
   "title": "Bull Sight",
-  "url": "https://api.mangadex.org/v2/manga/31544",
-  "last_updated": "February 10, 2021 08:21:44 UTC",
+  "url": "https://mangadex.org/manga/31544",
+  "last_updated": "March 18, 2021 10:43:48 UTC",
   "matches": [
     {
       "id": 7932,
       "title": "Nisekyuu!!",
-      "score": 0.237,
-      "r18": false
+      "score": 0.206,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "fr"
+      ]
     },
     {
       "id": 50473,
       "title": "Welcome to the Competitive Dance Club",
-      "score": 0.203,
-      "r18": false
+      "score": 0.177,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22120,
       "title": "Natsu no Rakugaki",
-      "score": 0.177,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "it"
+      ]
     }
   ]
 }

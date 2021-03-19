@@ -2,61 +2,104 @@
   "id": 4830,
   "title": "Meiji Hiiro Kitan",
   "url": "https://mangadex.org/manga/4830",
-  "last_updated": "March 14, 2021 12:26:51 UTC",
+  "last_updated": "March 18, 2021 06:25:59 UTC",
   "matches": [
     {
       "id": 3276,
       "title": "Chikutaku Bonbon",
       "score": 0.3,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20610,
       "title": "Kin no Kuni, Mizu no Kuni",
       "score": 0.268,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 53782,
       "title": "Tsuki to Kin no Shangri-La",
-      "score": 0.266,
-      "r18": false
+      "score": 0.265,
+      "r18": false,
+      "languages": [
+        "vn",
+        "gb"
+      ]
     },
     {
       "id": 22623,
       "title": "Ojisan to Neko to Shoujo",
       "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 25229,
-      "title": "Hokuou Kizoku to Moukinzuma no Yukiguni Karigurashi",
-      "score": 0.242,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 14536,
       "title": "Kagerou Inazuma Mizu no Tsuki",
       "score": 0.236,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 25229,
+      "title": "Hokuou Kizoku to Moukinzuma no Yukiguni Karigurashi",
+      "score": 0.213,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx",
+        "id",
+        "br"
+      ]
     },
     {
       "id": 2797,
       "title": "Le Th&eacute;&acirc;tre de B",
-      "score": 0.165,
-      "r18": false
+      "score": 0.164,
+      "r18": false,
+      "languages": [
+        "bg",
+        "tr",
+        "gb",
+        "pl",
+        "hu",
+        "it"
+      ]
     },
     {
       "id": 22637,
       "title": "Otome Game no Hametsu Flag shika nai Akuyaku Reijou ni Tensei shite shimatta...",
       "score": 0.129,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "fr",
+        "mx"
+      ]
     },
     {
       "id": 36510,
       "title": "My Lord, the Wolf Queen",
       "score": 0.118,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     }
   ]
 }

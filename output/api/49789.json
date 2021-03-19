@@ -1,26 +1,43 @@
 {
   "id": 49789,
   "title": "Koroshiya, Korosezu",
-  "url": "https://api.mangadex.org/v2/manga/49789",
-  "last_updated": "February 05, 2021 08:13:19 UTC",
+  "url": "https://mangadex.org/manga/49789",
+  "last_updated": "March 18, 2021 13:16:11 UTC",
   "matches": [
     {
       "id": 57995,
       "title": "My sweet archenemy",
-      "score": 0.225,
-      "r18": false
-    },
-    {
-      "id": 6270,
-      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo (Official Colored)",
-      "score": 0.219,
-      "r18": false
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "br"
+      ]
     },
     {
       "id": 48110,
       "title": "A Story About a Yakuza and a Detective With a Stern Face",
-      "score": 0.153,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "vn",
+        "ru"
+      ]
+    },
+    {
+      "id": 6270,
+      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo (Official Colored)",
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "ru",
+        "br",
+        "de"
+      ]
     }
   ]
 }

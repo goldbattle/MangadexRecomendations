@@ -1,158 +1,246 @@
 {
   "id": 55547,
   "title": "The Suffering of Suiren Kannonji",
-  "url": "https://api.mangadex.org/v2/manga/55547",
-  "last_updated": "March 12, 2021 20:39:14 UTC",
+  "url": "https://mangadex.org/manga/55547",
+  "last_updated": "March 18, 2021 14:04:16 UTC",
   "matches": [
     {
-      "id": 6195,
-      "title": "Honey Crush",
-      "score": 0.712,
-      "r18": false
-    },
-    {
-      "id": 812,
-      "title": "Shitsuji Shoujo to Ojou-sama",
-      "score": 0.701,
-      "r18": false
-    },
-    {
-      "id": 26117,
-      "title": "Linkage",
-      "score": 0.69,
-      "r18": false
-    },
-    {
-      "id": 46067,
-      "title": "Love Slave",
-      "score": 0.683,
-      "r18": false
-    },
-    {
-      "id": 23610,
-      "title": "Kaichou to Fukukaichou",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 10440,
-      "title": "I Girl",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 7158,
-      "title": "Sougou Tovarisch",
-      "score": 0.674,
-      "r18": false
-    },
-    {
-      "id": 8718,
-      "title": "Reset!",
-      "score": 0.671,
-      "r18": false
-    },
-    {
-      "id": 6966,
-      "title": "Centaur's Worries",
-      "score": 0.671,
-      "r18": false
-    },
-    {
-      "id": 18697,
-      "title": "Nanashi no Asterism",
-      "score": 0.668,
-      "r18": false
-    },
-    {
-      "id": 5772,
-      "title": "Clover",
-      "score": 0.667,
-      "r18": false
-    },
-    {
-      "id": 18562,
-      "title": "Koubai no Procyon",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 6276,
-      "title": "Nijipuri",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 27421,
-      "title": "Tora ni Tsubasa",
-      "score": 0.662,
-      "r18": false
-    },
-    {
-      "id": 9177,
-      "title": "Shinozaki-san Ki wo Ota Shika ni!",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 51217,
-      "title": "Shikanoko Nokonoko Koshitantan",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 19434,
-      "title": "Toki",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 9565,
-      "title": "Nousatsu Rock Shounen",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 23158,
-      "title": "YuruYuri &amp; Pok&eacute;mon - Something about YuruYuri and Pok&eacute;mon (Doujinshi)",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 52264,
-      "title": "The Two Sides of Seiyuu Radio",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 7587,
-      "title": "Yozora no Ouji to Asayake no Hime",
-      "score": 0.65,
-      "r18": false
+      "id": 5022,
+      "title": "Zettai x Roman",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 27869,
       "title": "Na*Na*Ki!!",
-      "score": 0.497,
-      "r18": false
+      "score": 0.354,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8718,
+      "title": "Reset!",
+      "score": 0.347,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1051,
       "title": "Rakka Ryuusui",
-      "score": 0.494,
-      "r18": false
+      "score": 0.341,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 5022,
-      "title": "Zettai x Roman",
-      "score": 0.438,
-      "r18": false
+      "id": 7083,
+      "title": "Nanami to Misuzu",
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20185,
+      "title": "Song About a Piece of Junk",
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 26279,
+      "title": "Mousou Honey",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 10822,
       "title": "Seitokai no Himegoto",
-      "score": 0.412,
-      "r18": false
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7452,
+      "title": "Ayame and Amane",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 27421,
+      "title": "Tora ni Tsubasa",
+      "score": 0.286,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18562,
+      "title": "Koubai no Procyon",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 30353,
+      "title": "Todo no Tsumari no Uchouten",
+      "score": 0.269,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 51217,
+      "title": "Shikanoko Nokonoko Koshitantan",
+      "score": 0.267,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 28459,
+      "title": "Yuri Pop",
+      "score": 0.265,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7587,
+      "title": "Yozora no Ouji to Asayake no Hime",
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 45326,
+      "title": "Hare no Kuni no Apparedan",
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 23610,
+      "title": "Kaichou to Fukukaichou",
+      "score": 0.251,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 812,
+      "title": "Shitsuji Shoujo to Ojou-sama",
+      "score": 0.243,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 6276,
+      "title": "Nijipuri",
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10440,
+      "title": "I Girl",
+      "score": 0.237,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 44414,
+      "title": "Princess of the Princess",
+      "score": 0.236,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 43924,
+      "title": "The Young Lady and Her Lackeys Are Going to Pick on the Transfer Student",
+      "score": 0.235,
+      "r18": false,
+      "languages": [
+        "br",
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 26210,
+      "title": "Mimiyori Harmonia",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 44857,
+      "title": "Love Disasters of a Meddlesome Girl",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 34200,
+      "title": "Sunami Yuuko to Yuri na Hitobito",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "pl",
+        "id",
+        "mx"
+      ]
     }
   ]
 }

@@ -1,158 +1,250 @@
 {
   "id": 45398,
   "title": "SEED",
-  "url": "https://api.mangadex.org/v2/manga/45398",
-  "last_updated": "February 11, 2021 20:25:10 UTC",
+  "url": "https://mangadex.org/manga/45398",
+  "last_updated": "March 18, 2021 12:39:24 UTC",
   "matches": [
-    {
-      "id": 52899,
-      "title": "Your God Sent You",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 58463,
-      "title": "I Raised the Beast Well",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 48968,
-      "title": "Wake Up, Warrior",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 44702,
-      "title": "Genius Cool Treasure: President's Wife Is Too Powerful",
-      "score": 0.376,
-      "r18": false
-    },
-    {
-      "id": 51000,
-      "title": "I Want to Do It, Even If It Hurts",
-      "score": 0.335,
-      "r18": false
-    },
     {
       "id": 46903,
       "title": "Wild Child",
-      "score": 0.334,
-      "r18": false
-    },
-    {
-      "id": 20150,
-      "title": "Bringing the Nation's Husband Home",
-      "score": 0.333,
-      "r18": false
-    },
-    {
-      "id": 29859,
-      "title": "Light and Shadow",
-      "score": 0.329,
-      "r18": false
-    },
-    {
-      "id": 43326,
-      "title": "Thank You",
-      "score": 0.328,
-      "r18": false
-    },
-    {
-      "id": 34353,
-      "title": "Yeohye",
-      "score": 0.323,
-      "r18": false
-    },
-    {
-      "id": 43724,
-      "title": "Golden Time",
-      "score": 0.322,
-      "r18": false
-    },
-    {
-      "id": 43786,
-      "title": "Love in Murder",
-      "score": 0.32,
-      "r18": false
-    },
-    {
-      "id": 32047,
-      "title": "Gisou Furin",
-      "score": 0.319,
-      "r18": false
-    },
-    {
-      "id": 48043,
-      "title": "Fiery Enemies",
-      "score": 0.315,
-      "r18": false
-    },
-    {
-      "id": 56235,
-      "title": "Secret Relationship",
-      "score": 0.314,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ct"
+      ]
     },
     {
       "id": 42204,
       "title": "Summer Breeze",
-      "score": 0.311,
-      "r18": false
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 27373,
-      "title": "Reluctant To Go",
-      "score": 0.31,
-      "r18": false
+      "id": 44702,
+      "title": "Genius Cool Treasure: President's Wife Is Too Powerful",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id"
+      ]
     },
     {
-      "id": 58084,
-      "title": "A Kind Goblin's Bird",
-      "score": 0.309,
-      "r18": false
+      "id": 43326,
+      "title": "Thank You",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa"
+      ]
     },
     {
-      "id": 34407,
-      "title": "When Doctor Chu Wants Romance",
-      "score": 0.308,
-      "r18": false
+      "id": 34353,
+      "title": "Yeohye",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 56460,
-      "title": "As the Lady Wishes",
-      "score": 0.307,
-      "r18": false
+      "id": 20150,
+      "title": "Bringing the Nation's Husband Home",
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "tr",
+        "fr",
+        "gb"
+      ]
     },
     {
-      "id": 46858,
-      "title": "Invitation of Mystic Messenger",
-      "score": 0.306,
-      "r18": false
+      "id": 47438,
+      "title": "Forgetful River",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 47542,
       "title": "The Last Print",
-      "score": 0.302,
-      "r18": false
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 16670,
+      "title": "Kizu darake no Akuma",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 43068,
+      "title": "My Oppa Is an Idol",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 22056,
+      "title": "Gone",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 20262,
+      "title": "Neither A Long nor Short Walk",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 42128,
       "title": "Restrain",
-      "score": 0.301,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 52920,
+      "title": "Dangerous New Employee",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa"
+      ]
+    },
+    {
+      "id": 44606,
+      "title": "No Longer a Heroine!",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 58935,
+      "title": "An animal hospital in the border area",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 27358,
+      "title": "Second Home",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 41050,
+      "title": "Deadline Is Coming",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 38100,
+      "title": "Flighty Love",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 54794,
       "title": "Peony Elegy: Winter",
-      "score": 0.301,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 48383,
-      "title": "Two Ways for Lovers",
-      "score": 0.301,
-      "r18": false
+      "id": 56460,
+      "title": "As the Lady Wishes",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 44537,
+      "title": "Love Your Enemies",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "pl",
+        "br",
+        "es",
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 48043,
+      "title": "Fiery Enemies",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 40247,
+      "title": "The Year We Turned 29",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 33329,
+      "title": "Wedding Impossible",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     }
   ]
 }

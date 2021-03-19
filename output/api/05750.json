@@ -2,25 +2,35 @@
   "id": 5750,
   "title": "Conveni-N",
   "url": "https://mangadex.org/manga/5750",
-  "last_updated": "March 14, 2021 12:41:06 UTC",
+  "last_updated": "March 18, 2021 06:34:30 UTC",
   "matches": [
     {
       "id": 925,
       "title": "Nyotai-ka",
       "score": 0.29,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7897,
       "title": "Kagaku na Yatsura",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 28713,
       "title": "Seihonnou to Suibakusen",
-      "score": 0.2,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "nl",
+        "gb"
+      ]
     }
   ]
 }

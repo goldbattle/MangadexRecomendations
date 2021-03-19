@@ -1,26 +1,42 @@
 {
   "id": 33887,
   "title": "Kumichou Musume to Sewagakari",
-  "url": "https://api.mangadex.org/v2/manga/33887",
-  "last_updated": "February 10, 2021 12:45:26 UTC",
+  "url": "https://mangadex.org/manga/33887",
+  "last_updated": "March 18, 2021 11:03:19 UTC",
   "matches": [
     {
       "id": 41243,
       "title": "The Terrifying Hitman and the Little Girl He Took in",
-      "score": 0.411,
-      "r18": false
+      "score": 0.292,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "it",
+        "ru",
+        "id"
+      ]
     },
     {
       "id": 41492,
       "title": "The Terrifying Hitman and The Little Girl He Took in (Fan Colored)",
-      "score": 0.373,
-      "r18": false
+      "score": 0.248,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 41825,
       "title": "My Bodyguard Is 4 Feet Tall",
-      "score": 0.238,
-      "r18": false
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "fr"
+      ]
     }
   ]
 }

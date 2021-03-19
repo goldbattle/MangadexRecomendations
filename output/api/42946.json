@@ -1,20 +1,26 @@
 {
   "id": 42946,
   "title": "Office Love Scramble",
-  "url": "https://api.mangadex.org/v2/manga/42946",
-  "last_updated": "February 11, 2021 12:32:56 UTC",
+  "url": "https://mangadex.org/manga/42946",
+  "last_updated": "March 18, 2021 12:18:54 UTC",
   "matches": [
     {
       "id": 10482,
       "title": "Earth Girls",
-      "score": 0.694,
-      "r18": true
+      "score": 0.141,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 30417,
       "title": "World of Yuri",
-      "score": 0.193,
-      "r18": true
+      "score": 0.121,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

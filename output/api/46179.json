@@ -1,158 +1,298 @@
 {
   "id": 46179,
   "title": "Saurus",
-  "url": "https://api.mangadex.org/v2/manga/46179",
-  "last_updated": "February 11, 2021 20:37:45 UTC",
+  "url": "https://mangadex.org/manga/46179",
+  "last_updated": "March 18, 2021 12:45:55 UTC",
   "matches": [
     {
       "id": 23532,
       "title": "Providence at Dawn",
-      "score": 0.255,
-      "r18": false
-    },
-    {
-      "id": 39376,
-      "title": "Hooves of Death",
-      "score": 0.235,
-      "r18": false
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 48469,
       "title": "The First Hunter",
-      "score": 0.235,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "pl",
+        "fr",
+        "ru",
+        "it"
+      ]
     },
     {
       "id": 16648,
       "title": "Hongdo",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 24572,
       "title": "Dusk Howler",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr"
+      ]
     },
     {
       "id": 31013,
       "title": "Eleceed",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "tr",
+        "fr",
+        "pl"
+      ]
     },
     {
       "id": 37378,
       "title": "Second Life Ranker",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu",
+        "fr",
+        "id",
+        "sa",
+        "ru",
+        "br",
+        "it",
+        "tr",
+        "pl"
+      ]
     },
     {
       "id": 37860,
       "title": "City of the Famished",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br"
+      ]
     },
     {
       "id": 45865,
       "title": "Last Word Of The World",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "mx"
+      ]
     },
     {
       "id": 46350,
       "title": "Trace of Doomsday",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "id"
+      ]
     },
     {
       "id": 46652,
       "title": "Bless",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "it"
+      ]
     },
     {
       "id": 48876,
       "title": "Lads' Party",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 48968,
-      "title": "Wake Up, Warrior",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 49274,
       "title": "I'm Not the Overlord!",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "fr"
+      ]
     },
     {
       "id": 49550,
       "title": "Path to the Apex",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 53724,
       "title": "Trash of the Count's Family",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "it",
+        "ru",
+        "gb",
+        "tr",
+        "pl",
+        "id",
+        "th"
+      ]
     },
     {
       "id": 56080,
       "title": "Rainbow Bridge Watchman",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 57630,
       "title": "Otaku Savior",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 45903,
       "title": "Dungeon Reset",
-      "score": 0.219,
-      "r18": false
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "ir",
+        "th",
+        "hu",
+        "sa",
+        "id"
+      ]
     },
     {
       "id": 46789,
       "title": "Apocalyptic Super System",
-      "score": 0.212,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "tr",
+        "pl"
+      ]
     },
     {
       "id": 32117,
       "title": "Dead Life",
-      "score": 0.209,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 45305,
       "title": "Ominous Liar",
-      "score": 0.209,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "id"
+      ]
     },
     {
       "id": 48600,
       "title": "Murim Login",
-      "score": 0.209,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "id",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 48968,
+      "title": "Wake Up, Warrior",
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 48994,
       "title": "Strongest Caveman",
-      "score": 0.209,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br"
+      ]
     },
     {
       "id": 51367,
       "title": "Blood and Butterflies",
-      "score": 0.209,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn",
+        "mx",
+        "ru",
+        "fr"
+      ]
+    },
+    {
+      "id": 57003,
+      "title": "Mosquito War",
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -1,80 +1,128 @@
 {
   "id": 32719,
   "title": "Kuchibiruiro no Bara no Hana",
-  "url": "https://api.mangadex.org/v2/manga/32719",
-  "last_updated": "February 10, 2021 12:26:02 UTC",
+  "url": "https://mangadex.org/manga/32719",
+  "last_updated": "March 18, 2021 10:53:35 UTC",
   "matches": [
     {
       "id": 37573,
       "title": "Shitsuji wa Oose no Mama ni",
-      "score": 0.711,
-      "r18": false
+      "score": 0.292,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 53198,
       "title": "Kimi ga Kono Te o Hanareru nara",
-      "score": 0.705,
-      "r18": false
-    },
-    {
-      "id": 16544,
-      "title": "ULTRAS",
-      "score": 0.699,
-      "r18": false
+      "score": 0.278,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 27624,
       "title": "Koi wa Go Go!",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 9172,
-      "title": "Okutsukimura no Yukaisou",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 18517,
-      "title": "Joshi BL (Anthology)",
-      "score": 0.678,
-      "r18": false
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "hu"
+      ]
     },
     {
       "id": 46006,
       "title": "Sawatte, Tokashite",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 25739,
-      "title": "Imadoki no Shishunki",
-      "score": 0.367,
-      "r18": false
-    },
-    {
-      "id": 25742,
-      "title": "Ze Fanbook (Anthology)",
-      "score": 0.32,
-      "r18": false
-    },
-    {
-      "id": 12001,
-      "title": "Shisei Gokumon",
-      "score": 0.305,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 26130,
       "title": "Daiichi Souko Nite",
-      "score": 0.3,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9172,
+      "title": "Okutsukimura no Yukaisou",
+      "score": 0.235,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 25739,
+      "title": "Imadoki no Shishunki",
+      "score": 0.228,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 16544,
+      "title": "ULTRAS",
+      "score": 0.219,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl",
+        "it",
+        "mx"
+      ]
+    },
+    {
+      "id": 25742,
+      "title": "Ze Fanbook (Anthology)",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 12001,
+      "title": "Shisei Gokumon",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18517,
+      "title": "Joshi BL (Anthology)",
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 35091,
       "title": "Pheromone Shower - Omegaverse Short Stories",
-      "score": 0.242,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     }
   ]
 }

@@ -1,158 +1,292 @@
 {
   "id": 32137,
   "title": "Dong Gun",
-  "url": "https://api.mangadex.org/v2/manga/32137",
-  "last_updated": "February 10, 2021 08:30:55 UTC",
+  "url": "https://mangadex.org/manga/32137",
+  "last_updated": "March 18, 2021 10:48:44 UTC",
   "matches": [
     {
-      "id": 23231,
-      "title": "Wu Dong Qian Kun",
-      "score": 0.734,
-      "r18": false
+      "id": 2280,
+      "title": "Shaman King",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "il",
+        "gb",
+        "pl",
+        "ru",
+        "tr",
+        "ua"
+      ]
     },
     {
-      "id": 50191,
-      "title": "Life and Death: The Awakening",
-      "score": 0.733,
-      "r18": false
+      "id": 15202,
+      "title": "Naruto Gaiden: Nanadaime Hokage to Akairo no Hanatsuzuki",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
-      "id": 21061,
-      "title": "Tales of Berseria",
-      "score": 0.723,
-      "r18": false
+      "id": 24535,
+      "title": "Dragon Ball GT",
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 38543,
-      "title": "Fights Break Sphere &ndash; Return of the Beasts",
-      "score": 0.719,
-      "r18": false
+      "id": 24563,
+      "title": "Dragon Ball SD",
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "pl"
+      ]
     },
     {
-      "id": 22236,
-      "title": "Rurouni Kenshin: Hokkaido-hen",
-      "score": 0.718,
-      "r18": false
+      "id": 7270,
+      "title": "Kishin Douji Zenki",
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 1417,
-      "title": "Shingetsutan Tsukihime",
-      "score": 0.717,
-      "r18": false
+      "id": 15833,
+      "title": "The Great Conqueror",
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 176,
-      "title": "Monster Hunter Orage",
-      "score": 0.716,
-      "r18": false
+      "id": 6582,
+      "title": "Chronicles of the Cursed Sword",
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 8325,
-      "title": "Tales of Innocence",
-      "score": 0.715,
-      "r18": false
+      "id": 5569,
+      "title": "Arabian Majin Boukentan Lamp Lamp",
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
-      "id": 28542,
-      "title": "JoJo's Bizarre Adventure Part 6 - Stone Ocean",
-      "score": 0.714,
-      "r18": false
+      "id": 23105,
+      "title": "Boruto: Naruto Next Generations",
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "sa",
+        "es",
+        "ru",
+        "de",
+        "mx"
+      ]
     },
     {
-      "id": 8401,
-      "title": "Sword Art Online - Fairy Dance",
-      "score": 0.713,
-      "r18": false
+      "id": 5,
+      "title": "Naruto",
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "bg",
+        "id",
+        "mx"
+      ]
     },
     {
-      "id": 3089,
-      "title": "Corpse Party - Another Child",
-      "score": 0.713,
-      "r18": false
+      "id": 424,
+      "title": "Nurarihyon no Mago",
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "ru"
+      ]
     },
     {
-      "id": 5607,
-      "title": "Shin Megami Tensei: Devil Summoner - Kuzunoha Raidou Tai Kodokuno Marebito",
-      "score": 0.713,
-      "r18": false
-    },
-    {
-      "id": 8190,
-      "title": "Seiken Densetsu - Legend of Mana",
-      "score": 0.712,
-      "r18": false
-    },
-    {
-      "id": 19671,
-      "title": "Sword Art Online - Project Alicization",
-      "score": 0.712,
-      "r18": false
-    },
-    {
-      "id": 10801,
-      "title": "Mahoutsukai no Yome",
-      "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 25435,
-      "title": "Madara",
-      "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 2340,
-      "title": "Fate/stay night",
-      "score": 0.71,
-      "r18": false
-    },
-    {
-      "id": 15082,
-      "title": "Tales of Zestiria - Time of Guidance",
-      "score": 0.71,
-      "r18": false
-    },
-    {
-      "id": 42459,
-      "title": "Akame ga Kill! 1.5",
-      "score": 0.71,
-      "r18": false
+      "id": 13425,
+      "title": "M&auml;rchen - The Embodiment of Tales",
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "fr",
+        "mx",
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 48759,
       "title": "Kimetsu no Yaiba: Rengoku Kyoujurou Gaiden",
-      "score": 0.71,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx"
+      ]
     },
     {
-      "id": 1021,
-      "title": "Girls of the Wild's",
-      "score": 0.709,
-      "r18": false
+      "id": 1036,
+      "title": "Rave",
+      "score": 0.286,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa",
+        "ua",
+        "br"
+      ]
     },
     {
-      "id": 5274,
-      "title": "Nijiiro Togarashi",
-      "score": 0.709,
-      "r18": false
+      "id": 15176,
+      "title": "Pochi Kuro",
+      "score": 0.282,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "hu"
+      ]
     },
     {
-      "id": 14578,
-      "title": "Wu Ji Jian Shen",
-      "score": 0.708,
-      "r18": false
+      "id": 25435,
+      "title": "Madara",
+      "score": 0.282,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 32905,
-      "title": "Kimetsu no Yaiba - Digital Colored Comics",
-      "score": 0.707,
-      "r18": false
+      "id": 10341,
+      "title": "Kokushi Musou!!",
+      "score": 0.281,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 6228,
-      "title": "Kagijin",
-      "score": 0.707,
-      "r18": false
+      "id": 4350,
+      "title": "Shaman King Flowers",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru"
+      ]
+    },
+    {
+      "id": 41902,
+      "title": "HUNTER&times;HUNTER - DIGITAL COLORED COMICS",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "mx",
+        "vn"
+      ]
+    },
+    {
+      "id": 31658,
+      "title": "Bleach: The Unforgivens",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
+    },
+    {
+      "id": 13963,
+      "title": "Yu-Gi-Oh! GX",
+      "score": 0.278,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 39,
+      "title": "One Piece",
+      "score": 0.277,
+      "r18": false,
+      "languages": [
+        "br",
+        "sa",
+        "it",
+        "fr",
+        "mn",
+        "gb",
+        "ct",
+        "il",
+        "pl",
+        "tr",
+        "id",
+        "mx",
+        "ru",
+        "de",
+        "es",
+        "bg",
+        "vn",
+        "in"
+      ]
+    },
+    {
+      "id": 4566,
+      "title": "Hero Tales",
+      "score": 0.276,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 3666,
+      "title": "Ryuugan",
+      "score": 0.276,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9912,
+      "title": "Shin Megami Tensei IV - Demonic Gene",
+      "score": 0.276,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     }
   ]
 }

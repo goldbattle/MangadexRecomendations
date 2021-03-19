@@ -2,19 +2,48 @@
   "id": 52772,
   "title": "Yajuu Shugi",
   "url": "https://mangadex.org/manga/52772",
-  "last_updated": "January 16, 2021 01:00:11 UTC",
+  "last_updated": "March 18, 2021 13:41:05 UTC",
   "matches": [
     {
       "id": 18465,
       "title": "Taka ga Koi Daro",
-      "score": 0.38,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "tr",
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 51542,
+      "title": "Reverse",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4541,
+      "title": "Honto Yajuu",
+      "score": 0.19,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
     },
     {
       "id": 1444,
       "title": "NightS",
-      "score": 0.252,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "mx"
+      ]
     }
   ]
 }

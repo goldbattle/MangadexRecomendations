@@ -2,157 +2,306 @@
   "id": 11093,
   "title": "Chess Time",
   "url": "https://mangadex.org/manga/11093",
-  "last_updated": "March 15, 2021 04:32:53 UTC",
+  "last_updated": "March 18, 2021 07:20:16 UTC",
   "matches": [
     {
       "id": 14148,
       "title": "Fairy Girls",
       "score": 0.274,
-      "r18": false
-    },
-    {
-      "id": 29270,
-      "title": "Fairy Tail: 100 Years Quest",
-      "score": 0.261,
-      "r18": false
-    },
-    {
-      "id": 3638,
-      "title": "Ragnar&ouml;k: Into the Abyss",
-      "score": 0.255,
-      "r18": false
-    },
-    {
-      "id": 42183,
-      "title": "Mashima HERO'S",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 57927,
-      "title": "Shinmai Ossan Bouken-sha, Saikyou paati ni shinu hodo kitae rarete Muteki ni naru",
-      "score": 0.239,
-      "r18": false
-    },
-    {
-      "id": 12980,
-      "title": "Dragon's Crown",
-      "score": 0.234,
-      "r18": false
-    },
-    {
-      "id": 1908,
-      "title": "Juuhime - Phantom Pain",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 5644,
-      "title": "Majin",
-      "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 30381,
       "title": "Zettai ni Yatte wa Ikenai Isekai Shoukan",
       "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 3154,
-      "title": "Oniwaka to Ushiwaka - Edge of the World",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 24057,
-      "title": "Mai, The Psychic Girl",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 27341,
-      "title": "Edens Zero",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 3608,
-      "title": "Banana no Nana",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 14084,
-      "title": "Shinjuku DxD",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 33035,
-      "title": "Crimson Grimoire",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 6892,
-      "title": "Megami no Carnaval",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 5997,
-      "title": "Kanna",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 6759,
-      "title": "Daiaku Kojou",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 1691,
-      "title": "Dragon Half",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 28021,
-      "title": "Stray Little Devil",
-      "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "mx",
+        "id"
+      ]
     },
     {
       "id": 31406,
       "title": "Yari Sugita Majin Senmetsu-sha no Nana-tai Tsumi Yuugi (New Game)",
       "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 25319,
-      "title": "Slayers",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 29299,
-      "title": "Queen's Blade Anthology",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 27743,
-      "title": "Pixy Gale",
-      "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "es",
+        "id",
+        "gb"
+      ]
     },
     {
       "id": 14155,
       "title": "SOUL GAIN",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "es"
+      ]
+    },
+    {
+      "id": 558,
+      "title": "Fairy Tail",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "br",
+        "ru",
+        "it",
+        "id",
+        "tr",
+        "bg"
+      ]
+    },
+    {
+      "id": 8536,
+      "title": "Magi: Sinbad no Bouken",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "ru",
+        "es",
+        "id"
+      ]
+    },
+    {
+      "id": 31081,
+      "title": "Shiro Madoushi Syrup-san",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "es",
+        "ru"
+      ]
+    },
+    {
+      "id": 27243,
+      "title": "Orient",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "mx",
+        "sa",
+        "it",
+        "br",
+        "id",
+        "es"
+      ]
+    },
+    {
+      "id": 12647,
+      "title": "Fairy Tail Zero",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "pl"
+      ]
+    },
+    {
+      "id": 49,
+      "title": "Medaka Box",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "pl",
+        "de"
+      ]
+    },
+    {
+      "id": 753,
+      "title": "Magi",
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "br",
+        "es",
+        "ru",
+        "id"
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Cage of Eden",
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "es",
+        "de",
+        "it"
+      ]
+    },
+    {
+      "id": 13354,
+      "title": "7th Garden",
+      "score": 0.154,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 28735,
+      "title": "Isekai Shoukan wa Nidome Desu",
+      "score": 0.152,
+      "r18": false,
+      "languages": [
+        "mx",
+        "ru",
+        "gb",
+        "fr",
+        "br",
+        "es"
+      ]
+    },
+    {
+      "id": 47244,
+      "title": "Okiraku Onna Madoushi no Kaitakuki",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 146,
+      "title": "Soul Eater",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "ru",
+        "es",
+        "sa"
+      ]
+    },
+    {
+      "id": 20163,
+      "title": "Nidome no Jinsei wo Isekai de",
+      "score": 0.144,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "ru",
+        "es",
+        "br",
+        "it",
+        "fr"
+      ]
+    },
+    {
+      "id": 12929,
+      "title": "To Love-Ru Darkness - Digital Colored Comics",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 35794,
+      "title": "The Hero Who Returned Remains the Strongest in the Modern World",
+      "score": 0.125,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru",
+        "cz",
+        "br",
+        "id",
+        "es",
+        "tr"
+      ]
+    },
+    {
+      "id": 14527,
+      "title": "Yuusha ga Shinda!",
+      "score": 0.115,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "es",
+        "id",
+        "pl"
+      ]
+    },
+    {
+      "id": 24288,
+      "title": "Sentouin, Hakenshimasu!",
+      "score": 0.114,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "ru",
+        "fr",
+        "br",
+        "mx",
+        "tr",
+        "es",
+        "it"
+      ]
+    },
+    {
+      "id": 15946,
+      "title": "Gun-Ota ga Mahou Sekai ni Tensei shitara, Gendai Heiki de Guntai Harem wo Tsukucchaimashita!?",
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "es",
+        "fr",
+        "ru",
+        "br"
+      ]
+    },
+    {
+      "id": 564,
+      "title": "Nagasarete Airantou",
+      "score": 0.072,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "ru"
+      ]
     }
   ]
 }

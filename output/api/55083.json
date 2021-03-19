@@ -1,158 +1,264 @@
 {
   "id": 55083,
   "title": "KILLER FRIENDS",
-  "url": "https://api.mangadex.org/v2/manga/55083",
-  "last_updated": "March 12, 2021 20:33:27 UTC",
+  "url": "https://mangadex.org/manga/55083",
+  "last_updated": "March 18, 2021 14:00:23 UTC",
   "matches": [
     {
-      "id": 38712,
-      "title": "Hakata Tonkotsu Ramens",
-      "score": 0.669,
-      "r18": false
+      "id": 59701,
+      "title": "One Operation Joker",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "br",
+        "cn",
+        "gb",
+        "it"
+      ]
     },
     {
-      "id": 47146,
-      "title": "God of Blackfield",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 28525,
-      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 6270,
-      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo (Official Colored)",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 53977,
-      "title": "Dragon Raja 2",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 53985,
-      "title": "Dragon Raja 3",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 1037,
-      "title": "Jesus",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 82,
-      "title": "Death Note",
-      "score": 0.651,
-      "r18": false
+      "id": 21806,
+      "title": "BATMAN and THE JUSTICE LEAGUE",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "br",
+        "fr"
+      ]
     },
     {
       "id": 41247,
       "title": "Geki!! Gokutora Ikka",
-      "score": 0.36,
-      "r18": false
-    },
-    {
-      "id": 38914,
-      "title": "Nibiiro no Chameleon",
-      "score": 0.359,
-      "r18": false
-    },
-    {
-      "id": 3344,
-      "title": "Kerberos Panzer Cop",
-      "score": 0.352,
-      "r18": false
-    },
-    {
-      "id": 38735,
-      "title": "Mourning Bride",
-      "score": 0.348,
-      "r18": false
-    },
-    {
-      "id": 29394,
-      "title": "Blue Lock",
-      "score": 0.339,
-      "r18": false
-    },
-    {
-      "id": 41148,
-      "title": "Sugar Dog",
-      "score": 0.332,
-      "r18": false
-    },
-    {
-      "id": 59701,
-      "title": "One Operation Joker",
-      "score": 0.327,
-      "r18": false
-    },
-    {
-      "id": 20964,
-      "title": "Rash!!",
-      "score": 0.321,
-      "r18": false
-    },
-    {
-      "id": 23777,
-      "title": "Dorei Yuugi",
-      "score": 0.318,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 44982,
       "title": "Indigo Police",
-      "score": 0.315,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 44354,
-      "title": "Dorei Yuugi Guren",
-      "score": 0.309,
-      "r18": false
+      "id": 1037,
+      "title": "Jesus",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 48142,
-      "title": "BILLY THE TALL",
-      "score": 0.307,
-      "r18": false
+      "id": 41148,
+      "title": "Sugar Dog",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
+    },
+    {
+      "id": 29394,
+      "title": "Blue Lock",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx",
+        "pl",
+        "br",
+        "it",
+        "vn",
+        "tr",
+        "fr",
+        "hu"
+      ]
+    },
+    {
+      "id": 38914,
+      "title": "Nibiiro no Chameleon",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 58461,
       "title": "Midoriyama Police Gang",
-      "score": 0.3,
-      "r18": false
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 13127,
-      "title": "Urami Koi, Koi, Urami Koi.",
-      "score": 0.298,
-      "r18": false
+      "id": 38712,
+      "title": "Hakata Tonkotsu Ramens",
+      "score": 0.217,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3344,
+      "title": "Kerberos Panzer Cop",
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 38735,
+      "title": "Mourning Bride",
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 16694,
       "title": "Lupin III Jr.",
-      "score": 0.293,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20964,
+      "title": "Rash!!",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
     },
     {
       "id": 43429,
       "title": "Bungou Stray Dogs Beast",
-      "score": 0.288,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 2589,
-      "title": "Tantei Gakuen Q",
-      "score": 0.286,
-      "r18": false
+      "id": 48142,
+      "title": "BILLY THE TALL",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 51633,
+      "title": "Security Guard Bae Du-Man",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 23777,
+      "title": "Dorei Yuugi",
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "fr",
+        "id"
+      ]
+    },
+    {
+      "id": 44354,
+      "title": "Dorei Yuugi Guren",
+      "score": 0.189,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 43121,
+      "title": "Assassin ROSE",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb"
+      ]
+    },
+    {
+      "id": 42127,
+      "title": "Lone Wolf",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 109,
+      "title": "Katekyo Hitman Reborn!",
+      "score": 0.177,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "mx",
+        "fr"
+      ]
+    },
+    {
+      "id": 39048,
+      "title": "Blood Rain 2",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 13127,
+      "title": "Urami Koi, Koi, Urami Koi.",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "it",
+        "es",
+        "de"
+      ]
+    },
+    {
+      "id": 45493,
+      "title": "Speed Line",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "pl"
+      ]
     }
   ]
 }

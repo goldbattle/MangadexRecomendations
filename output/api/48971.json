@@ -2,55 +2,64 @@
   "id": 48971,
   "title": "Lost Youth",
   "url": "https://mangadex.org/manga/48971",
-  "last_updated": "January 15, 2021 12:38:50 UTC",
+  "last_updated": "March 18, 2021 13:09:22 UTC",
   "matches": [
-    {
-      "id": 4765,
-      "title": "Kashimashi ~Girl Meets Girl~",
-      "score": 0.699,
-      "r18": false
-    },
-    {
-      "id": 44318,
-      "title": "Hisokana Hana Emi",
-      "score": 0.698,
-      "r18": false
-    },
-    {
-      "id": 6312,
-      "title": "Hyakuoku Nengo no Kimi no Koe mo",
-      "score": 0.688,
-      "r18": false
-    },
     {
       "id": 37736,
       "title": "Cross Heart",
-      "score": 0.668,
-      "r18": false
-    },
-    {
-      "id": 49393,
-      "title": "Himegami no Miko",
-      "score": 0.382,
-      "r18": false
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
     },
     {
       "id": 45236,
       "title": "Otanj\u014dbiomedet\u014d",
-      "score": 0.334,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "es"
+      ]
     },
     {
       "id": 47558,
       "title": "Cute and Cruel",
-      "score": 0.306,
-      "r18": false
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6312,
+      "title": "Hyakuoku Nengo no Kimi no Koe mo",
+      "score": 0.201,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 44318,
+      "title": "Hisokana Hana Emi",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 53282,
       "title": "Maya and Claudine (MayaKuro) Short Comics Compilation",
-      "score": 0.213,
-      "r18": false
+      "score": 0.136,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -1,74 +1,126 @@
 {
   "id": 54981,
   "title": "Crazy Food Truck",
-  "url": "https://api.mangadex.org/v2/manga/54981",
-  "last_updated": "March 12, 2021 20:32:12 UTC",
+  "url": "https://mangadex.org/manga/54981",
+  "last_updated": "March 18, 2021 13:59:31 UTC",
   "matches": [
-    {
-      "id": 3672,
-      "title": "Full Metal Panic! &Sigma;",
-      "score": 0.695,
-      "r18": false
-    },
-    {
-      "id": 15646,
-      "title": "Desert Rose",
-      "score": 0.667,
-      "r18": false
-    },
     {
       "id": 1135,
       "title": "Desert Punk",
-      "score": 0.339,
-      "r18": false
+      "score": 0.202,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "ua",
+        "es"
+      ]
     },
     {
       "id": 11003,
       "title": "Joshi Kouhei",
-      "score": 0.33,
-      "r18": false
-    },
-    {
-      "id": 32020,
-      "title": "Iron Ladies",
-      "score": 0.262,
-      "r18": false
-    },
-    {
-      "id": 483,
-      "title": "Aoki Hagane no Arpeggio",
-      "score": 0.242,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 9064,
       "title": "Infinite Stratos (YUUKI Homura)",
-      "score": 0.238,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 643,
-      "title": "Maoyuu Maou Yuusha - &quot;Kono Watashi no Mono Tonare, Yuusha yo&quot; &quot;Kotowaru!&quot;",
-      "score": 0.238,
-      "r18": false
+      "id": 483,
+      "title": "Aoki Hagane no Arpeggio",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "es",
+        "mx",
+        "gb",
+        "br",
+        "pl"
+      ]
+    },
+    {
+      "id": 32020,
+      "title": "Iron Ladies",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "tr",
+        "fr",
+        "br",
+        "it",
+        "es",
+        "pl",
+        "ru"
+      ]
+    },
+    {
+      "id": 15646,
+      "title": "Desert Rose",
+      "score": 0.137,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3672,
+      "title": "Full Metal Panic! &Sigma;",
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "fr"
+      ]
     },
     {
       "id": 36199,
       "title": "Taberu Dake de Level-Up! Damegami to Issho ni Isekai Musou",
-      "score": 0.235,
-      "r18": false
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 51966,
-      "title": "Heroic Chronicles of the Three Continents",
-      "score": 0.232,
-      "r18": false
+      "id": 643,
+      "title": "Maoyuu Maou Yuusha - &quot;Kono Watashi no Mono Tonare, Yuusha yo&quot; &quot;Kotowaru!&quot;",
+      "score": 0.099,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "pl"
+      ]
     },
     {
       "id": 11521,
       "title": "Kekkon Yubiwa Monogatari",
-      "score": 0.211,
-      "r18": false
+      "score": 0.077,
+      "r18": false,
+      "languages": [
+        "fr",
+        "br",
+        "es",
+        "ru",
+        "id",
+        "mx",
+        "it",
+        "gb",
+        "sa"
+      ]
     }
   ]
 }

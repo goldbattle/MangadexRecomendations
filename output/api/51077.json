@@ -1,32 +1,53 @@
 {
   "id": 51077,
   "title": "Kami Kon ni Ai",
-  "url": "https://api.mangadex.org/v2/manga/51077",
-  "last_updated": "February 05, 2021 08:33:53 UTC",
+  "url": "https://mangadex.org/manga/51077",
+  "last_updated": "March 18, 2021 13:26:55 UTC",
   "matches": [
     {
       "id": 18463,
       "title": "Aiso Tsukashi",
-      "score": 0.68,
-      "r18": false
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "id",
+        "pl",
+        "gb",
+        "tr",
+        "it"
+      ]
     },
     {
       "id": 6764,
       "title": "Saezuru Tori wa Habatakanai",
-      "score": 0.668,
-      "r18": false
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "id"
+      ]
     },
     {
       "id": 1455,
       "title": "Okane ga Nai",
-      "score": 0.292,
-      "r18": false
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "it",
+        "pl"
+      ]
     },
     {
       "id": 45224,
       "title": "Dear Benjamin",
-      "score": 0.268,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

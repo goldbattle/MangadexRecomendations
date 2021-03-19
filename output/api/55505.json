@@ -1,158 +1,242 @@
 {
   "id": 55505,
   "title": "Monster Lover",
-  "url": "https://api.mangadex.org/v2/manga/55505",
-  "last_updated": "March 12, 2021 20:38:41 UTC",
+  "url": "https://mangadex.org/manga/55505",
+  "last_updated": "March 18, 2021 14:03:55 UTC",
   "matches": [
     {
-      "id": 41974,
-      "title": "It called an Element!",
-      "score": 0.681,
-      "r18": false
-    },
-    {
-      "id": 2353,
-      "title": "A Million Pound Love",
-      "score": 0.681,
-      "r18": false
-    },
-    {
-      "id": 53985,
-      "title": "Dragon Raja 3",
-      "score": 0.671,
-      "r18": false
-    },
-    {
-      "id": 5918,
-      "title": "Demon Sacred",
-      "score": 0.668,
-      "r18": false
-    },
-    {
-      "id": 53977,
-      "title": "Dragon Raja 2",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 1911,
-      "title": "Infinity Game",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 4555,
-      "title": "Date A Live",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 21393,
-      "title": "STAR WARS: Lost Stars",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 6437,
-      "title": "My Street",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 34683,
-      "title": "Tegami Monogatari",
-      "score": 0.342,
-      "r18": false
-    },
-    {
-      "id": 27670,
-      "title": "Tokyo Mew Mew a La Mode",
-      "score": 0.313,
-      "r18": false
-    },
-    {
-      "id": 27669,
-      "title": "Tokyo Mew Mew",
-      "score": 0.311,
-      "r18": false
-    },
-    {
-      "id": 8620,
-      "title": "Kiri - The Route of Infection Kanaria",
-      "score": 0.308,
-      "r18": false
+      "id": 4474,
+      "title": "The Repair of Flowernoid",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 25769,
       "title": "Whiz Kid",
-      "score": 0.306,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 34683,
+      "title": "Tegami Monogatari",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6238,
       "title": "Melancholy World",
-      "score": 0.306,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 4474,
-      "title": "The Repair of Flowernoid",
-      "score": 0.296,
-      "r18": false
+      "id": 8620,
+      "title": "Kiri - The Route of Infection Kanaria",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 52401,
       "title": "Kanojo wa mou Shinde Irunoni",
-      "score": 0.293,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 28020,
-      "title": "Five Star Monogatari",
-      "score": 0.289,
-      "r18": false
+      "id": 2353,
+      "title": "A Million Pound Love",
+      "score": 0.184,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6437,
+      "title": "My Street",
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4965,
       "title": "Aokushimitama Blue Seed",
-      "score": 0.286,
-      "r18": false
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "hu",
+        "gb"
+      ]
     },
     {
       "id": 2386,
       "title": "Sea Tiger",
-      "score": 0.28,
-      "r18": false
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 10818,
-      "title": "Clockwork Planet",
-      "score": 0.274,
-      "r18": false
+      "id": 27670,
+      "title": "Tokyo Mew Mew a La Mode",
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "pl"
+      ]
+    },
+    {
+      "id": 27669,
+      "title": "Tokyo Mew Mew",
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "hu"
+      ]
     },
     {
       "id": 57400,
       "title": "7:30 Mobile Time",
-      "score": 0.27,
-      "r18": false
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 27180,
-      "title": "Brigadoon Marin to Melan",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 43830,
-      "title": "The Lady's Spaceship",
-      "score": 0.25,
-      "r18": false
+      "id": 5918,
+      "title": "Demon Sacred",
+      "score": 0.153,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 48330,
       "title": "Zoombie City",
-      "score": 0.249,
-      "r18": false
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 28020,
+      "title": "Five Star Monogatari",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 10818,
+      "title": "Clockwork Planet",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "ru",
+        "es"
+      ]
+    },
+    {
+      "id": 4555,
+      "title": "Date A Live",
+      "score": 0.147,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 48197,
+      "title": "Kiss the Abyss",
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53022,
+      "title": "Tokyo Isekai Fudousan",
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1145,
+      "title": "Kigurumi Planet",
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 46660,
+      "title": "Heaven Plan",
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 41974,
+      "title": "It called an Element!",
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "de"
+      ]
+    },
+    {
+      "id": 1911,
+      "title": "Infinity Game",
+      "score": 0.122,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 45840,
+      "title": "For The Moon",
+      "score": 0.122,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

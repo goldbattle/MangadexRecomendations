@@ -1,26 +1,43 @@
 {
   "id": 32323,
   "title": "Zenaku no Kuzu",
-  "url": "https://api.mangadex.org/v2/manga/32323",
-  "last_updated": "February 10, 2021 08:33:41 UTC",
+  "url": "https://mangadex.org/manga/32323",
+  "last_updated": "March 18, 2021 10:50:17 UTC",
   "matches": [
     {
       "id": 49920,
       "title": "Dokuro (2002)",
-      "score": 0.682,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 29415,
       "title": "DINER",
-      "score": 0.219,
-      "r18": false
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "br"
+      ]
     },
     {
       "id": 1230,
       "title": "Black Lagoon",
-      "score": 0.207,
-      "r18": false
+      "score": 0.105,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "fr",
+        "ru",
+        "es",
+        "it"
+      ]
     }
   ]
 }

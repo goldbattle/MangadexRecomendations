@@ -2,37 +2,48 @@
   "id": 3233,
   "title": "Oyaju Rider",
   "url": "https://mangadex.org/manga/3233",
-  "last_updated": "March 14, 2021 08:16:52 UTC",
+  "last_updated": "March 18, 2021 06:10:53 UTC",
   "matches": [
     {
       "id": 19760,
       "title": "Harta Cover Stories",
-      "score": 0.3,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 22545,
       "title": "Tonari no Kuni kara",
-      "score": 0.28,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 15586,
       "title": "Juuni Banme no Tenshi",
-      "score": 0.25,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 10618,
       "title": "Wind Breaker",
       "score": 0.115,
-      "r18": false
-    },
-    {
-      "id": 48116,
-      "title": "LOW LIFE",
-      "score": 0.102,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "mx",
+        "tr",
+        "gb",
+        "pl"
+      ]
     }
   ]
 }

@@ -2,31 +2,44 @@
   "id": 27659,
   "title": "Talk to Me",
   "url": "https://mangadex.org/manga/27659",
-  "last_updated": "March 16, 2021 20:34:33 UTC",
+  "last_updated": "March 18, 2021 10:11:23 UTC",
   "matches": [
     {
       "id": 27744,
       "title": "Polyamory",
       "score": 0.2,
-      "r18": true
+      "r18": true,
+      "languages": [
+        "fr"
+      ]
     },
     {
       "id": 53131,
       "title": "Witch, 30 Years Old",
-      "score": 0.2,
-      "r18": true
+      "score": 0.199,
+      "r18": true,
+      "languages": [
+        "es"
+      ]
     },
     {
       "id": 30913,
       "title": "An Innocent Sin",
-      "score": 0.127,
-      "r18": true
+      "score": 0.124,
+      "r18": true,
+      "languages": [
+        "fr",
+        "ua"
+      ]
     },
     {
       "id": 32761,
       "title": "Nocturnal",
-      "score": 0.112,
-      "r18": true
+      "score": 0.111,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

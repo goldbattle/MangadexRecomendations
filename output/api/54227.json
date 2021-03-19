@@ -1,68 +1,54 @@
 {
   "id": 54227,
   "title": "Daisy",
-  "url": "https://api.mangadex.org/v2/manga/54227",
-  "last_updated": "March 12, 2021 20:23:00 UTC",
+  "url": "https://mangadex.org/manga/54227",
+  "last_updated": "March 18, 2021 13:53:14 UTC",
   "matches": [
     {
       "id": 54226,
       "title": "The Christmas Eve Couple",
-      "score": 0.451,
-      "r18": false
-    },
-    {
-      "id": 37471,
-      "title": "Cynical Dog",
-      "score": 0.441,
-      "r18": false
-    },
-    {
-      "id": 6295,
-      "title": "Yuri Hime Wildrose",
-      "score": 0.404,
-      "r18": false
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "tr"
+      ]
     },
     {
       "id": 54204,
       "title": "Christmas Eve Present",
-      "score": 0.361,
-      "r18": false
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 6295,
+      "title": "Yuri Hime Wildrose",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        " ",
+        "ct",
+        "it",
+        "pl",
+        "sa"
+      ]
     },
     {
       "id": 37103,
       "title": "-Rain-",
-      "score": 0.359,
-      "r18": false
-    },
-    {
-      "id": 47200,
-      "title": "Chandelier",
-      "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 38743,
-      "title": "Pure White Sigh",
-      "score": 0.265,
-      "r18": false
-    },
-    {
-      "id": 54825,
-      "title": "Granblue Fantasy - Before My Sins Are Absolved (Doujinshi)",
-      "score": 0.212,
-      "r18": false
-    },
-    {
-      "id": 31217,
-      "title": "Avalon~bitter~ (Anthology)",
-      "score": 0.202,
-      "r18": false
-    },
-    {
-      "id": 20739,
-      "title": "Akaneiro no Kisu wa Okujou de",
-      "score": 0.177,
-      "r18": false
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br",
+        "it"
+      ]
     }
   ]
 }

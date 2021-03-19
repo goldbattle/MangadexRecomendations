@@ -2,91 +2,137 @@
   "id": 52891,
   "title": "Persona 3 Portable Comic Anthology (Hinotama)",
   "url": "https://mangadex.org/manga/52891",
-  "last_updated": "January 16, 2021 01:01:16 UTC",
+  "last_updated": "March 18, 2021 13:42:04 UTC",
   "matches": [
-    {
-      "id": 50730,
-      "title": "Persona 4 Comic Anthology (Hinotama)",
-      "score": 0.473,
-      "r18": false
-    },
-    {
-      "id": 51178,
-      "title": "Persona 4 Anthology Comic ~ Seishun Drop ~ (HJ Comics)",
-      "score": 0.469,
-      "r18": false
-    },
     {
       "id": 51084,
       "title": "Persona 4 the Ultimax Ultra Suplex Hold Comic Anthology",
-      "score": 0.468,
-      "r18": false
+      "score": 0.396,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50730,
+      "title": "Persona 4 Comic Anthology (Hinotama)",
+      "score": 0.393,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 50731,
       "title": "Persona Q Comic Anthology (DNA Media Comics)",
-      "score": 0.465,
-      "r18": false
+      "score": 0.392,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 51178,
+      "title": "Persona 4 Anthology Comic ~ Seishun Drop ~ (HJ Comics)",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 49526,
       "title": "Persona 4 The Golden Comic Anthology",
-      "score": 0.34,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 49529,
       "title": "Tales of Zestiria Comic Anthology",
-      "score": 0.34,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 49800,
       "title": "Fire Emblem Fates Comic Anthology Side: Party Gathered &amp; Offspring Generation",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 50195,
-      "title": "Persona 3 Comic Anthology",
-      "score": 0.34,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 34503,
       "title": "Dolls Frontline Comic anthology",
-      "score": 0.255,
-      "r18": false
+      "score": 0.151,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 54970,
       "title": "Ultra Despair Girls - Danganronpa: Another Episode Comic Anthology",
-      "score": 0.203,
-      "r18": false
-    },
-    {
-      "id": 41728,
-      "title": "Though I May Be a Villainess, I'll Show You I Can Obtain Happiness!",
-      "score": 0.192,
-      "r18": false
-    },
-    {
-      "id": 47275,
-      "title": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta",
-      "score": 0.166,
-      "r18": false
-    },
-    {
-      "id": 43310,
-      "title": "Marvel + JUMP Collaboration",
-      "score": 0.146,
-      "r18": false
+      "score": 0.135,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 45047,
       "title": "Itai no wa Iya nanode Bougyo-Ryoku ni Kyokufuri Shitai to Omoimasu Comic Anthology",
-      "score": 0.113,
-      "r18": false
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 47275,
+      "title": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta",
+      "score": 0.08,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 41728,
+      "title": "Though I May Be a Villainess, I'll Show You I Can Obtain Happiness!",
+      "score": 0.08,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu",
+        "br",
+        "ru",
+        "id"
+      ]
+    },
+    {
+      "id": 43310,
+      "title": "Marvel + JUMP Collaboration",
+      "score": 0.069,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "de",
+        "tr",
+        "fr",
+        "ua"
+      ]
     }
   ]
 }

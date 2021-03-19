@@ -2,157 +2,267 @@
   "id": 59236,
   "title": "Convention",
   "url": "https://mangadex.org/manga/59236",
-  "last_updated": "March 13, 2021 08:28:36 UTC",
+  "last_updated": "March 18, 2021 14:35:06 UTC",
   "matches": [
     {
       "id": 50409,
       "title": "Pyramid Game",
       "score": 0.272,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 29067,
       "title": "Stop The World",
-      "score": 0.255,
-      "r18": false
+      "score": 0.254,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 42740,
       "title": "The Strongest Warlord Goes to School",
       "score": 0.245,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr"
+      ]
     },
     {
       "id": 45191,
       "title": "A Cat's Maze",
       "score": 0.245,
-      "r18": false
-    },
-    {
-      "id": 54461,
-      "title": "The Croaking",
-      "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 54961,
       "title": "Trapped in a Webnovel as a Good-for-Nothing",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "pl",
+        "fr"
+      ]
     },
     {
       "id": 46780,
       "title": "Killing Time",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 50815,
       "title": "Slave to the Enemy Emperor",
       "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 38020,
-      "title": "Regnal Trigger",
-      "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 44692,
       "title": "Auto Hunting",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "it"
+      ]
     },
     {
       "id": 57130,
       "title": "Post-apocalyptic Dispatch Company",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 59966,
       "title": "The Lord of Money",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 51505,
       "title": "Mia",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 37397,
       "title": "Child of Light",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "ru",
+        "id",
+        "mx"
+      ]
     },
     {
       "id": 50568,
       "title": "General Begs to Let Go",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "fr"
+      ]
     },
     {
       "id": 35102,
       "title": "It's Mine",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 45472,
       "title": "Again My Life",
       "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 38313,
-      "title": "Sense",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 56619,
-      "title": "Lifeafter",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 59224,
-      "title": "Kongbu Mobile Game",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 51633,
-      "title": "Security Guard Bae Du-Man",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 49479,
-      "title": "A Married Killer",
-      "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr"
+      ]
     },
     {
       "id": 45630,
       "title": "The Boxer",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "mx",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 38313,
+      "title": "Sense",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 56619,
+      "title": "Lifeafter",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "id",
+        "br",
+        "ro",
+        "it"
+      ]
+    },
+    {
+      "id": 59224,
+      "title": "Kongbu Mobile Game",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 51633,
+      "title": "Security Guard Bae Du-Man",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 49479,
+      "title": "A Married Killer",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 52625,
       "title": "Dictatorship",
       "score": 0.227,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 43313,
       "title": "Immortal Nanny Dad",
-      "score": 0.225,
-      "r18": false
+      "score": 0.224,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 44846,
+      "title": "The Soldier King",
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 43984,
+      "title": "Monster House",
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

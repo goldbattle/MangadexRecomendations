@@ -2,157 +2,276 @@
   "id": 819,
   "title": "Satougashi no Dangan wa Uchinukenai",
   "url": "https://mangadex.org/manga/819",
-  "last_updated": "March 14, 2021 01:02:21 UTC",
+  "last_updated": "March 18, 2021 05:49:30 UTC",
   "matches": [
     {
       "id": 29854,
       "title": "Switch",
-      "score": 0.292,
-      "r18": false
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br"
+      ]
     },
     {
       "id": 27988,
       "title": "Danganronpa - Kibou no Gakuen to Zetsubou no Koukousei",
-      "score": 0.284,
-      "r18": false
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 14064,
       "title": "Tsukimizuki Rikai no Tantei Satsujin",
-      "score": 0.284,
-      "r18": false
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29437,
       "title": "The Bones of an Invisible Person",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 44675,
-      "title": "Narenohate no Bokura",
-      "score": 0.261,
-      "r18": false
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "tr",
+        "mx"
+      ]
     },
     {
       "id": 2312,
       "title": "Spiral - Suiri no Kizuna",
-      "score": 0.26,
-      "r18": false
+      "score": 0.261,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 44675,
+      "title": "Narenohate no Bokura",
+      "score": 0.259,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21552,
+      "title": "Munou na Nana",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "id",
+        "mx",
+        "il",
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 2673,
       "title": "Higanbana no Saku Yoru ni",
-      "score": 0.246,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 13546,
       "title": "Gesu to Kami-sama",
-      "score": 0.241,
-      "r18": false
+      "score": 0.237,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 14417,
       "title": "Toumei Ningen no Tsukurikata",
-      "score": 0.238,
-      "r18": false
+      "score": 0.236,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 17433,
+      "title": "Happy Sugar Life",
+      "score": 0.234,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr"
+      ]
     },
     {
       "id": 3820,
       "title": "Maou - Juvenile Remix",
-      "score": 0.236,
-      "r18": false
-    },
-    {
-      "id": 4773,
-      "title": "Clannad",
-      "score": 0.236,
-      "r18": false
-    },
-    {
-      "id": 12020,
-      "title": "Kakegurui",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 40813,
-      "title": "Ijimeru Yabai Yatsu",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 6729,
-      "title": "Toshokan Sensou - SPITFIRE!",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 23056,
-      "title": "Fenrir-nee-san to Boku",
-      "score": 0.233,
-      "r18": false
+      "score": 0.234,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21837,
       "title": "Owari no Seraph: Ichinose Guren, 16-sai no Catastrophe",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "ru",
+        "vn",
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 29117,
-      "title": "Save Me",
+      "id": 12020,
+      "title": "Kakegurui",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 6729,
+      "title": "Toshokan Sensou - SPITFIRE!",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 40813,
+      "title": "Ijimeru Yabai Yatsu",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "cn",
+        "gb",
+        "mx",
+        "br",
+        "id"
+      ]
+    },
+    {
+      "id": 23056,
+      "title": "Fenrir-nee-san to Boku",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 1405,
       "title": "Red \u042faven",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 46105,
+      "title": "Welcome Back Alice",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "br",
+        "fr",
+        "gb",
+        "hk",
+        "id"
+      ]
     },
     {
       "id": 32558,
       "title": "Reset Game",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 28588,
+      "title": "Yagiza no Yuujin",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "vn",
+        "gb",
+        "pl",
+        "ru",
+        "tr",
+        "fr"
+      ]
     },
     {
       "id": 21903,
       "title": "Kakegurui Midari",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4854,
       "title": "Carpe diem",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22440,
       "title": "Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "ru",
+        "gb",
+        "br",
+        "it",
+        "tr",
+        "ua",
+        "id",
+        "es",
+        "lt"
+      ]
     },
     {
-      "id": 17433,
-      "title": "Happy Sugar Life",
+      "id": 4773,
+      "title": "Clannad",
       "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 1512,
-      "title": "Hajime",
-      "score": 0.226,
-      "r18": false
-    },
-    {
-      "id": 18760,
-      "title": "Kakegurui Futago",
-      "score": 0.225,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "de"
+      ]
     }
   ]
 }

@@ -2,31 +2,46 @@
   "id": 16130,
   "title": "Hana wa Nisemono",
   "url": "https://mangadex.org/manga/16130",
-  "last_updated": "March 15, 2021 16:36:24 UTC",
+  "last_updated": "March 18, 2021 08:04:45 UTC",
   "matches": [
     {
       "id": 22002,
       "title": "White Note Pad",
-      "score": 0.271,
-      "r18": false
+      "score": 0.27,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 17160,
       "title": "The End of Elysion",
       "score": 0.145,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5810,
       "title": "Normal City",
       "score": 0.145,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 151,
       "title": "Bokura no Kiseki",
-      "score": 0.131,
-      "r18": false
+      "score": 0.13,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     }
   ]
 }

@@ -1,56 +1,37 @@
 {
   "id": 51428,
   "title": "Love Score",
-  "url": "https://api.mangadex.org/v2/manga/51428",
-  "last_updated": "February 05, 2021 12:07:45 UTC",
+  "url": "https://mangadex.org/manga/51428",
+  "last_updated": "March 18, 2021 13:29:52 UTC",
   "matches": [
-    {
-      "id": 15372,
-      "title": "Unbalance Triangle",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 830,
-      "title": "Baby Leaf",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 1900,
-      "title": "Okusama wa Joshikousei",
-      "score": 0.398,
-      "r18": false
-    },
-    {
-      "id": 48113,
-      "title": "Mimibukuro-san no Chiebukuro",
-      "score": 0.394,
-      "r18": false
-    },
-    {
-      "id": 4291,
-      "title": "Iketeru Futari",
-      "score": 0.378,
-      "r18": false
-    },
-    {
-      "id": 48767,
-      "title": "The Secret of the Boy Who Sits Next to Me",
-      "score": 0.349,
-      "r18": false
-    },
     {
       "id": 20138,
       "title": "Nande Koko ni Sensei ga!?",
-      "score": 0.344,
-      "r18": false
+      "score": 0.219,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "fr",
+        "sa",
+        "it",
+        "hu"
+      ]
     },
     {
-      "id": 21025,
-      "title": "Bokutachi ga Yarimashita",
-      "score": 0.301,
-      "r18": false
+      "id": 15372,
+      "title": "Unbalance Triangle",
+      "score": 0.144,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru",
+        "mx",
+        "br",
+        "it"
+      ]
     }
   ]
 }

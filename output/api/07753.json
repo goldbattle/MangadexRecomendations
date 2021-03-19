@@ -2,25 +2,41 @@
   "id": 7753,
   "title": "The Caterpillar",
   "url": "https://mangadex.org/manga/7753",
-  "last_updated": "March 14, 2021 20:11:20 UTC",
+  "last_updated": "March 18, 2021 06:51:47 UTC",
   "matches": [
     {
       "id": 39948,
       "title": "Ultra Gash Inferno",
       "score": 0.29,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1073,
       "title": "Vagabond",
       "score": 0.152,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "it",
+        "hu",
+        "pl",
+        "id",
+        "sa"
+      ]
     },
     {
       "id": 56617,
       "title": "Vagabond (Official Colored)",
-      "score": 0.13,
-      "r18": false
+      "score": 0.129,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

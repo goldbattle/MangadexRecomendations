@@ -1,62 +1,71 @@
 {
   "id": 47866,
   "title": "Fuyu no Hashikko",
-  "url": "https://api.mangadex.org/v2/manga/47866",
-  "last_updated": "February 12, 2021 01:18:21 UTC",
+  "url": "https://mangadex.org/manga/47866",
+  "last_updated": "March 18, 2021 13:00:02 UTC",
   "matches": [
     {
       "id": 51328,
       "title": "Halloween Yandere Boshi Kan 2019",
-      "score": 0.212,
-      "r18": true
+      "score": 0.184,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 30085,
       "title": "The Day I Connected With Mom",
-      "score": 0.18,
-      "r18": true
-    },
-    {
-      "id": 30834,
-      "title": "I Did Naughty Things With My (Drunk) Sister",
-      "score": 0.18,
-      "r18": true
+      "score": 0.16,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 37851,
       "title": "Kaa-san to Sex ni Oboreru",
-      "score": 0.18,
-      "r18": true
+      "score": 0.16,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 47823,
       "title": "Kanojo no Mama to Deaikei de",
-      "score": 0.18,
-      "r18": true
+      "score": 0.16,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 53043,
       "title": "As you Like it",
-      "score": 0.18,
-      "r18": true
+      "score": 0.16,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 55293,
       "title": "Enkou Aite wa Otou-san&hellip;!",
-      "score": 0.18,
-      "r18": true
-    },
-    {
-      "id": 30708,
-      "title": "My Brother's Slipped Inside Me in The Bathtub",
-      "score": 0.144,
-      "r18": true
+      "score": 0.16,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 51035,
       "title": "Gattai! Namahame Kazoku",
-      "score": 0.144,
-      "r18": true
+      "score": 0.128,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

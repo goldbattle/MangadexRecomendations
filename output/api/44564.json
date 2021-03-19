@@ -1,44 +1,54 @@
 {
   "id": 44564,
   "title": "Ouma-san to Ichaicha",
-  "url": "https://api.mangadex.org/v2/manga/44564",
-  "last_updated": "February 11, 2021 16:43:13 UTC",
+  "url": "https://mangadex.org/manga/44564",
+  "last_updated": "March 18, 2021 12:32:26 UTC",
   "matches": [
     {
       "id": 29866,
       "title": "Ore to Aitsu to Usagigoya",
-      "score": 0.18,
-      "r18": true
+      "score": 0.16,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 37327,
       "title": "Determined Tiger Monkey Cow",
-      "score": 0.18,
-      "r18": true
+      "score": 0.16,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 50386,
       "title": "Chijoku Takaki Bicchi Inu",
-      "score": 0.18,
-      "r18": true
+      "score": 0.16,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 16210,
       "title": "Shingeki no Kyojin &amp; Sex Pistols - Sex Titans (Doujinshi)",
-      "score": 0.144,
-      "r18": true
+      "score": 0.128,
+      "r18": true,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 46783,
       "title": "Josouko Bon",
-      "score": 0.144,
-      "r18": true
-    },
-    {
-      "id": 58581,
-      "title": "Love Bites and Obedience",
-      "score": 0.08,
-      "r18": true
+      "score": 0.128,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

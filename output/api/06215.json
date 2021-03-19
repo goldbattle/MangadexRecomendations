@@ -2,31 +2,44 @@
   "id": 6215,
   "title": "Romance no Hakoniwa",
   "url": "https://mangadex.org/manga/6215",
-  "last_updated": "March 14, 2021 16:25:21 UTC",
+  "last_updated": "March 18, 2021 06:38:39 UTC",
   "matches": [
     {
       "id": 1460,
       "title": "Maigo",
-      "score": 0.283,
-      "r18": false
+      "score": 0.282,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4893,
       "title": "Shinkuu Yuusetsu",
-      "score": 0.277,
-      "r18": false
+      "score": 0.276,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3277,
       "title": "Gakkou no Sensei",
       "score": 0.248,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 21531,
       "title": "Catboy Catday",
-      "score": 0.248,
-      "r18": false
+      "score": 0.247,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

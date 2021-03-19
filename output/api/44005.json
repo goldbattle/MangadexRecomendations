@@ -1,158 +1,322 @@
 {
   "id": 44005,
   "title": "PRODUSAGA",
-  "url": "https://api.mangadex.org/v2/manga/44005",
-  "last_updated": "February 11, 2021 16:34:08 UTC",
+  "url": "https://mangadex.org/manga/44005",
+  "last_updated": "March 18, 2021 12:27:45 UTC",
   "matches": [
     {
-      "id": 31002,
-      "title": "Jimi na Kensei wa Sore Demo Saikyou Desu",
-      "score": 0.763,
-      "r18": false
+      "id": 25641,
+      "title": "Tensei Ouji wa Daraketai",
+      "score": 0.235,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "id"
+      ]
     },
     {
-      "id": 34387,
-      "title": "Lonely Attack on the Different World",
-      "score": 0.757,
-      "r18": false
-    },
-    {
-      "id": 45110,
-      "title": "I  Was Reincarnated as a Poor Farmer in a Different World, so I Decided to Make Bricks to Build a Castle",
-      "score": 0.754,
-      "r18": false
-    },
-    {
-      "id": 23709,
-      "title": "Moto Saikyou no Kenshi wa, Isekai Mahou ni Akogareru",
-      "score": 0.746,
-      "r18": false
-    },
-    {
-      "id": 19885,
-      "title": "Jui-san no Oshigoto in Isekai",
-      "score": 0.741,
-      "r18": false
-    },
-    {
-      "id": 47326,
-      "title": "Genkai Level 1 kara no Nariagari: Saijaku Level no Ore ga Isekai Saikyou ni Naru made",
-      "score": 0.739,
-      "r18": false
-    },
-    {
-      "id": 1790,
-      "title": "Arata Kangatari",
-      "score": 0.738,
-      "r18": false
+      "id": 18488,
+      "title": "Honzuki no Gekokujou ~Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen~ Dai 1-bu \u300cHon ga Nai nara Tsukureba Ii!\u300d",
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "mx",
+        "it",
+        "id"
+      ]
     },
     {
       "id": 34196,
       "title": "Moto Sekai Ichi'i Subchara Ikusei Nikki: Hai Player, Isekai wo Kouryakuchuu!",
-      "score": 0.737,
-      "r18": false
+      "score": 0.212,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx",
+        "br",
+        "id"
+      ]
     },
     {
-      "id": 44910,
-      "title": "Starvation and Reincarnation",
-      "score": 0.735,
-      "r18": false
+      "id": 23706,
+      "title": "Kamitachi ni Hirowareta Otoko",
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "mx",
+        "tr",
+        "fr",
+        "ru",
+        "pl",
+        "br",
+        "hu"
+      ]
     },
     {
-      "id": 1751,
-      "title": "D.Gray-man",
-      "score": 0.733,
-      "r18": false
+      "id": 39256,
+      "title": "Isekai Munchkin -HP 1 no Mama de Saikyou Saisoku Danjon Kouryaku-",
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru"
+      ]
     },
     {
-      "id": 50692,
-      "title": "The Reincarnated Great Saint Hides That She's a Saint",
-      "score": 0.733,
-      "r18": false
+      "id": 24651,
+      "title": "Saihate no Paladin",
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru",
+        "id"
+      ]
+    },
+    {
+      "id": 16105,
+      "title": "Tsuki ga Michibiku Isekai Douchuu",
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id",
+        "fr"
+      ]
+    },
+    {
+      "id": 41726,
+      "title": "Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru",
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "id"
+      ]
+    },
+    {
+      "id": 36487,
+      "title": "Save The World, Uncle!",
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id"
+      ]
+    },
+    {
+      "id": 18642,
+      "title": "Tensei Shichattayo (Iya, Gomen)",
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id"
+      ]
+    },
+    {
+      "id": 32084,
+      "title": "Saikyou Juzoku Tensei: Cheat Majutsushi no Slow Life",
+      "score": 0.197,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru",
+        "br"
+      ]
+    },
+    {
+      "id": 23004,
+      "title": "Dungeon Nursery",
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id"
+      ]
+    },
+    {
+      "id": 51376,
+      "title": "Reincarnated as an Aristocrat with an Appraisal Skill",
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "mx",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 29166,
+      "title": "Douyara Watashi no Karada wa Kanzen Muteki no You Desu ne",
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru"
+      ]
+    },
+    {
+      "id": 45577,
+      "title": "Tensei Kusushi wa Isekai wo Meguru",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "th"
+      ]
+    },
+    {
+      "id": 34387,
+      "title": "Lonely Attack on the Different World",
+      "score": 0.185,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "mx",
+        "id",
+        "pl"
+      ]
     },
     {
       "id": 12009,
       "title": "Soul Land",
-      "score": 0.732,
-      "r18": false
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "mx",
+        "fr",
+        "pl",
+        "ru"
+      ]
     },
     {
-      "id": 41744,
-      "title": "Shi ni Modori, Subete wo Sukuu Tame ni Saikyou he to Itaru",
-      "score": 0.73,
-      "r18": false
+      "id": 29402,
+      "title": "Doryoku Shisugita Sekai Saikyou no Butouka ha, Mahou Sekai wo Yoyuu de Ikinuku.",
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "br",
+        "mx",
+        "ru"
+      ]
     },
     {
-      "id": 39410,
-      "title": "While",
-      "score": 0.73,
-      "r18": false
+      "id": 38258,
+      "title": "Tensei Shitara Slime Datta Ken Ibun: Makoku Gurashi no Trinity",
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
-      "id": 38291,
-      "title": "Maseki Gurume: Mamono no Chikara o Tabeta Ore wa Saikyou!",
-      "score": 0.73,
-      "r18": false
+      "id": 30744,
+      "title": "Tensei Kenja no Isekai Life ~Daini no Shokugyou wo Ete, Sekai Saikyou ni Narimashita~",
+      "score": 0.179,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "id",
+        "th",
+        "fr"
+      ]
     },
     {
-      "id": 17916,
-      "title": "Hachinan tte, Sore wa Nai Deshou!",
-      "score": 0.728,
-      "r18": false
+      "id": 36491,
+      "title": "Karate Baka Isekai",
+      "score": 0.179,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "ru",
+        "fr",
+        "id",
+        "pl"
+      ]
     },
     {
-      "id": 49810,
-      "title": "The Child Loved by God",
-      "score": 0.727,
-      "r18": false
+      "id": 21969,
+      "title": "Kuro no Souzou Shoukanshi - Tenseisha no Hangyaku",
+      "score": 0.179,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "id"
+      ]
     },
     {
-      "id": 41850,
-      "title": "Ihoujin, Dungeon ni Moguru",
-      "score": 0.726,
-      "r18": false
+      "id": 21063,
+      "title": "Mairimashita! Iruma-kun",
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "vn",
+        "gb",
+        "ru",
+        "br",
+        "id",
+        "tr",
+        "es"
+      ]
     },
     {
-      "id": 38337,
-      "title": "Jinrou e no Tensei, Maou no Fukkan: Hajimari no Shou",
-      "score": 0.724,
-      "r18": false
+      "id": 45099,
+      "title": "New life: Savior From Another World",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "fr",
+        "id"
+      ]
     },
     {
-      "id": 20284,
-      "title": "X - Epoch of the Dragon",
-      "score": 0.724,
-      "r18": false
-    },
-    {
-      "id": 22946,
-      "title": "Isekai ni Tobasareta Ossan wa Doko e Iku?",
-      "score": 0.723,
-      "r18": false
-    },
-    {
-      "id": 48602,
-      "title": "Re:Zero Kara Hajimeru Isekai Seikatsu &ndash; Hyouketsu no Kizuna",
-      "score": 0.721,
-      "r18": false
-    },
-    {
-      "id": 33863,
-      "title": "The Beginning After the End",
-      "score": 0.721,
-      "r18": false
-    },
-    {
-      "id": 52695,
-      "title": "Isekai Kenja no Tensei Musou ~Geemu no Chishiki de Isekai Saikyou~",
-      "score": 0.72,
-      "r18": false
-    },
-    {
-      "id": 303,
-      "title": "Claymore",
-      "score": 0.716,
-      "r18": false
+      "id": 20398,
+      "title": "Isekai Yakkyoku",
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "id"
+      ]
     }
   ]
 }

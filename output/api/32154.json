@@ -1,158 +1,252 @@
 {
   "id": 32154,
   "title": "Girls' Frontline",
-  "url": "https://api.mangadex.org/v2/manga/32154",
-  "last_updated": "February 10, 2021 08:31:10 UTC",
+  "url": "https://mangadex.org/manga/32154",
+  "last_updated": "March 18, 2021 10:48:53 UTC",
   "matches": [
-    {
-      "id": 16825,
-      "title": "Ginga Eiyuu Densetsu",
-      "score": 0.754,
-      "r18": false
-    },
-    {
-      "id": 22148,
-      "title": "Infinite Dendrogram",
-      "score": 0.738,
-      "r18": false
-    },
-    {
-      "id": 7702,
-      "title": "Shin Kidou Senki Gundam W - Endless Waltz: Haishatachi no Eikou",
-      "score": 0.733,
-      "r18": false
-    },
     {
       "id": 7730,
       "title": "Kidou Shinseiki Gundam X ~Under the Moonlight~",
-      "score": 0.728,
-      "r18": false
-    },
-    {
-      "id": 10974,
-      "title": "Full Metal Panic! Another",
-      "score": 0.725,
-      "r18": false
+      "score": 0.252,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19334,
       "title": "Kidou Sensei Gundam Gaiden - The Blue Destiny",
-      "score": 0.725,
-      "r18": false
+      "score": 0.237,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 39846,
-      "title": "Kidou Senshi Gundam AGE -First Evolution-",
-      "score": 0.724,
-      "r18": false
+      "id": 52148,
+      "title": "Shangri-La Frontier ~ Kusoge Hunter, Kamige ni Idoman to su~",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "mx"
+      ]
     },
     {
-      "id": 3862,
-      "title": "Super Robot Taisen OG - Divine Wars - Record of ATX",
-      "score": 0.722,
-      "r18": false
+      "id": 58249,
+      "title": "Kouya no Kotobuki Hikoutai",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 53985,
-      "title": "Dragon Raja 3",
-      "score": 0.721,
-      "r18": false
+      "id": 58719,
+      "title": "Cyberpunk 2077",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
+    },
+    {
+      "id": 59412,
+      "title": "Nier Automata: YoRHa Shinjuwan Kouka Sakusen Kiroku",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 3861,
       "title": "Super Robot Taisen OG - The Inspector - Record of ATX",
-      "score": 0.721,
-      "r18": false
+      "score": 0.213,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 7729,
-      "title": "Kidou Senshi Z Gundam Define",
-      "score": 0.72,
-      "r18": false
-    },
-    {
-      "id": 52836,
-      "title": "DD Fist of the North Star",
-      "score": 0.716,
-      "r18": false
-    },
-    {
-      "id": 53969,
-      "title": "Dragon Raja",
-      "score": 0.715,
-      "r18": false
-    },
-    {
-      "id": 6126,
-      "title": "Kidou Senshi Gundam Senki - Lost War Chronicles",
-      "score": 0.714,
-      "r18": false
-    },
-    {
-      "id": 50085,
-      "title": "Legend of the Galactic Heroes",
-      "score": 0.713,
-      "r18": false
-    },
-    {
-      "id": 8881,
-      "title": "Suisei no Gargantia",
-      "score": 0.707,
-      "r18": false
-    },
-    {
-      "id": 21393,
-      "title": "STAR WARS: Lost Stars",
-      "score": 0.704,
-      "r18": false
-    },
-    {
-      "id": 51520,
-      "title": "Dark Blood Age",
-      "score": 0.703,
-      "r18": false
-    },
-    {
-      "id": 4901,
-      "title": "Trinity Blood",
-      "score": 0.703,
-      "r18": false
-    },
-    {
-      "id": 14757,
-      "title": "Kidou Senshi Gundam SEED",
-      "score": 0.703,
-      "r18": false
-    },
-    {
-      "id": 50076,
-      "title": "Unparalleled Path ~ Reincarnated as the AI for a Space Battleship ~",
-      "score": 0.703,
-      "r18": false
-    },
-    {
-      "id": 5899,
-      "title": "Shin Kidou Senki Gundam W",
-      "score": 0.702,
-      "r18": false
+      "id": 3862,
+      "title": "Super Robot Taisen OG - Divine Wars - Record of ATX",
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3215,
       "title": "Advance of &Zeta; - Titans no Hata no Moto ni",
-      "score": 0.702,
-      "r18": false
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 23332,
-      "title": "Kidou Senshi Gundam Twilight Axis",
-      "score": 0.701,
-      "r18": false
+      "id": 14757,
+      "title": "Kidou Senshi Gundam SEED",
+      "score": 0.204,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 44452,
-      "title": "Colorless",
-      "score": 0.699,
-      "r18": false
+      "id": 39846,
+      "title": "Kidou Senshi Gundam AGE -First Evolution-",
+      "score": 0.201,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7702,
+      "title": "Shin Kidou Senki Gundam W - Endless Waltz: Haishatachi no Eikou",
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 23329,
+      "title": "Kidou Senshi Gundam UC (Unicorn) - Bande Dessin&eacute;e: Episode 0",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55074,
+      "title": "Rockman -Dr Wily's Revenge-",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10974,
+      "title": "Full Metal Panic! Another",
+      "score": 0.195,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 40194,
+      "title": "Rebuild World",
+      "score": 0.189,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "id",
+        "mx",
+        "tr",
+        "fr"
+      ]
+    },
+    {
+      "id": 36045,
+      "title": "Hana to Kurogane",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6126,
+      "title": "Kidou Senshi Gundam Senki - Lost War Chronicles",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 23842,
+      "title": "EDEN",
+      "score": 0.185,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id",
+        "br"
+      ]
+    },
+    {
+      "id": 48900,
+      "title": "Last Order: Hitori Bocchi no Hyakunen Sensou",
+      "score": 0.182,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 16825,
+      "title": "Ginga Eiyuu Densetsu",
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "ru",
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 22374,
+      "title": "Ratchet &amp; Clank",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9442,
+      "title": "Kidou Senshi Gundam 0083 REBELLION",
+      "score": 0.173,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 47354,
+      "title": "MARS RED",
+      "score": 0.17,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 55337,
+      "title": "Mabaram The School Conqueror",
+      "score": 0.167,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

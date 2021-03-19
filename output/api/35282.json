@@ -1,32 +1,51 @@
 {
   "id": 35282,
   "title": "Cinnamon: Jingai x Ningen Yuri Anthology",
-  "url": "https://api.mangadex.org/v2/manga/35282",
-  "last_updated": "February 10, 2021 16:41:22 UTC",
+  "url": "https://mangadex.org/manga/35282",
+  "last_updated": "March 18, 2021 11:14:57 UTC",
   "matches": [
     {
-      "id": 20325,
-      "title": "Eclair - Anata ni Hibiku Yuri Anthology (Anthology)",
-      "score": 0.822,
-      "r18": false
+      "id": 33463,
+      "title": "Yurigurashi",
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru"
+      ]
     },
     {
       "id": 28415,
       "title": "Yuri Shoujo (Anthology)",
-      "score": 0.67,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 33463,
-      "title": "Yurigurashi",
-      "score": 0.367,
-      "r18": false
+      "id": 20325,
+      "title": "Eclair - Anata ni Hibiku Yuri Anthology (Anthology)",
+      "score": 0.259,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "it"
+      ]
     },
     {
       "id": 55402,
       "title": "A Story About a Dragon Girl and a Cat Girl Skipping School",
-      "score": 0.233,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "tr"
+      ]
     }
   ]
 }

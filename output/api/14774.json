@@ -2,49 +2,86 @@
   "id": 14774,
   "title": "Shokugeki no Soma - Etoile",
   "url": "https://mangadex.org/manga/14774",
-  "last_updated": "March 15, 2021 12:35:50 UTC",
+  "last_updated": "March 18, 2021 07:51:32 UTC",
   "matches": [
     {
       "id": 6135,
       "title": "Chuuka Ichiban!",
       "score": 0.264,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 22281,
       "title": "Misoshiru de Kanpai!",
-      "score": 0.242,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br"
+      ]
     },
     {
       "id": 33362,
       "title": "Shin Chuuka Ichiban!",
-      "score": 0.242,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 496,
       "title": "Gin no Saji",
       "score": 0.186,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb",
+        "br",
+        "bg",
+        "id",
+        "ru"
+      ]
     },
     {
       "id": 107,
       "title": "Toriko",
-      "score": 0.179,
-      "r18": false
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "es",
+        "mx",
+        "pl"
+      ]
     },
     {
       "id": 16269,
       "title": "Toriko - Digital Colored Comics",
-      "score": 0.153,
-      "r18": false
+      "score": 0.152,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 36694,
       "title": "Heart-Warming Meals with Mother Fenrir",
       "score": 0.128,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "mx"
+      ]
     }
   ]
 }

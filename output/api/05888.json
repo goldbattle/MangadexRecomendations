@@ -2,19 +2,28 @@
   "id": 5888,
   "title": "Adidas Manga Fever",
   "url": "https://mangadex.org/manga/5888",
-  "last_updated": "March 14, 2021 12:43:19 UTC",
+  "last_updated": "March 18, 2021 06:35:43 UTC",
   "matches": [
     {
       "id": 8733,
       "title": "Fukumoto Nobuyuki's Oneshot Collections",
       "score": 0.23,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 5438,
       "title": "Short Program",
-      "score": 0.128,
-      "r18": false
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "it"
+      ]
     }
   ]
 }

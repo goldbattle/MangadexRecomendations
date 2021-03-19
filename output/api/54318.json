@@ -1,50 +1,28 @@
 {
   "id": 54318,
   "title": "Watashi wa Okazu Senpai ni Taberaretai",
-  "url": "https://api.mangadex.org/v2/manga/54318",
-  "last_updated": "March 12, 2021 20:24:07 UTC",
+  "url": "https://mangadex.org/manga/54318",
+  "last_updated": "March 18, 2021 13:53:59 UTC",
   "matches": [
-    {
-      "id": 22238,
-      "title": "Toge ni Kuchizuke",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 19867,
-      "title": "Game: Suit no Sukima",
-      "score": 0.662,
-      "r18": false
-    },
     {
       "id": 46690,
       "title": "Yubisaki Kara Honki no Netsujou ~ Charaotoko Shoubou-shi wa Massuguna me de Watashi o Daita ~",
-      "score": 0.492,
-      "r18": false
+      "score": 0.337,
+      "r18": false,
+      "languages": [
+        "hk"
+      ]
     },
     {
       "id": 52476,
-      "title": "Amayakasanaide Fuku Shachou: Danna-sama wa SSR",
-      "score": 0.402,
-      "r18": false
-    },
-    {
-      "id": 50585,
-      "title": "Saikawa Couple and Their Love Conditions",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 55277,
-      "title": "Kimi no Voice ni Koshikudake",
-      "score": 0.317,
-      "r18": false
-    },
-    {
-      "id": 54336,
-      "title": "Ijiwaru Kohai-kun",
-      "score": 0.276,
-      "r18": false
+      "title": "Amayakasanaide Fuku Shachou ~Danna-sama wa SSR~",
+      "score": 0.265,
+      "r18": false,
+      "languages": [
+        "vn",
+        "gb",
+        "br"
+      ]
     }
   ]
 }

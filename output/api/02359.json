@@ -2,79 +2,136 @@
   "id": 2359,
   "title": "Glaucos",
   "url": "https://mangadex.org/manga/2359",
-  "last_updated": "March 14, 2021 04:27:16 UTC",
+  "last_updated": "March 18, 2021 06:02:50 UTC",
   "matches": [
     {
       "id": 328,
       "title": "RRR",
       "score": 0.3,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 43548,
       "title": "Lock Up",
       "score": 0.3,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 915,
       "title": "Evil Heart",
       "score": 0.3,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8861,
       "title": "Golondrina",
-      "score": 0.266,
-      "r18": false
+      "score": 0.265,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 1422,
       "title": "Kokou no Hito",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx",
+        "hk",
+        "fr"
+      ]
     },
     {
       "id": 1874,
       "title": "Tobaku Mokushiroku Kaiji",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "ru",
+        "gb",
+        "es",
+        "fr"
+      ]
     },
     {
       "id": 15586,
       "title": "Juuni Banme no Tenshi",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 32730,
       "title": "Hachigatsu no Ghost",
       "score": 0.214,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "de",
+        "ru",
+        "br"
+      ]
     },
     {
       "id": 3801,
       "title": "Silver and Gold",
       "score": 0.203,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "it"
+      ]
     },
     {
       "id": 6441,
       "title": "Shiba Inu",
-      "score": 0.188,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "it"
+      ]
     },
     {
       "id": 926,
       "title": "Gekiryuuchi",
       "score": 0.177,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "pl"
+      ]
     },
     {
       "id": 203,
       "title": "T.R.A.P.",
-      "score": 0.163,
-      "r18": false
+      "score": 0.162,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     }
   ]
 }

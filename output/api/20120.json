@@ -2,31 +2,45 @@
   "id": 20120,
   "title": "Evergreen Stories",
   "url": "https://mangadex.org/manga/20120",
-  "last_updated": "March 16, 2021 00:27:10 UTC",
+  "last_updated": "March 18, 2021 08:54:17 UTC",
   "matches": [
     {
       "id": 21491,
       "title": "Two Playing House",
-      "score": 0.194,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br"
+      ]
     },
     {
       "id": 57925,
       "title": "Do as you please",
-      "score": 0.194,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 18197,
       "title": "At Each Other's Throats",
       "score": 0.177,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 35830,
       "title": "Fei Ren Zai",
-      "score": 0.113,
-      "r18": false
+      "score": 0.112,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

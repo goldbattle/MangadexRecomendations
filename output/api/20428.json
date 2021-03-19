@@ -2,61 +2,98 @@
   "id": 20428,
   "title": "Bright Light Sprout",
   "url": "https://mangadex.org/manga/20428",
-  "last_updated": "March 16, 2021 04:10:54 UTC",
+  "last_updated": "March 18, 2021 08:56:51 UTC",
   "matches": [
     {
       "id": 20545,
       "title": "Shounen no Kyoukai",
       "score": 0.31,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "tr",
+        "it"
+      ]
     },
     {
       "id": 13857,
       "title": "Owaranai Fukou ni Tsuite no Hanashi",
       "score": 0.31,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 11237,
       "title": "Te o Tsunaide, Sora o",
       "score": 0.3,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 35205,
       "title": "Ou-sama no Lesson",
-      "score": 0.3,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 13246,
       "title": "Senpai no Mizugi",
-      "score": 0.3,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 16081,
       "title": "Hatsukoi wa Gunjou ni Tokeru",
-      "score": 0.3,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 30632,
       "title": "Complex",
       "score": 0.287,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx"
+      ]
     },
     {
       "id": 37696,
       "title": "Suki de Shikatanai",
       "score": 0.277,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 53053,
       "title": "My Sweet Garden",
-      "score": 0.238,
-      "r18": false
+      "score": 0.237,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

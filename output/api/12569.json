@@ -2,157 +2,287 @@
   "id": 12569,
   "title": "Tsuyayaka na Onna",
   "url": "https://mangadex.org/manga/12569",
-  "last_updated": "March 15, 2021 08:24:17 UTC",
+  "last_updated": "March 18, 2021 07:33:00 UTC",
   "matches": [
     {
       "id": 49745,
       "title": "Damena Onee-san demo sukida yo ne?",
       "score": 0.36,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "id",
+        "gb"
+      ]
     },
     {
       "id": 42551,
       "title": "Tawawa na Oppai wa Suki desu ka? Kyonyuu Shoujo Anthology Comic",
       "score": 0.3,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "id",
+        "fr"
+      ]
     },
     {
       "id": 42676,
       "title": "Shishidou-san ni Shikararetai.",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 34105,
-      "title": "Ase to Sekken",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 31459,
-      "title": "Arakure Ojousama wa Monmon Shiteiru",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 1031,
-      "title": "Denpa Onna to Seishun Otoko",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 408,
-      "title": "Otaku no Musume-san",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 1276,
-      "title": "Gakuto no Vector",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 44860,
-      "title": "Hanazono-kun to Kazoe-san no Fukakai na Houkago",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 5334,
-      "title": "Renai Shimasen ka?",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 49376,
-      "title": "Oshimai",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 35724,
-      "title": "Sekirara Hime to Minus Ouji",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 244,
-      "title": "Kanojo wa Kanno Shosetsuka",
-      "score": 0.29,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "br",
+        "mx",
+        "gb",
+        "pl",
+        "id"
+      ]
     },
     {
       "id": 19920,
       "title": "Imouto Sae Ireba Ii. @comic",
-      "score": 0.29,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "it"
+      ]
+    },
+    {
+      "id": 34105,
+      "title": "Ase to Sekken",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 31459,
+      "title": "Arakure Ojousama wa Monmon Shiteiru",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "ru",
+        "de"
+      ]
+    },
+    {
+      "id": 1031,
+      "title": "Denpa Onna to Seishun Otoko",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 408,
+      "title": "Otaku no Musume-san",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 1276,
+      "title": "Gakuto no Vector",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 44860,
+      "title": "Hanazono-kun to Kazoe-san no Fukakai na Houkago",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn",
+        "br",
+        "id",
+        "ru",
+        "mx"
+      ]
+    },
+    {
+      "id": 5334,
+      "title": "Renai Shimasen ka?",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru"
+      ]
+    },
+    {
+      "id": 35724,
+      "title": "Sekirara Hime to Minus Ouji",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 244,
+      "title": "Kanojo wa Kanno Shosetsuka",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 5156,
       "title": "Chokotto Sister",
-      "score": 0.29,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr"
+      ]
     },
     {
       "id": 43370,
       "title": "Shingeki no Eroko-san",
-      "score": 0.29,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx"
+      ]
+    },
+    {
+      "id": 49376,
+      "title": "Oshimai",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "cn",
+        "br",
+        "id",
+        "vn",
+        "fr",
+        "mx"
+      ]
     },
     {
       "id": 178,
       "title": "Hetakoi",
-      "score": 0.29,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "it"
+      ]
     },
     {
       "id": 35292,
       "title": "Jimi Joshi x Osekkai Danshi",
-      "score": 0.29,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 31205,
       "title": "We May Be an Inexperienced Couple but...",
-      "score": 0.29,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru"
+      ]
     },
     {
       "id": 712,
       "title": "Kyou no 5 no 2",
-      "score": 0.29,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "ph",
+        "fr",
+        "pl"
+      ]
     },
     {
       "id": 37167,
       "title": "Sokuochi Mayuri-chan - Pixiv Shorts",
-      "score": 0.29,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 15331,
       "title": "Henjo - The Strange Female High-Schooler Amaguri Senko",
-      "score": 0.29,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn",
+        "hu",
+        "fr",
+        "tr",
+        "id"
+      ]
     },
     {
       "id": 1002,
       "title": "Amagami - Dreamy Forever",
-      "score": 0.29,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 38634,
       "title": "Futari Solo Camp",
-      "score": 0.29,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
     },
     {
       "id": 21655,
       "title": "Moshi-Moshi!! Kamado-san!?",
-      "score": 0.29,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     }
   ]
 }

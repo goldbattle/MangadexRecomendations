@@ -2,73 +2,128 @@
   "id": 22447,
   "title": "Lost Angel",
   "url": "https://mangadex.org/manga/22447",
-  "last_updated": "March 16, 2021 08:30:34 UTC",
+  "last_updated": "March 18, 2021 09:13:44 UTC",
   "matches": [
     {
       "id": 10658,
       "title": "Baraou no Souretsu",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 7461,
       "title": "Sengoku Blood ~Bara no Keiyaku~",
       "score": 0.174,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 41521,
       "title": "Kogetsu no Yume",
-      "score": 0.156,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 8703,
       "title": "Uragiri wa Boku no Namae o Shitteiru",
-      "score": 0.141,
-      "r18": false
+      "score": 0.14,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 55486,
       "title": "The Demon Queen Has a Death Wish",
-      "score": 0.14,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "id"
+      ]
     },
     {
       "id": 8472,
       "title": "Hakkenden: Touhou Hakken Ibun",
-      "score": 0.137,
-      "r18": false
+      "score": 0.136,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 28055,
+      "title": "Hakuouki - Junrenka",
+      "score": 0.136,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 50471,
       "title": "Kami no Kora no Regret",
       "score": 0.127,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 35063,
       "title": "Dragon Knights",
       "score": 0.119,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 59999,
       "title": "Save Me, Princess",
       "score": 0.118,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "id",
+        "gb"
+      ]
     },
     {
       "id": 46655,
       "title": "Tong Ling Fei",
-      "score": 0.108,
-      "r18": false
+      "score": 0.107,
+      "r18": false,
+      "languages": [
+        "br",
+        "pl"
+      ]
     },
     {
       "id": 47424,
       "title": "Welcome to the Nightmare Game",
       "score": 0.087,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru"
+      ]
     }
   ]
 }

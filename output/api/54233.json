@@ -1,158 +1,257 @@
 {
   "id": 54233,
   "title": "Ballpark de Tsukamaete!",
-  "url": "https://api.mangadex.org/v2/manga/54233",
-  "last_updated": "March 12, 2021 20:23:04 UTC",
+  "url": "https://mangadex.org/manga/54233",
+  "last_updated": "March 18, 2021 13:53:17 UTC",
   "matches": [
-    {
-      "id": 5734,
-      "title": "Moteki",
-      "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 323,
-      "title": "Moon",
-      "score": 0.671,
-      "r18": false
-    },
-    {
-      "id": 4615,
-      "title": "Itou-san",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 9985,
-      "title": "Fure Fure Shoujo",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 5986,
-      "title": "Ii Hito. - For New Natural Life",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 12132,
-      "title": "Wanitokagegisu",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 21978,
-      "title": "Game Yaru kara 100-en Kashite!",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 22078,
-      "title": "Saotome Senshu, Hitakakusu",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 15991,
-      "title": "Koi wa Ameagari no You ni",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 7455,
-      "title": "Bamora!",
-      "score": 0.44,
-      "r18": false
-    },
-    {
-      "id": 1711,
-      "title": "Countach",
-      "score": 0.433,
-      "r18": false
-    },
     {
       "id": 1590,
       "title": "87 Clockers",
-      "score": 0.43,
-      "r18": false
-    },
-    {
-      "id": 22143,
-      "title": "Jikkyou!! Izumi-kun no Koi Moyou",
-      "score": 0.427,
-      "r18": false
+      "score": 0.316,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29976,
       "title": "Peach Milk Crown",
-      "score": 0.423,
-      "r18": false
+      "score": 0.316,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7455,
+      "title": "Bamora!",
+      "score": 0.316,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 1712,
       "title": "Noel no Kimochi",
-      "score": 0.419,
-      "r18": false
+      "score": 0.316,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 45281,
-      "title": "I Love You, as a Friend",
-      "score": 0.384,
-      "r18": false
-    },
-    {
-      "id": 37498,
-      "title": "Kimi wa Houkago Insomnia",
-      "score": 0.378,
-      "r18": false
-    },
-    {
-      "id": 10881,
-      "title": "Nourin",
-      "score": 0.376,
-      "r18": false
-    },
-    {
-      "id": 3005,
-      "title": "Working!! Secret Memories",
-      "score": 0.376,
-      "r18": false
-    },
-    {
-      "id": 31227,
-      "title": "Mado Kara Madoka-chan",
-      "score": 0.376,
-      "r18": false
-    },
-    {
-      "id": 26966,
-      "title": "Mobuko no Koi",
-      "score": 0.375,
-      "r18": false
-    },
-    {
-      "id": 2518,
-      "title": "Ten yori Takaku",
-      "score": 0.373,
-      "r18": false
-    },
-    {
-      "id": 48139,
-      "title": "Otonari Voice Chat",
-      "score": 0.371,
-      "r18": false
-    },
-    {
-      "id": 13258,
-      "title": "Supinamarada!",
-      "score": 0.371,
-      "r18": false
+      "id": 22143,
+      "title": "Jikkyou!! Izumi-kun no Koi Moyou",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 47507,
       "title": "Cuprum&rsquo;s Bride",
-      "score": 0.371,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "mx"
+      ]
+    },
+    {
+      "id": 1711,
+      "title": "Countach",
+      "score": 0.285,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 1931,
+      "title": "Water Cube",
+      "score": 0.271,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 22078,
+      "title": "Saotome Senshu, Hitakakusu",
+      "score": 0.271,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "fr",
+        "mx",
+        "es",
+        "ru",
+        "id"
+      ]
+    },
+    {
+      "id": 3232,
+      "title": "Yawara!",
+      "score": 0.271,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 16808,
+      "title": "Dance Dance Danseur",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de"
+      ]
+    },
+    {
+      "id": 13258,
+      "title": "Supinamarada!",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9683,
+      "title": "Shinohayu - The Dawn of Age",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 2964,
+      "title": "Regatta",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 990,
+      "title": "Noririn",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2335,
+      "title": "Happy!",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 15382,
+      "title": "GIRLS und PANZER - Comic Anthology",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8795,
+      "title": "Chiisaku Furikabutte",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3432,
+      "title": "Gun-Jou",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2824,
+      "title": "Saki: Achiga-hen - episode of side-A",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 21942,
+      "title": "Keppeki Danshi! Aoyama-kun",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 41690,
+      "title": "Breakin' Girls!",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4246,
+      "title": "Fuyu Hanabi",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 23155,
+      "title": "Tokurei Sochi Dantai Stella Jogakuin Koutouka C&sup3; Bu",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 45281,
+      "title": "I Love You, as a Friend",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "id",
+        "mx",
+        "ru",
+        "vn"
+      ]
     }
   ]
 }

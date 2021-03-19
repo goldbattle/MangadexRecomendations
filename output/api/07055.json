@@ -2,25 +2,17 @@
   "id": 7055,
   "title": "Pure Blood",
   "url": "https://mangadex.org/manga/7055",
-  "last_updated": "March 14, 2021 16:38:25 UTC",
+  "last_updated": "March 18, 2021 06:45:51 UTC",
   "matches": [
-    {
-      "id": 29622,
-      "title": "Vampir J&auml;ger",
-      "score": 0.258,
-      "r18": false
-    },
     {
       "id": 10973,
       "title": "BLOOD+ - Yakou Joushi",
       "score": 0.256,
-      "r18": false
-    },
-    {
-      "id": 12723,
-      "title": "Vampire Library",
-      "score": 0.174,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     }
   ]
 }

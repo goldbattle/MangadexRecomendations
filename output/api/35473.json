@@ -1,50 +1,56 @@
 {
   "id": 35473,
   "title": "Joifo",
-  "url": "https://api.mangadex.org/v2/manga/35473",
-  "last_updated": "February 10, 2021 16:44:13 UTC",
+  "url": "https://mangadex.org/manga/35473",
+  "last_updated": "March 18, 2021 11:16:33 UTC",
   "matches": [
     {
       "id": 11586,
       "title": "Love Ho no Ojou-sama",
-      "score": 0.453,
-      "r18": false
-    },
-    {
-      "id": 7503,
-      "title": "Yuuwaku Chocolate",
-      "score": 0.452,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7834,
       "title": "Awayuki no Namida",
-      "score": 0.419,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 21060,
       "title": "Kono Saki, Rabu Rabu Nari.",
-      "score": 0.419,
-      "r18": false
-    },
-    {
-      "id": 18801,
-      "title": "Ouji-sama wa Midara ni Midareru",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 34379,
-      "title": "Sekimen Danshi Makkasa",
-      "score": 0.249,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11203,
       "title": "Puzzle",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "fr"
+      ]
+    },
+    {
+      "id": 34379,
+      "title": "Sekimen Danshi Makkasa",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

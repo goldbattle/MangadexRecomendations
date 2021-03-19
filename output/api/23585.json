@@ -2,25 +2,46 @@
   "id": 23585,
   "title": "Shinobi no",
   "url": "https://mangadex.org/manga/23585",
-  "last_updated": "March 16, 2021 12:30:36 UTC",
+  "last_updated": "March 18, 2021 09:25:09 UTC",
   "matches": [
     {
       "id": 657,
       "title": "Shinobi no Kuni",
-      "score": 0.287,
-      "r18": false
+      "score": 0.286,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ct",
+        "pl",
+        "id"
+      ]
     },
     {
       "id": 44351,
       "title": "Hikari no Iroha",
       "score": 0.216,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 94,
       "title": "Gintama",
-      "score": 0.104,
-      "r18": false
+      "score": 0.103,
+      "r18": false,
+      "languages": [
+        "it",
+        "br",
+        "il",
+        "gb",
+        "ru",
+        "id",
+        "fr",
+        "tr",
+        "sa",
+        "pl"
+      ]
     }
   ]
 }

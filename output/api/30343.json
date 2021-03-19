@@ -2,19 +2,30 @@
   "id": 30343,
   "title": "Shuuto",
   "url": "https://mangadex.org/manga/30343",
-  "last_updated": "January 13, 2021 12:48:48 UTC",
+  "last_updated": "March 18, 2021 10:33:47 UTC",
   "matches": [
     {
       "id": 21647,
       "title": "Fight Class 3",
-      "score": 0.117,
-      "r18": false
+      "score": 0.1,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx",
+        "fr",
+        "br"
+      ]
     },
     {
       "id": 56441,
       "title": "Fight Class 3 (Webtoon Version)",
-      "score": 0.093,
-      "r18": false
+      "score": 0.08,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     }
   ]
 }

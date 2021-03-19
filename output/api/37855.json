@@ -2,157 +2,318 @@
   "id": 37855,
   "title": "Paper Memories",
   "url": "https://mangadex.org/manga/37855",
-  "last_updated": "March 18, 2021 00:52:41 UTC",
+  "last_updated": "March 18, 2021 11:36:27 UTC",
   "matches": [
-    {
-      "id": 7236,
-      "title": "Twinkle Twinkle Idol Star",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 53885,
-      "title": "You Are My Darling!!!",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 9640,
-      "title": "Fukumenkei Noise",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 11222,
-      "title": "Berry Dynamite",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 12279,
-      "title": "Cyber Idol Mink",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 21506,
-      "title": "TO-Y",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 3614,
-      "title": "Shipwrecked!",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 1956,
-      "title": "Kanojo wa Uso wo Aishisugiteru",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 4274,
-      "title": "Boku to Watashi no Henai Jijou",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 24255,
-      "title": "Fire Emblem - Seisen no Keifu (Fujimori Nattsu)",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 24016,
-      "title": "Neo Angelique",
-      "score": 0.2,
-      "r18": false
-    },
-    {
-      "id": 4213,
-      "title": "Little Jumper",
-      "score": 0.2,
-      "r18": false
-    },
-    {
-      "id": 180,
-      "title": "Crash!",
-      "score": 0.2,
-      "r18": false
-    },
-    {
-      "id": 227,
-      "title": "Akuma to Love Song",
-      "score": 0.2,
-      "r18": false
-    },
     {
       "id": 921,
       "title": "Lost Seven",
-      "score": 0.2,
-      "r18": false
-    },
-    {
-      "id": 19972,
-      "title": "Mattaku Saikin no Tantei to Kitara",
-      "score": 0.2,
-      "r18": false
-    },
-    {
-      "id": 34578,
-      "title": "Let Love Rule",
-      "score": 0.2,
-      "r18": false
-    },
-    {
-      "id": 1625,
-      "title": "Sentou Jousai Masurawo",
-      "score": 0.2,
-      "r18": false
-    },
-    {
-      "id": 8294,
-      "title": "Mirumo de Pon!",
-      "score": 0.2,
-      "r18": false
-    },
-    {
-      "id": 23636,
-      "title": "Hajime-chan ga Ichiban!",
-      "score": 0.2,
-      "r18": false
-    },
-    {
-      "id": 36204,
-      "title": "Shinsetsu Ookami to Koushinryou: Ookami to Youhishi",
-      "score": 0.2,
-      "r18": false
-    },
-    {
-      "id": 4719,
-      "title": "Lost - Beasts of Another World",
-      "score": 0.2,
-      "r18": false
-    },
-    {
-      "id": 12090,
-      "title": "Bannou Kanteishi Q no Jikenbo",
-      "score": 0.2,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 14509,
       "title": "Given",
-      "score": 0.2,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx",
+        "br"
+      ]
     },
     {
-      "id": 101,
-      "title": "Yureka",
-      "score": 0.2,
-      "r18": false
+      "id": 61,
+      "title": "Break Blade",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "br",
+        "pl",
+        "id"
+      ]
+    },
+    {
+      "id": 63,
+      "title": "Bakuman",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "id",
+        "es"
+      ]
+    },
+    {
+      "id": 197,
+      "title": "Magico",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "br",
+        "it",
+        "fr",
+        "ru"
+      ]
+    },
+    {
+      "id": 175,
+      "title": "Absolute Witch",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 26471,
+      "title": "Oshi ga Budoukan Ittekuretara Shinu",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 536,
+      "title": "Beck",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "it",
+        "br"
+      ]
+    },
+    {
+      "id": 53160,
+      "title": "Tricks Dedicated to Witches",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "fr",
+        "id",
+        "ru"
+      ]
+    },
+    {
+      "id": 6876,
+      "title": "Spica - Umino Chika Shoki Tanpenshuu",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "br"
+      ]
+    },
+    {
+      "id": 5408,
+      "title": "Diamond Dust",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 21017,
+      "title": "Cambria",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 21390,
+      "title": "Densetsu no Yuusha no Konkatsu",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "ru",
+        "br"
+      ]
+    },
+    {
+      "id": 7195,
+      "title": "Nanatsu no Taizai",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "sa",
+        "mx",
+        "th",
+        "it",
+        "br",
+        "id",
+        "es",
+        "ru"
+      ]
+    },
+    {
+      "id": 5557,
+      "title": "Tetsugaku Letra",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg",
+        "mx",
+        "br",
+        "tr",
+        "pl"
+      ]
+    },
+    {
+      "id": 660,
+      "title": "The Ruler of the Land",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 28023,
+      "title": "Fox Spirit Matchmaker",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 43911,
+      "title": "Sakura, Hist&oacute;rias alternativas",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "br"
+      ]
+    },
+    {
+      "id": 49101,
+      "title": "The King of Cave Will Live a Paradise Life",
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "br",
+        "ru",
+        "gb",
+        "fr",
+        "th"
+      ]
+    },
+    {
+      "id": 35069,
+      "title": "Isekai Demo Bunan ni Ikitai Shoukougun",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "mx",
+        "fr"
+      ]
+    },
+    {
+      "id": 24123,
+      "title": "Shinka no Mi",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "pl"
+      ]
+    },
+    {
+      "id": 9707,
+      "title": "Kono Oto Tomare!",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn",
+        "br",
+        "id",
+        "fr",
+        "it",
+        "hu"
+      ]
+    },
+    {
+      "id": 4993,
+      "title": "Spirit Circle",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "it",
+        "br",
+        "gb",
+        "fr",
+        "ru",
+        "es",
+        "cn",
+        "tr",
+        "mx",
+        "sa"
+      ]
+    },
+    {
+      "id": 126,
+      "title": "Kyou kara Ore wa!!",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "es"
+      ]
+    },
+    {
+      "id": 5014,
+      "title": "Noragami",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "br",
+        "tr",
+        "fr",
+        "es",
+        "hu"
+      ]
     }
   ]
 }

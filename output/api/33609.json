@@ -1,158 +1,262 @@
 {
   "id": 33609,
   "title": "OREN'S",
-  "url": "https://api.mangadex.org/v2/manga/33609",
-  "last_updated": "February 10, 2021 12:40:53 UTC",
+  "url": "https://mangadex.org/manga/33609",
+  "last_updated": "March 18, 2021 11:01:00 UTC",
   "matches": [
     {
       "id": 3764,
       "title": "Agharta",
-      "score": 0.703,
-      "r18": false
+      "score": 0.295,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 3491,
-      "title": "Master Keaton",
-      "score": 0.693,
-      "r18": false
+      "id": 22950,
+      "title": "Black Tiger",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "ru",
+        "es",
+        "gb"
+      ]
     },
     {
-      "id": 907,
-      "title": "I Am a Hero",
-      "score": 0.691,
-      "r18": false
+      "id": 23476,
+      "title": "Drag-On Dragoon - Utahime Five",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "it"
+      ]
     },
     {
-      "id": 4880,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
-      "score": 0.688,
-      "r18": false
-    },
-    {
-      "id": 13871,
-      "title": "Dungeon Meshi",
-      "score": 0.688,
-      "r18": false
-    },
-    {
-      "id": 281,
-      "title": "Trigun Maximum",
-      "score": 0.687,
-      "r18": false
-    },
-    {
-      "id": 430,
-      "title": "Hotel",
-      "score": 0.685,
-      "r18": false
-    },
-    {
-      "id": 1714,
-      "title": "Kara no Kyoukai - The Garden of Sinners",
-      "score": 0.682,
-      "r18": false
-    },
-    {
-      "id": 9765,
-      "title": "Chang Ge Xing",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 16825,
-      "title": "Ginga Eiyuu Densetsu",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 5166,
-      "title": "Dragon Head",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 15165,
-      "title": "Vampire Hunter D",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 9140,
-      "title": "Gensou Suikoden III - Unmei no Keishousha",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 10572,
-      "title": "Futagashira",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 580,
-      "title": "Kodoku Experiment",
-      "score": 0.674,
-      "r18": false
-    },
-    {
-      "id": 59433,
-      "title": "My Nights Shine Brighter Than Your Days",
-      "score": 0.672,
-      "r18": false
-    },
-    {
-      "id": 7869,
-      "title": "Arashi no Hana Murakumo no Uta",
-      "score": 0.672,
-      "r18": false
-    },
-    {
-      "id": 3142,
-      "title": "Threads of Time",
-      "score": 0.671,
-      "r18": false
-    },
-    {
-      "id": 50085,
-      "title": "Legend of the Galactic Heroes",
-      "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 22166,
-      "title": "Curse Blood",
-      "score": 0.669,
-      "r18": false
+      "id": 14976,
+      "title": "The Hard",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5906,
       "title": "Black Jack Alive",
-      "score": 0.667,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 22381,
-      "title": "Mushikago no Cagaster",
-      "score": 0.667,
-      "r18": false
+      "id": 2976,
+      "title": "Pineapple Army",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
-      "id": 18217,
-      "title": "Imuri",
-      "score": 0.667,
-      "r18": false
+      "id": 3478,
+      "title": "Adamas",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 31194,
-      "title": "Hunter Age",
-      "score": 0.667,
-      "r18": false
+      "id": 5147,
+      "title": "Anuki",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 35608,
+      "title": "A Post-Apocalyptic Journey",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "it",
+        "mx",
+        "ru",
+        "tr",
+        "br"
+      ]
+    },
+    {
+      "id": 26302,
+      "title": "Karasu",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1495,
+      "title": "Ichi",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 21127,
+      "title": "Sultan Boueitai",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9765,
+      "title": "Chang Ge Xing",
+      "score": 0.271,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "br",
+        "id"
+      ]
+    },
+    {
+      "id": 10572,
+      "title": "Futagashira",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3340,
+      "title": "Jormungand",
+      "score": 0.26,
+      "r18": false,
+      "languages": [
+        "ru",
+        "de",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 40277,
+      "title": "The Chronicle of Seven Cities",
+      "score": 0.254,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8640,
+      "title": "GOD EATER -the 2nd break-",
+      "score": 0.253,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 4571,
+      "title": "Captain Harlock",
+      "score": 0.252,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2715,
+      "title": "BioMega",
+      "score": 0.251,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg",
+        "pl",
+        "br",
+        "ru"
+      ]
+    },
+    {
+      "id": 41553,
+      "title": "The Man who Killed Nobunaga",
+      "score": 0.251,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 26739,
+      "title": "Lord",
+      "score": 0.251,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3971,
+      "title": "Yugo",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10749,
+      "title": "Houseki no Kuni",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br",
+        "tr",
+        "gb",
+        "ru",
+        "sa",
+        "id",
+        "ir",
+        "pl"
+      ]
+    },
+    {
+      "id": 55971,
+      "title": "Houseki No Kuni (Coloured)",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 54118,
+      "title": "Houseki no Kuni (Minimalist Color)",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

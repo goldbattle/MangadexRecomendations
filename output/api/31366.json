@@ -1,158 +1,330 @@
 {
   "id": 31366,
   "title": "Witch Order",
-  "url": "https://api.mangadex.org/v2/manga/31366",
-  "last_updated": "February 10, 2021 08:19:03 UTC",
+  "url": "https://mangadex.org/manga/31366",
+  "last_updated": "March 18, 2021 10:42:19 UTC",
   "matches": [
-    {
-      "id": 8261,
-      "title": "Holy Glory",
-      "score": 0.34,
-      "r18": false
-    },
     {
       "id": 29143,
       "title": "Shaman King: Red Crimson",
-      "score": 0.34,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "ru",
+        "mx",
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 32842,
       "title": "Gokutei Higuma",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 47474,
-      "title": "Saint Seiya (Kanzenban Edition)",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 81,
-      "title": "Time Eliminator",
-      "score": 0.272,
-      "r18": false
-    },
-    {
-      "id": 928,
-      "title": "Yi Bi Zhi Ming",
-      "score": 0.272,
-      "r18": false
-    },
-    {
-      "id": 1330,
-      "title": "Nephilim John",
-      "score": 0.272,
-      "r18": false
-    },
-    {
-      "id": 1754,
-      "title": "Strobo",
-      "score": 0.272,
-      "r18": false
-    },
-    {
-      "id": 2239,
-      "title": "Hand x Red",
-      "score": 0.272,
-      "r18": false
-    },
-    {
-      "id": 3929,
-      "title": "Spray King",
-      "score": 0.272,
-      "r18": false
-    },
-    {
-      "id": 6228,
-      "title": "Kagijin",
-      "score": 0.272,
-      "r18": false
-    },
-    {
-      "id": 10207,
-      "title": "Saint Seiya - Episode G",
-      "score": 0.272,
-      "r18": false
-    },
-    {
-      "id": 10555,
-      "title": "FANTASMA",
-      "score": 0.272,
-      "r18": false
-    },
-    {
-      "id": 11487,
-      "title": "Kimi to Shitai to Boku no Kaitou",
-      "score": 0.272,
-      "r18": false
-    },
-    {
-      "id": 11541,
-      "title": "Kiriwo Terrible",
-      "score": 0.272,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "tr",
+        "de",
+        "ru",
+        "mx",
+        "fr"
+      ]
     },
     {
       "id": 11841,
       "title": "Saint Seiya - Episode G Assassin",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br",
+        "gb",
+        "es"
+      ]
     },
     {
-      "id": 12648,
-      "title": "Tale of Fairy Tail ~Koori no Kiseki~",
-      "score": 0.272,
-      "r18": false
+      "id": 14830,
+      "title": "Toaru Majutsu no Heavy Zashiki Warashi ga Kantan na Satsujinhi no Konkatsu Jijou",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 14749,
-      "title": "Autophagy Regulation",
-      "score": 0.272,
-      "r18": false
+      "id": 25621,
+      "title": "Shaman King: The Super Star",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "ru",
+        "mx",
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 16035,
-      "title": "Geidaisei Yasaka Kyouya no Suuki na Bouken",
-      "score": 0.272,
-      "r18": false
+      "id": 35,
+      "title": "Bleach",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "ru",
+        "es",
+        "br",
+        "vn",
+        "ct",
+        "bg",
+        "hu",
+        "id",
+        "mx"
+      ]
     },
     {
-      "id": 17224,
-      "title": "Fairy Tail Gaiden - Road Knight",
-      "score": 0.272,
-      "r18": false
+      "id": 3888,
+      "title": "Houshin Engi",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "es"
+      ]
     },
     {
-      "id": 17280,
-      "title": "Choujin Locke",
-      "score": 0.272,
-      "r18": false
+      "id": 6075,
+      "title": "Busou Renkin",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
-      "id": 18781,
-      "title": "Fairy Tail Gaiden - Raigou Issen",
-      "score": 0.272,
-      "r18": false
+      "id": 18757,
+      "title": "Trinity Seven: Levi Ninden",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
-      "id": 19770,
-      "title": "Shin Megami Tensei IV -Prayers-",
-      "score": 0.272,
-      "r18": false
+      "id": 39,
+      "title": "One Piece",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "br",
+        "sa",
+        "it",
+        "fr",
+        "mn",
+        "gb",
+        "ct",
+        "il",
+        "pl",
+        "tr",
+        "id",
+        "mx",
+        "ru",
+        "de",
+        "es",
+        "bg",
+        "vn",
+        "in"
+      ]
     },
     {
-      "id": 20205,
-      "title": "Demon's Plan",
-      "score": 0.272,
-      "r18": false
+      "id": 1596,
+      "title": "Esprit",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 20228,
-      "title": "Brave",
-      "score": 0.272,
-      "r18": false
+      "id": 13425,
+      "title": "M&auml;rchen - The Embodiment of Tales",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "fr",
+        "mx",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 28542,
+      "title": "JoJo's Bizarre Adventure Part 6: Stone Ocean",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 32077,
+      "title": "Nine Sun God King",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 48759,
+      "title": "Kimetsu no Yaiba: Rengoku Kyoujurou Gaiden",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx"
+      ]
+    },
+    {
+      "id": 55119,
+      "title": "Kimetsu no Yaiba Rengoku Special Oneshot",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "tr"
+      ]
+    },
+    {
+      "id": 107,
+      "title": "Toriko",
+      "score": 0.124,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "es",
+        "mx",
+        "pl"
+      ]
+    },
+    {
+      "id": 109,
+      "title": "Katekyo Hitman Reborn!",
+      "score": 0.124,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "mx",
+        "fr"
+      ]
+    },
+    {
+      "id": 9388,
+      "title": "Kakumeiki Valvrave",
+      "score": 0.124,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
+    },
+    {
+      "id": 12975,
+      "title": "Reincarnation no Kaben",
+      "score": 0.124,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "vn",
+        "es",
+        "id",
+        "tr",
+        "pl"
+      ]
+    },
+    {
+      "id": 16821,
+      "title": "Vanitas no Carte",
+      "score": 0.124,
+      "r18": false,
+      "languages": [
+        "it",
+        "br",
+        "ru",
+        "mx",
+        "es",
+        "hu"
+      ]
+    },
+    {
+      "id": 33277,
+      "title": "Raid",
+      "score": 0.124,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx",
+        "id",
+        "ru"
+      ]
+    },
+    {
+      "id": 35858,
+      "title": "Kimetsu no Yaiba: Tomioka Giyuu Gaiden",
+      "score": 0.124,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx",
+        "hk",
+        "id"
+      ]
+    },
+    {
+      "id": 36933,
+      "title": "Tokyo Shinobi Squad",
+      "score": 0.124,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "hk",
+        "mx",
+        "vn"
+      ]
+    },
+    {
+      "id": 45250,
+      "title": "Grave Robber",
+      "score": 0.124,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     }
   ]
 }

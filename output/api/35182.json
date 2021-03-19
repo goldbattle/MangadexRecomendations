@@ -1,50 +1,66 @@
 {
   "id": 35182,
   "title": "Remnants of Ambiguous Love",
-  "url": "https://api.mangadex.org/v2/manga/35182",
-  "last_updated": "February 10, 2021 16:39:57 UTC",
+  "url": "https://mangadex.org/manga/35182",
+  "last_updated": "March 18, 2021 11:14:07 UTC",
   "matches": [
     {
       "id": 30312,
       "title": "Winter to Summer",
-      "score": 0.2,
-      "r18": false
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 44697,
       "title": "Chun and Alice",
-      "score": 0.156,
-      "r18": false
+      "score": 0.133,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 50141,
       "title": "Reflection (Remake)",
-      "score": 0.156,
-      "r18": false
-    },
-    {
-      "id": 57775,
-      "title": "Today I'll (Make You) Confess",
-      "score": 0.156,
-      "r18": false
+      "score": 0.133,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 57909,
       "title": "Shoujo Kageki \u2606 Revue Starlight - Study Abroad (Doujinshi)",
-      "score": 0.156,
-      "r18": false
+      "score": 0.133,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 44318,
       "title": "Hisokana Hana Emi",
-      "score": 0.14,
-      "r18": false
+      "score": 0.119,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 59665,
       "title": "Hi, My Lady",
-      "score": 0.14,
-      "r18": false
+      "score": 0.119,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

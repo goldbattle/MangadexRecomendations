@@ -2,43 +2,52 @@
   "id": 18288,
   "title": "Pulse",
   "url": "https://mangadex.org/manga/18288",
-  "last_updated": "March 15, 2021 21:53:02 UTC",
+  "last_updated": "March 18, 2021 08:38:59 UTC",
   "matches": [
     {
       "id": 29570,
       "title": "Addictive",
-      "score": 0.3,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de",
+        "br"
+      ]
     },
     {
       "id": 19956,
       "title": "Beloved",
       "score": 0.225,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "ru",
+        "br"
+      ]
     },
     {
       "id": 58459,
       "title": "Kill Switch",
-      "score": 0.188,
-      "r18": false
-    },
-    {
-      "id": 30379,
-      "title": "Two Lives in the Same House",
-      "score": 0.18,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx"
+      ]
     },
     {
       "id": 16076,
       "title": "What Does the Fox Say?",
       "score": 0.161,
-      "r18": false
-    },
-    {
-      "id": 27640,
-      "title": "On a Leash",
-      "score": 0.136,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "fr"
+      ]
     }
   ]
 }

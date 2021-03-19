@@ -1,158 +1,246 @@
 {
   "id": 52370,
   "title": "Secret!",
-  "url": "https://api.mangadex.org/v2/manga/52370",
-  "last_updated": "February 05, 2021 12:23:22 UTC",
+  "url": "https://mangadex.org/manga/52370",
+  "last_updated": "March 18, 2021 13:37:44 UTC",
   "matches": [
-    {
-      "id": 21107,
-      "title": "Itoshi Koishi Kimi Dake ni",
-      "score": 0.767,
-      "r18": false
-    },
-    {
-      "id": 24006,
-      "title": "Anata wa Boku Dake no Hana",
-      "score": 0.766,
-      "r18": false
-    },
-    {
-      "id": 37280,
-      "title": "Kimi no Ai wa Mienikui",
-      "score": 0.758,
-      "r18": false
-    },
     {
       "id": 1483,
       "title": "Abarenbou Kareshi",
-      "score": 0.757,
-      "r18": false
+      "score": 0.402,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "pl"
+      ]
     },
     {
-      "id": 9475,
-      "title": "Tsuki ni Hoero",
-      "score": 0.753,
-      "r18": false
+      "id": 19696,
+      "title": "Itoshii Akuma",
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "pl"
+      ]
     },
     {
-      "id": 10293,
-      "title": "Omae de Nakya Dame Mitai",
-      "score": 0.753,
-      "r18": false
+      "id": 24345,
+      "title": "Baby Baby Baby",
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 50971,
-      "title": "Koiyami Archive",
-      "score": 0.75,
-      "r18": false
+      "id": 28918,
+      "title": "Hajimete no Shitsuren",
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 56389,
-      "title": "Juusha to Ore-sama",
-      "score": 0.749,
-      "r18": false
+      "id": 58214,
+      "title": "Sore wa Yappari Koi no Sei!?",
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 4673,
-      "title": "From Yesterday",
-      "score": 0.742,
-      "r18": false
-    },
-    {
-      "id": 55072,
-      "title": "Gekkou no Rankan ni Kuchinashi no Nioi",
-      "score": 0.739,
-      "r18": false
-    },
-    {
-      "id": 24141,
-      "title": "Hachimitsu no Aji",
-      "score": 0.737,
-      "r18": false
-    },
-    {
-      "id": 27578,
-      "title": "Boku wa Boku Narini",
-      "score": 0.737,
-      "r18": false
-    },
-    {
-      "id": 10923,
-      "title": "Kooporasu e Youkoso",
-      "score": 0.737,
-      "r18": false
-    },
-    {
-      "id": 24422,
-      "title": "Baby Maybe",
-      "score": 0.735,
-      "r18": false
+      "id": 37842,
+      "title": "Escape",
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 55759,
       "title": "Soshite Koi ni Naru",
-      "score": 0.734,
-      "r18": false
+      "score": 0.37,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 53625,
-      "title": "Kagakushitsu e Douzo",
-      "score": 0.734,
-      "r18": false
+      "id": 11969,
+      "title": "Sensei no Iutoori.",
+      "score": 0.359,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 57203,
-      "title": "Kimi ni wa Katenai!",
-      "score": 0.734,
-      "r18": false
+      "id": 23892,
+      "title": "Abunai Shuugaku Ryoukou",
+      "score": 0.358,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 40984,
-      "title": "Chiisana Garasu no Sora",
-      "score": 0.731,
-      "r18": false
+      "id": 16477,
+      "title": "Docchi ni Suru?",
+      "score": 0.355,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
-      "id": 7189,
-      "title": "Tobu, Kokoro",
-      "score": 0.73,
-      "r18": false
+      "id": 15049,
+      "title": "Bijo, Tokidoki Yajuu",
+      "score": 0.355,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 27658,
-      "title": "Takaramono",
-      "score": 0.729,
-      "r18": false
+      "id": 39085,
+      "title": "Warito Yokuaru Danshikouteki Renaijijou",
+      "score": 0.355,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 53660,
-      "title": "Honenuki ni Saretai",
-      "score": 0.729,
-      "r18": false
+      "id": 55844,
+      "title": "Shinyuu Henjou!",
+      "score": 0.353,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 24462,
-      "title": "Kizuna",
-      "score": 0.728,
-      "r18": false
+      "id": 26024,
+      "title": "Pretty Wimps",
+      "score": 0.352,
+      "r18": false,
+      "languages": [
+        "gb",
+        "th"
+      ]
     },
     {
-      "id": 55064,
-      "title": "Ore-sama na Aitsu",
-      "score": 0.728,
-      "r18": false
+      "id": 38147,
+      "title": "Birikketsu no Mahou",
+      "score": 0.352,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 16394,
-      "title": "Charao-kun to Haraguro-kun no Himitsu",
-      "score": 0.727,
-      "r18": false
+      "id": 24422,
+      "title": "Baby Maybe",
+      "score": 0.352,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 12505,
-      "title": "Dog Style",
-      "score": 0.727,
-      "r18": false
+      "id": 36976,
+      "title": "Shitsuji Kyoushi no Renai Jugyou",
+      "score": 0.352,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 33069,
+      "title": "Bokura ga Tsugai ni Naru Made",
+      "score": 0.348,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8815,
+      "title": "Tsuyogari",
+      "score": 0.347,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 38143,
+      "title": "Isso Mou, Kudokitai!",
+      "score": 0.347,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "mx"
+      ]
+    },
+    {
+      "id": 45940,
+      "title": "Koi wa Keiyaku no Atode",
+      "score": 0.346,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 47115,
+      "title": "Fake na Junjou",
+      "score": 0.345,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 41985,
+      "title": "Innocent Maze",
+      "score": 0.344,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37778,
+      "title": "Reverse!?",
+      "score": 0.344,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 48595,
+      "title": "Kimi Towa Gokai Kara Hajimarimashitaga",
+      "score": 0.343,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -2,49 +2,37 @@
   "id": 7503,
   "title": "Yuuwaku Chocolate",
   "url": "https://mangadex.org/manga/7503",
-  "last_updated": "March 14, 2021 16:45:31 UTC",
+  "last_updated": "March 18, 2021 06:49:37 UTC",
   "matches": [
-    {
-      "id": 21060,
-      "title": "Kono Saki, Rabu Rabu Nari.",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 35473,
-      "title": "Joifo",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 11586,
-      "title": "Love Ho no Ojou-sama",
-      "score": 0.333,
-      "r18": false
-    },
     {
       "id": 7834,
       "title": "Awayuki no Namida",
       "score": 0.305,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 18801,
       "title": "Ouji-sama wa Midara ni Midareru",
-      "score": 0.28,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
     },
     {
       "id": 11203,
       "title": "Puzzle",
-      "score": 0.187,
-      "r18": false
-    },
-    {
-      "id": 34379,
-      "title": "Sekimen Danshi Makkasa",
-      "score": 0.175,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "fr"
+      ]
     }
   ]
 }

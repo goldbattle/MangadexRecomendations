@@ -1,158 +1,265 @@
 {
   "id": 50085,
   "title": "Legend of the Galactic Heroes",
-  "url": "https://api.mangadex.org/v2/manga/50085",
-  "last_updated": "February 05, 2021 08:18:05 UTC",
+  "url": "https://mangadex.org/manga/50085",
+  "last_updated": "March 18, 2021 13:18:39 UTC",
   "matches": [
     {
-      "id": 34328,
-      "title": "H.P. Lovecraft's The Hound and Other Stories",
-      "score": 0.775,
-      "r18": false
+      "id": 51629,
+      "title": "Legend of the Galactic Heroes - Portraits of Heroes",
+      "score": 0.653,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
-      "id": 14676,
-      "title": "The Legendary Moonlight Sculptor",
-      "score": 0.769,
-      "r18": false
+      "id": 51966,
+      "title": "Heroic Chronicles of the Three Continents",
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 15165,
-      "title": "Vampire Hunter D",
-      "score": 0.768,
-      "r18": false
+      "id": 8789,
+      "title": "Afterschool War Activities",
+      "score": 0.253,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "tr"
+      ]
     },
     {
-      "id": 281,
-      "title": "Trigun Maximum",
-      "score": 0.763,
-      "r18": false
+      "id": 9470,
+      "title": "Marginal Operation",
+      "score": 0.242,
+      "r18": false,
+      "languages": [
+        "ru",
+        "es",
+        "gb"
+      ]
     },
     {
-      "id": 1120,
-      "title": "Ultra Heaven",
-      "score": 0.762,
-      "r18": false
+      "id": 1085,
+      "title": "Code Geass: Lelouch of the Rebellion",
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 29740,
-      "title": "Parasyte Reversi",
-      "score": 0.762,
-      "r18": false
+      "id": 17083,
+      "title": "Etten no Sora",
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 104,
-      "title": "Liar Game",
-      "score": 0.76,
-      "r18": false
+      "id": 39510,
+      "title": "Isekai Meikyuu no Saishinbu o Mezasou",
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "ru",
+        "br",
+        "es",
+        "id",
+        "fr"
+      ]
     },
     {
-      "id": 2714,
-      "title": "NOiSE",
-      "score": 0.76,
-      "r18": false
+      "id": 23332,
+      "title": "Kidou Senshi Gundam Twilight Axis",
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 3586,
-      "title": "Oyaji",
-      "score": 0.76,
-      "r18": false
+      "id": 14398,
+      "title": "Nejimaki Seirei Senki - Tenkyou no Alderamin",
+      "score": 0.236,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 4568,
-      "title": "Galaxy Express 999",
-      "score": 0.76,
-      "r18": false
+      "id": 13791,
+      "title": "Crest of the Stars",
+      "score": 0.236,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 4880,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
-      "score": 0.759,
-      "r18": false
+      "id": 52095,
+      "title": "Kage no Eiyuu no Nichijou-tan",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "ru"
+      ]
     },
     {
-      "id": 35626,
-      "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Kenki Koiuta",
-      "score": 0.756,
-      "r18": false
+      "id": 12559,
+      "title": "Battle Field",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 28617,
-      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run",
-      "score": 0.754,
-      "r18": false
-    },
-    {
-      "id": 1594,
-      "title": "Pluto",
-      "score": 0.753,
-      "r18": false
-    },
-    {
-      "id": 8495,
-      "title": "Persona 3",
-      "score": 0.753,
-      "r18": false
-    },
-    {
-      "id": 6580,
-      "title": "Taiyou no Mokishiroku",
-      "score": 0.753,
-      "r18": false
-    },
-    {
-      "id": 398,
-      "title": "Tsumi to Batsu - A Falsified Romance",
-      "score": 0.752,
-      "r18": false
-    },
-    {
-      "id": 843,
-      "title": "20th Century Boys",
-      "score": 0.751,
-      "r18": false
-    },
-    {
-      "id": 20348,
-      "title": "The King's Avatar",
-      "score": 0.751,
-      "r18": false
-    },
-    {
-      "id": 55365,
-      "title": "MEMORIZE",
-      "score": 0.751,
-      "r18": false
-    },
-    {
-      "id": 22791,
-      "title": "Ningen Shikkaku (Variety Art Works)",
-      "score": 0.751,
-      "r18": false
-    },
-    {
-      "id": 31194,
-      "title": "Hunter Age",
-      "score": 0.75,
-      "r18": false
+      "id": 36698,
+      "title": "Nine Lives Man",
+      "score": 0.228,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 580,
       "title": "Kodoku Experiment",
-      "score": 0.75,
-      "r18": false
+      "score": 0.227,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 31975,
-      "title": "Asebi and Adventurers of Sky World",
-      "score": 0.749,
-      "r18": false
+      "id": 7691,
+      "title": "Skull Man",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "br",
+        "ru",
+        "gb"
+      ]
     },
     {
-      "id": 27634,
-      "title": "MW",
-      "score": 0.748,
-      "r18": false
+      "id": 398,
+      "title": "Tsumi to Batsu - A Falsified Romance",
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "es"
+      ]
+    },
+    {
+      "id": 12106,
+      "title": "Horizon",
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4568,
+      "title": "Galaxy Express 999",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50185,
+      "title": "The Most Notorious &quot;Talker&quot; Runs the World's Greatest Clan",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "ru",
+        "vn",
+        "mx",
+        "br"
+      ]
+    },
+    {
+      "id": 47118,
+      "title": "The Far East Incident",
+      "score": 0.219,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2737,
+      "title": "Akira",
+      "score": 0.219,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br",
+        "bg"
+      ]
+    },
+    {
+      "id": 25180,
+      "title": "Metroid (E-Manga)",
+      "score": 0.217,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 43919,
+      "title": "The Sorrows of Young Werther",
+      "score": 0.213,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2453,
+      "title": "Shut Hell",
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa"
+      ]
+    },
+    {
+      "id": 42751,
+      "title": "Chitei Ryokou",
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     }
   ]
 }

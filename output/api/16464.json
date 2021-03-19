@@ -2,25 +2,36 @@
   "id": 16464,
   "title": "Kuroi Fuku no Shoujo Fren",
   "url": "https://mangadex.org/manga/16464",
-  "last_updated": "March 15, 2021 16:41:55 UTC",
+  "last_updated": "March 18, 2021 08:10:15 UTC",
   "matches": [
     {
       "id": 1117,
       "title": "Adventure Boys",
       "score": 0.181,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "ru"
+      ]
     },
     {
       "id": 23583,
       "title": "Kuuchuu Teien no Hitobito",
       "score": 0.161,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19490,
       "title": "Yume",
       "score": 0.145,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

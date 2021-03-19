@@ -2,43 +2,54 @@
   "id": 13169,
   "title": "Innaikansen",
   "url": "https://mangadex.org/manga/13169",
-  "last_updated": "March 15, 2021 08:31:18 UTC",
+  "last_updated": "March 18, 2021 07:38:05 UTC",
   "matches": [
     {
       "id": 15179,
       "title": "Mune ga Kowaresou",
       "score": 0.284,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8716,
       "title": "Nennen Saisai",
-      "score": 0.2,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "tr"
+      ]
     },
     {
       "id": 20301,
       "title": "Ashita, Shinu",
-      "score": 0.2,
-      "r18": false
-    },
-    {
-      "id": 17003,
-      "title": "Canis",
-      "score": 0.192,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19115,
       "title": "VASSALORD",
-      "score": 0.178,
-      "r18": false
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21642,
       "title": "Crow's Library of Danmei",
       "score": 0.145,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

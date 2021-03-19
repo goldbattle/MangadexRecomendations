@@ -2,49 +2,71 @@
   "id": 53308,
   "title": "Shogo Beat",
   "url": "https://mangadex.org/manga/53308",
-  "last_updated": "January 16, 2021 01:05:01 UTC",
+  "last_updated": "March 18, 2021 13:45:33 UTC",
   "matches": [
-    {
-      "id": 31871,
-      "title": "Zenra Inkou Sengen!!",
-      "score": 0.775,
-      "r18": false
-    },
-    {
-      "id": 47140,
-      "title": "Sister &hArr; Sister",
-      "score": 0.727,
-      "r18": false
-    },
     {
       "id": 53310,
       "title": "Gekou Jikoku ni Yarimashita.",
-      "score": 0.714,
-      "r18": false
+      "score": 0.336,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 43841,
       "title": "They&rsquo;re All Little and They&rsquo;re All Sluts!",
-      "score": 0.673,
-      "r18": false
+      "score": 0.324,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 46297,
-      "title": "Sin &amp; Secret",
-      "score": 0.153,
-      "r18": false
+      "id": 31871,
+      "title": "Zenra Inkou Sengen!!",
+      "score": 0.305,
+      "r18": true,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 47140,
+      "title": "Sister &hArr; Sister",
+      "score": 0.24,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 35346,
       "title": "Can I Have Onii-chan's Virginity?",
-      "score": 0.152,
-      "r18": false
+      "score": 0.144,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 30920,
       "title": "Gaki ni Modotte Yarinaoshi!!!",
-      "score": 0.109,
-      "r18": false
+      "score": 0.102,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 46297,
+      "title": "Sin &amp; Secret",
+      "score": 0.09,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

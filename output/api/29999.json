@@ -2,43 +2,76 @@
   "id": 29999,
   "title": "Alcohol ?%",
   "url": "https://mangadex.org/manga/29999",
-  "last_updated": "January 13, 2021 07:01:05 UTC",
+  "last_updated": "March 18, 2021 10:30:55 UTC",
   "matches": [
     {
       "id": 55081,
       "title": "After the Curtain Call",
-      "score": 0.311,
-      "r18": false
-    },
-    {
-      "id": 30315,
-      "title": "Her Shim-Cheong",
-      "score": 0.298,
-      "r18": false
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 58173,
       "title": "Sea of June",
-      "score": 0.29,
-      "r18": false
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 30315,
+      "title": "Her Shim-Cheong",
+      "score": 0.244,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
     },
     {
       "id": 51007,
       "title": "Ghosts of Greywoods",
-      "score": 0.27,
-      "r18": false
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
-      "id": 54043,
-      "title": "Blithe",
-      "score": 0.233,
-      "r18": false
+      "id": 55433,
+      "title": "The Girl That Wants To Become Cuter, and the Clothing Shop Woman",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 54373,
       "title": "Susuhara is a Demon!",
-      "score": 0.23,
-      "r18": false
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
+    },
+    {
+      "id": 54043,
+      "title": "Blithe",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     }
   ]
 }

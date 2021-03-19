@@ -2,19 +2,30 @@
   "id": 39399,
   "title": "Black Lagoon (fan colored)",
   "url": "https://mangadex.org/manga/39399",
-  "last_updated": "March 18, 2021 04:23:20 UTC",
+  "last_updated": "March 18, 2021 11:49:20 UTC",
   "matches": [
     {
       "id": 43476,
       "title": "Yakuza Reincarnation",
-      "score": 0.1,
-      "r18": false
+      "score": 0.099,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru",
+        "br",
+        "id"
+      ]
     },
     {
       "id": 43372,
       "title": "Lockdown No Escape",
-      "score": 0.05,
-      "r18": false
+      "score": 0.049,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     }
   ]
 }

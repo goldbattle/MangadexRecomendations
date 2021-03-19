@@ -2,49 +2,77 @@
   "id": 28255,
   "title": "Yukipon no Oshigoto",
   "url": "https://mangadex.org/manga/28255",
-  "last_updated": "March 17, 2021 00:38:03 UTC",
+  "last_updated": "March 18, 2021 10:16:22 UTC",
   "matches": [
     {
       "id": 27811,
       "title": "Tenchi Souzou Design-bu",
-      "score": 0.224,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "ru",
+        "br"
+      ]
     },
     {
       "id": 57476,
       "title": "Dragon no Chinchin wo Mi ni Ikou",
       "score": 0.16,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br"
+      ]
     },
     {
       "id": 40046,
       "title": "Ojou to Nanahiki no Inu",
-      "score": 0.14,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 52133,
       "title": "Sennen Kitsune",
-      "score": 0.14,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 59058,
       "title": "A Little Story about a Fish Thief who Steals with Impunity",
       "score": 0.124,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22723,
       "title": "Sewayaki Kitsune no Senko-san",
-      "score": 0.102,
-      "r18": false
+      "score": 0.101,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr",
+        "pl",
+        "cz"
+      ]
     },
     {
       "id": 20583,
       "title": "The Mermaid Princess's Guilty Meal",
       "score": 0.08,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     }
   ]
 }

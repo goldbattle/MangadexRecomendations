@@ -2,55 +2,90 @@
   "id": 10800,
   "title": "Bambino! Secondo",
   "url": "https://mangadex.org/manga/10800",
-  "last_updated": "March 15, 2021 00:32:52 UTC",
+  "last_updated": "March 18, 2021 07:17:38 UTC",
   "matches": [
     {
       "id": 15177,
       "title": "The Chef",
       "score": 0.312,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 28535,
       "title": "Heaven?",
       "score": 0.303,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 12093,
       "title": "Amaama to Inazuma",
       "score": 0.242,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 34823,
       "title": "Masaki no Pan",
-      "score": 0.231,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 37264,
       "title": "Veggie Hot Bun's School Spring Holiday",
-      "score": 0.188,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 528,
       "title": "3-gatsu no Lion",
-      "score": 0.181,
-      "r18": false
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "vn"
+      ]
     },
     {
       "id": 22410,
       "title": "Isekai Ryouridou",
-      "score": 0.151,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "hu",
+        "it"
+      ]
     },
     {
       "id": 19820,
       "title": "Kuutei Dragons",
       "score": 0.147,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "ru",
+        "mx",
+        "gb"
+      ]
     }
   ]
 }

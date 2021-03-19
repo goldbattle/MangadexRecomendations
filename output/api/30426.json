@@ -2,19 +2,35 @@
   "id": 30426,
   "title": "My Dear Deadman",
   "url": "https://mangadex.org/manga/30426",
-  "last_updated": "January 13, 2021 12:49:40 UTC",
+  "last_updated": "March 18, 2021 10:34:28 UTC",
   "matches": [
     {
       "id": 27526,
       "title": "Dousaibou Seibutsu",
-      "score": 0.233,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 28036,
+      "title": "Cynical World",
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 58286,
       "title": "Perfect Appearance",
-      "score": 0.156,
-      "r18": false
+      "score": 0.133,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

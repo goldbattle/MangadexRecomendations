@@ -2,73 +2,76 @@
   "id": 17538,
   "title": "Anata ga Watashi to Kurashitara",
   "url": "https://mangadex.org/manga/17538",
-  "last_updated": "March 15, 2021 21:41:10 UTC",
+  "last_updated": "March 18, 2021 08:28:00 UTC",
   "matches": [
-    {
-      "id": 19867,
-      "title": "Game: Suit no Sukima",
-      "score": 0.366,
-      "r18": false
-    },
     {
       "id": 58278,
       "title": "Ai Toka Ii Kara Dakishimete",
       "score": 0.363,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19867,
+      "title": "Game: Suit no Sukima",
+      "score": 0.362,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 22238,
       "title": "Toge ni Kuchizuke",
-      "score": 0.341,
-      "r18": false
+      "score": 0.34,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 32438,
       "title": "Chippai Kanojo to Bijin Kareshi",
-      "score": 0.338,
-      "r18": false
+      "score": 0.337,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 612,
       "title": "Delivery",
-      "score": 0.317,
-      "r18": false
-    },
-    {
-      "id": 55277,
-      "title": "Kimi no Voice ni Koshikudake",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 20687,
-      "title": "Onegai, Sore o Yamenai de",
-      "score": 0.265,
-      "r18": false
-    },
-    {
-      "id": 54019,
-      "title": "YomeBaka Danna no Hoshii Mono",
-      "score": 0.232,
-      "r18": false
-    },
-    {
-      "id": 54336,
-      "title": "Ijiwaru Kohai-kun",
-      "score": 0.232,
-      "r18": false
+      "score": 0.316,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 50618,
       "title": "Lost Things",
-      "score": 0.213,
-      "r18": false
+      "score": 0.212,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 52880,
       "title": "Herbalist",
       "score": 0.161,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     }
   ]
 }

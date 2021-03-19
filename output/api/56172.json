@@ -2,31 +2,26 @@
   "id": 56172,
   "title": "Kimi to Kanchigai Romansu",
   "url": "https://mangadex.org/manga/56172",
-  "last_updated": "March 13, 2021 00:22:51 UTC",
+  "last_updated": "March 18, 2021 14:09:30 UTC",
   "matches": [
-    {
-      "id": 55967,
-      "title": "Shojo-chan to Onee Incubus",
-      "score": 0.28,
-      "r18": false
-    },
     {
       "id": 53991,
       "title": "Mousou OL wa Incubus to xxx Shitai",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "cn"
+      ]
     },
     {
       "id": 54355,
       "title": "Yumekui ~Watashi, Maiban Akuma (Kedamono) ni Dakarete masu.~",
       "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 53569,
-      "title": "Parasol Protectorate",
-      "score": 0.08,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "cn"
+      ]
     }
   ]
 }

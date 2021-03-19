@@ -1,56 +1,36 @@
 {
   "id": 54355,
   "title": "Yumekui ~Watashi, Maiban Akuma (Kedamono) ni Dakarete masu.~",
-  "url": "https://api.mangadex.org/v2/manga/54355",
-  "last_updated": "March 12, 2021 20:24:35 UTC",
+  "url": "https://mangadex.org/manga/54355",
+  "last_updated": "March 18, 2021 13:54:18 UTC",
   "matches": [
     {
       "id": 53991,
       "title": "Mousou OL wa Incubus to xxx Shitai",
-      "score": 0.367,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb",
+        "cn"
+      ]
     },
     {
-      "id": 55967,
-      "title": "Shojo-chan to Onee Incubus",
-      "score": 0.354,
-      "r18": false
-    },
-    {
-      "id": 1310,
-      "title": "Midnight Secretary",
-      "score": 0.257,
-      "r18": false
-    },
-    {
-      "id": 46876,
-      "title": "Bloody Kiss",
-      "score": 0.227,
-      "r18": false
+      "id": 56172,
+      "title": "Kimi to Kanchigai Romansu",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "cn"
+      ]
     },
     {
       "id": 54796,
       "title": "Tonari no Kire na Hito",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 55176,
-      "title": "Erito joshi no amakute furachina himitsu",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 56531,
-      "title": "Oni kakarich\u014d wa ahona ko o aishitai",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 53569,
-      "title": "Parasol Protectorate",
-      "score": 0.124,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "cn"
+      ]
     }
   ]
 }

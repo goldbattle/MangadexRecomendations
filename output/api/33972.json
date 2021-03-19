@@ -1,140 +1,295 @@
 {
   "id": 33972,
   "title": "Kidou Senshi Gundam - Gyakushuu no Char",
-  "url": "https://api.mangadex.org/v2/manga/33972",
-  "last_updated": "February 10, 2021 12:46:48 UTC",
+  "url": "https://mangadex.org/manga/33972",
+  "last_updated": "March 18, 2021 11:04:02 UTC",
   "matches": [
-    {
-      "id": 14153,
-      "title": "Konjiki no Word Master - Yuusha Yonin ni Makikomareta Unique Cheat",
-      "score": 0.67,
-      "r18": false
-    },
-    {
-      "id": 4511,
-      "title": "Ore ga Akuma de, Aitsu ga Yome de",
-      "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 40246,
-      "title": "Mahoutsukai no Reimeiki",
-      "score": 0.669,
-      "r18": false
-    },
     {
       "id": 125,
       "title": "Gunslinger Girl",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 33136,
-      "title": "Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 36767,
-      "title": "The Villainess Will Crush Her Destruction End Through Modern Firepower",
-      "score": 0.654,
-      "r18": false
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3924,
       "title": "Extra Existence",
-      "score": 0.314,
-      "r18": false
-    },
-    {
-      "id": 57769,
-      "title": "Ore, Twintail ni Narimasu. Pai",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 35675,
-      "title": "Boukensha License wo Hakudatsu Sareta Ossan Dakedo, Manamusume ga Dekita no de Nonbiri Jinsei wo Oukasuru",
-      "score": 0.27,
-      "r18": false
+      "score": 0.196,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 47471,
       "title": "Sheltered Girl in an Apocalyptic World",
-      "score": 0.268,
-      "r18": false
+      "score": 0.173,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 42756,
-      "title": "I Became the Demon King's Right Hand so I'm Corrupting the Story",
-      "score": 0.253,
-      "r18": false
+      "id": 57769,
+      "title": "Ore, Twintail ni Narimasu. Pai",
+      "score": 0.169,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 41825,
-      "title": "My Bodyguard Is 4 Feet Tall",
-      "score": 0.252,
-      "r18": false
+      "id": 22843,
+      "title": "Saving 80,000 Gold Coins in the Different World for My Old Age",
+      "score": 0.169,
+      "r18": false,
+      "languages": [
+        "th",
+        "id",
+        "gb",
+        "tr",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 14153,
+      "title": "Konjiki no Word Master - Yuusha Yonin ni Makikomareta Unique Cheat",
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "fr",
+        "ru",
+        "pl",
+        "it"
+      ]
+    },
+    {
+      "id": 38955,
+      "title": "Fate/Grand Order: Epic of Remnant: Pseudo-Singularity IV: The Forbidden Advent Garden, Salem - Heretical Salem",
+      "score": 0.153,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "mx",
+        "es",
+        "ru"
+      ]
+    },
+    {
+      "id": 36767,
+      "title": "The Villainess Will Crush Her Destruction End Through Modern Firepower",
+      "score": 0.142,
+      "r18": false,
+      "languages": [
+        "gb",
+        "th",
+        "br",
+        "ru"
+      ]
     },
     {
       "id": 41078,
       "title": "Your SSS-rank Afterlife is Confirmed, Virtuous Old Man",
-      "score": 0.243,
-      "r18": false
+      "score": 0.142,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "ru",
+        "fr"
+      ]
     },
     {
-      "id": 51763,
-      "title": "I Was Fired as an Adventurer, so I Became an Alchemist!",
-      "score": 0.237,
-      "r18": false
+      "id": 56978,
+      "title": "Shin no Jitsuryoku wa Girigiri Made Kakushite Iyou to Omou",
+      "score": 0.142,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "fr",
+        "id",
+        "br",
+        "ru"
+      ]
     },
     {
-      "id": 32153,
-      "title": "Taimashi to Akuma-chan",
-      "score": 0.236,
-      "r18": false
+      "id": 35675,
+      "title": "Boukensha License wo Hakudatsu Sareta Ossan Dakedo, Manamusume ga Dekita no de Nonbiri Jinsei wo Oukasuru",
+      "score": 0.142,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "ru"
+      ]
     },
     {
-      "id": 43350,
-      "title": "Taimashi to Akuma-chan  (Fan Colored)",
-      "score": 0.235,
-      "r18": false
+      "id": 40246,
+      "title": "Mahoutsukai Reimeiki",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 23061,
-      "title": "Taimashi to Akuma-chan (pixiv)",
-      "score": 0.233,
-      "r18": false
+      "id": 42756,
+      "title": "I Became the Demon King's Right Hand so I'm Corrupting the Story",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "es",
+        "id"
+      ]
+    },
+    {
+      "id": 26297,
+      "title": "Maou ni Natta node, Dungeon Tsukutte Jingai Musume to Honobono suru",
+      "score": 0.132,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "ru",
+        "es",
+        "fr"
+      ]
     },
     {
       "id": 48016,
       "title": "The Night God",
-      "score": 0.217,
-      "r18": false
+      "score": 0.123,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 37877,
-      "title": "Shounin Yuusha wa Isekai wo Gyuujiru!",
-      "score": 0.215,
-      "r18": false
+      "id": 4511,
+      "title": "Ore ga Akuma de, Aitsu ga Yome de",
+      "score": 0.123,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "hu"
+      ]
     },
     {
-      "id": 37157,
-      "title": "Dark Gathering",
-      "score": 0.214,
-      "r18": false
+      "id": 23061,
+      "title": "Taimashi to Akuma-chan (pixiv)",
+      "score": 0.122,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br"
+      ]
+    },
+    {
+      "id": 43350,
+      "title": "Taimashi to Akuma-chan  (Fan Colored)",
+      "score": 0.122,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 32153,
+      "title": "Taimashi to Akuma-chan",
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "mx",
+        "br"
+      ]
+    },
+    {
+      "id": 41825,
+      "title": "My Bodyguard Is 4 Feet Tall",
+      "score": 0.117,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 51763,
+      "title": "I Was Fired as an Adventurer, so I Became an Alchemist!",
+      "score": 0.115,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb"
+      ]
+    },
+    {
+      "id": 33136,
+      "title": "Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore",
+      "score": 0.115,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "id",
+        "ru",
+        "br"
+      ]
     },
     {
       "id": 35573,
       "title": "The Small Sage Will Try Her Best in the Different World from Lv. 1!",
-      "score": 0.182,
-      "r18": false
+      "score": 0.115,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "id"
+      ]
     },
     {
-      "id": 42821,
-      "title": "Good Morning Psychopath",
-      "score": 0.108,
-      "r18": false
+      "id": 37877,
+      "title": "Shounin Yuusha wa Isekai wo Gyuujiru!",
+      "score": 0.115,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "mx",
+        "br"
+      ]
+    },
+    {
+      "id": 37157,
+      "title": "Dark Gathering",
+      "score": 0.115,
+      "r18": false,
+      "languages": [
+        "hk",
+        "mx",
+        "vn",
+        "gb"
+      ]
     }
   ]
 }

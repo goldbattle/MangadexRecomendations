@@ -2,37 +2,56 @@
   "id": 28390,
   "title": "Noenoto",
   "url": "https://mangadex.org/manga/28390",
-  "last_updated": "March 17, 2021 00:39:35 UTC",
+  "last_updated": "March 18, 2021 10:17:29 UTC",
   "matches": [
     {
       "id": 17726,
       "title": "The Flustered Shabby Santa Claus",
       "score": 0.35,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "pl"
+      ]
     },
     {
       "id": 8944,
       "title": "Jijou Ari Undead",
-      "score": 0.28,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 8013,
       "title": "Orthoros",
-      "score": 0.28,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 48692,
       "title": "Heir to the Cabbage Patch",
-      "score": 0.28,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 57560,
       "title": "The Flower Doll and her Husband",
       "score": 0.175,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

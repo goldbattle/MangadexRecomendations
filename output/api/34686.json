@@ -1,158 +1,281 @@
 {
   "id": 34686,
   "title": "A Taste of Love",
-  "url": "https://api.mangadex.org/v2/manga/34686",
-  "last_updated": "February 10, 2021 16:32:25 UTC",
+  "url": "https://mangadex.org/manga/34686",
+  "last_updated": "March 18, 2021 11:09:59 UTC",
   "matches": [
-    {
-      "id": 44606,
-      "title": "No Longer a Heroine!",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 58041,
-      "title": "Aideen",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 54218,
-      "title": "The Lady and the Beast",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 43950,
-      "title": "The Goddess of Healing",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 13959,
-      "title": "E? Heibon Desu yo??",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 58387,
-      "title": "His 10,000 Romantic Traps",
-      "score": 0.671,
-      "r18": false
-    },
-    {
-      "id": 46884,
-      "title": "I Am Not Your Enemy",
-      "score": 0.669,
-      "r18": false
-    },
     {
       "id": 51257,
       "title": "I Stole the Male Lead's First Night",
-      "score": 0.669,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mm",
+        "tr",
+        "mx"
+      ]
+    },
+    {
+      "id": 55290,
+      "title": "A Wicked Tale of Cinderella's Stepmom",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "mm",
+        "hu",
+        "th",
+        "mx",
+        "sa",
+        "id"
+      ]
+    },
+    {
+      "id": 36740,
+      "title": "The Villain's Savior",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "id",
+        "ru",
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 2639,
       "title": "Abide in the Wind",
-      "score": 0.667,
-      "r18": false
+      "score": 0.237,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 43724,
-      "title": "Golden Time",
-      "score": 0.666,
-      "r18": false
+      "id": 42775,
+      "title": "Crimson Karma",
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "de",
+        "it"
+      ]
+    },
+    {
+      "id": 54218,
+      "title": "The Lady and the Beast",
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "id",
+        "mx",
+        "fr"
+      ]
+    },
+    {
+      "id": 54696,
+      "title": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
+      "score": 0.226,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 44346,
+      "title": "The Evil Lady's Hero",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "tr",
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 46884,
+      "title": "I Am Not Your Enemy",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 49203,
+      "title": "Supporting Villainess's Survival Diary",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 52693,
+      "title": "Legend of Dragon Mates",
+      "score": 0.217,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 46403,
+      "title": "Life in Another World as a Housekeeping Mage",
+      "score": 0.216,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 48968,
+      "title": "Wake Up, Warrior",
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 47685,
+      "title": "Memory-Erasing Bell",
+      "score": 0.212,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 54052,
       "title": "It Looks Like I've Fallen into the World of a Reverse Harem Game",
-      "score": 0.665,
-      "r18": false
+      "score": 0.212,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "tr"
+      ]
     },
     {
-      "id": 42128,
-      "title": "Restrain",
-      "score": 0.664,
-      "r18": false
+      "id": 59692,
+      "title": "I'm a Martial Art Villainess but I'm the Strongest!",
+      "score": 0.212,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
-      "id": 30627,
-      "title": "Broken Melody",
-      "score": 0.664,
-      "r18": false
+      "id": 39299,
+      "title": "Chicken Soup Queen",
+      "score": 0.212,
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
     },
     {
-      "id": 50735,
-      "title": "Breaking Through the Clouds",
-      "score": 0.664,
-      "r18": false
+      "id": 58904,
+      "title": "I Picked Up the Second Male Lead After the Ending",
+      "score": 0.212,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 29859,
-      "title": "Light and Shadow",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 49566,
-      "title": "The Plain and Unnoticeable Me Is No More",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 58084,
-      "title": "A Kind Goblin's Bird",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 42675,
-      "title": "Otome Game no Hametsu Flag shika nai Akuyaku Reijou ni Tensei shite shimatta... Zettai Zetsumei! Hametsu Sunzen Hen",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 44537,
-      "title": "Love Your Enemies",
-      "score": 0.662,
-      "r18": false
-    },
-    {
-      "id": 402,
-      "title": "7 Seeds",
-      "score": 0.662,
-      "r18": false
-    },
-    {
-      "id": 53070,
-      "title": "Otome Game no Hametsu Flag shika nai Akuyaku Reijou ni Tensei shite shimatta... Web Comic",
-      "score": 0.662,
-      "r18": false
+      "id": 47503,
+      "title": "Cheating Men Must Die and the Prime Minister",
+      "score": 0.212,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 47568,
       "title": "Fuyu Fenrir no Itoshigo to Natta Watashi ga, Zetsubou kara Iyasareteiku Hanashi",
-      "score": 0.662,
-      "r18": false
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "th"
+      ]
     },
     {
-      "id": 40156,
-      "title": "7 Seeds Gaiden",
-      "score": 0.661,
-      "r18": false
+      "id": 59752,
+      "title": "Villainess Maker",
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "fr",
+        "tr",
+        "id",
+        "br"
+      ]
     },
     {
-      "id": 38891,
-      "title": "1st Kiss",
-      "score": 0.659,
-      "r18": false
+      "id": 38546,
+      "title": "An Empty Restaurant",
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 37549,
-      "title": "Herscherik - The Epic of the Reincarnated Prince",
-      "score": 0.659,
-      "r18": false
+      "id": 49024,
+      "title": "Bewitched Brothers",
+      "score": 0.204,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 43989,
+      "title": "Tyrant's Tears",
+      "score": 0.204,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 42780,
+      "title": "Remarried Empress",
+      "score": 0.204,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "br",
+        "hu",
+        "it"
+      ]
     }
   ]
 }

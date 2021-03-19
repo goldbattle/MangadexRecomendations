@@ -1,104 +1,179 @@
 {
   "id": 46822,
   "title": "Magical Girl Kakeru",
-  "url": "https://api.mangadex.org/v2/manga/46822",
-  "last_updated": "February 12, 2021 01:00:40 UTC",
+  "url": "https://mangadex.org/manga/46822",
+  "last_updated": "March 18, 2021 12:51:18 UTC",
   "matches": [
     {
       "id": 46433,
       "title": "The Girl with a Kansai Accent and the Pure Boy",
-      "score": 0.292,
-      "r18": false
-    },
-    {
-      "id": 43317,
-      "title": "Shiboritoranaide, Onna Shounin-san",
-      "score": 0.258,
-      "r18": false
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 39407,
       "title": "The Curtain Call of the Dagashi Store",
-      "score": 0.245,
-      "r18": false
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 37253,
-      "title": "Mom, Please Don't Come Adventuring With Me! ~The Boy Who Was Raised by the Ultimate Overprotective Dragon, Becomes an Adventurer With His Mother~",
-      "score": 0.235,
-      "r18": false
+      "id": 43317,
+      "title": "Shiboritoranaide, Onna Shounin-san",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx"
+      ]
     },
     {
       "id": 37290,
       "title": "Mujintou de Elf to Kyoudou Seikatsu",
-      "score": 0.232,
-      "r18": false
+      "score": 0.161,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr",
+        "br",
+        "id"
+      ]
     },
     {
-      "id": 50566,
-      "title": "The Rise of the Unemployed Wise Man",
-      "score": 0.226,
-      "r18": false
-    },
-    {
-      "id": 19600,
-      "title": "Danberu Nan Kiro Moteru?",
-      "score": 0.225,
-      "r18": false
+      "id": 37253,
+      "title": "Mom, Please Don't Come Adventuring With Me! ~The Boy Who Was Raised by the Ultimate Overprotective Dragon, Becomes an Adventurer With His Mother~",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br",
+        "fr",
+        "id",
+        "ru"
+      ]
     },
     {
       "id": 36199,
       "title": "Taberu Dake de Level-Up! Damegami to Issho ni Isekai Musou",
-      "score": 0.221,
-      "r18": false
-    },
-    {
-      "id": 33797,
-      "title": "Lv2 kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life",
-      "score": 0.217,
-      "r18": false
+      "score": 0.154,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19657,
       "title": "Zannen Jokanbu Black General-san",
-      "score": 0.21,
-      "r18": false
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "vn",
+        "gb",
+        "br",
+        "tr"
+      ]
     },
     {
       "id": 36123,
       "title": "Isekai de Tochi o Katte Noujou o Tsukurou",
-      "score": 0.187,
-      "r18": false
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "id",
+        "fr"
+      ]
     },
     {
       "id": 51043,
       "title": "Kajiya de Hajimeru Isekai Slow Life",
-      "score": 0.184,
-      "r18": false
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "th",
+        "fr",
+        "ru"
+      ]
     },
     {
-      "id": 54265,
-      "title": "Orc Decides to Raise the Female Knight",
-      "score": 0.181,
-      "r18": false
+      "id": 50566,
+      "title": "The Rise of the Unemployed Wise Man",
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "gb",
+        "th",
+        "fr",
+        "id",
+        "br"
+      ]
+    },
+    {
+      "id": 33797,
+      "title": "Lv2 kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life",
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "fr",
+        "mx",
+        "tr",
+        "id"
+      ]
     },
     {
       "id": 43511,
       "title": "Seiken Gakuin no Maken Tsukai",
-      "score": 0.164,
-      "r18": false
-    },
-    {
-      "id": 564,
-      "title": "Nagasarete Airantou",
-      "score": 0.153,
-      "r18": false
+      "score": 0.09,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru"
+      ]
     },
     {
       "id": 11521,
       "title": "Kekkon Yubiwa Monogatari",
-      "score": 0.148,
-      "r18": false
+      "score": 0.077,
+      "r18": false,
+      "languages": [
+        "fr",
+        "br",
+        "es",
+        "ru",
+        "id",
+        "mx",
+        "it",
+        "gb",
+        "sa"
+      ]
+    },
+    {
+      "id": 564,
+      "title": "Nagasarete Airantou",
+      "score": 0.06,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "ru"
+      ]
     }
   ]
 }

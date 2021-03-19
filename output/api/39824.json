@@ -2,31 +2,46 @@
   "id": 39824,
   "title": "Dear NOMAN",
   "url": "https://mangadex.org/manga/39824",
-  "last_updated": "March 18, 2021 04:29:14 UTC",
+  "last_updated": "March 18, 2021 11:52:52 UTC",
   "matches": [
     {
       "id": 50068,
       "title": "Wake Ari na Kanojo-tachi",
-      "score": 0.25,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "mx"
+      ]
     },
     {
       "id": 53741,
       "title": "A Monster Wants to Eat Me",
-      "score": 0.245,
-      "r18": false
+      "score": 0.243,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 58270,
-      "title": "My Food Seems To Be Very Cute",
+      "title": "My Food Seems to Be Very Cute",
       "score": 0.185,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 39029,
       "title": "Till She Met Her",
       "score": 0.109,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -2,157 +2,288 @@
   "id": 39079,
   "title": "Code Adam",
   "url": "https://mangadex.org/manga/39079",
-  "last_updated": "March 18, 2021 04:18:53 UTC",
+  "last_updated": "March 18, 2021 11:46:40 UTC",
   "matches": [
-    {
-      "id": 27135,
-      "title": "Abduction School",
-      "score": 0.245,
-      "r18": false
-    },
     {
       "id": 36161,
       "title": "Dark Mortal",
       "score": 0.245,
-      "r18": false
-    },
-    {
-      "id": 9263,
-      "title": "DICE: The Cube That Changes Everything",
-      "score": 0.245,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "id"
+      ]
     },
     {
       "id": 49557,
       "title": "Rendezvous",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "ru",
+        "tr",
+        "id"
+      ]
     },
     {
       "id": 36554,
       "title": "Gong Heon Ja",
       "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 34344,
-      "title": "Housekeeper",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 55337,
-      "title": "Mabaram The School Conqueror",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 35862,
-      "title": "Energy Hunters",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 13028,
-      "title": "Gods of Time",
-      "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "pl",
+        "id",
+        "fr",
+        "sa"
+      ]
     },
     {
       "id": 8017,
       "title": "Trump",
       "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 22146,
-      "title": "Reckoning",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 33855,
-      "title": "EVE",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 57110,
-      "title": "Sherlock: Her Majesty's Detective",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 29067,
-      "title": "Stop The World",
-      "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "fr",
+        "tr"
+      ]
     },
     {
       "id": 46350,
       "title": "Trace of Doomsday",
       "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 30780,
-      "title": "Passion",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 33959,
-      "title": "Delivery Knight",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 2267,
-      "title": "UnderCity",
-      "score": 0.233,
-      "r18": false
-    },
-    {
-      "id": 37774,
-      "title": "Jinjujeon",
-      "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "id"
+      ]
     },
     {
       "id": 46765,
       "title": "Game of the Strong",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "tr",
+        "th"
+      ]
     },
     {
       "id": 38020,
       "title": "Regnal Trigger",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "fr",
+        "ru"
+      ]
     },
     {
-      "id": 50116,
-      "title": "Labyrinth Paradox",
+      "id": 7154,
+      "title": "Ability",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "fr",
+        "it"
+      ]
     },
     {
-      "id": 51410,
-      "title": "Can't Be Answered",
+      "id": 42211,
+      "title": "Disease",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "id",
+        "ir"
+      ]
     },
     {
-      "id": 52456,
-      "title": "Unpredictable",
-      "score": 0.233,
-      "r18": false
+      "id": 36834,
+      "title": "Winner Takes All",
+      "score": 0.228,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br",
+        "gb",
+        "fr",
+        "tr",
+        "ru",
+        "id",
+        "pl"
+      ]
     },
     {
-      "id": 22525,
-      "title": "Sleeping Princess and Dreaming Devil",
-      "score": 0.233,
-      "r18": false
+      "id": 44291,
+      "title": "Blood Loop",
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
+    },
+    {
+      "id": 34700,
+      "title": "Collide",
+      "score": 0.212,
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
+    },
+    {
+      "id": 47886,
+      "title": "Don't Disobey the Beast",
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "mx",
+        "fr"
+      ]
+    },
+    {
+      "id": 54903,
+      "title": "DevilShot",
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 17924,
+      "title": "Terror Man",
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "pl",
+        "br",
+        "it",
+        "ru"
+      ]
+    },
+    {
+      "id": 20674,
+      "title": "Nanbaka",
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "br",
+        "fr",
+        "gb",
+        "es",
+        "pl"
+      ]
+    },
+    {
+      "id": 47894,
+      "title": "IF",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
+    },
+    {
+      "id": 36922,
+      "title": "Pale Throne",
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "id"
+      ]
+    },
+    {
+      "id": 45865,
+      "title": "Last Word Of The World",
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "mx"
+      ]
+    },
+    {
+      "id": 39026,
+      "title": "You're In The Deep Starlight",
+      "score": 0.206,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 27831,
+      "title": "Unknown Code",
+      "score": 0.203,
+      "r18": false,
+      "languages": [
+        "mx",
+        "fr"
+      ]
+    },
+    {
+      "id": 39411,
+      "title": "Zui Liao Zai",
+      "score": 0.202,
+      "r18": false,
+      "languages": [
+        "fr",
+        "ru"
+      ]
+    },
+    {
+      "id": 57116,
+      "title": "Steal My King Back",
+      "score": 0.198,
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
+    },
+    {
+      "id": 33121,
+      "title": "Falling in the Night with You",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 19542,
+      "title": "Chuan Yue Xi Yuan 3000 Hou",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr"
+      ]
     }
   ]
 }

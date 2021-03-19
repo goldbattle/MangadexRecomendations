@@ -2,43 +2,68 @@
   "id": 5692,
   "title": "Pugyuru",
   "url": "https://mangadex.org/manga/5692",
-  "last_updated": "March 14, 2021 12:40:11 UTC",
+  "last_updated": "March 18, 2021 06:33:56 UTC",
   "matches": [
     {
       "id": 24701,
       "title": "Peta Girl",
-      "score": 0.31,
-      "r18": false
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 5992,
       "title": "Imouto wa Shishunki",
-      "score": 0.293,
-      "r18": false
+      "score": 0.292,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 35388,
       "title": "Ultra Kaiju Humanization Project &quot;GALAXY DAYS&quot;",
       "score": 0.258,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx"
+      ]
     },
     {
       "id": 500,
       "title": "B Gata H Kei",
-      "score": 0.242,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 50233,
-      "title": "World's End Harem Fantasia Academy",
-      "score": 0.194,
-      "r18": false
+      "id": 28538,
+      "title": "Otome Bare",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx"
+      ]
     },
     {
       "id": 21423,
       "title": "Yuuutsu-kun to Succubus-san",
-      "score": 0.194,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

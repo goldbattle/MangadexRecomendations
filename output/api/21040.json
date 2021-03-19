@@ -2,25 +2,62 @@
   "id": 21040,
   "title": "Parallel Paradise",
   "url": "https://mangadex.org/manga/21040",
-  "last_updated": "March 16, 2021 04:20:07 UTC",
+  "last_updated": "March 18, 2021 09:02:00 UTC",
   "matches": [
     {
       "id": 36197,
       "title": "Makenshi no Maken Niyoru Maken no Tame no Harem Life",
       "score": 0.242,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "id",
+        "br",
+        "mx"
+      ]
     },
     {
       "id": 21758,
       "title": "Kaifuku Jutsushi no Yarinaoshi",
       "score": 0.2,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "pl",
+        "br",
+        "fr",
+        "sa",
+        "mx",
+        "it",
+        "de"
+      ]
+    },
+    {
+      "id": 48420,
+      "title": "Road to Kingdom",
+      "score": 0.196,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr"
+      ]
     },
     {
       "id": 29115,
       "title": "Game of Familia: Kazoku Senki",
       "score": 0.164,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "mx",
+        "ru",
+        "fr",
+        "br"
+      ]
     }
   ]
 }

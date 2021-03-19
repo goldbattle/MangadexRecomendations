@@ -1,158 +1,278 @@
 {
   "id": 55471,
   "title": "Maou-sama, Retry! R",
-  "url": "https://api.mangadex.org/v2/manga/55471",
-  "last_updated": "March 12, 2021 20:38:14 UTC",
+  "url": "https://mangadex.org/manga/55471",
+  "last_updated": "March 18, 2021 14:03:38 UTC",
   "matches": [
-    {
-      "id": 43715,
-      "title": "The Devil's Show!",
-      "score": 0.712,
-      "r18": false
-    },
     {
       "id": 29336,
       "title": "Lazy Dungeon Master",
-      "score": 0.701,
-      "r18": false
+      "score": 0.227,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr",
+        "id",
+        "br",
+        "mx"
+      ]
     },
     {
-      "id": 182,
-      "title": "Rotte no Omocha!",
-      "score": 0.697,
-      "r18": false
-    },
-    {
-      "id": 15001,
-      "title": "Gion no Tsugai",
-      "score": 0.695,
-      "r18": false
-    },
-    {
-      "id": 7074,
-      "title": "Kamiyadori",
-      "score": 0.691,
-      "r18": false
-    },
-    {
-      "id": 3111,
-      "title": "Domina no Do!",
-      "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 13529,
-      "title": "Kudamimi no Neko",
-      "score": 0.674,
-      "r18": false
-    },
-    {
-      "id": 28838,
-      "title": "Isekai de Kojiin wo Hiraitakedo, nazeka Darehitori Sudatou to Shinai Ken",
-      "score": 0.674,
-      "r18": false
-    },
-    {
-      "id": 23388,
-      "title": "Isekai Death Game ni Tensou sarete Tsurai",
-      "score": 0.671,
-      "r18": false
-    },
-    {
-      "id": 1553,
-      "title": "Kanojo no Kagi wo Akeru Houhou",
-      "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 7120,
-      "title": "Shinshi na Meets Girl",
-      "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 44661,
-      "title": "I'm Not a Lolicon!",
-      "score": 0.662,
-      "r18": false
-    },
-    {
-      "id": 700,
-      "title": "Ro-Kyu-Bu!",
-      "score": 0.662,
-      "r18": false
-    },
-    {
-      "id": 415,
-      "title": "Needless",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 20380,
-      "title": "Elf-san wa Yaserarenai",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 21877,
-      "title": "Meikyuu Black Company",
-      "score": 0.334,
-      "r18": false
+      "id": 15286,
+      "title": "Fate/stay night: Heaven's Feel",
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru",
+        "es",
+        "br",
+        "id"
+      ]
     },
     {
       "id": 3342,
       "title": "Neko Musume Michikusa Nikki",
-      "score": 0.332,
-      "r18": false
+      "score": 0.203,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 57487,
-      "title": "Monday's Forecast for Hareyakana-shi",
-      "score": 0.267,
-      "r18": false
+      "id": 20380,
+      "title": "Elf-san wa Yaserarenai",
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
-      "id": 35468,
-      "title": "Night Bound \u25c6 Aubade",
-      "score": 0.252,
-      "r18": false
+      "id": 21877,
+      "title": "Meikyuu Black Company",
+      "score": 0.197,
+      "r18": false,
+      "languages": [
+        "ru",
+        "mx",
+        "gb"
+      ]
     },
     {
-      "id": 55950,
-      "title": "Tsumuji Magari x Spring",
-      "score": 0.251,
-      "r18": false
+      "id": 28838,
+      "title": "Isekai de Kojiin wo Hiraitakedo, nazeka Darehitori Sudatou to Shinai Ken",
+      "score": 0.184,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "id",
+        "ru",
+        "fr"
+      ]
     },
     {
-      "id": 25662,
-      "title": "Kyou Kara Ore wa Loli no Himo!",
-      "score": 0.251,
-      "r18": false
+      "id": 182,
+      "title": "Rotte no Omocha!",
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "it"
+      ]
+    },
+    {
+      "id": 23388,
+      "title": "Isekai Death Game ni Tensou sarete Tsurai",
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 31488,
       "title": "Isekai Ojisan",
-      "score": 0.249,
-      "r18": false
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "ru"
+      ]
+    },
+    {
+      "id": 55950,
+      "title": "Tsumuji Magari x Spring",
+      "score": 0.14,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 57487,
+      "title": "Monday's Forecast for Hareyakana-shi",
+      "score": 0.137,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7074,
+      "title": "Kamiyadori",
+      "score": 0.136,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 43715,
+      "title": "The Devil's Show!",
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 35149,
+      "title": "Belial-sama wa Shitennou no Naka demo xx",
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 15001,
+      "title": "Gion no Tsugai",
+      "score": 0.126,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 25662,
+      "title": "Kyou Kara Ore wa Loli no Himo!",
+      "score": 0.118,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx"
+      ]
+    },
+    {
+      "id": 35468,
+      "title": "Night Bound \u25c6 Aubade",
+      "score": 0.118,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 700,
+      "title": "Ro-Kyu-Bu!",
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 415,
+      "title": "Needless",
+      "score": 0.115,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7635,
       "title": "Fate/kaleid liner PRISMA\u2606ILLYA 3rei!!",
-      "score": 0.236,
-      "r18": false
-    },
-    {
-      "id": 34154,
-      "title": "ChinChin KemoKemo",
-      "score": 0.235,
-      "r18": false
+      "score": 0.115,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx",
+        "ua",
+        "fr",
+        "br"
+      ]
     },
     {
       "id": 1049,
       "title": "Lolicon Saga",
-      "score": 0.223,
-      "r18": false
+      "score": 0.115,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1553,
+      "title": "Kanojo no Kagi wo Akeru Houhou",
+      "score": 0.115,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "fr",
+        "de"
+      ]
+    },
+    {
+      "id": 3111,
+      "title": "Domina no Do!",
+      "score": 0.114,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 13529,
+      "title": "Kudamimi no Neko",
+      "score": 0.112,
+      "r18": false,
+      "languages": [
+        "tr",
+        "mx",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 40502,
+      "title": "Tabako-chan",
+      "score": 0.109,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br"
+      ]
     }
   ]
 }

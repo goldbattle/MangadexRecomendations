@@ -2,97 +2,73 @@
   "id": 38932,
   "title": "Hotel Phryne",
   "url": "https://mangadex.org/manga/38932",
-  "last_updated": "March 18, 2021 04:16:48 UTC",
+  "last_updated": "March 18, 2021 11:45:25 UTC",
   "matches": [
-    {
-      "id": 30331,
-      "title": "Antinomy",
-      "score": 0.214,
-      "r18": false
-    },
     {
       "id": 22685,
       "title": "Heaven &amp; Hell Roman Company",
       "score": 0.214,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "tr",
+        "br"
+      ]
     },
     {
       "id": 33269,
       "title": "Cat in a Cardboard Box",
       "score": 0.214,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "tr",
+        "id"
+      ]
     },
     {
       "id": 58590,
       "title": "The Sales Department's Cupid",
       "score": 0.214,
-      "r18": false
-    },
-    {
-      "id": 43493,
-      "title": "To Catch A Falling Star",
-      "score": 0.214,
-      "r18": false
-    },
-    {
-      "id": 50848,
-      "title": "Tiger Flower",
-      "score": 0.214,
-      "r18": false
-    },
-    {
-      "id": 43410,
-      "title": "Angel Buddy",
-      "score": 0.167,
-      "r18": false
-    },
-    {
-      "id": 46788,
-      "title": "Two Moments",
-      "score": 0.167,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
     },
     {
       "id": 40002,
       "title": "Sit, Wait, Kiss Me",
-      "score": 0.167,
-      "r18": false
-    },
-    {
-      "id": 38707,
-      "title": "A Night To Remember",
-      "score": 0.167,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "tr"
+      ]
     },
     {
       "id": 39271,
       "title": "Tale of the Yellow Dragon",
-      "score": 0.167,
-      "r18": false
-    },
-    {
-      "id": 24269,
-      "title": "River God Seeks Adoption",
-      "score": 0.15,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "tr",
+        "fr"
+      ]
     },
     {
       "id": 36041,
       "title": "Zombie Hide Sex",
       "score": 0.148,
-      "r18": false
-    },
-    {
-      "id": 42699,
-      "title": "A Curse Beyond the Witch's Intentions",
-      "score": 0.136,
-      "r18": false
-    },
-    {
-      "id": 47454,
-      "title": "You Yao lai zhi hua zhong xian",
-      "score": 0.125,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br",
+        "mx"
+      ]
     }
   ]
 }

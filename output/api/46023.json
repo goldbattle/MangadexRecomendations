@@ -1,158 +1,269 @@
 {
   "id": 46023,
   "title": "Tasogare Mareless",
-  "url": "https://api.mangadex.org/v2/manga/46023",
-  "last_updated": "February 11, 2021 20:35:15 UTC",
+  "url": "https://mangadex.org/manga/46023",
+  "last_updated": "March 18, 2021 12:44:37 UTC",
   "matches": [
     {
-      "id": 3867,
-      "title": "M&Auml;R",
-      "score": 0.693,
-      "r18": false
+      "id": 51417,
+      "title": "Shikkaku kara Hajimeru Nariagari Madou Shidou!",
+      "score": 0.274,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 42236,
-      "title": "Heaven Official's Blessing (old version)",
-      "score": 0.691,
-      "r18": false
+      "id": 42750,
+      "title": "Nito no Taidana Isekai Shoukougun: Saijaku Shoku &quot;Healer&quot; nano ni Saikyou wa Cheat desu ka?",
+      "score": 0.274,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "br",
+        "ru",
+        "fr",
+        "mx"
+      ]
     },
     {
-      "id": 33863,
-      "title": "The Beginning After the End",
-      "score": 0.691,
-      "r18": false
+      "id": 22239,
+      "title": "Isekai Yuusha No Satsujin Yuugi",
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 40316,
+      "title": "Daybreak: The Crossdressing Female Magician and the Golden Knight",
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 39917,
+      "title": "The Seamstress Girl",
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 44405,
+      "title": "Gokufuri Kyohi Shite Tesaguri Start! Tokka Shinai Healer, Nakama to Wakarete Tabi ni Deru",
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 38749,
+      "title": "Yakudatazu Skill ni Jinsei o Sosogikomi 25-nen, Imasara Saikyou no Boukentan Midori Kashi no Akira",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "th",
+        "gb",
+        "ru",
+        "br",
+        "id"
+      ]
+    },
+    {
+      "id": 59637,
+      "title": "Level 99 Boukensha ni Yoru Hajimete no Ryouchi Keiei",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 50250,
+      "title": "I, a Commoner, Was Actually Reincarnated",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 23765,
+      "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "fr",
+        "id",
+        "pl"
+      ]
+    },
+    {
+      "id": 33225,
+      "title": "Akachan Ryuu no Osewagakari ni Ninmei Saremashita",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 41780,
       "title": "Kirara Fantasia",
-      "score": 0.687,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 40570,
-      "title": "The Evil Lady Will Change",
-      "score": 0.686,
-      "r18": false
+      "id": 4454,
+      "title": "Fire Emblem: Hasha no Tsurugi",
+      "score": 0.235,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 14850,
       "title": "Death March kara Hajimaru Isekai Kyousoukyoku",
-      "score": 0.686,
-      "r18": false
+      "score": 0.235,
+      "r18": false,
+      "languages": [
+        "br",
+        "id",
+        "gb",
+        "it",
+        "fr",
+        "mx",
+        "pl"
+      ]
     },
     {
-      "id": 21914,
-      "title": "Almadianos Eiyuuden",
-      "score": 0.684,
-      "r18": false
+      "id": 56483,
+      "title": "Boku no Kawaii Musume wa Futago no Kenja",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 23195,
-      "title": "The Great Ruler",
-      "score": 0.684,
-      "r18": false
+      "id": 53622,
+      "title": "Hello, I Am a Witch, and My Crush Wants Me to Make a Love Potion!",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb"
+      ]
     },
     {
-      "id": 19671,
-      "title": "Sword Art Online - Project Alicization",
-      "score": 0.684,
-      "r18": false
+      "id": 10311,
+      "title": "Tsurugi no Joou to Rakuin no Ko",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 22166,
-      "title": "Curse Blood",
-      "score": 0.684,
-      "r18": false
+      "id": 38362,
+      "title": "Koryuu Nara Sude de Taosemasu Kedo, Kore tte Joushiki Janain Desu ka?",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 31002,
-      "title": "Jimi na Kensei wa Sore Demo Saikyou Desu",
-      "score": 0.681,
-      "r18": false
+      "id": 50915,
+      "title": "Escape of the Duke&rsquo;s Heartbroken Daughter",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 44089,
-      "title": "Isekai Teni, Jirai Tsuki.",
-      "score": 0.681,
-      "r18": false
+      "id": 7860,
+      "title": "Obito no Hime to Kubinashi Kishi",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "hu",
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 15112,
-      "title": "Bravely Default - Flying Fairy",
-      "score": 0.68,
-      "r18": false
+      "id": 40555,
+      "title": "ORIGINAL CHRONICLE Magical Girl Lyrical Nanoha The 1st",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 42835,
-      "title": "I Will Live Freely in Another World with Equipment Manufacturing Cheat",
-      "score": 0.68,
-      "r18": false
+      "id": 43738,
+      "title": "Kurogane no Mahoutsukai",
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
-      "id": 21969,
-      "title": "Kuro no Souzou Shoukanshi - Tenseisha no Hangyaku",
-      "score": 0.677,
-      "r18": false
+      "id": 14437,
+      "title": "Spirit Migration",
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "pl"
+      ]
     },
     {
-      "id": 50956,
-      "title": "I Was Summoned to Be the Saint, but I Was Robbed of the Position, Apparently",
-      "score": 0.676,
-      "r18": false
+      "id": 44984,
+      "title": "Lion Coeur Senki",
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 49810,
-      "title": "The Child Loved by God",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 20288,
-      "title": "World Teacher &ndash; Other World Style Education &amp; Agent",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 23013,
-      "title": "The Vengeful White Cat Lounging on the Dragon King's Lap",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 3284,
-      "title": "Yasashii Ryuu no Koroshikata",
-      "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 38835,
-      "title": "Negawakuba no Konote ni Koufuku Wo",
-      "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 54801,
-      "title": "One Piece Episode A",
-      "score": 0.674,
-      "r18": false
-    },
-    {
-      "id": 35199,
-      "title": "Isekai Cheat Survival Meshi",
-      "score": 0.674,
-      "r18": false
-    },
-    {
-      "id": 52749,
-      "title": "Suterareta Tensei Kenja",
-      "score": 0.674,
-      "r18": false
-    },
-    {
-      "id": 56362,
-      "title": "Unnamed Memory",
-      "score": 0.673,
-      "r18": false
+      "id": 13373,
+      "title": "Shiro no Koukoku Monogatari",
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "es"
+      ]
     }
   ]
 }

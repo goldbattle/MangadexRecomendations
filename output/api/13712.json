@@ -2,31 +2,44 @@
   "id": 13712,
   "title": "DRAMAtical Murder",
   "url": "https://mangadex.org/manga/13712",
-  "last_updated": "March 15, 2021 08:37:36 UTC",
+  "last_updated": "March 18, 2021 07:42:37 UTC",
   "matches": [
     {
       "id": 28916,
       "title": "Get The Moon",
-      "score": 0.339,
-      "r18": false
-    },
-    {
-      "id": 15798,
-      "title": "Hanger - Shikkounin",
-      "score": 0.25,
-      "r18": false
+      "score": 0.338,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 1145,
       "title": "Kigurumi Planet",
-      "score": 0.178,
-      "r18": false
+      "score": 0.177,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 57586,
       "title": "Sleep Mode",
       "score": 0.136,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 48266,
+      "title": "Crack of Dawn",
+      "score": 0.114,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

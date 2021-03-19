@@ -2,49 +2,92 @@
   "id": 30597,
   "title": "Magia Record: Mahou Shoujo Madoka\u2606Magica Gaiden",
   "url": "https://mangadex.org/manga/30597",
-  "last_updated": "January 13, 2021 12:51:59 UTC",
+  "last_updated": "March 18, 2021 10:35:54 UTC",
   "matches": [
-    {
-      "id": 15752,
-      "title": "Naka no Hito Genome [Jikkyouchuu]",
-      "score": 0.668,
-      "r18": false
-    },
     {
       "id": 24650,
       "title": "Die Now - Telencephalon",
-      "score": 0.345,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 22235,
       "title": "Death Field",
-      "score": 0.308,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "br",
+        "fr",
+        "ru"
+      ]
     },
     {
-      "id": 42965,
-      "title": "This Village Sim NPC Could Only Be Human",
-      "score": 0.227,
-      "r18": false
+      "id": 17939,
+      "title": "Hyakumanjou Labyrinth",
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 15752,
+      "title": "Naka no Hito Genome [Jikkyouchuu]",
+      "score": 0.138,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ir",
+        "id",
+        "pl"
+      ]
     },
     {
       "id": 44657,
       "title": "Blanc Project",
-      "score": 0.223,
-      "r18": false
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 42965,
+      "title": "This Village Sim NPC Could Only Be Human",
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr"
+      ]
     },
     {
       "id": 47424,
       "title": "Welcome to the Nightmare Game",
-      "score": 0.168,
-      "r18": false
+      "score": 0.075,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru"
+      ]
     },
     {
       "id": 54348,
       "title": "Success Rate",
-      "score": 0.144,
-      "r18": false
+      "score": 0.074,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

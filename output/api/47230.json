@@ -1,158 +1,249 @@
 {
   "id": 47230,
   "title": "Oshu Supreme",
-  "url": "https://api.mangadex.org/v2/manga/47230",
-  "last_updated": "February 12, 2021 01:07:49 UTC",
+  "url": "https://mangadex.org/manga/47230",
+  "last_updated": "March 18, 2021 12:54:43 UTC",
   "matches": [
     {
       "id": 8339,
       "title": "Tales of the World - Radiant Mythology",
-      "score": 0.464,
-      "r18": false
-    },
-    {
-      "id": 11359,
-      "title": "Escha &amp; Logy no Atelier - Tasogare no Sora no Renkinjutsushi",
-      "score": 0.458,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8111,
       "title": "Magic: The Gathering - Moe Tsukinu Honoo",
-      "score": 0.457,
-      "r18": false
-    },
-    {
-      "id": 10014,
-      "title": "Ohime-sama Navigation",
-      "score": 0.419,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1740,
       "title": "Grandeek ReeL",
-      "score": 0.407,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 2577,
-      "title": "Demon 72",
-      "score": 0.379,
-      "r18": false
-    },
-    {
-      "id": 18143,
-      "title": "Romsen Saga",
-      "score": 0.378,
-      "r18": false
-    },
-    {
-      "id": 23476,
-      "title": "Drag-On Dragoon - Utahime Five",
-      "score": 0.369,
-      "r18": false
+      "id": 10014,
+      "title": "Ohime-sama Navigation",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6746,
       "title": "World Destruction ~Futari no Tenshi~",
-      "score": 0.367,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
-      "id": 165,
-      "title": "Mahou Senki Lyrical Nanoha Force",
-      "score": 0.367,
-      "r18": false
+      "id": 2577,
+      "title": "Demon 72",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 10876,
-      "title": "Rappa",
-      "score": 0.364,
-      "r18": false
+      "id": 23476,
+      "title": "Drag-On Dragoon - Utahime Five",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "it"
+      ]
     },
     {
-      "id": 2027,
-      "title": "The Record of War in Crodia",
-      "score": 0.359,
-      "r18": false
-    },
-    {
-      "id": 16784,
-      "title": "RWBY",
-      "score": 0.355,
-      "r18": false
-    },
-    {
-      "id": 45543,
-      "title": "Heion Sedai no Idaten-tachi",
-      "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 24346,
-      "title": "Baby Birth",
-      "score": 0.352,
-      "r18": false
-    },
-    {
-      "id": 8098,
-      "title": "Eiyuu Densetsu - Sora no Kiseki",
-      "score": 0.347,
-      "r18": false
+      "id": 18143,
+      "title": "Romsen Saga",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 212,
       "title": "Red Erewhon",
-      "score": 0.347,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu"
+      ]
     },
     {
-      "id": 8102,
-      "title": "Eiyuu Densetsu - Rei no Kiseki Prestory: Shinpan no Yubiwa",
-      "score": 0.347,
-      "r18": false
+      "id": 2027,
+      "title": "The Record of War in Crodia",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 15741,
-      "title": "Dragon's Dogma Progress",
-      "score": 0.342,
-      "r18": false
+      "id": 16784,
+      "title": "RWBY",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "fr",
+        "es",
+        "it",
+        "gb"
+      ]
+    },
+    {
+      "id": 10876,
+      "title": "Rappa",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 165,
+      "title": "Mahou Senki Lyrical Nanoha Force",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 24346,
+      "title": "Baby Birth",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 9140,
       "title": "Gensou Suikoden III - Unmei no Keishousha",
-      "score": 0.339,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 3388,
-      "title": "Fate/Zero",
-      "score": 0.338,
-      "r18": false
+      "id": 15741,
+      "title": "Dragon's Dogma Progress",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24354,
+      "title": "Godo",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 28136,
+      "title": "Kazan",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bd"
+      ]
     },
     {
       "id": 46861,
       "title": "Saiyouki",
-      "score": 0.337,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8102,
+      "title": "Eiyuu Densetsu - Rei no Kiseki Prestory: Shinpan no Yubiwa",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8098,
+      "title": "Eiyuu Densetsu - Sora no Kiseki",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 16344,
+      "title": "Ni Ming Shi",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3388,
+      "title": "Fate/Zero",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1603,
       "title": "Dangu",
-      "score": 0.337,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "de",
+        "gb",
+        "mx",
+        "my"
+      ]
     },
     {
-      "id": 22736,
-      "title": "Shan Hai Ni Zhan",
-      "score": 0.329,
-      "r18": false
-    },
-    {
-      "id": 22226,
-      "title": "Fate/Grand Order -mortalis:stella-",
-      "score": 0.328,
-      "r18": false
+      "id": 22500,
+      "title": "Mahoutsukai no Insatsujo",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "mx",
+        "es",
+        "gb"
+      ]
     }
   ]
 }

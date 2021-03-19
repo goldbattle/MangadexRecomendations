@@ -2,25 +2,41 @@
   "id": 20079,
   "title": "Cotton no Mahou",
   "url": "https://mangadex.org/manga/20079",
-  "last_updated": "March 16, 2021 00:26:41 UTC",
+  "last_updated": "March 18, 2021 08:53:57 UTC",
   "matches": [
     {
       "id": 2850,
       "title": "Black Cat Tunnel",
       "score": 0.29,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "de",
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 46234,
       "title": "Yanagi Ki",
       "score": 0.29,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "tr",
+        "in"
+      ]
     },
     {
       "id": 26735,
       "title": "Mahou",
       "score": 0.29,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "sa"
+      ]
     }
   ]
 }

@@ -1,158 +1,267 @@
 {
   "id": 46366,
   "title": "Urban Rebellion",
-  "url": "https://api.mangadex.org/v2/manga/46366",
-  "last_updated": "February 11, 2021 20:40:38 UTC",
+  "url": "https://mangadex.org/manga/46366",
+  "last_updated": "March 18, 2021 12:47:29 UTC",
   "matches": [
     {
-      "id": 23231,
-      "title": "Wu Dong Qian Kun",
-      "score": 0.687,
-      "r18": false
+      "id": 44223,
+      "title": "Nine Days of Martial Arts",
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "id"
+      ]
     },
     {
       "id": 42858,
       "title": "Wan Gu Shen Wang",
-      "score": 0.678,
-      "r18": false
+      "score": 0.235,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "tr",
+        "fr",
+        "it"
+      ]
     },
     {
-      "id": 44223,
-      "title": "Nine Days of Martial Arts",
-      "score": 0.671,
-      "r18": false
+      "id": 48998,
+      "title": "Reborn as Emperor",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 57570,
+      "title": "I Have Million Skill Points",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 54088,
+      "title": "Parrot Blade",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 45262,
+      "title": "Animus",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
     },
     {
       "id": 46134,
       "title": "The Peerless Sword God",
-      "score": 0.671,
-      "r18": false
-    },
-    {
-      "id": 59476,
-      "title": "The Tyrant&rsquo;s Guardian Is an Evil Witch",
-      "score": 0.67,
-      "r18": false
-    },
-    {
-      "id": 45776,
-      "title": "The Evil Cinderella Needs a Villain",
-      "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 45306,
-      "title": "Peerless Battle Spirit",
-      "score": 0.668,
-      "r18": false
-    },
-    {
-      "id": 51257,
-      "title": "I Stole the Male Lead's First Night",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 52261,
-      "title": "God of War Mad Concubine: The Path to Obtaining the World",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 58617,
-      "title": "I Became the Ugly Lady",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 50162,
-      "title": "God of Cooking",
-      "score": 0.662,
-      "r18": false
-    },
-    {
-      "id": 33099,
-      "title": "This Girl Is a Little Wild",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 39474,
-      "title": "A Stepmother's M&auml;rchen",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 14676,
-      "title": "The Legendary Moonlight Sculptor",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 900,
-      "title": "Paladin",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 54218,
-      "title": "The Lady and the Beast",
-      "score": 0.658,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "fr"
+      ]
     },
     {
       "id": 55712,
       "title": "Nine Star Hegemon Body Arts",
-      "score": 0.657,
-      "r18": false
+      "score": 0.229,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
-      "id": 45374,
-      "title": "Pupillary Master",
-      "score": 0.657,
-      "r18": false
+      "id": 40633,
+      "title": "God of the City",
+      "score": 0.227,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "fr",
+        "mx",
+        "tr"
+      ]
     },
     {
-      "id": 51165,
-      "title": "Rebirth: The Turnabout of a Mistreated Concubine",
-      "score": 0.656,
-      "r18": false
+      "id": 45430,
+      "title": "Above All Gods",
+      "score": 0.226,
+      "r18": false,
+      "languages": [
+        "id",
+        "fr",
+        "br",
+        "gb"
+      ]
     },
     {
-      "id": 42737,
-      "title": "I Was Born as the Demon Lord's Daughter",
-      "score": 0.655,
-      "r18": false
+      "id": 44069,
+      "title": "Heavenly God Mnemonic",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "tr",
+        "br",
+        "gb"
+      ]
     },
     {
-      "id": 33863,
-      "title": "The Beginning After the End",
-      "score": 0.654,
-      "r18": false
+      "id": 53697,
+      "title": "Immortal Cultivation Do Over",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "es"
+      ]
     },
     {
-      "id": 50191,
-      "title": "Life and Death: The Awakening",
-      "score": 0.654,
-      "r18": false
+      "id": 54164,
+      "title": "History's Strongest Martial Brother",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
-      "id": 47357,
-      "title": "Don't Provoke the Crazy, Dumb and Villainous Consort",
-      "score": 0.653,
-      "r18": false
+      "id": 49194,
+      "title": "The Sacred Lord of Scorching Summer",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 50117,
-      "title": "Beginner's Test for Infinite Power",
-      "score": 0.653,
-      "r18": false
+      "id": 58298,
+      "title": "Judge Lee Han Young",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 54612,
-      "title": "Dinghai Fusheng Records",
-      "score": 0.653,
-      "r18": false
+      "id": 51243,
+      "title": "The Hunter",
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 44246,
+      "title": "Matchless Emperor",
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 43155,
+      "title": "I Have a Dragon in My Body",
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "sa",
+        "pl"
+      ]
+    },
+    {
+      "id": 43821,
+      "title": "Emperor LingTian",
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 56898,
+      "title": "Supreme Taoist",
+      "score": 0.204,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb"
+      ]
+    },
+    {
+      "id": 52261,
+      "title": "God of War Mad Concubine: The Path to Obtaining the World",
+      "score": 0.201,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 56146,
+      "title": "Heaven Defying God of War",
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 46201,
+      "title": "God Slayer",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 42849,
+      "title": "Magic Fairy",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 43569,
+      "title": "The Prince and His Mischievous One",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     }
   ]
 }

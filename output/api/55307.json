@@ -1,26 +1,36 @@
 {
   "id": 55307,
   "title": "Your Eyes, My Words",
-  "url": "https://api.mangadex.org/v2/manga/55307",
-  "last_updated": "March 12, 2021 20:36:11 UTC",
+  "url": "https://mangadex.org/manga/55307",
+  "last_updated": "March 18, 2021 14:02:16 UTC",
   "matches": [
-    {
-      "id": 50830,
-      "title": "Siren's Song",
-      "score": 0.203,
-      "r18": false
-    },
     {
       "id": 57051,
       "title": "One More Time, Sir",
-      "score": 0.203,
-      "r18": false
+      "score": 0.177,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 47204,
-      "title": "Joo-In ui Sajeong",
-      "score": 0.158,
-      "r18": false
+      "id": 39991,
+      "title": "Incorrigible",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 58838,
+      "title": "Professor's Double Life",
+      "score": 0.137,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

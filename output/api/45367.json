@@ -1,116 +1,191 @@
 {
   "id": 45367,
   "title": "Fudanshi Kazoku",
-  "url": "https://api.mangadex.org/v2/manga/45367",
-  "last_updated": "February 11, 2021 20:24:38 UTC",
+  "url": "https://mangadex.org/manga/45367",
+  "last_updated": "March 18, 2021 12:39:09 UTC",
   "matches": [
-    {
-      "id": 27238,
-      "title": "Bokutachi Otoko no Ko",
-      "score": 0.455,
-      "r18": false
-    },
     {
       "id": 11048,
       "title": "Milkman",
-      "score": 0.429,
-      "r18": false
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 27238,
+      "title": "Bokutachi Otoko no Ko",
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 14220,
       "title": "Cucumber &times; Sandwich",
-      "score": 0.421,
-      "r18": false
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21526,
       "title": "Megane Cafe Glass",
-      "score": 0.411,
-      "r18": false
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 14430,
       "title": "Seikimatsu\u2605Darling",
-      "score": 0.371,
-      "r18": false
+      "score": 0.309,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 24842,
-      "title": "Sayonara no Riyuu",
-      "score": 0.326,
-      "r18": false
+      "id": 31005,
+      "title": "Josoushite Mendokusai Koto ni Natteru Nekura to Yankee Ryou Kataomoi",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn"
+      ]
     },
     {
       "id": 15362,
       "title": "Hey, Your Cat Ears Are Showing!",
-      "score": 0.286,
-      "r18": false
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 50035,
       "title": "Kigatsuitara Boku Wa Kare Wo...",
-      "score": 0.284,
-      "r18": false
+      "score": 0.247,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 24842,
+      "title": "Sayonara no Riyuu",
+      "score": 0.235,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19311,
       "title": "They, Too, Love",
-      "score": 0.282,
-      "r18": false
-    },
-    {
-      "id": 5783,
-      "title": "Aitsu no Daihonmei",
-      "score": 0.281,
-      "r18": false
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7100,
       "title": "Mangetsu Monogatari",
-      "score": 0.271,
-      "r18": false
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 24511,
       "title": "Antique Bakery",
-      "score": 0.27,
-      "r18": false
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 3038,
-      "title": "Kyou Kara Ma no Tsuku Jiyuugyou!",
-      "score": 0.238,
-      "r18": false
+      "id": 5783,
+      "title": "Aitsu no Daihonmei",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "es",
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 52450,
       "title": "How We Met",
-      "score": 0.224,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 53425,
       "title": "Falling to  Where I Belong",
-      "score": 0.208,
-      "r18": false
+      "score": 0.154,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 56891,
       "title": "Sworn Enemy or Lover?",
-      "score": 0.192,
-      "r18": false
+      "score": 0.154,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 29484,
       "title": "My Girlfriend Is a Real Man",
-      "score": 0.182,
-      "r18": false
+      "score": 0.154,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 58409,
       "title": "My Slime Roomate",
-      "score": 0.164,
-      "r18": false
+      "score": 0.129,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3038,
+      "title": "Kyou Kara Ma no Tsuku Jiyuugyou!",
+      "score": 0.122,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     }
   ]
 }

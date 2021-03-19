@@ -1,26 +1,74 @@
 {
   "id": 42843,
   "title": "Kanojo Gacha",
-  "url": "https://api.mangadex.org/v2/manga/42843",
-  "last_updated": "February 11, 2021 12:31:25 UTC",
+  "url": "https://mangadex.org/manga/42843",
+  "last_updated": "March 18, 2021 12:18:03 UTC",
   "matches": [
+    {
+      "id": 47587,
+      "title": "Purely, Honestly, Immorally Love",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "mx",
+        "th",
+        "id",
+        "br",
+        "gb"
+      ]
+    },
     {
       "id": 9768,
       "title": "Doreiku - Boku to 23-nin no Dorei",
-      "score": 0.34,
-      "r18": false
+      "score": 0.216,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 30493,
+      "title": "Destiny Lovers",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "fr",
+        "ru",
+        "gb",
+        "br",
+        "mx",
+        "de",
+        "id"
+      ]
     },
     {
       "id": 18788,
       "title": "World's End Harem",
-      "score": 0.232,
-      "r18": false
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "id"
+      ]
     },
     {
       "id": 30725,
       "title": "RaW Hero",
-      "score": 0.221,
-      "r18": false
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "fr",
+        "ru",
+        "mx",
+        "de",
+        "it",
+        "vn",
+        "sa"
+      ]
     }
   ]
 }

@@ -2,157 +2,305 @@
   "id": 29973,
   "title": "Sentiment no Kisetsu",
   "url": "https://mangadex.org/manga/29973",
-  "last_updated": "January 13, 2021 07:00:50 UTC",
+  "last_updated": "March 18, 2021 10:30:42 UTC",
   "matches": [
-    {
-      "id": 13684,
-      "title": "Robot",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 9604,
-      "title": "Sword Art Online - Progressive",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 28422,
-      "title": "Unbalance x2: After Story",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 34501,
-      "title": "HEN - Suzuki &amp; Satou",
-      "score": 0.657,
-      "r18": false
-    },
-    {
-      "id": 5838,
-      "title": "Akihabara@DEEP",
-      "score": 0.656,
-      "r18": false
-    },
     {
       "id": 25651,
       "title": "Too Much Pain",
-      "score": 0.436,
-      "r18": false
-    },
-    {
-      "id": 3755,
-      "title": "7-Daime no Tomari!",
-      "score": 0.399,
-      "r18": false
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 40882,
       "title": "Koikatsu Matching Island",
-      "score": 0.388,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "hk"
+      ]
     },
     {
-      "id": 6981,
-      "title": "My Home Mirano",
-      "score": 0.385,
-      "r18": false
-    },
-    {
-      "id": 19629,
-      "title": "Chisa X Pon",
-      "score": 0.384,
-      "r18": false
-    },
-    {
-      "id": 12359,
-      "title": "Ino-Head Gargoyle",
-      "score": 0.38,
-      "r18": false
-    },
-    {
-      "id": 15386,
-      "title": "Yome ga Lolitte Dou yo!?",
-      "score": 0.374,
-      "r18": false
-    },
-    {
-      "id": 18780,
-      "title": "Ore no Himekutsu o Haite Kure",
-      "score": 0.367,
-      "r18": false
-    },
-    {
-      "id": 17004,
-      "title": "Fling Girls",
-      "score": 0.366,
-      "r18": false
+      "id": 3755,
+      "title": "7-Daime no Tomari!",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 1342,
       "title": "REC",
-      "score": 0.361,
-      "r18": false
-    },
-    {
-      "id": 50000,
-      "title": "Kurofuku Monogatari",
-      "score": 0.361,
-      "r18": false
-    },
-    {
-      "id": 20264,
-      "title": "Boku Dake Shitteru Ichinomiya-san",
-      "score": 0.357,
-      "r18": false
-    },
-    {
-      "id": 7234,
-      "title": "Girl Friend",
-      "score": 0.357,
-      "r18": false
-    },
-    {
-      "id": 8857,
-      "title": "W x Y",
-      "score": 0.352,
-      "r18": false
-    },
-    {
-      "id": 34386,
-      "title": "Aida ni Hatachi",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 609,
-      "title": "Musunde Hiraite",
-      "score": 0.348,
-      "r18": false
-    },
-    {
-      "id": 30666,
-      "title": "Nidaime wa Cosplayer",
-      "score": 0.347,
-      "r18": false
-    },
-    {
-      "id": 178,
-      "title": "Hetakoi",
-      "score": 0.345,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "mx"
+      ]
     },
     {
       "id": 2643,
       "title": "D-ASH",
-      "score": 0.343,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 10478,
-      "title": "Saenai Kanojo (Heroine) no Sodatekata - Koisuru Metronome",
-      "score": 0.342,
-      "r18": false
+      "id": 34386,
+      "title": "Aida ni Hatachi",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "mx",
+        "id"
+      ]
+    },
+    {
+      "id": 42681,
+      "title": "By Spring",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "mx",
+        "ru",
+        "gb",
+        "fr",
+        "id",
+        "vn",
+        "br"
+      ]
+    },
+    {
+      "id": 21482,
+      "title": "Grancrest Senki",
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu",
+        "fr",
+        "mx"
+      ]
+    },
+    {
+      "id": 21015,
+      "title": "Real no Heroine wa Irimasen!",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "th",
+        "ru",
+        "gb",
+        "br",
+        "id",
+        "mx",
+        "fr"
+      ]
+    },
+    {
+      "id": 24165,
+      "title": "The Life of the Witch Who Remains Single for About 300 Years!",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "mx"
+      ]
+    },
+    {
+      "id": 2203,
+      "title": "Sekainohate de Aimashou",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "ru",
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 18055,
+      "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "br",
+        "it",
+        "fr",
+        "id",
+        "pl"
+      ]
+    },
+    {
+      "id": 28664,
+      "title": "Ano Hito no I ni wa Boku ga Tarinai",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx"
+      ]
+    },
+    {
+      "id": 6203,
+      "title": "Hantsu x Trash",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "pl",
+        "es"
+      ]
+    },
+    {
+      "id": 14204,
+      "title": "Netoge no Yome wa Onnanoko ja Nai to Omotta?",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "pl"
+      ]
+    },
+    {
+      "id": 318,
+      "title": "Blood Lad",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "br",
+        "mx",
+        "ru",
+        "gb",
+        "es",
+        "pl"
+      ]
+    },
+    {
+      "id": 6641,
+      "title": "Iinazuke Kyoutei",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 35593,
+      "title": "Choppiri Toshiue Demo Kanojo ni Shite Kuremasu ka?",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "br",
+        "fr",
+        "mx"
+      ]
+    },
+    {
+      "id": 601,
+      "title": "Let's Lagoon",
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it",
+        "mx",
+        "es"
+      ]
+    },
+    {
+      "id": 32290,
+      "title": "High Position",
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
+    },
+    {
+      "id": 28422,
+      "title": "Unbalance x2: After Story",
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx",
+        "vn"
+      ]
+    },
+    {
+      "id": 9457,
+      "title": "Ochitekita Ryuuou to Horobiyuku Majo no Kuni",
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 4120,
+      "title": "Sai:Taker - Futari no Artemis",
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 45498,
+      "title": "1 Only Reason",
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "ru",
+        "ct"
+      ]
+    },
+    {
+      "id": 9803,
+      "title": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka",
+      "score": 0.104,
+      "r18": false,
+      "languages": [
+        "tr",
+        "mx",
+        "gb",
+        "ru",
+        "fr",
+        "es",
+        "nl"
+      ]
     }
   ]
 }

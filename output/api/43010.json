@@ -1,158 +1,257 @@
 {
   "id": 43010,
   "title": "Violence &amp; Peace",
-  "url": "https://api.mangadex.org/v2/manga/43010",
-  "last_updated": "February 11, 2021 12:33:56 UTC",
+  "url": "https://mangadex.org/manga/43010",
+  "last_updated": "March 18, 2021 12:19:26 UTC",
   "matches": [
     {
       "id": 36571,
       "title": "The Dreamers of the Louvre",
-      "score": 0.255,
-      "r18": false
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1034,
       "title": "Persona 4",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 14763,
       "title": "Yakushoku Distopiary - Gesellschaft Blume",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 15165,
-      "title": "Vampire Hunter D",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "br",
+        "it",
+        "gb"
+      ]
     },
     {
       "id": 15992,
       "title": "Tokumu Houkoukan Yumihari",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22468,
       "title": "Umwelt - Igarashi Daisuke Anthology",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 28562,
-      "title": "EMPYREA",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "mx",
+        "br"
+      ]
     },
     {
       "id": 43005,
       "title": "One Day in the Life of Ivan Dejavu",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 36834,
       "title": "Winner Takes All",
-      "score": 0.216,
-      "r18": false
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br",
+        "gb",
+        "fr",
+        "tr",
+        "ru",
+        "id",
+        "pl"
+      ]
     },
     {
       "id": 281,
       "title": "Trigun Maximum",
-      "score": 0.212,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 610,
       "title": "Mahou Shoujo Kazumi\u2605Magica ~The Innocent Malice~",
-      "score": 0.212,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1028,
       "title": "Bonten no Morito",
-      "score": 0.212,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1388,
       "title": "Superior",
-      "score": 0.212,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "de"
+      ]
     },
     {
       "id": 1389,
       "title": "Superior Cross",
-      "score": 0.212,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2577,
       "title": "Demon 72",
-      "score": 0.212,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3388,
       "title": "Fate/Zero",
-      "score": 0.212,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3860,
       "title": "Death Edge",
-      "score": 0.212,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 5449,
       "title": "Necro Dancer",
-      "score": 0.212,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de",
+        "fr"
+      ]
     },
     {
       "id": 6014,
       "title": "Milk Closet",
-      "score": 0.212,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 6101,
       "title": "Kurenai no Ookami to Ashikase no Hitsuji",
-      "score": 0.212,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6746,
       "title": "World Destruction ~Futari no Tenshi~",
-      "score": 0.212,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 6772,
       "title": "Dragon Fly",
-      "score": 0.212,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7768,
       "title": "Kumo no Graduale",
-      "score": 0.212,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7869,
       "title": "Arashi no Hana Murakumo no Uta",
-      "score": 0.212,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8478,
       "title": "xxxHOLiC Rei",
-      "score": 0.212,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 8481,
+      "title": "Wolf's Rain",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "fr",
+        "es",
+        "gb"
+      ]
+    },
+    {
+      "id": 9140,
+      "title": "Gensou Suikoden III - Unmei no Keishousha",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

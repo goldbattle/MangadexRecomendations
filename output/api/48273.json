@@ -2,37 +2,62 @@
   "id": 48273,
   "title": "Sukiyanen Kedo Dou Yaro ka",
   "url": "https://mangadex.org/manga/48273",
-  "last_updated": "January 15, 2021 12:31:31 UTC",
+  "last_updated": "March 18, 2021 13:03:28 UTC",
   "matches": [
-    {
-      "id": 13479,
-      "title": "So Cute?",
-      "score": 0.692,
-      "r18": false
-    },
-    {
-      "id": 34668,
-      "title": "From Green Kitchen",
-      "score": 0.683,
-      "r18": false
-    },
-    {
-      "id": 46021,
-      "title": "Nekasenaide",
-      "score": 0.664,
-      "r18": false
-    },
     {
       "id": 34143,
       "title": "Atatamete Kureru Hito",
-      "score": 0.489,
-      "r18": false
+      "score": 0.399,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 31176,
       "title": "Shiawase Gohan - Maki to Hanazawa",
-      "score": 0.477,
-      "r18": false
+      "score": 0.353,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 46021,
+      "title": "Nekasenaide",
+      "score": 0.319,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 34668,
+      "title": "From Green Kitchen",
+      "score": 0.295,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 13479,
+      "title": "So Cute?",
+      "score": 0.273,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 59823,
+      "title": "Konya mo Kimi ni Gochisousama",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

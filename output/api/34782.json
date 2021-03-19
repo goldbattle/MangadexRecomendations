@@ -1,110 +1,206 @@
 {
   "id": 34782,
   "title": "Jinrou Game: Crazy Fox",
-  "url": "https://api.mangadex.org/v2/manga/34782",
-  "last_updated": "February 10, 2021 16:33:48 UTC",
+  "url": "https://mangadex.org/manga/34782",
+  "last_updated": "March 18, 2021 11:10:47 UTC",
   "matches": [
     {
       "id": 28658,
       "title": "Children",
-      "score": 0.287,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 34358,
       "title": "Kyoushitsu Jibaku Club",
-      "score": 0.287,
-      "r18": false
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "id",
+        "br",
+        "ru",
+        "fr"
+      ]
     },
     {
       "id": 1543,
       "title": "Homunculus",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "it",
+        "br",
+        "id"
+      ]
     },
     {
       "id": 13878,
       "title": "Inugami Hakase",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 28438,
       "title": "Doku Mushi",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id"
+      ]
     },
     {
       "id": 28989,
       "title": "In the Room",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 45564,
       "title": "Doku Mushi - The Ruins Hotel",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4747,
       "title": "Terra Formars",
-      "score": 0.172,
-      "r18": false
+      "score": 0.144,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "tr"
+      ]
     },
     {
       "id": 19613,
       "title": "Alice on Border Road",
-      "score": 0.172,
-      "r18": false
+      "score": 0.144,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 31554,
       "title": "Switch Witch",
-      "score": 0.153,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 44807,
       "title": "Instinct",
-      "score": 0.136,
-      "r18": false
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 29415,
       "title": "DINER",
-      "score": 0.126,
-      "r18": false
+      "score": 0.105,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "br"
+      ]
     },
     {
       "id": 36129,
       "title": "Higanjima - Aniki-hen",
-      "score": 0.126,
-      "r18": false
+      "score": 0.105,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 44532,
+      "title": "Kyosei Tensei",
+      "score": 0.105,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "mx"
+      ]
     },
     {
       "id": 709,
       "title": "Higanjima",
-      "score": 0.115,
-      "r18": false
-    },
-    {
-      "id": 22283,
-      "title": "Goblin Slayer Side Story: Year One",
-      "score": 0.115,
-      "r18": false
+      "score": 0.096,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 1394,
       "title": "Narutaru",
-      "score": 0.105,
-      "r18": false
+      "score": 0.086,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "mx"
+      ]
+    },
+    {
+      "id": 22283,
+      "title": "Goblin Slayer Side Story: Year One",
+      "score": 0.072,
+      "r18": false,
+      "languages": [
+        "br",
+        "it",
+        "ru",
+        "mx",
+        "id",
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 607,
       "title": "Berserk",
-      "score": 0.073,
-      "r18": false
+      "score": 0.061,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it",
+        "mx",
+        "tr",
+        "sa",
+        "ru",
+        "fr",
+        "hk"
+      ]
     }
   ]
 }

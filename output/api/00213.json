@@ -2,157 +2,271 @@
   "id": 213,
   "title": "Nazo no Kanojo X",
   "url": "https://mangadex.org/manga/213",
-  "last_updated": "March 14, 2021 00:50:58 UTC",
+  "last_updated": "March 18, 2021 05:44:22 UTC",
   "matches": [
     {
       "id": 6490,
       "title": "Renai Boukun",
       "score": 0.307,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "pl",
+        "es",
+        "ru",
+        "it"
+      ]
+    },
+    {
+      "id": 653,
+      "title": "Otoko o Misete yo Kurata-kun!",
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 40955,
       "title": "Tenshi no KATTE",
       "score": 0.307,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 537,
       "title": "Hentai Ouji to Warawanai Neko.",
-      "score": 0.289,
-      "r18": false
-    },
-    {
-      "id": 1324,
-      "title": "Bakekano",
-      "score": 0.289,
-      "r18": false
-    },
-    {
-      "id": 15780,
-      "title": "Yuri na Watashi to Akuma na Kanojo (?)",
-      "score": 0.286,
-      "r18": false
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "br"
+      ]
     },
     {
       "id": 1729,
       "title": "Akuma no Ikenie",
+      "score": 0.284,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 15780,
+      "title": "Yuri na Watashi to Akuma na Kanojo (?)",
       "score": 0.282,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "pl"
+      ]
     },
     {
       "id": 616,
       "title": "Isuca",
-      "score": 0.276,
-      "r18": false
+      "score": 0.277,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "es",
+        "fr"
+      ]
     },
     {
-      "id": 656,
-      "title": "Nogizaka Haruka no Himitsu",
-      "score": 0.274,
-      "r18": false
-    },
-    {
-      "id": 653,
-      "title": "Otoko o Misete yo Kurata-kun!",
-      "score": 0.273,
-      "r18": false
+      "id": 1324,
+      "title": "Bakekano",
+      "score": 0.271,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20548,
       "title": "Gal Gohan",
-      "score": 0.269,
-      "r18": false
-    },
-    {
-      "id": 2311,
-      "title": "Marugoto Anju Gakuen",
-      "score": 0.269,
-      "r18": false
-    },
-    {
-      "id": 266,
-      "title": "Umi no Misaki",
-      "score": 0.269,
-      "r18": false
-    },
-    {
-      "id": 35109,
-      "title": "Nobunaga-sensei no Osanazuma",
-      "score": 0.269,
-      "r18": false
-    },
-    {
-      "id": 840,
-      "title": "Come Come Vanilla!",
-      "score": 0.269,
-      "r18": false
-    },
-    {
-      "id": 561,
-      "title": "Onihime VS",
-      "score": 0.266,
-      "r18": false
-    },
-    {
-      "id": 1243,
-      "title": "Magikano",
-      "score": 0.266,
-      "r18": false
-    },
-    {
-      "id": 13428,
-      "title": "Life Alive! The Student Council Elections I Started with You",
-      "score": 0.26,
-      "r18": false
+      "score": 0.271,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "mx",
+        "id",
+        "it"
+      ]
     },
     {
       "id": 21015,
       "title": "Real no Heroine wa Irimasen!",
-      "score": 0.259,
-      "r18": false
+      "score": 0.27,
+      "r18": false,
+      "languages": [
+        "th",
+        "ru",
+        "gb",
+        "br",
+        "id",
+        "mx",
+        "fr"
+      ]
     },
     {
-      "id": 3856,
-      "title": "Nuiguru Mix",
-      "score": 0.259,
-      "r18": false
+      "id": 266,
+      "title": "Umi no Misaki",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "de",
+        "it"
+      ]
+    },
+    {
+      "id": 2311,
+      "title": "Marugoto Anju Gakuen",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 840,
+      "title": "Come Come Vanilla!",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 561,
+      "title": "Onihime VS",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 35109,
+      "title": "Nobunaga-sensei no Osanazuma",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb"
+      ]
+    },
+    {
+      "id": 656,
+      "title": "Nogizaka Haruka no Himitsu",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 13428,
+      "title": "Life Alive! The Student Council Elections I Started with You",
+      "score": 0.263,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 454,
       "title": "Gou-dere Bishoujo Nagihara Sora",
-      "score": 0.259,
-      "r18": false
+      "score": 0.263,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "pl"
+      ]
     },
     {
-      "id": 9610,
-      "title": "Baroque K/Night",
-      "score": 0.259,
-      "r18": false
+      "id": 1243,
+      "title": "Magikano",
+      "score": 0.26,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ph"
+      ]
     },
     {
-      "id": 105,
-      "title": "Unbalance X Unbalance",
-      "score": 0.258,
-      "r18": false
-    },
-    {
-      "id": 17,
-      "title": "Mayo Chiki!",
+      "id": 3856,
+      "title": "Nuiguru Mix",
       "score": 0.257,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1030,
+      "title": "Amaenaideyo!! MS",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20543,
+      "title": "Senren * Banka",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 599,
       "title": "Girls Saurus DX",
       "score": 0.257,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 11767,
-      "title": "Youkai Shoujo - Monsuga",
+      "id": 31493,
+      "title": "Tokushu Seiheki Kyoushitsu e Youkoso",
       "score": 0.257,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id"
+      ]
+    },
+    {
+      "id": 44394,
+      "title": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "ru",
+        "id"
+      ]
     }
   ]
 }

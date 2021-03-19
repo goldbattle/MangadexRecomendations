@@ -1,158 +1,258 @@
 {
   "id": 46706,
   "title": "Himegasaki Sakurako wa Kyoumo Fubin Kawaii!",
-  "url": "https://api.mangadex.org/v2/manga/46706",
-  "last_updated": "February 12, 2021 00:58:39 UTC",
+  "url": "https://mangadex.org/manga/46706",
+  "last_updated": "March 18, 2021 12:50:20 UTC",
   "matches": [
-    {
-      "id": 12069,
-      "title": "Mousou Shoujo Otaku-kei",
-      "score": 0.461,
-      "r18": false
-    },
-    {
-      "id": 2339,
-      "title": "Kyoukasho ni Nai!",
-      "score": 0.459,
-      "r18": false
-    },
     {
       "id": 3905,
       "title": "B-Shock",
-      "score": 0.455,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
-      "id": 6659,
-      "title": "Mote ne!?",
-      "score": 0.45,
-      "r18": false
-    },
-    {
-      "id": 6980,
-      "title": "Kimikiss ~Sweet Lips~",
-      "score": 0.445,
-      "r18": false
-    },
-    {
-      "id": 541,
-      "title": "Imori 201",
-      "score": 0.441,
-      "r18": false
+      "id": 12069,
+      "title": "Mousou Shoujo Otaku-kei",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 930,
       "title": "KimiKiss: Various Heroines",
-      "score": 0.434,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 6236,
-      "title": "Kanojo wa Sore wo Gaman Dekinai",
-      "score": 0.433,
-      "r18": false
-    },
-    {
-      "id": 3440,
-      "title": "MM!",
-      "score": 0.429,
-      "r18": false
-    },
-    {
-      "id": 25042,
-      "title": "Hen na Chishiki ni Kuwashii Kanojo Takayukashiki Souko-san",
-      "score": 0.429,
-      "r18": false
-    },
-    {
-      "id": 36072,
-      "title": "The Unattainable Flower's Twisted Bloom",
-      "score": 0.429,
-      "r18": false
+      "id": 6980,
+      "title": "Kimikiss ~Sweet Lips~",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 210,
       "title": "Nana to Kaoru",
-      "score": 0.427,
-      "r18": false
-    },
-    {
-      "id": 24272,
-      "title": "Nana to Kaoru - Pink Pure",
-      "score": 0.426,
-      "r18": false
-    },
-    {
-      "id": 22584,
-      "title": "Maria-san wa Toumei Shoujo",
-      "score": 0.423,
-      "r18": false
-    },
-    {
-      "id": 262,
-      "title": "Haru to Natsu",
-      "score": 0.422,
-      "r18": false
-    },
-    {
-      "id": 30410,
-      "title": "Maria Sensei wa Imouto Gachizei!",
-      "score": 0.421,
-      "r18": false
-    },
-    {
-      "id": 1924,
-      "title": "Bousou Shojo",
-      "score": 0.408,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "pl"
+      ]
     },
     {
       "id": 16363,
       "title": "Okusama wa Shougakusei",
-      "score": 0.407,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 48277,
-      "title": "Kujibiki Unbalance",
-      "score": 0.401,
-      "r18": false
+      "id": 25042,
+      "title": "Hen na Chishiki ni Kuwashii Kanojo Takayukashiki Souko-san",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "ru"
+      ]
     },
     {
-      "id": 24528,
-      "title": "Kuromori-san wa Smartphone ga Tsukaenai",
-      "score": 0.394,
-      "r18": false
+      "id": 6236,
+      "title": "Kanojo wa Sore wo Gaman Dekinai",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24272,
+      "title": "Nana to Kaoru - Pink Pure",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 36072,
+      "title": "The Unattainable Flower's Twisted Bloom",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 6659,
+      "title": "Mote ne!?",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3440,
+      "title": "MM!",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 17397,
+      "title": "Ueno-san wa Bukiyou",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "hu",
+        "gb",
+        "mx",
+        "br",
+        "fr",
+        "cz"
+      ]
+    },
+    {
+      "id": 262,
+      "title": "Haru to Natsu",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "it",
+        "fr"
+      ]
+    },
+    {
+      "id": 541,
+      "title": "Imori 201",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2339,
+      "title": "Kyoukasho ni Nai!",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 22584,
+      "title": "Maria-san wa Toumei Shoujo",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1924,
+      "title": "Bousou Shojo",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 15296,
+      "title": "Skill of Lure",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 28363,
+      "title": "Kaguya Wants to be Confessed to Official Doujin",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "hk",
+        "ru",
+        "gb",
+        "id",
+        "br"
+      ]
     },
     {
       "id": 4745,
       "title": "Schoolmate",
-      "score": 0.392,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 10478,
       "title": "Saenai Kanojo (Heroine) no Sodatekata - Koisuru Metronome",
-      "score": 0.388,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 31459,
-      "title": "Arakure Ojousama wa Monmon Shiteiru",
-      "score": 0.388,
-      "r18": false
+      "id": 29255,
+      "title": "Houkago no Goumon Shoujo",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it"
+      ]
     },
     {
-      "id": 1031,
-      "title": "Denpa Onna to Seishun Otoko",
-      "score": 0.387,
-      "r18": false
+      "id": 30410,
+      "title": "Maria Sensei wa Imouto Gachizei!",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 656,
-      "title": "Nogizaka Haruka no Himitsu",
-      "score": 0.383,
-      "r18": false
+      "id": 599,
+      "title": "Girls Saurus DX",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -2,73 +2,87 @@
   "id": 53956,
   "title": "Temper My Blade",
   "url": "https://mangadex.org/manga/53956",
-  "last_updated": "January 16, 2021 06:27:31 UTC",
+  "last_updated": "March 18, 2021 13:50:57 UTC",
   "matches": [
-    {
-      "id": 47454,
-      "title": "You Yao lai zhi hua zhong xian",
-      "score": 0.683,
-      "r18": false
-    },
-    {
-      "id": 59264,
-      "title": "The Royal Prince's  First Love",
-      "score": 0.673,
-      "r18": false
-    },
     {
       "id": 44912,
       "title": "Zhi Zi Zhi Jian",
-      "score": 0.659,
-      "r18": false
+      "score": 0.323,
+      "r18": false,
+      "languages": [
+        "fr",
+        "mx",
+        "gb"
+      ]
     },
     {
-      "id": 53808,
-      "title": "Hoy es el Plan D",
-      "score": 0.324,
-      "r18": false
+      "id": 47454,
+      "title": "You Yao lai zhi hua zhong xian",
+      "score": 0.247,
+      "r18": false,
+      "languages": [
+        "ru",
+        "mx"
+      ]
     },
     {
       "id": 46029,
       "title": "Flying Planet",
-      "score": 0.323,
-      "r18": false
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "mx",
+        "fr"
+      ]
     },
     {
-      "id": 47986,
-      "title": "The Night Is Always Bright",
-      "score": 0.268,
-      "r18": false
-    },
-    {
-      "id": 52583,
-      "title": "Negative Psychological Distance",
-      "score": 0.253,
-      "r18": false
+      "id": 53808,
+      "title": "Hoy es el Plan D",
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
       "id": 46644,
       "title": "Smurf's World",
-      "score": 0.246,
-      "r18": false
-    },
-    {
-      "id": 58567,
-      "title": "Today I Become A Star",
-      "score": 0.225,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "mx",
+        "fr",
+        "tr"
+      ]
     },
     {
       "id": 59289,
       "title": "Dandelion of Happiness",
-      "score": 0.221,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
+    },
+    {
+      "id": 52583,
+      "title": "Negative Psychological Distance",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
       "id": 53396,
       "title": "Blood and Love",
-      "score": 0.183,
-      "r18": false
+      "score": 0.136,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx"
+      ]
     }
   ]
 }

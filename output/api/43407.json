@@ -1,14 +1,22 @@
 {
   "id": 43407,
   "title": "Baki Tokubetsuhen [Saga]",
-  "url": "https://api.mangadex.org/v2/manga/43407",
-  "last_updated": "February 11, 2021 16:24:21 UTC",
+  "url": "https://mangadex.org/manga/43407",
+  "last_updated": "March 18, 2021 12:22:45 UTC",
   "matches": [
     {
       "id": 30982,
       "title": "ZINGNIZE",
-      "score": 0.113,
-      "r18": false
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "hk",
+        "it",
+        "gb",
+        "fr",
+        "ru",
+        "br"
+      ]
     }
   ]
 }

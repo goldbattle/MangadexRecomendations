@@ -2,19 +2,33 @@
   "id": 9395,
   "title": "Scientia",
   "url": "https://mangadex.org/manga/9395",
-  "last_updated": "March 15, 2021 00:16:35 UTC",
+  "last_updated": "March 18, 2021 07:05:46 UTC",
   "matches": [
     {
       "id": 15988,
       "title": "Cigarette Anthology MENTHOL",
-      "score": 0.232,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "pl",
+        "fr",
+        "ua",
+        "br"
+      ]
     },
     {
       "id": 22468,
       "title": "Umwelt - Igarashi Daisuke Anthology",
       "score": 0.161,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "mx",
+        "br"
+      ]
     }
   ]
 }

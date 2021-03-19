@@ -1,32 +1,40 @@
 {
   "id": 54230,
   "title": "Checkmate",
-  "url": "https://api.mangadex.org/v2/manga/54230",
-  "last_updated": "March 12, 2021 20:23:02 UTC",
+  "url": "https://mangadex.org/manga/54230",
+  "last_updated": "March 18, 2021 13:53:15 UTC",
   "matches": [
-    {
-      "id": 20826,
-      "title": "Hogu ha Gyeongsoo",
-      "score": 0.349,
-      "r18": false
-    },
     {
       "id": 56010,
       "title": "Arthur",
-      "score": 0.302,
-      "r18": false
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 22160,
       "title": "Killing Stalking",
-      "score": 0.247,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "tr",
+        "mx"
+      ]
     },
     {
       "id": 55457,
       "title": "Who's Your Daddy?",
-      "score": 0.222,
-      "r18": false
+      "score": 0.136,
+      "r18": false,
+      "languages": [
+        "mx",
+        "tr",
+        "gb",
+        "fr"
+      ]
     }
   ]
 }

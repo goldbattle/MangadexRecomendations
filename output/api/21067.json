@@ -2,49 +2,86 @@
   "id": 21067,
   "title": "Kemono Friends - Comic &Agrave; La Carte - Japari Park Hen",
   "url": "https://mangadex.org/manga/21067",
-  "last_updated": "March 16, 2021 04:20:33 UTC",
+  "last_updated": "March 18, 2021 09:02:13 UTC",
   "matches": [
     {
       "id": 5610,
       "title": "Mashima-en",
       "score": 0.181,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ct"
+      ]
     },
     {
       "id": 6876,
       "title": "Spica - Umino Chika Shoki Tanpenshuu",
       "score": 0.181,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "br"
+      ]
     },
     {
       "id": 27758,
       "title": "Rumic World",
-      "score": 0.17,
-      "r18": false
+      "score": 0.169,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 47444,
       "title": "Danganronpa - The Academy of Hope and High School Students of Despair Comic Anthology",
-      "score": 0.168,
-      "r18": false
+      "score": 0.167,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 57988,
       "title": "Yuru Camp \u25b3 Anthology Comic",
-      "score": 0.166,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 45047,
       "title": "Itai no wa Iya nanode Bougyo-Ryoku ni Kyokufuri Shitai to Omoimasu Comic Anthology",
-      "score": 0.129,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 53949,
       "title": "Welcome to Other Gentle Worlds",
-      "score": 0.121,
-      "r18": false
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb",
+        "in"
+      ]
+    },
+    {
+      "id": 44028,
+      "title": "Fate/Grand Order From Lostbelt",
+      "score": 0.085,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "es"
+      ]
     }
   ]
 }

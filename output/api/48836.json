@@ -2,19 +2,16 @@
   "id": 48836,
   "title": "Shinjin Juukishi no Ichinichi",
   "url": "https://mangadex.org/manga/48836",
-  "last_updated": "January 15, 2021 12:37:25 UTC",
+  "last_updated": "March 18, 2021 13:08:15 UTC",
   "matches": [
-    {
-      "id": 59351,
-      "title": "Yuri ni Mezameru Hon",
-      "score": 0.209,
-      "r18": false
-    },
     {
       "id": 47167,
       "title": "Fullmetal Alchemist - Deep Magenta",
-      "score": 0.177,
-      "r18": false
+      "score": 0.153,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -2,25 +2,35 @@
   "id": 7112,
   "title": "Little Brave Pukateriosu",
   "url": "https://mangadex.org/manga/7112",
-  "last_updated": "March 14, 2021 16:39:15 UTC",
+  "last_updated": "March 18, 2021 06:46:20 UTC",
   "matches": [
     {
       "id": 14812,
       "title": "ElFairy",
-      "score": 0.224,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1709,
       "title": "Waza no Tabibito",
       "score": 0.16,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 28662,
       "title": "W.K School",
       "score": 0.124,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

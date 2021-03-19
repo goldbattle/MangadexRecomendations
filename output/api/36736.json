@@ -2,25 +2,34 @@
   "id": 36736,
   "title": "Bing! Kang! Virgin",
   "url": "https://mangadex.org/manga/36736",
-  "last_updated": "March 17, 2021 20:30:46 UTC",
+  "last_updated": "March 18, 2021 11:27:06 UTC",
   "matches": [
     {
       "id": 45994,
       "title": "Chitose",
-      "score": 0.187,
-      "r18": true
+      "score": 0.186,
+      "r18": true,
+      "languages": [
+        "id"
+      ]
     },
     {
       "id": 18205,
       "title": "One-Room Hero",
       "score": 0.093,
-      "r18": true
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 58497,
       "title": "Learning The Hard Way",
       "score": 0.093,
-      "r18": true
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

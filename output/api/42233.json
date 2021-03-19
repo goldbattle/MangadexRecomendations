@@ -1,158 +1,272 @@
 {
   "id": 42233,
   "title": "Split Lover",
-  "url": "https://api.mangadex.org/v2/manga/42233",
-  "last_updated": "February 11, 2021 12:22:18 UTC",
+  "url": "https://mangadex.org/manga/42233",
+  "last_updated": "March 18, 2021 12:12:57 UTC",
   "matches": [
     {
-      "id": 795,
-      "title": "Kagami no Kuni no Harisugawa",
-      "score": 0.714,
-      "r18": false
+      "id": 9990,
+      "title": "Kami-sama Drop",
+      "score": 0.312,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 732,
-      "title": "To Love-Ru",
-      "score": 0.714,
-      "r18": false
+      "id": 28,
+      "title": "Princess Lucia",
+      "score": 0.312,
+      "r18": false,
+      "languages": [
+        "de",
+        "pl",
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 12928,
-      "title": "To Love-Ru - Digital Colored Comics",
-      "score": 0.714,
-      "r18": false
+      "id": 7245,
+      "title": "DAGASY - Houkago Chounouryoku Sensou",
+      "score": 0.312,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 9132,
+      "title": "Kisei Kanojo Sana ~Parasistence Sana~",
+      "score": 0.312,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 9855,
       "title": "Shinigami-sama to 4-nin no Kanojo",
-      "score": 0.714,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "fr"
+      ]
     },
     {
-      "id": 1882,
-      "title": "Baka to Test to Shoukanjuu",
-      "score": 0.708,
-      "r18": false
+      "id": 10753,
+      "title": "Koi ga Saku Koro Sakura Doki -Charming Scarlet-",
+      "score": 0.294,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 86,
-      "title": "Anedoki",
-      "score": 0.708,
-      "r18": false
+      "id": 253,
+      "title": "Trinity Seven",
+      "score": 0.277,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "de",
+        "fr"
+      ]
     },
     {
-      "id": 14458,
-      "title": "Magical P&acirc;tissi&egrave;re Kosaki-chan!!",
-      "score": 0.708,
-      "r18": false
+      "id": 647,
+      "title": "Hidan no Aria",
+      "score": 0.277,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br"
+      ]
     },
     {
-      "id": 757,
-      "title": "Kami to Sengoku Seitokai",
-      "score": 0.706,
-      "r18": false
+      "id": 3770,
+      "title": "Yamada-kun to 7-nin no Majo",
+      "score": 0.277,
+      "r18": false,
+      "languages": [
+        "ct",
+        "ru",
+        "gb",
+        "hu"
+      ]
     },
     {
-      "id": 1009,
-      "title": "Gamble Fish",
-      "score": 0.705,
-      "r18": false
+      "id": 839,
+      "title": "Ichiban Ushiro no Daimaou",
+      "score": 0.277,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 23571,
-      "title": "Kimi wa 008",
-      "score": 0.704,
-      "r18": false
+      "id": 1716,
+      "title": "Boku to Kanojo no Koi Log",
+      "score": 0.277,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 971,
-      "title": "Maga-Tsuki",
-      "score": 0.703,
-      "r18": false
+      "id": 11581,
+      "title": "Seiken Tsukai no World Break",
+      "score": 0.277,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 8570,
-      "title": "Dragons Rioting",
-      "score": 0.703,
-      "r18": false
+      "id": 3812,
+      "title": "Pajama na Kanojo.",
+      "score": 0.277,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "it",
+        "fr"
+      ]
     },
     {
-      "id": 5327,
-      "title": "Tora Kiss - A School Odyssey",
-      "score": 0.703,
-      "r18": false
+      "id": 11049,
+      "title": "Kin no Kanojo, Gin no Kanojo",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 163,
-      "title": "Countrouble",
-      "score": 0.702,
-      "r18": false
+      "id": 16459,
+      "title": "Ultimate Antihero",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "fr",
+        "it"
+      ]
     },
     {
-      "id": 121,
-      "title": "Mahou Sensei Negima!",
-      "score": 0.7,
-      "r18": false
+      "id": 2651,
+      "title": "Denpa Kyoushi",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 51,
-      "title": "To Love-Ru Darkness",
-      "score": 0.699,
-      "r18": false
+      "id": 19674,
+      "title": "Love Rush!",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "br",
+        "ru"
+      ]
     },
     {
-      "id": 12929,
-      "title": "To Love-Ru Darkness - Digital Colored Comics",
-      "score": 0.699,
-      "r18": false
+      "id": 28124,
+      "title": "Jutten!",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 10754,
-      "title": "Kotaro Makaritoru!",
-      "score": 0.699,
-      "r18": false
+      "id": 16325,
+      "title": "Criminale!",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "id"
+      ]
     },
     {
-      "id": 23992,
-      "title": "Yuragi-sou no Yuuna-san - Digital Colored Comics",
-      "score": 0.698,
-      "r18": false
+      "id": 51647,
+      "title": "Just a Story About Miyamoto Sakura Being Cute",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "mx",
+        "id"
+      ]
     },
     {
-      "id": 3507,
-      "title": "Megu Miruku",
-      "score": 0.698,
-      "r18": false
+      "id": 21437,
+      "title": "Atsumare! Fushigi Kenkyu-bu",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "fr"
+      ]
     },
     {
-      "id": 2404,
-      "title": "Love Hina",
-      "score": 0.698,
-      "r18": false
+      "id": 7238,
+      "title": "Shurabara!",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "pl"
+      ]
     },
     {
-      "id": 8993,
-      "title": "Absolute Duo",
-      "score": 0.698,
-      "r18": false
+      "id": 724,
+      "title": "Pastel",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it",
+        "fr"
+      ]
     },
     {
-      "id": 3819,
-      "title": "Classmate (\u2640) to Meikyuu no Futekisetsu na Kouryakuhou",
-      "score": 0.696,
-      "r18": false
+      "id": 945,
+      "title": "Yoo Ah Dok-Jon",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 9175,
-      "title": "Shinmai Maou no Testament",
-      "score": 0.695,
-      "r18": false
-    },
-    {
-      "id": 1907,
-      "title": "Kono Kanojo wa Fiction desu.",
-      "score": 0.695,
-      "r18": false
+      "id": 649,
+      "title": "Ai Kora",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

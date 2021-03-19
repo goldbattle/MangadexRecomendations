@@ -2,31 +2,49 @@
   "id": 26676,
   "title": "Byakuren no Fangu",
   "url": "https://mangadex.org/manga/26676",
-  "last_updated": "March 16, 2021 20:23:22 UTC",
+  "last_updated": "March 18, 2021 10:03:11 UTC",
   "matches": [
     {
       "id": 3597,
       "title": "Ashita no Joe",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 21647,
       "title": "Fight Class 3",
       "score": 0.125,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx",
+        "fr",
+        "br"
+      ]
     },
     {
       "id": 56441,
       "title": "Fight Class 3 (Webtoon Version)",
       "score": 0.1,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 20905,
       "title": "Yu-Gi-Oh! -  Digital Colored Comics",
       "score": 0.08,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

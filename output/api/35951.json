@@ -2,31 +2,47 @@
   "id": 35951,
   "title": "Ohapasu",
   "url": "https://mangadex.org/manga/35951",
-  "last_updated": "March 17, 2021 20:20:03 UTC",
+  "last_updated": "March 18, 2021 11:20:32 UTC",
   "matches": [
     {
       "id": 18197,
       "title": "At Each Other's Throats",
       "score": 0.177,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 34326,
       "title": "Randomphilia",
       "score": 0.177,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "fr",
+        "ru"
+      ]
     },
     {
       "id": 54458,
       "title": "Tate no Yuusha No Nariagari - Mobile Game Short Comics",
-      "score": 0.124,
-      "r18": false
+      "score": 0.123,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 48294,
       "title": "Land of Heroes",
-      "score": 0.089,
-      "r18": false
+      "score": 0.088,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "br"
+      ]
     }
   ]
 }

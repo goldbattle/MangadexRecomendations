@@ -2,67 +2,77 @@
   "id": 21383,
   "title": "Maria",
   "url": "https://mangadex.org/manga/21383",
-  "last_updated": "March 16, 2021 04:25:10 UTC",
+  "last_updated": "March 18, 2021 09:04:52 UTC",
   "matches": [
-    {
-      "id": 52142,
-      "title": "1000 Words",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 46745,
-      "title": "Sky Sky",
-      "score": 0.29,
-      "r18": false
-    },
     {
       "id": 11304,
       "title": "See you soon.",
       "score": 0.29,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 15586,
       "title": "Juuni Banme no Tenshi",
-      "score": 0.242,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 59882,
       "title": "Koufuku wa Ice Cream Mitai ni Tokeyasui",
-      "score": 0.242,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3691,
       "title": "The Story of a White Mouse",
       "score": 0.232,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "de"
+      ]
     },
     {
       "id": 21386,
       "title": "Love Letter (Ozaki Kaori)",
-      "score": 0.225,
-      "r18": false
+      "score": 0.224,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ct",
+        "br",
+        "tr",
+        "fr",
+        "ir",
+        "id"
+      ]
     },
     {
       "id": 47758,
       "title": "Minami in the Night",
       "score": 0.145,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 53288,
       "title": "Sensai Vagabond",
       "score": 0.145,
-      "r18": false
-    },
-    {
-      "id": 48116,
-      "title": "LOW LIFE",
-      "score": 0.105,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

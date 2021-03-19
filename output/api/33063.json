@@ -1,26 +1,43 @@
 {
   "id": 33063,
   "title": "Starting out as Friends With a Yankee Girl",
-  "url": "https://api.mangadex.org/v2/manga/33063",
-  "last_updated": "February 10, 2021 12:31:49 UTC",
+  "url": "https://mangadex.org/manga/33063",
+  "last_updated": "March 18, 2021 10:56:27 UTC",
   "matches": [
-    {
-      "id": 20316,
-      "title": "Rokudou no Onna-tachi",
-      "score": 0.656,
-      "r18": false
-    },
     {
       "id": 29540,
       "title": "Oni no Youna LoveCome",
-      "score": 0.241,
-      "r18": false
+      "score": 0.162,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20316,
+      "title": "Rokudou no Onna-tachi",
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "sa"
+      ]
     },
     {
       "id": 47146,
       "title": "God of Blackfield",
-      "score": 0.214,
-      "r18": false
+      "score": 0.104,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "es",
+        "it",
+        "pl",
+        "fr"
+      ]
     }
   ]
 }

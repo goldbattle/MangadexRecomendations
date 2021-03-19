@@ -1,116 +1,123 @@
 {
   "id": 31372,
   "title": "Left Hand",
-  "url": "https://api.mangadex.org/v2/manga/31372",
-  "last_updated": "February 10, 2021 08:19:07 UTC",
+  "url": "https://mangadex.org/manga/31372",
+  "last_updated": "March 18, 2021 10:42:22 UTC",
   "matches": [
-    {
-      "id": 18149,
-      "title": "Refrain Love",
-      "score": 0.65,
-      "r18": true
-    },
-    {
-      "id": 19529,
-      "title": "Shoujo x Shoujo x Shoujo",
-      "score": 0.375,
-      "r18": true
-    },
     {
       "id": 18180,
       "title": "Heaven",
-      "score": 0.348,
-      "r18": true
+      "score": 0.262,
+      "r18": true,
+      "languages": [
+        "br",
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 50165,
       "title": "Aitai",
-      "score": 0.336,
-      "r18": true
+      "score": 0.233,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 46318,
-      "title": "Taking a Hot Tanned Chick's Virginity",
-      "score": 0.321,
-      "r18": true
-    },
-    {
-      "id": 55552,
-      "title": "The Desire to Kill",
-      "score": 0.32,
-      "r18": true
+      "id": 19529,
+      "title": "Shoujo x Shoujo x Shoujo",
+      "score": 0.221,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 28184,
       "title": "An Adult's Experiences",
-      "score": 0.282,
-      "r18": true
-    },
-    {
-      "id": 27345,
-      "title": "Hishoka Drop",
-      "score": 0.263,
-      "r18": true
-    },
-    {
-      "id": 18205,
-      "title": "One-Room Hero",
-      "score": 0.258,
-      "r18": true
+      "score": 0.175,
+      "r18": true,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 48744,
       "title": "Magic Rope",
-      "score": 0.246,
-      "r18": true
+      "score": 0.174,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 16266,
-      "title": "SStudy",
-      "score": 0.216,
-      "r18": true
-    },
-    {
-      "id": 52257,
-      "title": "The Key to My Body",
-      "score": 0.211,
-      "r18": true
-    },
-    {
-      "id": 56556,
-      "title": "Goddess Stargram",
-      "score": 0.204,
-      "r18": true
+      "id": 18149,
+      "title": "Refrain Love",
+      "score": 0.173,
+      "r18": true,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 54121,
       "title": "A Knowing Sister",
-      "score": 0.2,
-      "r18": true
+      "score": 0.149,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 27345,
+      "title": "Hishoka Drop",
+      "score": 0.139,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 16266,
+      "title": "SStudy",
+      "score": 0.139,
+      "r18": true,
+      "languages": [
+        "gb",
+        "pl",
+        "de",
+        "tr"
+      ]
     },
     {
       "id": 23830,
       "title": "Yellow Heart",
-      "score": 0.19,
-      "r18": true
+      "score": 0.139,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 50870,
-      "title": "The Idol Project",
-      "score": 0.142,
-      "r18": true
+      "id": 18205,
+      "title": "One-Room Hero",
+      "score": 0.128,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 58497,
-      "title": "ILJINNYEO TUTORING",
-      "score": 0.113,
-      "r18": true
-    },
-    {
-      "id": 41299,
-      "title": "Lovers in Winters",
-      "score": 0.097,
-      "r18": true
+      "title": "Learning The Hard Way",
+      "score": 0.116,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

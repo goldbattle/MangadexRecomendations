@@ -1,92 +1,242 @@
 {
   "id": 49858,
   "title": "Persona 3 Portable Dear Girls Comic Anthology",
-  "url": "https://api.mangadex.org/v2/manga/49858",
-  "last_updated": "February 05, 2021 08:14:28 UTC",
+  "url": "https://mangadex.org/manga/49858",
+  "last_updated": "March 18, 2021 13:16:46 UTC",
   "matches": [
     {
-      "id": 49526,
-      "title": "Persona 4 The Golden Comic Anthology",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 49529,
-      "title": "Tales of Zestiria Comic Anthology",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 49800,
-      "title": "Fire Emblem Fates Comic Anthology Side: Party Gathered &amp; Offspring Generation",
-      "score": 0.34,
-      "r18": false
+      "id": 10954,
+      "title": "Suzumiya Haruhi no Shukusai Comic Anthology",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 50195,
       "title": "Persona 3 Comic Anthology",
-      "score": 0.34,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53716,
+      "title": "Osomatsu-san Official Comic Anthology ~Square Senbatsu~",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2372,
+      "title": "NASA",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "it",
+        "ro"
+      ]
+    },
+    {
+      "id": 5718,
+      "title": "Tenchi Muyou! Sasami-chan a la Carte!",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7844,
+      "title": "THE iDOLM@STER Cinderella Girls - Comic Anthology cute",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7845,
+      "title": "THE iDOLM@STER Cinderella Girls - Comic Anthology cool",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8346,
+      "title": "THE iDOLM@STER Cinderella Girls - Comic Anthology passion",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9260,
+      "title": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai - Official Anthology Comic",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10150,
+      "title": "Akagi Zawa... Zawa... Anthology",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10495,
+      "title": "Mahou Shoujo Lyrical Nanoha The MOVIE - Comic alacarte",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 16967,
+      "title": "Hanshin Tigers 80th Anniversary Special",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "cn",
+        "gb",
+        "it",
+        "fr"
+      ]
+    },
+    {
+      "id": 18965,
+      "title": "Super Danganronpa 2: Goodbye Despair Academy Comic Anthology",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20842,
+      "title": "Persona 5 Dengeki Comic Anthology",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "es",
+        "hu"
+      ]
+    },
+    {
+      "id": 35006,
+      "title": "BanG Dream! Garupa\u2606PICO Comic Anthology",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 40331,
+      "title": "Love Live! Sunshine!! AZALEA COMIC ANTHOLOGY",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 49526,
+      "title": "Persona 4 The Golden Comic Anthology",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 49529,
+      "title": "Tales of Zestiria Comic Anthology",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 49800,
+      "title": "Fire Emblem Fates Comic Anthology Side: Party Gathered &amp; Offspring Generation",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50241,
+      "title": "Summer Pockets Reflection Blue Support Manga",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 50730,
       "title": "Persona 4 Comic Anthology (Hinotama)",
-      "score": 0.34,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 50731,
       "title": "Persona Q Comic Anthology (DNA Media Comics)",
-      "score": 0.34,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 51075,
+      "title": "Fairy Tail +",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 51084,
       "title": "Persona 4 the Ultimax Ultra Suplex Hold Comic Anthology",
-      "score": 0.34,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 51178,
       "title": "Persona 4 Anthology Comic ~ Seishun Drop ~ (HJ Comics)",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 34503,
-      "title": "Dolls Frontline Comic anthology",
-      "score": 0.146,
-      "r18": false
-    },
-    {
-      "id": 45047,
-      "title": "Itai no wa Iya nanode Bougyo-Ryoku ni Kyokufuri Shitai to Omoimasu Comic Anthology",
-      "score": 0.113,
-      "r18": false
-    },
-    {
-      "id": 54970,
-      "title": "Ultra Despair Girls - Danganronpa: Another Episode Comic Anthology",
-      "score": 0.093,
-      "r18": false
-    },
-    {
-      "id": 41728,
-      "title": "Though I May Be a Villainess, I'll Show You I Can Obtain Happiness!",
-      "score": 0.079,
-      "r18": false
-    },
-    {
-      "id": 47275,
-      "title": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta",
-      "score": 0.079,
-      "r18": false
-    },
-    {
-      "id": 43310,
-      "title": "Marvel + JUMP Collaboration",
-      "score": 0.068,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

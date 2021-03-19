@@ -1,44 +1,75 @@
 {
   "id": 52324,
   "title": "The Dark Brown Editor and the Shota Mangaka",
-  "url": "https://api.mangadex.org/v2/manga/52324",
-  "last_updated": "February 05, 2021 12:22:35 UTC",
+  "url": "https://mangadex.org/manga/52324",
+  "last_updated": "March 18, 2021 13:37:21 UTC",
   "matches": [
     {
-      "id": 23515,
-      "title": "Megami-ryou no Ryoubo-kun",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 35826,
-      "title": "Inaka ni Kaeru to Yakeni Natsuita Kasshoku Ponytail Shota ga Iru",
-      "score": 0.365,
-      "r18": false
+      "id": 39407,
+      "title": "The Curtain Call of the Dagashi Store",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 44999,
       "title": "Nei and Souta's Petite Manga",
-      "score": 0.302,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "tr",
+        "id",
+        "br"
+      ]
+    },
+    {
+      "id": 35826,
+      "title": "Inaka ni Kaeru to Yakeni Natsuita Kasshoku Ponytail Shota ga Iru",
+      "score": 0.226,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 23515,
+      "title": "Megami-ryou no Ryoubo-kun",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "fr",
+        "ru"
+      ]
     },
     {
       "id": 46433,
       "title": "The Girl with a Kansai Accent and the Pure Boy",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 39407,
-      "title": "The Curtain Call of the Dagashi Store",
-      "score": 0.28,
-      "r18": false
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 43511,
       "title": "Seiken Gakuin no Maken Tsukai",
-      "score": 0.232,
-      "r18": false
+      "score": 0.09,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru"
+      ]
     }
   ]
 }

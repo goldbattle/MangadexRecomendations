@@ -1,158 +1,262 @@
 {
   "id": 54685,
   "title": "Bamboo Grove Notification",
-  "url": "https://api.mangadex.org/v2/manga/54685",
-  "last_updated": "March 12, 2021 20:28:39 UTC",
+  "url": "https://mangadex.org/manga/54685",
+  "last_updated": "March 18, 2021 13:57:03 UTC",
   "matches": [
-    {
-      "id": 29117,
-      "title": "Save Me",
-      "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 5534,
-      "title": "Meisou Kuiki",
-      "score": 0.33,
-      "r18": false
-    },
-    {
-      "id": 21580,
-      "title": "Kimi ga Shinu Natsu ni",
-      "score": 0.31,
-      "r18": false
-    },
-    {
-      "id": 3820,
-      "title": "Maou - Juvenile Remix",
-      "score": 0.306,
-      "r18": false
-    },
-    {
-      "id": 2143,
-      "title": "Torikago Gakkyuu",
-      "score": 0.305,
-      "r18": false
-    },
-    {
-      "id": 12020,
-      "title": "Kakegurui",
-      "score": 0.304,
-      "r18": false
-    },
-    {
-      "id": 2312,
-      "title": "Spiral - Suiri no Kizuna",
-      "score": 0.303,
-      "r18": false
-    },
     {
       "id": 33977,
       "title": "Tate no Kuni",
-      "score": 0.302,
-      "r18": false
-    },
-    {
-      "id": 18760,
-      "title": "Kakegurui Futago",
-      "score": 0.298,
-      "r18": false
-    },
-    {
-      "id": 6908,
-      "title": "Robotics;Notes",
-      "score": 0.294,
-      "r18": false
-    },
-    {
-      "id": 5439,
-      "title": "Mukuchi na Bakemono wa Yoru ni Naku",
-      "score": 0.293,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru"
+      ]
     },
     {
       "id": 30570,
       "title": "Puzzle",
-      "score": 0.291,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 44675,
-      "title": "Narenohate no Bokura",
-      "score": 0.289,
-      "r18": false
+      "id": 21580,
+      "title": "Kimi ga Shinu Natsu ni",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "id"
+      ]
+    },
+    {
+      "id": 12020,
+      "title": "Kakegurui",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "ru",
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 2312,
+      "title": "Spiral - Suiri no Kizuna",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18760,
+      "title": "Kakegurui Futago",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5919,
       "title": "Kiben Gakuha, Yotsuya Senpai no Kaidan",
-      "score": 0.289,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 16476,
-      "title": "Platinum End",
-      "score": 0.286,
-      "r18": false
+      "id": 2143,
+      "title": "Torikago Gakkyuu",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de"
+      ]
     },
     {
-      "id": 40209,
-      "title": "Backcourt",
-      "score": 0.285,
-      "r18": false
-    },
-    {
-      "id": 32558,
-      "title": "Reset Game",
-      "score": 0.285,
-      "r18": false
-    },
-    {
-      "id": 41751,
-      "title": "The Boy of Death",
-      "score": 0.283,
-      "r18": false
-    },
-    {
-      "id": 46587,
-      "title": "Campus Flower Guard",
-      "score": 0.277,
-      "r18": false
+      "id": 44675,
+      "title": "Narenohate no Bokura",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 40813,
       "title": "Ijimeru Yabai Yatsu",
-      "score": 0.277,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "cn",
+        "gb",
+        "mx",
+        "br",
+        "id"
+      ]
     },
     {
-      "id": 46828,
-      "title": "Daddy Boy",
-      "score": 0.272,
-      "r18": false
+      "id": 32558,
+      "title": "Reset Game",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6908,
+      "title": "Robotics;Notes",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 39548,
       "title": "Dricam!!",
-      "score": 0.27,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 50542,
-      "title": "Ako and Bambi",
-      "score": 0.268,
-      "r18": false
+      "id": 46828,
+      "title": "Daddy Boy",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 42224,
-      "title": "Senior's Girl's Beating",
-      "score": 0.266,
-      "r18": false
+      "id": 5439,
+      "title": "Mukuchi na Bakemono wa Yoru ni Naku",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3365,
+      "title": "Neung Neung",
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 54424,
+      "title": "Efforts Never Betray",
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mn"
+      ]
+    },
+    {
+      "id": 3820,
+      "title": "Maou - Juvenile Remix",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 41751,
+      "title": "The Boy of Death",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "tr"
+      ]
+    },
+    {
+      "id": 16476,
+      "title": "Platinum End",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "ct",
+        "gb",
+        "pl",
+        "br",
+        "ru",
+        "it",
+        "es",
+        "cz",
+        "ro"
+      ]
+    },
+    {
+      "id": 18609,
+      "title": "Killer Killer",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "ru",
+        "br"
+      ]
     },
     {
       "id": 14064,
       "title": "Tsukimizuki Rikai no Tantei Satsujin",
-      "score": 0.264,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1512,
+      "title": "Hajime",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "it"
+      ]
+    },
+    {
+      "id": 51461,
+      "title": "Boku to Kimi no Nijuu Tantei",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 42224,
+      "title": "Senior's Girl's Beating",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

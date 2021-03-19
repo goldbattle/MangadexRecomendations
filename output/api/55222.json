@@ -1,158 +1,292 @@
 {
   "id": 55222,
   "title": "LACRIMOSA! My Pray",
-  "url": "https://api.mangadex.org/v2/manga/55222",
-  "last_updated": "March 12, 2021 20:35:08 UTC",
+  "url": "https://mangadex.org/manga/55222",
+  "last_updated": "March 18, 2021 14:01:33 UTC",
   "matches": [
     {
       "id": 40513,
       "title": "Soul Render",
-      "score": 0.216,
-      "r18": false
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 820,
       "title": "Zettai Karen Children",
-      "score": 0.204,
-      "r18": false
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "pl"
+      ]
+    },
+    {
+      "id": 15016,
+      "title": "Black Clover",
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "br",
+        "hu",
+        "gb",
+        "sa",
+        "mn",
+        "it",
+        "pl",
+        "ru",
+        "mx",
+        "es",
+        "de",
+        "fr",
+        "id",
+        "my"
+      ]
     },
     {
       "id": 20131,
       "title": "Fumetsu no Anata e",
-      "score": 0.204,
-      "r18": false
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "br",
+        "ru",
+        "tr",
+        "gb"
+      ]
     },
     {
       "id": 20274,
       "title": "Jinrou e no Tensei, Maou no Fukukan",
-      "score": 0.204,
-      "r18": false
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "fr"
+      ]
     },
     {
       "id": 24614,
       "title": "Gekijouban Mahouka Koukou no Rettousei - Hoshi wo Yobu Shoujo",
-      "score": 0.204,
-      "r18": false
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 25435,
       "title": "Madara",
-      "score": 0.204,
-      "r18": false
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 25945,
       "title": "Four Billion Nights",
-      "score": 0.204,
-      "r18": false
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 30307,
       "title": "Twin Peach",
-      "score": 0.204,
-      "r18": false
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "br"
+      ]
     },
     {
       "id": 31794,
       "title": "How to Kill a God",
-      "score": 0.204,
-      "r18": false
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 38337,
       "title": "Jinrou e no Tensei, Maou no Fukkan: Hajimari no Shou",
-      "score": 0.204,
-      "r18": false
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr"
+      ]
     },
     {
       "id": 38452,
       "title": "Goryu Jin",
-      "score": 0.204,
-      "r18": false
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 43054,
       "title": "After Darkness",
-      "score": 0.204,
-      "r18": false
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
     },
     {
       "id": 50692,
       "title": "The Reincarnated Great Saint Hides That She's a Saint",
-      "score": 0.204,
-      "r18": false
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "ru"
+      ]
     },
     {
       "id": 54903,
       "title": "DevilShot",
-      "score": 0.204,
-      "r18": false
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 55656,
       "title": "Red Hood",
-      "score": 0.204,
-      "r18": false
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr"
+      ]
     },
     {
       "id": 1751,
       "title": "D.Gray-man",
-      "score": 0.198,
-      "r18": false
+      "score": 0.163,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "tr",
+        "sa",
+        "mx",
+        "pl",
+        "ru",
+        "es",
+        "bg"
+      ]
+    },
+    {
+      "id": 283,
+      "title": "Ao no Exorcist",
+      "score": 0.152,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "mx",
+        "it",
+        "br",
+        "es",
+        "il",
+        "fr"
+      ]
     },
     {
       "id": 848,
       "title": "Konjiki no Gash!!",
-      "score": 0.185,
-      "r18": false
+      "score": 0.152,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 10801,
-      "title": "Mahoutsukai no Yome",
-      "score": 0.185,
-      "r18": false
+      "title": "The Ancient Magus' Bride",
+      "score": 0.152,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br",
+        "es",
+        "hu"
+      ]
     },
     {
       "id": 15355,
       "title": "Kyokou Suiri",
-      "score": 0.185,
-      "r18": false
+      "score": 0.152,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "ru",
+        "it",
+        "fr",
+        "br"
+      ]
     },
     {
       "id": 41744,
       "title": "Shi ni Modori, Subete wo Sukuu Tame ni Saikyou he to Itaru",
-      "score": 0.185,
-      "r18": false
+      "score": 0.152,
+      "r18": false,
+      "languages": [
+        "hk",
+        "br",
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 45249,
       "title": "Mahouka Koukou no Rettousei - Shiba Tatsuya Ansatsu Keikaku",
-      "score": 0.185,
-      "r18": false
+      "score": 0.152,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 47153,
       "title": "Demons Can't Be Pretty",
-      "score": 0.185,
-      "r18": false
+      "score": 0.152,
+      "r18": false,
+      "languages": [
+        "es"
+      ]
     },
     {
       "id": 52400,
       "title": "The Revolution of Gene X",
-      "score": 0.185,
-      "r18": false
-    },
-    {
-      "id": 58683,
-      "title": "Wistoria's Wand and Sword",
-      "score": 0.185,
-      "r18": false
-    },
-    {
-      "id": 17524,
-      "title": "West-North's Grim Reaper",
-      "score": 0.183,
-      "r18": false
+      "score": 0.152,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

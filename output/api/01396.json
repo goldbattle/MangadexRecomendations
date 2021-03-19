@@ -2,43 +2,58 @@
   "id": 1396,
   "title": "Nemureru Hoshi",
   "url": "https://mangadex.org/manga/1396",
-  "last_updated": "March 14, 2021 01:12:42 UTC",
+  "last_updated": "March 18, 2021 05:54:32 UTC",
   "matches": [
     {
       "id": 3894,
       "title": "Tenshin Ranman",
       "score": 0.29,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 44717,
       "title": "Harem Kakumei",
       "score": 0.29,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 13233,
       "title": "Hare-Kon",
-      "score": 0.242,
-      "r18": false
-    },
-    {
-      "id": 35087,
-      "title": "Kono Ai wa, Itan.",
-      "score": 0.233,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "pl",
+        "it",
+        "sa"
+      ]
     },
     {
       "id": 14677,
       "title": "Tokkaten",
-      "score": 0.156,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 18813,
       "title": "House of Dolls",
-      "score": 0.156,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     }
   ]
 }

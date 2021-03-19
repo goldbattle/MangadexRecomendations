@@ -1,158 +1,253 @@
 {
   "id": 34810,
   "title": "Kyuuhankagai Fukurokouji",
-  "url": "https://api.mangadex.org/v2/manga/34810",
-  "last_updated": "February 10, 2021 16:34:17 UTC",
+  "url": "https://mangadex.org/manga/34810",
+  "last_updated": "March 18, 2021 11:11:01 UTC",
   "matches": [
     {
       "id": 10838,
       "title": "4gatsu 4kka",
-      "score": 0.353,
-      "r18": false
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11604,
       "title": "Trap",
-      "score": 0.353,
-      "r18": false
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 12271,
       "title": "Love x Eros",
-      "score": 0.353,
-      "r18": false
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 14307,
       "title": "Suki Dakara Itte Hoshikunai",
-      "score": 0.353,
-      "r18": false
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 17835,
       "title": "Shoudou",
-      "score": 0.353,
-      "r18": false
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20168,
       "title": "Iyayoiyayo mo Kiss no Uchi",
-      "score": 0.353,
-      "r18": false
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20992,
       "title": "Hina wa Mitsuiro no Koi ni Torawareru",
-      "score": 0.353,
-      "r18": false
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "ru",
+        "pl",
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 22333,
       "title": "Batsu Game",
-      "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 23341,
-      "title": "Scratch Blue",
-      "score": 0.353,
-      "r18": false
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 25954,
       "title": "Natsukoi",
-      "score": 0.353,
-      "r18": false
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 35741,
       "title": "Chouhatsu - Denkou Sekka Boys",
-      "score": 0.353,
-      "r18": false
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 42174,
       "title": "Anti Alpha",
-      "score": 0.353,
-      "r18": false
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 46488,
       "title": "Atsui Karada Koisuru Karada",
-      "score": 0.353,
-      "r18": false
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6502,
       "title": "Abiru Junjou",
-      "score": 0.265,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 8884,
       "title": "Bokura wa Sore o Hitei Dekinai",
-      "score": 0.265,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "br",
+        "fr"
+      ]
     },
     {
       "id": 9135,
       "title": "Boku no Kichiku Megane",
-      "score": 0.265,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "tr"
+      ]
     },
     {
       "id": 11684,
       "title": "Chime - Peach na Seito to Banana na Kyoushi",
-      "score": 0.265,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11894,
       "title": "Kare Janai Kedo",
-      "score": 0.265,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "tr"
+      ]
     },
     {
       "id": 11895,
       "title": "Sunao Janai Kedo",
-      "score": 0.265,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "tr",
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 11919,
       "title": "Warui Yatsu Demo Ii",
-      "score": 0.265,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "pl",
+        "tr",
+        "gb"
+      ]
+    },
+    {
+      "id": 11930,
+      "title": "Mujihi na Otoko",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 12021,
       "title": "Wild Darling",
-      "score": 0.265,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 13046,
       "title": "Kami-sama no Ude no Naka",
-      "score": 0.265,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 14395,
       "title": "Moujuu School Days",
-      "score": 0.265,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 15140,
       "title": "Kimi no Karada ni Koishiteru!?",
-      "score": 0.265,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 17913,
       "title": "Ikujinashi no Spectator",
-      "score": 0.265,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

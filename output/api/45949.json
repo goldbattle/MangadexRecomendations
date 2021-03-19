@@ -1,38 +1,45 @@
 {
   "id": 45949,
   "title": "Kinjo no Yasashii Onee-san",
-  "url": "https://api.mangadex.org/v2/manga/45949",
-  "last_updated": "February 11, 2021 20:33:59 UTC",
+  "url": "https://mangadex.org/manga/45949",
+  "last_updated": "March 18, 2021 12:44:00 UTC",
   "matches": [
-    {
-      "id": 45273,
-      "title": "Yuruyuru - Bind Me Tight (Doujinshi)",
-      "score": 0.275,
-      "r18": false
-    },
     {
       "id": 36545,
       "title": "THE iDOLM@STER Cinderella Girls - Anzu to Kirarin Mazeru Dake (Doujinshi)",
-      "score": 0.22,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 43990,
       "title": "Gochuumon wa Usagi desu ka? - Luminocity 24 Chino-chan no shitagi wa watashi ga erabimasukara! (Doujinshi)",
-      "score": 0.183,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 51477,
       "title": "Luminocity 19 Potofu-chan",
-      "score": 0.157,
-      "r18": false
+      "score": 0.142,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 37951,
       "title": "Kantai Collection -KanColle-\u3010KanColle Manga\u3011(Doujinshi)",
-      "score": 0.122,
-      "r18": false
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     }
   ]
 }

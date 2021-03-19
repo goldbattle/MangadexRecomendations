@@ -1,158 +1,268 @@
 {
   "id": 51020,
   "title": "Koitsu-ra no Shoutai ga Onnada to Oredake ga Shitte Iru",
-  "url": "https://api.mangadex.org/v2/manga/51020",
-  "last_updated": "February 05, 2021 08:32:53 UTC",
+  "url": "https://mangadex.org/manga/51020",
+  "last_updated": "March 18, 2021 13:26:27 UTC",
   "matches": [
     {
       "id": 98,
       "title": "Pretty Face",
-      "score": 0.297,
-      "r18": false
+      "score": 0.251,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 651,
       "title": "Asa made Jugyou Chu!",
-      "score": 0.297,
-      "r18": false
+      "score": 0.251,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 3554,
       "title": "Mei no Naisho",
-      "score": 0.297,
-      "r18": false
+      "score": 0.251,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1882,
       "title": "Baka to Test to Shoukanjuu",
-      "score": 0.294,
-      "r18": false
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22900,
       "title": "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?",
-      "score": 0.294,
-      "r18": false
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 25332,
+      "title": "Hiota no Kanojo ga Ore no Motteru Eroge ni Kyoumi Shinshin Nanda ga......",
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "fr",
+        "id",
+        "mx"
+      ]
     },
     {
       "id": 54812,
       "title": "Nogizaka Asuka no Himitsu",
-      "score": 0.294,
-      "r18": false
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 5197,
       "title": "Otome wa Boku ni Koishiteru",
-      "score": 0.26,
-      "r18": false
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21501,
       "title": "King of Idol",
-      "score": 0.26,
-      "r18": false
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 26342,
       "title": "Jishou! Heibon Mazoku no Eiyuu Life: B-kyuu Mazoku nano ni Cheat Dungeon wo Tsukutteshimatta Kekka",
-      "score": 0.258,
-      "r18": false
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "tr",
+        "ru",
+        "mx",
+        "fr"
+      ]
     },
     {
       "id": 5294,
       "title": "Mai-Otome",
-      "score": 0.249,
-      "r18": false
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 51,
       "title": "To Love-Ru Darkness",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "id",
+        "ru",
+        "br",
+        "pl"
+      ]
     },
     {
       "id": 83,
       "title": "Kimiiro Focus",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "it"
+      ]
     },
     {
       "id": 86,
       "title": "Anedoki",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "de",
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 166,
       "title": "Kenkoo Zenrakei Suieibu Umishou",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "it"
+      ]
     },
     {
       "id": 575,
       "title": "Sore ga Kanojo no Seigi nara",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
     },
     {
       "id": 592,
       "title": "Spas-Pa",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 598,
       "title": "Girls Saurus",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 632,
       "title": "Kami Sen",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 649,
       "title": "Ai Kora",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 655,
       "title": "Ichigo 100%",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 683,
       "title": "Mayoi Neko Overrun!",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 821,
       "title": "Midori no Hibi",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 824,
       "title": "Nozomi x Kimio",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "mx",
+        "it",
+        "fr"
+      ]
     },
     {
       "id": 905,
       "title": "Yotsunoha",
-      "score": 0.246,
-      "r18": false
-    },
-    {
-      "id": 912,
-      "title": "Ayu Mayu",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

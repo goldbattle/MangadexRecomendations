@@ -2,67 +2,113 @@
   "id": 36541,
   "title": "Apiru",
   "url": "https://mangadex.org/manga/36541",
-  "last_updated": "March 17, 2021 20:28:09 UTC",
+  "last_updated": "March 18, 2021 11:25:29 UTC",
   "matches": [
     {
       "id": 10232,
       "title": "Bestia",
       "score": 0.225,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 7000,
       "title": "Shura Yukihime Gaiden",
       "score": 0.181,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 46689,
       "title": "Eros no Shushi",
       "score": 0.181,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "hk"
+      ]
     },
     {
       "id": 5706,
       "title": "Sakuran",
       "score": 0.181,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 27639,
       "title": "Offered",
       "score": 0.175,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 18033,
       "title": "Genocider (Akiyoshi Takahiro)",
       "score": 0.175,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22687,
       "title": "GIGANT",
       "score": 0.175,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "it",
+        "mx",
+        "br",
+        "gb",
+        "fr",
+        "ru",
+        "ro"
+      ]
     },
     {
       "id": 10832,
       "title": "Beageruta",
       "score": 0.175,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "hk",
+        "ru",
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 14601,
       "title": "Blind Faith Descent",
       "score": 0.175,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "fr",
+        "it"
+      ]
     },
     {
       "id": 14677,
       "title": "Tokkaten",
-      "score": 0.156,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

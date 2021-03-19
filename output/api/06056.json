@@ -2,157 +2,361 @@
   "id": 6056,
   "title": "Shigatsu wa Kimi no Uso",
   "url": "https://mangadex.org/manga/6056",
-  "last_updated": "March 14, 2021 12:45:54 UTC",
+  "last_updated": "March 18, 2021 06:37:14 UTC",
   "matches": [
-    {
-      "id": 11710,
-      "title": "Days",
-      "score": 0.277,
-      "r18": false
-    },
-    {
-      "id": 10271,
-      "title": "Ballroom e Youkoso",
-      "score": 0.276,
-      "r18": false
-    },
-    {
-      "id": 1293,
-      "title": "Miyuki",
-      "score": 0.271,
-      "r18": false
-    },
-    {
-      "id": 1281,
-      "title": "Touch",
-      "score": 0.271,
-      "r18": false
-    },
-    {
-      "id": 536,
-      "title": "Beck",
-      "score": 0.271,
-      "r18": false
-    },
-    {
-      "id": 42,
-      "title": "Baby Steps",
-      "score": 0.269,
-      "r18": false
-    },
-    {
-      "id": 414,
-      "title": "Sket Dance",
-      "score": 0.269,
-      "r18": false
-    },
     {
       "id": 496,
       "title": "Gin no Saji",
-      "score": 0.265,
-      "r18": false
-    },
-    {
-      "id": 13742,
-      "title": "Fujicue!!! - Fujicue's Music",
       "score": 0.264,
-      "r18": false
-    },
-    {
-      "id": 991,
-      "title": "Cross Game",
-      "score": 0.259,
-      "r18": false
-    },
-    {
-      "id": 711,
-      "title": "Watashitachi no Tamura-kun",
-      "score": 0.256,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb",
+        "br",
+        "bg",
+        "id",
+        "ru"
+      ]
     },
     {
       "id": 1873,
       "title": "Haikyuu!!",
-      "score": 0.255,
-      "r18": false
-    },
-    {
-      "id": 1385,
-      "title": "H2",
-      "score": 0.247,
-      "r18": false
+      "score": 0.254,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "it",
+        "id",
+        "br",
+        "ru",
+        "bg",
+        "tr"
+      ]
     },
     {
       "id": 23811,
       "title": "Boku no Kokoro no Yabai Yatsu",
       "score": 0.246,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "id",
+        "fr"
+      ]
     },
     {
       "id": 9707,
       "title": "Kono Oto Tomare!",
-      "score": 0.239,
-      "r18": false
-    },
-    {
-      "id": 43103,
-      "title": "Shingou-san Is Right There",
-      "score": 0.239,
-      "r18": false
-    },
-    {
-      "id": 7352,
-      "title": "TheLastPierrot",
-      "score": 0.239,
-      "r18": false
-    },
-    {
-      "id": 6488,
-      "title": "Mashiro no Oto",
-      "score": 0.232,
-      "r18": false
-    },
-    {
-      "id": 3943,
-      "title": "Slam Dunk",
-      "score": 0.232,
-      "r18": false
-    },
-    {
-      "id": 5557,
-      "title": "Tetsugaku Letra",
-      "score": 0.23,
-      "r18": false
-    },
-    {
-      "id": 14104,
-      "title": "Sakura Discord",
-      "score": 0.229,
-      "r18": false
-    },
-    {
-      "id": 185,
-      "title": "Hareluya II Boy",
-      "score": 0.229,
-      "r18": false
-    },
-    {
-      "id": 15827,
-      "title": "One Summer's Kids Game",
-      "score": 0.229,
-      "r18": false
-    },
-    {
-      "id": 1403,
-      "title": "Sayonara Zetsubou Sensei",
-      "score": 0.228,
-      "r18": false
+      "score": 0.238,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn",
+        "br",
+        "id",
+        "fr",
+        "it",
+        "hu"
+      ]
     },
     {
       "id": 14569,
       "title": "Ookami Shounen wa Kyou mo Uso o Kasaneru",
       "score": 0.226,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "ru",
+        "br",
+        "de",
+        "id",
+        "fr"
+      ]
+    },
+    {
+      "id": 19203,
+      "title": "Kuzumi-kun, Kuuki Yometemasu ka?",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "ru"
+      ]
+    },
+    {
+      "id": 51897,
+      "title": "Hanazono Twins",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "mx",
+        "ru"
+      ]
+    },
+    {
+      "id": 23242,
+      "title": "Act-Age",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br",
+        "sa",
+        "ru",
+        "id",
+        "es",
+        "fr",
+        "tr"
+      ]
+    },
+    {
+      "id": 22516,
+      "title": "Dioti Manual ~Kamisamatachi no Ren'ai Daikou~",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "br",
+        "vn",
+        "mx",
+        "id",
+        "fr"
+      ]
+    },
+    {
+      "id": 837,
+      "title": "Yankee-kun to Megane-chan",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "ru",
+        "ct",
+        "gb",
+        "br",
+        "es",
+        "id"
+      ]
+    },
+    {
+      "id": 37300,
+      "title": "That Time I Rented a Little Sister",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 951,
+      "title": "Nisekoi",
+      "score": 0.224,
+      "r18": false,
+      "languages": [
+        "mx",
+        "fr",
+        "gb",
+        "id",
+        "ru",
+        "pl",
+        "ct",
+        "es",
+        "il"
+      ]
+    },
+    {
+      "id": 12983,
+      "title": "Koi to Uso",
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "pl",
+        "id",
+        "mx",
+        "tr",
+        "it",
+        "hu"
+      ]
+    },
+    {
+      "id": 13108,
+      "title": "Karakai Jouzu no Takagi-san",
+      "score": 0.216,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "br",
+        "mx",
+        "fr",
+        "id",
+        "vn",
+        "ru",
+        "in"
+      ]
+    },
+    {
+      "id": 63,
+      "title": "Bakuman",
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "id",
+        "es"
+      ]
+    },
+    {
+      "id": 23033,
+      "title": "Liv",
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "id",
+        "fr",
+        "pl",
+        "tr"
+      ]
+    },
+    {
+      "id": 42014,
+      "title": "Nidome no Natsu, Nidoto Aenai Kimi",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "mx",
+        "id"
+      ]
+    },
+    {
+      "id": 49518,
+      "title": "Cinderella wa Sagasanai",
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "mx",
+        "ru",
+        "br"
+      ]
+    },
+    {
+      "id": 20679,
+      "title": "5Toubun no Hanayome",
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "mx",
+        "id",
+        "ru",
+        "br",
+        "vn",
+        "sa",
+        "tr",
+        "fr",
+        "pl"
+      ]
+    },
+    {
+      "id": 8632,
+      "title": "&quot;Aoi&quot; Hikaru ga Chikyuu ni Ita Koro......",
+      "score": 0.206,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id",
+        "pl"
+      ]
+    },
+    {
+      "id": 17883,
+      "title": "Taishou Otome Otogibanashi",
+      "score": 0.204,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "br",
+        "ru",
+        "fr"
+      ]
+    },
+    {
+      "id": 20523,
+      "title": "BEASTARS",
+      "score": 0.203,
+      "r18": false,
+      "languages": [
+        "es",
+        "br",
+        "gb",
+        "vn",
+        "it",
+        "fr",
+        "my",
+        "mx",
+        "ru",
+        "id",
+        "hu",
+        "tr",
+        "pl",
+        " "
+      ]
+    },
+    {
+      "id": 7783,
+      "title": "RiN (HAROLD Sakuishi)",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 25960,
+      "title": "Shogi Senpai",
+      "score": 0.19,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id",
+        "br"
+      ]
+    },
+    {
+      "id": 21325,
+      "title": "Botsuraku Yotei Nanode, Kajishokunin wo Mezasu",
+      "score": 0.19,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id",
+        "br"
+      ]
     }
   ]
 }

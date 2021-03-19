@@ -1,20 +1,27 @@
 {
   "id": 55208,
   "title": "Petit-Roid 3",
-  "url": "https://api.mangadex.org/v2/manga/55208",
-  "last_updated": "March 12, 2021 20:34:58 UTC",
+  "url": "https://mangadex.org/manga/55208",
+  "last_updated": "March 18, 2021 14:01:26 UTC",
   "matches": [
     {
       "id": 23456,
       "title": "My Neighbors Are Aliens",
-      "score": 0.35,
-      "r18": true
+      "score": 0.3,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 25231,
       "title": "Bishoujo Club",
-      "score": 0.35,
-      "r18": true
+      "score": 0.3,
+      "r18": true,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     }
   ]
 }

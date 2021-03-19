@@ -2,85 +2,112 @@
   "id": 59011,
   "title": "Yesterday was like Death",
   "url": "https://mangadex.org/manga/59011",
-  "last_updated": "March 13, 2021 08:26:12 UTC",
+  "last_updated": "March 18, 2021 14:33:14 UTC",
   "matches": [
-    {
-      "id": 55346,
-      "title": "Fall in Love",
-      "score": 0.244,
-      "r18": false
-    },
     {
       "id": 50051,
       "title": "No Choice but Accept Me",
       "score": 0.244,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
+    },
+    {
+      "id": 55346,
+      "title": "Fall in Love",
+      "score": 0.244,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 50353,
       "title": "Hidden Hobbies",
       "score": 0.244,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 56502,
       "title": "One Photo (BL)",
       "score": 0.231,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
       "id": 12443,
       "title": "Junjou Romantica",
       "score": 0.211,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "pl",
+        "es"
+      ]
     },
     {
       "id": 58272,
       "title": "Who Cares",
-      "score": 0.206,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 52047,
       "title": "Bread's Collection of One-shots",
-      "score": 0.206,
-      "r18": false
-    },
-    {
-      "id": 40608,
-      "title": "AoAo Waiting to Be Eaten (Caught!!)",
-      "score": 0.2,
-      "r18": false
-    },
-    {
-      "id": 46293,
-      "title": "Kanjou Kairo",
-      "score": 0.172,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 47289,
       "title": "Snow Kingdom",
-      "score": 0.167,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 51276,
       "title": "I Don't Have Schizophrenia",
-      "score": 0.167,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 57243,
       "title": "Please, Kill me",
       "score": 0.164,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
       "id": 53105,
       "title": "Kedamono Arashi - Hug Me Baby!",
-      "score": 0.138,
-      "r18": false
+      "score": 0.137,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

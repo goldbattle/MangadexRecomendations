@@ -1,158 +1,248 @@
 {
   "id": 51300,
   "title": "Gakuen Keiji Love Mission",
-  "url": "https://api.mangadex.org/v2/manga/51300",
-  "last_updated": "February 05, 2021 12:05:40 UTC",
+  "url": "https://mangadex.org/manga/51300",
+  "last_updated": "March 18, 2021 13:28:48 UTC",
   "matches": [
     {
-      "id": 53787,
-      "title": "Orangenia na Hibi",
-      "score": 0.698,
-      "r18": false
+      "id": 56315,
+      "title": "Ore no Aoharu wa Watasanai",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 37280,
-      "title": "Kimi no Ai wa Mienikui",
-      "score": 0.697,
-      "r18": false
+      "id": 19774,
+      "title": "Chiku Bingo",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 45940,
-      "title": "Koi wa Keiyaku no Atode",
-      "score": 0.697,
-      "r18": false
+      "id": 11687,
+      "title": "Count Love",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
-      "id": 39085,
-      "title": "Warito Yokuaru Danshikouteki Renaijijou",
-      "score": 0.695,
-      "r18": false
+      "id": 19134,
+      "title": "Oredake Minaito XX Shichauzo",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 9419,
-      "title": "Sayonara Note",
-      "score": 0.695,
-      "r18": false
+      "id": 57167,
+      "title": "Gurechawanaidene",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 42633,
-      "title": "Kimi no Te wa Boku no Mono",
-      "score": 0.695,
-      "r18": false
+      "id": 38332,
+      "title": "Kemonotachi wa Wana no Naka",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 17320,
+      "title": "Plus 20cm no Kyori",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 4405,
+      "title": "Ari &amp; Kirigirisu ~Assortment~",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 51144,
+      "title": "Versus x Lovers",
+      "score": 0.383,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 15613,
       "title": "Saa Koi ni Ochitamae",
-      "score": 0.695,
-      "r18": false
+      "score": 0.36,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
-      "id": 12747,
-      "title": "Electric Hands",
-      "score": 0.694,
-      "r18": false
+      "id": 30684,
+      "title": "Doushitemo Yaritakute Gakuen",
+      "score": 0.348,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
-      "id": 25734,
-      "title": "Daini Button Kudasai",
-      "score": 0.693,
-      "r18": false
+      "id": 21199,
+      "title": "Kore ga Koi na Wake ga Nai",
+      "score": 0.344,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 9475,
-      "title": "Tsuki ni Hoero",
-      "score": 0.693,
-      "r18": false
+      "id": 12750,
+      "title": "Aruji no Oose no Mama ni",
+      "score": 0.344,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 53625,
-      "title": "Kagakushitsu e Douzo",
-      "score": 0.693,
-      "r18": false
+      "id": 18603,
+      "title": "Kore wa Koi ni Fukumaremasu ka",
+      "score": 0.343,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "es"
+      ]
     },
     {
-      "id": 10293,
-      "title": "Omae de Nakya Dame Mitai",
-      "score": 0.692,
-      "r18": false
+      "id": 17309,
+      "title": "Love Letter Of Flowers",
+      "score": 0.34,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "it"
+      ]
     },
     {
-      "id": 16394,
-      "title": "Charao-kun to Haraguro-kun no Himitsu",
-      "score": 0.689,
-      "r18": false
+      "id": 35141,
+      "title": "Goshujinsama to wa Iwasemasen!",
+      "score": 0.335,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 21107,
-      "title": "Itoshi Koishi Kimi Dake ni",
-      "score": 0.689,
-      "r18": false
+      "id": 15819,
+      "title": "Omae wa Hitsuji",
+      "score": 0.334,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
-      "id": 28925,
-      "title": "One Night Lesson",
-      "score": 0.688,
-      "r18": false
+      "id": 28284,
+      "title": "BLT - Burning Love Twin",
+      "score": 0.334,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 12764,
-      "title": "Denkou Sekka Boys",
-      "score": 0.686,
-      "r18": false
+      "id": 9483,
+      "title": "Kirai Janai Kedo",
+      "score": 0.332,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "pl"
+      ]
     },
     {
-      "id": 55805,
-      "title": "Renai Jikaku Shoujou",
-      "score": 0.686,
-      "r18": false
+      "id": 9237,
+      "title": "Koi Nante Shinai!",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 19632,
-      "title": "Hitorijime My Hero",
-      "score": 0.685,
-      "r18": false
+      "id": 38147,
+      "title": "Birikketsu no Mahou",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 27578,
-      "title": "Boku wa Boku Narini",
-      "score": 0.685,
-      "r18": false
+      "id": 37778,
+      "title": "Reverse!?",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 18517,
-      "title": "Joshi BL (Anthology)",
-      "score": 0.684,
-      "r18": false
+      "id": 16030,
+      "title": "Hanyuu-sensei no Ryou Seikatsu",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     },
     {
-      "id": 1439,
-      "title": "Yatteraneeze!",
-      "score": 0.684,
-      "r18": false
+      "id": 43282,
+      "title": "Hatsukoi Monogatari",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 15031,
-      "title": "Hitorijime Boyfriend",
-      "score": 0.683,
-      "r18": false
-    },
-    {
-      "id": 56073,
-      "title": "Gouin Dakedo Yasashikute",
-      "score": 0.683,
-      "r18": false
-    },
-    {
-      "id": 50971,
-      "title": "Koiyami Archive",
-      "score": 0.682,
-      "r18": false
-    },
-    {
-      "id": 4673,
-      "title": "From Yesterday",
-      "score": 0.682,
-      "r18": false
+      "id": 12667,
+      "title": "Dounimo Naranai",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
     }
   ]
 }

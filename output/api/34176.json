@@ -1,116 +1,229 @@
 {
   "id": 34176,
   "title": "Stolen",
-  "url": "https://api.mangadex.org/v2/manga/34176",
-  "last_updated": "February 10, 2021 16:24:35 UTC",
+  "url": "https://mangadex.org/manga/34176",
+  "last_updated": "March 18, 2021 11:05:44 UTC",
   "matches": [
     {
       "id": 19850,
       "title": "Miss Mystic",
-      "score": 0.358,
-      "r18": true
-    },
-    {
-      "id": 30910,
-      "title": "Redemption Camp",
-      "score": 0.326,
-      "r18": true
-    },
-    {
-      "id": 19847,
-      "title": "Scandal of the Witch",
-      "score": 0.306,
-      "r18": true
+      "score": 0.262,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 30663,
       "title": "Cohabitation!",
-      "score": 0.305,
-      "r18": true
+      "score": 0.262,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19847,
+      "title": "Scandal of the Witch",
+      "score": 0.262,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 30910,
+      "title": "Redemption Camp",
+      "score": 0.233,
+      "r18": true,
+      "languages": [
+        "fr"
+      ]
     },
     {
       "id": 50789,
       "title": "Soothe Me",
-      "score": 0.283,
-      "r18": true
+      "score": 0.209,
+      "r18": true,
+      "languages": [
+        "gb",
+        "sa",
+        "pl",
+        "fr"
+      ]
     },
     {
       "id": 29151,
       "title": "Secret Island",
-      "score": 0.263,
-      "r18": true
+      "score": 0.209,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 31924,
-      "title": "Domesticate the Housekeeper",
-      "score": 0.253,
-      "r18": true
-    },
-    {
-      "id": 48910,
-      "title": "Secret Class",
-      "score": 0.247,
-      "r18": true
+      "id": 50533,
+      "title": "Maidens In-Law",
+      "score": 0.174,
+      "r18": true,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 43351,
       "title": "Married Woman",
-      "score": 0.246,
-      "r18": true
+      "score": 0.174,
+      "r18": true,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
-      "id": 51525,
-      "title": "Cohabitation with My Ex-Wife",
-      "score": 0.242,
-      "r18": true
+      "id": 31924,
+      "title": "Domesticate the Housekeeper",
+      "score": 0.174,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 49002,
-      "title": "Touch On",
-      "score": 0.233,
-      "r18": true
-    },
-    {
-      "id": 19935,
-      "title": "Hahri's Lumpy Boardhouse",
-      "score": 0.219,
-      "r18": true
+      "id": 48910,
+      "title": "Secret Class",
+      "score": 0.174,
+      "r18": true,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "fr",
+        "tr",
+        "sa"
+      ]
     },
     {
       "id": 57236,
       "title": "Childhood Friends",
-      "score": 0.214,
-      "r18": true
-    },
-    {
-      "id": 23514,
-      "title": "My Office Ladies",
-      "score": 0.213,
-      "r18": true
+      "score": 0.174,
+      "r18": true,
+      "languages": [
+        "br",
+        "ir"
+      ]
     },
     {
       "id": 19253,
       "title": "The Girl Next Door",
-      "score": 0.211,
-      "r18": true
+      "score": 0.155,
+      "r18": true,
+      "languages": [
+        "gb",
+        "fr",
+        "tr"
+      ]
+    },
+    {
+      "id": 51525,
+      "title": "Cohabitation with My Ex-Wife",
+      "score": 0.151,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 49002,
+      "title": "Touch On",
+      "score": 0.149,
+      "r18": true,
+      "languages": [
+        "fr"
+      ]
+    },
+    {
+      "id": 58252,
+      "title": "Love Limit Exceeded",
+      "score": 0.149,
+      "r18": true,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 52213,
+      "title": "Returning Girlfriend",
+      "score": 0.149,
+      "r18": true,
+      "languages": [
+        "gb",
+        "fr",
+        "ru",
+        "br"
+      ]
+    },
+    {
+      "id": 51936,
+      "title": "Gu-Ho's Escape",
+      "score": 0.149,
+      "r18": true,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 23514,
+      "title": "My Office Ladies",
+      "score": 0.131,
+      "r18": true,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 50506,
       "title": "Should I Study at Noryangjin?",
-      "score": 0.198,
-      "r18": true
+      "score": 0.116,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 455,
-      "title": "My Lovely Ghost Kana",
-      "score": 0.176,
-      "r18": true
+      "id": 19935,
+      "title": "Hahri's Lumpy Boardhouse",
+      "score": 0.116,
+      "r18": true,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 59748,
       "title": "Is There an Empty Room?",
-      "score": 0.164,
-      "r18": true
+      "score": 0.116,
+      "r18": true,
+      "languages": [
+        "gb",
+        "it",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 455,
+      "title": "My Lovely Ghost Kana",
+      "score": 0.116,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

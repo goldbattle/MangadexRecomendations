@@ -1,158 +1,275 @@
 {
   "id": 40641,
   "title": "Ginga Densetsu Noah",
-  "url": "https://api.mangadex.org/v2/manga/40641",
-  "last_updated": "February 11, 2021 08:26:44 UTC",
+  "url": "https://mangadex.org/manga/40641",
+  "last_updated": "March 18, 2021 11:59:41 UTC",
   "matches": [
-    {
-      "id": 2712,
-      "title": "Blame!",
-      "score": 0.735,
-      "r18": false
-    },
-    {
-      "id": 28617,
-      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run",
-      "score": 0.734,
-      "r18": false
-    },
-    {
-      "id": 20537,
-      "title": "Seirei Gensouki ~Konna Sekai de Deaeta Kimi ni~",
-      "score": 0.728,
-      "r18": false
-    },
-    {
-      "id": 50085,
-      "title": "Legend of the Galactic Heroes",
-      "score": 0.726,
-      "r18": false
-    },
-    {
-      "id": 15374,
-      "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Dainishou - Yashiki no Shuukan Hen",
-      "score": 0.714,
-      "r18": false
-    },
-    {
-      "id": 12033,
-      "title": "Shoujo Shuumatsu Ryokou",
-      "score": 0.712,
-      "r18": false
-    },
-    {
-      "id": 18663,
-      "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Daisanshou - Truth of Zero",
-      "score": 0.712,
-      "r18": false
-    },
-    {
-      "id": 2453,
-      "title": "Shut Hell",
-      "score": 0.709,
-      "r18": false
-    },
-    {
-      "id": 39510,
-      "title": "Isekai Meikyuu no Saishinbu o Mezasou",
-      "score": 0.709,
-      "r18": false
-    },
-    {
-      "id": 1146,
-      "title": "Inugami",
-      "score": 0.708,
-      "r18": false
-    },
-    {
-      "id": 2737,
-      "title": "Akira",
-      "score": 0.706,
-      "r18": false
-    },
-    {
-      "id": 907,
-      "title": "I Am a Hero",
-      "score": 0.7,
-      "r18": false
-    },
-    {
-      "id": 5166,
-      "title": "Dragon Head",
-      "score": 0.697,
-      "r18": false
-    },
-    {
-      "id": 12106,
-      "title": "Horizon",
-      "score": 0.694,
-      "r18": false
-    },
-    {
-      "id": 6272,
-      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
-      "score": 0.694,
-      "r18": false
-    },
-    {
-      "id": 4993,
-      "title": "Spirit Circle",
-      "score": 0.691,
-      "r18": false
-    },
-    {
-      "id": 36332,
-      "title": "Monkey Peak",
-      "score": 0.691,
-      "r18": false
-    },
-    {
-      "id": 14763,
-      "title": "Yakushoku Distopiary - Gesellschaft Blume",
-      "score": 0.688,
-      "r18": false
-    },
     {
       "id": 3689,
       "title": "Coo's World",
-      "score": 0.686,
-      "r18": false
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3971,
+      "title": "Yugo",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1499,
       "title": "Kono Sekai no Owari e no Tabi",
-      "score": 0.685,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de",
+        "br"
+      ]
     },
     {
-      "id": 18659,
-      "title": "Kokkoku",
-      "score": 0.684,
-      "r18": false
+      "id": 22985,
+      "title": "Tokyo Game",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 23940,
+      "title": "Yugo (2004)",
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 12136,
+      "title": "Ad Astra - Scipio to Hannibal",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 46735,
       "title": "Dead Company",
-      "score": 0.68,
-      "r18": false
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
-      "id": 15992,
-      "title": "Tokumu Houkoukan Yumihari",
-      "score": 0.68,
-      "r18": false
+      "id": 18659,
+      "title": "Kokkoku",
+      "score": 0.204,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 36571,
-      "title": "The Dreamers of the Louvre",
-      "score": 0.679,
-      "r18": false
+      "id": 12106,
+      "title": "Horizon",
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4213,
       "title": "Little Jumper",
-      "score": 0.677,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 12033,
+      "title": "Shoujo Shuumatsu Ryokou",
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "it",
+        "br",
+        "gb",
+        "ru",
+        "es",
+        "de",
+        "ua",
+        "mx",
+        "pl",
+        "ph"
+      ]
+    },
+    {
+      "id": 36571,
+      "title": "The Dreamers of the Louvre",
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 50714,
+      "title": "Legend of the Galactic Heroes - Golden Wings",
+      "score": 0.182,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
+    },
+    {
+      "id": 5166,
+      "title": "Dragon Head",
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
+    },
+    {
+      "id": 1146,
+      "title": "Inugami",
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 15374,
+      "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Dainishou - Yashiki no Shuukan Hen",
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bd"
+      ]
+    },
+    {
+      "id": 2737,
+      "title": "Akira",
+      "score": 0.179,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br",
+        "bg"
+      ]
+    },
+    {
+      "id": 50085,
+      "title": "Legend of the Galactic Heroes",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 13345,
+      "title": "Yousuke no Kimyou na Sekai",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 14763,
+      "title": "Yakushoku Distopiary - Gesellschaft Blume",
+      "score": 0.17,
+      "r18": false,
+      "languages": [
+        "br",
+        "it",
+        "gb"
+      ]
+    },
+    {
+      "id": 15992,
+      "title": "Tokumu Houkoukan Yumihari",
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 45083,
+      "title": "Nightmare Busters",
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "hk"
+      ]
+    },
+    {
+      "id": 4993,
+      "title": "Spirit Circle",
+      "score": 0.158,
+      "r18": false,
+      "languages": [
+        "it",
+        "br",
+        "gb",
+        "fr",
+        "ru",
+        "es",
+        "cn",
+        "tr",
+        "mx",
+        "sa"
+      ]
+    },
+    {
+      "id": 39510,
+      "title": "Isekai Meikyuu no Saishinbu o Mezasou",
+      "score": 0.156,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "ru",
+        "br",
+        "es",
+        "id",
+        "fr"
+      ]
+    },
+    {
+      "id": 57650,
+      "title": "BIBLIOMANIA",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br",
+        "gb",
+        "tr",
+        "fr",
+        "it"
+      ]
     }
   ]
 }

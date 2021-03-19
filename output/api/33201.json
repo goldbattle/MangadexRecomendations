@@ -1,158 +1,255 @@
 {
   "id": 33201,
   "title": "Kojirase Hyakki Dominor",
-  "url": "https://api.mangadex.org/v2/manga/33201",
-  "last_updated": "February 10, 2021 12:34:11 UTC",
+  "url": "https://mangadex.org/manga/33201",
+  "last_updated": "March 18, 2021 10:57:36 UTC",
   "matches": [
     {
       "id": 33728,
       "title": "Okashiratsuki",
-      "score": 0.276,
-      "r18": false
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "hk",
+        "vn",
+        "gb",
+        "it",
+        "id"
+      ]
     },
     {
       "id": 865,
       "title": "Sex",
-      "score": 0.276,
-      "r18": false
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6988,
       "title": "Over Image",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 16099,
       "title": "Ghost Writer",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 36955,
       "title": "A Super Villain Day Life",
-      "score": 0.246,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "es"
+      ]
     },
     {
       "id": 11576,
       "title": "Genso Ginekokurasy",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 17125,
       "title": "Tamayura Kitsune",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 18516,
       "title": "Shoujo Kessen Orgia",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21985,
       "title": "Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 22656,
       "title": "21 Melodies for Sakamoto",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 35854,
+      "title": "Koishikawa-san Is a Carnivore",
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb",
+        "mx",
+        "fr"
+      ]
     },
     {
       "id": 6470,
       "title": "GIRLS und PANZER",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 11145,
       "title": "Gun &amp; Girls",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 15382,
       "title": "GIRLS und PANZER - Comic Anthology",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 23155,
       "title": "Tokurei Sochi Dantai Stella Jogakuin Koutouka C&sup3; Bu",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 24151,
       "title": "Betsu ni Houridashita Waje ja Nai n Dakedo.... - Mikan no Manga ga Aru Riyuu",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 56689,
       "title": "Himawari Den!",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1652,
       "title": "Gunners",
-      "score": 0.227,
-      "r18": false
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 456,
       "title": "Nanika Mochigatte Masuka",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1639,
       "title": "Annarasumanara",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "br",
+        "ua",
+        "pl",
+        "ru"
+      ]
     },
     {
       "id": 4149,
       "title": "Orange",
-      "score": 0.197,
-      "r18": false
-    },
-    {
-      "id": 4835,
-      "title": "Ore to Ichino no Game Doukoukai Katsudou Nisshi",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb",
+        "il",
+        "br",
+        "it"
+      ]
     },
     {
       "id": 7343,
       "title": "Jigokudou Reikai Tsuushin",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 9185,
       "title": "Itsuya-san",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "vn"
+      ]
     },
     {
       "id": 10705,
       "title": "Asagiri no Miko",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 12686,
       "title": "Hime-sama Tanuki no Koizanyou",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

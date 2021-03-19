@@ -1,26 +1,35 @@
 {
   "id": 45147,
   "title": "The Gentle Bitchgasm World",
-  "url": "https://api.mangadex.org/v2/manga/45147",
-  "last_updated": "February 11, 2021 20:21:05 UTC",
+  "url": "https://mangadex.org/manga/45147",
+  "last_updated": "March 18, 2021 12:37:18 UTC",
   "matches": [
     {
       "id": 47838,
       "title": "Secret Plot",
-      "score": 0.172,
-      "r18": true
+      "score": 0.121,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 47843,
       "title": "Secret Plot Deep",
-      "score": 0.172,
-      "r18": true
+      "score": 0.12,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 53760,
       "title": "Golden Scale",
-      "score": 0.154,
-      "r18": true
+      "score": 0.053,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

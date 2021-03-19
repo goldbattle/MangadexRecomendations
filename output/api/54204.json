@@ -1,20 +1,26 @@
 {
   "id": 54204,
   "title": "Christmas Eve Present",
-  "url": "https://api.mangadex.org/v2/manga/54204",
-  "last_updated": "March 12, 2021 20:22:43 UTC",
+  "url": "https://mangadex.org/manga/54204",
+  "last_updated": "March 18, 2021 13:53:02 UTC",
   "matches": [
     {
       "id": 54825,
       "title": "Granblue Fantasy - Before My Sins Are Absolved (Doujinshi)",
-      "score": 0.288,
-      "r18": false
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20739,
       "title": "Akaneiro no Kisu wa Okujou de",
-      "score": 0.24,
-      "r18": false
+      "score": 0.213,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

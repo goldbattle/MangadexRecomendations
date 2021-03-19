@@ -1,68 +1,31 @@
 {
   "id": 54203,
   "title": "Bridesmaid",
-  "url": "https://api.mangadex.org/v2/manga/54203",
-  "last_updated": "March 12, 2021 20:22:42 UTC",
+  "url": "https://mangadex.org/manga/54203",
+  "last_updated": "March 18, 2021 13:53:02 UTC",
   "matches": [
-    {
-      "id": 5578,
-      "title": "Roundabout",
-      "score": 0.355,
-      "r18": false
-    },
     {
       "id": 12459,
       "title": "Rainy Song",
-      "score": 0.355,
-      "r18": false
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "de"
+      ]
     },
     {
       "id": 6310,
       "title": "A Knife Edge Girl",
-      "score": 0.284,
-      "r18": false
-    },
-    {
-      "id": 28190,
-      "title": "Caterpillar &amp; Butterfly",
-      "score": 0.237,
-      "r18": false
-    },
-    {
-      "id": 35356,
-      "title": "GAE GAE",
-      "score": 0.237,
-      "r18": false
-    },
-    {
-      "id": 35488,
-      "title": "Namida Fuumi Escargot",
-      "score": 0.237,
-      "r18": false
-    },
-    {
-      "id": 16362,
-      "title": "Haru ni",
-      "score": 0.203,
-      "r18": false
-    },
-    {
-      "id": 52696,
-      "title": "Mahiro-chan's Secret",
-      "score": 0.203,
-      "r18": false
-    },
-    {
-      "id": 31251,
-      "title": "Touhou - Relation Valley Anthology (Doujinshi)",
-      "score": 0.177,
-      "r18": false
-    },
-    {
-      "id": 49540,
-      "title": "Kantai Collection - Battleship Above the Hill (Doujinshi)",
-      "score": 0.158,
-      "r18": false
+      "score": 0.247,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "de",
+        "it"
+      ]
     }
   ]
 }

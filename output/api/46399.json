@@ -1,158 +1,272 @@
 {
   "id": 46399,
   "title": "A Thousand Cranes",
-  "url": "https://api.mangadex.org/v2/manga/46399",
-  "last_updated": "February 11, 2021 20:41:12 UTC",
+  "url": "https://mangadex.org/manga/46399",
+  "last_updated": "March 18, 2021 12:47:46 UTC",
   "matches": [
     {
-      "id": 7331,
-      "title": "Kare no Niwa ni Saku Hana",
-      "score": 0.712,
-      "r18": false
+      "id": 20892,
+      "title": "If You Hate Me That Much",
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "fr",
+        "tr",
+        "id",
+        "gb"
+      ]
+    },
+    {
+      "id": 34566,
+      "title": "Glen (\uae00\ub80c)",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 52039,
+      "title": "A Matter of Life and Death",
+      "score": 0.238,
+      "r18": false,
+      "languages": [
+        "br",
+        "tr"
+      ]
+    },
+    {
+      "id": 6913,
+      "title": "Calling",
+      "score": 0.231,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 30310,
+      "title": "The Beast Must Die",
+      "score": 0.224,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 7665,
+      "title": "Sakura Gari",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "ct",
+        "tr",
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 56035,
+      "title": "BOUNDARY",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "tr"
+      ]
+    },
+    {
+      "id": 27532,
+      "title": "1999 Shanghai",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 10390,
+      "title": "Totally Captivated",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "tr"
+      ]
+    },
+    {
+      "id": 28410,
+      "title": "A Man Like You",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "tr",
+        "br"
+      ]
+    },
+    {
+      "id": 11651,
+      "title": "Black Sheep Down",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
+    },
+    {
+      "id": 13498,
+      "title": "Renai Rubi no Tadashii Furikata",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 4932,
+      "title": "Kare no Barairo no Jinsei",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "pl"
+      ]
+    },
+    {
+      "id": 22653,
+      "title": "Silent Color",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "fr"
+      ]
+    },
+    {
+      "id": 11813,
+      "title": "Stroboscope",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "pl"
+      ]
+    },
+    {
+      "id": 54503,
+      "title": "Our First Day",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "fr"
+      ]
+    },
+    {
+      "id": 40486,
+      "title": "PAID",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "tr",
+        "fr"
+      ]
+    },
+    {
+      "id": 13496,
+      "title": "Koi no Kawaki",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "tr",
+        "it"
+      ]
+    },
+    {
+      "id": 15200,
+      "title": "Sabita Yoru Demo Koi wa Sasayaku",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "pl",
+        "tr",
+        "gb"
+      ]
+    },
+    {
+      "id": 50427,
+      "title": "Dine With a Vampire",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "mx",
+        "tr"
+      ]
+    },
+    {
+      "id": 27580,
+      "title": "Boku wa Konomama Kaeranai",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
+    },
+    {
+      "id": 30652,
+      "title": "Addiction",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "tr",
+        "fr",
+        "es",
+        "gb"
+      ]
+    },
+    {
+      "id": 59309,
+      "title": "Deep",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 38593,
+      "title": "Cry for Me",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "fr",
+        "id"
+      ]
     },
     {
       "id": 17547,
       "title": "Age Called Blue",
-      "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 52947,
-      "title": "Form of Sympathy",
-      "score": 0.704,
-      "r18": false
-    },
-    {
-      "id": 53625,
-      "title": "Kagakushitsu e Douzo",
-      "score": 0.701,
-      "r18": false
-    },
-    {
-      "id": 30665,
-      "title": "Behind the Scenes",
-      "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 15141,
-      "title": "Bronze",
-      "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 38511,
-      "title": "Sono Toki Heart wa Nusumareta",
-      "score": 0.69,
-      "r18": false
-    },
-    {
-      "id": 52946,
-      "title": "From Now On, I'm Your Dog",
-      "score": 0.689,
-      "r18": false
-    },
-    {
-      "id": 13516,
-      "title": "From Eroica with Love",
-      "score": 0.688,
-      "r18": false
-    },
-    {
-      "id": 28093,
-      "title": "Love Mode",
-      "score": 0.686,
-      "r18": false
-    },
-    {
-      "id": 36782,
-      "title": "Namida mo Tooku -Aonibi no Nemuri-",
-      "score": 0.685,
-      "r18": false
-    },
-    {
-      "id": 28549,
-      "title": "Beautiful Days",
-      "score": 0.685,
-      "r18": false
-    },
-    {
-      "id": 55801,
-      "title": "Koibito no Namae",
-      "score": 0.685,
-      "r18": false
-    },
-    {
-      "id": 48328,
-      "title": "Outburst",
-      "score": 0.683,
-      "r18": false
-    },
-    {
-      "id": 36041,
-      "title": "Zombie Hide Sex",
-      "score": 0.681,
-      "r18": false
-    },
-    {
-      "id": 43410,
-      "title": "Angel Buddy",
-      "score": 0.681,
-      "r18": false
-    },
-    {
-      "id": 12505,
-      "title": "Dog Style",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 13932,
-      "title": "Yellow / R",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 55262,
-      "title": "Nishimachi Shinryoujo no Himitsu - The Secret of Fuyuki",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 16205,
-      "title": "Gattendou Tenmatsuki",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 7386,
-      "title": "Pretty Babies",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 59264,
-      "title": "The Royal Prince's  First Love",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 30331,
-      "title": "Antinomy",
-      "score": 0.673,
-      "r18": false
-    },
-    {
-      "id": 14252,
-      "title": "Maria Boy",
-      "score": 0.673,
-      "r18": false
-    },
-    {
-      "id": 28939,
-      "title": "The Hinanomori",
-      "score": 0.673,
-      "r18": false
+      "score": 0.213,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "pl"
+      ]
     }
   ]
 }

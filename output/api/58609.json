@@ -2,37 +2,54 @@
   "id": 58609,
   "title": "HIGH SCHxxl G@L",
   "url": "https://mangadex.org/manga/58609",
-  "last_updated": "March 13, 2021 04:24:40 UTC",
+  "last_updated": "March 18, 2021 14:29:52 UTC",
   "matches": [
     {
       "id": 29252,
       "title": "VAL",
       "score": 0.193,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 42869,
       "title": "The Buffet",
       "score": 0.193,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 56981,
       "title": "Gestation of Kalavinka",
       "score": 0.193,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 50170,
       "title": "Viper in the Vale",
       "score": 0.093,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 43372,
       "title": "Lockdown No Escape",
       "score": 0.051,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     }
   ]
 }

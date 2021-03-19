@@ -1,158 +1,287 @@
 {
   "id": 55675,
   "title": "Monster Rancher DS",
-  "url": "https://api.mangadex.org/v2/manga/55675",
-  "last_updated": "March 12, 2021 20:40:48 UTC",
+  "url": "https://mangadex.org/manga/55675",
+  "last_updated": "March 18, 2021 14:05:20 UTC",
   "matches": [
     {
-      "id": 3804,
-      "title": "Pok&eacute;mon Special",
-      "score": 0.43,
-      "r18": false
-    },
-    {
-      "id": 7759,
-      "title": ".hack//XXXX",
-      "score": 0.421,
-      "r18": false
-    },
-    {
-      "id": 9049,
-      "title": "Choubaku Mahouden Slayers",
-      "score": 0.42,
-      "r18": false
-    },
-    {
-      "id": 46608,
-      "title": "Sword Art Online - Lycoris",
-      "score": 0.419,
-      "r18": false
-    },
-    {
-      "id": 54801,
-      "title": "One Piece Episode A",
-      "score": 0.414,
-      "r18": false
-    },
-    {
-      "id": 26504,
-      "title": "Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta",
-      "score": 0.412,
-      "r18": false
-    },
-    {
-      "id": 14408,
-      "title": "I Am the Only One Who Knows This World Is a Game",
-      "score": 0.406,
-      "r18": false
-    },
-    {
-      "id": 22190,
-      "title": "Didn&rsquo;t I Say to Make My Abilities Average in the Next Life?!",
-      "score": 0.392,
-      "r18": false
-    },
-    {
-      "id": 20901,
-      "title": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka - Familia Chronicle: Episode Ryuu",
-      "score": 0.391,
-      "r18": false
-    },
-    {
-      "id": 39725,
-      "title": "The Snack World",
-      "score": 0.391,
-      "r18": false
-    },
-    {
-      "id": 8401,
-      "title": "Sword Art Online - Fairy Dance",
-      "score": 0.39,
-      "r18": false
-    },
-    {
-      "id": 176,
-      "title": "Monster Hunter Orage",
-      "score": 0.388,
-      "r18": false
-    },
-    {
-      "id": 1756,
-      "title": "Buster Keel!",
-      "score": 0.388,
-      "r18": false
-    },
-    {
-      "id": 24374,
-      "title": ".hack//Link - Tasogare no Kishidan",
-      "score": 0.388,
-      "r18": false
+      "id": 25828,
+      "title": "Legendz",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 58659,
       "title": "Sword Art Online - Material Edition: Remix",
-      "score": 0.386,
-      "r18": false
-    },
-    {
-      "id": 19671,
-      "title": "Sword Art Online - Project Alicization",
-      "score": 0.385,
-      "r18": false
-    },
-    {
-      "id": 13066,
-      "title": "Kakusansei Million Arthur - Gunjou no Sorcery Road",
-      "score": 0.384,
-      "r18": false
-    },
-    {
-      "id": 12200,
-      "title": "Sword Art Online - Phantom Bullet",
-      "score": 0.383,
-      "r18": false
-    },
-    {
-      "id": 5817,
-      "title": ".hack//Tasogare no Udewa Densetsu",
-      "score": 0.382,
-      "r18": false
-    },
-    {
-      "id": 7757,
-      "title": ".hack//G.U.+",
-      "score": 0.381,
-      "r18": false
-    },
-    {
-      "id": 54813,
-      "title": "Lost Universe Special",
-      "score": 0.379,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 24659,
       "title": "Live Dungeon!",
-      "score": 0.379,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br",
+        "ru",
+        "fr"
+      ]
     },
     {
-      "id": 189,
-      "title": "Lost Universe",
-      "score": 0.378,
-      "r18": false
+      "id": 26504,
+      "title": "Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "th",
+        "ru",
+        "id",
+        "mx"
+      ]
     },
     {
-      "id": 3867,
-      "title": "M&Auml;R",
-      "score": 0.377,
-      "r18": false
+      "id": 54801,
+      "title": "One Piece Episode A",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "ru",
+        "sa"
+      ]
     },
     {
-      "id": 4454,
-      "title": "Fire Emblem - Hasha no Tsurugi",
-      "score": 0.377,
-      "r18": false
+      "id": 39725,
+      "title": "The Snack World",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9049,
+      "title": "Choubaku Mahouden Slayers",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 22190,
+      "title": "Didn&rsquo;t I Say to Make My Abilities Average in the Next Life?!",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 13066,
+      "title": "Kakusansei Million Arthur - Gunjou no Sorcery Road",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 46608,
+      "title": "Sword Art Online - Lycoris",
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn"
+      ]
+    },
+    {
+      "id": 3804,
+      "title": "Pok&eacute;mon Special",
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "es",
+        "tr",
+        "it",
+        "my",
+        "fr",
+        "no"
+      ]
+    },
+    {
+      "id": 7759,
+      "title": ".hack//XXXX",
+      "score": 0.274,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 1756,
+      "title": "Buster Keel!",
+      "score": 0.273,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14408,
+      "title": "I Am the Only One Who Knows This World Is a Game",
+      "score": 0.27,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id"
+      ]
+    },
+    {
+      "id": 43064,
+      "title": "Sword Art Online: Hollow Realization",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 19671,
+      "title": "Sword Art Online - Project Alicization",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "br"
+      ]
+    },
+    {
+      "id": 56554,
+      "title": "The Useless Tamer Will Turn into the Top Unconsciously by My Previous Life Knowledge",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "id",
+        "fr"
+      ]
+    },
+    {
+      "id": 31942,
+      "title": "Kono Yuusha ga Ore TUEEE Kuse ni Shinchou Sugiru",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "br",
+        "pl",
+        "id",
+        "ru",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 12720,
+      "title": "Soul Land II - The Peerless Tang Sect",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "it"
+      ]
+    },
+    {
+      "id": 24512,
+      "title": "Gacha wo Mawashite Nakama wo Fuyasu Saikyou no Bishoujo Gundan wo Tsukuriagero",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id",
+        "it",
+        "mx",
+        "fr"
+      ]
+    },
+    {
+      "id": 3105,
+      "title": "EXEcutional",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 23710,
+      "title": "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "id",
+        "br"
+      ]
+    },
+    {
+      "id": 57009,
+      "title": "Sekai Saikyou no Doryokuka: Sainou ga (Doryoku) Datta no de Kouritsu Yoku Kikakugai no Doryoku o Shitemiru",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 12432,
+      "title": "Ore to Kawazu-san no Isekai Hourouki",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "fr",
+        "br"
+      ]
+    },
+    {
+      "id": 14960,
+      "title": "Chihou Kishi Hans no Junan",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "ru",
+        "sa",
+        "fr"
+      ]
     }
   ]
 }

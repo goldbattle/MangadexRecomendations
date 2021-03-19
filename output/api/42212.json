@@ -1,26 +1,39 @@
 {
   "id": 42212,
   "title": "Itsuka Subete ga Kimi no Chikara ni Naru",
-  "url": "https://api.mangadex.org/v2/manga/42212",
-  "last_updated": "February 11, 2021 12:22:00 UTC",
+  "url": "https://mangadex.org/manga/42212",
+  "last_updated": "March 18, 2021 12:12:47 UTC",
   "matches": [
     {
       "id": 51001,
       "title": "Bowing!",
-      "score": 0.319,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 54442,
       "title": "Dick Cloud",
-      "score": 0.173,
-      "r18": false
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br",
+        "ua",
+        "id"
+      ]
     },
     {
       "id": 41651,
       "title": "FanPartRun Magazine Manga",
-      "score": 0.116,
-      "r18": false
+      "score": 0.097,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

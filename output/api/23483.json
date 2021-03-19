@@ -2,19 +2,32 @@
   "id": 23483,
   "title": "Life of a Lily",
   "url": "https://mangadex.org/manga/23483",
-  "last_updated": "March 16, 2021 12:29:14 UTC",
+  "last_updated": "March 18, 2021 09:23:30 UTC",
   "matches": [
     {
       "id": 44222,
       "title": "Blossoming Sweet Love",
       "score": 0.207,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 31848,
       "title": "Blue Hearts",
-      "score": 0.145,
-      "r18": false
+      "score": 0.144,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "tr",
+        "fr",
+        "id",
+        "es",
+        "it"
+      ]
     }
   ]
 }

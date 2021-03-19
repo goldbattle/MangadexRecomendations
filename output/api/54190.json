@@ -1,158 +1,308 @@
 {
   "id": 54190,
   "title": "Coward Cross World",
-  "url": "https://api.mangadex.org/v2/manga/54190",
-  "last_updated": "March 12, 2021 20:22:31 UTC",
+  "url": "https://mangadex.org/manga/54190",
+  "last_updated": "March 18, 2021 13:52:55 UTC",
   "matches": [
     {
       "id": 32049,
       "title": "Asagaya Geijutu Koukou Eizouka e Youkoso",
-      "score": 0.358,
-      "r18": false
-    },
-    {
-      "id": 8436,
-      "title": "Koe no Katachi",
-      "score": 0.358,
-      "r18": false
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br"
+      ]
     },
     {
       "id": 41029,
       "title": "Kanojo wa Itsumo Kagayaiteita",
-      "score": 0.348,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "mx",
+        "id",
+        "gb",
+        "de",
+        "ru",
+        "tr",
+        "ir"
+      ]
     },
     {
-      "id": 3943,
-      "title": "Slam Dunk",
-      "score": 0.315,
-      "r18": false
-    },
-    {
-      "id": 12020,
-      "title": "Kakegurui",
-      "score": 0.304,
-      "r18": false
-    },
-    {
-      "id": 46531,
-      "title": "Mizu wa Umi ni Mukatte Nagareru",
-      "score": 0.304,
-      "r18": false
+      "id": 8436,
+      "title": "Koe no Katachi",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "ua",
+        "it",
+        "tr",
+        "gb",
+        "ru",
+        "pt",
+        "br",
+        "ct",
+        "de"
+      ]
     },
     {
       "id": 32815,
       "title": "Esora Hikouki",
-      "score": 0.302,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 677,
-      "title": "Back to the Jack",
-      "score": 0.299,
-      "r18": false
-    },
-    {
-      "id": 8464,
-      "title": "Yowamushi Pedal",
-      "score": 0.297,
-      "r18": false
-    },
-    {
-      "id": 1737,
-      "title": "Diamond no Ace",
-      "score": 0.297,
-      "r18": false
-    },
-    {
-      "id": 35850,
-      "title": "Yoroshiku! Junjou Daishou",
-      "score": 0.291,
-      "r18": false
-    },
-    {
-      "id": 1293,
-      "title": "Miyuki",
-      "score": 0.287,
-      "r18": false
-    },
-    {
-      "id": 11710,
-      "title": "Days",
-      "score": 0.284,
-      "r18": false
+      "id": 46531,
+      "title": "Mizu wa Umi ni Mukatte Nagareru",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
     },
     {
       "id": 16552,
-      "title": "BE BLUES ~Ao ni nare~",
-      "score": 0.281,
-      "r18": false
-    },
-    {
-      "id": 10271,
-      "title": "Ballroom e Youkoso",
-      "score": 0.281,
-      "r18": false
+      "title": "BE BLUES ~Ao ni Nare~",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "br",
+        "ru",
+        "vn",
+        "sa"
+      ]
     },
     {
       "id": 46925,
       "title": "Yu-Gi-Oh! Rush Duel: Yarouze! Rush Duel!!",
-      "score": 0.276,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 35850,
+      "title": "Yoroshiku! Junjou Daishou",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1737,
+      "title": "Diamond no Ace",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "fr",
+        "pl"
+      ]
+    },
+    {
+      "id": 677,
+      "title": "Back to the Jack",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "pl"
+      ]
+    },
+    {
+      "id": 8464,
+      "title": "Yowamushi Pedal",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "mx",
+        "ru"
+      ]
+    },
+    {
+      "id": 12020,
+      "title": "Kakegurui",
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "ru",
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 3943,
+      "title": "Slam Dunk",
+      "score": 0.212,
+      "r18": false,
+      "languages": [
+        "sa",
+        "gb",
+        "mx",
+        "br"
+      ]
     },
     {
       "id": 20679,
       "title": "5Toubun no Hanayome",
-      "score": 0.275,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "mx",
+        "id",
+        "ru",
+        "br",
+        "vn",
+        "sa",
+        "tr",
+        "fr",
+        "pl"
+      ]
     },
     {
-      "id": 414,
-      "title": "Sket Dance",
-      "score": 0.272,
-      "r18": false
+      "id": 10271,
+      "title": "Ballroom e Youkoso",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "es",
+        "fr"
+      ]
     },
     {
-      "id": 51713,
-      "title": "Boku no Ichiban Nagai Hi",
-      "score": 0.272,
-      "r18": false
-    },
-    {
-      "id": 1020,
-      "title": "Adabana",
-      "score": 0.271,
-      "r18": false
+      "id": 1293,
+      "title": "Miyuki",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "fr"
+      ]
     },
     {
       "id": 927,
       "title": "Major",
-      "score": 0.269,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "fr",
+        "br"
+      ]
     },
     {
-      "id": 6056,
-      "title": "Shigatsu wa Kimi no Uso",
-      "score": 0.268,
-      "r18": false
+      "id": 1020,
+      "title": "Adabana",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ct",
+        "de",
+        "ro"
+      ]
     },
     {
-      "id": 35488,
-      "title": "Namida Fuumi Escargot",
-      "score": 0.26,
-      "r18": false
+      "id": 2872,
+      "title": "Ghost Logic",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "de"
+      ]
+    },
+    {
+      "id": 414,
+      "title": "Sket Dance",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "ru",
+        "mx",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 2056,
+      "title": "Ganbare Genki",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 15827,
       "title": "One Summer's Kids Game",
-      "score": 0.258,
-      "r18": false
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 1873,
-      "title": "Haikyuu!!",
-      "score": 0.252,
-      "r18": false
+      "id": 11710,
+      "title": "Days",
+      "score": 0.188,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru"
+      ]
+    },
+    {
+      "id": 991,
+      "title": "Cross Game",
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 23033,
+      "title": "Liv",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "id",
+        "fr",
+        "pl",
+        "tr"
+      ]
     }
   ]
 }

@@ -2,157 +2,248 @@
   "id": 2985,
   "title": "Daisuki Datta yo, Sensei...",
   "url": "https://mangadex.org/manga/2985",
-  "last_updated": "March 14, 2021 04:38:03 UTC",
+  "last_updated": "March 18, 2021 06:08:37 UTC",
   "matches": [
-    {
-      "id": 4468,
-      "title": "Houkago, Sensei to Koi ni Ochiru",
-      "score": 0.383,
-      "r18": false
-    },
     {
       "id": 24752,
       "title": "1-ko Shita kara, Kiss Sasete.",
-      "score": 0.377,
-      "r18": false
-    },
-    {
-      "id": 4909,
-      "title": "Sensei no Kanojo",
-      "score": 0.365,
-      "r18": false
+      "score": 0.376,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 22218,
       "title": "Houkago Melancholy",
-      "score": 0.361,
-      "r18": false
-    },
-    {
-      "id": 2420,
-      "title": "Mascara Blues",
       "score": 0.36,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 17582,
       "title": "Kojin Jugyou",
-      "score": 0.36,
-      "r18": false
+      "score": 0.359,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 9294,
       "title": "Kimi to Kyunkoi, Shiyou",
-      "score": 0.36,
-      "r18": false
+      "score": 0.359,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 2420,
+      "title": "Mascara Blues",
+      "score": 0.358,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "it"
+      ]
     },
     {
       "id": 32362,
       "title": "Shimotsuki-sensei no Amakunai Renai Kouza",
       "score": 0.354,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 28661,
       "title": "Otome no Houkago",
       "score": 0.354,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 17130,
       "title": "Zenbu, Hajimete.",
-      "score": 0.353,
-      "r18": false
+      "score": 0.352,
+      "r18": false,
+      "languages": [
+        "fr",
+        "pl"
+      ]
     },
     {
       "id": 17555,
       "title": "Goshujinsama to Watashi",
-      "score": 0.352,
-      "r18": false
+      "score": 0.351,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2090,
+      "title": "Sensei ni, Ageru.",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "pl"
+      ]
     },
     {
       "id": 2074,
       "title": "Viva Love You",
       "score": 0.35,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3208,
       "title": "Saikou no Kiss o Ageru",
       "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 9853,
-      "title": "Tomodachi no Hanashi",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 12590,
-      "title": "Chizumi &amp; Fujiomi",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 2295,
-      "title": "Second Kiss",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 57196,
-      "title": "Douse, Koishite Shimaunda",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 9372,
-      "title": "Cosmic Color",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 10339,
-      "title": "Hatsukoi Canvas",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 9331,
-      "title": "Hatsukoi Izonshou",
-      "score": 0.35,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2192,
       "title": "Kono Sora ni Hibike",
-      "score": 0.35,
-      "r18": false
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9853,
+      "title": "Tomodachi no Hanashi",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "fr"
+      ]
+    },
+    {
+      "id": 12590,
+      "title": "Chizumi &amp; Fujiomi",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2295,
+      "title": "Second Kiss",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 57196,
+      "title": "Douse, Koishite Shimaunda",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10339,
+      "title": "Hatsukoi Canvas",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 9372,
+      "title": "Cosmic Color",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 12141,
       "title": "Koisuru Harinezumi",
-      "score": 0.35,
-      "r18": false
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "hu",
+        "gb",
+        "tr",
+        "br",
+        "pl",
+        "de"
+      ]
     },
     {
       "id": 10580,
       "title": "Buriki no Kanzume",
-      "score": 0.35,
-      "r18": false
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 12696,
       "title": "Yuugure Light",
-      "score": 0.35,
-      "r18": false
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "fr",
+        "pl"
+      ]
     },
     {
       "id": 45113,
       "title": "Odagiri-san ni wa, Kikirimai",
-      "score": 0.35,
-      "r18": false
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9800,
+      "title": "Kiss wa Me ni Shite",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5489,
+      "title": "Nobles' Love Company",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

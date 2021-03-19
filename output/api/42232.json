@@ -1,26 +1,44 @@
 {
   "id": 42232,
   "title": "Metropolitan City's Yin Yang Miracle Doctor",
-  "url": "https://api.mangadex.org/v2/manga/42232",
-  "last_updated": "February 11, 2021 12:22:17 UTC",
+  "url": "https://mangadex.org/manga/42232",
+  "last_updated": "March 18, 2021 12:12:57 UTC",
   "matches": [
     {
       "id": 31848,
       "title": "Blue Hearts",
-      "score": 0.279,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "tr",
+        "fr",
+        "id",
+        "es",
+        "it"
+      ]
     },
     {
       "id": 555,
       "title": "Mirai Nikki",
-      "score": 0.237,
-      "r18": false
+      "score": 0.107,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 17906,
       "title": "LIttLE 13",
-      "score": 0.217,
-      "r18": false
+      "score": 0.107,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "ru"
+      ]
     }
   ]
 }

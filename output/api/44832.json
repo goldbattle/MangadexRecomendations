@@ -1,158 +1,248 @@
 {
   "id": 44832,
   "title": "Toudoku ni Ita",
-  "url": "https://api.mangadex.org/v2/manga/44832",
-  "last_updated": "February 11, 2021 16:47:35 UTC",
+  "url": "https://mangadex.org/manga/44832",
+  "last_updated": "March 18, 2021 12:34:40 UTC",
   "matches": [
     {
-      "id": 28617,
-      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run",
-      "score": 0.7,
-      "r18": false
+      "id": 21150,
+      "title": "NeuN",
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "hk",
+        "it",
+        "br",
+        "gb"
+      ]
     },
     {
-      "id": 22485,
-      "title": "Necrologue",
-      "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 18150,
-      "title": "Dies irae ~Amantes Amentes~",
-      "score": 0.693,
-      "r18": false
-    },
-    {
-      "id": 21656,
-      "title": "The Law of the Yama",
-      "score": 0.69,
-      "r18": false
-    },
-    {
-      "id": 1093,
-      "title": "Yamikagishi",
-      "score": 0.689,
-      "r18": false
-    },
-    {
-      "id": 46861,
-      "title": "Saiyouki",
-      "score": 0.688,
-      "r18": false
-    },
-    {
-      "id": 7775,
-      "title": "El Alamein no Shinden",
-      "score": 0.687,
-      "r18": false
-    },
-    {
-      "id": 1985,
-      "title": "Hellsing - The Dawn",
-      "score": 0.686,
-      "r18": false
-    },
-    {
-      "id": 5055,
-      "title": "Souten Kouro",
-      "score": 0.685,
-      "r18": false
-    },
-    {
-      "id": 22428,
-      "title": "Souin Gyokusai Seyo!",
-      "score": 0.685,
-      "r18": false
-    },
-    {
-      "id": 6272,
-      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
-      "score": 0.682,
-      "r18": false
-    },
-    {
-      "id": 20834,
-      "title": "Requiem of the Shinsengumi",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 7768,
-      "title": "Kumo no Graduale",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 25314,
-      "title": "Skull Man (SHIMAMOTO Kazuhiko)",
-      "score": 0.677,
-      "r18": false
-    },
-    {
-      "id": 2453,
-      "title": "Shut Hell",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 18296,
-      "title": "My Sect's Senior Disciple Has a Hole in His Brain",
-      "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 23332,
-      "title": "Kidou Senshi Gundam Twilight Axis",
-      "score": 0.674,
-      "r18": false
-    },
-    {
-      "id": 14865,
-      "title": "Pilgrim Jager",
-      "score": 0.673,
-      "r18": false
-    },
-    {
-      "id": 6420,
-      "title": "Cat Shit One",
-      "score": 0.673,
-      "r18": false
-    },
-    {
-      "id": 9578,
-      "title": "Kakuriyo Monogatari",
-      "score": 0.672,
-      "r18": false
-    },
-    {
-      "id": 14920,
-      "title": "Ouja no Yuugi",
-      "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 43914,
-      "title": "The Second Coming of Gluttony",
-      "score": 0.668,
-      "r18": false
-    },
-    {
-      "id": 18936,
-      "title": "Fate/Apocrypha",
-      "score": 0.665,
-      "r18": false
+      "id": 37854,
+      "title": "Mugen no Gunkan Yamato",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 18572,
       "title": "Virtus",
-      "score": 0.662,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 22226,
-      "title": "Fate/Grand Order -mortalis:stella-",
-      "score": 0.661,
-      "r18": false
+      "id": 4165,
+      "title": "Stay After Me",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 28639,
+      "title": "Baikoku Kikan",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "pl",
+        "hu",
+        "mx",
+        "ua"
+      ]
+    },
+    {
+      "id": 10343,
+      "title": "Oldman",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "hu"
+      ]
+    },
+    {
+      "id": 26216,
+      "title": "Shiroi Majo - Utsukushiki Sniper",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2147,
+      "title": "Kutsuzure Sensen",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5622,
+      "title": "Kurogane (Toume Kei)",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10549,
+      "title": "Kuro Kishi Monogatari",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 22232,
+      "title": "Meteora",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 46861,
+      "title": "Saiyouki",
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1093,
+      "title": "Yamikagishi",
+      "score": 0.234,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 20834,
+      "title": "Requiem of the Shinsengumi",
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 7768,
+      "title": "Kumo no Graduale",
+      "score": 0.232,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14865,
+      "title": "Pilgrim Jager",
+      "score": 0.226,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6523,
+      "title": "Qwan",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 5055,
+      "title": "Souten Kouro",
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 48,
+      "title": "Genpei Tenshou Emaki Azamaru",
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 11903,
+      "title": "Eurasia 1274",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10999,
+      "title": "Edo of the Dead",
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 53773,
+      "title": "Bokura no Q",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14920,
+      "title": "Ouja no Yuugi",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 917,
+      "title": "Gunka no Baltzar",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37646,
+      "title": "Nejikemono",
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -1,38 +1,51 @@
 {
   "id": 51477,
   "title": "Luminocity 19 Potofu-chan",
-  "url": "https://api.mangadex.org/v2/manga/51477",
-  "last_updated": "February 05, 2021 12:08:35 UTC",
+  "url": "https://mangadex.org/manga/51477",
+  "last_updated": "March 18, 2021 13:30:16 UTC",
   "matches": [
     {
       "id": 43990,
       "title": "Gochuumon wa Usagi desu ka? - Luminocity 24 Chino-chan no shitagi wa watashi ga erabimasukara! (Doujinshi)",
-      "score": 0.254,
-      "r18": false
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 26432,
       "title": "Onee-san wa Joshi Shougakusei ni Kyoumi ga arimasu",
-      "score": 0.206,
-      "r18": false
+      "score": 0.182,
+      "r18": false,
+      "languages": [
+        "gb",
+        "th",
+        "mx",
+        "id"
+      ]
     },
     {
       "id": 13888,
       "title": "Uchi no Maid ga Uzasugiru!",
-      "score": 0.198,
-      "r18": false
+      "score": 0.173,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id",
+        "mx"
+      ]
     },
     {
       "id": 37951,
       "title": "Kantai Collection -KanColle-\u3010KanColle Manga\u3011(Doujinshi)",
-      "score": 0.198,
-      "r18": false
-    },
-    {
-      "id": 48177,
-      "title": "The Wolf in Love and Mille-Feuille",
-      "score": 0.144,
-      "r18": false
+      "score": 0.173,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     }
   ]
 }

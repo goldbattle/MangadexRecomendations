@@ -1,26 +1,35 @@
 {
   "id": 51986,
   "title": "Interview With a Murder",
-  "url": "https://api.mangadex.org/v2/manga/51986",
-  "last_updated": "February 05, 2021 12:16:56 UTC",
+  "url": "https://mangadex.org/manga/51986",
+  "last_updated": "March 18, 2021 13:34:31 UTC",
   "matches": [
     {
       "id": 57892,
       "title": "Master of Master",
-      "score": 0.294,
-      "r18": false
-    },
-    {
-      "id": 57606,
-      "title": "Alien in My Wardrobe",
-      "score": 0.235,
-      "r18": false
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
       "id": 55134,
       "title": "Home Sweet Home",
-      "score": 0.194,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
+    },
+    {
+      "id": 57606,
+      "title": "Alien in My Wardrobe",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     }
   ]
 }

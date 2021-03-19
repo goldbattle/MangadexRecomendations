@@ -1,158 +1,125 @@
 {
   "id": 54350,
   "title": "Strip",
-  "url": "https://api.mangadex.org/v2/manga/54350",
-  "last_updated": "March 12, 2021 20:24:31 UTC",
+  "url": "https://mangadex.org/manga/54350",
+  "last_updated": "March 18, 2021 13:54:15 UTC",
   "matches": [
+    {
+      "id": 12193,
+      "title": "Free! - Happy Day? (Doujinshi)",
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "tr"
+      ]
+    },
     {
       "id": 12362,
       "title": "Free! - Nigatsu no Nettaigyo (Doujinshi)",
-      "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 12363,
-      "title": "Free! - Trouble Makers (Doujinshi)",
-      "score": 0.353,
-      "r18": false
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "tr"
+      ]
     },
     {
       "id": 12376,
       "title": "Free! - Haste Makes Waste (Doujinshi)",
-      "score": 0.353,
-      "r18": false
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "tr"
+      ]
     },
     {
       "id": 12383,
       "title": "Free! - Reciprocated Love (Doujinshi)",
-      "score": 0.353,
-      "r18": false
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
-      "id": 15155,
-      "title": "Shingeki no Kyojin - Namae no Nai Hana (Doujinshi)",
-      "score": 0.353,
-      "r18": false
+      "id": 44468,
+      "title": "Free! - Blue Monday (Doujinshi)",
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
-      "id": 18776,
-      "title": "Haikyuu!! - KISS AND NEXT? (Doujinshi)",
-      "score": 0.353,
-      "r18": false
+      "id": 12361,
+      "title": "Free! - Daigakusei ni Narimashita. (Doujinshi)",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx"
+      ]
     },
     {
-      "id": 21212,
-      "title": "King &amp; Prince - King &amp; Prince in Summer (Doujinshi)",
-      "score": 0.353,
-      "r18": false
+      "id": 13187,
+      "title": "Free! - Sad Prisoner (Doujinshi)",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "tr"
+      ]
     },
     {
-      "id": 21500,
-      "title": "Kazuki Mania",
-      "score": 0.353,
-      "r18": false
+      "id": 13483,
+      "title": "Haikyuu!! - Empty (Doujinshi)",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "mx"
+      ]
     },
     {
-      "id": 24740,
-      "title": "Neko-chan",
-      "score": 0.353,
-      "r18": false
+      "id": 12651,
+      "title": "Free! - Shitto Shichatte Moino ni! (Doujinshi)",
+      "score": 0.184,
+      "r18": false,
+      "languages": [
+        "tr"
+      ]
     },
     {
-      "id": 26558,
-      "title": "Bleach - Koishoushou (Doujinshi)",
-      "score": 0.353,
-      "r18": false
+      "id": 12992,
+      "title": "Free! - Ningyo no Mirai (Doujinshi)",
+      "score": 0.184,
+      "r18": false,
+      "languages": [
+        "tr"
+      ]
     },
     {
-      "id": 26560,
-      "title": "Border - Take Out (Doujinshi)",
-      "score": 0.353,
-      "r18": false
+      "id": 13148,
+      "title": "Free! - Missing (Doujinshi)",
+      "score": 0.184,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
-      "id": 26931,
-      "title": "Renai Nenrei - Himitsu (Doujinshi)",
-      "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 28950,
-      "title": "Romance no Kaori",
-      "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 28978,
-      "title": "Chinko no Tsubuyaki - Chintsubu Mini (Doujinshi)",
-      "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 29068,
-      "title": "24 Jikan Eigyouchuu - Chooser Lover (Doujinshi)",
-      "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 29069,
-      "title": "Daiya no A - Kiss Me Crybaby (Doujinshi)",
-      "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 34075,
-      "title": "Sengoku Basara - Senkou (Doujinshi)",
-      "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 36136,
-      "title": "DRAMAtical Murder - Hajimete no Koi no Oto (Doujinshi)",
-      "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 36137,
-      "title": "Kare to Kare no Ijiwaru na Kyori - Zero Kyori (Doujinshi)",
-      "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 36292,
-      "title": "Boku no Hero Academia - Let's Go To The Beach! (Doujinshi)",
-      "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 36880,
-      "title": "Rules / Hydra - Another Day On The Planet",
-      "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 37165,
-      "title": "Kataomoi to Parade - Yasashii Sekai-sen no Umi de (Doujinshi)",
-      "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 37274,
-      "title": "Takaramono wa Hako no Naka - Anata Dakettara Anata Dake (Doujinshi)",
-      "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 37275,
-      "title": "Takaramono wa Hako no Naka - Pigeon Blood (Doujinshi)",
-      "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 37277,
-      "title": "Takaramono wa Hako no Naka - Takaramono wa Anata Dake (Doujinshi)",
-      "score": 0.353,
-      "r18": false
+      "id": 37609,
+      "title": "6-banme no Megane",
+      "score": 0.184,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl"
+      ]
     }
   ]
 }

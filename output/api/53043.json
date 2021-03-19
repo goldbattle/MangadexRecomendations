@@ -2,31 +2,25 @@
   "id": 53043,
   "title": "As you Like it",
   "url": "https://mangadex.org/manga/53043",
-  "last_updated": "January 16, 2021 01:02:39 UTC",
+  "last_updated": "March 18, 2021 13:43:20 UTC",
   "matches": [
-    {
-      "id": 30834,
-      "title": "I Did Naughty Things With My (Drunk) Sister",
-      "score": 0.385,
-      "r18": false
-    },
-    {
-      "id": 30708,
-      "title": "My Brother's Slipped Inside Me in The Bathtub",
-      "score": 0.247,
-      "r18": false
-    },
     {
       "id": 47866,
       "title": "Fuyu no Hashikko",
-      "score": 0.18,
-      "r18": false
+      "score": 0.16,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 51328,
       "title": "Halloween Yandere Boshi Kan 2019",
-      "score": 0.144,
-      "r18": false
+      "score": 0.128,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

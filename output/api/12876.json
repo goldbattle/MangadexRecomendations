@@ -2,25 +2,36 @@
   "id": 12876,
   "title": "Match Uri",
   "url": "https://mangadex.org/manga/12876",
-  "last_updated": "March 15, 2021 08:27:52 UTC",
+  "last_updated": "March 18, 2021 07:35:38 UTC",
   "matches": [
-    {
-      "id": 11070,
-      "title": "Hua Hua You Long",
-      "score": 0.365,
-      "r18": false
-    },
     {
       "id": 32887,
       "title": "Yuki to Matsu",
       "score": 0.276,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 46501,
+      "title": "Solar Eclipse",
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 10465,
       "title": "Dame BL (Anthology)",
       "score": 0.154,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     }
   ]
 }

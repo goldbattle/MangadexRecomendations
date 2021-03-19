@@ -1,38 +1,77 @@
 {
   "id": 47241,
   "title": "Darkness",
-  "url": "https://api.mangadex.org/v2/manga/47241",
-  "last_updated": "February 12, 2021 01:08:01 UTC",
+  "url": "https://mangadex.org/manga/47241",
+  "last_updated": "March 18, 2021 12:54:49 UTC",
   "matches": [
-    {
-      "id": 34618,
-      "title": "Alexis Teikoku Kouryuuki",
-      "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 18691,
-      "title": "Fire Punch",
-      "score": 0.669,
-      "r18": false
-    },
     {
       "id": 16516,
       "title": "Pygmalion",
-      "score": 0.664,
-      "r18": false
+      "score": 0.196,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru",
+        "br"
+      ]
     },
     {
       "id": 48826,
       "title": "Succubus &amp; Hitman",
-      "score": 0.259,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "ru",
+        "es"
+      ]
+    },
+    {
+      "id": 18691,
+      "title": "Fire Punch",
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "br",
+        "ru",
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 42773,
       "title": "JuJu Tantei",
-      "score": 0.239,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53891,
+      "title": "From the Red Fog",
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 34618,
+      "title": "Alexis Teikoku Kouryuuki",
+      "score": 0.143,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "br",
+        "mx"
+      ]
     }
   ]
 }

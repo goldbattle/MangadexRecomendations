@@ -2,37 +2,39 @@
   "id": 53105,
   "title": "Kedamono Arashi - Hug Me Baby!",
   "url": "https://mangadex.org/manga/53105",
-  "last_updated": "January 16, 2021 01:03:12 UTC",
+  "last_updated": "March 18, 2021 13:43:51 UTC",
   "matches": [
     {
       "id": 12443,
       "title": "Junjou Romantica",
-      "score": 0.293,
-      "r18": false
-    },
-    {
-      "id": 56502,
-      "title": "One Photo (BL)",
-      "score": 0.203,
-      "r18": false
-    },
-    {
-      "id": 50051,
-      "title": "No Choice but Accept Me",
-      "score": 0.175,
-      "r18": false
+      "score": 0.217,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "pl",
+        "es"
+      ]
     },
     {
       "id": 50353,
       "title": "Hidden Hobbies",
-      "score": 0.175,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 59011,
       "title": "Yesterday was like Death",
-      "score": 0.158,
-      "r18": false
+      "score": 0.137,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     }
   ]
 }

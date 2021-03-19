@@ -2,157 +2,247 @@
   "id": 9019,
   "title": "Kirakira Kaoru",
   "url": "https://mangadex.org/manga/9019",
-  "last_updated": "March 14, 2021 20:25:55 UTC",
+  "last_updated": "March 18, 2021 07:02:33 UTC",
   "matches": [
     {
       "id": 19286,
       "title": "The Scholar Who Walks the Night",
       "score": 0.264,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2694,
       "title": "The Window of Orpheus",
       "score": 0.254,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 8003,
       "title": "Sakurahime Kaden",
-      "score": 0.253,
-      "r18": false
+      "score": 0.252,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 4681,
       "title": "Yan Zhi Cuo",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2212,
       "title": "Scarlet Palace",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 1888,
       "title": "Chotto Edo Made",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 18892,
       "title": "No Sire, No!",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 24708,
       "title": "Bell Princess",
-      "score": 0.249,
-      "r18": false
+      "score": 0.248,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 10514,
       "title": "Twin Cross",
       "score": 0.247,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 10027,
       "title": "Idea no Hana",
       "score": 0.243,
-      "r18": false
-    },
-    {
-      "id": 7134,
-      "title": "Koukyuu Days ~Shichisei Kuni Monogatari~",
-      "score": 0.243,
-      "r18": false
-    },
-    {
-      "id": 8920,
-      "title": "Rasen no Vamp",
-      "score": 0.242,
-      "r18": false
-    },
-    {
-      "id": 1131,
-      "title": "Hana to Akuma",
-      "score": 0.242,
-      "r18": false
-    },
-    {
-      "id": 4320,
-      "title": "Shounen Onmyouji",
-      "score": 0.242,
-      "r18": false
-    },
-    {
-      "id": 5799,
-      "title": "Yama ni Sumu Kami",
-      "score": 0.242,
-      "r18": false
-    },
-    {
-      "id": 1353,
-      "title": "S to M no Sekai",
-      "score": 0.242,
-      "r18": false
-    },
-    {
-      "id": 3319,
-      "title": "The Pale Horse",
-      "score": 0.242,
-      "r18": false
-    },
-    {
-      "id": 27774,
-      "title": "Shin Shunkaden",
-      "score": 0.242,
-      "r18": false
-    },
-    {
-      "id": 19347,
-      "title": "Sekai de Ichiban Utsukushii Namae",
-      "score": 0.242,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 16789,
       "title": "Yumeyume Onmyouji Kidan",
-      "score": 0.242,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8920,
+      "title": "Rasen no Vamp",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "ru",
+        "br"
+      ]
+    },
+    {
+      "id": 1131,
+      "title": "Hana to Akuma",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "bg"
+      ]
+    },
+    {
+      "id": 4320,
+      "title": "Shounen Onmyouji",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "hu"
+      ]
+    },
+    {
+      "id": 5799,
+      "title": "Yama ni Sumu Kami",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1353,
+      "title": "S to M no Sekai",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 27774,
+      "title": "Shin Shunkaden",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 19347,
+      "title": "Sekai de Ichiban Utsukushii Namae",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3155,
       "title": "Babel no Tegami",
-      "score": 0.242,
-      "r18": false
-    },
-    {
-      "id": 13171,
-      "title": "Meikyuu Romantica",
-      "score": 0.242,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 21709,
       "title": "Moon Deity",
-      "score": 0.242,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 37151,
       "title": "Golden Osmanthus Cake",
-      "score": 0.242,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6984,
       "title": "Tenshi no Hitsugi -Ave Maria-",
-      "score": 0.242,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 27621,
+      "title": "Knight Princess",
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7134,
+      "title": "Koukyuu Days ~Shichisei Kuni Monogatari~",
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 26066,
+      "title": "Gekkou Himejion",
+      "score": 0.238,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

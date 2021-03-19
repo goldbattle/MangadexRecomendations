@@ -1,50 +1,82 @@
 {
   "id": 52061,
   "title": "Practice Plus",
-  "url": "https://api.mangadex.org/v2/manga/52061",
-  "last_updated": "February 05, 2021 12:18:15 UTC",
+  "url": "https://mangadex.org/manga/52061",
+  "last_updated": "March 18, 2021 13:35:09 UTC",
   "matches": [
     {
       "id": 7057,
       "title": "Gekichu!",
-      "score": 0.318,
-      "r18": false
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 47187,
-      "title": "Dennou Coil DJ Wireless Shark",
-      "score": 0.24,
-      "r18": false
+      "id": 53164,
+      "title": "Ojou-sama to Sono Shiyounin no Ojouji",
+      "score": 0.213,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb"
+      ]
     },
     {
       "id": 52337,
       "title": "I Tried Getting Back at My Sadist Girlfriend Who Hurt Her Hand and Can't Fight Back.",
-      "score": 0.214,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 54222,
-      "title": "Shoujo Kageki Revue Starlight - Voice (Doujinshi)",
-      "score": 0.183,
-      "r18": false
-    },
-    {
-      "id": 54215,
-      "title": "BanG Dream! - SPICY Misaki x Kokoro (Doujinshi)",
-      "score": 0.18,
-      "r18": false
+      "id": 47187,
+      "title": "Dennou Coil DJ Wireless Shark",
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 51705,
       "title": "Let's Play with Hypnosis Magic",
-      "score": 0.18,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 54222,
+      "title": "Shoujo Kageki Revue Starlight - Voice (Doujinshi)",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 54215,
+      "title": "BanG Dream! - SPICY Misaki x Kokoro (Doujinshi)",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 48970,
       "title": "Shoujo Kageki Revue Starlight - Unscripted Feelings and Their Several Accompanying Circumstances (Doujinshi)",
-      "score": 0.177,
-      "r18": false
+      "score": 0.114,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

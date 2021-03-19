@@ -2,43 +2,66 @@
   "id": 10620,
   "title": "Timeline",
   "url": "https://mangadex.org/manga/10620",
-  "last_updated": "March 15, 2021 00:30:49 UTC",
+  "last_updated": "March 18, 2021 07:16:05 UTC",
   "matches": [
     {
       "id": 24149,
       "title": "Cultivation Chat Group",
       "score": 0.165,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 1720,
       "title": "Under Prin",
       "score": 0.161,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 12321,
       "title": "Sock Goblin",
       "score": 0.16,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 40550,
       "title": "Switched Girls",
-      "score": 0.135,
-      "r18": false
+      "score": 0.134,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 30456,
       "title": "Peter Pan",
-      "score": 0.116,
-      "r18": false
+      "score": 0.115,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 36510,
       "title": "My Lord, the Wolf Queen",
-      "score": 0.104,
-      "r18": false
+      "score": 0.103,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     }
   ]
 }

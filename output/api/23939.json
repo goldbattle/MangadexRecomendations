@@ -2,25 +2,34 @@
   "id": 23939,
   "title": "Yui Shop",
   "url": "https://mangadex.org/manga/23939",
-  "last_updated": "March 16, 2021 12:35:05 UTC",
+  "last_updated": "March 18, 2021 09:30:49 UTC",
   "matches": [
     {
       "id": 33578,
       "title": "Kanojo ga suru Futokute Katai Mono",
       "score": 0.16,
-      "r18": true
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 58593,
       "title": "Queen's Blade - Amara Academy",
       "score": 0.16,
-      "r18": true
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 35383,
       "title": "Girls and the King's Tea Party",
       "score": 0.133,
-      "r18": true
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

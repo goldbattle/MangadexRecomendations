@@ -2,55 +2,98 @@
   "id": 1978,
   "title": "Vector Case File - Inaho no Konchuuki",
   "url": "https://mangadex.org/manga/1978",
-  "last_updated": "March 14, 2021 04:20:36 UTC",
+  "last_updated": "March 18, 2021 05:59:29 UTC",
   "matches": [
     {
       "id": 22422,
       "title": "The Duke of Death and His Black Maid",
       "score": 0.157,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "tr",
+        "fr",
+        "mx",
+        "pl"
+      ]
     },
     {
       "id": 6710,
       "title": "Inakami",
       "score": 0.157,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6766,
       "title": "Half &amp; Half",
       "score": 0.138,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "ro",
+        "fr",
+        "de",
+        "ru",
+        "br"
+      ]
     },
     {
       "id": 2719,
       "title": "Youko x Boku SS",
-      "score": 0.138,
-      "r18": false
+      "score": 0.137,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 52319,
+      "title": "My Life as Inukai-san's Dog",
+      "score": 0.137,
+      "r18": false,
+      "languages": [
+        "gb",
+        "th",
+        "mx",
+        "id"
+      ]
     },
     {
       "id": 3770,
       "title": "Yamada-kun to 7-nin no Majo",
       "score": 0.122,
-      "r18": false
-    },
-    {
-      "id": 8720,
-      "title": "Sakuran (IWASHIRO Toshiaki)",
-      "score": 0.122,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ct",
+        "ru",
+        "gb",
+        "hu"
+      ]
     },
     {
       "id": 6893,
       "title": "Kanojo ga Flag wo Oraretara",
       "score": 0.11,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1062,
       "title": "Shina Dark ~Kuroki Tsuki no Ou to Souheiki no Himegimi~",
       "score": 0.1,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

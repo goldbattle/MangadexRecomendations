@@ -2,25 +2,36 @@
   "id": 12549,
   "title": "Forgiveness",
   "url": "https://mangadex.org/manga/12549",
-  "last_updated": "March 15, 2021 08:24:03 UTC",
+  "last_updated": "March 18, 2021 07:32:50 UTC",
   "matches": [
     {
       "id": 2266,
       "title": "Tonari no Shugoshin",
       "score": 0.215,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "fr"
+      ]
     },
     {
       "id": 6187,
       "title": "1-nen 5-kumi Ikimonogakari",
-      "score": 0.176,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 39361,
       "title": "The Devil King's Sonata",
       "score": 0.138,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -2,31 +2,49 @@
   "id": 23573,
   "title": "Youkai Giga",
   "url": "https://mangadex.org/manga/23573",
-  "last_updated": "March 16, 2021 12:30:27 UTC",
+  "last_updated": "March 18, 2021 09:24:57 UTC",
   "matches": [
     {
       "id": 19466,
       "title": "NeNeNe",
       "score": 0.24,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "it",
+        "tr",
+        "th",
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 53264,
       "title": "Neko no Matasaburou",
       "score": 0.2,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20905,
       "title": "Yu-Gi-Oh! -  Digital Colored Comics",
       "score": 0.08,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 36343,
       "title": "The Distant Dawn",
       "score": 0.08,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     }
   ]
 }

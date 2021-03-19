@@ -1,104 +1,193 @@
 {
   "id": 32991,
   "title": "Chichi no Jikan",
-  "url": "https://api.mangadex.org/v2/manga/32991",
-  "last_updated": "February 10, 2021 12:30:33 UTC",
+  "url": "https://mangadex.org/manga/32991",
+  "last_updated": "March 18, 2021 10:55:51 UTC",
   "matches": [
-    {
-      "id": 625,
-      "title": "Idol Pretender",
-      "score": 0.716,
-      "r18": false
-    },
-    {
-      "id": 1773,
-      "title": "Ressentiment",
-      "score": 0.715,
-      "r18": false
-    },
-    {
-      "id": 1060,
-      "title": "Birdy the Mighty (II)",
-      "score": 0.713,
-      "r18": false
-    },
-    {
-      "id": 26638,
-      "title": "Birdy the Mighty Evolution",
-      "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 5838,
-      "title": "Akihabara@DEEP",
-      "score": 0.7,
-      "r18": false
-    },
-    {
-      "id": 38554,
-      "title": "Motoka no Shokudou",
-      "score": 0.695,
-      "r18": false
-    },
     {
       "id": 19435,
       "title": "Back Street Girls",
-      "score": 0.681,
-      "r18": false
-    },
-    {
-      "id": 51662,
-      "title": "Daily Life In TS School",
-      "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 18223,
-      "title": "Unbalance School Life",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 45538,
-      "title": "I Am Worried That My Childhood Friend Is Too Cute!",
-      "score": 0.662,
-      "r18": false
-    },
-    {
-      "id": 10362,
-      "title": "Re:Marina",
-      "score": 0.655,
-      "r18": false
+      "score": 0.273,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 19655,
       "title": "Cigar Holic",
-      "score": 0.409,
-      "r18": false
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 29276,
       "title": "Tensei Pandemic",
-      "score": 0.363,
-      "r18": false
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "ru",
+        "fr",
+        "ir"
+      ]
+    },
+    {
+      "id": 45538,
+      "title": "I Am Worried That My Childhood Friend Is Too Cute!",
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 11033,
+      "title": "Tsuiteru Kanojo.",
+      "score": 0.237,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 51662,
+      "title": "Daily Life In TS School",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1060,
+      "title": "Birdy the Mighty (II)",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 625,
+      "title": "Idol Pretender",
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 14481,
       "title": "Wahhaman",
-      "score": 0.328,
-      "r18": false
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 38554,
+      "title": "Motoka no Shokudou",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 26638,
+      "title": "Birdy the Mighty Evolution",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 10362,
+      "title": "Re:Marina",
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu",
+        "pl"
+      ]
+    },
+    {
+      "id": 1773,
+      "title": "Ressentiment",
+      "score": 0.184,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1135,
       "title": "Desert Punk",
-      "score": 0.321,
-      "r18": false
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "ua",
+        "es"
+      ]
+    },
+    {
+      "id": 18223,
+      "title": "Unbalance School Life",
+      "score": 0.177,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 5838,
+      "title": "Akihabara@DEEP",
+      "score": 0.161,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 36199,
+      "title": "Taberu Dake de Level-Up! Damegami to Issho ni Isekai Musou",
+      "score": 0.125,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20563,
       "title": "Melancholia",
-      "score": 0.092,
-      "r18": false
+      "score": 0.077,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "vn",
+        "tr",
+        "hu",
+        "fr"
+      ]
     }
   ]
 }

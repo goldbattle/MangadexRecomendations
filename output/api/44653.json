@@ -1,158 +1,247 @@
 {
   "id": 44653,
   "title": "22/7 (Nanabun no Nijyuuni) +&alpha;",
-  "url": "https://api.mangadex.org/v2/manga/44653",
-  "last_updated": "February 11, 2021 16:44:42 UTC",
+  "url": "https://mangadex.org/manga/44653",
+  "last_updated": "March 18, 2021 12:33:11 UTC",
   "matches": [
-    {
-      "id": 15811,
-      "title": "Wake Up, Girls!",
-      "score": 0.227,
-      "r18": false
-    },
-    {
-      "id": 33024,
-      "title": "Hypnosis Mic -Division Rap Battle- side F.P &amp; M",
-      "score": 0.227,
-      "r18": false
-    },
     {
       "id": 46315,
       "title": "Hikari no Machi",
-      "score": 0.227,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 5299,
-      "title": "AKB0048 - Episode 0",
-      "score": 0.17,
-      "r18": false
+      "id": 15811,
+      "title": "Wake Up, Girls!",
+      "score": 0.219,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10258,
+      "title": "Dragon Voice",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7306,
       "title": "Onee-chan ga Mamotte Ageru!",
-      "score": 0.17,
-      "r18": false
-    },
-    {
-      "id": 10331,
-      "title": "Hayabusa",
-      "score": 0.17,
-      "r18": false
-    },
-    {
-      "id": 13749,
-      "title": "THE iDOLM@STER - Million Live!",
-      "score": 0.17,
-      "r18": false
-    },
-    {
-      "id": 16154,
-      "title": "Koyoi Oto Furu Sora no Shita",
-      "score": 0.17,
-      "r18": false
-    },
-    {
-      "id": 19875,
-      "title": "Kuuden Noise no Himegimi",
-      "score": 0.17,
-      "r18": false
-    },
-    {
-      "id": 19943,
-      "title": "IDOLiSH7 TRIGGER -before The Radiant Glory-",
-      "score": 0.17,
-      "r18": false
-    },
-    {
-      "id": 21050,
-      "title": "Blue Giant Supreme",
-      "score": 0.17,
-      "r18": false
-    },
-    {
-      "id": 22740,
-      "title": "The Concours",
-      "score": 0.17,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 28537,
       "title": "BanG Dream! Girls Band Party! Roselia Stage",
-      "score": 0.17,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 33005,
-      "title": "Hypnosis Mic -Before the Battle- The Dirty Dawg",
-      "score": 0.17,
-      "r18": false
-    },
-    {
-      "id": 41586,
-      "title": "Touhou - Silen+Song (Doujinshi)",
-      "score": 0.17,
-      "r18": false
-    },
-    {
-      "id": 45867,
-      "title": "Piano Duo for the Left Hand",
-      "score": 0.17,
-      "r18": false
+      "id": 22740,
+      "title": "The Concours",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 49344,
       "title": "Kuuden no Himegimi",
-      "score": 0.17,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "cn"
+      ]
     },
     {
-      "id": 514,
-      "title": "O/A",
-      "score": 0.136,
-      "r18": false
+      "id": 19875,
+      "title": "Kuuden Noise no Himegimi",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 3952,
-      "title": "Wood Stock",
-      "score": 0.136,
-      "r18": false
+      "id": 45867,
+      "title": "Piano Duo for the Left Hand",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 6488,
-      "title": "Mashiro no Oto",
-      "score": 0.136,
-      "r18": false
+      "id": 10331,
+      "title": "Hayabusa",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 16154,
+      "title": "Koyoi Oto Furu Sora no Shita",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 5299,
+      "title": "AKB0048 - Episode 0",
+      "score": 0.167,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19943,
+      "title": "IDOLiSH7 TRIGGER -before The Radiant Glory-",
+      "score": 0.167,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14918,
+      "title": "Love Live! School Idol Diary",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 30551,
+      "title": "Shoujo\u2606Kageki Revue Starlight - The LIVE - Show Must Go On",
+      "score": 0.142,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 40195,
+      "title": "Shoujo\u2606Kageki Revue Starlight - The LIVE - #2 Transition",
+      "score": 0.142,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 7236,
       "title": "Twinkle Twinkle Idol Star",
-      "score": 0.136,
-      "r18": false
+      "score": 0.14,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 8497,
-      "title": "Shino-chan wa Jibun no Namae ga Ienai",
-      "score": 0.136,
-      "r18": false
+      "id": 8425,
+      "title": "Pink Rush",
+      "score": 0.14,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 9640,
-      "title": "Fukumenkei Noise",
-      "score": 0.136,
-      "r18": false
+      "id": 16542,
+      "title": "Blue Giant",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx",
+        "br",
+        "tr",
+        "cn"
+      ]
+    },
+    {
+      "id": 514,
+      "title": "O/A",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 36194,
+      "title": "IDOLiSH7",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 23578,
+      "title": "B.B. Explosion",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37038,
+      "title": "Short Peace",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 16264,
+      "title": "Harlock Saga - The Ring of the Nibelung",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 11222,
       "title": "Berry Dynamite",
-      "score": 0.136,
-      "r18": false
-    },
-    {
-      "id": 15038,
-      "title": "Hagio Moto's Age of The Beatles Illustrated Essay",
-      "score": 0.136,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     }
   ]
 }

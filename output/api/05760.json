@@ -2,79 +2,146 @@
   "id": 5760,
   "title": "Tokyo Zombie",
   "url": "https://mangadex.org/manga/5760",
-  "last_updated": "March 14, 2021 12:41:17 UTC",
+  "last_updated": "March 18, 2021 06:34:35 UTC",
   "matches": [
     {
       "id": 38459,
       "title": "Wuchang Gui",
       "score": 0.157,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3813,
       "title": "Mikity Blood",
       "score": 0.153,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2013,
       "title": "King of Hell",
-      "score": 0.13,
-      "r18": false
+      "score": 0.129,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "hu"
+      ]
     },
     {
       "id": 30908,
       "title": "The Wanderers Trilogy",
       "score": 0.123,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 5538,
       "title": "JoJo's Bizarre Adventure Part 2 - Battle Tendency",
       "score": 0.11,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "ru"
+      ]
     },
     {
       "id": 28617,
       "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run",
       "score": 0.092,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "it",
+        "fr"
+      ]
     },
     {
       "id": 55564,
       "title": "Chasing The Sky",
-      "score": 0.092,
-      "r18": false
+      "score": 0.091,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 26597,
       "title": "The Grandmaster of Demonic Cultivation",
-      "score": 0.085,
-      "r18": false
+      "score": 0.084,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "fr",
+        "pl",
+        "br",
+        "es",
+        "hu",
+        "it",
+        "tr"
+      ]
     },
     {
       "id": 27152,
       "title": "JoJo's Bizarre Adventure Part 2 - Battle Tendency (Official Colored)",
-      "score": 0.085,
-      "r18": false
+      "score": 0.084,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "ru",
+        "it",
+        "tr"
+      ]
     },
     {
       "id": 47122,
       "title": "JoJo's Bizarre Adventure: Moscow Calling (Doujinshi)",
-      "score": 0.085,
-      "r18": false
+      "score": 0.084,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "it"
+      ]
     },
     {
       "id": 59848,
       "title": "Urban Exorcist",
       "score": 0.078,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": 6272,
       "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
-      "score": 0.069,
-      "r18": false
+      "score": 0.068,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "br",
+        "ru",
+        "it",
+        "id",
+        "il",
+        "de"
+      ]
     }
   ]
 }

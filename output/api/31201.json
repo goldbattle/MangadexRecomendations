@@ -1,158 +1,254 @@
 {
   "id": 31201,
   "title": "Chikin - &quot;Drop&quot; Zenya no Monogatari",
-  "url": "https://api.mangadex.org/v2/manga/31201",
-  "last_updated": "February 10, 2021 08:16:25 UTC",
+  "url": "https://mangadex.org/manga/31201",
+  "last_updated": "March 18, 2021 10:40:56 UTC",
   "matches": [
-    {
-      "id": 16298,
-      "title": "B Group no Shounen",
-      "score": 0.754,
-      "r18": false
-    },
-    {
-      "id": 20604,
-      "title": "B Group no Shounen X",
-      "score": 0.754,
-      "r18": false
-    },
-    {
-      "id": 21068,
-      "title": "Nanba MG5",
-      "score": 0.75,
-      "r18": false
-    },
-    {
-      "id": 1424,
-      "title": "Worst",
-      "score": 0.75,
-      "r18": false
-    },
     {
       "id": 23425,
       "title": "Crows Respect",
-      "score": 0.748,
-      "r18": false
+      "score": 0.387,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 2093,
-      "title": "Crows",
-      "score": 0.735,
-      "r18": false
+      "id": 21902,
+      "title": "Gakusen Toshi Asterisk Gaiden - Queenveil no Tsubasa",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 4611,
-      "title": "Chameleon",
-      "score": 0.725,
-      "r18": false
+      "id": 15697,
+      "title": "Crows Ladies",
+      "score": 0.347,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 5424,
+      "title": "Bad Company",
+      "score": 0.331,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru"
+      ]
+    },
+    {
+      "id": 26774,
+      "title": "Saigo no Worst",
+      "score": 0.292,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 14496,
       "title": "Crows Gaiden - Katagiri Ken Monogatari",
-      "score": 0.721,
-      "r18": false
-    },
-    {
-      "id": 68,
-      "title": "SWOT",
-      "score": 0.714,
-      "r18": false
-    },
-    {
-      "id": 19910,
-      "title": "Shitei Bouryoku Shoujo Shiomi-chan",
-      "score": 0.712,
-      "r18": false
-    },
-    {
-      "id": 9859,
-      "title": "Hime-dol!!",
-      "score": 0.71,
-      "r18": false
-    },
-    {
-      "id": 4548,
-      "title": "Rokudenashi Blues",
-      "score": 0.707,
-      "r18": false
-    },
-    {
-      "id": 45249,
-      "title": "Mahouka Koukou no Rettousei - Shiba Tatsuya Ansatsu Keikaku",
-      "score": 0.702,
-      "r18": false
-    },
-    {
-      "id": 1021,
-      "title": "Girls of the Wild's",
-      "score": 0.702,
-      "r18": false
-    },
-    {
-      "id": 20316,
-      "title": "Rokudou no Onna-tachi",
-      "score": 0.702,
-      "r18": false
-    },
-    {
-      "id": 23809,
-      "title": "Otoko Ippiki Gaki Daisho",
-      "score": 0.702,
-      "r18": false
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 19764,
       "title": "Crows Gaiden",
-      "score": 0.701,
-      "r18": false
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
-      "id": 20235,
-      "title": "Seikimatsu Leader Den Takeshi!",
-      "score": 0.698,
-      "r18": false
+      "id": 4068,
+      "title": "Busta!",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 1763,
-      "title": "Go Da Gun",
-      "score": 0.698,
-      "r18": false
+      "id": 19765,
+      "title": "Sono Go No Crows",
+      "score": 0.276,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
-      "id": 37391,
-      "title": "Mahouka Koukou no Rettousei - Koto Nairan-hen",
-      "score": 0.697,
-      "r18": false
+      "id": 14011,
+      "title": "Crows Explode -Gaiden-",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 17213,
+      "title": "Kaisei no Caricature",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb"
+      ]
+    },
+    {
+      "id": 17829,
+      "title": "Sannen Kimengumi",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20237,
+      "title": "Seishun Heiki Number One",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "id"
+      ]
+    },
+    {
+      "id": 15302,
+      "title": "Victim",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 16298,
+      "title": "B Group no Shounen",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1424,
+      "title": "Worst",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 23809,
+      "title": "Otoko Ippiki Gaki Daisho",
+      "score": 0.254,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 39487,
       "title": "Boku no Hero Academia: Team Up Mission",
-      "score": 0.697,
-      "r18": false
+      "score": 0.254,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "sa"
+      ]
     },
     {
-      "id": 13276,
-      "title": "Garouden Boy",
-      "score": 0.695,
-      "r18": false
+      "id": 21624,
+      "title": "777",
+      "score": 0.248,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 185,
-      "title": "Hareluya II Boy",
-      "score": 0.694,
-      "r18": false
+      "id": 68,
+      "title": "SWOT",
+      "score": 0.247,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "de"
+      ]
     },
     {
-      "id": 3918,
-      "title": "Magic Kaito",
-      "score": 0.693,
-      "r18": false
+      "id": 8838,
+      "title": "Sukeban Arashi",
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     },
     {
-      "id": 4,
-      "title": "Beelzebub",
-      "score": 0.692,
-      "r18": false
+      "id": 9859,
+      "title": "Hime-dol!!",
+      "score": 0.242,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "th",
+        "mx"
+      ]
+    },
+    {
+      "id": 21068,
+      "title": "Nanba MG5",
+      "score": 0.238,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3417,
+      "title": "Nina Jalhae!",
+      "score": 0.237,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1943,
+      "title": "W Change!!",
+      "score": 0.236,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     }
   ]
 }

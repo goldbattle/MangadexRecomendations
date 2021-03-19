@@ -1,158 +1,277 @@
 {
   "id": 44038,
   "title": "Natsume Yuujinchou Visual Fan Book",
-  "url": "https://api.mangadex.org/v2/manga/44038",
-  "last_updated": "February 11, 2021 16:34:43 UTC",
+  "url": "https://mangadex.org/manga/44038",
+  "last_updated": "March 18, 2021 12:28:02 UTC",
   "matches": [
-    {
-      "id": 2107,
-      "title": "Maimiko Touko no Jikenbo",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 3013,
-      "title": "Koisuru Plastic Baby",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 3721,
-      "title": "Akuma no Puzzle",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 4752,
-      "title": "Oh, My Romantic Kumiho",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 4907,
-      "title": "Koyoi, Kimi to Kiss no Chigiri o",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 6030,
-      "title": "Mahou wo Shinjiru kai?",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 6859,
-      "title": "Brundage no Mahou no Shiro",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 9206,
-      "title": "Scarlet Cross",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 9427,
-      "title": "Chocolat no Mahou",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 9492,
-      "title": "Galaxy Lover",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 10145,
-      "title": "Genyou no Meizu",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 10769,
-      "title": "Kiss ni Renzoku",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 11253,
-      "title": "Kitsune no Yomeiri  (Chiyori)",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 12799,
-      "title": "Tonegawa Lilica's Laboratory",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 13718,
-      "title": "Hyakki Koiran",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 14440,
-      "title": "Yume no Moribito",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 14796,
-      "title": "Megane no Incubus-kun",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 16879,
-      "title": "Ghost wa Kiss wo Kirau",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 17294,
-      "title": "Kareshi wa Doberman",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 18563,
-      "title": "Hanayome to Futsuma no Kishi",
-      "score": 0.34,
-      "r18": false
-    },
-    {
-      "id": 19427,
-      "title": "Tsukiyogarasu to Seinaru Yoru: Shikkoku no Kiseki",
-      "score": 0.34,
-      "r18": false
-    },
     {
       "id": 23713,
       "title": "Kimi Dake no Devil",
-      "score": 0.34,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "ru",
+        "bg",
+        "gb"
+      ]
     },
     {
-      "id": 25242,
-      "title": "Super Boyfriend",
-      "score": 0.34,
-      "r18": false
+      "id": 987,
+      "title": "Yuurei Apato Kanrinin",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 28380,
-      "title": "Hana to Shokutaku",
-      "score": 0.34,
-      "r18": false
+      "id": 34294,
+      "title": "Koyoi, Kaijin to Tea Time wo",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
-      "id": 255,
-      "title": "Omamori no Kamisama",
-      "score": 0.255,
-      "r18": false
+      "id": 58170,
+      "title": "Koi suru Moon Dog",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "ru",
+        "cn"
+      ]
+    },
+    {
+      "id": 2923,
+      "title": "Bloody Kiss",
+      "score": 0.167,
+      "r18": false,
+      "languages": [
+        "pl",
+        "ru"
+      ]
+    },
+    {
+      "id": 8719,
+      "title": "Charon Siphon",
+      "score": 0.167,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
+    },
+    {
+      "id": 8920,
+      "title": "Rasen no Vamp",
+      "score": 0.167,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "ru",
+        "br"
+      ]
+    },
+    {
+      "id": 37955,
+      "title": "Tianhu jie",
+      "score": 0.167,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
+    },
+    {
+      "id": 57157,
+      "title": "Fumou Renai",
+      "score": 0.167,
+      "r18": false,
+      "languages": [
+        "vn",
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 58189,
+      "title": "Daburu Sutoroberii Bitaa Keikusu",
+      "score": 0.167,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
+    },
+    {
+      "id": 6713,
+      "title": "Gyakuten Honey",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 8499,
+      "title": "Siesta",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 9125,
+      "title": "Diabolik Lovers (Anthology)",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 17165,
+      "title": "Bara Kangoku no Kemono-tachi",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "mx",
+        "fr",
+        "ru",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 20717,
+      "title": "Hokenshitsu no Kageyama-kun",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 21709,
+      "title": "Moon Deity",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 24665,
+      "title": "Kakuriyo no Yadomeshi: Ayakashi Oyado ni Yomeiri Shimasu",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 35581,
+      "title": "Poem of Hell Confession",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "ru",
+        "fr"
+      ]
+    },
+    {
+      "id": 8960,
+      "title": "Sawea Gati",
+      "score": 0.119,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru"
+      ]
+    },
+    {
+      "id": 11939,
+      "title": "Kuro Hakushaku wa Hoshi o Mederu",
+      "score": 0.119,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "ru",
+        "hu"
+      ]
+    },
+    {
+      "id": 22271,
+      "title": "God and Girl",
+      "score": 0.119,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 33265,
+      "title": "Kimi ga Shinu Made Ato 100 Nichi",
+      "score": 0.119,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id",
+        "br",
+        "ru"
+      ]
+    },
+    {
+      "id": 33300,
+      "title": "Matsurika Kanriden",
+      "score": 0.119,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br"
+      ]
+    },
+    {
+      "id": 10848,
+      "title": "Shishunki Bitter Change",
+      "score": 0.104,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr",
+        "tr",
+        "de",
+        "it",
+        "pl"
+      ]
+    },
+    {
+      "id": 16655,
+      "title": "Oh! Holy",
+      "score": 0.104,
+      "r18": false,
+      "languages": [
+        "pl",
+        "br",
+        "gb",
+        "ru"
+      ]
     }
   ]
 }

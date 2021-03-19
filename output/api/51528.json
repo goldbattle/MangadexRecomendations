@@ -1,158 +1,219 @@
 {
   "id": 51528,
-  "title": "Special Class With Teacher on the Train",
-  "url": "https://api.mangadex.org/v2/manga/51528",
-  "last_updated": "February 05, 2021 12:09:25 UTC",
+  "title": "Densha de, Jugyou. Sensei to.",
+  "url": "https://mangadex.org/manga/51528",
+  "last_updated": "March 18, 2021 13:30:42 UTC",
   "matches": [
-    {
-      "id": 36333,
-      "title": "Lucia",
-      "score": 0.702,
-      "r18": false
-    },
-    {
-      "id": 46731,
-      "title": "Wolf Crying Pharmacy",
-      "score": 0.682,
-      "r18": false
-    },
-    {
-      "id": 53709,
-      "title": "The Gentle Goblin's Bird",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 51696,
-      "title": "Embrace You - Married On The First Day (Official Colored)",
-      "score": 0.67,
-      "r18": false
-    },
-    {
-      "id": 57473,
-      "title": "Our Team Is Last Place Anyway",
-      "score": 0.668,
-      "r18": false
-    },
-    {
-      "id": 59563,
-      "title": "How I Came To Like My Male Friend",
-      "score": 0.668,
-      "r18": false
-    },
-    {
-      "id": 51380,
-      "title": "Toy Complex",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 55406,
-      "title": "Sultan&rsquo;s Love",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 46221,
-      "title": "Pure Love",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 53753,
-      "title": "Under the Oak Tree",
-      "score": 0.65,
-      "r18": false
-    },
     {
       "id": 59624,
       "title": "Feliz Navidad: How to Use Men",
-      "score": 0.401,
-      "r18": false
-    },
-    {
-      "id": 27410,
-      "title": "Wode Nvyou Shi Laosiji",
-      "score": 0.34,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 44256,
       "title": "Silly Dog and Lady",
-      "score": 0.319,
-      "r18": false
-    },
-    {
-      "id": 59911,
-      "title": "The Duchess' Lewd Invitation",
-      "score": 0.318,
-      "r18": false
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 57841,
       "title": "Come to the Orchard in the Spring",
-      "score": 0.315,
-      "r18": false
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 45811,
-      "title": "Breaking the Rules, and I Have to Do What?! (Official Colored)",
-      "score": 0.292,
-      "r18": false
+      "id": 51696,
+      "title": "Embrace You - Married On The First Day (Official Colored)",
+      "score": 0.169,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 50618,
-      "title": "Lost Things",
-      "score": 0.284,
-      "r18": false
+      "id": 55406,
+      "title": "Sultan's Love",
+      "score": 0.169,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "fr"
+      ]
     },
     {
-      "id": 50399,
-      "title": "Related to Love",
-      "score": 0.278,
-      "r18": false
+      "id": 41043,
+      "title": "Try SM With Me!",
+      "score": 0.167,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 51380,
+      "title": "Toy Complex",
+      "score": 0.154,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59563,
+      "title": "How I Came to Like My Male Friend",
+      "score": 0.153,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 59922,
       "title": "Your Majesty Is Mine",
-      "score": 0.267,
-      "r18": false
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 47152,
-      "title": "Way to the Glory",
-      "score": 0.258,
-      "r18": false
+      "id": 57473,
+      "title": "Our Team Is Last Place Anyway",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 42742,
-      "title": "The Blood of Madam Giselle",
-      "score": 0.258,
-      "r18": false
+      "id": 50618,
+      "title": "Lost Things",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 56329,
+      "title": "Tales of a Traveler's Journey",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 45811,
+      "title": "Breaking the Rules, and I Have to Do What?! (Official Colored)",
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59911,
+      "title": "The Duchess' Lewd Invitation",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb",
+        "th",
+        "fr"
+      ]
+    },
+    {
+      "id": 53753,
+      "title": "Under the Oak Tree",
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb",
+        "ru",
+        "br",
+        "hu",
+        "it",
+        "fr"
+      ]
     },
     {
       "id": 57760,
       "title": "Totem Realm",
-      "score": 0.239,
-      "r18": false
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mn",
+        "id"
+      ]
     },
     {
       "id": 17851,
       "title": "Arrogance and Romance",
-      "score": 0.233,
-      "r18": false
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 19168,
-      "title": "Sadistic Beauty",
-      "score": 0.228,
-      "r18": false
+      "id": 53709,
+      "title": "The Gentle Goblin's Bird",
+      "score": 0.13,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "vn",
+        "it"
+      ]
+    },
+    {
+      "id": 46221,
+      "title": "Pure Love",
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "br"
+      ]
+    },
+    {
+      "id": 47152,
+      "title": "Way to the Glory",
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 52880,
       "title": "Herbalist",
-      "score": 0.175,
-      "r18": false
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     }
   ]
 }

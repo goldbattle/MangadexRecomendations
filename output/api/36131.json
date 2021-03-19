@@ -2,37 +2,52 @@
   "id": 36131,
   "title": "H.P. Lovecraft's The Call of Cthulhu",
   "url": "https://mangadex.org/manga/36131",
-  "last_updated": "March 17, 2021 20:22:30 UTC",
+  "last_updated": "March 18, 2021 11:22:02 UTC",
   "matches": [
     {
       "id": 45203,
       "title": "Jigoku Kurayami Hana mo Naki",
       "score": 0.145,
-      "r18": false
-    },
-    {
-      "id": 3006,
-      "title": "Occult Academy",
-      "score": 0.116,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "hk",
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 21488,
       "title": "Isekai Goumon Hime",
       "score": 0.105,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "ru"
+      ]
     },
     {
       "id": 1277,
       "title": "Dante Shinkyoku",
-      "score": 0.097,
-      "r18": false
+      "score": 0.096,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 49808,
       "title": "ODDEYE",
-      "score": 0.097,
-      "r18": false
+      "score": 0.096,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "pl",
+        "fr"
+      ]
     }
   ]
 }

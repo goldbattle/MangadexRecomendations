@@ -2,157 +2,277 @@
   "id": 19983,
   "title": "Ikasama Memory",
   "url": "https://mangadex.org/manga/19983",
-  "last_updated": "March 16, 2021 00:25:32 UTC",
+  "last_updated": "March 18, 2021 08:53:08 UTC",
   "matches": [
-    {
-      "id": 20038,
-      "title": "Miko Honey",
-      "score": 0.388,
-      "r18": false
-    },
-    {
-      "id": 7878,
-      "title": "24 Jikan Eigyouchuu",
-      "score": 0.388,
-      "r18": false
-    },
-    {
-      "id": 7025,
-      "title": "Sorenari ni Shinken Nandesu",
-      "score": 0.388,
-      "r18": false
-    },
-    {
-      "id": 57858,
-      "title": "Shutter Chance",
-      "score": 0.388,
-      "r18": false
-    },
     {
       "id": 10718,
       "title": "Kozure Ookami",
       "score": 0.369,
-      "r18": false
-    },
-    {
-      "id": 40981,
-      "title": "Dare ga Omae wo Suki da to Itta",
-      "score": 0.368,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
     },
     {
       "id": 7385,
       "title": "After Morning Love",
       "score": 0.359,
-      "r18": false
-    },
-    {
-      "id": 34219,
-      "title": "Ryouomoi Nante Joudan Janai!!",
-      "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 8963,
-      "title": "Smoker",
-      "score": 0.349,
-      "r18": false
-    },
-    {
-      "id": 8711,
-      "title": "Doukyonin no Binandomo",
-      "score": 0.347,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 549,
       "title": "Sekaiichi Hatsukoi",
       "score": 0.345,
-      "r18": false
-    },
-    {
-      "id": 26625,
-      "title": "Omoisugoshi mo Koi no Uchi",
-      "score": 0.345,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 9865,
       "title": "110-Ban wa Uketsukemasen!",
       "score": 0.344,
-      "r18": false
-    },
-    {
-      "id": 18257,
-      "title": "Loved Circus",
-      "score": 0.344,
-      "r18": false
-    },
-    {
-      "id": 25489,
-      "title": "Shinjuku Lucky Hole",
-      "score": 0.344,
-      "r18": false
-    },
-    {
-      "id": 16856,
-      "title": "Ijimekko no Okada-kun",
-      "score": 0.343,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "tr",
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 1489,
       "title": "Yume Musubi, Koi Musubi",
       "score": 0.338,
-      "r18": false
-    },
-    {
-      "id": 33008,
-      "title": "Netsuai Nante Ariemasen!",
-      "score": 0.338,
-      "r18": false
-    },
-    {
-      "id": 54310,
-      "title": "Private",
-      "score": 0.337,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "pl"
+      ]
     },
     {
       "id": 15319,
       "title": "Koi o Hitokuchi",
-      "score": 0.336,
-      "r18": false
-    },
-    {
-      "id": 18722,
-      "title": "Love Life",
-      "score": 0.336,
-      "r18": false
-    },
-    {
-      "id": 58353,
-      "title": "Kiss to Kirai no Hantai",
-      "score": 0.316,
-      "r18": false
+      "score": 0.335,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 8144,
       "title": "Mujihi na Karada",
       "score": 0.31,
-      "r18": false
-    },
-    {
-      "id": 9336,
-      "title": "Soshite Bokura wa Koi o Suru",
-      "score": 0.31,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "pl"
+      ]
     },
     {
       "id": 26523,
       "title": "Gokujou no Koibito",
       "score": 0.31,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "tr"
+      ]
+    },
+    {
+      "id": 4565,
+      "title": "Daikirai na Aitsu!",
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "pl"
+      ]
+    },
+    {
+      "id": 4558,
+      "title": "Ameiro Paradox",
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 21449,
+      "title": "Hanarai",
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 7725,
+      "title": "Sugar Code",
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "pl",
+        "tr",
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 9000,
+      "title": "Junjou Mistake",
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "tr"
+      ]
+    },
+    {
+      "id": 9275,
+      "title": "Heart no Kakurega",
+      "score": 0.29,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "pl"
+      ]
+    },
+    {
+      "id": 15408,
+      "title": "Sick",
+      "score": 0.288,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 36148,
+      "title": "Ai no Kotoba o Uragaeshi",
+      "score": 0.286,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 7791,
+      "title": "Koishite Daddy",
+      "score": 0.283,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "pl"
+      ]
+    },
+    {
+      "id": 1490,
+      "title": "Himegoto Asobi",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "tr",
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 6904,
+      "title": "Super Lovers",
+      "score": 0.28,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 1441,
+      "title": "Konbini-kun",
+      "score": 0.276,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "hu",
+        "ru"
+      ]
+    },
+    {
+      "id": 7997,
+      "title": "Kimi ga Koi ni Oboreru",
+      "score": 0.273,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "pl"
+      ]
+    },
+    {
+      "id": 10390,
+      "title": "Totally Captivated",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "tr"
+      ]
+    },
+    {
+      "id": 7180,
+      "title": "Kiraboshi Dial",
+      "score": 0.253,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
+    },
+    {
+      "id": 16544,
+      "title": "ULTRAS",
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl",
+        "it",
+        "mx"
+      ]
+    },
+    {
+      "id": 17335,
+      "title": "Karera wa Yoru ka Ame no Naka",
+      "score": 0.236,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
     }
   ]
 }

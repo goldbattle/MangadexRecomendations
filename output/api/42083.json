@@ -1,14 +1,17 @@
 {
   "id": 42083,
   "title": "Yeon Lok Heun",
-  "url": "https://api.mangadex.org/v2/manga/42083",
-  "last_updated": "February 11, 2021 12:20:06 UTC",
+  "url": "https://mangadex.org/manga/42083",
+  "last_updated": "March 18, 2021 12:11:42 UTC",
   "matches": [
     {
       "id": 41174,
       "title": "A Chronicle of Vile Ambitions",
-      "score": 0.206,
-      "r18": false
+      "score": 0.094,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -2,43 +2,48 @@
   "id": 56579,
   "title": "Him+Him",
   "url": "https://mangadex.org/manga/56579",
-  "last_updated": "March 13, 2021 00:27:46 UTC",
+  "last_updated": "March 18, 2021 14:12:54 UTC",
   "matches": [
-    {
-      "id": 29660,
-      "title": "Not a Sugar Daddy",
-      "score": 0.308,
-      "r18": false
-    },
     {
       "id": 57443,
       "title": "Through the Rumors",
       "score": 0.264,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29659,
+      "title": "Hosik's Story",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "br",
+        "fr"
+      ]
     },
     {
       "id": 46321,
       "title": "Palace of Bardo",
       "score": 0.231,
-      "r18": false
-    },
-    {
-      "id": 38754,
-      "title": "City of Blood",
-      "score": 0.206,
-      "r18": false
-    },
-    {
-      "id": 22242,
-      "title": "King's Maker",
-      "score": 0.185,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 44693,
       "title": "Lies Like Lies",
-      "score": 0.167,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     }
   ]
 }

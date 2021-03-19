@@ -1,98 +1,175 @@
 {
   "id": 54945,
   "title": "Kimi no Egao ga Mitai",
-  "url": "https://api.mangadex.org/v2/manga/54945",
-  "last_updated": "March 12, 2021 20:31:46 UTC",
+  "url": "https://mangadex.org/manga/54945",
+  "last_updated": "March 18, 2021 13:59:13 UTC",
   "matches": [
     {
       "id": 13403,
       "title": "World of Law and Order",
-      "score": 0.197,
-      "r18": false
-    },
-    {
-      "id": 23991,
-      "title": "Shibuya Kingyo",
-      "score": 0.197,
-      "r18": false
-    },
-    {
-      "id": 35939,
-      "title": "Pulseless Girlfriend",
-      "score": 0.197,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 17971,
       "title": "Kon'ya wa Tsuki ga Kirei desu ga, Toriaezu Shine",
-      "score": 0.153,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br"
+      ]
+    },
+    {
+      "id": 23991,
+      "title": "Shibuya Kingyo",
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 35939,
+      "title": "Pulseless Girlfriend",
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx",
+        "id"
+      ]
     },
     {
       "id": 13381,
       "title": "Dolly Kill Kill",
-      "score": 0.138,
-      "r18": false
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "ru",
+        "pl"
+      ]
     },
     {
       "id": 429,
       "title": "Shingeki no Kyojin",
-      "score": 0.126,
-      "r18": false
+      "score": 0.105,
+      "r18": false,
+      "languages": [
+        "mx",
+        "sa",
+        "gb",
+        "fr",
+        "br",
+        "hu",
+        "ru",
+        "tr",
+        "it",
+        "id",
+        "es",
+        "pl"
+      ]
     },
     {
       "id": 17317,
       "title": "Acaria",
-      "score": 0.126,
-      "r18": false
-    },
-    {
-      "id": 36124,
-      "title": "Shin Kamen Rider - Prologue",
-      "score": 0.123,
-      "r18": false
-    },
-    {
-      "id": 1761,
-      "title": "Karakuri Circus",
-      "score": 0.115,
-      "r18": false
-    },
-    {
-      "id": 59112,
-      "title": "Fate Combaters",
-      "score": 0.113,
-      "r18": false
-    },
-    {
-      "id": 14704,
-      "title": "Kyomu Senki",
-      "score": 0.107,
-      "r18": false
-    },
-    {
-      "id": 31688,
-      "title": "Dai Dark",
-      "score": 0.106,
-      "r18": false
+      "score": 0.105,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21474,
       "title": "Souboutei Must Be Destroyed",
-      "score": 0.099,
-      "r18": false
+      "score": 0.105,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru"
+      ]
+    },
+    {
+      "id": 36124,
+      "title": "Shin Kamen Rider - Prologue",
+      "score": 0.102,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 1761,
+      "title": "Karakuri Circus",
+      "score": 0.096,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br"
+      ]
+    },
+    {
+      "id": 59112,
+      "title": "Fate Combaters",
+      "score": 0.093,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14704,
+      "title": "Kyomu Senki",
+      "score": 0.09,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 31688,
+      "title": "Dai Dark",
+      "score": 0.089,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "sa",
+        "hk",
+        "ru",
+        "br",
+        "tr",
+        "ua",
+        "it"
+      ]
     },
     {
       "id": 40362,
       "title": "Borderline Bestial Corpse",
-      "score": 0.076,
-      "r18": false
+      "score": 0.062,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 40363,
       "title": "Wilderness Hut",
-      "score": 0.063,
-      "r18": false
+      "score": 0.052,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

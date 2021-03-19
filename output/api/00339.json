@@ -2,157 +2,285 @@
   "id": 339,
   "title": "Sun-ken Rock",
   "url": "https://mangadex.org/manga/339",
-  "last_updated": "March 14, 2021 00:53:29 UTC",
+  "last_updated": "March 18, 2021 05:45:26 UTC",
   "matches": [
     {
       "id": 11358,
       "title": "Sentou Hakai Gakuen Dangerous",
       "score": 0.237,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 1042,
       "title": "Hitman - Part Time Killer",
-      "score": 0.223,
-      "r18": false
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19908,
       "title": "Go-Chan Magazine",
-      "score": 0.201,
-      "r18": false
+      "score": 0.198,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 29340,
       "title": "R402",
-      "score": 0.196,
-      "r18": false
-    },
-    {
-      "id": 563,
-      "title": "Kono S o, Mi yo! - Cupid no Itazura",
-      "score": 0.191,
-      "r18": false
+      "score": 0.195,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "ru",
+        "mx",
+        "id"
+      ]
     },
     {
       "id": 21025,
       "title": "Bokutachi ga Yarimashita",
-      "score": 0.191,
-      "r18": false
+      "score": 0.19,
+      "r18": false,
+      "languages": [
+        "gb",
+        "kr"
+      ]
     },
     {
-      "id": 18939,
-      "title": "Oki no Doku desu ga, Bouken no Sho wa Maou no Mono ni Narimashita.",
-      "score": 0.188,
-      "r18": false
-    },
-    {
-      "id": 33461,
-      "title": "Dungeon Kurashi no Moto Yuusha",
-      "score": 0.185,
-      "r18": false
+      "id": 563,
+      "title": "Kono S o, Mi yo! - Cupid no Itazura",
+      "score": 0.189,
+      "r18": false,
+      "languages": [
+        "fr",
+        "ru",
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 674,
       "title": "Arachnid",
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "it"
+      ]
+    },
+    {
+      "id": 18939,
+      "title": "Oki no Doku desu ga, Bouken no Sho wa Maou no Mono ni Narimashita.",
       "score": 0.182,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 33461,
+      "title": "Dungeon Kurashi no Moto Yuusha",
+      "score": 0.177,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx",
+        "fr"
+      ]
     },
     {
       "id": 6287,
       "title": "Love Junkies",
-      "score": 0.179,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 15372,
       "title": "Unbalance Triangle",
-      "score": 0.17,
-      "r18": false
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru",
+        "mx",
+        "br",
+        "it"
+      ]
     },
     {
       "id": 617,
       "title": "Aiki",
-      "score": 0.168,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "fr",
+        "de"
+      ]
     },
     {
       "id": 267,
       "title": "The Phantom King",
-      "score": 0.164,
-      "r18": false
+      "score": 0.163,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 17230,
       "title": "Gantz:G",
-      "score": 0.164,
-      "r18": false
+      "score": 0.163,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "es",
+        "ru",
+        "hu"
+      ]
     },
     {
       "id": 21156,
       "title": "Salacia",
-      "score": 0.164,
-      "r18": false
+      "score": 0.163,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 4492,
       "title": "Keep on Vibrating",
-      "score": 0.164,
-      "r18": false
+      "score": 0.163,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "it"
+      ]
     },
     {
       "id": 17250,
       "title": "Ore no 100 Hanashime!!",
       "score": 0.159,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "pl",
+        "it",
+        "br"
+      ]
     },
     {
       "id": 25436,
       "title": "Leona EXPLOSION",
       "score": 0.159,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 23883,
+      "title": "Jichou shinai Motoyuusha no Tsuyokute Tanoshii New Game",
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr"
+      ]
     },
     {
       "id": 19465,
       "title": "Idol na Kanojo to Wotaku na Boku to",
       "score": 0.159,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
-      "id": 23883,
-      "title": "Jichou shinai Motoyuusha no Tsuyokute Tanoshii New Game",
-      "score": 0.155,
-      "r18": false
+      "id": 48943,
+      "title": "Goshujin-sama to Yuku Isekai Survival!",
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru",
+        "br",
+        "sa",
+        "id"
+      ]
     },
     {
       "id": 19317,
       "title": "Sundome!! Milky Way",
-      "score": 0.153,
-      "r18": false
+      "score": 0.144,
+      "r18": false,
+      "languages": [
+        "es",
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 35439,
       "title": "1/10 no Hanayome",
-      "score": 0.15,
-      "r18": false
+      "score": 0.141,
+      "r18": false,
+      "languages": [
+        "th",
+        "gb",
+        "id",
+        "br",
+        "mx",
+        "fr"
+      ]
+    },
+    {
+      "id": 944,
+      "title": "Ore x Yome - Cupid no Itazura",
+      "score": 0.141,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 943,
       "title": "Cupid no Itazura - Nijidama",
-      "score": 0.15,
-      "r18": false
-    },
-    {
-      "id": 48943,
-      "title": "Goshujinsama to Yuku Isekai Survival!",
-      "score": 0.15,
-      "r18": false
-    },
-    {
-      "id": 5525,
-      "title": "Hachi\u2640 Ichi\u2642",
-      "score": 0.148,
-      "r18": false
+      "score": 0.14,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     }
   ]
 }

@@ -1,158 +1,258 @@
 {
   "id": 50944,
   "title": "Uenobon Anthology Booklet 2",
-  "url": "https://api.mangadex.org/v2/manga/50944",
-  "last_updated": "February 05, 2021 08:31:38 UTC",
+  "url": "https://mangadex.org/manga/50944",
+  "last_updated": "March 18, 2021 13:25:49 UTC",
   "matches": [
     {
       "id": 50328,
       "title": "Uenobon Anthology Booklet 1",
-      "score": 0.975,
-      "r18": false
+      "score": 0.999,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 42551,
       "title": "Tawawa na Oppai wa Suki desu ka? Kyonyuu Shoujo Anthology Comic",
-      "score": 0.415,
-      "r18": false
+      "score": 0.293,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "id",
+        "fr"
+      ]
     },
     {
-      "id": 3905,
-      "title": "B-Shock",
-      "score": 0.385,
-      "r18": false
-    },
-    {
-      "id": 712,
-      "title": "Kyou no 5 no 2",
-      "score": 0.382,
-      "r18": false
-    },
-    {
-      "id": 24528,
-      "title": "Kuromori-san wa Smartphone ga Tsukaenai",
-      "score": 0.381,
-      "r18": false
-    },
-    {
-      "id": 656,
-      "title": "Nogizaka Haruka no Himitsu",
-      "score": 0.38,
-      "r18": false
-    },
-    {
-      "id": 3440,
-      "title": "MM!",
-      "score": 0.379,
-      "r18": false
-    },
-    {
-      "id": 30410,
-      "title": "Maria Sensei wa Imouto Gachizei!",
-      "score": 0.379,
-      "r18": false
-    },
-    {
-      "id": 10478,
-      "title": "Saenai Kanojo (Heroine) no Sodatekata - Koisuru Metronome",
-      "score": 0.378,
-      "r18": false
-    },
-    {
-      "id": 1011,
-      "title": "Prison School",
-      "score": 0.374,
-      "r18": false
-    },
-    {
-      "id": 48277,
-      "title": "Kujibiki Unbalance",
-      "score": 0.374,
-      "r18": false
-    },
-    {
-      "id": 930,
-      "title": "KimiKiss: Various Heroines",
-      "score": 0.373,
-      "r18": false
+      "id": 49376,
+      "title": "Oshimai",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "cn",
+        "br",
+        "id",
+        "vn",
+        "fr",
+        "mx"
+      ]
     },
     {
       "id": 609,
       "title": "Musunde Hiraite",
-      "score": 0.372,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 44119,
-      "title": "Bouryoku Tantei",
-      "score": 0.371,
-      "r18": false
+      "id": 19489,
+      "title": "Yuizaki-san wa Nageru!",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru"
+      ]
+    },
+    {
+      "id": 49745,
+      "title": "Damena Onee-san demo sukida yo ne?",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "id",
+        "gb"
+      ]
+    },
+    {
+      "id": 24528,
+      "title": "Kuromori-san wa Smartphone ga Tsukaenai",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "mx"
+      ]
+    },
+    {
+      "id": 47044,
+      "title": "English XX Sensei (Temporary)",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "th",
+        "id"
+      ]
+    },
+    {
+      "id": 22584,
+      "title": "Maria-san wa Toumei Shoujo",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6980,
       "title": "Kimikiss ~Sweet Lips~",
-      "score": 0.368,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 930,
+      "title": "KimiKiss: Various Heroines",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10478,
+      "title": "Saenai Kanojo (Heroine) no Sodatekata - Koisuru Metronome",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 48277,
+      "title": "Kujibiki Unbalance",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 11322,
+      "title": "Onaidoshi no Onee-san",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1323,
+      "title": "Amagami - Love Goes On!",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de",
+        "fr"
+      ]
     },
     {
       "id": 541,
       "title": "Imori 201",
-      "score": 0.368,
-      "r18": false
-    },
-    {
-      "id": 28363,
-      "title": "Kaguya Wants to be Confessed to Official Doujin",
-      "score": 0.367,
-      "r18": false
-    },
-    {
-      "id": 35724,
-      "title": "Sekirara Hime to Minus Ouji",
-      "score": 0.367,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7731,
       "title": "Ikebukuro Hatsu, Zensekai Yuki!",
-      "score": 0.367,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     },
     {
-      "id": 1070,
-      "title": "Ladies versus Butlers!",
-      "score": 0.367,
-      "r18": false
+      "id": 656,
+      "title": "Nogizaka Haruka no Himitsu",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 1701,
-      "title": "Katekin",
-      "score": 0.365,
-      "r18": false
+      "id": 36072,
+      "title": "The Unattainable Flower's Twisted Bloom",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
-      "id": 19458,
-      "title": "Aruite Ippo!!",
-      "score": 0.365,
-      "r18": false
+      "id": 44286,
+      "title": "Usa-bility",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 1325,
+      "title": "Amagami - Precious Diary",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 626,
       "title": "Ane Comi",
-      "score": 0.365,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 31459,
-      "title": "Arakure Ojousama wa Monmon Shiteiru",
-      "score": 0.364,
-      "r18": false
+      "id": 3905,
+      "title": "B-Shock",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
-      "id": 26483,
-      "title": "Bandai Kaname wa Asobitai",
-      "score": 0.363,
-      "r18": false
+      "id": 786,
+      "title": "Hoken no Sensei",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3440,
+      "title": "MM!",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

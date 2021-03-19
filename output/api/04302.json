@@ -2,43 +2,69 @@
   "id": 4302,
   "title": "Indigo Blue",
   "url": "https://mangadex.org/manga/4302",
-  "last_updated": "March 14, 2021 08:29:46 UTC",
+  "last_updated": "March 18, 2021 06:21:01 UTC",
   "matches": [
     {
       "id": 1286,
       "title": "Love My Life",
       "score": 0.31,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 13998,
       "title": "An Absurd Relationship",
       "score": 0.31,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr"
+      ]
     },
     {
       "id": 45463,
       "title": "A Timid Woman Longing for Her Delivery Girl",
       "score": 0.248,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "ru",
+        "br"
+      ]
     },
     {
       "id": 53783,
       "title": "Want to Sell Me Your Body?",
       "score": 0.248,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 16290,
       "title": "Watashi no Muchi na Watashi no Michi",
-      "score": 0.207,
-      "r18": false
+      "score": 0.206,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 54045,
       "title": "Marriage as Friends",
       "score": 0.177,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

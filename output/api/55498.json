@@ -1,62 +1,92 @@
 {
   "id": 55498,
   "title": "Arknights - Texas' Dream (Doujinshi)",
-  "url": "https://api.mangadex.org/v2/manga/55498",
-  "last_updated": "March 12, 2021 20:38:36 UTC",
+  "url": "https://mangadex.org/manga/55498",
+  "last_updated": "March 18, 2021 14:03:51 UTC",
   "matches": [
     {
       "id": 57556,
       "title": "Arknights - Five Star Shame (Doujinshi)",
       "score": 0.801,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 52552,
       "title": "Arknights - Goodnight, My Commander (Doujinshi)",
-      "score": 0.709,
-      "r18": false
+      "score": 0.683,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 51872,
       "title": "Arknights - Lungmen Tail Swing (Doujinshi)",
-      "score": 0.69,
-      "r18": false
+      "score": 0.673,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 40603,
       "title": "Steins;Gate - King's Game (Doujinshi)",
-      "score": 0.282,
-      "r18": false
-    },
-    {
-      "id": 56856,
-      "title": "Order Maid",
-      "score": 0.227,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 59135,
       "title": "Iron Lungs",
-      "score": 0.22,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 40553,
-      "title": "Monster of Earth",
-      "score": 0.214,
-      "r18": false
+      "id": 56856,
+      "title": "Order Maid",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 44991,
       "title": "Sword Art Online &ndash; Cybersecurity Handbook",
-      "score": 0.197,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 40553,
+      "title": "Monster of Earth",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "br",
+        "vn",
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 48876,
       "title": "Lads' Party",
-      "score": 0.158,
-      "r18": false
+      "score": 0.127,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

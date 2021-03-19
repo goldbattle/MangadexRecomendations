@@ -2,49 +2,63 @@
   "id": 30202,
   "title": "Our Future",
   "url": "https://mangadex.org/manga/30202",
-  "last_updated": "January 13, 2021 12:47:17 UTC",
+  "last_updated": "March 18, 2021 10:32:36 UTC",
   "matches": [
     {
       "id": 39385,
       "title": "Watashi  wo Hitorijime ni Shite",
-      "score": 0.716,
-      "r18": false
-    },
-    {
-      "id": 46170,
-      "title": "Pure Shadow",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 56488,
-      "title": "Natsu no Mayu",
-      "score": 0.28,
-      "r18": false
+      "score": 0.336,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 52504,
       "title": "Just the Way You Are",
-      "score": 0.272,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 59301,
-      "title": "Natsu No Atokata",
-      "score": 0.233,
-      "r18": false
+      "id": 46170,
+      "title": "Pure Shadow",
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "it"
+      ]
+    },
+    {
+      "id": 56488,
+      "title": "Natsu no Mayu",
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 27159,
       "title": "Happy End for You",
-      "score": 0.2,
-      "r18": false
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 52696,
       "title": "Mahiro-chan's Secret",
-      "score": 0.2,
-      "r18": false
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

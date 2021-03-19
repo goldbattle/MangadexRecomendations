@@ -2,73 +2,124 @@
   "id": 30810,
   "title": "The Basketball Girl",
   "url": "https://mangadex.org/manga/30810",
-  "last_updated": "January 13, 2021 12:54:14 UTC",
+  "last_updated": "March 18, 2021 10:37:41 UTC",
   "matches": [
     {
       "id": 51976,
       "title": "Otaku Plays Basketball",
-      "score": 0.702,
-      "r18": false
-    },
-    {
-      "id": 53049,
-      "title": "Find the Waves",
-      "score": 0.674,
-      "r18": false
-    },
-    {
-      "id": 52471,
-      "title": "Build Up",
-      "score": 0.667,
-      "r18": false
+      "score": 0.263,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 49296,
       "title": "Garbage Time - Basketball Underdogs",
-      "score": 0.289,
-      "r18": false
+      "score": 0.19,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 52471,
+      "title": "Build Up",
+      "score": 0.167,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru"
+      ]
     },
     {
       "id": 37383,
       "title": "Pumpkin Time",
-      "score": 0.28,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 23093,
-      "title": "CHANGE",
-      "score": 0.252,
-      "r18": false
-    },
-    {
-      "id": 48032,
-      "title": "My friend Mono",
-      "score": 0.232,
-      "r18": false
+      "id": 53049,
+      "title": "Find the Waves",
+      "score": 0.153,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 21647,
       "title": "Fight Class 3",
-      "score": 0.229,
-      "r18": false
+      "score": 0.129,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx",
+        "fr",
+        "br"
+      ]
+    },
+    {
+      "id": 23093,
+      "title": "CHANGE",
+      "score": 0.125,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "id"
+      ]
+    },
+    {
+      "id": 48032,
+      "title": "My friend Mono",
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 10618,
       "title": "Wind Breaker",
-      "score": 0.216,
-      "r18": false
+      "score": 0.119,
+      "r18": false,
+      "languages": [
+        "br",
+        "mx",
+        "tr",
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 54065,
       "title": "Take Me Out",
-      "score": 0.213,
-      "r18": false
+      "score": 0.104,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "tr"
+      ]
     },
     {
       "id": 56441,
       "title": "Fight Class 3 (Webtoon Version)",
-      "score": 0.207,
-      "r18": false
+      "score": 0.103,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     }
   ]
 }

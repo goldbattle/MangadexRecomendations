@@ -2,19 +2,25 @@
   "id": 38346,
   "title": "Henai",
   "url": "https://mangadex.org/manga/38346",
-  "last_updated": "March 18, 2021 01:02:06 UTC",
+  "last_updated": "March 18, 2021 11:40:32 UTC",
   "matches": [
     {
       "id": 24131,
       "title": "Fukuro no Nakami",
       "score": 0.115,
-      "r18": true
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 23374,
       "title": "Boukoku Maou no Hoshihiko-kun",
-      "score": 0.107,
-      "r18": true
+      "score": 0.106,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

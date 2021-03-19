@@ -2,25 +2,40 @@
   "id": 3136,
   "title": "Anywhere But Here",
   "url": "https://mangadex.org/manga/3136",
-  "last_updated": "March 14, 2021 08:15:45 UTC",
+  "last_updated": "March 18, 2021 06:10:00 UTC",
   "matches": [
     {
       "id": 2850,
       "title": "Black Cat Tunnel",
-      "score": 0.29,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "de",
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 22006,
       "title": "Waltz",
       "score": 0.207,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "fr",
+        "it",
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 28882,
       "title": "Someone's Laughing Outside the Room",
       "score": 0.193,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     }
   ]
 }

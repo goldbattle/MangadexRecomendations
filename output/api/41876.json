@@ -1,158 +1,261 @@
 {
   "id": 41876,
   "title": "Alma",
-  "url": "https://api.mangadex.org/v2/manga/41876",
-  "last_updated": "February 11, 2021 12:16:56 UTC",
+  "url": "https://mangadex.org/manga/41876",
+  "last_updated": "March 18, 2021 12:09:59 UTC",
   "matches": [
     {
-      "id": 12707,
-      "title": "Ryuuma no Gagou",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 890,
-      "title": "Dogs / Bullets &amp; Carnage",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 533,
-      "title": "Cloth Road",
-      "score": 0.389,
-      "r18": false
+      "id": 2715,
+      "title": "BioMega",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg",
+        "pl",
+        "br",
+        "ru"
+      ]
     },
     {
       "id": 3764,
       "title": "Agharta",
-      "score": 0.386,
-      "r18": false
-    },
-    {
-      "id": 891,
-      "title": "Dogs: Stray Dogs Howling in the Dark",
-      "score": 0.376,
-      "r18": false
-    },
-    {
-      "id": 2715,
-      "title": "BioMega",
-      "score": 0.365,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 54126,
       "title": "Killer Ape",
-      "score": 0.362,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 533,
+      "title": "Cloth Road",
+      "score": 0.253,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 891,
+      "title": "Dogs: Stray Dogs Howling in the Dark",
+      "score": 0.235,
+      "r18": false,
+      "languages": [
+        "bg",
+        "gb"
+      ]
     },
     {
       "id": 41102,
       "title": "Tsugumi Project",
-      "score": 0.344,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 40277,
       "title": "The Chronicle of Seven Cities",
-      "score": 0.326,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 6014,
-      "title": "Milk Closet",
-      "score": 0.301,
-      "r18": false
-    },
-    {
-      "id": 49864,
-      "title": "Yuusha de Aru - Going Home  (Doujinshi)",
-      "score": 0.298,
-      "r18": false
-    },
-    {
-      "id": 13140,
-      "title": "Q",
-      "score": 0.29,
-      "r18": false
-    },
-    {
-      "id": 16825,
-      "title": "Ginga Eiyuu Densetsu",
-      "score": 0.289,
-      "r18": false
-    },
-    {
-      "id": 35793,
-      "title": "Zeus no Te",
-      "score": 0.281,
-      "r18": false
-    },
-    {
-      "id": 48861,
-      "title": "A Land Without Humans",
-      "score": 0.281,
-      "r18": false
+      "id": 890,
+      "title": "Dogs / Bullets &amp; Carnage",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "bg"
+      ]
     },
     {
       "id": 36045,
       "title": "Hana to Kurogane",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 430,
-      "title": "Hotel",
-      "score": 0.262,
-      "r18": false
+      "id": 30832,
+      "title": "Hokuto no Ken: Ichigo Aji",
+      "score": 0.213,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
-      "id": 16215,
-      "title": "Smokin' Parade",
-      "score": 0.261,
-      "r18": false
+      "id": 48861,
+      "title": "A Land Without Humans",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 50085,
-      "title": "Legend of the Galactic Heroes",
-      "score": 0.26,
-      "r18": false
-    },
-    {
-      "id": 36698,
-      "title": "Nine Lives Man",
-      "score": 0.26,
-      "r18": false
-    },
-    {
-      "id": 2712,
-      "title": "Blame!",
-      "score": 0.256,
-      "r18": false
-    },
-    {
-      "id": 49314,
-      "title": "Shindorim",
-      "score": 0.255,
-      "r18": false
+      "id": 45285,
+      "title": "Appleseed Alpha",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": 21150,
       "title": "NeuN",
-      "score": 0.254,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "hk",
+        "it",
+        "br",
+        "gb"
+      ]
     },
     {
-      "id": 23332,
-      "title": "Kidou Senshi Gundam Twilight Axis",
-      "score": 0.252,
-      "r18": false
+      "id": 12707,
+      "title": "Ryuuma no Gagou",
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 52836,
-      "title": "DD Fist of the North Star",
-      "score": 0.25,
-      "r18": false
+      "id": 13140,
+      "title": "Q",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "it"
+      ]
+    },
+    {
+      "id": 6014,
+      "title": "Milk Closet",
+      "score": 0.185,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 35793,
+      "title": "Zeus no Te",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "hk",
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 50714,
+      "title": "Legend of the Galactic Heroes - Golden Wings",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
+    },
+    {
+      "id": 56889,
+      "title": "World's End Touring",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 49314,
+      "title": "Shindorim",
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 16825,
+      "title": "Ginga Eiyuu Densetsu",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "ru",
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 16215,
+      "title": "Smokin' Parade",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "pl",
+        "ru",
+        "it",
+        "id",
+        "es",
+        "gb"
+      ]
+    },
+    {
+      "id": 37051,
+      "title": "Satori",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 36698,
+      "title": "Nine Lives Man",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 22381,
+      "title": "Mushikago no Cagaster",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru"
+      ]
     }
   ]
 }

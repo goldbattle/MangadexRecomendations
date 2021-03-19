@@ -2,19 +2,25 @@
   "id": 48951,
   "title": "The Golden Dimension",
   "url": "https://mangadex.org/manga/48951",
-  "last_updated": "January 15, 2021 12:38:37 UTC",
+  "last_updated": "March 18, 2021 13:09:12 UTC",
   "matches": [
-    {
-      "id": 45777,
-      "title": "Becoming an Adventurer",
-      "score": 0.664,
-      "r18": false
-    },
     {
       "id": 47559,
       "title": "Part-Timer turned Heroine",
-      "score": 0.183,
-      "r18": false
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59608,
+      "title": "ELEMENTS: Users Of The Universe",
+      "score": 0.065,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -2,37 +2,56 @@
   "id": 9911,
   "title": "Mayo Mayo!",
   "url": "https://mangadex.org/manga/9911",
-  "last_updated": "March 15, 2021 00:22:35 UTC",
+  "last_updated": "March 18, 2021 07:10:07 UTC",
   "matches": [
     {
       "id": 5016,
       "title": "Betsukiss",
-      "score": 0.25,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 34501,
       "title": "HEN - Suzuki &amp; Satou",
       "score": 0.211,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 160,
       "title": "Saki",
-      "score": 0.193,
-      "r18": false
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "hk"
+      ]
     },
     {
       "id": 47240,
       "title": "Zenbu Kimi no Sei",
       "score": 0.161,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 21774,
       "title": "Cylcia=Code",
       "score": 0.115,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     }
   ]
 }

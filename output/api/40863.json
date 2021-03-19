@@ -1,68 +1,104 @@
 {
   "id": 40863,
   "title": "Ikite Kurete Arigatou",
-  "url": "https://api.mangadex.org/v2/manga/40863",
-  "last_updated": "February 11, 2021 08:30:08 UTC",
+  "url": "https://mangadex.org/manga/40863",
+  "last_updated": "March 18, 2021 12:01:32 UTC",
   "matches": [
     {
       "id": 42415,
       "title": "I Have a Happy Dream",
-      "score": 0.375,
-      "r18": false
-    },
-    {
-      "id": 40848,
-      "title": "Ai no don\u0101",
-      "score": 0.368,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "id",
+        "it",
+        "ph"
+      ]
     },
     {
       "id": 32494,
       "title": "Shii-chan",
-      "score": 0.34,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "id",
+        "ru"
+      ]
     },
     {
-      "id": 54930,
-      "title": "City of Morals",
-      "score": 0.34,
-      "r18": false
+      "id": 40848,
+      "title": "Ai no don\u0101",
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 53915,
       "title": "Manga About A Cheater in Fall Guys",
-      "score": 0.194,
-      "r18": false
-    },
-    {
-      "id": 44780,
-      "title": "The Story of an Ogre and...",
-      "score": 0.17,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "br"
+      ]
     },
     {
       "id": 25848,
       "title": "A Scary Story",
-      "score": 0.167,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn"
+      ]
     },
     {
       "id": 47758,
       "title": "Minami in the Night",
-      "score": 0.163,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 44780,
+      "title": "The Story of an Ogre and...",
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "ct",
+        "gb",
+        "pl",
+        "hu",
+        "fr",
+        "in",
+        "ir",
+        "br",
+        "th",
+        "id",
+        "it"
+      ]
     },
     {
       "id": 50166,
       "title": "The Ghost and...",
-      "score": 0.151,
-      "r18": false
-    },
-    {
-      "id": 48116,
-      "title": "LOW LIFE",
       "score": 0.124,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "hu",
+        "vn"
+      ]
     }
   ]
 }

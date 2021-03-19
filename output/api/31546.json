@@ -1,158 +1,267 @@
 {
   "id": 31546,
   "title": "7 Billion Needles",
-  "url": "https://api.mangadex.org/v2/manga/31546",
-  "last_updated": "February 10, 2021 08:21:46 UTC",
+  "url": "https://mangadex.org/manga/31546",
+  "last_updated": "March 18, 2021 10:43:49 UTC",
   "matches": [
     {
-      "id": 29740,
-      "title": "Parasyte Reversi",
-      "score": 0.734,
-      "r18": false
-    },
-    {
-      "id": 2712,
-      "title": "Blame!",
-      "score": 0.733,
-      "r18": false
-    },
-    {
-      "id": 24368,
-      "title": "Shin Megami Tensei - Kahn",
-      "score": 0.732,
-      "r18": false
-    },
-    {
-      "id": 7691,
-      "title": "Skull Man",
-      "score": 0.719,
-      "r18": false
-    },
-    {
-      "id": 15165,
-      "title": "Vampire Hunter D",
-      "score": 0.713,
-      "r18": false
-    },
-    {
-      "id": 580,
-      "title": "Kodoku Experiment",
-      "score": 0.707,
-      "r18": false
+      "id": 1169,
+      "title": "Fourteen",
+      "score": 0.366,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 29256,
       "title": "An Inquiry Concerning A Mechanistic Worldview of the Pituitary Gland",
-      "score": 0.705,
-      "r18": false
-    },
-    {
-      "id": 25314,
-      "title": "Skull Man (SHIMAMOTO Kazuhiko)",
-      "score": 0.703,
-      "r18": false
-    },
-    {
-      "id": 16215,
-      "title": "Smokin' Parade",
-      "score": 0.695,
-      "r18": false
-    },
-    {
-      "id": 4965,
-      "title": "Aokushimitama Blue Seed",
-      "score": 0.692,
-      "r18": false
-    },
-    {
-      "id": 35793,
-      "title": "Zeus no Te",
-      "score": 0.684,
-      "r18": false
-    },
-    {
-      "id": 9570,
-      "title": "Ajin",
-      "score": 0.684,
-      "r18": false
-    },
-    {
-      "id": 12707,
-      "title": "Ryuuma no Gagou",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 27206,
-      "title": "Generation Tank",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 6014,
-      "title": "Milk Closet",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 503,
-      "title": "Coppelion",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 27292,
-      "title": ".flow - Untitled (Doujinshi)",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 8789,
-      "title": "Afterschool War Activities",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 29716,
-      "title": "H.P. Lovecraft's At the Mountains of Madness",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 1169,
-      "title": "Fourteen",
-      "score": 0.464,
-      "r18": false
-    },
-    {
-      "id": 54155,
-      "title": "Mazarian",
-      "score": 0.277,
-      "r18": false
+      "score": 0.247,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 25240,
       "title": "Tract",
-      "score": 0.26,
-      "r18": false
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 3006,
-      "title": "Occult Academy",
-      "score": 0.237,
-      "r18": false
+      "id": 24368,
+      "title": "Shin Megami Tensei - Kahn",
+      "score": 0.192,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4965,
+      "title": "Aokushimitama Blue Seed",
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "hu",
+        "gb"
+      ]
+    },
+    {
+      "id": 29740,
+      "title": "Parasyte Reversi",
+      "score": 0.183,
+      "r18": false,
+      "languages": [
+        "hk",
+        "vn",
+        "gb",
+        "it",
+        "mx"
+      ]
+    },
+    {
+      "id": 27206,
+      "title": "Generation Tank",
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6014,
+      "title": "Milk Closet",
+      "score": 0.157,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 22638,
+      "title": "H.P. Lovecraft's The Haunter of the Dark",
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb",
+        "mx",
+        "sa"
+      ]
+    },
+    {
+      "id": 23919,
+      "title": "H.P. Lovecraft's The Colour Out of Space",
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 48613,
+      "title": "The Story of a Scientist and...",
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "hu",
+        "vn",
+        "th",
+        "in",
+        "it"
+      ]
+    },
+    {
+      "id": 15165,
+      "title": "Vampire Hunter D",
+      "score": 0.143,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
+    },
+    {
+      "id": 35793,
+      "title": "Zeus no Te",
+      "score": 0.138,
+      "r18": false,
+      "languages": [
+        "hk",
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 54155,
+      "title": "Mazarian",
+      "score": 0.137,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 580,
+      "title": "Kodoku Experiment",
+      "score": 0.137,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 16215,
+      "title": "Smokin' Parade",
+      "score": 0.135,
+      "r18": false,
+      "languages": [
+        "pl",
+        "ru",
+        "it",
+        "id",
+        "es",
+        "gb"
+      ]
+    },
+    {
+      "id": 29716,
+      "title": "H.P. Lovecraft's At the Mountains of Madness",
+      "score": 0.126,
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 31192,
+      "title": "H.P. Lovecraft's The Shadow Out Of Time",
+      "score": 0.125,
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb"
+      ]
     },
     {
       "id": 23583,
       "title": "Kuuchuu Teien no Hitobito",
-      "score": 0.206,
-      "r18": false
+      "score": 0.122,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 27182,
       "title": "Blue Gender",
-      "score": 0.181,
-      "r18": false
+      "score": 0.122,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 8789,
+      "title": "Afterschool War Activities",
+      "score": 0.112,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "tr"
+      ]
+    },
+    {
+      "id": 27292,
+      "title": ".flow - Untitled (Doujinshi)",
+      "score": 0.11,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3006,
+      "title": "Occult Academy",
+      "score": 0.11,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br",
+        "it"
+      ]
+    },
+    {
+      "id": 12707,
+      "title": "Ryuuma no Gagou",
+      "score": 0.107,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7691,
+      "title": "Skull Man",
+      "score": 0.105,
+      "r18": false,
+      "languages": [
+        "br",
+        "ru",
+        "gb"
+      ]
     }
   ]
 }

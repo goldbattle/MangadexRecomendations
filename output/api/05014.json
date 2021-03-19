@@ -2,157 +2,270 @@
   "id": 5014,
   "title": "Noragami",
   "url": "https://mangadex.org/manga/5014",
-  "last_updated": "March 14, 2021 12:29:45 UTC",
+  "last_updated": "March 18, 2021 06:27:40 UTC",
   "matches": [
     {
       "id": 8,
       "title": "Psyren",
       "score": 0.325,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "il",
+        "gb",
+        "ru",
+        "pl"
+      ]
     },
     {
       "id": 11041,
       "title": "Stealth Symphony",
-      "score": 0.287,
-      "r18": false
-    },
-    {
-      "id": 28486,
-      "title": "Avatar: The Last Airbender - The Lost Adventures",
       "score": 0.286,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "pl"
+      ]
     },
     {
       "id": 3288,
       "title": "RealPG",
       "score": 0.28,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "fr",
+        "it"
+      ]
     },
     {
       "id": 30443,
       "title": "Muhyo to Roji no Mahouritsu Soudan Jimusho: Mazoku Magushi-hen",
       "score": 0.28,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 14603,
       "title": "Kagamigami",
       "score": 0.28,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "ru",
+        "es"
+      ]
     },
     {
       "id": 820,
       "title": "Zettai Karen Children",
       "score": 0.28,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "pl"
+      ]
     },
     {
       "id": 1434,
       "title": "Sengoku Youko",
       "score": 0.28,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "es",
+        "fr",
+        "id"
+      ]
     },
     {
       "id": 5569,
       "title": "Arabian Majin Boukentan Lamp Lamp",
       "score": 0.28,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 1702,
       "title": "Durarara!!",
       "score": 0.28,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 4350,
       "title": "Shaman King Flowers",
       "score": 0.28,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "ru"
+      ]
     },
     {
       "id": 4016,
       "title": "AREA D",
       "score": 0.28,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "ru",
+        "mn",
+        "es"
+      ]
     },
     {
       "id": 959,
       "title": "Shaman",
       "score": 0.279,
-      "r18": false
-    },
-    {
-      "id": 358,
-      "title": "C&Oslash;DE:BREAKER",
-      "score": 0.275,
-      "r18": false
-    },
-    {
-      "id": 1416,
-      "title": "Watashi no Messiah-sama",
-      "score": 0.275,
-      "r18": false
-    },
-    {
-      "id": 13963,
-      "title": "Yu-Gi-Oh! GX",
-      "score": 0.273,
-      "r18": false
-    },
-    {
-      "id": 283,
-      "title": "Ao no Exorcist",
-      "score": 0.272,
-      "r18": false
-    },
-    {
-      "id": 2221,
-      "title": "Toraneko Folklore",
-      "score": 0.272,
-      "r18": false
-    },
-    {
-      "id": 1790,
-      "title": "Arata Kangatari",
-      "score": 0.27,
-      "r18": false
-    },
-    {
-      "id": 950,
-      "title": "GATE 7",
-      "score": 0.269,
-      "r18": false
-    },
-    {
-      "id": 1417,
-      "title": "Shingetsutan Tsukihime",
-      "score": 0.268,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br"
+      ]
     },
     {
       "id": 2086,
       "title": "Kingdom Hearts 358/2 Days",
-      "score": 0.267,
-      "r18": false
+      "score": 0.276,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 358,
+      "title": "C&Oslash;DE:BREAKER",
+      "score": 0.274,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "id"
+      ]
+    },
+    {
+      "id": 1416,
+      "title": "Watashi no Messiah-sama",
+      "score": 0.274,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 13963,
+      "title": "Yu-Gi-Oh! GX",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 2221,
+      "title": "Toraneko Folklore",
+      "score": 0.271,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1790,
+      "title": "Arata Kangatari",
+      "score": 0.269,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 950,
+      "title": "GATE 7",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 15176,
       "title": "Pochi Kuro",
       "score": 0.265,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "hu"
+      ]
     },
     {
       "id": 6521,
       "title": "Nishi no Yoki Majo",
       "score": 0.264,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2230,
       "title": "Alive: The Final Evolution",
-      "score": 0.263,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ro"
+      ]
+    },
+    {
+      "id": 494,
+      "title": "Suashi no Meteorite",
+      "score": 0.261,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 4780,
+      "title": "Umineko no Naku Koro ni Chiru Episode 8: Twilight of the Golden Witch",
+      "score": 0.261,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 28843,
+      "title": "JoJo's Bizarre Adventure Part 4 - Diamond is Unbreakable",
+      "score": 0.259,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br"
+      ]
     }
   ]
 }

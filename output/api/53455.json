@@ -2,43 +2,60 @@
   "id": 53455,
   "title": "Automaton",
   "url": "https://mangadex.org/manga/53455",
-  "last_updated": "January 16, 2021 01:06:21 UTC",
+  "last_updated": "March 18, 2021 13:46:46 UTC",
   "matches": [
     {
       "id": 1089,
       "title": "Zetman",
-      "score": 0.668,
-      "r18": false
-    },
-    {
-      "id": 4526,
-      "title": "Tentai Senshi Sanred",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 9123,
-      "title": "One Punch Man (Webcomic/Original)",
-      "score": 0.654,
-      "r18": false
+      "score": 0.163,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "br",
+        "de"
+      ]
     },
     {
       "id": 44109,
       "title": "The Fight of Gods (Fanmade One Punch Man Comic)",
-      "score": 0.24,
-      "r18": false
+      "score": 0.118,
+      "r18": false,
+      "languages": [
+        "tr",
+        "br",
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 23059,
       "title": "Hakaima Sadamitsu",
-      "score": 0.234,
-      "r18": false
+      "score": 0.104,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4526,
+      "title": "Tentai Senshi Sanred",
+      "score": 0.101,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2268,
       "title": "Mudazumo Naki Kaikaku",
-      "score": 0.176,
-      "r18": false
+      "score": 0.069,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it"
+      ]
     }
   ]
 }

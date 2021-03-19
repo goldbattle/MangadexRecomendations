@@ -1,158 +1,274 @@
 {
   "id": 55545,
   "title": "The Overworked and the Undead",
-  "url": "https://api.mangadex.org/v2/manga/55545",
-  "last_updated": "March 12, 2021 20:39:12 UTC",
+  "url": "https://mangadex.org/manga/55545",
+  "last_updated": "March 18, 2021 14:04:15 UTC",
   "matches": [
-    {
-      "id": 23220,
-      "title": "Matano Okoshiwo",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 34535,
-      "title": "Rise from Ashes",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 2013,
-      "title": "King of Hell",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 24281,
-      "title": "Sokushi Cheat ga Saikyou Sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga",
-      "score": 0.652,
-      "r18": false
-    },
     {
       "id": 24083,
       "title": "Cowa",
-      "score": 0.359,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 22649,
-      "title": "Meido no Koi wa Enma Shidai!",
-      "score": 0.358,
-      "r18": false
-    },
-    {
-      "id": 27870,
-      "title": "Yajin",
-      "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 20351,
-      "title": "Kabe ni Mary.com",
-      "score": 0.348,
-      "r18": false
-    },
-    {
-      "id": 16792,
-      "title": "Vanilla Spider",
-      "score": 0.343,
-      "r18": false
-    },
-    {
-      "id": 2630,
-      "title": "Gegege no Kitaro",
-      "score": 0.339,
-      "r18": false
-    },
-    {
-      "id": 27107,
-      "title": "Obake Monogatari",
-      "score": 0.337,
-      "r18": false
+      "id": 9925,
+      "title": "Muhyo to Rouji no Mahouritsu Soudan Jimusho",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7855,
       "title": "Yuuyami Tokkoutai",
-      "score": 0.335,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 1588,
-      "title": "Cerberus",
-      "score": 0.33,
-      "r18": false
-    },
-    {
-      "id": 48576,
-      "title": "Koisuru Bukimi-chan",
-      "score": 0.325,
-      "r18": false
-    },
-    {
-      "id": 24394,
-      "title": "Dark Edge",
-      "score": 0.323,
-      "r18": false
+      "id": 27870,
+      "title": "Yajin",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx"
+      ]
     },
     {
       "id": 14621,
       "title": "Ling Bao Zhi",
-      "score": 0.323,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 50636,
-      "title": "Kuchi ga Saketemo Kimi ni wa (2020 Short)",
-      "score": 0.316,
-      "r18": false
-    },
-    {
-      "id": 49304,
-      "title": "Apartment Ghost",
-      "score": 0.314,
-      "r18": false
-    },
-    {
-      "id": 38672,
-      "title": "Furyou Taimashi Reina",
-      "score": 0.313,
-      "r18": false
-    },
-    {
-      "id": 8953,
-      "title": "Kokodake no Himitsu",
-      "score": 0.306,
-      "r18": false
+      "id": 2630,
+      "title": "Gegege no Kitaro",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "br"
+      ]
     },
     {
       "id": 15411,
       "title": "Sekitsui House",
-      "score": 0.304,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 51607,
-      "title": "Kyouka-sama no sweet sweet boro house",
-      "score": 0.302,
-      "r18": false
+      "id": 49304,
+      "title": "Apartment Ghost",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
     },
     {
-      "id": 2195,
-      "title": "Zombie-Loan",
-      "score": 0.296,
-      "r18": false
+      "id": 20351,
+      "title": "Kabe ni Mary.com",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "es",
+        "ru"
+      ]
+    },
+    {
+      "id": 38672,
+      "title": "Furyou Taimashi Reina",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "cn",
+        "id"
+      ]
+    },
+    {
+      "id": 22649,
+      "title": "Meido no Koi wa Enma Shidai!",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn",
+        "it"
+      ]
+    },
+    {
+      "id": 27107,
+      "title": "Obake Monogatari",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 23220,
+      "title": "Matano Okoshiwo",
+      "score": 0.212,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 16792,
+      "title": "Vanilla Spider",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 1588,
+      "title": "Cerberus",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "de",
+        "id"
+      ]
+    },
+    {
+      "id": 50636,
+      "title": "Kuchi ga Saketemo Kimi ni wa (2020 Short)",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "br",
+        "mx",
+        "gb",
+        "vn",
+        "tr"
+      ]
     },
     {
       "id": 2199,
       "title": "Majin Tantei Nougami Neuro",
-      "score": 0.295,
-      "r18": false
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 45304,
-      "title": "Furious Yama",
-      "score": 0.287,
-      "r18": false
+      "id": 46136,
+      "title": "Shitabashiri",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 35683,
+      "title": "Phantom Seer",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "br",
+        "fr",
+        "gb",
+        "hk",
+        "mx",
+        "ru"
+      ]
+    },
+    {
+      "id": 55820,
+      "title": "Ghost Stories",
+      "score": 0.205,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "vn",
+        "es",
+        "rs",
+        "br",
+        "pl"
+      ]
+    },
+    {
+      "id": 57280,
+      "title": "Maou no Jinji",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id"
+      ]
+    },
+    {
+      "id": 23661,
+      "title": "Yonakano Reiji ni Harem wo!!",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 26662,
+      "title": "Ghost Beside Him",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id"
+      ]
+    },
+    {
+      "id": 24394,
+      "title": "Dark Edge",
+      "score": 0.195,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 56419,
+      "title": "There's a Ghost Behind the Gyaru",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "cn",
+        "gb"
+      ]
     }
   ]
 }

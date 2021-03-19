@@ -1,26 +1,37 @@
 {
   "id": 34777,
   "title": "Jingai Musume Manga",
-  "url": "https://api.mangadex.org/v2/manga/34777",
-  "last_updated": "February 10, 2021 16:33:44 UTC",
+  "url": "https://mangadex.org/manga/34777",
+  "last_updated": "March 18, 2021 11:10:45 UTC",
   "matches": [
     {
       "id": 50883,
       "title": "I Don't Have a &quot;Little Sister&quot;",
-      "score": 0.172,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "mx"
+      ]
     },
     {
       "id": 58930,
       "title": "A Story about a Fishing Village",
-      "score": 0.153,
-      "r18": false
+      "score": 0.128,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 55397,
       "title": "Kyuukou, Escape, Mermaid.",
-      "score": 0.126,
-      "r18": false
+      "score": 0.105,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

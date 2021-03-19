@@ -2,49 +2,62 @@
   "id": 48482,
   "title": "Devo Avvertire",
   "url": "https://mangadex.org/manga/48482",
-  "last_updated": "January 15, 2021 12:33:42 UTC",
+  "last_updated": "March 18, 2021 13:05:17 UTC",
   "matches": [
     {
       "id": 50827,
       "title": "Kizuato",
-      "score": 0.24,
-      "r18": false
+      "score": 0.213,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 23300,
       "title": "She falls in love with her",
-      "score": 0.22,
-      "r18": false
+      "score": 0.2,
+      "r18": true,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 46714,
       "title": "Mahou Shoujo Lyrical Nanoha - Mama to Musume no Otona Step (Doujinshi)",
-      "score": 0.22,
-      "r18": false
+      "score": 0.2,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 59013,
       "title": "BanG Dream! - Anata o Shibaru Atashi no Kusari (Doujinshi)",
-      "score": 0.22,
-      "r18": false
-    },
-    {
-      "id": 54591,
-      "title": "The Lily Blooms Addled",
-      "score": 0.152,
-      "r18": false
+      "score": 0.2,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 38306,
       "title": "Para Furi - Strange Those Who Cohabit",
-      "score": 0.127,
-      "r18": false
+      "score": 0.12,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 35427,
       "title": "A Day of Intimacy",
-      "score": 0.109,
-      "r18": false
+      "score": 0.102,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

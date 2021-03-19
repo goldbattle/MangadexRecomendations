@@ -2,43 +2,64 @@
   "id": 6364,
   "title": "Dogla+Magla",
   "url": "https://mangadex.org/manga/6364",
-  "last_updated": "March 14, 2021 16:27:56 UTC",
+  "last_updated": "March 18, 2021 06:39:58 UTC",
   "matches": [
     {
       "id": 24224,
       "title": "Rakuen no Izumi",
-      "score": 0.375,
-      "r18": false
-    },
-    {
-      "id": 15798,
-      "title": "Hanger - Shikkounin",
-      "score": 0.25,
-      "r18": false
+      "score": 0.374,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6819,
       "title": "Togainu no Chi ~ Zero",
-      "score": 0.243,
-      "r18": false
+      "score": 0.242,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1112,
       "title": "No. 6",
-      "score": 0.211,
-      "r18": false
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "hu"
+      ]
     },
     {
       "id": 1467,
       "title": "Blue Nathanael",
-      "score": 0.188,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     },
     {
       "id": 57586,
       "title": "Sleep Mode",
       "score": 0.136,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 48266,
+      "title": "Crack of Dawn",
+      "score": 0.118,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -1,56 +1,84 @@
 {
   "id": 43061,
   "title": "Ookami e no Yomeiri \uff5eIshu Kon'intan\uff5e",
-  "url": "https://api.mangadex.org/v2/manga/43061",
-  "last_updated": "February 11, 2021 12:34:40 UTC",
+  "url": "https://mangadex.org/manga/43061",
+  "last_updated": "March 18, 2021 12:19:52 UTC",
   "matches": [
     {
       "id": 34602,
       "title": "Tsuki ni Ookami",
-      "score": 0.786,
-      "r18": false
-    },
-    {
-      "id": 55840,
-      "title": "Ijimetai hodo Aishiteru",
-      "score": 0.723,
-      "r18": false
-    },
-    {
-      "id": 28763,
-      "title": "Suteneko no Ie",
-      "score": 0.657,
-      "r18": false
-    },
-    {
-      "id": 42878,
-      "title": "Ai no Konseki - Yajuu Gunsou to Aigan Guni",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 59687,
-      "title": "Shinsujeon",
-      "score": 0.413,
-      "r18": false
+      "score": 0.365,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 27099,
       "title": "Victory - Ai wa Katsu",
-      "score": 0.395,
-      "r18": false
+      "score": 0.3,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 51610,
-      "title": "Wadatsumi no Yometori",
-      "score": 0.328,
-      "r18": false
+      "id": 59687,
+      "title": "Shinsujeon",
+      "score": 0.273,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55840,
+      "title": "Ijimetai hodo Aishiteru",
+      "score": 0.251,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 28763,
+      "title": "Suteneko no Ie",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 14651,
       "title": "Ze - Kami no Hon",
-      "score": 0.288,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "pl",
+        "tr",
+        "gb"
+      ]
+    },
+    {
+      "id": 51610,
+      "title": "Wadatsumi no Yometori",
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 42878,
+      "title": "Ai no Konseki - Yajuu Gunsou to Aigan Guni",
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

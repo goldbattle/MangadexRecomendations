@@ -1,158 +1,187 @@
 {
   "id": 54288,
   "title": "Sound",
-  "url": "https://api.mangadex.org/v2/manga/54288",
-  "last_updated": "March 12, 2021 20:23:46 UTC",
+  "url": "https://mangadex.org/manga/54288",
+  "last_updated": "March 18, 2021 13:53:44 UTC",
   "matches": [
-    {
-      "id": 10506,
-      "title": "Laika, Pavlov, Pochihachikou",
-      "score": 0.478,
-      "r18": false
-    },
-    {
-      "id": 8599,
-      "title": "Sleeping Beauty no Mita Yume",
-      "score": 0.473,
-      "r18": false
-    },
-    {
-      "id": 19940,
-      "title": "Nijiiro Secret",
-      "score": 0.442,
-      "r18": false
-    },
-    {
-      "id": 46173,
-      "title": "Twinkle, Little Secret",
-      "score": 0.42,
-      "r18": false
-    },
-    {
-      "id": 52333,
-      "title": "So You're Not Alone, I Will",
-      "score": 0.397,
-      "r18": false
-    },
-    {
-      "id": 27127,
-      "title": "A Violet at Zero Degrees Kelvin",
-      "score": 0.392,
-      "r18": false
-    },
-    {
-      "id": 9415,
-      "title": "Afterschool Girl",
-      "score": 0.388,
-      "r18": false
-    },
-    {
-      "id": 18294,
-      "title": "Black Yagi to Gekiyaku Madeleine",
-      "score": 0.388,
-      "r18": false
-    },
-    {
-      "id": 48589,
-      "title": "Teasing After School",
-      "score": 0.388,
-      "r18": false
-    },
-    {
-      "id": 30202,
-      "title": "Our Future",
-      "score": 0.382,
-      "r18": false
-    },
-    {
-      "id": 18562,
-      "title": "Koubai no Procyon",
-      "score": 0.374,
-      "r18": false
-    },
-    {
-      "id": 9789,
-      "title": ".traeH",
-      "score": 0.369,
-      "r18": false
-    },
-    {
-      "id": 1743,
-      "title": "Winter Poem",
-      "score": 0.358,
-      "r18": false
-    },
-    {
-      "id": 18561,
-      "title": "Rocks and Murderous Intents",
-      "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 26929,
-      "title": "In the Rain Shelter with a White Cat",
-      "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 28581,
-      "title": "White Lily and Spring Aster",
-      "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 28883,
-      "title": "Number With You",
-      "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 32676,
-      "title": "Foreign Communication",
-      "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 32703,
-      "title": "Shutting a Loudmouthed Friend Up",
-      "score": 0.353,
-      "r18": false
-    },
     {
       "id": 37555,
       "title": "24, 25",
-      "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 41165,
-      "title": "I don't need any friends\uff01",
-      "score": 0.353,
-      "r18": false
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 46171,
       "title": "That Sensation",
-      "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 39385,
-      "title": "Watashi  wo Hitorijime ni Shite",
-      "score": 0.352,
-      "r18": false
-    },
-    {
-      "id": 15448,
-      "title": "Spring, a Minuet",
-      "score": 0.351,
-      "r18": false
+      "score": 0.306,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "it"
+      ]
     },
     {
       "id": 16497,
       "title": "Goodbye Kastor",
-      "score": 0.348,
-      "r18": false
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 9852,
+      "title": "Fortune Ring",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 4733,
+      "title": "Akaneiro Confiture",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "tr"
+      ]
+    },
+    {
+      "id": 15448,
+      "title": "Spring, a Minuet",
+      "score": 0.287,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn",
+        "it",
+        "tr"
+      ]
+    },
+    {
+      "id": 36152,
+      "title": "Cocoa Riron",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "tr",
+        "pl"
+      ]
+    },
+    {
+      "id": 4157,
+      "title": "Wishing on the Moon",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "tr"
+      ]
+    },
+    {
+      "id": 11403,
+      "title": "Lost Girl",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "br",
+        "pl",
+        "tr",
+        "fr",
+        "ru",
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 54284,
+      "title": "Momoiro Toiki.",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "tr"
+      ]
+    },
+    {
+      "id": 54286,
+      "title": "P=NP?",
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "tr"
+      ]
+    },
+    {
+      "id": 9783,
+      "title": "Vampire Girl",
+      "score": 0.213,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "tr"
+      ]
+    },
+    {
+      "id": 14108,
+      "title": "Akuma no Riddle - Sekai wa Koi ni Michite Iru (Doujinshi)",
+      "score": 0.191,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 4101,
+      "title": "When She Touches Me",
+      "score": 0.184,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
+    },
+    {
+      "id": 42030,
+      "title": "K-ON! - A Standard of Graduation Ceremonies (Doujinshi)",
+      "score": 0.184,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
+    },
+    {
+      "id": 48830,
+      "title": "Little Birds of Paradise",
+      "score": 0.153,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "hu"
+      ]
+    },
+    {
+      "id": 27159,
+      "title": "Happy End for You",
+      "score": 0.131,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "tr"
+      ]
     }
   ]
 }

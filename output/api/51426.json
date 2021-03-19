@@ -1,74 +1,146 @@
 {
   "id": 51426,
   "title": "Natsu e no Tunnel, Sayonara no Deguchi",
-  "url": "https://api.mangadex.org/v2/manga/51426",
-  "last_updated": "February 05, 2021 12:07:43 UTC",
+  "url": "https://mangadex.org/manga/51426",
+  "last_updated": "March 18, 2021 13:29:51 UTC",
   "matches": [
     {
       "id": 18525,
       "title": "Harmony",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1112,
+      "title": "No. 6",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "hu"
+      ]
+    },
+    {
+      "id": 11101,
+      "title": "Persona 4 - The Ultimate in Mayonaka Arena",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 18503,
       "title": "Gyakusatsu Kikan",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "es"
+      ]
     },
     {
       "id": 23845,
       "title": "The Big O",
-      "score": 0.194,
-      "r18": false
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 30057,
+      "title": "Persona 4 The Ultimax Suplex Hold",
+      "score": 0.16,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 6146,
       "title": "U wa Uchuusen no U",
-      "score": 0.151,
-      "r18": false
+      "score": 0.124,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 3006,
       "title": "Occult Academy",
-      "score": 0.136,
-      "r18": false
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br",
+        "it"
+      ]
     },
     {
       "id": 3447,
       "title": "Memories of Emanon",
-      "score": 0.136,
-      "r18": false
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "de",
+        "it",
+        "bg",
+        "id"
+      ]
     },
     {
       "id": 53339,
       "title": "Serial Experiments Lain - Fancomic (Doujinshi)",
-      "score": 0.136,
-      "r18": false
+      "score": 0.111,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 38984,
       "title": "Detective Conan - Zero The Enforcer",
-      "score": 0.124,
-      "r18": false
+      "score": 0.101,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 42735,
       "title": "Eirun Last Code",
-      "score": 0.124,
-      "r18": false
+      "score": 0.101,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7707,
       "title": "Kidou Senshi Gundam UC (Unicorn) - Bande Dessin&eacute;e",
-      "score": 0.105,
-      "r18": false
+      "score": 0.086,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 53977,
       "title": "Dragon Raja 2",
-      "score": 0.085,
-      "r18": false
+      "score": 0.069,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

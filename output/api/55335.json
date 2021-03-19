@@ -1,110 +1,125 @@
 {
   "id": 55335,
   "title": "Kotonoha",
-  "url": "https://api.mangadex.org/v2/manga/55335",
-  "last_updated": "March 12, 2021 20:36:32 UTC",
+  "url": "https://mangadex.org/manga/55335",
+  "last_updated": "March 18, 2021 14:02:30 UTC",
   "matches": [
-    {
-      "id": 16290,
-      "title": "Watashi no Muchi na Watashi no Michi",
-      "score": 0.712,
-      "r18": false
-    },
-    {
-      "id": 30315,
-      "title": "Her Shim-Cheong",
-      "score": 0.69,
-      "r18": false
-    },
-    {
-      "id": 51007,
-      "title": "Ghosts of Greywoods",
-      "score": 0.686,
-      "r18": false
-    },
-    {
-      "id": 55081,
-      "title": "After the Curtain Call",
-      "score": 0.673,
-      "r18": false
-    },
-    {
-      "id": 20493,
-      "title": "Love Stories Log",
-      "score": 0.672,
-      "r18": false
-    },
     {
       "id": 54084,
       "title": "Facing the Sun (GL)",
-      "score": 0.45,
-      "r18": false
-    },
-    {
-      "id": 54044,
-      "title": "Console Her",
-      "score": 0.417,
-      "r18": false
-    },
-    {
-      "id": 57891,
-      "title": "I Decided to Offer Myself to Motivate Senpai",
-      "score": 0.368,
-      "r18": false
+      "score": 0.416,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
       "id": 57643,
       "title": "Beyond Our Dreams (GL)",
-      "score": 0.358,
-      "r18": false
+      "score": 0.312,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
-      "id": 29529,
-      "title": "Shakaijin Yuri Anthology",
-      "score": 0.353,
-      "r18": false
+      "id": 54044,
+      "title": "Console Her",
+      "score": 0.276,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
       "id": 54048,
       "title": "Dice Love",
-      "score": 0.275,
-      "r18": false
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
-      "id": 55433,
-      "title": "The Girl That Wants To Become Cuter, and the Clothing Shop Woman",
-      "score": 0.268,
-      "r18": false
+      "id": 57891,
+      "title": "I Decided to Offer Myself to Motivate Senpai",
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "mx",
+        "ru"
+      ]
     },
     {
-      "id": 53114,
-      "title": "Align (GL)",
-      "score": 0.23,
-      "r18": false
+      "id": 20493,
+      "title": "Love Stories Log",
+      "score": 0.228,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 53451,
-      "title": "Good Night",
-      "score": 0.22,
-      "r18": false
+      "id": 16290,
+      "title": "Watashi no Muchi na Watashi no Michi",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 54043,
       "title": "Blithe",
-      "score": 0.22,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
-      "id": 45711,
-      "title": "Predawn Girls",
-      "score": 0.183,
-      "r18": false
+      "id": 55081,
+      "title": "After the Curtain Call",
+      "score": 0.179,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 55435,
-      "title": "The Female Writer and Waitress",
-      "score": 0.183,
-      "r18": false
+      "id": 53114,
+      "title": "Align (GL)",
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
+    },
+    {
+      "id": 51007,
+      "title": "Ghosts of Greywoods",
+      "score": 0.156,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
+    },
+    {
+      "id": 30315,
+      "title": "Her Shim-Cheong",
+      "score": 0.138,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
     }
   ]
 }

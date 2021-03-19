@@ -2,19 +2,30 @@
   "id": 48689,
   "title": "Send My Regards to Kenshiro",
   "url": "https://mangadex.org/manga/48689",
-  "last_updated": "January 15, 2021 12:35:55 UTC",
+  "last_updated": "March 18, 2021 13:07:01 UTC",
   "matches": [
     {
       "id": 35845,
       "title": "Anaesthesiologist Hana",
-      "score": 0.657,
-      "r18": false
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 21395,
       "title": "The Fable",
-      "score": 0.292,
-      "r18": false
+      "score": 0.169,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "tr",
+        "br",
+        "sa"
+      ]
     }
   ]
 }

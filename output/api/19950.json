@@ -2,19 +2,26 @@
   "id": 19950,
   "title": "Nega",
   "url": "https://mangadex.org/manga/19950",
-  "last_updated": "March 16, 2021 00:25:08 UTC",
+  "last_updated": "March 18, 2021 08:52:51 UTC",
   "matches": [
     {
       "id": 25003,
       "title": "Tokusen Sukimono BL (Anthology)",
       "score": 0.266,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 10465,
       "title": "Dame BL (Anthology)",
-      "score": 0.18,
-      "r18": false
+      "score": 0.179,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     }
   ]
 }

@@ -1,146 +1,162 @@
 {
   "id": 34404,
   "title": "Fukushuu o Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou Suru",
-  "url": "https://api.mangadex.org/v2/manga/34404",
-  "last_updated": "February 10, 2021 16:28:08 UTC",
+  "url": "https://mangadex.org/manga/34404",
+  "last_updated": "March 18, 2021 11:07:38 UTC",
   "matches": [
     {
-      "id": 585,
-      "title": "Elfen Lied",
-      "score": 0.745,
-      "r18": false
+      "id": 9134,
+      "title": "Stravaganza ~ Isai no Hime ~",
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 19620,
-      "title": "Devilman vs. Hades",
-      "score": 0.745,
-      "r18": false
+      "id": 29837,
+      "title": "Nihonkoku Shoukan",
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id",
+        "ru",
+        "fr"
+      ]
+    },
+    {
+      "id": 5353,
+      "title": "GATE - Jieitai Kanochi nite, Kaku Tatakaeri",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "id",
+        "br",
+        "mx",
+        "ru",
+        "fr",
+        "tr",
+        "pl"
+      ]
+    },
+    {
+      "id": 12171,
+      "title": "Re:Monster",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "id",
+        "fr",
+        "de"
+      ]
     },
     {
       "id": 14048,
       "title": "Overlord",
-      "score": 0.718,
-      "r18": false
+      "score": 0.185,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "sa",
+        "mx",
+        "id"
+      ]
     },
     {
-      "id": 19948,
-      "title": "Kinnikuman II Sei",
-      "score": 0.716,
-      "r18": false
+      "id": 7926,
+      "title": "Shin Violence Jack",
+      "score": 0.173,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 26406,
-      "title": "Gantz - Digital Colored Comics",
-      "score": 0.711,
-      "r18": false
+      "id": 24157,
+      "title": "Hagane",
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 18964,
-      "title": "Kenja no Mago",
-      "score": 0.706,
-      "r18": false
+      "id": 272,
+      "title": "Gantz",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb",
+        "pl",
+        "br",
+        "ru",
+        "es",
+        "hu",
+        "ro",
+        "hk",
+        "sa"
+      ]
     },
     {
-      "id": 31928,
-      "title": "Getter Robo High",
-      "score": 0.705,
-      "r18": false
+      "id": 26461,
+      "title": "Ijousha no Ai",
+      "score": 0.148,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru"
+      ]
     },
     {
-      "id": 41922,
-      "title": "Every Minute Ends",
-      "score": 0.703,
-      "r18": false
+      "id": 16588,
+      "title": "Gleipnir",
+      "score": 0.143,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "tr",
+        "hu",
+        "sa",
+        "ir",
+        "pl",
+        "it"
+      ]
     },
     {
-      "id": 9024,
-      "title": "Imawabi no Dakini",
-      "score": 0.7,
-      "r18": false
+      "id": 27044,
+      "title": "Ore no Genjitsu wa Ren&rsquo;ai Game?? ka to Omottara Inochigake no Game datta",
+      "score": 0.135,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "hk",
+        "ru",
+        "br",
+        "sa",
+        "id"
+      ]
     },
     {
-      "id": 30728,
-      "title": "Kuro no Maou",
-      "score": 0.696,
-      "r18": false
-    },
-    {
-      "id": 1400,
-      "title": "Eater",
-      "score": 0.694,
-      "r18": false
-    },
-    {
-      "id": 9406,
-      "title": "Wallman",
-      "score": 0.693,
-      "r18": false
-    },
-    {
-      "id": 17430,
-      "title": "Golosseum",
-      "score": 0.692,
-      "r18": false
-    },
-    {
-      "id": 24899,
-      "title": "Cutie Honey '90",
-      "score": 0.69,
-      "r18": false
-    },
-    {
-      "id": 7660,
-      "title": "Keyman - The Hand of Judgement",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 45930,
-      "title": "Bastard!! Complete Edition",
-      "score": 0.679,
-      "r18": false
-    },
-    {
-      "id": 40113,
-      "title": "Touge Oni",
-      "score": 0.678,
-      "r18": false
-    },
-    {
-      "id": 20573,
-      "title": "Machigatta Ko wo Mahou Shoujo ni shite shimatta",
-      "score": 0.673,
-      "r18": false
-    },
-    {
-      "id": 1657,
-      "title": "Yondemasu yo, Azazel-san.",
-      "score": 0.673,
-      "r18": false
-    },
-    {
-      "id": 759,
-      "title": "Drifters",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 38821,
-      "title": "Chronicle of the Searing Winds of Tianzhu",
-      "score": 0.335,
-      "r18": false
-    },
-    {
-      "id": 33778,
-      "title": "Zombie 100 ~Zombie ni Naru Made ni Shitai 100 no Koto~",
-      "score": 0.299,
-      "r18": false
-    },
-    {
-      "id": 7531,
-      "title": "Black Joke",
-      "score": 0.269,
-      "r18": false
+      "id": 3408,
+      "title": "Front Mission - Dog Life &amp; Dog Style",
+      "score": 0.13,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -1,158 +1,252 @@
 {
   "id": 52480,
   "title": "space battleship SILVER SEVEN",
-  "url": "https://api.mangadex.org/v2/manga/52480",
-  "last_updated": "February 05, 2021 12:25:12 UTC",
+  "url": "https://mangadex.org/manga/52480",
+  "last_updated": "March 18, 2021 13:38:39 UTC",
   "matches": [
     {
       "id": 48827,
       "title": "Trigger Keeper",
-      "score": 0.407,
-      "r18": false
-    },
-    {
-      "id": 24386,
-      "title": "Sachie-chan Guu!!",
-      "score": 0.403,
-      "r18": false
-    },
-    {
-      "id": 21904,
-      "title": "Hoshikuzu no Sorakil",
-      "score": 0.366,
-      "r18": false
+      "score": 0.35,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20950,
       "title": "Gekkou no Arcadia",
-      "score": 0.361,
-      "r18": false
-    },
-    {
-      "id": 4801,
-      "title": "Super Robot Retsuden",
-      "score": 0.35,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "mx",
+        "ru",
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 1095,
       "title": "Murahagane",
-      "score": 0.348,
-      "r18": false
-    },
-    {
-      "id": 1508,
-      "title": "Dr. Dead",
-      "score": 0.341,
-      "r18": false
-    },
-    {
-      "id": 52065,
-      "title": "Super Aleste",
-      "score": 0.339,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 28379,
       "title": "Count Over",
-      "score": 0.325,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "id",
+        "br",
+        "hk"
+      ]
+    },
+    {
+      "id": 21904,
+      "title": "Hoshikuzu no Sorakil",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "fr",
+        "ru",
+        "de",
+        "it",
+        "tr",
+        "gb"
+      ]
+    },
+    {
+      "id": 4801,
+      "title": "Super Robot Retsuden",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 57451,
       "title": "Parasite B",
-      "score": 0.318,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 46467,
-      "title": "Apple",
-      "score": 0.306,
-      "r18": false
+      "id": 1508,
+      "title": "Dr. Dead",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 46925,
-      "title": "Yu-Gi-Oh! Rush Duel: Yarouze! Rush Duel!!",
-      "score": 0.301,
-      "r18": false
+      "id": 52065,
+      "title": "Super Aleste",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 24386,
+      "title": "Sachie-chan Guu!!",
+      "score": 0.265,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 39705,
       "title": "Science vs. Magic",
-      "score": 0.298,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
-      "id": 3862,
-      "title": "Super Robot Taisen OG - Divine Wars - Record of ATX",
-      "score": 0.294,
-      "r18": false
-    },
-    {
-      "id": 3861,
-      "title": "Super Robot Taisen OG - The Inspector - Record of ATX",
-      "score": 0.292,
-      "r18": false
-    },
-    {
-      "id": 25945,
-      "title": "Four Billion Nights",
-      "score": 0.278,
-      "r18": false
-    },
-    {
-      "id": 12782,
-      "title": "Yogashiten Galaxy",
-      "score": 0.278,
-      "r18": false
+      "id": 46925,
+      "title": "Yu-Gi-Oh! Rush Duel: Yarouze! Rush Duel!!",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 33568,
       "title": "Digimon Story: Cyber Sleuth Hacker's Memory",
-      "score": 0.276,
-      "r18": false
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "hk",
+        "br"
+      ]
     },
     {
-      "id": 57738,
-      "title": "Ben 10 - Omnihero (Fancomic)",
-      "score": 0.274,
-      "r18": false
-    },
-    {
-      "id": 53181,
-      "title": "Iseikai Tensei",
-      "score": 0.273,
-      "r18": false
+      "id": 30559,
+      "title": "Rockman 11",
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "sa"
+      ]
     },
     {
       "id": 45601,
       "title": "Alien X Peke",
-      "score": 0.272,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 50370,
       "title": "MY LITTLE MARS",
-      "score": 0.272,
-      "r18": false
-    },
-    {
-      "id": 22374,
-      "title": "Ratchet &amp; Clank",
-      "score": 0.271,
-      "r18": false
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "hk",
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 43781,
       "title": "Star Children (Oneshot)",
-      "score": 0.27,
-      "r18": false
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 57738,
+      "title": "Ben 10 - Omnihero (Fancomic)",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "br"
+      ]
+    },
+    {
+      "id": 25945,
+      "title": "Four Billion Nights",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19708,
+      "title": "Mecto Amore",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
       "id": 10913,
       "title": "31 Heroes",
-      "score": 0.266,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 38601,
+      "title": "BITMAX",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 3862,
+      "title": "Super Robot Taisen OG - Divine Wars - Record of ATX",
+      "score": 0.188,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 14807,
+      "title": "Digimon Story: Cyber Sleuth",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3861,
+      "title": "Super Robot Taisen OG - The Inspector - Record of ATX",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

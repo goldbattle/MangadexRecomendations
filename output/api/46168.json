@@ -1,158 +1,50 @@
 {
   "id": 46168,
   "title": "The Two of Us",
-  "url": "https://api.mangadex.org/v2/manga/46168",
-  "last_updated": "February 11, 2021 20:37:35 UTC",
+  "url": "https://mangadex.org/manga/46168",
+  "last_updated": "March 18, 2021 12:45:50 UTC",
   "matches": [
-    {
-      "id": 18294,
-      "title": "Black Yagi to Gekiyaku Madeleine",
-      "score": 0.654,
-      "r18": false
-    },
-    {
-      "id": 16497,
-      "title": "Goodbye Kastor",
-      "score": 0.44,
-      "r18": false
-    },
-    {
-      "id": 4733,
-      "title": "Akaneiro Confiture",
-      "score": 0.427,
-      "r18": false
-    },
-    {
-      "id": 9852,
-      "title": "Fortune Ring",
-      "score": 0.426,
-      "r18": false
-    },
-    {
-      "id": 27420,
-      "title": "Mikansei Girl",
-      "score": 0.421,
-      "r18": false
-    },
     {
       "id": 9870,
       "title": "The Box of Letters",
-      "score": 0.414,
-      "r18": false
-    },
-    {
-      "id": 28189,
-      "title": "Interface",
-      "score": 0.413,
-      "r18": false
-    },
-    {
-      "id": 11403,
-      "title": "Lost Girl",
-      "score": 0.396,
-      "r18": false
-    },
-    {
-      "id": 4157,
-      "title": "Wishing on the Moon",
-      "score": 0.389,
-      "r18": false
-    },
-    {
-      "id": 35229,
-      "title": "Kimi no Tame ni Sekai wa Aru",
-      "score": 0.371,
-      "r18": false
-    },
-    {
-      "id": 14108,
-      "title": "Akuma no Riddle - Sekai wa Koi ni Michite Iru (Doujinshi)",
-      "score": 0.358,
-      "r18": false
-    },
-    {
-      "id": 54286,
-      "title": "P=NP?",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 46294,
-      "title": "I Often Kiss My Friend",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 7631,
-      "title": "Tenjou no Shita",
-      "score": 0.338,
-      "r18": false
-    },
-    {
-      "id": 58547,
-      "title": "A Girl Who Wants To Get Close With the Girl She Likes",
-      "score": 0.324,
-      "r18": false
-    },
-    {
-      "id": 6162,
-      "title": "Moyashi Otoko to Tane Shoujo",
-      "score": 0.319,
-      "r18": false
-    },
-    {
-      "id": 10544,
-      "title": "After Life (Doujinshi)",
-      "score": 0.298,
-      "r18": false
-    },
-    {
-      "id": 35488,
-      "title": "Namida Fuumi Escargot",
-      "score": 0.282,
-      "r18": false
-    },
-    {
-      "id": 4101,
-      "title": "When She Touches Me",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 8758,
-      "title": "Yuri Game",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 13000,
-      "title": "My First Love",
-      "score": 0.28,
-      "r18": false
+      "score": 0.271,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 46170,
       "title": "Pure Shadow",
-      "score": 0.28,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "it"
+      ]
     },
     {
-      "id": 53174,
-      "title": "Until the Day That Promise is Fulfilled",
-      "score": 0.28,
-      "r18": false
+      "id": 10544,
+      "title": "After Life (Doujinshi)",
+      "score": 0.204,
+      "r18": false,
+      "languages": [
+        "it",
+        "pl",
+        "vn",
+        "gb"
+      ]
     },
     {
-      "id": 56488,
-      "title": "Natsu no Mayu",
-      "score": 0.28,
-      "r18": false
-    },
-    {
-      "id": 35356,
-      "title": "GAE GAE",
-      "score": 0.233,
-      "r18": false
+      "id": 6162,
+      "title": "Moyashi Otoko to Tane Shoujo",
+      "score": 0.202,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "it"
+      ]
     }
   ]
 }

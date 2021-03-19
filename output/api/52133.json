@@ -1,158 +1,264 @@
 {
   "id": 52133,
   "title": "Sennen Kitsune",
-  "url": "https://api.mangadex.org/v2/manga/52133",
-  "last_updated": "February 05, 2021 12:19:24 UTC",
+  "url": "https://mangadex.org/manga/52133",
+  "last_updated": "March 18, 2021 13:35:45 UTC",
   "matches": [
+    {
+      "id": 26268,
+      "title": "Dragon in the Kitchen",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
     {
       "id": 17889,
       "title": "Beast of East",
-      "score": 0.709,
-      "r18": false
+      "score": 0.247,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 3366,
-      "title": "Feng Shen Ji",
-      "score": 0.693,
-      "r18": false
+      "id": 59058,
+      "title": "A Little Story about a Fish Thief who Steals with Impunity",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 4880,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
-      "score": 0.674,
-      "r18": false
+      "id": 58930,
+      "title": "A Story about a Fishing Village",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 42686,
-      "title": "Yuusha Shoukan ni Makikomareta kedo, Isekai wa Heiwa deshita",
-      "score": 0.672,
-      "r18": false
+      "id": 29362,
+      "title": "Oyozure Gojou",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 28617,
-      "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run",
-      "score": 0.668,
-      "r18": false
+      "id": 24309,
+      "title": "Shin Angyo Onshi Gaiden",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21429,
+      "title": "Sozo no Eterunite",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 78,
+      "title": "Sanjin Sadou",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 20723,
+      "title": "Witch Hat Atelier",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "it",
+        "br"
+      ]
+    },
+    {
+      "id": 9845,
+      "title": "Little Witch Academia",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 41439,
+      "title": "Dekoboko Majo no Oyako Jijou",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "mx",
+        "ru"
+      ]
+    },
+    {
+      "id": 57113,
+      "title": "6-sai no Kenja wa Hikage no Michi wo Ayumitai",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id",
+        "br",
+        "ru",
+        "ua"
+      ]
+    },
+    {
+      "id": 43354,
+      "title": "The Dragon, the Hero, and the Courier",
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59179,
+      "title": "A Snowman&rsquo;s Gratitude",
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 22723,
       "title": "Sewayaki Kitsune no Senko-san",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 52836,
-      "title": "DD Fist of the North Star",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 8495,
-      "title": "Persona 3",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 55773,
-      "title": "Isekai ni Otosareta&hellip; Jouka wa Kihon!",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 18150,
-      "title": "Dies irae ~Amantes Amentes~",
-      "score": 0.664,
-      "r18": false
-    },
-    {
-      "id": 31194,
-      "title": "Hunter Age",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 1614,
-      "title": "Aa! Megami-sama!",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 40046,
-      "title": "Ojou to Nanahiki no Inu",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 6613,
-      "title": "Brave Story ~Shinsetsu~",
-      "score": 0.662,
-      "r18": false
-    },
-    {
-      "id": 38777,
-      "title": "Sono Ossan, Isekai de Nishuume Play wo Mankitsuchuu",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 1023,
-      "title": "Inari, Konkon, Koi Iroha.",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 27151,
-      "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.66,
-      "r18": false
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr",
+        "pl",
+        "cz"
+      ]
     },
     {
       "id": 39447,
       "title": "Is It Odd That I Became an Adventurer Even If I Graduated From the Witchcraft Institute?",
-      "score": 0.658,
-      "r18": false
+      "score": 0.204,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "id",
+        "fr",
+        "br"
+      ]
     },
     {
-      "id": 46861,
-      "title": "Saiyouki",
-      "score": 0.657,
-      "r18": false
+      "id": 12948,
+      "title": "Gingitsune",
+      "score": 0.201,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
     },
     {
-      "id": 17709,
-      "title": "Kumo Desu ga, Nani ka?",
-      "score": 0.656,
-      "r18": false
+      "id": 54282,
+      "title": "Hortensia Saga",
+      "score": 0.195,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 1168,
+      "title": "Spice and Wolf",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "br",
+        "es",
+        "gb"
+      ]
+    },
+    {
+      "id": 40978,
+      "title": "Even Though I'm a Former Noble and a Single Mother, My Daughters Are Too Cute and Working as an Adventurer Isn&rsquo;t Too Much of a Hassle",
+      "score": 0.194,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 17393,
+      "title": "The Case Records of Professor Munakata",
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 11095,
+      "title": "The Legendary Musings of Professor Munakata",
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 9578,
+      "title": "Kakuriyo Monogatari",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 40046,
+      "title": "Ojou to Nanahiki no Inu",
+      "score": 0.186,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 7326,
       "title": "Jinrui wa Suitai Shimashita - Yousei, Shimasu ka?",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 7436,
-      "title": "Hoozuki no Reitetsu",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 28193,
-      "title": "Houshin Engi Gaiden",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 29316,
-      "title": "Stray Dog (VanRah)",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 14676,
-      "title": "The Legendary Moonlight Sculptor",
-      "score": 0.655,
-      "r18": false
+      "score": 0.184,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

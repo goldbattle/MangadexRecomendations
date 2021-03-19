@@ -1,14 +1,18 @@
 {
   "id": 55330,
   "title": "Ore to Anta no Aishou wa",
-  "url": "https://api.mangadex.org/v2/manga/55330",
-  "last_updated": "March 12, 2021 20:36:27 UTC",
+  "url": "https://mangadex.org/manga/55330",
+  "last_updated": "March 18, 2021 14:02:27 UTC",
   "matches": [
     {
       "id": 56002,
       "title": "Hiyo-chan Koi wo Suru?",
-      "score": 0.378,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     }
   ]
 }

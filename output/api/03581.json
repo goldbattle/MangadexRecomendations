@@ -2,25 +2,41 @@
   "id": 3581,
   "title": "Junketsu no Maria",
   "url": "https://mangadex.org/manga/3581",
-  "last_updated": "March 14, 2021 08:21:08 UTC",
+  "last_updated": "March 18, 2021 06:14:01 UTC",
   "matches": [
     {
       "id": 45104,
       "title": "Madan no Ou to Michelia",
-      "score": 0.216,
-      "r18": false
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "id"
+      ]
     },
     {
       "id": 44783,
       "title": "Cleopatra and the Iron Cross",
       "score": 0.208,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20563,
       "title": "Melancholia",
       "score": 0.061,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "vn",
+        "tr",
+        "hu",
+        "fr"
+      ]
     }
   ]
 }

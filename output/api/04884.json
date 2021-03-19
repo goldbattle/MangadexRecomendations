@@ -2,49 +2,79 @@
   "id": 4884,
   "title": "Momoiro Meloik",
   "url": "https://mangadex.org/manga/4884",
-  "last_updated": "March 14, 2021 12:27:44 UTC",
+  "last_updated": "March 18, 2021 06:26:28 UTC",
   "matches": [
     {
       "id": 693,
       "title": "Oniichan Control",
-      "score": 0.357,
-      "r18": false
+      "score": 0.347,
+      "r18": false,
+      "languages": [
+        "gb",
+        "de"
+      ]
     },
     {
       "id": 21240,
       "title": "Futaba-san Chi no Kyoudai",
       "score": 0.293,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "br"
+      ]
     },
     {
       "id": 44512,
       "title": "Kondo Attara &times;&times; Shiyou ka",
       "score": 0.281,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 274,
       "title": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai",
-      "score": 0.271,
-      "r18": false
+      "score": 0.27,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 673,
       "title": "Onii-chan no Koto Nanka Zenzen Suki ja Nain da Kara ne!!",
       "score": 0.267,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 257,
       "title": "Rika",
-      "score": 0.243,
-      "r18": false
+      "score": 0.242,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx"
+      ]
     },
     {
       "id": 30511,
       "title": "Love Comedy Hero &amp; the Princess of Darkness",
       "score": 0.201,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx",
+        "ru"
+      ]
     }
   ]
 }

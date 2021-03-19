@@ -2,31 +2,35 @@
   "id": 25639,
   "title": "Onborobachi",
   "url": "https://mangadex.org/manga/25639",
-  "last_updated": "March 16, 2021 16:33:28 UTC",
+  "last_updated": "March 18, 2021 09:54:30 UTC",
   "matches": [
     {
       "id": 24442,
       "title": "Ijippari Yuugitai!",
-      "score": 0.3,
-      "r18": false
+      "score": 0.299,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 13670,
       "title": "Ai ga Love Shite You Nano sa",
-      "score": 0.25,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 45275,
       "title": "Pure",
-      "score": 0.25,
-      "r18": false
-    },
-    {
-      "id": 39228,
-      "title": "Back To School",
-      "score": 0.184,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     }
   ]
 }

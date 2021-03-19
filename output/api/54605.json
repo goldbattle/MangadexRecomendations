@@ -1,20 +1,30 @@
 {
   "id": 54605,
   "title": "Nyotaimori",
-  "url": "https://api.mangadex.org/v2/manga/54605",
-  "last_updated": "March 12, 2021 20:27:41 UTC",
+  "url": "https://mangadex.org/manga/54605",
+  "last_updated": "March 18, 2021 13:56:23 UTC",
   "matches": [
     {
       "id": 19312,
       "title": "Nan demo Shite Ageru",
-      "score": 0.287,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 50517,
       "title": "Hired by a Highschool Eromanga Artist",
-      "score": 0.23,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "fr",
+        "vn",
+        "id"
+      ]
     }
   ]
 }

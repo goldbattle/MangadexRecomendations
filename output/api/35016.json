@@ -1,14 +1,17 @@
 {
   "id": 35016,
   "title": "Dulce Report",
-  "url": "https://api.mangadex.org/v2/manga/35016",
-  "last_updated": "February 10, 2021 16:37:23 UTC",
+  "url": "https://mangadex.org/manga/35016",
+  "last_updated": "March 18, 2021 11:12:44 UTC",
   "matches": [
     {
       "id": 54505,
       "title": "Dulce Report III",
-      "score": 0.35,
-      "r18": true
+      "score": 0.3,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

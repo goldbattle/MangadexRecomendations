@@ -1,56 +1,104 @@
 {
   "id": 47219,
   "title": "Kouiu no Gaii",
-  "url": "https://api.mangadex.org/v2/manga/47219",
-  "last_updated": "February 12, 2021 01:07:38 UTC",
+  "url": "https://mangadex.org/manga/47219",
+  "last_updated": "March 18, 2021 12:54:38 UTC",
   "matches": [
     {
       "id": 20461,
       "title": "Kuroneko no Suiei-bu",
-      "score": 0.26,
-      "r18": false
-    },
-    {
-      "id": 38446,
-      "title": "36 Degrees",
-      "score": 0.26,
-      "r18": false
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 46786,
       "title": "DisSpa!!! Ukemi-Chan",
-      "score": 0.26,
-      "r18": false
+      "score": 0.22,
+      "r18": false,
+      "languages": [
+        "br"
+      ]
     },
     {
       "id": 21655,
       "title": "Moshi-Moshi!! Kamado-san!?",
-      "score": 0.208,
-      "r18": false
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 34901,
+      "title": "A Cliche Story with a Childhood Friend Onee-san.",
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 41699,
       "title": "Aoi Yoru",
-      "score": 0.208,
-      "r18": false
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
     },
     {
       "id": 59315,
       "title": "Shiro Hige to Boyne",
-      "score": 0.208,
-      "r18": false
+      "score": 0.176,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn",
+        "fr",
+        "it"
+      ]
     },
     {
       "id": 3472,
       "title": "The Warashiki Zawarashiki",
-      "score": 0.173,
-      "r18": false
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
+    },
+    {
+      "id": 12296,
+      "title": "Swimsuit World",
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr"
+      ]
     },
     {
       "id": 34572,
       "title": "Kyuuketsuki Maruguritto to Kuenai Gokinjo",
-      "score": 0.149,
-      "r18": false
+      "score": 0.125,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "fr",
+        "ru",
+        "th"
+      ]
     }
   ]
 }

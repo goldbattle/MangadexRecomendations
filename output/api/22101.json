@@ -2,25 +2,38 @@
   "id": 22101,
   "title": "Jiraishin: The Lost File",
   "url": "https://mangadex.org/manga/22101",
-  "last_updated": "March 16, 2021 08:25:26 UTC",
+  "last_updated": "March 18, 2021 09:10:51 UTC",
   "matches": [
     {
       "id": 19461,
       "title": "Jaguar",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "it",
+        "ru",
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 20323,
       "title": "Kantai Collection -KanColle- FIEND (Doujinshi)",
       "score": 0.233,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 13555,
       "title": "Tokyo Ghoul",
       "score": 0.16,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     }
   ]
 }

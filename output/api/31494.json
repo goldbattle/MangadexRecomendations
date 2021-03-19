@@ -1,128 +1,101 @@
 {
   "id": 31494,
   "title": "Kamikuji Mura",
-  "url": "https://api.mangadex.org/v2/manga/31494",
-  "last_updated": "February 10, 2021 08:21:00 UTC",
+  "url": "https://mangadex.org/manga/31494",
+  "last_updated": "March 18, 2021 10:43:23 UTC",
   "matches": [
-    {
-      "id": 8862,
-      "title": "Maou na Ore to Fushihime no Yubiwa",
-      "score": 0.311,
-      "r18": false
-    },
-    {
-      "id": 6933,
-      "title": "Seirei Tsukai no Blade Dance",
-      "score": 0.301,
-      "r18": false
-    },
-    {
-      "id": 6985,
-      "title": "Madan no Ou to Vanadis",
-      "score": 0.298,
-      "r18": false
-    },
-    {
-      "id": 18303,
-      "title": "Sennen Sensou Aigis - Eiyuu no Kizuna",
-      "score": 0.293,
-      "r18": false
-    },
-    {
-      "id": 21129,
-      "title": "Tanaka the Wizard",
-      "score": 0.288,
-      "r18": false
-    },
-    {
-      "id": 3113,
-      "title": "Maoyuu Maou Yuusha - Oka no Mukou e",
-      "score": 0.285,
-      "r18": false
-    },
-    {
-      "id": 1655,
-      "title": "Seikoku no Dragonar",
-      "score": 0.284,
-      "r18": false
-    },
-    {
-      "id": 43,
-      "title": "Freezing",
-      "score": 0.284,
-      "r18": false
-    },
-    {
-      "id": 9687,
-      "title": "Otogi Taisen Fantasma",
-      "score": 0.275,
-      "r18": false
-    },
     {
       "id": 9457,
       "title": "Ochitekita Ryuuou to Horobiyuku Majo no Kuni",
-      "score": 0.256,
-      "r18": false
+      "score": 0.161,
+      "r18": false,
+      "languages": [
+        "mx",
+        "br",
+        "gb"
+      ]
     },
     {
       "id": 44412,
       "title": "The Strongest Dull Prince&rsquo;s Secret Battle for the Throne",
-      "score": 0.255,
-      "r18": false
-    },
-    {
-      "id": 10504,
-      "title": "Magika no Kenshi to Shoukan Maou",
-      "score": 0.254,
-      "r18": false
-    },
-    {
-      "id": 53235,
-      "title": "My Lover Was Stolen, and I Was Kicked Out of the Hero&rsquo;s Party, but I Awakened to the EX Skill &ldquo;Fixed Damage&rdquo; and Became Invincible. Now, Let&rsquo;s Begin Some Revenge",
-      "score": 0.253,
-      "r18": false
-    },
-    {
-      "id": 23267,
-      "title": "Bijo to Kenja to Majin no Ken",
-      "score": 0.249,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "fr",
+        "hk",
+        "mx",
+        "th"
+      ]
     },
     {
       "id": 9803,
       "title": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka",
-      "score": 0.248,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "tr",
+        "mx",
+        "gb",
+        "ru",
+        "fr",
+        "es",
+        "nl"
+      ]
     },
     {
-      "id": 47193,
-      "title": "Maou Gakuen no Hangyakusha",
-      "score": 0.244,
-      "r18": false
+      "id": 20719,
+      "title": "Risou no Himo Seikatsu",
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "mx",
+        "es",
+        "ru",
+        "fr"
+      ]
     },
     {
-      "id": 21832,
-      "title": "Exterminator",
-      "score": 0.217,
-      "r18": false
+      "id": 58206,
+      "title": "Bocchi Tenseiki",
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
-      "id": 643,
-      "title": "Maoyuu Maou Yuusha - &quot;Kono Watashi no Mono Tonare, Yuusha yo&quot; &quot;Kotowaru!&quot;",
-      "score": 0.216,
-      "r18": false
-    },
-    {
-      "id": 51808,
-      "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
-      "score": 0.197,
-      "r18": false
+      "id": 23267,
+      "title": "Bijo to Kenja to Majin no Ken",
+      "score": 0.12,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx",
+        "br"
+      ]
     },
     {
       "id": 11521,
       "title": "Kekkon Yubiwa Monogatari",
-      "score": 0.172,
-      "r18": false
+      "score": 0.08,
+      "r18": false,
+      "languages": [
+        "fr",
+        "br",
+        "es",
+        "ru",
+        "id",
+        "mx",
+        "it",
+        "gb",
+        "sa"
+      ]
     }
   ]
 }

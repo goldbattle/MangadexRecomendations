@@ -1,158 +1,251 @@
 {
   "id": 42270,
   "title": "Jump All Stars Battle",
-  "url": "https://api.mangadex.org/v2/manga/42270",
-  "last_updated": "February 11, 2021 12:22:52 UTC",
+  "url": "https://mangadex.org/manga/42270",
+  "last_updated": "March 18, 2021 12:13:16 UTC",
   "matches": [
-    {
-      "id": 38437,
-      "title": "Dragon Ball - DBSP (Doujinshi)",
-      "score": 0.701,
-      "r18": false
-    },
-    {
-      "id": 24533,
-      "title": "Dragon Ball - Gohan x Trunks After (Doujinshi)",
-      "score": 0.697,
-      "r18": false
-    },
-    {
-      "id": 24507,
-      "title": "Dragon Ball - Bardock After (Doujinshi)",
-      "score": 0.694,
-      "r18": false
-    },
-    {
-      "id": 24506,
-      "title": "Dragon Ball After (Doujinshi)",
-      "score": 0.693,
-      "r18": false
-    },
-    {
-      "id": 24508,
-      "title": "Super Dragon Ball AF (Doujinshi)",
-      "score": 0.687,
-      "r18": false
-    },
     {
       "id": 38789,
       "title": "Dragon Ball New Age (Doujinshi)",
-      "score": 0.687,
-      "r18": false
-    },
-    {
-      "id": 33139,
-      "title": "Dragon Ball - Dragon Ball Rebirth (Doujinshi)",
-      "score": 0.682,
-      "r18": false
+      "score": 0.277,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 24357,
       "title": "Collabo Dragon (Doujinshi)",
-      "score": 0.678,
-      "r18": false
+      "score": 0.274,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 25655,
-      "title": "DB Power Level 69 (Doujinshi)",
-      "score": 0.677,
-      "r18": false
+      "id": 52143,
+      "title": "Dream DB",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 26668,
-      "title": "Dragon Ball Z - Mister Pocolo (Doujinshi)",
-      "score": 0.676,
-      "r18": false
-    },
-    {
-      "id": 25654,
-      "title": "Dragon Ball Zero (Doujinshi)",
-      "score": 0.675,
-      "r18": false
-    },
-    {
-      "id": 48155,
-      "title": "JoJo's Bizarre Adventure: Cost of information (Doujinshi)",
-      "score": 0.673,
-      "r18": false
-    },
-    {
-      "id": 24509,
-      "title": "Dragon Ball - DBVS (Doujinshi)",
-      "score": 0.671,
-      "r18": false
-    },
-    {
-      "id": 36296,
-      "title": "Dragonball Z Ascension",
-      "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 40396,
-      "title": "Dragon Ball - Football Friends (Doujinshi)",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 58293,
-      "title": "Jungle Emperor (Mighty Atom Club)",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 35160,
-      "title": "World Tattoo",
-      "score": 0.663,
-      "r18": false
-    },
-    {
-      "id": 47177,
-      "title": "Bleach - Alternative Final (Doujinshi)",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 47122,
-      "title": "JoJo's Bizarre Adventure: Moscow Calling (Doujinshi)",
-      "score": 0.661,
-      "r18": false
-    },
-    {
-      "id": 45198,
-      "title": "Boku no Hero Academia - True Hero (Doujinshi)",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 4991,
-      "title": "Dragon Ball AF (Doujinshi)",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 24502,
-      "title": "Dragon Ball AF (YOUNG JIJII) (Doujinshi)",
-      "score": 0.657,
-      "r18": false
-    },
-    {
-      "id": 34375,
-      "title": "Dragon Ball - Zeroverse (Doujinshi)",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 25209,
-      "title": "Metroid - Pirates (Doujinshi)",
-      "score": 0.653,
-      "r18": false
+      "id": 45863,
+      "title": "Dokidoki! Precure, Kamen Rider Decade! (Doujinshi)",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 16460,
       "title": "Dragon Ball Z - Elsewhere (Doujinshi)",
-      "score": 0.65,
-      "r18": false
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 26668,
+      "title": "Dragon Ball Z - Mister Pocolo (Doujinshi)",
+      "score": 0.229,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24508,
+      "title": "Super Dragon Ball AF (Doujinshi)",
+      "score": 0.228,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 26631,
+      "title": "Dragon Ball - Kame (Doujinshi)",
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 25655,
+      "title": "DB Power Level 69 (Doujinshi)",
+      "score": 0.219,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 25654,
+      "title": "Dragon Ball Zero (Doujinshi)",
+      "score": 0.218,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "pl"
+      ]
+    },
+    {
+      "id": 24506,
+      "title": "Dragon Ball After (Doujinshi)",
+      "score": 0.217,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 38437,
+      "title": "Dragon Ball - DBSP (Doujinshi)",
+      "score": 0.216,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24507,
+      "title": "Dragon Ball - Bardock After (Doujinshi)",
+      "score": 0.215,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 25209,
+      "title": "Metroid - Pirates (Doujinshi)",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37260,
+      "title": "Kamen Rider Black RX (Doujinshi)",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7552,
+      "title": "Mahou Shoujo x Kamen Rider - Sayaka &amp; Fourze: The Great War of Mitakihara MAGIMIX (Doujinshi)",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 47177,
+      "title": "Bleach - Alternative Final (Doujinshi)",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "id"
+      ]
+    },
+    {
+      "id": 15246,
+      "title": "DB X Saitama",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
+    },
+    {
+      "id": 39046,
+      "title": "Beyblade - Traveler (Doujinshi)",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 54660,
+      "title": "Dragon Ball Super Kai",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "my",
+        "gb"
+      ]
+    },
+    {
+      "id": 24533,
+      "title": "Dragon Ball - Gohan x Trunks After (Doujinshi)",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24509,
+      "title": "Dragon Ball - DBVS (Doujinshi)",
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "sa"
+      ]
+    },
+    {
+      "id": 21457,
+      "title": "Dragon Ball Sai",
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4991,
+      "title": "Dragon Ball AF (Doujinshi)",
+      "score": 0.202,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "it",
+        "es"
+      ]
+    },
+    {
+      "id": 24502,
+      "title": "Dragon Ball AF (YOUNG JIJII) (Doujinshi)",
+      "score": 0.201,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "it",
+        "pl",
+        "sa"
+      ]
     }
   ]
 }

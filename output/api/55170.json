@@ -1,14 +1,17 @@
 {
   "id": 55170,
   "title": "Sexless",
-  "url": "https://api.mangadex.org/v2/manga/55170",
-  "last_updated": "March 12, 2021 20:34:30 UTC",
+  "url": "https://mangadex.org/manga/55170",
+  "last_updated": "March 18, 2021 14:01:07 UTC",
   "matches": [
     {
       "id": 57606,
       "title": "Alien in My Wardrobe",
-      "score": 0.206,
-      "r18": false
+      "score": 0.185,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     }
   ]
 }

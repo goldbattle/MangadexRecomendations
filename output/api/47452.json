@@ -1,26 +1,35 @@
 {
   "id": 47452,
   "title": "Nudity",
-  "url": "https://api.mangadex.org/v2/manga/47452",
-  "last_updated": "February 12, 2021 01:11:35 UTC",
+  "url": "https://mangadex.org/manga/47452",
+  "last_updated": "March 18, 2021 12:56:34 UTC",
   "matches": [
     {
       "id": 52887,
       "title": "My Beloved Auntie",
-      "score": 0.292,
-      "r18": true
+      "score": 0.16,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 39312,
       "title": "A Wish Of My Sister",
-      "score": 0.232,
-      "r18": true
+      "score": 0.132,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 26721,
       "title": "Seifuku no Mama Aishinasai! - Love in school uniform",
-      "score": 0.09,
-      "r18": true
+      "score": 0.08,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -1,158 +1,246 @@
 {
   "id": 47743,
   "title": "Three Cat Cookies",
-  "url": "https://api.mangadex.org/v2/manga/47743",
-  "last_updated": "February 12, 2021 01:16:23 UTC",
+  "url": "https://mangadex.org/manga/47743",
+  "last_updated": "March 18, 2021 12:59:00 UTC",
   "matches": [
-    {
-      "id": 46427,
-      "title": "Meow! Please Help, Manager!",
-      "score": 0.681,
-      "r18": false
-    },
-    {
-      "id": 277,
-      "title": "TAL",
-      "score": 0.68,
-      "r18": false
-    },
-    {
-      "id": 40550,
-      "title": "Switched Girls",
-      "score": 0.669,
-      "r18": false
-    },
-    {
-      "id": 59861,
-      "title": "Memoirs of Kanglim",
-      "score": 0.665,
-      "r18": false
-    },
-    {
-      "id": 35618,
-      "title": "Sica Wolf",
-      "score": 0.659,
-      "r18": false
-    },
-    {
-      "id": 58419,
-      "title": "Secret Of The Netherworld",
-      "score": 0.658,
-      "r18": false
-    },
-    {
-      "id": 29224,
-      "title": "Jumping Over",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 16453,
-      "title": "Qishi Huanxiang Ye",
-      "score": 0.652,
-      "r18": false
-    },
-    {
-      "id": 38375,
-      "title": "Welcome",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 52154,
-      "title": "Zhanding",
-      "score": 0.41,
-      "r18": false
-    },
     {
       "id": 51695,
       "title": "Nymph",
-      "score": 0.402,
-      "r18": false
-    },
-    {
-      "id": 38934,
-      "title": "Mire's Corridor",
-      "score": 0.4,
-      "r18": false
-    },
-    {
-      "id": 53678,
-      "title": "Fairy World Mall System",
-      "score": 0.399,
-      "r18": false
-    },
-    {
-      "id": 38551,
-      "title": "Starfall",
-      "score": 0.389,
-      "r18": false
-    },
-    {
-      "id": 49194,
-      "title": "The Sacred Lord of Scorching Summer",
-      "score": 0.38,
-      "r18": false
-    },
-    {
-      "id": 41968,
-      "title": "The Ultimate Love Bazaar",
-      "score": 0.38,
-      "r18": false
-    },
-    {
-      "id": 49854,
-      "title": "Evil City Girls",
-      "score": 0.378,
-      "r18": false
-    },
-    {
-      "id": 36548,
-      "title": "Cape of Spirits",
-      "score": 0.377,
-      "r18": false
-    },
-    {
-      "id": 58604,
-      "title": "Heim's Study",
-      "score": 0.376,
-      "r18": false
-    },
-    {
-      "id": 52147,
-      "title": "Netherworld Exchange Group",
-      "score": 0.365,
-      "r18": false
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 31617,
       "title": "Come Over To My House And Play",
-      "score": 0.365,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 52792,
-      "title": "Dragon Squad Of The War God",
-      "score": 0.364,
-      "r18": false
+      "id": 53678,
+      "title": "Fairy World Mall System",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 52007,
       "title": "Dream Maker",
-      "score": 0.361,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 53642,
-      "title": "Chaos Golden Crow",
-      "score": 0.36,
-      "r18": false
+      "id": 49854,
+      "title": "Evil City Girls",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 38551,
+      "title": "Starfall",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 51450,
+      "title": "Two People",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 57462,
+      "title": "My little fox star",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 58604,
+      "title": "Heim's Study",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 38934,
+      "title": "Mire's Corridor",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 52147,
+      "title": "Netherworld Exchange Group",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 41532,
+      "title": "There is no Fantasy for Alice",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 37424,
+      "title": "There's Nothing Else to Eat but You",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 41968,
+      "title": "The Ultimate Love Bazaar",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53615,
+      "title": "Young Emperor&rsquo;s Story",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 52965,
+      "title": "Hundred Years Game",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "fr",
+        "id"
+      ]
     },
     {
       "id": 52165,
       "title": "God and Human",
-      "score": 0.356,
-      "r18": false
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 50882,
+      "title": "Possession",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 57581,
+      "title": "I Am A Humanoid Cultivation Pill",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
+    },
+    {
+      "id": 49194,
+      "title": "The Sacred Lord of Scorching Summer",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 50875,
+      "title": "Ave Maria",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn"
+      ]
+    },
+    {
+      "id": 58831,
+      "title": "Locker Opener",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 30437,
+      "title": "Nymph Project",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 54164,
+      "title": "History's Strongest Martial Brother",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id"
+      ]
+    },
+    {
+      "id": 53532,
+      "title": "Please Call Me Red Panda",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

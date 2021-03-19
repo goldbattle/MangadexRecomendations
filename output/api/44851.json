@@ -1,158 +1,245 @@
 {
   "id": 44851,
   "title": "This Delinquent-kun Is Ungrateful",
-  "url": "https://api.mangadex.org/v2/manga/44851",
-  "last_updated": "February 11, 2021 16:47:51 UTC",
+  "url": "https://mangadex.org/manga/44851",
+  "last_updated": "March 18, 2021 12:34:50 UTC",
   "matches": [
     {
-      "id": 12998,
-      "title": "Fushigi na Hito",
-      "score": 0.744,
-      "r18": false
+      "id": 22223,
+      "title": "Niji, Amaete yo.",
+      "score": 0.278,
+      "r18": false,
+      "languages": [
+        "br",
+        "mx",
+        "gb"
+      ]
+    },
+    {
+      "id": 34693,
+      "title": "Kanojo ni Naritai Kimi to Boku",
+      "score": 0.269,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "vn"
+      ]
+    },
+    {
+      "id": 19146,
+      "title": "Ichijou Kaname to wa Kakawaranai",
+      "score": 0.268,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7521,
+      "title": "Ai Ore! ~Danshikou no Hime to Joshikou no Ouji~",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 7822,
       "title": "Koi to Gunkan",
-      "score": 0.739,
-      "r18": false
-    },
-    {
-      "id": 308,
-      "title": "Mars",
-      "score": 0.739,
-      "r18": false
-    },
-    {
-      "id": 47722,
-      "title": "A Bellicose Lady Got Reincarnated?!",
-      "score": 0.737,
-      "r18": false
-    },
-    {
-      "id": 28359,
-      "title": "Boku ga Utau to Kimi wa Warau kara",
-      "score": 0.737,
-      "r18": false
-    },
-    {
-      "id": 12037,
-      "title": "Rockin' \u2605 Heaven",
-      "score": 0.735,
-      "r18": false
-    },
-    {
-      "id": 4824,
-      "title": "Rabu Kare - Gokujou Men Dokuhon!",
-      "score": 0.733,
-      "r18": false
-    },
-    {
-      "id": 3453,
-      "title": "Hizamazuite Ai wo Chikae",
-      "score": 0.733,
-      "r18": false
-    },
-    {
-      "id": 33009,
-      "title": "Ojou to Banken-kun",
-      "score": 0.733,
-      "r18": false
-    },
-    {
-      "id": 24576,
-      "title": "Kirameki no Lion Boy",
-      "score": 0.732,
-      "r18": false
-    },
-    {
-      "id": 11867,
-      "title": "Hotarubi no Mori e",
-      "score": 0.731,
-      "r18": false
+      "score": 0.261,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2683,
       "title": "Hatsumei Princess",
-      "score": 0.73,
-      "r18": false
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
     },
     {
-      "id": 6862,
-      "title": "Bokura wa Itsumo",
-      "score": 0.73,
-      "r18": false
-    },
-    {
-      "id": 2748,
-      "title": "Bodyguard",
-      "score": 0.728,
-      "r18": false
-    },
-    {
-      "id": 11788,
-      "title": "Kimi to Kiss Shite Sono Ato de",
-      "score": 0.727,
-      "r18": false
-    },
-    {
-      "id": 204,
-      "title": "Kore wa Koi no Hanashi",
-      "score": 0.725,
-      "r18": false
+      "id": 5707,
+      "title": "Tokyo no Casanova",
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2201,
       "title": "Onnanoko wa Koi o Suru to Mousou Shichaun Desu",
-      "score": 0.725,
-      "r18": false
+      "score": 0.253,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 7850,
+      "title": "Elite-sama Koi Shiyou",
+      "score": 0.251,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1308,
+      "title": "Koi no Uta",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3453,
+      "title": "Hizamazuite Ai wo Chikae",
+      "score": 0.248,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 4824,
+      "title": "Rabu Kare - Gokujou Men Dokuhon!",
+      "score": 0.246,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 16007,
       "title": "Present",
-      "score": 0.724,
-      "r18": false
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 28134,
+      "title": "Kareki ni Koi o Sakasemasu",
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "pl"
+      ]
+    },
+    {
+      "id": 3303,
+      "title": "Onegai, Sensei",
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 3704,
+      "title": "She Is Mine",
+      "score": 0.244,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 1000,
+      "title": "Sugar Family",
+      "score": 0.243,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 19299,
+      "title": "Koi to Yokubou no Susume",
+      "score": 0.243,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl"
+      ]
+    },
+    {
+      "id": 12998,
+      "title": "Fushigi na Hito",
+      "score": 0.242,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 12037,
+      "title": "Rockin' \u2605 Heaven",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb",
+        "pl",
+        "tr"
+      ]
     },
     {
       "id": 1919,
       "title": "Hoshi wa Utau",
-      "score": 0.724,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 5961,
-      "title": "Missing Piece",
-      "score": 0.721,
-      "r18": false
+      "id": 3020,
+      "title": "Asa Chun!",
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 18400,
-      "title": "Kenka Banchou Otome - Koi no Battle Royale",
-      "score": 0.721,
-      "r18": false
+      "id": 8333,
+      "title": "Sugars",
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 14320,
-      "title": "Seishun Otome Banchou!",
-      "score": 0.721,
-      "r18": false
+      "id": 1804,
+      "title": "Hatsukare",
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 51165,
-      "title": "Rebirth: The Turnabout of a Mistreated Concubine",
-      "score": 0.721,
-      "r18": false
-    },
-    {
-      "id": 1899,
-      "title": "His and Her Circumstances",
-      "score": 0.72,
-      "r18": false
-    },
-    {
-      "id": 2103,
-      "title": "Boku ni Natta Watashi",
-      "score": 0.72,
-      "r18": false
+      "id": 17566,
+      "title": "Ojou-sama Gomeirei o",
+      "score": 0.239,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

@@ -1,26 +1,43 @@
 {
   "id": 43065,
   "title": "Mission-chan no Daibouken",
-  "url": "https://api.mangadex.org/v2/manga/43065",
-  "last_updated": "February 11, 2021 12:34:43 UTC",
+  "url": "https://mangadex.org/manga/43065",
+  "last_updated": "March 18, 2021 12:19:54 UTC",
   "matches": [
     {
       "id": 18663,
       "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Daisanshou - Truth of Zero",
-      "score": 0.226,
-      "r18": false
+      "score": 0.129,
+      "r18": false,
+      "languages": [
+        "br",
+        "mx",
+        "gb",
+        "pl"
+      ]
     },
     {
       "id": 47017,
       "title": "The Live",
-      "score": 0.216,
-      "r18": false
+      "score": 0.124,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru",
+        "pl",
+        "sa",
+        "it"
+      ]
     },
     {
       "id": 21656,
       "title": "The Law of the Yama",
-      "score": 0.21,
-      "r18": false
+      "score": 0.11,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

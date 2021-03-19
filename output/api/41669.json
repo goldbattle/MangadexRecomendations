@@ -1,116 +1,177 @@
 {
   "id": 41669,
   "title": "Burai The Kid",
-  "url": "https://api.mangadex.org/v2/manga/41669",
-  "last_updated": "February 11, 2021 08:42:27 UTC",
+  "url": "https://mangadex.org/manga/41669",
+  "last_updated": "March 18, 2021 12:08:15 UTC",
   "matches": [
     {
-      "id": 29717,
-      "title": "Mighty Heart",
-      "score": 0.736,
-      "r18": false
-    },
-    {
-      "id": 425,
-      "title": "Infinite Stratos",
-      "score": 0.72,
-      "r18": false
-    },
-    {
-      "id": 6138,
-      "title": "Full Metal Panic!",
-      "score": 0.718,
-      "r18": false
-    },
-    {
-      "id": 1153,
-      "title": "Not Lives",
-      "score": 0.707,
-      "r18": false
-    },
-    {
-      "id": 8764,
-      "title": "Cutey Honey",
-      "score": 0.706,
-      "r18": false
-    },
-    {
-      "id": 43511,
-      "title": "Seiken Gakuin no Maken Tsukai",
-      "score": 0.703,
-      "r18": false
-    },
-    {
-      "id": 5845,
-      "title": "Mahou Shoujo Neko X",
-      "score": 0.7,
-      "r18": false
-    },
-    {
-      "id": 31032,
-      "title": "The World of Otome Games Is Tough for Mobs",
-      "score": 0.699,
-      "r18": false
-    },
-    {
-      "id": 5425,
-      "title": "Caravan Kidd",
-      "score": 0.697,
-      "r18": false
-    },
-    {
-      "id": 5784,
-      "title": "Strike The Blood",
-      "score": 0.695,
-      "r18": false
+      "id": 4414,
+      "title": "Tengen Toppa Gurren Lagann - The Gurren High School Version",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "es"
+      ]
     },
     {
       "id": 13625,
       "title": "KISS&times;DEATH",
-      "score": 0.687,
-      "r18": false
+      "score": 0.23,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 29392,
       "title": "Shinsou Mahou Shoujo Howling Moon",
-      "score": 0.686,
-      "r18": false
+      "score": 0.201,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
-      "id": 4414,
-      "title": "Tengen Toppa Gurren Lagann - The Gurren High School Version",
-      "score": 0.684,
-      "r18": false
+      "id": 5845,
+      "title": "Mahou Shoujo Neko X",
+      "score": 0.195,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 760,
-      "title": "EX - Shounen Hyouryuu",
-      "score": 0.677,
-      "r18": false
+      "id": 8764,
+      "title": "Cutey Honey",
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 29717,
+      "title": "Mighty Heart",
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 14348,
       "title": "Juuou Mujin no Fafnir",
-      "score": 0.676,
-      "r18": false
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 5784,
+      "title": "Strike The Blood",
+      "score": 0.177,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
+    },
+    {
+      "id": 5425,
+      "title": "Caravan Kidd",
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
+    },
+    {
+      "id": 6138,
+      "title": "Full Metal Panic!",
+      "score": 0.163,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 425,
+      "title": "Infinite Stratos",
+      "score": 0.163,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "it",
+        "id"
+      ]
+    },
+    {
+      "id": 1153,
+      "title": "Not Lives",
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 4762,
       "title": "Saber Marionette J",
-      "score": 0.67,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 760,
+      "title": "EX - Shounen Hyouryuu",
+      "score": 0.144,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1781,
       "title": "Zero In",
-      "score": 0.667,
-      "r18": false
+      "score": 0.14,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 43511,
+      "title": "Seiken Gakuin no Maken Tsukai",
+      "score": 0.133,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru"
+      ]
     },
     {
       "id": 12595,
       "title": "Iczer Densetsu",
-      "score": 0.22,
-      "r18": false
+      "score": 0.101,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

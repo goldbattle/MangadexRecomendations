@@ -2,31 +2,44 @@
   "id": 56393,
   "title": "Ouroboros",
   "url": "https://mangadex.org/manga/56393",
-  "last_updated": "March 13, 2021 00:25:32 UTC",
+  "last_updated": "March 18, 2021 14:11:21 UTC",
   "matches": [
     {
       "id": 10532,
       "title": "Crimson Game",
       "score": 0.178,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 33945,
       "title": "Project SHaDe",
-      "score": 0.156,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 49846,
       "title": "Vampyre",
-      "score": 0.119,
-      "r18": false
+      "score": 0.118,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 27321,
       "title": "Prototype:Zero",
-      "score": 0.075,
-      "r18": false
+      "score": 0.074,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

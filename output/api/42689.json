@@ -1,98 +1,165 @@
 {
   "id": 42689,
   "title": "Kobito no Tsumamigui",
-  "url": "https://api.mangadex.org/v2/manga/42689",
-  "last_updated": "February 11, 2021 12:29:06 UTC",
+  "url": "https://mangadex.org/manga/42689",
+  "last_updated": "March 18, 2021 12:16:46 UTC",
   "matches": [
+    {
+      "id": 41286,
+      "title": "Herbivore Girl Paopao-senpai",
+      "score": 0.27,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
     {
       "id": 22883,
       "title": "Youjo Senki Restaurant",
-      "score": 0.293,
-      "r18": false
-    },
-    {
-      "id": 57690,
-      "title": "Papa's Cooking",
-      "score": 0.28,
-      "r18": false
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 20416,
       "title": "Oishii Ayakashi",
-      "score": 0.268,
-      "r18": false
+      "score": 0.25,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 32817,
       "title": "Haru no Hitoe",
-      "score": 0.265,
-      "r18": false
+      "score": 0.241,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 33943,
-      "title": "Isekai Healthy Kitchen",
-      "score": 0.255,
-      "r18": false
+      "id": 57690,
+      "title": "Papa's Cooking",
+      "score": 0.24,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 30646,
       "title": "Isekai Ekisha no Kissaten",
-      "score": 0.25,
-      "r18": false
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 33943,
+      "title": "Isekai Healthy Kitchen",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 31764,
       "title": "In to You",
-      "score": 0.247,
-      "r18": false
-    },
-    {
-      "id": 1937,
-      "title": "Tsukimi no Soba",
-      "score": 0.228,
-      "r18": false
+      "score": 0.207,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 38975,
       "title": "Ryuu Majin Hime Valalice no Haiboku \uff5e Makai Saikyou no Hime ga Jinrui no Gurume ni Makeru Hazu ga Nai",
-      "score": 0.225,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb"
+      ]
+    },
+    {
+      "id": 1937,
+      "title": "Tsukimi no Soba",
+      "score": 0.181,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br"
+      ]
     },
     {
       "id": 33529,
       "title": "Mazumeshi Elf to Yuboku gurashi",
-      "score": 0.222,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 21055,
       "title": "Tondemo Skill de Isekai Hourou Meshi",
-      "score": 0.191,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "pl"
+      ]
     },
     {
       "id": 59693,
       "title": "Demon's King Secret",
-      "score": 0.172,
-      "r18": false
-    },
-    {
-      "id": 36694,
-      "title": "Heart-Warming Meals with Mother Fenrir",
-      "score": 0.158,
-      "r18": false
+      "score": 0.145,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 30456,
       "title": "Peter Pan",
-      "score": 0.138,
-      "r18": false
+      "score": 0.115,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 36694,
+      "title": "Heart-Warming Meals with Mother Fenrir",
+      "score": 0.115,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "mx"
+      ]
     },
     {
       "id": 59608,
       "title": "ELEMENTS: Users Of The Universe",
-      "score": 0.108,
-      "r18": false
+      "score": 0.09,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

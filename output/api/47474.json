@@ -1,158 +1,270 @@
 {
   "id": 47474,
   "title": "Saint Seiya (Kanzenban Edition)",
-  "url": "https://api.mangadex.org/v2/manga/47474",
-  "last_updated": "February 12, 2021 01:11:55 UTC",
+  "url": "https://mangadex.org/manga/47474",
+  "last_updated": "March 18, 2021 12:56:45 UTC",
   "matches": [
     {
-      "id": 5573,
-      "title": "Saiyuki",
-      "score": 0.776,
-      "r18": false
+      "id": 29143,
+      "title": "Shaman King: Red Crimson",
+      "score": 0.353,
+      "r18": false,
+      "languages": [
+        "ru",
+        "mx",
+        "gb",
+        "fr"
+      ]
     },
     {
-      "id": 13248,
-      "title": "Spriggan",
-      "score": 0.768,
-      "r18": false
-    },
-    {
-      "id": 25435,
-      "title": "Madara",
-      "score": 0.767,
-      "r18": false
-    },
-    {
-      "id": 23195,
-      "title": "The Great Ruler",
-      "score": 0.766,
-      "r18": false
-    },
-    {
-      "id": 10526,
-      "title": "Iron Knight",
-      "score": 0.765,
-      "r18": false
-    },
-    {
-      "id": 53985,
-      "title": "Dragon Raja 3",
-      "score": 0.755,
-      "r18": false
-    },
-    {
-      "id": 6270,
-      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo (Official Colored)",
-      "score": 0.753,
-      "r18": false
-    },
-    {
-      "id": 17280,
-      "title": "Choujin Locke",
-      "score": 0.752,
-      "r18": false
-    },
-    {
-      "id": 28525,
-      "title": "JoJo's Bizarre Adventure Part 5 - Vento Aureo",
-      "score": 0.751,
-      "r18": false
-    },
-    {
-      "id": 53969,
-      "title": "Dragon Raja",
-      "score": 0.75,
-      "r18": false
-    },
-    {
-      "id": 28542,
-      "title": "JoJo's Bizarre Adventure Part 6 - Stone Ocean",
-      "score": 0.749,
-      "r18": false
-    },
-    {
-      "id": 16147,
-      "title": "Yu-Gi-Oh! Arc-V",
-      "score": 0.748,
-      "r18": false
-    },
-    {
-      "id": 8245,
-      "title": "World Trigger",
-      "score": 0.747,
-      "r18": false
-    },
-    {
-      "id": 303,
-      "title": "Claymore",
-      "score": 0.747,
-      "r18": false
-    },
-    {
-      "id": 2280,
-      "title": "Shaman King",
-      "score": 0.746,
-      "r18": false
-    },
-    {
-      "id": 1751,
-      "title": "D.Gray-man",
-      "score": 0.743,
-      "r18": false
-    },
-    {
-      "id": 24281,
-      "title": "Sokushi Cheat ga Saikyou Sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga",
-      "score": 0.743,
-      "r18": false
-    },
-    {
-      "id": 24091,
-      "title": "Ueki no Housoku Plus",
-      "score": 0.742,
-      "r18": false
-    },
-    {
-      "id": 6588,
-      "title": "Ueki no Housoku",
-      "score": 0.742,
-      "r18": false
-    },
-    {
-      "id": 24276,
-      "title": "Shin Megami Tensei - Devil Children",
-      "score": 0.741,
-      "r18": false
-    },
-    {
-      "id": 1790,
-      "title": "Arata Kangatari",
-      "score": 0.74,
-      "r18": false
-    },
-    {
-      "id": 15150,
-      "title": "Jitsuryokuha Elite Jin",
-      "score": 0.739,
-      "r18": false
-    },
-    {
-      "id": 6269,
-      "title": "JoJo's Bizarre Adventure Part 4 - Diamond is Unbreakable (Official Colored)",
-      "score": 0.738,
-      "r18": false
-    },
-    {
-      "id": 5510,
-      "title": "Vita Arcana",
-      "score": 0.738,
-      "r18": false
+      "id": 8261,
+      "title": "Holy Glory",
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "de",
+        "hu",
+        "gb",
+        "bg",
+        "pl"
+      ]
     },
     {
       "id": 81,
       "title": "Time Eliminator",
-      "score": 0.737,
-      "r18": false
+      "score": 0.294,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24362,
+      "title": "Samurai Spirits - Makai Bugeichou",
+      "score": 0.289,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6228,
+      "title": "Kagijin",
+      "score": 0.288,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "it",
+        "de"
+      ]
+    },
+    {
+      "id": 3929,
+      "title": "Spray King",
+      "score": 0.286,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 17224,
+      "title": "Fairy Tail Gaiden - Road Knight",
+      "score": 0.284,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 24310,
+      "title": "Taiyou Shounen Jango",
+      "score": 0.283,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 22538,
+      "title": "Jump Zombie",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 32842,
+      "title": "Gokutei Higuma",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "tr",
+        "de",
+        "ru",
+        "mx",
+        "fr"
+      ]
+    },
+    {
+      "id": 17280,
+      "title": "Choujin Locke",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 18781,
+      "title": "Fairy Tail Gaiden - Raigou Issen",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "es"
+      ]
+    },
+    {
+      "id": 16147,
+      "title": "Yu-Gi-Oh! Arc-V",
+      "score": 0.275,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20602,
+      "title": "Myth Front",
+      "score": 0.273,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 16035,
+      "title": "Geidaisei Yasaka Kyouya no Suuki na Bouken",
+      "score": 0.272,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 10555,
+      "title": "FANTASMA",
+      "score": 0.271,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
+    },
+    {
+      "id": 20578,
+      "title": "Black Torch",
+      "score": 0.265,
+      "r18": false,
+      "languages": [
+        "it",
+        "ru",
+        "tr",
+        "gb",
+        "pl",
+        "es",
+        "ro"
+      ]
+    },
+    {
+      "id": 12648,
+      "title": "Tale of Fairy Tail ~Koori no Kiseki~",
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "de",
+        "es",
+        "gb"
+      ]
+    },
+    {
+      "id": 11541,
+      "title": "Kiriwo Terrible",
+      "score": 0.261,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "tr",
+        "es"
+      ]
+    },
+    {
+      "id": 928,
+      "title": "Yi Bi Zhi Ming",
+      "score": 0.26,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20205,
+      "title": "Demon's Plan",
+      "score": 0.259,
+      "r18": false,
+      "languages": [
+        "es",
+        "it",
+        "gb"
+      ]
+    },
+    {
+      "id": 19770,
+      "title": "Shin Megami Tensei IV -Prayers-",
+      "score": 0.258,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 14749,
+      "title": "Autophagy Regulation",
+      "score": 0.257,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 5510,
+      "title": "Vita Arcana",
+      "score": 0.256,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 1754,
+      "title": "Strobo",
+      "score": 0.255,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

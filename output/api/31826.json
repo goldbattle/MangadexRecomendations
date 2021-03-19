@@ -1,158 +1,288 @@
 {
   "id": 31826,
   "title": "GARO - The Bible",
-  "url": "https://api.mangadex.org/v2/manga/31826",
-  "last_updated": "February 10, 2021 08:26:07 UTC",
+  "url": "https://mangadex.org/manga/31826",
+  "last_updated": "March 18, 2021 10:46:09 UTC",
   "matches": [
-    {
-      "id": 51132,
-      "title": "The Devil of the Gods",
-      "score": 0.326,
-      "r18": false
-    },
-    {
-      "id": 3850,
-      "title": "Kamen Rider SPIRITS",
-      "score": 0.325,
-      "r18": false
-    },
-    {
-      "id": 22123,
-      "title": "Masked Rider KUUGA",
-      "score": 0.314,
-      "r18": false
-    },
-    {
-      "id": 42419,
-      "title": "Player",
-      "score": 0.309,
-      "r18": false
-    },
     {
       "id": 19609,
       "title": "Demon Knight",
-      "score": 0.302,
-      "r18": false
+      "score": 0.226,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 46498,
-      "title": "Kemono Giga",
-      "score": 0.296,
-      "r18": false
+      "id": 51132,
+      "title": "The Devil of the Gods",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 17945,
       "title": "Adu of Hades",
-      "score": 0.294,
-      "r18": false
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "vn"
+      ]
     },
     {
-      "id": 45969,
-      "title": "Hachigatsu Kokonoka Boku wa Kimi ni Kuwareru.",
-      "score": 0.293,
-      "r18": false
+      "id": 42419,
+      "title": "Player",
+      "score": 0.195,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 6248,
-      "title": "Koukoku no Shugosha",
-      "score": 0.293,
-      "r18": false
+      "id": 3850,
+      "title": "Kamen Rider SPIRITS",
+      "score": 0.185,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 34621,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana",
+      "score": 0.184,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "hu"
+      ]
+    },
+    {
+      "id": 35838,
+      "title": "Slayer Volte",
+      "score": 0.18,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
     },
     {
       "id": 49899,
       "title": "Eko Eko Azaraku: Reborn",
-      "score": 0.287,
-      "r18": false
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 114,
       "title": "Hellsing",
-      "score": 0.284,
-      "r18": false
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "vn",
+        "ro"
+      ]
     },
     {
-      "id": 35838,
-      "title": "Mukurozumi no Borute",
-      "score": 0.28,
-      "r18": false
+      "id": 45969,
+      "title": "Hachigatsu Kokonoka Boku wa Kimi ni Kuwareru.",
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "br",
+        "id",
+        "gb",
+        "fr",
+        "ru",
+        "mx",
+        "sa"
+      ]
     },
     {
       "id": 4533,
       "title": "Otome Youkai Zakuro",
-      "score": 0.278,
-      "r18": false
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "tr",
+        "br"
+      ]
     },
     {
-      "id": 247,
-      "title": "Gangsta",
-      "score": 0.277,
-      "r18": false
+      "id": 42473,
+      "title": "Haunted (\u30db\u30fc\u30f3\u30c6\u30c3\u30c9)",
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 50976,
-      "title": "The Executed Sage Is Reincarnated as a Lich and Starts an All-Out War",
-      "score": 0.276,
-      "r18": false
+      "id": 49285,
+      "title": "Vihora Waru",
+      "score": 0.178,
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
     },
     {
       "id": 7042,
       "title": "Ultraman",
-      "score": 0.269,
-      "r18": false
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 2488,
-      "title": "Maken X Another",
-      "score": 0.268,
-      "r18": false
+      "id": 25334,
+      "title": "Buchimaru Chaos",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "it",
+        "ru",
+        "mx",
+        "br",
+        "gb",
+        "id"
+      ]
     },
     {
-      "id": 38115,
-      "title": "One Punch-Man (Fan Colored)",
-      "score": 0.266,
-      "r18": false
+      "id": 38810,
+      "title": "Dark Arts Master",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "fr"
+      ]
     },
     {
-      "id": 7139,
-      "title": "One Punch-Man",
-      "score": 0.265,
-      "r18": false
+      "id": 43476,
+      "title": "Yakuza Reincarnation",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru",
+        "br",
+        "id"
+      ]
+    },
+    {
+      "id": 22123,
+      "title": "Masked Rider KUUGA",
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
+    },
+    {
+      "id": 6248,
+      "title": "Koukoku no Shugosha",
+      "score": 0.169,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr"
+      ]
+    },
+    {
+      "id": 50976,
+      "title": "The Executed Sage Is Reincarnated as a Lich and Starts an All-Out War",
+      "score": 0.167,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "mx",
+        "fr",
+        "tr",
+        "id"
+      ]
     },
     {
       "id": 49649,
       "title": "Pumpkin Night Gaiden - Naoko",
-      "score": 0.263,
-      "r18": false
+      "score": 0.153,
+      "r18": false,
+      "languages": [
+        "es",
+        "it"
+      ]
     },
     {
-      "id": 57939,
-      "title": "Heroes Tournament",
-      "score": 0.26,
-      "r18": false
+      "id": 46498,
+      "title": "Kemono Giga",
+      "score": 0.153,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "id",
+        "br",
+        "fr"
+      ]
     },
     {
-      "id": 4629,
-      "title": "Burning Hell",
-      "score": 0.259,
-      "r18": false
+      "id": 57659,
+      "title": "Dorohedoro All Star Directory Complete Edition",
+      "score": 0.153,
+      "r18": false,
+      "languages": [
+        "cn"
+      ]
     },
     {
-      "id": 52602,
-      "title": "Her Majesty&rsquo;s Swarm",
-      "score": 0.259,
-      "r18": false
+      "id": 2379,
+      "title": "Dorohedoro",
+      "score": 0.153,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "tr",
+        "cn",
+        "br",
+        "mx",
+        "sa",
+        "ru",
+        "ua",
+        "fr"
+      ]
     },
     {
-      "id": 2774,
-      "title": "Hinamizawa Teiryuujo - Higurashi no Naku Koro ni Genten",
-      "score": 0.259,
-      "r18": false
-    },
-    {
-      "id": 1018,
-      "title": "Parasyte",
-      "score": 0.254,
-      "r18": false
+      "id": 18289,
+      "title": "Shibito no Koe wo Kiku ga Yoi",
+      "score": 0.153,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
     }
   ]
 }

@@ -2,37 +2,76 @@
   "id": 3273,
   "title": "Shigurui",
   "url": "https://mangadex.org/manga/3273",
-  "last_updated": "March 14, 2021 08:17:20 UTC",
+  "last_updated": "March 18, 2021 06:11:15 UTC",
   "matches": [
     {
       "id": 16516,
       "title": "Pygmalion",
-      "score": 0.209,
-      "r18": false
+      "score": 0.208,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru",
+        "br"
+      ]
     },
     {
       "id": 18691,
       "title": "Fire Punch",
-      "score": 0.181,
-      "r18": false
+      "score": 0.182,
+      "r18": false,
+      "languages": [
+        "br",
+        "ru",
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 3509,
       "title": "Spider-Man",
       "score": 0.175,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53891,
+      "title": "From the Red Fog",
+      "score": 0.171,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "fr"
+      ]
     },
     {
       "id": 31087,
       "title": "Bougyaku no Kokekko",
       "score": 0.146,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "br",
+        "id"
+      ]
     },
     {
       "id": 34618,
       "title": "Alexis Teikoku Kouryuuki",
-      "score": 0.14,
-      "r18": false
+      "score": 0.139,
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb",
+        "br",
+        "mx"
+      ]
     }
   ]
 }

@@ -2,73 +2,128 @@
   "id": 123,
   "title": "Beach Stars",
   "url": "https://mangadex.org/manga/123",
-  "last_updated": "March 14, 2021 00:49:12 UTC",
+  "last_updated": "March 18, 2021 05:43:36 UTC",
   "matches": [
     {
       "id": 874,
       "title": "Cahe Detective Club",
-      "score": 0.215,
-      "r18": false
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 32440,
       "title": "Ashigei Shoujo Komura-san",
       "score": 0.209,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "pl",
+        "br",
+        "id",
+        "mx",
+        "hu",
+        "ru",
+        "fr"
+      ]
     },
     {
       "id": 15142,
       "title": "Into the Net!",
-      "score": 0.2,
-      "r18": false
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "id",
+        "ru",
+        "gb",
+        "fr",
+        "br"
+      ]
+    },
+    {
+      "id": 19600,
+      "title": "Danberu Nan Kiro Moteru?",
+      "score": 0.199,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "it"
+      ]
     },
     {
       "id": 18221,
       "title": "Amano Megumi wa Suki Darake!",
-      "score": 0.196,
-      "r18": false
+      "score": 0.195,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "fr"
+      ]
     },
     {
       "id": 166,
       "title": "Kenkoo Zenrakei Suieibu Umishou",
       "score": 0.184,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "it"
+      ]
     },
     {
       "id": 74,
       "title": "Suzuka",
       "score": 0.171,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "de"
+      ]
     },
     {
       "id": 37770,
       "title": "Iwa kakeru! -Climbing Girls-",
-      "score": 0.169,
-      "r18": false
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 9459,
       "title": "Sporting Salt",
       "score": 0.166,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 692,
       "title": "Open Sesame",
-      "score": 0.165,
-      "r18": false
-    },
-    {
-      "id": 19600,
-      "title": "Danberu Nan Kiro Moteru?",
-      "score": 0.133,
-      "r18": false
+      "score": 0.163,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19634,
       "title": "Shoujo Kishidan x Knight Tale",
       "score": 0.12,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

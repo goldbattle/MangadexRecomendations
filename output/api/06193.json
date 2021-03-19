@@ -2,19 +2,28 @@
   "id": 6193,
   "title": "Chirality",
   "url": "https://mangadex.org/manga/6193",
-  "last_updated": "March 14, 2021 16:24:57 UTC",
+  "last_updated": "March 18, 2021 06:38:27 UTC",
   "matches": [
     {
       "id": 47600,
       "title": "Semelparous",
-      "score": 0.25,
-      "r18": false
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru",
+        "sa"
+      ]
     },
     {
       "id": 23743,
       "title": "Mikarun X",
       "score": 0.218,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

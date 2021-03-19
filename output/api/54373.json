@@ -1,32 +1,49 @@
 {
   "id": 54373,
   "title": "Susuhara is a Demon!",
-  "url": "https://api.mangadex.org/v2/manga/54373",
-  "last_updated": "March 12, 2021 20:24:48 UTC",
+  "url": "https://mangadex.org/manga/54373",
+  "last_updated": "March 18, 2021 13:54:27 UTC",
   "matches": [
+    {
+      "id": 29999,
+      "title": "Alcohol ?%",
+      "score": 0.214,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
+    },
     {
       "id": 30315,
       "title": "Her Shim-Cheong",
-      "score": 0.668,
-      "r18": false
+      "score": 0.19,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br"
+      ]
     },
     {
       "id": 55081,
       "title": "After the Curtain Call",
-      "score": 0.258,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 51007,
       "title": "Ghosts of Greywoods",
-      "score": 0.248,
-      "r18": false
-    },
-    {
-      "id": 29999,
-      "title": "Alcohol ?%",
-      "score": 0.23,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     }
   ]
 }

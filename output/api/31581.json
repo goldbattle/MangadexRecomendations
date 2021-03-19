@@ -1,74 +1,124 @@
 {
   "id": 31581,
   "title": "Pas Seul on Clavier",
-  "url": "https://api.mangadex.org/v2/manga/31581",
-  "last_updated": "February 10, 2021 08:22:21 UTC",
+  "url": "https://mangadex.org/manga/31581",
+  "last_updated": "March 18, 2021 10:44:06 UTC",
   "matches": [
     {
-      "id": 42236,
-      "title": "Heaven Official's Blessing (old version)",
-      "score": 0.684,
-      "r18": false
-    },
-    {
-      "id": 53527,
-      "title": "These Years in Quest of Honour Mine",
-      "score": 0.679,
-      "r18": false
+      "id": 20633,
+      "title": "The Defiant Subject",
+      "score": 0.31,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 39208,
       "title": "Where The Dragon's Rain Falls",
-      "score": 0.669,
-      "r18": false
+      "score": 0.211,
+      "r18": false,
+      "languages": [
+        "it"
+      ]
     },
     {
-      "id": 51646,
-      "title": "The Villainous Doctor",
-      "score": 0.66,
-      "r18": false
-    },
-    {
-      "id": 20633,
-      "title": "The Defiant Subject",
-      "score": 0.385,
-      "r18": false
+      "id": 54668,
+      "title": "Listen Attentively",
+      "score": 0.21,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr"
+      ]
     },
     {
       "id": 45951,
       "title": "Silent Lover",
-      "score": 0.314,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     },
     {
       "id": 51389,
       "title": "Touching Melody",
-      "score": 0.289,
-      "r18": false
-    },
-    {
-      "id": 58412,
-      "title": "Elegy of the Heavens",
-      "score": 0.274,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 48783,
       "title": "I Hear I'm Poor",
-      "score": 0.247,
-      "r18": false
-    },
-    {
-      "id": 53953,
-      "title": "Dinner at Night",
-      "score": 0.217,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
       "id": 46116,
       "title": "Nine Songs",
-      "score": 0.177,
-      "r18": false
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53953,
+      "title": "Dinner at Night",
+      "score": 0.155,
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
+    },
+    {
+      "id": 58412,
+      "title": "Elegy of the Heavens",
+      "score": 0.154,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 53527,
+      "title": "These Years in Quest of Honour Mine",
+      "score": 0.152,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 51646,
+      "title": "The Villainous Doctor",
+      "score": 0.146,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 42236,
+      "title": "Heaven Official's Blessing (old version)",
+      "score": 0.116,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "it"
+      ]
     }
   ]
 }

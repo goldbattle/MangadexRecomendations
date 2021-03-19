@@ -2,19 +2,28 @@
   "id": 18014,
   "title": "Romanticer's High",
   "url": "https://mangadex.org/manga/18014",
-  "last_updated": "March 15, 2021 21:48:47 UTC",
+  "last_updated": "March 18, 2021 08:35:43 UTC",
   "matches": [
     {
       "id": 43330,
       "title": "Love, Which Makes Us One",
-      "score": 0.16,
-      "r18": false
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "tr"
+      ]
     },
     {
       "id": 53106,
       "title": "A Wisdom Tooth",
       "score": 0.133,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb"
+      ]
     }
   ]
 }

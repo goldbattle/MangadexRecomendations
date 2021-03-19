@@ -1,158 +1,320 @@
 {
   "id": 31012,
   "title": "Kingdom Italia Adventures",
-  "url": "https://api.mangadex.org/v2/manga/31012",
-  "last_updated": "February 10, 2021 08:13:26 UTC",
+  "url": "https://mangadex.org/manga/31012",
+  "last_updated": "March 18, 2021 10:39:22 UTC",
   "matches": [
+    {
+      "id": 25622,
+      "title": "Parasol Henbee",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "it"
+      ]
+    },
+    {
+      "id": 47172,
+      "title": "Shinrin Ousha Mori King",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "it",
+        "sa",
+        "cn"
+      ]
+    },
+    {
+      "id": 7378,
+      "title": "Super Mario-kun",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 6733,
+      "title": "Full Ahead! Coco",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "it"
+      ]
+    },
+    {
+      "id": 16015,
+      "title": "Fairy Tail Gaiden - Kengami no Souryuu",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "it"
+      ]
+    },
+    {
+      "id": 15433,
+      "title": "Kintoki",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb"
+      ]
+    },
+    {
+      "id": 6951,
+      "title": "Blust!",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "ct"
+      ]
+    },
+    {
+      "id": 35705,
+      "title": "SPY&times;FAMILY",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "it",
+        "ru",
+        "hk",
+        "fr",
+        "de",
+        "mx",
+        "tr",
+        "cz",
+        "lt",
+        "sa",
+        "in"
+      ]
+    },
     {
       "id": 25,
       "title": "Kubera",
-      "score": 0.715,
-      "r18": false
+      "score": 0.193,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ir",
+        "it",
+        "pl",
+        "sa",
+        "fr",
+        "br",
+        "de"
+      ]
+    },
+    {
+      "id": 22534,
+      "title": "Golem Hearts",
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "ru",
+        "fr"
+      ]
+    },
+    {
+      "id": 15653,
+      "title": "Dragon Ball Super",
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "gb",
+        "sa",
+        "br",
+        "it",
+        "mx",
+        "es",
+        "my",
+        "pt"
+      ]
+    },
+    {
+      "id": 15133,
+      "title": "The Mythical Realm",
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "it",
+        "ru",
+        "fr"
+      ]
+    },
+    {
+      "id": 435,
+      "title": "Gamaran",
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "pl",
+        "de",
+        "it"
+      ]
+    },
+    {
+      "id": 47122,
+      "title": "JoJo's Bizarre Adventure: Moscow Calling (Doujinshi)",
+      "score": 0.168,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "it"
+      ]
+    },
+    {
+      "id": 29532,
+      "title": "Fairy Tail: Happy's Great Adventure",
+      "score": 0.167,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "de"
+      ]
+    },
+    {
+      "id": 29714,
+      "title": "Pok&eacute;mon Hard-Mode",
+      "score": 0.167,
+      "r18": false,
+      "languages": [
+        "it"
+      ]
+    },
+    {
+      "id": 6271,
+      "title": "JoJo's Bizarre Adventure Part 6: Stone Ocean (Official Colored)",
+      "score": 0.157,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "ru",
+        "mx",
+        "id",
+        "pl",
+        "es",
+        "it",
+        "il",
+        "de",
+        "br"
+      ]
     },
     {
       "id": 48217,
       "title": "Leveling Up, by Only Eating!",
-      "score": 0.685,
-      "r18": false
+      "score": 0.15,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "br",
+        "fr",
+        "id"
+      ]
     },
     {
-      "id": 6271,
-      "title": "JoJo's Bizarre Adventure Part 6 - Stone Ocean (Official Colored)",
-      "score": 0.669,
-      "r18": false
+      "id": 3804,
+      "title": "Pok&eacute;mon Special",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "es",
+        "tr",
+        "it",
+        "my",
+        "fr",
+        "no"
+      ]
     },
     {
-      "id": 36075,
-      "title": "Metropolitan System",
-      "score": 0.662,
-      "r18": false
+      "id": 4991,
+      "title": "Dragon Ball AF (Doujinshi)",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb",
+        "it",
+        "es"
+      ]
     },
     {
-      "id": 24034,
-      "title": "Minamission",
-      "score": 0.437,
-      "r18": false
+      "id": 24502,
+      "title": "Dragon Ball AF (YOUNG JIJII) (Doujinshi)",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "it",
+        "pl",
+        "sa"
+      ]
     },
     {
-      "id": 19166,
-      "title": "Hoshi no Kirby: Dedede de Pupupu na Monogatari",
-      "score": 0.426,
-      "r18": false
+      "id": 39297,
+      "title": "Dragon Ball Super (Fan Colored)",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "it"
+      ]
     },
     {
-      "id": 15857,
-      "title": "Muddy",
-      "score": 0.404,
-      "r18": false
+      "id": 25654,
+      "title": "Dragon Ball Zero (Doujinshi)",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "pl"
+      ]
     },
     {
-      "id": 25622,
-      "title": "Parasol Henbee",
-      "score": 0.402,
-      "r18": false
+      "id": 24506,
+      "title": "Dragon Ball After (Doujinshi)",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
-      "id": 16337,
-      "title": "Jitsuroku! Shinwakai",
-      "score": 0.398,
-      "r18": false
-    },
-    {
-      "id": 6677,
-      "title": "Slayers REVOLUTION",
-      "score": 0.379,
-      "r18": false
-    },
-    {
-      "id": 5861,
-      "title": "Slayers - Suiriyuuou no Kishi",
-      "score": 0.377,
-      "r18": false
-    },
-    {
-      "id": 3651,
-      "title": "Dragon Nest - Shungeki no Sedo",
-      "score": 0.374,
-      "r18": false
-    },
-    {
-      "id": 5925,
-      "title": "Tales of Destiny",
-      "score": 0.369,
-      "r18": false
-    },
-    {
-      "id": 8190,
-      "title": "Seiken Densetsu - Legend of Mana",
-      "score": 0.357,
-      "r18": false
-    },
-    {
-      "id": 20368,
-      "title": "Full Ahead! Coco Bangai hen",
-      "score": 0.356,
-      "r18": false
-    },
-    {
-      "id": 10084,
-      "title": "Senyuu. - Main Quest Part 1",
-      "score": 0.354,
-      "r18": false
-    },
-    {
-      "id": 21385,
-      "title": "SLASH",
-      "score": 0.35,
-      "r18": false
-    },
-    {
-      "id": 6637,
-      "title": "Material Puzzle",
-      "score": 0.347,
-      "r18": false
-    },
-    {
-      "id": 3656,
-      "title": "Eat-Man",
-      "score": 0.347,
-      "r18": false
-    },
-    {
-      "id": 7472,
-      "title": "Mabudachi Jingi",
-      "score": 0.347,
-      "r18": false
-    },
-    {
-      "id": 10928,
-      "title": "Senyuu. JUMP SQUARE (SQ)",
-      "score": 0.344,
-      "r18": false
-    },
-    {
-      "id": 14694,
-      "title": "One Piece Party",
-      "score": 0.343,
-      "r18": false
-    },
-    {
-      "id": 15494,
-      "title": "Chain Chronicle Crimson",
-      "score": 0.343,
-      "r18": false
-    },
-    {
-      "id": 22619,
-      "title": "Chinyuuki",
-      "score": 0.341,
-      "r18": false
-    },
-    {
-      "id": 42435,
-      "title": "Dragon Ball AF - Daitai no Mirai (Doujinshi)",
-      "score": 0.341,
-      "r18": false
+      "id": 19688,
+      "title": "Red Sprite",
+      "score": 0.149,
+      "r18": false,
+      "languages": [
+        "it",
+        "gb",
+        "es"
+      ]
     }
   ]
 }

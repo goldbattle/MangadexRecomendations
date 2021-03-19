@@ -2,25 +2,40 @@
   "id": 23431,
   "title": "THE iDOLM@STER: Shiny Colors (4koma)",
   "url": "https://mangadex.org/manga/23431",
-  "last_updated": "March 16, 2021 12:28:36 UTC",
+  "last_updated": "March 18, 2021 09:22:38 UTC",
   "matches": [
     {
       "id": 7750,
       "title": ".hack//4koma + Gag Senshuken",
       "score": 0.315,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru"
+      ]
     },
     {
       "id": 16786,
       "title": "Toaru Idol no Accelerator-sama",
       "score": 0.258,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "th",
+        "gb",
+        "mx",
+        "fr",
+        "es"
+      ]
     },
     {
       "id": 57665,
       "title": "Ryuuguuji Sanchi no Akuma-chan",
       "score": 0.221,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

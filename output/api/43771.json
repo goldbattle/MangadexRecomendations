@@ -1,158 +1,294 @@
 {
   "id": 43771,
   "title": "Born to Be Rich",
-  "url": "https://api.mangadex.org/v2/manga/43771",
-  "last_updated": "February 11, 2021 16:30:18 UTC",
+  "url": "https://mangadex.org/manga/43771",
+  "last_updated": "March 18, 2021 12:25:48 UTC",
   "matches": [
     {
-      "id": 20540,
-      "title": "God of Martial Arts",
-      "score": 0.738,
-      "r18": false
+      "id": 45567,
+      "title": "Zhi Zun Shen Mo",
+      "score": 0.307,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 11804,
-      "title": "Fights Breaking Through The Heavens",
-      "score": 0.736,
-      "r18": false
-    },
-    {
-      "id": 23231,
-      "title": "Wu Dong Qian Kun",
-      "score": 0.727,
-      "r18": false
-    },
-    {
-      "id": 42858,
-      "title": "Wan Gu Shen Wang",
-      "score": 0.713,
-      "r18": false
-    },
-    {
-      "id": 46623,
-      "title": "Global Martial Arts",
-      "score": 0.711,
-      "r18": false
-    },
-    {
-      "id": 47120,
-      "title": "The Evil Sorceress Plans to Survive!",
-      "score": 0.708,
-      "r18": false
-    },
-    {
-      "id": 12009,
-      "title": "Soul Land",
-      "score": 0.707,
-      "r18": false
-    },
-    {
-      "id": 52836,
-      "title": "DD Fist of the North Star",
-      "score": 0.707,
-      "r18": false
-    },
-    {
-      "id": 16948,
-      "title": "Gosu",
-      "score": 0.706,
-      "r18": false
-    },
-    {
-      "id": 49768,
-      "title": "A Will Eternal",
-      "score": 0.706,
-      "r18": false
-    },
-    {
-      "id": 42236,
-      "title": "Heaven Official's Blessing (old version)",
-      "score": 0.704,
-      "r18": false
-    },
-    {
-      "id": 45628,
-      "title": "Heaven Official's Blessing",
-      "score": 0.703,
-      "r18": false
-    },
-    {
-      "id": 58330,
-      "title": "Strongest Fighter",
-      "score": 0.703,
-      "r18": false
-    },
-    {
-      "id": 38543,
-      "title": "Fights Break Sphere &ndash; Return of the Beasts",
-      "score": 0.703,
-      "r18": false
-    },
-    {
-      "id": 45598,
-      "title": "Swallow the Whole World",
-      "score": 0.702,
-      "r18": false
-    },
-    {
-      "id": 38632,
-      "title": "Vengeance of the Heavenly Demon",
-      "score": 0.7,
-      "r18": false
-    },
-    {
-      "id": 54218,
-      "title": "The Lady and the Beast",
-      "score": 0.7,
-      "r18": false
-    },
-    {
-      "id": 53169,
-      "title": "Strong Gale, Mad Dragon",
-      "score": 0.697,
-      "r18": false
-    },
-    {
-      "id": 39493,
-      "title": "The Crown Prince Lost His Mind",
-      "score": 0.697,
-      "r18": false
-    },
-    {
-      "id": 46134,
-      "title": "The Peerless Sword God",
-      "score": 0.695,
-      "r18": false
-    },
-    {
-      "id": 5274,
-      "title": "Nijiiro Togarashi",
-      "score": 0.695,
-      "r18": false
-    },
-    {
-      "id": 19542,
-      "title": "Chuan Yue Xi Yuan 3000 Hou",
-      "score": 0.694,
-      "r18": false
-    },
-    {
-      "id": 45265,
-      "title": "Greatest Boss System",
-      "score": 0.694,
-      "r18": false
-    },
-    {
-      "id": 59805,
-      "title": "The No.1 Chef in Martial Art World",
-      "score": 0.694,
-      "r18": false
+      "id": 42684,
+      "title": "The Strongest Cheat Player",
+      "score": 0.251,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "tr",
+        "ru"
+      ]
     },
     {
       "id": 45306,
       "title": "Peerless Battle Spirit",
-      "score": 0.693,
-      "r18": false
+      "score": 0.251,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "br",
+        "it"
+      ]
+    },
+    {
+      "id": 58330,
+      "title": "Strongest Fighter",
+      "score": 0.249,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "pl",
+        "fr"
+      ]
+    },
+    {
+      "id": 50351,
+      "title": "Cultivator From the Future",
+      "score": 0.245,
+      "r18": false,
+      "languages": [
+        "br",
+        "ru",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 42858,
+      "title": "Wan Gu Shen Wang",
+      "score": 0.238,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "tr",
+        "fr",
+        "it"
+      ]
+    },
+    {
+      "id": 31114,
+      "title": "Martial Legacy",
+      "score": 0.237,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "id",
+        "fr",
+        "pl"
+      ]
+    },
+    {
+      "id": 20540,
+      "title": "God of Martial Arts",
+      "score": 0.234,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr",
+        "id",
+        "ru",
+        "mx",
+        "it",
+        "pl",
+        "sa",
+        "th"
+      ]
+    },
+    {
+      "id": 23796,
+      "title": "Princess Agent",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 48343,
+      "title": "City Of Sanctuary",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 38922,
+      "title": "Ragnarok: Requiem for the Lost Ones",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 44913,
+      "title": "Infinite Gold God",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 41592,
+      "title": "Wanwang Exorcist",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 49095,
+      "title": "Reverse the Dimension",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 42420,
+      "title": "Winter Night",
+      "score": 0.233,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 47037,
+      "title": "A Legend of the Wind",
+      "score": 0.228,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 44638,
+      "title": "Dragon Pulse",
+      "score": 0.227,
+      "r18": false,
+      "languages": [
+        "fr",
+        "br",
+        "id",
+        "gb"
+      ]
+    },
+    {
+      "id": 46623,
+      "title": "Global Martial Arts",
+      "score": 0.226,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "pl"
+      ]
+    },
+    {
+      "id": 43803,
+      "title": "Martial Arts Reigns",
+      "score": 0.225,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "fr"
+      ]
+    },
+    {
+      "id": 35538,
+      "title": "Heaven Defying Sword",
+      "score": 0.224,
+      "r18": false,
+      "languages": [
+        "fr"
+      ]
+    },
+    {
+      "id": 23229,
+      "title": "The Scholar's Reincarnation",
+      "score": 0.223,
+      "r18": false,
+      "languages": [
+        "br",
+        "fr",
+        "gb",
+        "it",
+        "ru",
+        "pl"
+      ]
+    },
+    {
+      "id": 37759,
+      "title": "Beautiful Legends",
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "ru",
+        "br",
+        "id"
+      ]
+    },
+    {
+      "id": 38906,
+      "title": "Shi Shen Zhi Lu",
+      "score": 0.222,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "id",
+        "ru"
+      ]
+    },
+    {
+      "id": 20068,
+      "title": "Star Martial God Technique",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es",
+        "br",
+        "mx",
+        "ru",
+        "pl",
+        "fr"
+      ]
+    },
+    {
+      "id": 49273,
+      "title": "Legend of the Northern Blade",
+      "score": 0.221,
+      "r18": false,
+      "languages": [
+        "id",
+        "fr",
+        "gb"
+      ]
     }
   ]
 }

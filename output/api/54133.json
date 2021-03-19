@@ -2,49 +2,88 @@
   "id": 54133,
   "title": "Osananajimi ga Kaette Kimashita",
   "url": "https://mangadex.org/manga/54133",
-  "last_updated": "January 16, 2021 06:29:09 UTC",
+  "last_updated": "March 18, 2021 13:52:27 UTC",
   "matches": [
     {
       "id": 38991,
       "title": "A Pretty&rsquo;s Super Zombie",
-      "score": 0.717,
-      "r18": false
-    },
-    {
-      "id": 31152,
-      "title": "Zomviguarna",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 42662,
-      "title": "Itoshi no Ko, Charlotte",
-      "score": 0.264,
-      "r18": false
+      "score": 0.235,
+      "r18": false,
+      "languages": [
+        "br"
+      ]
     },
     {
       "id": 3394,
       "title": "Undead",
-      "score": 0.238,
-      "r18": false
+      "score": 0.157,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 907,
-      "title": "I Am a Hero",
-      "score": 0.186,
-      "r18": false
+      "id": 42662,
+      "title": "Itoshi no Ko, Charlotte",
+      "score": 0.151,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
-      "id": 36278,
-      "title": "King of Apocalypse",
-      "score": 0.144,
-      "r18": false
+      "id": 31152,
+      "title": "Zomviguarna",
+      "score": 0.137,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br"
+      ]
     },
     {
       "id": 19017,
       "title": "The Zombie Maria",
-      "score": 0.116,
-      "r18": false
+      "score": 0.097,
+      "r18": false,
+      "languages": [
+        "de",
+        "ru",
+        "it",
+        "pl",
+        "br",
+        "gb",
+        "fr",
+        "id",
+        "ir"
+      ]
+    },
+    {
+      "id": 907,
+      "title": "I Am a Hero",
+      "score": 0.078,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr",
+        "sa",
+        "pl"
+      ]
+    },
+    {
+      "id": 36278,
+      "title": "King of Apocalypse",
+      "score": 0.073,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb",
+        "th",
+        "id",
+        "fr",
+        "it"
+      ]
     }
   ]
 }

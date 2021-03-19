@@ -2,73 +2,148 @@
   "id": 1604,
   "title": "ChunChu",
   "url": "https://mangadex.org/manga/1604",
-  "last_updated": "March 14, 2021 04:14:16 UTC",
+  "last_updated": "March 18, 2021 05:56:17 UTC",
   "matches": [
-    {
-      "id": 19722,
-      "title": "Origin",
-      "score": 0.229,
-      "r18": false
-    },
     {
       "id": 20868,
       "title": "Kokenoshima",
       "score": 0.217,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "tr",
+        "gb"
+      ]
     },
     {
       "id": 18217,
       "title": "Imuri",
-      "score": 0.207,
-      "r18": false
+      "score": 0.206,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20541,
       "title": "Mercy",
       "score": 0.197,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 41776,
+      "title": "Madou no Keifu",
+      "score": 0.175,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "th"
+      ]
     },
     {
       "id": 1378,
       "title": "Basilisk",
-      "score": 0.166,
-      "r18": false
+      "score": 0.165,
+      "r18": false,
+      "languages": [
+        "bg",
+        "gb",
+        "hu",
+        "pl",
+        "ru"
+      ]
     },
     {
       "id": 4880,
       "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
-      "score": 0.165,
-      "r18": false
+      "score": 0.164,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "fr",
+        "ru",
+        "id",
+        "es",
+        "mx",
+        "ro",
+        "sa",
+        "br",
+        "de"
+      ]
     },
     {
       "id": 1614,
       "title": "Aa! Megami-sama!",
-      "score": 0.16,
-      "r18": false
+      "score": 0.159,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru",
+        "tr"
+      ]
     },
     {
       "id": 28617,
       "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run",
-      "score": 0.139,
-      "r18": false
+      "score": 0.138,
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "it",
+        "fr"
+      ]
     },
     {
       "id": 13871,
       "title": "Dungeon Meshi",
-      "score": 0.134,
-      "r18": false
+      "score": 0.132,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "mx",
+        "es"
+      ]
     },
     {
       "id": 27151,
       "title": "JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored)",
-      "score": 0.131,
-      "r18": false
+      "score": 0.13,
+      "r18": false,
+      "languages": [
+        "fr",
+        "gb",
+        "it",
+        "id",
+        "ru",
+        "mx",
+        "es",
+        "tr"
+      ]
     },
     {
       "id": 6272,
       "title": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
       "score": 0.1,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr",
+        "br",
+        "ru",
+        "it",
+        "id",
+        "il",
+        "de"
+      ]
     }
   ]
 }

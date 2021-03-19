@@ -2,31 +2,40 @@
   "id": 27406,
   "title": "Marshal, Your Wife Ran Away Again",
   "url": "https://mangadex.org/manga/27406",
-  "last_updated": "March 16, 2021 20:31:37 UTC",
+  "last_updated": "March 18, 2021 10:09:16 UTC",
   "matches": [
     {
       "id": 18925,
       "title": "Oiran Chirashi",
       "score": 0.29,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr"
+      ]
     },
     {
       "id": 53709,
       "title": "The Gentle Goblin's Bird",
-      "score": 0.173,
-      "r18": false
-    },
-    {
-      "id": 42742,
-      "title": "The Blood of Madam Giselle",
-      "score": 0.161,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "vn",
+        "it"
+      ]
     },
     {
       "id": 52880,
       "title": "Herbalist",
       "score": 0.161,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "pl",
+        "gb"
+      ]
     }
   ]
 }

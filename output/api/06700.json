@@ -2,43 +2,96 @@
   "id": 6700,
   "title": "Ai wa Noroi no Nihon Ningyou",
   "url": "https://mangadex.org/manga/6700",
-  "last_updated": "March 14, 2021 16:33:09 UTC",
+  "last_updated": "March 18, 2021 06:42:52 UTC",
   "matches": [
     {
       "id": 49639,
       "title": "Alice no Hanamuko",
-      "score": 0.188,
-      "r18": false
+      "score": 0.187,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 22369,
       "title": "Jahy-sama wa Kujikenai!",
-      "score": 0.167,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "mx",
+        "fr",
+        "it",
+        "pl",
+        "sa"
+      ]
     },
     {
       "id": 41006,
       "title": "Kagekuri Kitan",
-      "score": 0.163,
-      "r18": false
+      "score": 0.162,
+      "r18": false,
+      "languages": [
+        "hk",
+        "gb",
+        "mx",
+        "ru"
+      ]
     },
     {
       "id": 14598,
       "title": "My Love Tiger",
       "score": 0.154,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "ru",
+        "fr",
+        "br"
+      ]
     },
     {
       "id": 55284,
       "title": "Gahi-chan!",
       "score": 0.15,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "mx",
+        "gb",
+        "ru"
+      ]
     },
     {
       "id": 12546,
       "title": "Myuu &amp; I",
       "score": 0.136,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 29270,
+      "title": "Fairy Tail: 100 Years Quest",
+      "score": 0.125,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "vn",
+        "pl",
+        "br",
+        "sa",
+        "it",
+        "de",
+        "ru",
+        "th",
+        "id"
+      ]
     }
   ]
 }

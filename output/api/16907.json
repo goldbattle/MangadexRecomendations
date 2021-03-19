@@ -2,31 +2,41 @@
   "id": 16907,
   "title": "Sleeping Charon",
   "url": "https://mangadex.org/manga/16907",
-  "last_updated": "March 15, 2021 16:49:04 UTC",
+  "last_updated": "March 18, 2021 08:17:31 UTC",
   "matches": [
     {
       "id": 1121,
       "title": "12-ji no Kane ga Naru",
       "score": 0.224,
-      "r18": false
-    },
-    {
-      "id": 17369,
-      "title": "Covered in Cinders",
-      "score": 0.207,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "de",
+        "pl",
+        "it",
+        "mn",
+        "ct"
+      ]
     },
     {
       "id": 7087,
       "title": "Yawarakai Kara",
       "score": 0.181,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 45140,
       "title": "Oh My Ghost",
-      "score": 0.081,
-      "r18": false
+      "score": 0.08,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     }
   ]
 }

@@ -2,55 +2,88 @@
   "id": 8166,
   "title": "Mujaki no Rakuen",
   "url": "https://mangadex.org/manga/8166",
-  "last_updated": "March 14, 2021 20:16:11 UTC",
+  "last_updated": "March 18, 2021 06:55:15 UTC",
   "matches": [
     {
       "id": 19087,
       "title": "Oshioki X-Cute",
       "score": 0.283,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr",
+        "mx"
+      ]
     },
     {
       "id": 8532,
       "title": "Grisaia no Kajitsu - Sanctuary Fellows",
-      "score": 0.252,
-      "r18": false
+      "score": 0.251,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20027,
       "title": "Koi no Kotoba",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "mx"
+      ]
     },
     {
       "id": 45731,
       "title": "Hinata ni Rin to Saku Himawarisou",
       "score": 0.25,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 59218,
       "title": "Valhalla Penis Mansion",
-      "score": 0.217,
-      "r18": false
+      "score": 0.216,
+      "r18": false,
+      "languages": [
+        "gb",
+        "id",
+        "th",
+        "it",
+        "mx",
+        "br"
+      ]
     },
     {
       "id": 21153,
       "title": "Butsuri-san de Musou Shitetara Motemote ni Narimashita",
       "score": 0.19,
-      "r18": false
-    },
-    {
-      "id": 30662,
-      "title": "Yojouhan Isekai Kouryuuki",
-      "score": 0.177,
-      "r18": false
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "br",
+        "id"
+      ]
     },
     {
       "id": 34058,
       "title": "Kujibiki Tokushou Musou Harem-ken",
-      "score": 0.173,
-      "r18": false
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "id",
+        "ru",
+        "gb",
+        "br",
+        "fr",
+        "mx",
+        "tr"
+      ]
     }
   ]
 }

@@ -1,44 +1,60 @@
 {
   "id": 50479,
   "title": "Yuri Box",
-  "url": "https://api.mangadex.org/v2/manga/50479",
-  "last_updated": "February 05, 2021 08:24:20 UTC",
+  "url": "https://mangadex.org/manga/50479",
+  "last_updated": "March 18, 2021 13:21:56 UTC",
   "matches": [
     {
-      "id": 28777,
-      "title": "Mizuiro Ether",
-      "score": 0.666,
-      "r18": false
-    },
-    {
-      "id": 47355,
-      "title": "Soulmate",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 4056,
-      "title": "Shuuden ni wa Kaeshimasu",
-      "score": 0.329,
-      "r18": false
+      "id": 32297,
+      "title": "Welcome to the Prison Town!",
+      "score": 0.264,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 17832,
       "title": "Michiwarikusa Monogatari -Vampire After the Doomsday-",
-      "score": 0.294,
-      "r18": false
+      "score": 0.235,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx"
+      ]
     },
     {
-      "id": 32297,
-      "title": "Prison Town He Youkoso",
-      "score": 0.292,
-      "r18": false
+      "id": 28777,
+      "title": "Mizuiro Ether",
+      "score": 0.203,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 51715,
-      "title": "Hertz Around You",
-      "score": 0.186,
-      "r18": false
+      "id": 4056,
+      "title": "Shuuden ni wa Kaeshimasu",
+      "score": 0.2,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "tr",
+        "it",
+        "pl"
+      ]
+    },
+    {
+      "id": 47355,
+      "title": "Soulmate",
+      "score": 0.126,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "fr"
+      ]
     }
   ]
 }

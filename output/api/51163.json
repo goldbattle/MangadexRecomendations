@@ -1,158 +1,259 @@
 {
   "id": 51163,
   "title": "Oni",
-  "url": "https://api.mangadex.org/v2/manga/51163",
-  "last_updated": "February 05, 2021 12:03:26 UTC",
+  "url": "https://mangadex.org/manga/51163",
+  "last_updated": "March 18, 2021 13:27:38 UTC",
   "matches": [
     {
       "id": 5886,
       "title": "The Voices That Call Me",
-      "score": 0.409,
-      "r18": false
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 18884,
       "title": "Shadowman",
-      "score": 0.408,
-      "r18": false
-    },
-    {
-      "id": 29955,
-      "title": "A Life",
-      "score": 0.382,
-      "r18": false
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb",
+        "es"
+      ]
     },
     {
       "id": 37962,
       "title": "Yume no Tsudzuki",
-      "score": 0.374,
-      "r18": false
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
+    },
+    {
+      "id": 29955,
+      "title": "A Life",
+      "score": 0.349,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it",
+        "br"
+      ]
     },
     {
       "id": 21446,
       "title": "A Meek Little Brother Like Me",
-      "score": 0.353,
-      "r18": false
-    },
-    {
-      "id": 22101,
-      "title": "Jiraishin: The Lost File",
-      "score": 0.351,
-      "r18": false
-    },
-    {
-      "id": 15907,
-      "title": "The Negatibrain",
-      "score": 0.347,
-      "r18": false
-    },
-    {
-      "id": 34840,
-      "title": "The Pool That Night",
-      "score": 0.34,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 2076,
       "title": "Ame no Furu Basho",
-      "score": 0.335,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
-      "id": 34680,
-      "title": "Alice",
-      "score": 0.315,
-      "r18": false
+      "id": 15907,
+      "title": "The Negatibrain",
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "pl",
+        "fr",
+        "gb"
+      ]
     },
     {
       "id": 21733,
       "title": "Here Comes the Bullied Kid!",
-      "score": 0.302,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 1220,
       "title": "Flower (MATSUMOTO Taiyou)",
-      "score": 0.3,
-      "r18": false
-    },
-    {
-      "id": 21079,
-      "title": "Tales of a Time Gone By",
-      "score": 0.298,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 38790,
       "title": "Snake Mountain",
-      "score": 0.293,
-      "r18": false
-    },
-    {
-      "id": 28433,
-      "title": "The Beautiful Ones",
-      "score": 0.291,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 25339,
       "title": "Assassin's Plan",
-      "score": 0.287,
-      "r18": false
+      "score": 0.262,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ro"
+      ]
     },
     {
-      "id": 2861,
-      "title": "The Nightmare of Fabrication",
-      "score": 0.275,
-      "r18": false
+      "id": 34840,
+      "title": "The Pool That Night",
+      "score": 0.238,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 22101,
+      "title": "Jiraishin: The Lost File",
+      "score": 0.235,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 19461,
       "title": "Jaguar",
-      "score": 0.264,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "it",
+        "ru",
+        "br",
+        "gb"
+      ]
     },
     {
-      "id": 18016,
-      "title": "Under Execution, Under Jailbreak",
-      "score": 0.262,
-      "r18": false
+      "id": 28433,
+      "title": "The Beautiful Ones",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "es",
+        "gb",
+        "fr",
+        "br",
+        "vn",
+        "tr"
+      ]
+    },
+    {
+      "id": 14207,
+      "title": "Skip! Yamada-kun",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "tr",
+        "de",
+        "br",
+        "vn",
+        "ru",
+        "gb"
+      ]
+    },
+    {
+      "id": 2861,
+      "title": "The Nightmare of Fabrication",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "tr",
+        "br",
+        "gb"
+      ]
+    },
+    {
+      "id": 51179,
+      "title": "Waltzing at Sanzu River",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 31828,
       "title": "Merboy",
-      "score": 0.261,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 6118,
+      "title": "Wasureru",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 33704,
+      "title": "School Zone",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 21926,
+      "title": "Umi no Mukou, Tsuki no Uragawa",
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 28524,
       "title": "The Watchman",
-      "score": 0.255,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "it"
+      ]
     },
     {
       "id": 37948,
       "title": "My Father 68y/o, My Mother 64y/o, Me 24y/o",
-      "score": 0.255,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "gb",
+        "fr"
+      ]
     },
     {
       "id": 15584,
       "title": "Wolf Girl Laura",
-      "score": 0.255,
-      "r18": false
-    },
-    {
-      "id": 29845,
-      "title": "Breakaway",
-      "score": 0.255,
-      "r18": false
-    },
-    {
-      "id": 30311,
-      "title": "Pine Needle, Love Needle",
-      "score": 0.255,
-      "r18": false
+      "score": 0.209,
+      "r18": false,
+      "languages": [
+        "br",
+        "gb"
+      ]
     }
   ]
 }

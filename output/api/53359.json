@@ -2,25 +2,38 @@
   "id": 53359,
   "title": "Ane ga Kensei de Imouto ga Kenja de",
   "url": "https://mangadex.org/manga/53359",
-  "last_updated": "January 16, 2021 01:05:28 UTC",
+  "last_updated": "March 18, 2021 13:45:58 UTC",
   "matches": [
-    {
-      "id": 13431,
-      "title": "Kyoudai hodo Chikaku Tooimono wa Nai",
-      "score": 0.691,
-      "r18": false
-    },
     {
       "id": 4502,
       "title": "Kimi ga Aruji de Shitsuji ga Ore de",
-      "score": 0.683,
-      "r18": false
+      "score": 0.291,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 33298,
       "title": "Mahouka Koukou no Rettousei - Kaichou Senkyo-hen",
-      "score": 0.655,
-      "r18": false
+      "score": 0.174,
+      "r18": false,
+      "languages": [
+        "gb",
+        "mx",
+        "pl"
+      ]
+    },
+    {
+      "id": 13431,
+      "title": "Kyoudai hodo Chikaku Tooimono wa Nai",
+      "score": 0.172,
+      "r18": false,
+      "languages": [
+        "gb",
+        "br",
+        "ru"
+      ]
     }
   ]
 }

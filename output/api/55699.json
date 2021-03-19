@@ -1,26 +1,35 @@
 {
   "id": 55699,
   "title": "Heart Core",
-  "url": "https://api.mangadex.org/v2/manga/55699",
-  "last_updated": "March 12, 2021 20:41:06 UTC",
+  "url": "https://mangadex.org/manga/55699",
+  "last_updated": "March 18, 2021 14:05:33 UTC",
   "matches": [
     {
       "id": 26425,
       "title": "Momohime",
-      "score": 0.17,
-      "r18": true
+      "score": 0.139,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 36392,
       "title": "If the World Were to End Tomorrow",
-      "score": 0.17,
-      "r18": true
+      "score": 0.139,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 32330,
       "title": "Power Play!",
-      "score": 0.113,
-      "r18": true
+      "score": 0.093,
+      "r18": true,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

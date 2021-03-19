@@ -1,158 +1,234 @@
 {
   "id": 49723,
   "title": "Sensei Zenbu Dasasete Kudasai",
-  "url": "https://api.mangadex.org/v2/manga/49723",
-  "last_updated": "February 05, 2021 08:12:09 UTC",
+  "url": "https://mangadex.org/manga/49723",
+  "last_updated": "March 18, 2021 13:15:38 UTC",
   "matches": [
     {
-      "id": 53590,
-      "title": "Mikansei na Karada",
-      "score": 0.656,
-      "r18": false
-    },
-    {
-      "id": 24621,
-      "title": "Amaiyo Maiyo",
-      "score": 0.655,
-      "r18": false
-    },
-    {
-      "id": 27807,
-      "title": "Taka wo Kukurouka",
-      "score": 0.653,
-      "r18": false
-    },
-    {
-      "id": 27684,
-      "title": "Yokubou Shounen",
-      "score": 0.651,
-      "r18": false
-    },
-    {
-      "id": 37504,
-      "title": "Hide and Seek",
-      "score": 0.651,
-      "r18": false
+      "id": 52571,
+      "title": "Kouhai no Ai ga Omosugiru!",
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "id"
+      ]
     },
     {
       "id": 29022,
       "title": "Kunshu no Ai wa Yoru ni Hana Saku",
-      "score": 0.496,
-      "r18": false
-    },
-    {
-      "id": 55258,
-      "title": "Shanai Renai Style",
-      "score": 0.494,
-      "r18": false
-    },
-    {
-      "id": 35208,
-      "title": "Sensei wa Sonna Koto Oshietenai!",
-      "score": 0.493,
-      "r18": false
-    },
-    {
-      "id": 59755,
-      "title": "Usotsuki Kyoushi to Shinitagari",
-      "score": 0.492,
-      "r18": false
-    },
-    {
-      "id": 56950,
-      "title": "Kairaku Hani",
-      "score": 0.489,
-      "r18": false
-    },
-    {
-      "id": 56117,
-      "title": "Sensei, Wakarimasen.",
-      "score": 0.489,
-      "r18": false
-    },
-    {
-      "id": 15293,
-      "title": "Hatsukoi Switch",
-      "score": 0.468,
-      "r18": false
-    },
-    {
-      "id": 46128,
-      "title": "Outsider Communication",
-      "score": 0.467,
-      "r18": false
-    },
-    {
-      "id": 9918,
-      "title": "AV Gokko",
-      "score": 0.464,
-      "r18": false
-    },
-    {
-      "id": 24060,
-      "title": "Anbalance Lover",
-      "score": 0.459,
-      "r18": false
-    },
-    {
-      "id": 51016,
-      "title": "Oookami-kun wa Oreshika Iranai",
-      "score": 0.457,
-      "r18": false
-    },
-    {
-      "id": 55883,
-      "title": "He's a Cute-Faced Monster &ndash; I'm a Former School Gang Leader, but This Kid Wants My Body &ndash;",
-      "score": 0.455,
-      "r18": false
-    },
-    {
-      "id": 7876,
-      "title": "Uwasa no Oujisama",
-      "score": 0.454,
-      "r18": false
-    },
-    {
-      "id": 21855,
-      "title": "Free Kisses",
-      "score": 0.452,
-      "r18": false
-    },
-    {
-      "id": 52571,
-      "title": "Kouhai no Ai ga Omosugiru!",
-      "score": 0.451,
-      "r18": false
-    },
-    {
-      "id": 52851,
-      "title": "Konna no Unmei Janai Kara Kanchigai Shinaide",
-      "score": 0.449,
-      "r18": false
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 58474,
       "title": "Sekuhara Kyoushitsu",
-      "score": 0.449,
-      "r18": false
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 15293,
+      "title": "Hatsukoi Switch",
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 20318,
       "title": "Me wo Ubau wa Hana no Kao",
-      "score": 0.444,
-      "r18": false
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 46128,
+      "title": "Outsider Communication",
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     },
     {
       "id": 56395,
       "title": "Komatta Yatsu",
-      "score": 0.434,
-      "r18": false
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 7876,
+      "title": "Uwasa no Oujisama",
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 24060,
+      "title": "Anbalance Lover",
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 55883,
+      "title": "He's a Cute-Faced Monster &ndash; I'm a Former School Gang Leader, but This Kid Wants My Body &ndash;",
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "ru"
+      ]
+    },
+    {
+      "id": 56950,
+      "title": "Kairaku Hani",
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 51016,
+      "title": "Oookami-kun wa Oreshika Iranai",
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "tr"
+      ]
+    },
+    {
+      "id": 21855,
+      "title": "Free Kisses",
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "gb",
+        "tr"
+      ]
+    },
+    {
+      "id": 52851,
+      "title": "Konna no Unmei Janai Kara Kanchigai Shinaide",
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "mx"
+      ]
     },
     {
       "id": 51117,
       "title": "Otona wo Komaraserun ja Arimasen!",
-      "score": 0.397,
-      "r18": false
+      "score": 0.4,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 56117,
+      "title": "Sensei, Wakarimasen.",
+      "score": 0.372,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 59755,
+      "title": "Usotsuki Kyoushi to Shinitagari",
+      "score": 0.364,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 35208,
+      "title": "Sensei wa Sonna Koto Oshietenai!",
+      "score": 0.359,
+      "r18": false,
+      "languages": [
+        "pl"
+      ]
+    },
+    {
+      "id": 55258,
+      "title": "Shanai Renai Style",
+      "score": 0.354,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 9918,
+      "title": "AV Gokko",
+      "score": 0.345,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 16067,
+      "title": "Tongari Aikouka",
+      "score": 0.279,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 42770,
+      "title": "Kudou Sensei no Majestic Days",
+      "score": 0.278,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 16975,
+      "title": "Odu-kun no Vita Sexualis",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 20811,
+      "title": "Kataomoi x Kataomoi",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 25025,
+      "title": "Maniac ni Aishite",
+      "score": 0.266,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
     }
   ]
 }

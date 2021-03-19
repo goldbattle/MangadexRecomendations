@@ -2,19 +2,38 @@
   "id": 10907,
   "title": "Kantai Collection - Comic a la Carte - Maizuru Chinjufu Hen",
   "url": "https://mangadex.org/manga/10907",
-  "last_updated": "March 15, 2021 04:29:56 UTC",
+  "last_updated": "March 18, 2021 07:18:34 UTC",
   "matches": [
     {
       "id": 13536,
       "title": "World Apartment Horror",
-      "score": 0.167,
-      "r18": false
+      "score": 0.166,
+      "r18": false,
+      "languages": [
+        "gb"
+      ]
+    },
+    {
+      "id": 44028,
+      "title": "Fate/Grand Order From Lostbelt",
+      "score": 0.105,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru",
+        "br",
+        "es"
+      ]
     },
     {
       "id": 18937,
       "title": "The Dragon's School is on the Top of the Mountain",
-      "score": 0.079,
-      "r18": false
+      "score": 0.078,
+      "r18": false,
+      "languages": [
+        "gb",
+        "ru"
+      ]
     }
   ]
 }
