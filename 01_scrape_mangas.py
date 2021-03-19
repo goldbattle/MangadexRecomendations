@@ -1,5 +1,6 @@
 # Import general libraries
 import time
+import os
 import sys
 from datetime import datetime
 
@@ -19,7 +20,7 @@ if len(sys.argv) == 3:
     id_end = int(sys.argv[2])
 else:
     id_start = 1
-    id_end = 65000
+    id_end = 60000
 
 assert id_end >= id_start
 assert id_end > 0
@@ -27,6 +28,10 @@ assert id_start > 0
 
 # set api call settings
 cookies = {}
+if os.environ.get('mangadex_session'):
+    cookies['mangadex_session'] = os.environ.get('mangadex_session')
+if os.environ.get('mangadex_rememberme_token'):
+    cookies['mangadex_rememberme_token'] = os.environ.get('mangadex_rememberme_token')
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/77.0'
 }
@@ -148,7 +153,8 @@ manga_data = anilist_helpers.append_anilist_related_and_recs(manga_data, al2md, 
 # Save our json to file!
 manga_utils.write_raw_manga_data_files(dir_inout, manga_data)
 print("outputted to " + dir_inout)
-print("script took " + str(round(time.time() - time_start, 2)) + " seconds")
+print("script took " + str(round(time.time() - time_start, 2))
+      + " seconds ("+str(round((time.time() - time_start)/(id_end-id_start), 2))+" per manga)")
 
 # output content to log file
 manga_utils.make_dir_if_not(dir_logs)

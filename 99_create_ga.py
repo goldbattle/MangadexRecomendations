@@ -70,6 +70,10 @@ while current_manga_id < max_manga_id:
                     },
                     {
                         "name": "Pull latest manga information",
+                        # "env": {
+                        #     "mangadex_session": "${{ secrets.SESSION }}",
+                        #     "mangadex_rememberme_token": "${{ secrets.REMEMBERME_TOKEN }}",
+                        # },
                         "run": "python 01_scrape_mangas.py " + str(current_manga_id) + " "
                                + str(current_manga_id + num_to_run),
                     },

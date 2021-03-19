@@ -25,11 +25,12 @@ class MangaObj:
         self.last_upload = 0
         self.last_updated = "unknown"
         self.rating = 0.0
-        self.content = []
         self.demographic = []
+        self.content = []
         self.format = []
         self.genre = []
         self.theme = []
+        self.languages = []
         self.related = []
         self.matches = []
         self.matches_al = []
@@ -183,7 +184,10 @@ class MangaObj:
         # Parse into a json file, return if error
         try:
             data = json.loads(response_text)
+            if data["code"] == 403:
+                print("\033[93mGOT 403 FOR MANGA "+json_url+"\033[0m")
             if data["code"] == 404 or data["status"] == "error":
+                print("\033[93mGOT ERROR FOR MANGA "+json_url+"\033[0m")
                 return 0
             data = data["data"]
         except (KeyError, ValueError, TypeError, json.JSONDecodeError):
@@ -231,6 +235,13 @@ class MangaObj:
         self.title = data["manga"]["title"]
         self.description = data["manga"]["description"]
 
+        # demographic
+        ids_demographic = [1, 2, 3, 4]
+        names_demographic = ["Shounen", "Shoujo", "Seinen", "Josei"]
+        self.demographic.clear()
+        if data["manga"]["publication"]["demographic"] in ids_demographic:
+            self.demographic.append(names_demographic[ids_demographic.index(data["manga"]["publication"]["demographic"])])
+
         # Loop through each genre and parse it
         self.content.clear()
         self.format.clear()
@@ -258,12 +269,11 @@ class MangaObj:
         # rating
         self.rating = data["manga"]["rating"]["bayesian"]
 
-        # demographic
-        ids_demographic = [1, 2, 3, 4]
-        names_demographic = ["Shounen", "Shoujo", "Seinen", "Josei"]
-        self.demographic.clear()
-        if data["manga"]["publication"]["demographic"] in ids_demographic:
-            self.demographic.append(names_demographic[ids_demographic.index(data["manga"]["publication"]["demographic"])])
+        # get unique languages this has been translated into
+        self.languages.clear()
+        for chapter in data["chapters"]:
+            if not chapter["language"] in self.languages:
+                self.languages.append(chapter["language"])
 
         # related
         ids_rec_type = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
@@ -281,13 +291,17 @@ class MangaObj:
             })
 
         # externals
+        # mu: mangaupdates
+        # al: anilist
+        # mal: myanimelist
+        # ap: anime-planet
+        # kt: kitsu
         self.external = {}
-        if data["manga"]["links"] and "mu" in data["manga"]["links"]:
-            self.external["mu"] = data["manga"]["links"]["mu"]
-        if data["manga"]["links"] and "al" in data["manga"]["links"]:
-            self.external["al"] = data["manga"]["links"]["al"]
-        if data["manga"]["links"] and "mal" in data["manga"]["links"]:
-            self.external["mal"] = data["manga"]["links"]["mal"]
+        external_to_parse = ["mu", "al", "mal", "ap", "kt"]
+        if "links" in data["manga"] and data["manga"]["links"]:
+            for ext_id in data["manga"]["links"]:
+                if ext_id in external_to_parse:
+                    self.external[ext_id] = data["manga"]["links"][ext_id]
 
         # set last updated timestamp to current time
         self.last_updated = datetime.utcnow().strftime("%B %d, %Y %H:%M:%S") + " UTC"

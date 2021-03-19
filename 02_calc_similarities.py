@@ -6,6 +6,7 @@ import string
 import operator
 import gzip
 import os
+import math
 import shutil
 from datetime import datetime
 
@@ -236,13 +237,25 @@ for ct, manga1 in enumerate(manga_data):
         if not manga1.is_r18 and count_same < min(min_same_labels, count_manga1):
             continue
 
+        # if we have a language for this manga, ensure at least one of them matches
+        # note, we don't know what language the user will be, but if they don't have at least
+        # one language which is equal, there is no point in making it a similar manga
+        if len(manga1.languages) > 0 and len(manga2.languages) > 0:
+            count_same_lang = 0
+            for lang in manga1.languages:
+                if lang in manga2.languages:
+                    count_same_lang += 1
+            if count_same_lang == 0:
+                continue
+
         # append this matched manga to our current manga
         manga_data[ct].matches.append({
             'id': manga2.id,
             'title': manga2.title,
             'url': manga2.url,
-            'score': round(scores[idx] / 2.0, 4),
-            'r18': manga2.is_r18
+            'score': math.floor(scores[idx] / 2.0 * 10000)/10000.0,
+            'r18': manga2.is_r18,
+            'languages': manga2.languages,
         })
 
         # nice debug print

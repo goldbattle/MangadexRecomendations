@@ -1,6 +1,7 @@
 import re
 import json
 import html
+import math
 import shutil
 import os.path
 from string import punctuation
@@ -360,11 +361,16 @@ def get_compressed_representation_string_v2(manga_data):
                 r18 = match["r18"]
             else:
                 r18 = False
+            if "languages" in match:
+                languages = match["languages"]
+            else:
+                languages = []
             match_tmp = {
                 "id": match["id"],
                 "title": match["title"],
-                "score": round(match["score"], 3),
+                "score": math.floor(match["score"] * 1000)/1000.0,
                 "r18": r18,
+                "languages": languages,
             }
             manga_temp["matches"].append(match_tmp)
             ids_added.append(match["id"])
