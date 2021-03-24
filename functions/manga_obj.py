@@ -45,6 +45,10 @@ class MangaObj:
         if json_obj:
             self.load_from_json(json_obj)
 
+        # remove title from the external, not sure why it is there..
+        if "title" in self.external:
+            del self.external["title"]
+
     def load_from_json(self, json_obj):
         for key in json_obj:
             if not hasattr(self, key):

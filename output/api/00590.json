@@ -2,6 +2,374 @@
   "id": 590,
   "title": "Mahou Shoujo Madoka\u2605Magica",
   "url": "https://mangadex.org/manga/590",
+  "description": "There exist familiars who have the power to grant one wish to a chosen girl. However, in return that girl must then become a magical girl and fight against witches, evil creatures born from curses that are responsible for murders and suicides. A schoolgirl named Madoka Kaname and her friend Sayaka Miki are approached by a familiar named Kyubey and a magical girl named Mami Tomoe with offers of becoming magical girls. Another mysterious magical girl named Homura Akemi tries to prevent Madoka from agreeing to the contract.\r\n\r\n[b]Anthologies[/b]:[ul][*][url=http://wiki.puella-magi.net/Puella_Magi_Madoka_Magica_Anthology_1]Anthology 1[/url][/*][*][url=http://wiki.puella-magi.net/Puella_Magi_Madoka_Magica_Anthology_2]Anthology 2[/url][/*][/ul]",
+  "is_r18": false,
+  "rating": 8.48,
+  "demographic": [],
+  "content": [],
+  "format": [],
+  "genre": [
+    "Action",
+    "Drama",
+    "Fantasy",
+    "Horror",
+    "Mystery",
+    "Psychological",
+    "Tragedy"
+  ],
+  "theme": [
+    "Supernatural"
+  ],
+  "languages": [
+    "gb",
+    "ru",
+    "mx"
+  ],
+  "related": [
+    {
+      "id": 10806,
+      "title": "Gekijouban Madoka\u2605Magica - [Shinpen] Hangyaku no Monogatari",
+      "type": "Sequel",
+      "r18": false
+    },
+    {
+      "id": 15817,
+      "title": "Mahou Shoujo Madoka\u2605Magica - [Majuu Hen]",
+      "type": "Sequel",
+      "r18": false
+    },
+    {
+      "id": 23344,
+      "title": "Magia\u2605Report",
+      "type": "Adapted from",
+      "r18": false
+    },
+    {
+      "id": 24537,
+      "title": "FM Kamihama Holy Radio Station - Mahou Shoujo Madoka Magica side story Magia Record",
+      "type": "Spin-off",
+      "r18": false
+    },
+    {
+      "id": 20382,
+      "title": "Madoka\u2605Engawa",
+      "type": "Spin-off",
+      "r18": false
+    },
+    {
+      "id": 22495,
+      "title": "Mahou Shoujo Homura\u2605Tamura ~Heikou Sekai ga Itsumo Heikou de Aru to wa Kagiranai no da.~",
+      "type": "Spin-off",
+      "r18": false
+    },
+    {
+      "id": 30211,
+      "title": "Mahou Shoujo Madoka\u2605Magica - Comic Anthology",
+      "type": "Spin-off",
+      "r18": false
+    },
+    {
+      "id": 30079,
+      "title": "Manga Time Kirara\u2605Magica",
+      "type": "Spin-off",
+      "r18": false
+    },
+    {
+      "id": 22442,
+      "title": "Caf&eacute;\u2605Grief Seed e Youkoso!",
+      "type": "Side story",
+      "r18": false
+    },
+    {
+      "id": 7934,
+      "title": "Mahou Shoujo Madoka\u2605Magica ~The different story~",
+      "type": "Alternate story",
+      "r18": false
+    },
+    {
+      "id": 20916,
+      "title": "Mahou Shoujo Madoka\u2605Magica: Homura Revenge!",
+      "type": "Alternate story",
+      "r18": false
+    },
+    {
+      "id": 396,
+      "title": "Mahou Shoujo Oriko\u2605Magica",
+      "type": "Alternate story",
+      "r18": false
+    },
+    {
+      "id": 32340,
+      "title": "bou (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": true
+    },
+    {
+      "id": 8926,
+      "title": "Hokuto no Ken &amp; Mahou Shoujo Madoka\u2605Magica - Kenpou Shoujo Kubiha Bujica (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 40090,
+      "title": "Lovely Girls&rsquo; Lily",
+      "type": "Doujinshi",
+      "r18": true
+    },
+    {
+      "id": 30597,
+      "title": "Magia Record: Mahou Shoujo Madoka\u2606Magica Gaiden",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 30492,
+      "title": "Mahou Shoujo Madoka\u2605Magica -  Doko demo Chucchu Shiyou! Kabocha no Ouji to Butaigeki (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 30792,
+      "title": "Mahou Shoujo Madoka\u2605Magica - A Certain Day With Elegance (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 4882,
+      "title": "Mahou Shoujo Madoka\u2605Magica - AnAn SayaSaya (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 42040,
+      "title": "Mahou Shoujo Madoka\u2605Magica - And That's the Dream Seen in That Split Second (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 4877,
+      "title": "Mahou Shoujo Madoka\u2605Magica - Cherish (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 4861,
+      "title": "Mahou Shoujo Madoka\u2605Magica - Chikara Awaseru 200-man (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 31074,
+      "title": "Mahou Shoujo Madoka\u2605Magica - Christmas and Turkey and Doner Kebab (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 30964,
+      "title": "Mahou Shoujo Madoka\u2605Magica - Concept of Dream (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 42042,
+      "title": "Mahou Shoujo Madoka\u2605Magica - Day of Kisses (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 4866,
+      "title": "Mahou Shoujo Madoka\u2605Magica - Happy Girl (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 23192,
+      "title": "Mahou Shoujo Madoka\u2605Magica - Homu Homu Homu (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 23314,
+      "title": "Mahou Shoujo Madoka\u2605Magica - Homuhomu Night Mission (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 30459,
+      "title": "Mahou Shoujo Madoka\u2605Magica - Kimi ga Wakaru kara (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 12404,
+      "title": "Mahou Shoujo Madoka\u2605Magica - Kirakira (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 29719,
+      "title": "Mahou Shoujo Madoka\u2605Magica - Koe wo Kiite Tewotsunaide (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 29116,
+      "title": "Mahou Shoujo Madoka\u2605Magica - Kokoro Awasete Okusenman (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 28839,
+      "title": "Mahou Shoujo Madoka\u2605Magica - Kyouko to Asobo!! (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 42035,
+      "title": "Mahou Shoujo Madoka\u2605Magica - Leave It To You (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 32108,
+      "title": "Mahou Shoujo Madoka\u2605Magica - Lost Butterfly (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 32380,
+      "title": "Mahou Shoujo Madoka\u2605Magica - Madoka is Mine (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 8907,
+      "title": "Mahou Shoujo Madoka\u2605Magica - MadoMagi\u2606Panic (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 42045,
+      "title": "Mahou Shoujo Madoka\u2605Magica - Maguro Homura (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 42044,
+      "title": "Mahou Shoujo Madoka\u2605Magica - Mami-san Is Alive (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 11456,
+      "title": "Mahou Shoujo Madoka\u2605Magica - My Companion Became a Cat (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 31610,
+      "title": "Mahou Shoujo Madoka\u2605Magica - Nanka Kyou wa Attsui ne (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 4883,
+      "title": "Mahou Shoujo Madoka\u2605Magica - Omaera Nakayoku Kenka shina (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 30721,
+      "title": "Mahou Shoujo Madoka\u2605Magica - Rena&rsquo;s Shenanigans! (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 5909,
+      "title": "Mahou Shoujo Madoka\u2605Magica - RKGKMDK (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 11553,
+      "title": "Mahou Shoujo Madoka\u2605Magica - Sakura Miki 2M (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 42041,
+      "title": "Mahou Shoujo Madoka\u2605Magica - Saya-Kyou (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 28967,
+      "title": "Mahou Shoujo Madoka\u2605Magica - Sayaka 120% (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 4863,
+      "title": "Mahou Shoujo Madoka\u2605Magica - SayaKawa (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 21038,
+      "title": "Mahou Shoujo Madoka\u2605Magica - Trouble On The Beach (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 42043,
+      "title": "Mahou Shoujo Madoka\u2605Magica - Untitled (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 42039,
+      "title": "Mahou Shoujo Madoka\u2605Magica - We Returned Alive 2 (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 7552,
+      "title": "Mahou Shoujo x Kamen Rider - Sayaka &amp; Fourze: The Great War of Mitakihara MAGIMIX (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 42226,
+      "title": "Mahou Shoujo Madoka\u2605Magica - Sweet Collection (Doujinshi)",
+      "type": "Based on",
+      "r18": false
+    },
+    {
+      "id": 610,
+      "title": "Mahou Shoujo Kazumi\u2605Magica ~The Innocent Malice~",
+      "type": "Shared universe",
+      "r18": false
+    },
+    {
+      "id": 17864,
+      "title": "Mahou Shoujo Suzune\u2605Magica",
+      "type": "Shared universe",
+      "r18": false
+    },
+    {
+      "id": 17312,
+      "title": "Mahou Shoujo Tart\u2605Magica: The Legend of &quot;Jeanne d'Arc&quot;",
+      "type": "Shared universe",
+      "r18": false
+    }
+  ],
+  "external": {
+    "al": "54457",
+    "ap": "puella-magi-madoka-magica",
+    "kt": "16820",
+    "mu": "62341",
+    "mal": "24457"
+  },
   "last_updated": "March 18, 2021 05:47:33 UTC",
   "matches": [
     {

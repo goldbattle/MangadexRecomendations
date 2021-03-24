@@ -2,6 +2,420 @@
   "id": 3132,
   "title": "Dragon Ball",
   "url": "https://mangadex.org/manga/3132",
+  "description": "Dragon Ball follows the adventures of Goku from his childhood through adulthood as he trains in martial arts and explores the world in search of the seven mystical orbs known as the Dragon Balls, which can summon a wish-granting dragon when gathered. Along his journey, Goku makes several friends and battles a wide variety of villains, many of whom also seek the Dragon Balls for their own desires. Along the way becoming the strongest warrior in the universe.\r\n\r\nPart II of Dragon Ball is also known as 'Dragon Ball Z' in North America.",
+  "is_r18": false,
+  "rating": 8.71,
+  "demographic": [
+    "Shounen"
+  ],
+  "content": [
+    "Ecchi"
+  ],
+  "format": [
+    "Award Winning"
+  ],
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Sci-Fi",
+    "Wuxia"
+  ],
+  "theme": [
+    "Martial Arts",
+    "Supernatural",
+    "Aliens",
+    "Animals",
+    "Demons",
+    "Monsters",
+    "Time Travel"
+  ],
+  "languages": [
+    "gb",
+    "pl",
+    "mx"
+  ],
+  "related": [
+    {
+      "id": 24532,
+      "title": "Dragon Ball - Episode of Bardock",
+      "type": "Prequel",
+      "r18": false
+    },
+    {
+      "id": 13175,
+      "title": "Dragon Ball Minus",
+      "type": "Prequel",
+      "r18": false
+    },
+    {
+      "id": 9583,
+      "title": "Ginga Patrol Jako",
+      "type": "Prequel",
+      "r18": false
+    },
+    {
+      "id": 15653,
+      "title": "Dragon Ball Super",
+      "type": "Sequel",
+      "r18": false
+    },
+    {
+      "id": 39297,
+      "title": "Dragon Ball Super (Fan Colored)",
+      "type": "Sequel",
+      "r18": false
+    },
+    {
+      "id": 15197,
+      "title": "Dragon Ball Z: Fukkatsu no F",
+      "type": "Sequel",
+      "r18": false
+    },
+    {
+      "id": 17477,
+      "title": "Chou Kochikame",
+      "type": "Spin-off",
+      "r18": false
+    },
+    {
+      "id": 16267,
+      "title": "Dragon Ball Heroes - Victory Mission",
+      "type": "Spin-off",
+      "r18": false
+    },
+    {
+      "id": 5759,
+      "title": "Dragon Ball X One Piece - Cross Epoch",
+      "type": "Spin-off",
+      "r18": false
+    },
+    {
+      "id": 33397,
+      "title": "Dragon Ball Xenoverse 2: The Manga",
+      "type": "Spin-off",
+      "r18": false
+    },
+    {
+      "id": 50432,
+      "title": "DRAGON BALL Z TV Animation Comics",
+      "type": "Spin-off",
+      "r18": false
+    },
+    {
+      "id": 24280,
+      "title": "Dragon Ball: Ossu! Kaette Kita Son Gok\u016b to Nakama-tachi!!",
+      "type": "Spin-off",
+      "r18": false
+    },
+    {
+      "id": 3857,
+      "title": "Neko Majin",
+      "type": "Spin-off",
+      "r18": false
+    },
+    {
+      "id": 20883,
+      "title": "Dragon Ball Gaiden: Tensei-shitara Yamcha Datta Ken",
+      "type": "Side story",
+      "r18": false
+    },
+    {
+      "id": 22053,
+      "title": "Dragon Ball Z TV Special Jump Anime Comics",
+      "type": "Side story",
+      "r18": false
+    },
+    {
+      "id": 18206,
+      "title": "Dragon Ball Z: The History of Trunks Anime Comic",
+      "type": "Side story",
+      "r18": false
+    },
+    {
+      "id": 51028,
+      "title": "Dr. Slump (remake)",
+      "type": "Alternate story",
+      "r18": false
+    },
+    {
+      "id": 24563,
+      "title": "Dragon Ball SD",
+      "type": "Alternate story",
+      "r18": false
+    },
+    {
+      "id": 34254,
+      "title": "CHANGE (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": true
+    },
+    {
+      "id": 24357,
+      "title": "Collabo Dragon (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 25655,
+      "title": "DB Power Level 69 (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 24353,
+      "title": "Dr. Slump - Cell-San (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 40004,
+      "title": "Dragon Ball -  The Plan to Subjugate 18 (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": true
+    },
+    {
+      "id": 33267,
+      "title": "Dragon Ball - A Dream From The World (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 52336,
+      "title": "Dragon Ball - Awfully (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 24507,
+      "title": "Dragon Ball - Bardock After (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 38437,
+      "title": "Dragon Ball - DBSP (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 24509,
+      "title": "Dragon Ball - DBVS (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 33139,
+      "title": "Dragon Ball - Dragon Ball Rebirth (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 40396,
+      "title": "Dragon Ball - Football Friends (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 24533,
+      "title": "Dragon Ball - Gohan x Trunks After (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 58242,
+      "title": "Dragon Ball - I'm the Sexiest (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 27422,
+      "title": "Dragon Ball - Unguarded (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 54020,
+      "title": "Dragon Ball - XX",
+      "type": "Doujinshi",
+      "r18": true
+    },
+    {
+      "id": 27985,
+      "title": "Dragon Ball - Yardrats, The Story of a Survivor",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 4991,
+      "title": "Dragon Ball AF (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 24502,
+      "title": "Dragon Ball AF (YOUNG JIJII) (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 24506,
+      "title": "Dragon Ball After (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 15698,
+      "title": "Dragon Ball Alternative",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 42189,
+      "title": "Dragon Ball Beyond",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 27509,
+      "title": "Dragon Ball EB (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": true
+    },
+    {
+      "id": 24535,
+      "title": "Dragon Ball GT",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 38789,
+      "title": "Dragon Ball New Age (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 27091,
+      "title": "Dragon Ball Z - Hope Is Back To The Future",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 26668,
+      "title": "Dragon Ball Z - Mister Pocolo (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 46439,
+      "title": "Dragon Ball Z - Skyworld (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": true
+    },
+    {
+      "id": 46441,
+      "title": "Dragon Ball Z - Ten Mangetsu (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 17799,
+      "title": "Dragon Ball Z - Tora Tora (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 25654,
+      "title": "Dragon Ball Zero (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 38788,
+      "title": "Dragon Note",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 32276,
+      "title": "Dragonball Z - Soshite Boku Wa Sono Suisen Ni Miirareta. (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": true
+    },
+    {
+      "id": 32274,
+      "title": "Dragonball Z - Taihen Desu Gohan San Onnanoko Ni Nacchai Mashita. (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": true
+    },
+    {
+      "id": 36296,
+      "title": "Dragonball Z Ascension",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 34555,
+      "title": "Head Cha La",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 42270,
+      "title": "Jump All Stars Battle",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 5758,
+      "title": "Jump Super Stars",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 24508,
+      "title": "Super Dragon Ball AF (Doujinshi)",
+      "type": "Doujinshi",
+      "r18": false
+    },
+    {
+      "id": 25880,
+      "title": "Dragon Ball - Buta no Onna (Doujinshi)",
+      "type": "Based on",
+      "r18": true
+    },
+    {
+      "id": 17734,
+      "title": "Dragon Ball - The Drop of Moonlight (Doujinshi)",
+      "type": "Based on",
+      "r18": true
+    },
+    {
+      "id": 20959,
+      "title": "Dragon Ball - Digital Colored Comics",
+      "type": "Coloured",
+      "r18": false
+    },
+    {
+      "id": 970,
+      "title": "Dr. Slump",
+      "type": "Shared universe",
+      "r18": false
+    },
+    {
+      "id": 45735,
+      "title": "The Brief Return of Dr. Slump",
+      "type": "Shared universe",
+      "r18": false
+    }
+  ],
+  "external": {
+    "al": "30042",
+    "ap": "dragon-ball",
+    "mu": "3106",
+    "mal": "42"
+  },
   "last_updated": "March 18, 2021 06:09:58 UTC",
   "matches": [
     {

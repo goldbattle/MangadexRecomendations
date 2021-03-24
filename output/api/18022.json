@@ -2,6 +2,56 @@
   "id": 18022,
   "title": "Magazine Ohanami",
   "url": "https://mangadex.org/manga/18022",
+  "description": "Special collaboration between mangaka of Weekly Shounen Magazine",
+  "is_r18": false,
+  "rating": 7.73,
+  "demographic": [
+    "Shounen"
+  ],
+  "content": [],
+  "format": [
+    "Oneshot"
+  ],
+  "genre": [
+    "Comedy"
+  ],
+  "theme": [],
+  "languages": [
+    "gb"
+  ],
+  "related": [
+    {
+      "id": 42,
+      "title": "Baby Steps",
+      "type": "Main story",
+      "r18": false
+    },
+    {
+      "id": 558,
+      "title": "Fairy Tail",
+      "type": "Main story",
+      "r18": false
+    },
+    {
+      "id": 11026,
+      "title": "Fuuka",
+      "type": "Main story",
+      "r18": false
+    },
+    {
+      "id": 3770,
+      "title": "Yamada-kun to 7-nin no Majo",
+      "type": "Main story",
+      "r18": false
+    }
+  ],
+  "external": {
+    "al": "94538",
+    "ap": "magazine-ohanami",
+    "kt": "35781",
+    "mu": "167275",
+    "mal": "88032"
+  },
   "last_updated": "March 18, 2021 08:35:51 UTC",
   "matches": [
     {

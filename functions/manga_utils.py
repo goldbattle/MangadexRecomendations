@@ -3,6 +3,7 @@ import json
 import html
 import math
 import shutil
+import copy
 import os.path
 from string import punctuation
 from collections import defaultdict
@@ -339,15 +340,22 @@ def get_compressed_representation_string_v2(manga_data):
     # loop through each index page, and extract the mangas
     for ct1, manga1 in enumerate(manga_data):
 
-        # skip if we don't have matches
-        if len(manga1.matches) < 1:
-            continue
-
         # create the cleaned manga
         manga_temp = {
             "id": manga1.id,
             "title": manga1.title,
             "url": manga1.url,
+            "description": manga1.description,
+            "is_r18": manga1.is_r18,
+            "rating": manga1.rating,
+            "demographic": manga1.demographic,
+            "content": manga1.content,
+            "format": manga1.format,
+            "genre": manga1.genre,
+            "theme": manga1.theme,
+            "languages": manga1.languages,
+            "related": manga1.related,
+            "external": manga1.external,
             "last_updated": manga1.last_updated,
             "matches": []
         }
@@ -379,12 +387,11 @@ def get_compressed_representation_string_v2(manga_data):
         managa_data_out[manga1.id] = manga_temp
 
     # get mappings to external services
+    # it is important to do a deep copy here since we are editing the external dict
     # AL: anilist, MAL: myanimelist, MU: mangaupdates
     md2external = {}
     for manga in manga_data:
-        if len(manga.external) < 1:
-            continue
-        temp_data = manga.external
+        temp_data = copy.deepcopy(manga.external)
         temp_data["title"] = manga.title
         md2external[manga.id] = temp_data
 
