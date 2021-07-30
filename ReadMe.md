@@ -1,3 +1,6 @@
+
+# The new repository has moved! If you are looking for the current code which has been re-written to support the v5 api https://github.com/similar-manga/similar
+
 # Neko Recommendations
 
 This repo has both the scraping and matching utilities to find mangas which are close in content to others.
